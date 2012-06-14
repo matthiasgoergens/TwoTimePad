@@ -1,16 +1,23 @@
-{-# Language NoMonomorphismRestriction #-}
+
+{-# Language NoMonomorphismRestriction,ViewPatterns,ScopedTypeVariables #-}
 import System.IO
 import Data.List
 import Data.Maybe
 import Data.Ord
 import Data.Char
 import Data.Function
+import Control.Applicative
 import qualified Data.Set as S
 import qualified Data.Map as M
 import qualified Data.IntMap as Mi
 import Control.Monad
 import System.Random
 import Control.Arrow
+import System.Random.MWC.Monad
+import Data.Array
+import Control.Concurrent.Chan
+import Control.Concurrent
+import System.IO.MMap
 
 {-
 You have intercepted two encrypted messages, ciphertext-1 and ciphertext-2, encoded in the following 46-character alphabet:
@@ -87,26 +94,60 @@ printT = mapM print
 
 lb = logBase len
 
-entropy n s = (\xs -> - (xs / groupLen - lb groupLen)) . sum . map ((\x -> x * lb x) . fromIntegral . length) $
-              groups
-    where l = fromIntegral $ length s
-          groups = sortBy (flip $ comparing length) . group . map (take n) $ s
-          groupLen = fromIntegral . sum . map length $ groups
+entropy' s = (\xs -> - (xs / groupLen - lb groupLen))
+             . sum .
+             map ((\x -> x * lb x) . fromIntegral . length) $
+             group s
+  where groupLen = fromIntegral $ length s
+          
+entropy :: [Int] -> [String] -> Double
+entropy ns s = sum . map entropy' . mix take ns $ sorted
+  where sorted = sort . join . map tails $ s
+        mix :: (a->b->c) -> [a] -> [b] -> [[c]]
+        mix f s t = pam (flip f <$> t) <$> s
 
+-- Lower is better.
+eval = entropy [1,2,3]
 
-geneticAlgo popCap initPop eval mutate crossover = do
+geneticAlgo write popCap initPop eval mutate crossover = do
     pop <- replicateM popCap initPop
-    sortBy (comparing fst) $ map (eval &&& id) pop
+    loop pop
     -- quadratic selection?
-    replicateM popCap $ do select popCap
+    -- replicateM popCap $ do select popCap
+  where
+        ar pop = array (1,popCap) . zip [1..] . map snd . sortBy (flip $ comparing fst) . map (eval &&& id) $ pop
+        loop pop = let arr = ar pop in do
+            newPop <- replicateM popCap $ do
+                a <- quadSelect popCap
+                b <- quadSelect popCap
+                mutate =<< crossover (arr ! a) (arr ! b)
+            write (arr ! popCap)
+            loop newPop
+            
+gen1 write = geneticAlgo write 100 (return "bla") (const 1) (return) (\a b -> return a)
 
+-- gen2 write = geneticAlgo write popCap init eval mutate crossover
+--  where popCap = 100
+
+-- 1 based
+quadSelect :: Integral a => a -> RandIO a
+quadSelect (fromIntegral -> (max :: Double)) = liftM (ceiling . sqrt) $ uniformR (0,max*max)
+
+swing :: (((a -> b) -> b) -> c -> d) -> c -> a -> d
+swing = flip . (. flip id)
+
+
+pam = swing map
 main = do
+    chan <- newChan
+    forkIO $ runWithSystemRandom $ gen1 (liftR . writeChan chan)
+    forever (print =<< readChan chan)
     -- print (zipWith (+) plaintext pad)
     -- print cipher
     -- print plaintext
     -- print (zipWith (-) cipher pad)
     -- print (zipWith (-) (zipWith (+) plaintext pad) pad)
-    t <- liftM trans ti
+    liftM trans ti
     -- mapM print . map ((fst.head)&&&(length &&& (map snd))). groupBy ((==) `on` fst) . map (length &&& head) $
-    print (entropy 3 t)
+--    print (entropy 3 t)
     -- printT =<< liftM trans ti
