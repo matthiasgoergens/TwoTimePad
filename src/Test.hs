@@ -1,22 +1,23 @@
 {-# LANGUAGE ViewPatterns,TupleSections #-}
 import System.IO.MMap
 import qualified Data.ByteString as BS
-import qualified Data.ByteString.Char8 as BS8
-import Data.List
-import Control.Monad
+-- import qualified Data.ByteString.Char8 as BS8
+--import Data.List
+-- import Control.Monad
 import System.Environment
-import Control.Applicative
+-- import Control.Applicative
 -- import Data.Trie
 -- import Find
-import Control.Monad.IO.Class
+-- import Control.Monad.IO.Class
+
 
 -- import Data.Enumerator hiding (map, filter, filterM, mapM)
 -- import qualified Data.Enumerator.Binary as EB
 -- import qualified Data.Enumerator.List as EL
 -- import qualified Data.Enumerator as E
 
-readCorpus :: IO BS.ByteString
-readCorpus = mmapFileByteString "corpus" Nothing
+readCorpus :: FilePath -> IO BS.ByteString
+readCorpus corpusName = mmapFileByteString corpusName Nothing
 
 -- prune before, and pre-calculate sizes.
 
@@ -44,8 +45,9 @@ main = readCorpusMMap
     
 readCorpusMMap :: IO ()
 readCorpusMMap = do
-    ((read -> n):_) <- getArgs
-    corpus <- readCorpus
-    mapM_ print . filter (\l -> n == BS.length l) . fmap (BS.take n) $ BS.tails corpus
+  (corpusName:_) <- getArgs  
+  (_:(read -> n):_) <- getArgs
+  corpus <- readCorpus corpusName
+  mapM_ print . filter (\l -> n == BS.length l) . fmap (BS.take n) $ BS.tails corpus
 --           mapM print . fmap (BS.take 4) . sort . init $ BS.tails corpus
            -- print . fmap head . sort . init $ BS.tails corpus

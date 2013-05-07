@@ -19,5 +19,5 @@ readCorpus corpusName = mmapFileByteString corpusName Nothing
 main :: IO ()
 main = do
   (corpusName:_) <- getArgs
-  print . show . T.fromListWith (+) . fmap (,(1 :: Int)) . fmap (BS.take 1) . BS.tails =<< readCorpus corpusName
+  print . T.fromListWith (+) . fmap (,(1 :: Int)) . fmap (BS.take 1) . BS.tails =<< readCorpus corpusName
 
