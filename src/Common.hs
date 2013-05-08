@@ -55,6 +55,9 @@ frChr_ = frChr . fromIntegral . ord
 frChr :: Int8 -> Maybe C46
 frChr c = fmap C46 . DL.lookup c $ DL.zip (fromIntegral . ord <$> alpha) [0..]
 
+frChr' :: Int8 -> C46
+frChr' = fromJust . frChr
+
 hush :: Either a a1 -> Maybe a1
 hush = either (const Nothing) Just
 
