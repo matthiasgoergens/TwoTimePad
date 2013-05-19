@@ -8,3 +8,5 @@ mmap-test
 Filter
 Test
 .shake.database
+src/PrefixAnalysis
+src/MakeConv
