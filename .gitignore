@@ -1,1 +1,6 @@
 output/
+ttp
+old-output/
+*.hi
+*.o
+*~
