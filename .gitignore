@@ -7,3 +7,4 @@ old-output/
 mmap-test
 Filter
 Test
+.shake.database
