@@ -1,0 +1,9 @@
+evidence, and how to weigh it.
+
+Simple convolution:
+
+sorted list, run up and down at the same time.
+
+mmap?
+
+
