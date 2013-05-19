@@ -4,3 +4,6 @@ old-output/
 *.hi
 *.o
 *~
+mmap-test
+Filter
+Test
