@@ -1,4 +1,5 @@
 
+## Previous script:
 #!/usr/bin/fish
 #ghc --make Test; and for n in 1 2 3 4 5 6 7; time ./Test $n | sort | uniq -c | tee corpus{$n}alpha | sort -gr > corpus{$n}freq; echo $n ; end
 
