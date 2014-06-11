@@ -4,6 +4,8 @@ import qualified Data.Set as S
 
 import Common
 
+
+-- TODO: Consider bytestring..
 fil :: String -> String
 fil = uniqueSpace . filter isOK . map toLower . map replace
 isOK :: Char -> Bool
