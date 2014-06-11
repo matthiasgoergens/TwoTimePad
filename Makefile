@@ -18,6 +18,8 @@ Filter: src/Filter.hs
 	ln -sf src/Filter $@
 
 output/corpus: Filter $(wildcard data/*.txt)
+	# TODO: Do something fancy about output (ie generate the directory from the target name)
+	mkdir -p output
 	cat $(wildcard data/*.txt) | time ./Filter > $@
 
 Test: src/Test.hs
