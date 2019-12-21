@@ -1,12 +1,3 @@
-output/
-ttp
-old-output/
-*.hi
-*.o
-*~
-mmap-test
-Filter
-Test
-.shake.database
-src/PrefixAnalysis
-src/MakeConv
+.mypy_cache/
+# .python-version
+.vscode/
