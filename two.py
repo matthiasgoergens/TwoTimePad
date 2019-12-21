@@ -169,7 +169,13 @@ def make_model():
       padding='same', strides=1)(
     lstm_ed
   )))
-  model = Model([my_input], [totes_clear, totes_key])
+  totes_cipher = (
+    Softmax(name="cipher_again")(Conv1D(
+      filters=len(alpha), kernel_size=1,
+      padding='same', strides=1)(
+    lstm_ed
+  )))
+  model = Model([my_input], [totes_cipher, totes_clear, totes_key])
 
   model.compile(
     optimizer='adam',
@@ -198,6 +204,7 @@ if __name__ == '__main__':
   import sys
   l = int(sys.argv[1])
   while True:
+    print()
     text = clean(load())
     print(f"text size: {len(text):,}")
     model.save_weights(weights_name)
@@ -205,23 +212,30 @@ if __name__ == '__main__':
     print(f"Window length: {l}")
 
     print("Predict:")
-    (ciphers_p, labels_p, keys_p) = samples(text, 5, l)
-    [pred_label, pred_key] = (model.predict(ciphers_p))
+    predict_size = 5
+    (ciphers_p, labels_p, keys_p) = samples(text, predict_size, l)
+    [pred_cipher, pred_label, pred_key] = (model.predict(ciphers_p))
     # clear, key, prediction
     pprint(list(zip(
+        toChars_labels(ciphers_p),
+        toChars(pred_cipher),
+
+        predict_size * [l * " "],
         toChars_labels(labels_p),
         toChars(pred_label),
+
+        predict_size * [l * " "],
         toChars_labels(keys_p),
         toChars(pred_key))),
       width=200)
 
     (ciphers_t, labels_t, keys_t) = samples(text, test_size, l)
     print("Eval:")
-    model.evaluate(ciphers_t,  [labels_t, keys_t], verbose=2)
+    model.evaluate(ciphers_t,  [ciphers_t, labels_t, keys_t], verbose=2)
 
 
     print("Training:")
     (ciphers, labels, keys) = samples(text, training_size, l)
-    model.fit(ciphers, [labels, keys])
+    model.fit(ciphers, [ciphers, labels, keys])
     l += 1
 
