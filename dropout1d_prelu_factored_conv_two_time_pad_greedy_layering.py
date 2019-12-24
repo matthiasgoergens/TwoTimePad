@@ -161,10 +161,12 @@ def make_model(n, layers):
     conved = embedded
     for i, _ in enumerate([9, 3, 3, 3, 9, 3, 3, 3][:layers]):
       name = str(i)
+      short_kernel = 3 if i > 0 else 9
+
       short = relu(name=name+'_prelu_short')(
-        Conv1D(
+        SeparableConv1D(
           name=f'{name}_conv_k{3}',
-          filters=2 * 3*46, kernel_size=3,
+          filters=2 * 3*46, kernel_size=short_kernel,
           padding='same', strides=1)(
             conved
         ))
@@ -176,8 +178,7 @@ def make_model(n, layers):
             conved
         ))
       conved = (
-        keras.layers.SpatialDropout1D(name=name+'_dropout', rate=0.5 if i < 6 else 0)(
-        concatenate([short, long])))
+        concatenate([short, long]))
     last_conv = conved
 
     gather_name = ''
@@ -204,7 +205,7 @@ def make_model(n, layers):
       metrics=['accuracy'])
     return model
 
-weights_name = 'dropout-factored-conv-var.h5'
+weights_name = 'all-factored-conv-var.h5'
 
 batch_size = 32
 text = clean(load())
