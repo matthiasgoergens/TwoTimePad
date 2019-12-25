@@ -25,6 +25,15 @@ else:
   useGPU = True
   print('Found GPU at: {}'.format(device_name))
 
+# Mixed precision
+from tensorflow.keras.mixed_precision import experimental as mixed_precision
+policy = mixed_precision.Policy('mixed_float16')
+mixed_precision.set_policy(policy)
+
+print('Compute dtype: %s' % policy.compute_dtype)
+print('Variable dtype: %s' % policy.variable_dtype)
+###
+
 import sys
 # from google.colab import drive
 # drive.mount('/content/drive')
@@ -254,14 +263,14 @@ def make_model(n):
       (Conv1D(
         filters=len(alpha), kernel_size=1,
         padding='same', strides=1, name="clear" + gather_name,
-        activation='softmax')(
+        activation='softmax', dtype=mixed_precision.Policy('float32'))(
       last_conv
     )))
     totes_key = (
       (Conv1D(
         filters=len(alpha), kernel_size=1,
         padding='same', strides=1, name="key" + gather_name,
-        activation='softmax')(
+        activation='softmax', dtype=mixed_precision.Policy('float32'))(
       last_conv
     )))
     model = Model([my_input], [totes_clear, totes_key])
@@ -286,7 +295,7 @@ callbacks_list = [checkpoint,
                   keras.callbacks.ReduceLROnPlateau(patience=3, factor=0.5, verbose=1, min_delta=0.0001),
                   keras.callbacks.EarlyStopping(patience=50, verbose=1, restore_best_weights=True)]
 
-l = 50
+l = 100
 with tf.device(device_name):
   layers = 7
   model = make_model(l)
@@ -308,7 +317,7 @@ with tf.device(device_name):
   # (ciphers, labels, keys) = samples(text, training_size, l)
   # print(model.fit(ciphers, [labels, keys],
   print(model.fit(x=TwoTimePadSequence(l, 10**5),
-            max_queue_size=1000,
+            max_queue_size=10_000,
             epochs=1000+layers, # Excessively long.  But early stopping should rescue us.
             validation_data=TwoTimePadSequence(l, 2*10**4),
             callbacks=callbacks_list))
