@@ -145,7 +145,7 @@ if True:
 
 def make_model(n, layers):
     # Not sure if lambda is necessary to not share weights?
-    
+
     my_input = Input(shape=(n,), dtype='int32', name="ciphertext")
     embedded = (
       (
@@ -209,7 +209,7 @@ weights_name = 'all-factored-conv-var.h5'
 
 batch_size = 32
 text = clean(load())
-                 
+
 class TwoTimePadSequence(keras.utils.Sequence):
   def on_epoch_end(self):
     print("Epoch {self.epochs} ended.")
@@ -237,7 +237,7 @@ from keras.callbacks import *
 checkpoint = ModelCheckpoint(weights_name, verbose=1, save_best_only=False)
 
 callbacks_list = [checkpoint,
-                  keras.callbacks.ReduceLROnPlateau(patience=10, factor=0.5, verbose=1),
+                  keras.callbacks.ReduceLROnPlateau(patience=3, factor=0.5, verbose=1),
                   keras.callbacks.EarlyStopping(patience=100, verbose=1, restore_best_weights=True)]
 
 if True:
