@@ -215,7 +215,7 @@ def make_model(n):
         keras.layers.SpatialDropout1D(rate=1/drops)(
         relu()(
             Conv1D(
-              filters=2 * drops * 2*46, kernel_size=1,
+              filters=4 * drops * 2*46, kernel_size=1,
               padding='same')(
         keras.layers.SpatialDropout1D(rate=1/drops)(
         relu()(
