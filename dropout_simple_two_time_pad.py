@@ -214,7 +214,7 @@ def make_model(n):
         ))))
 
 
-    for i in range(0, 7):
+    for i in range(0, 5):
       conved = (
         keras.layers.SpatialDropout1D(rate=1/drops)(
         relu()(
