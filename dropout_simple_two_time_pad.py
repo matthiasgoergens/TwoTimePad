@@ -202,14 +202,18 @@ def make_model(n):
     ## With one conv we are getting validation loss of 3.5996 quickly (at window size 30); best was ~3.3
     ## So adding another conv and lstm. val loss after first epoch about 3.3
     drops = 2
+
+    # First real layer.
     conved = (
       keras.layers.SpatialDropout1D(rate=1/drops)(
       relu()(
         Conv1D(
-          filters=2 * drops * 2*46, kernel_size=9,
+          filters=4 * drops * 2*46, kernel_size=9,
           padding='same')(
             embedded
         ))))
+
+
     for i in range(0, 7):
       conved = (
         keras.layers.SpatialDropout1D(rate=1/drops)(
