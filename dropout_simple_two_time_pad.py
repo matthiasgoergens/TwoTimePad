@@ -7,11 +7,11 @@ Original file is located at
     https://colab.research.google.com/drive/1599xTcpzkLspZ9ofUuHl7oyzaM__h2iL
 """
 
-!rm -rf TwoTimePad
-!git clone https://github.com/matthiasgoergens/TwoTimePad.git
-!rm -rf data *.h5
-!cp -r TwoTimePad/data TwoTimePad/*.h5 ./
-!pip install -q --no-deps tensorflow-addons
+# !rm -rf TwoTimePad
+# !git clone https://github.com/matthiasgoergens/TwoTimePad.git
+# !rm -rf data *.h5
+# !cp -r TwoTimePad/data TwoTimePad/*.h5 ./
+# !pip install -q --no-deps tensorflow-addons
 
 # Commented out IPython magic to ensure Python compatibility.
 # %tensorflow_version 2.x
