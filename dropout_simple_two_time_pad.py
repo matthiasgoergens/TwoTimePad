@@ -20,16 +20,16 @@ device_name = tf.test.gpu_device_name()
 if device_name != '/device:GPU:0':
   useGPU = False
   print(SystemError('GPU device not found', device_name))
+  raise NotImplementedError("Want GPU")
 else:
   useGPU = True
   print('Found GPU at: {}'.format(device_name))
 
 import sys
-from google.colab import drive
-drive.mount('/content/drive')
+# from google.colab import drive
+# drive.mount('/content/drive')
 import itertools as it
 
-import pathlib
 import re
 
 import tensorflow
@@ -37,7 +37,6 @@ import tensorflow as tf
 from tensorflow import keras
 
 
-import pathlib
 import numpy as np
 import random
 from pprint import pprint
@@ -58,9 +57,11 @@ alphaRE = alpha.replace("-","\\-")
 assert len(alpha) == 46
 
 def load():
-  text = ' '.join(f.open('r').read() for f in pathlib.Path('data').glob('*.txt')).lower()
+  # text = ' '.join(f.open('r').read() for f in pathlib.Path('data').glob('*.txt')).lower()
+  text = open('corpus.txt', 'r').read().lower()
   text = re.sub('\s+', ' ', text)
-  text = re.sub(f'[^{alphaRE}]', '', text)
+  # text = re.sub(f'[^{alphaRE}]', '', text)
+  text = re.sub('[^%s]' % alphaRE, '', text)
   return text
 
 def add(clear, key):
@@ -272,7 +273,7 @@ def make_model(n):
       metrics=['accuracy'])
     return model
 
-weights_name = '/content/drive/My Drive/twotimepad/dropout-staggered-1conv-simple-new.h5'
+weights_name = 'dropout-staggered-1conv-simple-new.h5'
 
 from datetime import datetime
 logdir = "logs/scalars/" + datetime.now().strftime("%Y%m%d-%H%M%S")
@@ -299,10 +300,10 @@ with tf.device(device_name):
   #for i in range(10*(layers+1)):
 
   text = clean(load())
-  print(f"text size: {len(text):,}\tlayers: {layers}")
-  print(f"Window length: {l}")
+  print("text size: {:,}\tlayers: {}".format(len(text), layers))
+  print("Window length: {}".format(l))
 
-  model.evaluate(TwoTimePadSequence(l, 2*10**4))
+  # model.evaluate(TwoTimePadSequence(l, 2*10**4))
   print("Training:")
   # (ciphers, labels, keys) = samples(text, training_size, l)
   # print(model.fit(ciphers, [labels, keys],
@@ -314,7 +315,7 @@ with tf.device(device_name):
   #(ciphers_t, labels_t, keys_t) = samples(text, 1000, l)
   #print("Eval:")
   #model.evaluate(TwoTimePadSequence(l, 10**4))
-  model.save(f"{weights_name}_layers_{layers}")
+  model.save("{}_layers_{}".format(weights_name, layers))
 
   print("Predict:")
   predict_size = 3
@@ -346,506 +347,3 @@ with tf.device(device_name):
 
 # But wow, this bigger network (twice as large as before) trains really well without dropout.  And no learning rate reduction, yet.
 # It's plateau-ing about ~2.54 loss at default learning rate after ~20 epoch.  (If I didn't miss a restart.)
-
-raise NotImplementedError("Thou shalt not pass.")
-
-Failed to load weights.
-Model: "model_1"
-__________________________________________________________________________________________________
-Layer (type)                    Output Shape         Param #     Connected to                     
-==================================================================================================
-ciphertext (InputLayer)         [(None, 50)]         0                                            
-__________________________________________________________________________________________________
-my_embedding (Embedding)        (None, 50, 46)       2116        ciphertext[0][0]                 
-__________________________________________________________________________________________________
-conv1d_5 (Conv1D)               (None, 50, 368)      152720      my_embedding[0][0]               
-__________________________________________________________________________________________________
-p_re_lu_5 (PReLU)               (None, 50, 368)      18400       conv1d_5[0][0]                   
-__________________________________________________________________________________________________
-spatial_dropout1d_5 (SpatialDro (None, 50, 368)      0           p_re_lu_5[0][0]                  
-__________________________________________________________________________________________________
-conv1d_6 (Conv1D)               (None, 50, 368)      406640      spatial_dropout1d_5[0][0]        
-__________________________________________________________________________________________________
-p_re_lu_6 (PReLU)               (None, 50, 368)      18400       conv1d_6[0][0]                   
-__________________________________________________________________________________________________
-spatial_dropout1d_6 (SpatialDro (None, 50, 368)      0           p_re_lu_6[0][0]                  
-__________________________________________________________________________________________________
-conv1d_7 (Conv1D)               (None, 50, 368)      406640      spatial_dropout1d_6[0][0]        
-__________________________________________________________________________________________________
-p_re_lu_7 (PReLU)               (None, 50, 368)      18400       conv1d_7[0][0]                   
-__________________________________________________________________________________________________
-spatial_dropout1d_7 (SpatialDro (None, 50, 368)      0           p_re_lu_7[0][0]                  
-__________________________________________________________________________________________________
-conv1d_8 (Conv1D)               (None, 50, 368)      406640      spatial_dropout1d_7[0][0]        
-__________________________________________________________________________________________________
-p_re_lu_8 (PReLU)               (None, 50, 368)      18400       conv1d_8[0][0]                   
-__________________________________________________________________________________________________
-spatial_dropout1d_8 (SpatialDro (None, 50, 368)      0           p_re_lu_8[0][0]                  
-__________________________________________________________________________________________________
-conv1d_9 (Conv1D)               (None, 50, 368)      406640      spatial_dropout1d_8[0][0]        
-__________________________________________________________________________________________________
-p_re_lu_9 (PReLU)               (None, 50, 368)      18400       conv1d_9[0][0]                   
-__________________________________________________________________________________________________
-spatial_dropout1d_9 (SpatialDro (None, 50, 368)      0           p_re_lu_9[0][0]                  
-__________________________________________________________________________________________________
-clear (Conv1D)                  (None, 50, 46)       16974       spatial_dropout1d_9[0][0]        
-__________________________________________________________________________________________________
-key (Conv1D)                    (None, 50, 46)       16974       spatial_dropout1d_9[0][0]        
-==================================================================================================
-Total params: 1,907,344
-Trainable params: 1,907,344
-Non-trainable params: 0
-__________________________________________________________________________________________________
-text size: 41,599,298	layers: 7
-Window length: 50
-625/625 [==============================] - 4s 6ms/step - loss: 7.6576 - clear_loss: 3.8282 - key_loss: 3.8294 - clear_accuracy: 0.0462 - key_accuracy: 0.0148
-Training:
-Train for 3125 steps, validate for 625 steps
-Epoch 1/1007
-3121/3125 [============================>.] - ETA: 0s - loss: 4.4985 - clear_loss: 2.2493 - key_loss: 2.2492 - clear_accuracy: 0.3589 - key_accuracy: 0.3587
-Epoch 00001: saving model to /content/drive/My Drive/twotimepad/dropout-simple-new.h5
-3125/3125 [==============================] - 44s 14ms/step - loss: 4.4981 - clear_loss: 2.2491 - key_loss: 2.2490 - clear_accuracy: 0.3590 - key_accuracy: 0.3587 - val_loss: 3.7671 - val_clear_loss: 1.8832 - val_key_loss: 1.8839 - val_clear_accuracy: 0.4438 - val_key_accuracy: 0.4432
-Epoch 2/1007
-3122/3125 [============================>.] - ETA: 0s - loss: 4.0438 - clear_loss: 2.0218 - key_loss: 2.0220 - clear_accuracy: 0.4131 - key_accuracy: 0.4130
-Epoch 00002: saving model to /content/drive/My Drive/twotimepad/dropout-simple-new.h5
-3125/3125 [==============================] - 44s 14ms/step - loss: 4.0437 - clear_loss: 2.0217 - key_loss: 2.0219 - clear_accuracy: 0.4131 - key_accuracy: 0.4130 - val_loss: 3.5956 - val_clear_loss: 1.7971 - val_key_loss: 1.7985 - val_clear_accuracy: 0.4623 - val_key_accuracy: 0.4633
-Epoch 3/1007
-3123/3125 [============================>.] - ETA: 0s - loss: 3.9449 - clear_loss: 1.9723 - key_loss: 1.9726 - clear_accuracy: 0.4249 - key_accuracy: 0.4253
-Epoch 00003: saving model to /content/drive/My Drive/twotimepad/dropout-simple-new.h5
-3125/3125 [==============================] - 44s 14ms/step - loss: 3.9448 - clear_loss: 1.9722 - key_loss: 1.9726 - clear_accuracy: 0.4249 - key_accuracy: 0.4253 - val_loss: 3.5269 - val_clear_loss: 1.7643 - val_key_loss: 1.7626 - val_clear_accuracy: 0.4709 - val_key_accuracy: 0.4724
-Epoch 4/1007
-3120/3125 [============================>.] - ETA: 0s - loss: 3.8991 - clear_loss: 1.9495 - key_loss: 1.9496 - clear_accuracy: 0.4314 - key_accuracy: 0.4317
-Epoch 00004: saving model to /content/drive/My Drive/twotimepad/dropout-simple-new.h5
-3125/3125 [==============================] - 44s 14ms/step - loss: 3.8990 - clear_loss: 1.9495 - key_loss: 1.9495 - clear_accuracy: 0.4314 - key_accuracy: 0.4317 - val_loss: 3.4785 - val_clear_loss: 1.7392 - val_key_loss: 1.7393 - val_clear_accuracy: 0.4770 - val_key_accuracy: 0.4784
-Epoch 5/1007
-3121/3125 [============================>.] - ETA: 0s - loss: 3.8696 - clear_loss: 1.9347 - key_loss: 1.9349 - clear_accuracy: 0.4357 - key_accuracy: 0.4360
-Epoch 00005: saving model to /content/drive/My Drive/twotimepad/dropout-simple-new.h5
-3125/3125 [==============================] - 44s 14ms/step - loss: 3.8696 - clear_loss: 1.9347 - key_loss: 1.9348 - clear_accuracy: 0.4357 - key_accuracy: 0.4360 - val_loss: 3.4651 - val_clear_loss: 1.7323 - val_key_loss: 1.7328 - val_clear_accuracy: 0.4805 - val_key_accuracy: 0.4812
-Epoch 6/1007
-3121/3125 [============================>.] - ETA: 0s - loss: 3.8479 - clear_loss: 1.9240 - key_loss: 1.9239 - clear_accuracy: 0.4388 - key_accuracy: 0.4393
-Epoch 00006: saving model to /content/drive/My Drive/twotimepad/dropout-simple-new.h5
-3125/3125 [==============================] - 44s 14ms/step - loss: 3.8480 - clear_loss: 1.9240 - key_loss: 1.9240 - clear_accuracy: 0.4388 - key_accuracy: 0.4393 - val_loss: 3.4410 - val_clear_loss: 1.7205 - val_key_loss: 1.7206 - val_clear_accuracy: 0.4853 - val_key_accuracy: 0.4852
-Epoch 7/1007
-3122/3125 [============================>.] - ETA: 0s - loss: 3.8267 - clear_loss: 1.9136 - key_loss: 1.9130 - clear_accuracy: 0.4415 - key_accuracy: 0.4419
-Epoch 00007: saving model to /content/drive/My Drive/twotimepad/dropout-simple-new.h5
-3125/3125 [==============================] - 44s 14ms/step - loss: 3.8267 - clear_loss: 1.9136 - key_loss: 1.9130 - clear_accuracy: 0.4415 - key_accuracy: 0.4419 - val_loss: 3.4392 - val_clear_loss: 1.7202 - val_key_loss: 1.7189 - val_clear_accuracy: 0.4869 - val_key_accuracy: 0.4871
-Epoch 8/1007
-3122/3125 [============================>.] - ETA: 0s - loss: 3.8177 - clear_loss: 1.9095 - key_loss: 1.9082 - clear_accuracy: 0.4434 - key_accuracy: 0.4439
-Epoch 00008: saving model to /content/drive/My Drive/twotimepad/dropout-simple-new.h5
-3125/3125 [==============================] - 45s 14ms/step - loss: 3.8178 - clear_loss: 1.9095 - key_loss: 1.9083 - clear_accuracy: 0.4434 - key_accuracy: 0.4439 - val_loss: 3.4096 - val_clear_loss: 1.7045 - val_key_loss: 1.7051 - val_clear_accuracy: 0.4901 - val_key_accuracy: 0.4899
-Epoch 9/1007
-3122/3125 [============================>.] - ETA: 0s - loss: 3.8131 - clear_loss: 1.9070 - key_loss: 1.9060 - clear_accuracy: 0.4444 - key_accuracy: 0.4450
-Epoch 00009: saving model to /content/drive/My Drive/twotimepad/dropout-simple-new.h5
-3125/3125 [==============================] - 44s 14ms/step - loss: 3.8130 - clear_loss: 1.9070 - key_loss: 1.9060 - clear_accuracy: 0.4444 - key_accuracy: 0.4450 - val_loss: 3.4075 - val_clear_loss: 1.7036 - val_key_loss: 1.7038 - val_clear_accuracy: 0.4913 - val_key_accuracy: 0.4925
-Epoch 10/1007
-3121/3125 [============================>.] - ETA: 0s - loss: 3.8013 - clear_loss: 1.9008 - key_loss: 1.9005 - clear_accuracy: 0.4461 - key_accuracy: 0.4461
-Epoch 00010: saving model to /content/drive/My Drive/twotimepad/dropout-simple-new.h5
-3125/3125 [==============================] - 44s 14ms/step - loss: 3.8013 - clear_loss: 1.9008 - key_loss: 1.9005 - clear_accuracy: 0.4461 - key_accuracy: 0.4461 - val_loss: 3.3970 - val_clear_loss: 1.6994 - val_key_loss: 1.6976 - val_clear_accuracy: 0.4931 - val_key_accuracy: 0.4930
-Epoch 11/1007
-3121/3125 [============================>.] - ETA: 0s - loss: 3.7947 - clear_loss: 1.8976 - key_loss: 1.8971 - clear_accuracy: 0.4472 - key_accuracy: 0.4474
-Epoch 00011: saving model to /content/drive/My Drive/twotimepad/dropout-simple-new.h5
-3125/3125 [==============================] - 44s 14ms/step - loss: 3.7947 - clear_loss: 1.8976 - key_loss: 1.8971 - clear_accuracy: 0.4472 - key_accuracy: 0.4474 - val_loss: 3.3873 - val_clear_loss: 1.6931 - val_key_loss: 1.6942 - val_clear_accuracy: 0.4942 - val_key_accuracy: 0.4944
-Epoch 12/1007
-3122/3125 [============================>.] - ETA: 0s - loss: 3.7887 - clear_loss: 1.8947 - key_loss: 1.8940 - clear_accuracy: 0.4480 - key_accuracy: 0.4483
-Epoch 00012: saving model to /content/drive/My Drive/twotimepad/dropout-simple-new.h5
-3125/3125 [==============================] - 44s 14ms/step - loss: 3.7887 - clear_loss: 1.8947 - key_loss: 1.8940 - clear_accuracy: 0.4480 - key_accuracy: 0.4483 - val_loss: 3.3877 - val_clear_loss: 1.6933 - val_key_loss: 1.6944 - val_clear_accuracy: 0.4952 - val_key_accuracy: 0.4944
-Epoch 13/1007
-3120/3125 [============================>.] - ETA: 0s - loss: 3.7843 - clear_loss: 1.8925 - key_loss: 1.8918 - clear_accuracy: 0.4489 - key_accuracy: 0.4490
-Epoch 00013: saving model to /content/drive/My Drive/twotimepad/dropout-simple-new.h5
-3125/3125 [==============================] - 44s 14ms/step - loss: 3.7842 - clear_loss: 1.8924 - key_loss: 1.8917 - clear_accuracy: 0.4489 - key_accuracy: 0.4490 - val_loss: 3.3700 - val_clear_loss: 1.6860 - val_key_loss: 1.6840 - val_clear_accuracy: 0.4961 - val_key_accuracy: 0.4966
-Epoch 14/1007
-3124/3125 [============================>.] - ETA: 0s - loss: 3.7816 - clear_loss: 1.8910 - key_loss: 1.8906 - clear_accuracy: 0.4494 - key_accuracy: 0.4497
-Epoch 00014: saving model to /content/drive/My Drive/twotimepad/dropout-simple-new.h5
-3125/3125 [==============================] - 44s 14ms/step - loss: 3.7817 - clear_loss: 1.8910 - key_loss: 1.8906 - clear_accuracy: 0.4494 - key_accuracy: 0.4497 - val_loss: 3.3715 - val_clear_loss: 1.6866 - val_key_loss: 1.6850 - val_clear_accuracy: 0.4968 - val_key_accuracy: 0.4974
-Epoch 15/1007
-3122/3125 [============================>.] - ETA: 0s - loss: 3.7757 - clear_loss: 1.8883 - key_loss: 1.8875 - clear_accuracy: 0.4507 - key_accuracy: 0.4509
-Epoch 00015: saving model to /content/drive/My Drive/twotimepad/dropout-simple-new.h5
-3125/3125 [==============================] - 44s 14ms/step - loss: 3.7758 - clear_loss: 1.8883 - key_loss: 1.8875 - clear_accuracy: 0.4507 - key_accuracy: 0.4509 - val_loss: 3.3745 - val_clear_loss: 1.6885 - val_key_loss: 1.6860 - val_clear_accuracy: 0.4962 - val_key_accuracy: 0.4971
-Epoch 16/1007
-3124/3125 [============================>.] - ETA: 0s - loss: 3.7690 - clear_loss: 1.8847 - key_loss: 1.8843 - clear_accuracy: 0.4514 - key_accuracy: 0.4517
-Epoch 00016: saving model to /content/drive/My Drive/twotimepad/dropout-simple-new.h5
-3125/3125 [==============================] - 44s 14ms/step - loss: 3.7689 - clear_loss: 1.8847 - key_loss: 1.8843 - clear_accuracy: 0.4515 - key_accuracy: 0.4517 - val_loss: 3.3599 - val_clear_loss: 1.6806 - val_key_loss: 1.6794 - val_clear_accuracy: 0.5001 - val_key_accuracy: 0.4995
-Epoch 17/1007
-3123/3125 [============================>.] - ETA: 0s - loss: 3.7714 - clear_loss: 1.8859 - key_loss: 1.8856 - clear_accuracy: 0.4514 - key_accuracy: 0.4515
-Epoch 00017: saving model to /content/drive/My Drive/twotimepad/dropout-simple-new.h5
-3125/3125 [==============================] - 44s 14ms/step - loss: 3.7713 - clear_loss: 1.8858 - key_loss: 1.8855 - clear_accuracy: 0.4514 - key_accuracy: 0.4516 - val_loss: 3.3623 - val_clear_loss: 1.6818 - val_key_loss: 1.6806 - val_clear_accuracy: 0.4989 - val_key_accuracy: 0.4995
-Epoch 18/1007
-3124/3125 [============================>.] - ETA: 0s - loss: 3.7675 - clear_loss: 1.8842 - key_loss: 1.8833 - clear_accuracy: 0.4519 - key_accuracy: 0.4521
-Epoch 00018: saving model to /content/drive/My Drive/twotimepad/dropout-simple-new.h5
-3125/3125 [==============================] - 44s 14ms/step - loss: 3.7675 - clear_loss: 1.8842 - key_loss: 1.8833 - clear_accuracy: 0.4519 - key_accuracy: 0.4521 - val_loss: 3.3463 - val_clear_loss: 1.6733 - val_key_loss: 1.6730 - val_clear_accuracy: 0.5009 - val_key_accuracy: 0.5017
-Epoch 19/1007
-3124/3125 [============================>.] - ETA: 0s - loss: 3.7600 - clear_loss: 1.8805 - key_loss: 1.8796 - clear_accuracy: 0.4526 - key_accuracy: 0.4529
-Epoch 00019: saving model to /content/drive/My Drive/twotimepad/dropout-simple-new.h5
-3125/3125 [==============================] - 46s 15ms/step - loss: 3.7600 - clear_loss: 1.8805 - key_loss: 1.8795 - clear_accuracy: 0.4526 - key_accuracy: 0.4529 - val_loss: 3.3379 - val_clear_loss: 1.6692 - val_key_loss: 1.6687 - val_clear_accuracy: 0.5013 - val_key_accuracy: 0.5017
-Epoch 20/1007
-3121/3125 [============================>.] - ETA: 0s - loss: 3.7585 - clear_loss: 1.8798 - key_loss: 1.8787 - clear_accuracy: 0.4530 - key_accuracy: 0.4533
-Epoch 00020: saving model to /content/drive/My Drive/twotimepad/dropout-simple-new.h5
-3125/3125 [==============================] - 44s 14ms/step - loss: 3.7585 - clear_loss: 1.8798 - key_loss: 1.8788 - clear_accuracy: 0.4530 - key_accuracy: 0.4533 - val_loss: 3.3503 - val_clear_loss: 1.6750 - val_key_loss: 1.6753 - val_clear_accuracy: 0.5013 - val_key_accuracy: 0.5009
-Epoch 21/1007
-3124/3125 [============================>.] - ETA: 0s - loss: 3.7629 - clear_loss: 1.8815 - key_loss: 1.8813 - clear_accuracy: 0.4530 - key_accuracy: 0.4530
-Epoch 00021: saving model to /content/drive/My Drive/twotimepad/dropout-simple-new.h5
-3125/3125 [==============================] - 44s 14ms/step - loss: 3.7629 - clear_loss: 1.8815 - key_loss: 1.8813 - clear_accuracy: 0.4530 - key_accuracy: 0.4530 - val_loss: 3.3426 - val_clear_loss: 1.6717 - val_key_loss: 1.6708 - val_clear_accuracy: 0.5044 - val_key_accuracy: 0.5034
-Epoch 22/1007
-3124/3125 [============================>.] - ETA: 0s - loss: 3.7554 - clear_loss: 1.8777 - key_loss: 1.8777 - clear_accuracy: 0.4540 - key_accuracy: 0.4537
-Epoch 00022: saving model to /content/drive/My Drive/twotimepad/dropout-simple-new.h5
-
-Epoch 00022: ReduceLROnPlateau reducing learning rate to 0.0005000000237487257.
-3125/3125 [==============================] - 43s 14ms/step - loss: 3.7553 - clear_loss: 1.8777 - key_loss: 1.8777 - clear_accuracy: 0.4540 - key_accuracy: 0.4537 - val_loss: 3.3466 - val_clear_loss: 1.6728 - val_key_loss: 1.6738 - val_clear_accuracy: 0.5041 - val_key_accuracy: 0.5044
-Epoch 23/1007
-3124/3125 [============================>.] - ETA: 0s - loss: 3.6917 - clear_loss: 1.8459 - key_loss: 1.8458 - clear_accuracy: 0.4621 - key_accuracy: 0.4623
-Epoch 00023: saving model to /content/drive/My Drive/twotimepad/dropout-simple-new.h5
-3125/3125 [==============================] - 44s 14ms/step - loss: 3.6917 - clear_loss: 1.8459 - key_loss: 1.8458 - clear_accuracy: 0.4621 - key_accuracy: 0.4623 - val_loss: 3.2831 - val_clear_loss: 1.6408 - val_key_loss: 1.6423 - val_clear_accuracy: 0.5106 - val_key_accuracy: 0.5108
-Epoch 24/1007
-3122/3125 [============================>.] - ETA: 0s - loss: 3.6634 - clear_loss: 1.8315 - key_loss: 1.8318 - clear_accuracy: 0.4662 - key_accuracy: 0.4659
-Epoch 00024: saving model to /content/drive/My Drive/twotimepad/dropout-simple-new.h5
-3125/3125 [==============================] - 44s 14ms/step - loss: 3.6634 - clear_loss: 1.8316 - key_loss: 1.8319 - clear_accuracy: 0.4662 - key_accuracy: 0.4659 - val_loss: 3.2788 - val_clear_loss: 1.6393 - val_key_loss: 1.6395 - val_clear_accuracy: 0.5118 - val_key_accuracy: 0.5118
-Epoch 25/1007
-3121/3125 [============================>.] - ETA: 0s - loss: 3.6568 - clear_loss: 1.8286 - key_loss: 1.8281 - clear_accuracy: 0.4673 - key_accuracy: 0.4677
-Epoch 00025: saving model to /content/drive/My Drive/twotimepad/dropout-simple-new.h5
-3125/3125 [==============================] - 44s 14ms/step - loss: 3.6569 - clear_loss: 1.8287 - key_loss: 1.8282 - clear_accuracy: 0.4673 - key_accuracy: 0.4677 - val_loss: 3.2552 - val_clear_loss: 1.6283 - val_key_loss: 1.6269 - val_clear_accuracy: 0.5147 - val_key_accuracy: 0.5151
-Epoch 26/1007
-3122/3125 [============================>.] - ETA: 0s - loss: 3.6495 - clear_loss: 1.8252 - key_loss: 1.8243 - clear_accuracy: 0.4688 - key_accuracy: 0.4688
-Epoch 00026: saving model to /content/drive/My Drive/twotimepad/dropout-simple-new.h5
-3125/3125 [==============================] - 43s 14ms/step - loss: 3.6496 - clear_loss: 1.8252 - key_loss: 1.8243 - clear_accuracy: 0.4688 - key_accuracy: 0.4688 - val_loss: 3.2583 - val_clear_loss: 1.6289 - val_key_loss: 1.6294 - val_clear_accuracy: 0.5150 - val_key_accuracy: 0.5150
-Epoch 27/1007
-3123/3125 [============================>.] - ETA: 0s - loss: 3.6485 - clear_loss: 1.8244 - key_loss: 1.8241 - clear_accuracy: 0.4691 - key_accuracy: 0.4690
-Epoch 00027: saving model to /content/drive/My Drive/twotimepad/dropout-simple-new.h5
-3125/3125 [==============================] - 44s 14ms/step - loss: 3.6485 - clear_loss: 1.8244 - key_loss: 1.8241 - clear_accuracy: 0.4691 - key_accuracy: 0.4690 - val_loss: 3.2598 - val_clear_loss: 1.6303 - val_key_loss: 1.6294 - val_clear_accuracy: 0.5159 - val_key_accuracy: 0.5155
-Epoch 28/1007
-3124/3125 [============================>.] - ETA: 0s - loss: 3.6444 - clear_loss: 1.8225 - key_loss: 1.8219 - clear_accuracy: 0.4698 - key_accuracy: 0.4695
-Epoch 00028: saving model to /content/drive/My Drive/twotimepad/dropout-simple-new.h5
-
-Epoch 00028: ReduceLROnPlateau reducing learning rate to 0.0002500000118743628.
-3125/3125 [==============================] - 44s 14ms/step - loss: 3.6444 - clear_loss: 1.8226 - key_loss: 1.8219 - clear_accuracy: 0.4698 - key_accuracy: 0.4695 - val_loss: 3.2577 - val_clear_loss: 1.6284 - val_key_loss: 1.6293 - val_clear_accuracy: 0.5149 - val_key_accuracy: 0.5150
-Epoch 29/1007
-3122/3125 [============================>.] - ETA: 0s - loss: 3.6130 - clear_loss: 1.8068 - key_loss: 1.8062 - clear_accuracy: 0.4736 - key_accuracy: 0.4738
-Epoch 00029: saving model to /content/drive/My Drive/twotimepad/dropout-simple-new.h5
-3125/3125 [==============================] - 43s 14ms/step - loss: 3.6130 - clear_loss: 1.8068 - key_loss: 1.8062 - clear_accuracy: 0.4736 - key_accuracy: 0.4738 - val_loss: 3.2224 - val_clear_loss: 1.6109 - val_key_loss: 1.6115 - val_clear_accuracy: 0.5205 - val_key_accuracy: 0.5208
-Epoch 30/1007
-3124/3125 [============================>.] - ETA: 0s - loss: 3.5986 - clear_loss: 1.7994 - key_loss: 1.7991 - clear_accuracy: 0.4756 - key_accuracy: 0.4757
-Epoch 00030: saving model to /content/drive/My Drive/twotimepad/dropout-simple-new.h5
-3125/3125 [==============================] - 44s 14ms/step - loss: 3.5985 - clear_loss: 1.7994 - key_loss: 1.7991 - clear_accuracy: 0.4756 - key_accuracy: 0.4757 - val_loss: 3.2198 - val_clear_loss: 1.6098 - val_key_loss: 1.6099 - val_clear_accuracy: 0.5200 - val_key_accuracy: 0.5206
-Epoch 31/1007
-3122/3125 [============================>.] - ETA: 0s - loss: 3.5931 - clear_loss: 1.7967 - key_loss: 1.7964 - clear_accuracy: 0.4765 - key_accuracy: 0.4765
-Epoch 00031: saving model to /content/drive/My Drive/twotimepad/dropout-simple-new.h5
-3125/3125 [==============================] - 44s 14ms/step - loss: 3.5931 - clear_loss: 1.7967 - key_loss: 1.7964 - clear_accuracy: 0.4765 - key_accuracy: 0.4766 - val_loss: 3.2095 - val_clear_loss: 1.6047 - val_key_loss: 1.6048 - val_clear_accuracy: 0.5211 - val_key_accuracy: 0.5218
-Epoch 32/1007
-3121/3125 [============================>.] - ETA: 0s - loss: 3.5919 - clear_loss: 1.7963 - key_loss: 1.7955 - clear_accuracy: 0.4770 - key_accuracy: 0.4769
-Epoch 00032: saving model to /content/drive/My Drive/twotimepad/dropout-simple-new.h5
-3125/3125 [==============================] - 44s 14ms/step - loss: 3.5918 - clear_loss: 1.7963 - key_loss: 1.7955 - clear_accuracy: 0.4770 - key_accuracy: 0.4769 - val_loss: 3.1997 - val_clear_loss: 1.5998 - val_key_loss: 1.5999 - val_clear_accuracy: 0.5228 - val_key_accuracy: 0.5232
-Epoch 33/1007
-3123/3125 [============================>.] - ETA: 0s - loss: 3.5831 - clear_loss: 1.7919 - key_loss: 1.7912 - clear_accuracy: 0.4781 - key_accuracy: 0.4781
-Epoch 00033: saving model to /content/drive/My Drive/twotimepad/dropout-simple-new.h5
-3125/3125 [==============================] - 43s 14ms/step - loss: 3.5831 - clear_loss: 1.7919 - key_loss: 1.7912 - clear_accuracy: 0.4781 - key_accuracy: 0.4781 - val_loss: 3.2130 - val_clear_loss: 1.6063 - val_key_loss: 1.6067 - val_clear_accuracy: 0.5230 - val_key_accuracy: 0.5231
-Epoch 34/1007
-3122/3125 [============================>.] - ETA: 0s - loss: 3.5859 - clear_loss: 1.7933 - key_loss: 1.7926 - clear_accuracy: 0.4776 - key_accuracy: 0.4779
-Epoch 00034: saving model to /content/drive/My Drive/twotimepad/dropout-simple-new.h5
-3125/3125 [==============================] - 44s 14ms/step - loss: 3.5858 - clear_loss: 1.7933 - key_loss: 1.7925 - clear_accuracy: 0.4776 - key_accuracy: 0.4780 - val_loss: 3.2105 - val_clear_loss: 1.6050 - val_key_loss: 1.6055 - val_clear_accuracy: 0.5237 - val_key_accuracy: 0.5227
-Epoch 35/1007
-3123/3125 [============================>.] - ETA: 0s - loss: 3.5789 - clear_loss: 1.7897 - key_loss: 1.7892 - clear_accuracy: 0.4790 - key_accuracy: 0.4789
-Epoch 00035: saving model to /content/drive/My Drive/twotimepad/dropout-simple-new.h5
-
-Epoch 00035: ReduceLROnPlateau reducing learning rate to 0.0001250000059371814.
-3125/3125 [==============================] - 44s 14ms/step - loss: 3.5789 - clear_loss: 1.7897 - key_loss: 1.7892 - clear_accuracy: 0.4790 - key_accuracy: 0.4789 - val_loss: 3.2065 - val_clear_loss: 1.6031 - val_key_loss: 1.6033 - val_clear_accuracy: 0.5231 - val_key_accuracy: 0.5232
-Epoch 36/1007
-3122/3125 [============================>.] - ETA: 0s - loss: 3.5641 - clear_loss: 1.7823 - key_loss: 1.7818 - clear_accuracy: 0.4807 - key_accuracy: 0.4808
-Epoch 00036: saving model to /content/drive/My Drive/twotimepad/dropout-simple-new.h5
-3125/3125 [==============================] - 43s 14ms/step - loss: 3.5641 - clear_loss: 1.7823 - key_loss: 1.7818 - clear_accuracy: 0.4807 - key_accuracy: 0.4808 - val_loss: 3.1939 - val_clear_loss: 1.5971 - val_key_loss: 1.5969 - val_clear_accuracy: 0.5251 - val_key_accuracy: 0.5250
-Epoch 37/1007
-3123/3125 [============================>.] - ETA: 0s - loss: 3.5607 - clear_loss: 1.7806 - key_loss: 1.7801 - clear_accuracy: 0.4813 - key_accuracy: 0.4813
-Epoch 00037: saving model to /content/drive/My Drive/twotimepad/dropout-simple-new.h5
-3125/3125 [==============================] - 43s 14ms/step - loss: 3.5608 - clear_loss: 1.7806 - key_loss: 1.7802 - clear_accuracy: 0.4813 - key_accuracy: 0.4812 - val_loss: 3.1804 - val_clear_loss: 1.5901 - val_key_loss: 1.5903 - val_clear_accuracy: 0.5268 - val_key_accuracy: 0.5266
-Epoch 38/1007
-3122/3125 [============================>.] - ETA: 0s - loss: 3.5554 - clear_loss: 1.7779 - key_loss: 1.7775 - clear_accuracy: 0.4817 - key_accuracy: 0.4818
-Epoch 00038: saving model to /content/drive/My Drive/twotimepad/dropout-simple-new.h5
-3125/3125 [==============================] - 43s 14ms/step - loss: 3.5554 - clear_loss: 1.7779 - key_loss: 1.7775 - clear_accuracy: 0.4817 - key_accuracy: 0.4818 - val_loss: 3.1911 - val_clear_loss: 1.5960 - val_key_loss: 1.5951 - val_clear_accuracy: 0.5257 - val_key_accuracy: 0.5257
-Epoch 39/1007
-3123/3125 [============================>.] - ETA: 0s - loss: 3.5535 - clear_loss: 1.7770 - key_loss: 1.7765 - clear_accuracy: 0.4821 - key_accuracy: 0.4822
-Epoch 00039: saving model to /content/drive/My Drive/twotimepad/dropout-simple-new.h5
-3125/3125 [==============================] - 47s 15ms/step - loss: 3.5535 - clear_loss: 1.7770 - key_loss: 1.7765 - clear_accuracy: 0.4821 - key_accuracy: 0.4822 - val_loss: 3.1781 - val_clear_loss: 1.5891 - val_key_loss: 1.5890 - val_clear_accuracy: 0.5268 - val_key_accuracy: 0.5267
-Epoch 40/1007
-3122/3125 [============================>.] - ETA: 0s - loss: 3.5512 - clear_loss: 1.7758 - key_loss: 1.7753 - clear_accuracy: 0.4829 - key_accuracy: 0.4827
-Epoch 00040: saving model to /content/drive/My Drive/twotimepad/dropout-simple-new.h5
-3125/3125 [==============================] - 44s 14ms/step - loss: 3.5511 - clear_loss: 1.7758 - key_loss: 1.7753 - clear_accuracy: 0.4829 - key_accuracy: 0.4827 - val_loss: 3.1780 - val_clear_loss: 1.5893 - val_key_loss: 1.5887 - val_clear_accuracy: 0.5273 - val_key_accuracy: 0.5273
-Epoch 41/1007
-3120/3125 [============================>.] - ETA: 0s - loss: 3.5500 - clear_loss: 1.7753 - key_loss: 1.7747 - clear_accuracy: 0.4831 - key_accuracy: 0.4830
-Epoch 00041: saving model to /content/drive/My Drive/twotimepad/dropout-simple-new.h5
-3125/3125 [==============================] - 44s 14ms/step - loss: 3.5502 - clear_loss: 1.7754 - key_loss: 1.7748 - clear_accuracy: 0.4831 - key_accuracy: 0.4830 - val_loss: 3.1704 - val_clear_loss: 1.5851 - val_key_loss: 1.5852 - val_clear_accuracy: 0.5284 - val_key_accuracy: 0.5281
-Epoch 42/1007
-3124/3125 [============================>.] - ETA: 0s - loss: 3.5491 - clear_loss: 1.7747 - key_loss: 1.7744 - clear_accuracy: 0.4831 - key_accuracy: 0.4833
-Epoch 00042: saving model to /content/drive/My Drive/twotimepad/dropout-simple-new.h5
-3125/3125 [==============================] - 43s 14ms/step - loss: 3.5491 - clear_loss: 1.7747 - key_loss: 1.7744 - clear_accuracy: 0.4831 - key_accuracy: 0.4833 - val_loss: 3.1695 - val_clear_loss: 1.5848 - val_key_loss: 1.5847 - val_clear_accuracy: 0.5285 - val_key_accuracy: 0.5283
-Epoch 43/1007
-3123/3125 [============================>.] - ETA: 0s - loss: 3.5471 - clear_loss: 1.7739 - key_loss: 1.7732 - clear_accuracy: 0.4832 - key_accuracy: 0.4834
-Epoch 00043: saving model to /content/drive/My Drive/twotimepad/dropout-simple-new.h5
-3125/3125 [==============================] - 42s 14ms/step - loss: 3.5471 - clear_loss: 1.7739 - key_loss: 1.7732 - clear_accuracy: 0.4832 - key_accuracy: 0.4834 - val_loss: 3.1715 - val_clear_loss: 1.5861 - val_key_loss: 1.5854 - val_clear_accuracy: 0.5277 - val_key_accuracy: 0.5281
-Epoch 44/1007
-3123/3125 [============================>.] - ETA: 0s - loss: 3.5470 - clear_loss: 1.7737 - key_loss: 1.7734 - clear_accuracy: 0.4837 - key_accuracy: 0.4837
-Epoch 00044: saving model to /content/drive/My Drive/twotimepad/dropout-simple-new.h5
-3125/3125 [==============================] - 47s 15ms/step - loss: 3.5471 - clear_loss: 1.7737 - key_loss: 1.7734 - clear_accuracy: 0.4837 - key_accuracy: 0.4836 - val_loss: 3.1709 - val_clear_loss: 1.5852 - val_key_loss: 1.5856 - val_clear_accuracy: 0.5284 - val_key_accuracy: 0.5286
-Epoch 45/1007
-3121/3125 [============================>.] - ETA: 0s - loss: 3.5431 - clear_loss: 1.7718 - key_loss: 1.7713 - clear_accuracy: 0.4839 - key_accuracy: 0.4839
-Epoch 00045: saving model to /content/drive/My Drive/twotimepad/dropout-simple-new.h5
-
-Epoch 00045: ReduceLROnPlateau reducing learning rate to 6.25000029685907e-05.
-3125/3125 [==============================] - 44s 14ms/step - loss: 3.5432 - clear_loss: 1.7719 - key_loss: 1.7713 - clear_accuracy: 0.4839 - key_accuracy: 0.4839 - val_loss: 3.1714 - val_clear_loss: 1.5852 - val_key_loss: 1.5862 - val_clear_accuracy: 0.5289 - val_key_accuracy: 0.5286
-Epoch 46/1007
-3122/3125 [============================>.] - ETA: 0s - loss: 3.5437 - clear_loss: 1.7722 - key_loss: 1.7715 - clear_accuracy: 0.4838 - key_accuracy: 0.4838
-Epoch 00046: saving model to /content/drive/My Drive/twotimepad/dropout-simple-new.h5
-3125/3125 [==============================] - 45s 14ms/step - loss: 3.5437 - clear_loss: 1.7722 - key_loss: 1.7715 - clear_accuracy: 0.4838 - key_accuracy: 0.4839 - val_loss: 3.1701 - val_clear_loss: 1.5849 - val_key_loss: 1.5852 - val_clear_accuracy: 0.5287 - val_key_accuracy: 0.5285
-Epoch 47/1007
-3122/3125 [============================>.] - ETA: 0s - loss: 3.5343 - clear_loss: 1.7675 - key_loss: 1.7668 - clear_accuracy: 0.4851 - key_accuracy: 0.4852
-Epoch 00047: saving model to /content/drive/My Drive/twotimepad/dropout-simple-new.h5
-3125/3125 [==============================] - 44s 14ms/step - loss: 3.5344 - clear_loss: 1.7676 - key_loss: 1.7668 - clear_accuracy: 0.4851 - key_accuracy: 0.4852 - val_loss: 3.1697 - val_clear_loss: 1.5852 - val_key_loss: 1.5845 - val_clear_accuracy: 0.5281 - val_key_accuracy: 0.5285
-Epoch 48/1007
-3124/3125 [============================>.] - ETA: 0s - loss: 3.5372 - clear_loss: 1.7690 - key_loss: 1.7682 - clear_accuracy: 0.4849 - key_accuracy: 0.4848
-Epoch 00048: saving model to /content/drive/My Drive/twotimepad/dropout-simple-new.h5
-3125/3125 [==============================] - 47s 15ms/step - loss: 3.5372 - clear_loss: 1.7690 - key_loss: 1.7682 - clear_accuracy: 0.4849 - key_accuracy: 0.4848 - val_loss: 3.1654 - val_clear_loss: 1.5830 - val_key_loss: 1.5825 - val_clear_accuracy: 0.5287 - val_key_accuracy: 0.5291
-Epoch 49/1007
-3122/3125 [============================>.] - ETA: 0s - loss: 3.5346 - clear_loss: 1.7678 - key_loss: 1.7668 - clear_accuracy: 0.4850 - key_accuracy: 0.4853
-Epoch 00049: saving model to /content/drive/My Drive/twotimepad/dropout-simple-new.h5
-3125/3125 [==============================] - 45s 14ms/step - loss: 3.5345 - clear_loss: 1.7678 - key_loss: 1.7668 - clear_accuracy: 0.4850 - key_accuracy: 0.4853 - val_loss: 3.1528 - val_clear_loss: 1.5765 - val_key_loss: 1.5763 - val_clear_accuracy: 0.5311 - val_key_accuracy: 0.5310
-Epoch 50/1007
-3124/3125 [============================>.] - ETA: 0s - loss: 3.5291 - clear_loss: 1.7651 - key_loss: 1.7639 - clear_accuracy: 0.4859 - key_accuracy: 0.4860
-Epoch 00050: saving model to /content/drive/My Drive/twotimepad/dropout-simple-new.h5
-3125/3125 [==============================] - 44s 14ms/step - loss: 3.5290 - clear_loss: 1.7651 - key_loss: 1.7639 - clear_accuracy: 0.4859 - key_accuracy: 0.4860 - val_loss: 3.1544 - val_clear_loss: 1.5775 - val_key_loss: 1.5769 - val_clear_accuracy: 0.5302 - val_key_accuracy: 0.5305
-Epoch 51/1007
-3123/3125 [============================>.] - ETA: 0s - loss: 3.5307 - clear_loss: 1.7657 - key_loss: 1.7651 - clear_accuracy: 0.4856 - key_accuracy: 0.4857
-Epoch 00051: saving model to /content/drive/My Drive/twotimepad/dropout-simple-new.h5
-3125/3125 [==============================] - 44s 14ms/step - loss: 3.5308 - clear_loss: 1.7657 - key_loss: 1.7651 - clear_accuracy: 0.4856 - key_accuracy: 0.4857 - val_loss: 3.1553 - val_clear_loss: 1.5778 - val_key_loss: 1.5775 - val_clear_accuracy: 0.5306 - val_key_accuracy: 0.5309
-Epoch 52/1007
-3123/3125 [============================>.] - ETA: 0s - loss: 3.5309 - clear_loss: 1.7656 - key_loss: 1.7653 - clear_accuracy: 0.4857 - key_accuracy: 0.4857
-Epoch 00052: saving model to /content/drive/My Drive/twotimepad/dropout-simple-new.h5
-
-Epoch 00052: ReduceLROnPlateau reducing learning rate to 3.125000148429535e-05.
-3125/3125 [==============================] - 44s 14ms/step - loss: 3.5308 - clear_loss: 1.7655 - key_loss: 1.7653 - clear_accuracy: 0.4857 - key_accuracy: 0.4857 - val_loss: 3.1561 - val_clear_loss: 1.5781 - val_key_loss: 1.5780 - val_clear_accuracy: 0.5306 - val_key_accuracy: 0.5306
-Epoch 53/1007
-3122/3125 [============================>.] - ETA: 0s - loss: 3.5282 - clear_loss: 1.7640 - key_loss: 1.7641 - clear_accuracy: 0.4862 - key_accuracy: 0.4861
-Epoch 00053: saving model to /content/drive/My Drive/twotimepad/dropout-simple-new.h5
-3125/3125 [==============================] - 46s 15ms/step - loss: 3.5283 - clear_loss: 1.7641 - key_loss: 1.7642 - clear_accuracy: 0.4862 - key_accuracy: 0.4861 - val_loss: 3.1581 - val_clear_loss: 1.5790 - val_key_loss: 1.5791 - val_clear_accuracy: 0.5309 - val_key_accuracy: 0.5308
-Epoch 54/1007
-3123/3125 [============================>.] - ETA: 0s - loss: 3.5234 - clear_loss: 1.7618 - key_loss: 1.7616 - clear_accuracy: 0.4864 - key_accuracy: 0.4867
-Epoch 00054: saving model to /content/drive/My Drive/twotimepad/dropout-simple-new.h5
-3125/3125 [==============================] - 44s 14ms/step - loss: 3.5234 - clear_loss: 1.7618 - key_loss: 1.7616 - clear_accuracy: 0.4864 - key_accuracy: 0.4867 - val_loss: 3.1512 - val_clear_loss: 1.5759 - val_key_loss: 1.5753 - val_clear_accuracy: 0.5317 - val_key_accuracy: 0.5319
-Epoch 55/1007
-3120/3125 [============================>.] - ETA: 0s - loss: 3.5234 - clear_loss: 1.7620 - key_loss: 1.7614 - clear_accuracy: 0.4867 - key_accuracy: 0.4866
-Epoch 00055: saving model to /content/drive/My Drive/twotimepad/dropout-simple-new.h5
-3125/3125 [==============================] - 44s 14ms/step - loss: 3.5233 - clear_loss: 1.7620 - key_loss: 1.7614 - clear_accuracy: 0.4867 - key_accuracy: 0.4866 - val_loss: 3.1559 - val_clear_loss: 1.5779 - val_key_loss: 1.5779 - val_clear_accuracy: 0.5302 - val_key_accuracy: 0.5303
-Epoch 56/1007
-3123/3125 [============================>.] - ETA: 0s - loss: 3.5251 - clear_loss: 1.7628 - key_loss: 1.7623 - clear_accuracy: 0.4865 - key_accuracy: 0.4867
-Epoch 00056: saving model to /content/drive/My Drive/twotimepad/dropout-simple-new.h5
-3125/3125 [==============================] - 44s 14ms/step - loss: 3.5250 - clear_loss: 1.7628 - key_loss: 1.7623 - clear_accuracy: 0.4865 - key_accuracy: 0.4867 - val_loss: 3.1514 - val_clear_loss: 1.5757 - val_key_loss: 1.5757 - val_clear_accuracy: 0.5306 - val_key_accuracy: 0.5307
-Epoch 57/1007
-3124/3125 [============================>.] - ETA: 0s - loss: 3.5234 - clear_loss: 1.7617 - key_loss: 1.7617 - clear_accuracy: 0.4866 - key_accuracy: 0.4864
-Epoch 00057: saving model to /content/drive/My Drive/twotimepad/dropout-simple-new.h5
-3125/3125 [==============================] - 48s 16ms/step - loss: 3.5234 - clear_loss: 1.7617 - key_loss: 1.7617 - clear_accuracy: 0.4866 - key_accuracy: 0.4864 - val_loss: 3.1434 - val_clear_loss: 1.5718 - val_key_loss: 1.5716 - val_clear_accuracy: 0.5328 - val_key_accuracy: 0.5327
-Epoch 58/1007
-3124/3125 [============================>.] - ETA: 0s - loss: 3.5225 - clear_loss: 1.7613 - key_loss: 1.7612 - clear_accuracy: 0.4869 - key_accuracy: 0.4870
-Epoch 00058: saving model to /content/drive/My Drive/twotimepad/dropout-simple-new.h5
-3125/3125 [==============================] - 44s 14ms/step - loss: 3.5225 - clear_loss: 1.7613 - key_loss: 1.7613 - clear_accuracy: 0.4869 - key_accuracy: 0.4870 - val_loss: 3.1645 - val_clear_loss: 1.5823 - val_key_loss: 1.5822 - val_clear_accuracy: 0.5292 - val_key_accuracy: 0.5298
-Epoch 59/1007
-3122/3125 [============================>.] - ETA: 0s - loss: 3.5253 - clear_loss: 1.7629 - key_loss: 1.7624 - clear_accuracy: 0.4866 - key_accuracy: 0.4866
-Epoch 00059: saving model to /content/drive/My Drive/twotimepad/dropout-simple-new.h5
-3125/3125 [==============================] - 44s 14ms/step - loss: 3.5254 - clear_loss: 1.7629 - key_loss: 1.7625 - clear_accuracy: 0.4865 - key_accuracy: 0.4866 - val_loss: 3.1565 - val_clear_loss: 1.5785 - val_key_loss: 1.5781 - val_clear_accuracy: 0.5303 - val_key_accuracy: 0.5306
-Epoch 60/1007
-3123/3125 [============================>.] - ETA: 0s - loss: 3.5235 - clear_loss: 1.7619 - key_loss: 1.7616 - clear_accuracy: 0.4867 - key_accuracy: 0.4866
-Epoch 00060: saving model to /content/drive/My Drive/twotimepad/dropout-simple-new.h5
-
-Epoch 00060: ReduceLROnPlateau reducing learning rate to 1.5625000742147677e-05.
-3125/3125 [==============================] - 48s 15ms/step - loss: 3.5236 - clear_loss: 1.7620 - key_loss: 1.7617 - clear_accuracy: 0.4866 - key_accuracy: 0.4866 - val_loss: 3.1514 - val_clear_loss: 1.5758 - val_key_loss: 1.5756 - val_clear_accuracy: 0.5312 - val_key_accuracy: 0.5314
-Epoch 61/1007
-1010/3125 [========>.....................] - ETA: 26s - loss: 3.5234 - clear_loss: 1.7621 - key_loss: 1.7613 - clear_accuracy: 0.4863 - key_accuracy: 0.4863
-
-Loaded weights.
-Model: "model"
-__________________________________________________________________________________________________
-Layer (type)                    Output Shape         Param #     Connected to                     
-==================================================================================================
-ciphertext (InputLayer)         [(None, 50)]         0                                            
-__________________________________________________________________________________________________
-my_embedding (Embedding)        (None, 50, 46)       2116        ciphertext[0][0]                 
-__________________________________________________________________________________________________
-conv1d (Conv1D)                 (None, 50, 368)      152720      my_embedding[0][0]               
-__________________________________________________________________________________________________
-p_re_lu (PReLU)                 (None, 50, 368)      18400       conv1d[0][0]                     
-__________________________________________________________________________________________________
-spatial_dropout1d (SpatialDropo (None, 50, 368)      0           p_re_lu[0][0]                    
-__________________________________________________________________________________________________
-conv1d_1 (Conv1D)               (None, 50, 368)      406640      spatial_dropout1d[0][0]          
-__________________________________________________________________________________________________
-p_re_lu_1 (PReLU)               (None, 50, 368)      18400       conv1d_1[0][0]                   
-__________________________________________________________________________________________________
-spatial_dropout1d_1 (SpatialDro (None, 50, 368)      0           p_re_lu_1[0][0]                  
-__________________________________________________________________________________________________
-conv1d_2 (Conv1D)               (None, 50, 368)      406640      spatial_dropout1d_1[0][0]        
-__________________________________________________________________________________________________
-p_re_lu_2 (PReLU)               (None, 50, 368)      18400       conv1d_2[0][0]                   
-__________________________________________________________________________________________________
-spatial_dropout1d_2 (SpatialDro (None, 50, 368)      0           p_re_lu_2[0][0]                  
-__________________________________________________________________________________________________
-conv1d_3 (Conv1D)               (None, 50, 368)      406640      spatial_dropout1d_2[0][0]        
-__________________________________________________________________________________________________
-p_re_lu_3 (PReLU)               (None, 50, 368)      18400       conv1d_3[0][0]                   
-__________________________________________________________________________________________________
-spatial_dropout1d_3 (SpatialDro (None, 50, 368)      0           p_re_lu_3[0][0]                  
-__________________________________________________________________________________________________
-conv1d_4 (Conv1D)               (None, 50, 368)      406640      spatial_dropout1d_3[0][0]        
-__________________________________________________________________________________________________
-p_re_lu_4 (PReLU)               (None, 50, 368)      18400       conv1d_4[0][0]                   
-__________________________________________________________________________________________________
-spatial_dropout1d_4 (SpatialDro (None, 50, 368)      0           p_re_lu_4[0][0]                  
-__________________________________________________________________________________________________
-clear (Conv1D)                  (None, 50, 46)       16974       spatial_dropout1d_4[0][0]        
-__________________________________________________________________________________________________
-key (Conv1D)                    (None, 50, 46)       16974       spatial_dropout1d_4[0][0]        
-==================================================================================================
-Total params: 1,907,344
-Trainable params: 1,907,344
-Non-trainable params: 0
-__________________________________________________________________________________________________
-text size: 41,599,298	layers: 7
-Window length: 50
-625/625 [==============================] - 11s 18ms/step - loss: 3.1491 - clear_loss: 1.5744 - key_loss: 1.5748 - clear_accuracy: 0.5313 - key_accuracy: 0.5318
-Training:
-Train for 3125 steps, validate for 625 steps
-Epoch 1/1007
-3122/3125 [============================>.] - ETA: 0s - loss: 3.5175 - clear_loss: 1.7590 - key_loss: 1.7585 - clear_accuracy: 0.4876 - key_accuracy: 0.4876
-Epoch 00001: saving model to /content/drive/My Drive/twotimepad/dropout-simple-new.h5
-3125/3125 [==============================] - 63s 20ms/step - loss: 3.5176 - clear_loss: 1.7591 - key_loss: 1.7585 - clear_accuracy: 0.4876 - key_accuracy: 0.4876 - val_loss: 3.1463 - val_clear_loss: 1.5734 - val_key_loss: 1.5729 - val_clear_accuracy: 0.5315 - val_key_accuracy: 0.5314
-Epoch 2/1007
-3124/3125 [============================>.] - ETA: 0s - loss: 3.5163 - clear_loss: 1.7584 - key_loss: 1.7579 - clear_accuracy: 0.4879 - key_accuracy: 0.4879
-Epoch 00002: saving model to /content/drive/My Drive/twotimepad/dropout-simple-new.h5
-3125/3125 [==============================] - 62s 20ms/step - loss: 3.5164 - clear_loss: 1.7584 - key_loss: 1.7579 - clear_accuracy: 0.4879 - key_accuracy: 0.4879 - val_loss: 3.1458 - val_clear_loss: 1.5730 - val_key_loss: 1.5728 - val_clear_accuracy: 0.5320 - val_key_accuracy: 0.5324
-Epoch 3/1007
-3123/3125 [============================>.] - ETA: 0s - loss: 3.5182 - clear_loss: 1.7594 - key_loss: 1.7588 - clear_accuracy: 0.4874 - key_accuracy: 0.4871
-Epoch 00003: saving model to /content/drive/My Drive/twotimepad/dropout-simple-new.h5
-3125/3125 [==============================] - 62s 20ms/step - loss: 3.5183 - clear_loss: 1.7594 - key_loss: 1.7588 - clear_accuracy: 0.4874 - key_accuracy: 0.4871 - val_loss: 3.1403 - val_clear_loss: 1.5702 - val_key_loss: 1.5701 - val_clear_accuracy: 0.5332 - val_key_accuracy: 0.5331
-Epoch 4/1007
-3122/3125 [============================>.] - ETA: 0s - loss: 3.5168 - clear_loss: 1.7587 - key_loss: 1.7580 - clear_accuracy: 0.4880 - key_accuracy: 0.4879
-Epoch 00004: saving model to /content/drive/My Drive/twotimepad/dropout-simple-new.h5
-3125/3125 [==============================] - 62s 20ms/step - loss: 3.5167 - clear_loss: 1.7587 - key_loss: 1.7580 - clear_accuracy: 0.4880 - key_accuracy: 0.4879 - val_loss: 3.1542 - val_clear_loss: 1.5769 - val_key_loss: 1.5774 - val_clear_accuracy: 0.5307 - val_key_accuracy: 0.5305
-Epoch 5/1007
-3124/3125 [============================>.] - ETA: 0s - loss: 3.5111 - clear_loss: 1.7556 - key_loss: 1.7554 - clear_accuracy: 0.4887 - key_accuracy: 0.4885
-Epoch 00005: saving model to /content/drive/My Drive/twotimepad/dropout-simple-new.h5
-3125/3125 [==============================] - 62s 20ms/step - loss: 3.5111 - clear_loss: 1.7556 - key_loss: 1.7555 - clear_accuracy: 0.4887 - key_accuracy: 0.4884 - val_loss: 3.1471 - val_clear_loss: 1.5735 - val_key_loss: 1.5736 - val_clear_accuracy: 0.5319 - val_key_accuracy: 0.5321
-Epoch 6/1007
-3122/3125 [============================>.] - ETA: 0s - loss: 3.5132 - clear_loss: 1.7565 - key_loss: 1.7566 - clear_accuracy: 0.4882 - key_accuracy: 0.4880
-Epoch 00006: saving model to /content/drive/My Drive/twotimepad/dropout-simple-new.h5
-
-Epoch 00006: ReduceLROnPlateau reducing learning rate to 7.812500371073838e-06.
-3125/3125 [==============================] - 62s 20ms/step - loss: 3.5132 - clear_loss: 1.7565 - key_loss: 1.7567 - clear_accuracy: 0.4882 - key_accuracy: 0.4880 - val_loss: 3.1422 - val_clear_loss: 1.5713 - val_key_loss: 1.5709 - val_clear_accuracy: 0.5322 - val_key_accuracy: 0.5324
-Epoch 7/1007
-3123/3125 [============================>.] - ETA: 0s - loss: 3.5155 - clear_loss: 1.7578 - key_loss: 1.7576 - clear_accuracy: 0.4878 - key_accuracy: 0.4878
-Epoch 00007: saving model to /content/drive/My Drive/twotimepad/dropout-simple-new.h5
-3125/3125 [==============================] - 62s 20ms/step - loss: 3.5154 - clear_loss: 1.7578 - key_loss: 1.7576 - clear_accuracy: 0.4878 - key_accuracy: 0.4878 - val_loss: 3.1515 - val_clear_loss: 1.5757 - val_key_loss: 1.5757 - val_clear_accuracy: 0.5310 - val_key_accuracy: 0.5308
-Epoch 8/1007
-3123/3125 [============================>.] - ETA: 0s - loss: 3.5132 - clear_loss: 1.7568 - key_loss: 1.7563 - clear_accuracy: 0.4883 - key_accuracy: 0.4885
-Epoch 00008: saving model to /content/drive/My Drive/twotimepad/dropout-simple-new.h5
-3125/3125 [==============================] - 62s 20ms/step - loss: 3.5132 - clear_loss: 1.7568 - key_loss: 1.7563 - clear_accuracy: 0.4883 - key_accuracy: 0.4885 - val_loss: 3.1525 - val_clear_loss: 1.5764 - val_key_loss: 1.5761 - val_clear_accuracy: 0.5312 - val_key_accuracy: 0.5311
-Epoch 9/1007
-3122/3125 [============================>.] - ETA: 0s - loss: 3.5148 - clear_loss: 1.7577 - key_loss: 1.7571 - clear_accuracy: 0.4880 - key_accuracy: 0.4879
-Epoch 00009: saving model to /content/drive/My Drive/twotimepad/dropout-simple-new.h5
-
-Epoch 00009: ReduceLROnPlateau reducing learning rate to 3.906250185536919e-06.
-3125/3125 [==============================] - 62s 20ms/step - loss: 3.5149 - clear_loss: 1.7577 - key_loss: 1.7572 - clear_accuracy: 0.4880 - key_accuracy: 0.4879 - val_loss: 3.1432 - val_clear_loss: 1.5718 - val_key_loss: 1.5714 - val_clear_accuracy: 0.5319 - val_key_accuracy: 0.5322
-Epoch 10/1007
-3122/3125 [============================>.] - ETA: 0s - loss: 3.5135 - clear_loss: 1.7570 - key_loss: 1.7565 - clear_accuracy: 0.4883 - key_accuracy: 0.4882
-Epoch 00010: saving model to /content/drive/My Drive/twotimepad/dropout-simple-new.h5
-3125/3125 [==============================] - 62s 20ms/step - loss: 3.5136 - clear_loss: 1.7570 - key_loss: 1.7566 - clear_accuracy: 0.4883 - key_accuracy: 0.4882 - val_loss: 3.1435 - val_clear_loss: 1.5715 - val_key_loss: 1.5720 - val_clear_accuracy: 0.5320 - val_key_accuracy: 0.5320
-Epoch 11/1007
-3123/3125 [============================>.] - ETA: 0s - loss: 3.5150 - clear_loss: 1.7577 - key_loss: 1.7574 - clear_accuracy: 0.4881 - key_accuracy: 0.4881
-Epoch 00011: saving model to /content/drive/My Drive/twotimepad/dropout-simple-new.h5
-3125/3125 [==============================] - 62s 20ms/step - loss: 3.5150 - clear_loss: 1.7577 - key_loss: 1.7574 - clear_accuracy: 0.4881 - key_accuracy: 0.4881 - val_loss: 3.1468 - val_clear_loss: 1.5733 - val_key_loss: 1.5735 - val_clear_accuracy: 0.5317 - val_key_accuracy: 0.5318
-Epoch 12/1007
-2602/3125 [=======================>......] - ETA: 9s - loss: 3.5181 - clear_loss: 1.7593 - key_loss: 1.7589 - clear_accuracy: 0.4878 - key_accuracy: 0.4879
-Epoch 00012: saving model to /content/drive/My Drive/twotimepad/dropout-simple-new.h5
-WARNING:tensorflow:Reduce LR on plateau conditioned on metric `val_loss` which is not available. Available metrics are: loss,clear_loss,key_loss,clear_accuracy,key_accuracy,lr
-WARNING:tensorflow:Early stopping conditioned on metric `val_loss` which is not available. Available metrics are: loss,clear_loss,key_loss,clear_accuracy,key_accuracy,lr
-2604/3125 [=======================>......] - ETA: 9s - loss: 3.5181 - clear_loss: 1.7593 - key_loss: 1.7589 - clear_accuracy: 0.4879 - key_accuracy: 0.4879
----------------------------------------------------------------------------
-KeyboardInterrupt                         Traceback (most recent call last)
-<ipython-input-8-6063f09b54d4> in <module>()
-     24             epochs=1000+layers, # Excessively long.  But early stopping should rescue us.
-     25             validation_data=TwoTimePadSequence(l, 2*10**4),
----> 26             callbacks=callbacks_list))
-     27   #(ciphers_t, labels_t, keys_t) = samples(text, 1000, l)
-     28   #print("Eval:")
-
-10 frames
-/tensorflow-2.1.0/python3.6/tensorflow_core/python/eager/execute.py in quick_execute(op_name, num_outputs, inputs, attrs, ctx, name)
-     59     tensors = pywrap_tensorflow.TFE_Py_Execute(ctx._handle, device_name,
-     60                                                op_name, inputs, attrs,
----> 61                                                num_outputs)
-     62   except core._NotOkStatusException as e:
-     63     if name is not None:
-
-KeyboardInterrupt:
-
-3123/3125 [============================>.] - ETA: 0s - loss: 2.6116 - clear_loss: 1.3059 - key_loss: 1.3057 - clear_accuracy: 0.6076 - key_accuracy: 0.6076
-Epoch 00014: saving model to /content/drive/My Drive/twotimepad/no-dropout-factored-conv-var.h5
-3125/3125 [==============================] - 139s 44ms/step - loss: 2.6117 - clear_loss: 1.3060 - key_loss: 1.3057 - clear_accuracy: 0.6076 - key_accuracy: 0.6076 - val_loss: 2.6022 - val_clear_loss: 1.3013 - val_key_loss: 1.3009 - val_clear_accuracy: 0.6087 - val_key_accuracy: 0.6087
-Epoch 15/1007
-3123/3125 [============================>.] - ETA: 0s - loss: 2.5942 - clear_loss: 1.2971 - key_loss: 1.2970 - clear_accuracy: 0.6103 - key_accuracy: 0.6102
-Epoch 00015: saving model to /content/drive/My Drive/twotimepad/no-dropout-factored-conv-var.h5
-3125/3125 [==============================] - 138s 44ms/step - loss: 2.5941 - clear_loss: 1.2971 - key_loss: 1.2970 - clear_accuracy: 0.6103 - key_accuracy: 0.6102 - val_loss: 2.6008 - val_clear_loss: 1.2999 - val_key_loss: 1.3009 - val_clear_accuracy: 0.6106 - val_key_accuracy: 0.6101
-Epoch 16/1007
-3123/3125 [============================>.] - ETA: 0s - loss: 2.5888 - clear_loss: 1.2944 - key_loss: 1.2944 - clear_accuracy: 0.6113 - key_accuracy: 0.6111
-Epoch 00016: saving model to /content/drive/My Drive/twotimepad/no-dropout-factored-conv-var.h5
-3125/3125 [==============================] - 137s 44ms/step - loss: 2.5887 - clear_loss: 1.2943 - key_loss: 1.2944 - clear_accuracy: 0.6113 - key_accuracy: 0.6111 - val_loss: 2.5817 - val_clear_loss: 1.2899 - val_key_loss: 1.2918 - val_clear_accuracy: 0.6127 - val_key_accuracy: 0.6119
-Epoch 17/1007
-3124/3125 [============================>.] - ETA: 0s - loss: 2.5713 - clear_loss: 1.2859 - key_loss: 1.2854 - clear_accuracy: 0.6139 - key_accuracy: 0.6138
-Epoch 00017: saving model to /content/drive/My Drive/twotimepad/no-dropout-factored-conv-var.h5
-3125/3125 [==============================] - 137s 44ms/step - loss: 2.5713 - clear_loss: 1.2859 - key_loss: 1.2854 - clear_accuracy: 0.6139 - key_accuracy: 0.6138 - val_loss: 2.5562 - val_clear_loss: 1.2778 - val_key_loss: 1.2783 - val_clear_accuracy: 0.6167 - val_key_accuracy: 0.6163
-Epoch 18/1007
-3124/3125 [============================>.] - ETA: 0s - loss: 2.5679 - clear_loss: 1.2842 - key_loss: 1.2837 - clear_accuracy: 0.6142 - key_accuracy: 0.6145
-Epoch 00018: saving model to /content/drive/My Drive/twotimepad/no-dropout-factored-conv-var.h5
-3125/3125 [==============================] - 137s 44ms/step - loss: 2.5678 - clear_loss: 1.2842 - key_loss: 1.2837 - clear_accuracy: 0.6142 - key_accuracy: 0.6145 - val_loss: 2.5451 - val_clear_loss: 1.2725 - val_key_loss: 1.2726 - val_clear_accuracy: 0.6178 - val_key_accuracy: 0.6180
-Epoch 19/1007
-3123/3125 [============================>.] - ETA: 0s - loss: 2.5582 - clear_loss: 1.2793 - key_loss: 1.2789 - clear_accuracy: 0.6156 - key_accuracy: 0.6157
-Epoch 00019: saving model to /content/drive/My Drive/twotimepad/no-dropout-factored-conv-var.h5
-3125/3125 [==============================] - 137s 44ms/step - loss: 2.5582 - clear_loss: 1.2793 - key_loss: 1.2789 - clear_accuracy: 0.6156 - key_accuracy: 0.6157 - val_loss: 2.5588 - val_clear_loss: 1.2792 - val_key_loss: 1.2796 - val_clear_accuracy: 0.6158 - val_key_accuracy: 0.6160
-Epoch 20/1007
-3123/3125 [============================>.] - ETA: 0s - loss: 2.5498 - clear_loss: 1.2751 - key_loss: 1.2747 - clear_accuracy: 0.6171 - key_accuracy: 0.6170
-Epoch 00020: saving model to /content/drive/My Drive/twotimepad/no-dropout-factored-conv-var.h5
-3125/3125 [==============================] - 137s 44ms/step - loss: 2.5497 - clear_loss: 1.2751 - key_loss: 1.2746 - clear_accuracy: 0.6172 - key_accuracy: 0.6170 - val_loss: 2.5446 - val_clear_loss: 1.2715 - val_key_loss: 1.2731 - val_clear_accuracy: 0.6186 - val_key_accuracy: 0.6182
-Epoch 21/1007
-3123/3125 [============================>.] - ETA: 0s - loss: 2.5440 - clear_loss: 1.2722 - key_loss: 1.2718 - clear_accuracy: 0.6182 - key_accuracy: 0.6184
-Epoch 00021: saving model to /content/drive/My Drive/twotimepad/no-dropout-factored-conv-var.h5
-3125/3125 [==============================] - 137s 44ms/step - loss: 2.5439 - clear_loss: 1.2721 - key_loss: 1.2718 - clear_accuracy: 0.6182 - key_accuracy: 0.6184 - val_loss: 2.5376 - val_clear_loss: 1.2685 - val_key_loss: 1.2691 - val_clear_accuracy: 0.6199 - val_key_accuracy: 0.6198
-Epoch 22/1007
-3124/3125 [============================>.] - ETA: 0s - loss: 2.5299 - clear_loss: 1.2652 - key_loss: 1.2648 - clear_accuracy: 0.6201 - key_accuracy: 0.6203
-Epoch 00022: saving model to /content/drive/My Drive/twotimepad/no-dropout-factored-conv-var.h5
-3125/3125 [==============================] - 137s 44ms/step - loss: 2.5300 - clear_loss: 1.2652 - key_loss: 1.2648 - clear_accuracy: 0.6201 - key_accuracy: 0.6203 - val_loss: 2.5318 - val_clear_loss: 1.2657 - val_key_loss: 1.2661 - val_clear_accuracy: 0.6205 - val_key_accuracy: 0.6207
-Epoch 23/1007
-3124/3125 [============================>.] - ETA: 0s - loss: 2.5269 - clear_loss: 1.2635 - key_loss: 1.2634 - clear_accuracy: 0.6206 - key_accuracy: 0.6206
-Epoch 00023: saving model to /content/drive/My Drive/twotimepad/no-dropout-factored-conv-var.h5
-3125/3125 [==============================] - 137s 44ms/step - loss: 2.5269 - clear_loss: 1.2635 - key_loss: 1.2634 - clear_accuracy: 0.6206 - key_accuracy: 0.6206 - val_loss: 2.5181 - val_clear_loss: 1.2592 - val_key_loss: 1.2590 - val_clear_accuracy: 0.6213 - val_key_accuracy: 0.6207
-Epoch 24/1007
-3123/3125 [============================>.] - ETA: 0s - loss: 2.5200 - clear_loss: 1.2601 - key_loss: 1.2599 - clear_accuracy: 0.6218 - key_accuracy: 0.6217
-Epoch 00024: saving model to /content/drive/My Drive/twotimepad/no-dropout-factored-conv-var.h5
-3125/3125 [==============================] - 138s 44ms/step - loss: 2.5201 - clear_loss: 1.2601 - key_loss: 1.2599 - clear_accuracy: 0.6218 - key_accuracy: 0.6217 - val_loss: 2.5183 - val_clear_loss: 1.2581 - val_key_loss: 1.2603 - val_clear_accuracy: 0.6224 - val_key_accuracy: 0.6220
-Epoch 25/1007
-3124/3125 [============================>.] - ETA: 0s - loss: 2.5137 - clear_loss: 1.2569 - key_loss: 1.2568 - clear_accuracy: 0.6226 - key_accuracy: 0.6227
-Epoch 00025: saving model to /content/drive/My Drive/twotimepad/no-dropout-factored-conv-var.h5
-3125/3125 [==============================] - 137s 44ms/step - loss: 2.5137 - clear_loss: 1.2569 - key_loss: 1.2568 - clear_accuracy: 0.6226 - key_accuracy: 0.6227 - val_loss: 2.5106 - val_clear_loss: 1.2553 - val_key_loss: 1.2553 - val_clear_accuracy: 0.6226 - val_key_accuracy: 0.6229
-Epoch 26/1007
-3123/3125 [============================>.] - ETA: 0s - loss: 2.5047 - clear_loss: 1.2525 - key_loss: 1.2522 - clear_accuracy: 0.6241 - key_accuracy: 0.6242
-Epoch 00026: saving model to /content/drive/My Drive/twotimepad/no-dropout-factored-conv-var.h5
-3125/3125 [==============================] - 138s 44ms/step - loss: 2.5047 - clear_loss: 1.2525 - key_loss: 1.2522 - clear_accuracy: 0.6241 - key_accuracy: 0.6242 - val_loss: 2.5091 - val_clear_loss: 1.2542 - val_key_loss: 1.2550 - val_clear_accuracy: 0.6230 - val_key_accuracy: 0.6228
-Epoch 27/1007
-3123/3125 [============================>.] - ETA: 0s - loss: 2.5027 - clear_loss: 1.2515 - key_loss: 1.2512 - clear_accuracy: 0.6246 - key_accuracy: 0.6244
-Epoch 00027: saving model to /content/drive/My Drive/twotimepad/no-dropout-factored-conv-var.h5
-3125/3125 [==============================] - 138s 44ms/step - loss: 2.5028 - clear_loss: 1.2516 - key_loss: 1.2512 - clear_accuracy: 0.6246 - key_accuracy: 0.6244 - val_loss: 2.4941 - val_clear_loss: 1.2477 - val_key_loss: 1.2465 - val_clear_accuracy: 0.6250 - val_key_accuracy: 0.6255
-Epoch 28/1007
-3124/3125 [============================>.] - ETA: 0s - loss: 2.4945 - clear_loss: 1.2475 - key_loss: 1.2470 - clear_accuracy: 0.6255 - key_accuracy: 0.6254
-Epoch 00028: saving model to /content/drive/My Drive/twotimepad/no-dropout-factored-conv-var.h5
-3125/3125 [==============================] - 138s 44ms/step - loss: 2.4946 - clear_loss: 1.2476 - key_loss: 1.2470 - clear_accuracy: 0.6255 - key_accuracy: 0.6254 - val_loss: 2.4940 - val_clear_loss: 1.2477 - val_key_loss: 1.2463 - val_clear_accuracy: 0.6252 - val_key_accuracy: 0.6259
-Epoch 29/1007
-3123/3125 [============================>.] - ETA: 0s - loss: 2.4910 - clear_loss: 1.2457 - key_loss: 1.2453 - clear_accuracy: 0.6262 - key_accuracy: 0.6262
-Epoch 00029: saving model to /content/drive/My Drive/twotimepad/no-dropout-factored-conv-var.h5
-3125/3125 [==============================] - 138s 44ms/step - loss: 2.4909 - clear_loss: 1.2456 - key_loss: 1.2453 - clear_accuracy: 0.6262 - key_accuracy: 0.6263 - val_loss: 2.4833 - val_clear_loss: 1.2418 - val_key_loss: 1.2415 - val_clear_accuracy: 0.6272 - val_key_accuracy: 0.6274
-Epoch 30/1007
-2770/3125 [=========================>....] - ETA: 14s - loss: 2.4858 - clear_loss: 1.2432 - key_loss: 1.2427 - clear_accuracy: 0.6274 - key_accuracy: 0.6276Buffered data was truncated after reaching the output size limit.
-
-
-
