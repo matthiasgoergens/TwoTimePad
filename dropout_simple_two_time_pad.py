@@ -147,11 +147,11 @@ relu = tf.keras.layers.PReLU
 
 from tensorflow.keras.layers import Embedding, Input, Dense, Dropout, Softmax, GlobalMaxPooling1D, MaxPooling1D, Conv1D, Flatten, concatenate, Bidirectional, LSTM, SimpleRNN, SeparableConv1D
 from tensorflow.keras.models import Sequential, Model
-import tensorflow_addons as tfa
+# import tensorflow_addons as tfa
 
 batch_size = 32
 
-Maxout = tfa.layers.Maxout
+# Maxout = tfa.layers.Maxout
 
 batch_size = 32
 text = clean(load())
