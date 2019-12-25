@@ -212,11 +212,13 @@ def make_model(n):
         ))))
     for i in range(0, 7):
       conved = (
+        keras.layers.SpatialDropout1D(rate=1/drops)(
         relu()(
             Conv1D(
               filters=2 * drops * 2*46, kernel_size=1,
               padding='same')(
         keras.layers.SpatialDropout1D(rate=1/drops)(
+        relu()(
         concatenate([
           Conv1D(
             filters=2*46,
@@ -254,7 +256,7 @@ def make_model(n):
               conved
             ),
           ])))
-        ))
+        ))))
 
     last_conv = conved
 
