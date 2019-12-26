@@ -300,7 +300,7 @@ from keras.callbacks import *
 checkpoint = ModelCheckpoint(weights_name, verbose=1, save_best_only=False)
 
 callbacks_list = [checkpoint,
-                  keras.callbacks.ReduceLROnPlateau(patience=3, factor=0.5, verbose=1, min_delta=0.0001),
+                  keras.callbacks.ReduceLROnPlateau(patience=5, factor=0.5, verbose=1, min_delta=0.0001),
                   keras.callbacks.EarlyStopping(patience=50, verbose=1, restore_best_weights=True)]
 
 l = 100
