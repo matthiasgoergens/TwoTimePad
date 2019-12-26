@@ -202,59 +202,60 @@ def make_model(n):
     ## With one conv we are getting validation loss of 3.5996 quickly (at window size 30); best was ~3.3
     ## So adding another conv and lstm. val loss after first epoch about 3.3
     drops = 2
-    dropout_lower = 4
+    dropout_lower = 10 * 4
+    dropout_lower = drops
 
     # First real layer.
     conved = (
-      keras.layers.SpatialDropout1D(rate=0.1/dropout_lower)(
+      keras.layers.SpatialDropout1D(rate=1/dropout_lower)(
       relu()(
         Conv1D(
-          filters=4 * drops * 2*46, kernel_size=9,
+          filters=2 * 4 * drops * 2*46, kernel_size=9,
           padding='same')(
             embedded
         ))))
 
 
-    for i in range(0, 5):
+    for i in range(0, 7):
       conved = (
-      keras.layers.SpatialDropout1D(rate=0.1/dropout_lower)(
+      keras.layers.SpatialDropout1D(rate=1/dropout_lower)(
         relu()(
             Conv1D(
-              filters=4 * drops * 2*46, kernel_size=1,
+              filters=2 * 4 * drops * 2*46, kernel_size=1,
               padding='same')(
-        keras.layers.SpatialDropout1D(rate=0.1/dropout_lower)(
+        keras.layers.SpatialDropout1D(rate=1/dropout_lower)(
         relu()(
         concatenate([
           Conv1D(
-            filters=2*46,
+            filters=2 * 2*46,
             kernel_size=1,
             strides = 1,
             padding='same')(
               conved
           ),
           Conv1D(
-            filters=46,
+            filters=2 * 46,
             kernel_size=3,
             strides = 1,
             padding='same')(
               conved
           ),
           Conv1D(
-            filters=46,
+            filters=2 * 46,
             kernel_size=5,
             strides = 1,
             padding='same')(
               conved
           ),
           Conv1D(
-            filters=46,
+            filters=2 * 46,
             kernel_size=7,
             strides = 1,
             padding='same')(
               conved
           ),
           Conv1D(
-            filters=46,
+            filters=2 * 46,
             kernel_size=9,
             strides = 1,
             padding='same')(
@@ -283,13 +284,13 @@ def make_model(n):
     model = Model([my_input], [totes_clear, totes_key])
 
     model.compile(
-      optimizer=keras.optimizers.Adam(learning_rate=0.001 / 2**5),
+      optimizer=keras.optimizers.Adam(learning_rate=0.001 / 2**0),
       # optimizer=keras.optimizers.SGD,
       loss='sparse_categorical_crossentropy',
       metrics=['accuracy'])
     return model
 
-weights_name = 'simple-dropout0.9-1conv-simple-new.h5'
+weights_name = 'bigger-dropout0.5.h5'
 
 from datetime import datetime
 logdir = "logs/scalars/" + datetime.now().strftime("%Y%m%d-%H%M%S")
