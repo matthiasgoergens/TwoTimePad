@@ -159,7 +159,7 @@ from tensorflow.keras.layers import Embedding, Input, Dense, Dropout, Softmax, G
 from tensorflow.keras.models import Sequential, Model
 # import tensorflow_addons as tfa
 
-batch_size = 4
+batch_size = 32
 text = clean(load())
                  
 class TwoTimePadSequence(keras.utils.Sequence):
@@ -198,12 +198,12 @@ def make_model(n):
     ## With one conv we are getting validation loss of 3.5996 quickly (at window size 30); best was ~3.3
     ## So adding another conv and lstm. val loss after first epoch about 3.3
     drops = 2
-    dropout_lower = 2
+    dropout_lower = 20
     # dropout_lower = drops
 
     # First real layer.
     conved = (
-      keras.layers.SpatialDropout1D(rate=1/dropout_lower)(
+      ( # keras.layers.SpatialDropout1D(rate=1/dropout_lower)(
       relu()(
         Conv1D(
           filters=2 * 4 * drops * 2*46, kernel_size=9,
@@ -229,29 +229,69 @@ def make_model(n):
             padding='same')(
               conved
           ),
+          MaxPooling1D(
+            strides=1, padding='same',
+            pool_size=3)(
+              Conv1D(
+                filters=46,
+                kernel_size=1,
+                strides = 1,
+                padding='same')(
+                  conved
+              )),
           Conv1D(
-            filters=2 * 46,
+            filters=46,
             kernel_size=3,
             strides = 1,
             padding='same')(
               conved
           ),
+          MaxPooling1D(
+            strides=1, padding='same',
+            pool_size=5)(
+              Conv1D(
+                filters=46,
+                kernel_size=1,
+                strides = 1,
+                padding='same')(
+                  conved
+              )),
           Conv1D(
-            filters=2 * 46,
+            filters=46,
             kernel_size=5,
             strides = 1,
             padding='same')(
               conved
           ),
+          MaxPooling1D(
+            strides=1, padding='same',
+            pool_size=7)(
+              Conv1D(
+                filters=46,
+                kernel_size=1,
+                strides = 1,
+                padding='same')(
+                  conved
+              )),
           Conv1D(
-            filters=2 * 46,
+            filters=46,
             kernel_size=7,
             strides = 1,
             padding='same')(
               conved
           ),
+          MaxPooling1D(
+            strides=1, padding='same',
+            pool_size=9)(
+              Conv1D(
+                filters=46,
+                kernel_size=1,
+                strides = 1,
+                padding='same')(
+                  conved
+              )),
           Conv1D(
-            filters=2 * 46,
+            filters=46,
             kernel_size=9,
             strides = 1,
             padding='same')(
@@ -280,15 +320,15 @@ def make_model(n):
     model = Model([my_input], [totes_clear, totes_key])
 
     model.compile(
-      # optimizer=keras.optimizers.Adam(learning_rate=0.001),
+      optimizer=keras.optimizers.Adam(learning_rate=0.001),
       # optimizer=keras.optimizers.SGD(), # learning_rate=0.001 / 2**0),
       # optimizer=keras.optimizers.SGD,
-      optimizer=tf.keras.optimizers.Adadelta(),
+      # optimizer=tf.keras.optimizers.Adadelta(),
       loss='sparse_categorical_crossentropy',
       metrics=['accuracy'])
     return model
 
-weights_name = 'bigger-dropout0.5-adadelta-batch-1.h5'
+weights_name = 'bigger-dropout0.05-adam-maxpool.h5'
 
 from datetime import datetime
 logdir = "logs/scalars/" + datetime.now().strftime("%Y%m%d-%H%M%S")
@@ -301,36 +341,26 @@ callbacks_list = [checkpoint,
                   keras.callbacks.ReduceLROnPlateau(patience=3, factor=0.5, verbose=1, min_delta=0.0001),
                   keras.callbacks.EarlyStopping(patience=100, verbose=1, restore_best_weights=True)]
 
-l = 100
+l = 60
 with tf.device(device_name):
-  layers = 7
   model = make_model(l)
+  model.summary()
   try:
     model.load_weights(weights_name)
     print("Loaded weights.")
   except:
     print("Failed to load weights.")
     # raise
-  model.summary()
-  #for i in range(10*(layers+1)):
 
-  text = clean(load())
-  print("text size: {:,}\tlayers: {}".format(len(text), layers))
+  print("text size: {:,}".format(len(text)))
   print("Window length: {}".format(l))
 
   model.evaluate(TwoTimePadSequence(l, 2*10**4))
-  print("Training:")
-  # (ciphers, labels, keys) = samples(text, training_size, l)
-  # print(model.fit(ciphers, [labels, keys],
   print(model.fit(x=TwoTimePadSequence(l, 10**5),
             max_queue_size=10_000,
-            epochs=1000+layers, # Excessively long.  But early stopping should rescue us.
+            epochs=1007, # Excessively long.  But early stopping should rescue us.
             validation_data=TwoTimePadSequence(l, 2*10**4),
             callbacks=callbacks_list))
-  #(ciphers_t, labels_t, keys_t) = samples(text, 1000, l)
-  #print("Eval:")
-  #model.evaluate(TwoTimePadSequence(l, 10**4))
-  model.save("{}_layers_{}".format(weights_name, layers))
 
   print("Predict:")
   predict_size = 3
