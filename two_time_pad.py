@@ -189,7 +189,8 @@ def cipher_for_predict():
     return tf.convert_to_tensor([sub(c1, c2)])
 
 def make_model(n):    
-    my_input = Input(shape=(n,), dtype='int32', name="ciphertext")
+    # my_input = Input(shape=(n,), dtype='int32', name="ciphertext")
+    my_input = Input(shape=(n,), name="ciphertext")
     embedded = (
       (
       Embedding(output_dim=len(alpha), input_dim=len(alpha), name="my_embedding",
