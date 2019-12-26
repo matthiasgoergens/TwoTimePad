@@ -159,11 +159,7 @@ from tensorflow.keras.layers import Embedding, Input, Dense, Dropout, Softmax, G
 from tensorflow.keras.models import Sequential, Model
 # import tensorflow_addons as tfa
 
-batch_size = 32
-
-# Maxout = tfa.layers.Maxout
-
-batch_size = 32
+batch_size = 4
 text = clean(load())
                  
 class TwoTimePadSequence(keras.utils.Sequence):
@@ -202,8 +198,8 @@ def make_model(n):
     ## With one conv we are getting validation loss of 3.5996 quickly (at window size 30); best was ~3.3
     ## So adding another conv and lstm. val loss after first epoch about 3.3
     drops = 2
-    dropout_lower = 10 * 4
-    dropout_lower = drops
+    dropout_lower = 2
+    # dropout_lower = drops
 
     # First real layer.
     conved = (
@@ -216,7 +212,7 @@ def make_model(n):
         ))))
 
 
-    for i in range(0, 7):
+    for i in range(0, 5):
       conved = (
       keras.layers.SpatialDropout1D(rate=1/dropout_lower)(
         relu()(
@@ -284,13 +280,15 @@ def make_model(n):
     model = Model([my_input], [totes_clear, totes_key])
 
     model.compile(
-      optimizer=keras.optimizers.Adam(learning_rate=0.001 / 2**0),
+      # optimizer=keras.optimizers.Adam(learning_rate=0.001),
+      # optimizer=keras.optimizers.SGD(), # learning_rate=0.001 / 2**0),
       # optimizer=keras.optimizers.SGD,
+      optimizer=tf.keras.optimizers.Adadelta(),
       loss='sparse_categorical_crossentropy',
       metrics=['accuracy'])
     return model
 
-weights_name = 'bigger-dropout0.5.h5'
+weights_name = 'bigger-dropout0.5-adadelta-batch-1.h5'
 
 from datetime import datetime
 logdir = "logs/scalars/" + datetime.now().strftime("%Y%m%d-%H%M%S")
@@ -300,8 +298,8 @@ from keras.callbacks import *
 checkpoint = ModelCheckpoint(weights_name, verbose=1, save_best_only=False)
 
 callbacks_list = [checkpoint,
-                  keras.callbacks.ReduceLROnPlateau(patience=5, factor=0.5, verbose=1, min_delta=0.0001),
-                  keras.callbacks.EarlyStopping(patience=50, verbose=1, restore_best_weights=True)]
+                  keras.callbacks.ReduceLROnPlateau(patience=3, factor=0.5, verbose=1, min_delta=0.0001),
+                  keras.callbacks.EarlyStopping(patience=100, verbose=1, restore_best_weights=True)]
 
 l = 100
 with tf.device(device_name):
