@@ -199,6 +199,15 @@ def make_model(n):
       my_input
     )))
 
+    def make_end(c):
+        return Conv1D(
+            filters=len(alpha), kernel_size=1,
+            padding='same', strides=1,
+            dtype=mixed_precision.Policy('float32'))(
+          c)
+    clears = [make_end(embedded)]
+    keys = [make_end(embedded)]
+
     ## Best loss without conv at all was 4.5
     ## With one conv we are getting validation loss of 3.5996 quickly (at window size 30); best was ~3.3
     ## So adding another conv and lstm. val loss after first epoch about 3.3
@@ -216,28 +225,22 @@ def make_model(n):
       conved = (
         keras.layers.SpatialDropout1D(rate=1/drops)(
         relu()(
-            Conv1D(
-              filters=4 * drops * 2*46, kernel_size=9,
-              padding='same')(
-            conved))))
+        Conv1D(filters = 2 * drops * 2*46, kernel_size=1)(
+        concatenate([
+            clears[-1],
+            keys[-1],
+            relu()(
+                Conv1D(
+                  filters=2*46, kernel_size=11,
+                  padding='same')(
+                conved))])))))
+      clears.append(make_end(conved))
+      keys.append(make_end(conved))
 
     last_conv = conved
 
-    gather_name = ''
-    totes_clear = (
-      (Conv1D(
-        filters=len(alpha), kernel_size=1,
-        padding='same', strides=1, name="clear" + gather_name,
-        activation='softmax', dtype=mixed_precision.Policy('float32'))(
-      last_conv
-    )))
-    totes_key = (
-      (Conv1D(
-        filters=len(alpha), kernel_size=1,
-        padding='same', strides=1, name="key" + gather_name,
-        activation='softmax', dtype=mixed_precision.Policy('float32'))(
-      last_conv
-    )))
+    totes_clear = Softmax()(keras.layers.Add()(clears))
+    totes_key = Softmax()(keras.layers.Add()(keys))
     model = Model([my_input], [totes_clear, totes_key])
 
     model.compile(
@@ -260,7 +263,7 @@ callbacks_list = [checkpoint,
                   keras.callbacks.ReduceLROnPlateau(patience=3, factor=0.5, verbose=1, min_delta=0.0001),
                   keras.callbacks.EarlyStopping(patience=50, verbose=1, restore_best_weights=True)]
 
-l = 100
+l = 60
 with tf.device(device_name):
   layers = 7
   model = make_model(l)
