@@ -264,7 +264,7 @@ def make_model(n):
       metrics=['accuracy'])
     return model
 
-weights_name = 'big-maxout.h5'
+weights_name = 'small-maxout-selu.h5'
 
 from datetime import datetime
 logdir = "logs/scalars/" + datetime.now().strftime("%Y%m%d-%H%M%S")
@@ -290,26 +290,8 @@ with tf.device(device_name):
     # raise
   #for i in range(10*(layers+1)):
 
-  text = clean(load())
-  print("text size: {:,}\tlayers: {}".format(len(text), layers))
-  print("Window length: {}".format(l))
-
-  model.evaluate(TwoTimePadSequence(l, 2*10**4))
-  # print("Training:")
-  # (ciphers, labels, keys) = samples(text, training_size, l)
-  # print(model.fit(ciphers, [labels, keys],
-  print(model.fit(x=TwoTimePadSequence(l, 10**5),
-            max_queue_size=10_000,
-            epochs=1000+layers, # Excessively long.  But early stopping should rescue us.
-            validation_data=TwoTimePadSequence(l, 2*10**4),
-            callbacks=callbacks_list))
-  #(ciphers_t, labels_t, keys_t) = samples(text, 1000, l)
-  #print("Eval:")
-  #model.evaluate(TwoTimePadSequence(l, 10**4))
-  model.save("{}_layers_{}".format(weights_name, layers))
-
   print("Predict:")
-  predict_size = 3
+  predict_size = 10
   
   # ita_cipher = cipher_for_predict()
   # [ita_label, ita_key] = model .predict(ita_cipher)
@@ -333,6 +315,25 @@ with tf.device(device_name):
       )),
     # width=250
     )
+
+
+  print("text size: {:,}\tlayers: {}".format(len(text), layers))
+  print("Window length: {}".format(l))
+
+  model.evaluate(TwoTimePadSequence(l, 2*10**4))
+  # print("Training:")
+  # (ciphers, labels, keys) = samples(text, training_size, l)
+  # print(model.fit(ciphers, [labels, keys],
+  print(model.fit(x=TwoTimePadSequence(l, 10**5),
+            max_queue_size=10_000,
+            epochs=1000+layers, # Excessively long.  But early stopping should rescue us.
+            validation_data=TwoTimePadSequence(l, 2*10**4),
+            callbacks=callbacks_list))
+  #(ciphers_t, labels_t, keys_t) = samples(text, 1000, l)
+  #print("Eval:")
+  #model.evaluate(TwoTimePadSequence(l, 10**4))
+  model.save("{}_layers_{}".format(weights_name, layers))
+
 # Idea: we don't need the full 50% dropout regularization, because our input is already random.
 # So try eg keeping 90% of units?  Just enough to punish big gross / small nettto co-adaptions.
 
