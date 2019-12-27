@@ -198,32 +198,42 @@ def make_model(n):
     ## With one conv we are getting validation loss of 3.5996 quickly (at window size 30); best was ~3.3
     ## So adding another conv and lstm. val loss after first epoch about 3.3
     drops = 2
-    dropout_lower = 20
+    dropout_lower = 2
     # dropout_lower = drops
 
     # First real layer.
     conved = (
-      ( # keras.layers.SpatialDropout1D(rate=1/dropout_lower)(
+      keras.layers.SpatialDropout1D(rate=1/dropout_lower)(
       relu()(
         Conv1D(
           filters=2 * 4 * drops * 2*46, kernel_size=9,
           padding='same')(
             embedded
         ))))
-
+    def make_end(c):
+        return Conv1D(
+            filters=len(alpha), kernel_size=1,
+            padding='same', strides=1,
+            dtype=mixed_precision.Policy('float32'))(
+          c)
+    clears = [make_end(conved)]
+    keys = [make_end(conved)]
 
     for i in range(0, 5):
       conved = (
       keras.layers.SpatialDropout1D(rate=1/dropout_lower)(
         relu()(
             Conv1D(
-              filters=2 * 4 * drops * 2*46, kernel_size=1,
+              filters=2 * 4 * 46, kernel_size=1,
               padding='same')(
+        concatenate([
+          clears[-1],
+          keys[-1],
         keras.layers.SpatialDropout1D(rate=1/dropout_lower)(
         relu()(
         concatenate([
           Conv1D(
-            filters=2 * 2*46,
+            filters=2*46,
             kernel_size=1,
             strides = 1,
             padding='same')(
@@ -246,23 +256,23 @@ def make_model(n):
             padding='same')(
               conved
           ),
-          MaxPooling1D(
-            strides=1, padding='same',
-            pool_size=5)(
-              Conv1D(
-                filters=46,
-                kernel_size=1,
-                strides = 1,
-                padding='same')(
-                  conved
-              )),
-          Conv1D(
-            filters=46,
-            kernel_size=5,
-            strides = 1,
-            padding='same')(
-              conved
-          ),
+#           MaxPooling1D(
+#             strides=1, padding='same',
+#             pool_size=5)(
+#               Conv1D(
+#                 filters=46,
+#                 kernel_size=1,
+#                 strides = 1,
+#                 padding='same')(
+#                   conved
+#               )),
+#           Conv1D(
+#             filters=46,
+#             kernel_size=5,
+#             strides = 1,
+#             padding='same')(
+#               conved
+#           ),
           MaxPooling1D(
             strides=1, padding='same',
             pool_size=7)(
@@ -280,9 +290,26 @@ def make_model(n):
             padding='same')(
               conved
           ),
+#          MaxPooling1D(
+#            strides=1, padding='same',
+#            pool_size=9)(
+#              Conv1D(
+#                filters=46,
+#                kernel_size=1,
+#                strides = 1,
+#                padding='same')(
+#                  conved
+#              )),
+#          Conv1D(
+#            filters=46,
+#            kernel_size=9,
+#            strides = 1,
+#            padding='same')(
+#              conved
+#            ),
           MaxPooling1D(
             strides=1, padding='same',
-            pool_size=9)(
+            pool_size=11)(
               Conv1D(
                 filters=46,
                 kernel_size=1,
@@ -292,31 +319,19 @@ def make_model(n):
               )),
           Conv1D(
             filters=46,
-            kernel_size=9,
+            kernel_size=11,
             strides = 1,
             padding='same')(
               conved
             ),
-          ])))
+          ])))])
         ))))
+      clears.append(make_end(conved))
+      keys.append(make_end(conved))
 
-    last_conv = conved
+    totes_clear = Softmax()(keras.layers.Add()(clears))
+    totes_key = Softmax()(keras.layers.Add()(keys))
 
-    gather_name = ''
-    totes_clear = (
-      (Conv1D(
-        filters=len(alpha), kernel_size=1,
-        padding='same', strides=1, name="clear" + gather_name,
-        activation='softmax', dtype=mixed_precision.Policy('float32'))(
-      last_conv
-    )))
-    totes_key = (
-      (Conv1D(
-        filters=len(alpha), kernel_size=1,
-        padding='same', strides=1, name="key" + gather_name,
-        activation='softmax', dtype=mixed_precision.Policy('float32'))(
-      last_conv
-    )))
     model = Model([my_input], [totes_clear, totes_key])
 
     model.compile(
@@ -328,7 +343,7 @@ def make_model(n):
       metrics=['accuracy'])
     return model
 
-weights_name = 'bigger-dropout0.05-adam-maxpool.h5'
+weights_name = 'dropout0.05-adam-maxpool-output-from-all.h5'
 
 from datetime import datetime
 logdir = "logs/scalars/" + datetime.now().strftime("%Y%m%d-%H%M%S")
