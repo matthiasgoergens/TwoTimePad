@@ -235,7 +235,7 @@ def make_model(n):
         TimeDistributed(BatchNormalization())(
         TimeDistributed(Maxout(2*46))(
         SpatialDropout1D(rate=1/dropout_lower)(
-        Conv1D(filters = 4 * 2 *46, kernel_size=1)(
+        Conv1D(filters = 8 * 2 *46, kernel_size=1)(
         conved))))))))
 #        concatenate([ # (2 + 2) * 46)
 #            clears[-1], # 46
