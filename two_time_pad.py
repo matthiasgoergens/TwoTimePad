@@ -155,7 +155,7 @@ def samples(text, batch_size, l):
 # relu = ft.partial(keras.layers.LeakyReLU, alpha=0.1)
 relu = tf.keras.layers.PReLU
 
-from tensorflow.keras.layers import Embedding, Input, Dense, Dropout, Softmax, GlobalMaxPooling1D, MaxPooling1D, Conv1D, Flatten, concatenate, Bidirectional, LSTM, SimpleRNN, SeparableConv1D
+from tensorflow.keras.layers import Embedding, Input, Dense, Dropout, Softmax, GlobalMaxPooling1D, MaxPooling1D, Conv1D, Flatten, concatenate, Bidirectional, LSTM, SimpleRNN, SeparableConv1D, TimeDistributed, BatchNormalization, SpatialDropout1D
 from tensorflow.keras.models import Sequential, Model
 import tensorflow_addons as tfa
 
@@ -205,8 +205,8 @@ def make_model(n):
             padding='same', strides=1,
             dtype=mixed_precision.Policy('float32'))(
           c)
-    clears = [make_end(embedded)]
-    keys = [make_end(embedded)]
+    # clears = [make_end(embedded)]
+    # keys = [make_end(embedded)]
 
     ## Best loss without conv at all was 4.5
     ## With one conv we are getting validation loss of 3.5996 quickly (at window size 30); best was ~3.3
@@ -228,27 +228,30 @@ def make_model(n):
     # Ideas: more nodes, no/lower dropout, only look for last layer for final loss.
     for i in range(9):
       conved = (
-        relu()(
+        TimeDistributed(BatchNormalization())(
+        TimeDistributed(relu())(
         Conv1D(
-          filters=2*46, kernel_size=15,
+          filters=3*46, kernel_size=15,
           padding='same')(
-        Maxout(2*46)(
-        keras.layers.SpatialDropout1D(rate=1/dropout_lower)(
-        Conv1D(filters = 4 * 2*46, kernel_size=1)(
-        concatenate([ # (2 + 2) * 46)
-            clears[-1], # 46
-            keys[-1],   # 46
-            conved]))))))) # 2 * 46
-      clears.append(make_end(conved))
-      keys.append(make_end(conved))
+        TimeDistributed(Maxout(2*46))(
+        TimeDistributed(BatchNormalization())(
+        SpatialDropout1D(rate=1/dropout_lower)(
+        Conv1D(filters = 4 * 2 *46, kernel_size=1)(
+        conved))))))))
+#        concatenate([ # (2 + 2) * 46)
+#            clears[-1], # 46
+#            keys[-1],   # 46
+#            conved]))))))))) # 2 * 46
+      # clears.append(make_end(conved))
+      # keys.append(make_end(conved))
 
-    last_conv = conved
+    # last_conv = conved
 
     # totes_clear = Softmax()(keras.layers.Add()(clears))
     # totes_key = Softmax()(keras.layers.Add()(keys))
 
-    totes_clear = Softmax()(clears[-1])
-    totes_key = Softmax()(keys[-1])
+    totes_clear = TimeDistributed(Softmax())(make_end(conved))
+    totes_key = TimeDistributed(Softmax())(make_end(conved))
 
     model = Model([my_input], [totes_clear, totes_key])
 
@@ -269,28 +272,28 @@ from keras.callbacks import *
 checkpoint = ModelCheckpoint(weights_name, verbose=1, save_best_only=False)
 
 callbacks_list = [checkpoint,
-                  keras.callbacks.ReduceLROnPlateau(patience=3, factor=0.5, verbose=1, min_delta=0.0001),
-                  keras.callbacks.EarlyStopping(patience=50, verbose=1, restore_best_weights=True)]
+                  keras.callbacks.ReduceLROnPlateau(patience=20, factor=0.5, verbose=1, min_delta=0.0001),
+                  keras.callbacks.EarlyStopping(patience=100, verbose=1, restore_best_weights=True)]
 
 l = 60
 with tf.device(device_name):
-  layers = 7
+  layers = 9
   model = make_model(l)
+  model.summary()
   try:
     model.load_weights(weights_name)
     print("Loaded weights.")
   except:
     print("Failed to load weights.")
     # raise
-  model.summary()
   #for i in range(10*(layers+1)):
 
   text = clean(load())
   print("text size: {:,}\tlayers: {}".format(len(text), layers))
   print("Window length: {}".format(l))
 
-  # model.evaluate(TwoTimePadSequence(l, 2*10**4))
-  print("Training:")
+  model.evaluate(TwoTimePadSequence(l, 2*10**4))
+  # print("Training:")
   # (ciphers, labels, keys) = samples(text, training_size, l)
   # print(model.fit(ciphers, [labels, keys],
   print(model.fit(x=TwoTimePadSequence(l, 10**5),
