@@ -224,6 +224,8 @@ def make_model(n):
 #          padding='same')(
 #            embedded
 #        ))))
+
+    # Ideas: more nodes, no/lower dropout, only look for last layer for final loss.
     for i in range(9):
       conved = (
         relu()(
@@ -242,8 +244,12 @@ def make_model(n):
 
     last_conv = conved
 
-    totes_clear = Softmax()(keras.layers.Add()(clears))
-    totes_key = Softmax()(keras.layers.Add()(keys))
+    # totes_clear = Softmax()(keras.layers.Add()(clears))
+    # totes_key = Softmax()(keras.layers.Add()(keys))
+
+    totes_clear = Softmax()(clears[-1])
+    totes_key = Softmax()(keys[-1])
+
     model = Model([my_input], [totes_clear, totes_key])
 
     model.compile(
