@@ -157,11 +157,11 @@ relu = tf.keras.layers.PReLU
 
 from tensorflow.keras.layers import Embedding, Input, Dense, Dropout, Softmax, GlobalMaxPooling1D, MaxPooling1D, Conv1D, Flatten, concatenate, Bidirectional, LSTM, SimpleRNN, SeparableConv1D
 from tensorflow.keras.models import Sequential, Model
-# import tensorflow_addons as tfa
+import tensorflow_addons as tfa
 
 batch_size = 32
 
-# Maxout = tfa.layers.Maxout
+Maxout = tfa.layers.Maxout
 
 batch_size = 32
 text = clean(load())
@@ -212,6 +212,9 @@ def make_model(n):
     ## With one conv we are getting validation loss of 3.5996 quickly (at window size 30); best was ~3.3
     ## So adding another conv and lstm. val loss after first epoch about 3.3
     drops = 2
+    dropout_lower = 2
+    dropout_enlarge = 1/(1 - 1/dropout_lower)
+
     conved = embedded
 #    conved = (
 #      keras.layers.SpatialDropout1D(rate=1/drops)(
@@ -223,17 +226,17 @@ def make_model(n):
 #        ))))
     for i in range(9):
       conved = (
-        keras.layers.SpatialDropout1D(rate=1/drops)(
         relu()(
-        Conv1D(filters = 2 * drops * 2*46, kernel_size=1)(
-        concatenate([
-            clears[-1],
-            keys[-1],
-            relu()(
-                Conv1D(
-                  filters=2*46, kernel_size=11,
-                  padding='same')(
-                conved))])))))
+        Conv1D(
+          filters=2*46, kernel_size=15,
+          padding='same')(
+        Maxout(2*46)(
+        keras.layers.SpatialDropout1D(rate=1/dropout_lower)(
+        Conv1D(filters = 4 * 2*46, kernel_size=1)(
+        concatenate([ # (2 + 2) * 46)
+            clears[-1], # 46
+            keys[-1],   # 46
+            conved]))))))) # 2 * 46
       clears.append(make_end(conved))
       keys.append(make_end(conved))
 
@@ -244,13 +247,13 @@ def make_model(n):
     model = Model([my_input], [totes_clear, totes_key])
 
     model.compile(
-      optimizer=keras.optimizers.Adam(learning_rate=0.001),
+      optimizer=keras.optimizers.Adam(learning_rate=0.001 / 2**0),
       # optimizer=keras.optimizers.SGD,
       loss='sparse_categorical_crossentropy',
       metrics=['accuracy'])
     return model
 
-weights_name = 'dropout-big.h5'
+weights_name = 'big-maxout.h5'
 
 from datetime import datetime
 logdir = "logs/scalars/" + datetime.now().strftime("%Y%m%d-%H%M%S")
