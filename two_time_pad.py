@@ -212,7 +212,7 @@ def make_model(n):
     ## With one conv we are getting validation loss of 3.5996 quickly (at window size 30); best was ~3.3
     ## So adding another conv and lstm. val loss after first epoch about 3.3
     drops = 2
-    dropout_lower = 3
+    dropout_lower = 10
     dropout_enlarge = 1/(1 - 1/dropout_lower)
 
     conved = embedded
@@ -232,12 +232,12 @@ def make_model(n):
         TimeDistributed(BatchNormalization())(
         ( # TimeDistributed(relu())(
         Conv1D(
-          filters=3*46, kernel_size=15,
+          filters=4*46, kernel_size=15,
           padding='same')(
-        TimeDistributed(Maxout(3*46))(
+        TimeDistributed(Maxout(4*46))(
         SpatialDropout1D(rate=1/dropout_lower)(
         TimeDistributed(BatchNormalization())(
-        Conv1D(filters = 5 * 3 *46, kernel_size=1)(
+        Conv1D(filters = 5 * 4 *46, kernel_size=1)(
         conved))))))))
 #        concatenate([ # (2 + 2) * 46)
 #            clears[-1], # 46
