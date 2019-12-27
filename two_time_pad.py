@@ -235,16 +235,16 @@ def make_model(n):
           TimeDistributed(BatchNormalization())(
           Conv1D(
             filters=8*46, kernel_size=15, padding='same')(
-          TimeDistributed(BatchNormalization())(
           TimeDistributed(relu())(
+          TimeDistributed(BatchNormalization())(
           Conv1D(
             filters=2*46, kernel_size=1)(
           ( # TimeDistributed(keras.layers.AlphaDropout(0.5))(
             conved))))))))
       conved =(
         keras.layers.Add()([conved,
-        TimeDistributed(BatchNormalization())(
           TimeDistributed(relu())(
+          TimeDistributed(BatchNormalization())(
           Conv1D(filters=resSize, kernel_size=1)(
           concatenate([conved, convedBroad]))))]))
 
