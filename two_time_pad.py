@@ -228,14 +228,14 @@ def make_model(n):
     for i in range(6):
       conved = (
         TimeDistributed(BatchNormalization())(
-        TimeDistributed(relu())(
+        ( # TimeDistributed(relu())(
         Conv1D(
           filters=3*46, kernel_size=15,
           padding='same')(
-        TimeDistributed(BatchNormalization())(
+        ( # TimeDistributed(BatchNormalization())(
         TimeDistributed(Maxout(2*46))(
         SpatialDropout1D(rate=1/dropout_lower)(
-        Conv1D(filters = 8 * 2 *46, kernel_size=1)(
+        Conv1D(filters = 10 * 2 *46, kernel_size=1)(
         conved))))))))
 #        concatenate([ # (2 + 2) * 46)
 #            clears[-1], # 46
@@ -246,11 +246,11 @@ def make_model(n):
 
     # last_conv = conved
 
-    totes_clear = Softmax()(keras.layers.Add()(clears))
-    totes_key = Softmax()(keras.layers.Add()(keys))
+    # totes_clear = Softmax()(keras.layers.Add()(clears))
+    # totes_key = Softmax()(keras.layers.Add()(keys))
 
-    # totes_clear = TimeDistributed(Softmax())(make_end(conved))
-    # totes_key = TimeDistributed(Softmax())(make_end(conved))
+    totes_clear = TimeDistributed(Softmax())(make_end(conved))
+    totes_key = TimeDistributed(Softmax())(make_end(conved))
 
     model = Model([my_input], [totes_clear, totes_key])
 
