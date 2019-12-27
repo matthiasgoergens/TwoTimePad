@@ -207,8 +207,8 @@ def make_model(n):
             padding='same', strides=1,
             # dtype=mixed_precision.Policy('float32')
            )(c))
-    clears = [make_end(embedded)]
-    keys = [make_end(embedded)]
+    # clears = [make_end(embedded)]
+    # keys = [make_end(embedded)]
 
     ## Best loss without conv at all was 4.5
     ## With one conv we are getting validation loss of 3.5996 quickly (at window size 30); best was ~3.3
@@ -231,22 +231,22 @@ def make_model(n):
     # nine layers is most likely overkill.
     for i in range(7):
       convedBroad = (
+          TimeDistributed(relu())(
           TimeDistributed(BatchNormalization())(
           Conv1D(
-            filters=8*46, kernel_size=15, padding='same',
-            kernel_initializer='lecun_normal', activation='selu')(
+            filters=8*46, kernel_size=15, padding='same')(
           TimeDistributed(BatchNormalization())(
+          TimeDistributed(relu())(
           Conv1D(
-            filters=2*46, kernel_size=1,
-            kernel_initializer='lecun_normal', activation='selu')(
+            filters=2*46, kernel_size=1)(
           ( # TimeDistributed(keras.layers.AlphaDropout(0.5))(
-            conved))))))
+            conved))))))))
       conved =(
         keras.layers.Add()([conved,
         TimeDistributed(BatchNormalization())(
-          Conv1D(filters=resSize, kernel_size=1,
-            kernel_initializer='lecun_normal', activation='selu')(
-          concatenate([conved, convedBroad])))]))
+          TimeDistributed(relu())(
+          Conv1D(filters=resSize, kernel_size=1)(
+          concatenate([conved, convedBroad]))))]))
 
 #        TimeDistributed(Maxout(4*46))(
 #        ( # SpatialDropout1D(rate=1/dropout_lower)(
@@ -278,8 +278,7 @@ def make_model(n):
       metrics=['accuracy'])
     return model
 
-weights_name = 'small-maxout-selu.h5'
-
+weights_name = 'relu-batch-norm.h5'
 from datetime import datetime
 logdir = "logs/scalars/" + datetime.now().strftime("%Y%m%d-%H%M%S")
 tensorboard_callback = keras.callbacks.TensorBoard(log_dir=logdir)
