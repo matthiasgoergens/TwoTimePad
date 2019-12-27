@@ -26,12 +26,12 @@ else:
   print('Found GPU at: {}'.format(device_name))
 
 # Mixed precision
-from tensorflow.keras.mixed_precision import experimental as mixed_precision
-policy = mixed_precision.Policy('mixed_float16')
-mixed_precision.set_policy(policy)
+# from tensorflow.keras.mixed_precision import experimental as mixed_precision
+# policy = mixed_precision.Policy('mixed_float16')
+# mixed_precision.set_policy(policy)
 
-print('Compute dtype: %s' % policy.compute_dtype)
-print('Variable dtype: %s' % policy.variable_dtype)
+# print('Compute dtype: %s' % policy.compute_dtype)
+# print('Variable dtype: %s' % policy.variable_dtype)
 ###
 
 import sys
@@ -203,8 +203,8 @@ def make_model(n):
           Conv1D(
             filters=len(alpha), kernel_size=1,
             padding='same', strides=1,
-            dtype=mixed_precision.Policy('float32'))(
-          c))
+            # dtype=mixed_precision.Policy('float32')
+           )(c))
     clears = [make_end(embedded)]
     keys = [make_end(embedded)]
 
@@ -229,16 +229,19 @@ def make_model(n):
     # nine layers is most likely overkill.
     for i in range(5):
       conved = (
-        TimeDistributed(BatchNormalization())(
-        ( # TimeDistributed(relu())(
+        ( # TimeDistributed(BatchNormalization())(
+        # TimeDistributed(relu())(
         Conv1D(
           filters=4*46, kernel_size=15,
-          padding='same')(
-        TimeDistributed(Maxout(4*46))(
-        SpatialDropout1D(rate=1/dropout_lower)(
-        TimeDistributed(BatchNormalization())(
-        Conv1D(filters = 5 * 4 *46, kernel_size=1)(
-        conved))))))))
+          padding='same',
+          kernel_initializer='lecun_normal', activation='selu')(
+        TimeDistributed(keras.layers.AlphaDropout(0.5))(
+        conved))))
+#        TimeDistributed(Maxout(4*46))(
+#        ( # SpatialDropout1D(rate=1/dropout_lower)(
+#        TimeDistributed(BatchNormalization())(
+#        Conv1D(filters = 5 * 4 *46, kernel_size=1)(
+#        conved))))))))
 #        concatenate([ # (2 + 2) * 46)
 #            clears[-1], # 46
 #            keys[-1],   # 46
@@ -251,8 +254,8 @@ def make_model(n):
     totes_clear = Softmax()(keras.layers.Add()(clears))
     totes_key = Softmax()(keras.layers.Add()(keys))
 
-    # totes_clear = TimeDistributed(Softmax())(make_end(conved))
-    # totes_key = TimeDistributed(Softmax())(make_end(conved))
+    totes_clear = TimeDistributed(Softmax())(make_end(conved))
+    totes_key = TimeDistributed(Softmax())(make_end(conved))
 
     model = Model([my_input], [totes_clear, totes_key])
 
