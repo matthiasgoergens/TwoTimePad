@@ -225,16 +225,16 @@ def make_model(n):
 #        ))))
 
     # Ideas: more nodes, no/lower dropout, only look for last layer for final loss.
-    for i in range(6):
+    for i in range(9):
       conved = (
         TimeDistributed(BatchNormalization())(
         ( # TimeDistributed(relu())(
         Conv1D(
           filters=3*46, kernel_size=15,
           padding='same')(
-        ( # TimeDistributed(BatchNormalization())(
         TimeDistributed(Maxout(2*46))(
         SpatialDropout1D(rate=1/dropout_lower)(
+        TimeDistributed(BatchNormalization())(
         Conv1D(filters = 10 * 2 *46, kernel_size=1)(
         conved))))))))
 #        concatenate([ # (2 + 2) * 46)
@@ -249,8 +249,8 @@ def make_model(n):
     totes_clear = Softmax()(keras.layers.Add()(clears))
     totes_key = Softmax()(keras.layers.Add()(keys))
 
-    # totes_clear = TimeDistributed(Softmax())(make_end(conved))
-    # totes_key = TimeDistributed(Softmax())(make_end(conved))
+    totes_clear = TimeDistributed(Softmax())(make_end(conved))
+    totes_key = TimeDistributed(Softmax())(make_end(conved))
 
     model = Model([my_input], [totes_clear, totes_key])
 
