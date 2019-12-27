@@ -190,18 +190,20 @@ def cipher_for_predict():
 def make_model(n):    
     # my_input = Input(shape=(n,), dtype='int32', name="ciphertext")
     my_input = Input(shape=(n,), name="ciphertext")
+    resSize = 8 * 46
     embedded = (
       (
-      Embedding(output_dim=len(alpha), input_dim=len(alpha), name="my_embedding",
+      Embedding(output_dim=resSize, input_dim=len(alpha), name="my_embedding",
         batch_input_shape=[batch_size, n],
       )(
       my_input
     )))
 
+
     def make_end(c):
         return ( # TimeDistributed(BatchNormalization())(
           Conv1D(
-            filters=len(alpha), kernel_size=1,
+            filters=46, kernel_size=1,
             padding='same', strides=1,
             # dtype=mixed_precision.Policy('float32')
            )(c))
@@ -228,15 +230,16 @@ def make_model(n):
     # Ideas: more nodes, no/lower dropout, only look for last layer for final loss.
     # nine layers is most likely overkill.
     for i in range(5):
-      conved = (
-        ( # TimeDistributed(BatchNormalization())(
-        # TimeDistributed(relu())(
-        Conv1D(
-          filters=4*46, kernel_size=15,
-          padding='same',
-          kernel_initializer='lecun_normal', activation='selu')(
-        TimeDistributed(keras.layers.AlphaDropout(0.5))(
-        conved))))
+      convedNew = (
+         Conv1D(
+           filters=resSize, kernel_size=15,
+           padding='same',
+           kernel_initializer='lecun_normal', activation='selu')(
+         TimeDistributed(keras.layers.AlphaDropout(0.5))(
+         conved)))
+      print(f'conved.shape: {conved.shape}\tconvedNew.shape: {convedNew.shape}')
+      conved = keras.layers.Add()([conved, convedNew])
+
 #        TimeDistributed(Maxout(4*46))(
 #        ( # SpatialDropout1D(rate=1/dropout_lower)(
 #        TimeDistributed(BatchNormalization())(
@@ -246,13 +249,13 @@ def make_model(n):
 #            clears[-1], # 46
 #            keys[-1],   # 46
 #            conved]))))))))) # 2 * 46
-      clears.append(make_end(conved))
-      keys.append(make_end(conved))
+      # clears.append(make_end(conved))
+      # keys.append(make_end(conved))
 
     # last_conv = conved
 
-    totes_clear = Softmax()(keras.layers.Add()(clears))
-    totes_key = Softmax()(keras.layers.Add()(keys))
+#    totes_clear = Softmax()(keras.layers.Add()(clears))
+#    totes_key = Softmax()(keras.layers.Add()(keys))
 
     totes_clear = TimeDistributed(Softmax())(make_end(conved))
     totes_key = TimeDistributed(Softmax())(make_end(conved))
