@@ -238,7 +238,7 @@ def make_model(n):
           TimeDistributed(relu())(
           TimeDistributed(BatchNormalization())(
           Conv1D(
-            filters=2*46, kernel_size=1)(
+            filters=3*46, kernel_size=1)(
           ( # TimeDistributed(keras.layers.AlphaDropout(0.5))(
             conved))))))))
       conved =(
@@ -278,7 +278,7 @@ def make_model(n):
       metrics=['accuracy'])
     return model
 
-weights_name = 'relu-batch-norm.h5'
+weights_name = 'relu-batch-norm-transmit-more.h5'
 from datetime import datetime
 logdir = "logs/scalars/" + datetime.now().strftime("%Y%m%d-%H%M%S")
 tensorboard_callback = keras.callbacks.TensorBoard(log_dir=logdir)
