@@ -158,7 +158,7 @@ relu = tf.keras.layers.PReLU
 import tensorflow_addons as tfa
 
 from tensorflow.keras.layers import Embedding, Input, Dense, Dropout, Softmax, GlobalMaxPooling1D, MaxPooling1D, Conv1D, Flatten, concatenate, Bidirectional, LSTM, SimpleRNN, SeparableConv1D, TimeDistributed, BatchNormalization, SpatialDropout1D
-from tensorflow_addons.layers import Maxout
+from tensorflow_addons.layers import Maxout, Sparsemax
 from tensorflow.keras.models import Sequential, Model
 
 batch_size = 32
@@ -199,11 +199,12 @@ def make_model(n):
     )))
 
     def make_end(c):
-        return Conv1D(
+        return ( # TimeDistributed(BatchNormalization())(
+          Conv1D(
             filters=len(alpha), kernel_size=1,
             padding='same', strides=1,
             dtype=mixed_precision.Policy('float32'))(
-          c)
+          c))
     clears = [make_end(embedded)]
     keys = [make_end(embedded)]
 
@@ -211,7 +212,7 @@ def make_model(n):
     ## With one conv we are getting validation loss of 3.5996 quickly (at window size 30); best was ~3.3
     ## So adding another conv and lstm. val loss after first epoch about 3.3
     drops = 2
-    dropout_lower = 2
+    dropout_lower = 3
     dropout_enlarge = 1/(1 - 1/dropout_lower)
 
     conved = embedded
@@ -225,17 +226,18 @@ def make_model(n):
 #        ))))
 
     # Ideas: more nodes, no/lower dropout, only look for last layer for final loss.
-    for i in range(9):
+    # nine layers is most likely overkill.
+    for i in range(5):
       conved = (
         TimeDistributed(BatchNormalization())(
         ( # TimeDistributed(relu())(
         Conv1D(
           filters=3*46, kernel_size=15,
           padding='same')(
-        TimeDistributed(Maxout(2*46))(
+        TimeDistributed(Maxout(3*46))(
         SpatialDropout1D(rate=1/dropout_lower)(
         TimeDistributed(BatchNormalization())(
-        Conv1D(filters = 10 * 2 *46, kernel_size=1)(
+        Conv1D(filters = 5 * 3 *46, kernel_size=1)(
         conved))))))))
 #        concatenate([ # (2 + 2) * 46)
 #            clears[-1], # 46
@@ -255,7 +257,8 @@ def make_model(n):
     model = Model([my_input], [totes_clear, totes_key])
 
     model.compile(
-      optimizer=keras.optimizers.Adam(learning_rate=0.001 / 2**0),
+      # optimizer=keras.optimizers.Adam(learning_rate=0.001 / 2**0),
+      optimizer=tfa.optimizers.LazyAdam(),
       # optimizer=keras.optimizers.SGD,
       loss='sparse_categorical_crossentropy',
       metrics=['accuracy'])
@@ -271,7 +274,7 @@ from keras.callbacks import *
 checkpoint = ModelCheckpoint(weights_name, verbose=1, save_best_only=False)
 
 callbacks_list = [checkpoint,
-                  keras.callbacks.ReduceLROnPlateau(patience=20, factor=0.5, verbose=1, min_delta=0.0001),
+                  keras.callbacks.ReduceLROnPlateau(patience=3, factor=0.5, verbose=1, min_delta=0.0001),
                   keras.callbacks.EarlyStopping(patience=100, verbose=1, restore_best_weights=True)]
 
 l = 60
