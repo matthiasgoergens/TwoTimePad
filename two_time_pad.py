@@ -155,15 +155,14 @@ def samples(text, batch_size, l):
 # relu = ft.partial(keras.layers.LeakyReLU, alpha=0.1)
 relu = tf.keras.layers.PReLU
 
-from tensorflow.keras.layers import Embedding, Input, Dense, Dropout, Softmax, GlobalMaxPooling1D, MaxPooling1D, Conv1D, Flatten, concatenate, Bidirectional, LSTM, SimpleRNN, SeparableConv1D, TimeDistributed, BatchNormalization, SpatialDropout1D
-from tensorflow.keras.models import Sequential, Model
 import tensorflow_addons as tfa
 
+from tensorflow.keras.layers import Embedding, Input, Dense, Dropout, Softmax, GlobalMaxPooling1D, MaxPooling1D, Conv1D, Flatten, concatenate, Bidirectional, LSTM, SimpleRNN, SeparableConv1D, TimeDistributed, BatchNormalization, SpatialDropout1D
+from tensorflow_addons.layers import Maxout
+from tensorflow.keras.models import Sequential, Model
+
 batch_size = 32
 
-Maxout = tfa.layers.Maxout
-
-batch_size = 32
 text = clean(load())
                  
 class TwoTimePadSequence(keras.utils.Sequence):
@@ -205,8 +204,8 @@ def make_model(n):
             padding='same', strides=1,
             dtype=mixed_precision.Policy('float32'))(
           c)
-    # clears = [make_end(embedded)]
-    # keys = [make_end(embedded)]
+    clears = [make_end(embedded)]
+    keys = [make_end(embedded)]
 
     ## Best loss without conv at all was 4.5
     ## With one conv we are getting validation loss of 3.5996 quickly (at window size 30); best was ~3.3
@@ -226,15 +225,15 @@ def make_model(n):
 #        ))))
 
     # Ideas: more nodes, no/lower dropout, only look for last layer for final loss.
-    for i in range(9):
+    for i in range(6):
       conved = (
         TimeDistributed(BatchNormalization())(
         TimeDistributed(relu())(
         Conv1D(
           filters=3*46, kernel_size=15,
           padding='same')(
-        TimeDistributed(Maxout(2*46))(
         TimeDistributed(BatchNormalization())(
+        TimeDistributed(Maxout(2*46))(
         SpatialDropout1D(rate=1/dropout_lower)(
         Conv1D(filters = 4 * 2 *46, kernel_size=1)(
         conved))))))))
@@ -242,16 +241,16 @@ def make_model(n):
 #            clears[-1], # 46
 #            keys[-1],   # 46
 #            conved]))))))))) # 2 * 46
-      # clears.append(make_end(conved))
-      # keys.append(make_end(conved))
+      clears.append(make_end(conved))
+      keys.append(make_end(conved))
 
     # last_conv = conved
 
-    # totes_clear = Softmax()(keras.layers.Add()(clears))
-    # totes_key = Softmax()(keras.layers.Add()(keys))
+    totes_clear = Softmax()(keras.layers.Add()(clears))
+    totes_key = Softmax()(keras.layers.Add()(keys))
 
-    totes_clear = TimeDistributed(Softmax())(make_end(conved))
-    totes_key = TimeDistributed(Softmax())(make_end(conved))
+    # totes_clear = TimeDistributed(Softmax())(make_end(conved))
+    # totes_key = TimeDistributed(Softmax())(make_end(conved))
 
     model = Model([my_input], [totes_clear, totes_key])
 
