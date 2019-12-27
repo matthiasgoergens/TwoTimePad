@@ -229,16 +229,24 @@ def make_model(n):
 
     # Ideas: more nodes, no/lower dropout, only look for last layer for final loss.
     # nine layers is most likely overkill.
-    for i in range(5):
-      convedNew = (
-         Conv1D(
-           filters=resSize, kernel_size=15,
-           padding='same',
-           kernel_initializer='lecun_normal', activation='selu')(
-         TimeDistributed(keras.layers.AlphaDropout(0.5))(
-         conved)))
-      print(f'conved.shape: {conved.shape}\tconvedNew.shape: {convedNew.shape}')
-      conved = keras.layers.Add()([conved, convedNew])
+    for i in range(7):
+      convedBroad = (
+          TimeDistributed(BatchNormalization())(
+          Conv1D(
+            filters=8*46, kernel_size=15, padding='same',
+            kernel_initializer='lecun_normal', activation='selu')(
+          TimeDistributed(BatchNormalization())(
+          Conv1D(
+            filters=2*46, kernel_size=1,
+            kernel_initializer='lecun_normal', activation='selu')(
+          ( # TimeDistributed(keras.layers.AlphaDropout(0.5))(
+            conved))))))
+      conved =(
+        keras.layers.Add()([conved,
+        TimeDistributed(BatchNormalization())(
+          Conv1D(filters=resSize, kernel_size=1,
+            kernel_initializer='lecun_normal', activation='selu')(
+          concatenate([conved, convedBroad])))]))
 
 #        TimeDistributed(Maxout(4*46))(
 #        ( # SpatialDropout1D(rate=1/dropout_lower)(
