@@ -246,11 +246,11 @@ def make_model(n):
 
     # last_conv = conved
 
-    # totes_clear = Softmax()(keras.layers.Add()(clears))
-    # totes_key = Softmax()(keras.layers.Add()(keys))
+    totes_clear = Softmax()(keras.layers.Add()(clears))
+    totes_key = Softmax()(keras.layers.Add()(keys))
 
-    totes_clear = TimeDistributed(Softmax())(make_end(conved))
-    totes_key = TimeDistributed(Softmax())(make_end(conved))
+    # totes_clear = TimeDistributed(Softmax())(make_end(conved))
+    # totes_key = TimeDistributed(Softmax())(make_end(conved))
 
     model = Model([my_input], [totes_clear, totes_key])
 
