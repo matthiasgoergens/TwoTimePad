@@ -221,7 +221,7 @@ def make_model(n):
 #          padding='same')(
 #            embedded
 #        ))))
-    for i in range(7):
+    for i in range(9):
       conved = (
         keras.layers.SpatialDropout1D(rate=1/drops)(
         relu()(
