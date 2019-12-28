@@ -284,7 +284,7 @@ def make_model(n):
 
     model.compile(
       # optimizer=keras.optimizers.Adam(learning_rate=0.001 / 2**0),
-      optimizer=tfa.optimizers.Adam(),
+      optimizer=tf.optimizers.Adam(),
       loss='sparse_categorical_crossentropy',
       # TODO: write custom loss that uses 'from logits'.
       # loss=TimeDistributed(tf.nn.sparse_softmax_cross_entropy_with_logits),
