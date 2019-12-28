@@ -145,7 +145,7 @@ from tensorflow.keras.layers import Embedding, Input, Dense, Dropout, Softmax, G
 from tensorflow_addons.layers import Maxout, Sparsemax
 from tensorflow.keras.models import Sequential, Model
 
-batch_size = 32
+batch_size = 64
 
 text = clean(load())
                  
@@ -354,7 +354,7 @@ with tf.device(device_name):
   # print(model.fit(ciphers, [labels, keys],
   print(model.fit(x=TwoTimePadSequence(l, 10**5),
             max_queue_size=10_000,
-            initial_epoch=24,
+            initial_epoch=27,
             epochs=1000+layers, # Excessively long.  But early stopping should rescue us.
             validation_data=TwoTimePadSequence(l, 2*10**4),
             callbacks=callbacks_list))
