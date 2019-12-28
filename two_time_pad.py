@@ -291,12 +291,12 @@ def make_model(hparams):
 l = 60
 hparams = {
     HP_DROPOUT: 0.5,
-    HP_HEIGHT: 15,
+    HP_HEIGHT: 10,
     HP_WINDOW: l,
     HP_resSize: 2 * 46,
 }
 
-weights_name = 'thiner15-dropout-logit.h5'
+weights_name = 'thiner10-dropout-logit.h5'
 from datetime import datetime
 # logdir = "logs/scalars/" + datetime.now().strftime("%Y%m%d-%H%M%S")
 logdir = f"logs/scalars/{weights_name}"
@@ -355,12 +355,14 @@ with tf.device(device_name):
   # print("Training:")
   # (ciphers, labels, keys) = samples(text, training_size, l)
   # print(model.fit(ciphers, [labels, keys],
-  print(model.fit(x=TwoTimePadSequence(l, 10**4),
+  model.fit(x=TwoTimePadSequence(l, 10**4),
             max_queue_size=10_000,
             # initial_epoch=27,
             epochs=1000, # Excessively long.  But early stopping should rescue us.
             validation_data=TwoTimePadSequence(l, 2*10**3),
-            callbacks=callbacks_list))
+            callbacks=callbacks_list,
+            verbose=2,
+            )
   #(ciphers_t, labels_t, keys_t) = samples(text, 1000, l)
   #print("Eval:")
   #model.evaluate(TwoTimePadSequence(l, 10**4))
