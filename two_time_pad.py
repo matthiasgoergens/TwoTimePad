@@ -229,7 +229,7 @@ def make_model(n):
 
     # Ideas: more nodes, no/lower dropout, only look for last layer for final loss.
     # nine layers is most likely overkill.
-    for i in range(7):
+    for i in range(9):
       convedBroad = (
           TimeDistributed(relu())(
           TimeDistributed(BatchNormalization())(
@@ -241,13 +241,23 @@ def make_model(n):
             filters=3*46, kernel_size=1)(
           ( # TimeDistributed(keras.layers.AlphaDropout(0.5))(
             conved))))))))
+      convedNarrow = (
+          TimeDistributed(relu())(
+          TimeDistributed(BatchNormalization())(
+          Conv1D(
+            filters=8*46, kernel_size=5, padding='same')(
+          TimeDistributed(relu())(
+          TimeDistributed(BatchNormalization())(
+          Conv1D(
+            filters=3*46, kernel_size=1)(
+          ( # TimeDistributed(keras.layers.AlphaDropout(0.5))(
+            conved))))))))
       conved =(
         keras.layers.Add()([conved,
           TimeDistributed(relu())(
           TimeDistributed(BatchNormalization())(
           Conv1D(filters=resSize, kernel_size=1)(
-          concatenate([conved, convedBroad]))))]))
-
+          concatenate([conved, convedNarrow, convedBroad]))))]))
 #        TimeDistributed(Maxout(4*46))(
 #        ( # SpatialDropout1D(rate=1/dropout_lower)(
 #        TimeDistributed(BatchNormalization())(
@@ -278,7 +288,7 @@ def make_model(n):
       metrics=['accuracy'])
     return model
 
-weights_name = 'relu-batch-norm-transmit-more.h5'
+weights_name = 'relu-batch-norm-transmit-more-staggered.h5'
 from datetime import datetime
 logdir = "logs/scalars/" + datetime.now().strftime("%Y%m%d-%H%M%S")
 tensorboard_callback = keras.callbacks.TensorBoard(log_dir=logdir)
