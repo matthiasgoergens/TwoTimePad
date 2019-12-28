@@ -205,6 +205,7 @@ def make_model(n):
           Conv1D(
             filters=46, kernel_size=1,
             padding='same', strides=1,
+            kernel_initializer=keras.initializers.he_normal(seed=None),
             # dtype=mixed_precision.Policy('float32')
            )(c))
     # clears = [make_end(embedded)]
@@ -234,29 +235,39 @@ def make_model(n):
           TimeDistributed(relu())(
           TimeDistributed(BatchNormalization())(
           Conv1D(
-            filters=4*46, kernel_size=15, padding='same')(
+            filters=4*46, kernel_size=15, padding='same',
+            kernel_initializer=keras.initializers.he_normal(seed=None),
+            )(
           TimeDistributed(relu())(
           TimeDistributed(BatchNormalization())(
           Conv1D(
-            filters=2*46, kernel_size=1)(
+            filters=2*46, kernel_size=1,
+            kernel_initializer=keras.initializers.he_normal(seed=None),
+            )(
           ( # TimeDistributed(keras.layers.AlphaDropout(0.5))(
             conved))))))))
       convedNarrow = (
           TimeDistributed(relu())(
           TimeDistributed(BatchNormalization())(
           Conv1D(
-            filters=4*46, kernel_size=5, padding='same')(
+            filters=4*46, kernel_size=5, padding='same',
+            kernel_initializer=keras.initializers.he_normal(seed=None),
+            )(
           TimeDistributed(relu())(
           TimeDistributed(BatchNormalization())(
           Conv1D(
-            filters=2*46, kernel_size=1)(
+            filters=2*46, kernel_size=1,
+            kernel_initializer=keras.initializers.he_normal(seed=None),
+            )(
           ( # TimeDistributed(keras.layers.AlphaDropout(0.5))(
             conved))))))))
       conved =(
         keras.layers.Add()([conved,
           TimeDistributed(relu())(
           TimeDistributed(BatchNormalization())(
-          Conv1D(filters=resSize, kernel_size=1)(
+          Conv1D(filters=resSize, kernel_size=1,
+            kernel_initializer=keras.initializers.he_normal(seed=None),
+          )(
           concatenate([conved, convedNarrow, convedBroad]))))]))
 #        TimeDistributed(Maxout(4*46))(
 #        ( # SpatialDropout1D(rate=1/dropout_lower)(
