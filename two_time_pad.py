@@ -196,9 +196,10 @@ def make_model(n):
       my_input
     )))
 
-    def make_end(c):
+    def make_end(c, name):
         return ( # TimeDistributed(BatchNormalization())(
           Conv1D(
+            name=name,
             filters=46, kernel_size=1,
             padding='same', strides=1,
             kernel_initializer=keras.initializers.he_normal(seed=None),
@@ -256,27 +257,25 @@ def make_model(n):
           )(
           concatenate([conved, convedNarrow, convedBroad]))))]))
 
-    totes_clear = TimeDistributed(Softmax(), name="clear")(
-        make_end(
-        SpatialDropout1D(rate=0/2)(
-            conved)))
-    totes_key = TimeDistributed(Softmax(), name="key")(
-        make_end(
-        SpatialDropout1D(rate=0/2)(
-            conved)))
+    totes_clear = make_end(
+        SpatialDropout1D(rate=1/2)(
+            conved), name='clear')
+    totes_key = make_end(
+        SpatialDropout1D(rate=1/2)(
+            conved), name='key')
 
     model = Model([my_input], [totes_clear, totes_key])
 
     model.compile(
       # optimizer=keras.optimizers.Adam(learning_rate=0.001 / 2**0),
       optimizer=tf.optimizers.Adam(),
-      loss='sparse_categorical_crossentropy',
+      loss=tf.keras.losses.SparseCategoricalCrossentropy(from_logits=True),
       # TODO: write custom loss that uses 'from logits'.
       # loss=TimeDistributed(tf.nn.sparse_softmax_cross_entropy_with_logits),
       metrics=['accuracy'])
     return model
 
-weights_name = 'thin10-no-dropout.h5'
+weights_name = 'thin10-dropout-logit.h5'
 from datetime import datetime
 # logdir = "logs/scalars/" + datetime.now().strftime("%Y%m%d-%H%M%S")
 logdir = f"logs/scalars/{weights_name}"
