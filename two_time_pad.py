@@ -125,6 +125,7 @@ def samples(text, batch_size, l):
 relu = tf.keras.layers.PReLU
 
 import tensorflow_addons as tfa
+from tensorboard.plugins.hparams import api as hp
 
 from tensorflow.keras.layers import Embedding, Input, Dense, Dropout, Softmax, GlobalMaxPooling1D, MaxPooling1D, Conv1D, Flatten, concatenate, Bidirectional, LSTM, SimpleRNN, SeparableConv1D, TimeDistributed, BatchNormalization, SpatialDropout1D
 from tensorflow_addons.layers import Maxout, Sparsemax
@@ -184,10 +185,25 @@ def cipher_for_predict():
     # (-1) % 46
 
 
-def make_model(n):    
+HP_DROPOUT = hp.HParam('dropout', hp.RealInterval(0.0, 0.5))
+HP_HEIGHT = hp.HParam('height', hp.IntInterval(0, 10))
+HP_WINDOW = hp.HParam('window', hp.IntInterval(1, 100))
+HP_resSize = hp.HParam('resSize', hp.IntInterval(46, 8*46))
+
+METRIC_ACCURACY = 'accuracy'
+
+with tf.summary.create_file_writer('logs/hparam_tuning').as_default():
+  hp.hparams_config(
+    hparams=[HP_DROPOUT, HP_HEIGHT, HP_WINDOW],
+    metrics=[hp.Metric(METRIC_ACCURACY, display_name='Accuracy')],
+  )
+
+def make_model(hparams):
+    n = hparams[HP_WINDOW]
     # my_input = Input(shape=(n,), dtype='int32', name="ciphertext")
     my_input = Input(shape=(n,), name="ciphertext")
-    resSize = 2 * 2 * 46
+    resSize = hparams[HP_resSize]
+
     embedded = (
       (
       Embedding(output_dim=resSize, input_dim=len(alpha), name="my_embedding",
@@ -258,46 +274,51 @@ def make_model(n):
           concatenate([conved, convedNarrow, convedBroad]))))]))
 
     totes_clear = make_end(
-        SpatialDropout1D(rate=1/2)(
+        SpatialDropout1D(rate=hparams[HP_DROPOUT])(
             conved), name='clear')
     totes_key = make_end(
-        SpatialDropout1D(rate=1/2)(
+        SpatialDropout1D(rate=hparams[HP_DROPOUT])(
             conved), name='key')
 
     model = Model([my_input], [totes_clear, totes_key])
 
     model.compile(
-      # optimizer=keras.optimizers.Adam(learning_rate=0.001 / 2**0),
       optimizer=tf.optimizers.Adam(),
       loss=tf.keras.losses.SparseCategoricalCrossentropy(from_logits=True),
-      # TODO: write custom loss that uses 'from logits'.
-      # loss=TimeDistributed(tf.nn.sparse_softmax_cross_entropy_with_logits),
       metrics=['accuracy'])
     return model
 
-weights_name = 'thin10-dropout-logit.h5'
+l = 60
+hparams = {
+    HP_DROPOUT: 0.5,
+    HP_HEIGHT: 15,
+    HP_WINDOW: l,
+    HP_resSize: 2 * 46,
+}
+
+weights_name = 'thiner15-dropout-logit.h5'
 from datetime import datetime
 # logdir = "logs/scalars/" + datetime.now().strftime("%Y%m%d-%H%M%S")
 logdir = f"logs/scalars/{weights_name}"
 tensorboard_callback = keras.callbacks.TensorBoard(log_dir=logdir, histogram_freq=5,  write_images=True, embeddings_freq=5)
+
 
 from keras.callbacks import *
 checkpoint = ModelCheckpoint(weights_name, verbose=1, save_best_only=True)
 
 callbacks_list = [checkpoint,
                   tensorboard_callback,
+		  hp.KerasCallback(logdir, hparams),
                   # keras.callbacks.ReduceLROnPlateau(patience=3, factor=0.5, verbose=1, min_delta=0.0001),
                   # keras.callbacks.EarlyStopping(patience=100, verbose=1, restore_best_weights=True)
                   ]
 
-l = 60
 with tf.device(device_name):
-  layers = 9
   try:
     model = keras.models.load_model(weights_name)
     print("Loaded weights.")
   except:
-    model = make_model(l)
+    model = make_model(hparams)
     model.summary()
     print("Failed to load weights.")
     # raise
@@ -330,9 +351,6 @@ with tf.device(device_name):
     )
 
 
-  print("text size: {:,}\tlayers: {}".format(len(text), layers))
-  print("Window length: {}".format(l))
-
   model.evaluate(TwoTimePadSequence(l, 2*10**4), callbacks=[tensorboard_callback])
   # print("Training:")
   # (ciphers, labels, keys) = samples(text, training_size, l)
@@ -340,13 +358,12 @@ with tf.device(device_name):
   print(model.fit(x=TwoTimePadSequence(l, 10**4),
             max_queue_size=10_000,
             # initial_epoch=27,
-            epochs=1000+layers, # Excessively long.  But early stopping should rescue us.
+            epochs=1000, # Excessively long.  But early stopping should rescue us.
             validation_data=TwoTimePadSequence(l, 2*10**3),
             callbacks=callbacks_list))
   #(ciphers_t, labels_t, keys_t) = samples(text, 1000, l)
   #print("Eval:")
   #model.evaluate(TwoTimePadSequence(l, 10**4))
-  model.save("{}_layers_{}".format(weights_name, layers))
 
 # Idea: we don't need the full 50% dropout regularization, because our input is already random.
 # So try eg keeping 90% of units?  Just enough to punish big gross / small nettto co-adaptions.
