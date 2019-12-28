@@ -190,7 +190,7 @@ def cipher_for_predict():
 def make_model(n):    
     # my_input = Input(shape=(n,), dtype='int32', name="ciphertext")
     my_input = Input(shape=(n,), name="ciphertext")
-    resSize = 3 * 2 * 46
+    resSize = 2 * 2 * 46
     embedded = (
       (
       Embedding(output_dim=resSize, input_dim=len(alpha), name="my_embedding",
@@ -230,7 +230,7 @@ def make_model(n):
 
     # Ideas: more nodes, no/lower dropout, only look for last layer for final loss.
     # nine layers is most likely overkill.
-    for i in range(30):
+    for i in range(20):
       convedBroad = (
           TimeDistributed(relu())(
           TimeDistributed(BatchNormalization())(
@@ -286,8 +286,14 @@ def make_model(n):
 #    totes_clear = Softmax()(keras.layers.Add()(clears))
 #    totes_key = Softmax()(keras.layers.Add()(keys))
 
-    totes_clear = TimeDistributed(Softmax())(make_end(conved))
-    totes_key = TimeDistributed(Softmax())(make_end(conved))
+    totes_clear = TimeDistributed(Softmax())(
+        make_end(
+        SpatialDropout1D(rate=1/10)(
+            conved)))
+    totes_key = TimeDistributed(Softmax())(
+        make_end(
+        SpatialDropout1D(rate=1/10)(
+            conved)))
 
     model = Model([my_input], [totes_clear, totes_key])
 
@@ -299,19 +305,20 @@ def make_model(n):
       metrics=['accuracy'])
     return model
 
-weights_name = 'thin-and-crazy-high.h5'
+weights_name = 'thin-and-crazy-tall-and-dropout-last.h5'
 from datetime import datetime
 logdir = "logs/scalars/" + datetime.now().strftime("%Y%m%d-%H%M%S")
-tensorboard_callback = keras.callbacks.TensorBoard(log_dir=logdir)
+tensorboard_callback = keras.callbacks.TensorBoard(log_dir=logdir, histogram_freq=1)
 
 from keras.callbacks import *
 checkpoint = ModelCheckpoint(weights_name, verbose=1, save_best_only=False)
 
 callbacks_list = [checkpoint,
+                  tensorboard_callback,
                   keras.callbacks.ReduceLROnPlateau(patience=3, factor=0.5, verbose=1, min_delta=0.0001),
                   keras.callbacks.EarlyStopping(patience=100, verbose=1, restore_best_weights=True)]
 
-l = 100
+l = 60
 with tf.device(device_name):
   layers = 9
   model = make_model(l)
