@@ -187,6 +187,34 @@ def cipher_for_predict():
     # print(c2)
     return tf.convert_to_tensor([sub(c1, c2)])
 
+
+# Idea: encode symmetry
+#
+# Provide both input and -input, then use shared weights (and mixing) to arrive
+# at the two residuals..
+
+
+#def make_2_model(n):
+#    inputP = Input(shape=(n,), name="Piphertext")
+#    inputN = -inputP % 46
+#
+#    resSize = 3 * 46
+#
+#    embedding = Embedding(output_dim=resSize, input_dim=len(alpha), name="my_embedding",
+#        batch_input_shape=[batch_size, n])
+#
+#    convP = embedding(inputP)
+#    convN = embedding(inputN)
+#
+#    make_end = Conv1D(
+#            filters=46, kernel_size=1,
+#            padding='same', strides=1,
+#            kernel_initializer=keras.initializers.he_normal(seed=None),
+#            # dtype=mixed_precision.Policy('float32')
+#           )
+    # (-1) % 46
+
+
 def make_model(n):    
     # my_input = Input(shape=(n,), dtype='int32', name="ciphertext")
     my_input = Input(shape=(n,), name="ciphertext")
@@ -199,7 +227,6 @@ def make_model(n):
       my_input
     )))
 
-
     def make_end(c):
         return ( # TimeDistributed(BatchNormalization())(
           Conv1D(
@@ -208,6 +235,7 @@ def make_model(n):
             kernel_initializer=keras.initializers.he_normal(seed=None),
             # dtype=mixed_precision.Policy('float32')
            )(c))
+
     # clears = [make_end(embedded)]
     # keys = [make_end(embedded)]
 
@@ -288,11 +316,11 @@ def make_model(n):
 
     totes_clear = TimeDistributed(Softmax())(
         make_end(
-        SpatialDropout1D(rate=1/10)(
+        SpatialDropout1D(rate=0/10)(
             conved)))
     totes_key = TimeDistributed(Softmax())(
         make_end(
-        SpatialDropout1D(rate=1/10)(
+        SpatialDropout1D(rate=0/10)(
             conved)))
 
     model = Model([my_input], [totes_clear, totes_key])
@@ -308,6 +336,7 @@ def make_model(n):
 weights_name = 'thin-and-crazy-tall-and-dropout-last.h5'
 from datetime import datetime
 logdir = "logs/scalars/" + datetime.now().strftime("%Y%m%d-%H%M%S")
+logdir = "logs/scalars/20191228-081318"
 tensorboard_callback = keras.callbacks.TensorBoard(log_dir=logdir, histogram_freq=1)
 
 from keras.callbacks import *
@@ -367,6 +396,7 @@ with tf.device(device_name):
   # print(model.fit(ciphers, [labels, keys],
   print(model.fit(x=TwoTimePadSequence(l, 10**5),
             max_queue_size=10_000,
+            initial_epoch=19,
             epochs=1000+layers, # Excessively long.  But early stopping should rescue us.
             validation_data=TwoTimePadSequence(l, 2*10**4),
             callbacks=callbacks_list))
