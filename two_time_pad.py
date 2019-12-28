@@ -229,27 +229,27 @@ def make_model(n):
 
     # Ideas: more nodes, no/lower dropout, only look for last layer for final loss.
     # nine layers is most likely overkill.
-    for i in range(9):
+    for i in range(15):
       convedBroad = (
           TimeDistributed(relu())(
           TimeDistributed(BatchNormalization())(
           Conv1D(
-            filters=8*46, kernel_size=15, padding='same')(
+            filters=4*46, kernel_size=15, padding='same')(
           TimeDistributed(relu())(
           TimeDistributed(BatchNormalization())(
           Conv1D(
-            filters=3*46, kernel_size=1)(
+            filters=2*46, kernel_size=1)(
           ( # TimeDistributed(keras.layers.AlphaDropout(0.5))(
             conved))))))))
       convedNarrow = (
           TimeDistributed(relu())(
           TimeDistributed(BatchNormalization())(
           Conv1D(
-            filters=8*46, kernel_size=5, padding='same')(
+            filters=4*46, kernel_size=5, padding='same')(
           TimeDistributed(relu())(
           TimeDistributed(BatchNormalization())(
           Conv1D(
-            filters=3*46, kernel_size=1)(
+            filters=2*46, kernel_size=1)(
           ( # TimeDistributed(keras.layers.AlphaDropout(0.5))(
             conved))))))))
       conved =(
