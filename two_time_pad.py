@@ -35,8 +35,6 @@ else:
 ###
 
 import sys
-# from google.colab import drive
-# drive.mount('/content/drive')
 import itertools as it
 
 import re
@@ -52,13 +50,6 @@ from pprint import pprint
 import functools as ft
 
 np.set_printoptions(precision=4)
-
-# Idea:
-# Load corpus, and clean, convert into numbers
-# Repeatedly:
-#   create a batch of data
-#   train
-#   Optional: show current results.
 
 alpha =    " ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789.?,-:;'()".lower()
 alphaRE = alpha.replace("-","\\-")
@@ -135,19 +126,12 @@ def samples(text, batch_size, l):
     key = sample(text, l)
 
     (cipher, label) = prepare(clear, key)
-    # print(toChar(clear))
-    # print(toChar(key))
-    # print(toChar(add(clear, key)))
-    # print(toChar(sub(add(clear, key), key)))
     ciphers.append(cipher)
     labels.append(label)
     keys.append(key)
   one_hot_ciphers = tf.convert_to_tensor(ciphers)
   one_hot_labels = tf.convert_to_tensor(labels)
   one_hot_keys = tf.convert_to_tensor(keys)
-  # print(one_hot_ciphers.shape)
-  # print(one_hot_labels.shape)
-  # print(len(one_hot_labels))
   return (one_hot_ciphers,
         one_hot_labels,
         one_hot_keys)
@@ -242,19 +226,8 @@ def make_model(n):
     ## Best loss without conv at all was 4.5
     ## With one conv we are getting validation loss of 3.5996 quickly (at window size 30); best was ~3.3
     ## So adding another conv and lstm. val loss after first epoch about 3.3
-    drops = 2
-    dropout_lower = 10
-    dropout_enlarge = 1/(1 - 1/dropout_lower)
 
     conved = embedded
-#    conved = (
-#      keras.layers.SpatialDropout1D(rate=1/drops)(
-#      relu()(
-#        Conv1D(
-#          filters=2 * drops * 2*46, kernel_size=9,
-#          padding='same')(
-#            embedded
-#        ))))
 
     # Ideas: more nodes, no/lower dropout, only look for last layer for final loss.
     # nine layers is most likely overkill.
@@ -297,22 +270,6 @@ def make_model(n):
             kernel_initializer=keras.initializers.he_normal(seed=None),
           )(
           concatenate([conved, convedNarrow, convedBroad]))))]))
-#        TimeDistributed(Maxout(4*46))(
-#        ( # SpatialDropout1D(rate=1/dropout_lower)(
-#        TimeDistributed(BatchNormalization())(
-#        Conv1D(filters = 5 * 4 *46, kernel_size=1)(
-#        conved))))))))
-#        concatenate([ # (2 + 2) * 46)
-#            clears[-1], # 46
-#            keys[-1],   # 46
-#            conved]))))))))) # 2 * 46
-      # clears.append(make_end(conved))
-      # keys.append(make_end(conved))
-
-    # last_conv = conved
-
-#    totes_clear = Softmax()(keras.layers.Add()(clears))
-#    totes_key = Softmax()(keras.layers.Add()(keys))
 
     totes_clear = TimeDistributed(Softmax())(
         make_end(
@@ -327,9 +284,10 @@ def make_model(n):
 
     model.compile(
       # optimizer=keras.optimizers.Adam(learning_rate=0.001 / 2**0),
-      optimizer=tfa.optimizers.LazyAdam(),
-      # optimizer=keras.optimizers.SGD,
+      optimizer=tfa.optimizers.Adam(),
       loss='sparse_categorical_crossentropy',
+      # TODO: write custom loss that uses 'from logits'.
+      # loss=TimeDistributed(tf.nn.sparse_softmax_cross_entropy_with_logits),
       metrics=['accuracy'])
     return model
 
@@ -396,7 +354,7 @@ with tf.device(device_name):
   # print(model.fit(ciphers, [labels, keys],
   print(model.fit(x=TwoTimePadSequence(l, 10**5),
             max_queue_size=10_000,
-            initial_epoch=19,
+            initial_epoch=24,
             epochs=1000+layers, # Excessively long.  But early stopping should rescue us.
             validation_data=TwoTimePadSequence(l, 2*10**4),
             callbacks=callbacks_list))
