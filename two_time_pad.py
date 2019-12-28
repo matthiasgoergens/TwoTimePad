@@ -231,7 +231,7 @@ def make_model(n):
 
     # Ideas: more nodes, no/lower dropout, only look for last layer for final loss.
     # nine layers is most likely overkill.
-    for i in range(20):
+    for i in range(5):
       convedBroad = (
           TimeDistributed(relu())(
           TimeDistributed(BatchNormalization())(
@@ -271,11 +271,11 @@ def make_model(n):
           )(
           concatenate([conved, convedNarrow, convedBroad]))))]))
 
-    totes_clear = TimeDistributed(Softmax())(
+    totes_clear = TimeDistributed(Softmax(), name="clear")(
         make_end(
         SpatialDropout1D(rate=0/10)(
             conved)))
-    totes_key = TimeDistributed(Softmax())(
+    totes_key = TimeDistributed(Softmax(), name="key")(
         make_end(
         SpatialDropout1D(rate=0/10)(
             conved)))
@@ -291,19 +291,20 @@ def make_model(n):
       metrics=['accuracy'])
     return model
 
-weights_name = 'thin-and-crazy-tall-and-dropout-last.h5'
+weights_name = 'thin5.h5'
 from datetime import datetime
-logdir = "logs/scalars/" + datetime.now().strftime("%Y%m%d-%H%M%S")
-logdir = "logs/scalars/20191228-081318"
-tensorboard_callback = keras.callbacks.TensorBoard(log_dir=logdir, histogram_freq=1)
+# logdir = "logs/scalars/" + datetime.now().strftime("%Y%m%d-%H%M%S")
+logdir = f"logs/scalars/{weights_name}"
+tensorboard_callback = keras.callbacks.TensorBoard(log_dir=logdir, histogram_freq=5,  write_images=True, embeddings_freq=5)
 
 from keras.callbacks import *
-checkpoint = ModelCheckpoint(weights_name, verbose=1, save_best_only=False)
+checkpoint = ModelCheckpoint(weights_name, verbose=1, save_best_only=True)
 
 callbacks_list = [checkpoint,
                   tensorboard_callback,
                   keras.callbacks.ReduceLROnPlateau(patience=3, factor=0.5, verbose=1, min_delta=0.0001),
-                  keras.callbacks.EarlyStopping(patience=100, verbose=1, restore_best_weights=True)]
+                  # keras.callbacks.EarlyStopping(patience=100, verbose=1, restore_best_weights=True)
+                  ]
 
 l = 60
 with tf.device(device_name):
@@ -348,13 +349,13 @@ with tf.device(device_name):
   print("text size: {:,}\tlayers: {}".format(len(text), layers))
   print("Window length: {}".format(l))
 
-  model.evaluate(TwoTimePadSequence(l, 2*10**4))
+  model.evaluate(TwoTimePadSequence(l, 2*10**4), callbacks=[tensorboard_callback])
   # print("Training:")
   # (ciphers, labels, keys) = samples(text, training_size, l)
   # print(model.fit(ciphers, [labels, keys],
   print(model.fit(x=TwoTimePadSequence(l, 10**5),
             max_queue_size=10_000,
-            initial_epoch=27,
+            # initial_epoch=27,
             epochs=1000+layers, # Excessively long.  But early stopping should rescue us.
             validation_data=TwoTimePadSequence(l, 2*10**4),
             callbacks=callbacks_list))
