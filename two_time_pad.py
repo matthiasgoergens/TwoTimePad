@@ -258,11 +258,11 @@ def make_model(n):
 
     totes_clear = TimeDistributed(Softmax(), name="clear")(
         make_end(
-        SpatialDropout1D(rate=1/2)(
+        SpatialDropout1D(rate=0/2)(
             conved)))
     totes_key = TimeDistributed(Softmax(), name="key")(
         make_end(
-        SpatialDropout1D(rate=1/2)(
+        SpatialDropout1D(rate=0/2)(
             conved)))
 
     model = Model([my_input], [totes_clear, totes_key])
@@ -276,7 +276,7 @@ def make_model(n):
       metrics=['accuracy'])
     return model
 
-weights_name = 'thin10-dropout.h5'
+weights_name = 'thin10-no-dropout.h5'
 from datetime import datetime
 # logdir = "logs/scalars/" + datetime.now().strftime("%Y%m%d-%H%M%S")
 logdir = f"logs/scalars/{weights_name}"
