@@ -190,7 +190,7 @@ def cipher_for_predict():
 def make_model(n):    
     # my_input = Input(shape=(n,), dtype='int32', name="ciphertext")
     my_input = Input(shape=(n,), name="ciphertext")
-    resSize = 8 * 46
+    resSize = 3 * 2 * 46
     embedded = (
       (
       Embedding(output_dim=resSize, input_dim=len(alpha), name="my_embedding",
@@ -230,12 +230,12 @@ def make_model(n):
 
     # Ideas: more nodes, no/lower dropout, only look for last layer for final loss.
     # nine layers is most likely overkill.
-    for i in range(15):
+    for i in range(30):
       convedBroad = (
           TimeDistributed(relu())(
           TimeDistributed(BatchNormalization())(
           Conv1D(
-            filters=4*46, kernel_size=15, padding='same',
+            filters=2*46, kernel_size=15, padding='same',
             kernel_initializer=keras.initializers.he_normal(seed=None),
             )(
           TimeDistributed(relu())(
@@ -250,7 +250,7 @@ def make_model(n):
           TimeDistributed(relu())(
           TimeDistributed(BatchNormalization())(
           Conv1D(
-            filters=4*46, kernel_size=5, padding='same',
+            filters=2*46, kernel_size=5, padding='same',
             kernel_initializer=keras.initializers.he_normal(seed=None),
             )(
           TimeDistributed(relu())(
@@ -299,7 +299,7 @@ def make_model(n):
       metrics=['accuracy'])
     return model
 
-weights_name = 'relu-batch-norm-transmit-more-staggered.h5'
+weights_name = 'thin-and-crazy-high.h5'
 from datetime import datetime
 logdir = "logs/scalars/" + datetime.now().strftime("%Y%m%d-%H%M%S")
 tensorboard_callback = keras.callbacks.TensorBoard(log_dir=logdir)
@@ -311,7 +311,7 @@ callbacks_list = [checkpoint,
                   keras.callbacks.ReduceLROnPlateau(patience=3, factor=0.5, verbose=1, min_delta=0.0001),
                   keras.callbacks.EarlyStopping(patience=100, verbose=1, restore_best_weights=True)]
 
-l = 60
+l = 100
 with tf.device(device_name):
   layers = 9
   model = make_model(l)
