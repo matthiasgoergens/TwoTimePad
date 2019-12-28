@@ -347,6 +347,7 @@ weights_name = 'dropout0.05-adam-maxpool-output-from-all.h5'
 
 from datetime import datetime
 logdir = "logs/scalars/" + datetime.now().strftime("%Y%m%d-%H%M%S")
+logdir = "logs/scalars/20191228-081318"
 tensorboard_callback = keras.callbacks.TensorBoard(log_dir=logdir)
 
 from keras.callbacks import *
@@ -372,6 +373,7 @@ with tf.device(device_name):
 
   model.evaluate(TwoTimePadSequence(l, 2*10**4))
   print(model.fit(x=TwoTimePadSequence(l, 10**5),
+            initial_epoch =  19,
             max_queue_size=10_000,
             epochs=1007, # Excessively long.  But early stopping should rescue us.
             validation_data=TwoTimePadSequence(l, 2*10**4),
