@@ -149,6 +149,26 @@ class TwoTimePadSequence(keras.utils.Sequence):
     self.training_size = training_size
     self.window = window
 
+def art():
+    class ArtificialDataset(tf.data.Dataset):
+        def _generator(num_samples):
+            # Opening the file
+            time.sleep(0.03)
+            
+            for sample_idx in range(num_samples):
+                # Reading data (line, record) from the file
+                time.sleep(0.015)
+                
+                yield (sample_idx,)
+        
+        def __new__(cls, num_samples=3):
+            return tf.data.Dataset.from_generator(
+                cls._generator,
+                output_types=tf.dtypes.int64,
+                output_shapes=(1,),
+                args=(num_samples,)
+            )
+
 def cipher_for_predict():
     # remove eol
     c1 = clean(open('TwoTimePad/examples/ciphertext-1.txt', 'r').read().lower()[:-1])
@@ -192,35 +212,24 @@ HP_resSize = hp.HParam('resSize', hp.IntInterval(46, 8*46))
 
 METRIC_ACCURACY = 'accuracy'
 
-with tf.summary.create_file_writer('logs/hparam_tuning').as_default():
-  hp.hparams_config(
-    hparams=[HP_DROPOUT, HP_HEIGHT, HP_WINDOW],
-    metrics=[hp.Metric(METRIC_ACCURACY, display_name='Accuracy')],
-  )
-
 def make_model(hparams):
     n = hparams[HP_WINDOW]
     # my_input = Input(shape=(n,), dtype='int32', name="ciphertext")
-    my_input = Input(shape=(n,), name="ciphertext")
+    inputA = Input(shape=(n,), name="ciphertext")
+    inputB = -inputA % 46
     resSize = hparams[HP_resSize]
 
-    embedded = (
-      (
-      Embedding(output_dim=resSize, input_dim=len(alpha), name="my_embedding",
+    embedding = Embedding(output_dim=resSize, input_dim=len(alpha), name="my_embedding",
         batch_input_shape=[batch_size, n],
-      )(
-      my_input
-    )))
+      )
 
-    def make_end(c, name):
-        return ( # TimeDistributed(BatchNormalization())(
-          Conv1D(
-            name=name,
-            filters=46, kernel_size=1,
-            padding='same', strides=1,
-            kernel_initializer=keras.initializers.he_normal(seed=None),
-            # dtype=mixed_precision.Policy('float32')
-           )(c))
+    embeddedA = embedding(inputA)
+    embeddedB = embedding(inputB)
+    make_end = Conv1D(
+        name='output',
+        filters=46, kernel_size=1,
+        padding='same', strides=1,
+       )
 
     # clears = [make_end(embedded)]
     # keys = [make_end(embedded)]
@@ -229,11 +238,14 @@ def make_model(hparams):
     ## With one conv we are getting validation loss of 3.5996 quickly (at window size 30); best was ~3.3
     ## So adding another conv and lstm. val loss after first epoch about 3.3
 
-    conved = embedded
+    convedA = embeddedA
+    convedB = embeddedB
 
     # Ideas: more nodes, no/lower dropout, only look for last layer for final loss.
     # nine layers is most likely overkill.
-    for i in range(10):
+    def makeResNet(i):
+      resInputMe = Input(name = 'res_inputMe', shape=(n,resSize,))
+      resInputDu = Input(name = 'res_inputDu', shape=(n,resSize,))
       convedBroad = (
           TimeDistributed(relu())(
           TimeDistributed(BatchNormalization())(
@@ -248,7 +260,7 @@ def make_model(hparams):
             kernel_initializer=keras.initializers.he_normal(seed=None),
             )(
           ( # TimeDistributed(keras.layers.AlphaDropout(0.5))(
-            conved))))))))
+            resInputMe))))))))
       convedNarrow = (
           TimeDistributed(relu())(
           TimeDistributed(BatchNormalization())(
@@ -263,24 +275,29 @@ def make_model(hparams):
             kernel_initializer=keras.initializers.he_normal(seed=None),
             )(
           ( # TimeDistributed(keras.layers.AlphaDropout(0.5))(
-            conved))))))))
-      conved =(
-        keras.layers.Add()([conved,
+            resInputMe))))))))
+      innerConved =(
+        keras.layers.Add(name='resOutput')([resInputMe,
           TimeDistributed(relu())(
           TimeDistributed(BatchNormalization())(
           Conv1D(filters=resSize, kernel_size=1,
             kernel_initializer=keras.initializers.he_normal(seed=None),
           )(
-          concatenate([conved, convedNarrow, convedBroad]))))]))
+          concatenate([resInputMe, convedNarrow, convedBroad, resInputDu]))))]))
+      return Model([resInputMe, resInputDu], [innerConved], name=f'resnet{i}')
+
+    for i in range(hparams[HP_HEIGHT]):
+        resNet = makeResNet(i)
+        convedA, convedB = resNet([convedA, convedB]), resNet([convedB, convedA])
 
     totes_clear = make_end(
         SpatialDropout1D(rate=hparams[HP_DROPOUT])(
-            conved), name='clear')
+            convedA))
     totes_key = make_end(
         SpatialDropout1D(rate=hparams[HP_DROPOUT])(
-            conved), name='key')
+            convedB))
 
-    model = Model([my_input], [totes_clear, totes_key])
+    model = Model([inputA], [totes_clear, totes_key])
 
     model.compile(
       optimizer=tf.optimizers.Adam(),
@@ -291,84 +308,100 @@ def make_model(hparams):
 l = 60
 hparams = {
     HP_DROPOUT: 0.5,
-    HP_HEIGHT: 30,
+    HP_HEIGHT: 15,
     HP_WINDOW: l,
-    HP_resSize: 3 * 46,
+    HP_resSize: 6 * 46,
 }
 
-weights_name = 'thin30-dropout-logit_c.h5'
+weights_name = 'arit-double15-6.h5'
+
 from datetime import datetime
-# logdir = "logs/scalars/" + datetime.now().strftime("%Y%m%d-%H%M%S")
-logdir = f"logs/scalars/{weights_name}"
-tensorboard_callback = keras.callbacks.TensorBoard(log_dir=logdir, histogram_freq=5,  write_images=True, embeddings_freq=5)
-
-
 from keras.callbacks import *
-checkpoint = ModelCheckpoint(weights_name, verbose=1, save_best_only=True)
+def main():
 
-callbacks_list = [checkpoint,
-                  tensorboard_callback,
-		  hp.KerasCallback(logdir, hparams),
-                  # keras.callbacks.ReduceLROnPlateau(patience=3, factor=0.5, verbose=1, min_delta=0.0001),
-                  # keras.callbacks.EarlyStopping(patience=100, verbose=1, restore_best_weights=True)
-                  ]
-
-with tf.device(device_name):
-  try:
-    model = keras.models.load_model(weights_name)
-    print("Loaded weights.")
-  except:
-    model = make_model(hparams)
-    model.summary()
-    print("Failed to load weights.")
-    # raise
-  #for i in range(10*(layers+1)):
-
-  print("Predict:")
-  predict_size = 10
-  
-  # ita_cipher = cipher_for_predict()
-  # [ita_label, ita_key] = model .predict(ita_cipher)
-  # print(toChars_labels(ita_cipher))
-  #pprint(toChars(ita_label)[:1000])
-  #pprint(toChars(ita_key)[:1000])
-
-  (ciphers_p, labels_p, keys_p) = samples(text, predict_size, l)
-  [pred_label, pred_key] = model.predict(ciphers_p)
-  # clear, key, prediction
-  pprint(list(zip(
-      toChars_labels(ciphers_p),
-
-      toChars_labels(labels_p),
-      toChars(pred_label),
-
-      toChars_labels(keys_p),
-      toChars(pred_key),
-
-      predict_size * [l * " "]
-      )),
-    # width=250
-    )
+    # logdir = "logs/scalars/" + datetime.now().strftime("%Y%m%d-%H%M%S")
+    logdir = f"logs/scalars/{weights_name}"
+    tensorboard_callback = keras.callbacks.TensorBoard(log_dir=logdir, histogram_freq=5,  write_images=True, embeddings_freq=5)
 
 
-  model.evaluate(TwoTimePadSequence(l, 2*10**4), callbacks=[tensorboard_callback])
-  # print("Training:")
-  # (ciphers, labels, keys) = samples(text, training_size, l)
-  # print(model.fit(ciphers, [labels, keys],
-  model.fit(x=TwoTimePadSequence(l, 10**4),
-            max_queue_size=10_000,
-            # initial_epoch=27,
-            epochs=1000, # Excessively long.  But early stopping should rescue us.
-            validation_data=TwoTimePadSequence(l, 2*10**3),
-            callbacks=callbacks_list,
-            verbose=2,
-            )
-  #(ciphers_t, labels_t, keys_t) = samples(text, 1000, l)
-  #print("Eval:")
-  #model.evaluate(TwoTimePadSequence(l, 10**4))
+    checkpoint = ModelCheckpoint(weights_name, verbose=1, save_best_only=True)
 
-# Idea: we don't need the full 50% dropout regularization, because our input is already random.
-# So try eg keeping 90% of units?  Just enough to punish big gross / small nettto co-adaptions.
+    callbacks_list = [checkpoint,
+                      tensorboard_callback,
+                      hp.KerasCallback(logdir, hparams),
+                      keras.callbacks.ReduceLROnPlateau(patience=20, factor=0.5, verbose=1, min_delta=0.0001),
+                      # keras.callbacks.EarlyStopping(patience=100, verbose=1, restore_best_weights=True)
+                      ]
 
-# But wow, this bigger network (twice as large as before) trains really well without dropout.  And no learning rate reduction, yet.
-# It's plateau-ing about ~2.54 loss at default learning rate after ~20 epoch.  (If I didn't miss a restart.)
+    with tf.summary.create_file_writer('logs/hparam_tuning').as_default():
+      hp.hparams_config(
+        hparams=[HP_DROPOUT, HP_HEIGHT, HP_WINDOW],
+        metrics=[hp.Metric(METRIC_ACCURACY, display_name='Accuracy')],
+      )
+
+
+
+    with tf.device(device_name):
+      try:
+        model = keras.models.load_model(weights_name)
+        print("Loaded weights.")
+      except:
+        model = make_model(hparams)
+        model.summary()
+        print("Failed to load weights.")
+        # raise
+      #for i in range(10*(layers+1)):
+
+      print("Predict:")
+      predict_size = 10
+      
+      # ita_cipher = cipher_for_predict()
+      # [ita_label, ita_key] = model .predict(ita_cipher)
+      # print(toChars_labels(ita_cipher))
+      #pprint(toChars(ita_label)[:1000])
+      #pprint(toChars(ita_key)[:1000])
+
+      (ciphers_p, labels_p, keys_p) = samples(text, predict_size, l)
+      [pred_label, pred_key] = model.predict(ciphers_p)
+      # clear, key, prediction
+      pprint(list(zip(
+          toChars_labels(ciphers_p),
+
+          toChars_labels(labels_p),
+          toChars(pred_label),
+
+          toChars_labels(keys_p),
+          toChars(pred_key),
+
+          predict_size * [l * " "]
+          )),
+        # width=250
+        )
+
+
+      model.evaluate(TwoTimePadSequence(l, 2*10**4 // 32), callbacks=[tensorboard_callback])
+      # print("Training:")
+      # (ciphers, labels, keys) = samples(text, training_size, l)
+      # print(model.fit(ciphers, [labels, keys],
+      model.fit(x=TwoTimePadSequence(l, 10**4 //32),
+                max_queue_size=100,
+                initial_epoch=0,
+                epochs=1000, # Excessively long.  But early stopping should rescue us.
+                validation_data=TwoTimePadSequence(l, 2*10**3 // 32),
+                callbacks=callbacks_list,
+                verbose=2,
+                # workers=8,
+                # use_multiprocessing=True,
+                )
+      #(ciphers_t, labels_t, keys_t) = samples(text, 1000, l)
+      #print("Eval:")
+      #model.evaluate(TwoTimePadSequence(l, 10**4))
+
+    # Idea: we don't need the full 50% dropout regularization, because our input is already random.
+    # So try eg keeping 90% of units?  Just enough to punish big gross / small nettto co-adaptions.
+
+    # But wow, this bigger network (twice as large as before) trains really well without dropout.  And no learning rate reduction, yet.
+    # It's plateau-ing about ~2.54 loss at default learning rate after ~20 epoch.  (If I didn't miss a restart.)
+
+if __name__=='__main__':
+    main()
