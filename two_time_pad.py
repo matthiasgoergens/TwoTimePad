@@ -22,6 +22,12 @@ def gpu_memory_growth():
       except RuntimeError as e:
         # Memory growth must be set before GPUs have been initialized
         print(e)
+    else:
+        raise NotImplementedError("Want GPU to limit memory growth.")
+
+def limit_memory():
+    from keras import backend as K
+    sess = K.get_session()
 
 # Mixed precision
 # from tensorflow.keras.mixed_precision import experimental as mixed_precision
@@ -273,7 +279,7 @@ def make_model(hparams):
             kernel_initializer=keras.initializers.he_normal(seed=None),
             )(
           # TimeDistributed(keras.layers.AlphaDropout(0.5))(
-          SpatialDropout1D(rate=hparams[HP_DROPOUT])(
+          ( # SpatialDropout1D(rate=hparams[HP_DROPOUT])(
             resInputMe))))))))
       convedNarrow = (
           TimeDistributed(relu())(
@@ -289,7 +295,7 @@ def make_model(hparams):
             kernel_initializer=keras.initializers.he_normal(seed=None),
             )(
           # TimeDistributed(keras.layers.AlphaDropout(0.5))(
-          SpatialDropout1D(rate=hparams[HP_DROPOUT])(
+          ( # SpatialDropout1D(rate=hparams[HP_DROPOUT])(
             resInputMe))))))))
       innerConved =(
         keras.layers.Add(name='resOutput')([resInputMe,
@@ -298,7 +304,7 @@ def make_model(hparams):
           Conv1D(filters=resSize, kernel_size=1,
             kernel_initializer=keras.initializers.he_normal(seed=None),
           )(
-          SpatialDropout1D(rate=hparams[HP_DROPOUT])(
+          ( # SpatialDropout1D(rate=hparams[HP_DROPOUT])(
           concatenate([resInputMe, convedNarrow, convedBroad, resInputDu])))))]))
       return Model([resInputMe, resInputDu], [innerConved], name=f'resnet{i}')
 
@@ -329,12 +335,12 @@ hparams = {
     HP_resSize: 6 * 46,
 }
 
-weights_name = 'arit-double15-6-dropout-instead-of-batchnorm.h5'
+weights_name = 'arit-double15-6-last-dropout-no-batchnorm.h5'
 
 from datetime import datetime
 from keras.callbacks import *
 def main():
-    # gpu_memory_growth()
+    gpu_memory_growth()
 
     # logdir = "logs/scalars/" + datetime.now().strftime("%Y%m%d-%H%M%S")
     logdir = f"logs/scalars/{weights_name}"
