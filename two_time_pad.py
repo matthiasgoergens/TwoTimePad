@@ -10,6 +10,19 @@ else:
   useGPU = True
   print('Found GPU at: {}'.format(device_name))
 
+def gpu_memory_growth():
+    gpus = tf.config.experimental.list_physical_devices('GPU')
+    if gpus:
+      try:
+        # Currently, memory growth needs to be the same across GPUs
+        for gpu in gpus:
+          tf.config.experimental.set_memory_growth(gpu, True)
+        logical_gpus = tf.config.experimental.list_logical_devices('GPU')
+        print(len(gpus), "Physical GPUs,", len(logical_gpus), "Logical GPUs")
+      except RuntimeError as e:
+        # Memory growth must be set before GPUs have been initialized
+        print(e)
+
 # Mixed precision
 # from tensorflow.keras.mixed_precision import experimental as mixed_precision
 # policy = mixed_precision.Policy('mixed_float16')
@@ -248,42 +261,45 @@ def make_model(hparams):
       resInputDu = Input(name = 'res_inputDu', shape=(n,resSize,))
       convedBroad = (
           TimeDistributed(relu())(
-          TimeDistributed(BatchNormalization())(
+          ( # TimeDistributed(BatchNormalization())(
           Conv1D(
             filters=2*46, kernel_size=15, padding='same',
             kernel_initializer=keras.initializers.he_normal(seed=None),
             )(
           TimeDistributed(relu())(
-          TimeDistributed(BatchNormalization())(
+          ( # TimeDistributed(BatchNormalization())(
           Conv1D(
             filters=2*46, kernel_size=1,
             kernel_initializer=keras.initializers.he_normal(seed=None),
             )(
-          ( # TimeDistributed(keras.layers.AlphaDropout(0.5))(
+          # TimeDistributed(keras.layers.AlphaDropout(0.5))(
+          SpatialDropout1D(rate=hparams[HP_DROPOUT])(
             resInputMe))))))))
       convedNarrow = (
           TimeDistributed(relu())(
-          TimeDistributed(BatchNormalization())(
+          (  # TimeDistributed(BatchNormalization())(
           Conv1D(
             filters=2*46, kernel_size=5, padding='same',
             kernel_initializer=keras.initializers.he_normal(seed=None),
             )(
           TimeDistributed(relu())(
-          TimeDistributed(BatchNormalization())(
+          ( # TimeDistributed(BatchNormalization())(
           Conv1D(
             filters=2*46, kernel_size=1,
             kernel_initializer=keras.initializers.he_normal(seed=None),
             )(
-          ( # TimeDistributed(keras.layers.AlphaDropout(0.5))(
+          # TimeDistributed(keras.layers.AlphaDropout(0.5))(
+          SpatialDropout1D(rate=hparams[HP_DROPOUT])(
             resInputMe))))))))
       innerConved =(
         keras.layers.Add(name='resOutput')([resInputMe,
           TimeDistributed(relu())(
-          TimeDistributed(BatchNormalization())(
+          ( # TimeDistributed(BatchNormalization())(
           Conv1D(filters=resSize, kernel_size=1,
             kernel_initializer=keras.initializers.he_normal(seed=None),
           )(
-          concatenate([resInputMe, convedNarrow, convedBroad, resInputDu]))))]))
+          SpatialDropout1D(rate=hparams[HP_DROPOUT])(
+          concatenate([resInputMe, convedNarrow, convedBroad, resInputDu])))))]))
       return Model([resInputMe, resInputDu], [innerConved], name=f'resnet{i}')
 
     for i in range(hparams[HP_HEIGHT]):
@@ -313,11 +329,12 @@ hparams = {
     HP_resSize: 6 * 46,
 }
 
-weights_name = 'arit-double15-6.h5'
+weights_name = 'arit-double15-6-dropout-instead-of-batchnorm.h5'
 
 from datetime import datetime
 from keras.callbacks import *
 def main():
+    # gpu_memory_growth()
 
     # logdir = "logs/scalars/" + datetime.now().strftime("%Y%m%d-%H%M%S")
     logdir = f"logs/scalars/{weights_name}"
