@@ -416,7 +416,7 @@ def main():
       # print("Training:")
       # (ciphers, labels, keys) = samples(text, training_size, l)
       # print(model.fit(ciphers, [labels, keys],
-      for epoch, (x, y) in enumerate(makeEpochs(l, 10**4 // 8)):
+      for epoch, (x, y) in enumerate(makeEpochs(l, 10**4)):
           print(f"My epoch: {epoch}")
           model.fit(x=x, y=y,
                     # max_queue_size=1_000,
