@@ -197,33 +197,6 @@ def cipher_for_predict():
     return tf.convert_to_tensor([sub(c1, c2)])
 
 
-# Idea: encode symmetry
-#
-# Provide both input and -input, then use shared weights (and mixing) to arrive
-# at the two residuals..
-
-
-#def make_2_model(n):
-#    inputP = Input(shape=(n,), name="Piphertext")
-#    inputN = -inputP % 46
-#
-#    resSize = 3 * 46
-#
-#    embedding = Embedding(output_dim=resSize, input_dim=len(alpha), name="my_embedding",
-#        batch_input_shape=[batch_size, n])
-#
-#    convP = embedding(inputP)
-#    convN = embedding(inputN)
-#
-#    make_end = Conv1D(
-#            filters=46, kernel_size=1,
-#            padding='same', strides=1,
-#            kernel_initializer=keras.initializers.he_normal(seed=None),
-#            # dtype=mixed_precision.Policy('float32')
-#           )
-    # (-1) % 46
-
-
 HP_DROPOUT = hp.HParam('dropout', hp.RealInterval(0.0, 0.5))
 HP_HEIGHT = hp.HParam('height', hp.IntInterval(0, 30))
 HP_WINDOW = hp.HParam('window', hp.IntInterval(1, 100))
