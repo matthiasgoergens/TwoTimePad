@@ -153,22 +153,8 @@ from tensorflow.keras.models import Sequential, Model
 batch_size = 32
 
 text = clean(load())
-mtext = tf.convert_to_tensor(text)
+mtext = tf.convert_to_tensor(text, dtype='int8')
                  
-class TwoTimePadSequence(keras.utils.Sequence):
-  def on_epoch_end(self):
-    print("Epoch {self.epochs} ended.")
-    self.epochs += 1
-  def __len__(self):
-    return self.training_size
-  def __getitem__(self, idx):
-    (ciphers_p, labels_p, keys_p) = samples(text, batch_size, self.window)
-    return ciphers_p, [labels_p, keys_p]
-  def __init__(self, window, training_size):
-    self.epochs = 0
-    self.training_size = training_size
-    self.window = window
-
 def round_to(x, n):
   return (x // n) * n
 
@@ -187,6 +173,23 @@ def makeEpochs(window):
         xx = tf.random.shuffle(x)
         yy = tf.random.shuffle(y)
         yield ((xx-yy)%46, (xx, yy))
+
+class TwoTimePadSequence(keras.utils.Sequence):
+  def _load(self):
+      pass
+  def on_epoch_end(self):
+    print("Epoch {self.epochs} ended.")
+    self.epochs += 1
+  def __len__(self):
+    return self.training_size
+  def __getitem__(self, idx):
+    (ciphers_p, labels_p, keys_p) = samples(text, batch_size, self.window)
+    return ciphers_p, [labels_p, keys_p]
+  def __init__(self, window, training_size):
+    self.epochs = 0
+    self.training_size = training_size
+    self.window = window
+
 
 
 def art():
@@ -329,7 +332,7 @@ hparams = {
     HP_resSize: 8 * 46,
 }
 
-weights_name = 'recreate-best-faster.h5'
+weights_name = 'recreate-best-faster-output.h5'
 
 from datetime import datetime
 from keras.callbacks import *
@@ -401,13 +404,16 @@ def main():
       # (ciphers, labels, keys) = samples(text, training_size, l)
       # print(model.fit(ciphers, [labels, keys],
       for epoch, (x, y) in enumerate(makeEpochs(l)):
+          print(f"My epoch: {epoch}")
           model.fit(x=x,
                     y=y,
-                    max_queue_size=100,
-                    initial_epoch=epoch,
+                    # max_queue_size=1_000,
+                    # initial_epoch=epoch,
+                    # epochs=epoch+1,
                     validation_split=0.05,
                     callbacks=callbacks_list,
-                    verbose=2,
+                    batch_size=32,
+                    verbose=1,
                     # workers=8,
                     # use_multiprocessing=True,
                     )
