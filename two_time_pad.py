@@ -131,7 +131,7 @@ from tensorflow.keras.layers import Embedding, Input, Dense, Dropout, Softmax, G
 from tensorflow_addons.layers import Maxout, Sparsemax
 from tensorflow.keras.models import Sequential, Model
 
-batch_size = 64
+batch_size = 32
 
 text = clean(load())
                  
@@ -140,13 +140,13 @@ class TwoTimePadSequence(keras.utils.Sequence):
     print("Epoch {self.epochs} ended.")
     self.epochs += 1
   def __len__(self):
-    return self.training_size // batch_size
+    return self.training_size
   def __getitem__(self, idx):
     (ciphers_p, labels_p, keys_p) = samples(text, batch_size, self.window)
     return ciphers_p, [labels_p, keys_p]
   def __init__(self, window, training_size):
     self.epochs = 0
-    self.training_size =  (training_size // batch_size) * batch_size
+    self.training_size = training_size
     self.window = window
 
 def cipher_for_predict():
@@ -186,7 +186,7 @@ def cipher_for_predict():
 
 
 HP_DROPOUT = hp.HParam('dropout', hp.RealInterval(0.0, 0.5))
-HP_HEIGHT = hp.HParam('height', hp.IntInterval(0, 10))
+HP_HEIGHT = hp.HParam('height', hp.IntInterval(0, 30))
 HP_WINDOW = hp.HParam('window', hp.IntInterval(1, 100))
 HP_resSize = hp.HParam('resSize', hp.IntInterval(46, 8*46))
 
@@ -291,12 +291,12 @@ def make_model(hparams):
 l = 60
 hparams = {
     HP_DROPOUT: 0.5,
-    HP_HEIGHT: 10,
+    HP_HEIGHT: 30,
     HP_WINDOW: l,
-    HP_resSize: 2 * 46,
+    HP_resSize: 3 * 46,
 }
 
-weights_name = 'thiner10-dropout-logit.h5'
+weights_name = 'thin30-dropout-logit_c.h5'
 from datetime import datetime
 # logdir = "logs/scalars/" + datetime.now().strftime("%Y%m%d-%H%M%S")
 logdir = f"logs/scalars/{weights_name}"
