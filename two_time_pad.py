@@ -239,32 +239,32 @@ def make_model(hparams):
       resInputMe = Input(name = 'res_inputMe', shape=(n,resSize,))
       resInputDu = Input(name = 'res_inputDu', shape=(n,resSize,))
       convedBroad = (
+          TimeDistributed(BatchNormalization())(
           TimeDistributed(relu())(
-          ( # TimeDistributed(BatchNormalization())(
           Conv1D(
-            filters=2*46, kernel_size=15, padding='same',
+            filters=4*46, kernel_size=15, padding='same',
             kernel_initializer=keras.initializers.he_normal(seed=None),
             )(
+          TimeDistributed(BatchNormalization())(
           TimeDistributed(relu())(
-          ( # TimeDistributed(BatchNormalization())(
           Conv1D(
-            filters=2*46, kernel_size=1,
+            filters=3*46, kernel_size=1,
             kernel_initializer=keras.initializers.he_normal(seed=None),
             )(
           # TimeDistributed(keras.layers.AlphaDropout(0.5))(
           ( # SpatialDropout1D(rate=hparams[HP_DROPOUT])(
             resInputMe))))))))
       convedNarrow = (
+          TimeDistributed(BatchNormalization())(
           TimeDistributed(relu())(
-          (  # TimeDistributed(BatchNormalization())(
           Conv1D(
-            filters=2*46, kernel_size=5, padding='same',
+            filters=4*46, kernel_size=5, padding='same',
             kernel_initializer=keras.initializers.he_normal(seed=None),
             )(
+          TimeDistributed(BatchNormalization())(
           TimeDistributed(relu())(
-          ( # TimeDistributed(BatchNormalization())(
           Conv1D(
-            filters=2*46, kernel_size=1,
+            filters=3*46, kernel_size=1,
             kernel_initializer=keras.initializers.he_normal(seed=None),
             )(
           # TimeDistributed(keras.layers.AlphaDropout(0.5))(
@@ -272,8 +272,8 @@ def make_model(hparams):
             resInputMe))))))))
       innerConved =(
         keras.layers.Add(name='resOutput')([resInputMe,
+          TimeDistributed(BatchNormalization())(
           TimeDistributed(relu())(
-          ( # TimeDistributed(BatchNormalization())(
           Conv1D(filters=resSize, kernel_size=1,
             kernel_initializer=keras.initializers.he_normal(seed=None),
           )(
@@ -302,13 +302,13 @@ def make_model(hparams):
 
 l = 60
 hparams = {
-    HP_DROPOUT: 0.5,
-    HP_HEIGHT: 15,
+    HP_DROPOUT: 0.1,
+    HP_HEIGHT: 7,
     HP_WINDOW: l,
-    HP_resSize: 6 * 46,
+    HP_resSize: 8 * 46,
 }
 
-weights_name = 'arit-double15-6-last-dropout-no-batchnorm.h5'
+weights_name = 'recreate-best.h5'
 
 from datetime import datetime
 from keras.callbacks import *
