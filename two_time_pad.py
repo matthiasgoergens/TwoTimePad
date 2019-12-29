@@ -153,6 +153,7 @@ from tensorflow.keras.models import Sequential, Model
 batch_size = 32
 
 text = clean(load())
+mtext = tf.convert_to_tensor(text)
                  
 class TwoTimePadSequence(keras.utils.Sequence):
   def on_epoch_end(self):
@@ -167,6 +168,26 @@ class TwoTimePadSequence(keras.utils.Sequence):
     self.epochs = 0
     self.training_size = training_size
     self.window = window
+
+def round_to(x, n):
+  return (x // n) * n
+
+def make1(window, text):
+  (size,) = text.shape
+  start = random.randrange(window)
+  return tf.reshape(tf.slice(text, [start], [round_to(size - window, window)]), (-1, window))
+
+mtext = tf.convert_to_tensor(text)
+
+def makeEpochs(window):
+  while True:
+      x = make1(window, mtext)
+      y = make1(window, mtext)
+      for i in range(100):
+        xx = tf.random.shuffle(x)
+        yy = tf.random.shuffle(y)
+        yield ((xx-yy)%46, (xx, yy))
+
 
 def art():
     class ArtificialDataset(tf.data.Dataset):
@@ -308,7 +329,7 @@ hparams = {
     HP_resSize: 8 * 46,
 }
 
-weights_name = 'recreate-best.h5'
+weights_name = 'recreate-best-faster.h5'
 
 from datetime import datetime
 from keras.callbacks import *
@@ -375,21 +396,22 @@ def main():
         )
 
 
-      model.evaluate(TwoTimePadSequence(l, 2*10**4 // 32), callbacks=[tensorboard_callback])
+      # model.evaluate(TwoTimePadSequence(l, 10**4 // 32), callbacks=[tensorboard_callback])
       # print("Training:")
       # (ciphers, labels, keys) = samples(text, training_size, l)
       # print(model.fit(ciphers, [labels, keys],
-      model.fit(x=TwoTimePadSequence(l, 10**4 //32),
-                max_queue_size=100,
-                initial_epoch=0,
-                epochs=1000, # Excessively long.  But early stopping should rescue us.
-                validation_data=TwoTimePadSequence(l, 2*10**3 // 32),
-                callbacks=callbacks_list,
-                verbose=2,
-                # workers=8,
-                # use_multiprocessing=True,
-                )
-      #(ciphers_t, labels_t, keys_t) = samples(text, 1000, l)
+      for epoch, (x, y) in enumerate(makeEpochs(l)):
+          model.fit(x=x,
+                    y=y,
+                    max_queue_size=100,
+                    initial_epoch=epoch,
+                    validation_split=0.05,
+                    callbacks=callbacks_list,
+                    verbose=2,
+                    # workers=8,
+                    # use_multiprocessing=True,
+                    )
+          #(ciphers_t, labels_t, keys_t) = samples(text, 1000, l)
       #print("Eval:")
       #model.evaluate(TwoTimePadSequence(l, 10**4))
 
