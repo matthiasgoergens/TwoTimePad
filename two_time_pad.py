@@ -161,34 +161,47 @@ def round_to(x, n):
 def make1(window, text):
   (size,) = text.shape
   start = random.randrange(window)
-  return tf.reshape(tf.slice(text, [start], [round_to(size - window, window)]), (-1, window))
+  return tf.reshape(tf.slice(text, [start], [round_to(size - window*batch_size, window*batch_size)]), (-1, window))
 
 mtext = tf.convert_to_tensor(text)
 
-def makeEpochs(window):
+def makeEpochs(window, training_size):
   while True:
       x = make1(window, mtext)
       y = make1(window, mtext)
-      for i in range(100):
+      for _ in range(100):
         xx = tf.random.shuffle(x)
         yy = tf.random.shuffle(y)
-        yield ((xx-yy)%46, (xx, yy))
+        cipher = (xx-yy)%46
+        for i in range(0, x.shape[0], training_size):
+          yield (cipher[i:i+training_size, :],), (xx[i:i+training_size, :], yy[i:i+training_size, :])
 
 class TwoTimePadSequence(keras.utils.Sequence):
   def _load(self):
-      pass
+    self.aa = tf.reshape(
+        tf.random.shuffle(self.a),
+        (-1, batch_size, self.window))
+    self.bb = tf.reshape(
+        tf.random.shuffle(self.b),
+        (-1, batch_size, self.window))
+    self.cipher = (self.aa - self.bb) % 46
   def on_epoch_end(self):
     print("Epoch {self.epochs} ended.")
+    self._load()
     self.epochs += 1
   def __len__(self):
     return self.training_size
   def __getitem__(self, idx):
-    (ciphers_p, labels_p, keys_p) = samples(text, batch_size, self.window)
-    return ciphers_p, [labels_p, keys_p]
+      return self.cipher[idx, :, :], (self.aa[idx, :, :], self.bb[idx, :, :])
+
   def __init__(self, window, training_size):
+    self.a = make1(window, mtext)
+    self.b = make1(window, mtext)
+
     self.epochs = 0
     self.training_size = training_size
     self.window = window
+    self._load()
 
 
 
@@ -332,7 +345,7 @@ hparams = {
     HP_resSize: 8 * 46,
 }
 
-weights_name = 'recreate-best-faster-output.h5'
+weights_name = 'recreate-best-faster-output-ok2.h5'
 
 from datetime import datetime
 from keras.callbacks import *
@@ -348,7 +361,7 @@ def main():
 
     callbacks_list = [checkpoint,
                       tensorboard_callback,
-                      hp.KerasCallback(logdir, hparams),
+                      # hp.KerasCallback(logdir, hparams),
                       keras.callbacks.ReduceLROnPlateau(patience=20, factor=0.5, verbose=1, min_delta=0.0001),
                       # keras.callbacks.EarlyStopping(patience=100, verbose=1, restore_best_weights=True)
                       ]
@@ -403,17 +416,17 @@ def main():
       # print("Training:")
       # (ciphers, labels, keys) = samples(text, training_size, l)
       # print(model.fit(ciphers, [labels, keys],
-      for epoch, (x, y) in enumerate(makeEpochs(l)):
+      for epoch, (x, y) in enumerate(makeEpochs(l, 10**4 // 8)):
           print(f"My epoch: {epoch}")
-          model.fit(x=x,
-                    y=y,
+          model.fit(x=x, y=y,
                     # max_queue_size=1_000,
-                    # initial_epoch=epoch,
-                    # epochs=epoch+1,
-                    validation_split=0.05,
+                    initial_epoch=epoch,
+                    epochs=epoch+1,
+                    validation_split=0.1,
+                    # validation_data=TwoTimePadSequence(l, 2*10**3 // 32),
                     callbacks=callbacks_list,
-                    batch_size=32,
-                    verbose=1,
+                    batch_size=batch_size,
+                    verbose=2,
                     # workers=8,
                     # use_multiprocessing=True,
                     )
