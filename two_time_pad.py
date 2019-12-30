@@ -308,11 +308,20 @@ def make_model(hparams):
     # Ideas: more nodes, no/lower dropout, only look for last layer for final loss.
     # nine layers is most likely overkill.
     def makeResNet(i, channels, width, size):
-        inputBoth = Input(name="res_inputMe", shape=(n,channels,))
-        output = TimeDistributed(BatchNormalization())(relu()(Conv1D(filters=size, kernel_size=width, padding='same')(inputBoth)))
-        return Model([inputBoth], [output], name=f"resnet{i}")
+        return Sequential([
+            Input(name="res_inputMe", shape=(n,channels,)),
 
-    for i, (width, size) in enumerate(10*[(15, 23)]):
+            TimeDistributed(BatchNormalization()),
+            # SpatialDropout1D(rate=hparams[HP_DROPOUT]), # Not sure whether that's good.
+            relu(),
+            Conv1D(filters=4*size, kernel_size=1, padding='same'),
+
+            TimeDistributed(BatchNormalization()),
+            relu(),
+            Conv1D(filters=size, kernel_size=width, padding='same'),
+            ], name=f"resnet{i}")
+
+    for i, (width, size) in enumerate(50*[(15, 12)]):
         (_, _, num_channels) = convedA.shape
         resNet = makeResNet(i, 2*num_channels, width, size)
         convedA, convedB = (
@@ -345,7 +354,7 @@ hparams = {
     HP_resSize: 4 * 46,
 }
 
-weights_name = "denseCNN.h5"
+weights_name = "denseCNN-50-bottleneck.h5"
 
 
 def main():
