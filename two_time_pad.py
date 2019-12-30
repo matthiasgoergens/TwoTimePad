@@ -289,7 +289,7 @@ def make_model(hparams):
     inputB = -inputA % 46
     resSize = hparams[HP_resSize]
 
-    embedding = Embedding(output_dim=resSize, input_dim=len(alpha), name="my_embedding", batch_input_shape=[batch_size, n],)
+    embedding = Embedding(output_dim=len(alpha), input_dim=len(alpha), name="my_embedding", batch_input_shape=[batch_size, n],)
 
     embeddedA = embedding(inputA)
     embeddedB = embedding(inputB)
@@ -307,72 +307,17 @@ def make_model(hparams):
 
     # Ideas: more nodes, no/lower dropout, only look for last layer for final loss.
     # nine layers is most likely overkill.
-    def makeResNet(i):
-        resInputMe = Input(name="res_inputMe", shape=(n, resSize,))
-        resInputDu = Input(name="res_inputDu", shape=(n, resSize,))
-        convedBroad = Sequential(
-            [
-                Conv1D(
-                    filters=2 * 46,
-                    kernel_size=1,
-                    # kernel_initializer=keras.initializers.he_normal(
-                    #     seed=None
-                    # ),
-                ),
-                relu(),
-                TimeDistributed(BatchNormalization()),
-                Conv1D(
-                    filters=2 * 46,
-                    kernel_size=15,
-                    padding="same",
-                    # kernel_initializer=keras.initializers.he_normal(seed=None),
-                ),
-                relu(),
-                TimeDistributed(BatchNormalization()),
-            ]
-        )(resInputMe)
-        convedNarrow = Sequential(
-            [
-                Conv1D(
-                    filters=2 * 46,
-                    kernel_size=1,
-                    # kernel_initializer=keras.initializers.he_normal(
-                    #     seed=None
-                    # ),
-                ),
-                relu(),
-                TimeDistributed(BatchNormalization()),
-                Conv1D(
-                    filters=2 * 46,
-                    kernel_size=5,
-                    padding="same",
-                    # kernel_initializer=keras.initializers.he_normal(seed=None),
-                ),
-                relu(),
-                TimeDistributed(BatchNormalization()),
-            ]
-        )(resInputMe)
-        innerConved = TimeDistributed(BatchNormalization())(
-            relu()(
-                Add(name="resOutput")(
-                    [
-                        resInputMe,
-                        Conv1D(
-                            filters=resSize,
-                            kernel_size=1,
-                            # kernel_initializer=keras.initializers.he_normal(seed=None),
-                        )(
-                            (concatenate([resInputMe, convedNarrow, convedBroad, resInputDu]))  # SpatialDropout1D(rate=hparams[HP_DROPOUT])(
-                        ),
-                    ]
-                )
-            )
-        )
-        return Model([resInputMe, resInputDu], [innerConved], name=f"resnet{i}")
+    def makeResNet(i, channels, width, size):
+        inputBoth = Input(name="res_inputMe", shape=(n,channels,))
+        output = TimeDistributed(BatchNormalization())(relu()(Conv1D(filters=size, kernel_size=width, padding='same')(inputBoth)))
+        return Model([inputBoth], [output], name=f"resnet{i}")
 
-    for i in range(hparams[HP_HEIGHT]):
-        resNet = makeResNet(i)
-        convedA, convedB = resNet([convedA, convedB]), resNet([convedB, convedA])
+    for i, (width, size) in enumerate(10*[(15, 23)]):
+        (_, _, num_channels) = convedA.shape
+        resNet = makeResNet(i, 2*num_channels, width, size)
+        convedA, convedB = (
+                concatenate([convedA,resNet(concatenate([convedA, convedB]))]),
+                concatenate([convedB,resNet(concatenate([convedB, convedA]))]))
 
     # lstm = Bidirectional(LSTM(4*46, return_sequences=True))
     # c = Conv1D(filters=resSize, kernel_size=1)
@@ -400,7 +345,7 @@ hparams = {
     HP_resSize: 4 * 46,
 }
 
-weights_name = "h50-wide4-exp.h5"
+weights_name = "denseCNN.h5"
 
 
 def main():
@@ -410,7 +355,7 @@ def main():
     logdir = f"logs/scalars/{weights_name}"
     tensorboard_callback = keras.callbacks.TensorBoard(log_dir=logdir)  # , histogram_freq=5,  write_images=True, embeddings_freq=5)
 
-    checkpoint = ModelCheckpoint(weights_name, verbose=1, save_best_only=True)
+    checkpoint = ModelCheckpoint('weights/'+weights_name, verbose=1, save_best_only=True)
 
     callbacks_list = [
         checkpoint,
@@ -427,7 +372,7 @@ def main():
 
     with tf.device(device_name):
         try:
-            model = keras.models.load_model(weights_name)
+            model = keras.models.load_model('weights/'+weights_name)
             print("Loaded weights.")
         except:
             model = make_model(hparams)
