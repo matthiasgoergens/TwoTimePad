@@ -185,14 +185,24 @@ class TwoTimePadSequence(keras.utils.Sequence):
         tf.random.shuffle(self.b),
         (-1, batch_size, self.window))
     self.cipher = (self.aa - self.bb) % 46
+
+    self.size = self.aa.shape[0]
+    self.items = iter(range(self.size))
   def on_epoch_end(self):
     print("Epoch {self.epochs} ended.")
     self._load()
     self.epochs += 1
+    raise NotImplementedError("Called on epoch end")
   def __len__(self):
     return self.training_size
   def __getitem__(self, idx):
-      return self.cipher[idx, :, :], (self.aa[idx, :, :], self.bb[idx, :, :])
+      i = next(self.items, None)
+      # Hack, because on_epoch_end doesn't seem to be called.
+      if i is None:
+          self._load()
+          return self.__getitem__(idx)
+      else:
+          return self.cipher[i, :, :], (self.aa[i, :, :], self.bb[i, :, :])
 
   def __init__(self, window, training_size):
     self.a = make1(window, mtext)
@@ -339,13 +349,13 @@ def make_model(hparams):
 
 l = 60
 hparams = {
-    HP_DROPOUT: 0.1,
-    HP_HEIGHT: 7,
+    HP_DROPOUT: 0.2,
+    HP_HEIGHT: 10,
     HP_WINDOW: l,
     HP_resSize: 8 * 46,
 }
 
-weights_name = 'recreate-best-faster-output-ok2.h5'
+weights_name = 'h10-wide8-ok-6.h5'
 
 from datetime import datetime
 from keras.callbacks import *
@@ -354,15 +364,15 @@ def main():
 
     # logdir = "logs/scalars/" + datetime.now().strftime("%Y%m%d-%H%M%S")
     logdir = f"logs/scalars/{weights_name}"
-    tensorboard_callback = keras.callbacks.TensorBoard(log_dir=logdir, histogram_freq=5,  write_images=True, embeddings_freq=5)
+    tensorboard_callback = keras.callbacks.TensorBoard(log_dir=logdir) # , histogram_freq=5,  write_images=True, embeddings_freq=5)
 
 
     checkpoint = ModelCheckpoint(weights_name, verbose=1, save_best_only=True)
 
     callbacks_list = [checkpoint,
                       tensorboard_callback,
-                      # hp.KerasCallback(logdir, hparams),
-                      keras.callbacks.ReduceLROnPlateau(patience=20, factor=0.5, verbose=1, min_delta=0.0001),
+                      hp.KerasCallback(logdir, hparams),
+                      keras.callbacks.ReduceLROnPlateau(patience=10, factor=0.5, verbose=1, min_delta=0.0001),
                       # keras.callbacks.EarlyStopping(patience=100, verbose=1, restore_best_weights=True)
                       ]
 
@@ -416,17 +426,19 @@ def main():
       # print("Training:")
       # (ciphers, labels, keys) = samples(text, training_size, l)
       # print(model.fit(ciphers, [labels, keys],
-      for epoch, (x, y) in enumerate(makeEpochs(l, 10**4)):
-          print(f"My epoch: {epoch}")
-          model.fit(x=x, y=y,
-                    # max_queue_size=1_000,
-                    initial_epoch=epoch,
-                    epochs=epoch+1,
-                    validation_split=0.1,
-                    # validation_data=TwoTimePadSequence(l, 2*10**3 // 32),
+      # for epoch, (x, y) in enumerate(makeEpochs(l, 10**4)):
+      #    print(f"My epoch: {epoch}")
+      model.fit(x=TwoTimePadSequence(l, 10**4 // 32),
+                steps_per_epoch=10**4 // 32,
+                    max_queue_size=1_000,
+                    # initial_epoch=epoch,
+                    # epochs=epoch+1,
+                    # validation_split=0.1,
+                    epochs=10000,
+                    validation_data=TwoTimePadSequence(l, 10**3 // 32),
                     callbacks=callbacks_list,
-                    batch_size=batch_size,
-                    verbose=2,
+                    # batch_size=batch_size,
+                    verbose=1,
                     # workers=8,
                     # use_multiprocessing=True,
                     )
