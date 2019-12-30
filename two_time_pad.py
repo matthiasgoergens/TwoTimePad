@@ -310,56 +310,48 @@ def make_model(hparams):
     def makeResNet(i):
         resInputMe = Input(name="res_inputMe", shape=(n, resSize,))
         resInputDu = Input(name="res_inputDu", shape=(n, resSize,))
-        convedBroad = TimeDistributed(BatchNormalization())(
-            relu()(
+        convedBroad = Sequential(
+            [
+                Conv1D(
+                    filters=4 * 46,
+                    kernel_size=1,
+                    # kernel_initializer=keras.initializers.he_normal(
+                    #     seed=None
+                    # ),
+                ),
+                relu(),
+                TimeDistributed(BatchNormalization()),
                 Conv1D(
                     filters=6 * 46,
                     kernel_size=15,
                     padding="same",
                     # kernel_initializer=keras.initializers.he_normal(seed=None),
-                )(
-                    TimeDistributed(BatchNormalization())(
-                        relu()(
-                            Conv1D(
-                                filters=4 * 46,
-                                kernel_size=1,
-                                # kernel_initializer=keras.initializers.he_normal(
-                                #     seed=None
-                                # ),
-                            )(
-                                # TimeDistributed(keras.layers.AlphaDropout(0.5))(
-                                (resInputMe)  # SpatialDropout1D(rate=hparams[HP_DROPOUT])(
-                            )
-                        )
-                    )
-                )
-            )
-        )
-        convedNarrow = TimeDistributed(BatchNormalization())(
-            relu()(
+                ),
+                relu(),
+                TimeDistributed(BatchNormalization()),
+            ]
+        )(resInputMe)
+        convedNarrow = Sequential(
+            [
+                Conv1D(
+                    filters=4 * 46,
+                    kernel_size=1,
+                    # kernel_initializer=keras.initializers.he_normal(
+                    #     seed=None
+                    # ),
+                ),
+                relu(),
+                TimeDistributed(BatchNormalization()),
                 Conv1D(
                     filters=6 * 46,
                     kernel_size=5,
                     padding="same",
                     # kernel_initializer=keras.initializers.he_normal(seed=None),
-                )(
-                    TimeDistributed(BatchNormalization())(
-                        relu()(
-                            Conv1D(
-                                filters=4 * 46,
-                                kernel_size=1,
-                                # kernel_initializer=keras.initializers.he_normal(
-                                #     seed=None
-                                # ),
-                            )(
-                                # TimeDistributed(keras.layers.AlphaDropout(0.5))(
-                                (resInputMe)  # SpatialDropout1D(rate=hparams[HP_DROPOUT])(
-                            )
-                        )
-                    )
-                )
-            )
-        )
+                ),
+                relu(),
+                TimeDistributed(BatchNormalization()),
+            ]
+        )(resInputMe)
         innerConved = TimeDistributed(BatchNormalization())(
             relu()(
                 Add(name="resOutput")(
