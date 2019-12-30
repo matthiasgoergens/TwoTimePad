@@ -142,7 +142,7 @@ def samples(text, batch_size, l):
         one_hot_keys)
 
 # relu = ft.partial(keras.layers.LeakyReLU, alpha=0.1)
-relu = tf.keras.layers.PReLU
+relu = ft.partial(tf.keras.layers.PReLU, shared_axes=[1])
 
 import tensorflow_addons as tfa
 from tensorboard.plugins.hparams import api as hp
@@ -288,13 +288,13 @@ def make_model(hparams):
       resInputDu = Input(name = 'res_inputDu', shape=(n,resSize,))
       convedBroad = (
           TimeDistributed(BatchNormalization())(
-          TimeDistributed(relu())(
+          relu()(
           Conv1D(
             filters=6*46, kernel_size=15, padding='same',
             kernel_initializer=keras.initializers.he_normal(seed=None),
             )(
           TimeDistributed(BatchNormalization())(
-          TimeDistributed(relu())(
+          relu()(
           Conv1D(
             filters=4*46, kernel_size=1,
             kernel_initializer=keras.initializers.he_normal(seed=None),
@@ -304,13 +304,13 @@ def make_model(hparams):
             resInputMe))))))))
       convedNarrow = (
           TimeDistributed(BatchNormalization())(
-          TimeDistributed(relu())(
+          relu()(
           Conv1D(
             filters=6*46, kernel_size=5, padding='same',
             kernel_initializer=keras.initializers.he_normal(seed=None),
             )(
           TimeDistributed(BatchNormalization())(
-          TimeDistributed(relu())(
+          relu()(
           Conv1D(
             filters=4*46, kernel_size=1,
             kernel_initializer=keras.initializers.he_normal(seed=None),
@@ -321,7 +321,7 @@ def make_model(hparams):
       innerConved =(
         Add(name='resOutput')([resInputMe,
           TimeDistributed(BatchNormalization())(
-          TimeDistributed(relu())(
+          relu()(
           Conv1D(filters=resSize, kernel_size=1,
             kernel_initializer=keras.initializers.he_normal(seed=None),
           )(
@@ -363,7 +363,7 @@ hparams = {
     HP_resSize: 10 * 46,
 }
 
-weights_name = 'h20-wide10.h5'
+weights_name = 'h20-wide10-exp.h5'
 
 from datetime import datetime
 from keras.callbacks import *
