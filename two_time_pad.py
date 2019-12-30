@@ -302,9 +302,6 @@ def make_model(hparams):
     ## With one conv we are getting validation loss of 3.5996 quickly (at window size 30); best was ~3.3
     ## So adding another conv and lstm. val loss after first epoch about 3.3
 
-    convedA = embeddedA
-    convedB = embeddedB
-
     # Ideas: more nodes, no/lower dropout, only look for last layer for final loss.
     # nine layers is most likely overkill.
     def makeResNet(i, channels, width, size):
@@ -321,12 +318,33 @@ def make_model(hparams):
             Conv1D(filters=size, kernel_size=width, padding='same'),
             ], name=f"resnet{i}")
 
-    for i, (width, size) in enumerate(50*[(15, 12)]):
-        (_, _, num_channels) = convedA.shape
-        resNet = makeResNet(i, 2*num_channels, width, size)
-        convedA, convedB = (
-                concatenate([convedA,resNet(concatenate([convedA, convedB]))]),
-                concatenate([convedB,resNet(concatenate([convedB, convedA]))]))
+
+    size = 12
+    convedA = embeddedA
+    convedB = embeddedB
+
+    random.seed(42)
+    def sample2(pop):
+        return random.sample(pop, len(pop)//2 + 1)
+
+    for block in range(5):
+        convedAx = [convedA]
+        convedBx = [convedB]
+
+        for i, (width) in enumerate(30*[15]):
+            convedA_, convedB_= zip(*sample2(list(zip(convedAx, convedBx))))
+            catA = concatenate([*convedA_, *convedB_])
+            catB = concatenate([*convedB_, *convedA_])
+            (_, _, num_channels) = catA.shape
+            resNet = makeResNet(i, num_channels, width, size)
+
+            convedAx.append(resNet(catA))
+            convedBx.append(resNet(catB))
+
+        bottleneck = Conv1D(filters=4*46, kernel_size=1, padding='same')
+        convedA = bottleneck(concatenate(convedAx))
+        conveBA = bottleneck(concatenate(convedBx))
+
 
     # lstm = Bidirectional(LSTM(4*46, return_sequences=True))
     # c = Conv1D(filters=resSize, kernel_size=1)
@@ -354,7 +372,7 @@ hparams = {
     HP_resSize: 4 * 46,
 }
 
-weights_name = "denseCNN-50-bottleneck.h5"
+weights_name = "denseCNN-50-bottleneck-blocks.h5"
 
 
 def main():
