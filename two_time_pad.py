@@ -319,14 +319,14 @@ def make_model(hparams):
           ( # SpatialDropout1D(rate=hparams[HP_DROPOUT])(
             resInputMe))))))))
       innerConved =(
-        Add(name='resOutput')([resInputMe,
           TimeDistributed(BatchNormalization())(
           relu()(
-          Conv1D(filters=resSize, kernel_size=1,
-            kernel_initializer=keras.initializers.he_normal(seed=None),
-          )(
-          ( # SpatialDropout1D(rate=hparams[HP_DROPOUT])(
-          concatenate([resInputMe, convedNarrow, convedBroad, resInputDu])))))]))
+          Add(name='resOutput')([resInputMe,
+            Conv1D(filters=resSize, kernel_size=1,
+              kernel_initializer=keras.initializers.he_normal(seed=None),
+            )(
+            ( # SpatialDropout1D(rate=hparams[HP_DROPOUT])(
+            concatenate([resInputMe, convedNarrow, convedBroad, resInputDu])))]))))
       return Model([resInputMe, resInputDu], [innerConved], name=f'resnet{i}')
 
     for i in range(hparams[HP_HEIGHT]):
