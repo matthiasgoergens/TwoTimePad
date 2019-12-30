@@ -413,7 +413,7 @@ def main():
                     predict_size * [l * " "],
                 )
             ),
-            # width=250
+            width=120,
         )
 
         # model.evaluate(TwoTimePadSequence(l, 10**4 // 32), callbacks=[tensorboard_callback])
