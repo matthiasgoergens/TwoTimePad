@@ -1,3 +1,6 @@
 .mypy_cache/
 # .python-version
 .vscode/
+*.h5
+.*.swp
+logs/
