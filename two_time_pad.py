@@ -357,7 +357,7 @@ def make_model(hparams):
 
 l = 60
 hparams = {
-    HP_DROPOUT: 0.2,
+    HP_DROPOUT: 0.1,
     HP_HEIGHT: 5,
     HP_WINDOW: l,
     HP_resSize: 6 * 46,
@@ -439,7 +439,7 @@ def main():
       model.fit(x=TwoTimePadSequence(l, 10**4 // 32),
                 steps_per_epoch=10**4 // 32,
                     max_queue_size=1_000,
-                    # initial_epoch=epoch,
+                    initial_epoch=183,
                     # epochs=epoch+1,
                     # validation_split=0.1,
                     epochs=10000,
