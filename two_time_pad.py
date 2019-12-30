@@ -124,9 +124,7 @@ def toChars(tensor):
     for lineNum in range(linesNums):
         chars = []
         for cN in range(charNum):
-            (_, char) = max(
-                [(tensor[lineNum, cN, alphaN], alphaN) for alphaN in range(alphaNum)]
-            )
+            (_, char) = max([(tensor[lineNum, cN, alphaN], alphaN) for alphaN in range(alphaNum)])
             chars.append(char)
         output.append(toChar(chars))
     return output
@@ -193,12 +191,7 @@ def round_to(x, n):
 def make1(window, text):
     (size,) = text.shape
     start = random.randrange(window)
-    return tf.reshape(
-        tf.slice(
-            text, [start], [round_to(size - window * batch_size, window * batch_size)]
-        ),
-        (-1, window),
-    )
+    return tf.reshape(tf.slice(text, [start], [round_to(size - window * batch_size, window * batch_size)]), (-1, window),)
 
 
 mtext = tf.convert_to_tensor(text)
@@ -269,12 +262,7 @@ def art():
                 yield (sample_idx,)
 
         def __new__(cls, num_samples=3):
-            return tf.data.Dataset.from_generator(
-                cls._generator,
-                output_types=tf.dtypes.int64,
-                output_shapes=(1,),
-                args=(num_samples,),
-            )
+            return tf.data.Dataset.from_generator(cls._generator, output_types=tf.dtypes.int64, output_shapes=(1,), args=(num_samples,),)
 
 
 def cipher_for_predict():
@@ -301,18 +289,11 @@ def make_model(hparams):
     inputB = -inputA % 46
     resSize = hparams[HP_resSize]
 
-    embedding = Embedding(
-        output_dim=resSize,
-        input_dim=len(alpha),
-        name="my_embedding",
-        batch_input_shape=[batch_size, n],
-    )
+    embedding = Embedding(output_dim=resSize, input_dim=len(alpha), name="my_embedding", batch_input_shape=[batch_size, n],)
 
     embeddedA = embedding(inputA)
     embeddedB = embedding(inputB)
-    make_end = Conv1D(
-        name="output", filters=46, kernel_size=1, padding="same", strides=1,
-    )
+    make_end = Conv1D(name="output", filters=46, kernel_size=1, padding="same", strides=1,)
 
     # clears = [make_end(embedded)]
     # keys = [make_end(embedded)]
@@ -335,21 +316,19 @@ def make_model(hparams):
                     filters=6 * 46,
                     kernel_size=15,
                     padding="same",
-                    kernel_initializer=keras.initializers.he_normal(seed=None),
+                    # kernel_initializer=keras.initializers.he_normal(seed=None),
                 )(
                     TimeDistributed(BatchNormalization())(
                         relu()(
                             Conv1D(
                                 filters=4 * 46,
                                 kernel_size=1,
-                                kernel_initializer=keras.initializers.he_normal(
-                                    seed=None
-                                ),
+                                # kernel_initializer=keras.initializers.he_normal(
+                                #     seed=None
+                                # ),
                             )(
                                 # TimeDistributed(keras.layers.AlphaDropout(0.5))(
-                                (  # SpatialDropout1D(rate=hparams[HP_DROPOUT])(
-                                    resInputMe
-                                )
+                                (resInputMe)  # SpatialDropout1D(rate=hparams[HP_DROPOUT])(
                             )
                         )
                     )
@@ -362,21 +341,19 @@ def make_model(hparams):
                     filters=6 * 46,
                     kernel_size=5,
                     padding="same",
-                    kernel_initializer=keras.initializers.he_normal(seed=None),
+                    # kernel_initializer=keras.initializers.he_normal(seed=None),
                 )(
                     TimeDistributed(BatchNormalization())(
                         relu()(
                             Conv1D(
                                 filters=4 * 46,
                                 kernel_size=1,
-                                kernel_initializer=keras.initializers.he_normal(
-                                    seed=None
-                                ),
+                                # kernel_initializer=keras.initializers.he_normal(
+                                #     seed=None
+                                # ),
                             )(
                                 # TimeDistributed(keras.layers.AlphaDropout(0.5))(
-                                (  # SpatialDropout1D(rate=hparams[HP_DROPOUT])(
-                                    resInputMe
-                                )
+                                (resInputMe)  # SpatialDropout1D(rate=hparams[HP_DROPOUT])(
                             )
                         )
                     )
@@ -391,13 +368,9 @@ def make_model(hparams):
                         Conv1D(
                             filters=resSize,
                             kernel_size=1,
-                            kernel_initializer=keras.initializers.he_normal(seed=None),
+                            # kernel_initializer=keras.initializers.he_normal(seed=None),
                         )(
-                            (  # SpatialDropout1D(rate=hparams[HP_DROPOUT])(
-                                concatenate(
-                                    [resInputMe, convedNarrow, convedBroad, resInputDu]
-                                )
-                            )
+                            (concatenate([resInputMe, convedNarrow, convedBroad, resInputDu]))  # SpatialDropout1D(rate=hparams[HP_DROPOUT])(
                         ),
                     ]
                 )
@@ -422,9 +395,7 @@ def make_model(hparams):
     model = Model([inputA], [totes_clear, totes_key])
 
     model.compile(
-        optimizer=tf.optimizers.Adam(),
-        loss=tf.keras.losses.SparseCategoricalCrossentropy(from_logits=True),
-        metrics=["accuracy"],
+        optimizer=tf.optimizers.Adam(), loss=tf.keras.losses.SparseCategoricalCrossentropy(from_logits=True), metrics=["accuracy"],
     )
     return model
 
@@ -445,9 +416,7 @@ def main():
 
     # logdir = "logs/scalars/" + datetime.now().strftime("%Y%m%d-%H%M%S")
     logdir = f"logs/scalars/{weights_name}"
-    tensorboard_callback = keras.callbacks.TensorBoard(
-        log_dir=logdir
-    )  # , histogram_freq=5,  write_images=True, embeddings_freq=5)
+    tensorboard_callback = keras.callbacks.TensorBoard(log_dir=logdir)  # , histogram_freq=5,  write_images=True, embeddings_freq=5)
 
     checkpoint = ModelCheckpoint(weights_name, verbose=1, save_best_only=True)
 
@@ -455,16 +424,13 @@ def main():
         checkpoint,
         tensorboard_callback,
         hp.KerasCallback(logdir, hparams),
-        keras.callbacks.ReduceLROnPlateau(
-            patience=30, factor=0.5, verbose=1, min_delta=0.0001
-        ),
+        keras.callbacks.ReduceLROnPlateau(patience=30, factor=0.5, verbose=1, min_delta=0.0001),
         # keras.callbacks.EarlyStopping(patience=100, verbose=1, restore_best_weights=True)
     ]
 
     with tf.summary.create_file_writer("logs/hparam_tuning").as_default():
         hp.hparams_config(
-            hparams=[HP_DROPOUT, HP_HEIGHT, HP_WINDOW],
-            metrics=[hp.Metric(METRIC_ACCURACY, display_name="Accuracy")],
+            hparams=[HP_DROPOUT, HP_HEIGHT, HP_WINDOW], metrics=[hp.Metric(METRIC_ACCURACY, display_name="Accuracy")],
         )
 
     with tf.device(device_name):
