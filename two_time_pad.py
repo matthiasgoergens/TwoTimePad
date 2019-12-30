@@ -313,7 +313,7 @@ def make_model(hparams):
         convedBroad = Sequential(
             [
                 Conv1D(
-                    filters=4 * 46,
+                    filters=3 * 46,
                     kernel_size=1,
                     # kernel_initializer=keras.initializers.he_normal(
                     #     seed=None
@@ -322,7 +322,7 @@ def make_model(hparams):
                 relu(),
                 TimeDistributed(BatchNormalization()),
                 Conv1D(
-                    filters=6 * 46,
+                    filters=4 * 46,
                     kernel_size=15,
                     padding="same",
                     # kernel_initializer=keras.initializers.he_normal(seed=None),
@@ -334,7 +334,7 @@ def make_model(hparams):
         convedNarrow = Sequential(
             [
                 Conv1D(
-                    filters=4 * 46,
+                    filters=3 * 46,
                     kernel_size=1,
                     # kernel_initializer=keras.initializers.he_normal(
                     #     seed=None
@@ -343,7 +343,7 @@ def make_model(hparams):
                 relu(),
                 TimeDistributed(BatchNormalization()),
                 Conv1D(
-                    filters=6 * 46,
+                    filters=4 * 46,
                     kernel_size=5,
                     padding="same",
                     # kernel_initializer=keras.initializers.he_normal(seed=None),
@@ -395,9 +395,9 @@ def make_model(hparams):
 l = 100
 hparams = {
     HP_DROPOUT: 0.1,
-    HP_HEIGHT: 20,
+    HP_HEIGHT: 30,
     HP_WINDOW: l,
-    HP_resSize: 10 * 46,
+    HP_resSize: 6 * 46,
 }
 
 weights_name = "h20-wide10-exp.h5"
