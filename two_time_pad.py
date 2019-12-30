@@ -320,30 +320,46 @@ def make_model(hparams):
 
 
     size = 12
-    convedA = embeddedA
-    convedB = embeddedB
-
     random.seed(42)
     def sample2(pop):
-        return random.sample(pop, len(pop)//2 + 1)
+        return random.sample(list(pop), len(pop)//2 + 1)
 
-    for block in range(5):
+    def make_block(convedA, convedB, block):
         convedAx = [convedA]
         convedBx = [convedB]
-
         for i, (width) in enumerate(30*[15]):
             convedA_, convedB_= zip(*sample2(list(zip(convedAx, convedBx))))
+            assert len(convedA_) == len(convedB_), (len(convedA_), len(convedB_))
             catA = concatenate([*convedA_, *convedB_])
             catB = concatenate([*convedB_, *convedA_])
             (_, _, num_channels) = catA.shape
-            resNet = makeResNet(i, num_channels, width, size)
+            (_, _, num_channelsB) = catB.shape
+            assert tuple(catA.shape) == tuple(catB.shape), (catA.shape, catB.shape)
+            resNet = makeResNet(block*1000+i, num_channels, width, size)
 
             convedAx.append(resNet(catA))
             convedBx.append(resNet(catB))
 
+            assert len(convedAx) == len(convedBx), (len(convedAx), len(convedBx))
+            for j, (a, b) in enumerate(zip(convedAx, convedBx)):
+                assert tuple(a.shape) == tuple(b.shape), (block, i, j, a.shape, b.shape)
+        return convedAx, convedBx
+
+    convedA = embeddedA
+    convedB = embeddedB
+    for block in range(5):
+        convedAx, convedBx = make_block(convedA, convedB, block=block)
+
+        catAx = concatenate(convedAx)
+        catBx = concatenate(convedBx)
+        assert tuple(catAx.shape) == tuple(catBx.shape), (catAx.shape, catBx.shape)
+
         bottleneck = Conv1D(filters=4*46, kernel_size=1, padding='same')
-        convedA = bottleneck(concatenate(convedAx))
-        conveBA = bottleneck(concatenate(convedBx))
+        batchnorm = TimeDistributed(BatchNormalization())
+        relu_ = relu()
+        convedA = bottleneck(relu_(batchnorm(catAx)))
+        convedB = bottleneck(relu_(batchnorm(catBx)))
+        assert tuple(convedA.shape) == tuple(convedB.shape), (block, convedA.shape, convedB.shape)
 
 
     # lstm = Bidirectional(LSTM(4*46, return_sequences=True))
