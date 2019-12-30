@@ -7,6 +7,7 @@ import re
 import sys
 from datetime import datetime
 from pprint import pprint
+import time
 
 import numpy as np
 import tensorflow as tf
@@ -154,25 +155,28 @@ class TwoTimePadSequence(keras.utils.Sequence):
         self.window = window
 
 
-def art():
-    class ArtificialDataset(tf.data.Dataset):
-        def _generator(num_samples):
-            # Opening the file
-            time.sleep(0.03)
 
-            for sample_idx in range(num_samples):
-                # Reading data (line, record) from the file
-                time.sleep(0.015)
+# class ArtificialDataset(tf.data.Dataset):
+#       def _generator(num_samples, window, batch_size):
+#           # Opening the file
+#           my_text = clean(load())
+          
 
-                yield (sample_idx,)
+#           for sample_idx in range(num_samples):
+#               # Reading data (line, record) from the file
+#               time.sleep(0.015)
+#               (ciphers_p, labels_p, keys_p) = samples(text, batch_size, window)
+#               yield ciphers_p, [labels_p, keys_p]
 
-        def __new__(cls, num_samples=3):
-            return tf.data.Dataset.from_generator(
-                cls._generator,
-                output_types=tf.dtypes.int64,
-                output_shapes=(1,),
-                args=(num_samples,),
-            )
+#       def __new__(cls, num_samples=3, window=60, batch_size=batch_size):
+#           self.window = window
+#           self.batch_size = batch_size
+#           return tf.data.Dataset.from_generator(
+#               cls._generator,
+#               output_types=(tf.dtypes.int8, (tf.dtypes.int8, tf.dtypes.int8),
+#               output_shapes=((batch_size,window, 46),
+#               args=(num_samples, window, batch_size),
+#           )
 
 
 def cipher_for_predict():
@@ -183,13 +187,53 @@ def cipher_for_predict():
     # print(c2)
     return tf.convert_to_tensor([sub(c1, c2)])
 
+def round_to(x, n):
+  return (x // n) * n
 
-l = 60
+def make(window, text):
+  (size,) = text.shape
+  start = random.randrange(window)
+  return tf.reshape(tf.slice(text, [start], [round_to(size - window, window)]), (-1, window))
 
+mtext = tf.convert_to_tensor(text, dtype='int8')
 
 def main():
-    pass
+  window = 60
+  x = make(window, mtext)
+  y = make(window, mtext)
+  print("-----------------------------")
+  for i in range(10):
+    xx = tf.random.shuffle(x)
+    yy = tf.random.shuffle(y)
+    print(xx.shape, yy.shape)
+    print(
+      (xx-yy)%46, [xx, yy]
+      )
+
+
+def x():
+  window_size = 61
+  shuffle_window = 10**5
+
+  (size,) = mtext.shape
+  print(mtext)
+  ds = tf.data.Dataset.from_tensors(mtext)
+  print(ds)
+  # Consider smaller shift.
+  dsw = ds.window(window_size, shift=1, drop_remainder=True)
+  dswA = dsw.shuffle(shuffle_window)
+  dswB = dsw.shuffle(shuffle_window)
+  print("dswA: ", end='')
+  print(dswA)
+  print()
+  # y = (dswA - dswB) % 46
+  y = tf.data.Dataset.zip((dswA, dswB))
+  print(f"zip: {y}")
+  for x in y:
+    print (x)
 
 
 if __name__ == "__main__":
-    main()
+  x()
+  #while True:
+  #  main()
