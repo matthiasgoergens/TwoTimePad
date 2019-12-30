@@ -46,6 +46,7 @@ import re
 import tensorflow
 import tensorflow as tf
 from tensorflow import keras
+import keras as kkeras
 
 
 import numpy as np
@@ -146,7 +147,7 @@ relu = tf.keras.layers.PReLU
 import tensorflow_addons as tfa
 from tensorboard.plugins.hparams import api as hp
 
-from tensorflow.keras.layers import Embedding, Input, Dense, Dropout, Softmax, GlobalMaxPooling1D, MaxPooling1D, Conv1D, Flatten, concatenate, Bidirectional, LSTM, SimpleRNN, SeparableConv1D, TimeDistributed, BatchNormalization, SpatialDropout1D
+from tensorflow.keras.layers import Embedding, Input, Dense, Dropout, Softmax, GlobalMaxPooling1D, MaxPooling1D, Conv1D, Flatten, concatenate, Bidirectional, LSTM, SimpleRNN, SeparableConv1D, TimeDistributed, BatchNormalization, SpatialDropout1D, Add
 from tensorflow_addons.layers import Maxout, Sparsemax
 from tensorflow.keras.models import Sequential, Model
 
@@ -154,7 +155,7 @@ batch_size = 32
 
 text = clean(load())
 mtext = tf.convert_to_tensor(text, dtype='int8')
-                 
+
 def round_to(x, n):
   return (x // n) * n
 
@@ -220,13 +221,13 @@ def art():
         def _generator(num_samples):
             # Opening the file
             time.sleep(0.03)
-            
+
             for sample_idx in range(num_samples):
                 # Reading data (line, record) from the file
                 time.sleep(0.015)
-                
+
                 yield (sample_idx,)
-        
+
         def __new__(cls, num_samples=3):
             return tf.data.Dataset.from_generator(
                 cls._generator,
@@ -318,7 +319,7 @@ def make_model(hparams):
           ( # SpatialDropout1D(rate=hparams[HP_DROPOUT])(
             resInputMe))))))))
       innerConved =(
-        keras.layers.Add(name='resOutput')([resInputMe,
+        Add(name='resOutput')([resInputMe,
           TimeDistributed(BatchNormalization())(
           TimeDistributed(relu())(
           Conv1D(filters=resSize, kernel_size=1,
@@ -331,6 +332,13 @@ def make_model(hparams):
     for i in range(hparams[HP_HEIGHT]):
         resNet = makeResNet(i)
         convedA, convedB = resNet([convedA, convedB]), resNet([convedB, convedA])
+
+    lstm = Bidirectional(LSTM(4*46, return_sequences=True))
+    c = Conv1D(filters=resSize, kernel_size=1)
+
+    convedA, convedB = (
+            Add()([convedA, c(lstm(concatenate([convedA, convedB])))]),
+            Add()([convedB, c(lstm(concatenate([convedB, convedA])))]))
 
     totes_clear = make_end(
         SpatialDropout1D(rate=hparams[HP_DROPOUT])(
@@ -350,12 +358,12 @@ def make_model(hparams):
 l = 60
 hparams = {
     HP_DROPOUT: 0.2,
-    HP_HEIGHT: 10,
+    HP_HEIGHT: 5,
     HP_WINDOW: l,
-    HP_resSize: 8 * 46,
+    HP_resSize: 6 * 46,
 }
 
-weights_name = 'h10-wide8-ok-6.h5'
+weights_name = 'h5-wide8-lstm.h5'
 
 from datetime import datetime
 from keras.callbacks import *
@@ -372,7 +380,7 @@ def main():
     callbacks_list = [checkpoint,
                       tensorboard_callback,
                       hp.KerasCallback(logdir, hparams),
-                      keras.callbacks.ReduceLROnPlateau(patience=10, factor=0.5, verbose=1, min_delta=0.0001),
+                      keras.callbacks.ReduceLROnPlateau(patience=30, factor=0.5, verbose=1, min_delta=0.0001),
                       # keras.callbacks.EarlyStopping(patience=100, verbose=1, restore_best_weights=True)
                       ]
 
@@ -397,7 +405,7 @@ def main():
 
       print("Predict:")
       predict_size = 10
-      
+
       # ita_cipher = cipher_for_predict()
       # [ita_label, ita_key] = model .predict(ita_cipher)
       # print(toChars_labels(ita_cipher))
@@ -451,6 +459,10 @@ def main():
 
     # But wow, this bigger network (twice as large as before) trains really well without dropout.  And no learning rate reduction, yet.
     # It's plateau-ing about ~2.54 loss at default learning rate after ~20 epoch.  (If I didn't miss a restart.)
+
+# Base loss for one side:
+# log(46, 2)
+# 5.523561956057013
 
 if __name__=='__main__':
     main()
