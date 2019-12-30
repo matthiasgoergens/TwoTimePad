@@ -327,7 +327,7 @@ def make_model(hparams):
     def make_block(convedA, convedB, block):
         convedAx = [convedA]
         convedBx = [convedB]
-        for i, (width) in enumerate(30*[15]):
+        for i, (width) in enumerate(60*[15]):
             convedA_, convedB_= zip(*sample2(list(zip(convedAx, convedBx))))
             assert len(convedA_) == len(convedB_), (len(convedA_), len(convedB_))
             catA = concatenate([*convedA_, *convedB_])
@@ -347,7 +347,7 @@ def make_model(hparams):
 
     convedA = embeddedA
     convedB = embeddedB
-    for block in range(5):
+    for block in range(1):
         convedAx, convedBx = make_block(convedA, convedB, block=block)
 
         catAx = concatenate(convedAx)
@@ -388,7 +388,7 @@ hparams = {
     HP_resSize: 4 * 46,
 }
 
-weights_name = "denseCNN-50-bottleneck-blocks.h5"
+weights_name = "denseCNN-1x60-bottleneck-blocks.h5"
 
 
 def main():
