@@ -286,14 +286,16 @@ def make_model(hparams):
     def makeResNet(i):
       resInputMe = Input(name = 'res_inputMe', shape=(n,resSize,))
       resInputDu = Input(name = 'res_inputDu', shape=(n,resSize,))
+      resInputMeN = TimeDistributed(BatchNormalization())(resInputMe)
+      resInputDuN = TimeDistributed(BatchNormalization())(resInputDu)
       convedBroad = (
-          TimeDistributed(BatchNormalization())(
+          ( # TimeDistributed(BatchNormalization())(
           relu()(
           Conv1D(
             filters=6*46, kernel_size=15, padding='same',
             kernel_initializer=keras.initializers.he_normal(seed=None),
             )(
-          TimeDistributed(BatchNormalization())(
+          ( # TimeDistributed(BatchNormalization())(
           relu()(
           Conv1D(
             filters=4*46, kernel_size=1,
@@ -301,15 +303,15 @@ def make_model(hparams):
             )(
           # TimeDistributed(keras.layers.AlphaDropout(0.5))(
           ( # SpatialDropout1D(rate=hparams[HP_DROPOUT])(
-            resInputMe))))))))
+            resInputMeN))))))))
       convedNarrow = (
-          TimeDistributed(BatchNormalization())(
+          ( # TimeDistributed(BatchNormalization())(
           relu()(
           Conv1D(
             filters=6*46, kernel_size=5, padding='same',
             kernel_initializer=keras.initializers.he_normal(seed=None),
             )(
-          TimeDistributed(BatchNormalization())(
+          ( # TimeDistributed(BatchNormalization())(
           relu()(
           Conv1D(
             filters=4*46, kernel_size=1,
@@ -317,16 +319,16 @@ def make_model(hparams):
             )(
           # TimeDistributed(keras.layers.AlphaDropout(0.5))(
           ( # SpatialDropout1D(rate=hparams[HP_DROPOUT])(
-            resInputMe))))))))
+            resInputMeN))))))))
       innerConved =(
-          TimeDistributed(BatchNormalization())(
+          ( # TimeDistributed(BatchNormalization())(
           relu()(
           Add(name='resOutput')([resInputMe,
             Conv1D(filters=resSize, kernel_size=1,
               kernel_initializer=keras.initializers.he_normal(seed=None),
             )(
             ( # SpatialDropout1D(rate=hparams[HP_DROPOUT])(
-            concatenate([resInputMe, convedNarrow, convedBroad, resInputDu])))]))))
+            concatenate([resInputMeN, convedNarrow, convedBroad, resInputDuN])))]))))
       return Model([resInputMe, resInputDu], [innerConved], name=f'resnet{i}')
 
     for i in range(hparams[HP_HEIGHT]):
