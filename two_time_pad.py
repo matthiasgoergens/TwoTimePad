@@ -269,14 +269,14 @@ def make_model(hparams):
         return Sequential([
             Input(name="res_inputMe", shape=(n,channels,)),
 
-            Conv1D(filters=4*size, kernel_size=1, padding='same'),
             # SpatialDropout1D(rate=hparams[HP_DROPOUT]), # Not sure whether that's good.
-            relu(),
             TimeDistributed(BatchNormalization()),
+            relu(),
+            Conv1D(filters=4*size, kernel_size=1, padding='same'),
 
-            Conv1D(filters=size, kernel_size=width, padding='same'),
-            relu(),
             TimeDistributed(BatchNormalization()),
+            relu(),
+            Conv1D(filters=size, kernel_size=width, padding='same'),
             ], name="resnet{}".format(i))
 
 
@@ -357,16 +357,16 @@ hparams = {
     HP_resSize: 4 * 46,
 }
 
-weights_name = "denseCNN-20-random-fixed-loss-scale-sliced-tensor-update.h5"
+weights_name = "denseCNN-20-random-mixed-pre-activatino.h5"
 
 
 def main():
     # TODO: Actually set stuff to float16 only, in inference too.  Should use
     # less memory.
-    # policy = mixed_precision.Policy('mixed_float16')
-    # mixed_precision.set_policy(policy)
-    # print('Compute dtype: %s' % policy.compute_dtype)
-    # print('Variable dtype: %s' % policy.variable_dtype)
+    policy = mixed_precision.Policy('mixed_float16')
+    mixed_precision.set_policy(policy)
+    print('Compute dtype: %s' % policy.compute_dtype)
+    print('Variable dtype: %s' % policy.variable_dtype)
 
     with tf.device(device_name):
         text = clean(load())
