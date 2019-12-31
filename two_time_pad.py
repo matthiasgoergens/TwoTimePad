@@ -12,7 +12,7 @@ import keras as kkeras
 import numpy as np
 import tensorflow as tf
 import tensorflow_addons as tfa
-from keras.callbacks import *
+from tensorflow.keras.callbacks import *
 from tensorboard.plugins.hparams import api as hp
 from tensorflow import keras
 from tensorflow.keras.layers import (
@@ -71,12 +71,8 @@ def limit_memory():
 
 
 # Mixed precision
-# from tensorflow.keras.mixed_precision import experimental as mixed_precision
-# policy = mixed_precision.Policy('mixed_float16')
-# mixed_precision.set_policy(policy)
+from tensorflow.keras.mixed_precision import experimental as mixed_precision
 
-# print('Compute dtype: %s' % policy.compute_dtype)
-# print('Variable dtype: %s' % policy.variable_dtype)
 ###
 
 
@@ -171,7 +167,8 @@ def samples(text, batch_size, l):
     one_hot_ciphers = tf.convert_to_tensor(ciphers)
     one_hot_labels = tf.convert_to_tensor(labels)
     one_hot_keys = tf.convert_to_tensor(keys)
-    return (one_hot_ciphers, one_hot_labels, one_hot_keys)
+
+    return ([one_hot_ciphers, -one_hot_ciphers %46], one_hot_labels, one_hot_keys)
 
 
 # relu = ft.partial(keras.layers.LeakyReLU, alpha=0.1)
@@ -179,9 +176,6 @@ relu = ft.partial(tf.keras.layers.PReLU, shared_axes=[1])
 
 
 batch_size = 32
-
-text = clean(load())
-mtext = tf.convert_to_tensor(text, dtype="int8")
 
 
 def round_to(x, n):
@@ -194,7 +188,6 @@ def make1(window, text):
     return tf.reshape(tf.slice(text, [start], [round_to(size - window * batch_size, window * batch_size)]), (-1, window),)
 
 
-mtext = tf.convert_to_tensor(text)
 
 
 def makeEpochs(window, training_size):
@@ -216,7 +209,8 @@ class TwoTimePadSequence(keras.utils.Sequence):
     def _load(self):
         self.aa = tf.reshape(tf.random.shuffle(self.a), (-1, batch_size, self.window))
         self.bb = tf.reshape(tf.random.shuffle(self.b), (-1, batch_size, self.window))
-        self.cipher = (self.aa - self.bb) % 46
+        self.cipherA = (self.aa - self.bb) % 46
+        self.cipherB = (self.bb - self.aa) % 46
 
         self.size = self.aa.shape[0]
         self.items = iter(range(self.size))
@@ -237,9 +231,9 @@ class TwoTimePadSequence(keras.utils.Sequence):
             self._load()
             return self.__getitem__(idx)
         else:
-            return self.cipher[i, :, :], (self.aa[i, :, :], self.bb[i, :, :])
+            return (self.cipherA[i, :, :], self.cipherB[i, :, :]), (self.aa[i, :, :], self.bb[i, :, :])
 
-    def __init__(self, window, training_size):
+    def __init__(self, window, training_size, mtext):
         self.a = make1(window, mtext)
         self.b = make1(window, mtext)
 
@@ -285,11 +279,12 @@ METRIC_ACCURACY = "accuracy"
 def make_model(hparams):
     n = hparams[HP_WINDOW]
     # my_input = Input(shape=(n,), dtype='int32', name="ciphertext")
-    inputA = Input(shape=(n,), name="ciphertext")
-    inputB = -inputA % 46
+    inputA = Input(shape=(n,), name="ciphertextA")
+    inputB = Input(shape=(n,), name="ciphertextB")
+    # inputB = -inputA % 46
     resSize = hparams[HP_resSize]
 
-    embedding = Embedding(output_dim=len(alpha), input_dim=len(alpha), name="my_embedding", batch_input_shape=[batch_size, n],)
+    embedding = Embedding(output_dim=len(alpha), input_length=n, input_dim=len(alpha), name="my_embedding", batch_input_shape=[batch_size, n],)
 
     embeddedA = embedding(inputA)
     embeddedB = embedding(inputB)
@@ -326,7 +321,7 @@ def make_model(hparams):
     def make_block(convedA, convedB, block):
         convedAx = [convedA]
         convedBx = [convedB]
-        for i, (_) in enumerate(50*[None]):
+        for i, (_) in enumerate(30*[None]):
             width = 1 + 2*random.randrange(10)
             convedA_, convedB_= zip(*sample2(list(zip(convedAx, convedBx))))
             assert len(convedA_) == len(convedB_), (len(convedA_), len(convedB_))
@@ -379,7 +374,7 @@ def make_model(hparams):
     totes_clear = make_end(SpatialDropout1D(rate=hparams[HP_DROPOUT])(convedA))
     totes_key = make_end(SpatialDropout1D(rate=hparams[HP_DROPOUT])(convedB))
 
-    model = Model([inputA], [totes_clear, totes_key])
+    model = Model([inputA, inputB], [totes_clear, totes_key])
 
     model.compile(
         optimizer=tf.optimizers.Adam(), loss=tf.keras.losses.SparseCategoricalCrossentropy(from_logits=True), metrics=["accuracy"],
@@ -395,38 +390,49 @@ hparams = {
     HP_resSize: 4 * 46,
 }
 
-weights_name = "denseCNN-random.h5"
+weights_name = "denseCNN-random-mixed-b.h5"
 
 
 def main():
-    gpu_memory_growth()
-
-    # logdir = "logs/scalars/" + datetime.now().strftime("%Y%m%d-%H%M%S")
-    logdir = "logs/scalars/{}".format(weights_name)
-    tensorboard_callback = keras.callbacks.TensorBoard(log_dir=logdir)  # , histogram_freq=5,  write_images=True, embeddings_freq=5)
-
-    checkpoint = ModelCheckpoint('weights/'+weights_name, verbose=1, save_best_only=True)
-
-    callbacks_list = [
-        checkpoint,
-        tensorboard_callback,
-        hp.KerasCallback(logdir, hparams),
-        keras.callbacks.ReduceLROnPlateau(patience=30, factor=0.5, verbose=1, min_delta=0.0001),
-        # keras.callbacks.EarlyStopping(patience=100, verbose=1, restore_best_weights=True)
-    ]
-
-    with tf.summary.create_file_writer("logs/hparam_tuning").as_default():
-        hp.hparams_config(
-            hparams=[HP_DROPOUT, HP_HEIGHT, HP_WINDOW], metrics=[hp.Metric(METRIC_ACCURACY, display_name="Accuracy")],
-        )
-
     with tf.device(device_name):
+
+        policy = mixed_precision.Policy('mixed_float16')
+        mixed_precision.set_policy(policy)
+        print('Compute dtype: %s' % policy.compute_dtype)
+        print('Variable dtype: %s' % policy.variable_dtype)
+
+
+        text = clean(load())
+        # mtext = tf.convert_to_tensor(text)
+        mtext = tf.convert_to_tensor(text)
+
+
+        # logdir = "logs/scalars/" + datetime.now().strftime("%Y%m%d-%H%M%S")
+        logdir = "logs/scalars/{}".format(weights_name)
+        tensorboard_callback = tf.keras.callbacks.TensorBoard(log_dir=logdir, profile_batch=0)  # , histogram_freq=5,  write_images=True, embeddings_freq=5)
+
+        checkpoint = ModelCheckpoint('weights/'+weights_name, verbose=1, save_best_only=True)
+
+        callbacks_list = [
+            checkpoint,
+            tensorboard_callback,
+            hp.KerasCallback(logdir, hparams),
+            keras.callbacks.ReduceLROnPlateau(patience=30, factor=0.5, verbose=1, min_delta=0.0001),
+            # keras.callbacks.EarlyStopping(patience=100, verbose=1, restore_best_weights=True)
+        ]
+
+        with tf.summary.create_file_writer("logs/hparam_tuning").as_default():
+            hp.hparams_config(
+                hparams=[HP_DROPOUT, HP_HEIGHT, HP_WINDOW], metrics=[hp.Metric(METRIC_ACCURACY, display_name="Accuracy")],
+            )
+
+    # with tf.device(device_name):
         try:
             model = keras.models.load_model('weights/'+weights_name)
             print("Loaded weights.")
         except:
             model = make_model(hparams)
-            model.summary()
+            # model.summary()
             print("Failed to load weights.")
             # raise
         # for i in range(10*(layers+1)):
@@ -440,22 +446,22 @@ def main():
         # pprint(toChars(ita_label)[:1000])
         # pprint(toChars(ita_key)[:1000])
 
-        (ciphers_p, labels_p, keys_p) = samples(text, predict_size, l)
-        [pred_label, pred_key] = model.predict(ciphers_p)
-        # clear, key, prediction
-        pprint(
-            list(
-                zip(
-                    toChars_labels(ciphers_p),
-                    toChars_labels(labels_p),
-                    toChars(pred_label),
-                    toChars_labels(keys_p),
-                    toChars(pred_key),
-                    predict_size * [l * " "],
-                )
-            ),
-            width=120,
-        )
+        # (ciphers_p, labels_p, keys_p) = samples(text, predict_size, l)
+        # [pred_label, pred_key] = model.predict(ciphers_p)
+        # # clear, key, prediction
+        # pprint(
+        #     list(
+        #         zip(
+        #             toChars_labels(ciphers_p),
+        #             toChars_labels(labels_p),
+        #             toChars(pred_label),
+        #             toChars_labels(keys_p),
+        #             toChars(pred_key),
+        #             predict_size * [l * " "],
+        #         )
+        #     ),
+        #     width=120,
+        # )
 
         # model.evaluate(TwoTimePadSequence(l, 10**4 // 32), callbacks=[tensorboard_callback])
         # print("Training:")
@@ -464,14 +470,14 @@ def main():
         # for epoch, (x, y) in enumerate(makeEpochs(l, 10**4)):
         #    print(f"My epoch: {epoch}")
         model.fit(
-            x=TwoTimePadSequence(l, 10 ** 4 // 32),
+            x=TwoTimePadSequence(l, 10 ** 4 // 32, mtext),
             steps_per_epoch=10 ** 4 // 32,
             max_queue_size=10**3,
             # initial_epoch=183,
             # epochs=epoch+1,
             # validation_split=0.1,
             epochs=10000,
-            validation_data=TwoTimePadSequence(l, 10 ** 3 // 32),
+            validation_data=TwoTimePadSequence(l, 10 ** 3 // 32, mtext),
             callbacks=callbacks_list,
             # batch_size=batch_size,
             verbose=1,
