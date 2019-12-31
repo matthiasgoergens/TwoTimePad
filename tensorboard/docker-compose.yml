@@ -1,4 +1,4 @@
-version: "3.7"
+version: "2"
 
 services:
   two-time-pad:
@@ -7,4 +7,7 @@ services:
       context: .
       dockerfile: Dockerfile
     volumes:
-      - .:/app
+      - ..:/app
+    ports:
+      - 80:80
+    user: "${UID}:${GID}"
