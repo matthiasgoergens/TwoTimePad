@@ -160,16 +160,17 @@ def make1(window, text):
 
 
 
-def makeEpochs(window, training_size):
+def makeEpochs(mtext, window):
     while True:
         x = make1(window, mtext)
         y = make1(window, mtext)
         for _ in range(100):
             xx = tf.random.shuffle(x)
             yy = tf.random.shuffle(y)
-            cipher = (xx - yy) % 46
+            cipherX = (xx - yy) % 46
+            cipherY = (yy - xx) % 46
 
-            yield (cipher,), (
+            yield (cipherX, cipherY), (
                 xx,
                 yy,
             )
@@ -427,7 +428,7 @@ def main():
         # print("Training:")
         # (ciphers, labels, keys) = samples(text, training_size, l)
         # print(model.fit(ciphers, [labels, keys],
-        for epoch, (x, y) in enumerate(makeEpochs(l, 10**4)):
+        for epoch, (x, y) in enumerate(makeEpochs(mtext, l)):
            print(f"My epoch: {epoch}")
            model.fit(
                # x=TwoTimePadSequence(l, 10 ** 4 // 32, mtext),
