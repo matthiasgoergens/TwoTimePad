@@ -354,7 +354,7 @@ hparams = {
     HP_resSize: 4 * 46,
 }
 
-weights_name = "denseCNN-50-wider-random-mixed-loss-scale-big-tensor.h5"
+weights_name = "denseCNN-50-wider-random-mixed-loss-scale-big-tensor-update.h5"
 
 
 def main():
@@ -370,7 +370,7 @@ def main():
 
         # logdir = "logs/scalars/" + datetime.now().strftime("%Y%m%d-%H%M%S")
         logdir = "logs/scalars/{}".format(weights_name)
-        tensorboard_callback = tf.keras.callbacks.TensorBoard(log_dir=logdir, profile_batch=0)  # , histogram_freq=5,  write_images=True, embeddings_freq=5)
+        tensorboard_callback = tf.keras.callbacks.TensorBoard(log_dir=logdir, update_freq=5_000)  # , histogram_freq=5,  write_images=True, embeddings_freq=5)
 
         checkpoint = ModelCheckpoint('weights/'+weights_name, verbose=1, save_best_only=True)
 
