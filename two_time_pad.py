@@ -277,7 +277,7 @@ def make_model(hparams):
     def make_block(convedA, convedB, block):
         convedAx = [convedA]
         convedBx = [convedB]
-        for i, (_) in enumerate(30*[None]):
+        for i, (_) in enumerate(50*[None]):
             width = 1 + 2*random.randrange(10)
             convedA_, convedB_= zip(*sample2(list(zip(convedAx, convedBx))))
             assert len(convedA_) == len(convedB_), (len(convedA_), len(convedB_))
@@ -339,36 +339,6 @@ def make_model(hparams):
     )
     return model
 
-def make_model_(hparams):
-    relu = ft.partial(tf.keras.layers.PReLU, shared_axes=[1])
-
-    relu = tf.keras.layers.ReLU
-
-    n = hparams[HP_WINDOW]
-    inputA = Input(shape=(n,), name="ciphertextA", dtype='int32')
-    inputB = Input(shape=(n,), name="ciphertextB", dtype='int32')
-
-
-    embedding = Embedding(output_dim=len(alpha), input_length=n, input_dim=len(alpha), name="my_embedding", batch_input_shape=[batch_size, n],)
-
-    make_end = Conv1D(name="output", filters=46, kernel_size=1, padding="same", strides=1, dtype='float32')
-
-    # totes_clear = Sequential([
-    #     embedding,
-    #     Conv1D(filters=46, kernel_size=3, padding='same'),
-    #     make_end,
-    #     ])(inputA)
-    totes_clear = embedding(inputA)
-    totes_key = make_end(embedding(inputB))
-
-    model = Model([inputA, inputB], [totes_clear, totes_key])
-
-    model.compile(
-        optimizer=tf.optimizers.Adam(), loss=tf.keras.losses.SparseCategoricalCrossentropy(from_logits=True), metrics=["accuracy"],
-    )
-    return model
-
-
 l = 100
 hparams = {
     HP_DROPOUT: 0.1,
@@ -377,7 +347,7 @@ hparams = {
     HP_resSize: 4 * 46,
 }
 
-weights_name = "denseCNN-random-mixed-loss-scale.h5"
+weights_name = "denseCNN-50-random-mixed-loss-scale.h5"
 
 
 def main():
