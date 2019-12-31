@@ -280,7 +280,7 @@ def make_model(hparams):
             ], name="resnet{}".format(i))
 
 
-    random.seed(42)
+    random.seed(11)
     def sample2(pop):
         return random.sample(list(pop), len(pop)//2 + 1)
 
@@ -357,7 +357,7 @@ hparams = {
     HP_resSize: 4 * 46,
 }
 
-weights_name = "denseCNN-50-wider-random-mixed-loss-scale-sliced-tensor-update.h5"
+weights_name = "denseCNN-50-wider-random-mixed-loss-scale-sliced-tensor-update-seed.h5"
 
 
 def main():
