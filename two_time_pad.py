@@ -145,7 +145,7 @@ def samples(text, batch_size, l):
     return ([one_hot_ciphers, -one_hot_ciphers %46], one_hot_labels, one_hot_keys)
 
 
-batch_size = 64
+batch_size = 32
 
 
 def round_to(x, n):
@@ -354,11 +354,13 @@ hparams = {
     HP_resSize: 4 * 46,
 }
 
-weights_name = "denseCNN-50-wider-random-mixed-loss-scale-big-tensor-update.h5"
+weights_name = "denseCNN-50-wider-random-mixed-loss-scale-big-tensor-update-smaller.h5"
 
 
 def main():
-    policy = mixed_precision.Policy('mixed_float16')
+    # TODO: Actually set stuff to float16 only, in inference too.  Should use
+    # less memory.
+    policy = mixed_precision.Policy('float16')
     mixed_precision.set_policy(policy)
     print('Compute dtype: %s' % policy.compute_dtype)
     print('Variable dtype: %s' % policy.variable_dtype)
@@ -377,8 +379,8 @@ def main():
         callbacks_list = [
             checkpoint,
             tensorboard_callback,
-            hp.KerasCallback(logdir, hparams),
-            keras.callbacks.ReduceLROnPlateau(patience=30, factor=0.5, verbose=1, min_delta=0.0001),
+            # hp.KerasCallback(logdir, hparams),
+            # keras.callbacks.ReduceLROnPlateau(patience=30, factor=0.5, verbose=1, min_delta=0.0001),
             # keras.callbacks.EarlyStopping(patience=100, verbose=1, restore_best_weights=True)
         ]
 
@@ -437,7 +439,7 @@ def main():
                # max_queue_size=10**3,
                initial_epoch=epoch,
                epochs=epoch+1,
-               validation_split=0.1,
+               validation_split=0.01,
                # epochs=10000,
                # validation_data=TwoTimePadSequence(l, 10 ** 3 // 32, mtext),
                callbacks=callbacks_list,
