@@ -354,7 +354,7 @@ hparams = {
     HP_resSize: 4 * 46,
 }
 
-weights_name = "denseCNN-50-wider-random-mixed-loss-scale-big-tensor-update-smallerx.h5"
+weights_name = "denseCNN-50-wider-random-mixed-loss-scale-big-tensor-update-smaller-2.h5"
 
 
 def main():
