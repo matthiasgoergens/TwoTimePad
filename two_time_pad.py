@@ -145,7 +145,7 @@ def samples(text, batch_size, l):
     return ([one_hot_ciphers, -one_hot_ciphers %46], one_hot_labels, one_hot_keys)
 
 
-batch_size = 32
+batch_size = 64
 
 
 def round_to(x, n):
@@ -168,11 +168,17 @@ def makeEpochs(window, training_size):
             xx = tf.random.shuffle(x)
             yy = tf.random.shuffle(y)
             cipher = (xx - yy) % 46
-            for i in range(0, x.shape[0], training_size):
-                yield (cipher[i : i + training_size, :],), (
-                    xx[i : i + training_size, :],
-                    yy[i : i + training_size, :],
-                )
+
+            yield (cipher,), (
+                xx,
+                yy,
+            )
+
+            # for i in range(0, x.shape[0], training_size):
+            #     yield (cipher[i : i + training_size, :],), (
+            #         xx[i : i + training_size, :],
+            #         yy[i : i + training_size, :],
+            #     )
 
 
 class TwoTimePadSequence(keras.utils.Sequence):
@@ -277,7 +283,7 @@ def make_model(hparams):
     def make_block(convedA, convedB, block):
         convedAx = [convedA]
         convedBx = [convedB]
-        for i, (_) in enumerate(40*[None]):
+        for i, (_) in enumerate(30*[None]):
             width = 1 + 2*random.randrange(10)
             convedA_, convedB_= zip(*sample2(list(zip(convedAx, convedBx))))
             assert len(convedA_) == len(convedB_), (len(convedA_), len(convedB_))
@@ -347,7 +353,7 @@ hparams = {
     HP_resSize: 4 * 46,
 }
 
-weights_name = "denseCNN-50-wider-random-mixed-loss-scale.h5"
+weights_name = "denseCNN-50-wider-random-mixed-loss-scale-big-tensor.h5"
 
 
 def main():
@@ -421,23 +427,24 @@ def main():
         # print("Training:")
         # (ciphers, labels, keys) = samples(text, training_size, l)
         # print(model.fit(ciphers, [labels, keys],
-        # for epoch, (x, y) in enumerate(makeEpochs(l, 10**4)):
-        #    print(f"My epoch: {epoch}")
-        model.fit(
-            x=TwoTimePadSequence(l, 10 ** 4 // 32, mtext),
-            steps_per_epoch=10 ** 4 // 32,
-            max_queue_size=10**3,
-            # initial_epoch=183,
-            # epochs=epoch+1,
-            # validation_split=0.1,
-            epochs=10000,
-            validation_data=TwoTimePadSequence(l, 10 ** 3 // 32, mtext),
-            callbacks=callbacks_list,
-            # batch_size=batch_size,
-            verbose=1,
-            # workers=8,
-            # use_multiprocessing=True,
-        )
+        for epoch, (x, y) in enumerate(makeEpochs(l, 10**4)):
+           print(f"My epoch: {epoch}")
+           model.fit(
+               # x=TwoTimePadSequence(l, 10 ** 4 // 32, mtext),
+               x = x, y = y,
+               # steps_per_epoch=10 ** 4 // 32,
+               # max_queue_size=10**3,
+               initial_epoch=epoch,
+               epochs=epoch+1,
+               validation_split=0.1,
+               # epochs=10000,
+               # validation_data=TwoTimePadSequence(l, 10 ** 3 // 32, mtext),
+               callbacks=callbacks_list,
+               batch_size=batch_size,
+               verbose=1,
+               # workers=8,
+               # use_multiprocessing=True,
+           )
         # (ciphers_t, labels_t, keys_t) = samples(text, 1000, l)
         # print("Eval:")
         # model.evaluate(TwoTimePadSequence(l, 10**4))
