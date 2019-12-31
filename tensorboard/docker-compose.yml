@@ -2,7 +2,7 @@ version: "2"
 
 services:
   two-time-pad:
-    image: two-time-pad
+    image: tensorboard-two-time-pad
     build:
       context: .
       dockerfile: Dockerfile
