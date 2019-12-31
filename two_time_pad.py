@@ -10,7 +10,7 @@ from pprint import pprint
 
 import numpy as np
 import tensorflow as tf
-import tensorflow_addons as tfa
+# import tensorflow_addons as tfa
 from tensorflow.keras.callbacks import *
 from tensorboard.plugins.hparams import api as hp
 from tensorflow import keras
@@ -35,7 +35,7 @@ from tensorflow.keras.layers import (
     concatenate,
 )
 from tensorflow.keras.models import Model, Sequential
-from tensorflow_addons.layers import Maxout, Sparsemax
+# from tensorflow_addons.layers import Maxout, Sparsemax
 
 device_name = tf.test.gpu_device_name()
 if device_name != "/device:GPU:0":
@@ -217,22 +217,6 @@ class TwoTimePadSequence(keras.utils.Sequence):
         self._load()
 
 
-def art():
-    class ArtificialDataset(tf.data.Dataset):
-        def _generator(num_samples):
-            # Opening the file
-            time.sleep(0.03)
-
-            for sample_idx in range(num_samples):
-                # Reading data (line, record) from the file
-                time.sleep(0.015)
-
-                yield (sample_idx,)
-
-        def __new__(cls, num_samples=3):
-            return tf.data.Dataset.from_generator(cls._generator, output_types=tf.dtypes.int64, output_shapes=(1,), args=(num_samples,),)
-
-
 def cipher_for_predict():
     # remove eol
     c1 = clean(open("TwoTimePad/examples/ciphertext-1.txt", "r").read().lower()[:-1])
@@ -253,8 +237,8 @@ METRIC_ACCURACY = "accuracy"
 def make_model(hparams):
     n = hparams[HP_WINDOW]
     # my_input = Input(shape=(n,), dtype='int32', name="ciphertext")
-    inputA = Input(shape=(n,), name="ciphertextA")
-    inputB = Input(shape=(n,), name="ciphertextB")
+    inputA = Input(shape=(n,), name="ciphertextA", dtype='int32')
+    inputB = Input(shape=(n,), name="ciphertextB", dtype='int32')
     # inputB = -inputA % 46
     resSize = hparams[HP_resSize]
 
@@ -317,7 +301,7 @@ def make_model(hparams):
 
     convedA = embeddedA
     convedB = embeddedB
-    for block in range(1):
+    for block in range(0):
         convedAx, convedBx = make_block(convedA, convedB, block=block)
 
         catAx = concatenate(convedAx)
@@ -368,15 +352,16 @@ weights_name = "denseCNN-random-mixed-b.h5"
 
 
 def main():
+    policy = mixed_precision.Policy('mixed_float16')
+    mixed_precision.set_policy(policy)
+    print('Compute dtype: %s' % policy.compute_dtype)
+    print('Variable dtype: %s' % policy.variable_dtype)
+
+
     text = clean(load())
     # mtext = tf.convert_to_tensor(text)
     mtext = tf.convert_to_tensor(text)
     with tf.device(device_name):
-
-        policy = mixed_precision.Policy('mixed_float16')
-        mixed_precision.set_policy(policy)
-        print('Compute dtype: %s' % policy.compute_dtype)
-        print('Variable dtype: %s' % policy.variable_dtype)
 
 
 
