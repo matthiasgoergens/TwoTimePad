@@ -442,7 +442,7 @@ def main():
                # max_queue_size=10**3,
                initial_epoch=epoch,
                epochs=epoch+1,
-               validation_split=0.01,
+               validation_split=0.1,
                # epochs=10000,
                callbacks=callbacks_list,
                batch_size=batch_size,
