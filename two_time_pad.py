@@ -282,12 +282,12 @@ def make_model(hparams):
 
     random.seed(42)
     def sample2(pop):
-        return random.sample(list(pop), len(pop)//2 + 1)
+        return random.sample(list(pop), (len(pop)+1)//2)
 
     def make_block(convedA, convedB, block):
         convedAx = [convedA]
         convedBx = [convedB]
-        for i, (_) in enumerate(30*[None]):
+        for i, (_) in enumerate(40*[None]):
             width = 1 + 2*random.randrange(10)
             convedA_, convedB_= zip(*sample2(list(zip(convedAx, convedBx))))
             assert len(convedA_) == len(convedB_), (len(convedA_), len(convedB_))
@@ -296,7 +296,7 @@ def make_model(hparams):
             (_, _, num_channels) = catA.shape
             (_, _, num_channelsB) = catB.shape
             assert tuple(catA.shape) == tuple(catB.shape), (catA.shape, catB.shape)
-            size = random.randrange(23, 2*46)
+            size = random.randrange(12, 46)
             resNet = makeResNet(block*1000+i, num_channels, width, size)
 
             convedAx.append(resNet(catA))
@@ -357,7 +357,7 @@ hparams = {
     HP_resSize: 4 * 46,
 }
 
-weights_name = "denseCNN-50-wider-random-mixed-loss-scale-sliced-tensor-update.h5"
+weights_name = "denseCNN-50-random-mixed-loss-scale-sliced-tensor-update.h5"
 
 
 def main():
