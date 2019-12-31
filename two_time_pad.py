@@ -8,7 +8,6 @@ import sys
 from datetime import datetime
 from pprint import pprint
 
-import keras as kkeras
 import numpy as np
 import tensorflow as tf
 import tensorflow_addons as tfa
@@ -48,32 +47,7 @@ else:
     print("Found GPU at: {}".format(device_name))
 
 
-def gpu_memory_growth():
-    gpus = tf.config.experimental.list_physical_devices("GPU")
-    if gpus:
-        try:
-            # Currently, memory growth needs to be the same across GPUs
-            for gpu in gpus:
-                tf.config.experimental.set_memory_growth(gpu, True)
-            logical_gpus = tf.config.experimental.list_logical_devices("GPU")
-            print(len(gpus), "Physical GPUs,", len(logical_gpus), "Logical GPUs")
-        except RuntimeError as e:
-            # Memory growth must be set before GPUs have been initialized
-            print(e)
-    else:
-        raise NotImplementedError("Want GPU to limit memory growth.")
-
-
-def limit_memory():
-    from keras import backend as K
-
-    sess = K.get_session()
-
-
-# Mixed precision
 from tensorflow.keras.mixed_precision import experimental as mixed_precision
-
-###
 
 
 np.set_printoptions(precision=4)
@@ -394,6 +368,9 @@ weights_name = "denseCNN-random-mixed-b.h5"
 
 
 def main():
+    text = clean(load())
+    # mtext = tf.convert_to_tensor(text)
+    mtext = tf.convert_to_tensor(text)
     with tf.device(device_name):
 
         policy = mixed_precision.Policy('mixed_float16')
@@ -402,9 +379,6 @@ def main():
         print('Variable dtype: %s' % policy.variable_dtype)
 
 
-        text = clean(load())
-        # mtext = tf.convert_to_tensor(text)
-        mtext = tf.convert_to_tensor(text)
 
 
         # logdir = "logs/scalars/" + datetime.now().strftime("%Y%m%d-%H%M%S")
