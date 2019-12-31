@@ -160,26 +160,28 @@ def make1(window, text):
 
 
 
-def makeEpochs(mtext, window):
+def makeEpochs(mtext, window, ratio):
     while True:
         x = make1(window, mtext)
         y = make1(window, mtext)
+        (size, _) = x.shape
+        training_size = round(size * ratio)
         for _ in range(100):
             xx = tf.random.shuffle(x)
             yy = tf.random.shuffle(y)
             cipherX = (xx - yy) % 46
             cipherY = (yy - xx) % 46
 
-            yield (cipherX, cipherY), (
-                xx,
-                yy,
-            )
+            # yield (cipherX, cipherY), (
+            #     xx,
+            #     yy,
+            # )
 
-            # for i in range(0, x.shape[0], training_size):
-            #     yield (cipher[i : i + training_size, :],), (
-            #         xx[i : i + training_size, :],
-            #         yy[i : i + training_size, :],
-            #     )
+            for i in range(0, x.shape[0], training_size):
+                yield (cipherX[i : i + training_size, :], cipherY[i : i + training_size, :]), (
+                    xx[i : i + training_size, :],
+                    yy[i : i + training_size, :],
+                )
 
 
 class TwoTimePadSequence(keras.utils.Sequence):
@@ -256,6 +258,7 @@ def make_model(hparams):
     # clears = [make_end(embedded)]
     # keys = [make_end(embedded)]
 
+    ## Best loss without conv at all was 4.5
     ## Best loss without conv at all was 4.5
     ## With one conv we are getting validation loss of 3.5996 quickly (at window size 30); best was ~3.3
     ## So adding another conv and lstm. val loss after first epoch about 3.3
@@ -354,7 +357,7 @@ hparams = {
     HP_resSize: 4 * 46,
 }
 
-weights_name = "denseCNN-50-wider-random-mixed-loss-scale-big-tensor-update-smaller-2.h5"
+weights_name = "denseCNN-50-wider-random-mixed-loss-scale-sliced-tensor-update.h5"
 
 
 def main():
@@ -430,7 +433,7 @@ def main():
         # print("Training:")
         # (ciphers, labels, keys) = samples(text, training_size, l)
         # print(model.fit(ciphers, [labels, keys],
-        for epoch, (x, y) in enumerate(makeEpochs(mtext, l)):
+        for epoch, (x, y) in enumerate(makeEpochs(mtext, l, 1/60)):
            print(f"My epoch: {epoch}")
            model.fit(
                # x=TwoTimePadSequence(l, 10 ** 4 // 32, mtext),
@@ -441,7 +444,6 @@ def main():
                epochs=epoch+1,
                validation_split=0.01,
                # epochs=10000,
-               # validation_data=TwoTimePadSequence(l, 10 ** 3 // 32, mtext),
                callbacks=callbacks_list,
                batch_size=batch_size,
                verbose=1,
