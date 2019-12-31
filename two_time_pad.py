@@ -246,7 +246,6 @@ def make_model(hparams):
 
     embeddedA = embedding(inputA)
     embeddedB = embedding(inputB)
-    make_end = Conv1D(name="output", filters=46, kernel_size=1, padding="same", strides=1,)
 
     # clears = [make_end(embedded)]
     # keys = [make_end(embedded)]
@@ -301,7 +300,7 @@ def make_model(hparams):
 
     convedA = embeddedA
     convedB = embeddedB
-    for block in range(0):
+    for block in range(1):
         convedAx, convedBx = make_block(convedA, convedB, block=block)
 
         catAx = concatenate(convedAx)
@@ -329,8 +328,38 @@ def make_model(hparams):
     #         Add()([convedA, c(lstm(concatenate([convedA, convedB])))]),
     #         Add()([convedB, c(lstm(concatenate([convedB, convedA])))]))
 
+    make_end = Conv1D(name="output", filters=46, kernel_size=1, padding="same", strides=1, dtype='float32')
     totes_clear = make_end(SpatialDropout1D(rate=hparams[HP_DROPOUT])(convedA))
     totes_key = make_end(SpatialDropout1D(rate=hparams[HP_DROPOUT])(convedB))
+
+    model = Model([inputA, inputB], [totes_clear, totes_key])
+
+    model.compile(
+        optimizer=tf.optimizers.Adam(), loss=tf.keras.losses.SparseCategoricalCrossentropy(from_logits=True), metrics=["accuracy"],
+    )
+    return model
+
+def make_model_(hparams):
+    relu = ft.partial(tf.keras.layers.PReLU, shared_axes=[1])
+
+    relu = tf.keras.layers.ReLU
+
+    n = hparams[HP_WINDOW]
+    inputA = Input(shape=(n,), name="ciphertextA", dtype='int32')
+    inputB = Input(shape=(n,), name="ciphertextB", dtype='int32')
+
+
+    embedding = Embedding(output_dim=len(alpha), input_length=n, input_dim=len(alpha), name="my_embedding", batch_input_shape=[batch_size, n],)
+
+    make_end = Conv1D(name="output", filters=46, kernel_size=1, padding="same", strides=1, dtype='float32')
+
+    # totes_clear = Sequential([
+    #     embedding,
+    #     Conv1D(filters=46, kernel_size=3, padding='same'),
+    #     make_end,
+    #     ])(inputA)
+    totes_clear = embedding(inputA)
+    totes_key = make_end(embedding(inputB))
 
     model = Model([inputA, inputB], [totes_clear, totes_key])
 
@@ -357,14 +386,10 @@ def main():
     print('Compute dtype: %s' % policy.compute_dtype)
     print('Variable dtype: %s' % policy.variable_dtype)
 
-
-    text = clean(load())
-    # mtext = tf.convert_to_tensor(text)
-    mtext = tf.convert_to_tensor(text)
     with tf.device(device_name):
-
-
-
+        text = clean(load())
+        # mtext = tf.convert_to_tensor(text)
+        mtext = tf.convert_to_tensor(text)
 
         # logdir = "logs/scalars/" + datetime.now().strftime("%Y%m%d-%H%M%S")
         logdir = "logs/scalars/{}".format(weights_name)
@@ -385,13 +410,13 @@ def main():
                 hparams=[HP_DROPOUT, HP_HEIGHT, HP_WINDOW], metrics=[hp.Metric(METRIC_ACCURACY, display_name="Accuracy")],
             )
 
-    # with tf.device(device_name):
         try:
+            raise NotImplemntedError("Want to make")
             model = keras.models.load_model('weights/'+weights_name)
             print("Loaded weights.")
         except:
             model = make_model(hparams)
-            # model.summary()
+            model.summary()
             print("Failed to load weights.")
             # raise
         # for i in range(10*(layers+1)):
