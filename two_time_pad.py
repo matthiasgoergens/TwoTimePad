@@ -177,7 +177,8 @@ def makeEpochs(mtext, window, ratio):
             #     yy,
             # )
 
-            for i in range(0, x.shape[0], training_size):
+            # Drop last epoch, it's probably not full.
+            for i in list(range(0, x.shape[0], training_size))[:-1]:
                 yield (cipherX[i : i + training_size, :], cipherY[i : i + training_size, :]), (
                     xx[i : i + training_size, :],
                     yy[i : i + training_size, :],
