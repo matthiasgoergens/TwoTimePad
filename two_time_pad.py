@@ -145,10 +145,6 @@ def samples(text, batch_size, l):
     return ([one_hot_ciphers, -one_hot_ciphers %46], one_hot_labels, one_hot_keys)
 
 
-# relu = ft.partial(keras.layers.LeakyReLU, alpha=0.1)
-relu = ft.partial(tf.keras.layers.PReLU, shared_axes=[1])
-
-
 batch_size = 32
 
 
@@ -235,6 +231,9 @@ METRIC_ACCURACY = "accuracy"
 
 
 def make_model(hparams):
+
+    relu = ft.partial(tf.keras.layers.PReLU, shared_axes=[1])
+
     n = hparams[HP_WINDOW]
     # my_input = Input(shape=(n,), dtype='int32', name="ciphertext")
     inputA = Input(shape=(n,), name="ciphertextA", dtype='int32')
@@ -333,9 +332,10 @@ def make_model(hparams):
     totes_key = make_end(SpatialDropout1D(rate=hparams[HP_DROPOUT])(convedB))
 
     model = Model([inputA, inputB], [totes_clear, totes_key])
+    opt = tf.keras.mixed_precision.experimental.LossScaleOptimizer(tf.optimizers.Adam(), "dynamic")
 
     model.compile(
-        optimizer=tf.optimizers.Adam(), loss=tf.keras.losses.SparseCategoricalCrossentropy(from_logits=True), metrics=["accuracy"],
+        optimizer=opt, loss=tf.keras.losses.SparseCategoricalCrossentropy(from_logits=True), metrics=["accuracy"],
     )
     return model
 
@@ -377,7 +377,7 @@ hparams = {
     HP_resSize: 4 * 46,
 }
 
-weights_name = "denseCNN-random-mixed-b.h5"
+weights_name = "denseCNN-random-mixed-loss-scale.h5"
 
 
 def main():
