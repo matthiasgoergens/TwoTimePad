@@ -357,16 +357,16 @@ hparams = {
     HP_resSize: 4 * 46,
 }
 
-weights_name = "denseCNN-20-random-mixed-loss-scale-sliced-tensor-update.h5"
+weights_name = "denseCNN-20-random-fixed-loss-scale-sliced-tensor-update.h5"
 
 
 def main():
     # TODO: Actually set stuff to float16 only, in inference too.  Should use
     # less memory.
-    policy = mixed_precision.Policy('mixed_float16')
-    mixed_precision.set_policy(policy)
-    print('Compute dtype: %s' % policy.compute_dtype)
-    print('Variable dtype: %s' % policy.variable_dtype)
+    # policy = mixed_precision.Policy('mixed_float16')
+    # mixed_precision.set_policy(policy)
+    # print('Compute dtype: %s' % policy.compute_dtype)
+    # print('Variable dtype: %s' % policy.variable_dtype)
 
     with tf.device(device_name):
         text = clean(load())
