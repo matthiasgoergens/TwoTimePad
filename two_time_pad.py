@@ -308,18 +308,17 @@ def make_model(hparams):
         return Sequential([
             Input(name="res_inputMe", shape=(n,channels,)),
 
-            TimeDistributed(BatchNormalization()),
+            Conv1D(filters=4*size, kernel_size=1, padding='same'),
             # SpatialDropout1D(rate=hparams[HP_DROPOUT]), # Not sure whether that's good.
             relu(),
-            Conv1D(filters=4*size, kernel_size=1, padding='same'),
-
             TimeDistributed(BatchNormalization()),
-            relu(),
+
             Conv1D(filters=size, kernel_size=width, padding='same'),
-            ], name=f"resnet{i}")
+            relu(),
+            TimeDistributed(BatchNormalization()),
+            ], name="resnet{}".format(i))
 
 
-    size = 12
     random.seed(42)
     def sample2(pop):
         return random.sample(list(pop), len(pop)//2 + 1)
@@ -327,7 +326,8 @@ def make_model(hparams):
     def make_block(convedA, convedB, block):
         convedAx = [convedA]
         convedBx = [convedB]
-        for i, (width) in enumerate(60*[15]):
+        for i, (_) in enumerate(50*[None]):
+            width = 1 + 2*random.randrange(10)
             convedA_, convedB_= zip(*sample2(list(zip(convedAx, convedBx))))
             assert len(convedA_) == len(convedB_), (len(convedA_), len(convedB_))
             catA = concatenate([*convedA_, *convedB_])
@@ -335,6 +335,7 @@ def make_model(hparams):
             (_, _, num_channels) = catA.shape
             (_, _, num_channelsB) = catB.shape
             assert tuple(catA.shape) == tuple(catB.shape), (catA.shape, catB.shape)
+            size = random.randrange(12, 46)
             resNet = makeResNet(block*1000+i, num_channels, width, size)
 
             convedAx.append(resNet(catA))
@@ -353,6 +354,12 @@ def make_model(hparams):
         catAx = concatenate(convedAx)
         catBx = concatenate(convedBx)
         assert tuple(catAx.shape) == tuple(catBx.shape), (catAx.shape, catBx.shape)
+
+        if True: # Only one block for nowe.
+            convedA = catAx
+            convedB = catBx
+            break
+
 
         bottleneck = Conv1D(filters=4*46, kernel_size=1, padding='same')
         batchnorm = TimeDistributed(BatchNormalization())
@@ -388,14 +395,14 @@ hparams = {
     HP_resSize: 4 * 46,
 }
 
-weights_name = "denseCNN-1x60-bottleneck-blocks.h5"
+weights_name = "denseCNN-random.h5"
 
 
 def main():
     gpu_memory_growth()
 
     # logdir = "logs/scalars/" + datetime.now().strftime("%Y%m%d-%H%M%S")
-    logdir = f"logs/scalars/{weights_name}"
+    logdir = "logs/scalars/{}".format(weights_name)
     tensorboard_callback = keras.callbacks.TensorBoard(log_dir=logdir)  # , histogram_freq=5,  write_images=True, embeddings_freq=5)
 
     checkpoint = ModelCheckpoint('weights/'+weights_name, verbose=1, save_best_only=True)
@@ -459,7 +466,7 @@ def main():
         model.fit(
             x=TwoTimePadSequence(l, 10 ** 4 // 32),
             steps_per_epoch=10 ** 4 // 32,
-            max_queue_size=1_000,
+            max_queue_size=10**3,
             # initial_epoch=183,
             # epochs=epoch+1,
             # validation_split=0.1,
