@@ -345,7 +345,7 @@ def make_model(hparams):
     totes_key = make_end(SpatialDropout1D(rate=hparams[HP_DROPOUT])(convedB))
 
     model = Model([inputA, inputB], [totes_clear, totes_key])
-    opt = tf.keras.mixed_precision.experimental.LossScaleOptimizer(tf.optimizers.Adam(), "dynamic")
+    opt = tf.optimizers.Adam()
 
     model.compile(
         optimizer=opt, loss=tf.keras.losses.SparseCategoricalCrossentropy(from_logits=True), metrics=["accuracy"],
