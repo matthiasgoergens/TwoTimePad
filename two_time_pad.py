@@ -445,22 +445,29 @@ def main():
 #        for epoch, (x, y) in enumerate(makeEpochs(mtext, l, 1/60)):
 #           print(f"My epoch: {epoch}")
         if True:
-           model.fit(
-               x=TwoTimePadSequence(l, 10 ** 4 // 32, mtext),
-               # x = x, y = y,
-               steps_per_epoch=10 ** 4 // 32,
-               max_queue_size=10**3,
-               initial_epoch=290,
-               # epochs=epoch+1,
-               # validation_split=0.1,
-               validation_data=TwoTimePadSequence(l, 2*10 ** 3 // 32, mtext),
-               epochs=100_000,
-               callbacks=callbacks_list,
-               # batch_size=batch_size,
-               verbose=1,
-               # workers=8,
-               # use_multiprocessing=True,
-           )
+            try:
+                model.fit(
+                    x=TwoTimePadSequence(l, 10 ** 4 // 32, mtext),
+                    # x = x, y = y,
+                    steps_per_epoch=10 ** 4 // 32,
+                    max_queue_size=10**3,
+                    initial_epoch=311,
+                    # epochs=epoch+1,
+                    # validation_split=0.1,
+                    validation_data=TwoTimePadSequence(l, 2*10 ** 3 // 32, mtext),
+                    epochs=100_000,
+                    callbacks=callbacks_list,
+                    # batch_size=batch_size,
+                    verbose=1,
+                    # workers=8,
+                    # use_multiprocessing=True,
+                    )
+            except:
+                print("Saving model...")
+                model.save('weights/'+weights_name, include_optimizer=True)
+                print("Saved model.")
+                raise
+
         # (ciphers_t, labels_t, keys_t) = samples(text, 1000, l)
         # print("Eval:")
         # model.evaluate(TwoTimePadSequence(l, 10**4))
