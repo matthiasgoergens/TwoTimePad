@@ -275,18 +275,13 @@ def make_model(hparams):
         return Sequential([
             Input(name="res_inputMe", shape=(n,channels,)),
 
-            # SpatialDropout1D(rate=hparams[HP_DROPOUT]), # Not sure whether that's good.
-            # BatchNormalization(),
             relu(),
             ic(),
             Conv1D(filters=4*size, kernel_size=1, padding='same'),
-            BatchNormalization(),
             relu(),
 
             ic(),
             Conv1D(filters=size, kernel_size=width, padding='same'),
-            # BatchNormalization(),
-            # relu(),
             ], name="resnet{}".format(i))
 
 
@@ -336,12 +331,12 @@ def make_model(hparams):
             break
 
 
-        bottleneck = Conv1D(filters=4*46, kernel_size=1, padding='same')
-        batchnorm = BatchNormalization()
-        relu_ = relu()
-        convedA = bottleneck(relu_(batchnorm(catAx)))
-        convedB = bottleneck(relu_(batchnorm(catBx)))
-        assert tuple(convedA.shape) == tuple(convedB.shape), (block, convedA.shape, convedB.shape)
+        # bottleneck = Conv1D(filters=4*46, kernel_size=1, padding='same')
+        # batchnorm = BatchNormalization()
+        # relu_ = relu()
+        # convedA = bottleneck(relu_(batchnorm(catAx)))
+        # convedB = bottleneck(relu_(batchnorm(catBx)))
+        # assert tuple(convedA.shape) == tuple(convedB.shape), (block, convedA.shape, convedB.shape)
 
 
     # lstm = Bidirectional(LSTM(4*46, return_sequences=True))
@@ -376,7 +371,7 @@ hparams = {
     HP_resSize: 4 * 46,
 }
 
-weights_name = "denseCNN-20-no-val-lr6-ic.h5"
+weights_name = "denseCNN-20-lr10-ic.h5"
 
 
 def main():
