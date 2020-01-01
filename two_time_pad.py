@@ -368,7 +368,7 @@ hparams = {
     HP_resSize: 4 * 46,
 }
 
-weights_name = "denseCNN-20-random-mixed-pre-activation-post-batchnorm-shorter-seed-23.h5"
+weights_name = "denseCNN-20-no-val.h5"
 
 
 def main():
@@ -452,11 +452,11 @@ def main():
         if True:
             try:
                 model.fit(
-                    x=TwoTimePadSequence(l, 10 ** 4 // 32, mtext),
+                    x=TwoTimePadSequence(l, 10 ** 4 // 8, mtext),
                     # x = x, y = y,
-                    steps_per_epoch=10 ** 4 // 32,
+                    # steps_per_epoch=10 ** 4 // 32,
                     max_queue_size=10**3,
-                    initial_epoch=311,
+                    # initial_epoch=311,
                     # epochs=epoch+1,
                     # validation_split=0.1,
                     # validation_data=TwoTimePadSequence(l, 2*10 ** 3 // 32, mtext),
