@@ -368,7 +368,7 @@ hparams = {
     HP_resSize: 4 * 46,
 }
 
-weights_name = "denseCNN-20-no-val-lr6.h5"
+weights_name = "denseCNN-20-no-val-lr6-b.h5"
 
 
 def main():
@@ -386,7 +386,7 @@ def main():
 
         # logdir = "logs/scalars/" + datetime.now().strftime("%Y%m%d-%H%M%S")
         logdir = "logs/scalars/{}".format(weights_name)
-        tensorboard_callback = TensorBoard(log_dir=logdir, update_freq=5_000)  # , histogram_freq=5,  write_images=True, embeddings_freq=5)
+        tensorboard_callback = TensorBoard(log_dir=logdir, update_freq=1_000)  # , histogram_freq=5,  write_images=True, embeddings_freq=5)
 
         checkpoint = ModelCheckpoint('weights/'+weights_name, monitor='loss', verbose=1, save_best_only=True)
 
@@ -395,7 +395,7 @@ def main():
             tensorboard_callback,
             # hp.KerasCallback(logdir, hparams),
             ReduceLROnPlateau(monitor='loss', patience=2, cooldown=1, factor=0.5, verbose=1, min_delta=0.0001),
-            EarlyStopping(monitor='loss', patience=10, verbose=1, restore_best_weights=True)
+            EarlyStopping(monitor='loss', patience=20, verbose=1, restore_best_weights=True)
         ]
 
         with tf.summary.create_file_writer("logs/scalars").as_default():
