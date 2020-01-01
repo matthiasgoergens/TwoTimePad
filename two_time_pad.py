@@ -388,14 +388,14 @@ def main():
         logdir = "logs/scalars/{}".format(weights_name)
         tensorboard_callback = TensorBoard(log_dir=logdir, update_freq=5_000)  # , histogram_freq=5,  write_images=True, embeddings_freq=5)
 
-        checkpoint = ModelCheckpoint('weights/'+weights_name, verbose=1, save_best_only=True)
+        checkpoint = ModelCheckpoint('weights/'+weights_name, monitor='loss', verbose=1, save_best_only=True)
 
         callbacks_list = [
             checkpoint,
             tensorboard_callback,
             # hp.KerasCallback(logdir, hparams),
-            ReduceLROnPlateau(patience=10, cooldown=5, factor=0.5, verbose=1, min_delta=0.0001),
-            EarlyStopping(patience=100, verbose=1, restore_best_weights=True)
+            ReduceLROnPlateau(monitor='loss', patience=10, cooldown=5, factor=0.5, verbose=1, min_delta=0.0001),
+            EarlyStopping(monitor='loss', patience=100, verbose=1, restore_best_weights=True)
         ]
 
         with tf.summary.create_file_writer("logs/scalars").as_default():
@@ -459,7 +459,7 @@ def main():
                     initial_epoch=311,
                     # epochs=epoch+1,
                     # validation_split=0.1,
-                    validation_data=TwoTimePadSequence(l, 2*10 ** 3 // 32, mtext),
+                    # validation_data=TwoTimePadSequence(l, 2*10 ** 3 // 32, mtext),
                     epochs=100_000,
                     callbacks=callbacks_list,
                     # batch_size=batch_size,
