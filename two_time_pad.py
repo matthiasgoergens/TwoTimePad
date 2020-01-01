@@ -354,7 +354,7 @@ def make_model(hparams):
 
 l = 100
 hparams = {
-    HP_DROPOUT: 0.1,
+    HP_DROPOUT: 0.0,
     HP_HEIGHT: 50,
     HP_WINDOW: l,
     HP_resSize: 4 * 46,
@@ -390,13 +390,12 @@ def main():
             keras.callbacks.EarlyStopping(patience=100, verbose=1, restore_best_weights=True)
         ]
 
-        with tf.summary.create_file_writer("logs/hparam_tuning").as_default():
+        with tf.summary.create_file_writer("logs/scalars").as_default():
             hp.hparams_config(
                 hparams=[HP_DROPOUT, HP_HEIGHT, HP_WINDOW], metrics=[hp.Metric(METRIC_ACCURACY, display_name="Accuracy")],
             )
 
         try:
-            raise NotImplemntedError("Want to make")
             model = keras.models.load_model('weights/'+weights_name)
             print("Loaded weights.")
         except:
@@ -444,7 +443,7 @@ def main():
                # x = x, y = y,
                steps_per_epoch=10 ** 4 // 32,
                max_queue_size=10**3,
-               # initial_epoch=epoch,
+               initial_epoch=290,
                # epochs=epoch+1,
                # validation_split=0.1,
                validation_data=TwoTimePadSequence(l, 2*10 ** 3 // 32, mtext),
