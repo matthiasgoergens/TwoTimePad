@@ -343,9 +343,13 @@ def make_model(hparams):
     #         Add()([convedA, c(lstm(concatenate([convedA, convedB])))]),
     #         Add()([convedB, c(lstm(concatenate([convedB, convedA])))]))
 
-    make_end = Conv1D(name="output", filters=46, kernel_size=1, padding="same", strides=1, dtype='float32')
-    totes_clear = make_end(SpatialDropout1D(rate=hparams[HP_DROPOUT])(convedA))
-    totes_key = make_end(SpatialDropout1D(rate=hparams[HP_DROPOUT])(convedB))
+    make_end = Sequential([
+        relu(),
+        SpatialDropout1D(rate=hparams[HP_DROPOUT]),
+        Conv1D(name="output", filters=46, kernel_size=1, padding="same", strides=1, dtype='float32'),
+    ])
+    totes_clear = make_end(convedA)
+    totes_key = make_end(convedB)
 
     model = Model([inputA, inputB], [totes_clear, totes_key])
     opt = tf.optimizers.Adam()
