@@ -396,13 +396,17 @@ def main():
             )
 
         try:
-            model = keras.models.load_model('weights/'+weights_name)
-            print("Loaded weights.")
-        except:
             model = make_model(hparams)
-            model.summary()
-            print("Failed to load weights.")
-            # raise
+            model.load_weights('weights/'+weights_name)
+        except:
+            try:
+                model = keras.models.load_model('weights/'+weights_name)
+                print("Loaded weights.")
+            except:
+                model = make_model(hparams)
+                model.summary()
+                print("Failed to load weights.")
+                # raise
         # for i in range(10*(layers+1)):
 
         print("Predict:")
