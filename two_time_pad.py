@@ -281,7 +281,7 @@ def make_model(hparams):
             ], name="resnet{}".format(i))
 
 
-    random.seed(43)
+    random.seed(23)
     def sample2(pop):
         return pop
         div = 3
@@ -360,7 +360,7 @@ hparams = {
     HP_resSize: 4 * 46,
 }
 
-weights_name = "denseCNN-20-random-mixed-pre-activation-shorter-seed.h5"
+weights_name = "denseCNN-20-random-mixed-pre-activation-shorter-seed-23.h5"
 
 
 def main():
@@ -447,6 +447,7 @@ def main():
                # initial_epoch=epoch,
                # epochs=epoch+1,
                # validation_split=0.1,
+               validation_data=TwoTimePadSequence(l, 2*10 ** 3 // 32, mtext),
                epochs=100_000,
                callbacks=callbacks_list,
                # batch_size=batch_size,
