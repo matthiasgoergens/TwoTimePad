@@ -394,8 +394,8 @@ def main():
             checkpoint,
             tensorboard_callback,
             # hp.KerasCallback(logdir, hparams),
-            ReduceLROnPlateau(monitor='loss', patience=10, cooldown=5, factor=0.5, verbose=1, min_delta=0.0001),
-            EarlyStopping(monitor='loss', patience=100, verbose=1, restore_best_weights=True)
+            ReduceLROnPlateau(monitor='loss', patience=2, cooldown=1, factor=0.5, verbose=1, min_delta=0.0001),
+            EarlyStopping(monitor='loss', patience=10, verbose=1, restore_best_weights=True)
         ]
 
         with tf.summary.create_file_writer("logs/scalars").as_default():
