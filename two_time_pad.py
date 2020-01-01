@@ -11,7 +11,7 @@ from pprint import pprint
 import numpy as np
 import tensorflow as tf
 # import tensorflow_addons as tfa
-from tensorflow.keras.callbacks import *
+from tensorflow.keras.callbacks import ModelCheckpoint, TensorBoard, ReduceLROnPlateau, EarlyStopping
 from tensorboard.plugins.hparams import api as hp
 from tensorflow import keras
 from tensorflow.keras.layers import (
@@ -272,7 +272,7 @@ def make_model(hparams):
 
             # SpatialDropout1D(rate=hparams[HP_DROPOUT]), # Not sure whether that's good.
             # BatchNormalization(),
-            relu(),
+            # relu(),
 
             Conv1D(filters=4*size, kernel_size=1, padding='same'),
             BatchNormalization(),
@@ -280,7 +280,7 @@ def make_model(hparams):
 
             Conv1D(filters=size, kernel_size=width, padding='same'),
             BatchNormalization(),
-            # relu(),
+            relu(),
             ], name="resnet{}".format(i))
 
 
@@ -344,7 +344,7 @@ def make_model(hparams):
     #         Add()([convedB, c(lstm(concatenate([convedB, convedA])))]))
 
     make_end = Sequential([
-        relu(),
+        # relu(),
         SpatialDropout1D(rate=hparams[HP_DROPOUT]),
         Conv1D(name="output", filters=46, kernel_size=1, padding="same", strides=1, dtype='float32'),
     ])
@@ -352,7 +352,8 @@ def make_model(hparams):
     totes_key = make_end(convedB)
 
     model = Model([inputA, inputB], [totes_clear, totes_key])
-    opt = tf.optimizers.Adam()
+    # Learning rate increase like in Batch Normalization paper.
+    opt = tf.optimizers.Adam(learning_rate=0.001 * 30)
 
     model.compile(
         optimizer=opt, loss=tf.keras.losses.SparseCategoricalCrossentropy(from_logits=True), metrics=["accuracy"],
@@ -385,7 +386,7 @@ def main():
 
         # logdir = "logs/scalars/" + datetime.now().strftime("%Y%m%d-%H%M%S")
         logdir = "logs/scalars/{}".format(weights_name)
-        tensorboard_callback = tf.keras.callbacks.TensorBoard(log_dir=logdir, update_freq=5_000)  # , histogram_freq=5,  write_images=True, embeddings_freq=5)
+        tensorboard_callback = TensorBoard(log_dir=logdir, update_freq=5_000)  # , histogram_freq=5,  write_images=True, embeddings_freq=5)
 
         checkpoint = ModelCheckpoint('weights/'+weights_name, verbose=1, save_best_only=True)
 
@@ -393,8 +394,8 @@ def main():
             checkpoint,
             tensorboard_callback,
             # hp.KerasCallback(logdir, hparams),
-            keras.callbacks.ReduceLROnPlateau(patience=30, factor=0.5, verbose=1, min_delta=0.0001),
-            keras.callbacks.EarlyStopping(patience=100, verbose=1, restore_best_weights=True)
+            ReduceLROnPlateau(patience=10, cooldown=5, factor=0.5, verbose=1, min_delta=0.0001),
+            EarlyStopping(patience=100, verbose=1, restore_best_weights=True)
         ]
 
         with tf.summary.create_file_writer("logs/scalars").as_default():
