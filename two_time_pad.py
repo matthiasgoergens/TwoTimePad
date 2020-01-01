@@ -271,15 +271,16 @@ def make_model(hparams):
             Input(name="res_inputMe", shape=(n,channels,)),
 
             # SpatialDropout1D(rate=hparams[HP_DROPOUT]), # Not sure whether that's good.
-            # TimeDistributed(BatchNormalization()),
-            BatchNormalization(),
+            # BatchNormalization(),
             relu(),
-            Conv1D(filters=4*size, kernel_size=1, padding='same'),
 
-            # TimeDistributed(BatchNormalization()),
+            Conv1D(filters=4*size, kernel_size=1, padding='same'),
             BatchNormalization(),
             relu(),
+
             Conv1D(filters=size, kernel_size=width, padding='same'),
+            BatchNormalization(),
+            # relu(),
             ], name="resnet{}".format(i))
 
 
@@ -328,7 +329,6 @@ def make_model(hparams):
 
 
         bottleneck = Conv1D(filters=4*46, kernel_size=1, padding='same')
-        # batchnorm = TimeDistributed(BatchNormalization())
         batchnorm = BatchNormalization()
         relu_ = relu()
         convedA = bottleneck(relu_(batchnorm(catAx)))
