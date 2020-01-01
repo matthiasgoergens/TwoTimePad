@@ -243,6 +243,11 @@ METRIC_ACCURACY = "accuracy"
 def make_model(hparams):
 
     relu = ft.partial(tf.keras.layers.PReLU, shared_axes=[1])
+    ic = lambda: Sequential([
+        BatchNormalization(),
+        SpatialDropout1D(rate=hparams[HP_DROPOUT]),
+    ])
+
 
     n = hparams[HP_WINDOW]
     # my_input = Input(shape=(n,), dtype='int32', name="ciphertext")
@@ -272,15 +277,16 @@ def make_model(hparams):
 
             # SpatialDropout1D(rate=hparams[HP_DROPOUT]), # Not sure whether that's good.
             # BatchNormalization(),
-            # relu(),
-
+            relu(),
+            ic(),
             Conv1D(filters=4*size, kernel_size=1, padding='same'),
             BatchNormalization(),
             relu(),
 
+            ic(),
             Conv1D(filters=size, kernel_size=width, padding='same'),
-            BatchNormalization(),
-            relu(),
+            # BatchNormalization(),
+            # relu(),
             ], name="resnet{}".format(i))
 
 
@@ -346,8 +352,8 @@ def make_model(hparams):
     #         Add()([convedB, c(lstm(concatenate([convedB, convedA])))]))
 
     make_end = Sequential([
-        # relu(),
-        SpatialDropout1D(rate=hparams[HP_DROPOUT]),
+        relu(),
+        ic(),
         Conv1D(name="output", filters=46, kernel_size=1, padding="same", strides=1, dtype='float32'),
     ])
     totes_clear = make_end(convedA)
@@ -364,7 +370,7 @@ def make_model(hparams):
 
 l = 100
 hparams = {
-    HP_DROPOUT: 0.0,
+    HP_DROPOUT: 0.05,
     HP_HEIGHT: 50,
     HP_WINDOW: l,
     HP_resSize: 4 * 46,
