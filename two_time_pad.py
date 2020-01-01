@@ -363,7 +363,7 @@ hparams = {
     HP_resSize: 4 * 46,
 }
 
-weights_name = "denseCNN-20-random-mixed-pre-activation-shorter-seed-23.h5"
+weights_name = "denseCNN-20-random-mixed-pre-activation-post-batchnorm-shorter-seed-23.h5"
 
 
 def main():
