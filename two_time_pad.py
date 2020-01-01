@@ -361,7 +361,7 @@ def make_model(hparams):
 
     model = Model([inputA, inputB], [totes_clear, totes_key])
     # Learning rate increase like in Batch Normalization paper.
-    opt = tf.optimizers.Adam(learning_rate=0.001 * 6)
+    opt = tf.optimizers.Adam(learning_rate=0.001 * 10)
 
     model.compile(
         optimizer=opt, loss=tf.keras.losses.SparseCategoricalCrossentropy(from_logits=True), metrics=["accuracy"],
@@ -376,7 +376,7 @@ hparams = {
     HP_resSize: 4 * 46,
 }
 
-weights_name = "denseCNN-20-no-val-lr6-b-really-dense.h5"
+weights_name = "denseCNN-20-no-val-lr6-ic.h5"
 
 
 def main():
@@ -467,7 +467,7 @@ def main():
                     # initial_epoch=311,
                     # epochs=epoch+1,
                     # validation_split=0.1,
-                    # validation_data=TwoTimePadSequence(l, 2*10 ** 3 // 32, mtext),
+                    validation_data=TwoTimePadSequence(l, 2*10 ** 3 // 32, mtext),
                     epochs=100_000,
                     callbacks=callbacks_list,
                     # batch_size=batch_size,
