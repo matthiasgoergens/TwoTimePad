@@ -356,7 +356,7 @@ def make_model(hparams):
 
     model = Model([inputA, inputB], [totes_clear, totes_key])
     # Learning rate increase like in Batch Normalization paper.
-    opt = tf.optimizers.Adam(learning_rate=0.001 * 30)
+    opt = tf.optimizers.Adam(learning_rate=0.001 * 10)
 
     model.compile(
         optimizer=opt, loss=tf.keras.losses.SparseCategoricalCrossentropy(from_logits=True), metrics=["accuracy"],
@@ -371,7 +371,7 @@ hparams = {
     HP_resSize: 4 * 46,
 }
 
-weights_name = "denseCNN-20-lr30-ic.h5"
+weights_name = "denseCNN-20-lr10-ic-b.h5"
 
 
 def main():
