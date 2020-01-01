@@ -283,12 +283,13 @@ def make_model(hparams):
 
     random.seed(23)
     def sample2(pop):
-        return random.sample(list(pop), (len(pop)+1)//2)
+        div = 3
+        return random.sample(list(pop), (len(pop) + div - 1) // div)
 
     def make_block(convedA, convedB, block):
         convedAx = [convedA]
         convedBx = [convedB]
-        for i, (_) in enumerate(20*[None]):
+        for i, (_) in enumerate(60*[None]):
             width = 1 + 2*random.randrange(10)
             convedA_, convedB_= zip(*sample2(list(zip(convedAx, convedBx))))
             assert len(convedA_) == len(convedB_), (len(convedA_), len(convedB_))
@@ -358,7 +359,7 @@ hparams = {
     HP_resSize: 4 * 46,
 }
 
-weights_name = "denseCNN-20-random-mixed-pre-activatino.h5"
+weights_name = "denseCNN-60-random-0.3333-mixed-pre-activation-2.h5"
 
 
 def main():
@@ -434,19 +435,20 @@ def main():
         # print("Training:")
         # (ciphers, labels, keys) = samples(text, training_size, l)
         # print(model.fit(ciphers, [labels, keys],
-        for epoch, (x, y) in enumerate(makeEpochs(mtext, l, 1/60)):
-           print(f"My epoch: {epoch}")
+#        for epoch, (x, y) in enumerate(makeEpochs(mtext, l, 1/60)):
+#           print(f"My epoch: {epoch}")
+        if True:
            model.fit(
-               # x=TwoTimePadSequence(l, 10 ** 4 // 32, mtext),
-               x = x, y = y,
-               # steps_per_epoch=10 ** 4 // 32,
-               # max_queue_size=10**3,
-               initial_epoch=epoch,
-               epochs=epoch+1,
-               validation_split=0.1,
-               # epochs=10000,
+               x=TwoTimePadSequence(l, 10 ** 4 // 32, mtext),
+               # x = x, y = y,
+               steps_per_epoch=10 ** 4 // 32,
+               max_queue_size=10**3,
+               # initial_epoch=epoch,
+               # epochs=epoch+1,
+               # validation_split=0.1,
+               epochs=100_000,
                callbacks=callbacks_list,
-               batch_size=batch_size,
+               # batch_size=batch_size,
                verbose=1,
                # workers=8,
                # use_multiprocessing=True,
