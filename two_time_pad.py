@@ -302,7 +302,7 @@ def make_model(hparams):
             # assert len(convedA_) == len(convedB_), (len(convedA_), len(convedB_))
             # catA = concatenate([*convedA_, *convedB_])
             # catB = concatenate([*convedB_, *convedA_])
-            # (_, _, num_channels) = catA.shape
+            (_, _, num_channels) = catA.shape
             # (_, _, num_channelsB) = catB.shape
             # assert tuple(catA.shape) == tuple(catB.shape), (catA.shape, catB.shape)
             size = random.randrange(23, 2*46)
