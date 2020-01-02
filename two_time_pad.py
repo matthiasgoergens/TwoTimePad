@@ -354,6 +354,8 @@ def make_model(hparams):
     #         Add()([convedB, c(lstm(concatenate([convedB, convedA])))]))
 
     make_end = lambda : Sequential([
+        relu(),
+        ic(),
         Conv1D(name="output", filters=46, kernel_size=1, padding="same", strides=1, dtype='float32'),
     ])
     totes_clear = make_end()(convedA)
@@ -364,8 +366,6 @@ def make_model(hparams):
     opt = tf.optimizers.Adam()
 
     model.compile(
-        relu(),
-        ic(),
         optimizer=opt, loss=tf.keras.losses.SparseCategoricalCrossentropy(from_logits=True), metrics=["accuracy"],
     )
     return model
