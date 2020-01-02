@@ -67,10 +67,6 @@ def load():
     return text
 
 
-def add(clear, key):
-    return [(a + b) % len(alpha) for a, b in zip(clear, key)]
-
-
 def sub(cipher, key):
     return [(a - b) % len(alpha) for a, b in zip(cipher, key)]
 
@@ -98,52 +94,6 @@ def toChars(tensor):
             chars.append(char)
         output.append(toChar(chars))
     return output
-
-
-def toChars_labels(labels):
-    (linesNums, charNum) = labels.shape
-    output = []
-    for lineNum in range(linesNums):
-        chars = []
-        for cN in range(charNum):
-            chars.append(labels[lineNum, cN])
-        output.append(toChar(chars))
-    return output
-
-
-def prepare(clear, key):
-    assert len(clear) == len(key), (clear, key)
-
-    depth = len(alpha)
-
-    # label = clear[len(clear)//2:len(clear)//2+1]
-    cipher = sub(clear, key)
-    return (cipher, clear)
-
-
-def sample(text, l):
-    start = random.randrange(len(text) - l)
-    return text[start : start + l]
-
-
-def samples(text, batch_size, l):
-    ciphers = []
-    keys = []
-    labels = []
-    for _ in range(batch_size):
-        clear = sample(text, l)
-        key = sample(text, l)
-
-        (cipher, label) = prepare(clear, key)
-        ciphers.append(cipher)
-        labels.append(label)
-        keys.append(key)
-    one_hot_ciphers = tf.convert_to_tensor(ciphers)
-    one_hot_labels = tf.convert_to_tensor(labels)
-    one_hot_keys = tf.convert_to_tensor(keys)
-
-    return ([one_hot_ciphers, -one_hot_ciphers %46], one_hot_labels, one_hot_keys)
-
 
 batch_size = 32
 
@@ -241,10 +191,9 @@ HP_resSize = hp.HParam("resSize", hp.IntInterval(46, 8 * 46))
 
 METRIC_ACCURACY = "accuracy"
 
+relu = ft.partial(tf.keras.layers.PReLU, shared_axes=[1])
 
 def make_model(hparams):
-
-    relu = ft.partial(tf.keras.layers.PReLU, shared_axes=[1])
     ic = lambda: Sequential([
         BatchNormalization(),
         SpatialDropout1D(rate=hparams[HP_DROPOUT]),
@@ -381,15 +330,102 @@ def make_model(hparams):
     )
     return model
 
+def plus(a, b):
+    if a is None:
+        return b
+    elif b is None:
+        return a
+    else:
+        return Add()([a, b])
+def concat(l):
+    if len(l) == 1:
+        return l[0]
+    else:
+        return concatenate(l)
+def cat(a, b):
+    if a is None:
+          return b
+    elif b is None:
+        return a
+    else:
+        return concatenate([a, b])
+
+def make_mode_global_local(hparams):
+    ic = lambda: Sequential([
+        BatchNormalization(),
+        SpatialDropout1D(rate=hparams[HP_DROPOUT]),
+    ])
+
+    n = hparams[HP_WINDOW]
+    height = hparams[HP_HEIGHT]
+
+    input = Input(shape=(n,), name="ciphertextA", dtype='int32')
+    embedded = Embedding(output_dim=len(alpha), input_length=n, input_dim=len(alpha), name="my_embedding", batch_input_shape=[batch_size, n],)(input)
+
+    def make_block(global_state):
+        width = 1 + 2 * 2
+        local_dims = 46
+        more_global = 23
+
+        num_layers = height
+
+        post_conv1 = None
+        post_relu = None
+        post_ic = None
+
+        local_state = None
+
+        for i in range(num_layers):
+            shapeIt = Sequential([
+                relu(),
+                ic(),
+                Conv1D(filters=4*(local_dims+more_global), kernel_size=1, padding='same'),
+            ])(cat(local_state, global_state))
+
+            post_conv1 = plus(post_conv1, shapeIt)
+            post_relu = plus(post_relu, relu()(post_conv1))
+            post_ic = plus(post_ic, ic()(post_relu))
+
+
+            local_state = plus(local_state,  Conv1D(filters=local_dims,  kernel_size=width, padding='same')(post_ic))
+            global_state = cat(global_state, Conv1D(filters=more_global, kernel_size=width, padding='same')(post_ic))
+        return local_state, global_state
+
+    random.seed(23)
+
+    l, g = make_block(embedded)
+
+    last = cat(l, g)
+    ## TODO: Idea for block design
+    ## Bottleneck the state for the next block, but still pass the complete
+    ## internal state of each bock onto the final pre-softmax layer.
+
+    make_end = lambda name : Sequential([
+        relu(),
+        ic(),
+        Conv1D(name="output", filters=46, kernel_size=1, padding="same", strides=1, dtype='float32'),
+    ], name=name)
+    totes_clear = make_end('clear')(last)
+    # Idea: Try a virtual totes_key, derived from totes_clear by a shift depending on cipher-text.
+    # totes_key = make_end('key')(convedA)
+
+    model = Model([input], [totes_clear])
+    opt = tf.optimizers.Adam()
+
+    model.compile(
+        optimizer=opt, loss=tf.keras.losses.SparseCategoricalCrossentropy(from_logits=True), metrics=["accuracy"],
+    )
+    return model
+
 l = 100
 hparams = {
     HP_DROPOUT: 0.0,
-    HP_HEIGHT: 50,
+    HP_HEIGHT: 3,
     HP_WINDOW: l,
     HP_resSize: 4 * 46,
 }
 
-weights_name = "denseCNN-recreate-recreate.h5"
+weights_name = "glocal-3.h5"
 
 
 def main():
@@ -431,7 +467,7 @@ def main():
             tensorboard_callback,
             # hp.KerasCallback(logdir, hparams),
             ReduceLROnPlateau(monitor='loss', patience=3, cooldown=10, factor=1/2, verbose=1, min_delta=0.001),
-            LearningRateScheduler(schedule),
+            # LearningRateScheduler(schedule),
             EarlyStopping(monitor='loss', patience=30, verbose=1, restore_best_weights=True)
         ]
 
