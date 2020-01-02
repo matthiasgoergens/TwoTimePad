@@ -212,7 +212,8 @@ class TwoTimePadSequence(keras.utils.Sequence):
             return self.__getitem__(idx)
         else:
             # return (self.cipherA[i, :, :], self.cipherB[i, :, :]), (self.aa[i, :, :], self.bb[i, :, :])
-            return (self.cipherA[i, :, :], ), (self.aa[i, :, :], self.bb[i, :, :])
+            # return (self.cipherA[i, :, :], ), (self.aa[i, :, :], self.bb[i, :, :])
+            return (self.cipherA[i, :, :], ), (self.aa[i, :, :],)
 
     def __init__(self, window, training_size, mtext):
         self.a = make1(window, mtext)
@@ -367,7 +368,7 @@ def make_model(hparams):
     totes_clear = make_end('clear')(convedA)
     totes_key = make_end('key')(convedA)
 
-    model = Model([inputA], [totes_clear, totes_key])
+    model = Model([inputA], [totes_clear])
     # Learning rate increase like in Batch Normalization paper.
     opt = tf.optimizers.Adam()
 
@@ -384,7 +385,7 @@ hparams = {
     HP_resSize: 4 * 46,
 }
 
-weights_name = "denseCNN-25-pre-relu-ic-dense-no_dropout.h5"
+weights_name = "denseCNN-25-pre-relu-ic-dense-no_dropout-single.h5"
 
 
 def main():
