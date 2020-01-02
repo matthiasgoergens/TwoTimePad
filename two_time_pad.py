@@ -371,13 +371,13 @@ def make_model(hparams):
 
 l = 100
 hparams = {
-    HP_DROPOUT: 0.05,
+    HP_DROPOUT: 0.0,
     HP_HEIGHT: 50,
     HP_WINDOW: l,
     HP_resSize: 4 * 46,
 }
 
-weights_name = "denseCNN-25-lrS_slower-ic-pre-act-single-random-dropout-0p05.h5"
+weights_name = "denseCNN-25-lrS_slower-ic-pre-act-single-random-dropout-0.h5"
 
 
 def main():
@@ -395,7 +395,7 @@ def main():
 
         # logdir = "logs/scalars/" + datetime.now().strftime("%Y%m%d-%H%M%S")
         logdir = "logs/scalars/{}".format(weights_name)
-        tensorboard_callback = TensorBoard(log_dir=logdir, update_freq=1_000)  # , histogram_freq=5,  write_images=True, embeddings_freq=5)
+        tensorboard_callback = TensorBoard(log_dir=logdir, update_freq=1_000, profile_batch=0, histogram_freq=5,  write_images=True, embeddings_freq=5)
 
         checkpoint = ModelCheckpoint('weights/'+weights_name, monitor='loss', verbose=1, save_best_only=True)
 
