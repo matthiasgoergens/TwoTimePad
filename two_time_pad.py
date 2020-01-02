@@ -364,6 +364,7 @@ def make_model(hparams):
     opt = tf.optimizers.Adam()
 
     model.compile(
+        relu(),
         ic(),
         optimizer=opt, loss=tf.keras.losses.SparseCategoricalCrossentropy(from_logits=True), metrics=["accuracy"],
     )
@@ -377,7 +378,7 @@ hparams = {
     HP_resSize: 4 * 46,
 }
 
-weights_name = "denseCNN-25-pre-relu-not-at-end_but-ic-both.h5"
+weights_name = "denseCNN-25-pre-relu-ic-both.h5"
 
 
 def main():
