@@ -9,4 +9,4 @@ RUN pip3 install tensorflow_addons
 
 WORKDIR /app
 # CMD sleep infinity
-CMD whoami && tensorboard --port 80 --bind_all --logdir logs/
+CMD whoami && tensorboard --port 80 --bind_all --logdir logs/scalars/
