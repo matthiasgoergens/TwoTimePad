@@ -357,7 +357,7 @@ def make_model(hparams):
         Conv1D(name="output", filters=46, kernel_size=1, padding="same", strides=1, dtype='float32'),
     ])
     totes_clear = make_end()(convedA)
-    totes_key = make_end()(convedB)
+    totes_key = make_end()(convedA)
 
     model = Model([inputA], [totes_clear, totes_key])
     # Learning rate increase like in Batch Normalization paper.
