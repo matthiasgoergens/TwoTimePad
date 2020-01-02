@@ -281,10 +281,14 @@ def make_model(hparams):
             ic(),
 
             Conv1D(filters=4*size, kernel_size=1, padding='same'),
+            # Idea: re-use the output of this ^ conv!  Add it.
             relu(),
+            # Idea: re-use the output of this ^ relu, too?  Add it.  Suggested in some paper.
             ic(),
+            # Idea: re-use the output of this ^ ic, too?  Add it.
 
             Conv1D(filters=size, kernel_size=width, padding='same'),
+            # Idea: re-use the output of this conv, too!  Add it.
             ], name="resnet{}".format(i))
 
     def concat(l):
@@ -304,7 +308,7 @@ def make_model(hparams):
 
         for i, (_) in enumerate(10*[None]):
             width = 1 + 2*random.randrange(2, 7)
-            # width = 1 + 2 * 8
+            width = 1 + 2*                 2
             catA = concat(sample2(convedAx))
 
             # convedA_, convedB_= zip(*sample2(list(zip(convedAx, convedBx))))
