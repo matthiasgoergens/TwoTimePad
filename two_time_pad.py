@@ -373,7 +373,9 @@ def make_mode_global_local(hparams):
         post_relu = None
         post_ic = None
 
+        # Idea: keep track of local states and feed them into final layer, too.
         local_state = None
+        local_states = []
 
         for i in range(num_layers):
             shapeIt = Sequential([
@@ -388,14 +390,15 @@ def make_mode_global_local(hparams):
 
 
             local_state = plus(local_state,  Conv1D(filters=local_dims,  kernel_size=width, padding='same')(post_ic))
+            local_states.append(local_state)
             global_state = cat(global_state, Conv1D(filters=more_global, kernel_size=width, padding='same')(post_ic))
-        return local_state, global_state
+        return local_states, global_state
 
     random.seed(23)
 
     l, g = make_block(embedded)
 
-    last = cat(l, g)
+    last = cat(cat(l), g)
     ## TODO: Idea for block design
     ## Bottleneck the state for the next block, but still pass the complete
     ## internal state of each bock onto the final pre-softmax layer.
@@ -425,7 +428,7 @@ hparams = {
     HP_resSize: 4 * 46,
 }
 
-weights_name = "glocal-20-thin.h5"
+weights_name = "glocal-20-thin-all-local.h5"
 
 
 def main():
