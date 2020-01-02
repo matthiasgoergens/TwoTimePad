@@ -293,7 +293,7 @@ def make_model(hparams):
         return random.sample(list(pop), (len(pop) + div - 1) // div)
 
     def make_block(convedA, block):
-        catB = convedA
+        catA = convedA
 
         for i, (_) in enumerate(20*[None]):
             width = 1 + 2*random.randrange(5, 8)
