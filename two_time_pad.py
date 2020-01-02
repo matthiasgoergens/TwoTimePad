@@ -211,7 +211,8 @@ class TwoTimePadSequence(keras.utils.Sequence):
             self._load()
             return self.__getitem__(idx)
         else:
-            return (self.cipherA[i, :, :], self.cipherB[i, :, :]), (self.aa[i, :, :], self.bb[i, :, :])
+            # return (self.cipherA[i, :, :], self.cipherB[i, :, :]), (self.aa[i, :, :], self.bb[i, :, :])
+            return (self.cipherA[i, :, :], ), (self.aa[i, :, :],)
 
     def __init__(self, window, training_size, mtext):
         self.a = make1(window, mtext)
@@ -252,14 +253,14 @@ def make_model(hparams):
     n = hparams[HP_WINDOW]
     # my_input = Input(shape=(n,), dtype='int32', name="ciphertext")
     inputA = Input(shape=(n,), name="ciphertextA", dtype='int32')
-    inputB = Input(shape=(n,), name="ciphertextB", dtype='int32')
+    # inputB = Input(shape=(n,), name="ciphertextB", dtype='int32')
     # inputB = -inputA % 46
     resSize = hparams[HP_resSize]
 
     embedding = Embedding(output_dim=len(alpha), input_length=n, input_dim=len(alpha), name="my_embedding", batch_input_shape=[batch_size, n],)
 
     embeddedA = embedding(inputA)
-    embeddedB = embedding(inputB)
+    # embeddedB = embedding(inputB)
 
     # clears = [make_end(embedded)]
     # keys = [make_end(embedded)]
@@ -291,9 +292,8 @@ def make_model(hparams):
         div = 3
         return random.sample(list(pop), (len(pop) + div - 1) // div)
 
-    def make_block(convedA, convedB, block):
-        catA = concatenate([convedA, convedB])
-        catB = concatenate([convedB, convedA])
+    def make_block(convedA, block):
+        catB = convedA
 
         for i, (_) in enumerate(20*[None]):
             width = 1 + 2*random.randrange(5, 8)
@@ -302,34 +302,33 @@ def make_model(hparams):
             # assert len(convedA_) == len(convedB_), (len(convedA_), len(convedB_))
             # catA = concatenate([*convedA_, *convedB_])
             # catB = concatenate([*convedB_, *convedA_])
-            (_, _, num_channels) = catA.shape
-            (_, _, num_channelsB) = catB.shape
-            assert tuple(catA.shape) == tuple(catB.shape), (catA.shape, catB.shape)
+            # (_, _, num_channels) = catA.shape
+            # (_, _, num_channelsB) = catB.shape
+            # assert tuple(catA.shape) == tuple(catB.shape), (catA.shape, catB.shape)
             size = random.randrange(23, 2*46)
             size = 2*46
             resNet = makeResNet(block*1000+i, num_channels, width, size)
 
 
-            resA, resB = resNet(catA), resNet(catB)
-            catA, catB = concatenate([catA, resA, resB]), concatenate([catB, resB, resA])
+            resA = resNet(catA)
+            catA = concatenate([catA, resA])
 
             # assert len(convedAx) == len(convedBx), (len(convedAx), len(convedBx))
             # for j, (a, b) in enumerate(zip(convedAx, convedBx)):
             #     assert tuple(a.shape) == tuple(b.shape), (block, i, j, a.shape, b.shape)
-        return catA, catB
+        return catA
 
     convedA = embeddedA
-    convedB = embeddedB
     for block in range(1):
-        catAx, catBx = make_block(convedA, convedB, block=block)
+        catAx = make_block(convedA, block=block)
 
         # catAx = concatenate(convedAx)
         # catBx = concatenate(convedBx)
-        assert tuple(catAx.shape) == tuple(catBx.shape), (catAx.shape, catBx.shape)
+        # assert tuple(catAx.shape) == tuple(catBx.shape), (catAx.shape, catBx.shape)
 
         if True: # Only one block for nowe.
             convedA = catAx
-            convedB = catBx
+            # convedB = catBx
             break
 
 
@@ -354,9 +353,9 @@ def make_model(hparams):
         Conv1D(name="output", filters=46, kernel_size=1, padding="same", strides=1, dtype='float32'),
     ])
     totes_clear = make_end(convedA)
-    totes_key = make_end(convedB)
+    # totes_key = make_end(convedB)
 
-    model = Model([inputA, inputB], [totes_clear, totes_key])
+    model = Model([inputA], [totes_clear])
     # Learning rate increase like in Batch Normalization paper.
     opt = tf.optimizers.Adam()
 
@@ -373,7 +372,7 @@ hparams = {
     HP_resSize: 4 * 46,
 }
 
-weights_name = "denseCNN-20-lrS-ic-pre-act.h5"
+weights_name = "denseCNN-20-lrS-ic-pre-act-single.h5"
 
 
 def main():
@@ -401,7 +400,7 @@ def main():
                 f = 30
             elif epoch < 20:
                 f = 10
-            elif epoch < 40:
+            elif epoch < 30:
                 f = 3
             else:
                 f = 1
@@ -412,7 +411,7 @@ def main():
             tensorboard_callback,
             # hp.KerasCallback(logdir, hparams),
             ReduceLROnPlateau(monitor='loss', patience=10, cooldown=1, factor=0.2, verbose=1, min_delta=0.0001),
-            LearningRateScheduler(scheduler)
+            LearningRateScheduler(schedule),
             EarlyStopping(monitor='loss', patience=30, verbose=1, restore_best_weights=True)
         ]
 
