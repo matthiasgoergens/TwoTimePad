@@ -240,12 +240,6 @@ def make_model(hparams):
             # Idea: re-use the output of this conv, too!  Add it.
             ], name="resnet{}".format(i))
 
-    def concat(l):
-        if len(l) == 1:
-            return l[0]
-        else:
-            return concatenate(l)
-
     random.seed(23)
     def sample2(pop):
         return pop[:]
@@ -349,6 +343,12 @@ def cat(a, b):
         return a
     else:
         return concatenate([a, b])
+def concat(l):
+    if len(l) == 1:
+        return l[0]
+    else:
+        return concatenate(l)
+
 
 def make_mode_global_local(hparams):
     ic = lambda: Sequential([
@@ -398,7 +398,7 @@ def make_mode_global_local(hparams):
 
     l, g = make_block(embedded)
 
-    last = cat(cat(l), g)
+    last = cat(concat(l), g)
     ## TODO: Idea for block design
     ## Bottleneck the state for the next block, but still pass the complete
     ## internal state of each bock onto the final pre-softmax layer.
