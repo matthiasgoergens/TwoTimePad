@@ -425,7 +425,7 @@ def main():
             checkpoint,
             tensorboard_callback,
             # hp.KerasCallback(logdir, hparams),
-            ReduceLROnPlateau(monitor='loss', patience=3, cooldown=10, factor=1/2, verbose=1, min_delta=0.0001),
+            ReduceLROnPlateau(monitor='loss', patience=3, cooldown=10, factor=1/2, verbose=1, min_delta=0.001),
             LearningRateScheduler(schedule),
             EarlyStopping(monitor='loss', patience=30, verbose=1, restore_best_weights=True)
         ]
