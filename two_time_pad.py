@@ -295,7 +295,7 @@ def make_model(hparams):
     def make_block(convedA, block):
         catA = convedA
 
-        for i, (_) in enumerate(20*[None]):
+        for i, (_) in enumerate(25*[None]):
             width = 1 + 2*random.randrange(5, 8)
             # width = 1 + 2 * 8
             # convedA_, convedB_= zip(*sample2(list(zip(convedAx, convedBx))))
@@ -330,6 +330,11 @@ def make_model(hparams):
             convedA = catAx
             # convedB = catBx
             break
+
+
+        ## TODO: Idea for block design
+        ## Bottleneck the state for the next block, but still pass the complete
+        ## internal state of each bock onto the final pre-softmax layer.
 
 
         # bottleneck = Conv1D(filters=4*46, kernel_size=1, padding='same')
@@ -372,7 +377,7 @@ hparams = {
     HP_resSize: 4 * 46,
 }
 
-weights_name = "denseCNN-20-lrS_slower-ic-pre-act-single-random.h5"
+weights_name = "denseCNN-25-lrS_slower-ic-pre-act-single-random-dropout-0p05.h5"
 
 
 def main():
