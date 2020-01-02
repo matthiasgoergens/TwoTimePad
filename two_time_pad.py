@@ -298,7 +298,7 @@ def make_model(hparams):
 
         for i, (_) in enumerate(25*[None]):
             width = 1 + 2*random.randrange(5, 8)
-            # width = 1 + 2 * 8
+            width = 1 + 2 * 8
             # convedA_, convedB_= zip(*sample2(list(zip(convedAx, convedBx))))
             # assert len(convedA_) == len(convedB_), (len(convedA_), len(convedB_))
             # catA = concatenate([*convedA_, *convedB_])
@@ -378,7 +378,7 @@ hparams = {
     HP_resSize: 4 * 46,
 }
 
-weights_name = "denseCNN-25-pre-relu.h5"
+weights_name = "denseCNN-25-pre-relu-all-wide.h5"
 
 
 def main():
