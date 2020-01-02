@@ -276,13 +276,13 @@ def make_model(hparams):
         return Sequential([
             Input(name="res_inputMe", shape=(n,channels,)),
 
-            relu(),
-            ic(),
             Conv1D(filters=4*size, kernel_size=1, padding='same'),
             relu(),
-
             ic(),
+
             Conv1D(filters=size, kernel_size=width, padding='same'),
+            relu(),
+            ic(),
             ], name="resnet{}".format(i))
 
 
@@ -377,7 +377,7 @@ hparams = {
     HP_resSize: 4 * 46,
 }
 
-weights_name = "denseCNN-25-lrS_slower-ic-pre-act-single-random-dropout-0p05-no-prof.h5"
+weights_name = "denseCNN-25-pre-empt.h5"
 
 
 def main():
@@ -400,29 +400,23 @@ def main():
         checkpoint = ModelCheckpoint('weights/'+weights_name, monitor='loss', verbose=1, save_best_only=True)
 
         def schedule(epoch):
-            learning_rate=0.001 / 2
-            startF = 20 * 2
-            steps = 40
+            endF = 0.2
+            startF = 10 / endF
+            steps = 50
+
+            learning_rate=0.001 * endF
 
             # As epoch goes from 0 to steps, startF goes from startF to 1
             sched = {steps-i: startF ** (i/steps) for i in reversed(range(1, steps+1))}
-            return learning_rate * sched.get(epoch, 1)
-
-            if epoch < 5:
-                f = 10
-            elif epoch < 20:
-                f = 3
-            elif epoch < 30:
-                f = 1
-            else:
-                f = 1/2
-            return learning_rate * f
+            lr = learning_rate * sched.get(epoch, 1)
+            print(f"Scheduled learning rate for epoch {epoch}: {lr}")
+            return lr
 
         callbacks_list = [
             checkpoint,
             tensorboard_callback,
             # hp.KerasCallback(logdir, hparams),
-            ReduceLROnPlateau(monitor='loss', patience=10, cooldown=1, factor=0.2, verbose=1, min_delta=0.0001),
+            ReduceLROnPlateau(monitor='loss', patience=3, cooldown=10, factor=1/2, verbose=1, min_delta=0.0001),
             LearningRateScheduler(schedule),
             EarlyStopping(monitor='loss', patience=30, verbose=1, restore_best_weights=True)
         ]
@@ -488,7 +482,7 @@ def main():
                     # initial_epoch=311,
                     # epochs=epoch+1,
                     # validation_split=0.1,
-                    validation_data=TwoTimePadSequence(l, 2*10 ** 3 // 32, mtext),
+                    # validation_data=TwoTimePadSequence(l, 2*10 ** 3 // 32, mtext),
                     epochs=100_000,
                     callbacks=callbacks_list,
                     # batch_size=batch_size,
