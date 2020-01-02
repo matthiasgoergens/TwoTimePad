@@ -11,7 +11,7 @@ from pprint import pprint
 import numpy as np
 import tensorflow as tf
 # import tensorflow_addons as tfa
-from tensorflow.keras.callbacks import ModelCheckpoint, TensorBoard, ReduceLROnPlateau, EarlyStopping
+from tensorflow.keras.callbacks import ModelCheckpoint, TensorBoard, ReduceLROnPlateau, EarlyStopping, LearningRateScheduler
 from tensorboard.plugins.hparams import api as hp
 from tensorflow import keras
 from tensorflow.keras.layers import (
@@ -297,6 +297,7 @@ def make_model(hparams):
 
         for i, (_) in enumerate(20*[None]):
             width = 1 + 2*random.randrange(5, 8)
+            width = 1 + 2 * 8
             # convedA_, convedB_= zip(*sample2(list(zip(convedAx, convedBx))))
             # assert len(convedA_) == len(convedB_), (len(convedA_), len(convedB_))
             # catA = concatenate([*convedA_, *convedB_])
@@ -305,6 +306,7 @@ def make_model(hparams):
             (_, _, num_channelsB) = catB.shape
             assert tuple(catA.shape) == tuple(catB.shape), (catA.shape, catB.shape)
             size = random.randrange(23, 2*46)
+            size = 2*46
             resNet = makeResNet(block*1000+i, num_channels, width, size)
 
 
@@ -356,7 +358,7 @@ def make_model(hparams):
 
     model = Model([inputA, inputB], [totes_clear, totes_key])
     # Learning rate increase like in Batch Normalization paper.
-    opt = tf.optimizers.Adam(learning_rate=0.001 * 10)
+    opt = tf.optimizers.Adam()
 
     model.compile(
         optimizer=opt, loss=tf.keras.losses.SparseCategoricalCrossentropy(from_logits=True), metrics=["accuracy"],
@@ -371,7 +373,7 @@ hparams = {
     HP_resSize: 4 * 46,
 }
 
-weights_name = "denseCNN-20-lr10-ic-b.h5"
+weights_name = "denseCNN-20-lrS-ic-pre-act.h5"
 
 
 def main():
@@ -393,12 +395,25 @@ def main():
 
         checkpoint = ModelCheckpoint('weights/'+weights_name, monitor='loss', verbose=1, save_best_only=True)
 
+        def schedule(epoch):
+            learning_rate=0.001
+            if epoch < 5:
+                f = 30
+            elif epoch < 20:
+                f = 10
+            elif epoch < 40:
+                f = 3
+            else:
+                f = 1
+            return learning_rate * f
+
         callbacks_list = [
             checkpoint,
             tensorboard_callback,
             # hp.KerasCallback(logdir, hparams),
-            ReduceLROnPlateau(monitor='loss', patience=2, cooldown=1, factor=0.5, verbose=1, min_delta=0.0001),
-            EarlyStopping(monitor='loss', patience=20, verbose=1, restore_best_weights=True)
+            ReduceLROnPlateau(monitor='loss', patience=10, cooldown=1, factor=0.2, verbose=1, min_delta=0.0001),
+            LearningRateScheduler(scheduler)
+            EarlyStopping(monitor='loss', patience=30, verbose=1, restore_best_weights=True)
         ]
 
         with tf.summary.create_file_writer("logs/scalars").as_default():
