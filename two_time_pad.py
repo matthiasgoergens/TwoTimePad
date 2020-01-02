@@ -302,9 +302,9 @@ def make_model(hparams):
     def make_block(convedA, block):
         convedAx = [convedA]
 
-        for i, (_) in enumerate(25*[None]):
-            width = 1 + 2*random.randrange(5, 8)
-            width = 1 + 2 * 8
+        for i, (_) in enumerate(10*[None]):
+            width = 1 + 2*random.randrange(2, 7)
+            # width = 1 + 2 * 8
             catA = concat(sample2(convedAx))
 
             # convedA_, convedB_= zip(*sample2(list(zip(convedAx, convedBx))))
@@ -315,7 +315,7 @@ def make_model(hparams):
             # (_, _, num_channelsB) = catB.shape
             # assert tuple(catA.shape) == tuple(catB.shape), (catA.shape, catB.shape)
             size = random.randrange(23, 2*46)
-            # size = 2*46
+            size = 4*46
             resNet = makeResNet(block*1000+i, num_channels, width, size)
 
             resA = resNet(catA)
@@ -367,10 +367,9 @@ def make_model(hparams):
     ], name=name)
     totes_clear = make_end('clear')(convedA)
     # Idea: Try a virtual totes_key, derived from totes_clear by a shift depending on cipher-text.
-    totes_key = make_end('key')(convedA)
+    # totes_key = make_end('key')(convedA)
 
     model = Model([inputA], [totes_clear])
-    # Learning rate increase like in Batch Normalization paper.
     opt = tf.optimizers.Adam()
 
     model.compile(
@@ -386,7 +385,7 @@ hparams = {
     HP_resSize: 4 * 46,
 }
 
-weights_name = "denseCNN-25-pre-relu-ic-dense-no_dropout-single.h5"
+weights_name = "denseCNN-recreate-recreate.h5"
 
 
 def main():
