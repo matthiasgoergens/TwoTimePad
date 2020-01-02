@@ -286,19 +286,25 @@ def make_model(hparams):
             Conv1D(filters=size, kernel_size=width, padding='same'),
             ], name="resnet{}".format(i))
 
+    def concat(l):
+        if len(l) == 1:
+            return l[0]
+        else:
+            return concatenate(l)
 
     random.seed(23)
     def sample2(pop):
-        return pop
-        div = 3
+        div = 2
         return random.sample(list(pop), (len(pop) + div - 1) // div)
 
     def make_block(convedA, block):
-        catA = convedA
+        convedAx = [convedA]
 
         for i, (_) in enumerate(25*[None]):
             width = 1 + 2*random.randrange(5, 8)
             width = 1 + 2 * 8
+            catA = concat(sample2(convedAx))
+
             # convedA_, convedB_= zip(*sample2(list(zip(convedAx, convedBx))))
             # assert len(convedA_) == len(convedB_), (len(convedA_), len(convedB_))
             # catA = concatenate([*convedA_, *convedB_])
@@ -312,12 +318,12 @@ def make_model(hparams):
 
 
             resA = resNet(catA)
-            catA = concatenate([catA, resA])
+            convedAx.append(resA)
 
             # assert len(convedAx) == len(convedBx), (len(convedAx), len(convedBx))
             # for j, (a, b) in enumerate(zip(convedAx, convedBx)):
             #     assert tuple(a.shape) == tuple(b.shape), (block, i, j, a.shape, b.shape)
-        return catA
+        return concat(convedAx)
 
     convedA = embeddedA
     for block in range(1):
@@ -353,13 +359,13 @@ def make_model(hparams):
     #         Add()([convedA, c(lstm(concatenate([convedA, convedB])))]),
     #         Add()([convedB, c(lstm(concatenate([convedB, convedA])))]))
 
-    make_end = lambda : Sequential([
-#        relu(),
+    make_end = lambda name : Sequential([
+        relu(),
         ic(),
         Conv1D(name="output", filters=46, kernel_size=1, padding="same", strides=1, dtype='float32'),
-    ])
-    totes_clear = make_end()(convedA)
-    totes_key = make_end()(convedA)
+    ], name=name)
+    totes_clear = make_end('clear')(convedA)
+    totes_key = make_end('key')(convedA)
 
     model = Model([inputA], [totes_clear, totes_key])
     # Learning rate increase like in Batch Normalization paper.
@@ -378,7 +384,7 @@ hparams = {
     HP_resSize: 4 * 46,
 }
 
-weights_name = "denseCNN-25-pre-relu-ic-_only_ic_at_end.h5"
+weights_name = "denseCNN-25-pre-relu-ic-sample_dense.h5"
 
 
 def main():
