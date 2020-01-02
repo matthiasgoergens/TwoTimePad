@@ -405,12 +405,14 @@ def main():
             startF = 10 / endF
             steps = 50
 
-            learning_rate=0.001 * endF
+            default = 0.001
+            learning_rate= default * endF
+
 
             # As epoch goes from 0 to steps, startF goes from startF to 1
             sched = {steps-i: startF ** (i/steps) for i in reversed(range(1, steps+1))}
             lr = learning_rate * sched.get(epoch, 1)
-            print(f"Scheduled learning rate for epoch {epoch}: {lr}")
+            print(f"Scheduled learning rate for epoch {epoch}: {default} * {lr/default}")
             return lr
 
         callbacks_list = [
