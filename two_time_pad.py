@@ -477,14 +477,14 @@ def main():
             )
 
         try:
-            model = make_model(hparams)
+            model = make_mode_global_local(hparams)
             model.load_weights('weights/'+weights_name)
         except:
             try:
                 model = keras.models.load_model('weights/'+weights_name)
                 print("Loaded weights.")
             except:
-                model = make_model(hparams)
+                model = make_mode_global_local(hparams)
                 model.summary()
                 print("Failed to load weights.")
                 # raise
