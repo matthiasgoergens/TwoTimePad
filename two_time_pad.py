@@ -276,13 +276,14 @@ def make_model(hparams):
         return Sequential([
             Input(name="res_inputMe", shape=(n,channels,)),
 
+            relu(),
+            ic(),
+
             Conv1D(filters=4*size, kernel_size=1, padding='same'),
             relu(),
             ic(),
 
             Conv1D(filters=size, kernel_size=width, padding='same'),
-            relu(),
-            ic(),
             ], name="resnet{}".format(i))
 
 
@@ -377,7 +378,7 @@ hparams = {
     HP_resSize: 4 * 46,
 }
 
-weights_name = "denseCNN-25-pre-empt.h5"
+weights_name = "denseCNN-25-pre-relu.h5"
 
 
 def main():
