@@ -366,6 +366,7 @@ def make_model(hparams):
         Conv1D(name="output", filters=46, kernel_size=1, padding="same", strides=1, dtype='float32'),
     ], name=name)
     totes_clear = make_end('clear')(convedA)
+    # Idea: Try a virtual totes_key, derived from totes_clear by a shift depending on cipher-text.
     totes_key = make_end('key')(convedA)
 
     model = Model([inputA], [totes_clear])
