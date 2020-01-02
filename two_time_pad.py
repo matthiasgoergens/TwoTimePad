@@ -371,13 +371,13 @@ def make_model(hparams):
 
 l = 100
 hparams = {
-    HP_DROPOUT: 0.0,
+    HP_DROPOUT: 0.05,
     HP_HEIGHT: 50,
     HP_WINDOW: l,
     HP_resSize: 4 * 46,
 }
 
-weights_name = "denseCNN-25-lrS_slower-ic-pre-act-single-random-dropout-0.h5"
+weights_name = "denseCNN-25-lrS_slower-ic-pre-act-single-random-dropout-0p05-no-prof.h5"
 
 
 def main():
