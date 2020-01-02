@@ -212,7 +212,7 @@ class TwoTimePadSequence(keras.utils.Sequence):
             return self.__getitem__(idx)
         else:
             # return (self.cipherA[i, :, :], self.cipherB[i, :, :]), (self.aa[i, :, :], self.bb[i, :, :])
-            return (self.cipherA[i, :, :], ), (self.aa[i, :, :],)
+            return (self.cipherA[i, :, :], ), (self.aa[i, :, :], self.bb[i, :, :])
 
     def __init__(self, window, training_size, mtext):
         self.a = make1(window, mtext)
@@ -353,15 +353,15 @@ def make_model(hparams):
     #         Add()([convedA, c(lstm(concatenate([convedA, convedB])))]),
     #         Add()([convedB, c(lstm(concatenate([convedB, convedA])))]))
 
-    make_end = Sequential([
+    make_end = lambda : Sequential([
         relu(),
         ic(),
         Conv1D(name="output", filters=46, kernel_size=1, padding="same", strides=1, dtype='float32'),
     ])
-    totes_clear = make_end(convedA)
-    # totes_key = make_end(convedB)
+    totes_clear = make_end()(convedA)
+    totes_key = make_end()(convedB)
 
-    model = Model([inputA], [totes_clear])
+    model = Model([inputA], [totes_clear, totes_key])
     # Learning rate increase like in Batch Normalization paper.
     opt = tf.optimizers.Adam()
 
@@ -378,7 +378,7 @@ hparams = {
     HP_resSize: 4 * 46,
 }
 
-weights_name = "denseCNN-25-pre-relu-all-wide.h5"
+weights_name = "denseCNN-25-pre-relu-both.h5"
 
 
 def main():
