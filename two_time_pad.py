@@ -297,7 +297,7 @@ def make_model(hparams):
 
         for i, (_) in enumerate(20*[None]):
             width = 1 + 2*random.randrange(5, 8)
-            width = 1 + 2 * 8
+            # width = 1 + 2 * 8
             # convedA_, convedB_= zip(*sample2(list(zip(convedAx, convedBx))))
             # assert len(convedA_) == len(convedB_), (len(convedA_), len(convedB_))
             # catA = concatenate([*convedA_, *convedB_])
