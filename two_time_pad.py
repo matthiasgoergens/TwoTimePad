@@ -355,7 +355,7 @@ def make_model(hparams):
 
     make_end = lambda : Sequential([
 #        relu(),
-#        ic(),
+        ic(),
         Conv1D(name="output", filters=46, kernel_size=1, padding="same", strides=1, dtype='float32'),
     ])
     totes_clear = make_end()(convedA)
@@ -378,7 +378,7 @@ hparams = {
     HP_resSize: 4 * 46,
 }
 
-weights_name = "denseCNN-25-pre-relu-ic-not-at-end-both.h5"
+weights_name = "denseCNN-25-pre-relu-ic-_only_ic_at_end.h5"
 
 
 def main():
