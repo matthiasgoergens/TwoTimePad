@@ -294,6 +294,7 @@ def make_model(hparams):
 
     random.seed(23)
     def sample2(pop):
+        return pop
         div = 2
         return random.sample(list(pop), (len(pop) + div - 1) // div)
 
@@ -378,13 +379,13 @@ def make_model(hparams):
 
 l = 100
 hparams = {
-    HP_DROPOUT: 0.05,
+    HP_DROPOUT: 0.0,
     HP_HEIGHT: 50,
     HP_WINDOW: l,
     HP_resSize: 4 * 46,
 }
 
-weights_name = "denseCNN-25-pre-relu-ic-sample_dense.h5"
+weights_name = "denseCNN-25-pre-relu-ic-dense-no_dropout.h5"
 
 
 def main():
