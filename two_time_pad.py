@@ -372,7 +372,7 @@ hparams = {
     HP_resSize: 4 * 46,
 }
 
-weights_name = "denseCNN-20-lrS_slower-ic-pre-act-single.h5"
+weights_name = "denseCNN-20-lrS_slower-ic-pre-act-single-random.h5"
 
 
 def main():
