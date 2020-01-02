@@ -363,8 +363,8 @@ def make_mode_global_local(hparams):
     embedded = Embedding(output_dim=len(alpha), input_length=n, input_dim=len(alpha), name="my_embedding", batch_input_shape=[batch_size, n],)(input)
 
     def make_block(global_state):
-        width = 1 + 2 * 5
-        local_dims = 2*46
+        width = 1 + 2 * 8
+        local_dims = 4*46
         more_global = 23
 
         num_layers = height
@@ -381,7 +381,7 @@ def make_mode_global_local(hparams):
             shapeIt = Sequential([
                 relu(),
                 ic(),
-                Conv1D(filters=local_dims//2 + 4*more_global, kernel_size=1, padding='same'),
+                Conv1D(filters=local_dims + 4*more_global, kernel_size=1, padding='same'),
             ])(cat(local_state, global_state))
 
             post_conv1 = plus(post_conv1, shapeIt)
@@ -428,7 +428,7 @@ hparams = {
     HP_resSize: 4 * 46,
 }
 
-weights_name = "glocal-20-thick_-all-local.h5"
+weights_name = "glocal-20-thicker.h5"
 
 
 def main():
