@@ -306,7 +306,7 @@ def make_model(hparams):
             # (_, _, num_channelsB) = catB.shape
             # assert tuple(catA.shape) == tuple(catB.shape), (catA.shape, catB.shape)
             size = random.randrange(23, 2*46)
-            size = 2*46
+            # size = 2*46
             resNet = makeResNet(block*1000+i, num_channels, width, size)
 
 
@@ -372,7 +372,7 @@ hparams = {
     HP_resSize: 4 * 46,
 }
 
-weights_name = "denseCNN-20-lrS-ic-pre-act-single.h5"
+weights_name = "denseCNN-20-lrS_slower-ic-pre-act-single.h5"
 
 
 def main():
@@ -395,15 +395,22 @@ def main():
         checkpoint = ModelCheckpoint('weights/'+weights_name, monitor='loss', verbose=1, save_best_only=True)
 
         def schedule(epoch):
-            learning_rate=0.001
+            learning_rate=0.001 / 2
+            startF = 20 * 2
+            steps = 40
+
+            # As epoch goes from 0 to steps, startF goes from startF to 1
+            sched = {steps-i: startF ** (i/steps) for i in reversed(range(1, steps+1))}
+            return learning_rate * sched.get(epoch, 1)
+
             if epoch < 5:
-                f = 30
-            elif epoch < 20:
                 f = 10
-            elif epoch < 30:
+            elif epoch < 20:
                 f = 3
-            else:
+            elif epoch < 30:
                 f = 1
+            else:
+                f = 1/2
             return learning_rate * f
 
         callbacks_list = [
