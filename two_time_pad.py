@@ -294,7 +294,7 @@ def make_model(hparams):
 
     random.seed(23)
     def sample2(pop):
-        return pop
+        return pop[:]
         div = 2
         return random.sample(list(pop), (len(pop) + div - 1) // div)
 
@@ -316,7 +316,6 @@ def make_model(hparams):
             size = random.randrange(23, 2*46)
             # size = 2*46
             resNet = makeResNet(block*1000+i, num_channels, width, size)
-
 
             resA = resNet(catA)
             convedAx.append(resA)
