@@ -365,7 +365,7 @@ def make_mode_global_local(hparams):
 
     def make_block(globalA, globalB):
         width = 1 + 2 * 8
-        local_dims = 4*46
+        local_dims = 2*46
         more_global = 23
 
         num_layers = height
