@@ -241,18 +241,22 @@ def make_model_simple(hparams):
             input)
 
     conved = embedded
+
+    outputs = conved
     for i in range(height):
-        conved = plus(conved, Sequential([
+        convedNew = Sequential([
             Maxout(base),
             ic(),
             Conv1D(filters=blowup * base, kernel_size=9, padding='same', kernel_initializer=msra),
-            ])(conved))
+            ])(conved)
+        outputs = cat(outputs, convedNew)
+        conved = plus(conved, convedNew)
     make_end = Sequential([
         Maxout(46),
         ic(),
         Conv1D(name="output", filters=46, kernel_size=1, padding="same", strides=1, dtype='float32', kernel_initializer=msra),
     ], name='clear')
-    clear = make_end(conved)
+    clear = make_end(cat(outputs, conved))
     model = Model([input], [clear])
 
     model.compile(
@@ -384,7 +388,7 @@ hparams = {
     HP_resSize: 4 * 46,
 }
 
-weights_name = "zmpl-res.h5"
+weights_name = "zmpl-res__direct-to-output.h5"
 
 make_model = make_model_simple
 
