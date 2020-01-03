@@ -233,14 +233,18 @@ def make_model_simple(hparams):
     ])
     sd = lambda: SpatialDropout1D(rate=hparams[HP_DROPOUT])
 
-    input = Input(shape=(n,), name="ciphertextA", dtype='int32')
-    base = 3 * 46
-    blowup = 6
-    embedded = Embedding(
-        output_dim=blowup * base, input_length=n, input_dim=len(alpha), name="my_embedding", batch_input_shape=[batch_size, n],)(
-            input)
+    inputA = Input(shape=(n,), name="ciphertextA", dtype='int32')
+    inputB = Input(shape=(n,), name="ciphertextB", dtype='int32')
+    base = 4 * 46
+    blowup = 2
+    embeddedA = Embedding(
+        output_dim=blowup * base//2, input_length=n, input_dim=len(alpha), name="embeddingA", batch_input_shape=[batch_size, n],)(
+            inputA)
+    embeddedB = Embedding(
+        output_dim=blowup * base//2, input_length=n, input_dim=len(alpha), name="embeddingB", batch_input_shape=[batch_size, n],)(
+            inputB)
 
-    conved = embedded
+    conved = cat(embeddedA, embeddedB)
     outputs = None
     for i in range(height):
         outputs = cat(outputs, conved)
@@ -249,17 +253,19 @@ def make_model_simple(hparams):
             ic(),
             Conv1D(filters=blowup * base, kernel_size=9, padding='same', kernel_initializer=msra),
             ])(conved))
-    make_end = Sequential([
+    make_end = lambda name: Sequential([
         Maxout(base),
         ic(),
         Conv1D(name="output", filters=46, kernel_size=1, padding="same", strides=1, dtype='float32', kernel_initializer=msra),
-    ], name='clear')
-    clear = make_end(cat(outputs, conved))
-    model = Model([input], [clear])
+    ], name=name)
+    clear = make_end('clear')(cat(outputs, conved))
+    key = make_end('key')(cat(outputs, conved))
+    model = Model([inputA, inputB], [clear, key])
 
     model.compile(
         optimizer=tf.optimizers.Adam(),
         loss=tf.keras.losses.SparseCategoricalCrossentropy(from_logits=True),
+        loss_weights=(1/2, 1/2),
         metrics=[nAccuracy],
     )
     return model
@@ -381,12 +387,12 @@ def make_model_global_local(hparams):
 l = 100
 hparams = {
     HP_DROPOUT: 0.0,
-    HP_HEIGHT: 5,
+    HP_HEIGHT: 10,
     HP_WINDOW: l,
     HP_resSize: 4 * 46,
 }
 
-weights_name = "zimpl-5-blow6-base3-no-drop.h5"
+weights_name = "zimpl-10-blow2-base3-no-drop.h5"
 
 make_model = make_model_simple
 
@@ -487,14 +493,14 @@ def main():
         if True:
             try:
                 model.fit(
-                    x=TwoTimePadSequence(l, 10 ** 4 // 16, mtext, both=False),
+                    x=TwoTimePadSequence(l, 10 ** 4 // 16, mtext, both=True),
                     # x = x, y = y,
                     # steps_per_epoch=10 ** 4 // 32,
                     max_queue_size=10**3,
                     # initial_epoch=311,
                     # epochs=epoch+1,
                     # validation_split=0.1,
-                    validation_data=TwoTimePadSequence(l, 2*10 ** 3 // 32, mtext, both=False),
+                    validation_data=TwoTimePadSequence(l, 2*10 ** 3 // 32, mtext, both=True),
                     epochs=100_000,
                     callbacks=callbacks_list,
                     # batch_size=batch_size,
