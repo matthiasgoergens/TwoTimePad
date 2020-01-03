@@ -227,28 +227,29 @@ msra = tf.initializers.VarianceScaling(scale=2.0, distribution='truncated_normal
 def make_model_simple(hparams):
     n = hparams[HP_WINDOW]
     height = hparams[HP_HEIGHT]
-    # ic = lambda: Sequential([
-    #     BatchNormalization(),
-    #     SpatialDropout1D(rate=hparams[HP_DROPOUT]),
-    # ])
+    ic = lambda: Sequential([
+        BatchNormalization(),
+        SpatialDropout1D(rate=hparams[HP_DROPOUT]),
+    ])
     sd = lambda: SpatialDropout1D(rate=hparams[HP_DROPOUT])
 
     input = Input(shape=(n,), name="ciphertextA", dtype='int32')
     base = 2 * 46
+    blowup = 3
     embedded = Embedding(
-        output_dim=base, input_length=n, input_dim=len(alpha), name="my_embedding", batch_input_shape=[batch_size, n],)(
+        output_dim=blowup * base, input_length=n, input_dim=len(alpha), name="my_embedding", batch_input_shape=[batch_size, n],)(
             input)
 
     conved = embedded
     for i in range(height):
         conved = plus(conved, Sequential([
-            Conv1D(filters=3 * base, kernel_size=9, padding='same', kernel_initializer=msra),
-            sd(),
             Maxout(base),
+            ic(),
+            Conv1D(filters=blowup * base, kernel_size=9, padding='same', kernel_initializer=msra),
             ])(conved))
     make_end = Sequential([
-        sd(),
         Maxout(46),
+        ic(),
         Conv1D(name="output", filters=46, kernel_size=1, padding="same", strides=1, dtype='float32', kernel_initializer=msra),
     ], name='clear')
     clear = make_end(conved)
@@ -383,7 +384,7 @@ hparams = {
     HP_resSize: 4 * 46,
 }
 
-weights_name = "zmpl.h5"
+weights_name = "zmpl-res.h5"
 
 make_model = make_model_simple
 
