@@ -380,13 +380,13 @@ def make_model_global_local(hparams):
 
 l = 100
 hparams = {
-    HP_DROPOUT: 0.5,
+    HP_DROPOUT: 0.0,
     HP_HEIGHT: 10,
     HP_WINDOW: l,
     HP_resSize: 4 * 46,
 }
 
-weights_name = "zimpl-10-res-direct__blow-6.h5"
+weights_name = "zimpl-10-blow6-no-drop.h5"
 
 make_model = make_model_simple
 
