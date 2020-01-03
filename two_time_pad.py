@@ -264,7 +264,7 @@ def make_model_simple(hparams):
     model = Model([inputA], [clear])
 
     model.compile(
-        optimizer=tf.optimizers.Adam(learning_rate=0.001*10),
+        optimizer=tf.optimizers.Adam(learning_rate=0.001),
         loss=tf.keras.losses.SparseCategoricalCrossentropy(from_logits=True),
         # loss_weights={'clear': 1/2, 'key': 1/2},
         metrics=[nAccuracy],
@@ -279,7 +279,7 @@ hparams = {
     HP_resSize: 4 * 46,
 }
 
-weights_name = "zimpl-10-blow4-base4-shorten-dropout.h5"
+weights_name = "zimpl-10-blow4-base4-shorten-dropout-learn-normal.h5"
 
 make_model = make_model_simple
 
