@@ -234,8 +234,8 @@ def make_model_simple(hparams):
     sd = lambda: SpatialDropout1D(rate=hparams[HP_DROPOUT])
 
     input = Input(shape=(n,), name="ciphertextA", dtype='int32')
-    base = 2 * 46
-    blowup = 6
+    base = 3 * 46
+    blowup = 3
     embedded = Embedding(
         output_dim=blowup * base, input_length=n, input_dim=len(alpha), name="my_embedding", batch_input_shape=[batch_size, n],)(
             input)
@@ -386,7 +386,7 @@ hparams = {
     HP_resSize: 4 * 46,
 }
 
-weights_name = "zimpl-10-blow6-no-drop.h5"
+weights_name = "zimpl-10-blow3-base3-no-drop.h5"
 
 make_model = make_model_simple
 
