@@ -24,6 +24,7 @@ from tensorflow.keras.layers import (
     Dropout,
     Embedding,
     Flatten,
+    GaussianDropout,
     GlobalMaxPooling1D,
     Input,
     MaxPooling1D,
@@ -229,7 +230,8 @@ def make_model_simple(hparams):
     height = hparams[HP_HEIGHT]
     ic = lambda: Sequential([
         BatchNormalization(),
-        SpatialDropout1D(rate=hparams[HP_DROPOUT]),
+        # SpatialDropout1D(rate=hparams[HP_DROPOUT]),
+        TimeDistributed(GaussianDropout(rate=hparams[HP_DROPOUT])),
     ])
     sd = lambda: SpatialDropout1D(rate=hparams[HP_DROPOUT])
 
@@ -384,7 +386,7 @@ hparams = {
     HP_resSize: 4 * 46,
 }
 
-weights_name = "zmpl-res.h5"
+weights_name = "zmpl-res-gauss.h5"
 
 make_model = make_model_simple
 
