@@ -235,7 +235,7 @@ def make_model_simple(hparams):
 
     input = Input(shape=(n,), name="ciphertextA", dtype='int32')
     base = 3 * 46
-    blowup = 2
+    blowup = 6
     embedded = Embedding(
         output_dim=blowup * base, input_length=n, input_dim=len(alpha), name="my_embedding", batch_input_shape=[batch_size, n],)(
             input)
@@ -381,12 +381,12 @@ def make_model_global_local(hparams):
 l = 100
 hparams = {
     HP_DROPOUT: 0.0,
-    HP_HEIGHT: 10,
+    HP_HEIGHT: 5,
     HP_WINDOW: l,
     HP_resSize: 4 * 46,
 }
 
-weights_name = "zimpl-10-blow2-base3-no-drop.h5"
+weights_name = "zimpl-5-blow6-base3-no-drop.h5"
 
 make_model = make_model_simple
 
