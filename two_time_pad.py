@@ -410,6 +410,11 @@ def make_model_global_local(hparams):
                 plus(post_icB, icR(post_reluB)),
             )
 
+            # Idea: could cat A and B before feeding to the last two convs.
+            # But would take more parameters.  (But symmetric.)
+            # But could make up for this with fewer local_dims..
+            # Idea: could also feed either new local state to new global state,
+            # or vice versa.  But losing parallelism then.
             conv5 = Conv1D(filters=local_dims,  kernel_size=width, padding='same')
             localA, localB = (
                 plus(localA,  conv5(post_icA)),
