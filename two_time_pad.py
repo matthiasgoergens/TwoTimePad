@@ -364,7 +364,7 @@ def make_mode_global_local(hparams):
     embeddedB = embedding(inputB)
 
     def make_block(globalA, globalB):
-        width = 1 + 2 * 8
+        width = 1 + 2 * 3
         local_dims = 2*46
         more_global = 23
 
@@ -453,12 +453,12 @@ def make_mode_global_local(hparams):
 l = 100
 hparams = {
     HP_DROPOUT: 0.0,
-    HP_HEIGHT: 10,
+    HP_HEIGHT: 15,
     HP_WINDOW: l,
     HP_resSize: 4 * 46,
 }
 
-weights_name = "glocal-10-both.h5"
+weights_name = "glocal-15-both-7_wide.h5"
 
 
 def main():
