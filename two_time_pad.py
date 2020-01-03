@@ -235,7 +235,7 @@ def make_model_simple(hparams):
 
     input = Input(shape=(n,), name="ciphertextA", dtype='int32')
     base = 2 * 46
-    blowup = 3
+    blowup = 6
     embedded = Embedding(
         output_dim=blowup * base, input_length=n, input_dim=len(alpha), name="my_embedding", batch_input_shape=[batch_size, n],)(
             input)
@@ -386,7 +386,7 @@ hparams = {
     HP_resSize: 4 * 46,
 }
 
-weights_name = "zmpl-res__direct-to-output__bigger-final.h5"
+weights_name = "zimpl-res-direct__blow-6.h5"
 
 make_model = make_model_simple
 
