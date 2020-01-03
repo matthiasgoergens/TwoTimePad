@@ -385,6 +385,7 @@ def make_model_global_local(hparams):
             shapeIt = Sequential([
                 # Idea: also investigate flipping relu and ic (both here and further down.)
                 ic(),
+                # Idea: look into maxout.
                 relu(),
                 Conv1D(filters=local_dims + 2*more_global, kernel_size=1, padding='same'),
             ])
