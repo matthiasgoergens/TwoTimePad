@@ -346,7 +346,7 @@ def cat(a, b):
     else:
         return concatenate([a, b])
 
-def make_mode_global_local(hparams):
+def make_model_global_local(hparams):
     ic = lambda: Sequential([
         BatchNormalization(),
         SpatialDropout1D(rate=hparams[HP_DROPOUT]),
@@ -363,8 +363,10 @@ def make_mode_global_local(hparams):
     embeddedA = embedding(inputA)
     embeddedB = embedding(inputB)
 
+    random.seed(23)
     def make_block(globalA, globalB):
         width = 1 + 2 * 3
+        width = 1 + 2 * random.randrange(1, 5)
         local_dims = 2*46
         more_global = 23
 
@@ -458,7 +460,7 @@ hparams = {
     HP_resSize: 4 * 46,
 }
 
-weights_name = "glocal-15-both-7_wide.h5"
+weights_name = "glocal-15-both-rand_3_11__wide.h5"
 
 
 def main():
@@ -510,7 +512,7 @@ def main():
             )
 
         try:
-            model = make_mode_global_local(hparams)
+            model = make_model_global_local(hparams)
             model.load_weights('weights/'+weights_name)
         except:
             try:
