@@ -234,17 +234,15 @@ def make_model_simple(hparams):
     sd = lambda: SpatialDropout1D(rate=hparams[HP_DROPOUT])
 
     inputA = Input(shape=(n,), name="ciphertextA", dtype='int32')
-    inputB = Input(shape=(n,), name="ciphertextB", dtype='int32')
+    # inputB = Input(shape=(n,), name="ciphertextB", dtype='int32')
     base = 4 * 46
     blowup = 2
     embeddedA = Embedding(
-        output_dim=blowup * base//2, input_length=n, input_dim=len(alpha), name="embeddingA", batch_input_shape=[batch_size, n],)(
+        output_dim=blowup * base, input_length=n, input_dim=len(alpha), name="embeddingA", batch_input_shape=[batch_size, n],)(
             inputA)
-    embeddedB = Embedding(
-        output_dim=blowup * base//2, input_length=n, input_dim=len(alpha), name="embeddingB", batch_input_shape=[batch_size, n],)(
-            inputB)
 
-    conved = cat(embeddedA, embeddedB)
+    # Idea: Start first res from ic() or conv.
+    conved = embeddedA
     outputs = None
     for i in range(height):
         outputs = cat(outputs, conved)
@@ -259,13 +257,13 @@ def make_model_simple(hparams):
         Conv1D(name="output", filters=46, kernel_size=1, padding="same", strides=1, dtype='float32', kernel_initializer=msra),
     ], name=name)
     clear = make_end('clear')(cat(outputs, conved))
-    key = make_end('key')(cat(outputs, conved))
-    model = Model([inputA, inputB], [clear, key])
+    # key = make_end('key')(cat(outputs, conved))
+    model = Model([inputA], [clear])
 
     model.compile(
         optimizer=tf.optimizers.Adam(),
         loss=tf.keras.losses.SparseCategoricalCrossentropy(from_logits=True),
-        loss_weights={'clear': 1/2, 'key': 1/2},
+        # loss_weights={'clear': 1/2, 'key': 1/2},
         metrics=[nAccuracy],
     )
     return model
@@ -392,7 +390,7 @@ hparams = {
     HP_resSize: 4 * 46,
 }
 
-weights_name = "zimpl-10-blow2-base3-no-drop__both.h5"
+weights_name = "zimpl-10-blow2-base3-no-drop__single.h5"
 
 make_model = make_model_simple
 
@@ -493,14 +491,14 @@ def main():
         if True:
             try:
                 model.fit(
-                    x=TwoTimePadSequence(l, 10 ** 4 // 16, mtext, both=True),
+                    x=TwoTimePadSequence(l, 10 ** 4 // 16, mtext, both=False),
                     # x = x, y = y,
                     # steps_per_epoch=10 ** 4 // 32,
                     max_queue_size=10**3,
                     # initial_epoch=311,
                     # epochs=epoch+1,
                     # validation_split=0.1,
-                    validation_data=TwoTimePadSequence(l, 2*10 ** 3 // 32, mtext, both=True),
+                    validation_data=TwoTimePadSequence(l, 2*10 ** 3 // 32, mtext, both=False),
                     epochs=100_000,
                     callbacks=callbacks_list,
                     # batch_size=batch_size,
