@@ -493,7 +493,7 @@ def main():
                     # initial_epoch=311,
                     # epochs=epoch+1,
                     # validation_split=0.1,
-                    # validation_data=TwoTimePadSequence(l, 2*10 ** 3 // 32, mtext),
+                    validation_data=TwoTimePadSequence(l, 2*10 ** 3 // 32, mtext, both=False),
                     epochs=100_000,
                     callbacks=callbacks_list,
                     # batch_size=batch_size,
