@@ -33,6 +33,7 @@ from tensorflow.keras.layers import (
     SpatialDropout1D,
     TimeDistributed,
     concatenate,
+    Layer,
 )
 from tensorflow.keras.models import Model, Sequential
 # from tensorflow_addons.layers import Maxout, Sparsemax
@@ -161,9 +162,9 @@ class TwoTimePadSequence(keras.utils.Sequence):
             self._load()
             return self.__getitem__(idx)
         else:
-            # return (self.cipherA[i, :, :], self.cipherB[i, :, :]), (self.aa[i, :, :], self.bb[i, :, :])
+            return (self.cipherA[i, :, :], self.cipherB[i, :, :]), (self.aa[i, :, :], self.bb[i, :, :])
             # return (self.cipherA[i, :, :], ), (self.aa[i, :, :], self.bb[i, :, :])
-            return (self.cipherA[i, :, :], ), (self.aa[i, :, :],)
+            # return (self.cipherA[i, :, :], ), (self.aa[i, :, :],)
 
     def __init__(self, window, training_size, mtext):
         self.a = make1(window, mtext)
@@ -332,6 +333,7 @@ def plus(a, b):
     else:
         return Add()([a, b])
 def concat(l):
+    l = [item for item in l if item is not None]
     if len(l) == 1:
         return l[0]
     else:
@@ -343,12 +345,6 @@ def cat(a, b):
         return a
     else:
         return concatenate([a, b])
-def concat(l):
-    if len(l) == 1:
-        return l[0]
-    else:
-        return concatenate(l)
-
 
 def make_mode_global_local(hparams):
     ic = lambda: Sequential([
@@ -359,60 +355,94 @@ def make_mode_global_local(hparams):
     n = hparams[HP_WINDOW]
     height = hparams[HP_HEIGHT]
 
-    input = Input(shape=(n,), name="ciphertextA", dtype='int32')
-    embedded = Embedding(output_dim=len(alpha), input_length=n, input_dim=len(alpha), name="my_embedding", batch_input_shape=[batch_size, n],)(input)
+    inputA = Input(shape=(n,), name="ciphertextA")
+    inputB = Input(shape=(n,), name="ciphertextB")
+    embedding = Embedding(
+        output_dim=len(alpha), input_length=n, input_dim=len(alpha), name="my_embedding", batch_input_shape=[batch_size, n],)
 
-    def make_block(global_state):
+    embeddedA = embedding(inputA)
+    embeddedB = embedding(inputB)
+
+    def make_block(globalA, globalB):
         width = 1 + 2 * 8
         local_dims = 4*46
         more_global = 23
 
         num_layers = height
 
-        post_conv1 = None
-        post_relu = None
-        post_ic = None
+        post_conv1A, post_conv1B = None, None
+        post_reluA, post_reluB = None, None
+        post_icA, post_icB = None, None
 
         # Idea: keep track of local states and feed them into final layer, too.
-        local_state = None
-        local_states = []
+        localA, localB = None, None
+        localsA, localsB = [], []
 
         for i in range(num_layers):
             shapeIt = Sequential([
                 relu(),
                 ic(),
                 Conv1D(filters=local_dims + 4*more_global, kernel_size=1, padding='same'),
-            ])(cat(local_state, global_state))
+            ])
 
-            post_conv1 = plus(post_conv1, shapeIt)
-            post_relu = plus(post_relu, relu()(post_conv1))
-            post_ic = plus(post_ic, ic()(post_relu))
+            shapeItA, shapeItB = (
+                shapeIt(concat([localA, localB, globalA, globalB])),
+                shapeIt(concat([localB, localA, globalB, globalA])),
+            )
 
+            post_conv1A, post_conv1B = (
+                plus(post_conv1A, shapeItA),
+                plus(post_conv1B, shapeItB),
+            )
 
-            local_state = plus(local_state,  Conv1D(filters=local_dims,  kernel_size=width, padding='same')(post_ic))
-            local_states.append(local_state)
-            global_state = cat(global_state, Conv1D(filters=more_global, kernel_size=width, padding='same')(post_ic))
-        return local_states, global_state
+            relu_1 = relu()
+            post_reluA, post_reluB = (
+                plus(post_reluA, relu(post_conv1A)),
+                plus(post_reluB, relu(post_conv1B)),
+            )
+
+            icR = ic()
+            post_icA, post_icB = (
+                plus(post_icA, icR(post_reluA)),
+                plus(post_icB, icR(post_reluB)),
+            )
+
+            conv5 = Conv1D(filters=local_dims,  kernel_size=width, padding='same')
+            localA, localB = (
+                plus(localA,  conv5(post_icA)),
+                plus(localB,  conv5(post_icB)),
+            )
+            localsA.append(localA)
+            localsB.append(localB)
+
+            conv5G = Conv1D(filters=more_global, kernel_size=width, padding='same')
+            globalA, globalB = (
+                cat(globalA, conv5G(post_icA)),
+                cat(globalB, conv5G(post_icB)),
+            )
+        return (
+            concat([globalA, *localsA]),
+            concat([globalB, *localsB]),
+        )
 
     random.seed(23)
 
-    l, g = make_block(embedded)
-
-    last = cat(concat(l), g)
+    lastA, lastB = make_block(embeddedA, embeddedB)
     ## TODO: Idea for block design
     ## Bottleneck the state for the next block, but still pass the complete
     ## internal state of each bock onto the final pre-softmax layer.
 
-    make_end = lambda name : Sequential([
+    make_end = Sequential([
         relu(),
         ic(),
         Conv1D(name="output", filters=46, kernel_size=1, padding="same", strides=1, dtype='float32'),
-    ], name=name)
-    totes_clear = make_end('clear')(last)
+    ], name='out')
+    totes_clear = Layer(name='clear')(make_end(lastA))
+    totes_key = Layer(name='key')(make_end(lastB))
     # Idea: Try a virtual totes_key, derived from totes_clear by a shift depending on cipher-text.
     # totes_key = make_end('key')(convedA)
 
-    model = Model([input], [totes_clear])
+    model = Model([inputA, inputB], [totes_clear, totes_key])
     opt = tf.optimizers.Adam()
 
     model.compile(
@@ -423,12 +453,12 @@ def make_mode_global_local(hparams):
 l = 100
 hparams = {
     HP_DROPOUT: 0.0,
-    HP_HEIGHT: 20,
+    HP_HEIGHT: 3,
     HP_WINDOW: l,
     HP_resSize: 4 * 46,
 }
 
-weights_name = "glocal-20-thicker.h5"
+weights_name = "glocal-3-both.h5"
 
 
 def main():
