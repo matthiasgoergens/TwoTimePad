@@ -456,12 +456,12 @@ def make_model_global_local(hparams):
 l = 100
 hparams = {
     HP_DROPOUT: 0.0,
-    HP_HEIGHT: 15,
+    HP_HEIGHT: 25,
     HP_WINDOW: l,
     HP_resSize: 4 * 46,
 }
 
-weights_name = "glocal-15-both-rand_1_11__wide.h5"
+weights_name = "glocal-25-both-rand_1_11__wide.h5"
 
 
 def main():
@@ -520,7 +520,7 @@ def main():
                 model = keras.models.load_model('weights/'+weights_name)
                 print("Loaded weights.")
             except:
-                model = make_mode_global_local(hparams)
+                model = make_model_global_local(hparams)
                 model.summary()
                 print("Failed to load weights.")
                 # raise
