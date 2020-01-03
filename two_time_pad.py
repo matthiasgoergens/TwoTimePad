@@ -260,7 +260,7 @@ def make_model_simple(hparams):
     model.compile(
         optimizer=tf.optimizers.Adam(),
         loss=tf.keras.losses.SparseCategoricalCrossentropy(from_logits=True),
-        metrics=['accuracy', nAccuracy],
+        metrics=[nAccuracy],
     )
     return model
 
