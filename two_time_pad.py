@@ -437,8 +437,8 @@ def make_mode_global_local(hparams):
         ic(),
         Conv1D(name="output", filters=46, kernel_size=1, padding="same", strides=1, dtype='float32'),
     ], name='out')
-    totes_clear = Layer(name='clear')(make_end(lastA))
-    totes_key = Layer(name='key')(make_end(lastB))
+    totes_clear = Layer(name='clear', dtype='float32')(make_end(lastA))
+    totes_key = Layer(name='key', dtype='float32')(make_end(lastB))
     # Idea: Try a virtual totes_key, derived from totes_clear by a shift depending on cipher-text.
     # totes_key = make_end('key')(convedA)
 
