@@ -399,7 +399,7 @@ make_model = make_model_simple
 def main():
     # TODO: Actually set stuff to float16 only, in inference too.  Should use
     # less memory.
-    policy = mixed_precision.Policy('mixed_float16')
+    policy = mixed_precision.Policy('float16')
     mixed_precision.set_policy(policy)
     print('Compute dtype: %s' % policy.compute_dtype)
     print('Variable dtype: %s' % policy.variable_dtype)
