@@ -194,137 +194,6 @@ METRIC_ACCURACY = "accuracy"
 
 relu = ft.partial(tf.keras.layers.PReLU, shared_axes=[1])
 
-def make_model(hparams):
-    ic = lambda: Sequential([
-        BatchNormalization(),
-        SpatialDropout1D(rate=hparams[HP_DROPOUT]),
-    ])
-
-
-    n = hparams[HP_WINDOW]
-    # my_input = Input(shape=(n,), dtype='int32', name="ciphertext")
-    inputA = Input(shape=(n,), name="ciphertextA", dtype='int32')
-    # inputB = Input(shape=(n,), name="ciphertextB", dtype='int32')
-    # inputB = -inputA % 46
-    resSize = hparams[HP_resSize]
-
-    embedding = Embedding(output_dim=len(alpha), input_length=n, input_dim=len(alpha), name="my_embedding", batch_input_shape=[batch_size, n],)
-
-    embeddedA = embedding(inputA)
-    # embeddedB = embedding(inputB)
-
-    # clears = [make_end(embedded)]
-    # keys = [make_end(embedded)]
-
-    ## Best loss without conv at all was 4.5
-    ## Best loss without conv at all was 4.5
-    ## With one conv we are getting validation loss of 3.5996 quickly (at window size 30); best was ~3.3
-    ## So adding another conv and lstm. val loss after first epoch about 3.3
-
-    # Ideas: more nodes, no/lower dropout, only look for last layer for final loss.
-    # nine layers is most likely overkill.
-    def makeResNet(i, channels, width, size):
-        return Sequential([
-            Input(name="res_inputMe", shape=(n,channels,)),
-
-            relu(),
-            ic(),
-
-            Conv1D(filters=4*size, kernel_size=1, padding='same'),
-            # Idea: re-use the output of this ^ conv!  Add it.
-            relu(),
-            # Idea: re-use the output of this ^ relu, too?  Add it.  Suggested in some paper.
-            ic(),
-            # Idea: re-use the output of this ^ ic, too?  Add it.
-
-            Conv1D(filters=size, kernel_size=width, padding='same'),
-            # Idea: re-use the output of this conv, too!  Add it.
-            ], name="resnet{}".format(i))
-
-    random.seed(23)
-    def sample2(pop):
-        return pop[:]
-        div = 2
-        return random.sample(list(pop), (len(pop) + div - 1) // div)
-
-    def make_block(convedA, block):
-        convedAx = [convedA]
-
-        for i, (_) in enumerate(10*[None]):
-            width = 1 + 2*random.randrange(2, 7)
-            width = 1 + 2*                 2
-            catA = concat(sample2(convedAx))
-
-            # convedA_, convedB_= zip(*sample2(list(zip(convedAx, convedBx))))
-            # assert len(convedA_) == len(convedB_), (len(convedA_), len(convedB_))
-            # catA = concatenate([*convedA_, *convedB_])
-            # catB = concatenate([*convedB_, *convedA_])
-            (_, _, num_channels) = catA.shape
-            # (_, _, num_channelsB) = catB.shape
-            # assert tuple(catA.shape) == tuple(catB.shape), (catA.shape, catB.shape)
-            size = random.randrange(23, 2*46)
-            size = 4*46
-            resNet = makeResNet(block*1000+i, num_channels, width, size)
-
-            resA = resNet(catA)
-            convedAx.append(resA)
-
-            # assert len(convedAx) == len(convedBx), (len(convedAx), len(convedBx))
-            # for j, (a, b) in enumerate(zip(convedAx, convedBx)):
-            #     assert tuple(a.shape) == tuple(b.shape), (block, i, j, a.shape, b.shape)
-        return concat(convedAx)
-
-    convedA = embeddedA
-    for block in range(1):
-        catAx = make_block(convedA, block=block)
-
-        # catAx = concatenate(convedAx)
-        # catBx = concatenate(convedBx)
-        # assert tuple(catAx.shape) == tuple(catBx.shape), (catAx.shape, catBx.shape)
-
-        if True: # Only one block for nowe.
-            convedA = catAx
-            # convedB = catBx
-            break
-
-
-        ## TODO: Idea for block design
-        ## Bottleneck the state for the next block, but still pass the complete
-        ## internal state of each bock onto the final pre-softmax layer.
-
-
-        # bottleneck = Conv1D(filters=4*46, kernel_size=1, padding='same')
-        # batchnorm = BatchNormalization()
-        # relu_ = relu()
-        # convedA = bottleneck(relu_(batchnorm(catAx)))
-        # convedB = bottleneck(relu_(batchnorm(catBx)))
-        # assert tuple(convedA.shape) == tuple(convedB.shape), (block, convedA.shape, convedB.shape)
-
-
-    # lstm = Bidirectional(LSTM(4*46, return_sequences=True))
-    # c = Conv1D(filters=resSize, kernel_size=1)
-
-    # convedA, convedB = (
-    #         Add()([convedA, c(lstm(concatenate([convedA, convedB])))]),
-    #         Add()([convedB, c(lstm(concatenate([convedB, convedA])))]))
-
-    make_end = lambda name : Sequential([
-        relu(),
-        ic(),
-        Conv1D(name="output", filters=46, kernel_size=1, padding="same", strides=1, dtype='float32'),
-    ], name=name)
-    totes_clear = make_end('clear')(convedA)
-    # Idea: Try a virtual totes_key, derived from totes_clear by a shift depending on cipher-text.
-    # totes_key = make_end('key')(convedA)
-
-    model = Model([inputA], [totes_clear])
-    opt = tf.optimizers.Adam()
-
-    model.compile(
-        optimizer=opt, loss=tf.keras.losses.SparseCategoricalCrossentropy(from_logits=True), metrics=["accuracy"],
-    )
-    return model
-
 def plus(a, b):
     if a is None:
         return b
@@ -345,6 +214,8 @@ def cat(a, b):
         return a
     else:
         return concatenate([a, b])
+
+msra = tf.initializers.VarianceScaling(scale=2.0, distribution='truncated_normal')
 
 def make_model_global_local(hparams):
     ic = lambda: Sequential([
@@ -387,7 +258,7 @@ def make_model_global_local(hparams):
                 # Idea: look into maxout.
                 relu(),
                 ic(),
-                Conv1D(filters=local_dims + 2*more_global, kernel_size=1, padding='same'),
+                Conv1D(filters=local_dims + 2*more_global, kernel_size=1, padding='same', kernel_initializer=msra),
             ])
 
             shapeItA, shapeItB = (
@@ -417,7 +288,7 @@ def make_model_global_local(hparams):
             # But could make up for this with fewer local_dims..
             # Idea: could also feed either new local state to new global state,
             # or vice versa.  But losing parallelism then.
-            conv5 = Conv1D(filters=local_dims,  kernel_size=width, padding='same')
+            conv5 = Conv1D(filters=local_dims,  kernel_size=width, padding='same', kernel_initializer=msra)
             localA, localB = (
                 plus(localA,  conv5(post_icA)),
                 plus(localB,  conv5(post_icB)),
@@ -425,7 +296,7 @@ def make_model_global_local(hparams):
             localsA.append(localA)
             localsB.append(localB)
 
-            conv5G = Conv1D(filters=more_global, kernel_size=width, padding='same')
+            conv5G = Conv1D(filters=more_global, kernel_size=width, padding='same', kernel_initializer=msra)
             globalA, globalB = (
                 cat(globalA, conv5G(post_icA)),
                 cat(globalB, conv5G(post_icB)),
@@ -445,7 +316,7 @@ def make_model_global_local(hparams):
     make_end = Sequential([
         relu(),
         ic(),
-        Conv1D(name="output", filters=46, kernel_size=1, padding="same", strides=1, dtype='float32'),
+        Conv1D(name="output", filters=46, kernel_size=1, padding="same", strides=1, dtype='float32', kernel_initializer=msra),
     ], name='out')
     totes_clear = Layer(name='clear', dtype='float32')(make_end(lastA))
     totes_key = Layer(name='key', dtype='float32')(make_end(lastB))
@@ -468,7 +339,7 @@ hparams = {
     HP_resSize: 4 * 46,
 }
 
-weights_name = "glocal-10-both-rand_1_11_wide-2x46_local_dims-46-more-global-dims__dropout.h5"
+weights_name = "glocal-10-_dropout-msra.h5"
 
 
 def main():
