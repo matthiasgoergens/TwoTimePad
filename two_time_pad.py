@@ -236,15 +236,18 @@ def make_model_simple(hparams):
     inputA = Input(shape=(n,), name="ciphertextA", dtype='int32')
     # inputB = Input(shape=(n,), name="ciphertextB", dtype='int32')
     base = 4 * 46
-    blowup = 2
+    blowup = 4
     embeddedA = Embedding(
-        output_dim=blowup * base, input_length=n, input_dim=len(alpha), name="embeddingA", batch_input_shape=[batch_size, n],)(
+        output_dim=base, input_length=n, input_dim=len(alpha), name="embeddingA", batch_input_shape=[batch_size, n],)(
             inputA)
 
     # Idea: Start first res from ic() or conv.
-    conved = embeddedA
+    conved = Sequential([
+        ic(),
+        Conv1D(filters=blowup * base, kernel_size=9, padding='same', kernel_initializer=msra),
+    ])(embeddedA)
     outputs = None
-    for i in range(height):
+    for i in range(height - 1):
         outputs = cat(outputs, conved)
         conved = plus(conved, Sequential([
             Maxout(base),
@@ -268,120 +271,6 @@ def make_model_simple(hparams):
     )
     return model
 
-def make_model_global_local(hparams):
-    ic = lambda: Sequential([
-        BatchNormalization(),
-        SpatialDropout1D(rate=hparams[HP_DROPOUT]),
-    ])
-
-    n = hparams[HP_WINDOW]
-    height = hparams[HP_HEIGHT]
-
-    inputA = Input(shape=(n,), name="ciphertextA", dtype='int32')
-    inputB = Input(shape=(n,), name="ciphertextB", dtype='int32')
-    embedding = Embedding(
-        output_dim=len(alpha), input_length=n, input_dim=len(alpha), name="my_embedding", batch_input_shape=[batch_size, n],)
-
-    embeddedA = embedding(inputA)
-    embeddedB = embedding(inputB)
-
-    random.seed(23)
-    def make_block(globalA, globalB):
-        # width = 1 + 2 * 3
-        # width = 1 + 2 * random.randrange(1, 5)
-        width = random.randrange(1, 12)
-        local_dims = 2*46
-        more_global = 46
-
-        num_layers = height
-
-        post_conv1A, post_conv1B = None, None
-        post_reluA, post_reluB = None, None
-        post_icA, post_icB = None, None
-
-        # Idea: keep track of local states and feed them into final layer, too.
-        localA, localB = None, None
-        localsA, localsB = [], []
-
-        for i in range(num_layers):
-            shapeIt = Sequential([
-                # Idea: also investigate flipping relu and ic (both here and further down.)
-                # Idea: look into maxout.
-                relu(),
-                ic(),
-                Conv1D(filters=local_dims + 2*more_global, kernel_size=1, padding='same', kernel_initializer=msra),
-            ])
-
-            shapeItA, shapeItB = (
-                shapeIt(concat([localA, localB, globalA, globalB])),
-                shapeIt(concat([localB, localA, globalB, globalA])),
-            )
-
-            post_conv1A, post_conv1B = (
-                plus(post_conv1A, shapeItA),
-                plus(post_conv1B, shapeItB),
-            )
-
-            relu_1 = relu()
-            post_reluA, post_reluB = (
-                plus(post_reluA, relu_1(post_conv1A)),
-                plus(post_reluB, relu_1(post_conv1B)),
-            )
-
-            icR = ic()
-            post_icA, post_icB = (
-                plus(post_icA, icR(post_reluA)),
-                plus(post_icB, icR(post_reluB)),
-            )
-
-            # Idea: could cat A and B before feeding to the last two convs.
-            # But would take more parameters.  (But symmetric.)
-            # But could make up for this with fewer local_dims..
-            # Idea: could also feed either new local state to new global state,
-            # or vice versa.  But losing parallelism then.
-            conv5 = Conv1D(filters=local_dims,  kernel_size=width, padding='same', kernel_initializer=msra)
-            localA, localB = (
-                plus(localA,  conv5(post_icA)),
-                plus(localB,  conv5(post_icB)),
-            )
-            localsA.append(localA)
-            localsB.append(localB)
-
-            conv5G = Conv1D(filters=more_global, kernel_size=width, padding='same', kernel_initializer=msra)
-            globalA, globalB = (
-                cat(globalA, conv5G(post_icA)),
-                cat(globalB, conv5G(post_icB)),
-            )
-        return (
-            concat([globalA, *localsA]),
-            concat([globalB, *localsB]),
-        )
-
-    random.seed(23)
-
-    lastA, lastB = make_block(embeddedA, embeddedB)
-    ## TODO: Idea for block design
-    ## Bottleneck the state for the next block, but still pass the complete
-    ## internal state of each bock onto the final pre-softmax layer.
-
-    make_end = Sequential([
-        relu(),
-        ic(),
-        Conv1D(name="output", filters=46, kernel_size=1, padding="same", strides=1, dtype='float32', kernel_initializer=msra),
-    ], name='out')
-    totes_clear = Layer(name='clear', dtype='float32')(make_end(lastA))
-    totes_key = Layer(name='key', dtype='float32')(make_end(lastB))
-    # Idea: Try a virtual totes_key, derived from totes_clear by a shift depending on cipher-text.
-    # totes_key = make_end('key')(convedA)
-
-    model = Model([inputA, inputB], [totes_clear, totes_key])
-    opt = tf.optimizers.Adam()
-
-    model.compile(
-        optimizer=opt, loss=tf.keras.losses.SparseCategoricalCrossentropy(from_logits=True), metrics=['accuracy', nAccuracy],
-    )
-    return model
-
 l = 100
 hparams = {
     HP_DROPOUT: 0.0,
@@ -390,7 +279,7 @@ hparams = {
     HP_resSize: 4 * 46,
 }
 
-weights_name = "zimpl-10-blow2-base3-no-drop__single.h5"
+weights_name = "zimpl-10-blow4-base4-shorten.h5"
 
 make_model = make_model_simple
 
