@@ -355,8 +355,8 @@ def make_mode_global_local(hparams):
     n = hparams[HP_WINDOW]
     height = hparams[HP_HEIGHT]
 
-    inputA = Input(shape=(n,), name="ciphertextA")
-    inputB = Input(shape=(n,), name="ciphertextB")
+    inputA = Input(shape=(n,), name="ciphertextA", dtype='int32')
+    inputB = Input(shape=(n,), name="ciphertextB", dtype='int32')
     embedding = Embedding(
         output_dim=len(alpha), input_length=n, input_dim=len(alpha), name="my_embedding", batch_input_shape=[batch_size, n],)
 
