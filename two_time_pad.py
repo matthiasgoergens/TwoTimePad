@@ -234,18 +234,18 @@ def make_model_simple(hparams):
     sd = lambda: SpatialDropout1D(rate=hparams[HP_DROPOUT])
 
     input = Input(shape=(n,), name="ciphertextA", dtype='int32')
+    base = 2 * 46
     embedded = Embedding(
-        output_dim=len(alpha), input_length=n, input_dim=len(alpha), name="my_embedding", batch_input_shape=[batch_size, n],)(
+        output_dim=base, input_length=n, input_dim=len(alpha), name="my_embedding", batch_input_shape=[batch_size, n],)(
             input)
 
     conved = embedded
     for i in range(height):
-        base = 2 * 46
-        conved = Sequential([
+        conved = plus(conved, Sequential([
             Conv1D(filters=3 * base, kernel_size=9, padding='same', kernel_initializer=msra),
             sd(),
             Maxout(base),
-            ])(conved)
+            ])(conved))
     make_end = Sequential([
         sd(),
         Maxout(46),
