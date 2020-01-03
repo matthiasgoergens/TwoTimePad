@@ -405,7 +405,7 @@ def main():
 
         # logdir = "logs/scalars/" + datetime.now().strftime("%Y%m%d-%H%M%S")
         logdir = "logs/scalars/{}".format(weights_name)
-        tensorboard_callback = TensorBoard(log_dir=logdir, update_freq=1_000, profile_batch=0, histogram_freq=5,  write_images=True, embeddings_freq=5)
+        tensorboard_callback = TensorBoard(log_dir=logdir, update_freq=10_000, profile_batch=0)
 
         checkpoint = ModelCheckpoint('weights/'+weights_name, monitor='loss', verbose=1, save_best_only=True)
 
