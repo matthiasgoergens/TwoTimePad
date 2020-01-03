@@ -59,8 +59,6 @@ alphaRE = alpha.replace("-", "\\-")
 assert len(alpha) == 46
 
 
-import keras.backend as K
-
 accuracy = tf.keras.metrics.SparseCategoricalAccuracy()
 def nAccuracy(y_true, y_pred):
     return 1 - accuracy(y_true, y_pred)
