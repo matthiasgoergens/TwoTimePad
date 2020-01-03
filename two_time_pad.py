@@ -392,7 +392,7 @@ hparams = {
     HP_resSize: 4 * 46,
 }
 
-weights_name = "zimpl-10-blow2-base3-no-drop.h5"
+weights_name = "zimpl-10-blow2-base3-no-drop__both.h5"
 
 make_model = make_model_simple
 
