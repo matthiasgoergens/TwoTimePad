@@ -453,12 +453,12 @@ def make_mode_global_local(hparams):
 l = 100
 hparams = {
     HP_DROPOUT: 0.0,
-    HP_HEIGHT: 7,
+    HP_HEIGHT: 10,
     HP_WINDOW: l,
     HP_resSize: 4 * 46,
 }
 
-weights_name = "glocal-7-both.h5"
+weights_name = "glocal-10-both.h5"
 
 
 def main():
