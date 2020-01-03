@@ -242,15 +242,14 @@ def make_model_simple(hparams):
 
     conved = embedded
 
-    outputs = conved
+    outputs = None
     for i in range(height):
-        convedNew = Sequential([
+        outputs = cat(outputs, conved)
+        conved = Sequential([
             Maxout(base),
             ic(),
             Conv1D(filters=blowup * base, kernel_size=9, padding='same', kernel_initializer=msra),
             ])(conved)
-        outputs = cat(outputs, convedNew)
-        conved = plus(conved, convedNew)
     make_end = Sequential([
         Maxout(46),
         ic(),
@@ -388,7 +387,7 @@ hparams = {
     HP_resSize: 4 * 46,
 }
 
-weights_name = "zmpl-res__direct-to-output.h5"
+weights_name = "zmpl-direct-to-output.h5"
 
 make_model = make_model_simple
 
