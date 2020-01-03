@@ -397,8 +397,8 @@ def make_mode_global_local(hparams):
 
             relu_1 = relu()
             post_reluA, post_reluB = (
-                plus(post_reluA, relu(post_conv1A)),
-                plus(post_reluB, relu(post_conv1B)),
+                plus(post_reluA, relu_1(post_conv1A)),
+                plus(post_reluB, relu_1(post_conv1B)),
             )
 
             icR = ic()
