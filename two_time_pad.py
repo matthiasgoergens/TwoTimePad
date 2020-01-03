@@ -36,7 +36,7 @@ from tensorflow.keras.layers import (
     Layer,
 )
 from tensorflow.keras.models import Model, Sequential
-# from tensorflow_addons.layers import Maxout, Sparsemax
+from tensorflow_addons.layers import Maxout
 
 device_name = tf.test.gpu_device_name()
 if device_name != "/device:GPU:0":
@@ -58,6 +58,12 @@ alphaRE = alpha.replace("-", "\\-")
 
 assert len(alpha) == 46
 
+
+import keras.backend as K
+
+accuracy = tf.keras.metrics.SparseCategoricalAccuracy()
+def nAccuracy(y_true, y_pred):
+    return 1 - accuracy(y_true, y_pred)
 
 def load():
     # text = ' '.join(f.open('r').read() for f in pathlib.Path('data').glob('*.txt')).lower()
@@ -162,11 +168,13 @@ class TwoTimePadSequence(keras.utils.Sequence):
             self._load()
             return self.__getitem__(idx)
         else:
-            return (self.cipherA[i, :, :], self.cipherB[i, :, :]), (self.aa[i, :, :], self.bb[i, :, :])
+            if self.both:
+                return (self.cipherA[i, :, :], self.cipherB[i, :, :]), (self.aa[i, :, :], self.bb[i, :, :])
+            else:
             # return (self.cipherA[i, :, :], ), (self.aa[i, :, :], self.bb[i, :, :])
-            # return (self.cipherA[i, :, :], ), (self.aa[i, :, :],)
+                return (self.cipherA[i, :, :], ), (self.aa[i, :, :],)
 
-    def __init__(self, window, training_size, mtext):
+    def __init__(self, window, training_size, mtext, both=True):
         self.a = make1(window, mtext)
         self.b = make1(window, mtext)
 
@@ -174,6 +182,7 @@ class TwoTimePadSequence(keras.utils.Sequence):
         self.training_size = training_size
         self.window = window
         self._load()
+        self.both = both
 
 
 def cipher_for_predict():
@@ -216,6 +225,35 @@ def cat(a, b):
         return concatenate([a, b])
 
 msra = tf.initializers.VarianceScaling(scale=2.0, distribution='truncated_normal')
+
+def make_model_simple(hparams):
+    n = hparams[HP_WINDOW]
+    height = hparams[HP_HEIGHT]
+    # ic = lambda: Sequential([
+    #     BatchNormalization(),
+    #     SpatialDropout1D(rate=hparams[HP_DROPOUT]),
+    # ])
+    sd = lambda: SpatialDropout1D(rate=hparams[HP_DROPOUT])
+
+    input = Input(shape=(n,), name="ciphertextA", dtype='int32')
+    embedded = Embedding(
+        output_dim=len(alpha), input_length=n, input_dim=len(alpha), name="my_embedding", batch_input_shape=[batch_size, n],)(
+            input)
+
+    conved = embedded
+    for i in range(height):
+        base = 2 * 46
+        conved = Sequential([
+            Conv1D(filters=3 * base, kernel_size=9, padding='same', kernel_initializer=msra),
+            sd(),
+            Maxout(base),
+            ])(conved)
+    make_end = Sequential([
+        sd(),
+        Maxout(46),
+        Conv1D(name="output", filters=46, kernel_size=1, padding="same", strides=1, dtype='float32', kernel_initializer=msra),
+    ], name='clear')
+    return make_end(conved)
 
 def make_model_global_local(hparams):
     ic = lambda: Sequential([
@@ -327,20 +365,21 @@ def make_model_global_local(hparams):
     opt = tf.optimizers.Adam()
 
     model.compile(
-        optimizer=opt, loss=tf.keras.losses.SparseCategoricalCrossentropy(from_logits=True), metrics=["accuracy"],
+        optimizer=opt, loss=tf.keras.losses.SparseCategoricalCrossentropy(from_logits=True), metrics=['accuracy', nAccuracy],
     )
     return model
 
 l = 100
 hparams = {
-    HP_DROPOUT: 0.05,
-    HP_HEIGHT: 10,
+    HP_DROPOUT: 0.5,
+    HP_HEIGHT: 5,
     HP_WINDOW: l,
     HP_resSize: 4 * 46,
 }
 
-weights_name = "glocal-10-_dropout-msra.h5"
+weights_name = "simple.h5"
 
+make_model = make_model_simple
 
 def main():
     # TODO: Actually set stuff to float16 only, in inference too.  Should use
@@ -391,14 +430,14 @@ def main():
             )
 
         try:
-            model = make_model_global_local(hparams)
+            model = make_model(hparams)
             model.load_weights('weights/'+weights_name)
         except:
             try:
                 model = keras.models.load_model('weights/'+weights_name)
                 print("Loaded weights.")
             except:
-                model = make_model_global_local(hparams)
+                model = make_model(hparams)
                 model.summary()
                 print("Failed to load weights.")
                 # raise
@@ -439,7 +478,7 @@ def main():
         if True:
             try:
                 model.fit(
-                    x=TwoTimePadSequence(l, 10 ** 4 // 16, mtext),
+                    x=TwoTimePadSequence(l, 10 ** 4 // 16, mtext, both=False),
                     # x = x, y = y,
                     # steps_per_epoch=10 ** 4 // 32,
                     max_queue_size=10**3,
