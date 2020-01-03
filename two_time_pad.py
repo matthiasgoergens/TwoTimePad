@@ -374,8 +374,8 @@ def make_model_global_local(hparams):
         num_layers = height
 
         post_conv1A, post_conv1B = None, None
-        post_reluA, post_reluB = None, None
         post_icA, post_icB = None, None
+        post_reluA, post_reluB = None, None
 
         # Idea: keep track of local states and feed them into final layer, too.
         localA, localB = None, None
@@ -383,8 +383,9 @@ def make_model_global_local(hparams):
 
         for i in range(num_layers):
             shapeIt = Sequential([
-                relu(),
+                # Idea: also investigate flipping relu and ic (both here and further down.)
                 ic(),
+                relu(),
                 Conv1D(filters=local_dims + 2*more_global, kernel_size=1, padding='same'),
             ])
 
@@ -398,17 +399,18 @@ def make_model_global_local(hparams):
                 plus(post_conv1B, shapeItB),
             )
 
-            relu_1 = relu()
-            post_reluA, post_reluB = (
-                plus(post_reluA, relu_1(post_conv1A)),
-                plus(post_reluB, relu_1(post_conv1B)),
-            )
-
             icR = ic()
             post_icA, post_icB = (
-                plus(post_icA, icR(post_reluA)),
-                plus(post_icB, icR(post_reluB)),
+                plus(post_icA, icR(post_conv1A)),
+                plus(post_icB, icR(post_conv1B)),
             )
+
+            relu_1 = relu()
+            post_reluA, post_reluB = (
+                plus(post_reluA, relu_1(post_icA)),
+                plus(post_reluB, relu_1(post_icB)),
+            )
+
 
             # Idea: could cat A and B before feeding to the last two convs.
             # But would take more parameters.  (But symmetric.)
@@ -417,16 +419,16 @@ def make_model_global_local(hparams):
             # or vice versa.  But losing parallelism then.
             conv5 = Conv1D(filters=local_dims,  kernel_size=width, padding='same')
             localA, localB = (
-                plus(localA,  conv5(post_icA)),
-                plus(localB,  conv5(post_icB)),
+                plus(localA,  conv5(post_reluA)),
+                plus(localB,  conv5(post_reluB)),
             )
             localsA.append(localA)
             localsB.append(localB)
 
             conv5G = Conv1D(filters=more_global, kernel_size=width, padding='same')
             globalA, globalB = (
-                cat(globalA, conv5G(post_icA)),
-                cat(globalB, conv5G(post_icB)),
+                cat(globalA, conv5G(post_reluA)),
+                cat(globalB, conv5G(post_reluB)),
             )
         return (
             concat([globalA, *localsA]),
@@ -441,8 +443,8 @@ def make_model_global_local(hparams):
     ## internal state of each bock onto the final pre-softmax layer.
 
     make_end = Sequential([
-        relu(),
         ic(),
+        relu(),
         Conv1D(name="output", filters=46, kernel_size=1, padding="same", strides=1, dtype='float32'),
     ], name='out')
     totes_clear = Layer(name='clear', dtype='float32')(make_end(lastA))
@@ -466,7 +468,7 @@ hparams = {
     HP_resSize: 4 * 46,
 }
 
-weights_name = "glocal-10-both-rand_1_11_wide-2x46_local_dims-46-more-global-dims__dropout.h5"
+weights_name = "glocal-10-both-rand_1_11_wide-2x46_local_dims-46-more-global-dims__dropout_ic_before_relu.h5"
 
 
 def main():
