@@ -253,7 +253,15 @@ def make_model_simple(hparams):
         Maxout(46),
         Conv1D(name="output", filters=46, kernel_size=1, padding="same", strides=1, dtype='float32', kernel_initializer=msra),
     ], name='clear')
-    return make_end(conved)
+    clear = make_end(conved)
+    model = Model([input], [clear])
+
+    model.compile(
+        optimizer=tf.optimizers.Adam(),
+        loss=tf.keras.losses.SparseCategoricalCrossentropy(from_logits=True),
+        metrics=['accuracy', nAccuracy],
+    )
+    return model
 
 def make_model_global_local(hparams):
     ic = lambda: Sequential([
@@ -377,7 +385,7 @@ hparams = {
     HP_resSize: 4 * 46,
 }
 
-weights_name = "simple.h5"
+weights_name = "zmpl.h5"
 
 make_model = make_model_simple
 
