@@ -368,8 +368,8 @@ def make_model_global_local(hparams):
         # width = 1 + 2 * 3
         # width = 1 + 2 * random.randrange(1, 5)
         width = random.randrange(1, 12)
-        local_dims = 4*46
-        more_global = 23
+        local_dims = 2*46
+        more_global = 46
 
         num_layers = height
 
@@ -385,7 +385,7 @@ def make_model_global_local(hparams):
             shapeIt = Sequential([
                 relu(),
                 ic(),
-                Conv1D(filters=local_dims + 4*more_global, kernel_size=1, padding='same'),
+                Conv1D(filters=local_dims + 2*more_global, kernel_size=1, padding='same'),
             ])
 
             shapeItA, shapeItB = (
@@ -461,12 +461,12 @@ def make_model_global_local(hparams):
 l = 100
 hparams = {
     HP_DROPOUT: 0.0,
-    HP_HEIGHT: 25,
+    HP_HEIGHT: 20,
     HP_WINDOW: l,
     HP_resSize: 4 * 46,
 }
 
-weights_name = "glocal-25-both-rand_1_11_wide-4x46_local_dims.h5"
+weights_name = "glocal-20-both-rand_1_11_wide-2x46_local_dims-46-more-global-dims.h5"
 
 
 def main():
