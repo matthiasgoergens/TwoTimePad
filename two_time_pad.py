@@ -365,10 +365,10 @@ def make_model_global_local(hparams):
 
     random.seed(23)
     def make_block(globalA, globalB):
-        width = 1 + 2 * 3
+        # width = 1 + 2 * 3
         # width = 1 + 2 * random.randrange(1, 5)
         width = random.randrange(1, 12)
-        local_dims = 2*46
+        local_dims = 4*46
         more_global = 23
 
         num_layers = height
@@ -466,7 +466,7 @@ hparams = {
     HP_resSize: 4 * 46,
 }
 
-weights_name = "glocal-25-both-rand_1_11__wide.h5"
+weights_name = "glocal-25-both-rand_1_11_wide-4x46_local_dims.h5"
 
 
 def main():
