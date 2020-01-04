@@ -126,12 +126,6 @@ def makeEpochs(mtext, window, ratio):
             yy = tf.random.shuffle(y)
             cipherX = (xx - yy) % 46
             cipherY = (yy - xx) % 46
-
-            # yield (cipherX, cipherY), (
-            #     xx,
-            #     yy,
-            # )
-
             # Drop last epoch, it's probably not full.
             for i in list(range(0, x.shape[0], training_size))[:-1]:
                 yield (cipherX[i : i + training_size, :], cipherY[i : i + training_size, :]), (
