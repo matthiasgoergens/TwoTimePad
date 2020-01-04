@@ -254,7 +254,7 @@ def make_model_fractal(hparams):
     # Went from [x | blowup] * base to base to blowup * base
     # So could use cat?
     # Now: geting from base -> blowup * base -> base
-    def conv(input):
+    def conv():
         def helper(input):
             max_kernel = 1 + 2 * 5
             convs = []
