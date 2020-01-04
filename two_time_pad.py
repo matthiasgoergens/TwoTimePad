@@ -248,7 +248,7 @@ def make_model_simple(hparams):
         Conv1D(filters=blowup * base, kernel_size=9, padding='same', kernel_initializer=msra),
     ])(embeddedA)
 
-    outputs = None
+    outputs = embeddedA
     for i in range(height - 1):
         outputs = cat(outputs, conved)
         conved = plus(conved, Sequential([
@@ -266,8 +266,8 @@ def make_model_simple(hparams):
     model = Model([inputA], [clear])
 
     model.compile(
-        # optimizer=tf.optimizers.Adam(learning_rate=0.001),
-        optimizer=tf.optimizers.Adam(),
+        optimizer=tf.optimizers.Adam(learning_rate=0.001 * 10),
+        # optimizer=tf.optimizers.Adam(),
         loss=tf.keras.losses.SparseCategoricalCrossentropy(from_logits=True),
         # loss_weights={'clear': 1/2, 'key': 1/2},
         metrics=[nAccuracy],
@@ -282,7 +282,7 @@ hparams = {
     HP_resSize: 4 * 46,
 }
 
-weights_name = "zimpl-10-blow4-base4-shorten-dropout-learn-normal_default_mixed.h5"
+weights_name = "zimpl-10-blow4-base4-shorten-dropout-learn-fast_default_mixed.h5"
 
 make_model = make_model_simple
 
