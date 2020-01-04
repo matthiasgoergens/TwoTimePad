@@ -240,7 +240,7 @@ def make_model_fractal(hparams):
     )
 
     input = Input(shape=(n,), name="ciphertextA", dtype='int32')
-    base = 1 * 46
+    base = 3 * 46
     embedded = Embedding(
         output_dim=46, input_length=n, input_dim=len(alpha), name="embeddingA", batch_input_shape=[batch_size, n],)(
             input)
@@ -254,12 +254,13 @@ def make_model_fractal(hparams):
     # Went from [x | blowup] * base to base to blowup * base
     # So could use cat?
     # Now: geting from base -> blowup * base -> base
-    conv = lambda: sequential(
-            # Idea: parallel of different kernel sizes.  Will save on trainable params.
-            Conv1D(filters=base, kernel_size=9, padding='same', kernel_initializer=msra),
-            relu(),
-            ic(),
-            )
+    def conv(input):
+        max_kernel = 1 + 2 * 5
+        convs = []
+        for k in range(1, max_kernel+1):
+            filters = round(base * (k+1) / max_kernel) - round(base * k / max_kernel)
+            convs.append(Conv1D(filters=filters, kernel_size=k, padding='same', kernel_initializer=msra)(input))
+        return ic()(relu()(concat(convs)))
 
     def block(n):
         if n <= 0:
@@ -306,12 +307,12 @@ def make_model_fractal(hparams):
 l = 100
 hparams = {
     HP_DROPOUT: 0.0,
-    HP_HEIGHT: 8,
+    HP_HEIGHT: 6,
     HP_WINDOW: l,
     HP_resSize: 4 * 46,
 }
 
-weights_name = "fractal-8-relu-avg-base_1-post.h5"
+weights_name = "fractal-6-relu-avg-base_3-post-staggered.h5"
 
 make_model = make_model_fractal
 
