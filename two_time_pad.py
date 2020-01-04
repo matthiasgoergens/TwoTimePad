@@ -239,15 +239,6 @@ def make_model_fractal(hparams):
         output_dim=46, input_length=n, input_dim=len(alpha), name="embeddingA", batch_input_shape=[batch_size, n],)(
             input)
 
-    # conved = Sequential([
-    #     ic(),
-    #     Conv1D(filters=base, kernel_size=9, padding='same', kernel_initializer=msra),
-    # ])(embedded)
-    # conved = embedded
-
-    # Went from [x | blowup] * base to base to blowup * base
-    # So could use cat?
-    # Now: geting from base -> blowup * base -> base
     def conv():
         def helper(input):
             max_kernel = 1 + 2 * 2
