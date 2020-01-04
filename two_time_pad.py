@@ -16,7 +16,7 @@ from tensorboard.plugins.hparams import api as hp
 from tensorflow import keras
 from tensorflow.keras.layers import (
     LSTM,
-    Add,
+    Add, Average, average,
     BatchNormalization,
     Bidirectional,
     Conv1D,
@@ -274,17 +274,90 @@ def make_model_simple(hparams):
     )
     return model
 
+def make_model_fractal(hparams):
+    n = hparams[HP_WINDOW]
+    height = hparams[HP_HEIGHT]
+    ic = lambda: Sequential([
+        BatchNormalization(),
+        SpatialDropout1D(rate=hparams[HP_DROPOUT]),
+    ])
+    sd = lambda: SpatialDropout1D(rate=hparams[HP_DROPOUT])
+
+    input = Input(shape=(n,), name="ciphertextA", dtype='int32')
+    base = 3 * 46
+    blowup = 3
+    embedded = Embedding(
+        output_dim=base, input_length=n, input_dim=len(alpha), name="embeddingA", batch_input_shape=[batch_size, n],)(
+            input)
+
+    # conved = Sequential([
+    #     ic(),
+    #     Conv1D(filters=base, kernel_size=9, padding='same', kernel_initializer=msra),
+    # ])(embedded)
+    # conved = embedded
+
+    def conv():
+        # Went from [x | blowup] * base to base to blowup * base
+        # So could use cat?
+        # Now: geting from base -> blowup * base -> base
+        return Sequential([
+            # Idea: parallel of different kernel sizes.  Will save on trainable params.
+            Conv1D(filters=blowup * base, kernel_size=9, padding='same', kernel_initializer=msra),
+            Maxout(base),
+            ic(),
+            ])
+
+    def block(n):
+        if n <= 0:
+            # Identity.  Work out whether we can/should use conv instead?
+            # If we use conv, we can have embedding go to 46 instead of base, I think.
+            return Layer()
+        else:
+            # f 0 = identity (or conv in paper)
+            # f (n+1) = (f n . f n) + conv
+            def helper(input):
+                return average([
+                    block(n-1)
+                    (block(n-1)
+                    (input)),
+
+                    conv()
+                    (input),
+                ])
+            return helper
+
+    # Idea: Start first res from ic() or conv.
+    # Idea: also give input directly, not just embedding?
+
+    conved = block(height)(embedded)
+    make_end = lambda name: Sequential([
+        # Maxout(base),
+        # ic(),
+        Conv1D(name="output", filters=46, kernel_size=1, padding="same", strides=1, dtype='float32', kernel_initializer=msra),
+    ], name=name)
+    clear = make_end('clear')(conved)
+    model = Model([input], [clear])
+
+    model.compile(
+        # optimizer=tf.optimizers.Adam(learning_rate=0.001),
+        optimizer=tf.optimizers.Adam(),
+        loss=tf.keras.losses.SparseCategoricalCrossentropy(from_logits=True),
+        # loss_weights={'clear': 1/2, 'key': 1/2},
+        metrics=[nAccuracy],
+    )
+    return model
+
 l = 100
 hparams = {
-    HP_DROPOUT: 0.05,
-    HP_HEIGHT: 15,
+    HP_DROPOUT: 0.0,
+    HP_HEIGHT: 0,
     HP_WINDOW: l,
     HP_resSize: 4 * 46,
 }
 
-weights_name = "zimpl-15-blow3-base4-0p05_drop.h5"
+weights_name = "fractal-0.h5"
 
-make_model = make_model_simple
+make_model = make_model_fractal
 
 def main():
     # TODO: Actually set stuff to float16 only, in inference too.  Should use
