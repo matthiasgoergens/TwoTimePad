@@ -243,8 +243,9 @@ def make_model_fractal(hparams):
         def helper(input):
             max_kernel = 1 + 2 * 2
             convs = []
-            for k in range(1, max_kernel+1):
-                filters = round(base * (k+1) / max_kernel) - round(base * k / max_kernel)
+            kernel_sizes = list(range(1, max_kernel+1, 2))
+            for i, k in enumerate(kernel_sizes):
+                filters = round(base * (i+1) / len(kernel_sizes)) - round(base * i / len(kernel_sizes))
                 convs.append(Conv1D(filters=filters, kernel_size=k, padding='same', kernel_initializer=msra)(input))
             return ic()(relu()(concat(convs)))
         return helper
