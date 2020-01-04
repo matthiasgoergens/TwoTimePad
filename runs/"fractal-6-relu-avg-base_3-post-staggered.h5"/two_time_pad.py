@@ -255,12 +255,14 @@ def make_model_fractal(hparams):
     # So could use cat?
     # Now: geting from base -> blowup * base -> base
     def conv(input):
-        max_kernel = 1 + 2 * 5
-        convs = []
-        for k in range(1, max_kernel+1):
-            filters = round(base * (k+1) / max_kernel) - round(base * k / max_kernel)
-            convs.append(Conv1D(filters=filters, kernel_size=k, padding='same', kernel_initializer=msra)(input))
-        return ic()(relu()(concat(convs)))
+        def helper(input):
+            max_kernel = 1 + 2 * 5
+            convs = []
+            for k in range(1, max_kernel+1):
+                filters = round(base * (k+1) / max_kernel) - round(base * k / max_kernel)
+                convs.append(Conv1D(filters=filters, kernel_size=k, padding='same', kernel_initializer=msra)(input))
+            return ic()(relu()(concat(convs)))
+        return helper
 
     def block(n):
         if n <= 0:
