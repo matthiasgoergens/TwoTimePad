@@ -240,8 +240,7 @@ def make_model_fractal(hparams):
     )
 
     input = Input(shape=(n,), name="ciphertextA", dtype='int32')
-    base = 3 * 46
-    blowup = 3
+    base = 46
     embedded = Embedding(
         output_dim=46, input_length=n, input_dim=len(alpha), name="embeddingA", batch_input_shape=[batch_size, n],)(
             input)
@@ -307,12 +306,12 @@ def make_model_fractal(hparams):
 l = 100
 hparams = {
     HP_DROPOUT: 0.0,
-    HP_HEIGHT: 3,
+    HP_HEIGHT: 8,
     HP_WINDOW: l,
     HP_resSize: 4 * 46,
 }
 
-weights_name = "fractal-3-relu-avg-base_3-post-activation.h5"
+weights_name = "fractal-8-relu-avg-base_1-post.h5"
 
 make_model = make_model_fractal
 
