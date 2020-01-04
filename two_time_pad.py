@@ -266,7 +266,8 @@ def make_model_simple(hparams):
     model = Model([inputA], [clear])
 
     model.compile(
-        optimizer=tf.optimizers.Adam(learning_rate=0.001),
+        # optimizer=tf.optimizers.Adam(learning_rate=0.001),
+        optimizer=tf.optimizers.Adam(),
         loss=tf.keras.losses.SparseCategoricalCrossentropy(from_logits=True),
         # loss_weights={'clear': 1/2, 'key': 1/2},
         metrics=[nAccuracy],
@@ -281,14 +282,14 @@ hparams = {
     HP_resSize: 4 * 46,
 }
 
-weights_name = "zimpl-10-blow4-base4-shorten-dropout-learn-normal.h5"
+weights_name = "zimpl-10-blow4-base4-shorten-dropout-learn-normal_default_mixed.h5"
 
 make_model = make_model_simple
 
 def main():
     # TODO: Actually set stuff to float16 only, in inference too.  Should use
     # less memory.
-    policy = mixed_precision.Policy('float16')
+    policy = mixed_precision.Policy('mixed_float16')
     mixed_precision.set_policy(policy)
     print('Compute dtype: %s' % policy.compute_dtype)
     print('Variable dtype: %s' % policy.variable_dtype)
