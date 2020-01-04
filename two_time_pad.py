@@ -234,7 +234,8 @@ def make_model_fractal(hparams):
     )
 
     input = Input(shape=(n,), name="ciphertextA", dtype='int32')
-    base = 46
+    base = 3 * 46
+    blowup = 2
     embedded = Embedding(
         output_dim=46, input_length=n, input_dim=len(alpha), name="embeddingA", batch_input_shape=[batch_size, n],)(
             input)
@@ -245,9 +246,10 @@ def make_model_fractal(hparams):
             convs = []
             kernel_sizes = list(range(1, max_kernel+1, 2))
             for i, k in enumerate(kernel_sizes):
-                filters = round(base * (i+1) / len(kernel_sizes)) - round(base * i / len(kernel_sizes))
+                fi = lambda j: round(blowup * base * j / len(kernel_sizes))
+                filters = fi (i+1) - fi(i)
                 convs.append(Conv1D(filters=filters, kernel_size=k, padding='same', kernel_initializer=msra)(input))
-            return ic()(relu()(concat(convs)))
+            return ic()(Maxout(base)(concat(convs)))
         return helper
 
     def block(n):
@@ -300,7 +302,7 @@ hparams = {
     HP_resSize: 4 * 46,
 }
 
-weights_name = "fractal-6-relu-avg-base_1-post-staggered5.h5"
+weights_name = "fractal-6-relu-avg-base_3-post-staggered5-maxout.h5"
 
 make_model = make_model_fractal
 
