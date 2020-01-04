@@ -242,10 +242,12 @@ def make_model_simple(hparams):
             inputA)
 
     # Idea: Start first res from ic() or conv.
+    # Idea: also give input directly, not just embedding?
     conved = Sequential([
         ic(),
         Conv1D(filters=blowup * base, kernel_size=9, padding='same', kernel_initializer=msra),
     ])(embeddedA)
+
     outputs = None
     for i in range(height - 1):
         outputs = cat(outputs, conved)
