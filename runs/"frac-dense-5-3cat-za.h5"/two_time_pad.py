@@ -293,7 +293,7 @@ def make_model_fractal(hparams):
             def helper(input):
                 a = block(n-1)(input)
                 b = block(n-1)(cat(input, a))
-                c = conv(input)
+                c = conv()(input)
                 return concat([a, b, c])
                 # return concat([
                 #     block(n-1, copy=False)
