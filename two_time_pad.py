@@ -375,7 +375,7 @@ def make_model_dense(hparams):
 l = 50
 hparams = {
     HP_DROPOUT: 0.0,
-    HP_HEIGHT: 2,
+    HP_HEIGHT: 3,
     HP_WINDOW: l,
     HP_resSize: 46,
     HP_blowup: 1,
