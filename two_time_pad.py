@@ -375,8 +375,8 @@ def main():
                 # raise
         # for i in range(10*(layers+1)):
 
-        print("Predict:")
-        predict_size = 10
+        # print("Predict:")
+        # predict_size = 10
 
         # ita_cipher = cipher_for_predict()
         # [ita_label, ita_key] = model .predict(ita_cipher)
