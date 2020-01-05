@@ -300,68 +300,19 @@ def make_model_fractal(hparams):
     )
     return model
 
-def make_model_dense(hparams):
-    n = hparams[HP_WINDOW]
-    height = hparams[HP_HEIGHT]
-
-    ic = lambda: sequential(
-        BatchNormalization(),
-        SpatialDropout1D(rate=hparams[HP_DROPOUT]),
-    )
-
-    input = Input(shape=(n,), name="ciphertextA", dtype='int32')
-    base = hparams[HP_resSize]
-    blowup = hparams[HP_blowup]
-    embedded = Embedding(
-        output_dim=46, input_length=n, input_dim=len(alpha), name="embeddingA", batch_input_shape=[batch_size, n],)(
-            input)
-
-    def conv():
-        def helper(input):
-            max_kernel = hparams[HP_max_kernel]
-            convs = []
-            kernel_sizes = list(range(1, max_kernel+1, 2))
-            for i, k in enumerate(kernel_sizes):
-                fi = lambda j: round(blowup * base * j / len(kernel_sizes))
-                filters = fi (i+1) - fi(i)
-                convs.append(Conv1D(filters=filters, kernel_size=k, padding='same', kernel_initializer=msra)(input))
-            return ic()(relu()(concat(convs)))
-        return helper
-
-    def dense1(input):
-        return cat(input, conv()(input))
-
-    # Idea: Start first res from ic() or conv.
-    # Idea: also give input directly, not just embedding?
-
-    conved = sequential(*(height * [dense1]))(embedded)
-    make_end = lambda name: sequential(
-        Conv1D(name=name, filters=46, kernel_size=1, padding="same", strides=1, dtype='float32', kernel_initializer=msra),
-    )
-    clear = make_end('clear')(conved)
-    model = Model([input], [clear])
-
-    model.compile(
-        # optimizer=tf.optimizers.Adam(learning_rate=0.001),
-        optimizer=tf.optimizers.Adam(),
-        loss=tf.keras.losses.SparseCategoricalCrossentropy(from_logits=True),
-        metrics=[nAccuracy],
-    )
-    return model
-
 l = 100
 hparams = {
     HP_DROPOUT: 0.0,
-    HP_HEIGHT: 1,
+    HP_HEIGHT: 6,
     HP_WINDOW: l,
-    HP_resSize: 46,
+    HP_resSize: 4 * 46,
     HP_blowup: 1,
     HP_max_kernel: 3,
 }
 
-weights_name = "xdense-1.h5"
-
-make_model = make_model_dense
+weights_name = "fractal-6-crelu-avg-base_4-post-staggered3-x.h5"
+ 
+make_model = make_model_fractal
 
 def main():
     # TODO: Actually set stuff to float16 only, in inference too.  Should use
