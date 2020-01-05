@@ -294,7 +294,7 @@ def make_model_fractal(hparams):
                 return average([
                     block(n-1)
                     (cat(input, block(n-1)
-                    (input)),
+                    (input))),
 
                     conv()
                     (input),
