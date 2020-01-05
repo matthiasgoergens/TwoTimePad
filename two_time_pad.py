@@ -2,6 +2,7 @@
 
 import functools as ft
 import itertools as it
+import math
 import random
 import re
 import sys
@@ -190,6 +191,8 @@ HP_DROPOUT = hp.HParam("dropout", hp.RealInterval(0.0, 0.5))
 HP_HEIGHT = hp.HParam("height", hp.IntInterval(0, 30))
 HP_WINDOW = hp.HParam("window", hp.IntInterval(1, 100))
 HP_resSize = hp.HParam("resSize", hp.IntInterval(46, 8 * 46))
+HP_blowup = hp.HParam("blowup", hp.IntInterval(1, 8))
+HP_max_kernel = hp.HParam("max_kernel", hp.IntInterval(3, 1+2*9))
 
 METRIC_ACCURACY = "accuracy"
 
@@ -234,15 +237,15 @@ def make_model_fractal(hparams):
     )
 
     input = Input(shape=(n,), name="ciphertextA", dtype='int32')
-    base = 8 * 46
-    blowup = 1
+    base = hparams[HP_resSize]
+    blowup = hparams[HP_blowup]
     embedded = Embedding(
         output_dim=46, input_length=n, input_dim=len(alpha), name="embeddingA", batch_input_shape=[batch_size, n],)(
             input)
 
     def conv():
         def helper(input):
-            max_kernel = 1 + 2 * 1
+            max_kernel = hparams[HP_max_kernel]
             convs = []
             kernel_sizes = list(range(1, max_kernel+1, 2))
             for i, k in enumerate(kernel_sizes):
@@ -300,6 +303,8 @@ hparams = {
     HP_HEIGHT: 6,
     HP_WINDOW: l,
     HP_resSize: 4 * 46,
+    HP_blowup: 1,
+    HP_max_kernel: 3,
 }
 
 weights_name = "fractal-6-relu-avg-base_8-post-staggered3.h5"
