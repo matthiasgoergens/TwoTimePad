@@ -254,7 +254,7 @@ def make_model_fractal(hparams):
                 fi = lambda j: round(blowup * base * j / len(kernel_sizes))
                 filters = fi (i+1) - fi(i)
                 convs.append(Conv1D(filters=filters, kernel_size=k, padding='same', kernel_initializer=msra)(input))
-            return ic()(crelu()(concat(convs)))
+            return relu()(ic()(concat(convs)))
         return helper
 
     def block(n):
@@ -304,12 +304,12 @@ hparams = {
     HP_DROPOUT: 0.0,
     HP_HEIGHT: 6,
     HP_WINDOW: l,
-    HP_resSize: 4 * 46,
+    HP_resSize: 8 * 46,
     HP_blowup: 1,
     HP_max_kernel: 3,
 }
 
-weights_name = "fractal-6-crelu-avg-base_4-post-staggered3.h5"
+weights_name = "fractal-6-relu-avg-base_8-post-staggered3-ic-before-relu.h5"
 
 make_model = make_model_fractal
 
