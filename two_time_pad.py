@@ -197,6 +197,7 @@ HP_max_kernel = hp.HParam("max_kernel", hp.IntInterval(3, 1+2*9))
 METRIC_ACCURACY = "accuracy"
 
 relu = ft.partial(tf.keras.layers.PReLU, shared_axes=[1])
+crelu = lambda: tf.nn.crelu
 
 def plus(a, b):
     if a is None:
@@ -231,6 +232,7 @@ def sequential(*layers):
 def make_model_fractal(hparams):
     n = hparams[HP_WINDOW]
     height = hparams[HP_HEIGHT]
+
     ic = lambda: sequential(
         BatchNormalization(),
         SpatialDropout1D(rate=hparams[HP_DROPOUT]),
@@ -252,7 +254,7 @@ def make_model_fractal(hparams):
                 fi = lambda j: round(blowup * base * j / len(kernel_sizes))
                 filters = fi (i+1) - fi(i)
                 convs.append(Conv1D(filters=filters, kernel_size=k, padding='same', kernel_initializer=msra)(input))
-            return ic()(relu()(concat(convs)))
+            return ic()(crelu()(concat(convs)))
         return helper
 
     def block(n):
@@ -297,7 +299,7 @@ def make_model_fractal(hparams):
     )
     return model
 
-l = 100
+l = 50
 hparams = {
     HP_DROPOUT: 0.0,
     HP_HEIGHT: 6,
@@ -307,7 +309,7 @@ hparams = {
     HP_max_kernel: 3,
 }
 
-weights_name = "fractal-6-relu-avg-base_8-post-staggered3.h5"
+weights_name = "fractal-6-crelu-avg-base_4-post-staggered3.h5"
 
 make_model = make_model_fractal
 
