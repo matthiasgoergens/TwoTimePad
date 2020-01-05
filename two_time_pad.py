@@ -230,7 +230,7 @@ def make_model_fractal(hparams):
     height = hparams[HP_HEIGHT]
     ic = lambda: sequential(
         BatchNormalization(),
-        SpatialDropout1D(rate=hparams[HP_DROPOUT]) if hparams[HP_DROPOUT] else lambda x: x,
+        SpatialDropout1D(rate=hparams[HP_DROPOUT]),
     )
 
     input = Input(shape=(n,), name="ciphertextA", dtype='int32')
