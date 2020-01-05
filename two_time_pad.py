@@ -235,7 +235,7 @@ def make_model_fractal(hparams):
 
     input = Input(shape=(n,), name="ciphertextA", dtype='int32')
     base = 8 * 46
-    # blowup = 4
+    blowup = 1
     embedded = Embedding(
         output_dim=46, input_length=n, input_dim=len(alpha), name="embeddingA", batch_input_shape=[batch_size, n],)(
             input)
