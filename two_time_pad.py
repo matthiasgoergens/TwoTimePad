@@ -443,7 +443,7 @@ def make_model_dense(hparams):
             return block(n-1, bottleneck)
 
     blocks = hparams[HP_blocks]
-    conved = block(blocks, bottleneck, embedded)
+    conved = block(blocks, embedded)
 
 
     make_end = lambda name: sequential(
