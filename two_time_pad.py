@@ -439,8 +439,8 @@ def make_model_dense(hparams):
             return input
         else:
             output = denseN(height, input)
-            bottleneck = Conv1D(filters=bottleneck, kernel_size=1, padding='same', kernel_initializer=msra)(output)
-            return block(n-1, bottleneck)
+            bneck = Conv1D(filters=bottleneck, kernel_size=1, padding='same', kernel_initializer=msra)(output)
+            return block(n-1, bneck)
 
     blocks = hparams[HP_blocks]
     conved = block(blocks, embedded)
