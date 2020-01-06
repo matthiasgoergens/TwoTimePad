@@ -476,7 +476,7 @@ hparams = {
 
 weights_name = "block-dense-3x20-c46.h5"
 
-make_model = make_model_fractal_dense
+make_model = make_model_dense
 
 def main():
     # TODO: Actually set stuff to float16 only, in inference too.  Should use
