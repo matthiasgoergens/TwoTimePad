@@ -336,7 +336,7 @@ def make_model_fractal_dense(hparams):
             max_kernel = hparams[HP_max_kernel]
             try:
                 conved = Conv1D(filters=extra, kernel_size=3, padding='same', kernel_initializer=msra)(
-                        TimeDistributed(BatchNormalization())relu()(input)))
+                        TimeDistributed(BatchNormalization())(relu()(input)))
             except:
                 print(f"Input: {input}")
                 raise
