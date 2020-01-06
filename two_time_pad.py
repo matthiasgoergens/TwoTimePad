@@ -340,15 +340,16 @@ def make_model_fractal_dense(hparams):
         else:
             # f 0 = identity (or conv in paper)
             # f (n+1) = (f n . f n) + conv
-            def helper(input):
+            def helper(inputs):
+                input = average(inputs)
                 (_batch_size, _time, input_features) = input.shape
-                output = block(n-1)(block(n-1)(input))
+                outputs = block(n-1)(block(n-1)(inputs))
                 (_batch_sizeO, _timeO, output_features) = output.shape
                 assert (_batch_size, _time) == (_batch_sizeO, _timeO), ((_batch_size, _time), (_batch_sizeO, _timeO))
                 assert input_features <= output_features, (input_features, output_features)
 
                 c = conv(output_features - input_features)(input)
-                return average([c, output])
+                return [c, *outputs]
                 # return concat([
                 #     block(n-1, copy=False)
                 #     (block(n-1, copy=True)
@@ -364,7 +365,7 @@ def make_model_fractal_dense(hparams):
     # Idea: Start first res from ic() or conv.
     # Idea: also give input directly, not just embedding?
 
-    conved = block(height)(embedded)
+    conved = average(block(height)([embedded]))
     make_end = lambda name: sequential(
         # Maxout(base),
         # ic(),
@@ -445,7 +446,7 @@ hparams = {
     HP_max_kernel: 3,
 }
 
-weights_name = "adense-7-c23-pre_act.h5"
+weights_name = "adense-7-c23-pre_act-avgAll.h5"
 
 make_model = make_model_fractal_dense
 
