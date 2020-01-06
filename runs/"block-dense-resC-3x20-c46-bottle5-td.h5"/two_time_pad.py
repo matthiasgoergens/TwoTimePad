@@ -538,7 +538,6 @@ def main():
         except:
             try:
                 raise NotImplementedError()
-                weights_name='denseCNN-20-random-mixed-pre-activation-shorter-seed-23.h5'
                 model = keras.models.load_model('weights/'+weights_name)
                 model.summary()
                 print("Loaded weights.")
