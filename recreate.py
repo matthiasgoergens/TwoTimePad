@@ -344,8 +344,10 @@ def make_model(hparams):
     totes_clear = make_end(SpatialDropout1D(rate=hparams[HP_DROPOUT])(convedA))
     totes_key = make_end(SpatialDropout1D(rate=hparams[HP_DROPOUT])(convedB))
 
+    # Note: investigate whether we need to TimeDistribute BatchNormalization.  If yes, that's a fine bug!!!
     model = Model([inputA, inputB], [totes_clear, totes_key])
-    opt = tf.keras.mixed_precision.experimental.LossScaleOptimizer(tf.optimizers.Adam(), "dynamic")
+    # opt = tf.keras.mixed_precision.experimental.LossScaleOptimizer(tf.optimizers.Adam(), "dynamic")
+    opt = tf.optimizers.Adam()
 
     model.compile(
         optimizer=opt, loss=tf.keras.losses.SparseCategoricalCrossentropy(from_logits=True), metrics=["accuracy"],
@@ -354,7 +356,7 @@ def make_model(hparams):
 
 l = 100
 hparams = {
-    HP_DROPOUT: 0.1,
+    HP_DROPOUT: 0.0,
     HP_HEIGHT: 50,
     HP_WINDOW: l,
     HP_resSize: 4 * 46,
@@ -378,7 +380,7 @@ def main():
 
         # logdir = "logs/scalars/" + datetime.now().strftime("%Y%m%d-%H%M%S")
         logdir = "logs/scalars/{}".format(weights_name)
-        tensorboard_callback = tf.keras.callbacks.TensorBoard(log_dir=logdir, update_freq=5_000)  # , histogram_freq=5,  write_images=True, embeddings_freq=5)
+        tensorboard_callback = tf.keras.callbacks.TensorBoard(log_dir=logdir, profile_batch=0)  # , histogram_freq=5,  write_images=True, embeddings_freq=5)
 
         checkpoint = ModelCheckpoint('weights/'+weights_name, verbose=1, save_best_only=True)
 
@@ -395,16 +397,12 @@ def main():
                 hparams=[HP_DROPOUT, HP_HEIGHT, HP_WINDOW], metrics=[hp.Metric(METRIC_ACCURACY, display_name="Accuracy")],
             )
 
-        try:
-            model = keras.models.load_model('weights/'+weights_name)
-            model.summary()
-            print("Loaded weights.")
-            sys.exit(0)
-        except:
-            model = make_model(hparams)
-            model.summary()
-            print("Failed to load weights.")
-            # raise
+        # model = make_model(hparams)
+        # model = keras.models.load_model('weights/'+weights_name)
+        model = make_model(hparams)
+        model.summary()
+        model.load_weights('weights/'+weights_name)
+        print("Loaded weights.")
         # for i in range(10*(layers+1)):
 
         print("Predict:")
