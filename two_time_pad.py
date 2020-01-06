@@ -252,6 +252,7 @@ def sequential(*layers):
         return last
     return helper
 
+# Resnet.
 def make_model_simple(hparams):
     n = hparams[HP_WINDOW]
     height = hparams[HP_HEIGHT]
@@ -303,6 +304,7 @@ def make_model_simple(hparams):
     return model
 
 
+# Mixture between fractal and dense.
 def make_model_fractal(hparams):
     n = hparams[HP_WINDOW]
     height = hparams[HP_HEIGHT]
@@ -386,7 +388,8 @@ def make_model_dense(hparams):
 
     ic = lambda: sequential(
         BatchNormalization(),
-        SpatialDropout1D(rate=hparams[HP_DROPOUT]),
+        SpatialDropout1D(rate=hparams[HP_DROPOUT]/2),
+        Dropout(rate=hparams[HP_DROPOUT]/2),
     )
 
     input = Input(shape=(n,), name="ciphertextA", dtype='int32')
@@ -429,19 +432,19 @@ def make_model_dense(hparams):
     )
     return model
 
-l = 50
+l = 100
 hparams = {
-    HP_DROPOUT: 0.0,
-    HP_HEIGHT: 6,
+    HP_DROPOUT: 0.05,
+    HP_HEIGHT: 60,
     HP_WINDOW: l,
     HP_resSize: 46,
-    HP_blowup: 2,
+    HP_blowup: 3,
     HP_max_kernel: 3,
 }
 
-weights_name = "frac-dense-6-3cat-maxout.h5"
+weights_name = "ndense-60-maxout3-ddropout0p05.h5"
 
-make_model = make_model_fractal
+make_model = make_model_dense
 
 def main():
     # TODO: Actually set stuff to float16 only, in inference too.  Should use
@@ -458,7 +461,7 @@ def main():
 
         # logdir = "logs/scalars/" + datetime.now().strftime("%Y%m%d-%H%M%S")
         logdir = "logs/scalars/{}".format(weights_name)
-        tensorboard_callback = TensorBoard(log_dir=logdir, update_freq=10_000, profile_batch=0)
+        tensorboard_callback = TensorBoard(log_dir=logdir, update_freq=50_000, profile_batch=0)
 
         checkpoint = ModelCheckpoint('weights/'+weights_name, monitor='loss', verbose=1, save_best_only=True)
 
