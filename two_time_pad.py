@@ -252,6 +252,57 @@ def sequential(*layers):
         return last
     return helper
 
+def make_model_simple(hparams):
+    n = hparams[HP_WINDOW]
+    height = hparams[HP_HEIGHT]
+    ic = lambda: Sequential([
+        BatchNormalization(),
+        SpatialDropout1D(rate=hparams[HP_DROPOUT]),
+    ])
+    sd = lambda: SpatialDropout1D(rate=hparams[HP_DROPOUT])
+
+    inputA = Input(shape=(n,), name="ciphertextA", dtype='int32')
+    # inputB = Input(shape=(n,), name="ciphertextB", dtype='int32')
+    base = 4 * 46
+    blowup = 3
+    embeddedA = Embedding(
+        output_dim=base, input_length=n, input_dim=len(alpha), name="embeddingA", batch_input_shape=[batch_size, n],)(
+            inputA)
+
+    # Idea: Start first res from ic() or conv.
+    # Idea: also give input directly, not just embedding?
+    conved = Sequential([
+        ic(),
+        Conv1D(filters=blowup * base, kernel_size=9, padding='same', kernel_initializer=msra),
+    ])(embeddedA)
+
+    outputs = embeddedA
+    for i in range(height - 1):
+        outputs = cat(outputs, conved)
+        conved = plus(conved, Sequential([
+            Maxout(base),
+            ic(),
+            Conv1D(filters=blowup * base, kernel_size=9, padding='same', kernel_initializer=msra),
+            ])(conved))
+    make_end = lambda name: Sequential([
+        Maxout(base),
+        ic(),
+        Conv1D(name="output", filters=46, kernel_size=1, padding="same", strides=1, dtype='float32', kernel_initializer=msra),
+    ], name=name)
+    clear = make_end('clear')(cat(outputs, conved))
+    # key = make_end('key')(cat(outputs, conved))
+    model = Model([inputA], [clear])
+
+    model.compile(
+        optimizer=tf.optimizers.Adam(learning_rate=0.001),
+        # optimizer=tf.optimizers.Adam(),
+        loss=tf.keras.losses.SparseCategoricalCrossentropy(from_logits=True),
+        # loss_weights={'clear': 1/2, 'key': 1/2},
+        metrics=[nAccuracy],
+    )
+    return model
+
+
 def make_model_fractal(hparams):
     n = hparams[HP_WINDOW]
     height = hparams[HP_HEIGHT]
