@@ -235,6 +235,13 @@ def concat(l):
         return l[0]
     else:
         return concatenate(l)
+def avg(l):
+    assert isinstance(l, (list,)), type(l)
+    l = [item for item in l if item is not None]
+    if len(l) == 1:
+        return l[0]
+    else:
+        return average(l)
 def cat(a, b):
     if a is None:
           return b
@@ -322,56 +329,57 @@ def make_model_fractal_dense(hparams):
             input)
 
     def conv(extra):
-        def helper(input):
+        def helper(inputs):
+            input = avg(inputs)
             max_kernel = hparams[HP_max_kernel]
-            conv = Conv1D(filters=extra, kernel_size=3, padding='same', kernel_initializer=msra)(
-                    relu()(ic()(input)))
-            return cat(input, conv)
-            # return cat(input, relu()(ic()(conv)))
+            try:
+                conved = Conv1D(filters=extra, kernel_size=3, padding='same', kernel_initializer=msra)(
+                        relu()(BatchNormalization()(input)))
+            except:
+                print(f"Input: {input}")
+                raise
+            return [cat(input, conved)]
         return helper
 
     def block(n):
         if n <= 0:
+            assert NotImplementedError
             # Identity.  Work out whether we can/should use conv instead?
             # If we use conv, we can have embedding go to 46 instead of base, I think.
-            return lambda x: x
+            return avg
         elif n <= 1:
             return conv(base)
         else:
             # f 0 = identity (or conv in paper)
             # f (n+1) = (f n . f n) + conv
             def helper(inputs):
-                input = average(inputs)
-                (_batch_size, _time, input_features) = input.shape
-                outputs = block(n-1)(block(n-1)(inputs))
-                (_batch_sizeO, _timeO, output_features) = output.shape
+                (_batch_size, _time, input_features) = inputs[-1].shape
+                inter_out = block(n-1)(inputs)
+                assert isinstance(inter_out, (list,)), type(inter_out)
+                outputs = block(n-1)(inter_out)
+                assert isinstance(outputs, (list,)), type(outputs)
+                (_batch_sizeO, _timeO, output_features) = outputs[-1].shape
                 assert (_batch_size, _time) == (_batch_sizeO, _timeO), ((_batch_size, _time), (_batch_sizeO, _timeO))
                 assert input_features <= output_features, (input_features, output_features)
-
-                c = conv(output_features - input_features)(input)
-                return [c, *outputs]
-                # return concat([
-                #     block(n-1, copy=False)
-                #     (block(n-1, copy=True)
-                #     (input)),
-
-                #     conv()
-                #     (input),
-                #     input,
-                # ])
+                try:
+                    c = conv(output_features - input_features)(inputs)
+                except:
+                    print ("input, output, diff")
+                    print (inputs[-1].shape)
+                    print (outputs[-1].shape)
+                    print ((input_features, output_features))
+                    raise
+                o = [*c, *outputs]
+                assert isinstance(o, (list,)), o
+                return o
             return helper
 
 
     # Idea: Start first res from ic() or conv.
     # Idea: also give input directly, not just embedding?
 
-    conved = average(block(height)([embedded]))
-    make_end = lambda name: sequential(
-        # Maxout(base),
-        # ic(),
-        Conv1D(name=name, filters=46, kernel_size=1, padding="same", strides=1, dtype='float32', kernel_initializer=msra),
-    )
-    clear = make_end('clear')(conved)
+    conved = avg(block(height)([embedded]))
+    clear = Conv1D(name='clear', filters=46, kernel_size=1, padding="same", strides=1, dtype='float32', kernel_initializer=msra)(conved)
     model = Model([input], [clear])
 
     model.compile(
@@ -493,10 +501,12 @@ def main():
             )
 
         try:
+            raise NotImplementedError()
             model = make_model(hparams)
             model.load_weights('weights/'+weights_name)
         except:
             try:
+                raise NotImplementedError()
                 model = keras.models.load_model('weights/'+weights_name)
                 print("Loaded weights.")
             except:
