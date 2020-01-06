@@ -305,7 +305,7 @@ def make_model_simple(hparams):
 
 
 # Mixture between fractal and dense.
-def make_model_fractal(hparams):
+def make_model_fractal_dense(hparams):
     n = hparams[HP_WINDOW]
     height = hparams[HP_HEIGHT]
 
@@ -321,16 +321,11 @@ def make_model_fractal(hparams):
         output_dim=46, input_length=n, input_dim=len(alpha), name="embeddingA", batch_input_shape=[batch_size, n],)(
             input)
 
-    def conv():
+    def conv(extra):
         def helper(input):
             max_kernel = hparams[HP_max_kernel]
-            convs = []
-            kernel_sizes = list(range(1, max_kernel+1, 2))
-            for i, k in enumerate(kernel_sizes):
-                fi = lambda j: round(blowup * base * j / len(kernel_sizes))
-                filters = fi (i+1) - fi(i)
-                convs.append(Conv1D(filters=filters, kernel_size=k, padding='same', kernel_initializer=msra)(input))
-            return ic()(relu()(concat(convs)))
+            conv = Conv1D(filters=extra, kernel_size=3, padding='same', kernel_initializer=msra)(input)
+            return cat(input, ic()(relu()(conv)))
         return helper
 
     def block(n):
@@ -339,15 +334,19 @@ def make_model_fractal(hparams):
             # If we use conv, we can have embedding go to 46 instead of base, I think.
             return lambda x: x
         elif n <= 1:
-            return conv()
+            return conv(base)
         else:
             # f 0 = identity (or conv in paper)
             # f (n+1) = (f n . f n) + conv
             def helper(input):
-                a = block(n-1)(input)
-                b = block(n-1)(cat(input, a))
-                c = conv()(input)
-                return concat([a, b, c])
+                (_batch_size, _time, input_features) = input.shape
+                output = block(n-1)(block(n-1)(input))
+                (_batch_sizeO, _timeO, output_features) = output.shape
+                assert (_batch_size, _time) == (_batch_sizeO, _timeO), ((_batch_size, _time), (_batch_sizeO, _timeO))
+                assert input_features <= output_features, (input_features, output_features)
+
+                c = conv(output_features - input_features)(input)
+                return plus(c, output)
                 # return concat([
                 #     block(n-1, copy=False)
                 #     (block(n-1, copy=True)
@@ -438,13 +437,13 @@ hparams = {
     HP_HEIGHT: 60,
     HP_WINDOW: l,
     HP_resSize: 46,
-    HP_blowup: 3,
+    HP_blowup: 1,
     HP_max_kernel: 3,
 }
 
-weights_name = "ndense-60-maxout3-ddropout0p05-val.h5"
+weights_name = "fdense-6-c46.h5"
 
-make_model = make_model_dense
+make_model = make_model_fractal_dense
 
 def main():
     # TODO: Actually set stuff to float16 only, in inference too.  Should use
