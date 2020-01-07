@@ -494,10 +494,12 @@ def make_model_recreate(hparams):
 
             # SpatialDropout1D(rate=hparams[HP_DROPOUT]), # Not sure whether that's good.
             # TODO: if BatchNormalization is independent for each dimension, we can do post BatchNorm, instead of pre?
+            # TODO: try different dropout scheme here, that messes less with variance?
             SpatialDropout1D(rate=hparams[HP_DROPOUT] * i / height),
             relu(),
             Conv1D(filters=4*size, kernel_size=1, padding='same'),
 
+            # TODO: Might want to drop this intermediate batch norm?
             TimeDistributed(BatchNormalization()),
             relu(),
             m,
