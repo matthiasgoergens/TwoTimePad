@@ -406,8 +406,11 @@ def main():
         # model = keras.models.load_model('weights/'+weights_name)
         model = make_model(hparams)
         model.summary()
-        model.load_weights('weights/'+weights_name)
-        print("Loaded weights.")
+        try:
+            model.load_weights('weights/'+weights_name)
+            print("Loaded weights.")
+        except:
+            print("Failed to load weights.")
         # for i in range(10*(layers+1)):
 
         print("Predict:")
