@@ -627,6 +627,7 @@ def main():
         try:
             model = make_model(hparams)
             model.load_weights('weights/'+weights_name)
+            print("Loaded weights.")
         except:
             try:
                 raise NotImplementedError()
