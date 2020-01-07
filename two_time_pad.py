@@ -478,7 +478,7 @@ def make_model_recreate(hparams):
     inputA = Input(shape=(n,), name="ciphertextA", dtype='int32')
     inputB = Input(shape=(n,), name="ciphertextB", dtype='int32')
     resSize = hparams[HP_resSize]
-    width = hparams[HP_max_kernel]
+    # width = hparams[HP_max_kernel]
     height = hparams[HP_HEIGHT]
 
     embedding = Embedding(output_dim=len(alpha), input_length=n, input_dim=len(alpha), name="my_embedding", batch_input_shape=[batch_size, n],)
@@ -501,6 +501,7 @@ def make_model_recreate(hparams):
             Conv1D(filters=size, kernel_size=width, padding='same'),
             ], name="resnet{}".format(i))
 
+    random.seed(23)
     def make_block(convedA, convedB):
         convedAx = [convedA]
         convedBx = [convedB]
@@ -510,6 +511,8 @@ def make_model_recreate(hparams):
             (_, _, num_channels) = catA.shape
             (_, _, num_channelsB) = catB.shape
             assert tuple(catA.shape) == tuple(catB.shape), (catA.shape, catB.shape)
+            width = 1 + 2*random.randrange(5, 8)
+            resSize = random.randrange(23, 2*46)
             resNet = makeResNet(i, num_channels, width, resSize)
 
             convedAx.append(resNet(catA))
@@ -554,6 +557,9 @@ hparams = {
 weights_name = "faithful-no-random.h5"
 
 make_model = make_model_recreate
+
+def show():
+    make_model(hparams).summary()
 
 def main():
     # TODO: Actually set stuff to float16 only, in inference too.  Should use
