@@ -294,7 +294,7 @@ def make_model(hparams):
     def make_block(convedA, convedB, block):
         convedAx = [convedA]
         convedBx = [convedB]
-        for i, (_) in enumerate(20*[None]):
+        for i, (_) in enumerate(40*[None]):
             width = 3 # 1 + 2*random.randrange(5, 8)
             convedA_, convedB_= zip(*sample2(list(zip(convedAx, convedBx))))
             assert len(convedA_) == len(convedB_), (len(convedA_), len(convedB_))
@@ -368,7 +368,7 @@ hparams = {
     HP_resSize: 4 * 46,
 }
 
-weights_name = "error.h5"
+weights_name = "error-40.h5"
 
 
 def main():
