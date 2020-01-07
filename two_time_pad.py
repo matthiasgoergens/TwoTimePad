@@ -389,9 +389,7 @@ def make_model_fractal_dense(hparams):
     model.compile(
         # optimizer=tf.optimizers.Adam(learning_rate=0.001/2),
         optimizer=tf.optimizers.Adam(),
-        # optimizer=tf.optimizers.SGD(),
         loss=tf.keras.losses.SparseCategoricalCrossentropy(from_logits=True),
-        # loss_weights={'clear': 1/2, 'key': 1/2},
         metrics=[nAccuracy],
     )
     return model
@@ -488,8 +486,6 @@ def make_model_recreate(hparams):
 
 
     def makeResNet(i, channels, _, size):
-        def fan():
-            pass
         fanInput = Input(shape=(n,4*size,))
         fan = concatenate([Conv1D(filters=round(size/3), kernel_size=width, padding='same')(fanInput) for width in [11, 13, 15]])
         m = Model([fanInput], [fan])
