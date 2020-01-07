@@ -239,6 +239,9 @@ HP_resSize = hp.HParam("resSize", hp.IntInterval(46, 8 * 46))
 
 METRIC_ACCURACY = "accuracy"
 
+accuracy = tf.keras.metrics.SparseCategoricalAccuracy()
+def error(y_true, y_pred):
+    return 1 - accuracy(y_true, y_pred)
 
 def make_model(hparams):
 
@@ -271,9 +274,9 @@ def make_model(hparams):
             Input(name="res_inputMe", shape=(n,channels,)),
 
             # SpatialDropout1D(rate=hparams[HP_DROPOUT]), # Not sure whether that's good.
-            TimeDistributed(BatchNormalization()),
-            relu(),
-            Conv1D(filters=4*size, kernel_size=1, padding='same'),
+            # TimeDistributed(BatchNormalization()),
+            # relu(),
+            # Conv1D(filters=4*size, kernel_size=1, padding='same'),
 
             TimeDistributed(BatchNormalization()),
             relu(),
@@ -291,7 +294,7 @@ def make_model(hparams):
         convedAx = [convedA]
         convedBx = [convedB]
         for i, (_) in enumerate(20*[None]):
-            width = 1 + 2*random.randrange(5, 8)
+            width = 3 # 1 + 2*random.randrange(5, 8)
             convedA_, convedB_= zip(*sample2(list(zip(convedAx, convedBx))))
             assert len(convedA_) == len(convedB_), (len(convedA_), len(convedB_))
             catA = concatenate([*convedA_, *convedB_])
@@ -299,7 +302,7 @@ def make_model(hparams):
             (_, _, num_channels) = catA.shape
             (_, _, num_channelsB) = catB.shape
             assert tuple(catA.shape) == tuple(catB.shape), (catA.shape, catB.shape)
-            size = random.randrange(23, 2*46)
+            size = 46 # random.randrange(23, 2*46)
             resNet = makeResNet(block*1000+i, num_channels, width, size)
 
             convedAx.append(resNet(catA))
@@ -341,8 +344,8 @@ def make_model(hparams):
     #         Add()([convedB, c(lstm(concatenate([convedB, convedA])))]))
 
     make_end = Conv1D(name="output", filters=46, kernel_size=1, padding="same", strides=1, dtype='float32')
-    totes_clear = make_end(SpatialDropout1D(rate=hparams[HP_DROPOUT])(convedA))
-    totes_key = make_end(SpatialDropout1D(rate=hparams[HP_DROPOUT])(convedB))
+    totes_clear = Layer(dtype='float32', name='clear')(make_end(SpatialDropout1D(rate=hparams[HP_DROPOUT])(convedA)))
+    totes_key = Layer(dtype='float32', name='key')(make_end(SpatialDropout1D(rate=hparams[HP_DROPOUT])(convedB)))
 
     # Note: investigate whether we need to TimeDistribute BatchNormalization.  If yes, that's a fine bug!!!
     model = Model([inputA, inputB], [totes_clear, totes_key])
@@ -350,19 +353,21 @@ def make_model(hparams):
     opt = tf.optimizers.Adam()
 
     model.compile(
-        optimizer=opt, loss=tf.keras.losses.SparseCategoricalCrossentropy(from_logits=True), metrics=["accuracy"],
+        optimizer=opt, loss=tf.keras.losses.SparseCategoricalCrossentropy(from_logits=True),
+        loss_weights={'clear': 1/2, 'key': 1/2},
+        metrics=[error],
     )
     return model
 
 l = 100
 hparams = {
     HP_DROPOUT: 0.0,
-    HP_HEIGHT: 50,
+    HP_HEIGHT: 60,
     HP_WINDOW: l,
     HP_resSize: 4 * 46,
 }
 
-weights_name = "denseCNN-20-random-mixed-pre-activation-shorter-seed-23.h5"
+weights_name = "error.h5"
 
 
 def main():
