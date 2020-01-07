@@ -38,6 +38,7 @@ from tensorflow.keras.layers import (
 )
 from tensorflow.keras.models import Model, Sequential
 from tensorflow_addons.layers import Maxout
+import tensorflaw_addons as tfa
 
 device_name = tf.test.gpu_device_name()
 if device_name != "/device:GPU:0":
@@ -307,6 +308,7 @@ def make_model_simple(hparams):
 
     model.compile(
         optimizer=tf.optimizers.Adam(learning_rate=0.001),
+
         # optimizer=tf.optimizers.Adam(),
         loss=tf.keras.losses.SparseCategoricalCrossentropy(from_logits=True),
         # loss_weights={'clear': 1/2, 'key': 1/2},
@@ -550,7 +552,9 @@ def make_model_recreate(hparams):
     model = Model([inputA, inputB], [totes_clear, totes_key])
 
     model.compile(
-        optimizer=tf.optimizers.Adam(),
+        # optimizer=tf.optimizers.Adam(),
+        optimizer=tfa.optimizers.AdamW(),
+
         loss=tf.keras.losses.SparseCategoricalCrossentropy(from_logits=True),
         loss_weights={'clear': 1/2, 'key': 1/2},
         metrics=[error],
@@ -621,7 +625,6 @@ def main():
             )
 
         try:
-            raise NotImplementedError()
             model = make_model(hparams)
             model.load_weights('weights/'+weights_name)
         except:
@@ -677,7 +680,7 @@ def main():
                     # x = x, y = y,
                     # steps_per_epoch=10 ** 4 // 32,
                     max_queue_size=10**3,
-                    # initial_epoch=311,
+                    initial_epoch=69,
                     # epochs=epoch+1,
                     # validation_split=0.1,
                     validation_data=TwoTimePadSequence(l, 2*10 ** 3 // 32, mtext, both=True),
