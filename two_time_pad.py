@@ -507,6 +507,7 @@ def make_model_recreate(hparams):
         convedBx = [convedB]
         for i, (_) in enumerate(20*[None]):
             width = 1 + 2*random.randrange(5, 8)
+            width = 1 + 2*6
             convedA_, convedB_= zip(*list(zip(convedAx, convedBx)))
             assert len(convedA_) == len(convedB_), (len(convedA_), len(convedB_))
             catA = concatenate([*convedA_, *convedB_])
@@ -515,6 +516,7 @@ def make_model_recreate(hparams):
             (_, _, num_channelsB) = catB.shape
             assert tuple(catA.shape) == tuple(catB.shape), (catA.shape, catB.shape)
             size = random.randrange(23, 2*46)
+            size = 57
             resNet = makeResNet(block*1000+i, num_channels, width, size)
 
             convedAx.append(resNet(catA))
@@ -565,7 +567,7 @@ hparams = {
     HP_max_kernel: 3,
 }
 
-weights_name = "faithful.h5"
+weights_name = "faithful-no-random.h5"
 
 make_model = make_model_recreate
 
