@@ -692,6 +692,9 @@ def main():
     # But wow, this bigger network (twice as large as before) trains really well without dropout.  And no learning rate reduction, yet.
     # It's plateau-ing about ~2.54 loss at default learning rate after ~20 epoch.  (If I didn't miss a restart.)
 
+    # adense-6-c46.h5/train and fractal-6-relu-avg-base_8-post-staggered3.h5 and denseCNN-20-random-mixed-pre-activation-shorter-seed-23.h5 are best so far.
+    # denseCNN-20-random-mixed-pre-activation-shorter-seed-23.h5 best by far.  That's what I'm trying to recreate and improve on.
+    # Both-loss at minimum was ~.92 (so single ~0.46) and accuracy was ~86.2%
 
 # Base loss for one side:
 # log(46, 2)
