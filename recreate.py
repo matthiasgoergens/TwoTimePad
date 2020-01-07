@@ -34,6 +34,7 @@ from tensorflow.keras.layers import (
     TimeDistributed,
     concatenate,
     Layer,
+    Add,
 )
 from tensorflow.keras.models import Model, Sequential
 # from tensorflow_addons.layers import Maxout, Sparsemax
@@ -271,13 +272,33 @@ def make_model(hparams):
     # Ideas: more nodes, no/lower dropout, only look for last layer for final loss.
     # nine layers is most likely overkill.
     def makeResNet(i, channels, width, size):
+        def helper(input):
+            for x in range(5):
+                conved = Sequential([
+                    Input(name="res_inputMe", shape=tuple(input.shape)[1:]),
+                    TimeDistributed(BatchNormalization()),
+                    relu(),
+                    Conv1D(filters=size, kernel_size=width, padding='same'),
+                    ])(input)
+                if tuple(input.shape) == tuple(conved.shape):
+                    conved = Add()([input, conved])
+                input = conved
+            return conved
+        return helper
+
+
         return Sequential([
             Input(name="res_inputMe", shape=(n,channels,)),
 
             # SpatialDropout1D(rate=hparams[HP_DROPOUT]), # Not sure whether that's good.
-            # TimeDistributed(BatchNormalization()),
-            # relu(),
-            # Conv1D(filters=4*size, kernel_size=1, padding='same'),
+            TimeDistributed(BatchNormalization()),
+            relu(),
+            Conv1D(filters=size, kernel_size=width, padding='same'),
+
+            TimeDistributed(BatchNormalization()),
+            relu(),
+            Conv1D(filters=size, kernel_size=width, padding='same'),
+
 
             TimeDistributed(BatchNormalization()),
             relu(),
@@ -294,7 +315,7 @@ def make_model(hparams):
     def make_block(convedA, convedB, block):
         convedAx = [convedA]
         convedBx = [convedB]
-        for i, (_) in enumerate(40*[None]):
+        for i, (_) in enumerate(20*[None]):
             width = 3 # 1 + 2*random.randrange(5, 8)
             convedA_, convedB_= zip(*sample2(list(zip(convedAx, convedBx))))
             assert len(convedA_) == len(convedB_), (len(convedA_), len(convedB_))
@@ -363,12 +384,12 @@ def make_model(hparams):
 l = 100
 hparams = {
     HP_DROPOUT: 0.0,
-    HP_HEIGHT: 60,
+    HP_HEIGHT: 20,
     HP_WINDOW: l,
     HP_resSize: 4 * 46,
 }
 
-weights_name = "error-40.h5"
+weights_name = "error-20x5-w3.h5"
 
 
 def main():
