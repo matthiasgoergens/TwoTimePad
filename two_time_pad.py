@@ -540,7 +540,7 @@ def make_model_recreate(hparams):
 
 l = 100
 hparams = {
-    HP_DROPOUT: 0.1,
+    HP_DROPOUT: 0.5,
     HP_HEIGHT: 20,
     HP_blocks: 1,
     HP_bottleneck: 46 * 5,
