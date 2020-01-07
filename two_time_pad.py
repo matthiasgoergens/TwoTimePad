@@ -487,7 +487,13 @@ def make_model_recreate(hparams):
     embeddedB = embedding(inputB)
 
 
-    def makeResNet(i, channels, width, size):
+    def makeResNet(i, channels, _, size):
+        def fan():
+            pass
+        fanInput = Input(shape=(n,4*size,))
+        fan = concatenate([Conv1D(filters=round(size/3), kernel_size=width, padding='same')(fanInput) for width in [11, 13, 15]])
+        m = Model([fanInput], [fan])
+
         return Sequential([
             Input(shape=(n,channels,)),
 
@@ -498,7 +504,7 @@ def make_model_recreate(hparams):
 
             TimeDistributed(BatchNormalization()),
             relu(),
-            Conv1D(filters=size, kernel_size=width, padding='same'),
+            m
             ], name="resnet{}".format(i))
 
     def make_block(convedA, convedB):
@@ -540,18 +546,18 @@ def make_model_recreate(hparams):
 l = 100
 hparams = {
     HP_DROPOUT: 0.0,
-    HP_HEIGHT: 40,
+    HP_HEIGHT: 20,
     HP_blocks: 1,
     HP_bottleneck: 46 * 5,
     ## Idea: skip the first few short columns in the fractal.
     # HP_SKIP_HEIGH: 3,
     HP_WINDOW: l,
-    HP_resSize: 30,
+    HP_resSize: 60,
     HP_blowup: 1,
     HP_max_kernel: 1 + 2*6,
 }
 
-weights_name = "faithful-mean-square-smoother.h5"
+weights_name = "faithful-mean-square-fanned.h5"
 
 make_model = make_model_recreate
 
