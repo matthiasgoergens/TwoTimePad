@@ -309,12 +309,16 @@ def make_model(hparams):
     def makeResNet(i, channels, width, size):
         inputA = Input(name="res_inputMe", shape=(n,channels,))
         inputB = Input(name="res_inputDu", shape=(n,channels,))
-        bottle_conv = Conv1D(filters=size, kernel_size=3, padding='same')
+        bottle_conv = Sequential([
+            TimeDistributed(BatchNormalization()),
+            relu(),
+            Conv1D(filters=size, kernel_size=1, padding='same'),
+            ])
         convedA = bottle_conv(inputA)
         convedB = bottle_conv(inputB)
 
 
-        for x in range(2):
+        for x in range(3):
             core = Sequential([
                 TimeDistributed(BatchNormalization()),
                 relu(),
@@ -413,7 +417,7 @@ hparams = {
     HP_resSize: 4 * 46,
 }
 
-weights_name = "error-20x3-w3_5-base_2x46-sharer.h5"
+weights_name = "error-20x4-w1_5-base_2x46-sharer.h5"
 
 
 def main():
