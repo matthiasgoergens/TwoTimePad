@@ -502,7 +502,7 @@ def make_model_recreate(hparams):
             Conv1D(filters=4*size, kernel_size=1, padding='same'),
 
             # TODO: Might want to drop this intermediate batch norm?  So that dropout doesn't have too much impact on variance.
-            # TimeDistributed(BatchNormalization()),
+            TimeDistributed(BatchNormalization()),
             relu(),
             m,
             TimeDistributed(BatchNormalization()),
