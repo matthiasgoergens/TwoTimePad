@@ -58,6 +58,9 @@ alphaRE = alpha.replace("-", "\\-")
 
 assert len(alpha) == 46
 
+accuracy = tf.keras.metrics.SparseCategoricalAccuracy()
+def error(y_true, y_pred):
+    return 1 - accuracy(y_true, y_pred)
 
 def load():
     # text = ' '.join(f.open('r').read() for f in pathlib.Path('data').glob('*.txt')).lower()
@@ -333,23 +336,17 @@ def make_model(hparams):
         convedB = bottleneck(relu_(batchnorm(catBx)))
         assert tuple(convedA.shape) == tuple(convedB.shape), (block, convedA.shape, convedB.shape)
 
-
-    # lstm = Bidirectional(LSTM(4*46, return_sequences=True))
-    # c = Conv1D(filters=resSize, kernel_size=1)
-
-    # convedA, convedB = (
-    #         Add()([convedA, c(lstm(concatenate([convedA, convedB])))]),
-    #         Add()([convedB, c(lstm(concatenate([convedB, convedA])))]))
-
     make_end = Conv1D(name="output", filters=46, kernel_size=1, padding="same", strides=1, dtype='float32')
     totes_clear = Layer(name='clear')(make_end(SpatialDropout1D(rate=hparams[HP_DROPOUT])(convedA)))
-    totes_key = Layer(name='key')(make_end(SpatialDropout1D(rate=hparams[HP_DROPOUT])(convedB))
+    totes_key = Layer(name='key')(make_end(SpatialDropout1D(rate=hparams[HP_DROPOUT])(convedB)))
 
     model = Model([inputA, inputB], [totes_clear, totes_key])
-    opt = tf.keras.mixed_precision.experimental.LossScaleOptimizer(tf.optimizers.Adam(), "dynamic")
 
     model.compile(
-        optimizer=opt, loss=tf.keras.losses.SparseCategoricalCrossentropy(from_logits=True), metrics=["accuracy"],
+        optimizer=tf.optimizers.Adam(),
+        loss=tf.keras.losses.SparseCategoricalCrossentropy(from_logits=True),
+        loss_weights={'clear': 1/2, 'key': 1/2},
+        metrics=[error],
     )
     return model
 
@@ -407,8 +404,8 @@ def main():
             # raise
         # for i in range(10*(layers+1)):
 
-        print("Predict:")
-        predict_size = 10
+        # print("Predict:")
+        # predict_size = 10
 
         # ita_cipher = cipher_for_predict()
         # [ita_label, ita_key] = model .predict(ita_cipher)
@@ -441,14 +438,14 @@ def main():
 #           print(f"My epoch: {epoch}")
         if True:
            model.fit(
-               x=TwoTimePadSequence(l, 10 ** 4 // 32, mtext),
+               x=TwoTimePadSequence(l, 10 ** 4 // 16, mtext),
                # x = x, y = y,
                steps_per_epoch=10 ** 4 // 32,
                max_queue_size=10**3,
                # initial_epoch=epoch,
                # epochs=epoch+1,
                # validation_split=0.1,
-               validation_data=TwoTimePadSequence(l, 2*10 ** 3 // 32, mtext),
+               # validation_data=TwoTimePadSequence(l, 2*10 ** 3 // 32, mtext),
                epochs=100_000,
                callbacks=callbacks_list,
                # batch_size=batch_size,
