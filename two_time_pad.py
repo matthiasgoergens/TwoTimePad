@@ -528,7 +528,7 @@ def make_model_recreate(hparams):
     convedA = embeddedA
     convedB = embeddedB
     if True:
-        convedAx, convedBx = make_block(convedA, convedB, block=block)
+        convedAx, convedBx = make_block(convedA, convedB, block=0)
 
         catAx = concatenate(convedAx)
         catBx = concatenate(convedBx)
