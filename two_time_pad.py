@@ -205,7 +205,7 @@ crelu = lambda: tf.nn.crelu
 
 class CRelu(Layer):
     def __init__(self, axis=-1, **kwargs):
-        self.axis = axis 
+        self.axis = axis
         super(CRelu, self).__init__(**kwargs)
 
     def build(self, input_shape):
@@ -224,7 +224,7 @@ class CRelu(Layer):
     def get_config(self, input_shape):
         config = {'axis': self.axis, }
         base_config = super(CReLU, self).get_config()
-        return dict(list(base_config.items()) + list(config.items())) 
+        return dict(list(base_config.items()) + list(config.items()))
 
 def plus(a, b):
     if a is None:
@@ -471,7 +471,7 @@ def make_model_dense(hparams):
     return model
 
 def make_model_recreate(hparams):
-  
+
     relu = ft.partial(tf.keras.layers.PReLU, shared_axes=[1])
 
     n = hparams[HP_WINDOW]
