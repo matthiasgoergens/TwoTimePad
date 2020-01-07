@@ -329,9 +329,9 @@ def make_model(hparams):
                     Add()([convedA, core(concatenate([convedA, convedB]))]),
                     Add()([convedB, core(concatenate([convedB, convedA]))]),
                     )
-        ic = Sequential([TimeDistributed(BatchNormalization()), relu()])
+        # ic = Sequential([TimeDistributed(BatchNormalization()), relu()])
 
-        return Model([inputA, inputB], [ic(convedA), ic(convedB)])
+        return Model([inputA, inputB], [convedA, convedB])
 
     random.seed(23)
     def sample2(pop):
@@ -417,7 +417,7 @@ hparams = {
     HP_resSize: 4 * 46,
 }
 
-weights_name = "error-20x4-w1_5-base_2x46-sharer.h5"
+weights_name = "error-20x4-w1_5-base_2x46-sharer-pre_act_only.h5"
 
 
 def main():
