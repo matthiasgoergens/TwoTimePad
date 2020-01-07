@@ -318,6 +318,7 @@ def make_model(hparams):
         convedB = bottle_conv(inputB)
 
 
+        #TODO: Try (a) without res-connection; (b) with bottleneck 4 * size
         for x in range(3):
             core = Sequential([
                 TimeDistributed(BatchNormalization()),
