@@ -478,7 +478,7 @@ def make_model_recreate(hparams):
     inputA = Input(shape=(n,), name="ciphertextA", dtype='int32')
     inputB = Input(shape=(n,), name="ciphertextB", dtype='int32')
     resSize = hparams[HP_resSize]
-    # width = hparams[HP_max_kernel]
+    width = hparams[HP_max_kernel]
     height = hparams[HP_HEIGHT]
 
     embedding = Embedding(output_dim=len(alpha), input_length=n, input_dim=len(alpha), name="my_embedding", batch_input_shape=[batch_size, n],)
@@ -501,7 +501,6 @@ def make_model_recreate(hparams):
             Conv1D(filters=size, kernel_size=width, padding='same'),
             ], name="resnet{}".format(i))
 
-    random.seed(23)
     def make_block(convedA, convedB):
         convedAx = [convedA]
         convedBx = [convedB]
@@ -511,13 +510,6 @@ def make_model_recreate(hparams):
             (_, _, num_channels) = catA.shape
             (_, _, num_channelsB) = catB.shape
             assert tuple(catA.shape) == tuple(catB.shape), (catA.shape, catB.shape)
-            width = 1 + 2*random.randrange(5, 8)
-            # Just to use up random numbers exactly like in original.
-            _ = random.randrange(23, 2*46)
-            # l = [x*x for x in range(23, 2*46)]
-            # resSize = round(math.sqrt(sum(l) / len(l)))
-            # > 60
-            # resSize = (23**2 + (2*46-1)**2)/2
             resNet = makeResNet(i, num_channels, width, resSize)
 
             convedAx.append(resNet(catA))
@@ -559,7 +551,7 @@ hparams = {
     HP_max_kernel: 1 + 2*6,
 }
 
-weights_name = "faithful-less-random-mean-square-smoother.h5"
+weights_name = "faithful-mean-square-smoother.h5"
 
 make_model = make_model_recreate
 
