@@ -591,7 +591,7 @@ def main():
             checkpoint,
             tensorboard_callback,
             # hp.KerasCallback(logdir, hparams),
-            ReduceLROnPlateau(monitor='nAccuracy', mode='min', patience=2, cooldown=10, factor=1/2, verbose=1, min_delta=0.001),
+            ReduceLROnPlateau(monitor='error', mode='min', patience=10, cooldown=10, factor=1/2, verbose=1, min_delta=0.001),
             # LearningRateScheduler(schedule),
             EarlyStopping(monitor='loss', patience=30, verbose=1, restore_best_weights=True)
         ]
@@ -661,7 +661,7 @@ def main():
                     # initial_epoch=311,
                     # epochs=epoch+1,
                     # validation_split=0.1,
-                    # validation_data=TwoTimePadSequence(l, 2*10 ** 3 // 32, mtext, both=False),
+                    validation_data=TwoTimePadSequence(l, 2*10 ** 3 // 32, mtext, both=False),
                     epochs=100_000,
                     callbacks=callbacks_list,
                     # batch_size=batch_size,
