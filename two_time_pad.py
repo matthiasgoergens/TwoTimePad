@@ -548,18 +548,18 @@ def make_model_recreate(hparams):
 l = 100
 hparams = {
     HP_DROPOUT: 0.0,
-    HP_HEIGHT: 20,
+    HP_HEIGHT: 40,
     HP_blocks: 1,
     HP_bottleneck: 46 * 5,
     ## Idea: skip the first few short columns in the fractal.
     # HP_SKIP_HEIGH: 3,
     HP_WINDOW: l,
-    HP_resSize: 60,
+    HP_resSize: 30,
     HP_blowup: 1,
     HP_max_kernel: 1 + 2*6,
 }
 
-weights_name = "faithful-less-random-mean-square.h5"
+weights_name = "faithful-less-random-mean-square-smoother.h5"
 
 make_model = make_model_recreate
 
