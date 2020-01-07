@@ -479,6 +479,7 @@ def make_model_recreate(hparams):
     inputB = Input(shape=(n,), name="ciphertextB", dtype='int32')
     resSize = hparams[HP_resSize]
     width = hparams[HP_max_kernel]
+    height = hparams[HP_HEIGHT]
 
     embedding = Embedding(output_dim=len(alpha), input_length=n, input_dim=len(alpha), name="my_embedding", batch_input_shape=[batch_size, n],)
 
@@ -503,11 +504,9 @@ def make_model_recreate(hparams):
     def make_block(convedA, convedB, block):
         convedAx = [convedA]
         convedBx = [convedB]
-        for i, (_) in enumerate(20*[None]):
-            convedA_, convedB_= zip(*list(zip(convedAx, convedBx)))
-            assert len(convedA_) == len(convedB_), (len(convedA_), len(convedB_))
-            catA = concatenate([*convedA_, *convedB_])
-            catB = concatenate([*convedB_, *convedA_])
+        for i in range(height):
+            catA = concatenate([*convedAx, *convedBx])
+            catB = concatenate([*convedBx, *convedAx])
             (_, _, num_channels) = catA.shape
             (_, _, num_channelsB) = catB.shape
             assert tuple(catA.shape) == tuple(catB.shape), (catA.shape, catB.shape)
