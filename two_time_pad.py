@@ -501,7 +501,7 @@ def make_model_recreate(hparams):
             Conv1D(filters=size, kernel_size=width, padding='same'),
             ], name="resnet{}".format(i))
 
-    def make_block(convedA, convedB, block):
+    def make_block(convedA, convedB):
         convedAx = [convedA]
         convedBx = [convedB]
         for i in range(height):
@@ -510,27 +510,18 @@ def make_model_recreate(hparams):
             (_, _, num_channels) = catA.shape
             (_, _, num_channelsB) = catB.shape
             assert tuple(catA.shape) == tuple(catB.shape), (catA.shape, catB.shape)
-            resNet = makeResNet(block*1000+i, num_channels, width, resSize)
+            resNet = makeResNet(i, num_channels, width, resSize)
 
             convedAx.append(resNet(catA))
             convedBx.append(resNet(catB))
 
             assert len(convedAx) == len(convedBx), (len(convedAx), len(convedBx))
             for j, (a, b) in enumerate(zip(convedAx, convedBx)):
-                assert tuple(a.shape) == tuple(b.shape), (block, i, j, a.shape, b.shape)
-        return convedAx, convedBx
+                assert tuple(a.shape) == tuple(b.shape), (i, j, a.shape, b.shape)
+        return concatenate(convedAx), concatenate(convedBx)
 
-    convedA = embeddedA
-    convedB = embeddedB
-
-    convedAx, convedBx = make_block(convedA, convedB, block=0)
-
-    catAx = concatenate(convedAx)
-    catBx = concatenate(convedBx)
-    assert tuple(catAx.shape) == tuple(catBx.shape), (catAx.shape, catBx.shape)
-
-    convedA = catAx
-    convedB = catBx
+    convedA, convedB = make_block(embeddedA, embeddedB)
+    assert tuple(convedA.shape) == tuple(convedB.shape), (convedA.shape, convedB.shape)
 
     make_end = Conv1D(name="output", filters=46, kernel_size=1, padding="same", strides=1, dtype='float32')
     totes_clear = Layer(name='clear', dtype='float32')(make_end(SpatialDropout1D(rate=hparams[HP_DROPOUT])(convedA)))
