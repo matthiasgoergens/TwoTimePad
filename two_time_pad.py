@@ -512,7 +512,12 @@ def make_model_recreate(hparams):
             (_, _, num_channelsB) = catB.shape
             assert tuple(catA.shape) == tuple(catB.shape), (catA.shape, catB.shape)
             width = 1 + 2*random.randrange(5, 8)
-            resSize = random.randrange(23, 2*46)
+            # Just to use up random numbers exactly like in original.
+            _ = random.randrange(23, 2*46)
+            # l = [x*x for x in range(23, 2*46)]
+            # resSize = round(math.sqrt(sum(l) / len(l)))
+            # > 60
+            # resSize = (23**2 + (2*46-1)**2)/2
             resNet = makeResNet(i, num_channels, width, resSize)
 
             convedAx.append(resNet(catA))
@@ -549,7 +554,7 @@ hparams = {
     ## Idea: skip the first few short columns in the fractal.
     # HP_SKIP_HEIGH: 3,
     HP_WINDOW: l,
-    HP_resSize: 57,
+    HP_resSize: 60,
     HP_blowup: 1,
     HP_max_kernel: 1 + 2*6,
 }
