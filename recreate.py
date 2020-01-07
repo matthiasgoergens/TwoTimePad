@@ -245,6 +245,8 @@ accuracy = tf.keras.metrics.SparseCategoricalAccuracy()
 def error(y_true, y_pred):
     return 1 - accuracy(y_true, y_pred)
 
+# TODO: Try MSRA initializer
+
 def make_model(hparams):
 
     relu = ft.partial(tf.keras.layers.PReLU, shared_axes=[1])
@@ -272,19 +274,16 @@ def make_model(hparams):
     # Ideas: more nodes, no/lower dropout, only look for last layer for final loss.
     # nine layers is most likely overkill.
     def makeResNet(i, channels, width, size):
-        def helper(input):
-            for x in range(5):
-                conved = Sequential([
-                    Input(name="res_inputMe", shape=tuple(input.shape)[1:]),
-                    TimeDistributed(BatchNormalization()),
-                    relu(),
-                    Conv1D(filters=size, kernel_size=width, padding='same'),
-                    ])(input)
-                if tuple(input.shape) == tuple(conved.shape):
-                    conved = Add()([input, conved])
-                input = conved
-            return conved
-        return helper
+        input = Input(name="res_inputMe", shape=(n,channels,))
+        conved = Conv1D(filters=size, kernel_size=width, padding='same')(input)
+
+        for x in range(5):
+            conved = Add()([conved, Sequential([
+                TimeDistributed(BatchNormalization()),
+                relu(),
+                Conv1D(filters=size, kernel_size=width, padding='same'),
+                ])(conved)])
+        return Model([input], [conved])
 
 
         return Sequential([
@@ -389,7 +388,7 @@ hparams = {
     HP_resSize: 4 * 46,
 }
 
-weights_name = "error-20x5-w3.h5"
+weights_name = "error-20x5-w3-share.h5"
 
 
 def main():
