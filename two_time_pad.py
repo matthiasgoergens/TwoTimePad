@@ -477,7 +477,7 @@ def make_model_recreate(hparams):
     n = hparams[HP_WINDOW]
     inputA = Input(shape=(n,), name="ciphertextA", dtype='int32')
     inputB = Input(shape=(n,), name="ciphertextB", dtype='int32')
-    resSize = hparams[HP_resSize]
+    # resSize = hparams[HP_resSize]
 
     embedding = Embedding(output_dim=len(alpha), input_length=n, input_dim=len(alpha), name="my_embedding", batch_input_shape=[batch_size, n],)
 
@@ -538,8 +538,8 @@ def make_model_recreate(hparams):
         convedB = catBx
 
     make_end = Conv1D(name="output", filters=46, kernel_size=1, padding="same", strides=1, dtype='float32')
-    totes_clear = Layer(name='clear')(make_end(SpatialDropout1D(rate=hparams[HP_DROPOUT])(convedA)))
-    totes_key = Layer(name='key')(make_end(SpatialDropout1D(rate=hparams[HP_DROPOUT])(convedB)))
+    totes_clear = Layer(name='clear', dtype='float32')(make_end(SpatialDropout1D(rate=hparams[HP_DROPOUT])(convedA)))
+    totes_key = Layer(name='key', dtype='float32')(make_end(SpatialDropout1D(rate=hparams[HP_DROPOUT])(convedB)))
 
     model = Model([inputA, inputB], [totes_clear, totes_key])
 
