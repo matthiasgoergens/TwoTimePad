@@ -477,7 +477,8 @@ def make_model_recreate(hparams):
     n = hparams[HP_WINDOW]
     inputA = Input(shape=(n,), name="ciphertextA", dtype='int32')
     inputB = Input(shape=(n,), name="ciphertextB", dtype='int32')
-    # resSize = hparams[HP_resSize]
+    resSize = hparams[HP_resSize]
+    width = hparams[HP_max_kernel]
 
     embedding = Embedding(output_dim=len(alpha), input_length=n, input_dim=len(alpha), name="my_embedding", batch_input_shape=[batch_size, n],)
 
@@ -499,15 +500,10 @@ def make_model_recreate(hparams):
             Conv1D(filters=size, kernel_size=width, padding='same'),
             ], name="resnet{}".format(i))
 
-
-    random.seed(23)
-
     def make_block(convedA, convedB, block):
         convedAx = [convedA]
         convedBx = [convedB]
         for i, (_) in enumerate(20*[None]):
-            width = 1 + 2*random.randrange(5, 8)
-            width = 1 + 2*6
             convedA_, convedB_= zip(*list(zip(convedAx, convedBx)))
             assert len(convedA_) == len(convedB_), (len(convedA_), len(convedB_))
             catA = concatenate([*convedA_, *convedB_])
@@ -515,9 +511,7 @@ def make_model_recreate(hparams):
             (_, _, num_channels) = catA.shape
             (_, _, num_channelsB) = catB.shape
             assert tuple(catA.shape) == tuple(catB.shape), (catA.shape, catB.shape)
-            size = random.randrange(23, 2*46)
-            size = 57
-            resNet = makeResNet(block*1000+i, num_channels, width, size)
+            resNet = makeResNet(block*1000+i, num_channels, width, resSize)
 
             convedAx.append(resNet(catA))
             convedBx.append(resNet(catB))
@@ -529,15 +523,15 @@ def make_model_recreate(hparams):
 
     convedA = embeddedA
     convedB = embeddedB
-    if True:
-        convedAx, convedBx = make_block(convedA, convedB, block=0)
 
-        catAx = concatenate(convedAx)
-        catBx = concatenate(convedBx)
-        assert tuple(catAx.shape) == tuple(catBx.shape), (catAx.shape, catBx.shape)
+    convedAx, convedBx = make_block(convedA, convedB, block=0)
 
-        convedA = catAx
-        convedB = catBx
+    catAx = concatenate(convedAx)
+    catBx = concatenate(convedBx)
+    assert tuple(catAx.shape) == tuple(catBx.shape), (catAx.shape, catBx.shape)
+
+    convedA = catAx
+    convedB = catBx
 
     make_end = Conv1D(name="output", filters=46, kernel_size=1, padding="same", strides=1, dtype='float32')
     totes_clear = Layer(name='clear', dtype='float32')(make_end(SpatialDropout1D(rate=hparams[HP_DROPOUT])(convedA)))
@@ -562,9 +556,9 @@ hparams = {
     ## Idea: skip the first few short columns in the fractal.
     # HP_SKIP_HEIGH: 3,
     HP_WINDOW: l,
-    HP_resSize: 46,
+    HP_resSize: 57,
     HP_blowup: 1,
-    HP_max_kernel: 3,
+    HP_max_kernel: 1 + 2*6,
 }
 
 weights_name = "faithful-no-random.h5"
