@@ -559,7 +559,7 @@ hparams = {
     HP_max_kernel: 1 + 2*6,
 }
 
-weights_name = "faithful-no-random.h5"
+weights_name = "faithful-less-random-mean-square.h5"
 
 make_model = make_model_recreate
 
