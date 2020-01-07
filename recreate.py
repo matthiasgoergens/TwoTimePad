@@ -343,7 +343,7 @@ def make_model(hparams):
             (_, _, num_channels) = catA.shape
             (_, _, num_channelsB) = catB.shape
             assert tuple(catA.shape) == tuple(catB.shape), (catA.shape, catB.shape)
-            size = 46 # random.randrange(23, 2*46)
+            size = 60 # random.randrange(23, 2*46)
             resNet = makeResNet(block*1000+i, num_channels, width, size)
             resA, resB = resNet([catA, catB])
 
@@ -409,7 +409,7 @@ hparams = {
     HP_resSize: 4 * 46,
 }
 
-weights_name = "error-20x5-w3-sharer.h5"
+weights_name = "error-20x5-w3-base60-sharer.h5"
 
 
 def main():
