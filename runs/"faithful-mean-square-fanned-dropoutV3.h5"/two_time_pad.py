@@ -552,7 +552,7 @@ def make_model_recreate(hparams):
     model = Model([inputA, inputB], [totes_clear, totes_key])
 
     model.compile(
-        optimizer=tf.optimizers.Adam(learning_rate=1),
+        optimizer=tf.optimizers.Adam(),
         # optimizer=tfa.optimizers.AdamW(),
 
         loss=tf.keras.losses.SparseCategoricalCrossentropy(from_logits=True),
@@ -563,7 +563,7 @@ def make_model_recreate(hparams):
 
 l = 100
 hparams = {
-    HP_DROPOUT: 0,
+    HP_DROPOUT: 0.1,
     HP_HEIGHT: 20,
     HP_blocks: 1,
     HP_bottleneck: 46 * 5,
