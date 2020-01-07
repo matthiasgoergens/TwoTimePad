@@ -307,7 +307,7 @@ def make_model_simple(hparams):
     model = Model([inputA], [clear])
 
     model.compile(
-        optimizer=tf.optimizers.Adam(learning_rate=0.001),
+        optimizer=tf.optimizers.Adam(learning_rate=1),
 
         # optimizer=tf.optimizers.Adam(),
         loss=tf.keras.losses.SparseCategoricalCrossentropy(from_logits=True),
@@ -552,8 +552,8 @@ def make_model_recreate(hparams):
     model = Model([inputA, inputB], [totes_clear, totes_key])
 
     model.compile(
-        # optimizer=tf.optimizers.Adam(),
-        optimizer=tfa.optimizers.AdamW(),
+        optimizer=tf.optimizers.Adam(),
+        # optimizer=tfa.optimizers.AdamW(),
 
         loss=tf.keras.losses.SparseCategoricalCrossentropy(from_logits=True),
         loss_weights={'clear': 1/2, 'key': 1/2},
@@ -614,7 +614,7 @@ def main():
             checkpoint,
             tensorboard_callback,
             # hp.KerasCallback(logdir, hparams),
-            ReduceLROnPlateau(monitor='error', mode='min', patience=10, cooldown=10, factor=1/2, verbose=1, min_delta=0.001),
+            ReduceLROnPlateau(monitor='loss', mode='min', patience=10, cooldown=10, factor=1/2, verbose=1, min_delta=0.001),
             # LearningRateScheduler(schedule),
             EarlyStopping(monitor='loss', patience=30, verbose=1, restore_best_weights=True)
         ]
