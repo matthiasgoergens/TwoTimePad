@@ -313,7 +313,7 @@ def make_model(hparams):
         convedB = bottle_conv(inputB)
 
 
-        for x in range(5):
+        for x in range(2):
             core = Sequential([
                 TimeDistributed(BatchNormalization()),
                 relu(),
@@ -324,7 +324,9 @@ def make_model(hparams):
                     Add()([convedA, core(concatenate([convedA, convedB]))]),
                     Add()([convedB, core(concatenate([convedB, convedA]))]),
                     )
-        return Model([inputA, inputB], [convedA, convedB])
+        ic = Sequential([TimeDistributed(BatchNormalization()), relu()])
+
+        return Model([inputA, inputB], [ic(convedA), ic(convedB)])
 
     random.seed(23)
     def sample2(pop):
@@ -344,7 +346,7 @@ def make_model(hparams):
             (_, _, num_channels) = catA.shape
             (_, _, num_channelsB) = catB.shape
             assert tuple(catA.shape) == tuple(catB.shape), (catA.shape, catB.shape)
-            size = 60 # random.randrange(23, 2*46)
+            size = 2*46 # random.randrange(23, 2*46)
             resNet = makeResNet(block*1000+i, num_channels, width, size)
             resA, resB = resNet([catA, catB])
 
@@ -410,7 +412,7 @@ hparams = {
     HP_resSize: 4 * 46,
 }
 
-weights_name = "error-20x5-w3-base60-sharer.h5"
+weights_name = "error-20x3-w3-base2x46-sharer.h5"
 
 
 def main():
