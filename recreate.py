@@ -273,36 +273,37 @@ def make_model(hparams):
 
     # Ideas: more nodes, no/lower dropout, only look for last layer for final loss.
     # nine layers is most likely overkill.
-    def makeResNet(i, channels, width, size):
-        input = Input(name="res_inputMe", shape=(n,channels,))
-        conved = Conv1D(filters=size, kernel_size=width, padding='same')(input)
 
-        for x in range(5):
-            conved = Add()([conved, Sequential([
-                TimeDistributed(BatchNormalization()),
-                relu(),
-                Conv1D(filters=size, kernel_size=width, padding='same'),
-                ])(conved)])
-        return Model([input], [conved])
+    # def makeResNet(i, channels, width, size):
+    #     input = Input(name="res_inputMe", shape=(n,channels,))
+    #     conved = Conv1D(filters=size, kernel_size=width, padding='same')(input)
 
-
-        return Sequential([
-            Input(name="res_inputMe", shape=(n,channels,)),
-
-            # SpatialDropout1D(rate=hparams[HP_DROPOUT]), # Not sure whether that's good.
-            TimeDistributed(BatchNormalization()),
-            relu(),
-            Conv1D(filters=size, kernel_size=width, padding='same'),
-
-            TimeDistributed(BatchNormalization()),
-            relu(),
-            Conv1D(filters=size, kernel_size=width, padding='same'),
+    #     for x in range(5):
+    #         conved = Add()([conved, Sequential([
+    #             TimeDistributed(BatchNormalization()),
+    #             relu(),
+    #             Conv1D(filters=size, kernel_size=width, padding='same'),
+    #             ])(conved)])
+    #     return Model([input], [conved])
 
 
-            TimeDistributed(BatchNormalization()),
-            relu(),
-            Conv1D(filters=size, kernel_size=width, padding='same'),
-            ], name="resnet{}".format(i))
+    #     return Sequential([
+    #         Input(name="res_inputMe", shape=(n,channels,)),
+
+    #         # SpatialDropout1D(rate=hparams[HP_DROPOUT]), # Not sure whether that's good.
+    #         TimeDistributed(BatchNormalization()),
+    #         relu(),
+    #         Conv1D(filters=size, kernel_size=width, padding='same'),
+
+    #         TimeDistributed(BatchNormalization()),
+    #         relu(),
+    #         Conv1D(filters=size, kernel_size=width, padding='same'),
+
+
+    #         TimeDistributed(BatchNormalization()),
+    #         relu(),
+    #         Conv1D(filters=size, kernel_size=width, padding='same'),
+    #         ], name="resnet{}".format(i))
 
     def makeResNet(i, channels, width, size):
         inputA = Input(name="res_inputMe", shape=(n,channels,))
