@@ -625,7 +625,9 @@ def main():
             )
 
         try:
+            print("Making model.")
             model = make_model(hparams)
+            print("Trying to load weights.")
             model.load_weights('weights/'+weights_name)
             print("Loaded weights.")
         except:
@@ -633,7 +635,7 @@ def main():
                 raise NotImplementedError()
                 model = keras.models.load_model('weights/'+weights_name)
                 model.summary()
-                print("Loaded weights.")
+                print("Loaded model.")
                 sys.exit(0)
             except:
                 model = make_model(hparams)
