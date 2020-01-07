@@ -494,22 +494,33 @@ def make_model_recreate(hparams):
 
             # SpatialDropout1D(rate=hparams[HP_DROPOUT]), # Not sure whether that's good.
             # TODO: if BatchNormalization is independent for each dimension, we can do post BatchNorm, instead of pre?
-            SpatialDropout1D(rate=hparams[HP_DROPOUT] * i / height),
+            # TODO: try different dropout scheme here, that messes less with variance?
+
+            ## Note: dropout done outside.
+            # SpatialDropout1D(rate=hparams[HP_DROPOUT] * i / height),
             relu(),
             Conv1D(filters=4*size, kernel_size=1, padding='same'),
 
-            TimeDistributed(BatchNormalization()),
+            # TODO: Might want to drop this intermediate batch norm?  So that dropout doesn't have too much impact on variance.
+            # TimeDistributed(BatchNormalization()),
             relu(),
             m,
             TimeDistributed(BatchNormalization()),
             ], name="resnet{}".format(i))
 
+    def make_drop(layers):
+        drop = hparams[HP_DROPOUT]
+        return list(reversed([
+            SpatialDropout1D(drop * distance / height)(layer)
+            for distance, layer in enumerate(reversed(layers))]))
+
     def make_block(convedA, convedB):
         convedAx = [convedA]
         convedBx = [convedB]
         for i in range(height):
-            catA = concatenate([*convedAx, *convedBx])
-            catB = concatenate([*convedBx, *convedAx])
+            # We deliberately use different dropout masks in all four cases.
+            catA = concatenate([*make_drop(convedAx), *make_drop(convedBx)])
+            catB = concatenate([*make_drop(convedBx), *make_drop(convedAx)])
             (_, _, num_channels) = catA.shape
             (_, _, num_channelsB) = catB.shape
             assert tuple(catA.shape) == tuple(catB.shape), (catA.shape, catB.shape)
@@ -560,7 +571,7 @@ hparams = {
     HP_max_kernel: 1 + 2*6,
 }
 
-weights_name = "faithful-mean-square-fanned-dropout_more_at_end.h5"
+weights_name = "faithful-mean-square-fanned-dropoutV3.h5"
 
 make_model = make_model_recreate
 
