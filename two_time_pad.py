@@ -38,7 +38,7 @@ from tensorflow.keras.layers import (
 )
 from tensorflow.keras.models import Model, Sequential
 from tensorflow_addons.layers import Maxout
-import tensorflaw_addons as tfa
+import tensorflow_addons as tfa
 
 device_name = tf.test.gpu_device_name()
 if device_name != "/device:GPU:0":
