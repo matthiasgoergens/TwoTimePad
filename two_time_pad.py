@@ -478,7 +478,7 @@ def make_model_recreate(hparams):
     inputA = Input(shape=(n,), name="ciphertextA", dtype='int32')
     inputB = Input(shape=(n,), name="ciphertextB", dtype='int32')
     resSize = hparams[HP_resSize]
-    # width = hparams[HP_max_kernel]
+    width = hparams[HP_max_kernel]
     height = hparams[HP_HEIGHT]
 
     embedding = Embedding(output_dim=len(alpha), input_length=n, input_dim=len(alpha), name="my_embedding", batch_input_shape=[batch_size, n],)
@@ -487,7 +487,13 @@ def make_model_recreate(hparams):
     embeddedB = embedding(inputB)
 
 
-    def makeResNet(i, channels, width, size):
+    def makeResNet(i, channels, _, size):
+        def fan():
+            pass
+        fanInput = Input(shape=(n,4*size,))
+        fan = concatenate([Conv1D(filters=round(size/3), kernel_size=width, padding='same')(fanInput) for width in [11, 13, 15]])
+        m = Model([fanInput], [fan])
+
         return Sequential([
             Input(shape=(n,channels,)),
 
@@ -498,10 +504,9 @@ def make_model_recreate(hparams):
 
             TimeDistributed(BatchNormalization()),
             relu(),
-            Conv1D(filters=size, kernel_size=width, padding='same'),
+            m
             ], name="resnet{}".format(i))
 
-    random.seed(23)
     def make_block(convedA, convedB):
         convedAx = [convedA]
         convedBx = [convedB]
@@ -511,13 +516,6 @@ def make_model_recreate(hparams):
             (_, _, num_channels) = catA.shape
             (_, _, num_channelsB) = catB.shape
             assert tuple(catA.shape) == tuple(catB.shape), (catA.shape, catB.shape)
-            width = 1 + 2*random.randrange(5, 8)
-            # Just to use up random numbers exactly like in original.
-            _ = random.randrange(23, 2*46)
-            # l = [x*x for x in range(23, 2*46)]
-            # resSize = round(math.sqrt(sum(l) / len(l)))
-            # > 60
-            # resSize = (23**2 + (2*46-1)**2)/2
             resNet = makeResNet(i, num_channels, width, resSize)
 
             convedAx.append(resNet(catA))
@@ -559,7 +557,7 @@ hparams = {
     HP_max_kernel: 1 + 2*6,
 }
 
-weights_name = "faithful-less-random-mean-square.h5"
+weights_name = "faithful-mean-square-fanned.h5"
 
 make_model = make_model_recreate
 
@@ -692,6 +690,9 @@ def main():
     # But wow, this bigger network (twice as large as before) trains really well without dropout.  And no learning rate reduction, yet.
     # It's plateau-ing about ~2.54 loss at default learning rate after ~20 epoch.  (If I didn't miss a restart.)
 
+    # adense-6-c46.h5/train and fractal-6-relu-avg-base_8-post-staggered3.h5 and denseCNN-20-random-mixed-pre-activation-shorter-seed-23.h5 are best so far.
+    # denseCNN-20-random-mixed-pre-activation-shorter-seed-23.h5 best by far.  That's what I'm trying to recreate and improve on.
+    # Both-loss at minimum was ~.92 (so single ~0.46) and accuracy was ~86.2%
 
 # Base loss for one side:
 # log(46, 2)
