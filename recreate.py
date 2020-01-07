@@ -2,6 +2,7 @@
 
 import functools as ft
 import itertools as it
+import math
 import random
 import re
 import sys
@@ -308,7 +309,7 @@ def make_model(hparams):
     def makeResNet(i, channels, width, size):
         inputA = Input(name="res_inputMe", shape=(n,channels,))
         inputB = Input(name="res_inputDu", shape=(n,channels,))
-        bottle_conv = Conv1D(filters=size, kernel_size=width, padding='same')
+        bottle_conv = Conv1D(filters=size, kernel_size=3, padding='same')
         convedA = bottle_conv(inputA)
         convedB = bottle_conv(inputB)
 
@@ -317,7 +318,7 @@ def make_model(hparams):
             core = Sequential([
                 TimeDistributed(BatchNormalization()),
                 relu(),
-                Conv1D(filters=size, kernel_size=width, padding='same'),
+                Conv1D(filters=size, kernel_size=5, padding='same'),
                 ])
 
             convedA, convedB = (
@@ -338,7 +339,7 @@ def make_model(hparams):
         convedAx = [convedA]
         convedBx = [convedB]
         for i, (_) in enumerate(20*[None]):
-            width = 3 # 1 + 2*random.randrange(5, 8)
+            width = 5 # 1 + 2*random.randrange(5, 8)
             convedA_, convedB_= zip(*sample2(list(zip(convedAx, convedBx))))
             assert len(convedA_) == len(convedB_), (len(convedA_), len(convedB_))
             catA = concatenate([*convedA_, *convedB_])
@@ -346,7 +347,7 @@ def make_model(hparams):
             (_, _, num_channels) = catA.shape
             (_, _, num_channelsB) = catB.shape
             assert tuple(catA.shape) == tuple(catB.shape), (catA.shape, catB.shape)
-            size = 2*46 # random.randrange(23, 2*46)
+            size = round(2*46) # random.randrange(23, 2*46)
             resNet = makeResNet(block*1000+i, num_channels, width, size)
             resA, resB = resNet([catA, catB])
 
@@ -412,7 +413,7 @@ hparams = {
     HP_resSize: 4 * 46,
 }
 
-weights_name = "error-20x3-w3-base2x46-sharer.h5"
+weights_name = "error-20x3-w3_5-base_2x46-sharer.h5"
 
 
 def main():
