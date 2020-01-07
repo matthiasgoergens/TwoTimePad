@@ -59,10 +59,12 @@ alphaRE = alpha.replace("-", "\\-")
 
 assert len(alpha) == 46
 
-
 accuracy = tf.keras.metrics.SparseCategoricalAccuracy()
 def nAccuracy(y_true, y_pred):
     return 1 - accuracy(y_true, y_pred)
+def error(y_true, y_pred):
+    return 1 - accuracy(y_true, y_pred)
+
 
 def load():
     # text = ' '.join(f.open('r').read() for f in pathlib.Path('data').glob('*.txt')).lower()
@@ -404,26 +406,23 @@ def make_model_dense(hparams):
         Dropout(rate=hparams[HP_DROPOUT]/2),
     )
 
-    input = Input(shape=(n,), name="ciphertextA", dtype='int32')
+    inputA = Input(shape=(n,), name="ciphertextA", dtype='int32')
+    inputB = Input(shape=(n,), name="ciphertextB", dtype='int32')
     base = hparams[HP_resSize]
     blowup = hparams[HP_blowup]
-    embedded = Embedding(
-        output_dim=46, input_length=n, input_dim=len(alpha), name="embeddingA", batch_input_shape=[batch_size, n],)(
-            input)
+    embedding = Embedding(
+        output_dim=46, input_length=n, input_dim=len(alpha), name="embeddingA", batch_input_shape=[batch_size, n],)
+    embeddedA = embedding(inputA)
+    embeddedB = embedding(inputB)
 
     def conv():
         def helper(input):
-            max_kernel = hparams[HP_max_kernel]
-            convs = []
-            kernel_sizes = [max_kernel] # list(range(1, max_kernel+1, 2))
-            for i, k in enumerate(kernel_sizes):
-                fi = lambda j: round(blowup * base * j / len(kernel_sizes))
-                filters = fi (i+1) - fi(i)
-                convs.append(Conv1D(filters=filters, kernel_size=k, padding='same', kernel_initializer=msra)(input))
-            return ic()(relu()(concat(convs)))
+            conved = Conv1D(filters=base, kernel_size=3, padding='same', kernel_initializer=msra)(input)
+            return ic()(relu()(conved))
         return helper
 
-    def dense1(input):
+    def dense1(inputA, inputB):
+        # TODO: finish
         return cat(input, conv()(input))
     def denseN(height, input):
         return sequential(*(height * [dense1]))(input)
@@ -471,11 +470,92 @@ def make_model_dense(hparams):
     )
     return model
 
+def make_model_recreate(hparams):
+  
+    relu = ft.partial(tf.keras.layers.PReLU, shared_axes=[1])
+
+    n = hparams[HP_WINDOW]
+    inputA = Input(shape=(n,), name="ciphertextA", dtype='int32')
+    inputB = Input(shape=(n,), name="ciphertextB", dtype='int32')
+    resSize = hparams[HP_resSize]
+
+    embedding = Embedding(output_dim=len(alpha), input_length=n, input_dim=len(alpha), name="my_embedding", batch_input_shape=[batch_size, n],)
+
+    embeddedA = embedding(inputA)
+    embeddedB = embedding(inputB)
+
+
+    def makeResNet(i, channels, width, size):
+        return Sequential([
+            Input(name="res_inputMe", shape=(n,channels,)),
+
+            # SpatialDropout1D(rate=hparams[HP_DROPOUT]), # Not sure whether that's good.
+            TimeDistributed(BatchNormalization()),
+            relu(),
+            Conv1D(filters=4*size, kernel_size=1, padding='same'),
+
+            TimeDistributed(BatchNormalization()),
+            relu(),
+            Conv1D(filters=size, kernel_size=width, padding='same'),
+            ], name="resnet{}".format(i))
+
+
+    random.seed(23)
+
+    def make_block(convedA, convedB, block):
+        convedAx = [convedA]
+        convedBx = [convedB]
+        for i, (_) in enumerate(20*[None]):
+            width = 1 + 2*random.randrange(5, 8)
+            convedA_, convedB_= zip(*list(zip(convedAx, convedBx)))
+            assert len(convedA_) == len(convedB_), (len(convedA_), len(convedB_))
+            catA = concatenate([*convedA_, *convedB_])
+            catB = concatenate([*convedB_, *convedA_])
+            (_, _, num_channels) = catA.shape
+            (_, _, num_channelsB) = catB.shape
+            assert tuple(catA.shape) == tuple(catB.shape), (catA.shape, catB.shape)
+            size = random.randrange(23, 2*46)
+            resNet = makeResNet(block*1000+i, num_channels, width, size)
+
+            convedAx.append(resNet(catA))
+            convedBx.append(resNet(catB))
+
+            assert len(convedAx) == len(convedBx), (len(convedAx), len(convedBx))
+            for j, (a, b) in enumerate(zip(convedAx, convedBx)):
+                assert tuple(a.shape) == tuple(b.shape), (block, i, j, a.shape, b.shape)
+        return convedAx, convedBx
+
+    convedA = embeddedA
+    convedB = embeddedB
+    if True:
+        convedAx, convedBx = make_block(convedA, convedB, block=block)
+
+        catAx = concatenate(convedAx)
+        catBx = concatenate(convedBx)
+        assert tuple(catAx.shape) == tuple(catBx.shape), (catAx.shape, catBx.shape)
+
+        convedA = catAx
+        convedB = catBx
+
+    make_end = Conv1D(name="output", filters=46, kernel_size=1, padding="same", strides=1, dtype='float32')
+    totes_clear = Layer(name='clear')(make_end(SpatialDropout1D(rate=hparams[HP_DROPOUT])(convedA)))
+    totes_key = Layer(name='key')(make_end(SpatialDropout1D(rate=hparams[HP_DROPOUT])(convedB)))
+
+    model = Model([inputA, inputB], [totes_clear, totes_key])
+
+    model.compile(
+        optimizer=tf.optimizers.Adam(),
+        loss=tf.keras.losses.SparseCategoricalCrossentropy(from_logits=True),
+        loss_weights={'clear': 1/2, 'key': 1/2},
+        metrics=[error],
+    )
+    return model
+
 l = 100
 hparams = {
     HP_DROPOUT: 0.0,
     HP_HEIGHT: 20,
-    HP_blocks: 3,
+    HP_blocks: 1,
     HP_bottleneck: 46 * 5,
     ## Idea: skip the first few short columns in the fractal.
     # HP_SKIP_HEIGH: 3,
@@ -485,9 +565,9 @@ hparams = {
     HP_max_kernel: 3,
 }
 
-weights_name = "block-dense-resC-3x20-c46-bottle5-td.h5"
+weights_name = "faithful.h5"
 
-make_model = make_model_dense
+make_model = make_model_recreate
 
 def main():
     # TODO: Actually set stuff to float16 only, in inference too.  Should use
@@ -584,7 +664,7 @@ def main():
         if True:
             try:
                 model.fit(
-                    x=TwoTimePadSequence(l, 10 ** 4 // 16, mtext, both=False),
+                    x=TwoTimePadSequence(l, 10 ** 4 // 16, mtext, both=True),
                     # x = x, y = y,
                     # steps_per_epoch=10 ** 4 // 32,
                     max_queue_size=10**3,
