@@ -493,13 +493,15 @@ def make_model_recreate(hparams):
             Input(shape=(n,channels,)),
 
             # SpatialDropout1D(rate=hparams[HP_DROPOUT]), # Not sure whether that's good.
-            TimeDistributed(BatchNormalization()),
+            # TODO: if BatchNormalization is independent for each dimension, we can do post BatchNorm, instead of pre?
+            SpatialDropout1D(rate=hparams[HP_DROPOUT] * i / height),
             relu(),
             Conv1D(filters=4*size, kernel_size=1, padding='same'),
 
             TimeDistributed(BatchNormalization()),
             relu(),
-            m
+            m,
+            TimeDistributed(BatchNormalization()),
             ], name="resnet{}".format(i))
 
     def make_block(convedA, convedB):
@@ -524,6 +526,12 @@ def make_model_recreate(hparams):
     convedA, convedB = make_block(embeddedA, embeddedB)
     assert tuple(convedA.shape) == tuple(convedB.shape), (convedA.shape, convedB.shape)
 
+    # TODO: check whether final BatchNorm would help?  (Pre dropout, of course.)
+    # TODO: Similar for relu?
+    # TODO: Try final Dropout with my other approaches, too.
+    # TODO: Try different amounts of final dropout.  Can even try very high amounts, because we have so many dimensions at the end.
+    # Approx 1,246 dimensions at the end for something close to `faithful` repro.
+    # So could try even 90% dropout.
     make_end = Conv1D(name="output", filters=46, kernel_size=1, padding="same", strides=1, dtype='float32')
     totes_clear = Layer(name='clear', dtype='float32')(make_end(SpatialDropout1D(rate=hparams[HP_DROPOUT])(convedA)))
     totes_key = Layer(name='key', dtype='float32')(make_end(SpatialDropout1D(rate=hparams[HP_DROPOUT])(convedB)))
@@ -552,7 +560,7 @@ hparams = {
     HP_max_kernel: 1 + 2*6,
 }
 
-weights_name = "faithful-mean-square-fanned-dropout_at_end.h5"
+weights_name = "faithful-mean-square-fanned-dropout_more_at_end.h5"
 
 make_model = make_model_recreate
 
