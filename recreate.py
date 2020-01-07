@@ -304,6 +304,26 @@ def make_model(hparams):
             Conv1D(filters=size, kernel_size=width, padding='same'),
             ], name="resnet{}".format(i))
 
+    def makeResNet(i, channels, width, size):
+        inputA = Input(name="res_inputMe", shape=(n,channels,))
+        inputB = Input(name="res_inputDu", shape=(n,channels,))
+        bottle_conv = Conv1D(filters=size, kernel_size=width, padding='same')
+        convedA = bottle_conv(inputA)
+        convedB = bottle_conv(inputB)
+
+
+        for x in range(5):
+            core = Sequential([
+                TimeDistributed(BatchNormalization()),
+                relu(),
+                Conv1D(filters=size, kernel_size=width, padding='same'),
+                ])
+
+            convedA, convedB = (
+                    Add()([convedA, core(concatenate([convedA, convedB]))]),
+                    Add()([convedB, core(concatenate([convedB, convedA]))]),
+                    )
+        return Model([inputA, inputB], [convedA, convedB])
 
     random.seed(23)
     def sample2(pop):
@@ -325,9 +345,10 @@ def make_model(hparams):
             assert tuple(catA.shape) == tuple(catB.shape), (catA.shape, catB.shape)
             size = 46 # random.randrange(23, 2*46)
             resNet = makeResNet(block*1000+i, num_channels, width, size)
+            resA, resB = resNet([catA, catB])
 
-            convedAx.append(resNet(catA))
-            convedBx.append(resNet(catB))
+            convedAx.append(resA)
+            convedBx.append(resB)
 
             assert len(convedAx) == len(convedBx), (len(convedAx), len(convedBx))
             for j, (a, b) in enumerate(zip(convedAx, convedBx)):
@@ -388,7 +409,7 @@ hparams = {
     HP_resSize: 4 * 46,
 }
 
-weights_name = "error-20x5-w3-share.h5"
+weights_name = "error-20x5-w3-sharer.h5"
 
 
 def main():
