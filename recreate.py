@@ -33,6 +33,7 @@ from tensorflow.keras.layers import (
     SpatialDropout1D,
     TimeDistributed,
     concatenate,
+    Layer,
 )
 from tensorflow.keras.models import Model, Sequential
 # from tensorflow_addons.layers import Maxout, Sparsemax
