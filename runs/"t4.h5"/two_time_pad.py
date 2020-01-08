@@ -644,7 +644,7 @@ def main():
             print(f"Scheduled learning rate for epoch {epoch}: {default} * {lr/default}")
             return lr
         def slow(epoch):
-            return 0
+            return 0.0
             return 0.001 / 100
 
 
