@@ -568,7 +568,7 @@ def make_model_recreate(hparams):
     # So could try even 90% dropout.
     make_end = Conv1D(name="output", filters=46, kernel_size=1, padding="same", strides=1, dtype='float32', kernel_initializer=msra)
     totes_clear = Layer(name='clear', dtype='float32')(make_end(SpatialDropout1D(rate=0.0)(concatenate(make_drop(convedA)))))
-    otes_key = Layer(name='key', dtype='float32')(make_end(SpatialDropout1D(rate=0.0)(concatenate(make_drop(convedB)))))
+    totes_key = Layer(name='key', dtype='float32')(make_end(SpatialDropout1D(rate=0.0)(concatenate(make_drop(convedB)))))
 
     model = Model([inputA, inputB], [totes_clear, totes_key])
 
