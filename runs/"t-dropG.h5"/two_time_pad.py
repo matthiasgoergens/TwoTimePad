@@ -529,7 +529,7 @@ def make_model_recreate(hparams):
     def make_drop(layers):
         drop = hparams[HP_DROPOUT]
         return list(reversed([
-            TimeDistributed(GaussionDropout(drop * distance / height))(layer)
+            TimeDistributed(GaussianDropout(drop * distance / height))(layer)
             for distance, layer in enumerate(reversed(layers))]))
 
     random.seed(23)
