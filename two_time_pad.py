@@ -643,7 +643,7 @@ def main():
             # NOTE: 32 was still fine, 64 broke.
             print(f"Scheduled learning rate for epoch {epoch}: {default} * {lr/default}")
             return lr
-        def scheduleRampSGD(slow):
+        def slow(epoch):
             return 0.001 / 100
 
 
