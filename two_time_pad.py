@@ -668,16 +668,17 @@ def main():
             )
 
         # try:
-        #     print("Making model.")
-        #     model = make_model(hparams)
-        #     try:
-        #         print("Trying to load weights.")
-        #         model.load_weights('weights/'+weights_name)
-        #     except:
-        #         print("Loaded weights.")
-        # except:
-        model = keras.models.load_model('weights/'+weights_name)
-        model.summary()
+        print("Making model.")
+        model = make_model(hparams)
+        try:
+            print("Trying to load weights.")
+            model.load_weights('weights/'+weights_name)
+            model.summary()
+            print("Loaded weights.")
+        except:
+            raise
+        # model = keras.models.load_model('weights/'+weights_name)
+
         print("Loaded model.")
         # for i in range(10*(layers+1)):
 
