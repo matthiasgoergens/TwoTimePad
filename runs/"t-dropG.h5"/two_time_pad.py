@@ -105,7 +105,7 @@ def toChars(tensor):
         output.append(toChar(chars))
     return output
 
-batch_size = 32
+batch_size = 16
 
 
 def round_to(x, n):
