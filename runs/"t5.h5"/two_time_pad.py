@@ -712,7 +712,7 @@ def main():
         if True:
             try:
                 model.fit(
-                    x=TwoTimePadSequence(l, 10 ** 5 // 32, mtext, both=True),
+                    x=TwoTimePadSequence(l, 10 ** 4 // 32, mtext, both=True),
                     # x = x, y = y,
                     # steps_per_epoch=10 ** 4 // 32,
                     max_queue_size=10**3,
