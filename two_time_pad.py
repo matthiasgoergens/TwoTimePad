@@ -622,9 +622,10 @@ def main():
         checkpoint = ModelCheckpoint('weights/'+weights_name, monitor='loss', verbose=1, save_best_only=True)
 
         def schedule(epoch):
+            # TODO: Aso try SGD with momentum.
             default = 0.001
-            maxLR = 16
-            lastEpoch = 10
+            maxLR = 32 / 3
+            lastEpoch = 12
             if epoch < lastEpoch:
                 lr = default * min(maxLR, 1 + epoch * maxLR / 5)
             else:
