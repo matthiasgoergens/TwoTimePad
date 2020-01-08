@@ -636,6 +636,7 @@ def main():
             else:
                 lr = default * max(1, maxLR * (1 - (epoch - lastEpoch) / 20))
             # NOTE: 32 was still fine, 64 broke.
+            lr = default * 4
             print(f"Scheduled learning rate for epoch {epoch}: {default} * {lr/default}")
             return lr
 
