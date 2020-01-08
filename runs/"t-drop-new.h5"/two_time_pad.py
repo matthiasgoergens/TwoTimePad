@@ -672,11 +672,12 @@ def main():
         model = make_model(hparams)
         try:
             print("Trying to load weights.")
-            model.load_weights('weights/'+weights_name)
             model.summary()
+            model.load_weights('weights/'+weights_name)
             print("Loaded weights.")
         except:
-            raise
+            pass
+            # raise
         # model = keras.models.load_model('weights/'+weights_name)
 
         print("Loaded model.")
