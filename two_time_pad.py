@@ -573,7 +573,7 @@ def make_model_recreate(hparams):
 
     model.compile(
         # optimizer=tf.optimizers.Adam(),
-        optimizer=tf.optimizers.SGD(lr=0.01, decay=1e-6, momentum=0.0) # momentum=0.9, nesterov=True),
+        optimizer=tf.optimizers.SGD(lr=0.01, decay=1e-6, momentum=0.0), # momentum=0.9, nesterov=True),
         # optimizer=tfa.optimizers.AdamW(),
 
         loss=tf.keras.losses.SparseCategoricalCrossentropy(from_logits=True),
