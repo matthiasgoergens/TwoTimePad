@@ -526,6 +526,7 @@ def make_model_recreate(hparams):
 
 
     def make_drop(layers):
+        return layers[:]
         drop = hparams[HP_DROPOUT]
         return list(reversed([
             SpatialDropout1D(drop * distance / height)(layer)
@@ -584,7 +585,7 @@ def make_model_recreate(hparams):
 
 l = 100
 hparams = {
-    HP_DROPOUT: 0.0,
+    HP_DROPOUT: 0.1,
     HP_HEIGHT: 20,
     HP_blocks: 1,
     HP_bottleneck: 46 * 5,
@@ -596,12 +597,15 @@ hparams = {
     HP_max_kernel: 1 + 2*6,
 }
 
-weights_name = "t5.h5"
+weights_name = "t6.h5"
 
 make_model = make_model_recreate
 
 def show():
     make_model(hparams).summary()
+
+def showOld():
+    keras.models.load_model('weights/'+weights_name).summary()
 
 def main():
     # TODO: Actually set stuff to float16 only, in inference too.  Should use
@@ -644,7 +648,7 @@ def main():
             print(f"Scheduled learning rate for epoch {epoch}: {default} * {lr/default}")
             return lr
         def slow(epoch):
-            return 0.0
+            return 0.001
             return 0.001 / 100
 
 
@@ -664,16 +668,17 @@ def main():
             )
 
         # try:
-        #     print("Making model.")
-        #     model = make_model(hparams)
-        #     try:
-        #         print("Trying to load weights.")
-        #         model.load_weights('weights/'+weights_name)
-        #     except:
-        #         print("Loaded weights.")
-        # except:
-        model = keras.models.load_model('weights/'+weights_name)
-        model.summary()
+        print("Making model.")
+        model = make_model(hparams)
+        try:
+            print("Trying to load weights.")
+            model.load_weights('weights/'+weights_name)
+            model.summary()
+            print("Loaded weights.")
+        except:
+            raise
+        # model = keras.models.load_model('weights/'+weights_name)
+
         print("Loaded model.")
         # for i in range(10*(layers+1)):
 
