@@ -589,7 +589,7 @@ def make_model_recreate(hparams):
 
 l = 100
 hparams = {
-    HP_DROPOUT: 0.5,
+    HP_DROPOUT: 0.05,
     HP_HEIGHT: 20,
     HP_blocks: 1,
     HP_bottleneck: 46 * 5,
@@ -640,7 +640,7 @@ def main():
             else:
                 lr = default * max(1, maxLR * (1 - (epoch - lastEpoch) / 20))
             # NOTE: 32 was still fine, 64 broke.
-            lr = default * 4
+            lr = default * 1
             print(f"Scheduled learning rate for epoch {epoch}: {default} * {lr/default}")
             return lr
 
