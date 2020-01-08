@@ -567,8 +567,8 @@ def make_model_recreate(hparams):
     # Approx 1,246 dimensions at the end for something close to `faithful` repro.
     # So could try even 90% dropout.
     make_end = Conv1D(name="output", filters=46, kernel_size=1, padding="same", strides=1, dtype='float32', kernel_initializer=msra)
-    totes_clear = Layer(name='clear', dtype='float32')(make_end(SpatialDropout1D(rate=0.0)(concatenate(make_drop(convedA)))))
-    totes_key = Layer(name='key', dtype='float32')(make_end(SpatialDropout1D(rate=0.0)(concatenate(make_drop(convedB)))))
+    totes_clear = Layer(name='clear', dtype='float32')(make_end(SpatialDropout1D(rate=0.5)(concatenate(make_drop(convedA)))))
+    totes_key = Layer(name='key', dtype='float32')(make_end(SpatialDropout1D(rate=0.5)(concatenate(make_drop(convedB)))))
 
     model = Model([inputA, inputB], [totes_clear, totes_key])
 
@@ -585,7 +585,7 @@ def make_model_recreate(hparams):
 
 l = 100
 hparams = {
-    HP_DROPOUT: 0.0,
+    HP_DROPOUT: 0.05,
     HP_HEIGHT: 20,
     HP_blocks: 1,
     HP_bottleneck: 46 * 5,
@@ -722,7 +722,7 @@ def main():
                     # x = x, y = y,
                     # steps_per_epoch=10 ** 4 // 32,
                     max_queue_size=10**3,
-                    initial_epoch=0,
+                    initial_epoch=1,
                     # epochs=epoch+1,
                     # validation_split=0.1,
                     validation_data=TwoTimePadSequence(l, 10 ** 3 // 32, mtext, both=True),
