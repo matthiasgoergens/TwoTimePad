@@ -638,18 +638,18 @@ def make_model_recreate(hparams):
 l = 50
 hparams = {
     HP_DROPOUT: 0.5,
-    HP_HEIGHT: 4,
+    HP_HEIGHT: 20,
     HP_blocks: 1,
     HP_bottleneck: 46 * 5,
     ## Idea: skip the first few short columns in the fractal.
     # HP_SKIP_HEIGH: 3,
     HP_WINDOW: l,
-    HP_resSize: 4 * 46,
+    HP_resSize: round_to(60, 4),
     HP_blowup: 2,
     HP_max_kernel: 5,
 }
 
-weights_name = "r-dropout-maxout.h5"
+weights_name = "r-dropout-maxout height: 20 growth: 60.h5"
 
 make_model = make_model_recreate
 
