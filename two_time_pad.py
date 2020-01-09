@@ -303,6 +303,7 @@ def make_model_fractal(hparams):
         TimeDistributed(BatchNormalization()),
         SpatialDropout1D(rate=hparams[HP_DROPOUT]),
     )
+    ic = lambda: TimeDistributed(BatchNormalization())
 
     inputA = Input(shape=(n,), name="ciphertextA", dtype='int32')
     inputB = Input(shape=(n,), name="ciphertextB", dtype='int32')
@@ -346,11 +347,7 @@ def make_model_fractal(hparams):
                 [avg(blockA, convA),
                  avg(blockB, convB)])
 
-    # Idea: Start first res from ic() or conv.
-    # Idea: also give input directly, not just embedding?
-
     convedA, convedB = avg(block(height)([inputA, inputB]))
-
     make_end = Conv1D(name="output", filters=46, kernel_size=1, padding="same", strides=1, dtype='float32', kernel_initializer=msra)
 
     clear = Layer(name='clear', dtype='float32')(make_end(convedA))
