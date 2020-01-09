@@ -299,10 +299,6 @@ def make_model_fractal(hparams):
     height = hparams[HP_HEIGHT]
     width = hparams[HP_max_kernel]
 
-    ic = lambda: sequential(
-        TimeDistributed(BatchNormalization()),
-        SpatialDropout1D(rate=hparams[HP_DROPOUT]),
-    )
     ic = lambda: TimeDistributed(BatchNormalization())
 
     inputA = Input(shape=(n,), name="ciphertextA", dtype='int32')
@@ -321,14 +317,14 @@ def make_model_fractal(hparams):
         return Sequential([
             # Idea: parallel of different kernel sizes.  Will save on trainable params.
             Conv1D(filters=blowup * base, kernel_size=width, padding='same', kernel_initializer=msra),
-            Maxout(base),
             ic(),
+            Maxout(base),
             ])
 
     def block(n):
         if n <= 0:
             # None means: no weight in average.
-            return lambda a, b: [None, None]
+            return lambda *args: [None, None]
         else:
             # f 0 = identity (or conv in paper) # Not Implemented
             # f 1 = conv # to be like paper.
@@ -340,18 +336,22 @@ def make_model_fractal(hparams):
             convA = c(cat(inputA, inputB))
             convB = c(cat(inputB, inputA))
 
-            [blockA, blockB] = block(n-1)(*block(n-1)([inputA, inputB]))
+            [blockA, blockB] = block(n-1)(block(n-1)([inputA, inputB]))
 
             return Model(
                 [inputA, inputB],
-                [avg(blockA, convA),
-                 avg(blockB, convB)])
+                [avg([blockA, convA]),
+                 avg([blockB, convB])])
 
-    convedA, convedB = avg(block(height)([inputA, inputB]))
+    c0 = conv()
+    cA = c0(embeddedA)
+    cB = c0(embeddedB)
+
+    convedA, convedB = block(height)([cA, cB])
     make_end = Conv1D(name="output", filters=46, kernel_size=1, padding="same", strides=1, dtype='float32', kernel_initializer=msra)
 
-    clear = Layer(name='clear', dtype='float32')(make_end(convedA))
-    key = Layer(name='key', dtype='float32')(make_end(convedB))
+    clear = Layer(name='clear', dtype='float32')(make_end(SpatialDropout1D(rate=hparams[HP_DROPOUT])(convedA)))
+    key = Layer(name='key', dtype='float32')(make_end(SpatialDropout1D(rate=hparams[HP_DROPOUT])(convedB)))
 
     model = Model([inputA, inputB], [clear, key])
 
@@ -634,15 +634,15 @@ def make_model_recreate(hparams):
 
 l = 50
 hparams = {
-    HP_DROPOUT: 0,
-    HP_HEIGHT: 3,
+    HP_DROPOUT: 0.1,
+    HP_HEIGHT: 4,
     HP_blocks: 1,
     HP_bottleneck: 46 * 5,
     ## Idea: skip the first few short columns in the fractal.
     # HP_SKIP_HEIGH: 3,
     HP_WINDOW: l,
-    HP_resSize: 2* 46,
-    HP_blowup: 4,
+    HP_resSize: 2 * 46,
+    HP_blowup: 3,
     HP_max_kernel: 5,
 }
 
