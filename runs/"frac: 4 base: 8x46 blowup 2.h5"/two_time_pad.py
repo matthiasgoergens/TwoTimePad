@@ -316,9 +316,9 @@ def make_model_fractal(hparams):
         # Now: geting from base -> blowup * base -> base
         return Sequential([
             # Idea: parallel of different kernel sizes.  Will save on trainable params.
+            Conv1D(filters=blowup * base, kernel_size=width, padding='same', kernel_initializer=msra),
             ic(),
             Maxout(base),
-            Conv1D(filters=blowup * base, kernel_size=width, padding='same', kernel_initializer=msra),
             ])
 
     def block(n):
@@ -329,8 +329,8 @@ def make_model_fractal(hparams):
             # f 0 = identity (or conv in paper) # Not Implemented
             # f 1 = conv # to be like paper.
             # f (n+1) = (f n . f n) + conv
-            inputA = Input(shape=(n, blowup * base))
-            inputB = Input(shape=(n, blowup * base))
+            inputA = Input(shape=(n, base))
+            inputB = Input(shape=(n, base))
 
             c = conv()
             convA = c(cat(inputA, inputB))
@@ -343,7 +343,7 @@ def make_model_fractal(hparams):
                 [avg([blockA, convA]),
                  avg([blockB, convB])])
 
-    c0 = Conv1D(filters=blowup * base, kernel_size=width, padding='same', kernel_initializer=msra)
+    c0 = conv()
     cA = c0(embeddedA)
     cB = c0(embeddedB)
 
@@ -359,7 +359,6 @@ def make_model_fractal(hparams):
         # optimizer=tf.optimizers.Adam(learning_rate=0.001/2),
         optimizer=tf.optimizers.Adam(),
         loss=tf.keras.losses.SparseCategoricalCrossentropy(from_logits=True),
-        loss_weights={'clear': 1/2, 'key': 1/2},
         metrics=[error],
     )
     return model
@@ -535,11 +534,11 @@ def make_model_recreate(hparams):
 
     def makeResNetNew(i, channels, _, size):
         fanInput = Input(shape=(n,4*size,))
-        fan = concatenate([Conv1D(filters=round(size/3), kernel_size=width, padding='same', kernel_initializer=msra)(fanInput) for width in [3, 5, 9]])
+        fan = concatenate([Conv1D(filters=round(size/3), kernel_size=width, padding='same', kernel_initializer=msra)(fanInput) for width in [11, 13, 15]])
         m = Model([fanInput], [fan])
 
         return Sequential([
-            # Input(shape=(n,channels,)),
+            Input(shape=(n,channels,)),
 
             # SpatialDropout1D(rate=hparams[HP_DROPOUT]), # Not sure whether that's good.
             # TODO: if BatchNormalization is independent for each dimension, we can do post BatchNorm, instead of pre?
@@ -547,16 +546,14 @@ def make_model_recreate(hparams):
 
             ## Note: dropout done outside.
             # SpatialDropout1D(rate=hparams[HP_DROPOUT] * i / height),
-            # TimeDistributed(BatchNormalization()),
-            # relu(),
+            TimeDistributed(BatchNormalization()),
+            relu(),
             Conv1D(filters=4*size, kernel_size=1, padding='same', kernel_initializer=msra),
 
             # TODO: Might want to drop this intermediate batch norm?  So that dropout doesn't have too much impact on variance.
             TimeDistributed(BatchNormalization()),
-            Maxout(2*size),
+            relu(),
             m,
-            TimeDistributed(BatchNormalization()),
-            Maxout(size),
             ], name="resnet{}".format(i))
 
     def makeResNet(i, channels, width, size):
@@ -619,8 +616,8 @@ def make_model_recreate(hparams):
     # Approx 1,246 dimensions at the end for something close to `faithful` repro.
     # So could try even 90% dropout.
     make_end = Conv1D(name="output", filters=46, kernel_size=1, padding="same", strides=1, dtype='float32', kernel_initializer=msra)
-    totes_clear = Layer(name='clear', dtype='float32')(make_end(SpatialDropout1D(rate=0.5)(concatenate(convedA))))
-    totes_key = Layer(name='key', dtype='float32')(make_end(SpatialDropout1D(rate=0.5)(concatenate(convedB))))
+    totes_clear = Layer(name='clear', dtype='float32')(make_end(SpatialDropout1D(rate=0.0)(concatenate(convedA))))
+    totes_key = Layer(name='key', dtype='float32')(make_end(SpatialDropout1D(rate=0.0)(concatenate(convedB))))
 
     model = Model([inputA, inputB], [totes_clear, totes_key])
 
@@ -637,21 +634,21 @@ def make_model_recreate(hparams):
 
 l = 50
 hparams = {
-    HP_DROPOUT: 0.5,
+    HP_DROPOUT: 0.1,
     HP_HEIGHT: 4,
     HP_blocks: 1,
     HP_bottleneck: 46 * 5,
     ## Idea: skip the first few short columns in the fractal.
     # HP_SKIP_HEIGH: 3,
     HP_WINDOW: l,
-    HP_resSize: 4 * 46,
+    HP_resSize: 8 * 46,
     HP_blowup: 2,
     HP_max_kernel: 5,
 }
 
-weights_name = "r-dropout-maxout.h5"
+weights_name = "frac: 4 base: 8x46 blowup 2.h5"
 
-make_model = make_model_recreate
+make_model = make_model_fractal
 
 def show():
     make_model(hparams).summary()
