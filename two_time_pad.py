@@ -534,8 +534,8 @@ def make_model_recreate(hparams):
     embeddedB = embedding(inputB)
 
     def makeResNetNew(i, channels, _, size):
-        fanInput = Input(shape=(n,4*size,))
-        fan = concatenate([Conv1D(filters=round(size/3), kernel_size=width, padding='same', kernel_initializer=msra)(fanInput) for width in [3, 5, 9]])
+        fanInput = Input(shape=(n,2*size,))
+        fan = concatenate([Conv1D(filters=round(size/4), kernel_size=width, padding='same', kernel_initializer=msra)(fanInput) for width in [3, 5, 7, 9]])
         m = Model([fanInput], [fan])
 
         return Sequential([
