@@ -534,11 +534,11 @@ def make_model_recreate(hparams):
 
     def makeResNetNew(i, channels, _, size):
         fanInput = Input(shape=(n,4*size,))
-        fan = concatenate([Conv1D(filters=round(size/3), kernel_size=width, padding='same', kernel_initializer=msra)(fanInput) for width in [11, 13, 15]])
+        fan = concatenate([Conv1D(filters=round(size/3), kernel_size=width, padding='same', kernel_initializer=msra)(fanInput) for width in [3, 5, 9]])
         m = Model([fanInput], [fan])
 
         return Sequential([
-            Input(shape=(n,channels,)),
+            # Input(shape=(n,channels,)),
 
             # SpatialDropout1D(rate=hparams[HP_DROPOUT]), # Not sure whether that's good.
             # TODO: if BatchNormalization is independent for each dimension, we can do post BatchNorm, instead of pre?
@@ -546,14 +546,16 @@ def make_model_recreate(hparams):
 
             ## Note: dropout done outside.
             # SpatialDropout1D(rate=hparams[HP_DROPOUT] * i / height),
-            TimeDistributed(BatchNormalization()),
-            relu(),
+            # TimeDistributed(BatchNormalization()),
+            # relu(),
             Conv1D(filters=4*size, kernel_size=1, padding='same', kernel_initializer=msra),
 
             # TODO: Might want to drop this intermediate batch norm?  So that dropout doesn't have too much impact on variance.
             TimeDistributed(BatchNormalization()),
-            relu(),
+            Maxout(2*size),
             m,
+            TimeDistributed(BatchNormalization()),
+            Maxout(size),
             ], name="resnet{}".format(i))
 
     def makeResNet(i, channels, width, size):
@@ -616,8 +618,8 @@ def make_model_recreate(hparams):
     # Approx 1,246 dimensions at the end for something close to `faithful` repro.
     # So could try even 90% dropout.
     make_end = Conv1D(name="output", filters=46, kernel_size=1, padding="same", strides=1, dtype='float32', kernel_initializer=msra)
-    totes_clear = Layer(name='clear', dtype='float32')(make_end(SpatialDropout1D(rate=0.0)(concatenate(convedA))))
-    totes_key = Layer(name='key', dtype='float32')(make_end(SpatialDropout1D(rate=0.0)(concatenate(convedB))))
+    totes_clear = Layer(name='clear', dtype='float32')(make_end(SpatialDropout1D(rate=0.5)(concatenate(convedA))))
+    totes_key = Layer(name='key', dtype='float32')(make_end(SpatialDropout1D(rate=0.5)(concatenate(convedB))))
 
     model = Model([inputA, inputB], [totes_clear, totes_key])
 
@@ -634,7 +636,7 @@ def make_model_recreate(hparams):
 
 l = 50
 hparams = {
-    HP_DROPOUT: 0.1,
+    HP_DROPOUT: 0.5,
     HP_HEIGHT: 4,
     HP_blocks: 1,
     HP_bottleneck: 46 * 5,
@@ -646,9 +648,9 @@ hparams = {
     HP_max_kernel: 5,
 }
 
-weights_name = "frac: 3 base: 2x46 blowup 4.h5"
+weights_name = "r-dropout-maxout.h5"
 
-make_model = make_model_fractal
+make_model = make_model_recreate
 
 def show():
     make_model(hparams).summary()
