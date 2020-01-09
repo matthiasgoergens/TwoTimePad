@@ -726,11 +726,12 @@ def main():
             model.summary()
             print("Loaded weights.")
         except:
+            model.summary()
+            print("Failed to load weights.")
             pass
             # raise
         # model = keras.models.load_model('weights/'+weights_name)
 
-        print("Loaded model.")
         # for i in range(10*(layers+1)):
 
         # print("Predict:")
