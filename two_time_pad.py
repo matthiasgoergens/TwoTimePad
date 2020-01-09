@@ -294,6 +294,77 @@ def make_model_simple(hparams):
     )
     return model
 
+def make_model_fractal(hparams):
+    n = hparams[HP_WINDOW]
+    height = hparams[HP_HEIGHT]
+    width = hparams[HP_max_kernel]
+
+    ic = lambda: sequential(
+        TimeDistributed(BatchNormalization()),
+        SpatialDropout1D(rate=hparams[HP_DROPOUT]),
+    )
+
+    inputA = Input(shape=(n,), name="ciphertextA", dtype='int32')
+    inputB = Input(shape=(n,), name="ciphertextB", dtype='int32')
+    base = hparams[HP_resSize]
+    blowup = hparams[HP_blowup]
+    embedding = Embedding(
+        output_dim=46, input_length=n, input_dim=len(alpha), batch_input_shape=[batch_size, n],)
+    embeddedA = embedding(inputA)
+    embeddedB = embedding(inputB)
+
+    def conv():
+        # Went from [x | blowup] * base to base to blowup * base
+        # So could use cat?
+        # Now: geting from base -> blowup * base -> base
+        return Sequential([
+            # Idea: parallel of different kernel sizes.  Will save on trainable params.
+            Conv1D(filters=blowup * base, kernel_size=width, padding='same', kernel_initializer=msra),
+            Maxout(base),
+            ic(),
+            ])
+
+    def block(n):
+        if n <= 0:
+            # None means: no weight in average.
+            return lambda a, b: [None, None]
+        else:
+            # f 0 = identity (or conv in paper) # Not Implemented
+            # f 1 = conv # to be like paper.
+            # f (n+1) = (f n . f n) + conv
+            inputA = Input(shape=(n, base))
+            inputB = Input(shape=(n, base))
+
+            c = conv()
+            convA = c(cat(inputA, inputB))
+            convB = c(cat(inputB, inputA))
+
+            [blockA, blockB] = block(n-1)(*block(n-1)([inputA, inputB]))
+
+            return Model(
+                [inputA, inputB],
+                [avg(blockA, convA),
+                 avg(blockB, convB)])
+
+    # Idea: Start first res from ic() or conv.
+    # Idea: also give input directly, not just embedding?
+
+    convedA, convedB = avg(block(height)([inputA, inputB]))
+
+    make_end = Conv1D(name="output", filters=46, kernel_size=1, padding="same", strides=1, dtype='float32', kernel_initializer=msra)
+
+    clear = Layer(name='clear', dtype='float32')(make_end(convedA))
+    key = Layer(name='key', dtype='float32')(make_end(convedB))
+
+    model = Model([inputA, inputB], [clear, key])
+
+    model.compile(
+        # optimizer=tf.optimizers.Adam(learning_rate=0.001/2),
+        optimizer=tf.optimizers.Adam(),
+        loss=tf.keras.losses.SparseCategoricalCrossentropy(from_logits=True),
+        metrics=[error],
+    )
+    return model
 
 # Mixture between fractal and dense.
 def make_model_fractal_dense(hparams):
@@ -564,23 +635,23 @@ def make_model_recreate(hparams):
     )
     return model
 
-l = 100
+l = 50
 hparams = {
-    HP_DROPOUT: 0.0,
-    HP_HEIGHT: 20,
+    HP_DROPOUT: 0,
+    HP_HEIGHT: 3,
     HP_blocks: 1,
     HP_bottleneck: 46 * 5,
     ## Idea: skip the first few short columns in the fractal.
     # HP_SKIP_HEIGH: 3,
     HP_WINDOW: l,
-    HP_resSize: 60,
-    HP_blowup: 1,
-    HP_max_kernel: 1 + 2*6,
+    HP_resSize: 2* 46,
+    HP_blowup: 4,
+    HP_max_kernel: 5,
 }
 
-weights_name = "t-drop-res-b32.h5"
+weights_name = "frac: 3 base: 2x46 blowup 4.h5"
 
-make_model = make_model_recreate
+make_model = make_model_fractal
 
 def show():
     make_model(hparams).summary()
@@ -654,8 +725,8 @@ def main():
         model = make_model(hparams)
         try:
             print("Trying to load weights.")
-            model.summary()
             model.load_weights('weights/'+weights_name)
+            model.summary()
             print("Loaded weights.")
         except:
             pass
@@ -704,7 +775,7 @@ def main():
                     # x = x, y = y,
                     # steps_per_epoch=10 ** 4 // 32,
                     max_queue_size=10**3,
-                    initial_epoch=3,
+                    initial_epoch=0,
                     # epochs=epoch+1,
                     # validation_split=0.1,
                     validation_data=TwoTimePadSequence(l, 10 ** 3 // 32, mtext, both=True),
