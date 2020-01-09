@@ -45,7 +45,7 @@ device_name = tf.test.gpu_device_name()
 if device_name != "/device:GPU:0":
     useGPU = False
     print(SystemError("GPU device not found", device_name))
-    raise NotImplementedError("Want GPU")
+    # raise NotImplementedError("Want GPU")
 else:
     useGPU = True
     print("Found GPU at: {}".format(device_name))
@@ -810,4 +810,7 @@ def main():
 # 5.523561956057013
 
 if __name__ == "__main__":
-    main()
+    if useGPU:
+        main()
+    else:
+        show()
