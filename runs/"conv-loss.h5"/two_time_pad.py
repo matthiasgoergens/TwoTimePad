@@ -81,6 +81,10 @@ def nAccuracy(y_true, y_pred):
 def error(y_true, y_pred):
     return 1 - accuracy(y_true, y_pred)
 
+def sumError(y_true, y_pred):
+    assert TabError(repr(y_true.shape))
+    return sum(y_true)
+
 
 def load():
     # text = ' '.join(f.open('r').read() for f in pathlib.Path('data').glob('*.txt')).lower()
@@ -473,7 +477,7 @@ def make_model_conv(hparams):
         loss={
             "clear": tf.keras.losses.SparseCategoricalCrossentropy(from_logits=True),
             "key": tf.keras.losses.SparseCategoricalCrossentropy(from_logits=True),
-            "dev": tf.keras.losses.mean_absolute_error,
+            "dev": sumError,
         },
         loss_weights={"clear": 1 / 2, "key": 1 / 2, "dev": 1},
         metrics=[error],
