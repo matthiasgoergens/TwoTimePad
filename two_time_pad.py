@@ -353,6 +353,8 @@ def make_model_fractal(hparams):
     clear = Layer(name='clear', dtype='float32')(make_end(SpatialDropout1D(rate=hparams[HP_DROPOUT])(convedA)))
     key = Layer(name='key', dtype='float32')(make_end(SpatialDropout1D(rate=hparams[HP_DROPOUT])(convedB)))
 
+    un = tf.unstack(key, axis=-2)
+    assert n == len(un), un
     model = Model([inputA, inputB], [clear, key])
 
     model.compile(
@@ -638,7 +640,7 @@ def make_model_recreate(hparams):
 l = 50
 hparams = {
     HP_DROPOUT: 0.0,
-    HP_HEIGHT: 20,
+    HP_HEIGHT: 0,
     HP_blocks: 1,
     HP_bottleneck: 46 * 5,
     ## Idea: skip the first few short columns in the fractal.
@@ -651,7 +653,7 @@ hparams = {
 
 weights_name = "r-no-dropout-maxout height: 20 growth: 60 blowup: 4x4.h5"
 
-make_model = make_model_recreate
+make_model = make_model_fractal
 
 def show():
     make_model(hparams).summary()
