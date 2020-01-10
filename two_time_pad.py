@@ -461,7 +461,7 @@ def make_model_conv(hparams):
 
     model = Model([inputA, inputB], [clear, key])
 
-    sdev = Layer(name="dev")(1000 + tf.reduce_sum(tf.abs(dev), name="dev"))
+    sdev = Layer(name="dev")(1000 + tf.reduce_sum(tf.abs(dev)))
     model.add_loss(sdev)
     model.compile(
         # optimizer=tf.optimizers.Adam(learning_rate=0.001/2),
