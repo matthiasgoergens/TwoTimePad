@@ -200,7 +200,7 @@ class TwoTimePadSequence(keras.utils.Sequence):
                         self.aa[i, :, :],
                         self.bb[i, :, :],
                         tf.zeros(
-                            (batch_size, self.window, 46), dtype=tf.dtypes.float32
+                            (batch_size, self.window), dtype=tf.dtypes.float32
                         ),
                     ),
                 )
@@ -454,7 +454,14 @@ def make_model_conv(hparams):
 
     r = Lambda(f, fShapes, dynamic=True, dtype="float32")
 
-    dev = Layer(name="dev")(abs(r([clear, inputA]) - key))
+    dev = Layer(name="dev", dtype="float32")(
+        tf.keras.backend.sum(
+        abs(r([clear, inputA]) - key),
+        axis=-1,
+        keepdims=False,
+        dtype="float32",
+        )
+
 
     model = Model([inputA, inputB], [clear, key, dev])
 
