@@ -459,7 +459,6 @@ def make_model_conv(hparams):
         abs(r([clear, inputA]) - key),
         axis=-1,
         keepdims=False,
-        dtype="float32",
         ))
 
 
