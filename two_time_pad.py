@@ -428,6 +428,7 @@ def make_model_conv(hparams):
         dtype="float32",
         kernel_initializer=msra,
     )
+    make_end = lambda x: x
 
     clear = Layer(name="clear", dtype="float32")(make_end(convedA))
     key = Layer(name="key", dtype="float32")(make_end(convedB))
@@ -462,8 +463,10 @@ def make_model_conv(hparams):
     assert tuple(key.shape) == (None, n, 46), key
 
 
-    sdev = Layer(name="dev", dtype="float32")(tf.reduce_sum(tf.abs(dev), axis=-1))
-    model = Model([inputA, inputB], [clear, key, sdev])
+    sdev = Layer(name="dev", dtype="float32")(tf.reduce_mean(tf.reduce_sum(tf.abs(dev), axis=-1)))
+    model = Model([inputA, inputB], [clear, key])
+    model.add_loss(sdev)
+    model.add_metric(sdev, name="deviation")
 
     model.compile(
         # optimizer=tf.optimizers.Adam(learning_rate=0.001/2),
@@ -471,9 +474,8 @@ def make_model_conv(hparams):
         loss={
             "clear": tf.keras.losses.SparseCategoricalCrossentropy(from_logits=True),
             "key": tf.keras.losses.SparseCategoricalCrossentropy(from_logits=True),
-            "dev": sumError
         },
-        loss_weights={"clear": 1 / 2, "key": 1 / 2, "dev": 1},
+        loss_weights={"clear": 1 / 2, "key": 1 / 2},
         metrics=[error],
     )
     return model
