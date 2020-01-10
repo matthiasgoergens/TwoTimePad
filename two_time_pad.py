@@ -454,14 +454,14 @@ def make_model_conv(hparams):
     d = r([clear, inputA])
     assert tuple(d.shape) == (None, n, 46), d
     assert tuple(key.shape) == (None, n, 46), key
-    dev = Layer(name="dev", dtype="float32")(d - key)
+    dev = (d - key)
     assert tuple(dev.shape) == (None, n, 46), dev
     assert tuple(key.shape) == (None, n, 46), key
 
 
     model = Model([inputA, inputB], [clear, key])
 
-    sdev = Layer(name="dev")(1000 + tf.reduce_sum(tf.abs(dev)))
+    sdev = Layer(name="dev", dtype="float32")(1000 + tf.reduce_sum(tf.abs(dev)))
     model.add_loss(sdev)
     model.compile(
         # optimizer=tf.optimizers.Adam(learning_rate=0.001/2),
