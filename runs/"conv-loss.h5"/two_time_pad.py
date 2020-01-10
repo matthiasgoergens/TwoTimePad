@@ -446,11 +446,11 @@ def make_model_conv(hparams):
                 for b in range(batch_size)
             ]
         )
-        return [output]
+        return output
 
     def fShapes(inputShapes):
         [logitsShape, shiftsShapes] = inputShapes
-        return [logitsShape]
+        return logitsShape
 
     r = Lambda(f, fShapes, dynamic=True, dtype="float32")
 
