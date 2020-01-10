@@ -435,8 +435,9 @@ def make_model_conv(hparams):
 
     def f(tensors):
         [logits, shifts] = tensors
-        logits_shape = tf.shape(logits)
-        assert tuple(logits_shape) == (batch_size, n, 46)
+        # logits_shape = tf.shape(logits)
+        # assert tuple(logits_shape) == (batch_size, n, 46)
+        # TOOD: use linear algebra instead?
         output = tf.convert_to_tensor(
             [
                 [
