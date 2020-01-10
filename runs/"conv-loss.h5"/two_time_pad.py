@@ -469,7 +469,7 @@ def make_model_conv(hparams):
             "clear": tf.keras.losses.SparseCategoricalCrossentropy(from_logits=True),
             "key": tf.keras.losses.SparseCategoricalCrossentropy(from_logits=True),
         },
-        loss_weights={"clear": 1 / 2, "key": 1 / 2, "dev": 1},
+        loss_weights={"clear": 1 / 2, "key": 1 / 2},
         metrics=[error],
     )
     return model
