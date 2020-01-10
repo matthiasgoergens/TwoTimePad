@@ -430,13 +430,6 @@ def make_model_conv(hparams):
     clear = Layer(name="clear", dtype="float32")(make_end(convedA))
     key = Layer(name="key", dtype="float32")(make_end(convedB))
 
-    un = tf.unstack(key, axis=-2)
-    assert n == len(un), un
-
-    # embs = tf.unstack(embeddedA, axis=-2)
-    # shifts = tf.unstack(inputA, axis=-2)
-    # tf.roll()
-
     def f(tensors):
         [logits, shifts] = tensors
         logits_shape = tf.shape(logits)
@@ -461,11 +454,8 @@ def make_model_conv(hparams):
     d = r([clear, inputA])
     assert tuple(d.shape) == (None, n, 46), d
     dev = Layer(name="dev", dtype="float32")(
-        tf.keras.backend.sum(
-        abs(d - key),
-        axis=-1,
-        keepdims=False,
-        ))
+        d - key
+        )
     assert tuple(dev.shape) == (None, n,), dev
 
 
