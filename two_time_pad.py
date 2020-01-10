@@ -84,7 +84,7 @@ def error(y_true, y_pred):
 def sumError(y_true, y_pred):
     # raise TabError((y_true, y_pred))
     # shape = (32, 50)
-    return tf.reduce_mean(y_pred, axis=-1)
+    return y_pred
 
 
 def load():
