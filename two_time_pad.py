@@ -433,6 +433,7 @@ def make_model_conv(hparams):
     clear = Layer(name="clear", dtype="float32")(make_end(convedA))
     key = Layer(name="key", dtype="float32")(make_end(convedB))
 
+    @tf.function
     def f(tensors):
         [logits, shifts] = tensors
         # logits_shape = tf.shape(logits)
