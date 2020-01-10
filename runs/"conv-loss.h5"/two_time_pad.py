@@ -460,8 +460,9 @@ def make_model_conv(hparams):
 
 
     model = Model([inputA, inputB], [clear, key])
-    model.add_loss(tf.reduce_sum(tf.abs(dev), name="dev"))
 
+    sdev = Layer(name="dev", 1000 + tf.reduce_sum(tf.abs(dev), name="dev"))
+    model.add_loss(sdev)
     model.compile(
         # optimizer=tf.optimizers.Adam(learning_rate=0.001/2),
         optimizer=tf.optimizers.Adam(),
@@ -1103,7 +1104,7 @@ def main():
         if True:
             try:
                 model.fit(
-                    x=TwoTimePadSequence(l, 10 ** 4 // 32, mtext, both=True, dev=True),
+                    x=TwoTimePadSequence(l, 10 ** 4 // 32, mtext, both=True, dev=False),
                     # x = x, y = y,
                     # steps_per_epoch=10 ** 4 // 32,
                     max_queue_size=10 ** 3,
@@ -1111,7 +1112,7 @@ def main():
                     # epochs=epoch+1,
                     # validation_split=0.1,
                     validation_data=TwoTimePadSequence(
-                        l, 10 ** 3 // 32, mtext, both=True, dev=True
+                        l, 10 ** 3 // 32, mtext, both=True, dev=False
                     ),
                     epochs=100_000,
                     callbacks=callbacks_list,
