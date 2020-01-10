@@ -200,7 +200,7 @@ class TwoTimePadSequence(keras.utils.Sequence):
                         self.aa[i, :, :],
                         self.bb[i, :, :],
                         tf.zeros(
-                            (batch_size, window_size, 46), dtype=tf.dtypes.float32
+                            (batch_size, self.window, 46), dtype=tf.dtypes.float32
                         ),
                     ),
                 )
