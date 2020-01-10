@@ -460,7 +460,7 @@ def make_model_conv(hparams):
         axis=-1,
         keepdims=False,
         dtype="float32",
-        )
+        ))
 
 
     model = Model([inputA, inputB], [clear, key, dev])
