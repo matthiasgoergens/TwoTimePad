@@ -440,7 +440,7 @@ def make_model_conv(hparams):
         output = tf.convert_to_tensor(
             [
                 [
-                    [logits[b, p, (c - shifts[b, p, c]) % 46] for c in range(46)]
+                    [logits[b, p, (c - shifts[b, p]) % 46] for c in range(46)]
                     for p in range(n)
                 ]
                 for b in range(batch_size)
