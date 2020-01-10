@@ -460,7 +460,7 @@ def make_model_conv(hparams):
         axis=-1,
         keepdims=False,
         ))
-        assert tuple(dev.shape) == (None, n,), dev
+    assert tuple(dev.shape) == (None, n,), dev
 
 
     model = Model([inputA, inputB], [clear, key, dev])
