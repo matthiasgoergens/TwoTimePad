@@ -454,7 +454,7 @@ def make_model_conv(hparams):
         [logitsShape, shiftsShapes] = inputShapes
         return logitsShape
 
-    r = Lambda(f, fShapes, dynamic=True, dtype="float32")
+    r = Lambda(f, fShapes, dtype="float32")
 
     d = r([clear, inputA])
     assert tuple(d.shape) == (None, n, 46), d
