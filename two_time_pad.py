@@ -437,7 +437,7 @@ def make_model_conv(hparams):
         output = tf.convert_to_tensor(
             [
                 [
-                    tf.concat([logits[b, p, shifts[b, p]:],  logits[b, p, :shifts[b, p]]])
+                    tf.concat([logits[b, p, shifts[b, p]:],  logits[b, p, :shifts[b, p]]], axis=-1)
                     # [logits[b, p, (c - shifts[b, p]) % 46] for c in range(46)]
                     for p in range(n)
                 ]
