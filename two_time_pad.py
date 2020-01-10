@@ -82,8 +82,7 @@ def error(y_true, y_pred):
     return 1 - accuracy(y_true, y_pred)
 
 def sumError(y_true, y_pred):
-    raise TabError(repr(y_true.shape))
-    return sum(y_true)
+    return tf.reduce_sum(y_pred, axis=-1)
 
 
 def load():
@@ -459,10 +458,9 @@ def make_model_conv(hparams):
     assert tuple(key.shape) == (None, n, 46), key
 
 
-    model = Model([inputA, inputB], [clear, key])
+    sdev = Layer(name="dev", dtype="float32")(tf.reduce_sum(tf.abs(dev), axis=-1))
+    model = Model([inputA, inputB], [clear, key, dev])
 
-    sdev = Layer(name="dev", dtype="float32")(1000 + tf.reduce_sum(tf.abs(dev)))
-    model.add_loss(sdev)
     model.compile(
         # optimizer=tf.optimizers.Adam(learning_rate=0.001/2),
         optimizer=tf.optimizers.Adam(),
@@ -470,7 +468,7 @@ def make_model_conv(hparams):
             "clear": tf.keras.losses.SparseCategoricalCrossentropy(from_logits=True),
             "key": tf.keras.losses.SparseCategoricalCrossentropy(from_logits=True),
         },
-        loss_weights={"clear": 1 / 2, "key": 1 / 2},
+        loss_weights={"clear": 1 / 2, "key": 1 / 2, "dev": sumError},
         metrics=[error],
     )
     return model
@@ -1104,7 +1102,7 @@ def main():
         if True:
             try:
                 model.fit(
-                    x=TwoTimePadSequence(l, 10 ** 4 // 32, mtext, both=True, dev=False),
+                    x=TwoTimePadSequence(l, 10 ** 4 // 32, mtext, both=True, dev=True),
                     # x = x, y = y,
                     # steps_per_epoch=10 ** 4 // 32,
                     max_queue_size=10 ** 3,
@@ -1112,7 +1110,7 @@ def main():
                     # epochs=epoch+1,
                     # validation_split=0.1,
                     validation_data=TwoTimePadSequence(
-                        l, 10 ** 3 // 32, mtext, both=True, dev=False
+                        l, 10 ** 3 // 32, mtext, both=True, dev=True
                     ),
                     epochs=100_000,
                     callbacks=callbacks_list,
