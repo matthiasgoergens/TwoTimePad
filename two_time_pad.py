@@ -11,13 +11,22 @@ from pprint import pprint
 
 import numpy as np
 import tensorflow as tf
+
 # import tensorflow_addons as tfa
-from tensorflow.keras.callbacks import ModelCheckpoint, TensorBoard, ReduceLROnPlateau, EarlyStopping, LearningRateScheduler
+from tensorflow.keras.callbacks import (
+    ModelCheckpoint,
+    TensorBoard,
+    ReduceLROnPlateau,
+    EarlyStopping,
+    LearningRateScheduler,
+)
 from tensorboard.plugins.hparams import api as hp
 from tensorflow import keras
 from tensorflow.keras.layers import (
     LSTM,
-    Add, Average, average,
+    Add,
+    Average,
+    average,
     BatchNormalization,
     Bidirectional,
     Conv1D,
@@ -36,6 +45,7 @@ from tensorflow.keras.layers import (
     TimeDistributed,
     concatenate,
     Layer,
+    Lambda,
 )
 from tensorflow.keras.models import Model, Sequential
 from tensorflow_addons.layers import Maxout
@@ -62,8 +72,12 @@ alphaRE = alpha.replace("-", "\\-")
 assert len(alpha) == 46
 
 accuracy = tf.keras.metrics.SparseCategoricalAccuracy()
+
+
 def nAccuracy(y_true, y_pred):
     return 1 - accuracy(y_true, y_pred)
+
+
 def error(y_true, y_pred):
     return 1 - accuracy(y_true, y_pred)
 
@@ -100,10 +114,13 @@ def toChars(tensor):
     for lineNum in range(linesNums):
         chars = []
         for cN in range(charNum):
-            (_, char) = max([(tensor[lineNum, cN, alphaN], alphaN) for alphaN in range(alphaNum)])
+            (_, char) = max(
+                [(tensor[lineNum, cN, alphaN], alphaN) for alphaN in range(alphaNum)]
+            )
             chars.append(char)
         output.append(toChar(chars))
     return output
+
 
 batch_size = 32
 
@@ -115,9 +132,12 @@ def round_to(x, n):
 def make1(window, text):
     (size,) = text.shape
     start = random.randrange(window)
-    return tf.reshape(tf.slice(text, [start], [round_to(size - window * batch_size, window * batch_size)]), (-1, window),)
-
-
+    return tf.reshape(
+        tf.slice(
+            text, [start], [round_to(size - window * batch_size, window * batch_size)]
+        ),
+        (-1, window),
+    )
 
 
 def makeEpochs(mtext, window, ratio):
@@ -133,7 +153,10 @@ def makeEpochs(mtext, window, ratio):
             cipherY = (yy - xx) % 46
             # Drop last epoch, it's probably not full.
             for i in list(range(0, x.shape[0], training_size))[:-1]:
-                yield (cipherX[i : i + training_size, :], cipherY[i : i + training_size, :]), (
+                yield (
+                    cipherX[i : i + training_size, :],
+                    cipherY[i : i + training_size, :],
+                ), (
                     xx[i : i + training_size, :],
                     yy[i : i + training_size, :],
                 )
@@ -165,13 +188,27 @@ class TwoTimePadSequence(keras.utils.Sequence):
             self._load()
             return self.__getitem__(idx)
         else:
-            if self.both:
-                return (self.cipherA[i, :, :], self.cipherB[i, :, :]), (self.aa[i, :, :], self.bb[i, :, :])
+            if self.both and not self.dev:
+                return (
+                    (self.cipherA[i, :, :], self.cipherB[i, :, :]),
+                    (self.aa[i, :, :], self.bb[i, :, :]),
+                )
+            elif self.both and self.dev:
+                return (
+                    (self.cipherA[i, :, :], self.cipherB[i, :, :]),
+                    (
+                        self.aa[i, :, :],
+                        self.bb[i, :, :],
+                        tf.zeros(
+                            (batch_size, window_size, 46), dtype=tf.dtypes.float32
+                        ),
+                    ),
+                )
             else:
-            # return (self.cipherA[i, :, :], ), (self.aa[i, :, :], self.bb[i, :, :])
-                return (self.cipherA[i, :, :], ), (self.aa[i, :, :],)
+                # return (self.cipherA[i, :, :], ), (self.aa[i, :, :], self.bb[i, :, :])
+                return (self.cipherA[i, :, :],), (self.aa[i, :, :],)
 
-    def __init__(self, window, training_size, mtext, both=True):
+    def __init__(self, window, training_size, mtext, both=True, dev=False):
         self.a = make1(window, mtext)
         self.b = make1(window, mtext)
 
@@ -180,6 +217,7 @@ class TwoTimePadSequence(keras.utils.Sequence):
         self.window = window
         self._load()
         self.both = both
+        self.dev = dev
 
 
 def cipher_for_predict():
@@ -198,12 +236,13 @@ HP_WINDOW = hp.HParam("window", hp.IntInterval(1, 100))
 HP_resSize = hp.HParam("resSize", hp.IntInterval(46, 8 * 46))
 HP_bottleneck = hp.HParam("bottleneck", hp.IntInterval(0, 1000))
 HP_blowup = hp.HParam("blowup", hp.IntInterval(1, 8))
-HP_max_kernel = hp.HParam("max_kernel", hp.IntInterval(3, 1+2*9))
+HP_max_kernel = hp.HParam("max_kernel", hp.IntInterval(3, 1 + 2 * 9))
 
 METRIC_ACCURACY = "accuracy"
 
 relu = ft.partial(tf.keras.layers.PReLU, shared_axes=[1])
 crelu = lambda: tf.nn.crelu
+
 
 def plus(a, b):
     if a is None:
@@ -212,12 +251,16 @@ def plus(a, b):
         return a
     else:
         return Add()([a, b])
+
+
 def concat(l):
     l = [item for item in l if item is not None]
     if len(l) == 1:
         return l[0]
     else:
         return concatenate(l)
+
+
 def avg(l):
     assert isinstance(l, (list,)), type(l)
     l = [item for item in l if item is not None]
@@ -225,74 +268,209 @@ def avg(l):
         return l[0]
     else:
         return average(l)
+
+
 def cat(a, b):
     if a is None:
-          return b
+        return b
     elif b is None:
         return a
     else:
         return concatenate([a, b])
 
-msra = tf.initializers.VarianceScaling(scale=2.0, distribution='truncated_normal')
+
+msra = tf.initializers.VarianceScaling(scale=2.0, distribution="truncated_normal")
+
 
 def sequential(*layers):
     def helper(last):
         for layer in layers:
             last = layer(last)
         return last
+
     return helper
+
 
 # Resnet.
 def make_model_simple(hparams):
     n = hparams[HP_WINDOW]
     height = hparams[HP_HEIGHT]
-    ic = lambda: Sequential([
-        BatchNormalization(),
-        SpatialDropout1D(rate=hparams[HP_DROPOUT]),
-    ])
+    ic = lambda: Sequential(
+        [BatchNormalization(), SpatialDropout1D(rate=hparams[HP_DROPOUT]),]
+    )
     sd = lambda: SpatialDropout1D(rate=hparams[HP_DROPOUT])
 
-    inputA = Input(shape=(n,), name="ciphertextA", dtype='int32')
+    inputA = Input(shape=(n,), name="ciphertextA", dtype="int32")
     # inputB = Input(shape=(n,), name="ciphertextB", dtype='int32')
     base = 4 * 46
     blowup = 3
     embeddedA = Embedding(
-        output_dim=base, input_length=n, input_dim=len(alpha), name="embeddingA", batch_input_shape=[batch_size, n],)(
-            inputA)
+        output_dim=base,
+        input_length=n,
+        input_dim=len(alpha),
+        name="embeddingA",
+        batch_input_shape=[batch_size, n],
+    )(inputA)
 
     # Idea: Start first res from ic() or conv.
     # Idea: also give input directly, not just embedding?
-    conved = Sequential([
-        ic(),
-        Conv1D(filters=blowup * base, kernel_size=9, padding='same', kernel_initializer=msra),
-    ])(embeddedA)
+    conved = Sequential(
+        [
+            ic(),
+            Conv1D(
+                filters=blowup * base,
+                kernel_size=9,
+                padding="same",
+                kernel_initializer=msra,
+            ),
+        ]
+    )(embeddedA)
 
     outputs = embeddedA
     for i in range(height - 1):
         outputs = cat(outputs, conved)
-        conved = plus(conved, Sequential([
+        conved = plus(
+            conved,
+            Sequential(
+                [
+                    Maxout(base),
+                    ic(),
+                    Conv1D(
+                        filters=blowup * base,
+                        kernel_size=9,
+                        padding="same",
+                        kernel_initializer=msra,
+                    ),
+                ]
+            )(conved),
+        )
+    make_end = lambda name: Sequential(
+        [
             Maxout(base),
             ic(),
-            Conv1D(filters=blowup * base, kernel_size=9, padding='same', kernel_initializer=msra),
-            ])(conved))
-    make_end = lambda name: Sequential([
-        Maxout(base),
-        ic(),
-        Conv1D(name="output", filters=46, kernel_size=1, padding="same", strides=1, dtype='float32', kernel_initializer=msra),
-    ], name=name)
-    clear = make_end('clear')(cat(outputs, conved))
+            Conv1D(
+                name="output",
+                filters=46,
+                kernel_size=1,
+                padding="same",
+                strides=1,
+                dtype="float32",
+                kernel_initializer=msra,
+            ),
+        ],
+        name=name,
+    )
+    clear = make_end("clear")(cat(outputs, conved))
     # key = make_end('key')(cat(outputs, conved))
     model = Model([inputA], [clear])
 
     model.compile(
         optimizer=tf.optimizers.Adam(learning_rate=1),
-
         # optimizer=tf.optimizers.Adam(),
         loss=tf.keras.losses.SparseCategoricalCrossentropy(from_logits=True),
         # loss_weights={'clear': 1/2, 'key': 1/2},
         metrics=[nAccuracy],
     )
     return model
+
+
+def make_model_conv(hparams):
+    n = hparams[HP_WINDOW]
+    height = hparams[HP_HEIGHT]
+    width = hparams[HP_max_kernel]
+
+    ic = lambda: TimeDistributed(BatchNormalization())
+
+    inputA = Input(shape=(n,), name="ciphertextA", dtype="int32")
+    inputB = Input(shape=(n,), name="ciphertextB", dtype="int32")
+    base = hparams[HP_resSize]
+    blowup = hparams[HP_blowup]
+    embedding = Embedding(
+        output_dim=46,
+        input_length=n,
+        input_dim=len(alpha),
+        batch_input_shape=[batch_size, n],
+    )
+    embeddedA = embedding(inputA)
+    embeddedB = embedding(inputB)
+
+    def conv():
+        return Sequential(
+            [
+                Conv1D(
+                    filters=base,
+                    kernel_size=width,
+                    padding="same",
+                    kernel_initializer=msra,
+                ),
+                ic(),
+                relu(),
+            ]
+        )
+
+    c = conv()
+
+    convedA = embeddedA
+    convedB = embeddedB
+
+    make_end = Conv1D(
+        name="output",
+        filters=46,
+        kernel_size=1,
+        padding="same",
+        strides=1,
+        dtype="float32",
+        kernel_initializer=msra,
+    )
+
+    clear = Layer(name="clear", dtype="float32")(make_end(convedA))
+    key = Layer(name="key", dtype="float32")(make_end(convedB))
+
+    un = tf.unstack(key, axis=-2)
+    assert n == len(un), un
+
+    # embs = tf.unstack(embeddedA, axis=-2)
+    # shifts = tf.unstack(inputA, axis=-2)
+    # tf.roll()
+
+    def f(tensors):
+        [logits, shifts] = tensors
+        logits_shape = tf.shape(logits)
+        assert tuple(logits_shape) == (batch_size, n, 46)
+        output = tf.convert_to_tensor(
+            [
+                [
+                    [logits[b, p, (c - shifts[b, p, c]) % 46] for c in range(46)]
+                    for p in range(n)
+                ]
+                for b in range(batch_size)
+            ]
+        )
+        return [output]
+
+    def fShapes(inputShapes):
+        [logitsShape, shiftsShapes] = inputShapes
+        return [logitsShape]
+
+    r = Lambda(f, fShapes, dynamic=True, dtype="float32")
+
+    dev = Layer(name="dev")(abs(r([clear, inputA]) - key))
+
+    model = Model([inputA, inputB], [clear, key, dev])
+
+    model.compile(
+        # optimizer=tf.optimizers.Adam(learning_rate=0.001/2),
+        optimizer=tf.optimizers.Adam(),
+        loss={
+            "clear": tf.keras.losses.SparseCategoricalCrossentropy(from_logits=True),
+            "key": tf.keras.losses.SparseCategoricalCrossentropy(from_logits=True),
+            "dev": tf.keras.losses.mean_absolute_error,
+        },
+        loss_weights={"clear": 1 / 2, "key": 1 / 2, "dev": 1},
+        metrics=[error],
+    )
+    return model
+
 
 def make_model_fractal(hparams):
     n = hparams[HP_WINDOW]
@@ -301,12 +479,16 @@ def make_model_fractal(hparams):
 
     ic = lambda: TimeDistributed(BatchNormalization())
 
-    inputA = Input(shape=(n,), name="ciphertextA", dtype='int32')
-    inputB = Input(shape=(n,), name="ciphertextB", dtype='int32')
+    inputA = Input(shape=(n,), name="ciphertextA", dtype="int32")
+    inputB = Input(shape=(n,), name="ciphertextB", dtype="int32")
     base = hparams[HP_resSize]
     blowup = hparams[HP_blowup]
     embedding = Embedding(
-        output_dim=46, input_length=n, input_dim=len(alpha), batch_input_shape=[batch_size, n],)
+        output_dim=46,
+        input_length=n,
+        input_dim=len(alpha),
+        batch_input_shape=[batch_size, n],
+    )
     embeddedA = embedding(inputA)
     embeddedB = embedding(inputB)
 
@@ -314,12 +496,19 @@ def make_model_fractal(hparams):
         # Went from [x | blowup] * base to base to blowup * base
         # So could use cat?
         # Now: geting from base -> blowup * base -> base
-        return Sequential([
-            # Idea: parallel of different kernel sizes.  Will save on trainable params.
-            ic(),
-            Maxout(base),
-            Conv1D(filters=blowup * base, kernel_size=width, padding='same', kernel_initializer=msra),
-            ])
+        return Sequential(
+            [
+                # Idea: parallel of different kernel sizes.  Will save on trainable params.
+                ic(),
+                Maxout(base),
+                Conv1D(
+                    filters=blowup * base,
+                    kernel_size=width,
+                    padding="same",
+                    kernel_initializer=msra,
+                ),
+            ]
+        )
 
     def block(n):
         if n <= 0:
@@ -336,35 +525,55 @@ def make_model_fractal(hparams):
             convA = c(cat(inputA, inputB))
             convB = c(cat(inputB, inputA))
 
-            [blockA, blockB] = block(n-1)(block(n-1)([inputA, inputB]))
+            [blockA, blockB] = block(n - 1)(block(n - 1)([inputA, inputB]))
 
-            return Model(
-                [inputA, inputB],
-                [avg([blockA, convA]),
-                 avg([blockB, convB])])
+            return Model([inputA, inputB], [avg([blockA, convA]), avg([blockB, convB])])
 
-    c0 = Conv1D(filters=blowup * base, kernel_size=width, padding='same', kernel_initializer=msra)
+    c0 = Conv1D(
+        filters=blowup * base,
+        kernel_size=width,
+        padding="same",
+        kernel_initializer=msra,
+    )
     cA = c0(embeddedA)
     cB = c0(embeddedB)
 
     convedA, convedB = block(height)([cA, cB])
-    make_end = Conv1D(name="output", filters=46, kernel_size=1, padding="same", strides=1, dtype='float32', kernel_initializer=msra)
+    make_end = Conv1D(
+        name="output",
+        filters=46,
+        kernel_size=1,
+        padding="same",
+        strides=1,
+        dtype="float32",
+        kernel_initializer=msra,
+    )
 
-    clear = Layer(name='clear', dtype='float32')(make_end(SpatialDropout1D(rate=hparams[HP_DROPOUT])(convedA)))
-    key = Layer(name='key', dtype='float32')(make_end(SpatialDropout1D(rate=hparams[HP_DROPOUT])(convedB)))
+    clear = Layer(name="clear", dtype="float32")(
+        make_end(SpatialDropout1D(rate=hparams[HP_DROPOUT])(convedA))
+    )
+    key = Layer(name="key", dtype="float32")(
+        make_end(SpatialDropout1D(rate=hparams[HP_DROPOUT])(convedB))
+    )
 
     un = tf.unstack(key, axis=-2)
     assert n == len(un), un
+
+    embs = tf.unstack(embeddedA, axis=-2)
+    shifts = tf.unstack(inputA, axis=-2)
+    tf.roll()
+
     model = Model([inputA, inputB], [clear, key])
 
     model.compile(
         # optimizer=tf.optimizers.Adam(learning_rate=0.001/2),
         optimizer=tf.optimizers.Adam(),
         loss=tf.keras.losses.SparseCategoricalCrossentropy(from_logits=True),
-        loss_weights={'clear': 1/2, 'key': 1/2},
+        loss_weights={"clear": 1 / 2, "key": 1 / 2},
         metrics=[error],
     )
     return model
+
 
 # Mixture between fractal and dense.
 def make_model_fractal_dense(hparams):
@@ -376,24 +585,33 @@ def make_model_fractal_dense(hparams):
         SpatialDropout1D(rate=hparams[HP_DROPOUT]),
     )
 
-    input = Input(shape=(n,), name="ciphertextA", dtype='int32')
+    input = Input(shape=(n,), name="ciphertextA", dtype="int32")
     base = hparams[HP_resSize]
     blowup = hparams[HP_blowup]
     embedded = Embedding(
-        output_dim=46, input_length=n, input_dim=len(alpha), name="embeddingA", batch_input_shape=[batch_size, n],)(
-            input)
+        output_dim=46,
+        input_length=n,
+        input_dim=len(alpha),
+        name="embeddingA",
+        batch_input_shape=[batch_size, n],
+    )(input)
 
     def conv(extra):
         def helper(inputs):
             input = avg(inputs)
             max_kernel = hparams[HP_max_kernel]
             try:
-                conved = Conv1D(filters=extra, kernel_size=3, padding='same', kernel_initializer=msra)(
-                        TimeDistributed(BatchNormalization())(relu()(input)))
+                conved = Conv1D(
+                    filters=extra,
+                    kernel_size=3,
+                    padding="same",
+                    kernel_initializer=msra,
+                )(TimeDistributed(BatchNormalization())(relu()(input)))
             except:
                 print(f"Input: {input}")
                 raise
             return [cat(input, conved)]
+
         return helper
 
     def block(n):
@@ -409,32 +627,46 @@ def make_model_fractal_dense(hparams):
             # f (n+1) = (f n . f n) + conv
             def helper(inputs):
                 (_batch_size, _time, input_features) = inputs[-1].shape
-                inter_out = block(n-1)(inputs)
+                inter_out = block(n - 1)(inputs)
                 assert isinstance(inter_out, (list,)), type(inter_out)
-                outputs = block(n-1)(inter_out)
+                outputs = block(n - 1)(inter_out)
                 assert isinstance(outputs, (list,)), type(outputs)
                 (_batch_sizeO, _timeO, output_features) = outputs[-1].shape
-                assert (_batch_size, _time) == (_batch_sizeO, _timeO), ((_batch_size, _time), (_batch_sizeO, _timeO))
-                assert input_features <= output_features, (input_features, output_features)
+                assert (_batch_size, _time) == (_batch_sizeO, _timeO), (
+                    (_batch_size, _time),
+                    (_batch_sizeO, _timeO),
+                )
+                assert input_features <= output_features, (
+                    input_features,
+                    output_features,
+                )
                 try:
                     c = conv(output_features - input_features)(inputs)
                 except:
-                    print ("input, output, diff")
-                    print (inputs[-1].shape)
-                    print (outputs[-1].shape)
-                    print ((input_features, output_features))
+                    print("input, output, diff")
+                    print(inputs[-1].shape)
+                    print(outputs[-1].shape)
+                    print((input_features, output_features))
                     raise
                 o = [*c, *outputs]
                 assert isinstance(o, (list,)), o
                 return o
-            return helper
 
+            return helper
 
     # Idea: Start first res from ic() or conv.
     # Idea: also give input directly, not just embedding?
 
     conved = avg(block(height)([embedded]))
-    clear = Conv1D(name='clear', filters=46, kernel_size=1, padding="same", strides=1, dtype='float32', kernel_initializer=msra)(conved)
+    clear = Conv1D(
+        name="clear",
+        filters=46,
+        kernel_size=1,
+        padding="same",
+        strides=1,
+        dtype="float32",
+        kernel_initializer=msra,
+    )(conved)
     model = Model([input], [clear])
 
     model.compile(
@@ -445,37 +677,46 @@ def make_model_fractal_dense(hparams):
     )
     return model
 
+
 def make_model_dense(hparams):
     n = hparams[HP_WINDOW]
     height = hparams[HP_HEIGHT]
 
     ic = lambda: sequential(
         TimeDistributed(BatchNormalization()),
-        SpatialDropout1D(rate=hparams[HP_DROPOUT]/2),
-        Dropout(rate=hparams[HP_DROPOUT]/2),
+        SpatialDropout1D(rate=hparams[HP_DROPOUT] / 2),
+        Dropout(rate=hparams[HP_DROPOUT] / 2),
     )
 
-    inputA = Input(shape=(n,), name="ciphertextA", dtype='int32')
-    inputB = Input(shape=(n,), name="ciphertextB", dtype='int32')
+    inputA = Input(shape=(n,), name="ciphertextA", dtype="int32")
+    inputB = Input(shape=(n,), name="ciphertextB", dtype="int32")
     base = hparams[HP_resSize]
     blowup = hparams[HP_blowup]
     embedding = Embedding(
-        output_dim=46, input_length=n, input_dim=len(alpha), name="embeddingA", batch_input_shape=[batch_size, n],)
+        output_dim=46,
+        input_length=n,
+        input_dim=len(alpha),
+        name="embeddingA",
+        batch_input_shape=[batch_size, n],
+    )
     embeddedA = embedding(inputA)
     embeddedB = embedding(inputB)
 
     def conv():
         def helper(input):
-            conved = Conv1D(filters=base, kernel_size=3, padding='same', kernel_initializer=msra)(input)
+            conved = Conv1D(
+                filters=base, kernel_size=3, padding="same", kernel_initializer=msra
+            )(input)
             return ic()(relu()(conved))
+
         return helper
 
     def dense1(inputA, inputB):
         # TODO: finish
         return cat(input, conv()(input))
+
     def denseN(height, input):
         return sequential(*(height * [dense1]))(input)
-
 
     # Idea: Start first res from ic() or conv.
     # Idea: also give input directly, not just embedding?
@@ -491,24 +732,39 @@ def make_model_dense(hparams):
             # Residual connection for all but first block:
             if 1 < n:
                 print(f"Bottlenecking at block {n}.")
-                output = Conv1D(filters=bottleneck, kernel_size=1, padding='same', kernel_initializer=msra)(output)
+                output = Conv1D(
+                    filters=bottleneck,
+                    kernel_size=1,
+                    padding="same",
+                    kernel_initializer=msra,
+                )(output)
             else:
                 print(f"No bottlenecking at block {n}.")
             if 1 < n < blocks:
-                assert tuple(input.shape) == tuple(output.shape), (input.shape, output.shape)
+                assert tuple(input.shape) == tuple(output.shape), (
+                    input.shape,
+                    output.shape,
+                )
                 print(f"Residual connection at block {n}.")
                 output = plus(input, output)
             else:
                 print(f"No residual connection at block {n}.")
-            return block(n-1, output)
+            return block(n - 1, output)
 
     conved = block(blocks, embedded)
 
-
     make_end = lambda name: sequential(
-        Conv1D(name=name, filters=46, kernel_size=1, padding="same", strides=1, dtype='float32', kernel_initializer=msra),
+        Conv1D(
+            name=name,
+            filters=46,
+            kernel_size=1,
+            padding="same",
+            strides=1,
+            dtype="float32",
+            kernel_initializer=msra,
+        ),
     )
-    clear = make_end('clear')(conved)
+    clear = make_end("clear")(conved)
     model = Model([input], [clear])
 
     model.compile(
@@ -519,68 +775,105 @@ def make_model_dense(hparams):
     )
     return model
 
+
 def make_model_recreate(hparams):
 
     relu = ft.partial(tf.keras.layers.PReLU, shared_axes=[1])
 
     n = hparams[HP_WINDOW]
-    inputA = Input(shape=(n,), name="ciphertextA", dtype='int32')
-    inputB = Input(shape=(n,), name="ciphertextB", dtype='int32')
+    inputA = Input(shape=(n,), name="ciphertextA", dtype="int32")
+    inputB = Input(shape=(n,), name="ciphertextB", dtype="int32")
     resSize = hparams[HP_resSize]
     width = hparams[HP_max_kernel]
     height = hparams[HP_HEIGHT]
 
-    embedding = Embedding(output_dim=resSize, input_length=n, input_dim=len(alpha), name="my_embedding", batch_input_shape=[batch_size, n],)
+    embedding = Embedding(
+        output_dim=resSize,
+        input_length=n,
+        input_dim=len(alpha),
+        name="my_embedding",
+        batch_input_shape=[batch_size, n],
+    )
 
     embeddedA = embedding(inputA)
     embeddedB = embedding(inputB)
 
     def makeResNetNew(i, channels, _, size):
-        fanInput = Input(shape=(n,4*size,))
-        fan = concatenate([Conv1D(filters=round(size/4), kernel_size=width, padding='same', kernel_initializer=msra)(fanInput) for width in [3, 5, 7, 9]])
+        fanInput = Input(shape=(n, 4 * size,))
+        fan = concatenate(
+            [
+                Conv1D(
+                    filters=round(size / 4),
+                    kernel_size=width,
+                    padding="same",
+                    kernel_initializer=msra,
+                )(fanInput)
+                for width in [3, 5, 7, 9]
+            ]
+        )
         m = Model([fanInput], [fan])
 
-        return Sequential([
-            # Input(shape=(n,channels,)),
-
-            # SpatialDropout1D(rate=hparams[HP_DROPOUT]), # Not sure whether that's good.
-            # TODO: if BatchNormalization is independent for each dimension, we can do post BatchNorm, instead of pre?
-            # TODO: try different dropout scheme here, that messes less with variance?
-
-            ## Note: dropout done outside.
-            # SpatialDropout1D(rate=hparams[HP_DROPOUT] * i / height),
-            # TimeDistributed(BatchNormalization()),
-            # relu(),
-            Conv1D(filters=16*size, kernel_size=1, padding='same', kernel_initializer=msra),
-
-            # TODO: Might want to drop this intermediate batch norm?  So that dropout doesn't have too much impact on variance.
-            TimeDistributed(BatchNormalization()),
-            Maxout(4*size),
-            m,
-            TimeDistributed(BatchNormalization()),
-            Maxout(size),
-            ], name="resnet{}".format(i))
+        return Sequential(
+            [
+                # Input(shape=(n,channels,)),
+                # SpatialDropout1D(rate=hparams[HP_DROPOUT]), # Not sure whether that's good.
+                # TODO: if BatchNormalization is independent for each dimension, we can do post BatchNorm, instead of pre?
+                # TODO: try different dropout scheme here, that messes less with variance?
+                ## Note: dropout done outside.
+                # SpatialDropout1D(rate=hparams[HP_DROPOUT] * i / height),
+                # TimeDistributed(BatchNormalization()),
+                # relu(),
+                Conv1D(
+                    filters=16 * size,
+                    kernel_size=1,
+                    padding="same",
+                    kernel_initializer=msra,
+                ),
+                # TODO: Might want to drop this intermediate batch norm?  So that dropout doesn't have too much impact on variance.
+                TimeDistributed(BatchNormalization()),
+                Maxout(4 * size),
+                m,
+                TimeDistributed(BatchNormalization()),
+                Maxout(size),
+            ],
+            name="resnet{}".format(i),
+        )
 
     def makeResNet(i, channels, width, size):
-        return Sequential([
-            Input(name="res_inputMe", shape=(n,channels,)),
-
-            # SpatialDropout1D(rate=hparams[HP_DROPOUT]), # Not sure whether that's good.
-            TimeDistributed(BatchNormalization()),
-            relu(),
-            Conv1D(filters=4*size, kernel_size=1, padding='same', kernel_initializer=msra),
-
-            TimeDistributed(BatchNormalization()),
-            relu(),
-            Conv1D(filters=size, kernel_size=width, padding='same', kernel_initializer=msra),
-            ], name="resnet{}".format(i))
-
+        return Sequential(
+            [
+                Input(name="res_inputMe", shape=(n, channels,)),
+                # SpatialDropout1D(rate=hparams[HP_DROPOUT]), # Not sure whether that's good.
+                TimeDistributed(BatchNormalization()),
+                relu(),
+                Conv1D(
+                    filters=4 * size,
+                    kernel_size=1,
+                    padding="same",
+                    kernel_initializer=msra,
+                ),
+                TimeDistributed(BatchNormalization()),
+                relu(),
+                Conv1D(
+                    filters=size,
+                    kernel_size=width,
+                    padding="same",
+                    kernel_initializer=msra,
+                ),
+            ],
+            name="resnet{}".format(i),
+        )
 
     def make_drop(layers):
         drop = hparams[HP_DROPOUT]
-        return list(reversed([
-            (SpatialDropout1D(drop * distance / height))(layer)
-            for distance, layer in enumerate(reversed(layers))]))
+        return list(
+            reversed(
+                [
+                    (SpatialDropout1D(drop * distance / height))(layer)
+                    for distance, layer in enumerate(reversed(layers))
+                ]
+            )
+        )
 
     random.seed(23)
 
@@ -595,8 +888,8 @@ def make_model_recreate(hparams):
             (_, _, num_channelsB) = catB.shape
             assert tuple(catA.shape) == tuple(catB.shape), (catA.shape, catB.shape)
 
-            width = 1 + 2*random.randrange(5, 8)
-            size = random.randrange(23, 2*46)
+            width = 1 + 2 * random.randrange(5, 8)
+            size = random.randrange(23, 2 * 46)
             size = resSize
             resNet = makeResNetNew(i, num_channels, width, size)
 
@@ -620,9 +913,21 @@ def make_model_recreate(hparams):
     # TODO: Try different amounts of final dropout.  Can even try very high amounts, because we have so many dimensions at the end.
     # Approx 1,246 dimensions at the end for something close to `faithful` repro.
     # So could try even 90% dropout.
-    make_end = Conv1D(name="output", filters=46, kernel_size=1, padding="same", strides=1, dtype='float32', kernel_initializer=msra)
-    totes_clear = Layer(name='clear', dtype='float32')(make_end(SpatialDropout1D(rate=0.0)(concatenate(convedA))))
-    totes_key = Layer(name='key', dtype='float32')(make_end(SpatialDropout1D(rate=0.0)(concatenate(convedB))))
+    make_end = Conv1D(
+        name="output",
+        filters=46,
+        kernel_size=1,
+        padding="same",
+        strides=1,
+        dtype="float32",
+        kernel_initializer=msra,
+    )
+    totes_clear = Layer(name="clear", dtype="float32")(
+        make_end(SpatialDropout1D(rate=0.0)(concatenate(convedA)))
+    )
+    totes_key = Layer(name="key", dtype="float32")(
+        make_end(SpatialDropout1D(rate=0.0)(concatenate(convedB)))
+    )
 
     model = Model([inputA, inputB], [totes_clear, totes_key])
 
@@ -630,17 +935,17 @@ def make_model_recreate(hparams):
         optimizer=tf.optimizers.Adam(),
         # optimizer=tf.optimizers.SGD(lr=0.01, decay=1e-6, momentum=0.0), # momentum=0.9, nesterov=True),
         # optimizer=tfa.optimizers.AdamW(),
-
         loss=tf.keras.losses.SparseCategoricalCrossentropy(from_logits=True),
-        loss_weights={'clear': 1/2, 'key': 1/2},
+        loss_weights={"clear": 1 / 2, "key": 1 / 2},
         metrics=[error],
     )
     return model
 
+
 l = 50
 hparams = {
     HP_DROPOUT: 0.0,
-    HP_HEIGHT: 0,
+    HP_HEIGHT: 1,
     HP_blocks: 1,
     HP_bottleneck: 46 * 5,
     ## Idea: skip the first few short columns in the fractal.
@@ -651,23 +956,26 @@ hparams = {
     HP_max_kernel: 5,
 }
 
-weights_name = "r-no-dropout-maxout height: 20 growth: 60 blowup: 4x4.h5"
+weights_name = "conv-loss.h5"
 
-make_model = make_model_fractal
+make_model = make_model_conv
+
 
 def show():
     make_model(hparams).summary()
 
+
 def showOld():
-    keras.models.load_model('weights/'+weights_name).summary()
+    keras.models.load_model("weights/" + weights_name).summary()
+
 
 def main():
     # TODO: Actually set stuff to float16 only, in inference too.  Should use
     # less memory.
-    policy = mixed_precision.Policy('mixed_float16')
+    policy = mixed_precision.Policy("mixed_float16")
     mixed_precision.set_policy(policy)
-    print('Compute dtype: %s' % policy.compute_dtype)
-    print('Variable dtype: %s' % policy.variable_dtype)
+    print("Compute dtype: %s" % policy.compute_dtype)
+    print("Variable dtype: %s" % policy.variable_dtype)
 
     with tf.device(device_name):
         text = clean(load())
@@ -676,9 +984,13 @@ def main():
 
         # logdir = "logs/scalars/" + datetime.now().strftime("%Y%m%d-%H%M%S")
         logdir = "logs/scalars/{}".format(weights_name)
-        tensorboard_callback = TensorBoard(log_dir=logdir, update_freq=50_000, profile_batch=0)
+        tensorboard_callback = TensorBoard(
+            log_dir=logdir, update_freq=50_000, profile_batch=0
+        )
 
-        checkpoint = ModelCheckpoint('weights/'+weights_name, monitor='loss', verbose=1, save_best_only=True)
+        checkpoint = ModelCheckpoint(
+            "weights/" + weights_name, monitor="loss", verbose=1, save_best_only=True
+        )
 
         def schedule(epoch):
             # TODO: Aso try SGD with momentum.
@@ -691,7 +1003,9 @@ def main():
                 lr = default * max(1, maxLR * (1 - (epoch - lastEpoch) / 20))
             # NOTE: 32 was still fine, 64 broke.
             lr = default * 1
-            print(f"Scheduled learning rate for epoch {epoch}: {default} * {lr/default}")
+            print(
+                f"Scheduled learning rate for epoch {epoch}: {default} * {lr/default}"
+            )
             return lr
 
         def scheduleRampSGD(epoch):
@@ -700,26 +1014,38 @@ def main():
             # lr = default * (epoch / 2) **2
             lr = default * (epoch + 1)
             # NOTE: 32 was still fine, 64 broke.
-            print(f"Scheduled learning rate for epoch {epoch}: {default} * {lr/default}")
+            print(
+                f"Scheduled learning rate for epoch {epoch}: {default} * {lr/default}"
+            )
             return lr
+
         def slow(epoch):
             return 0.001
             return 0.001 / 100
-
-
 
         callbacks_list = [
             checkpoint,
             tensorboard_callback,
             # hp.KerasCallback(logdir, hparams),
-            ReduceLROnPlateau(monitor='loss', mode='min', patience=20, cooldown=10, factor=1/2, verbose=1, min_delta=0.001),
+            ReduceLROnPlateau(
+                monitor="loss",
+                mode="min",
+                patience=20,
+                cooldown=10,
+                factor=1 / 2,
+                verbose=1,
+                min_delta=0.001,
+            ),
             LearningRateScheduler(schedule),
-            EarlyStopping(monitor='loss', patience=60, verbose=1, restore_best_weights=True)
+            EarlyStopping(
+                monitor="loss", patience=60, verbose=1, restore_best_weights=True
+            ),
         ]
 
         with tf.summary.create_file_writer("logs/scalars").as_default():
             hp.hparams_config(
-                hparams=[HP_DROPOUT, HP_HEIGHT, HP_WINDOW], metrics=[hp.Metric(METRIC_ACCURACY, display_name="Accuracy")],
+                hparams=[HP_DROPOUT, HP_HEIGHT, HP_WINDOW],
+                metrics=[hp.Metric(METRIC_ACCURACY, display_name="Accuracy")],
             )
 
         # try:
@@ -727,7 +1053,7 @@ def main():
         model = make_model(hparams)
         try:
             print("Trying to load weights.")
-            model.load_weights('weights/'+weights_name)
+            model.load_weights("weights/" + weights_name)
             model.summary()
             print("Loaded weights.")
         except:
@@ -769,29 +1095,31 @@ def main():
         # print("Training:")
         # (ciphers, labels, keys) = samples(text, training_size, l)
         # print(model.fit(ciphers, [labels, keys],
-#        for epoch, (x, y) in enumerate(makeEpochs(mtext, l, 1/60)):
-#           print(f"My epoch: {epoch}")
+        #        for epoch, (x, y) in enumerate(makeEpochs(mtext, l, 1/60)):
+        #           print(f"My epoch: {epoch}")
         if True:
             try:
                 model.fit(
-                    x=TwoTimePadSequence(l, 10 ** 4 // 32, mtext, both=True),
+                    x=TwoTimePadSequence(l, 10 ** 4 // 32, mtext, both=True, dev=True),
                     # x = x, y = y,
                     # steps_per_epoch=10 ** 4 // 32,
-                    max_queue_size=10**3,
+                    max_queue_size=10 ** 3,
                     initial_epoch=0,
                     # epochs=epoch+1,
                     # validation_split=0.1,
-                    validation_data=TwoTimePadSequence(l, 10 ** 3 // 32, mtext, both=True),
+                    validation_data=TwoTimePadSequence(
+                        l, 10 ** 3 // 32, mtext, both=True, dev=True
+                    ),
                     epochs=100_000,
                     callbacks=callbacks_list,
                     # batch_size=batch_size,
                     verbose=1,
                     # workers=8,
                     # use_multiprocessing=True,
-                    )
+                )
             except:
                 print("Saving model...")
-                model.save('weights/'+weights_name, include_optimizer=True)
+                model.save("weights/" + weights_name, include_optimizer=True)
                 print("Saved model.")
                 raise
 
