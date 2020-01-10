@@ -453,10 +453,10 @@ def make_model_conv(hparams):
 
     d = r([clear, inputA])
     assert tuple(d.shape) == (None, n, 46), d
-    dev = Layer(name="dev", dtype="float32")(
-        d - key
-        )
-    assert tuple(dev.shape) == (None, n,), dev
+    assert tuple(key.shape) == (None, n, 46), key
+    dev = Layer(name="dev", dtype="float32")(d - key)
+    assert tuple(dev.shape) == (None, n, 46), dev
+    assert tuple(key.shape) == (None, n, 46), key
 
 
     model = Model([inputA, inputB], [clear, key, dev])
