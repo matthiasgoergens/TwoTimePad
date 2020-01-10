@@ -437,7 +437,8 @@ def make_model_conv(hparams):
         output = tf.convert_to_tensor(
             [
                 [
-                    [logits[b, p, (c - shifts[b, p]) % 46] for c in range(46)]
+                    tf.concat([lopits[b, p, shifts[b, p]:],  lopits[b, p, :shifts[b, p]]])
+                    # [logits[b, p, (c - shifts[b, p]) % 46] for c in range(46)]
                     for p in range(n)
                 ]
                 for b in range(batch_size)
@@ -460,7 +461,7 @@ def make_model_conv(hparams):
 
 
     sdev = Layer(name="dev", dtype="float32")(tf.reduce_sum(tf.abs(dev), axis=-1))
-    model = Model([inputA, inputB], [clear, key, dev])
+    model = Model([inputA, inputB], [clear, key, sdev])
 
     model.compile(
         # optimizer=tf.optimizers.Adam(learning_rate=0.001/2),
