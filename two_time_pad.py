@@ -82,7 +82,7 @@ def error(y_true, y_pred):
     return 1 - accuracy(y_true, y_pred)
 
 def sumError(y_true, y_pred):
-    assert TabError(repr(y_true.shape))
+    raise TabError(repr(y_true.shape))
     return sum(y_true)
 
 
