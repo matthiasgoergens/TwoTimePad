@@ -454,9 +454,11 @@ def make_model_conv(hparams):
 
     r = Lambda(f, fShapes, dynamic=True, dtype="float32")
 
+    d = r([clear, inputA])
+    assert tuple(d.shape) == (None, n, 46), d
     dev = Layer(name="dev", dtype="float32")(
         tf.keras.backend.sum(
-        abs(r([clear, inputA]) - key),
+        abs(d - key),
         axis=-1,
         keepdims=False,
         ))
