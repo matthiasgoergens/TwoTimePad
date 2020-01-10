@@ -459,7 +459,8 @@ def make_model_conv(hparams):
     assert tuple(key.shape) == (None, n, 46), key
 
 
-    model = Model([inputA, inputB], [clear, key, dev])
+    model = Model([inputA, inputB], [clear, key])
+    model.add_loss(tf.reduce_sum(tf.abs(dev), name="dev"))
 
     model.compile(
         # optimizer=tf.optimizers.Adam(learning_rate=0.001/2),
@@ -467,7 +468,6 @@ def make_model_conv(hparams):
         loss={
             "clear": tf.keras.losses.SparseCategoricalCrossentropy(from_logits=True),
             "key": tf.keras.losses.SparseCategoricalCrossentropy(from_logits=True),
-            "dev": sumError,
         },
         loss_weights={"clear": 1 / 2, "key": 1 / 2, "dev": 1},
         metrics=[error],
