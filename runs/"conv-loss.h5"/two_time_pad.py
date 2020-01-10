@@ -82,6 +82,7 @@ def error(y_true, y_pred):
     return 1 - accuracy(y_true, y_pred)
 
 def sumError(y_true, y_pred):
+    return y_pred
     return tf.reduce_sum(y_pred, axis=-1)
 
 
@@ -467,8 +468,9 @@ def make_model_conv(hparams):
         loss={
             "clear": tf.keras.losses.SparseCategoricalCrossentropy(from_logits=True),
             "key": tf.keras.losses.SparseCategoricalCrossentropy(from_logits=True),
+            "dev": sumError
         },
-        loss_weights={"clear": 1 / 2, "key": 1 / 2, "dev": sumError},
+        loss_weights={"clear": 1 / 2, "key": 1 / 2, "dev": 1},
         metrics=[error],
     )
     return model
