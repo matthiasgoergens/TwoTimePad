@@ -466,7 +466,7 @@ def make_model_conv(hparams):
     sdev = Layer(name="dev", dtype="float32")(tf.reduce_mean(tf.reduce_sum(tf.abs(dev), axis=-1)))
     model = Model([inputA, inputB], [clear, key])
     model.add_loss(sdev)
-    model.add_metric(sdev, name="deviation")
+    model.add_metric(sdev, name="deviation", aggregation='mean')
 
     model.compile(
         # optimizer=tf.optimizers.Adam(learning_rate=0.001/2),
