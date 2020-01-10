@@ -1109,7 +1109,7 @@ def main():
         if True:
             try:
                 model.fit(
-                    x=TwoTimePadSequence(l, 10 ** 4 // 32, mtext, both=True, dev=True),
+                    x=TwoTimePadSequence(l, 10 ** 4 // 32, mtext, both=True, dev=False),
                     # x = x, y = y,
                     # steps_per_epoch=10 ** 4 // 32,
                     max_queue_size=10 ** 3,
@@ -1117,7 +1117,7 @@ def main():
                     # epochs=epoch+1,
                     # validation_split=0.1,
                     validation_data=TwoTimePadSequence(
-                        l, 10 ** 3 // 32, mtext, both=True, dev=True
+                        l, 10 ** 3 // 32, mtext, both=True, dev=False
                     ),
                     epochs=100_000,
                     callbacks=callbacks_list,
