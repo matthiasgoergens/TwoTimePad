@@ -82,8 +82,7 @@ def error(y_true, y_pred):
     return 1 - accuracy(y_true, y_pred)
 
 def sumError(y_true, y_pred):
-    return y_pred
-    return tf.reduce_sum(y_pred, axis=-1)
+    return tf.reduce_mean(tf.reduce_sum(y_pred, axis=-1), axis=-1)
 
 
 def load():
