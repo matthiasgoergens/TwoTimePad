@@ -435,24 +435,35 @@ def make_model_conv(hparams):
 
     def f(tensors):
         [logits, shifts] = tensors
-        logits_shape = tf.shape(logits)
-        assert tuple(logits_shape) == (batch_size, n, 46)
-        output = tf.convert_to_tensor(
-            [
-                [
-                    [logits[b, p, (c - shifts[b, p]) % 46] for c in range(46)]
-                    for p in range(n)
-                ]
-                for b in range(batch_size)
-            ]
-        )
-        return [output]
+
+        # (batch_size, window_length, features=46)
+        r = tf.range(46)
+        
+        # r = tf.broadcast_to(r, logits.shape)
+        r = tf.reshape(r, tf.shape(logits))
+        shifts = tf.broadcast_to(tf.expand_dims(shifts, -1), logits.shape)
+        indices = (r - shifts) % 46
+
+        return [tf.gather(logits, indices, batch_dims=2)]
+
+        # logits_shape = tf.shape(logits)
+        # assert tuple(logits_shape) == (batch_size, n, 46)
+        # output = tf.convert_to_tensor(
+        #     [
+        #         [
+        #             [logits[b, p, (c - shifts[b, p]) % 46] for c in range(46)]
+        #             for p in range(n)
+        #         ]
+        #         for b in range(batch_size)
+        #     ]
+        # )
+        # return [output]
 
     def fShapes(inputShapes):
         [logitsShape, shiftsShapes] = inputShapes
         return [logitsShape]
 
-    r = Lambda(f, fShapes, dynamic=True, dtype="float32")
+    r = Lambda(f, fShapes, dtype="float32")
 
     dev = Layer(name="dev", dtype="float32")(
         tf.keras.backend.sum(
@@ -460,7 +471,7 @@ def make_model_conv(hparams):
         axis=-1,
         keepdims=False,
         ))
-        assert tuple(dev.shape) == (None, n,), dev
+    assert tuple(dev.shape) == (None, n,), dev
 
 
     model = Model([inputA, inputB], [clear, key, dev])
@@ -952,7 +963,7 @@ def make_model_recreate(hparams):
 l = 50
 hparams = {
     HP_DROPOUT: 0.0,
-    HP_HEIGHT: 1,
+    HP_HEIGHT: 0,
     HP_blocks: 1,
     HP_bottleneck: 46 * 5,
     ## Idea: skip the first few short columns in the fractal.
