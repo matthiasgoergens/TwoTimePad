@@ -307,8 +307,7 @@ def justShift(clear, shifts):
     return clearShift
 
 
-@tf.function
-def fShift(tensors):
+def ShiftLayer(tensors):
     [clear, key, shifts] = tensors
 
     if False:
@@ -321,12 +320,6 @@ def fShift(tensors):
     cce = tf.keras.losses.SparseCategoricalCrossentropy(from_logits=False)
     # return cce(clear, key, from_logits=False) + cce(key, clear, from_logits=False)
     return cce(clear, clear) + cce(key, key)
-
-def shiftShapes(inputShapes):
-    [clearShape, keyShape, shiftsShapes] = inputShapes
-    return clearShape
-
-ShiftLayer = Lambda(fShift, shiftShapes, dtype="float32", name="cyclic-shift")
 
 # Resnet.
 def make_model_simple(hparams):
