@@ -310,8 +310,8 @@ def fShift(tensors):
     # rA - b = shifts
     # rA - shifts = b ?
 
-    ## indices = (r + shifts) % 46
-    indices = r
+    # TODO: shifts is the right one.
+    indices = (r - 1 * shifts) % 46
 
     clearShift = tf.gather(clear, indices, batch_dims=2)
 
