@@ -317,6 +317,7 @@ def ShiftLayer(clear, key, shifts):
     # cce = tf.keras.backend.categorical_crossentropy
     cce = tf.keras.losses.CategoricalCrossentropy
     # cce = tf.keras.losses.SparseCategoricalCrossentropy(from_logits=False)
+    return 0
     return cce(name="a")(clear, clear) + cce(name="b")(key, key)
     # return cce(clear, clear) + cce(key, key)
 
