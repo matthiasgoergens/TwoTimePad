@@ -311,10 +311,11 @@ def justShift(clear, shifts):
 def fShift(tensors):
     [clear, key, shifts] = tensors
 
-    clear = justShift(clear, shifts)
+    if False:
+        clear = justShift(clear, shifts)
 
-    clear = Softmax(dtype='float32')(clear)
-    key = Softmax(dtype='float32')(key)
+        clear = Softmax(dtype='float32')(clear)
+        key = Softmax(dtype='float32')(key)
 
     cce = tf.keras.backend.categorical_crossentropy
     # return cce(clear, key, from_logits=False) + cce(key, clear, from_logits=False)
