@@ -475,8 +475,8 @@ def make_model_conv_res(hparams):
     model = Model([inputA, inputB], [clear, key])
 
     deviation_weight = hparams[HP_deviation_as_loss]
-    sdev = Layer(name="dev", dtype="float32")(tf.reduce_mean(dev)) * deviation_weight
-    model.add_loss(sdev)
+    sdev = Layer(name="dev", dtype="float32")(tf.reduce_mean(dev))
+    model.add_loss(sdev * deviation_weight)
     model.add_metric(sdev, name="deviation", aggregation='mean')
 
     model.compile(
