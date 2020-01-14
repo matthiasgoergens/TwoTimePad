@@ -1162,9 +1162,11 @@ def main():
             print("Trying to load weights.")
             model.load_weights("weights/" + weights_name)
             model.summary()
+            print(weights_name)
             print("Loaded weights.")
         except:
             model.summary()
+            print(weights_name)
             print("Failed to load weights.")
             pass
             # raise
