@@ -313,12 +313,8 @@ def ShiftLayer(clear, key, shifts):
     clear = Softmax(dtype='float32')(clear)
     key = Softmax(dtype='float32')(key)
 
-    # cce = tf.keras.backend.categorical_crossentropy
-    # cce = tf.keras.losses.CategoricalCrossentropy
-    cce = keras.losses.kullback_leibler_divergence
-    # cce = tf.keras.losses.CategoricalCrossentropy(from_logits=False)
-    return (cce(clear, key) + cce(key, clear))
-    # return cce(clear, clear) + cce(key, key)
+    kld = keras.losses.kullback_leibler_divergence
+    return (kld(clear, key) + kld(key, clear))
 
 # Resnet.
 def make_model_simple(hparams):
