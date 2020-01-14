@@ -441,7 +441,7 @@ def make_model_conv_res(hparams):
     for _ in range(height):
         c = conv()
         cA, cB = c(cat(convedA, convedB)), c(cat(convedB, convedA))
-        if tuple(convedA.shape) == tuple(cA):
+        if tuple(convedA.shape) == tuple(cA.shape):
             convedA = plus(convedA, cA)
             convedB = plus(convedB, cB)
         else:
