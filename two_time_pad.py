@@ -436,26 +436,37 @@ def make_model_conv(hparams):
     @tf.function
     def f(tensors):
         [logits, shifts] = tensors
+
+        # (batch_size, window_length, features=46)
+        r = tf.range(46)
+        
+        r = tf.broadcast_to(r, tf.shape(logits))
+        # r = tf.reshape(r, tf.shape(logits))
+        shifts = tf.broadcast_to(tf.expand_dims(shifts, -1), tf.shape(logits))
+        indices = (r - shifts) % 46
+
+        return tf.gather(logits, indices, batch_dims=2)
+
         # logits_shape = tf.shape(logits)
         # assert tuple(logits_shape) == (batch_size, n, 46)
-        # TOOD: use linear algebra instead?
-        output = tf.convert_to_tensor(
-            [
-                [
-                    # tf.concat([logits[b, p, shifts[b, p]:],  logits[b, p, :shifts[b, p]]], axis=-1)
-                    [logits[b, p, (c - shifts[b, p]) % 46] for c in range(46)]
-                    for p in range(n)
-                ]
-                for b in range(batch_size)
-            ]
-        )
-        return output
+        # output = tf.convert_to_tensor(
+        #     [
+        #         [
+        #             [logits[b, p, (c - shifts[b, p]) % 46] for c in range(46)]
+        #             for p in range(n)
+        #         ]
+        #         for b in range(batch_size)
+        #     ]
+        # )
+        # return [output]
+        logits_shape = tf.shape(logits)
+        assert tuple(logits_shape) == (batch_size, n, 46)
 
     def fShapes(inputShapes):
         [logitsShape, shiftsShapes] = inputShapes
         return logitsShape
 
-    r = Lambda(f, fShapes, dtype="float32")
+    r = Lambda(f, fShapes, dtype="float32", name="cyclic-shift")
 
     d = r([clear, inputA])
     assert tuple(d.shape) in [(None, n, 46), (32, n, 46)], d
@@ -956,7 +967,7 @@ def make_model_recreate(hparams):
 l = 50
 hparams = {
     HP_DROPOUT: 0.0,
-    HP_HEIGHT: 1,
+    HP_HEIGHT: 0,
     HP_blocks: 1,
     HP_bottleneck: 46 * 5,
     ## Idea: skip the first few short columns in the fractal.
