@@ -299,8 +299,8 @@ def sequential(*layers):
 @tf.function
 def fShift(tensors):
     [clear, key, shifts] = tensors
-    clear = Softmax()(clear, dtype='float32')
-    key = Softmax()(key, dtype='float32')
+    clear = Softmax(dtype='float32')(clear)
+    key = Softmax(dtype='float32')(key)
     # totes = tf.reduce_sum(clear) + tf.reduce_sum(key)
     # clear = clear / totes
     # key = key / totes
