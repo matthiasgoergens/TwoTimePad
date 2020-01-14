@@ -446,20 +446,23 @@ def make_model_conv(hparams):
                 for b in range(batch_size)
             ]
         )
-        return [output]
+        return output
 
     def fShapes(inputShapes):
         [logitsShape, shiftsShapes] = inputShapes
-        return [logitsShape]
+        return logitsShape
 
     r = Lambda(f, fShapes, dynamic=True, dtype="float32")
 
+    d = r([clear, inputA])
+    assert tuple(d.shape) == (None, n, 46), d
     dev = Layer(name="dev", dtype="float32")(
         tf.keras.backend.sum(
-        abs(r([clear, inputA]) - key),
+        abs(d - key),
         axis=-1,
         keepdims=False,
         ))
+    assert tuple(dev.shape) == (None, n,), dev
 
 
     model = Model([inputA, inputB], [clear, key, dev])

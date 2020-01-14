@@ -439,12 +439,12 @@ def make_model_conv(hparams):
         # (batch_size, window_length, features=46)
         r = tf.range(46)
         
-        # r = tf.broadcast_to(r, logits.shape)
-        r = tf.reshape(r, tf.shape(logits))
-        shifts = tf.broadcast_to(tf.expand_dims(shifts, -1), logits.shape)
+        r = tf.broadcast_to(r, tf.shape(logits))
+        # r = tf.reshape(r, tf.shape(logits))
+        shifts = tf.broadcast_to(tf.expand_dims(shifts, -1), tf.shape(logits))
         indices = (r - shifts) % 46
 
-        return [tf.gather(logits, indices, batch_dims=2)]
+        return tf.gather(logits, indices, batch_dims=2)
 
         # logits_shape = tf.shape(logits)
         # assert tuple(logits_shape) == (batch_size, n, 46)
@@ -458,16 +458,30 @@ def make_model_conv(hparams):
         #     ]
         # )
         # return [output]
+        logits_shape = tf.shape(logits)
+        assert tuple(logits_shape) == (batch_size, n, 46)
+        output = tf.convert_to_tensor(
+            [
+                [
+                    [logits[b, p, (c - shifts[b, p]) % 46] for c in range(46)]
+                    for p in range(n)
+                ]
+                for b in range(batch_size)
+            ]
+        )
+        return output
 
     def fShapes(inputShapes):
         [logitsShape, shiftsShapes] = inputShapes
-        return [logitsShape]
+        return logitsShape
 
-    r = Lambda(f, fShapes, dtype="float32")
+    r = Lambda(f, fShapes, dtype="float32", name="cyclic-shift")
 
+    d = r([clear, inputA])
+    assert tuple(d.shape) == (None, n, 46), d
     dev = Layer(name="dev", dtype="float32")(
         tf.keras.backend.sum(
-        abs(r([clear, inputA]) - key),
+        abs(d - key),
         axis=-1,
         keepdims=False,
         ))
