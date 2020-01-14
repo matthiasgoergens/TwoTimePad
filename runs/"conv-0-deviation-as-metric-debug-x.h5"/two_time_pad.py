@@ -314,10 +314,11 @@ def ShiftLayer(clear, key, shifts):
     clear = Softmax(dtype='float32')(clear)
     key = Softmax(dtype='float32')(key)
 
-    cce = tf.keras.backend.categorical_crossentropy
+    # cce = tf.keras.backend.categorical_crossentropy
+    cce = tf.keras.losses.CategoricalCrossentropy
     # cce = tf.keras.losses.SparseCategoricalCrossentropy(from_logits=False)
-    # return cce(clear, key, from_logits=False) + cce(key, clear, from_logits=False)
-    return cce(clear, clear) + cce(key, key)
+    return cce(name="a"()(clear, key) + cce(name="b")(key, clear, from_logits=False)
+    # return cce(clear, clear) + cce(key, key)
 
 # Resnet.
 def make_model_simple(hparams):
