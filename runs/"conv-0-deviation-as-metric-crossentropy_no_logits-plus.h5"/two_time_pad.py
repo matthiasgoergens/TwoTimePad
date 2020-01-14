@@ -307,7 +307,7 @@ def fShift(tensors):
     
     r = tf.broadcast_to(r, tf.shape(clear))
     shifts = tf.broadcast_to(tf.expand_dims(shifts, -1), tf.shape(clear))
-    indices = (-r + shifts) % 46
+    indices = (-r - shifts) % 46
 
     clearShift = tf.gather(clear, indices, batch_dims=2)
 
@@ -1067,6 +1067,7 @@ def main():
         print("Making model.")
         model = make_model(hparams)
         try:
+            raise NotIMplementedError("Not loading weights for testing.")
             print("Trying to load weights.")
             model.load_weights("weights/" + weights_name)
             model.summary()
