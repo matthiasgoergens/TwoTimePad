@@ -312,8 +312,8 @@ def fShift(tensors):
 
     clearShift = tf.gather(clear, indices, batch_dims=2)
 
-    cce = tf.keras.backend.categorical_crossentropy(from_logits=True)
-    return cce(clearShift, key) + cce(key, clearShift)
+    cce = tf.keras.backend.categorical_crossentropy
+    return cce(clearShift, key, from_logits=True) + cce(key, clearShift, from_logits=True)
 
 def shiftShapes(inputShapes):
     [clearShape, keyShape, shiftsShapes] = inputShapes
