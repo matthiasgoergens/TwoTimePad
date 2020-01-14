@@ -318,7 +318,7 @@ def ShiftLayer(clear, key, shifts):
     # cce = tf.keras.losses.CategoricalCrossentropy
     # cce = keras.losses.kullback_leibler_divergence
     cce = tf.keras.losses.CategoricalCrossentropy(from_logits=False)
-    return (cce(name="a")(clear, clear) + cce(name="b")(key, key))
+    return (cce(clear, clear) + cce(key, key))
     # return cce(clear, clear) + cce(key, key)
 
 # Resnet.
