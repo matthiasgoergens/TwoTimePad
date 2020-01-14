@@ -307,7 +307,7 @@ def fShift(tensors):
     
     r = tf.broadcast_to(r, tf.shape(clear))
     shifts = tf.broadcast_to(tf.expand_dims(shifts, -1), tf.shape(clear))
-    indices = (r - shifts) % 46
+    indices = (r + shifts) % 46
 
     clearShift = tf.gather(clear, indices, batch_dims=2)
 
