@@ -470,7 +470,7 @@ def make_model_conv(hparams):
     # assert tuple(key.shape) == (None, n, 46), key
 
 
-    sdev = Layer(name="dev", dtype="float32")(dev)
+    sdev = Layer(name="dev", dtype="float32")(tf.reduce_mean(dev))
     model = Model([inputA, inputB], [clear, key])
     model.add_loss(sdev)
     model.add_metric(sdev, name="deviation", aggregation='mean')
