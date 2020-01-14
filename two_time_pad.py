@@ -313,7 +313,7 @@ def shiftShapes(inputShapes):
     [clearShape, keyShape, shiftsShapes] = inputShapes
     return clearShape
 
-ShiftLayer = Lambda(fshift, shiftShapes, dtype="float32", name="cyclic-shift")
+ShiftLayer = Lambda(fShift, shiftShapes, dtype="float32", name="cyclic-shift")
 
 # Resnet.
 def make_model_simple(hparams):
