@@ -1040,19 +1040,19 @@ def main():
             # checkpoint,
             # tensorboard_callback,
             # hp.KerasCallback(logdir, hparams),
-            ReduceLROnPlateau(
-                monitor="loss",
-                mode="min",
-                patience=20,
-                cooldown=10,
-                factor=1 / 2,
-                verbose=1,
-                min_delta=0.001,
-            ),
-            LearningRateScheduler(schedule),
-            EarlyStopping(
-                monitor="loss", patience=60, verbose=1, restore_best_weights=True
-            ),
+            # ReduceLROnPlateau(
+            #     monitor="loss",
+            #     mode="min",
+            #     patience=20,
+            #     cooldown=10,
+            #     factor=1 / 2,
+            #     verbose=1,
+            #     min_delta=0.001,
+            # ),
+            # LearningRateScheduler(schedule),
+            # EarlyStopping(
+            #     monitor="loss", patience=60, verbose=1, restore_best_weights=True
+            # ),
         ]
 
         with tf.summary.create_file_writer("logs/scalars").as_default():
