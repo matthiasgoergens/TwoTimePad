@@ -455,7 +455,7 @@ def make_model_conv(hparams):
 
     r = ShiftLayer
 
-    devd = r([clear, key, inputA])
+    dev = r([clear, key, inputA])
     assert tuple(dev.shape) in [(None, n, 46), (32, n, 46)], d
 
     # assert tuple(key.shape) == (None, n, 46), key
