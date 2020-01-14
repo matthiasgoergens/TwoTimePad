@@ -296,7 +296,9 @@ def sequential(*layers):
 
     return helper
 
-def justShift(clear, shifts):
+@Lambda
+def justShift(tensors):
+    clear, shifts = tensors
     r = tf.range(46)
     
     r = tf.broadcast_to(r, tf.shape(clear))
@@ -308,7 +310,7 @@ def justShift(clear, shifts):
 
 
 def ShiftLayer(clear, key, shifts):
-    clear = justShift(clear, shifts)
+    clear = justShift([clear, shifts])
 
     clear = Softmax(dtype='float32')(clear)
     key = Softmax(dtype='float32')(key)
