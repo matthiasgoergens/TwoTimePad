@@ -308,8 +308,7 @@ def justShift(clear, shifts):
 
 
 def ShiftLayer(clear, key, shifts):
-    if False:
-        clear = justShift(clear, shifts)
+    clear = justShift(clear, shifts)
 
     clear = Softmax(dtype='float32')(clear)
     key = Softmax(dtype='float32')(key)
@@ -318,7 +317,7 @@ def ShiftLayer(clear, key, shifts):
     # cce = tf.keras.losses.CategoricalCrossentropy
     cce = keras.losses.kullback_leibler_divergence
     # cce = tf.keras.losses.CategoricalCrossentropy(from_logits=False)
-    return (cce(clear, clear) + cce(key, key))
+    return (cce(clear, key) + cce(key, clear))
     # return cce(clear, clear) + cce(key, key)
 
 # Resnet.
