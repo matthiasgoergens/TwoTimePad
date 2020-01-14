@@ -473,7 +473,7 @@ def make_model_conv(hparams):
 
     sdev = Layer(name="dev", dtype="float32")(tf.reduce_mean(tf.reduce_sum(tf.abs(dev), axis=-1)))
     model = Model([inputA, inputB], [clear, key])
-    model.add_loss(sdev)
+    # model.add_loss(sdev)
     model.add_metric(sdev, name="deviation", aggregation='mean')
 
     model.compile(
@@ -973,7 +973,7 @@ hparams = {
     HP_max_kernel: 5,
 }
 
-weights_name = "conv-5-deviation-as-loss-SoftMax.h5"
+weights_name = "conv-5-deviation-as-metric-SoftMax.h5"
 
 make_model = make_model_conv
 
