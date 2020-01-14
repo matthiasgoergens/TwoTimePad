@@ -318,7 +318,7 @@ def fShift(tensors):
     key = Softmax(dtype='float32')(key)
 
     # cce = tf.keras.backend.categorical_crossentropy
-    cce = tf.keras.losses.SparseCategoricalCrossentropy(from_logits=False),
+    cce = tf.keras.losses.SparseCategoricalCrossentropy(from_logits=False)
     # return cce(clear, key, from_logits=False) + cce(key, clear, from_logits=False)
     return cce(clear, clear) + cce(key, key)
 
