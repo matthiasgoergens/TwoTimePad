@@ -459,20 +459,18 @@ def make_model_conv(hparams):
     clear = Layer(name="clear", dtype="float32")(make_end(convedA))
     key = Layer(name="key", dtype="float32")(make_end(convedB))
 
-    r = ShiftLayer
-
     b = TimeDistributed(BatchNormalization())
     b = lambda x: x
 
-    dev = r([b(clear), b(key), inputA])
-    assert tuple(dev.shape) in [(None, n, 46), (32, n, 46)], dev
+    dev = ShiftLayer([b(clear), b(key), inputA])
+    # assert tuple(dev.shape) in [(None, n, 46), (32, n, 46)], dev
 
     # assert tuple(key.shape) == (None, n, 46), key
     # assert tuple(dev.shape) == (None, n, 46), dev
     # assert tuple(key.shape) == (None, n, 46), key
 
 
-    sdev = Layer(name="dev", dtype="float32")(tf.reduce_mean(tf.reduce_sum(tf.abs(dev), axis=-1)))
+    sdev = Layer(name="dev", dtype="float32")(dev)
     model = Model([inputA, inputB], [clear, key])
     model.add_loss(sdev)
     model.add_metric(sdev, name="deviation", aggregation='mean')
