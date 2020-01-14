@@ -467,7 +467,7 @@ def make_model_conv(hparams):
 
     sdev = Layer(name="dev", dtype="float32")(tf.reduce_mean(dev))
     model = Model([inputA, inputB], [clear, key])
-    # model.add_loss(sdev)
+    model.add_loss(sdev)
     model.add_metric(sdev, name="deviation", aggregation='mean')
 
     model.compile(
@@ -967,7 +967,7 @@ hparams = {
     HP_max_kernel: 5,
 }
 
-weights_name = "conv-30-deviation-as-metric.h5"
+weights_name = "conv-30-deviation-as-loss.h5"
 
 make_model = make_model_conv
 
