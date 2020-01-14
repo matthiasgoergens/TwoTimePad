@@ -1037,8 +1037,8 @@ def main():
             return 0.001 / 100
 
         callbacks_list = [
-            checkpoint,
-            tensorboard_callback,
+            # checkpoint,
+            # tensorboard_callback,
             # hp.KerasCallback(logdir, hparams),
             ReduceLROnPlateau(
                 monitor="loss",
