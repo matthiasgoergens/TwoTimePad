@@ -296,27 +296,28 @@ def sequential(*layers):
 
     return helper
 
-@tf.function
-def fShift(tensors):
-    [clear, key, shifts] = tensors
-    clear = Softmax(dtype='float32')(clear)
-    key = Softmax(dtype='float32')(key)
-
-    # (batch_size, window_length, features=46)
+def justShift(clear, shifts):
     r = tf.range(46)
     
     r = tf.broadcast_to(r, tf.shape(clear))
     shifts = tf.broadcast_to(tf.expand_dims(shifts, -1), tf.shape(clear))
-    # rA - b = shifts
-    # rA - shifts = b ?
-
-    # TODO: shifts is the right one.
     indices = (r - 1 * shifts) % 46
 
     clearShift = tf.gather(clear, indices, batch_dims=2)
+    return clearShift
+
+
+@tf.function
+def fShift(tensors):
+    [clear, key, shifts] = tensors
+
+    clear = justShift(clear, shifts)
+
+    clear = Softmax(dtype='float32')(clear)
+    key = Softmax(dtype='float32')(key)
 
     cce = tf.keras.backend.categorical_crossentropy
-    return cce(clearShift, key, from_logits=False) + cce(key, clearShift, from_logits=False)
+    return cce(clear, key, from_logits=False) + cce(key, clear, from_logits=False)
 
 def shiftShapes(inputShapes):
     [clearShape, keyShape, shiftsShapes] = inputShapes
