@@ -977,7 +977,9 @@ def make_model_recreate(hparams):
 
     def make_block(convedA, convedB):
         for i in range(height):
-            convedA, convedB = convedA + convedB, convedA + convedB
+            # convedA, convedB = convedA + convedB, convedA + convedB
+            convedA = Layer()(convedA)
+            convedB = Layer()(convedB)
             # catA = concatenate([convedA, convedB])
             # catB = concatenate([convedB, convedA])
             # convedA, convedB = catA, catB
