@@ -1016,7 +1016,7 @@ def make_model_recreate(hparams):
     pre_key = make_end(convedB)
 
     clear = Layer(name="clear", dtype="float32")(
-            clear)
+            pre_clear)
         # 0.9 * pre_clear + 0.1 *
         #     JustShift(dtype='float32')([
         #         pre_key,
@@ -1024,7 +1024,7 @@ def make_model_recreate(hparams):
         #         ]))
 
     key = Layer(name="key", dtype="float32")(
-            key)
+            pre_key)
         # 0.9 * pre_key + 0.1 *
         #     JustShift(dtype='float32')([
         #         pre_clear,
