@@ -1051,7 +1051,7 @@ def make_model_recreate(hparams):
 
    
 
-    model = Model([inputA], [clear])
+    model = Model([inputA, inputB], [clear, key])
 
     deviation_weight = hparams[HP_deviation_as_loss]
 
