@@ -974,7 +974,7 @@ def make_model_recreate(hparams):
         )
 
     def make_drop(layers):
-        return layers[:]
+        # return layers[:]
         drop = hparams[HP_DROPOUT]
         return list(
             reversed(
