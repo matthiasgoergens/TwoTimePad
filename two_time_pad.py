@@ -308,10 +308,14 @@ def justShift(tensors):
     clearShift = tf.gather(clear, indices, batch_dims=2)
     return clearShift
 
+class JustShift(Layer):
+    def call(self, tensors):
+        return justShift(tensors)
+
 
 # TODO: I suspect something is still wrong with my shift function.  Test more!
 def ShiftLayer(clear, key, shifts):
-    clear = justShift([clear, shifts])
+    clear = JustShift()([clear, shifts])
 
     return abs(clear - key)
 
@@ -1013,14 +1017,14 @@ def make_model_recreate(hparams):
 
     clear = Layer(name="clear", dtype="float32")(
         0.9 * pre_clear + 0.1 *
-            justShift([
+            JustShift()([
                 pre_key,
                 inputB,
                 ]))
 
     key = Layer(name="key", dtype="float32")(
         0.9 * pre_key + 0.1 *
-            justShift([
+            JustShift()([
                 pre_clear,
                 inputA,
                 ]))
