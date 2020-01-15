@@ -1067,7 +1067,7 @@ hparams = {
     ## Idea: skip the first few short columns in the fractal.
     # HP_SKIP_HEIGH: 3,
     HP_WINDOW: l,
-    HP_resSize: roundto(10*46, 4),
+    HP_resSize: round_to(10*46, 4),
     HP_blowup: 1,
     HP_max_kernel: 5,
     HP_deviation_as_loss: 0.0,
