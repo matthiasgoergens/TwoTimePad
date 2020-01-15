@@ -968,16 +968,6 @@ def make_model_recreate(hparams):
 
     def make_drop(layers):
         return layers[:]
-        drop = hparams[HP_DROPOUT]
-        return list(
-            reversed(
-                [
-                    (SpatialDropout1D(drop * distance / height))(layer)
-                    for distance, layer in enumerate(reversed(layers))
-                ]
-            )
-        )
-
     random.seed(23)
 
     def make_block(convedA, convedB):
@@ -1023,7 +1013,6 @@ def make_model_recreate(hparams):
     # Approx 1,246 dimensions at the end for something close to `faithful` repro.
     # So could try even 90% dropout.
     make_end = Conv1D(
-        name="output",
         filters=46,
         kernel_size=1,
         padding="same",
@@ -1031,8 +1020,8 @@ def make_model_recreate(hparams):
         dtype="float32",
         kernel_initializer=msra,
     )
-    pre_clear = make_end(SpatialDropout1D(rate=0.0)(convedA))
-    pre_key = make_end(SpatialDropout1D(rate=0.0)(convedB))
+    pre_clear = make_end(convedA)
+    pre_key = make_end(convedB)
 
     clear = Layer(name="clear", dtype="float32")(
         0.9 * pre_clear + 0.1 *
@@ -1056,8 +1045,8 @@ def make_model_recreate(hparams):
 
     dev = ShiftLayer(pre_clear, pre_key, inputA)
     sdev = Layer(name="dev", dtype="float32")(tf.reduce_mean(dev))
-    ssdev = Layer(name="dev_loss", dtype='float32')(sdev * deviation_weight)
-    model.add_loss(ssdev)
+    # ssdev = Layer(name="dev_loss", dtype='float32')(sdev * deviation_weight)
+    # model.add_loss(ssdev)
     model.add_metric(sdev, name="deviation", aggregation='mean')
 
 
