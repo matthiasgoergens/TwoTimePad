@@ -974,7 +974,7 @@ def make_model_recreate(hparams):
         )
 
     def make_drop(layers):
-        # return layers[:]
+        return layers[:]
         drop = hparams[HP_DROPOUT]
         return list(
             reversed(
@@ -992,8 +992,10 @@ def make_model_recreate(hparams):
         convedBx = [convedB]
         for i in range(height):
             # We deliberately use different dropout masks in all four cases.
-            catA = tf.recompute_grad(concatenate)([*make_drop(convedAx), *make_drop(convedBx)])
-            catB = tf.recompute_grad(concatenate)([*make_drop(convedBx), *make_drop(convedAx)])
+            # catA = tf.recompute_grad(concatenate)([*make_drop(convedAx), *make_drop(convedBx)])
+            # catB = tf.recompute_grad(concatenate)([*make_drop(convedBx), *make_drop(convedAx)])
+            catA = tf.recompute_grad(concatenate)([*convedAx, *convedBx])
+            catB = tf.recompute_grad(concatenate)([*convedBx, *convedAx])
             (_, _, num_channels) = catA.shape
             (_, _, num_channelsB) = catB.shape
             assert tuple(catA.shape) == tuple(catB.shape), (catA.shape, catB.shape)
