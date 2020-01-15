@@ -987,7 +987,7 @@ def make_model_recreate(hparams):
             size = random.randrange(23, 2 * 46)
             # size = resSize
             resNet = makeResNet(i, num_channels, width, size)
-            resNet = tf.recompute_grad(resNet)
+            # resNet = tf.recompute_grad(resNet)
 
             # resA = plus(convedAx[-1], resNet(catA))
             resA = resNet(catA)
