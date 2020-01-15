@@ -979,6 +979,7 @@ def make_model_recreate(hparams):
         for i in range(height):
             catA = concatenate([convedA, convedB])
             catB = concatenate([convedB, convedA])
+            convedA, convedB = catA, catB
             print(f'catA.dtype: {catA.dtype}')
             (_, _, num_channels) = catA.shape
             (_, _, num_channelsB) = catB.shape
@@ -987,15 +988,15 @@ def make_model_recreate(hparams):
             width = 1 + 2 * random.randrange(5, 8)
             size = random.randrange(23, 2 * 46)
             # size = resSize
-            resNet = makeResNet(i, num_channels, width, size)
+            # resNet = makeResNet(i, num_channels, width, size)
             # resNet = tf.recompute_grad(resNet)
 
             resA = resNet(convedA)
             print(f'resA.dtype: {resA.dtype}')
             resB = resNet(convedB)
 
-            convedA = cat(convedA, resA)
-            convedB = cat(convedB, resB)
+            # convedA = cat(convedA, resA)
+            # convedB = cat(convedB, resB)
 
 
         return convedA, convedB
