@@ -423,23 +423,31 @@ def make_model_conv_res(hparams):
     embeddedB = embedding(inputB)
 
     def conv():
-        return Sequential(
-            [
-                ic(),
-                Maxout(base//2),
-                Conv1D(
-                    filters=base*2,
-                    kernel_size=width,
-                    padding="same",
-                    kernel_initializer=msra,
-                ),
-            ]
-        )
+        if conv > 0:
+            return Sequential(
+                [
+                    ic(),
+                    Maxout(base//2),
+                    Conv1D(
+                        filters=base*2,
+                        kernel_size=width,
+                        padding="same",
+                        kernel_initializer=msra,
+                    ),
+                ]
+            )
+        else:
+            return Conv1D(
+                        filters=base*2,
+                        kernel_size=width,
+                        padding="same",
+                        kernel_initializer=msra,
+                    )
 
     convedA = embeddedA
     convedB = embeddedB
-    for _ in range(height):
-        c = conv()
+    for i in range(height):
+        c = conv(i)
         cA, cB = c(cat(convedA, convedB)), c(cat(convedB, convedA))
         if tuple(convedA.shape) == tuple(cA.shape):
             convedA = plus(convedA, cA)
