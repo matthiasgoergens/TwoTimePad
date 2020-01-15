@@ -1061,6 +1061,7 @@ hparams = {
 weights_name = "recreate 90-to-10 sgd momentum 0.9 warmup batch64 - recompute7 checkpoint.tf"
 
 make_model = make_model_recreate
+make_model = make_model_conv_res
 
 
 def show():
