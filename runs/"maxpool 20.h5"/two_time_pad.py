@@ -470,7 +470,7 @@ def make_model_conv_res(hparams):
     pre_clear = Layer(name="pre_clear", dtype="float32")(make_end(convedA))
     key = Layer(name="key", dtype="float32")(make_end(convedB))
 
-    clear = Maximum(name='clear')([pre_clear, JustShift(dtype='float32')([key, inputB])])
+    clear = Maximum(name='clear', dtype='float32')([pre_clear, JustShift(dtype='float32')([key, inputB])])
 
     model = Model([inputA, inputB], [clear, key])
 
