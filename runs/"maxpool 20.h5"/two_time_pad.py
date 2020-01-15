@@ -470,7 +470,7 @@ def make_model_conv_res(hparams):
     pre_clear = Layer(name="pre_clear", dtype="float32")(make_end(convedA))
     key = Layer(name="key", dtype="float32")(make_end(convedB))
 
-    clear = Maximum(name='clear')([pre_clear, JustShift()([key, inputB])])
+    clear = Maximum(name='clear')([pre_clear, JustShift(dtype='float32')([key, inputB])])
 
     model = Model([inputA, inputB], [clear, key])
 
@@ -493,92 +493,6 @@ def make_model_conv_res(hparams):
         metrics=[error],
     )
     return model
-
-
-
-#def make_model_conv(hparams):
-#    n = hparams[HP_WINDOW]
-#    height = hparams[HP_HEIGHT]
-#    width = hparams[HP_max_kernel]
-#
-#    ic = lambda: (BatchNormalization())
-#
-#    inputA = Input(shape=(n,), name="ciphertextA", dtype="int32")
-#    inputB = Input(shape=(n,), name="ciphertextB", dtype="int32")
-#    base = hparams[HP_resSize]
-#    blowup = hparams[HP_blowup]
-#    embedding = Embedding(
-#        output_dim=46,
-#        input_length=n,
-#        input_dim=len(alpha),
-#        batch_input_shape=[batch_size, n],
-#    )
-#    embeddedA = embedding(inputA)
-#    embeddedB = embedding(inputB)
-#
-#    def conv():
-#        return Sequential(
-#            [
-#                Conv1D(
-#                    filters=base,
-#                    kernel_size=width,
-#                    padding="same",
-#                    kernel_initializer=msra,
-#                ),
-#                ic(),
-#                relu(),
-#            ]
-#        )
-#
-#    convedA = embeddedA
-#    convedB = embeddedB
-#    for _ in range(height):
-#        c = conv()
-#        convedA, convedB = c(cat(convedA, convedB)), c(cat(convedB, convedA))
-#
-#    make_end = Conv1D(
-#        name="output",
-#        filters=46,
-#        kernel_size=1,
-#        padding="same",
-#        strides=1,
-#        dtype="float32",
-#        kernel_initializer=msra,
-#    )
-#
-#    clear = Layer(name="clear", dtype="float32")(make_end(convedA))
-#    key = Layer(name="key", dtype="float32")(make_end(convedB))
-#
-#    b = (BatchNormalization())
-#    b = lambda x: x
-#
-#    dev = ShiftLayer(clear, key, inputA)
-#    # assert tuple(dev.shape) in [(None, n, 46), (32, n, 46)], dev
-#
-#    # assert tuple(key.shape) == (None, n, 46), key
-#    # assert tuple(dev.shape) == (None, n, 46), dev
-#    # assert tuple(key.shape) == (None, n, 46), key
-#
-#
-#    model = Model([inputA, inputB], [clear, key])
-#
-#    deviation_weight = hparams[HP_deviation_as_loss]
-#    sdev = Layer(name="dev", dtype="float32")(tf.reduce_mean(dev)) * deviation_weight
-#    model.add_loss(sdev)
-#    model.add_metric(sdev, name="deviation", aggregation='mean')
-#
-#    model.compile(
-#        # optimizer=tf.optimizers.Adam(learning_rate=0.001/2),
-#        optimizer=tf.optimizers.Adam(),
-#        loss={
-#            "clear": tf.keras.losses.SparseCategoricalCrossentropy(from_logits=True),
-#            "key": tf.keras.losses.SparseCategoricalCrossentropy(from_logits=True),
-#        },
-#        loss_weights={"clear": 1 / 2, "key": 1 / 2},
-#        metrics=[error],
-#    )
-#    return model
-
 
 def make_model_fractal(hparams):
     n = hparams[HP_WINDOW]
