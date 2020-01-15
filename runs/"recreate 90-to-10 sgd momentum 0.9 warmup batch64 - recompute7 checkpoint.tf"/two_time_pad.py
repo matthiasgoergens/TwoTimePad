@@ -905,7 +905,6 @@ def make_model_recreate(hparams):
     embeddedA = embedding(inputA)
     embeddedB = embedding(inputB)
     print(embeddedA.dtype)
-    sys.exit(0)
 
     def makeResNetNew(i, channels, _, size):
         fanInput = Input(shape=(n, 4 * size,))
@@ -979,6 +978,7 @@ def make_model_recreate(hparams):
         for i in range(height):
             catA = concatenate([convedA, convedB])
             catB = concatenate([convedB, convedA])
+            print(catA.dtype)
             (_, _, num_channels) = catA.shape
             (_, _, num_channelsB) = catB.shape
             assert tuple(catA.shape) == tuple(catB.shape), (catA.shape, catB.shape)
@@ -1172,8 +1172,8 @@ def main():
             print(weights_name)
             print("Loaded weights.")
         except:
-            model.summary()
             model.save("weights/" + weights_name, include_optimizer=False)
+            model.summary()
             print(weights_name)
             print("Failed to load weights.")
             pass
