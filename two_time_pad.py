@@ -968,16 +968,6 @@ def make_model_recreate(hparams):
 
     def make_drop(layers):
         return layers[:]
-        drop = hparams[HP_DROPOUT]
-        return list(
-            reversed(
-                [
-                    (SpatialDropout1D(drop * distance / height))(layer)
-                    for distance, layer in enumerate(reversed(layers))
-                ]
-            )
-        )
-
     random.seed(23)
 
     def make_block(convedA, convedB):
@@ -1030,8 +1020,8 @@ def make_model_recreate(hparams):
         dtype="float32",
         kernel_initializer=msra,
     )
-    pre_clear = make_end(SpatialDropout1D(rate=0.0)(convedA))
-    pre_key = make_end(SpatialDropout1D(rate=0.0)(convedB))
+    pre_clear = make_end(convedA)
+    pre_key = make_end(convedB)
 
     clear = Layer(name="clear", dtype="float32")(
         0.9 * pre_clear + 0.1 *
@@ -1087,7 +1077,7 @@ hparams = {
     HP_deviation_as_loss: 0.0,
 }
 
-weights_name = "recreate 90-to-10 sgd momentum 0.9 warmup batch64 - recompute7 checkpoint.h5"
+weights_name = "recreate 90-to-10 sgd momentum 0.9 warmup batch64 - recompute7 checkpoint.tf"
 
 make_model = make_model_recreate
 
