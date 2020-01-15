@@ -946,7 +946,7 @@ def make_model_recreate(hparams):
             [
                 Input(name=f"res_inputMe_i", shape=(n, channels,)),
                 # SpatialDropout1D(rate=hparams[HP_DROPOUT]), # Not sure whether that's good.
-                TimeDistributed(BatchNormalization(name='bn1')),
+                TimeDistributed(BatchNormalization(name='bn1'), name='td1'),
                 relu(),
                 Conv1D(
                     filters=4 * size,
@@ -954,7 +954,7 @@ def make_model_recreate(hparams):
                     padding="same",
                     kernel_initializer=msra,
                 ),
-                TimeDistributed(BatchNormalization(name='bn2')),
+                TimeDistributed(BatchNormalization(name='bn2'), name='td2'),
                 relu(),
                 Conv1D(
                     filters=size,
@@ -1012,14 +1012,14 @@ def make_model_recreate(hparams):
     pre_key = make_end(convedB)
 
     clear = Layer(name="clear", dtype="float32")(
-        # 0.9 * pre_clear + 0.1 *
+        0.9 * pre_clear + 0.1 *
             justShift([
                 pre_key,
                 inputB,
                 ]))
 
     key = Layer(name="key", dtype="float32")(
-        # 0.9 * pre_key + 0.1 *
+        0.9 * pre_key + 0.1 *
             justShift([
                 pre_clear,
                 inputA,
@@ -1049,7 +1049,7 @@ def make_model_recreate(hparams):
 l = 50
 hparams = {
     HP_DROPOUT: 0.0,
-    HP_HEIGHT: 20,
+    HP_HEIGHT: 0,
     HP_blocks: 1,
     HP_bottleneck: 46 * 5,
     ## Idea: skip the first few short columns in the fractal.
