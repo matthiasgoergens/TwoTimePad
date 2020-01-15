@@ -997,8 +997,9 @@ def make_model_recreate(hparams):
             # size = resSize
             resNet = makeResNet(i, num_channels, width, size)
 
-            resA = plus(convedAx[-1], resNet(catA))
-            resB = plus(convedBx[-1], resNet(catB))
+            # resA = plus(convedAx[-1], resNet(catA))
+            resA = resNet(catA)
+            resB = resNet(catB)
 
             convedAx.append(resA)
             convedBx.append(resB)
