@@ -969,8 +969,6 @@ def make_model_recreate(hparams):
     random.seed(23)
 
     def make_block(convedA, convedB):
-        convedAx = [convedA]
-        convedBx = [convedB]
         for i in range(height):
             catA = concatenate([convedA, convedB])
             catB = concatenate([convedB, convedA])
@@ -984,17 +982,12 @@ def make_model_recreate(hparams):
             resNet = makeResNet(i, num_channels, width, size)
             # resNet = tf.recompute_grad(resNet)
 
-            # resA = plus(convedAx[-1], resNet(catA))
             resA = resNet(catA)
-            # resB = plus(convedBx[-1], resNet(catB))
             resB = resNet(catB)
 
             convedA = cat(convedA, resA)
             convedB = cat(convedB, resB)
 
-            assert len(convedAx) == len(convedBx), (len(convedAx), len(convedBx))
-            for j, (a, b) in enumerate(zip(convedAx, convedBx)):
-                assert tuple(a.shape) == tuple(b.shape), (i, j, a.shape, b.shape)
 
         return convedA, convedB
 
@@ -1036,13 +1029,9 @@ def make_model_recreate(hparams):
 
     model = Model([inputA, inputB], [clear, key])
 
-    deviation_weight = hparams[HP_deviation_as_loss]
-
     dev = ShiftLayer(pre_clear, pre_key, inputA)
     sdev = Layer(name="dev", dtype="float32")(tf.reduce_mean(dev))
-    # ssdev = Layer(name="dev_loss", dtype='float32')(sdev * deviation_weight)
-    # model.add_loss(ssdev)
-    model.add_metric(sdev, name="deviation", aggregation='mean')
+    # model.add_metric(sdev, name="deviation", aggregation='mean')
 
 
     model.compile(
