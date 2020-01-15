@@ -946,7 +946,7 @@ def make_model_recreate(hparams):
             [
                 Input(name=f"res_inputMe_i", shape=(n, channels,)),
                 # SpatialDropout1D(rate=hparams[HP_DROPOUT]), # Not sure whether that's good.
-                TimeDistributed(BatchNormalization()),
+                TimeDistributed(BatchNormalization(name='bn1')),
                 relu(),
                 Conv1D(
                     filters=4 * size,
@@ -954,7 +954,7 @@ def make_model_recreate(hparams):
                     padding="same",
                     kernel_initializer=msra,
                 ),
-                TimeDistributed(BatchNormalization()),
+                TimeDistributed(BatchNormalization(name='bn2')),
                 relu(),
                 Conv1D(
                     filters=size,
@@ -982,7 +982,7 @@ def make_model_recreate(hparams):
             size = random.randrange(23, 2 * 46)
             # size = resSize
             resNet = makeResNet(i, num_channels, width, size)
-            resNet = tf.recompute_grad(resNet)
+            # resNet = tf.recompute_grad(resNet)
 
             # resA = plus(convedAx[-1], resNet(catA))
             resA = resNet(catA)
