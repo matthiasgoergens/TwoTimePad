@@ -889,7 +889,8 @@ def make_model_recreate(hparams):
 
     n = hparams[HP_WINDOW]
     inputA = Input(shape=(n,), name="ciphertextA", dtype="int32")
-    inputB = Input(shape=(n,), name="ciphertextB", dtype="int32")
+    inputB = (- inputA) % 46
+    # inputB = Input(shape=(n,), name="ciphertextB", dtype="int32")
     resSize = hparams[HP_resSize]
     width = hparams[HP_max_kernel]
     height = hparams[HP_HEIGHT]
@@ -1043,7 +1044,7 @@ def make_model_recreate(hparams):
 
     
 
-    model = Model([inputA, inputB], [clear])
+    model = Model([inputA], [clear])
 
     deviation_weight = hparams[HP_deviation_as_loss]
 
