@@ -482,7 +482,8 @@ def make_model_conv_res(hparams):
     model.add_metric(sdev, name="deviation", aggregation='mean')
 
     model.compile(
-        optimizer=tf.optimizers.Adam(clipvalue=1),
+        # optimizer=tf.optimizers.Adam(clipvalue=1),
+        optimizer=tf.optimizers.Adam(),
         loss={
             "clear": tf.keras.losses.SparseCategoricalCrossentropy(from_logits=True),
             "key": tf.keras.losses.SparseCategoricalCrossentropy(from_logits=True),
