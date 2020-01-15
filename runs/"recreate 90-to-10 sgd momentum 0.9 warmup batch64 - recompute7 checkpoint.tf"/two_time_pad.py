@@ -948,7 +948,7 @@ def make_model_recreate(hparams):
     def makeResNet(i, channels, width, size):
         return Sequential(
             [
-                Input(name=f"res_inputMe_i", shape=(n, channels,)),
+                Input(name=f"res_inputMe_{i}", shape=(n, channels,), dtype='float16'),
                 # SpatialDropout1D(rate=hparams[HP_DROPOUT]), # Not sure whether that's good.
                 TimeDistributed(BatchNormalization(name='bn1'), name='td1'),
                 relu(),
