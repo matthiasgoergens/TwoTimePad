@@ -975,7 +975,7 @@ def make_model_recreate(hparams):
     random.seed(23)
 
     def make_block(convedA, convedB):
-        for i in range(0):
+        for i in range(1):
             # convedA, convedB = convedA + convedB, convedA + convedB
             convedA = Layer()(convedA)
             convedB = Layer()(convedB)
