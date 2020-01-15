@@ -1035,11 +1035,11 @@ def make_model_recreate(hparams):
     pre_key = make_end(SpatialDropout1D(rate=0.0)(concatenate(convedB)))
 
     clear = Layer(name="clear", dtype="float32")(
-        avg(pre_clear,
+        avg([pre_clear,
             justShift([
                 pre_key,
                 inputB,
-                ])))
+                ])]))
 
     
 
