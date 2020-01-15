@@ -1016,18 +1016,20 @@ def make_model_recreate(hparams):
     pre_key = make_end(convedB)
 
     clear = Layer(name="clear", dtype="float32")(
-        0.9 * pre_clear + 0.1 *
-            JustShift(dtype='float32')([
-                pre_key,
-                inputB,
-                ]))
+            clear)
+        # 0.9 * pre_clear + 0.1 *
+        #     JustShift(dtype='float32')([
+        #         pre_key,
+        #         inputB,
+        #         ]))
 
     key = Layer(name="key", dtype="float32")(
-        0.9 * pre_key + 0.1 *
-            JustShift(dtype='float32')([
-                pre_clear,
-                inputA,
-                ]))
+            key)
+        # 0.9 * pre_key + 0.1 *
+        #     JustShift(dtype='float32')([
+        #         pre_clear,
+        #         inputA,
+        #         ]))
 
    
 
