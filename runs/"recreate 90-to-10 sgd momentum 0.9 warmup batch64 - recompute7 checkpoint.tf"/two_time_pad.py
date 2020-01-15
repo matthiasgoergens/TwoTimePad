@@ -1056,7 +1056,7 @@ def make_model_recreate(hparams):
         # optimizer=tf.optimizers.SGD(lr=0.01, decay=1e-6, momentum=0.0), # momentum=0.9, nesterov=True),
         # optimizer=tfa.optimizers.AdamW(),
         loss=tf.keras.losses.SparseCategoricalCrossentropy(from_logits=True),
-        loss_weights={"clear": 1, "key": 0},
+        loss_weights={"clear": 1/2, "key": 1/2},
         metrics=[error],
     )
     return model
@@ -1179,7 +1179,7 @@ def main():
             print("Loaded weights.")
         except:
             model.summary()
-            model.save("weights/" + weights_name, include_optimizer=True)
+            model.save("weights/" + weights_name, include_optimizer=False)
             print(weights_name)
             print("Failed to load weights.")
             pass
@@ -1240,7 +1240,7 @@ def main():
                 )
             except:
                 print("Saving model...")
-                model.save("weights/" + weights_name, include_optimizer=True)
+                model.save("weights/" + weights_name, include_optimizer=False)
                 print("Saved model.")
                 raise
 
