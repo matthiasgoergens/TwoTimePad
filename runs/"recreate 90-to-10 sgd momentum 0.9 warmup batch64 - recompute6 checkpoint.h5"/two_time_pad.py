@@ -315,12 +315,6 @@ def ShiftLayer(clear, key, shifts):
 
     return abs(clear - key)
 
-    clear = Softmax(dtype='float32')(clear)
-    key = Softmax(dtype='float32')(key)
-
-    kld = keras.losses.kullback_leibler_divergence
-    return (kld(clear, key) + kld(key, clear))
-
 # Resnet.
 def make_model_simple(hparams):
     n = hparams[HP_WINDOW]
@@ -1187,7 +1181,7 @@ def main():
         print("Making model.")
         model = make_model(hparams)
         try:
-            raise NotIMplementedError("Not loading weights for testing.")
+            raise NotImplementedError("Not loading weights for testing.")
             print("Trying to load weights.")
             model.load_weights("weights/" + weights_name)
             model.summary()
