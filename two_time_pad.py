@@ -950,7 +950,7 @@ def make_model_recreate(hparams):
     def makeResNet(i, channels, width, size):
         return Sequential(
             [
-                Input(name=f"res_inputMe_{i}", shape=(n, channels,), dtype='float16'),
+                # Input(name=f"res_inputMe_{i}", shape=(n, channels,), dtype='float16'),
                 # SpatialDropout1D(rate=hparams[HP_DROPOUT]), # Not sure whether that's good.
                 TimeDistributed(BatchNormalization(name='bn1'), name='td1'),
                 relu(),
@@ -978,7 +978,7 @@ def make_model_recreate(hparams):
         for i in range(height):
             catA = concatenate([convedA, convedB])
             catB = concatenate([convedB, convedA])
-            print(catA.dtype)
+            print(f'catA.dtype: {catA.dtype}')
             (_, _, num_channels) = catA.shape
             (_, _, num_channelsB) = catB.shape
             assert tuple(catA.shape) == tuple(catB.shape), (catA.shape, catB.shape)
