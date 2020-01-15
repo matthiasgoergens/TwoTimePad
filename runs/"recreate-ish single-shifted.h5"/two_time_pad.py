@@ -1045,7 +1045,7 @@ def make_model_recreate(hparams):
 
     model = Model([inputA, inputB], [clear])
 
-    # deviation_weight = hparams[HP_deviation_as_loss]
+    deviation_weight = hparams[HP_deviation_as_loss]
 
     dev = ShiftLayer(pre_clear, pre_key, inputA)
     sdev = Layer(name="dev", dtype="float32")(tf.reduce_mean(dev))
