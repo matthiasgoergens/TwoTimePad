@@ -990,6 +990,7 @@ def make_model_recreate(hparams):
             # resNet = tf.recompute_grad(resNet)
 
             resA = resNet(catA)
+            print(f'resA.dtype: {resA.dtype}')
             resB = resNet(catB)
 
             convedA = cat(convedA, resA)
