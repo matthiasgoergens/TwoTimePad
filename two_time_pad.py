@@ -299,7 +299,7 @@ def sequential(*layers):
 
 def justShift(tensors):
     clear, shifts = tensors
-    r = tf.range(46)
+    r = tf.range(46, dtype='float32')
     
     r = tf.broadcast_to(r, tf.shape(clear))
     shifts = tf.broadcast_to(tf.expand_dims(shifts, -1), tf.shape(clear))
