@@ -1056,7 +1056,8 @@ def make_model_recreate(hparams):
 
     dev = ShiftLayer(pre_clear, pre_key, inputA)
     sdev = Layer(name="dev", dtype="float32")(tf.reduce_mean(dev))
-    # model.add_loss(sdev * deviation_weight)
+    ssdev = Layer(name="dev_loss", dtype='float32')(sdev * deviation_weihght)
+    model.add_loss(ssdev)
     model.add_metric(sdev, name="deviation", aggregation='mean')
 
 
