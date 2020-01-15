@@ -303,7 +303,7 @@ def justShift(tensors):
     
     r = tf.broadcast_to(r, tf.shape(clear))
     shifts = tf.broadcast_to(tf.expand_dims(shifts, -1), tf.shape(clear))
-    indices = (r - 1 * shifts) % 46
+    indices = (r -  shifts) % 46
 
     clearShift = tf.gather(clear, indices, batch_dims=2)
     return clearShift
@@ -932,10 +932,10 @@ def make_model_recreate(hparams):
                     kernel_initializer=msra,
                 ),
                 # TODO: Might want to drop this intermediate batch norm?  So that dropout doesn't have too much impact on variance.
-                (BatchNormalization()),
+                TimeDistributed(BatchNormalization()),
                 Maxout(4 * size),
                 m,
-                (BatchNormalization()),
+                TimeDistributed(BatchNormalization()),
                 Maxout(size),
             ],
             name="resnet{}".format(i),
@@ -946,7 +946,7 @@ def make_model_recreate(hparams):
             [
                 Input(name=f"res_inputMe_i", shape=(n, channels,)),
                 # SpatialDropout1D(rate=hparams[HP_DROPOUT]), # Not sure whether that's good.
-                BatchNormalization(),
+                TimeDistributed(BatchNormalization()),
                 relu(),
                 Conv1D(
                     filters=4 * size,
@@ -954,7 +954,7 @@ def make_model_recreate(hparams):
                     padding="same",
                     kernel_initializer=msra,
                 ),
-                BatchNormalization(),
+                TimeDistributed(BatchNormalization()),
                 relu(),
                 Conv1D(
                     filters=size,
