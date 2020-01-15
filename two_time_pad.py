@@ -315,7 +315,7 @@ class JustShift(Layer):
 
 # TODO: I suspect something is still wrong with my shift function.  Test more!
 def ShiftLayer(clear, key, shifts):
-    clear = JustShift()([clear, shifts])
+    clear = JustShift(dtype='float32')([clear, shifts])
 
     return abs(clear - key)
 
@@ -1017,14 +1017,14 @@ def make_model_recreate(hparams):
 
     clear = Layer(name="clear", dtype="float32")(
         0.9 * pre_clear + 0.1 *
-            JustShift()([
+            JustShift(dtype='float32')([
                 pre_key,
                 inputB,
                 ]))
 
     key = Layer(name="key", dtype="float32")(
         0.9 * pre_key + 0.1 *
-            JustShift()([
+            JustShift(dtype='float32')([
                 pre_clear,
                 inputA,
                 ]))
