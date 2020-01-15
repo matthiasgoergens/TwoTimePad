@@ -904,6 +904,8 @@ def make_model_recreate(hparams):
 
     embeddedA = embedding(inputA)
     embeddedB = embedding(inputB)
+    print(embeddedA.dtype)
+    sys.exit(0)
 
     def makeResNetNew(i, channels, _, size):
         fanInput = Input(shape=(n, 4 * size,))
