@@ -467,7 +467,7 @@ def make_model_conv_res(hparams):
         kernel_initializer=msra,
     )
 
-    clear = Layer(name="pre_clear", dtype="float32")(make_end(convedA))
+    pre_clear = Layer(name="pre_clear", dtype="float32")(make_end(convedA))
     key = Layer(name="key", dtype="float32")(make_end(convedB))
 
     clear = Maximum(name='clear')([pre_clear, JustShift()([key, inputB])])
@@ -1073,20 +1073,15 @@ def showOld():
 
 
 def main():
-    # TODO: Actually set stuff to float16 only, in inference too.  Should use
-    # less memory.
     policy = mixed_precision.Policy("mixed_float16")
-    # policy = mixed_precision.Policy("float32")
     mixed_precision.set_policy(policy)
     print("Compute dtype: %s" % policy.compute_dtype)
     print("Variable dtype: %s" % policy.variable_dtype)
 
     with tf.device(device_name):
         text = clean(load())
-        # mtext = tf.convert_to_tensor(text)
         mtext = tf.convert_to_tensor(text)
 
-        # logdir = "logs/scalars/" + datetime.now().strftime("%Y%m%d-%H%M%S")
         logdir = "logs/scalars/{}".format(weights_name)
         tensorboard_callback = TensorBoard(
             log_dir=logdir, update_freq=50_000, profile_batch=0,
@@ -1102,7 +1097,7 @@ def main():
             default = 0.01 # SGD
 
 
-            factor = 2**(epoch-7)
+            factor = 2**(epoch/3-7)
             lr = factor * default
 
             print(
