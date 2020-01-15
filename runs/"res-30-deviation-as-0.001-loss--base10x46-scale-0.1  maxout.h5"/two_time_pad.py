@@ -422,8 +422,8 @@ def make_model_conv_res(hparams):
     embeddedA = embedding(inputA)
     embeddedB = embedding(inputB)
 
-    def conv():
-        if conv > 0:
+    def conv(i):
+        if i > 0:
             return Sequential(
                 [
                     ic(),
