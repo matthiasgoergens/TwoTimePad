@@ -981,8 +981,7 @@ def make_model_recreate(hparams):
             convedA, convedB = catA, catB
         return convedA, convedB
 
-    # convedA, convedB = make_block(embeddedA, embeddedB)
-    convedA, convedB = (embeddedA, embeddedB)
+    convedA, convedB = make_block(embeddedA, embeddedB)
     # assert tuple(convedA.shape) == tuple(convedB.shape), (convedA.shape, convedB.shape)
 
     # TODO: check whether final BatchNorm would help?  (Pre dropout, of course.)
