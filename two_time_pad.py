@@ -966,19 +966,14 @@ def make_model_recreate(hparams):
             name="resnet{}".format(i),
         )
 
-    def make_drop(layers):
-        return layers[:]
     random.seed(23)
 
     def make_block(convedA, convedB):
         convedAx = [convedA]
         convedBx = [convedB]
         for i in range(height):
-            # We deliberately use different dropout masks in all four cases.
-            # catA = tf.recompute_grad(concatenate)([*make_drop(convedAx), *make_drop(convedBx)])
-            # catB = tf.recompute_grad(concatenate)([*make_drop(convedBx), *make_drop(convedAx)])
-            catA = (concatenate)([convedA, convedB])
-            catB = (concatenate)([convedB, convedA])
+            catA = concatenate([convedA, convedB])
+            catB = concatenate([convedB, convedA])
             (_, _, num_channels) = catA.shape
             (_, _, num_channelsB) = catB.shape
             assert tuple(catA.shape) == tuple(catB.shape), (catA.shape, catB.shape)
@@ -987,7 +982,7 @@ def make_model_recreate(hparams):
             size = random.randrange(23, 2 * 46)
             # size = resSize
             resNet = makeResNet(i, num_channels, width, size)
-            # resNet = tf.recompute_grad(resNet)
+            resNet = tf.recompute_grad(resNet)
 
             # resA = plus(convedAx[-1], resNet(catA))
             resA = resNet(catA)
