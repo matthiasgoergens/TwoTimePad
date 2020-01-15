@@ -1023,7 +1023,6 @@ def make_model_recreate(hparams):
     # Approx 1,246 dimensions at the end for something close to `faithful` repro.
     # So could try even 90% dropout.
     make_end = Conv1D(
-        name="output",
         filters=46,
         kernel_size=1,
         padding="same",
