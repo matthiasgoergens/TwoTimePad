@@ -1042,7 +1042,7 @@ def make_model_recreate(hparams):
                 inputB,
                 ])]))
 
-     key = Layer(name="key", dtype="float32")(
+    key = Layer(name="key", dtype="float32")(
         avg([pre_key,
             justShift([
                 pre_clear,
