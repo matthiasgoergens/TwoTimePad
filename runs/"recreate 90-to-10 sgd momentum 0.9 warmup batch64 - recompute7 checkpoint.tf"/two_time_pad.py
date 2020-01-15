@@ -899,6 +899,7 @@ def make_model_recreate(hparams):
         input_dim=len(alpha),
         name="my_embedding",
         batch_input_shape=[batch_size, n],
+        dtype='float16',
     )
 
     embeddedA = embedding(inputA)
