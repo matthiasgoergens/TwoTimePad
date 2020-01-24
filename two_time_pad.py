@@ -423,6 +423,8 @@ def make_model_conv_res(hparams):
 
     inputA = Input(shape=(n,), name="ciphertextA", dtype="int32")
     inputB = Input(shape=(n,), name="ciphertextB", dtype="int32")
+    inputK = Input(shape=(n,), name="inputKey", dtype="int32")
+
     base = hparams[HP_resSize]
     blowup = hparams[HP_blowup]
     embedding = Embedding(
@@ -482,7 +484,7 @@ def make_model_conv_res(hparams):
     clear = Layer(name="clear", dtype="float32")(make_end(convedA))
     key = Layer(name="key", dtype="float32")(make_end(convedB))
 
-    model = Model([inputA, inputB], [clear, key])
+    model = Model([inputA, inputB, inputK], [clear, key, tf.one_hot(inputK, depth=46)])
 
     deviation_weight = hparams[HP_deviation_as_loss]
 
@@ -1057,7 +1059,7 @@ def make_model_recreate(hparams):
 l = 50
 hparams = {
     HP_DROPOUT: 0.0,
-    HP_HEIGHT: 20,
+    HP_HEIGHT: 2,
     HP_blocks: 1,
     HP_bottleneck: 46 * 5,
     ## Idea: skip the first few short columns in the fractal.
@@ -1069,7 +1071,7 @@ hparams = {
     HP_deviation_as_loss: 0.0,
 }
 
-weights_name = "recreate 90-to-10 sgd momentum 0.9 warmup batch64 - recompute7 checkpoint.h5"
+weights_name = "original.h5"
 
 make_model = make_model_conv_res
 
@@ -1216,7 +1218,7 @@ def main():
         if True:
             try:
                 model.fit(
-                    x=TwoTimePadSequence(l, 10 ** 2, mtext, both=True, dev=False),
+                    x=TwoTimePadSequence(l, 10 ** 2, mtext, both=True, dev=False, extra_key=True),
                     # x = x, y = y,
                     # steps_per_epoch=10 ** 4 // 32,
                     max_queue_size=10 ** 3,
