@@ -81,6 +81,12 @@ def nAccuracy(y_true, y_pred):
 def error(y_true, y_pred):
     return 1 - accuracy(y_true, y_pred)
 
+def sumError(y_true, y_pred):
+    # raise TabError((y_true, y_pred))
+    # shape = (32, 50)
+    output = tf.reduce_mean(y_pred, -1)
+    return output
+
 
 def load():
     # text = ' '.join(f.open('r').read() for f in pathlib.Path('data').glob('*.txt')).lower()
@@ -422,50 +428,58 @@ def make_model_conv(hparams):
         dtype="float32",
         kernel_initializer=msra,
     )
+    make_end = lambda x: x
 
     clear = Layer(name="clear", dtype="float32")(make_end(convedA))
     key = Layer(name="key", dtype="float32")(make_end(convedB))
 
-    un = tf.unstack(key, axis=-2)
-    assert n == len(un), un
-
-    # embs = tf.unstack(embeddedA, axis=-2)
-    # shifts = tf.unstack(inputA, axis=-2)
-    # tf.roll()
-
+    @tf.function
     def f(tensors):
         [logits, shifts] = tensors
+
+        # (batch_size, window_length, features=46)
+        r = tf.range(46)
+        
+        r = tf.broadcast_to(r, tf.shape(logits))
+        # r = tf.reshape(r, tf.shape(logits))
+        shifts = tf.broadcast_to(tf.expand_dims(shifts, -1), tf.shape(logits))
+        indices = (r - shifts) % 46
+
+        return tf.gather(logits, indices, batch_dims=2)
+
+        # logits_shape = tf.shape(logits)
+        # assert tuple(logits_shape) == (batch_size, n, 46)
+        # output = tf.convert_to_tensor(
+        #     [
+        #         [
+        #             [logits[b, p, (c - shifts[b, p]) % 46] for c in range(46)]
+        #             for p in range(n)
+        #         ]
+        #         for b in range(batch_size)
+        #     ]
+        # )
+        # return [output]
         logits_shape = tf.shape(logits)
         assert tuple(logits_shape) == (batch_size, n, 46)
-        output = tf.convert_to_tensor(
-            [
-                [
-                    [logits[b, p, (c - shifts[b, p]) % 46] for c in range(46)]
-                    for p in range(n)
-                ]
-                for b in range(batch_size)
-            ]
-        )
-        return output
 
     def fShapes(inputShapes):
         [logitsShape, shiftsShapes] = inputShapes
         return logitsShape
 
-    r = Lambda(f, fShapes, dynamic=True, dtype="float32")
+    r = Lambda(f, fShapes, dtype="float32", name="cyclic-shift")
 
     d = r([clear, inputA])
-    assert tuple(d.shape) == (None, n, 46), d
-    dev = Layer(name="dev", dtype="float32")(
-        tf.keras.backend.sum(
-        abs(d - key),
-        axis=-1,
-        keepdims=False,
-        ))
-    assert tuple(dev.shape) == (None, n,), dev
+    assert tuple(d.shape) in [(None, n, 46), (32, n, 46)], d
+    # assert tuple(key.shape) == (None, n, 46), key
+    dev = (d - key)
+    # assert tuple(dev.shape) == (None, n, 46), dev
+    # assert tuple(key.shape) == (None, n, 46), key
 
 
-    model = Model([inputA, inputB], [clear, key, dev])
+    sdev = Layer(name="dev", dtype="float32")(tf.reduce_mean(tf.reduce_sum(tf.abs(dev), axis=-1)))
+    model = Model([inputA, inputB], [clear, key])
+    model.add_loss(sdev)
+    model.add_metric(sdev, name="deviation", aggregation='mean')
 
     model.compile(
         # optimizer=tf.optimizers.Adam(learning_rate=0.001/2),
@@ -473,9 +487,8 @@ def make_model_conv(hparams):
         loss={
             "clear": tf.keras.losses.SparseCategoricalCrossentropy(from_logits=True),
             "key": tf.keras.losses.SparseCategoricalCrossentropy(from_logits=True),
-            "dev": tf.keras.losses.mean_absolute_error,
         },
-        loss_weights={"clear": 1 / 2, "key": 1 / 2, "dev": 1},
+        loss_weights={"clear": 1 / 2, "key": 1 / 2},
         metrics=[error],
     )
     return model
@@ -954,7 +967,7 @@ def make_model_recreate(hparams):
 l = 50
 hparams = {
     HP_DROPOUT: 0.0,
-    HP_HEIGHT: 1,
+    HP_HEIGHT: 0,
     HP_blocks: 1,
     HP_bottleneck: 46 * 5,
     ## Idea: skip the first few short columns in the fractal.
@@ -1109,7 +1122,7 @@ def main():
         if True:
             try:
                 model.fit(
-                    x=TwoTimePadSequence(l, 10 ** 4 // 32, mtext, both=True, dev=True),
+                    x=TwoTimePadSequence(l, 10 ** 4 // 32, mtext, both=True, dev=False),
                     # x = x, y = y,
                     # steps_per_epoch=10 ** 4 // 32,
                     max_queue_size=10 ** 3,
@@ -1117,7 +1130,7 @@ def main():
                     # epochs=epoch+1,
                     # validation_split=0.1,
                     validation_data=TwoTimePadSequence(
-                        l, 10 ** 3 // 32, mtext, both=True, dev=True
+                        l, 10 ** 3 // 32, mtext, both=True, dev=False
                     ),
                     epochs=100_000,
                     callbacks=callbacks_list,

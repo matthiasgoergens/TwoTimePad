@@ -303,19 +303,15 @@ def justShift(tensors):
     
     r = tf.broadcast_to(r, tf.shape(clear))
     shifts = tf.broadcast_to(tf.expand_dims(shifts, -1), tf.shape(clear))
-    indices = (r -  shifts) % 46
+    indices = (r - 1 * shifts) % 46
 
     clearShift = tf.gather(clear, indices, batch_dims=2)
     return clearShift
 
-class JustShift(Layer):
-    def call(self, tensors):
-        return justShift(tensors)
-
 
 # TODO: I suspect something is still wrong with my shift function.  Test more!
 def ShiftLayer(clear, key, shifts):
-    clear = JustShift(dtype='float32')([clear, shifts])
+    clear = justShift([clear, shifts])
 
     return abs(clear - key)
 
@@ -903,7 +899,6 @@ def make_model_recreate(hparams):
 
     embeddedA = embedding(inputA)
     embeddedB = embedding(inputB)
-    print(embeddedA.dtype)
 
     def makeResNetNew(i, channels, _, size):
         fanInput = Input(shape=(n, 4 * size,))
@@ -937,10 +932,10 @@ def make_model_recreate(hparams):
                     kernel_initializer=msra,
                 ),
                 # TODO: Might want to drop this intermediate batch norm?  So that dropout doesn't have too much impact on variance.
-                TimeDistributed(BatchNormalization()),
+                (BatchNormalization()),
                 Maxout(4 * size),
                 m,
-                TimeDistributed(BatchNormalization()),
+                (BatchNormalization()),
                 Maxout(size),
             ],
             name="resnet{}".format(i),
@@ -949,9 +944,9 @@ def make_model_recreate(hparams):
     def makeResNet(i, channels, width, size):
         return Sequential(
             [
-                # Input(name=f"res_inputMe_{i}", shape=(n, channels,), dtype='float16'),
+                Input(name=f"res_inputMe_i", shape=(n, channels,)),
                 # SpatialDropout1D(rate=hparams[HP_DROPOUT]), # Not sure whether that's good.
-                TimeDistributed(BatchNormalization(name='bn1'), name='td1'),
+                BatchNormalization(),
                 relu(),
                 Conv1D(
                     filters=4 * size,
@@ -959,7 +954,7 @@ def make_model_recreate(hparams):
                     padding="same",
                     kernel_initializer=msra,
                 ),
-                # TimeDistributed(BatchNormalization(name='bn2'), name='td2'),
+                BatchNormalization(),
                 relu(),
                 Conv1D(
                     filters=size,
@@ -971,17 +966,51 @@ def make_model_recreate(hparams):
             name="resnet{}".format(i),
         )
 
+    def make_drop(layers):
+        return layers[:]
+        drop = hparams[HP_DROPOUT]
+        return list(
+            reversed(
+                [
+                    (SpatialDropout1D(drop * distance / height))(layer)
+                    for distance, layer in enumerate(reversed(layers))
+                ]
+            )
+        )
+
     random.seed(23)
 
     def make_block(convedA, convedB):
-        for i in range(1):
-            catA = concatenate([convedA, convedB])
-            catB = concatenate([convedB, convedA])
+        convedAx = [convedA]
+        convedBx = [convedB]
+        for i in range(height):
+            # We deliberately use different dropout masks in all four cases.
+            # catA = tf.recompute_grad(concatenate)([*make_drop(convedAx), *make_drop(convedBx)])
+            # catB = tf.recompute_grad(concatenate)([*make_drop(convedBx), *make_drop(convedAx)])
+            catA = (concatenate)([convedA, convedB])
+            catB = (concatenate)([convedB, convedA])
+            (_, _, num_channels) = catA.shape
+            (_, _, num_channelsB) = catB.shape
+            assert tuple(catA.shape) == tuple(catB.shape), (catA.shape, catB.shape)
 
-            width = hparams[HP_max_kernel]
-            resNet = makeResNet(i, None, width, size)
+            width = 1 + 2 * random.randrange(5, 8)
+            size = random.randrange(23, 2 * 46)
+            # size = resSize
+            resNet = makeResNet(i, num_channels, width, size)
+            resNet = tf.recompute_grad(resNet)
 
-            convedA, convedB = catA, catB
+            # resA = plus(convedAx[-1], resNet(catA))
+            resA = resNet(catA)
+            # resB = plus(convedBx[-1], resNet(catB))
+            resB = resNet(catB)
+
+            convedA = cat(convedA, resA)
+            convedB = cat(convedB, resB)
+
+            assert len(convedAx) == len(convedBx), (len(convedAx), len(convedBx))
+            for j, (a, b) in enumerate(zip(convedAx, convedBx)):
+                assert tuple(a.shape) == tuple(b.shape), (i, j, a.shape, b.shape)
+
         return convedA, convedB
 
     convedA, convedB = make_block(embeddedA, embeddedB)
@@ -994,6 +1023,7 @@ def make_model_recreate(hparams):
     # Approx 1,246 dimensions at the end for something close to `faithful` repro.
     # So could try even 90% dropout.
     make_end = Conv1D(
+        name="output",
         filters=46,
         kernel_size=1,
         padding="same",
@@ -1001,41 +1031,42 @@ def make_model_recreate(hparams):
         dtype="float32",
         kernel_initializer=msra,
     )
-    pre_clear = make_end(convedA)
-    pre_key = make_end(convedB)
+    pre_clear = make_end(SpatialDropout1D(rate=0.0)(convedA))
+    pre_key = make_end(SpatialDropout1D(rate=0.0)(convedB))
 
     clear = Layer(name="clear", dtype="float32")(
-            pre_clear)
-        # 0.9 * pre_clear + 0.1 *
-        #     JustShift(dtype='float32')([
-        #         pre_key,
-        #         inputB,
-        #         ]))
+        0.9 * pre_clear + 0.1 *
+            justShift([
+                pre_key,
+                inputB,
+                ]))
 
     key = Layer(name="key", dtype="float32")(
-            pre_key)
-        # 0.9 * pre_key + 0.1 *
-        #     JustShift(dtype='float32')([
-        #         pre_clear,
-        #         inputA,
-        #         ]))
+        0.9 * pre_key + 0.1 *
+            justShift([
+                pre_clear,
+                inputA,
+                ]))
 
    
 
     model = Model([inputA, inputB], [clear, key])
 
-    # dev = ShiftLayer(pre_clear, pre_key, inputA)
-    # sdev = Layer(name="dev", dtype="float32")(tf.reduce_mean(dev))
-    # model.add_metric(sdev, name="deviation", aggregation='mean')
+    deviation_weight = hparams[HP_deviation_as_loss]
+
+    dev = ShiftLayer(pre_clear, pre_key, inputA)
+    sdev = Layer(name="dev", dtype="float32")(tf.reduce_mean(dev))
+    model.add_loss(sdev * deviation_weight)
+    model.add_metric(sdev, name="deviation", aggregation='mean')
 
 
     model.compile(
-        optimizer=tf.optimizers.Adam(),
-        # optimizer=tf.optimizers.SGD(momentum=0.9, nesterov=True),
+        # optimizer=tf.optimizers.Adam(amsgrad=True),
+        optimizer=tf.optimizers.SGD(momentum=0.9, nesterov=True),
         # optimizer=tf.optimizers.SGD(lr=0.01, decay=1e-6, momentum=0.0), # momentum=0.9, nesterov=True),
         # optimizer=tfa.optimizers.AdamW(),
         loss=tf.keras.losses.SparseCategoricalCrossentropy(from_logits=True),
-        loss_weights={"clear": 1/2, "key": 1/2},
+        loss_weights={"clear": 1, "key": 0},
         metrics=[error],
     )
     return model
@@ -1044,7 +1075,7 @@ def make_model_recreate(hparams):
 l = 50
 hparams = {
     HP_DROPOUT: 0.0,
-    HP_HEIGHT: 20,
+    HP_HEIGHT: 0,
     HP_blocks: 1,
     HP_bottleneck: 46 * 5,
     ## Idea: skip the first few short columns in the fractal.
@@ -1056,9 +1087,9 @@ hparams = {
     HP_deviation_as_loss: 0.0,
 }
 
-weights_name = "recreate 90-to-10 sgd momentum 0.9 warmup batch64 - recompute7 checkpoint.h5"
+weights_name = "recreate 90-to-10 sgd momentum 0.9 warmup batch64 - recompute6 checkpoint.h5"
 
-make_model = make_model_conv_res
+make_model = make_model_recreate
 
 
 def show():
@@ -1073,7 +1104,6 @@ def main():
     # TODO: Actually set stuff to float16 only, in inference too.  Should use
     # less memory.
     policy = mixed_precision.Policy("mixed_float16")
-    # policy = mixed_precision.Policy("float32")
     mixed_precision.set_policy(policy)
     print("Compute dtype: %s" % policy.compute_dtype)
     print("Variable dtype: %s" % policy.variable_dtype)
@@ -1158,8 +1188,8 @@ def main():
             print(weights_name)
             print("Loaded weights.")
         except:
-            model.save("weights/" + weights_name, include_optimizer=False)
             model.summary()
+            model.save("weights/" + weights_name, include_optimizer=True)
             print(weights_name)
             print("Failed to load weights.")
             pass
@@ -1220,7 +1250,7 @@ def main():
                 )
             except:
                 print("Saving model...")
-                model.save("weights/" + weights_name, include_optimizer=False)
+                model.save("weights/" + weights_name, include_optimizer=True)
                 print("Saved model.")
                 raise
 
