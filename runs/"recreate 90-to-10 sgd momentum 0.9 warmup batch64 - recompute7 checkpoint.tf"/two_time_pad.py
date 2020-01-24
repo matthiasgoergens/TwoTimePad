@@ -899,6 +899,7 @@ def make_model_recreate(hparams):
         input_dim=len(alpha),
         name="my_embedding",
         batch_input_shape=[batch_size, n],
+        dtype='float16',
     )
 
     embeddedA = embedding(inputA)
@@ -951,22 +952,23 @@ def make_model_recreate(hparams):
             [
                 # Input(name=f"res_inputMe_{i}", shape=(n, channels,), dtype='float16'),
                 # SpatialDropout1D(rate=hparams[HP_DROPOUT]), # Not sure whether that's good.
-                TimeDistributed(BatchNormalization(name='bn1'), name='td1'),
-                relu(),
-                Conv1D(
-                    filters=4 * size,
-                    kernel_size=1,
-                    padding="same",
-                    kernel_initializer=msra,
-                ),
-                # TimeDistributed(BatchNormalization(name='bn2'), name='td2'),
-                relu(),
-                Conv1D(
-                    filters=size,
-                    kernel_size=width,
-                    padding="same",
-                    kernel_initializer=msra,
-                ),
+                # TimeDistributed(BatchNormalization(name='bn1'), name='td1'),
+                Layer(),
+                # relu(),
+                # Conv1D(
+                #     filters=4 * size,
+                #     kernel_size=1,
+                #     padding="same",
+                #     kernel_initializer=msra,
+                # ),
+                # # TimeDistributed(BatchNormalization(name='bn2'), name='td2'),
+                # relu(),
+                # Conv1D(
+                #     filters=size,
+                #     kernel_size=width,
+                #     padding="same",
+                #     kernel_initializer=msra,
+                # ),
             ],
             name="resnet{}".format(i),
         )
@@ -974,17 +976,17 @@ def make_model_recreate(hparams):
     random.seed(23)
 
     def make_block(convedA, convedB):
-        for i in range(1):
-            catA = concatenate([convedA, convedB])
-            catB = concatenate([convedB, convedA])
-
-            width = hparams[HP_max_kernel]
-            resNet = makeResNet(i, None, width, size)
-
-            convedA, convedB = catA, catB
+        for i in range(0):
+            # convedA, convedB = convedA + convedB, convedA + convedB
+            convedA = Layer()(convedA)
+            convedB = Layer()(convedB)
+            # catA = concatenate([convedA, convedB])
+            # catB = concatenate([convedB, convedA])
+            # convedA, convedB = catA, catB
         return convedA, convedB
 
-    convedA, convedB = make_block(embeddedA, embeddedB)
+    # convedA, convedB = make_block(embeddedA, embeddedB)
+    convedA, convedB = (embeddedA, embeddedB)
     # assert tuple(convedA.shape) == tuple(convedB.shape), (convedA.shape, convedB.shape)
 
     # TODO: check whether final BatchNorm would help?  (Pre dropout, of course.)
@@ -1044,7 +1046,7 @@ def make_model_recreate(hparams):
 l = 50
 hparams = {
     HP_DROPOUT: 0.0,
-    HP_HEIGHT: 20,
+    HP_HEIGHT: 1,
     HP_blocks: 1,
     HP_bottleneck: 46 * 5,
     ## Idea: skip the first few short columns in the fractal.
@@ -1056,8 +1058,9 @@ hparams = {
     HP_deviation_as_loss: 0.0,
 }
 
-weights_name = "recreate 90-to-10 sgd momentum 0.9 warmup batch64 - recompute7 checkpoint.h5"
+weights_name = "recreate 90-to-10 sgd momentum 0.9 warmup batch64 - recompute7 checkpoint.tf"
 
+make_model = make_model_recreate
 make_model = make_model_conv_res
 
 

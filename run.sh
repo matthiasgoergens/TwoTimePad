@@ -6,4 +6,4 @@ cp two_time_pad.py  "runs/${NAME}/"
 
 git add "runs/${NAME}"
 git commit --allow-empty -m "Run: ${NAME}" two_time_pad.py "runs/${NAME}"
-docker exec -it cool_wing python3 two_time_pad.py "${NAME}"
+docker exec -it mystifying_germain python3 two_time_pad.py "${NAME}"

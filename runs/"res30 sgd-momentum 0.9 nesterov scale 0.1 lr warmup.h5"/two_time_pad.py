@@ -128,7 +128,7 @@ def toChars(tensor):
     return output
 
 
-batch_size = 64
+batch_size = 32
 
 
 def round_to(x, n):
@@ -297,27 +297,30 @@ def sequential(*layers):
 
     return helper
 
+@Lambda
 def justShift(tensors):
     clear, shifts = tensors
     r = tf.range(46)
     
     r = tf.broadcast_to(r, tf.shape(clear))
     shifts = tf.broadcast_to(tf.expand_dims(shifts, -1), tf.shape(clear))
-    indices = (r -  shifts) % 46
+    indices = (r - 1 * shifts) % 46
 
     clearShift = tf.gather(clear, indices, batch_dims=2)
     return clearShift
 
-class JustShift(Layer):
-    def call(self, tensors):
-        return justShift(tensors)
-
 
 # TODO: I suspect something is still wrong with my shift function.  Test more!
 def ShiftLayer(clear, key, shifts):
-    clear = JustShift(dtype='float32')([clear, shifts])
+    clear = justShift([clear, shifts])
 
     return abs(clear - key)
+
+    clear = Softmax(dtype='float32')(clear)
+    key = Softmax(dtype='float32')(key)
+
+    kld = keras.losses.kullback_leibler_divergence
+    return (kld(clear, key) + kld(key, clear))
 
 # Resnet.
 def make_model_simple(hparams):
@@ -406,7 +409,7 @@ def make_model_conv_res(hparams):
     height = hparams[HP_HEIGHT]
     width = hparams[HP_max_kernel]
 
-    ic = lambda: BatchNormalization()
+    ic = lambda: TimeDistributed(BatchNormalization())
 
     inputA = Input(shape=(n,), name="ciphertextA", dtype="int32")
     inputB = Input(shape=(n,), name="ciphertextB", dtype="int32")
@@ -498,7 +501,7 @@ def make_model_conv_res(hparams):
 #    height = hparams[HP_HEIGHT]
 #    width = hparams[HP_max_kernel]
 #
-#    ic = lambda: (BatchNormalization())
+#    ic = lambda: TimeDistributed(BatchNormalization())
 #
 #    inputA = Input(shape=(n,), name="ciphertextA", dtype="int32")
 #    inputB = Input(shape=(n,), name="ciphertextB", dtype="int32")
@@ -546,7 +549,7 @@ def make_model_conv_res(hparams):
 #    clear = Layer(name="clear", dtype="float32")(make_end(convedA))
 #    key = Layer(name="key", dtype="float32")(make_end(convedB))
 #
-#    b = (BatchNormalization())
+#    b = TimeDistributed(BatchNormalization())
 #    b = lambda x: x
 #
 #    dev = ShiftLayer(clear, key, inputA)
@@ -582,7 +585,7 @@ def make_model_fractal(hparams):
     height = hparams[HP_HEIGHT]
     width = hparams[HP_max_kernel]
 
-    ic = lambda: (BatchNormalization())
+    ic = lambda: TimeDistributed(BatchNormalization())
 
     inputA = Input(shape=(n,), name="ciphertextA", dtype="int32")
     inputB = Input(shape=(n,), name="ciphertextB", dtype="int32")
@@ -686,7 +689,7 @@ def make_model_fractal_dense(hparams):
     height = hparams[HP_HEIGHT]
 
     ic = lambda: sequential(
-        (BatchNormalization()),
+        TimeDistributed(BatchNormalization()),
         SpatialDropout1D(rate=hparams[HP_DROPOUT]),
     )
 
@@ -711,7 +714,7 @@ def make_model_fractal_dense(hparams):
                     kernel_size=3,
                     padding="same",
                     kernel_initializer=msra,
-                )((BatchNormalization())(relu()(input)))
+                )(TimeDistributed(BatchNormalization())(relu()(input)))
             except:
                 print(f"Input: {input}")
                 raise
@@ -788,7 +791,7 @@ def make_model_dense(hparams):
     height = hparams[HP_HEIGHT]
 
     ic = lambda: sequential(
-        (BatchNormalization()),
+        TimeDistributed(BatchNormalization()),
         SpatialDropout1D(rate=hparams[HP_DROPOUT] / 2),
         Dropout(rate=hparams[HP_DROPOUT] / 2),
     )
@@ -903,7 +906,6 @@ def make_model_recreate(hparams):
 
     embeddedA = embedding(inputA)
     embeddedB = embedding(inputB)
-    print(embeddedA.dtype)
 
     def makeResNetNew(i, channels, _, size):
         fanInput = Input(shape=(n, 4 * size,))
@@ -928,7 +930,7 @@ def make_model_recreate(hparams):
                 # TODO: try different dropout scheme here, that messes less with variance?
                 ## Note: dropout done outside.
                 # SpatialDropout1D(rate=hparams[HP_DROPOUT] * i / height),
-                # (BatchNormalization()),
+                # TimeDistributed(BatchNormalization()),
                 # relu(),
                 Conv1D(
                     filters=16 * size,
@@ -949,9 +951,9 @@ def make_model_recreate(hparams):
     def makeResNet(i, channels, width, size):
         return Sequential(
             [
-                # Input(name=f"res_inputMe_{i}", shape=(n, channels,), dtype='float16'),
+                Input(name="res_inputMe", shape=(n, channels,)),
                 # SpatialDropout1D(rate=hparams[HP_DROPOUT]), # Not sure whether that's good.
-                TimeDistributed(BatchNormalization(name='bn1'), name='td1'),
+                TimeDistributed(BatchNormalization()),
                 relu(),
                 Conv1D(
                     filters=4 * size,
@@ -959,7 +961,7 @@ def make_model_recreate(hparams):
                     padding="same",
                     kernel_initializer=msra,
                 ),
-                # TimeDistributed(BatchNormalization(name='bn2'), name='td2'),
+                TimeDistributed(BatchNormalization()),
                 relu(),
                 Conv1D(
                     filters=size,
@@ -971,18 +973,47 @@ def make_model_recreate(hparams):
             name="resnet{}".format(i),
         )
 
+    def make_drop(layers):
+        drop = hparams[HP_DROPOUT]
+        return list(
+            reversed(
+                [
+                    (SpatialDropout1D(drop * distance / height))(layer)
+                    for distance, layer in enumerate(reversed(layers))
+                ]
+            )
+        )
+
     random.seed(23)
 
     def make_block(convedA, convedB):
-        for i in range(1):
-            catA = concatenate([convedA, convedB])
-            catB = concatenate([convedB, convedA])
+        convedAx = [convedA]
+        convedBx = [convedB]
+        for i in range(height):
+            # We deliberately use different dropout masks in all four cases.
+            catA = concatenate([*make_drop(convedAx), *make_drop(convedBx)])
+            catB = concatenate([*make_drop(convedBx), *make_drop(convedAx)])
+            (_, _, num_channels) = catA.shape
+            (_, _, num_channelsB) = catB.shape
+            assert tuple(catA.shape) == tuple(catB.shape), (catA.shape, catB.shape)
 
-            width = hparams[HP_max_kernel]
-            resNet = makeResNet(i, None, width, size)
+            width = 1 + 2 * random.randrange(5, 8)
+            size = random.randrange(23, 2 * 46)
+            # size = resSize
+            resNet = makeResNet(i, num_channels, width, size)
 
-            convedA, convedB = catA, catB
-        return convedA, convedB
+            # resA = plus(convedAx[-1], resNet(catA))
+            resA = resNet(catA)
+            # resB = plus(convedBx[-1], resNet(catB))
+            resB = resNet(catB)
+
+            convedAx.append(resA)
+            convedBx.append(resB)
+
+            assert len(convedAx) == len(convedBx), (len(convedAx), len(convedBx))
+            for j, (a, b) in enumerate(zip(convedAx, convedBx)):
+                assert tuple(a.shape) == tuple(b.shape), (i, j, a.shape, b.shape)
+        return convedAx, convedBx
 
     convedA, convedB = make_block(embeddedA, embeddedB)
     # assert tuple(convedA.shape) == tuple(convedB.shape), (convedA.shape, convedB.shape)
@@ -994,6 +1025,7 @@ def make_model_recreate(hparams):
     # Approx 1,246 dimensions at the end for something close to `faithful` repro.
     # So could try even 90% dropout.
     make_end = Conv1D(
+        name="output",
         filters=46,
         kernel_size=1,
         padding="same",
@@ -1001,41 +1033,41 @@ def make_model_recreate(hparams):
         dtype="float32",
         kernel_initializer=msra,
     )
-    pre_clear = make_end(convedA)
-    pre_key = make_end(convedB)
+    pre_clear = make_end(SpatialDropout1D(rate=0.0)(concatenate(convedA)))
+    pre_key = make_end(SpatialDropout1D(rate=0.0)(concatenate(convedB)))
 
     clear = Layer(name="clear", dtype="float32")(
-            pre_clear)
-        # 0.9 * pre_clear + 0.1 *
-        #     JustShift(dtype='float32')([
-        #         pre_key,
-        #         inputB,
-        #         ]))
+        avg([pre_clear,
+            justShift([
+                pre_key,
+                inputB,
+                ])]))
 
     key = Layer(name="key", dtype="float32")(
-            pre_key)
-        # 0.9 * pre_key + 0.1 *
-        #     JustShift(dtype='float32')([
-        #         pre_clear,
-        #         inputA,
-        #         ]))
+        avg([pre_key,
+            justShift([
+                pre_clear,
+                inputA,
+                ])]))
 
    
 
     model = Model([inputA, inputB], [clear, key])
 
-    # dev = ShiftLayer(pre_clear, pre_key, inputA)
-    # sdev = Layer(name="dev", dtype="float32")(tf.reduce_mean(dev))
-    # model.add_metric(sdev, name="deviation", aggregation='mean')
+    deviation_weight = hparams[HP_deviation_as_loss]
+
+    dev = ShiftLayer(pre_clear, pre_key, inputA)
+    sdev = Layer(name="dev", dtype="float32")(tf.reduce_mean(dev))
+    model.add_loss(sdev * deviation_weight)
+    model.add_metric(sdev, name="deviation", aggregation='mean')
 
 
     model.compile(
-        optimizer=tf.optimizers.Adam(),
-        # optimizer=tf.optimizers.SGD(momentum=0.9, nesterov=True),
+        optimizer=tf.optimizers.Adam(amsgrad=True),
         # optimizer=tf.optimizers.SGD(lr=0.01, decay=1e-6, momentum=0.0), # momentum=0.9, nesterov=True),
         # optimizer=tfa.optimizers.AdamW(),
         loss=tf.keras.losses.SparseCategoricalCrossentropy(from_logits=True),
-        loss_weights={"clear": 1/2, "key": 1/2},
+        loss_weights={"clear": 1, "key": 0},
         metrics=[error],
     )
     return model
@@ -1044,7 +1076,7 @@ def make_model_recreate(hparams):
 l = 50
 hparams = {
     HP_DROPOUT: 0.0,
-    HP_HEIGHT: 20,
+    HP_HEIGHT: 30,
     HP_blocks: 1,
     HP_bottleneck: 46 * 5,
     ## Idea: skip the first few short columns in the fractal.
@@ -1056,7 +1088,7 @@ hparams = {
     HP_deviation_as_loss: 0.0,
 }
 
-weights_name = "recreate 90-to-10 sgd momentum 0.9 warmup batch64 - recompute7 checkpoint.h5"
+weights_name = "res30 sgd-momentum 0.9 nesterov scale 0.1 lr warmup.h5"
 
 make_model = make_model_conv_res
 
@@ -1073,7 +1105,6 @@ def main():
     # TODO: Actually set stuff to float16 only, in inference too.  Should use
     # less memory.
     policy = mixed_precision.Policy("mixed_float16")
-    # policy = mixed_precision.Policy("float32")
     mixed_precision.set_policy(policy)
     print("Compute dtype: %s" % policy.compute_dtype)
     print("Variable dtype: %s" % policy.variable_dtype)
@@ -1100,10 +1131,10 @@ def main():
 
 
             factor = 2**(epoch-7)
-            lr = factor * default
+            lr = min(default, factor * default)
 
             print(
-                f"{weights_name}: Scheduled learning rate for epoch {epoch}: {default} * {lr/default}"
+                f"Scheduled learning rate for epoch {epoch}: {default} * {lr/default}"
             )
             return lr
 
@@ -1114,7 +1145,7 @@ def main():
             lr = default * (epoch + 1)
             # NOTE: 32 was still fine, 64 broke.
             print(
-                f"{weights_name}: Scheduled learning rate for epoch {epoch}: {default} * {lr/default}"
+                f"Scheduled learning rate for epoch {epoch}: {default} * {lr/default}"
             )
             return lr
 
@@ -1123,7 +1154,7 @@ def main():
             return 0.001 / 100
 
         callbacks_list = [
-            checkpoint,
+            # checkpoint,
             tensorboard_callback,
             # hp.KerasCallback(logdir, hparams),
             # ReduceLROnPlateau(
@@ -1136,9 +1167,9 @@ def main():
             #     min_delta=0.001,
             # ),
             LearningRateScheduler(schedule),
-            EarlyStopping(
-                monitor="loss", patience=60, verbose=1, restore_best_weights=True
-            ),
+            # EarlyStopping(
+            #     monitor="loss", patience=60, verbose=1, restore_best_weights=True
+            # ),
         ]
 
         with tf.summary.create_file_writer("logs/scalars").as_default():
@@ -1151,14 +1182,13 @@ def main():
         print("Making model.")
         model = make_model(hparams)
         try:
-            raise NotImplementedError("Not loading weights for testing.")
+            raise NotIMplementedError("Not loading weights for testing.")
             print("Trying to load weights.")
             model.load_weights("weights/" + weights_name)
             model.summary()
             print(weights_name)
             print("Loaded weights.")
         except:
-            model.save("weights/" + weights_name, include_optimizer=False)
             model.summary()
             print(weights_name)
             print("Failed to load weights.")
@@ -1203,26 +1233,32 @@ def main():
         if True:
             try:
                 model.fit(
-                    x=TwoTimePadSequence(l, 10 ** 2, mtext, both=True, dev=False),
+                    x=TwoTimePadSequence(l, 10 ** 4 // 32, mtext, both=True, dev=False),
                     # x = x, y = y,
                     # steps_per_epoch=10 ** 4 // 32,
                     max_queue_size=10 ** 3,
                     initial_epoch=0,
                     # epochs=epoch+1,
                     # validation_split=0.1,
-                    # validation_data=TwoTimePadSequence(
-                    #     l, 10 ** 3 // 32, mtext, both=True, dev=False
-                    # ),
+                    validation_data=TwoTimePadSequence(
+                        l, 10 ** 3 // 32, mtext, both=True, dev=False
+                    ),
                     epochs=100_000,
                     callbacks=callbacks_list,
                     # batch_size=batch_size,
                     verbose=1,
+                    # workers=8,
+                    # use_multiprocessing=True,
                 )
             except:
                 print("Saving model...")
-                model.save("weights/" + weights_name, include_optimizer=False)
+                model.save("weights/" + weights_name, include_optimizer=True)
                 print("Saved model.")
                 raise
+
+        # (ciphers_t, labels_t, keys_t) = samples(text, 1000, l)
+        # print("Eval:")
+        # model.evaluate(TwoTimePadSequence(l, 10**4))
 
     # Idea: we don't need the full 50% dropout regularization, because our input is already random.
     # So try eg keeping 90% of units?  Just enough to punish big gross / small nettto co-adaptions.
