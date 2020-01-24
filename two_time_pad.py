@@ -471,10 +471,6 @@ def make_model_conv(hparams):
         )
         return output
 
-    def fShapes(inputShapes):
-        [logitsShape, shiftsShapes] = inputShapes
-        return logitsShape
-
     r = Lambda(f, fShapes, dtype="float32", name="cyclic-shift")
 
     d = r([clear, inputA])
