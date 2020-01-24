@@ -167,13 +167,19 @@ def makeEpochs(mtext, window, ratio):
                     yy[i : i + training_size, :],
                 )
 
-
 class TwoTimePadSequence(keras.utils.Sequence):
     def _load(self):
         self.aa = tf.reshape(tf.random.shuffle(self.a), (-1, batch_size, self.window))
         self.bb = tf.reshape(tf.random.shuffle(self.b), (-1, batch_size, self.window))
-        self.cipherA = (self.aa - self.bb) % 46
-        self.cipherB = (self.bb - self.aa) % 46
+
+        self.key = tf.random.uniform(shape=self.aa.shape, maxval=46, dtype='int32')
+
+        if self.extra_key:
+            self.cipherA = (self.aa + self.key) % 46
+            self.cipherB = (self.bb + self.key) % 46
+        else:
+            self.cipherA = (self.aa - self.bb) % 46
+            self.cipherB = (self.bb - self.aa) % 46
 
         self.size = self.aa.shape[0]
         self.items = iter(range(self.size))
@@ -194,7 +200,13 @@ class TwoTimePadSequence(keras.utils.Sequence):
             self._load()
             return self.__getitem__(idx)
         else:
-            if self.both and not self.dev:
+            if self.extra_key:
+                return (
+                    (self.cipherA[i, :, :], self.cipherB[i, :, :], self.key[i, :, :]),
+                    (self.aa[i, :, :], self.bb[i, :, :], self.key[i, :, :]),
+                )
+
+            elif self.both and not self.dev:
                 return (
                     (self.cipherA[i, :, :], self.cipherB[i, :, :]),
                     (self.aa[i, :, :], self.bb[i, :, :]),
@@ -214,7 +226,7 @@ class TwoTimePadSequence(keras.utils.Sequence):
                 # return (self.cipherA[i, :, :], ), (self.aa[i, :, :], self.bb[i, :, :])
                 return (self.cipherA[i, :, :],), (self.aa[i, :, :],)
 
-    def __init__(self, window, training_size, mtext, both=True, dev=False):
+    def __init__(self, window, training_size, mtext, both=True, dev=False, extra_key=False):
         self.a = make1(window, mtext)
         self.b = make1(window, mtext)
 
@@ -224,6 +236,7 @@ class TwoTimePadSequence(keras.utils.Sequence):
         self._load()
         self.both = both
         self.dev = dev
+        self.extra_key = extra_key
 
 
 def cipher_for_predict():
