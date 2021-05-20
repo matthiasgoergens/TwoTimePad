@@ -11,10 +11,11 @@ from pprint import pprint
 
 import numpy as np
 import tensorflow as tf
-# import tensorflow_addons as tfa
-from tensorflow.keras.callbacks import *
 from tensorboard.plugins.hparams import api as hp
 from tensorflow import keras
+
+# import tensorflow_addons as tfa
+from tensorflow.keras.callbacks import *
 from tensorflow.keras.layers import (
     LSTM,
     Add,
@@ -27,6 +28,7 @@ from tensorflow.keras.layers import (
     Flatten,
     GlobalMaxPooling1D,
     Input,
+    Layer,
     MaxPooling1D,
     SeparableConv1D,
     SimpleRNN,
@@ -34,10 +36,9 @@ from tensorflow.keras.layers import (
     SpatialDropout1D,
     TimeDistributed,
     concatenate,
-    Layer,
-    Add,
 )
 from tensorflow.keras.models import Model, Sequential
+
 # from tensorflow_addons.layers import Maxout, Sparsemax
 
 device_name = tf.test.gpu_device_name()
@@ -51,7 +52,6 @@ else:
 
 
 from tensorflow.keras.mixed_precision import experimental as mixed_precision
-
 
 np.set_printoptions(precision=4)
 
@@ -97,7 +97,9 @@ def toChars(tensor):
     for lineNum in range(linesNums):
         chars = []
         for cN in range(charNum):
-            (_, char) = max([(tensor[lineNum, cN, alphaN], alphaN) for alphaN in range(alphaNum)])
+            (_, char) = max(
+                [(tensor[lineNum, cN, alphaN], alphaN) for alphaN in range(alphaNum)]
+            )
             chars.append(char)
         output.append(toChar(chars))
     return output
@@ -145,7 +147,7 @@ def samples(text, batch_size, l):
     one_hot_labels = tf.convert_to_tensor(labels)
     one_hot_keys = tf.convert_to_tensor(keys)
 
-    return ([one_hot_ciphers, -one_hot_ciphers %46], one_hot_labels, one_hot_keys)
+    return ([one_hot_ciphers, -one_hot_ciphers % 46], one_hot_labels, one_hot_keys)
 
 
 batch_size = 32
@@ -158,9 +160,12 @@ def round_to(x, n):
 def make1(window, text):
     (size,) = text.shape
     start = random.randrange(window)
-    return tf.reshape(tf.slice(text, [start], [round_to(size - window * batch_size, window * batch_size)]), (-1, window),)
-
-
+    return tf.reshape(
+        tf.slice(
+            text, [start], [round_to(size - window * batch_size, window * batch_size)]
+        ),
+        (-1, window),
+    )
 
 
 def makeEpochs(mtext, window, ratio):
@@ -182,7 +187,10 @@ def makeEpochs(mtext, window, ratio):
 
             # Drop last epoch, it's probably not full.
             for i in list(range(0, x.shape[0], training_size))[:-1]:
-                yield (cipherX[i : i + training_size, :], cipherY[i : i + training_size, :]), (
+                yield (
+                    cipherX[i : i + training_size, :],
+                    cipherY[i : i + training_size, :],
+                ), (
                     xx[i : i + training_size, :],
                     yy[i : i + training_size, :],
                 )
@@ -214,7 +222,10 @@ class TwoTimePadSequence(keras.utils.Sequence):
             self._load()
             return self.__getitem__(idx)
         else:
-            return (self.cipherA[i, :, :], self.cipherB[i, :, :]), (self.aa[i, :, :], self.bb[i, :, :])
+            return (self.cipherA[i, :, :], self.cipherB[i, :, :]), (
+                self.aa[i, :, :],
+                self.bb[i, :, :],
+            )
 
     def __init__(self, window, training_size, mtext):
         self.a = make1(window, mtext)
@@ -243,10 +254,14 @@ HP_resSize = hp.HParam("resSize", hp.IntInterval(46, 8 * 46))
 METRIC_ACCURACY = "accuracy"
 
 accuracy = tf.keras.metrics.SparseCategoricalAccuracy()
+
+
 def error(y_true, y_pred):
     return 1 - accuracy(y_true, y_pred)
 
+
 # TODO: Try MSRA initializer
+
 
 def make_model(hparams):
 
@@ -254,12 +269,18 @@ def make_model(hparams):
 
     n = hparams[HP_WINDOW]
     # my_input = Input(shape=(n,), dtype='int32', name="ciphertext")
-    inputA = Input(shape=(n,), name="ciphertextA", dtype='int32')
-    inputB = Input(shape=(n,), name="ciphertextB", dtype='int32')
+    inputA = Input(shape=(n,), name="ciphertextA", dtype="int32")
+    inputB = Input(shape=(n,), name="ciphertextB", dtype="int32")
     # inputB = -inputA % 46
     resSize = hparams[HP_resSize]
 
-    embedding = Embedding(output_dim=len(alpha), input_length=n, input_dim=len(alpha), name="my_embedding", batch_input_shape=[batch_size, n],)
+    embedding = Embedding(
+        output_dim=len(alpha),
+        input_length=n,
+        input_dim=len(alpha),
+        name="my_embedding",
+        batch_input_shape=[batch_size, n],
+    )
 
     embeddedA = embedding(inputA)
     embeddedB = embedding(inputB)
@@ -287,7 +308,6 @@ def make_model(hparams):
     #             ])(conved)])
     #     return Model([input], [conved])
 
-
     #     return Sequential([
     #         Input(name="res_inputMe", shape=(n,channels,)),
 
@@ -300,41 +320,56 @@ def make_model(hparams):
     #         relu(),
     #         Conv1D(filters=size, kernel_size=width, padding='same'),
 
-
     #         TimeDistributed(BatchNormalization()),
     #         relu(),
     #         Conv1D(filters=size, kernel_size=width, padding='same'),
     #         ], name="resnet{}".format(i))
 
     def makeResNet(i, channels, width, size):
-        inputA = Input(name="res_inputMe", shape=(n,channels,))
-        inputB = Input(name="res_inputDu", shape=(n,channels,))
-        bottle_conv = Sequential([
-            TimeDistributed(BatchNormalization()),
-            relu(),
-            Conv1D(filters=size, kernel_size=1, padding='same'),
-            ])
+        inputA = Input(
+            name="res_inputMe",
+            shape=(
+                n,
+                channels,
+            ),
+        )
+        inputB = Input(
+            name="res_inputDu",
+            shape=(
+                n,
+                channels,
+            ),
+        )
+        bottle_conv = Sequential(
+            [
+                TimeDistributed(BatchNormalization()),
+                relu(),
+                Conv1D(filters=size, kernel_size=1, padding="same"),
+            ]
+        )
         convedA = bottle_conv(inputA)
         convedB = bottle_conv(inputB)
 
-
-        #TODO: Try (a) without res-connection; (b) with bottleneck 4 * size
+        # TODO: Try (a) without res-connection; (b) with bottleneck 4 * size
         for x in range(3):
-            core = Sequential([
-                TimeDistributed(BatchNormalization()),
-                relu(),
-                Conv1D(filters=size, kernel_size=5, padding='same'),
-                ])
+            core = Sequential(
+                [
+                    TimeDistributed(BatchNormalization()),
+                    relu(),
+                    Conv1D(filters=size, kernel_size=5, padding="same"),
+                ]
+            )
 
             convedA, convedB = (
-                    Add()([convedA, core(concatenate([convedA, convedB]))]),
-                    Add()([convedB, core(concatenate([convedB, convedA]))]),
-                    )
+                Add()([convedA, core(concatenate([convedA, convedB]))]),
+                Add()([convedB, core(concatenate([convedB, convedA]))]),
+            )
         # ic = Sequential([TimeDistributed(BatchNormalization()), relu()])
 
         return Model([inputA, inputB], [convedA, convedB])
 
     random.seed(23)
+
     def sample2(pop):
         return pop
         div = 3
@@ -343,17 +378,17 @@ def make_model(hparams):
     def make_block(convedA, convedB, block):
         convedAx = [convedA]
         convedBx = [convedB]
-        for i, (_) in enumerate(20*[None]):
-            width = 5 # 1 + 2*random.randrange(5, 8)
-            convedA_, convedB_= zip(*sample2(list(zip(convedAx, convedBx))))
+        for i, (_) in enumerate(20 * [None]):
+            width = 5  # 1 + 2*random.randrange(5, 8)
+            convedA_, convedB_ = zip(*sample2(list(zip(convedAx, convedBx))))
             assert len(convedA_) == len(convedB_), (len(convedA_), len(convedB_))
             catA = concatenate([*convedA_, *convedB_])
             catB = concatenate([*convedB_, *convedA_])
             (_, _, num_channels) = catA.shape
             (_, _, num_channelsB) = catB.shape
             assert tuple(catA.shape) == tuple(catB.shape), (catA.shape, catB.shape)
-            size = round(2*46) # random.randrange(23, 2*46)
-            resNet = makeResNet(block*1000+i, num_channels, width, size)
+            size = round(2 * 46)  # random.randrange(23, 2*46)
+            resNet = makeResNet(block * 1000 + i, num_channels, width, size)
             resA, resB = resNet([catA, catB])
 
             convedAx.append(resA)
@@ -373,19 +408,21 @@ def make_model(hparams):
         catBx = concatenate(convedBx)
         assert tuple(catAx.shape) == tuple(catBx.shape), (catAx.shape, catBx.shape)
 
-        if True: # Only one block for nowe.
+        if True:  # Only one block for nowe.
             convedA = catAx
             convedB = catBx
             break
 
-
-        bottleneck = Conv1D(filters=4*46, kernel_size=1, padding='same')
+        bottleneck = Conv1D(filters=4 * 46, kernel_size=1, padding="same")
         batchnorm = TimeDistributed(BatchNormalization())
         relu_ = relu()
         convedA = bottleneck(relu_(batchnorm(catAx)))
         convedB = bottleneck(relu_(batchnorm(catBx)))
-        assert tuple(convedA.shape) == tuple(convedB.shape), (block, convedA.shape, convedB.shape)
-
+        assert tuple(convedA.shape) == tuple(convedB.shape), (
+            block,
+            convedA.shape,
+            convedB.shape,
+        )
 
     # lstm = Bidirectional(LSTM(4*46, return_sequences=True))
     # c = Conv1D(filters=resSize, kernel_size=1)
@@ -394,9 +431,20 @@ def make_model(hparams):
     #         Add()([convedA, c(lstm(concatenate([convedA, convedB])))]),
     #         Add()([convedB, c(lstm(concatenate([convedB, convedA])))]))
 
-    make_end = Conv1D(name="output", filters=46, kernel_size=1, padding="same", strides=1, dtype='float32')
-    totes_clear = Layer(dtype='float32', name='clear')(make_end(SpatialDropout1D(rate=hparams[HP_DROPOUT])(convedA)))
-    totes_key = Layer(dtype='float32', name='key')(make_end(SpatialDropout1D(rate=hparams[HP_DROPOUT])(convedB)))
+    make_end = Conv1D(
+        name="output",
+        filters=46,
+        kernel_size=1,
+        padding="same",
+        strides=1,
+        dtype="float32",
+    )
+    totes_clear = Layer(dtype="float32", name="clear")(
+        make_end(SpatialDropout1D(rate=hparams[HP_DROPOUT])(convedA))
+    )
+    totes_key = Layer(dtype="float32", name="key")(
+        make_end(SpatialDropout1D(rate=hparams[HP_DROPOUT])(convedB))
+    )
 
     # Note: investigate whether we need to TimeDistribute BatchNormalization.  If yes, that's a fine bug!!!
     model = Model([inputA, inputB], [totes_clear, totes_key])
@@ -404,11 +452,13 @@ def make_model(hparams):
     opt = tf.optimizers.Adam()
 
     model.compile(
-        optimizer=opt, loss=tf.keras.losses.SparseCategoricalCrossentropy(from_logits=True),
-        loss_weights={'clear': 1/2, 'key': 1/2},
+        optimizer=opt,
+        loss=tf.keras.losses.SparseCategoricalCrossentropy(from_logits=True),
+        loss_weights={"clear": 1 / 2, "key": 1 / 2},
         metrics=[error],
     )
     return model
+
 
 l = 100
 hparams = {
@@ -424,10 +474,10 @@ weights_name = "error-20x4-w1_5-base_2x46-sharer-pre_act_only.h5"
 def main():
     # TODO: Actually set stuff to float16 only, in inference too.  Should use
     # less memory.
-    policy = mixed_precision.Policy('mixed_float16')
+    policy = mixed_precision.Policy("mixed_float16")
     mixed_precision.set_policy(policy)
-    print('Compute dtype: %s' % policy.compute_dtype)
-    print('Variable dtype: %s' % policy.variable_dtype)
+    print("Compute dtype: %s" % policy.compute_dtype)
+    print("Variable dtype: %s" % policy.variable_dtype)
 
     with tf.device(device_name):
         text = clean(load())
@@ -436,21 +486,30 @@ def main():
 
         # logdir = "logs/scalars/" + datetime.now().strftime("%Y%m%d-%H%M%S")
         logdir = "logs/scalars/{}".format(weights_name)
-        tensorboard_callback = tf.keras.callbacks.TensorBoard(log_dir=logdir, profile_batch=0)  # , histogram_freq=5,  write_images=True, embeddings_freq=5)
+        tensorboard_callback = tf.keras.callbacks.TensorBoard(
+            log_dir=logdir, profile_batch=0
+        )  # , histogram_freq=5,  write_images=True, embeddings_freq=5)
 
-        checkpoint = ModelCheckpoint('weights/'+weights_name, verbose=1, save_best_only=True)
+        checkpoint = ModelCheckpoint(
+            "weights/" + weights_name, verbose=1, save_best_only=True
+        )
 
         callbacks_list = [
             checkpoint,
             tensorboard_callback,
             # hp.KerasCallback(logdir, hparams),
-            keras.callbacks.ReduceLROnPlateau(patience=30, factor=0.5, verbose=1, min_delta=0.0001),
-            keras.callbacks.EarlyStopping(patience=100, verbose=1, restore_best_weights=True)
+            keras.callbacks.ReduceLROnPlateau(
+                patience=30, factor=0.5, verbose=1, min_delta=0.0001
+            ),
+            keras.callbacks.EarlyStopping(
+                patience=100, verbose=1, restore_best_weights=True
+            ),
         ]
 
         with tf.summary.create_file_writer("logs/hparam_tuning").as_default():
             hp.hparams_config(
-                hparams=[HP_DROPOUT, HP_HEIGHT, HP_WINDOW], metrics=[hp.Metric(METRIC_ACCURACY, display_name="Accuracy")],
+                hparams=[HP_DROPOUT, HP_HEIGHT, HP_WINDOW],
+                metrics=[hp.Metric(METRIC_ACCURACY, display_name="Accuracy")],
             )
 
         # model = make_model(hparams)
@@ -458,7 +517,7 @@ def main():
         model = make_model(hparams)
         model.summary()
         try:
-            model.load_weights('weights/'+weights_name)
+            model.load_weights("weights/" + weights_name)
             print("Loaded weights.")
         except:
             print("Failed to load weights.")
@@ -494,25 +553,25 @@ def main():
         # print("Training:")
         # (ciphers, labels, keys) = samples(text, training_size, l)
         # print(model.fit(ciphers, [labels, keys],
-#        for epoch, (x, y) in enumerate(makeEpochs(mtext, l, 1/60)):
-#           print(f"My epoch: {epoch}")
+        #        for epoch, (x, y) in enumerate(makeEpochs(mtext, l, 1/60)):
+        #           print(f"My epoch: {epoch}")
         if True:
-           model.fit(
-               x=TwoTimePadSequence(l, 10 ** 4 // 32, mtext),
-               # x = x, y = y,
-               steps_per_epoch=10 ** 4 // 32,
-               max_queue_size=10**3,
-               # initial_epoch=epoch,
-               # epochs=epoch+1,
-               # validation_split=0.1,
-               validation_data=TwoTimePadSequence(l, 2*10 ** 3 // 32, mtext),
-               epochs=100_000,
-               callbacks=callbacks_list,
-               # batch_size=batch_size,
-               verbose=1,
-               # workers=8,
-               # use_multiprocessing=True,
-           )
+            model.fit(
+                x=TwoTimePadSequence(l, 10 ** 4 // 32, mtext),
+                # x = x, y = y,
+                steps_per_epoch=10 ** 4 // 32,
+                max_queue_size=10 ** 3,
+                # initial_epoch=epoch,
+                # epochs=epoch+1,
+                # validation_split=0.1,
+                validation_data=TwoTimePadSequence(l, 2 * 10 ** 3 // 32, mtext),
+                epochs=100_000,
+                callbacks=callbacks_list,
+                # batch_size=batch_size,
+                verbose=1,
+                # workers=8,
+                # use_multiprocessing=True,
+            )
         # (ciphers_t, labels_t, keys_t) = samples(text, 1000, l)
         # print("Eval:")
         # model.evaluate(TwoTimePadSequence(l, 10**4))
