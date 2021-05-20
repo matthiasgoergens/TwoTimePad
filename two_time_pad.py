@@ -11,45 +11,45 @@ from pprint import pprint
 
 import numpy as np
 import tensorflow as tf
+import tensorflow_addons as tfa
+from tensorboard.plugins.hparams import api as hp
+from tensorflow import keras
 
 # import tensorflow_addons as tfa
 from tensorflow.keras.callbacks import (
-    ModelCheckpoint,
-    TensorBoard,
-    ReduceLROnPlateau,
     EarlyStopping,
     LearningRateScheduler,
+    ModelCheckpoint,
+    ReduceLROnPlateau,
+    TensorBoard,
 )
-from tensorboard.plugins.hparams import api as hp
-from tensorflow import keras
 from tensorflow.keras.layers import (
     LSTM,
     Add,
     Average,
-    average,
     BatchNormalization,
     Bidirectional,
     Conv1D,
     Dense,
     Dropout,
-    GaussianDropout,
     Embedding,
     Flatten,
+    GaussianDropout,
     GlobalMaxPooling1D,
     Input,
+    Lambda,
+    Layer,
     MaxPooling1D,
     SeparableConv1D,
     SimpleRNN,
     Softmax,
     SpatialDropout1D,
     TimeDistributed,
+    average,
     concatenate,
-    Layer,
-    Lambda,
 )
 from tensorflow.keras.models import Model, Sequential
 from tensorflow_addons.layers import Maxout
-import tensorflow_addons as tfa
 
 device_name = tf.test.gpu_device_name()
 if device_name != "/device:GPU:0":
@@ -62,7 +62,6 @@ else:
 
 
 from tensorflow.keras.mixed_precision import experimental as mixed_precision
-
 
 np.set_printoptions(precision=4)
 
@@ -80,6 +79,7 @@ def nAccuracy(y_true, y_pred):
 
 def error(y_true, y_pred):
     return 1 - accuracy(y_true, y_pred)
+
 
 def sumError(y_true, y_pred):
     # raise TabError((y_true, y_pred))
@@ -167,12 +167,13 @@ def makeEpochs(mtext, window, ratio):
                     yy[i : i + training_size, :],
                 )
 
+
 class TwoTimePadSequence(keras.utils.Sequence):
     def _load(self):
         self.aa = tf.reshape(tf.random.shuffle(self.a), (-1, batch_size, self.window))
         self.bb = tf.reshape(tf.random.shuffle(self.b), (-1, batch_size, self.window))
 
-        self.key = tf.random.uniform(shape=self.aa.shape, maxval=46, dtype='int32')
+        self.key = tf.random.uniform(shape=self.aa.shape, maxval=46, dtype="int32")
 
         if self.extra_key:
             self.cipherA = (self.aa + self.key) % 46
@@ -217,16 +218,16 @@ class TwoTimePadSequence(keras.utils.Sequence):
                     (
                         self.aa[i, :, :],
                         self.bb[i, :, :],
-                        tf.zeros(
-                            (batch_size, self.window), dtype=tf.dtypes.float32
-                        ),
+                        tf.zeros((batch_size, self.window), dtype=tf.dtypes.float32),
                     ),
                 )
             else:
                 # return (self.cipherA[i, :, :], ), (self.aa[i, :, :], self.bb[i, :, :])
                 return (self.cipherA[i, :, :],), (self.aa[i, :, :],)
 
-    def __init__(self, window, training_size, mtext, both=True, dev=False, extra_key=False):
+    def __init__(
+        self, window, training_size, mtext, both=True, dev=False, extra_key=False
+    ):
         self.a = make1(window, mtext)
         self.b = make1(window, mtext)
 
@@ -299,7 +300,7 @@ def cat(a, b):
         return concatenate([a, b])
 
 
-msra = tf.initializers.VarianceScaling(scale=1/10, distribution="truncated_normal")
+msra = tf.initializers.VarianceScaling(scale=1 / 10, distribution="truncated_normal")
 
 
 def sequential(*layers):
@@ -310,16 +311,18 @@ def sequential(*layers):
 
     return helper
 
+
 def justShift(tensors):
     clear, shifts = tensors
     r = tf.range(46)
-    
+
     r = tf.broadcast_to(r, tf.shape(clear))
     shifts = tf.broadcast_to(tf.expand_dims(shifts, -1), tf.shape(clear))
-    indices = (r -  shifts) % 46
+    indices = (r - shifts) % 46
 
     clearShift = tf.gather(clear, indices, batch_dims=2)
     return clearShift
+
 
 class JustShift(Layer):
     def call(self, tensors):
@@ -328,16 +331,20 @@ class JustShift(Layer):
 
 # TODO: I suspect something is still wrong with my shift function.  Test more!
 def ShiftLayer(clear, key, shifts):
-    clear = JustShift(dtype='float32')([clear, shifts])
+    clear = JustShift(dtype="float32")([clear, shifts])
 
     return abs(clear - key)
+
 
 # Resnet.
 def make_model_simple(hparams):
     n = hparams[HP_WINDOW]
     height = hparams[HP_HEIGHT]
     ic = lambda: Sequential(
-        [BatchNormalization(), SpatialDropout1D(rate=hparams[HP_DROPOUT]),]
+        [
+            BatchNormalization(),
+            SpatialDropout1D(rate=hparams[HP_DROPOUT]),
+        ]
     )
     sd = lambda: SpatialDropout1D(rate=hparams[HP_DROPOUT])
 
@@ -414,6 +421,7 @@ def make_model_simple(hparams):
     )
     return model
 
+
 def make_model_conv_res(hparams):
     n = hparams[HP_WINDOW]
     height = hparams[HP_HEIGHT]
@@ -444,7 +452,7 @@ def make_model_conv_res(hparams):
                     relu(),
                     # Maxout(base,
                     Conv1D(
-                        filters=base*blowup,
+                        filters=base * blowup,
                         kernel_size=width,
                         padding="same",
                         kernel_initializer=msra,
@@ -453,11 +461,11 @@ def make_model_conv_res(hparams):
             )
         else:
             return Conv1D(
-                        filters=base*blowup,
-                        kernel_size=width,
-                        padding="same",
-                        kernel_initializer=msra,
-                    )
+                filters=base * blowup,
+                kernel_size=width,
+                padding="same",
+                kernel_initializer=msra,
+            )
 
     convedA = embeddedA
     convedB = embeddedB
@@ -491,7 +499,7 @@ def make_model_conv_res(hparams):
     dev = ShiftLayer(clear, key, inputA)
     sdev = Layer(name="dev", dtype="float32")(tf.reduce_mean(dev))
     model.add_loss(sdev * deviation_weight)
-    model.add_metric(sdev, name="deviation", aggregation='mean')
+    model.add_metric(sdev, name="deviation", aggregation="mean")
 
     model.compile(
         # optimizer=tf.optimizers.Adam(clipvalue=1),
@@ -507,8 +515,7 @@ def make_model_conv_res(hparams):
     return model
 
 
-
-#def make_model_conv(hparams):
+# def make_model_conv(hparams):
 #    n = hparams[HP_WINDOW]
 #    height = hparams[HP_HEIGHT]
 #    width = hparams[HP_max_kernel]
@@ -921,7 +928,12 @@ def make_model_recreate(hparams):
     print(embeddedA.dtype)
 
     def makeResNetNew(i, channels, _, size):
-        fanInput = Input(shape=(n, 4 * size,))
+        fanInput = Input(
+            shape=(
+                n,
+                4 * size,
+            )
+        )
         fan = concatenate(
             [
                 Conv1D(
@@ -966,7 +978,7 @@ def make_model_recreate(hparams):
             [
                 # Input(name=f"res_inputMe_{i}", shape=(n, channels,), dtype='float16'),
                 # SpatialDropout1D(rate=hparams[HP_DROPOUT]), # Not sure whether that's good.
-                TimeDistributed(BatchNormalization(name='bn1'), name='td1'),
+                TimeDistributed(BatchNormalization(name="bn1"), name="td1"),
                 relu(),
                 Conv1D(
                     filters=4 * size,
@@ -1019,23 +1031,19 @@ def make_model_recreate(hparams):
     pre_clear = make_end(convedA)
     pre_key = make_end(convedB)
 
-    clear = Layer(name="clear", dtype="float32")(
-            pre_clear)
-        # 0.9 * pre_clear + 0.1 *
-        #     JustShift(dtype='float32')([
-        #         pre_key,
-        #         inputB,
-        #         ]))
+    clear = Layer(name="clear", dtype="float32")(pre_clear)
+    # 0.9 * pre_clear + 0.1 *
+    #     JustShift(dtype='float32')([
+    #         pre_key,
+    #         inputB,
+    #         ]))
 
-    key = Layer(name="key", dtype="float32")(
-            pre_key)
-        # 0.9 * pre_key + 0.1 *
-        #     JustShift(dtype='float32')([
-        #         pre_clear,
-        #         inputA,
-        #         ]))
-
-   
+    key = Layer(name="key", dtype="float32")(pre_key)
+    # 0.9 * pre_key + 0.1 *
+    #     JustShift(dtype='float32')([
+    #         pre_clear,
+    #         inputA,
+    #         ]))
 
     model = Model([inputA, inputB], [clear, key])
 
@@ -1043,14 +1051,13 @@ def make_model_recreate(hparams):
     # sdev = Layer(name="dev", dtype="float32")(tf.reduce_mean(dev))
     # model.add_metric(sdev, name="deviation", aggregation='mean')
 
-
     model.compile(
         optimizer=tf.optimizers.Adam(),
         # optimizer=tf.optimizers.SGD(momentum=0.9, nesterov=True),
         # optimizer=tf.optimizers.SGD(lr=0.01, decay=1e-6, momentum=0.0), # momentum=0.9, nesterov=True),
         # optimizer=tfa.optimizers.AdamW(),
         loss=tf.keras.losses.SparseCategoricalCrossentropy(from_logits=True),
-        loss_weights={"clear": 1/2, "key": 1/2},
+        loss_weights={"clear": 1 / 2, "key": 1 / 2},
         metrics=[error],
     )
     return model
@@ -1065,7 +1072,7 @@ hparams = {
     ## Idea: skip the first few short columns in the fractal.
     # HP_SKIP_HEIGH: 3,
     HP_WINDOW: l,
-    HP_resSize: round_to(10*46, 4),
+    HP_resSize: round_to(10 * 46, 4),
     HP_blowup: 1,
     HP_max_kernel: 5,
     HP_deviation_as_loss: 0.0,
@@ -1101,7 +1108,9 @@ def main():
         # logdir = "logs/scalars/" + datetime.now().strftime("%Y%m%d-%H%M%S")
         logdir = "logs/scalars/{}".format(weights_name)
         tensorboard_callback = TensorBoard(
-            log_dir=logdir, update_freq=50_000, profile_batch=0,
+            log_dir=logdir,
+            update_freq=50_000,
+            profile_batch=0,
         )
 
         checkpoint = ModelCheckpoint(
@@ -1111,10 +1120,9 @@ def main():
         def schedule(epoch):
             # TODO: Aso try SGD with momentum.
             # default = 0.001 # Adam
-            default = 0.01 # SGD
+            default = 0.01  # SGD
 
-
-            factor = 2**(epoch-7)
+            factor = 2 ** (epoch - 7)
             lr = factor * default
 
             print(
@@ -1218,7 +1226,9 @@ def main():
         if True:
             try:
                 model.fit(
-                    x=TwoTimePadSequence(l, 10 ** 2, mtext, both=True, dev=False, extra_key=True),
+                    x=TwoTimePadSequence(
+                        l, 10 ** 2, mtext, both=True, dev=False, extra_key=True
+                    ),
                     # x = x, y = y,
                     # steps_per_epoch=10 ** 4 // 32,
                     max_queue_size=10 ** 3,
@@ -1250,6 +1260,7 @@ def main():
     # Both-loss at minimum was ~.92 (so single ~0.46) and accuracy was ~86.2%
 
     # Dropout _after_ all BatchNorm is fine.  Especially drop out just before the end should help.
+
 
 # Base loss for one side:
 # log(46, 2)
