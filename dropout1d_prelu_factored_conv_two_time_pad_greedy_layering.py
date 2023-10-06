@@ -12,321 +12,355 @@ Original file is located at
 import tensorflow as tf
 
 if True:
-  import pathlib
-  import re
+    import functools as ft
+    import pathlib
+    import random
+    import re
+    from pprint import pprint
 
-  import tensorflow
-  import tensorflow as tf
-  from tensorflow import keras
+    import numpy as np
+    import tensorflow
+    import tensorflow as tf
+    from tensorflow import keras
 
+    # Train with longer later.
+    # n = 25
+    # n = 50
 
-  import pathlib
-  import numpy as np
-  import random
-  from pprint import pprint
-  import functools as ft
+    np.set_printoptions(precision=4)
 
-  # Train with longer later.
-  # n = 25
-  # n = 50
+    # Idea:
+    # Load corpus, and clean, convert into numbers
+    # Repeatedly:
+    #   create a batch of data
+    #   train
+    #   Optional: show current results.
 
-  np.set_printoptions(precision=4)
+    alpha = " ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789.?,-:;'()".lower()
+    alphaRE = alpha.replace("-", "\\-")
 
+    assert len(alpha) == 46
 
-  # Idea:
-  # Load corpus, and clean, convert into numbers
-  # Repeatedly:
-  #   create a batch of data
-  #   train
-  #   Optional: show current results.
+    def load():
+        text = " ".join(
+            f.open("r").read() for f in pathlib.Path("data").glob("*.txt")
+        ).lower()
+        text = re.sub("\s+", " ", text)
+        text = re.sub(f"[^{alphaRE}]", "", text)
+        return text
 
-  alpha =    " ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789.?,-:;'()".lower()
-  alphaRE = alpha.replace("-","\\-")
+    def add(clear, key):
+        return [(a + b) % len(alpha) for a, b in zip(clear, key)]
 
-  assert len(alpha) == 46
+    def sub(cipher, key):
+        return [(a - b) % len(alpha) for a, b in zip(cipher, key)]
 
-  def load():
-    text = ' '.join(f.open('r').read() for f in pathlib.Path('data').glob('*.txt')).lower()
-    text = re.sub('\s+', ' ', text)
-    text = re.sub(f'[^{alphaRE}]', '', text)
-    return text
+    def clean(text):
+        t = {c: i for i, c in enumerate(alpha)}
+        return [t[c] for c in text]
 
-  def add(clear, key):
-    return [(a+b) % len(alpha) for a, b in zip(clear, key)]
+    def toChar(numbers):
+        return "".join(alpha[i] for i in numbers)
 
-  def sub(cipher, key):
-    return [(a-b) % len(alpha) for a, b in zip(cipher, key)]
+    # toChar
+    # (5, 125, 46)
+    def toChars(tensor):
+        (linesNums, charNum, alphaNum) = tensor.shape
+        output = []
+        # TODO: use gather https://www.tensorflow.org/api_docs/python/tf/gather?version=stable
+        assert alphaNum == len(alpha)
+        for lineNum in range(linesNums):
+            chars = []
+            for cN in range(charNum):
+                (_, char) = max(
+                    [
+                        (tensor[lineNum, cN, alphaN], alphaN)
+                        for alphaN in range(alphaNum)
+                    ]
+                )
+                chars.append(char)
+            output.append(toChar(chars))
+        return output
 
-  def clean(text):
-    t = {c: i for i, c in enumerate(alpha)}
-    return [t[c] for c in text]
+    def toChars_labels(labels):
+        (linesNums, charNum) = labels.shape
+        output = []
+        for lineNum in range(linesNums):
+            chars = []
+            for cN in range(charNum):
+                chars.append(labels[lineNum, cN])
+            output.append(toChar(chars))
+        return output
 
-  def toChar(numbers):
-    return ''.join(alpha[i] for i in numbers)
+    def prepare(clear, key):
+        assert len(clear) == len(key), (clear, key)
 
-  # toChar
-  # (5, 125, 46)
-  def toChars(tensor):
-    (linesNums, charNum, alphaNum) = tensor.shape
-    output = []
-    # TODO: use gather https://www.tensorflow.org/api_docs/python/tf/gather?version=stable
-    assert alphaNum == len(alpha)
-    for lineNum in range(linesNums):
-      chars = []
-      for cN in range(charNum):
-        (_, char) = max([(tensor[lineNum, cN, alphaN], alphaN) for alphaN in range(alphaNum)])
-        chars.append(char)
-      output.append(toChar(chars))
-    return output
+        depth = len(alpha)
 
-  def toChars_labels(labels):
-    (linesNums, charNum) = labels.shape
-    output = []
-    for lineNum in range(linesNums):
-      chars = []
-      for cN in range(charNum):
-        chars.append(labels[lineNum, cN])
-      output.append(toChar(chars))
-    return output
+        # label = clear[len(clear)//2:len(clear)//2+1]
+        cipher = sub(clear, key)
+        return (cipher, clear)
 
+    def sample(text, l):
+        start = random.randrange(len(text) - l)
+        return text[start : start + l]
 
-  def prepare(clear, key):
-    assert len(clear) == len(key), (clear, key)
+    def samples(text, batch_size, l):
+        ciphers = []
+        keys = []
+        labels = []
+        for _ in range(batch_size):
+            clear = sample(text, l)
+            key = sample(text, l)
 
-    depth = len(alpha)
+            (cipher, label) = prepare(clear, key)
+            # print(toChar(clear))
+            # print(toChar(key))
+            # print(toChar(add(clear, key)))
+            # print(toChar(sub(add(clear, key), key)))
+            ciphers.append(cipher)
+            labels.append(label)
+            keys.append(key)
+        one_hot_ciphers = tf.convert_to_tensor(ciphers)
+        one_hot_labels = tf.convert_to_tensor(labels)
+        one_hot_keys = tf.convert_to_tensor(keys)
+        # print(one_hot_ciphers.shape)
+        # print(one_hot_labels.shape)
+        # print(len(one_hot_labels))
+        return (one_hot_ciphers, one_hot_labels, one_hot_keys)
 
-    # label = clear[len(clear)//2:len(clear)//2+1]
-    cipher = sub(clear, key)
-    return (cipher, clear)
+    # relu = keras.activations.relu # (alpha=0.1)
+    # relu = ft.partial(keras.layers.LeakyReLU, alpha=0.1)
+    relu = tf.keras.layers.PReLU
+    # keras.layers.Embedding
 
+    import tensorflow_addons as tfa
+    from tensorflow.keras.layers import (
+        LSTM,
+        Bidirectional,
+        Conv1D,
+        Dense,
+        Dropout,
+        Embedding,
+        Flatten,
+        GlobalMaxPooling1D,
+        Input,
+        MaxPooling1D,
+        SeparableConv1D,
+        SimpleRNN,
+        Softmax,
+        concatenate,
+    )
+    from tensorflow.keras.models import Model, Sequential
 
-  def sample(text, l):
-    start = random.randrange(len(text) - l)
-    return text[start:start+l]
+    batch_size = 32
 
-  def samples(text, batch_size, l):
-    ciphers = []
-    keys = []
-    labels = []
-    for _ in range(batch_size):
-      clear = sample(text, l)
-      key = sample(text, l)
+    Maxout = tfa.layers.Maxout
 
-      (cipher, label) = prepare(clear, key)
-      # print(toChar(clear))
-      # print(toChar(key))
-      # print(toChar(add(clear, key)))
-      # print(toChar(sub(add(clear, key), key)))
-      ciphers.append(cipher)
-      labels.append(label)
-      keys.append(key)
-    one_hot_ciphers = tf.convert_to_tensor(ciphers)
-    one_hot_labels = tf.convert_to_tensor(labels)
-    one_hot_keys = tf.convert_to_tensor(keys)
-    # print(one_hot_ciphers.shape)
-    # print(one_hot_labels.shape)
-    # print(len(one_hot_labels))
-    return (one_hot_ciphers,
-          one_hot_labels,
-          one_hot_keys)
-
-  # relu = keras.activations.relu # (alpha=0.1)
-  # relu = ft.partial(keras.layers.LeakyReLU, alpha=0.1)
-  relu = tf.keras.layers.PReLU
-  # keras.layers.Embedding
-
-  from tensorflow.keras.layers import Embedding, Input, Dense, Dropout, Softmax, GlobalMaxPooling1D, MaxPooling1D, Conv1D, Flatten, concatenate, Bidirectional, LSTM, SimpleRNN, SeparableConv1D
-  from tensorflow.keras.models import Sequential, Model
-  import tensorflow_addons as tfa
-
-  batch_size = 32
-
-  Maxout = tfa.layers.Maxout
 
 def make_model(n, layers):
     # Not sure if lambda is necessary to not share weights?
 
-    my_input = Input(shape=(n,), dtype='int32', name="ciphertext")
-    embedded = (
-      (
-      Embedding(output_dim=len(alpha), input_dim=len(alpha), name="my_embedding",
+    my_input = Input(shape=(n,), dtype="int32", name="ciphertext")
+    embedded = Embedding(
+        output_dim=len(alpha),
+        input_dim=len(alpha),
+        name="my_embedding",
         batch_input_shape=[batch_size, n],
-      )(
-      my_input
-    )))
+    )(my_input)
 
     ## Best loss without conv at all was 4.5
     ## With one conv we are getting validation loss of 3.5996 quickly (at window size 30); best was ~3.3
     ## So adding another conv and lstm. val loss after first epoch about 3.3
     conved = embedded
     for i, _ in enumerate([9, 3, 3, 3, 9, 3, 3, 3][:layers]):
-      name = str(i)
-      short_kernel = 3 if i > 0 else 9
+        name = str(i)
+        short_kernel = 3 if i > 0 else 9
 
-      short = relu(name=name+'_prelu_short')(
-        SeparableConv1D(
-          name=f'{name}_conv_k{3}',
-          filters=2 * 3*46, kernel_size=short_kernel,
-          padding='same', strides=1)(
-            conved
-        ))
-      long = relu(name=name+'_prelu_long')(
-        SeparableConv1D(
-          name=f'{name}_conv_k{9}',
-          filters=2 * 3*46, kernel_size=9,
-          padding='same', strides=1)(
-            conved
-        ))
-      conved = (
-        concatenate([short, long]))
+        short = relu(name=name + "_prelu_short")(
+            SeparableConv1D(
+                name=f"{name}_conv_k{3}",
+                filters=2 * 3 * 46,
+                kernel_size=short_kernel,
+                padding="same",
+                strides=1,
+            )(conved)
+        )
+        long = relu(name=name + "_prelu_long")(
+            SeparableConv1D(
+                name=f"{name}_conv_k{9}",
+                filters=2 * 3 * 46,
+                kernel_size=9,
+                padding="same",
+                strides=1,
+            )(conved)
+        )
+        conved = concatenate([short, long])
     last_conv = conved
 
-    gather_name = ''
-    totes_clear = (
-      (Conv1D(
-        filters=len(alpha), kernel_size=1,
-        padding='same', strides=1, name="clear" + gather_name,
-        activation='softmax')(
-      last_conv
-    )))
-    totes_key = (
-      (Conv1D(
-        filters=len(alpha), kernel_size=1,
-        padding='same', strides=1, name="key" + gather_name,
-        activation='softmax')(
-      last_conv
-    )))
+    gather_name = ""
+    totes_clear = Conv1D(
+        filters=len(alpha),
+        kernel_size=1,
+        padding="same",
+        strides=1,
+        name="clear" + gather_name,
+        activation="softmax",
+    )(last_conv)
+    totes_key = Conv1D(
+        filters=len(alpha),
+        kernel_size=1,
+        padding="same",
+        strides=1,
+        name="key" + gather_name,
+        activation="softmax",
+    )(last_conv)
     model = Model([my_input], [totes_clear, totes_key])
 
     model.compile(
-      optimizer='adam',
-      # optimizer=keras.optimizers.SGD,
-      loss='sparse_categorical_crossentropy',
-      metrics=['accuracy'])
+        optimizer="adam",
+        # optimizer=keras.optimizers.SGD,
+        loss="sparse_categorical_crossentropy",
+        metrics=["accuracy"],
+    )
     return model
 
-weights_name = 'all-factored-conv-var.h5'
+
+weights_name = "all-factored-conv-var.h5"
 
 batch_size = 32
 text = clean(load())
 
+
 class TwoTimePadSequence(keras.utils.Sequence):
-  def on_epoch_end(self):
-    print("Epoch {self.epochs} ended.")
-    self.epochs += 1
-  def __len__(self):
-    return self.training_size // batch_size
-  def __getitem__(self, idx):
-    (ciphers_p, labels_p, keys_p) = samples(text, batch_size, self.window)
-    return ciphers_p, [labels_p, keys_p]
-  def __init__(self, window, training_size):
-    self.epochs = 0
-    self.training_size =  (training_size // batch_size) * batch_size
-    self.window = window
+    def on_epoch_end(self):
+        print("Epoch {self.epochs} ended.")
+        self.epochs += 1
+
+    def __len__(self):
+        return self.training_size // batch_size
+
+    def __getitem__(self, idx):
+        (ciphers_p, labels_p, keys_p) = samples(text, batch_size, self.window)
+        return ciphers_p, [labels_p, keys_p]
+
+    def __init__(self, window, training_size):
+        self.epochs = 0
+        self.training_size = (training_size // batch_size) * batch_size
+        self.window = window
+
 
 import sys
+from datetime import datetime
 
 # test_size = 2 * 10**3
 
 
-from datetime import datetime
 logdir = "logs/scalars/" + datetime.now().strftime("%Y%m%d-%H%M%S")
 tensorboard_callback = keras.callbacks.TensorBoard(log_dir=logdir)
 
 from keras.callbacks import *
+
 checkpoint = ModelCheckpoint(weights_name, verbose=1, save_best_only=False)
 
-callbacks_list = [checkpoint,
-                  keras.callbacks.ReduceLROnPlateau(patience=3, factor=0.5, verbose=1),
-                  keras.callbacks.EarlyStopping(patience=100, verbose=1, restore_best_weights=True)]
+callbacks_list = [
+    checkpoint,
+    keras.callbacks.ReduceLROnPlateau(patience=3, factor=0.5, verbose=1),
+    keras.callbacks.EarlyStopping(patience=100, verbose=1, restore_best_weights=True),
+]
 
 if True:
 
-  # Starting from higher.
-  import sys
-  # l = int(sys.argv[1])
-  l = 100
-  # l = window_size
+    # Starting from higher.
+    import sys
+
+    # l = int(sys.argv[1])
+    l = 100
+    # l = window_size
+
 
 def cipher_for_predict():
     # remove eol
-    c1 = clean(open('TwoTimePad/examples/ciphertext-1.txt', 'r').read().lower()[:-1])
+    c1 = clean(open("TwoTimePad/examples/ciphertext-1.txt", "r").read().lower()[:-1])
     # print(c1)
-    c2 = clean(open('TwoTimePad/examples/ciphertext-2.txt', 'r').read().lower()[:-1])
+    c2 = clean(open("TwoTimePad/examples/ciphertext-2.txt", "r").read().lower()[:-1])
     # print(c2)
     return tf.convert_to_tensor([sub(c1, c2)])
+
 
 # l = 1 # Already trained on the shorter ones
 import itertools as it
 
 l = 50
 if True:
-  for try_layers in range(9):
-    model = make_model(l, try_layers)
-    try:
-      model.load_weights(weights_name)
-      print(f"Loaded weights. trying layers: {try_layers}")
-      layers = try_layers
-      break
-    except Exception:
-      print(f"Failed to load weights. layers: {try_layers}")
-  else:
-    # We failed, so starting from 0.
-    layers = 7
-  print(f"layers: {layers}")
-  for layers in range(layers, 8):
-    model = make_model(l, layers)
-    try:
-      model.load_weights(weights_name, by_name=True)
-      print("Loaded weights.")
-    except:
-      print("Failed to load weights.")
-      # raise
-    model.summary()
-    #for i in range(10*(layers+1)):
+    for try_layers in range(9):
+        model = make_model(l, try_layers)
+        try:
+            model.load_weights(weights_name)
+            print(f"Loaded weights. trying layers: {try_layers}")
+            layers = try_layers
+            break
+        except Exception:
+            print(f"Failed to load weights. layers: {try_layers}")
+    else:
+        # We failed, so starting from 0.
+        layers = 7
+    print(f"layers: {layers}")
+    for layers in range(layers, 8):
+        model = make_model(l, layers)
+        try:
+            model.load_weights(weights_name, by_name=True)
+            print("Loaded weights.")
+        except:
+            print("Failed to load weights.")
+            # raise
+        model.summary()
+        # for i in range(10*(layers+1)):
 
-    text = clean(load())
-    print(f"text size: {len(text):,}\tlayers: {layers}")
-    print(f"Window length: {l}")
+        text = clean(load())
+        print(f"text size: {len(text):,}\tlayers: {layers}")
+        print(f"Window length: {l}")
 
-    print("Training:")
-    # (ciphers, labels, keys) = samples(text, training_size, l)
-    # print(model.fit(ciphers, [labels, keys],
-    print(model.fit(x=TwoTimePadSequence(l, 10**5),
-              max_queue_size=1000,
-              epochs=1000+layers, # Excessively long.  But early stopping should rescue us.
-              validation_data=TwoTimePadSequence(l, 2*10**4),
-              callbacks=callbacks_list))
-    #(ciphers_t, labels_t, keys_t) = samples(text, 1000, l)
-    #print("Eval:")
-    #model.evaluate(TwoTimePadSequence(l, 10**4))
-    model.save(f"{weights_name}_layers_{layers}")
+        print("Training:")
+        # (ciphers, labels, keys) = samples(text, training_size, l)
+        # print(model.fit(ciphers, [labels, keys],
+        print(
+            model.fit(
+                x=TwoTimePadSequence(l, 10 ** 5),
+                max_queue_size=1000,
+                epochs=1000
+                + layers,  # Excessively long.  But early stopping should rescue us.
+                validation_data=TwoTimePadSequence(l, 2 * 10 ** 4),
+                callbacks=callbacks_list,
+            )
+        )
+        # (ciphers_t, labels_t, keys_t) = samples(text, 1000, l)
+        # print("Eval:")
+        # model.evaluate(TwoTimePadSequence(l, 10**4))
+        model.save(f"{weights_name}_layers_{layers}")
 
-    print("Predict:")
-    predict_size = 3
-    
-    # ita_cipher = cipher_for_predict()
-    # [ita_label, ita_key] = model.predict(ita_cipher)
-    # print(toChars_labels(ita_cipher))
-    #pprint(toChars(ita_label)[:1000])
-    #pprint(toChars(ita_key)[:1000])
+        print("Predict:")
+        predict_size = 3
 
-    (ciphers_p, labels_p, keys_p) = samples(text, predict_size, l)
-    [pred_label, pred_key] = model.predict(ciphers_p)
-    # clear, key, prediction
-    pprint(list(zip(
-        toChars_labels(ciphers_p),
+        # ita_cipher = cipher_for_predict()
+        # [ita_label, ita_key] = model.predict(ita_cipher)
+        # print(toChars_labels(ita_cipher))
+        # pprint(toChars(ita_label)[:1000])
+        # pprint(toChars(ita_key)[:1000])
 
-        toChars_labels(labels_p),
-        toChars(pred_label),
-
-        toChars_labels(keys_p),
-        toChars(pred_key),
-
-        predict_size * [l * " "]
-        )),
-      # width=250
-      )
-
-
-
+        (ciphers_p, labels_p, keys_p) = samples(text, predict_size, l)
+        [pred_label, pred_key] = model.predict(ciphers_p)
+        # clear, key, prediction
+        pprint(
+            list(
+                zip(
+                    toChars_labels(ciphers_p),
+                    toChars_labels(labels_p),
+                    toChars(pred_label),
+                    toChars_labels(keys_p),
+                    toChars(pred_key),
+                    predict_size * [l * " "],
+                )
+            ),
+            # width=250
+        )
