@@ -951,23 +951,22 @@ def make_model_recreate(hparams):
             [
                 # Input(name=f"res_inputMe_{i}", shape=(n, channels,), dtype='float16'),
                 # SpatialDropout1D(rate=hparams[HP_DROPOUT]), # Not sure whether that's good.
-                # TimeDistributed(BatchNormalization(name='bn1'), name='td1'),
-                Layer(),
-                # relu(),
-                # Conv1D(
-                #     filters=4 * size,
-                #     kernel_size=1,
-                #     padding="same",
-                #     kernel_initializer=msra,
-                # ),
-                # # TimeDistributed(BatchNormalization(name='bn2'), name='td2'),
-                # relu(),
-                # Conv1D(
-                #     filters=size,
-                #     kernel_size=width,
-                #     padding="same",
-                #     kernel_initializer=msra,
-                # ),
+                TimeDistributed(BatchNormalization(name='bn1'), name='td1'),
+                relu(),
+                Conv1D(
+                    filters=4 * size,
+                    kernel_size=1,
+                    padding="same",
+                    kernel_initializer=msra,
+                ),
+                # TimeDistributed(BatchNormalization(name='bn2'), name='td2'),
+                relu(),
+                Conv1D(
+                    filters=size,
+                    kernel_size=width,
+                    padding="same",
+                    kernel_initializer=msra,
+                ),
             ],
             name="resnet{}".format(i),
         )
@@ -978,6 +977,10 @@ def make_model_recreate(hparams):
         for i in range(1):
             catA = concatenate([convedA, convedB])
             catB = concatenate([convedB, convedA])
+
+            width = hparams[HP_max_kernel]
+            resNet = makeResNet(i, None, width, size)
+
             convedA, convedB = catA, catB
         return convedA, convedB
 
@@ -1041,7 +1044,7 @@ def make_model_recreate(hparams):
 l = 50
 hparams = {
     HP_DROPOUT: 0.0,
-    HP_HEIGHT: 1,
+    HP_HEIGHT: 20,
     HP_blocks: 1,
     HP_bottleneck: 46 * 5,
     ## Idea: skip the first few short columns in the fractal.
@@ -1055,7 +1058,7 @@ hparams = {
 
 weights_name = "recreate 90-to-10 sgd momentum 0.9 warmup batch64 - recompute7 checkpoint.h5"
 
-make_model = make_model_recreate
+make_model = make_model_conv_res
 
 
 def show():
