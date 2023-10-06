@@ -50,11 +50,11 @@ else:
 
 # Mixed precision
 # from tensorflow.keras.mixed_precision import experimental as mixed_precision
-policy = mixed_precision.Policy('mixed_float16')
+policy = mixed_precision.Policy("mixed_float16")
 mixed_precision.set_policy(policy)
 
-print('Compute dtype: %s' % policy.compute_dtype)
-print('Variable dtype: %s' % policy.variable_dtype)
+print("Compute dtype: %s" % policy.compute_dtype)
+print("Variable dtype: %s" % policy.variable_dtype)
 ###
 
 
@@ -102,7 +102,9 @@ def toChars(tensor):
     for lineNum in range(linesNums):
         chars = []
         for cN in range(charNum):
-            (_, char) = max([(tensor[lineNum, cN, alphaN], alphaN) for alphaN in range(alphaNum)])
+            (_, char) = max(
+                [(tensor[lineNum, cN, alphaN], alphaN) for alphaN in range(alphaNum)]
+            )
             chars.append(char)
         output.append(toChar(chars))
     return output
@@ -169,7 +171,12 @@ def round_to(x, n):
 def make1(window, text):
     (size,) = text.shape
     start = random.randrange(window)
-    return tf.reshape(tf.slice(text, [start], [round_to(size - window * batch_size, window * batch_size)]), (-1, window),)
+    return tf.reshape(
+        tf.slice(
+            text, [start], [round_to(size - window * batch_size, window * batch_size)]
+        ),
+        (-1, window),
+    )
 
 
 mtext = tf.convert_to_tensor(text)
@@ -240,7 +247,12 @@ def art():
                 yield (sample_idx,)
 
         def __new__(cls, num_samples=3):
-            return tf.data.Dataset.from_generator(cls._generator, output_types=tf.dtypes.int64, output_shapes=(1,), args=(num_samples,),)
+            return tf.data.Dataset.from_generator(
+                cls._generator,
+                output_types=tf.dtypes.int64,
+                output_shapes=(1,),
+                args=(num_samples,),
+            )
 
 
 def cipher_for_predict():
@@ -267,11 +279,23 @@ def make_model(hparams):
     inputB = -inputA % 46
     resSize = hparams[HP_resSize]
 
-    embedding = Embedding(output_dim=len(alpha), input_dim=len(alpha), name="my_embedding", batch_input_shape=[batch_size, n],)
+    embedding = Embedding(
+        output_dim=len(alpha),
+        input_dim=len(alpha),
+        name="my_embedding",
+        batch_input_shape=[batch_size, n],
+    )
 
     embeddedA = embedding(inputA)
     embeddedB = embedding(inputB)
-    make_end = Conv1D(name="output", filters=46, kernel_size=1, padding="same", strides=1, dtype='float32')
+    make_end = Conv1D(
+        name="output",
+        filters=46,
+        kernel_size=1,
+        padding="same",
+        strides=1,
+        dtype="float32",
+    )
 
     # clears = [make_end(embedded)]
     # keys = [make_end(embedded)]
@@ -283,30 +307,37 @@ def make_model(hparams):
     # Ideas: more nodes, no/lower dropout, only look for last layer for final loss.
     # nine layers is most likely overkill.
     def makeResNet(i, channels, width, size):
-        return Sequential([
-            Input(name="res_inputMe", shape=(n,channels,)),
-
-            Conv1D(filters=4*size, kernel_size=1, padding='same'),
-            # SpatialDropout1D(rate=hparams[HP_DROPOUT]), # Not sure whether that's good.
-            relu(),
-            TimeDistributed(BatchNormalization()),
-
-            Conv1D(filters=size, kernel_size=width, padding='same'),
-            relu(),
-            TimeDistributed(BatchNormalization()),
-            ], name="resnet{}".format(i))
-
+        return Sequential(
+            [
+                Input(
+                    name="res_inputMe",
+                    shape=(
+                        n,
+                        channels,
+                    ),
+                ),
+                Conv1D(filters=4 * size, kernel_size=1, padding="same"),
+                # SpatialDropout1D(rate=hparams[HP_DROPOUT]), # Not sure whether that's good.
+                relu(),
+                TimeDistributed(BatchNormalization()),
+                Conv1D(filters=size, kernel_size=width, padding="same"),
+                relu(),
+                TimeDistributed(BatchNormalization()),
+            ],
+            name="resnet{}".format(i),
+        )
 
     random.seed(42)
+
     def sample2(pop):
-        return random.sample(list(pop), len(pop)//2 + 1)
+        return random.sample(list(pop), len(pop) // 2 + 1)
 
     def make_block(convedA, convedB, block):
         convedAx = [convedA]
         convedBx = [convedB]
-        for i, (_) in enumerate(50*[None]):
-            width = 1 + 2*random.randrange(10)
-            convedA_, convedB_= zip(*sample2(list(zip(convedAx, convedBx))))
+        for i, (_) in enumerate(50 * [None]):
+            width = 1 + 2 * random.randrange(10)
+            convedA_, convedB_ = zip(*sample2(list(zip(convedAx, convedBx))))
             assert len(convedA_) == len(convedB_), (len(convedA_), len(convedB_))
             catA = concatenate([*convedA_, *convedB_])
             catB = concatenate([*convedB_, *convedA_])
@@ -314,7 +345,7 @@ def make_model(hparams):
             (_, _, num_channelsB) = catB.shape
             assert tuple(catA.shape) == tuple(catB.shape), (catA.shape, catB.shape)
             size = random.randrange(12, 46)
-            resNet = makeResNet(block*1000+i, num_channels, width, size)
+            resNet = makeResNet(block * 1000 + i, num_channels, width, size)
 
             convedAx.append(resNet(catA))
             convedBx.append(resNet(catB))
@@ -333,19 +364,21 @@ def make_model(hparams):
         catBx = concatenate(convedBx)
         assert tuple(catAx.shape) == tuple(catBx.shape), (catAx.shape, catBx.shape)
 
-        if True: # Only one block for nowe.
+        if True:  # Only one block for nowe.
             convedA = catAx
             convedB = catBx
             break
 
-
-        bottleneck = Conv1D(filters=4*46, kernel_size=1, padding='same')
+        bottleneck = Conv1D(filters=4 * 46, kernel_size=1, padding="same")
         batchnorm = TimeDistributed(BatchNormalization())
         relu_ = relu()
         convedA = bottleneck(relu_(batchnorm(catAx)))
         convedB = bottleneck(relu_(batchnorm(catBx)))
-        assert tuple(convedA.shape) == tuple(convedB.shape), (block, convedA.shape, convedB.shape)
-
+        assert tuple(convedA.shape) == tuple(convedB.shape), (
+            block,
+            convedA.shape,
+            convedB.shape,
+        )
 
     # lstm = Bidirectional(LSTM(4*46, return_sequences=True))
     # c = Conv1D(filters=resSize, kernel_size=1)
@@ -360,7 +393,9 @@ def make_model(hparams):
     model = Model([inputA], [totes_clear, totes_key])
 
     model.compile(
-        optimizer=tf.optimizers.Adam(), loss=tf.keras.losses.SparseCategoricalCrossentropy(from_logits=True), metrics=["accuracy"],
+        optimizer=tf.optimizers.Adam(),
+        loss=tf.keras.losses.SparseCategoricalCrossentropy(from_logits=True),
+        metrics=["accuracy"],
     )
     return model
 
@@ -381,26 +416,33 @@ def main():
 
     # logdir = "logs/scalars/" + datetime.now().strftime("%Y%m%d-%H%M%S")
     logdir = "logs/scalars/{}".format(weights_name)
-    tensorboard_callback = keras.callbacks.TensorBoard(log_dir=logdir)  # , histogram_freq=5,  write_images=True, embeddings_freq=5)
+    tensorboard_callback = keras.callbacks.TensorBoard(
+        log_dir=logdir
+    )  # , histogram_freq=5,  write_images=True, embeddings_freq=5)
 
-    checkpoint = ModelCheckpoint('weights/'+weights_name, verbose=1, save_best_only=True)
+    checkpoint = ModelCheckpoint(
+        "weights/" + weights_name, verbose=1, save_best_only=True
+    )
 
     callbacks_list = [
         checkpoint,
         tensorboard_callback,
         hp.KerasCallback(logdir, hparams),
-        keras.callbacks.ReduceLROnPlateau(patience=30, factor=0.5, verbose=1, min_delta=0.0001),
+        keras.callbacks.ReduceLROnPlateau(
+            patience=30, factor=0.5, verbose=1, min_delta=0.0001
+        ),
         # keras.callbacks.EarlyStopping(patience=100, verbose=1, restore_best_weights=True)
     ]
 
     with tf.summary.create_file_writer("logs/hparam_tuning").as_default():
         hp.hparams_config(
-            hparams=[HP_DROPOUT, HP_HEIGHT, HP_WINDOW], metrics=[hp.Metric(METRIC_ACCURACY, display_name="Accuracy")],
+            hparams=[HP_DROPOUT, HP_HEIGHT, HP_WINDOW],
+            metrics=[hp.Metric(METRIC_ACCURACY, display_name="Accuracy")],
         )
 
     with tf.device(device_name):
         try:
-            model = keras.models.load_model('weights/'+weights_name)
+            model = keras.models.load_model("weights/" + weights_name)
             print("Loaded weights.")
         except:
             model = make_model(hparams)
@@ -444,7 +486,7 @@ def main():
         model.fit(
             x=TwoTimePadSequence(l, 10 ** 4 // 32),
             steps_per_epoch=10 ** 4 // 32,
-            max_queue_size=10**3,
+            max_queue_size=10 ** 3,
             # initial_epoch=183,
             # epochs=epoch+1,
             # validation_split=0.1,
