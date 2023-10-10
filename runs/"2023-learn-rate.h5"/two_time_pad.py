@@ -286,7 +286,7 @@ def make_model_simple(hparams):
 
     model.compile(
         optimizer=tf.optimizers.Adam(learning_rate=0.001 / 2),
-        optimizer=tf.optimizers.Adam(),
+        # optimizer=tf.optimizers.Adam(),
         # optimizer=tf.keras.optimizers.experimental.Nadam(),
         loss=tf.keras.losses.SparseCategoricalCrossentropy(from_logits=True),
         # loss_weights={'clear': 1/2, 'key': 1/2},
