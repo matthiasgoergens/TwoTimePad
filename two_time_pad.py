@@ -11,7 +11,7 @@ from pprint import pprint
 
 import numpy as np
 import tensorflow as tf
-import tensorflow_addons as tfa
+# import tensorflow_addons as tfa
 from tensorboard.plugins.hparams import api as hp
 from tensorflow import keras
 
@@ -49,7 +49,7 @@ from tensorflow.keras.layers import (
     concatenate,
 )
 from tensorflow.keras.models import Model, Sequential
-from tensorflow_addons.layers import Maxout
+# from tensorflow_addons.layers import Maxout
 
 device_name = tf.test.gpu_device_name()
 if device_name != "/device:GPU:0":
@@ -61,7 +61,7 @@ else:
     print("Found GPU at: {}".format(device_name))
 
 
-from tensorflow.keras.mixed_precision import experimental as mixed_precision
+# from tensorflow.keras.mixed_precision import experimental as mixed_precision
 
 np.set_printoptions(precision=4)
 
@@ -175,12 +175,12 @@ class TwoTimePadSequence(keras.utils.Sequence):
 
         self.key = tf.random.uniform(shape=self.aa.shape, maxval=46, dtype="int32")
 
-        if self.extra_key:
-            self.cipherA = (self.aa + self.key) % 46
-            self.cipherB = (self.bb + self.key) % 46
-        else:
-            self.cipherA = (self.aa - self.bb) % 46
-            self.cipherB = (self.bb - self.aa) % 46
+        # if self.extra_key:
+        #     self.cipherA = (self.aa + self.key) % 46
+        #     self.cipherB = (self.bb + self.key) % 46
+        # else:
+        self.cipherA = (self.aa - self.bb) % 46
+        self.cipherB = (self.bb - self.aa) % 46
 
         self.size = self.aa.shape[0]
         self.items = iter(range(self.size))
@@ -201,13 +201,13 @@ class TwoTimePadSequence(keras.utils.Sequence):
             self._load()
             return self.__getitem__(idx)
         else:
-            if self.extra_key:
-                return (
-                    (self.cipherA[i, :, :], self.cipherB[i, :, :], self.key[i, :, :]),
-                    (self.aa[i, :, :], self.bb[i, :, :], self.key[i, :, :]),
-                )
+            # if self.extra_key:
+            #     return (
+            #         (self.cipherA[i, :, :], self.cipherB[i, :, :], self.key[i, :, :]),
+            #         (self.aa[i, :, :], self.bb[i, :, :], self.key[i, :, :]),
+            #     )
 
-            elif self.both and not self.dev:
+            if self.both and not self.dev:
                 return (
                     (self.cipherA[i, :, :], self.cipherB[i, :, :]),
                     (self.aa[i, :, :], self.bb[i, :, :]),
@@ -381,7 +381,7 @@ def make_model_simple(hparams):
             conved,
             Sequential(
                 [
-                    Maxout(base),
+                    relu(),
                     ic(),
                     Conv1D(
                         filters=blowup * base,
@@ -394,7 +394,7 @@ def make_model_simple(hparams):
         )
     make_end = lambda name: Sequential(
         [
-            Maxout(base),
+            relu(),
             ic(),
             Conv1D(
                 name="output",
@@ -627,7 +627,7 @@ def make_model_fractal(hparams):
             [
                 # Idea: parallel of different kernel sizes.  Will save on trainable params.
                 ic(),
-                Maxout(base),
+                relu(),
                 Conv1D(
                     filters=blowup * base,
                     kernel_size=width,
@@ -965,10 +965,10 @@ def make_model_recreate(hparams):
                 ),
                 # TODO: Might want to drop this intermediate batch norm?  So that dropout doesn't have too much impact on variance.
                 TimeDistributed(BatchNormalization()),
-                Maxout(4 * size),
+                relu(),
                 m,
                 TimeDistributed(BatchNormalization()),
-                Maxout(size),
+                relu(),
             ],
             name="resnet{}".format(i),
         )
@@ -1094,11 +1094,11 @@ def showOld():
 def main():
     # TODO: Actually set stuff to float16 only, in inference too.  Should use
     # less memory.
-    policy = mixed_precision.Policy("mixed_float16")
+    # policy = mixed_precision.Policy("mixed_float16")
     # policy = mixed_precision.Policy("float32")
-    mixed_precision.set_policy(policy)
-    print("Compute dtype: %s" % policy.compute_dtype)
-    print("Variable dtype: %s" % policy.variable_dtype)
+    # mixed_precision.set_policy(policy)
+    # print("Compute dtype: %s" % policy.compute_dtype)
+    # print("Variable dtype: %s" % policy.variable_dtype)
 
     with tf.device(device_name):
         text = clean(load())
@@ -1269,5 +1269,5 @@ def main():
 if __name__ == "__main__":
     if useGPU:
         main()
-    else:
-        show()
+    # else:
+    #     show()
