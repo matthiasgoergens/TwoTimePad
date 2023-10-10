@@ -315,7 +315,7 @@ def showOld():
     keras.models.load_model("weights/" + weights_name).summary()
 
 
-def main():
+def main(predict_only=False):
     # TODO: Actually set stuff to float16 only, in inference too.  Should use
     # less memory.
     # policy = mixed_precision.Policy("mixed_float16")
@@ -384,7 +384,10 @@ def main():
             pass
             # raise
 
-        if True:
+        if predict_only:
+            model.predict
+            raise NotImplementedError("Need to implement beam search, and loading of sample text.")
+        else:
             try:
                 num_data = 2 * 10 ** 4
                 model.fit(
@@ -430,6 +433,6 @@ def main():
 
 if __name__ == "__main__":
     if useGPU:
-        main()
+        main(predict_only=False)
     # else:
     #     show()
