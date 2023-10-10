@@ -293,7 +293,7 @@ def make_model_simple(hparams):
 
 l = 50
 hparams = {
-    HP_DROPOUT: 0,
+    HP_DROPOUT: 0.5,
     HP_HEIGHT: 30,
     HP_WINDOW: l,
     HP_blowup: 46*2,
