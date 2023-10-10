@@ -285,7 +285,7 @@ def make_model_simple(hparams):
     model = Model([inputA], [clear])
 
     model.compile(
-        optimizer=tf.optimizers.Adam(learning_rate=0.001 / 2),
+        optimizer=tf.optimizers.Adam(learning_rate=0.001 / 4),
         # optimizer=tf.optimizers.Adam(),
         # optimizer=tf.keras.optimizers.experimental.Nadam(),
         loss=tf.keras.losses.SparseCategoricalCrossentropy(from_logits=True),
