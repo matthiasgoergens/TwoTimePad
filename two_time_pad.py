@@ -397,9 +397,9 @@ def main(predict_only=False):
                     # initial_epoch=0,
                     # epochs=epoch+1,
                     # validation_split=0.1,
-                    # validation_data=TwoTimePadSequence(
-                    #     l, round_to(num_data // 10, batch_size), mtext,
-                    # ),
+                    validation_data=TwoTimePadSequence(
+                        l, round_to(num_data // 10, batch_size), mtext,
+                    ),
                     epochs=100_000,
                     callbacks=callbacks_list,
                     batch_size=batch_size,
