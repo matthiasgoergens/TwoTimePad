@@ -126,7 +126,7 @@ def toChars(tensor):
     return output
 
 
-batch_size = 128
+batch_size = 512
 
 
 def round_to(x, n):
@@ -143,32 +143,10 @@ def make1(window, text):
         (-1, window),
     )
 
-
-def makeEpochs(mtext, window, ratio):
-    while True:
-        x = make1(window, mtext)
-        y = make1(window, mtext)
-        (size, _) = x.shape
-        training_size = round(size * ratio)
-        for _ in range(100):
-            xx = tf.random.shuffle(x)
-            yy = tf.random.shuffle(y)
-            cipherX = (xx - yy) % 46
-            cipherY = (yy - xx) % 46
-            # Drop last epoch, it's probably not full.
-            for i in list(range(0, x.shape[0], training_size))[:-1]:
-                yield (
-                    cipherX[i : i + training_size, :],
-                    cipherY[i : i + training_size, :],
-                ), (
-                    xx[i : i + training_size, :],
-                    yy[i : i + training_size, :],
-                )
-
-
 class TwoTimePadSequence(keras.utils.Sequence):
     def _load(self):
-        self.aa = tf.reshape(tf.random.shuffle(self.a), (-1, batch_size, self.window))
+        self.a = make1(self.window, self.mtext)
+        self.aa = tf.reshape(self.a, (-1, batch_size, self.window))
 
         self.size = self.aa.shape[0]
         self.items = iter(range(self.size))
@@ -185,16 +163,16 @@ class TwoTimePadSequence(keras.utils.Sequence):
     def __getitem__(self, idx):
         i = next(self.items, None)
         # # Hack, because on_epoch_end doesn't seem to be called.
-        # if i is None:
-        #     self._load()
-        #     return self.__getitem__(idx)
-        # else:
-        return (self.aa[i, :, :-1], self.aa[i, :, -1])
+        if i is None:
+            self._load()
+            return self.__getitem__(idx)
+        else:
+            return (self.aa[i, :, :-1], self.aa[i, :, -1])
 
     def __init__(
         self, window, training_size, mtext, both=True, dev=False, extra_key=False
     ):
-        self.a = make1(window, mtext)
+        self.mtext = mtext
 
         self.epochs = 0
         self.training_size = training_size
@@ -214,7 +192,8 @@ HP_blowup = hp.HParam("blowup", hp.IntInterval(1, 11))
 
 METRIC_ACCURACY = "accuracy"
 
-relu = ft.partial(tf.keras.layers.PReLU, shared_axes=[1])
+# relu = ft.partial(tf.keras.layers.PReLU, shared_axes=[1])
+relu = tf.keras.layers.PReLU
 crelu = lambda: tf.nn.crelu
 
 
@@ -264,8 +243,6 @@ def sequential(*layers):
 
     return helper
 
-
-# Resnet.
 def make_model_simple(hparams):
     n = hparams[HP_WINDOW] - 1
     height = hparams[HP_HEIGHT]
@@ -273,7 +250,7 @@ def make_model_simple(hparams):
     # height = 4
 
     inputA = Input(shape=(n,), name="prefix", dtype="int32")
-    base = 46
+    base = 10
     embeddedA = Embedding(
         output_dim=base,
         input_length=n,
@@ -282,7 +259,8 @@ def make_model_simple(hparams):
         batch_input_shape=[batch_size, n],
     )(inputA)
 
-    outputs = Dropout(rate=hparams[HP_DROPOUT])(Flatten()(embeddedA))
+    outputs = Flatten()(embeddedA)
+    # outputs = Dropout(rate=hparams[HP_DROPOUT])(outputs)
     for i in range(height):
         outputs = cat(
             outputs,
@@ -291,14 +269,15 @@ def make_model_simple(hparams):
                     BatchNormalization(),
                     relu(),
                     Dense(blowup),
-                    Dropout(rate=hparams[HP_DROPOUT]),
+                    # Dropout(rate=hparams[HP_DROPOUT]),
                 ]
             )(outputs),
         )
     make_end = lambda name: Sequential(
         [
             relu(),
-            Dense(len(alpha))
+            Dropout(rate=hparams[HP_DROPOUT]),
+            Dense(len(alpha)),
         ],
         name=name,
     )
@@ -308,21 +287,22 @@ def make_model_simple(hparams):
     model.compile(
         # optimizer=tf.optimizers.Adam(learning_rate=1),
         optimizer=tf.optimizers.Adam(),
+        # optimizer=tf.keras.optimizers.experimental.Nadam(),
         loss=tf.keras.losses.SparseCategoricalCrossentropy(from_logits=True),
         # loss_weights={'clear': 1/2, 'key': 1/2},
         metrics=[nAccuracy],
     )
     return model
 
-l = 20
+l = 50
 hparams = {
-    HP_DROPOUT: 0.01,
-    HP_HEIGHT: 20,
+    HP_DROPOUT: 0.5,
+    HP_HEIGHT: 30,
     HP_WINDOW: l,
     HP_blowup: 46*2,
 }
 
-weights_name = "2023-flat-dropout-no-bn.h5"
+weights_name = "2023-flat-dropout-at-end-height-30-window-50-small-embedding-pure-prelu.h5"
 
 make_model = make_model_simple
 
@@ -406,10 +386,10 @@ def main():
 
         if True:
             try:
-                num_data = 10 ** 4
+                num_data = 2 * 10 ** 4
                 model.fit(
                     x=TwoTimePadSequence(
-                        l, num_data, mtext,
+                        l, round_to(num_data, batch_size), mtext,
                     ),
                     # x = x, y = y,
                     # steps_per_epoch=10 ** 4 // 32,
@@ -418,11 +398,11 @@ def main():
                     # epochs=epoch+1,
                     # validation_split=0.1,
                     validation_data=TwoTimePadSequence(
-                        l, num_data // 10, mtext,
+                        l, round_to(num_data // 10, batch_size), mtext,
                     ),
                     epochs=100_000,
                     callbacks=callbacks_list,
-                    # batch_size=batch_size,
+                    batch_size=batch_size,
                     verbose=1,
                 )
             except:
@@ -432,7 +412,7 @@ def main():
                 raise
 
     # Idea: we don't need the full 50% dropout regularization, because our input is already random.
-    # So try eg keeping 90% of units?  Just enough to punish big gross / small nettto co-adaptions.
+    # So try eg keeping 90% of units?  Just enough to punish big gross / small net co-adaptions.
 
     # But wow, this bigger network (twice as large as before) trains really well without dropout.  And no learning rate reduction, yet.
     # It's plateau-ing about ~2.54 loss at default learning rate after ~20 epoch.  (If I didn't miss a restart.)
