@@ -11,6 +11,7 @@ from pprint import pprint
 
 import numpy as np
 import tensorflow as tf
+# tf.config.threading.set_inter_op_parallelism_threads(0)
 from tensorboard.plugins.hparams import api as hp
 from tensorflow import keras
 
@@ -281,7 +282,7 @@ def make_model_simple(hparams):
         batch_input_shape=[batch_size, n],
     )(inputA)
 
-    outputs = Flatten()(embeddedA)
+    outputs = Dropout(rate=hparams[HP_DROPOUT])(Flatten()(embeddedA))
     for i in range(height):
         outputs = cat(
             outputs,
@@ -290,6 +291,7 @@ def make_model_simple(hparams):
                     BatchNormalization(),
                     relu(),
                     Dense(blowup),
+                    Dropout(rate=hparams[HP_DROPOUT]),
                 ]
             )(outputs),
         )
@@ -314,13 +316,13 @@ def make_model_simple(hparams):
 
 l = 20
 hparams = {
-    HP_DROPOUT: 0.0,
+    HP_DROPOUT: 0.01,
     HP_HEIGHT: 20,
     HP_WINDOW: l,
     HP_blowup: 46*2,
 }
 
-weights_name = "2023-flat.h5"
+weights_name = "2023-flat-dropout-no-bn.h5"
 
 make_model = make_model_simple
 
@@ -341,7 +343,6 @@ def main():
     # mixed_precision.set_policy(policy)
     # print("Compute dtype: %s" % policy.compute_dtype)
     # print("Variable dtype: %s" % policy.variable_dtype)
-
     with tf.device(device_name):
         text = clean(load())
         # mtext = tf.convert_to_tensor(text)
@@ -395,19 +396,20 @@ def main():
             print(weights_name)
             print("Loaded weights.")
         except:
-            raise
+            # raise
             model.save("weights/" + weights_name, include_optimizer=False)
             model.summary()
             print(weights_name)
             print("Failed to load weights.")
             pass
-            raise
+            # raise
 
         if True:
             try:
+                num_data = 10 ** 4
                 model.fit(
                     x=TwoTimePadSequence(
-                        l, 10 ** 4, mtext,
+                        l, num_data, mtext,
                     ),
                     # x = x, y = y,
                     # steps_per_epoch=10 ** 4 // 32,
@@ -415,9 +417,9 @@ def main():
                     # initial_epoch=0,
                     # epochs=epoch+1,
                     # validation_split=0.1,
-                    # validation_data=TwoTimePadSequence(
-                    #     l, 10 ** 3 // 32, mtext, both=True, dev=False
-                    # ),
+                    validation_data=TwoTimePadSequence(
+                        l, num_data // 10, mtext,
+                    ),
                     epochs=100_000,
                     callbacks=callbacks_list,
                     # batch_size=batch_size,
