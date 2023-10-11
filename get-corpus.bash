@@ -1,2 +1,2 @@
 #!/bin/bash
-cat $(find data/ -name '*.txt') > corpus.txt 
+find data/ -name '*.txt' -print0 | xargs -0 -- cat > corpus.txt 

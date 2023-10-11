@@ -132,6 +132,7 @@ batch_size = 512
 def round_to(x, n):
     return (x // n) * n
 
+msra = tf.initializers.VarianceScaling(scale=1 / 10, distribution="truncated_normal")
 
 def make1(window, text):
     (size,) = text.shape
