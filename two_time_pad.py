@@ -296,12 +296,12 @@ def make_model_simple(hparams):
 l = 50
 hparams = {
     HP_DROPOUT: 0,
-    HP_HEIGHT: 30,
+    HP_HEIGHT: 20,
     HP_WINDOW: l,
-    HP_blowup: 46*2,
+    HP_blowup: 46*3,
 }
 
-weights_name = "2023-bigger-corpus-validation-split-no-dropout.h5"
+weights_name = "2023-one-g-corpus-validation-split-no-dropout.h5"
 
 make_model = make_model_simple
 
