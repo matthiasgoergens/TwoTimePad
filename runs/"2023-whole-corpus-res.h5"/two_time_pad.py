@@ -12,6 +12,7 @@ import os
 
 import numpy as np
 import tensorflow as tf
+
 # tf.config.threading.set_inter_op_parallelism_threads(0)
 from tensorboard.plugins.hparams import api as hp
 from tensorflow import keras
@@ -127,8 +128,7 @@ def toChars(tensor):
         chars = []
         for cN in range(charNum):
             (_, char) = max(
-                [(tensor[lineNum, cN, alphaN], alphaN)
-                 for alphaN in range(alphaNum)]
+                [(tensor[lineNum, cN, alphaN], alphaN) for alphaN in range(alphaNum)]
             )
             chars.append(char)
         output.append(toChar(chars))
@@ -142,8 +142,7 @@ def round_to(x, n):
     return (x // n) * n
 
 
-msra = tf.initializers.VarianceScaling(
-    scale=1 / 10, distribution="truncated_normal")
+msra = tf.initializers.VarianceScaling(scale=1 / 10, distribution="truncated_normal")
 
 
 def make1(window, text):
@@ -151,8 +150,7 @@ def make1(window, text):
     start = random.randrange(window)
     return tf.reshape(
         tf.slice(
-            text, [start], [
-                round_to(size - window * batch_size, window * batch_size)]
+            text, [start], [round_to(size - window * batch_size, window * batch_size)]
         ),
         (-1, window),
     )
@@ -187,7 +185,9 @@ class TwoTimePadSequence(keras.utils.Sequence):
         return (self.aa[i, :, :-1], self.aa[i, :, -1])
 
     def __init__(
-        self, window, validation_split=1.0,
+        self,
+        window,
+        validation_split=1.0,
     ):
         self.loads = load(validation_split)
 
@@ -210,7 +210,10 @@ METRIC_ACCURACY = "accuracy"
 
 # relu = ft.partial(tf.keras.layers.PReLU, shared_axes=[1])
 relu = tf.keras.layers.PReLU
-def crelu(): return tf.nn.crelu
+
+
+def crelu():
+    return tf.nn.crelu
 
 
 def plus(a, b):
@@ -276,36 +279,27 @@ def make_model_simple(hparams):
     outputs = Flatten()(embeddedA)
     # outputs = Dropout(rate=hparams[HP_DROPOUT])(outputs)
     for i in range(height):
-        print(outputs.shape)
-        print(outputs.shape[-1])
+        normed = Sequential(
+            [
+                BatchNormalization(),
+                relu(),
+            ]
+        )(outputs)
         outputs = cat(
-            plus(outputs,
-                 Sequential(
-                     [
-                         BatchNormalization(),
-                         relu(),
-                         Dense(outputs.shape[-1]),
-                         # Dropout(rate=hparams[HP_DROPOUT]),
-                     ]
-                 )(outputs)),
-            Sequential(
-                [
-                    BatchNormalization(),
-                    relu(),
-                    Dense(blowup),
-                    # Dropout(rate=hparams[HP_DROPOUT]),
-                ]
-            )(outputs),
+            plus(outputs, Dense(outputs.shape[-1])(normed)),
+            Sequential(Dense(blowup)(outputs))(outputs),
         )
 
-    def make_end(name): return Sequential(
-        [
-            relu(),
-            Dropout(rate=hparams[HP_DROPOUT]),
-            Dense(len(alpha)),
-        ],
-        name=name,
-    )
+    def make_end(name):
+        return Sequential(
+            [
+                relu(),
+                Dropout(rate=hparams[HP_DROPOUT]),
+                Dense(len(alpha)),
+            ],
+            name=name,
+        )
+
     clear = make_end("predict")(outputs)
     model = Model([inputA], [clear])
 
@@ -410,7 +404,8 @@ def main(predict_only=False):
         if predict_only:
             model.predict
             raise NotImplementedError(
-                "Need to implement beam search, and loading of sample text.")
+                "Need to implement beam search, and loading of sample text."
+            )
         else:
             try:
                 # num_data = 2 * 10 ** 4
@@ -425,7 +420,8 @@ def main(predict_only=False):
                     # epochs=epoch+1,
                     # validation_split=0.1,
                     validation_data=TwoTimePadSequence(
-                        l, 0.05,
+                        l,
+                        0.05,
                     ),
                     epochs=100_000,
                     callbacks=callbacks_list,
@@ -434,8 +430,7 @@ def main(predict_only=False):
                 )
             except:
                 print("Saving model...")
-                model.save(
-                    f"weights/last_{weights_name}", include_optimizer=True)
+                model.save(f"weights/last_{weights_name}", include_optimizer=True)
                 print("Saved model.")
                 raise
 
