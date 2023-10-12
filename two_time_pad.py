@@ -286,7 +286,7 @@ def make_model_simple(hparams):
             ]
         )(outputs)
         outputs = cat(
-            avg([outputs, Dense(outputs.shape[-1])(normed)]),
+            plus(outputs, Dense(outputs.shape[-1])(normed)),
             Dense(blowup)(normed),
         )
 
