@@ -87,7 +87,7 @@ def sumError(y_true, y_pred):
     return output
 
 
-def load(validation_split = 1.0):
+def load(validation_split=1.0):
     while True:
         f = open("corpus.txt", "r")
         # About 128 MB
@@ -127,7 +127,8 @@ def toChars(tensor):
         chars = []
         for cN in range(charNum):
             (_, char) = max(
-                [(tensor[lineNum, cN, alphaN], alphaN) for alphaN in range(alphaNum)]
+                [(tensor[lineNum, cN, alphaN], alphaN)
+                 for alphaN in range(alphaNum)]
             )
             chars.append(char)
         output.append(toChar(chars))
@@ -140,17 +141,22 @@ batch_size = 512
 def round_to(x, n):
     return (x // n) * n
 
-msra = tf.initializers.VarianceScaling(scale=1 / 10, distribution="truncated_normal")
+
+msra = tf.initializers.VarianceScaling(
+    scale=1 / 10, distribution="truncated_normal")
+
 
 def make1(window, text):
     (size,) = text.shape
     start = random.randrange(window)
     return tf.reshape(
         tf.slice(
-            text, [start], [round_to(size - window * batch_size, window * batch_size)]
+            text, [start], [
+                round_to(size - window * batch_size, window * batch_size)]
         ),
         (-1, window),
     )
+
 
 class TwoTimePadSequence(keras.utils.Sequence):
     def _load(self):
@@ -171,7 +177,7 @@ class TwoTimePadSequence(keras.utils.Sequence):
         return self.aa.shape[0]
 
     def __getitem__(self, idx):
-        i = idx 
+        i = idx
         # i = next(self.items, None)
         # # Hack, because on_epoch_end doesn't seem to be called.
         # if i is None:
@@ -181,7 +187,7 @@ class TwoTimePadSequence(keras.utils.Sequence):
         return (self.aa[i, :, :-1], self.aa[i, :, -1])
 
     def __init__(
-        self, window, validation_split = 1.0,
+        self, window, validation_split=1.0,
     ):
         self.loads = load(validation_split)
 
@@ -204,7 +210,7 @@ METRIC_ACCURACY = "accuracy"
 
 # relu = ft.partial(tf.keras.layers.PReLU, shared_axes=[1])
 relu = tf.keras.layers.PReLU
-crelu = lambda: tf.nn.crelu
+def crelu(): return tf.nn.crelu
 
 
 def plus(a, b):
@@ -241,6 +247,7 @@ def cat(a, b):
     else:
         return concatenate([a, b])
 
+
 def sequential(*layers):
     def helper(last):
         for layer in layers:
@@ -248,6 +255,7 @@ def sequential(*layers):
         return last
 
     return helper
+
 
 def make_model_simple(hparams):
     n = hparams[HP_WINDOW] - 1
@@ -270,14 +278,14 @@ def make_model_simple(hparams):
     for i in range(height):
         outputs = cat(
             plus(outputs,
-                Sequential(
-                    [
-                        BatchNormalization(),
-                        relu(),
-                        Dense(outputs.shape[-1]),
-                        # Dropout(rate=hparams[HP_DROPOUT]),
-                    ]
-            )
+                 Sequential(
+                     [
+                         BatchNormalization(),
+                         relu(),
+                         Dense(outputs.shape[-1]),
+                         # Dropout(rate=hparams[HP_DROPOUT]),
+                     ]
+                 )),
             Sequential(
                 [
                     BatchNormalization(),
@@ -287,7 +295,8 @@ def make_model_simple(hparams):
                 ]
             )(outputs),
         )
-    make_end = lambda name: Sequential(
+
+    def make_end(name): return Sequential(
         [
             relu(),
             Dropout(rate=hparams[HP_DROPOUT]),
@@ -308,6 +317,7 @@ def make_model_simple(hparams):
         metrics=[nAccuracy],
     )
     return model
+
 
 l = 50
 hparams = {
@@ -397,7 +407,8 @@ def main(predict_only=False):
 
         if predict_only:
             model.predict
-            raise NotImplementedError("Need to implement beam search, and loading of sample text.")
+            raise NotImplementedError(
+                "Need to implement beam search, and loading of sample text.")
         else:
             try:
                 # num_data = 2 * 10 ** 4
@@ -421,7 +432,8 @@ def main(predict_only=False):
                 )
             except:
                 print("Saving model...")
-                model.save(f"weights/last_{weights_name}", include_optimizer=True)
+                model.save(
+                    f"weights/last_{weights_name}", include_optimizer=True)
                 print("Saved model.")
                 raise
 
