@@ -183,7 +183,6 @@ class TwoTimePadSequence(keras.utils.Sequence):
     def __init__(
         self, window, validation_split = 1.0,
     ):
-        self.mtext = mtext
         self.loads = load(validation_split)
 
         self.epochs = 0
