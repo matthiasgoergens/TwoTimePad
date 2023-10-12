@@ -287,7 +287,7 @@ def make_model_simple(hparams):
         )(outputs)
         outputs = cat(
             plus(outputs, Dense(outputs.shape[-1])(normed)),
-            Sequential(Dense(blowup)(outputs))(outputs),
+            Dense(blowup)(normed),
         )
 
     def make_end(name):
