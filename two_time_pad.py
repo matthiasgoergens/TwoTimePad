@@ -89,13 +89,14 @@ def sumError(y_true, y_pred):
 
 
 def load(validation_split=1.0):
+    # About 128 MB
+    size = round(validation_split * 128 * (1 << 20))
     while True:
         f = open("corpus.txt", "r")
-        # About 128 MB
-        size = round(validation_split * 128 * (1 << 20))
         while True:
             # text = ' '.join(f.open('r').read() for f in pathlib.Path('data').glob('*.txt')).lower()
             text = f.read(size).lower()
+            print(f"Text: {repr(text[:100])}")
             if len(text) < size:
                 break
             text = re.sub("\s+", " ", text)
@@ -158,30 +159,20 @@ def make1(window, text):
 
 class TwoTimePadSequence(keras.utils.Sequence):
     def _load(self):
+        print(f"Preparing for epoch {self.epochs} by reloading and shuffling.")
         mtext = tf.convert_to_tensor(clean(next(self.loads)))
         self.a = tf.random.shuffle(make1(self.window, mtext))
         self.aa = tf.reshape(self.a, (-1, batch_size, self.window))
 
-        self.size = self.aa.shape[0]
-        self.items = iter(range(self.size))
-
     def on_epoch_end(self):
         print(f"Epoch {self.epochs} ended.")
-        self._load()
         self.epochs += 1
-        # raise NotImplementedError("Called on epoch end")
+        self._load()
 
     def __len__(self):
         return self.aa.shape[0]
 
-    def __getitem__(self, idx):
-        i = idx
-        # i = next(self.items, None)
-        # # Hack, because on_epoch_end doesn't seem to be called.
-        # if i is None:
-        #     self._load()
-        #     return self.__getitem__(idx)
-        # else:
+    def __getitem__(self, i):
         return (self.aa[i, :, :-1], self.aa[i, :, -1])
 
     def __init__(
