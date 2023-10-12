@@ -93,6 +93,8 @@ def load(validation_split=1.0):
     size = round(validation_split * 128 * (1 << 20))
     while True:
         f = open("corpus.txt", "r")
+        if validation_split < 1.0:
+            f.seek(size * 100)
         while True:
             # text = ' '.join(f.open('r').read() for f in pathlib.Path('data').glob('*.txt')).lower()
             text = f.read(size).lower()
