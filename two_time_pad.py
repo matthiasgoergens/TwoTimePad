@@ -287,7 +287,7 @@ def make_model_simple(hparams):
                          Dense(outputs.shape[-1]),
                          # Dropout(rate=hparams[HP_DROPOUT]),
                      ]
-                 )),
+                 )(outputs)),
             Sequential(
                 [
                     BatchNormalization(),
