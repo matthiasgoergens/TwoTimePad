@@ -277,6 +277,7 @@ def make_model_simple(hparams):
     # outputs = Dropout(rate=hparams[HP_DROPOUT])(outputs)
     for i in range(height):
         print(outputs.shape)
+        print(outputs.shape[-1])
         outputs = cat(
             plus(outputs,
                  Sequential(
