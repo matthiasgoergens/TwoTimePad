@@ -90,11 +90,13 @@ def sumError(y_true, y_pred):
 
 def load(validation_split=1.0):
     # About 128 MB
-    size = round(validation_split * 128 * (1 << 20))
+    big_size = 128 * (1 << 20)
+    size = round(validation_split * big_size)
     while True:
         f = open("corpus.txt", "r")
         if validation_split < 1.0:
-            f.seek(size * 100)
+            # Forward to make sure, validation stays ahead of training.
+            f.read(big_size)
         while True:
             # text = ' '.join(f.open('r').read() for f in pathlib.Path('data').glob('*.txt')).lower()
             text = f.read(size).lower()
@@ -105,6 +107,9 @@ def load(validation_split=1.0):
             # text = re.sub(f'[^{alphaRE}]', '', text)
             text = re.sub("[^%s]" % alphaRE, "", text)
             yield text
+            if validation_split < 1.0:
+                # Forward to make sure, validation stays ahead of training.
+                f.read(big_size)
 
 
 def sub(cipher, key):
