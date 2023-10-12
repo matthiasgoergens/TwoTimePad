@@ -318,9 +318,9 @@ def make_model_simple(hparams):
 l = 50
 hparams = {
     HP_DROPOUT: 0.1,
-    HP_HEIGHT: 20,
+    HP_HEIGHT: 30,
     HP_WINDOW: l,
-    HP_blowup: 46*3,
+    HP_blowup: 46,
 }
 
 weights_name = "2023-whole-corpus-res-h20.h5"
