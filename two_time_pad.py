@@ -87,11 +87,11 @@ def sumError(y_true, y_pred):
     return output
 
 
-def load():
+def load(validation_split = 1.0):
     while True:
         f = open("corpus.txt", "r")
         # About 128 MB
-        size = 128 * 1 << 20
+        size = round(validation_split * 128 * 1 << 20)
         while True:
             # text = ' '.join(f.open('r').read() for f in pathlib.Path('data').glob('*.txt')).lower()
             text = f.read(size).lower()
@@ -168,7 +168,7 @@ class TwoTimePadSequence(keras.utils.Sequence):
         # raise NotImplementedError("Called on epoch end")
 
     def __len__(self):
-        return round(self.aa.shape[0] * self.validation_split)
+        return self.aa.shape[0]
 
     def __getitem__(self, idx):
         i = idx 
@@ -181,13 +181,12 @@ class TwoTimePadSequence(keras.utils.Sequence):
         return (self.aa[i, :, :-1], self.aa[i, :, -1])
 
     def __init__(
-        self, window, mtext, validation_split = 1.0,
+        self, window, validation_split = 1.0,
     ):
         self.mtext = mtext
-        self.loads = load()
+        self.loads = load(validation_split)
 
         self.epochs = 0
-        self.validation_split = validation_split
         self.window = window
         self._load()
 
