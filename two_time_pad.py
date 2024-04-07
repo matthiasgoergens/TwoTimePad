@@ -325,7 +325,7 @@ hparams = {
     HP_base: 500,
 }
 
-weights_name = "2023-investigate-length-100.h5"
+weights_name = "2023-investigate-length-100-second.h5"
 
 make_model = make_model_simple
 

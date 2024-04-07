@@ -1,2 +1,2 @@
 #!/bin/bash
-find data/ -name '*.txt' | sort -R | xargs -- cat | head --bytes 1G > corpus.txt 
+find data/ -name '*.txt' | sort -R | xargs -- cat > corpus.txt 
