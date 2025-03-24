@@ -73,7 +73,7 @@ class LastCharLoss(tf.keras.metrics.Mean):
 
 
 window_size = 100
-batch_size = 512
+batch_size = 256
 subset_size = 100_000
 
 corpus_filename = "corpus.bytes"
@@ -83,16 +83,16 @@ class RandomSubsetSequence(tf.keras.utils.Sequence):
     def __init__(self, *args, **kwargs):
         super().__init__(*args, **kwargs)
         # Get total size in bytes of the corpus.
-        total_bytes = os.path.getsize(corpus_filename)
+        self.total_bytes = os.path.getsize(corpus_filename)
         # Each sample requires window_size + 1 bytes.
-        self.total_samples = total_bytes - window_size
+        self.total_samples = self.total_bytes - window_size
 
         # Build the dataset for the first epoch.
         self.build_dataset()
 
     def build_dataset(self):
         # Choose a random offset (header_bytes) so that there are enough samples left.
-        max_header = max(0, self.total_samples - subset_size)
+        max_header = max(self.total_bytes - window_size * (subset_size + 1), 0)
         header_bytes = random.randrange(max_header)
 
         # Create the dataset that starts reading after header_bytes.
