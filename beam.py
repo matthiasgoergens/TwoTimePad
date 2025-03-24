@@ -73,32 +73,32 @@ corpus_filename = "corpus.bytes"
 
 def make_data():
     # Read the file one byte at a time.
-    # FixedLengthRecordDataset will yield records of length 1.
     dataset = tf.data.FixedLengthRecordDataset(corpus_filename, record_bytes=1)
 
     # Decode the raw bytes into uint8 values.
-    # Each element in the dataset will be a scalar representing a byte.
     dataset = dataset.map(lambda x: tf.io.decode_raw(x, tf.uint8)[0])
 
-    # Create sliding windows of total_window_size with a stride of 1.
-    # drop_remainder=True ensures every window has exactly total_window_size elements.
-    windowed_dataset = dataset.window(total_window_size, shift=1, drop_remainder=True)
+    # Create sliding windows of window_size+1 (to have enough for both input and target)
+    windowed_dataset = dataset.window(window_size + 1, shift=1, drop_remainder=True)
     windowed_dataset = windowed_dataset.flat_map(
-        lambda window: window.batch(total_window_size)
+        lambda window: window.batch(window_size + 1)
     )
 
-    # Split each window into (input, target) where input is the first 10 bytes and target is the 11th.
+    # Split each window into (input, target)
+    # Input: first window_size bytes
+    # Target: last window_size bytes (shifted by 1 from input)
     def split_input_target(window):
-        input_bytes = window[:-1]
-        target_byte = window[-1]
-        return input_bytes, target_byte
+        input_bytes = window[:window_size]  # First window_size bytes
+        target_bytes = window[1:]  # Last window_size bytes (shifted by 1)
+        return input_bytes, target_bytes
 
     dataset = windowed_dataset.map(split_input_target)
 
     # (Optional) Shuffle and batch the dataset.
-    # Adjust the shuffle buffer size and batch size according to your hardware.
     dataset = (
-        dataset.shuffle(10000).batch(batch_size).prefetch(tf.data.experimental.AUTOTUNE)
+        dataset.shuffle(1_000_000)
+        .batch(batch_size)
+        .prefetch(tf.data.experimental.AUTOTUNE)
     )
     return dataset
 
@@ -196,7 +196,6 @@ def make_model_gru_skip():
 
     # Store layer outputs for skip connections
     layer_outputs = [embed]  # Start with embedding as first layer output
-    final_states = [Lambda(lambda x: x[:, -1, :])(embed)]  # Store GRU final states for prediction
 
     # Create GRU layers with skip connections
     for i, config in enumerate(layer_config):
@@ -229,15 +228,11 @@ def make_model_gru_skip():
         # Store sequence output for skip connections
         layer_outputs.append(norm_output)
 
-        # Extract last timestep for final prediction
-        last_timestep = Lambda(lambda x: x[:, -1, :])(norm_output)
-        final_states.append(last_timestep)
+    # Concatenate all layer outputs along the feature dimension
+    final_concat = Concatenate()(layer_outputs)
 
-    # Concatenate all final states for prediction
-    final_concat = Concatenate()(final_states)
-
-    # Output layer
-    outputs = Dense(len(alpha))(final_concat)
+    # Output layer - predict at each timestep
+    outputs = TimeDistributed(Dense(len(alpha)))(final_concat)
 
     # Create model
     model = tf.keras.Model(inputs=inputs, outputs=outputs)
@@ -249,7 +244,7 @@ def make_model_gru_skip():
     )
 
     model.summary()
-    checkpoint_dir = "checkpoints/gru_state_to_final_4_batchbigger"
+    checkpoint_dir = "checkpoints/gru_to_final_sequence"
     return (model, checkpoint_dir)
 
 
