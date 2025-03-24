@@ -62,19 +62,13 @@ def setup():
     print("Num GPUs Available: ", len(tf.config.list_physical_devices("GPU")))
 
 
-# Add these custom metric classes to your code
-class LastCharAccuracy(tf.keras.metrics.SparseCategoricalAccuracy):
-    def __init__(self, name="last_char_acc", **kwargs):
-        super(LastCharAccuracy, self).__init__(name=name, **kwargs)
-
-
 class LastCharLoss(tf.keras.metrics.Mean):
     def __init__(self, name="last_char_loss", **kwargs):
         super(LastCharLoss, self).__init__(name=name, **kwargs)
 
     def update_state(self, y_true, y_pred, sample_weight=None):
         loss_value = tf.keras.losses.sparse_categorical_crossentropy(
-            y_true, y_pred, from_logits=True
+            y_true[-1], y_pred[-1], from_logits=True
         )
         return super(LastCharLoss, self).update_state(loss_value, sample_weight)
 
@@ -257,7 +251,7 @@ def make_model_gru_skip():
     model.compile(
         optimizer=tf.optimizers.Adam(global_clipnorm=1.0),
         loss=SparseCategoricalCrossentropy(from_logits=True),
-        metrics=["accuracy", LastCharAccuracy(), LastCharLoss()],
+        metrics=["accuracy", LastCharLoss()],
     )
 
     model.summary()
