@@ -5,3 +5,5 @@
 .*.swp
 logs/
 __pycache__/
+corpus.txt
+simple-calcs/two-time-pad/target/
