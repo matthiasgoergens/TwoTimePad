@@ -72,8 +72,8 @@ class LastCharLoss(tf.keras.metrics.Mean):
         return super(LastCharLoss, self).update_state(loss_value, sample_weight)
 
 
-window_size = 50
-batch_size = 256
+window_size = 100
+batch_size = 512
 subset_size = 100_000
 
 corpus_filename = "corpus.bytes"
@@ -258,6 +258,7 @@ def make_model_gru_skip():
         {"units": 256, "skip_from": [0, 1], "skip_type": "concat"},
         {"units": 256, "skip_from": [0, 1, 2], "skip_type": "concat"},
         {"units": 256, "skip_from": [0, 1, 2, 3], "skip_type": "concat"},
+        {"units": 256, "skip_from": [0, 1, 2, 3, 4], "skip_type": "concat"},
     ]
 
     # Input layer
@@ -317,7 +318,7 @@ def make_model_gru_skip():
     )
 
     model.summary()
-    checkpoint_dir = "checkpoints/gru_to_final_sequence_4"
+    checkpoint_dir = "checkpoints/gru_to_final_sequence_5"
     return (model, checkpoint_dir)
 
 
@@ -485,11 +486,11 @@ def make_model_condensed_skip_rnn():
 
 def main():
     setup()
-    # dataset = make_data()
-    dataset = RandomSubsetSequence()
 
     # Build a simple model.
     model, checkpoint_dir = make_model_gru_skip()
+    # dataset = make_data()
+    dataset = RandomSubsetSequence()
 
     checkpoint_cb = ModelCheckpoint(
         filepath=os.path.join(
@@ -498,7 +499,7 @@ def main():
         monitor="loss",  # You can change this to any metric, e.g. 'val_loss'
         verbose=1,
         save_best_only=False,
-        save_freq=10_000,  # Save every 1000 samples processed.
+        save_freq="epoch",  # Save every 1000 samples processed.
     )
 
     latest_checkpoint = tf.train.latest_checkpoint(checkpoint_dir)
@@ -512,12 +513,12 @@ def main():
         log_dir="./beam-logs",  # Directory where the logs will be saved.
         histogram_freq=0,  # Frequency (in epochs) at which to compute activation and weight histograms.
         write_graph=False,  # Save the graph visualization.
-        update_freq=1_000,  # Update frequency, can also be an integer (e.g. number of batches).
+        update_freq="epoch",  # Update frequency, can also be an integer (e.g. number of batches).
     )
 
     # Start training.
     # Note: Depending on the size of your dataset, you might need to adjust steps_per_epoch.
-    model.fit(dataset, epochs=1_000, callbacks=[checkpoint_cb, tensorboard_cb])
+    model.fit(dataset, epochs=10_000, callbacks=[checkpoint_cb, tensorboard_cb])
 
 
 if __name__ == "__main__":
