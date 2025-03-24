@@ -1,7 +1,7 @@
 use clap::Parser;
 use clap_derive::{Parser, Subcommand};
 use regex::Regex;
-use std::io::{self, BufWriter, Read, Write};
+use std::io::{self, Read, Write};
 
 /*
 TODO:
@@ -39,7 +39,12 @@ enum Commands {
     ToText,
 }
 
-const ALPHABET: &str = " abcdefghijklmnopqrstuvwxyz0123456789.?,-:;'()";
+// const ALPHABET: &str = " abcdefghijklmnopqrstuvwxyz0123456789.?,-:;'()";
+const ALPHABET: &[char; 46] = &[
+    ' ', 'a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm',
+    'n', 'o', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z',
+    '0', '1', '2', '3', '4', '5', '6', '7', '8', '9', '.', '?', ',', '-', ':', ';', '\'', '(', ')',
+];
 
 fn main() {
     let cli = Cli::parse();
@@ -55,13 +60,17 @@ fn convert_to_indices() {
     let stdout = io::stdout();
 
     let mut content = String::new();
+
     stdin
         .lock()
         .read_to_string(&mut content)
         .expect("Failed to read from stdin");
+    eprintln!("Read {} bytes", content.len());
 
     // Stage 1: Clean up text using regex
     let whitespace_regex = Regex::new(r"\s+").unwrap();
+    // I'm a bit suspicous about using - both for character ranges and as a literal character.
+    // But it seems to work?
     let invalid_char_regex = Regex::new(r"[^a-z0-9.?,-:;'() ]").unwrap();
 
     let content = content.to_lowercase();
@@ -69,14 +78,17 @@ fn convert_to_indices() {
     let content = invalid_char_regex.replace_all(&content, "");
 
     // Stage 2: Convert to indices
-    let mut writer = BufWriter::new(stdout.lock());
-    for c in content.chars() {
-        if let Some(idx) = ALPHABET.find(c) {
-            writer
-                .write_all(&[idx as u8])
-                .expect("Failed to write to stdout");
-        }
-    }
+    // let mut writer = BufWriter::new(stdout.lock());
+    stdout
+        .lock()
+        .write_all(
+            &content
+                .chars()
+                .filter_map(|c| ALPHABET.iter().position(|&alphabet_char| alphabet_char == c))
+                .map(|idx| idx as u8)
+                .collect::<Vec<_>>(),
+        )
+        .expect("Failed to write to stdout");
 }
 
 fn convert_to_text() {
@@ -89,12 +101,12 @@ fn convert_to_text() {
         .read_to_end(&mut bytes)
         .expect("Failed to read from stdin");
 
-    let mut writer = BufWriter::new(stdout.lock());
-    for &idx in &bytes {
-        if (idx as usize) < ALPHABET.len() {
-            let c = ALPHABET.chars().nth(idx as usize).unwrap();
-            write!(writer, "{}", c).expect("Failed to write to stdout");
-        }
-    }
-    writer.flush().expect("Failed to flush stdout");
+
+    stdout.lock().write_all(
+        bytes
+            .into_iter()
+            .filter_map(|idx| ALPHABET.get(idx as usize))
+            .collect::<String>()
+            .as_bytes(),
+    ).expect("Failed to write to stdout");
 }
