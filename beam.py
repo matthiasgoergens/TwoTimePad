@@ -394,7 +394,7 @@ def make_model_condensed_skip_rnn():
         all_outputs.append(current_output)
 
     # Final prediction layer - predict at each timestep
-    outputs = TimeDistributed(Dense(len(alpha)))(current_output)
+    outputs = TimeDistributed(Dense(len(alpha)))(Concatenate(axis=2)(all_outputs))
 
     # Create model
     model = tf.keras.Model(inputs=inputs, outputs=outputs)
