@@ -72,6 +72,7 @@ class LastCharLoss(tf.keras.metrics.Mean):
         return super(LastCharLoss, self).update_state(loss_value, sample_weight)
 
 
+# window_size * subset_size ~ 10M
 window_size = 100
 batch_size = 128
 subset_size = 100_000
@@ -312,13 +313,13 @@ def make_model_gru_skip():
     model = tf.keras.Model(inputs=inputs, outputs=outputs)
 
     model.compile(
-        optimizer=tf.optimizers.Adam(global_clipnorm=1.0),
+        optimizer=tf.optimizers.Adam(global_clipnorm=1.0, weight_decay=1e-4),
         loss=SparseCategoricalCrossentropy(from_logits=True),
         metrics=["accuracy", LastCharLoss()],
     )
 
     model.summary()
-    checkpoint_dir = "checkpoints/gru_to_final_sequence_5"
+    checkpoint_dir = "checkpoints/gru_to_final_sequence_weight_decay"
     return (model, checkpoint_dir)
 
 
