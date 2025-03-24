@@ -66,7 +66,7 @@ def setup():
 # We want 10 input bytes and 1 target byte.
 window_size = 30
 total_window_size = window_size + 1
-batch_size = 128
+batch_size = 256
 
 corpus_filename = "corpus.bytes"
 
@@ -196,7 +196,7 @@ def make_model_gru_skip():
 
     # Store layer outputs for skip connections
     layer_outputs = [embed]  # Start with embedding as first layer output
-    final_states = []  # Store GRU final states for prediction
+    final_states = [Lambda(lambda x: x[:, -1, :])(embed)]  # Store GRU final states for prediction
 
     # Create GRU layers with skip connections
     for i, config in enumerate(layer_config):
@@ -249,7 +249,7 @@ def make_model_gru_skip():
     )
 
     model.summary()
-    checkpoint_dir = "checkpoints/gru_state_to_final_4"
+    checkpoint_dir = "checkpoints/gru_state_to_final_4_batchbigger"
     return (model, checkpoint_dir)
 
 
