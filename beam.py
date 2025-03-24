@@ -60,7 +60,7 @@ def setup():
 
 # Define the window size.
 # We want 10 input bytes and 1 target byte.
-window_size = 10
+window_size = 30
 total_window_size = window_size + 1
 batch_size = 128
 
@@ -143,20 +143,45 @@ def make_model():
     return (model, checkpoint_dir)
 
 
+def make_model_lstm():
+    embedded_output_dim = 64
+
+    model = tf.keras.Sequential(
+        [
+            Input(shape=(window_size,)),
+            Embedding(
+                input_dim=len(alpha), output_dim=embedded_output_dim
+            ),
+            LSTM(1024),
+            Dense(
+                len(alpha)
+            ),
+        ]
+    )
+
+    model.compile(
+        optimizer=tf.optimizers.Adam(),
+        loss=SparseCategoricalCrossentropy(from_logits=True),
+        metrics=["accuracy"],
+    )
+
+    model.summary()
+    checkpoint_dir = "checkpoints/lstm1"
+    return (model, checkpoint_dir)
+
+
 def main():
     setup()
     dataset = make_data()
 
     # Build a simple model.
-    # We assume 256 possible byte values.
-    model, checkpoint_dir = make_model()
-
-    # model.compile(
-    #     optimizer="adam", loss="sparse_categorical_crossentropy", metrics=["accuracy"]
-    # )
+    # model, checkpoint_dir = make_model()
+    model, checkpoint_dir = make_model_lstm()
 
     checkpoint_cb = ModelCheckpoint(
-        filepath=os.path.join(checkpoint_dir, "my_model_epoch_{epoch:02d}_batch_{batch:05d}.keras"),  # This filename pattern includes the epoch and batch number.
+        filepath=os.path.join(
+            checkpoint_dir, "my_model_epoch_{epoch:02d}_batch_{batch:05d}.keras"
+        ),  # This filename pattern includes the epoch and batch number.
         monitor="loss",  # You can change this to any metric, e.g. 'val_loss'
         verbose=1,
         save_best_only=False,
