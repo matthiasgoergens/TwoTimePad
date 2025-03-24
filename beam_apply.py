@@ -10,7 +10,7 @@ from process_corpus import alpha
 
 beam_width = 1000
 
-snippet_length = 1000
+snippet_length = 100
 
 def load_random_snippet(snippet_length=snippet_length, filename=beam.corpus_filename):
     # Get the total file size
@@ -212,6 +212,9 @@ def beam_search(
             outputB = to_text(beam[0].text_B)
             print(f"Best A so far: {outputA}")
             print(f"Best B so far: {outputB}")
+            diff_so_far = to_text(diff_plains(beam[0].text_A, beam[0].text_B))
+            print(f"Best D so far: {diff_so_far}")
+
 
     # Return the best state
     return beam[0]
@@ -224,7 +227,7 @@ def indices_to_text(indices, charset=" abcdefghijklmnopqrstuvwxyz0123456789.?,-:
 
 def main():
     # TODO: Update this, as we get newer models.
-    path = "checkpoints/gru/my_model_epoch_01_batch_230000.keras"
+    path = "checkpoints/gru_bn/my_model_epoch_01_batch_40000.keras"
     model = tf.keras.models.load_model(path)
 
     # Optionally, print the summary to verify.
