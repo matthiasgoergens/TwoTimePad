@@ -62,9 +62,26 @@ def setup():
     print("Num GPUs Available: ", len(tf.config.list_physical_devices("GPU")))
 
 
+# Add these custom metric classes to your code
+class LastCharAccuracy(tf.keras.metrics.SparseCategoricalAccuracy):
+    def __init__(self, name="last_char_acc", **kwargs):
+        super(LastCharAccuracy, self).__init__(name=name, **kwargs)
+
+
+class LastCharLoss(tf.keras.metrics.Mean):
+    def __init__(self, name="last_char_loss", **kwargs):
+        super(LastCharLoss, self).__init__(name=name, **kwargs)
+
+    def update_state(self, y_true, y_pred, sample_weight=None):
+        loss_value = tf.keras.losses.sparse_categorical_crossentropy(
+            y_true, y_pred, from_logits=True
+        )
+        return super(LastCharLoss, self).update_state(loss_value, sample_weight)
+
+
 # Define the window size.
 # We want 10 input bytes and 1 target byte.
-window_size = 30
+window_size = 50
 total_window_size = window_size + 1
 batch_size = 256
 
@@ -240,11 +257,11 @@ def make_model_gru_skip():
     model.compile(
         optimizer=tf.optimizers.Adam(global_clipnorm=1.0),
         loss=SparseCategoricalCrossentropy(from_logits=True),
-        metrics=["accuracy"],
+        metrics=["accuracy", LastCharAccuracy(), LastCharLoss()],
     )
 
     model.summary()
-    checkpoint_dir = "checkpoints/gru_to_final_sequence"
+    checkpoint_dir = "checkpoints/gru_to_final_sequence_4"
     return (model, checkpoint_dir)
 
 
@@ -415,7 +432,7 @@ def main():
     dataset = make_data()
 
     # Build a simple model.
-    model, checkpoint_dir = make_model_condensed_skip_rnn()
+    model, checkpoint_dir = make_model_gru_skip()
 
     checkpoint_cb = ModelCheckpoint(
         filepath=os.path.join(
