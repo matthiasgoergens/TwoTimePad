@@ -493,13 +493,11 @@ def main():
     dataset = RandomSubsetSequence()
 
     checkpoint_cb = ModelCheckpoint(
-        filepath=os.path.join(
-            checkpoint_dir, "my_model_epoch_{epoch:02d}_batch_{batch:05d}.keras"
-        ),  # This filename pattern includes the epoch and batch number.
+        filepath=os.path.join(checkpoint_dir, "my_model_epoch_{epoch:02d}.keras"),
         monitor="loss",  # You can change this to any metric, e.g. 'val_loss'
         verbose=1,
         save_best_only=False,
-        save_freq="epoch",  # Save every 1000 samples processed.
+        # save_freq="epoch",  # Save every 1000 samples processed.
     )
 
     latest_checkpoint = tf.train.latest_checkpoint(checkpoint_dir)
@@ -513,7 +511,7 @@ def main():
         log_dir="./beam-logs",  # Directory where the logs will be saved.
         histogram_freq=0,  # Frequency (in epochs) at which to compute activation and weight histograms.
         write_graph=False,  # Save the graph visualization.
-        update_freq="epoch",  # Update frequency, can also be an integer (e.g. number of batches).
+        # update_freq="epoch",  # Update frequency, can also be an integer (e.g. number of batches).
     )
 
     # Start training.
