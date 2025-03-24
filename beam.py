@@ -11,6 +11,7 @@ import tensorflow as tf
 from tensorflow.keras.callbacks import ModelCheckpoint
 from tensorflow.keras.callbacks import TensorBoard
 from tensorflow.keras.layers import (
+    GRU,
     LSTM,
     Add,
     Average,
@@ -64,14 +65,12 @@ window_size = 30
 total_window_size = window_size + 1
 batch_size = 128
 
+corpus_filename = "corpus.bytes"
 
 def make_data():
-    # File path for your 16 GiB corpus file (replace with your actual file path)
-    filename = "corpus.bytes"
-
     # Read the file one byte at a time.
     # FixedLengthRecordDataset will yield records of length 1.
-    dataset = tf.data.FixedLengthRecordDataset(filename, record_bytes=1)
+    dataset = tf.data.FixedLengthRecordDataset(corpus_filename, record_bytes=1)
 
     # Decode the raw bytes into uint8 values.
     # Each element in the dataset will be a scalar representing a byte.
@@ -143,19 +142,15 @@ def make_model():
     return (model, checkpoint_dir)
 
 
-def make_model_lstm():
+def make_model_gru():
     embedded_output_dim = 64
 
     model = tf.keras.Sequential(
         [
             Input(shape=(window_size,)),
-            Embedding(
-                input_dim=len(alpha), output_dim=embedded_output_dim
-            ),
-            LSTM(1024),
-            Dense(
-                len(alpha)
-            ),
+            Embedding(input_dim=len(alpha), output_dim=embedded_output_dim),
+            GRU(1024),
+            Dense(len(alpha)),
         ]
     )
 
@@ -166,7 +161,7 @@ def make_model_lstm():
     )
 
     model.summary()
-    checkpoint_dir = "checkpoints/lstm1"
+    checkpoint_dir = "checkpoints/gru"
     return (model, checkpoint_dir)
 
 
@@ -176,7 +171,7 @@ def main():
 
     # Build a simple model.
     # model, checkpoint_dir = make_model()
-    model, checkpoint_dir = make_model_lstm()
+    model, checkpoint_dir = make_model_gru()
 
     checkpoint_cb = ModelCheckpoint(
         filepath=os.path.join(
