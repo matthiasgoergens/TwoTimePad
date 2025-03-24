@@ -10,4 +10,3 @@
 alpha = " abcdefghijklmnopqrstuvwxyz0123456789.?,-:;'()"
 alphaRE = alpha.replace("-", "\\-") 
 assert len(alpha) == 46
-

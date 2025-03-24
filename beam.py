@@ -74,12 +74,14 @@ class LastCharLoss(tf.keras.metrics.Mean):
 
 # window_size * subset_size ~ 10M
 window_size = 100
-batch_size = 128
+batch_size = 64
 subset_size = 100_000
 
 corpus_filename = "corpus.bytes"
 
 
+# TODO: get our snippets from more diverse places in the corpus, instead of just from one big window.
+# Perhaps just randomise for each __get_item__ call, via a 'permutation' function?
 class RandomSubsetSequence(tf.keras.utils.Sequence):
     def __init__(self, *args, **kwargs):
         super().__init__(*args, **kwargs)
@@ -93,7 +95,7 @@ class RandomSubsetSequence(tf.keras.utils.Sequence):
 
     def build_dataset(self):
         # Choose a random offset (header_bytes) so that there are enough samples left.
-        max_header = max(self.total_bytes - window_size * (subset_size + 1), 0)
+        max_header = max(self.total_bytes - 2 * window_size * (subset_size + 1), 0)
         header_bytes = random.randrange(max_header)
 
         # Create the dataset that starts reading after header_bytes.
@@ -107,7 +109,7 @@ class RandomSubsetSequence(tf.keras.utils.Sequence):
         # Create sliding windows of window_size+1 so that each window gives you
         # an input (first window_size bytes) and target (bytes shifted by one).
         windowed_dataset = dataset.window(
-            window_size + 1, shift=window_size, drop_remainder=True
+            window_size + 1, shift=2 * window_size, drop_remainder=True
         )
         windowed_dataset = windowed_dataset.flat_map(
             lambda window: window.batch(window_size + 1)
@@ -115,17 +117,17 @@ class RandomSubsetSequence(tf.keras.utils.Sequence):
 
         # Split each window into (input, target)
         def split_input_target(window):
-            return window[:window_size], window[1:]
+            return window[:window_size], window[1 : window_size + 1]
 
         dataset = windowed_dataset.map(split_input_target)
-
-        # Take only a contiguous block (subset) for the current epoch.
-        dataset = dataset.take(subset_size)
 
         # (Optional) Shuffle within this subset if desired.
         dataset = dataset.shuffle(
             buffer_size=subset_size, reshuffle_each_iteration=True
         )
+
+        # Take only a contiguous block (subset) for the current epoch.
+        dataset = dataset.take(subset_size)
 
         # Batch and prefetch for performance.
         dataset = dataset.batch(batch_size).prefetch(tf.data.experimental.AUTOTUNE)
@@ -251,15 +253,18 @@ def make_model_gru():
 
 def make_model_gru_skip():
     embedded_output_dim = 46
+    units = 256
 
     # Layer configuration - all return sequences now
     layer_config = [
-        {"units": 256, "skip_from": [], "skip_type": None},
-        {"units": 256, "skip_from": [0], "skip_type": "residual"},
-        {"units": 256, "skip_from": [0, 1], "skip_type": "concat"},
-        {"units": 256, "skip_from": [0, 1, 2], "skip_type": "concat"},
-        {"units": 256, "skip_from": [0, 1, 2, 3], "skip_type": "concat"},
-        {"units": 256, "skip_from": [0, 1, 2, 3, 4], "skip_type": "concat"},
+        {"units": units, "skip_from": [], "skip_type": None},
+        {"units": units, "skip_from": [0], "skip_type": "residual"},
+        {"units": units, "skip_from": [0, 1], "skip_type": "concat"},
+        {"units": units, "skip_from": [0, 1, 2], "skip_type": "concat"},
+        {"units": units, "skip_from": [1, 2, 3], "skip_type": "concat"},
+        {"units": units, "skip_from": [2, 3, 4], "skip_type": "concat"},
+        {"units": units, "skip_from": [3, 4, 5], "skip_type": "concat"},
+        {"units": units, "skip_from": [4, 5, 6], "skip_type": "concat"},
     ]
 
     # Input layer
@@ -319,7 +324,7 @@ def make_model_gru_skip():
     )
 
     model.summary()
-    checkpoint_dir = "checkpoints/gru_to_final_sequence_weight_decay"
+    checkpoint_dir = "checkpoints/gru_to_final_sequence_weight_decay_larger_window_skip_5"
     return (model, checkpoint_dir)
 
 
