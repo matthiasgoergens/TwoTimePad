@@ -354,7 +354,8 @@ def make_model_condensed_skip_rnn():
 
     # Create RNN layers with learnable condensed skip connections
     for i in range(num_layers):
-        return_sequences = i < num_layers - 1
+        # All layers return sequences now
+        return_sequences = True
 
         # Condense half of previous outputs through a learnable projection
         if i > 0:
@@ -362,7 +363,9 @@ def make_model_condensed_skip_rnn():
             combined = Concatenate(axis=2)(all_outputs[-1::-2])
 
             # Learnable projection to reduce dimensionality
-            skip_projection = Dense(condensed_dim, activation="linear")(combined)
+            skip_projection = TimeDistributed(
+                Dense(condensed_dim, activation="linear")
+            )(combined)
             skip_projection = LayerNormalization()(skip_projection)
             skip_projection = PReLU()(skip_projection)
 
@@ -388,11 +391,10 @@ def make_model_condensed_skip_rnn():
         current_output = PReLU()(current_output)
 
         # Save this output for future skip connections
-        if return_sequences:
-            all_outputs.append(current_output)
+        all_outputs.append(current_output)
 
-    # Final prediction layer
-    outputs = Dense(len(alpha))(current_output)
+    # Final prediction layer - predict at each timestep
+    outputs = TimeDistributed(Dense(len(alpha)))(current_output)
 
     # Create model
     model = tf.keras.Model(inputs=inputs, outputs=outputs)
@@ -404,7 +406,7 @@ def make_model_condensed_skip_rnn():
     )
 
     model.summary()
-    checkpoint_dir = "checkpoints/condensed_skip_rnn_layer_orthogonal12_4layers_sparse_globalclipnorm"
+    checkpoint_dir = "checkpoints/condensed_skip_rnn_layer_full_sequence"
     return (model, checkpoint_dir)
 
 
@@ -413,7 +415,7 @@ def main():
     dataset = make_data()
 
     # Build a simple model.
-    model, checkpoint_dir = make_model_gru_skip()
+    model, checkpoint_dir = make_model_condensed_skip_rnn()
 
     checkpoint_cb = ModelCheckpoint(
         filepath=os.path.join(
