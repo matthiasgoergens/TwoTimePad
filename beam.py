@@ -73,7 +73,7 @@ class LastCharLoss(tf.keras.metrics.Mean):
 
 
 window_size = 100
-batch_size = 256
+batch_size = 128
 subset_size = 100_000
 
 corpus_filename = "corpus.bytes"
