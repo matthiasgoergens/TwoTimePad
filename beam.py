@@ -184,6 +184,7 @@ def make_model_gru_skip():
         {"units": 256, "skip_from": [0], "skip_type": "residual"},
         {"units": 256, "skip_from": [0, 1], "skip_type": "concat"},
         {"units": 256, "skip_from": [0, 1, 2], "skip_type": "concat"},
+        {"units": 256, "skip_from": [0, 1, 2, 3], "skip_type": "concat"},
     ]
 
     # Input layer
@@ -248,7 +249,7 @@ def make_model_gru_skip():
     )
 
     model.summary()
-    checkpoint_dir = "checkpoints/gru_state_to_final_2"
+    checkpoint_dir = "checkpoints/gru_state_to_final_4"
     return (model, checkpoint_dir)
 
 
