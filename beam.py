@@ -172,9 +172,9 @@ def main():
 
     tensorboard_cb = TensorBoard(
         log_dir="./beam-logs",  # Directory where the logs will be saved.
-        histogram_freq=1,  # Frequency (in epochs) at which to compute activation and weight histograms.
-        write_graph=True,  # Save the graph visualization.
-        update_freq=5_000,  # Update frequency, can also be an integer (e.g. number of batches).
+        histogram_freq=0,  # Frequency (in epochs) at which to compute activation and weight histograms.
+        write_graph=False,  # Save the graph visualization.
+        update_freq=1_000,  # Update frequency, can also be an integer (e.g. number of batches).
     )
 
     # Start training.
