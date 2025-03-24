@@ -174,72 +174,83 @@ def make_model_gru():
     checkpoint_dir = "checkpoints/gru_ln3_twice"
     return (model, checkpoint_dir)
 
+
 def make_model_gru_skip():
     embedded_output_dim = 46
-    
-    # Layer configuration
+
+    # Layer configuration - all return sequences now
     layer_config = [
-        {"units": 256, "return_sequences": True, "skip_from": [], "skip_type": None},
-        {"units": 256, "return_sequences": True, "skip_from": [0], "skip_type": "residual"},
-        {"units": 256, "return_sequences": True, "skip_from": [0, 1], "skip_type": "concat"},
-        {"units": 256, "return_sequences": False, "skip_from": [0, 1, 2], "skip_type": "concat"},
+        {"units": 256, "skip_from": [], "skip_type": None},
+        {"units": 256, "skip_from": [0], "skip_type": "residual"},
+        {"units": 256, "skip_from": [0, 1], "skip_type": "concat"},
+        {"units": 256, "skip_from": [0, 1, 2], "skip_type": "concat"},
     ]
-    
+
     # Input layer
     inputs = Input(shape=(window_size,))
-    
+
     # Embedding layer
     x = Embedding(input_dim=len(alpha), output_dim=embedded_output_dim)(inputs)
-    x = LayerNormalization()(x)
-    
+    embed = LayerNormalization()(x)
+
     # Store layer outputs for skip connections
-    layer_outputs = [x]  # Start with embedding as first layer output
-    
+    layer_outputs = [embed]  # Start with embedding as first layer output
+    final_states = []  # Store GRU final states for prediction
+
     # Create GRU layers with skip connections
     for i, config in enumerate(layer_config):
         current_input = layer_outputs[-1]
-        
+
         # Handle skip connections
         if config["skip_type"] == "residual" and config["skip_from"]:
-            # For residual connections, we need to project to match dimensions
-            skip_sources = [TimeDistributed(Dense(config["units"]))(layer_outputs[j]) 
-                           for j in config["skip_from"]]
+            # For residual connections, project to match dimensions
+            skip_sources = [
+                TimeDistributed(Dense(config["units"]))(layer_outputs[j])
+                for j in config["skip_from"]
+            ]
             for skip in skip_sources:
                 current_input = Add()([current_input, skip])
-                
+
         elif config["skip_type"] == "concat" and config["skip_from"]:
-            # For concat connections, we concatenate then project
+            # For concat connections, concatenate then project
             skip_sources = [layer_outputs[j] for j in config["skip_from"]]
             concat = Concatenate()([current_input] + skip_sources)
             current_input = TimeDistributed(Dense(config["units"]))(concat)
-        
-        # Create GRU layer
-        gru_output = GRU(
-            config["units"], 
-            return_sequences=config["return_sequences"]
-        )(current_input)
-        
-        # Add normalization
+
+        # Create GRU layer - always return sequences
+        gru_output = GRU(config["units"], return_sequences=True, name=f"gru_{i}")(
+            current_input
+        )
+
+        # Normalize output
         norm_output = LayerNormalization()(gru_output)
-        
-        # Save this layer's output for potential future skip connections
+
+        # Store sequence output for skip connections
         layer_outputs.append(norm_output)
-    
+
+        # Extract last timestep for final prediction
+        last_timestep = Lambda(lambda x: x[:, -1, :])(norm_output)
+        final_states.append(last_timestep)
+
+    # Concatenate all final states for prediction
+    final_concat = Concatenate()(final_states)
+
     # Output layer
-    outputs = Dense(len(alpha))(layer_outputs[-1])
-    
+    outputs = Dense(len(alpha))(final_concat)
+
     # Create model
     model = tf.keras.Model(inputs=inputs, outputs=outputs)
-    
+
     model.compile(
         optimizer=tf.optimizers.Adam(global_clipnorm=1.0),
         loss=SparseCategoricalCrossentropy(from_logits=True),
         metrics=["accuracy"],
     )
-    
+
     model.summary()
-    checkpoint_dir = "checkpoints/gru_skip_connections_simple_4"
+    checkpoint_dir = "checkpoints/gru_state_to_final_2"
     return (model, checkpoint_dir)
+
 
 def make_model_relu_rnn():
     embedded_output_dim = 64
