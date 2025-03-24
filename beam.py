@@ -147,31 +147,99 @@ def make_model():
 
 
 def make_model_gru():
-    embedded_output_dim = 64
+    embedded_output_dim = 46
 
     model = Sequential(
         [
             Input(shape=(window_size,)),
             Embedding(input_dim=len(alpha), output_dim=embedded_output_dim),
-            BatchNormalization(),
-            GRU(512, return_sequences=True),
-            BatchNormalization(),
-            GRU(512),
-            BatchNormalization(),
+            LayerNormalization(),
+            GRU(256, return_sequences=True),
+            LayerNormalization(),
+            GRU(256, return_sequences=True),
+            LayerNormalization(),
+            GRU(256),
+            LayerNormalization(),
             Dense(len(alpha)),
         ]
     )
 
     model.compile(
-        optimizer=tf.optimizers.Adam(),
+        optimizer=tf.optimizers.Adam(global_clipnorm=1.0),
         loss=SparseCategoricalCrossentropy(from_logits=True),
         metrics=["accuracy"],
     )
 
     model.summary()
-    checkpoint_dir = "checkpoints/gru_bn3_twice"
+    checkpoint_dir = "checkpoints/gru_ln3_twice"
     return (model, checkpoint_dir)
 
+def make_model_gru_skip():
+    embedded_output_dim = 46
+    
+    # Layer configuration
+    layer_config = [
+        {"units": 256, "return_sequences": True, "skip_from": [], "skip_type": None},
+        {"units": 256, "return_sequences": True, "skip_from": [0], "skip_type": "residual"},
+        {"units": 256, "return_sequences": True, "skip_from": [0, 1], "skip_type": "concat"},
+        {"units": 256, "return_sequences": False, "skip_from": [0, 1, 2], "skip_type": "concat"},
+    ]
+    
+    # Input layer
+    inputs = Input(shape=(window_size,))
+    
+    # Embedding layer
+    x = Embedding(input_dim=len(alpha), output_dim=embedded_output_dim)(inputs)
+    x = LayerNormalization()(x)
+    
+    # Store layer outputs for skip connections
+    layer_outputs = [x]  # Start with embedding as first layer output
+    
+    # Create GRU layers with skip connections
+    for i, config in enumerate(layer_config):
+        current_input = layer_outputs[-1]
+        
+        # Handle skip connections
+        if config["skip_type"] == "residual" and config["skip_from"]:
+            # For residual connections, we need to project to match dimensions
+            skip_sources = [TimeDistributed(Dense(config["units"]))(layer_outputs[j]) 
+                           for j in config["skip_from"]]
+            for skip in skip_sources:
+                current_input = Add()([current_input, skip])
+                
+        elif config["skip_type"] == "concat" and config["skip_from"]:
+            # For concat connections, we concatenate then project
+            skip_sources = [layer_outputs[j] for j in config["skip_from"]]
+            concat = Concatenate()([current_input] + skip_sources)
+            current_input = TimeDistributed(Dense(config["units"]))(concat)
+        
+        # Create GRU layer
+        gru_output = GRU(
+            config["units"], 
+            return_sequences=config["return_sequences"]
+        )(current_input)
+        
+        # Add normalization
+        norm_output = LayerNormalization()(gru_output)
+        
+        # Save this layer's output for potential future skip connections
+        layer_outputs.append(norm_output)
+    
+    # Output layer
+    outputs = Dense(len(alpha))(layer_outputs[-1])
+    
+    # Create model
+    model = tf.keras.Model(inputs=inputs, outputs=outputs)
+    
+    model.compile(
+        optimizer=tf.optimizers.Adam(global_clipnorm=1.0),
+        loss=SparseCategoricalCrossentropy(from_logits=True),
+        metrics=["accuracy"],
+    )
+    
+    model.summary()
+    checkpoint_dir = "checkpoints/gru_skip_connections_simple_4"
+    return (model, checkpoint_dir)
 
 def make_model_relu_rnn():
     embedded_output_dim = 64
@@ -264,7 +332,7 @@ def make_model_condensed_skip_rnn():
     embedded_output_dim = len(alpha)
     rnn_units = 256
     condensed_dim = 256  # Size of the compressed skip connections
-    num_layers = 8
+    num_layers = 4
 
     # Use Functional API
     inputs = Input(shape=(window_size,))
@@ -323,13 +391,13 @@ def make_model_condensed_skip_rnn():
     model = tf.keras.Model(inputs=inputs, outputs=outputs)
 
     model.compile(
-        optimizer=tf.optimizers.Adam(),
+        optimizer=tf.optimizers.Adam(global_clipnorm=1.0),
         loss=SparseCategoricalCrossentropy(from_logits=True),
         metrics=["accuracy"],
     )
 
     model.summary()
-    checkpoint_dir = "checkpoints/condensed_skip_rnn_layer_orthogonal12_6layers_sparse"
+    checkpoint_dir = "checkpoints/condensed_skip_rnn_layer_orthogonal12_4layers_sparse_globalclipnorm"
     return (model, checkpoint_dir)
 
 
@@ -338,7 +406,7 @@ def main():
     dataset = make_data()
 
     # Build a simple model.
-    model, checkpoint_dir = make_model_condensed_skip_rnn()
+    model, checkpoint_dir = make_model_gru_skip()
 
     checkpoint_cb = ModelCheckpoint(
         filepath=os.path.join(
