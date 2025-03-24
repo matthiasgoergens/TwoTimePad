@@ -339,7 +339,7 @@ def make_model_condensed_skip_rnn():
     embedded_output_dim = len(alpha)
     rnn_units = 256
     condensed_dim = 256  # Size of the compressed skip connections
-    num_layers = 4
+    num_layers = 8
 
     # Use Functional API
     inputs = Input(shape=(window_size,))
@@ -406,7 +406,7 @@ def make_model_condensed_skip_rnn():
     )
 
     model.summary()
-    checkpoint_dir = "checkpoints/condensed_skip_rnn_layer_full_sequence"
+    checkpoint_dir = "checkpoints/condensed_skip_rnn_layer_full_sequence_8"
     return (model, checkpoint_dir)
 
 
