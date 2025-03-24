@@ -1,8 +1,7 @@
-# First: prepare the model.  And prepare some data.
-from pprint import pp
-
 import os.path
 import numpy as np
+import os
+import random
 
 # Monkey patching to make np.inf work with TensorFlow.
 np.Inf = np.inf
@@ -73,13 +72,76 @@ class LastCharLoss(tf.keras.metrics.Mean):
         return super(LastCharLoss, self).update_state(loss_value, sample_weight)
 
 
-# Define the window size.
-# We want 10 input bytes and 1 target byte.
 window_size = 50
-total_window_size = window_size + 1
 batch_size = 256
+subset_size = 100_000
 
 corpus_filename = "corpus.bytes"
+
+
+class RandomSubsetSequence(tf.keras.utils.Sequence):
+    def __init__(self, *args, **kwargs):
+        super().__init__(*args, **kwargs)
+        # Get total size in bytes of the corpus.
+        total_bytes = os.path.getsize(corpus_filename)
+        # Each sample requires window_size + 1 bytes.
+        self.total_samples = total_bytes - window_size
+
+        # Build the dataset for the first epoch.
+        self.build_dataset()
+
+    def build_dataset(self):
+        # Choose a random offset (header_bytes) so that there are enough samples left.
+        max_header = max(0, self.total_samples - subset_size)
+        header_bytes = random.randrange(max_header)
+
+        # Create the dataset that starts reading after header_bytes.
+        dataset = tf.data.FixedLengthRecordDataset(
+            corpus_filename, record_bytes=1, header_bytes=header_bytes
+        )
+
+        # Decode each record (byte) into a uint8.
+        dataset = dataset.map(lambda x: tf.io.decode_raw(x, tf.uint8)[0])
+
+        # Create sliding windows of window_size+1 so that each window gives you
+        # an input (first window_size bytes) and target (bytes shifted by one).
+        windowed_dataset = dataset.window(
+            window_size + 1, shift=window_size, drop_remainder=True
+        )
+        windowed_dataset = windowed_dataset.flat_map(
+            lambda window: window.batch(window_size + 1)
+        )
+
+        # Split each window into (input, target)
+        def split_input_target(window):
+            return window[:window_size], window[1:]
+
+        dataset = windowed_dataset.map(split_input_target)
+
+        # Take only a contiguous block (subset) for the current epoch.
+        dataset = dataset.take(subset_size)
+
+        # (Optional) Shuffle within this subset if desired.
+        dataset = dataset.shuffle(
+            buffer_size=subset_size, reshuffle_each_iteration=True
+        )
+
+        # Batch and prefetch for performance.
+        dataset = dataset.batch(batch_size).prefetch(tf.data.experimental.AUTOTUNE)
+
+        # Materialize the dataset into a list of batches (this is fine if subset_size is moderate).
+        self.dataset_batches = list(dataset.as_numpy_iterator())
+
+    def __len__(self):
+        # Returns the number of batches per epoch.
+        return len(self.dataset_batches)
+
+    def __getitem__(self, idx):
+        return self.dataset_batches[idx]
+
+    def on_epoch_end(self):
+        # At the end of each epoch, rebuild the dataset with a new random header offset.
+        self.build_dataset()
 
 
 def make_data():
@@ -423,7 +485,8 @@ def make_model_condensed_skip_rnn():
 
 def main():
     setup()
-    dataset = make_data()
+    # dataset = make_data()
+    dataset = RandomSubsetSequence()
 
     # Build a simple model.
     model, checkpoint_dir = make_model_gru_skip()
@@ -454,7 +517,7 @@ def main():
 
     # Start training.
     # Note: Depending on the size of your dataset, you might need to adjust steps_per_epoch.
-    model.fit(dataset, epochs=10, callbacks=[checkpoint_cb, tensorboard_cb])
+    model.fit(dataset, epochs=1_000, callbacks=[checkpoint_cb, tensorboard_cb])
 
 
 if __name__ == "__main__":
