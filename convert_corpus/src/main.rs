@@ -1,7 +1,13 @@
 use clap::Parser;
-use clap_derive::{Parser, Subcommand};
+use clap_derive::{Args, Parser, Subcommand};
+use memmap2::Mmap;
+use rand::Rng;
 use regex::Regex;
-use std::io::{self, Read, Write};
+use std::{
+    fs::File,
+    io::{self, Read, Write},
+    path::PathBuf,
+};
 
 /*
 TODO:
@@ -37,13 +43,24 @@ enum Commands {
     ToIndices,
     /// Convert indices to text
     ToText,
+    /// Generate snippets of specific size.
+    GenerateSnippets(SnippetOptions),
+}
+
+#[derive(Args)]
+struct SnippetOptions {
+    /// Size of the snippets to generate
+    #[arg(value_parser)]
+    size: usize,
+    #[arg(value_parser)]
+    path: PathBuf,
 }
 
 // const ALPHABET: &str = " abcdefghijklmnopqrstuvwxyz0123456789.?,-:;'()";
 const ALPHABET: &[char; 46] = &[
-    ' ', 'a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm',
-    'n', 'o', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z',
-    '0', '1', '2', '3', '4', '5', '6', '7', '8', '9', '.', '?', ',', '-', ':', ';', '\'', '(', ')',
+    ' ', 'a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 'n', 'o', 'p', 'q', 'r',
+    's', 't', 'u', 'v', 'w', 'x', 'y', 'z', '0', '1', '2', '3', '4', '5', '6', '7', '8', '9', '.',
+    '?', ',', '-', ':', ';', '\'', '(', ')',
 ];
 
 fn main() {
@@ -52,7 +69,35 @@ fn main() {
     match cli.command {
         Commands::ToIndices => convert_to_indices(),
         Commands::ToText => convert_to_text(),
+        Commands::GenerateSnippets(SnippetOptions { path, size }) => generate_snippets(size, path),
     }
+}
+
+/// Map the file at path into a buffer, then keep picking random snippets of size `size` from it, and write them to stdout.
+fn generate_snippets(size: usize, path: PathBuf) {
+    let file = File::open(path).expect("Failed to open file");
+
+    let mmap = unsafe { Mmap::map(&file).expect("Failed to map file") };
+
+    let mut rng = rand::rng();
+    let mut stdout = io::stdout();
+    let mut buf_writer = io::BufWriter::new(&mut stdout);
+    let file_size = mmap.len();
+    loop {
+        for _ in 0..100 {
+            let start = rng.random_range(0..file_size - size);
+            let end = start + size;
+            let snippet = &mmap[start..end];
+            // Use a BufWriter for more efficient writing
+
+            buf_writer
+                .write_all(snippet)
+                .expect("Failed to write snippet to stdout");
+        }
+        buf_writer.flush().expect("Failed to flush buffer");
+    }
+
+    // assert_eq!(&contents[..], &mmap[..]);
 }
 
 fn convert_to_indices() {
@@ -84,7 +129,11 @@ fn convert_to_indices() {
         .write_all(
             &content
                 .chars()
-                .filter_map(|c| ALPHABET.iter().position(|&alphabet_char| alphabet_char == c))
+                .filter_map(|c| {
+                    ALPHABET
+                        .iter()
+                        .position(|&alphabet_char| alphabet_char == c)
+                })
                 .map(|idx| idx as u8)
                 .collect::<Vec<_>>(),
         )
@@ -101,12 +150,14 @@ fn convert_to_text() {
         .read_to_end(&mut bytes)
         .expect("Failed to read from stdin");
 
-
-    stdout.lock().write_all(
-        bytes
-            .into_iter()
-            .filter_map(|idx| ALPHABET.get(idx as usize))
-            .collect::<String>()
-            .as_bytes(),
-    ).expect("Failed to write to stdout");
+    stdout
+        .lock()
+        .write_all(
+            bytes
+                .into_iter()
+                .filter_map(|idx| ALPHABET.get(idx as usize))
+                .collect::<String>()
+                .as_bytes(),
+        )
+        .expect("Failed to write to stdout");
 }

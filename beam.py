@@ -1,23 +1,24 @@
-import os.path
-import numpy as np
 import os
+import os.path
 import random
+
+import numpy as np
 
 # Monkey patching to make np.inf work with TensorFlow.
 np.Inf = np.inf
 
 import tensorflow as tf
+import tensorflow.keras.saving as saving
+from tensorflow.keras.callbacks import ModelCheckpoint, TensorBoard
 from tensorflow.keras.initializers import Orthogonal
-from tensorflow.keras.callbacks import ModelCheckpoint
-from tensorflow.keras.callbacks import TensorBoard
 from tensorflow.keras.layers import (
     GRU,
     LSTM,
     Add,
     Average,
     BatchNormalization,
-    LayerNormalization,
     Bidirectional,
+    Concatenate,
     Conv1D,
     Dense,
     Dropout,
@@ -28,6 +29,7 @@ from tensorflow.keras.layers import (
     Input,
     Lambda,
     Layer,
+    LayerNormalization,
     MaxPooling1D,
     PReLU,
     SeparableConv1D,
@@ -37,7 +39,6 @@ from tensorflow.keras.layers import (
     TimeDistributed,
     average,
     concatenate,
-    Concatenate,
 )
 from tensorflow.keras.losses import SparseCategoricalCrossentropy
 from tensorflow.keras.models import Model, Sequential
@@ -61,6 +62,7 @@ def setup():
     print("Num GPUs Available: ", len(tf.config.list_physical_devices("GPU")))
 
 
+@saving.register_keras_serializable()
 class LastCharLoss(tf.keras.metrics.Mean):
     def __init__(self, name="last_char_loss", **kwargs):
         super(LastCharLoss, self).__init__(name=name, **kwargs)
@@ -82,6 +84,10 @@ corpus_filename = "corpus.bytes"
 
 # TODO: get our snippets from more diverse places in the corpus, instead of just from one big window.
 # Perhaps just randomise for each __get_item__ call, via a 'permutation' function?
+# TODO: yes, grep random item for each __get_item__ call (and different each epoch),
+# and perhaps pre-cache them ahead of time in a separate thread (when we are waiting for the GPU.)
+# Or we could have a Rust program spit them out randomly?
+# That's probably easiest.
 class RandomSubsetSequence(tf.keras.utils.Sequence):
     def __init__(self, *args, **kwargs):
         super().__init__(*args, **kwargs)
@@ -324,7 +330,9 @@ def make_model_gru_skip():
     )
 
     model.summary()
-    checkpoint_dir = "checkpoints/gru_to_final_sequence_weight_decay_larger_window_skip_5"
+    checkpoint_dir = (
+        "checkpoints/gru_to_final_sequence_weight_decay_larger_window_skip_5"
+    )
     return (model, checkpoint_dir)
 
 
@@ -480,13 +488,13 @@ def make_model_condensed_skip_rnn():
     model = tf.keras.Model(inputs=inputs, outputs=outputs)
 
     model.compile(
-        optimizer=tf.optimizers.Adam(global_clipnorm=1.0),
+        optimizer=tf.optimizers.Adam(global_clipnorm=1.0, weight_decay=1e-4),
         loss=SparseCategoricalCrossentropy(from_logits=True),
         metrics=["accuracy"],
     )
 
     model.summary()
-    checkpoint_dir = "checkpoints/condensed_skip_rnn_layer_full_sequence_8"
+    checkpoint_dir = "checkpoints/condensed_skip_rnn_layer_full_sequence_8_weight_decay"
     return (model, checkpoint_dir)
 
 
@@ -494,8 +502,17 @@ def main():
     setup()
 
     # Build a simple model.
-    model, checkpoint_dir = make_model_gru_skip()
-    # dataset = make_data()
+    if True:
+        model, checkpoint_dir = make_model_condensed_skip_rnn()
+    else:
+        checkpoint_dir = (
+            "checkpoints/gru_to_final_sequence_weight_decay_larger_window_skip_5"
+        )
+        path = os.path.join(checkpoint_dir, "my_model_epoch_05.keras")
+        model = tf.keras.models.load_model(
+            path, custom_objects={"LastCharLoss": LastCharLoss}
+        )
+        model.summary()
     dataset = RandomSubsetSequence()
 
     checkpoint_cb = ModelCheckpoint(
@@ -522,7 +539,12 @@ def main():
 
     # Start training.
     # Note: Depending on the size of your dataset, you might need to adjust steps_per_epoch.
-    model.fit(dataset, epochs=10_000, callbacks=[checkpoint_cb, tensorboard_cb])
+    model.fit(
+        dataset,
+        epochs=10_000,
+        callbacks=[checkpoint_cb, tensorboard_cb],
+        initial_epoch=6,
+    )
 
 
 if __name__ == "__main__":
