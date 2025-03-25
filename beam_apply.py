@@ -228,6 +228,9 @@ def indices_to_text(indices, charset=" abcdefghijklmnopqrstuvwxyz0123456789.?,-:
 def main():
     # TODO: Update this, as we get newer models.
     path = "checkpoints/gru_bn/my_model_epoch_01_batch_40000.keras"
+    # This hone has a loss of about 1.2285:
+    # checkpoints/lstm_mixed_precision_english_only/my_model_epoch_1201.keras
+    # But we need to fiddle with it, to only get the last prediction, instead of all.
     model = tf.keras.models.load_model(path)
 
     # Optionally, print the summary to verify.

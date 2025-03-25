@@ -136,7 +136,7 @@ def make_data():
     return dataset.prefetch(tf.data.AUTOTUNE)
 
 
-def make_model_gru_skip():
+def make_model_lstm_skip():
     embedded_output_dim = 46
     units = 256
 
@@ -162,7 +162,7 @@ def make_model_gru_skip():
     # Store layer outputs for skip connections
     layer_outputs = [embed]  # Start with embedding as first layer output
 
-    # Create GRU layers with skip connections
+    # Create LSTM layers with skip connections
     for i, config in enumerate(layer_config):
         current_input = layer_outputs[-1]
 
@@ -182,8 +182,8 @@ def make_model_gru_skip():
             concat = Concatenate()([current_input] + skip_sources)
             current_input = TimeDistributed(Dense(config["units"]))(concat)
 
-        # Create GRU layer - always return sequences
-        gru_output = GRU(config["units"], return_sequences=True, name=f"gru_{i}")(
+        # Create LSTM layer - always return sequences
+        gru_output = LSTM(config["units"], return_sequences=True, name=f"gru_{i}")(
             current_input
         )
 
@@ -212,84 +212,7 @@ def make_model_gru_skip():
     )
 
     model.summary()
-    checkpoint_dir = "gru_mixed_precision_english_only"
-    return (model, checkpoint_dir)
-
-def make_model_condensed_skip_rnn():
-    embedded_output_dim = len(alpha)
-    rnn_units = 256
-    condensed_dim = 256  # Size of the compressed skip connections
-    num_layers = 10
-
-    # Use Functional API
-    inputs = Input(shape=(window_size,))
-
-    # Embedding layer
-    x = Embedding(input_dim=len(alpha), output_dim=embedded_output_dim)(inputs)
-    x = LayerNormalization()(x)
-
-    # Store all sequence outputs for skip connections
-    all_outputs = [x]
-    current_output = x
-
-    # Create RNN layers with learnable condensed skip connections
-    for i in range(num_layers):
-        # All layers return sequences now
-        return_sequences = True
-
-        # Condense half of previous outputs through a learnable projection
-        if i > 0:
-            # Concatenate half of previous outputs
-            combined = Concatenate(axis=2)(all_outputs[-1::-2])
-
-            # Learnable projection to reduce dimensionality
-            skip_projection = TimeDistributed(
-                Dense(condensed_dim, activation="linear")
-            )(combined)
-            skip_projection = LayerNormalization()(skip_projection)
-            skip_projection = PReLU()(skip_projection)
-
-            # Feed the condensed representation to the RNN layer
-            current_output = SimpleRNN(
-                rnn_units,
-                activation="linear",
-                kernel_initializer=Orthogonal(gain=1.2),
-                recurrent_initializer=Orthogonal(gain=1.2),
-                return_sequences=return_sequences,
-            )(skip_projection)
-        else:
-            # First layer just processes the embedding
-            current_output = SimpleRNN(
-                rnn_units,
-                activation="linear",
-                kernel_initializer=Orthogonal(gain=1.2),
-                recurrent_initializer=Orthogonal(gain=1.2),
-                return_sequences=return_sequences,
-            )(current_output)
-
-        current_output = LayerNormalization()(current_output)
-        current_output = PReLU()(current_output)
-
-        # Save this output for future skip connections
-        all_outputs.append(current_output)
-
-    # Final prediction layer - predict at each timestep
-    outputs = TimeDistributed(Dense(len(alpha)))(Concatenate(axis=2)(all_outputs))
-
-    # Create model
-    model = tf.keras.Model(inputs=inputs, outputs=outputs)
-
-    model.compile(
-        optimizer=tf.optimizers.Adam(
-            global_clipnorm=0.5,
-            weight_decay=1e-4,
-        ),
-        loss=SparseCategoricalCrossentropy(from_logits=True),
-        metrics=["accuracy"],
-    )
-
-    model.summary()
-    checkpoint_dir = "rnn_prelu_skip"
+    checkpoint_dir = "lstm_mixed_precision_english_only"
     return (model, checkpoint_dir)
 
 
@@ -298,7 +221,7 @@ def main():
 
     # Build a simple model.
     if True:
-        model, model_name = make_model_condensed_skip_rnn()
+        model, model_name = make_model_lstm_skip()
         checkpoint_dir = f"checkpoints/{model_name}"
         import random
 
