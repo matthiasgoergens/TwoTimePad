@@ -8,9 +8,10 @@ import numpy as np
 np.Inf = np.inf
 
 import subprocess
+
 import tensorflow as tf
 import tensorflow.keras.saving as saving
-from tensorflow.keras.callbacks import ModelCheckpoint, TensorBoard
+from tensorflow.keras.callbacks import ModelCheckpoint, ReduceLROnPlateau, TensorBoard
 from tensorflow.keras.initializers import Orthogonal
 from tensorflow.keras.layers import (
     GRU,
@@ -214,7 +215,10 @@ def make_model_gru_skip():
     model = tf.keras.Model(inputs=inputs, outputs=outputs)
 
     model.compile(
-        optimizer=tf.optimizers.Adam(global_clipnorm=1.0, weight_decay=1e-4),
+        optimizer=tf.optimizers.Adam(
+            global_clipnorm=0.5,
+            weight_decay=1e-4,
+        ),
         loss=SparseCategoricalCrossentropy(from_logits=True),
         metrics=["accuracy", LastCharLoss()],
     )
@@ -224,6 +228,7 @@ def make_model_gru_skip():
         "checkpoints/gru_to_final_sequence_weight_decay_larger_window_skip_5"
     )
     return (model, checkpoint_dir)
+
 
 def main():
     setup()
@@ -272,7 +277,11 @@ def main():
     model.fit(
         dataset,
         epochs=10_000,
-        callbacks=[checkpoint_cb, tensorboard_cb],
+        callbacks=[
+            checkpoint_cb,
+            tensorboard_cb,
+            ReduceLROnPlateau(monitor="loss", factor=0.5, patience=5, cooldown=2),
+        ],
         # initial_epoch=6,
         steps_per_epoch=1_000,
     )
