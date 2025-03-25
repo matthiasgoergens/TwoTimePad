@@ -137,8 +137,7 @@ def make_data():
 
 
 def make_model_lstm_skip():
-    embedded_output_dim = 46
-    units = 256
+    units = 512
 
     # Layer configuration - all return sequences now
     layer_config = [
@@ -156,7 +155,7 @@ def make_model_lstm_skip():
     inputs = Input(shape=(window_size,))
 
     # Embedding layer
-    x = Embedding(input_dim=len(alpha), output_dim=embedded_output_dim)(inputs)
+    x = Embedding(input_dim=len(alpha), output_dim=units)(inputs)
     embed = LayerNormalization()(x)
 
     # Store layer outputs for skip connections
@@ -168,27 +167,15 @@ def make_model_lstm_skip():
 
         # Handle skip connections
         if config["skip_type"] == "residual" and config["skip_from"]:
-            # For residual connections, project to match dimensions
-            skip_sources = [
-                TimeDistributed(Dense(config["units"]))(layer_outputs[j])
-                for j in config["skip_from"]
-            ]
+            skip_sources = [layer_outputs[j] for j in config["skip_from"]]
             for skip in skip_sources:
                 current_input = Add()([current_input, skip])
 
-        elif config["skip_type"] == "concat" and config["skip_from"]:
-            # For concat connections, concatenate then project
-            skip_sources = [layer_outputs[j] for j in config["skip_from"]]
-            concat = Concatenate()([current_input] + skip_sources)
-            current_input = TimeDistributed(Dense(config["units"]))(concat)
-
         # Create LSTM layer - always return sequences
-        gru_output = LSTM(config["units"], return_sequences=True, name=f"gru_{i}")(
-            current_input
-        )
+        lstm_output = LSTM(units, return_sequences=True, name=f"gru_{i}")(current_input)
 
         # Normalize output
-        norm_output = LayerNormalization()(gru_output)
+        norm_output = LayerNormalization()(lstm_output)
 
         # Store sequence output for skip connections
         layer_outputs.append(norm_output)
@@ -212,7 +199,7 @@ def make_model_lstm_skip():
     )
 
     model.summary()
-    checkpoint_dir = "lstm_mixed_precision_english_only_residual"
+    checkpoint_dir = "lstm_mixed_precision_english_only_residual_simpler_512"
     return (model, checkpoint_dir)
 
 
