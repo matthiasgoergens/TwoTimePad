@@ -66,18 +66,6 @@ def setup():
     print("Num GPUs Available: ", len(tf.config.list_physical_devices("GPU")))
 
 
-@saving.register_keras_serializable()
-class LastCharLoss(tf.keras.metrics.Mean):
-    def __init__(self, name="last_char_loss", **kwargs):
-        super(LastCharLoss, self).__init__(name=name, **kwargs)
-
-    def update_state(self, y_true, y_pred, sample_weight=None):
-        loss_value = tf.keras.losses.sparse_categorical_crossentropy(
-            y_true[-1], y_pred[-1], from_logits=True
-        )
-        return super(LastCharLoss, self).update_state(loss_value, sample_weight)
-
-
 window_size = 150
 batch_size = 64
 
@@ -220,11 +208,11 @@ def make_model_gru_skip():
             weight_decay=1e-4,
         ),
         loss=SparseCategoricalCrossentropy(from_logits=True),
-        metrics=["accuracy", LastCharLoss()],
+        metrics=["accuracy"],
     )
 
     model.summary()
-    checkpoint_dir = "checkpoints/gru_mixed_precision"
+    checkpoint_dir = "gru_mixed_precision_english_only"
     return (model, checkpoint_dir)
 
 
@@ -233,8 +221,13 @@ def main():
 
     # Build a simple model.
     if True:
-        model, checkpoint_dir = make_model_gru_skip()
+        model, model_name = make_model_gru_skip()
+        checkpoint_dir = f"checkpoints/{model_name}"
+        import random
+
+        log_dir = f"logs/{model_name}/{random.randrange(10_000)}"
     else:
+        return
         checkpoint_dir = (
             "checkpoints/gru_to_final_sequence_weight_decay_larger_window_skip_5"
         )
@@ -263,25 +256,30 @@ def main():
     else:
         print("No checkpoint found. Training from scratch.")
 
+    # import datetime
+    # log_dir = f"beam-logs/train/{datetime.now().strftime('%Y%m%d-%H%M%S')}"
+    # tensorboard_cb = TensorBoard(log_dir=log_dir)
     tensorboard_cb = TensorBoard(
-        log_dir="./beam-logs",  # Directory where the logs will be saved.
-        histogram_freq=0,  # Frequency (in epochs) at which to compute activation and weight histograms.
-        write_graph=False,  # Save the graph visualization.
-        # update_freq="epoch",  # Update frequency, can also be an integer (e.g. number of batches).
+        log_dir=log_dir,
+        # log_dir="./beam-logs",  # Directory where the logs will be saved.
+        # histogram_freq=0,  # Frequency (in epochs) at which to compute activation and weight histograms.
+        # write_graph=False,  # Save the graph visualization.
+        update_freq="epoch",
+        write_steps_per_second=True,
     )
 
     # Start training.
     # Note: Depending on the size of your dataset, you might need to adjust steps_per_epoch.
     model.fit(
         dataset,
-        epochs=10_000,
+        epochs=1_000_000,
         callbacks=[
             checkpoint_cb,
             tensorboard_cb,
-            ReduceLROnPlateau(monitor="loss", factor=0.5, patience=5, cooldown=2),
+            ReduceLROnPlateau(monitor="loss", factor=0.5, patience=50, cooldown=200),
         ],
         # initial_epoch=6,
-        steps_per_epoch=1_000,
+        steps_per_epoch=10,
     )
 
 
