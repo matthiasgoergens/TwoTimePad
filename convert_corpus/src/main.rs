@@ -88,16 +88,26 @@ fn generate_snippets(size: usize, path: PathBuf) {
             let start = rng.random_range(0..file_size - size);
             let end = start + size;
             let snippet = &mmap[start..end];
-            // Use a BufWriter for more efficient writing
 
-            buf_writer
-                .write_all(snippet)
-                .expect("Failed to write snippet to stdout");
+            // Handle broken pipe errors gracefully
+            if let Err(e) = buf_writer.write_all(snippet) {
+                if e.kind() == io::ErrorKind::BrokenPipe {
+                    // Pipe closed by the reader - exit gracefully
+                    return;
+                }
+                // For other errors, still panic
+                panic!("Failed to write snippet to stdout: {}", e);
+            }
         }
-        buf_writer.flush().expect("Failed to flush buffer");
-    }
 
-    // assert_eq!(&contents[..], &mmap[..]);
+        // Also handle broken pipe when flushing
+        if let Err(e) = buf_writer.flush() {
+            if e.kind() == io::ErrorKind::BrokenPipe {
+                return;
+            }
+            panic!("Failed to flush buffer: {}", e);
+        }
+    }
 }
 
 fn convert_to_indices() {
