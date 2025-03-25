@@ -276,7 +276,7 @@ def main():
         callbacks=[
             checkpoint_cb,
             tensorboard_cb,
-            ReduceLROnPlateau(monitor="loss", factor=0.5, patience=50, cooldown=200),
+            ReduceLROnPlateau(monitor="loss", factor=0.5, patience=50, cooldown=50),
         ],
         # initial_epoch=6,
         steps_per_epoch=10,

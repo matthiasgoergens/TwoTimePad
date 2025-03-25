@@ -222,11 +222,14 @@ def make_model_condensed_skip_rnn():
     model = tf.keras.Model(inputs=inputs, outputs=outputs)
 
     model.compile(
-        optimizer=tf.optimizers.Adam(global_clipnorm=1.0, weight_decay=1e-4),
+        optimizer=tf.optimizers.Adam(
+            global_clipnorm=0.5,
+            weight_decay=1e-4,
+        ),
         loss=SparseCategoricalCrossentropy(from_logits=True),
         metrics=["accuracy"],
     )
 
     model.summary()
-    checkpoint_dir = "checkpoints/condensed_skip_rnn_layer_full_sequence_8_weight_decay"
+    checkpoint_dir = "rnn_prelu_skip"
     return (model, checkpoint_dir)
