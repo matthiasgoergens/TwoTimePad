@@ -43,6 +43,7 @@ from tensorflow.keras.layers import (
     concatenate,
 )
 from tensorflow.keras.losses import SparseCategoricalCrossentropy
+from tensorflow.keras.mixed_precision import set_global_policy
 from tensorflow.keras.models import Model, Sequential
 
 from ops import avg, cat, concat, plus
@@ -61,6 +62,7 @@ def setup():
         useGPU = True
         print("Found GPU at: {}".format(device_name))
 
+        set_global_policy("mixed_float16")
     print("Num GPUs Available: ", len(tf.config.list_physical_devices("GPU")))
 
 
@@ -76,10 +78,8 @@ class LastCharLoss(tf.keras.metrics.Mean):
         return super(LastCharLoss, self).update_state(loss_value, sample_weight)
 
 
-# window_size * subset_size ~ 10M
-window_size = 100
+window_size = 150
 batch_size = 64
-subset_size = 100_000
 
 corpus_filename = "corpus.bytes"
 
@@ -224,9 +224,7 @@ def make_model_gru_skip():
     )
 
     model.summary()
-    checkpoint_dir = (
-        "checkpoints/gru_to_final_sequence_weight_decay_larger_window_skip_5"
-    )
+    checkpoint_dir = "checkpoints/gru_mixed_precision"
     return (model, checkpoint_dir)
 
 
