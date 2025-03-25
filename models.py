@@ -161,7 +161,7 @@ def make_model_condensed_skip_rnn():
     embedded_output_dim = len(alpha)
     rnn_units = 256
     condensed_dim = 256  # Size of the compressed skip connections
-    num_layers = 8
+    num_layers = 10
 
     # Use Functional API
     inputs = Input(shape=(window_size,))
