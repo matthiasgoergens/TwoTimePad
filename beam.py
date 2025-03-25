@@ -144,12 +144,12 @@ def make_model_lstm_skip():
     layer_config = [
         {"units": units, "skip_from": [], "skip_type": None},
         {"units": units, "skip_from": [0], "skip_type": "residual"},
-        {"units": units, "skip_from": [0, 1], "skip_type": "concat"},
-        {"units": units, "skip_from": [0, 1, 2], "skip_type": "concat"},
-        {"units": units, "skip_from": [1, 2, 3], "skip_type": "concat"},
-        {"units": units, "skip_from": [2, 3, 4], "skip_type": "concat"},
-        {"units": units, "skip_from": [3, 4, 5], "skip_type": "concat"},
-        {"units": units, "skip_from": [4, 5, 6], "skip_type": "concat"},
+        {"units": units, "skip_from": [1], "skip_type": "residual"},
+        {"units": units, "skip_from": [2], "skip_type": "residual"},
+        {"units": units, "skip_from": [3], "skip_type": "residual"},
+        {"units": units, "skip_from": [4], "skip_type": "residual"},
+        {"units": units, "skip_from": [5], "skip_type": "residual"},
+        {"units": units, "skip_from": [6], "skip_type": "residual"},
     ]
 
     # Input layer
@@ -194,10 +194,10 @@ def make_model_lstm_skip():
         layer_outputs.append(norm_output)
 
     # Concatenate all layer outputs along the feature dimension
-    final_concat = Concatenate()(layer_outputs)
+    # final_concat = Concatenate()(layer_outputs)
 
     # Output layer - predict at each timestep
-    outputs = TimeDistributed(Dense(len(alpha)))(final_concat)
+    outputs = TimeDistributed(Dense(len(alpha)))(norm_output)
 
     # Create model
     model = tf.keras.Model(inputs=inputs, outputs=outputs)
@@ -212,7 +212,7 @@ def make_model_lstm_skip():
     )
 
     model.summary()
-    checkpoint_dir = "lstm_mixed_precision_english_only"
+    checkpoint_dir = "lstm_mixed_precision_english_only_residual"
     return (model, checkpoint_dir)
 
 
