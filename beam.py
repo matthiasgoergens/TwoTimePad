@@ -7,6 +7,7 @@ import numpy as np
 # Monkey patching to make np.inf work with TensorFlow.
 np.Inf = np.inf
 
+import subprocess
 import tensorflow as tf
 import tensorflow.keras.saving as saving
 from tensorflow.keras.callbacks import ModelCheckpoint, TensorBoard
@@ -81,108 +82,61 @@ subset_size = 100_000
 
 corpus_filename = "corpus.bytes"
 
+record_size = window_size + 1
+dtype = tf.uint8
 
-# TODO: get our snippets from more diverse places in the corpus, instead of just from one big window.
-# Perhaps just randomise for each __get_item__ call, via a 'permutation' function?
-# TODO: yes, grep random item for each __get_item__ call (and different each epoch),
-# and perhaps pre-cache them ahead of time in a separate thread (when we are waiting for the GPU.)
-# Or we could have a Rust program spit them out randomly?
-# That's probably easiest.
-class RandomSubsetSequence(tf.keras.utils.Sequence):
-    def __init__(self, *args, **kwargs):
-        super().__init__(*args, **kwargs)
-        # Get total size in bytes of the corpus.
-        self.total_bytes = os.path.getsize(corpus_filename)
-        # Each sample requires window_size + 1 bytes.
-        self.total_samples = self.total_bytes - window_size
 
-        # Build the dataset for the first epoch.
-        self.build_dataset()
+def batched_generator():
+    proc = subprocess.Popen(
+        [
+            "cargo",
+            "run",
+            "--release",
+            "--",
+            "generate-snippets",
+            f"{record_size}",
+            f"../{corpus_filename}",
+        ],
+        cwd="convert_corpus",
+        stdout=subprocess.PIPE,
+        bufsize=record_size * batch_size * 4,  # Optional: increase buffer size
+    )
 
-    def build_dataset(self):
-        # Choose a random offset (header_bytes) so that there are enough samples left.
-        max_header = max(self.total_bytes - 2 * window_size * (subset_size + 1), 0)
-        header_bytes = random.randrange(max_header)
+    while True:
+        data = proc.stdout.read(record_size * batch_size)
+        if not data or len(data) < record_size * batch_size:
+            print("Unexpected EOF in dataset generator")
+            proc.terminate()
+            return
 
-        # Create the dataset that starts reading after header_bytes.
-        dataset = tf.data.FixedLengthRecordDataset(
-            corpus_filename, record_bytes=1, header_bytes=header_bytes
+        # Decode raw bytes to tensor
+        batch = tf.convert_to_tensor(
+            [
+                list(data[i * record_size : (i + 1) * record_size])
+                for i in range(batch_size)
+            ],
+            dtype=tf.uint8,
         )
 
-        # Decode each record (byte) into a uint8.
-        dataset = dataset.map(lambda x: tf.io.decode_raw(x, tf.uint8)[0])
-
-        # Create sliding windows of window_size+1 so that each window gives you
-        # an input (first window_size bytes) and target (bytes shifted by one).
-        windowed_dataset = dataset.window(
-            window_size + 1, shift=2 * window_size, drop_remainder=True
-        )
-        windowed_dataset = windowed_dataset.flat_map(
-            lambda window: window.batch(window_size + 1)
-        )
-
-        # Split each window into (input, target)
-        def split_input_target(window):
-            return window[:window_size], window[1 : window_size + 1]
-
-        dataset = windowed_dataset.map(split_input_target)
-
-        # (Optional) Shuffle within this subset if desired.
-        dataset = dataset.shuffle(
-            buffer_size=subset_size, reshuffle_each_iteration=True
-        )
-
-        # Take only a contiguous block (subset) for the current epoch.
-        dataset = dataset.take(subset_size)
-
-        # Batch and prefetch for performance.
-        dataset = dataset.batch(batch_size).prefetch(tf.data.experimental.AUTOTUNE)
-
-        # Materialize the dataset into a list of batches (this is fine if subset_size is moderate).
-        self.dataset_batches = list(dataset.as_numpy_iterator())
-
-    def __len__(self):
-        # Returns the number of batches per epoch.
-        return len(self.dataset_batches)
-
-    def __getitem__(self, idx):
-        return self.dataset_batches[idx]
-
-    def on_epoch_end(self):
-        # At the end of each epoch, rebuild the dataset with a new random header offset.
-        self.build_dataset()
+        x = batch[:, :-1]
+        y = batch[:, 1:]
+        yield x, y  # Directly yield input-target pair
 
 
 def make_data():
     # Read the file one byte at a time.
     dataset = tf.data.FixedLengthRecordDataset(corpus_filename, record_bytes=1)
-
-    # Decode the raw bytes into uint8 values.
-    dataset = dataset.map(lambda x: tf.io.decode_raw(x, tf.uint8)[0])
-
-    # Create sliding windows of window_size+1 (to have enough for both input and target)
-    windowed_dataset = dataset.window(window_size + 1, shift=1, drop_remainder=True)
-    windowed_dataset = windowed_dataset.flat_map(
-        lambda window: window.batch(window_size + 1)
+    # Dataset signature: batch of shape (batch_size, record_size)
+    dataset = tf.data.Dataset.from_generator(
+        batched_generator,
+        output_signature=(
+            tf.TensorSpec(shape=(batch_size, window_size), dtype=dtype),  # x
+            tf.TensorSpec(shape=(batch_size, window_size), dtype=dtype),  # y
+        ),
     )
 
-    # Split each window into (input, target)
-    # Input: first window_size bytes
-    # Target: last window_size bytes (shifted by 1 from input)
-    def split_input_target(window):
-        input_bytes = window[:window_size]  # First window_size bytes
-        target_bytes = window[1:]  # Last window_size bytes (shifted by 1)
-        return input_bytes, target_bytes
-
-    dataset = windowed_dataset.map(split_input_target)
-
-    # (Optional) Shuffle and batch the dataset.
-    dataset = (
-        dataset.shuffle(1_000_000)
-        .batch(batch_size)
-        .prefetch(tf.data.experimental.AUTOTUNE)
-    )
-    return dataset
+    # No need to batch again — it's already batched!
+    return dataset.prefetch(tf.data.AUTOTUNE)
 
 
 def make_model():
@@ -513,7 +467,8 @@ def main():
             path, custom_objects={"LastCharLoss": LastCharLoss}
         )
         model.summary()
-    dataset = RandomSubsetSequence()
+    # dataset = RandomSubsetSequence()
+    dataset = make_data()
 
     checkpoint_cb = ModelCheckpoint(
         filepath=os.path.join(checkpoint_dir, "my_model_epoch_{epoch:02d}.keras"),
@@ -543,7 +498,8 @@ def main():
         dataset,
         epochs=10_000,
         callbacks=[checkpoint_cb, tensorboard_cb],
-        initial_epoch=6,
+        # initial_epoch=6,
+        steps_per_epoch=1_000,
     )
 
 

@@ -5,7 +5,7 @@ use rand::Rng;
 use regex::Regex;
 use std::{
     fs::File,
-    io::{self, Read, Write},
+    io::{self, BufWriter, Read, Write},
     path::PathBuf,
 };
 
@@ -81,31 +81,20 @@ fn generate_snippets(size: usize, path: PathBuf) {
 
     let mut rng = rand::rng();
     let mut stdout = io::stdout();
-    let mut buf_writer = io::BufWriter::new(&mut stdout);
+    let mut buf_writer = BufWriter::with_capacity(1024 * 1024, &mut stdout);
     let file_size = mmap.len();
     loop {
-        for _ in 0..100 {
-            let start = rng.random_range(0..file_size - size);
-            let end = start + size;
-            let snippet = &mmap[start..end];
+        let start = rng.random_range(0..file_size - size);
+        let snippet = &mmap[start..][..size];
 
-            // Handle broken pipe errors gracefully
-            if let Err(e) = buf_writer.write_all(snippet) {
-                if e.kind() == io::ErrorKind::BrokenPipe {
-                    // Pipe closed by the reader - exit gracefully
-                    return;
-                }
-                // For other errors, still panic
-                panic!("Failed to write snippet to stdout: {}", e);
-            }
-        }
-
-        // Also handle broken pipe when flushing
-        if let Err(e) = buf_writer.flush() {
+        // Handle broken pipe errors gracefully
+        if let Err(e) = buf_writer.write_all(snippet) {
             if e.kind() == io::ErrorKind::BrokenPipe {
+                // Pipe closed by the reader - exit gracefully
                 return;
             }
-            panic!("Failed to flush buffer: {}", e);
+            // For other errors, still panic
+            panic!("Failed to write snippet to stdout: {}", e);
         }
     }
 }
