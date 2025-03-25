@@ -120,6 +120,14 @@ def batched_generator():
 
         x = batch[:, :-1]
         y = batch[:, 1:]
+        # # debug output:
+        # for i in range(3):
+        #     xx = x[i].numpy().tolist()
+        #     yy = y[i].numpy().tolist()
+        #     print(f"x[{i}]:", xx)
+        #     print(f"y[{i}]:", yy)
+        #     print(''.join(alpha[j] for j in xx))
+        #     print(''.join(alpha[j] for j in yy))
         yield x, y  # Directly yield input-target pair
 
 
@@ -457,7 +465,7 @@ def main():
 
     # Build a simple model.
     if True:
-        model, checkpoint_dir = make_model_condensed_skip_rnn()
+        model, checkpoint_dir = make_model_gru_skip()
     else:
         checkpoint_dir = (
             "checkpoints/gru_to_final_sequence_weight_decay_larger_window_skip_5"
@@ -466,6 +474,7 @@ def main():
         model = tf.keras.models.load_model(
             path, custom_objects={"LastCharLoss": LastCharLoss}
         )
+
         model.summary()
     # dataset = RandomSubsetSequence()
     dataset = make_data()
@@ -479,6 +488,7 @@ def main():
     )
 
     latest_checkpoint = tf.train.latest_checkpoint(checkpoint_dir)
+
     if latest_checkpoint:
         print("Restoring from", latest_checkpoint)
         model.load_weights(latest_checkpoint)
