@@ -261,7 +261,7 @@ def make_model_lstm_skip():
         # Create LSTM layer; note that we use BatchNormalization only before the LSTM.
         normed = BatchNormalization()(next_input)
 
-        rnn_layer = GRU(units, return_sequences=True, name=f"rnn_{i}")
+        rnn_layer = LSTM(units, return_sequences=True, name=f"rnn_{i}")
 
         lstm_output = rnn_layer(normed)
         # lstm_output = PReLU()(lstm_output)
@@ -282,13 +282,13 @@ def make_model_lstm_skip():
     model.compile(
         optimizer=tf.optimizers.Adam(
             global_clipnorm=0.5,
-            weight_decay=1e-4,
+            weight_decay=1e-5,
         ),
         loss=SparseCategoricalCrossentropy(from_logits=True),
         metrics=["accuracy"],
     )
     model.summary()
-    checkpoint_dir = "rnn_gru"
+    checkpoint_dir = "rnn_lstm_final_less_decay"
     return model, checkpoint_dir
 
 
@@ -317,7 +317,7 @@ def main():
     dataset = make_data()
 
     checkpoint_cb = ModelCheckpoint(
-        filepath=os.path.join(checkpoint_dir, "my_model_epoch_{epoch:02d}.keras"),
+        filepath=os.path.join(checkpoint_dir, "epoch_{epoch:02d}.keras"),
         monitor="loss",  # You can change this to any metric, e.g. 'val_loss'
         verbose=1,
         save_best_only=True,
