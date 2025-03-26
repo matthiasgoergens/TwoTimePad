@@ -14,8 +14,6 @@ import tensorflow.keras.saving as saving
 from tensorflow.keras.callbacks import ModelCheckpoint, ReduceLROnPlateau, TensorBoard
 from tensorflow.keras.initializers import Orthogonal
 from tensorflow.keras.layers import (
-    ZeroPadding1D,
-    ZeroPadding2D,
     GRU,
     LSTM,
     Add,
@@ -41,6 +39,8 @@ from tensorflow.keras.layers import (
     Softmax,
     SpatialDropout1D,
     TimeDistributed,
+    ZeroPadding1D,
+    ZeroPadding2D,
     average,
     concatenate,
 )
@@ -138,10 +138,6 @@ def make_data():
     return dataset.prefetch(tf.data.AUTOTUNE)
 
 
-from tensorflow.keras.layers import Layer
-import tensorflow as tf
-
-
 class PartialResidualAdd(Layer):
     """
     TODO: consider split, add, concat; instead of padding.
@@ -165,6 +161,53 @@ class PartialResidualAdd(Layer):
 
         # Add the padded residual to x
         return self.add_layer([x, padded_residual])
+
+
+import tensorflow as tf
+from tensorflow.keras.layers import Layer
+
+
+class BlockDropout(Layer):
+    """
+    Implements stochastic depth by randomly zeroing out the entire tensor
+    with probability drop_rate during training.
+
+    This is meant to be used before a residual connection.
+    """
+
+    def __init__(self, drop_rate=0.2, **kwargs):
+        """
+        Args:
+            drop_rate: Float between 0 and 1. Probability of zeroing out the input.
+        """
+        super(BlockDropout, self).__init__(**kwargs)
+        self.drop_rate = drop_rate
+
+    def call(self, inputs, training=None):
+        # During inference or if drop_rate is 0, return unchanged
+        if not training or self.drop_rate == 0:
+            return inputs
+
+        # Create a random binary tensor: 1 with probability (1-drop_rate), 0 with probability drop_rate
+        batch_size = tf.shape(inputs)[0]
+        random_tensor = tf.random.uniform([batch_size], 0, 1)
+        binary_tensor = tf.cast(random_tensor >= self.drop_rate, inputs.dtype)
+
+        # Reshape for broadcasting to all dimensions
+        ndims = len(inputs.shape)
+        broadcast_shape = [batch_size] + [1] * (ndims - 1)
+        binary_tensor = tf.reshape(binary_tensor, broadcast_shape)
+
+        # Scale the kept values to maintain the same expected value
+        keep_prob = 1.0 - self.drop_rate
+        outputs = inputs * binary_tensor / keep_prob
+
+        return outputs
+
+    def get_config(self):
+        config = super(BlockDropout, self).get_config()
+        config.update({"drop_rate": self.drop_rate})
+        return config
 
 
 def make_model_lstm_skip():
@@ -200,19 +243,20 @@ def make_model_lstm_skip():
         # Create LSTM layer; note that we use BatchNormalization only before the LSTM.
         normed = BatchNormalization()(next_input)
 
-        # rnn_layer = LSTM(units, return_sequences=True, name=f"rnn_{i}")
-        def rnn_layer(*args, **kwargs):
-            return PReLU()(
-                SimpleRNN(
-                    units,
-                    activation="linear",
-                    kernel_initializer=Orthogonal(gain=1.2),
-                    recurrent_initializer=Orthogonal(gain=1.2),
-                    return_sequences=True,
-                )(*args, **kwargs)
-            )
+        rnn_layer = LSTM(units, return_sequences=True, name=f"rnn_{i}")
+        # def rnn_layer(*args, **kwargs):
+        #     return PReLU()(
+        #         SimpleRNN(
+        #             units,
+        #             activation="linear",
+        #             kernel_initializer=Orthogonal(gain=0.5),
+        #             recurrent_initializer=Orthogonal(gain=0.5),
+        #             return_sequences=True,
+        #         )(*args, **kwargs)
+        #     )
 
         lstm_output = rnn_layer(normed)
+        lstm_output = BlockDropout(drop_rate=1 / num_layers)(lstm_output)
         print(f"{i} units: {units}\t{next_input}\t{lstm_output}")
         # Use the adjust_add helper to perform the residual connection.
         # next_input = adjust_add(lstm_output, next_input)
@@ -234,7 +278,7 @@ def make_model_lstm_skip():
         metrics=["accuracy"],
     )
     model.summary()
-    checkpoint_dir = "rnn_prelu_growing"
+    checkpoint_dir = "rnn_lstm_with_dropout"
     return model, checkpoint_dir
 
 
