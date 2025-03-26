@@ -137,6 +137,15 @@ def make_data():
 
 
 def make_model_lstm_skip():
+    """
+    Insight:
+    - LayerNormalisation before hitting the LSTM layer, but not in the residual 'path'.
+
+    Try BatchNormalisation instead of LayerNormalisation next.
+    Also try PReLU instead of LSTM.
+    Also consider mixing Residual with skip connections?
+    Or growing the residual over layers?
+    """
     num_layers = 10
     units = 512
 
@@ -204,7 +213,7 @@ def main():
         filepath=os.path.join(checkpoint_dir, "my_model_epoch_{epoch:02d}.keras"),
         monitor="loss",  # You can change this to any metric, e.g. 'val_loss'
         verbose=1,
-        save_best_only=False,
+        save_best_only=True,
         # save_freq="epoch",  # Save every 1000 samples processed.
     )
 
