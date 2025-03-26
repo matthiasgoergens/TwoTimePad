@@ -222,7 +222,7 @@ def make_model_lstm_skip():
     Or growing the residual over layers?
     """
     num_layers = 10
-    units = 2048
+    units = 1.5 * 1024
 
     layer_units = [
         len(alpha) + round(i * (units - len(alpha)) / num_layers)
@@ -278,7 +278,7 @@ def make_model_lstm_skip():
         metrics=["accuracy"],
     )
     model.summary()
-    checkpoint_dir = "rnn_lstm_2048"
+    checkpoint_dir = "rnn_lstm_1536"
     return model, checkpoint_dir
 
 
