@@ -232,6 +232,8 @@ def make_model_lstm_skip():
       at least at first.  Let's see.
     - Ignoring the first 10 (out of 100) losses seems to help with speed of learning.
       It lets the LSTM build up context.
+    - Adding a BatchNorm before the final dense projection to len(alpha) seems to not make training progress slower.
+      I suspect that's because the benefits of BN are outweighed by making the residual connection with the output worse.
 
     Also try PReLU instead of LSTM.
     Also consider mixing Residual with skip connections?
@@ -262,6 +264,7 @@ def make_model_lstm_skip():
         rnn_layer = LSTM(units, return_sequences=True, name=f"rnn_{i}")
 
         lstm_output = rnn_layer(normed)
+        lstm_output = PReLU()(lstm_output)
         # lstm_output = BlockDropout(drop_rate=1 / num_layers)(lstm_output)
         print(f"{i} units: {units}\t{next_input}\t{lstm_output}")
         # Use the adjust_add helper to perform the residual connection.
@@ -271,8 +274,8 @@ def make_model_lstm_skip():
 
     # Experiment TODO: add BatchNormalization before or after the dense layer here.
     # Output layer - predict at each timestep
-    outputs = TimeDistributed(Dense(len(alpha)))(BatchNormalization()(next_input))
-    # outputs = TimeDistributed(Dense(len(alpha)))(next_input)
+    # outputs = TimeDistributed(Dense(len(alpha)))(BatchNormalization()(next_input))
+    outputs = TimeDistributed(Dense(len(alpha)))(next_input)
 
     # Create model
     model = tf.keras.Model(inputs=inputs, outputs=outputs)
@@ -285,7 +288,7 @@ def make_model_lstm_skip():
         metrics=["accuracy"],
     )
     model.summary()
-    checkpoint_dir = "rnn_lstm_1536_sample_weight_bn_last"
+    checkpoint_dir = "rnn_lstm_prelu"
     return model, checkpoint_dir
 
 
