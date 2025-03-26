@@ -146,6 +146,7 @@ class PartialResidualAdd(Layer):
     """
     TODO: consider split, add, concat; instead of padding.
     """
+
     def __init__(self, **kwargs):
         super(PartialResidualAdd, self).__init__(**kwargs)
         self.add_layer = Add()
@@ -206,6 +207,7 @@ def make_model_lstm_skip():
 
         next_input = PartialResidualAdd()([lstm_output, next_input])
 
+    # Experiment: add BatchNormalization before or after the dense layer here.
     # Output layer - predict at each timestep
     outputs = TimeDistributed(Dense(len(alpha)))(next_input)
 
@@ -220,6 +222,9 @@ def make_model_lstm_skip():
         metrics=["accuracy"],
     )
     model.summary()
+    # Total params: 31,392,654 (119.75 MB)
+    # Trainable params: 31,382,932 (119.72 MB)
+    # Non-trainable params: 9,722 (37.98 KB)
     checkpoint_dir = "lstm_residual_never_norm_residual_batchnorm_growing_4_pad"
     return model, checkpoint_dir
 
