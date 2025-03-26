@@ -143,50 +143,27 @@ import tensorflow as tf
 
 
 class PartialResidualAdd(Layer):
+    """
+    TODO: consider split, add, concat; instead of padding.
+    """
     def __init__(self, **kwargs):
         super(PartialResidualAdd, self).__init__(**kwargs)
-
-    def build(self, input_shape):
-        # Validate input shape
-        if not isinstance(input_shape, list) or len(input_shape) != 2:
-            raise ValueError("Input must be a list of two tensors")
-
-        # Mark the layer as built
-        self.built = True
+        self.add_layer = Add()
 
     def call(self, inputs):
-        # inputs is a list [lstm_output, residual]
-        lstm_output, residual = inputs
+        # inputs is a list [x, residual] where x has more channels than residual
+        x, residual = inputs
 
-        # Get the number of channels
-        lstm_channels = tf.shape(lstm_output)[-1]
-        residual_channels = tf.shape(residual)[-1]
+        # Get shapes
+        x_shape = tf.shape(x)
+        res_shape = tf.shape(residual)
 
-        # Hmm, this code is run every time!
-        # # Debug print
-        # tf.print(
-        #     "LSTM channels:", lstm_channels, "Residual channels:", residual_channels
-        # )
+        # Create a padded version of residual with zeros in the extra channels
+        padding = [[0, 0], [0, 0], [0, x_shape[-1] - res_shape[-1]]]
+        padded_residual = tf.pad(residual, padding)
 
-        # Expected case: lstm_output has more or equal channels than residual
-        # if lstm_channels >= residual_channels:
-        # Split the lstm_output into matching part and remainder
-        matching_part = lstm_output[..., :residual_channels]
-        remainder_part = lstm_output[..., residual_channels:]
-
-        # Add the residual to the matching part
-        added_part = matching_part + residual
-
-        # Concatenate the added part with the remainder
-        result = tf.concat([added_part, remainder_part], axis=-1)
-        return result
-
-    def compute_output_shape(self, input_shape):
-        # Output shape will be the larger of the two input shapes
-        if input_shape[0][-1] >= input_shape[1][-1]:
-            return input_shape[0]
-        else:
-            return input_shape[1]
+        # Add the padded residual to x
+        return self.add_layer([x, padded_residual])
 
 
 def make_model_lstm_skip():
@@ -243,7 +220,7 @@ def make_model_lstm_skip():
         metrics=["accuracy"],
     )
     model.summary()
-    checkpoint_dir = "lstm_residual_never_norm_residual_batchnorm_growing_4"
+    checkpoint_dir = "lstm_residual_never_norm_residual_batchnorm_growing_4_pad"
     return model, checkpoint_dir
 
 
