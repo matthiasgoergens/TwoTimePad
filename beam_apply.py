@@ -8,7 +8,7 @@ import beam
 from beam import window_size
 from process_corpus import alpha
 
-beam_width = 1000
+beam_width = 10
 
 snippet_length = 100
 
@@ -113,10 +113,10 @@ class ReconstructionState:
     def length(self):
         return len(self.text_A)
 
-    def context_A(self, window_size=30):
+    def context_A(self, window_size=window_size):
         return self.text_A[-window_size:]
 
-    def context_B(self, window_size=30):
+    def context_B(self, window_size=window_size):
         return self.text_B[-window_size:]
 
 
@@ -173,8 +173,9 @@ def beam_search(
                 char_B = (char_A - differences[diff_idx]) % 46
 
                 # Calculate losses
-                new_loss_A = state.loss_A + losses_A[char_A]
-                new_loss_B = state.loss_B + losses_B[char_B]
+                # print(f"losses_A: {losses_A[-1]}")
+                new_loss_A = state.loss_A + losses_A[-1][char_A]
+                new_loss_B = state.loss_B + losses_B[-1][char_B]
 
                 # Create new state
                 new_state = ReconstructionState(
@@ -210,8 +211,8 @@ def beam_search(
             )
             outputA = to_text(beam[0].text_A)
             outputB = to_text(beam[0].text_B)
-            print(f"Best A so far: {outputA}")
-            print(f"Best B so far: {outputB}")
+            print(f"Best A so far: {outputA[window_size:]}")
+            print(f"Best B so far: {outputB[window_size:]}")
             diff_so_far = to_text(diff_plains(beam[0].text_A, beam[0].text_B))
             print(f"Best D so far: {diff_so_far}")
 
@@ -227,11 +228,12 @@ def indices_to_text(indices, charset=" abcdefghijklmnopqrstuvwxyz0123456789.?,-:
 
 def main():
     # TODO: Update this, as we get newer models.
-    path = "checkpoints/gru_bn/my_model_epoch_01_batch_40000.keras"
+    path = "checkpoints/rnn_lstm_final_less_decay/epoch_1345.keras"
+    # path = "checkpoints/gru_bn/my_model_epoch_01_batch_40000.keras"
     # This hone has a loss of about 1.2285:
     # checkpoints/lstm_mixed_precision_english_only/my_model_epoch_1201.keras
     # But we need to fiddle with it, to only get the last prediction, instead of all.
-    model = tf.keras.models.load_model(path)
+    model = tf.keras.models.load_model(path, custom_objects={"PartialResidualAdd":beam.PartialResidualAdd})
 
     # Optionally, print the summary to verify.
     model.summary()
@@ -246,8 +248,8 @@ def main():
     (a, b, diff) = prep()
     best_state = beam_search(diff, get_next_char_losses)
     print("starting reconstruction")
-    text_A = indices_to_text(best_state.text_A[30:])  # Skip the initial padding
-    text_B = indices_to_text(best_state.text_B[30:])
+    text_A = indices_to_text(best_state.text_A[window_size:])  # Skip the initial padding
+    text_B = indices_to_text(best_state.text_B[window_size:])
 
     print(f"Reconstructed A: {text_A}")
     print(f"Reconstructed B: {text_B}")
