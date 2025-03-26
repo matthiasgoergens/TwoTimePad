@@ -14,6 +14,8 @@ import tensorflow.keras.saving as saving
 from tensorflow.keras.callbacks import ModelCheckpoint, ReduceLROnPlateau, TensorBoard
 from tensorflow.keras.initializers import Orthogonal
 from tensorflow.keras.layers import (
+    ZeroPadding1D,
+    ZeroPadding2D,
     GRU,
     LSTM,
     Add,
@@ -136,24 +138,29 @@ def make_data():
     return dataset.prefetch(tf.data.AUTOTUNE)
 
 
-def adjust_add(last_output, last_input):
-    # Assuming statically known shapes
-    out_dim = last_output.shape[-1]
-    in_dim = last_input.shape[-1]
+class PartialResidualAdd(Layer):
+    """
+    TODO: consider split, add, concat; instead of padding.
+    """
 
-    if in_dim == out_dim:
-        adjusted = last_input
-    elif in_dim < out_dim:
-        # Pad last_input with zeros at the end along the last dimension.
-        pad_amount = out_dim - in_dim
-        # Create paddings: no padding for all axes except the last axis.
-        paddings = [[0, 0]] * (len(last_input.shape) - 1) + [[0, pad_amount]]
-        adjusted = tf.pad(last_input, paddings)
-    else:
-        # Truncate last_input if it has more channels than last_output.
-        adjusted = last_input[..., :out_dim]
+    def __init__(self, **kwargs):
+        super(PartialResidualAdd, self).__init__(**kwargs)
+        self.add_layer = Add()
 
-    return last_output + adjusted
+    def call(self, inputs):
+        # inputs is a list [x, residual] where x has more channels than residual
+        x, residual = inputs
+
+        # Get shapes
+        x_shape = tf.shape(x)
+        res_shape = tf.shape(residual)
+
+        # Create a padded version of residual with zeros in the extra channels
+        padding = [[0, 0], [0, 0], [0, x_shape[-1] - res_shape[-1]]]
+        padded_residual = tf.pad(residual, padding)
+
+        # Add the padded residual to x
+        return self.add_layer([x, padded_residual])
 
 
 def make_model_lstm_skip():
@@ -168,7 +175,7 @@ def make_model_lstm_skip():
     Or growing the residual over layers?
     """
     num_layers = 10
-    units = 512
+    units = 1024
 
     layer_units = [
         len(alpha) + round(i * (units - len(alpha)) / num_layers)
@@ -179,24 +186,27 @@ def make_model_lstm_skip():
     inputs = Input(shape=(window_size,))
 
     # Embedding layer
-    embed = Embedding(input_dim=len(alpha), output_dim=units)(inputs)
+    embed = Embedding(input_dim=len(alpha), output_dim=len(alpha))(inputs)
 
+    print("\nLayers!\n")
     # Store layer outputs for skip connections
     next_input = embed
     for i, units in enumerate(layer_units):
-        # Create LSTM layer
+        # Create LSTM layer; note that we use BatchNormalization only before the LSTM.
         lstm_output = LSTM(units, return_sequences=True, name=f"lstm_{i}")(
             BatchNormalization()(next_input)
         )
+        print(f"{i} units: {units}\t{next_input}\t{lstm_output}")
+        # Use the adjust_add helper to perform the residual connection.
+        # next_input = adjust_add(lstm_output, next_input)
 
-        next_input = adjust_add(lstm_output, next_input)
+        next_input = PartialResidualAdd()([lstm_output, next_input])
 
     # Output layer - predict at each timestep
     outputs = TimeDistributed(Dense(len(alpha)))(next_input)
 
     # Create model
     model = tf.keras.Model(inputs=inputs, outputs=outputs)
-
     model.compile(
         optimizer=tf.optimizers.Adam(
             global_clipnorm=0.5,
@@ -205,10 +215,9 @@ def make_model_lstm_skip():
         loss=SparseCategoricalCrossentropy(from_logits=True),
         metrics=["accuracy"],
     )
-
     model.summary()
     checkpoint_dir = "lstm_residual_never_norm_residual_batchnorm_growing"
-    return (model, checkpoint_dir)
+    return model, checkpoint_dir
 
 
 def main():
