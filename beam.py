@@ -222,7 +222,7 @@ def make_model_lstm_skip():
     Or growing the residual over layers?
     """
     num_layers = 10
-    units = 1024
+    units = 2048
 
     layer_units = [
         len(alpha) + round(i * (units - len(alpha)) / num_layers)
@@ -256,7 +256,7 @@ def make_model_lstm_skip():
         #     )
 
         lstm_output = rnn_layer(normed)
-        lstm_output = BlockDropout(drop_rate=1 / num_layers)(lstm_output)
+        # lstm_output = BlockDropout(drop_rate=1 / num_layers)(lstm_output)
         print(f"{i} units: {units}\t{next_input}\t{lstm_output}")
         # Use the adjust_add helper to perform the residual connection.
         # next_input = adjust_add(lstm_output, next_input)
@@ -278,7 +278,7 @@ def make_model_lstm_skip():
         metrics=["accuracy"],
     )
     model.summary()
-    checkpoint_dir = "rnn_lstm_with_dropout"
+    checkpoint_dir = "rnn_lstm_2048"
     return model, checkpoint_dir
 
 
