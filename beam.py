@@ -137,54 +137,27 @@ def make_data():
 
 
 def make_model_lstm_skip():
+    num_layers = 10
     units = 512
-
-    # Layer configuration - all return sequences now
-    layer_config = [
-        {"units": units, "skip_from": [], "skip_type": None},
-        {"units": units, "skip_from": [0], "skip_type": "residual"},
-        {"units": units, "skip_from": [1], "skip_type": "residual"},
-        {"units": units, "skip_from": [2], "skip_type": "residual"},
-        {"units": units, "skip_from": [3], "skip_type": "residual"},
-        {"units": units, "skip_from": [4], "skip_type": "residual"},
-        {"units": units, "skip_from": [5], "skip_type": "residual"},
-        {"units": units, "skip_from": [6], "skip_type": "residual"},
-    ]
 
     # Input layer
     inputs = Input(shape=(window_size,))
 
     # Embedding layer
-    x = Embedding(input_dim=len(alpha), output_dim=units)(inputs)
-    embed = LayerNormalization()(x)
+    embed = Embedding(input_dim=len(alpha), output_dim=units)(inputs)
 
     # Store layer outputs for skip connections
-    layer_outputs = [embed]  # Start with embedding as first layer output
+    next_input = embed
+    for i in range(num_layers):
+        # Create LSTM layer
+        lstm_output = LSTM(units, return_sequences=True, name=f"lstm_{i}")(
+            LayerNormalization()(next_input)
+        )
 
-    # Create LSTM layers with skip connections
-    for i, config in enumerate(layer_config):
-        current_input = layer_outputs[-1]
-
-        # Handle skip connections
-        if config["skip_type"] == "residual" and config["skip_from"]:
-            skip_sources = [layer_outputs[j] for j in config["skip_from"]]
-            for skip in skip_sources:
-                current_input = Add()([current_input, skip])
-
-        # Create LSTM layer - always return sequences
-        lstm_output = LSTM(units, return_sequences=True, name=f"gru_{i}")(current_input)
-
-        # Normalize output
-        norm_output = LayerNormalization()(lstm_output)
-
-        # Store sequence output for skip connections
-        layer_outputs.append(norm_output)
-
-    # Concatenate all layer outputs along the feature dimension
-    # final_concat = Concatenate()(layer_outputs)
+        next_input = Add()([next_input, lstm_output])
 
     # Output layer - predict at each timestep
-    outputs = TimeDistributed(Dense(len(alpha)))(norm_output)
+    outputs = TimeDistributed(Dense(len(alpha)))(next_input)
 
     # Create model
     model = tf.keras.Model(inputs=inputs, outputs=outputs)
@@ -199,7 +172,7 @@ def make_model_lstm_skip():
     )
 
     model.summary()
-    checkpoint_dir = "lstm_mixed_precision_english_only_residual_simpler_512"
+    checkpoint_dir = "lstm_residual_never_norm_residual"
     return (model, checkpoint_dir)
 
 
