@@ -244,16 +244,6 @@ def make_model_lstm_skip():
         normed = BatchNormalization()(next_input)
 
         rnn_layer = LSTM(units, return_sequences=True, name=f"rnn_{i}")
-        # def rnn_layer(*args, **kwargs):
-        #     return PReLU()(
-        #         SimpleRNN(
-        #             units,
-        #             activation="linear",
-        #             kernel_initializer=Orthogonal(gain=0.5),
-        #             recurrent_initializer=Orthogonal(gain=0.5),
-        #             return_sequences=True,
-        #         )(*args, **kwargs)
-        #     )
 
         lstm_output = rnn_layer(normed)
         # lstm_output = BlockDropout(drop_rate=1 / num_layers)(lstm_output)
@@ -263,9 +253,9 @@ def make_model_lstm_skip():
 
         next_input = PartialResidualAdd()([lstm_output, next_input])
 
-    # Experiment: add BatchNormalization before or after the dense layer here.
+    # Experiment TODO: add BatchNormalization before or after the dense layer here.
     # Output layer - predict at each timestep
-    outputs = TimeDistributed(Dense(len(alpha)))(next_input)
+    outputs = TimeDistributed(Dense(len(alpha)))(BatchNormalization()(next_input))
 
     # Create model
     model = tf.keras.Model(inputs=inputs, outputs=outputs)
@@ -278,7 +268,7 @@ def make_model_lstm_skip():
         metrics=["accuracy"],
     )
     model.summary()
-    checkpoint_dir = "rnn_lstm_1536"
+    checkpoint_dir = "rnn_lstm_1536_batchnorm_last_too"
     return model, checkpoint_dir
 
 
