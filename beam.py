@@ -134,6 +134,20 @@ def make_data():
         ),
     )
 
+    # Add sample weights here
+    def add_sample_weight(x, y):
+        ignore_first = 10
+        sample_weight = tf.concat(
+            [
+                tf.zeros((batch_size, ignore_first)),  # ignore first few timesteps
+                tf.ones((batch_size, window_size - ignore_first)),
+            ],
+            axis=-1,
+        )
+        return x, y, sample_weight
+
+    dataset = dataset.map(add_sample_weight, num_parallel_calls=tf.data.AUTOTUNE)
+
     # No need to batch again — it's already batched!
     return dataset.prefetch(tf.data.AUTOTUNE)
 
@@ -255,7 +269,8 @@ def make_model_lstm_skip():
 
     # Experiment TODO: add BatchNormalization before or after the dense layer here.
     # Output layer - predict at each timestep
-    outputs = TimeDistributed(Dense(len(alpha)))(BatchNormalization()(next_input))
+    # outputs = TimeDistributed(Dense(len(alpha)))(BatchNormalization()(next_input))
+    outputs = TimeDistributed(Dense(len(alpha)))(next_input)
 
     # Create model
     model = tf.keras.Model(inputs=inputs, outputs=outputs)
@@ -268,7 +283,7 @@ def make_model_lstm_skip():
         metrics=["accuracy"],
     )
     model.summary()
-    checkpoint_dir = "rnn_lstm_1536_batchnorm_last_too"
+    checkpoint_dir = "rnn_lstm_1536_sample_weight"
     return model, checkpoint_dir
 
 
