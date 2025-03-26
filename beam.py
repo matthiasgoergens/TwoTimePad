@@ -160,7 +160,9 @@ def make_model_lstm_skip():
     for i in range(num_layers):
         # Create LSTM layer
         lstm_output = LSTM(units, return_sequences=True, name=f"lstm_{i}")(
-            LayerNormalization()(next_input)
+            BatchNormalization()
+            # LayerNormalization()
+            (next_input)
         )
 
         next_input = Add()([next_input, lstm_output])
@@ -181,7 +183,7 @@ def make_model_lstm_skip():
     )
 
     model.summary()
-    checkpoint_dir = "lstm_residual_never_norm_residual"
+    checkpoint_dir = "lstm_residual_never_norm_residual_batchnorm"
     return (model, checkpoint_dir)
 
 
