@@ -136,6 +136,26 @@ def make_data():
     return dataset.prefetch(tf.data.AUTOTUNE)
 
 
+def adjust_add(last_output, last_input):
+    # Assuming statically known shapes
+    out_dim = last_output.shape[-1]
+    in_dim = last_input.shape[-1]
+
+    if in_dim == out_dim:
+        adjusted = last_input
+    elif in_dim < out_dim:
+        # Pad last_input with zeros at the end along the last dimension.
+        pad_amount = out_dim - in_dim
+        # Create paddings: no padding for all axes except the last axis.
+        paddings = [[0, 0]] * (len(last_input.shape) - 1) + [[0, pad_amount]]
+        adjusted = tf.pad(last_input, paddings)
+    else:
+        # Truncate last_input if it has more channels than last_output.
+        adjusted = last_input[..., :out_dim]
+
+    return last_output + adjusted
+
+
 def make_model_lstm_skip():
     """
     Insights:
@@ -150,6 +170,11 @@ def make_model_lstm_skip():
     num_layers = 10
     units = 512
 
+    layer_units = [
+        len(alpha) + round(i * (units - len(alpha)) / num_layers)
+        for i in range(1, num_layers + 1)
+    ]
+
     # Input layer
     inputs = Input(shape=(window_size,))
 
@@ -158,13 +183,13 @@ def make_model_lstm_skip():
 
     # Store layer outputs for skip connections
     next_input = embed
-    for i in range(num_layers):
+    for i, units in enumerate(layer_units):
         # Create LSTM layer
         lstm_output = LSTM(units, return_sequences=True, name=f"lstm_{i}")(
             BatchNormalization()(next_input)
         )
 
-        next_input = Add()([next_input, lstm_output])
+        next_input = adjust_add(lstm_output, next_input)
 
     # Output layer - predict at each timestep
     outputs = TimeDistributed(Dense(len(alpha)))(next_input)
@@ -182,7 +207,7 @@ def make_model_lstm_skip():
     )
 
     model.summary()
-    checkpoint_dir = "lstm_residual_never_norm_residual_batchnorm"
+    checkpoint_dir = "lstm_residual_never_norm_residual_batchnorm_growing"
     return (model, checkpoint_dir)
 
 
