@@ -138,10 +138,11 @@ def make_data():
 
 def make_model_lstm_skip():
     """
-    Insight:
+    Insights:
     - LayerNormalisation before hitting the LSTM layer, but not in the residual 'path'.
+    - BatchNormalisation instead of LayerNormalisation seems to make learning a lot faster,
+      at least at first.  Let's see.
 
-    Try BatchNormalisation instead of LayerNormalisation next.
     Also try PReLU instead of LSTM.
     Also consider mixing Residual with skip connections?
     Or growing the residual over layers?
@@ -160,9 +161,7 @@ def make_model_lstm_skip():
     for i in range(num_layers):
         # Create LSTM layer
         lstm_output = LSTM(units, return_sequences=True, name=f"lstm_{i}")(
-            BatchNormalization()
-            # LayerNormalization()
-            (next_input)
+            BatchNormalization()(next_input)
         )
 
         next_input = Add()([next_input, lstm_output])
