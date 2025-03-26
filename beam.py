@@ -230,6 +230,8 @@ def make_model_lstm_skip():
     - LayerNormalisation before hitting the LSTM layer, but not in the residual 'path'.
     - BatchNormalisation instead of LayerNormalisation seems to make learning a lot faster,
       at least at first.  Let's see.
+    - Ignoring the first 10 (out of 100) losses seems to help with speed of learning.
+      It lets the LSTM build up context.
 
     Also try PReLU instead of LSTM.
     Also consider mixing Residual with skip connections?
@@ -269,8 +271,8 @@ def make_model_lstm_skip():
 
     # Experiment TODO: add BatchNormalization before or after the dense layer here.
     # Output layer - predict at each timestep
-    # outputs = TimeDistributed(Dense(len(alpha)))(BatchNormalization()(next_input))
-    outputs = TimeDistributed(Dense(len(alpha)))(next_input)
+    outputs = TimeDistributed(Dense(len(alpha)))(BatchNormalization()(next_input))
+    # outputs = TimeDistributed(Dense(len(alpha)))(next_input)
 
     # Create model
     model = tf.keras.Model(inputs=inputs, outputs=outputs)
@@ -283,7 +285,7 @@ def make_model_lstm_skip():
         metrics=["accuracy"],
     )
     model.summary()
-    checkpoint_dir = "rnn_lstm_1536_sample_weight"
+    checkpoint_dir = "rnn_lstm_1536_sample_weight_bn_last"
     return model, checkpoint_dir
 
 
@@ -356,3 +358,7 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+# >>> import math
+# >>> math.log(46)/2
+# 1.9143206982445475
