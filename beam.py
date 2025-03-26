@@ -261,10 +261,10 @@ def make_model_lstm_skip():
         # Create LSTM layer; note that we use BatchNormalization only before the LSTM.
         normed = BatchNormalization()(next_input)
 
-        rnn_layer = LSTM(units, return_sequences=True, name=f"rnn_{i}")
+        rnn_layer = GRU(units, return_sequences=True, name=f"rnn_{i}")
 
         lstm_output = rnn_layer(normed)
-        lstm_output = PReLU()(lstm_output)
+        # lstm_output = PReLU()(lstm_output)
         # lstm_output = BlockDropout(drop_rate=1 / num_layers)(lstm_output)
         print(f"{i} units: {units}\t{next_input}\t{lstm_output}")
         # Use the adjust_add helper to perform the residual connection.
@@ -288,7 +288,7 @@ def make_model_lstm_skip():
         metrics=["accuracy"],
     )
     model.summary()
-    checkpoint_dir = "rnn_lstm_prelu"
+    checkpoint_dir = "rnn_gru"
     return model, checkpoint_dir
 
 
