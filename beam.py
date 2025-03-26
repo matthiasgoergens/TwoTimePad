@@ -198,9 +198,21 @@ def make_model_lstm_skip():
     next_input = embed
     for i, units in enumerate(layer_units):
         # Create LSTM layer; note that we use BatchNormalization only before the LSTM.
-        lstm_output = LSTM(units, return_sequences=True, name=f"lstm_{i}")(
-            BatchNormalization()(next_input)
-        )
+        normed = BatchNormalization()(next_input)
+
+        # rnn_layer = LSTM(units, return_sequences=True, name=f"rnn_{i}")
+        def rnn_layer(*args, **kwargs):
+            return PReLU()(
+                SimpleRNN(
+                    units,
+                    activation="linear",
+                    kernel_initializer=Orthogonal(gain=1.2),
+                    recurrent_initializer=Orthogonal(gain=1.2),
+                    return_sequences=True,
+                )(*args, **kwargs)
+            )
+
+        lstm_output = rnn_layer(normed)
         print(f"{i} units: {units}\t{next_input}\t{lstm_output}")
         # Use the adjust_add helper to perform the residual connection.
         # next_input = adjust_add(lstm_output, next_input)
@@ -222,10 +234,7 @@ def make_model_lstm_skip():
         metrics=["accuracy"],
     )
     model.summary()
-    # Total params: 31,392,654 (119.75 MB)
-    # Trainable params: 31,382,932 (119.72 MB)
-    # Non-trainable params: 9,722 (37.98 KB)
-    checkpoint_dir = "lstm_residual_never_norm_residual_batchnorm_growing_4_pad"
+    checkpoint_dir = "rnn_prelu_growing"
     return model, checkpoint_dir
 
 
