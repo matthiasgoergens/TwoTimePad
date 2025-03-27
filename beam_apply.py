@@ -68,9 +68,9 @@ def prep():
     # This is a hack, something is wrong with my conversion, and I lose a few bytes.
     # I hope those aren't at the beginning.
     trunc = 8000
-    textA = bytes(open("examples/unsong.bytes", 'rb').read())
+    textA = bytes(open("examples/unsong.bytes", "rb").read())
     # textB = load_random_snippet()
-    textB = bytes(open("examples/worm.bytes", 'rb').read())
+    textB = bytes(open("examples/worm.bytes", "rb").read())
     trunc = min(len(textA), len(textB))
     textA = textA[:trunc]
     textB = textB[:trunc]
@@ -200,7 +200,7 @@ def beam_search(differences, model, beam_width=beam_width, context_size=window_s
         print(f"Position: {pos}/{target_length}, Best loss: {beam[0].total_loss:.2f}")
         outputA = to_text(beam[0].text_A[context_size:])
         outputB = to_text(beam[0].text_B[context_size:])
-        
+
         print(f"Best A so far: {outputA}")
         print(f"Best B so far: {outputB}")
         # diff_so_far = to_text(diff_plains(beam[0].text_A, beam[0].text_B))
@@ -208,7 +208,9 @@ def beam_search(differences, model, beam_width=beam_width, context_size=window_s
 
     return beam[0]
 
+
 output_file = "best_prediction.txt"
+
 
 def indices_to_text(indices, charset=" abcdefghijklmnopqrstuvwxyz0123456789.?,-:;'()"):
     """Convert a list of character indices to a string."""
