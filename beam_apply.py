@@ -197,12 +197,19 @@ def beam_search(differences, model, beam_width=beam_width, context_size=window_s
         # Keep top beam_width states
         beam = sorted(candidates, key=lambda state: state.total_loss)[:beam_width]
 
-        print(f"Position: {pos}/{target_length}, Best loss: {beam[0].total_loss:.2f}")
-        outputA = to_text(beam[0].text_A[context_size:])
-        outputB = to_text(beam[0].text_B[context_size:])
+        def present_beam1(beam1):
+            return to_text(beam1[context_size:])
 
-        print(f"Best A so far: {outputA}")
-        print(f"Best B so far: {outputB}")
+        best = beam[0].total_loss
+        worst = beam[-1].total_loss
+        print(
+            f"Position: {pos}/{target_length}, Best loss: {best:.2f}, Worst loss: {worst:.2f}, Diff: {worst-best:.2f}"
+        )
+
+        print(f"Best A so far: {present_beam1(beam[0].text_A)}")
+        print(f"Worst A still: {present_beam1(beam[-1].text_A)}")
+        print(f"Best B so far: {present_beam1(beam[0].text_B)}")
+        print(f"Worst B still: {present_beam1(beam[-1].text_B)}")
         # diff_so_far = to_text(diff_plains(beam[0].text_A, beam[0].text_B))
         # print(f"Best D so far: {diff_so_far}")
 
