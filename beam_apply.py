@@ -68,9 +68,13 @@ def prep():
     # This is a hack, something is wrong with my conversion, and I lose a few bytes.
     # I hope those aren't at the beginning.
     trunc = 8000
-    textA = bytes(open("examples/ciphertext-1.bytes", 'rb').read())[:trunc]
+    textA = bytes(open("examples/unsong.bytes", 'rb').read())
     # textB = load_random_snippet()
-    textB = bytes(open("examples/ciphertext-2.bytes", 'rb').read())[:trunc]
+    textB = bytes(open("examples/worm.bytes", 'rb').read())
+    trunc = min(len(textA), len(textB))
+    textA = textA[:trunc]
+    textB = textB[:trunc]
+
     cipher = diff_plains(textA, textB)
     print(to_text(textA))
     print(to_text(textB))
