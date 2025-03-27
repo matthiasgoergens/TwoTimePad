@@ -112,14 +112,18 @@ fn convert_to_indices() {
     eprintln!("Read {} bytes", content.len());
 
     // Stage 1: Clean up text using regex
-    let whitespace_regex = Regex::new(r"\s+").unwrap();
+    // let whitespace_regex = Regex::new(r"\s+").unwrap();
+    let whitespace_regex = Regex::new(r"\s").unwrap();
     // I'm a bit suspicous about using - both for character ranges and as a literal character.
     // But it seems to work?
     let invalid_char_regex = Regex::new(r"[^a-z0-9.?,-:;'() ]").unwrap();
 
     let content = content.to_lowercase();
+    eprintln!("to_lowercase {} bytes", content.len());
     let content = whitespace_regex.replace_all(&content, " ");
+    eprintln!("replace space {} bytes", content.len());
     let content = invalid_char_regex.replace_all(&content, "");
+    eprintln!("remove invalid {} bytes", content.len());
 
     // Stage 2: Convert to indices
     // let mut writer = BufWriter::new(stdout.lock());

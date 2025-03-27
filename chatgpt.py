@@ -1,4 +1,4 @@
-import collections
+import string
 
 alphabet = " ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789.?,-:;'()"
 alpha_dict = {char: idx for idx, char in enumerate(alphabet)}
@@ -13,42 +13,43 @@ def to_text(nums):
 def mod46_diff(c1, c2):
     return [(a - b) % 46 for a, b in zip(c1, c2)]
 
+def plausible_char(c):
+    return c == ' ' or c in string.ascii_uppercase or c in ".,?-;'()"
+
 def guess_plaintexts(c1, c2):
     diff = mod46_diff(c1, c2)
     n = len(diff)
-
-    # Hypothesis: assume positions with difference = 0 correspond to same plaintext character
     plaintext1 = ['?'] * n
     plaintext2 = ['?'] * n
 
-    # Using heuristic: assume space (index 0) at positions where diff is common
+    # First pass: identify likely spaces
+    space_likelihood = [0] * n
     for i in range(n):
-        if diff[i] == 0:
-            plaintext1[i] = plaintext2[i] = '?'
-        else:
-            # If we guess plaintext1[i] is space (0), plaintext2[i] would be diff[i] mod 46
-            # vice versa for plaintext2[i]
-            # Check both hypotheses:
-            p1_space_p2_char = inv_alpha_dict[diff[i]]
-            p2_space_p1_char = inv_alpha_dict[-diff[i] % 46]
+        char_if_p1_space = inv_alpha_dict[diff[i]]
+        char_if_p2_space = inv_alpha_dict[-diff[i] % 46]
 
-            # Heuristic: prefer letters or common punctuation
-            if p1_space_p2_char == ' ':
-                plaintext1[i] = ' '
-                plaintext2[i] = ' '
-            elif p2_space_p1_char == ' ':
-                plaintext1[i] = ' '
-                plaintext2[i] = ' '
-            elif p1_space_p2_char.isalpha() and not p2_space_p1_char.isalpha():
-                plaintext1[i] = ' '
-                plaintext2[i] = p1_space_p2_char
-            elif p2_space_p1_char.isalpha() and not p1_space_p2_char.isalpha():
-                plaintext2[i] = ' '
-                plaintext1[i] = p2_space_p1_char
-            else:
-                # uncertain, just pick most likely letters
-                plaintext1[i] = p2_space_p1_char.lower()
-                plaintext2[i] = p1_space_p2_char.lower()
+        if plausible_char(char_if_p1_space):
+            space_likelihood[i] += 1
+        if plausible_char(char_if_p2_space):
+            space_likelihood[i] += 1
+
+    # Assign spaces confidently
+    for i in range(n):
+        char_if_p1_space = inv_alpha_dict[diff[i]]
+        char_if_p2_space = inv_alpha_dict[-diff[i] % 46]
+
+        # Prefer the hypothesis that yields a letter when the other plaintext is space
+        if char_if_p1_space == ' ' and plausible_char(char_if_p2_space):
+            plaintext1[i], plaintext2[i] = ' ', char_if_p2_space
+        elif char_if_p2_space == ' ' and plausible_char(char_if_p1_space):
+            plaintext2[i], plaintext1[i] = ' ', char_if_p1_space
+        else:
+            # If uncertain, leave '?'
+            plaintext1[i], plaintext2[i] = '?', '?'
+
+    # Second pass: propagate known spaces to reveal words
+    # Try common English words to fill gaps (e.g., THE, AND, OF)
+    # This is iterative and best done interactively, but we provide a basic propagation.
 
     return ''.join(plaintext1), ''.join(plaintext2)
 

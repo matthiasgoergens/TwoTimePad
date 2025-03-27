@@ -7,6 +7,6 @@
 
 # OK, let's convert and store the conversion.
 
-alpha = " abcdefghijklmnopqrstuvwxyz0123456789.?,-:;'()"
-alphaRE = alpha.replace("-", "\\-") 
+alpha = b" abcdefghijklmnopqrstuvwxyz0123456789.?,-:;'()"
+alphaRE = alpha.replace(b"-", b"\\-")
 assert len(alpha) == 46

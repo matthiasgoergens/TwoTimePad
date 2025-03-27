@@ -3,14 +3,16 @@ import random
 
 import numpy as np
 import tensorflow as tf
+import tempfile
 
 import beam
 from beam import window_size
 from process_corpus import alpha
 
-beam_width = 10
+beam_width = 2_000
 
 snippet_length = 100
+
 
 def load_random_snippet(snippet_length=snippet_length, filename=beam.corpus_filename):
     # Get the total file size
@@ -54,12 +56,21 @@ def diff_plains(snippet_A, snippet_B):
 
 
 def to_text(snippet):
-    return "".join([alpha[c] for c in snippet])
+    # print(snippet)
+    # print(alpha)
+    # bb = [alpha[c] for c in snippet][:100]
+    # print(bb)
+    # print(bytes(bb))
+    return bytes([alpha[c] for c in snippet])
 
 
 def prep():
-    textA = load_random_snippet()
-    textB = load_random_snippet()
+    # This is a hack, something is wrong with my conversion, and I lose a few bytes.
+    # I hope those aren't at the beginning.
+    trunc = 8000
+    textA = bytes(open("examples/ciphertext-1.bytes", 'rb').read())[:trunc]
+    # textB = load_random_snippet()
+    textB = bytes(open("examples/ciphertext-2.bytes", 'rb').read())[:trunc]
     cipher = diff_plains(textA, textB)
     print(to_text(textA))
     print(to_text(textB))
@@ -86,6 +97,23 @@ def predict_next_probabilities(model, seed):
     # Compute the loss in bits for each token: (log(sum(exp(logits))) - logits) / log(2)
     # We ignore the 1/log(2), because our application doesn't care about constant factors.
     return -log_probs.numpy()
+
+
+def predict_next_probabilities_batched(model, seeds):
+    """
+    seeds: A numpy array of shape (batch_size, window_size)
+    returns: A numpy array of shape (batch_size, window_size, len(alpha)), representing
+             negative log-probabilities for each timestep and token.
+    """
+    # Predict logits for all inputs at once (shape: [batch_size, window_size, num_classes])
+    logits = model.predict(seeds, verbose=0)
+
+    # Compute log softmax (log-probabilities)
+    log_probs = tf.nn.log_softmax(logits, axis=-1)
+
+    # Convert to negative log probabilities
+    neg_log_probs = -log_probs.numpy()  # shape: (batch_size, window_size, len(alpha))
+    return neg_log_probs
 
 
 # # Example usage:
@@ -120,106 +148,63 @@ class ReconstructionState:
         return self.text_B[-window_size:]
 
 
-def beam_search(
-    differences, get_next_char_losses, beam_width=beam_width, context_size=window_size
-):
-    """
-    Reconstruct texts A and B using beam search.
-
-    Args:
-        differences: List of (A-B) % 46 for each position
-        get_next_char_losses: Function that returns loss for all characters given a context
-        beam_width: Maximum number of states to keep in the beam
-        context_size: Size of context window for the language model
-
-    Returns:
-        Best reconstructed state (texts A and B with their losses)
-    """
-    # Initialize with context window filled with spaces (index 0)
+def beam_search(differences, model, beam_width=beam_width, context_size=window_size):
     initial_text_A = [0] * context_size
     initial_text_B = [0] * context_size
 
-    # Create initial state
     initial_state = ReconstructionState(
         text_A=initial_text_A, text_B=initial_text_B, loss_A=0.0, loss_B=0.0
     )
 
-    # Initialize beam with the initial state
     beam = [initial_state]
-
-    # Target length to reconstruct
     target_length = context_size + len(differences)
 
     for pos in range(context_size, target_length):
-        new_beam = []
-        # # Track best states by context key (Viterbi-like optimization)
-        # best_states = {}
+        diff_idx = pos - context_size
+        candidates = []
 
-        for state in beam:
-            # Get the context windows
-            context_A = state.context_A(context_size)
-            context_B = state.context_B(context_size)
+        # Prepare batch inputs for A and B
+        contexts_A = np.array([state.context_A(context_size) for state in beam])
+        contexts_B = np.array([state.context_B(context_size) for state in beam])
 
-            # Get losses for all possible next characters
-            losses_A = get_next_char_losses(context_A)
-            losses_B = get_next_char_losses(context_B)
+        # Batch prediction
+        losses_A = predict_next_probabilities_batched(model, contexts_A)
+        losses_B = predict_next_probabilities_batched(model, contexts_B)
 
-            # Calculate the difference index
-            diff_idx = pos - context_size
+        # Only take the last timestep's predictions
+        losses_A = losses_A[:, -1, :]  # shape (beam_width, len(alpha))
+        losses_B = losses_B[:, -1, :]
 
-            # Try all possible next characters for A
+        # Expand beam states
+        for i, state in enumerate(beam):
             for char_A in range(46):
-                # Determine the corresponding character for B
                 char_B = (char_A - differences[diff_idx]) % 46
+                new_loss_A = state.loss_A + losses_A[i, char_A]
+                new_loss_B = state.loss_B + losses_B[i, char_B]
 
-                # Calculate losses
-                # print(f"losses_A: {losses_A[-1]}")
-                new_loss_A = state.loss_A + losses_A[-1][char_A]
-                new_loss_B = state.loss_B + losses_B[-1][char_B]
-
-                # Create new state
                 new_state = ReconstructionState(
                     text_A=state.text_A + [char_A],
                     text_B=state.text_B + [char_B],
                     loss_A=new_loss_A,
                     loss_B=new_loss_B,
                 )
-                new_beam.append(new_state)
+                candidates.append(new_state)
 
-                # Use context as key for Viterbi-like optimization
-                # context_key = (
-                #     tuple(new_state.context_A()),
-                #     tuple(new_state.context_B()),
-                # )
+        # Keep top beam_width states
+        beam = sorted(candidates, key=lambda state: state.total_loss)[:beam_width]
 
-                # # Keep only the best state for each context
-                # if (
-                #     context_key not in best_states
-                #     or new_state.total_loss < best_states[context_key].total_loss
-                # ):
-                #     best_states[context_key] = new_state
+        print(f"Position: {pos}/{target_length}, Best loss: {beam[0].total_loss:.2f}")
+        outputA = to_text(beam[0].text_A[context_size:])
+        outputB = to_text(beam[0].text_B[context_size:])
+        
+        print(f"Best A so far: {outputA}")
+        print(f"Best B so far: {outputB}")
+        # diff_so_far = to_text(diff_plains(beam[0].text_A, beam[0].text_B))
+        # print(f"Best D so far: {diff_so_far}")
 
-        # Select top beam_width states for the next iteration
-        beam = sorted(new_beam, key=lambda state: state.total_loss)[
-            :beam_width
-        ]
-
-        # Print progress every 100 positions
-        if pos % 1 == 0:
-            print(
-                f"Position: {pos}/{target_length}, Best loss: {beam[0].total_loss:.2f}"
-            )
-            outputA = to_text(beam[0].text_A)
-            outputB = to_text(beam[0].text_B)
-            print(f"Best A so far: {outputA[window_size:]}")
-            print(f"Best B so far: {outputB[window_size:]}")
-            diff_so_far = to_text(diff_plains(beam[0].text_A, beam[0].text_B))
-            print(f"Best D so far: {diff_so_far}")
-
-
-    # Return the best state
     return beam[0]
 
+output_file = "best_prediction.txt"
 
 def indices_to_text(indices, charset=" abcdefghijklmnopqrstuvwxyz0123456789.?,-:;'()"):
     """Convert a list of character indices to a string."""
@@ -227,28 +212,17 @@ def indices_to_text(indices, charset=" abcdefghijklmnopqrstuvwxyz0123456789.?,-:
 
 
 def main():
-    # TODO: Update this, as we get newer models.
     path = "checkpoints/rnn_lstm_final_less_decay/epoch_1345.keras"
-    # path = "checkpoints/gru_bn/my_model_epoch_01_batch_40000.keras"
-    # This hone has a loss of about 1.2285:
-    # checkpoints/lstm_mixed_precision_english_only/my_model_epoch_1201.keras
-    # But we need to fiddle with it, to only get the last prediction, instead of all.
-    model = tf.keras.models.load_model(path, custom_objects={"PartialResidualAdd":beam.PartialResidualAdd})
-
-    # Optionally, print the summary to verify.
+    model = tf.keras.models.load_model(
+        path, custom_objects={"PartialResidualAdd": beam.PartialResidualAdd}
+    )
     model.summary()
 
-    # seed = [0] * window_size  # Replace with your actual seed.
-    # probs = predict_next_probabilities(model, seed)
-    # print(type(probs))
-    # print(probs.sum())
-    # print("Next token probabilities:", probs)
-
-    get_next_char_losses = lambda context: predict_next_probabilities(model, context)
     (a, b, diff) = prep()
-    best_state = beam_search(diff, get_next_char_losses)
-    print("starting reconstruction")
-    text_A = indices_to_text(best_state.text_A[window_size:])  # Skip the initial padding
+
+    best_state = beam_search(diff, model)  # Pass model directly now
+    print("Reconstruction complete.")
+    text_A = indices_to_text(best_state.text_A[window_size:])
     text_B = indices_to_text(best_state.text_B[window_size:])
 
     print(f"Reconstructed A: {text_A}")
