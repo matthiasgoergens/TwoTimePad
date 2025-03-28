@@ -298,8 +298,8 @@ def make_model():
     inputs = Input(shape=(window_size,))
 
     outputs = Sequential(
-        Embedding(input_dim=len(alpha), output_dim=len(alpha)),
         [
+            Embedding(input_dim=len(alpha), output_dim=len(alpha)),
             BatchNormalization(),
             LSTM(units, return_sequences=True),
             TimeDistributed(Dense(len(alpha))),
