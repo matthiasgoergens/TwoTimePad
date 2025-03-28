@@ -312,7 +312,6 @@ def make_model():
     print("\nLayers!\n")
     # Store layer outputs for skip connections
     next_input = embed
-    outputs = [embed]
     for i, units in enumerate(layer_units):
         # Create LSTM layer; note that we use BatchNormalization only before the LSTM.
         normed = BatchNormalization()(next_input)
@@ -326,15 +325,12 @@ def make_model():
         # Use the adjust_add helper to perform the residual connection.
         # next_input = adjust_add(lstm_output, next_input)
 
-        # next_input = PartialResidualAdd()([lstm_output, next_input])
-        next_input = lstm_output
-        outputs.append(lstm_output)
+        next_input = PartialResidualAdd()([lstm_output, next_input])
 
     # Experiment TODO: add BatchNormalization before or after the dense layer here.
     # Output layer - predict at each timestep
     # outputs = TimeDistributed(Dense(len(alpha)))(BatchNormalization()(next_input))
-    outputs = TimeDistributed(Dense(len(alpha)))(Concatenate()(outputs))
-    # outputs = TimeDistributed(Dense(len(alpha)))(next_input)
+    outputs = TimeDistributed(Dense(len(alpha)))(next_input)
 
     # Create model
     model = tf.keras.Model(inputs=inputs, outputs=outputs)
@@ -347,7 +343,7 @@ def make_model():
         metrics=["accuracy"],
     )
     model.summary()
-    checkpoint_dir = "lstm_4_layers_straight_skip_not_residual"
+    checkpoint_dir = "lstm_4_layers_straight"
     return model, checkpoint_dir
 
 
