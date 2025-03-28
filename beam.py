@@ -156,7 +156,7 @@ def make_model():
         metrics=["accuracy"],
     )
     model.summary()
-    checkpoint_dir = "lstm_ablated_double_layers_0p05dropout_long"
+    checkpoint_dir = "lstm_ablated_double_layers_0.05dropout_long"
     return model, checkpoint_dir
 
 
