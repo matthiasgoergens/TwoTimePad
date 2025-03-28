@@ -293,46 +293,19 @@ def make_model_lstm_skip():
 
 
 def make_model():
-    num_layers = 4
-    units = round(1.5 * 1024)
+    units = 2048
 
-    # layer_units = [
-    #     len(alpha) + round(i * (units - len(alpha)) / num_layers)
-    #     for i in range(1, num_layers + 1)
-    # ]
-    layer_units = [units for i in range(1, num_layers + 1)]
-
-    # Input layer
     inputs = Input(shape=(window_size,))
 
-    # Embedding layer
-    embed = Embedding(input_dim=len(alpha), output_dim=len(alpha))(inputs)
+    outputs = Sequential(
+        Embedding(input_dim=len(alpha), output_dim=len(alpha)),
+        [
+            BatchNormalization(),
+            LSTM(units, return_sequences=True),
+            TimeDistributed(Dense(len(alpha))),
+        ],
+    )(inputs)
 
-    # Weirdly, this code is run again and again.
-    print("\nLayers!\n")
-    # Store layer outputs for skip connections
-    next_input = embed
-    for i, units in enumerate(layer_units):
-        # Create LSTM layer; note that we use BatchNormalization only before the LSTM.
-        normed = BatchNormalization()(next_input)
-
-        rnn_layer = LSTM(units, return_sequences=True, name=f"rnn_{i}")
-
-        lstm_output = rnn_layer(normed)
-        # lstm_output = PReLU()(lstm_output)
-        # lstm_output = BlockDropout(drop_rate=1 / num_layers)(lstm_output)
-        print(f"{i} units: {units}\t{next_input}\t{lstm_output}")
-        # Use the adjust_add helper to perform the residual connection.
-        # next_input = adjust_add(lstm_output, next_input)
-
-        next_input = PartialResidualAdd()([lstm_output, next_input])
-
-    # Experiment TODO: add BatchNormalization before or after the dense layer here.
-    # Output layer - predict at each timestep
-    # outputs = TimeDistributed(Dense(len(alpha)))(BatchNormalization()(next_input))
-    outputs = TimeDistributed(Dense(len(alpha)))(next_input)
-
-    # Create model
     model = tf.keras.Model(inputs=inputs, outputs=outputs)
     model.compile(
         optimizer=tf.optimizers.Adam(
@@ -343,7 +316,7 @@ def make_model():
         metrics=["accuracy"],
     )
     model.summary()
-    checkpoint_dir = "lstm_4_layers_straight"
+    checkpoint_dir = "lstm_1_simpler"
     return model, checkpoint_dir
 
 
