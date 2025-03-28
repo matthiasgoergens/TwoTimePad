@@ -292,12 +292,66 @@ def make_model_lstm_skip():
     return model, checkpoint_dir
 
 
+def make_model():
+    num_layers = 1
+    units = 2048
+
+    layer_units = [
+        len(alpha) + round(i * (units - len(alpha)) / num_layers)
+        for i in range(1, num_layers + 1)
+    ]
+
+    # Input layer
+    inputs = Input(shape=(window_size,))
+
+    # Embedding layer
+    embed = Embedding(input_dim=len(alpha), output_dim=len(alpha))(inputs)
+
+    # Weirdly, this code is run again and again.
+    print("\nLayers!\n")
+    # Store layer outputs for skip connections
+    next_input = embed
+    for i, units in enumerate(layer_units):
+        # Create LSTM layer; note that we use BatchNormalization only before the LSTM.
+        normed = BatchNormalization()(next_input)
+
+        rnn_layer = LSTM(units, return_sequences=True, name=f"rnn_{i}")
+
+        lstm_output = rnn_layer(normed)
+        # lstm_output = PReLU()(lstm_output)
+        # lstm_output = BlockDropout(drop_rate=1 / num_layers)(lstm_output)
+        print(f"{i} units: {units}\t{next_input}\t{lstm_output}")
+        # Use the adjust_add helper to perform the residual connection.
+        # next_input = adjust_add(lstm_output, next_input)
+
+        next_input = PartialResidualAdd()([lstm_output, next_input])
+
+    # Experiment TODO: add BatchNormalization before or after the dense layer here.
+    # Output layer - predict at each timestep
+    # outputs = TimeDistributed(Dense(len(alpha)))(BatchNormalization()(next_input))
+    outputs = TimeDistributed(Dense(len(alpha)))(next_input)
+
+    # Create model
+    model = tf.keras.Model(inputs=inputs, outputs=outputs)
+    model.compile(
+        optimizer=tf.optimizers.Adam(
+            global_clipnorm=0.5,
+            weight_decay=1e-5,
+        ),
+        loss=SparseCategoricalCrossentropy(from_logits=True),
+        metrics=["accuracy"],
+    )
+    model.summary()
+    checkpoint_dir = "lstm_1_layer"
+    return model, checkpoint_dir
+
+
 def main():
     setup()
 
     # Build a simple model.
     if True:
-        model, model_name = make_model_lstm_skip()
+        model, model_name = make_model()
         checkpoint_dir = f"checkpoints/{model_name}"
         import random
 
@@ -352,7 +406,9 @@ def main():
         callbacks=[
             checkpoint_cb,
             tensorboard_cb,
-            ReduceLROnPlateau(monitor="loss", factor=0.5, patience=50, cooldown=50),
+            ReduceLROnPlateau(
+                monitor="loss", factor=0.5**0.5, patience=50, cooldown=50
+            ),
         ],
         # initial_epoch=6,
         steps_per_epoch=10,
