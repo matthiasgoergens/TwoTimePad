@@ -158,7 +158,7 @@ def make_model():
         metrics=["accuracy"],
     )
     model.summary()
-    checkpoint_dir = "lstm_ablated_double_layers_0p05dropout"
+    checkpoint_dir = "lstm_ablated_double_layers_0p05dropout_more_steps"
     return model, checkpoint_dir
 
 
@@ -227,7 +227,7 @@ def main():
             ),
         ],
         # initial_epoch=6,
-        steps_per_epoch=10,
+        steps_per_epoch=40,
     )
 
 
