@@ -10,45 +10,19 @@ np.Inf = np.inf
 import subprocess
 
 import tensorflow as tf
-import tensorflow.keras.saving as saving
 from tensorflow.keras.callbacks import ModelCheckpoint, ReduceLROnPlateau, TensorBoard
-from tensorflow.keras.initializers import Orthogonal
 from tensorflow.keras.layers import (
-    GRU,
     LSTM,
-    Add,
-    Average,
     BatchNormalization,
-    Bidirectional,
-    Concatenate,
-    Conv1D,
     Dense,
-    Dropout,
     Embedding,
-    Flatten,
-    GaussianDropout,
-    GlobalMaxPooling1D,
     Input,
-    Lambda,
-    Layer,
-    LayerNormalization,
-    MaxPooling1D,
-    PReLU,
-    SeparableConv1D,
-    SimpleRNN,
-    Softmax,
-    SpatialDropout1D,
     TimeDistributed,
-    ZeroPadding1D,
-    ZeroPadding2D,
-    average,
-    concatenate,
 )
 from tensorflow.keras.losses import SparseCategoricalCrossentropy
 from tensorflow.keras.mixed_precision import set_global_policy
 from tensorflow.keras.models import Model, Sequential
 
-from ops import avg, cat, concat, plus
 from process_corpus import alpha
 
 
@@ -111,117 +85,7 @@ def batched_generator():
 
         x = batch[:, :-1]
         y = batch[:, 1:]
-        # # debug output:
-        # for i in range(3):
-        #     xx = x[i].numpy().tolist()
-        #     yy = y[i].numpy().tolist()
-        #     print(f"x[{i}]:", xx)
-        #     print(f"y[{i}]:", yy)
-        #     print(''.join(alpha[j] for j in xx))
-        #     print(''.join(alpha[j] for j in yy))
-        yield x, y  # Directly yield input-target pair
-
-
-def make_data():
-    # Read the file one byte at a time.
-    dataset = tf.data.FixedLengthRecordDataset(corpus_filename, record_bytes=1)
-    # Dataset signature: batch of shape (batch_size, record_size)
-    dataset = tf.data.Dataset.from_generator(
-        batched_generator,
-        output_signature=(
-            tf.TensorSpec(shape=(batch_size, window_size), dtype=dtype),  # x
-            tf.TensorSpec(shape=(batch_size, window_size), dtype=dtype),  # y
-        ),
-    )
-
-    # Add sample weights here
-    def add_sample_weight(x, y):
-        ignore_first = 10
-        sample_weight = tf.concat(
-            [
-                tf.zeros((batch_size, ignore_first)),  # ignore first few timesteps
-                tf.ones((batch_size, window_size - ignore_first)),
-            ],
-            axis=-1,
-        )
-        return x, y, sample_weight
-
-    dataset = dataset.map(add_sample_weight, num_parallel_calls=tf.data.AUTOTUNE)
-
-    # No need to batch again — it's already batched!
-    return dataset.prefetch(tf.data.AUTOTUNE)
-
-
-class PartialResidualAdd(Layer):
-    """
-    TODO: consider split, add, concat; instead of padding.
-    """
-
-    def __init__(self, **kwargs):
-        super(PartialResidualAdd, self).__init__(**kwargs)
-        self.add_layer = Add()
-
-    def call(self, inputs):
-        # inputs is a list [x, residual] where x has more channels than residual
-        x, residual = inputs
-
-        # Get shapes
-        x_shape = tf.shape(x)
-        res_shape = tf.shape(residual)
-
-        # Create a padded version of residual with zeros in the extra channels
-        padding = [[0, 0], [0, 0], [0, x_shape[-1] - res_shape[-1]]]
-        padded_residual = tf.pad(residual, padding)
-
-        # Add the padded residual to x
-        return self.add_layer([x, padded_residual])
-
-
-import tensorflow as tf
-from tensorflow.keras.layers import Layer
-
-
-class BlockDropout(Layer):
-    """
-    Implements stochastic depth by randomly zeroing out the entire tensor
-    with probability drop_rate during training.
-
-    This is meant to be used before a residual connection.
-    """
-
-    def __init__(self, drop_rate=0.2, **kwargs):
-        """
-        Args:
-            drop_rate: Float between 0 and 1. Probability of zeroing out the input.
-        """
-        super(BlockDropout, self).__init__(**kwargs)
-        self.drop_rate = drop_rate
-
-    def call(self, inputs, training=None):
-        # During inference or if drop_rate is 0, return unchanged
-        if not training or self.drop_rate == 0:
-            return inputs
-
-        # Create a random binary tensor: 1 with probability (1-drop_rate), 0 with probability drop_rate
-        batch_size = tf.shape(inputs)[0]
-        random_tensor = tf.random.uniform([batch_size], 0, 1)
-        binary_tensor = tf.cast(random_tensor >= self.drop_rate, inputs.dtype)
-
-        # Reshape for broadcasting to all dimensions
-        ndims = len(inputs.shape)
-        broadcast_shape = [batch_size] + [1] * (ndims - 1)
-        binary_tensor = tf.reshape(binary_tensor, broadcast_shape)
-
-        # Scale the kept values to maintain the same expected value
-        keep_prob = 1.0 - self.drop_rate
-        outputs = inputs * binary_tensor / keep_prob
-
-        return outputs
-
-    def get_config(self):
-        config = super(BlockDropout, self).get_config()
-        config.update({"drop_rate": self.drop_rate})
-        return config
+        yield x, y
 
 
 def make_model():
@@ -260,7 +124,7 @@ def make_model():
         metrics=["accuracy"],
     )
     model.summary()
-    checkpoint_dir = "lstm_1_ablated_bn_then_ln"
+    checkpoint_dir = "lstm_ablated"
     return model, checkpoint_dir
 
 
