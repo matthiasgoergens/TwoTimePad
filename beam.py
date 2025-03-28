@@ -142,7 +142,7 @@ def make_model():
             LSTM(units, return_sequences=True),
             BatchNormalization(),
             LSTM(units, return_sequences=True),
-            Dropout(0.5),
+            Dropout(0.05),
             TimeDistributed(Dense(len(alpha))),
         ],
     )
@@ -156,7 +156,7 @@ def make_model():
         metrics=["accuracy"],
     )
     model.summary()
-    checkpoint_dir = "lstm_ablated_double_layers_0p5dropout"
+    checkpoint_dir = "lstm_ablated_double_layers_0p05dropout_long"
     return model, checkpoint_dir
 
 
@@ -183,7 +183,7 @@ def main():
         model.summary()
     # dataset = RandomSubsetSequence()
     dataset = make_data()
-    # val_data = make_data()
+    val_data = make_data()
 
     checkpoint_cb = ModelCheckpoint(
         filepath=os.path.join(checkpoint_dir, "epoch_{epoch:02d}.keras"),
@@ -217,7 +217,7 @@ def main():
     # Note: Depending on the size of your dataset, you might need to adjust steps_per_epoch.
     model.fit(
         dataset,
-        # validation_data=val_data,
+        validation_data=val_data,
         epochs=1_000_000,
         callbacks=[
             checkpoint_cb,
@@ -226,9 +226,9 @@ def main():
                 monitor="loss", factor=0.5**0.5, patience=50, cooldown=50
             ),
         ],
-        steps_per_epoch=40,
+        steps_per_epoch=80,
         validation_steps=10,
-        # val_batch_size = 16
+        validation_batch_size=16,
     )
 
 
