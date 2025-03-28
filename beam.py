@@ -156,7 +156,7 @@ def make_model():
         metrics=["accuracy"],
     )
     model.summary()
-    checkpoint_dir = "lstm_ablated_double_layers_0p5dropout_more_steps_validate"
+    checkpoint_dir = "lstm_ablated_double_layers_0p5dropout"
     return model, checkpoint_dir
 
 
@@ -183,7 +183,7 @@ def main():
         model.summary()
     # dataset = RandomSubsetSequence()
     dataset = make_data()
-    val_data = make_data()
+    # val_data = make_data()
 
     checkpoint_cb = ModelCheckpoint(
         filepath=os.path.join(checkpoint_dir, "epoch_{epoch:02d}.keras"),
@@ -217,7 +217,7 @@ def main():
     # Note: Depending on the size of your dataset, you might need to adjust steps_per_epoch.
     model.fit(
         dataset,
-        validation_data=val_data,
+        # validation_data=val_data,
         epochs=1_000_000,
         callbacks=[
             checkpoint_cb,
@@ -228,7 +228,7 @@ def main():
         ],
         steps_per_epoch=40,
         validation_steps=10,
-        validation_batch_size=16,
+        # val_batch_size = 16
     )
 
 
