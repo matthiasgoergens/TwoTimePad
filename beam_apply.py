@@ -225,7 +225,8 @@ def indices_to_text(indices, charset=" abcdefghijklmnopqrstuvwxyz0123456789.?,-:
 
 
 def main():
-    path = "checkpoints/rnn_lstm_final_less_decay/epoch_1345.keras"
+    # path = "checkpoints/rnn_lstm_final_less_decay/epoch_1345.keras"
+    path = "checkpoints/lstm_1_layer/epoch_262.keras"
     model = tf.keras.models.load_model(
         path, custom_objects={"PartialResidualAdd": beam.PartialResidualAdd}
     )

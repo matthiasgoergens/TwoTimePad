@@ -293,12 +293,15 @@ def make_model_lstm_skip():
 
 
 def make_model():
-    num_layers = 1
-    units = 2048
+    num_layers = 2
+    units = 1.5 * 1024
 
+    # layer_units = [
+    #     len(alpha) + round(i * (units - len(alpha)) / num_layers)
+    #     for i in range(1, num_layers + 1)
+    # ]
     layer_units = [
-        len(alpha) + round(i * (units - len(alpha)) / num_layers)
-        for i in range(1, num_layers + 1)
+        units for i in range(1, num_layers + 1)
     ]
 
     # Input layer
@@ -342,7 +345,7 @@ def make_model():
         metrics=["accuracy"],
     )
     model.summary()
-    checkpoint_dir = "lstm_1_layer"
+    checkpoint_dir = "lstm_2_layers_straight"
     return model, checkpoint_dir
 
 
