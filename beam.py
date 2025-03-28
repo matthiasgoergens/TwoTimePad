@@ -247,6 +247,7 @@ def make_model():
             Embedding(input_dim=len(alpha), output_dim=len(alpha)),
             BatchNormalization(),
             LSTM(units, return_sequences=True),
+            LayerNormalization(),
             TimeDistributed(Dense(len(alpha))),
         ],
     )
@@ -260,7 +261,7 @@ def make_model():
         metrics=["accuracy"],
     )
     model.summary()
-    checkpoint_dir = "lstm_1_simpler_seq_with_bn"
+    checkpoint_dir = "lstm_1_ablated_bn_then_ln"
     return model, checkpoint_dir
 
 
