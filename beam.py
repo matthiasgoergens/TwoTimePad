@@ -12,6 +12,7 @@ import subprocess
 import tensorflow as tf
 from tensorflow.keras.callbacks import ModelCheckpoint, ReduceLROnPlateau, TensorBoard
 from tensorflow.keras.layers import (
+    Dropout,
     LSTM,
     BatchNormalization,
     Dense,
@@ -143,6 +144,7 @@ def make_model():
             LSTM(units, return_sequences=True),
             BatchNormalization(),
             LSTM(units, return_sequences=True),
+            Dropout(0.05),
             TimeDistributed(Dense(len(alpha))),
         ],
     )
@@ -156,7 +158,7 @@ def make_model():
         metrics=["accuracy"],
     )
     model.summary()
-    checkpoint_dir = "lstm_ablated_double_layers"
+    checkpoint_dir = "lstm_ablated_double_layers_0p05dropout"
     return model, checkpoint_dir
 
 
