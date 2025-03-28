@@ -295,18 +295,16 @@ def make_model_lstm_skip():
 def make_model():
     units = 2048
 
-    inputs = Input(shape=(window_size,))
-
-    outputs = Sequential(
+    model = Sequential(
         [
+            Input(shape=(window_size,)),
             Embedding(input_dim=len(alpha), output_dim=len(alpha)),
             BatchNormalization(),
             LSTM(units, return_sequences=True),
             TimeDistributed(Dense(len(alpha))),
         ],
-    )(inputs)
+    )
 
-    model = tf.keras.Model(inputs=inputs, outputs=outputs)
     model.compile(
         optimizer=tf.optimizers.Adam(
             global_clipnorm=0.5,
@@ -316,7 +314,7 @@ def make_model():
         metrics=["accuracy"],
     )
     model.summary()
-    checkpoint_dir = "lstm_1_simpler"
+    checkpoint_dir = "lstm_1_simpler_seq_with_bn"
     return model, checkpoint_dir
 
 
