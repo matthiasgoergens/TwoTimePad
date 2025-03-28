@@ -1,8 +1,0 @@
-[package]
-name = "two-time-pad"
-version = "0.1.0"
-edition = "2021"
-
-[dependencies]
-ctrlc = "3.4.4"
-itertools = "0.13.0"
