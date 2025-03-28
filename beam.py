@@ -88,6 +88,36 @@ def batched_generator():
         yield x, y
 
 
+def make_data():
+    # Read the file one byte at a time.
+    dataset = tf.data.FixedLengthRecordDataset(corpus_filename, record_bytes=1)
+    # Dataset signature: batch of shape (batch_size, record_size)
+    dataset = tf.data.Dataset.from_generator(
+        batched_generator,
+        output_signature=(
+            tf.TensorSpec(shape=(batch_size, window_size), dtype=dtype),  # x
+            tf.TensorSpec(shape=(batch_size, window_size), dtype=dtype),  # y
+        ),
+    )
+
+    # Add sample weights here
+    def add_sample_weight(x, y):
+        ignore_first = 10
+        sample_weight = tf.concat(
+            [
+                tf.zeros((batch_size, ignore_first)),  # ignore first few timesteps
+                tf.ones((batch_size, window_size - ignore_first)),
+            ],
+            axis=-1,
+        )
+        return x, y, sample_weight
+
+    dataset = dataset.map(add_sample_weight, num_parallel_calls=tf.data.AUTOTUNE)
+
+    # No need to batch again — it's already batched!
+    return dataset.prefetch(tf.data.AUTOTUNE)
+
+
 def make_model():
     """
     Insights:
@@ -111,6 +141,8 @@ def make_model():
             Embedding(input_dim=len(alpha), output_dim=len(alpha)),
             BatchNormalization(),
             LSTM(units, return_sequences=True),
+            BatchNormalization(),
+            LSTM(units, return_sequences=True),
             TimeDistributed(Dense(len(alpha))),
         ],
     )
@@ -124,7 +156,7 @@ def make_model():
         metrics=["accuracy"],
     )
     model.summary()
-    checkpoint_dir = "lstm_ablated"
+    checkpoint_dir = "lstm_ablated_double_layers"
     return model, checkpoint_dir
 
 
