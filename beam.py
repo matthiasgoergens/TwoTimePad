@@ -247,7 +247,6 @@ def make_model():
             Embedding(input_dim=len(alpha), output_dim=len(alpha)),
             BatchNormalization(),
             LSTM(units, return_sequences=True),
-            LayerNormalization(),
             TimeDistributed(Dense(len(alpha))),
         ],
     )
