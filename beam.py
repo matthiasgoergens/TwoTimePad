@@ -90,8 +90,6 @@ def batched_generator():
 
 
 def make_data():
-    # Read the file one byte at a time.
-    dataset = tf.data.FixedLengthRecordDataset(corpus_filename, record_bytes=1)
     # Dataset signature: batch of shape (batch_size, record_size)
     dataset = tf.data.Dataset.from_generator(
         batched_generator,
@@ -144,7 +142,7 @@ def make_model():
             LSTM(units, return_sequences=True),
             BatchNormalization(),
             LSTM(units, return_sequences=True),
-            Dropout(0.05),
+            Dropout(0.5),
             TimeDistributed(Dense(len(alpha))),
         ],
     )
@@ -158,7 +156,7 @@ def make_model():
         metrics=["accuracy"],
     )
     model.summary()
-    checkpoint_dir = "lstm_ablated_double_layers_0p05dropout_more_steps"
+    checkpoint_dir = "lstm_ablated_double_layers_0p5dropout_more_steps_validate"
     return model, checkpoint_dir
 
 
@@ -185,6 +183,7 @@ def main():
         model.summary()
     # dataset = RandomSubsetSequence()
     dataset = make_data()
+    val_data = make_data()
 
     checkpoint_cb = ModelCheckpoint(
         filepath=os.path.join(checkpoint_dir, "epoch_{epoch:02d}.keras"),
@@ -218,6 +217,7 @@ def main():
     # Note: Depending on the size of your dataset, you might need to adjust steps_per_epoch.
     model.fit(
         dataset,
+        validation_data=val_data,
         epochs=1_000_000,
         callbacks=[
             checkpoint_cb,
@@ -226,8 +226,9 @@ def main():
                 monitor="loss", factor=0.5**0.5, patience=50, cooldown=50
             ),
         ],
-        # initial_epoch=6,
         steps_per_epoch=40,
+        validation_steps=10,
+        validation_batch_size=16,
     )
 
 
