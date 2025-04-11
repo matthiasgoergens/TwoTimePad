@@ -38,15 +38,15 @@ def load_random_snippet(snippet_length=snippet_length, filename=beam.corpus_file
     return snippet
 
 
-def diff_plains(snippet_A, snippet_B):
+def add_plains(snippet_A, snippet_B):
     # Ensure snippets are the same length
     if len(snippet_A) != len(snippet_B):
         raise ValueError(
             f"Snippets must be the same length. Got {len(snippet_A)} and {len(snippet_B)}"
         )
 
-    # Calculate (A - B) % 46 for each corresponding pair of bytes
-    differences = [(a - b) % len(alpha) for a, b in zip(snippet_A, snippet_B)]
+    # Calculate (A + B) % 46 for each corresponding pair of bytes
+    differences = [(a + b) % len(alpha) for a, b in zip(snippet_A, snippet_B)]
 
     # Return as bytes if needed
     # return bytes(differences)
@@ -75,7 +75,7 @@ def prep():
     textA = textA[:trunc]
     textB = textB[:trunc]
 
-    cipher = diff_plains(textA, textB)
+    cipher = add_plains(textA, textB)
     print(to_text(textA))
     print(to_text(textB))
     print(to_text(cipher))
@@ -179,10 +179,15 @@ def beam_search(differences, model, beam_width=beam_width, context_size=window_s
         losses_A = losses_A[:, -1, :]  # shape (beam_width, len(alpha))
         losses_B = losses_B[:, -1, :]
 
+        # d = A - B
+        # B = A - d
+
+        # s = A + B
+        # B = s - A
         # Expand beam states
         for i, state in enumerate(beam):
             for char_A in range(46):
-                char_B = (char_A - differences[diff_idx]) % 46
+                char_B = (differences[diff_idx] - char_A) % 46
                 new_loss_A = state.loss_A + losses_A[i, char_A]
                 new_loss_B = state.loss_B + losses_B[i, char_B]
 
