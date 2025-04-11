@@ -1,13 +1,11 @@
 import os
 import os.path
-import random
 
 import numpy as np
+import subprocess
 
 # Monkey patching to make np.inf work with TensorFlow.
 np.Inf = np.inf
-
-import subprocess
 
 import tensorflow as tf
 from tensorflow.keras.callbacks import ModelCheckpoint, ReduceLROnPlateau, TensorBoard
@@ -22,7 +20,7 @@ from tensorflow.keras.layers import (
 )
 from tensorflow.keras.losses import SparseCategoricalCrossentropy
 from tensorflow.keras.mixed_precision import set_global_policy
-from tensorflow.keras.models import Model, Sequential
+from tensorflow.keras.models import Sequential
 
 from process_corpus import alpha
 

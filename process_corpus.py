@@ -10,3 +10,7 @@
 alpha = b" abcdefghijklmnopqrstuvwxyz0123456789.?,-:;'()"
 alphaRE = alpha.replace(b"-", b"\\-")
 assert len(alpha) == 46
+
+# For training, clean data via:
+# convert to lowercase
+# replace unknown with " "
