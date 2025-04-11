@@ -38,7 +38,7 @@ def load_random_snippet(snippet_length=snippet_length, filename=beam.corpus_file
     return snippet
 
 
-def diff_plains(snippet_A, snippet_B):
+def mix_plains(snippet_A, snippet_B):
     # Ensure snippets are the same length
     if len(snippet_A) != len(snippet_B):
         raise ValueError(
@@ -46,7 +46,7 @@ def diff_plains(snippet_A, snippet_B):
         )
 
     # Calculate (A - B) % 46 for each corresponding pair of bytes
-    differences = [(a - b) % len(alpha) for a, b in zip(snippet_A, snippet_B)]
+    differences = list(map(random.choice, zip(snippet_A, snippet_B)))
 
     # Return as bytes if needed
     # return bytes(differences)
@@ -75,7 +75,7 @@ def prep():
     textA = textA[:trunc]
     textB = textB[:trunc]
 
-    cipher = diff_plains(textA, textB)
+    cipher = mix_plains(textA, textB)
     print(to_text(textA))
     print(to_text(textB))
     print(to_text(cipher))
@@ -152,6 +152,7 @@ class ReconstructionState:
         return self.text_B[-window_size:]
 
 
+# TOOD: this needs to change, because now we need to untangle a 50/50 mix of A and B
 def beam_search(differences, model, beam_width=beam_width, context_size=window_size):
     initial_text_A = [0] * context_size
     initial_text_B = [0] * context_size
@@ -181,8 +182,10 @@ def beam_search(differences, model, beam_width=beam_width, context_size=window_s
 
         # Expand beam states
         for i, state in enumerate(beam):
-            for char_A in range(46):
-                char_B = (char_A - differences[diff_idx]) % 46
+            x = differences[diff_idx]
+            for (char_A, char_B) in [(x, i) for i in range(46)] + [(i, x) for i in range(46)]:
+            # for char_A in range(46):
+                # char_B = (char_A - differences[diff_idx]) % 46
                 new_loss_A = state.loss_A + losses_A[i, char_A]
                 new_loss_B = state.loss_B + losses_B[i, char_B]
 
