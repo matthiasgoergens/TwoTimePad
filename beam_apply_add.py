@@ -46,7 +46,7 @@ def add_plains(snippet_A, snippet_B):
         )
 
     # Calculate (A + B) % 46 for each corresponding pair of bytes
-    differences = [(a + b) % len(alpha) for a, b in zip(snippet_A, snippet_B)]
+    differences = [(3*a + b) % len(alpha) for a, b in zip(snippet_A, snippet_B)]
 
     # Return as bytes if needed
     # return bytes(differences)
@@ -182,12 +182,12 @@ def beam_search(differences, model, beam_width=beam_width, context_size=window_s
         # d = A - B
         # B = A - d
 
-        # s = A + B
-        # B = s - A
+        # s = 3*A + B
+        # B = s - 3*A
         # Expand beam states
         for i, state in enumerate(beam):
             for char_A in range(46):
-                char_B = (differences[diff_idx] - char_A) % 46
+                char_B = (differences[diff_idx] - 3*char_A) % 46
                 new_loss_A = state.loss_A + losses_A[i, char_A]
                 new_loss_B = state.loss_B + losses_B[i, char_B]
 
