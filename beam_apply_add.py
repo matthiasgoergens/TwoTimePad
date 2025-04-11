@@ -9,7 +9,7 @@ import beam
 from beam import window_size
 from process_corpus import alpha
 
-beam_width = 2_000
+beam_width = 4_000
 
 snippet_length = 100
 
