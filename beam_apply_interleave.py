@@ -11,7 +11,7 @@ from beam import window_size
 from process_corpus import alpha
 from dataclasses import dataclass
 
-beam_width = 10_000
+beam_width = 4_000
 
 snippet_length = 100
 
@@ -41,18 +41,11 @@ def load_random_snippet(snippet_length=snippet_length, filename=beam.corpus_file
 
 
 def mix_plains(snippet_A, snippet_B):
-    # Ensure snippets are the same length
-    if len(snippet_A) != len(snippet_B):
-        raise ValueError(
-            f"Snippets must be the same length. Got {len(snippet_A)} and {len(snippet_B)}"
-        )
-
     a = iter(snippet_A)
     b = iter(snippet_B)
     both = len(snippet_A) * [a] + len(snippet_B) * [b]
     random.shuffle(both)
     return [next(b) for b in both]
-    # return [next(random.choice([a, b])) for _ in range(len(snippet_A))]
 
 
 def to_text(snippet):
@@ -131,6 +124,7 @@ def predict_next_probabilities_batched(model, seeds):
 @dataclass
 class ReconstructionState:
     """State representing partial reconstruction of texts A and B"""
+
     text_A: list  # List of character indices [0-45]
     text_B: list  # List of character indices [0-45]
     loss_A: float  # Accumulated loss for text A
@@ -171,6 +165,9 @@ def beam_search(differences, model, beam_width=beam_width, context_size=window_s
         contexts_A = np.array([state.context_A(context_size) for state in beam])
         contexts_B = np.array([state.context_B(context_size) for state in beam])
 
+        # Hmm, half of these haven't changed since the last time, so we could get them
+        # from a cache, for a 2x speedup, ie drop to 50% number of inferences.
+
         # Batch prediction
         losses_A = predict_next_probabilities_batched(model, contexts_A)
         losses_B = predict_next_probabilities_batched(model, contexts_B)
@@ -209,7 +206,7 @@ def beam_search(differences, model, beam_width=beam_width, context_size=window_s
         best = beam[0].total_loss
         worst = beam[-1].total_loss
         print(
-            f"Position: {pos}/{target_length}, Best loss: {best:.2f}, Worst loss: {worst:.2f}, Diff: {worst-best:.2f}"
+            f"Position: {pos}/{target_length}, Best loss: {best:.2f}, Worst loss: {worst:.2f}, Diff: {worst - best:.2f}"
         )
 
         print(f"Best A so far: {present_beam1(beam[0].text_A)}")
