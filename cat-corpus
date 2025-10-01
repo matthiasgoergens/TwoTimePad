@@ -1,0 +1,8 @@
+#!/bin/bash
+set -e
+corpus=$(realpath corpus.txt)
+cd data/gutenberg-dump/gutenberg-dammit-files/
+
+jq --raw-output0 \
+  '.[] | select(.Language == ["English"]) | .["gd-path"]' \
+  gutenberg-metadata.json | xargs -0 cat > "$corpus"
