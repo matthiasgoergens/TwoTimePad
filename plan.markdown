@@ -18,7 +18,7 @@ In a 64 bit word we can store 11 characters:
 
 But that requires arithmetic coding.
 
-If we use a straight-forward encodig, we can store 10 characters at 6 bits each.
+If we use a straight-forward encoding, we can store 10 characters at 6 bits each.
 ```
 >>> 64 // m.ceil(m.log(46, 2))
 10
