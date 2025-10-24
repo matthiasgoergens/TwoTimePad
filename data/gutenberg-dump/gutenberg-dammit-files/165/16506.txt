@@ -1,0 +1,1517 @@
+Series Two:
+_Essays on Poetry_
+
+No. 2
+
+Samuel Wesley's
+_Epistle to a Friend concerning Poetry_ (1700)
+and the
+_Essay on Heroic Poetry_ (second edition, 1697)
+
+With an Introduction by
+Edward N. Hooker
+
+The Augustan Reprint Society
+January, 1947
+_Price:_ 75c
+
+
+
+
+GENERAL EDITORS: _Richard C. Boys_, University of Michigan, Ann
+Arbor; _Edward N. Hooker, H.T. Swedenberg, Jr._, University of
+California, Los Angeles 24, California.
+
+Membership in the Augustan Reprint Society entitles the subscriber to six
+publications issued each year. The annual membership fee is $2.50. Address
+subscriptions and communications to the Augustan Reprint Society, in care
+of one of the General Editors.
+
+EDITORIAL ADVISORS: _Louis I. Bredvold_, University of Michigan;
+_James L. Clifford_, Columbia University; _Benjamin Boyce_,
+University of Nebraska; _Cleanth Brooks_, Louisiana State University;
+_Arthur Friedman_, University of Chicago; _James R. Sutherland_,
+Queen Mary College, University of London; _Emmett L. Avery_, State
+College of Washington; _Samuel Monk_, Southwestern University.
+
+Lithoprinted from Author's Typescript
+EDWARDS BROTHERS, INC.
+_Lithoprinters_
+ANN ARBOR, MICHIGAN
+1947
+
+
+
+
+INTRODUCTION
+
+We remember Samuel Wesley (1662-1735), if at all, as the father of a great
+religious leader. In his own time he was known to many as a poet and a
+writer of controversial prose. His poetic career began in 1685 with the
+publication of _Maggots_, a collection of juvenile verses on trivial
+subjects, the preface to which, a frothy concoction, apologizes to the
+reader because the book is neither grave nor gay. The first poem, "On a
+Maggot," is composed in hudibrastics, with a diction obviously Butlerian,
+and it is followed by facetious poetic dialogues and by Pindarics of the
+Cowleian sort but on such subjects as "On the Grunting of a Hog." In 1688
+Wesley took his B.A. at Exeter College, Oxford, following which he became
+a naval chaplain and, in 1690, rector of South Ormsby; he became rector of
+Epworth in 1695. During the run of the _Athenian Gazette_ (1691-1697)
+he joined with Richard Sault and John Norris in assisting John Dunton, the
+promoter of the undertaking. His second venture in poetry, the _Life of
+Our Blessed Lord and Saviour_, an epic largely in heroic couplets with
+a prefatory discourse on heroic poetry, appeared in 1693, was reissued in
+1694, and was honored with a second edition in 1697. In 1695 he dutifully
+came forward with _Elegies_, lamenting the deaths of Queen Mary and
+Archbishop Tillotson. _An Epistle to a Friend concerning Poetry_
+(1700) was followed by at least four other volumes of verse, the last of
+which was issued in 1717. His poetry appears to have had readers on a
+certain level, but it stirred up little pleasure among wits, writers, or
+critics. Judith Drake confessed that she was lulled to sleep by
+Blackmore's _Prince Arthur_ and by Wesley's "heroics" (_Essay in
+Defence of the Female Sex_, 1696, p. 50). And he was satirized as a
+mare poetaster in Garth's _Dispensary_, in Swift's _The Battle of
+the Books_, and in the earliest issues of the _Dunciad_. Nobody
+today would care to defend his poetry for its esthetic merits.
+
+For a few years in the early eighteenth century Wesley found himself in
+the vortex of controversy. Brought up in the dissenting tradition, he had
+swerved into conformity at some point during the 1680's, possibly under
+the influence of Tillotson, whom he greatly admired (cf. _Epistle to a
+Friend_, pp. 5-6). In 1702 there appeared his _Letter from a Country
+Divine to his friend in London concerning the education of dissenters in
+their private academies_, apparently written about 1693. This attack
+upon dissenting academies was published at an unfortunate time, when the
+public mind was inflamed by the intolerance of overzealous churchmen.
+Wesley was furiously answered; he replied in _A Defence of a Letter_
+(1704), and again in _A Reply to Mr. Palmer's Vindication_ (1707). It
+is scarcely to Wesley's credit that in this quarrel he stood shoulder to
+shoulder with that most hot-headed of all contemporary bigots, Henry
+Sacheverell. His prominence in the controversy earned him the ironic
+compliments of Defoe, who recalled that our "Mighty Champion of this very
+High-Church Cause" had once written a poem to satirize frenzied Tories
+(_Review_, II, no. 87, Sept. 22, 1705). About a week later Defoe,
+having got wind of a collection being taken up for Wesley--who in
+consequence of a series of misfortunes was badly in debt--intimated that
+High-Church pamphleteering had turned out very profitably for both Lesley
+and Wesley (Oct. 2, 1705). But in such snarling and bickering Wesley was
+out of his element, and he seems to have avoided future quarrels.
+
+His literary criticism is small in bulk. But though it is neither
+brilliant nor well written (Wesley apparently composed at a break-neck
+clip), it is not without interest. Pope observed in 1730 that he was a
+"learned" man (letter to Swift, in _Works_, ed. Elwin-Courthope, VII,
+184). The observation was correct, but it should be added that Wesley
+matured at the end of an age famous for its great learning, an age whose
+most distinguished poet was so much the scholar that he appeared more the
+pedant than the gentleman to critics of the succeeding era; Wesley was not
+singular for erudition among his seventeenth-century contemporaries.
+
+The "Essay on Heroic Poetry," serving as Preface to _The Life of Our
+Blessed Lord and Saviour_, reveals something of its author's erudition.
+Among the critics, he was familiar with Aristotle, Horace, Longinus,
+Dionysius of Halicarnasseus, Heinsius, Bochart, Balzac, Rapin, Le Bossu,
+and Boileau. But this barely hints at the extent of his learning. In the
+notes on the poem itself the author displays an interest in classical
+scholarship, Biblical commentary, ecclesiastical history, scientific
+inquiry, linguistics and philology, British antiquities, and research into
+the history, customs, architecture, and geography of the Holy Land; he
+shows, an intimate acquaintance with Grotius, Henry Hammond, Joseph Mede,
+Spanheim, Sherlock, Lightfoot, and Gregory, with Philo, Josephus, Fuller,
+Walker, Camden, and Kircher; and he shows an equal readiness to draw upon
+Cudworth's _True Intellectual System_ and Boyle's new theories concerning
+the nature of light. In view of such a breadth of knowledge it is somewhat
+surprising to find him quoting as extensively as he does in the "Essay"
+from Le Bossu and Rapin, and apparently leaning heavily upon them.
+
+The "Essay" was composed at a time when the prestige of Rymer and
+neo-Aristotelianism in England was already declining, and though Wesley
+expressed some admiration for Rapin and Le Bossu, he is by no means docile
+under their authority. Whatever the weight of authority, he says, "I see
+no cause why Poetry should not be brought to the Test [of reason], as well
+as Divinity...." As to the sacred example of Homer, who based his great
+epic on mythology, Wesley remarks, "But this [mythology] being now
+antiquated, I cannot think we are oblig'd superstitiously to follow his
+Example, any more than to make Horses speak, as he does that of Achilles."
+To the question of the formidable Boileau, "What Pleasure can it be to
+hear the howlings of repining Lucifer?" our critic responds flippantly, "I
+think 'tis easier to answer than to find out what shew of Reason he had
+for asking it, or why Lucifer mayn't howl as pleasantly as either
+Cerberus, or Enceladus." Without hesitation or apology he takes issue with
+Rapin's conception of Decorum in the epic. But Wesley is empiricist as
+well as rationalist, and the judgment of authority can be upset by appeal
+to the court of experience. To Balzac's suggestion that, to avoid
+difficult and local proper names in poetry, generalized terms be used,
+such as _Ill-luck_ for the _Fates_ and the _Foul Fiend_ for _Lucifer_, our
+critic replies with jaunty irony, "... and whether this wou'd not sound
+extreamly Heroical, I leave any Man to judge," and thus he dismisses the
+matter. Similarly, when Rapin objects to Tasso's mingling of lyric
+softness in the majesty of the epic, Wesley points out sharply that no man
+of taste will part with the fine scenes of tender love in Tasso, Dryden,
+Ovid, Ariosto, and Spenser "for the sake of a fancied Regularity." He had
+set out to defend the Biblical epic, the Christian epic, and the propriety
+of Christian machines in epic, and no rules or authority could deter him.
+As good an example as any of his independence of mind can be seen in a
+note on Bk. I, apropos of the poet's use of obsolete words (_Life of Our
+Blessed Lord_, 1697, p. 27): it may be in vicious imitation of Milton and
+Spenser, he says in effect, but I have a fondness for old words, they
+please my ear, and that is all the reason I can give for employing them.
+
+Wesley's resistance to a strict application of authority and the rules
+grew partly out of the rationalistic and empirical temper of Englishmen in
+his age, but it also sprang from his learning. From various sources he
+drew the theory that Greek and Latin were but corrupted forms of ancient
+Phoenician, and that the degeneracy of Greek and Latin in turn had
+produced all, or most, of the present European tongues (_ibid._, p. 354).
+In addition, he believed that the Greeks had derived some of their
+thought from older civilizations, and specifically that Plato had received
+many of his notions from the Jews (_ibid._, p. 230)--an idea which recalls
+the argument that Dryden in _Religio Laici_ had employed against the
+deists. Furthermore, he had, like many of his learned contemporaries, a
+profound respect for Hebrew culture and the sublimity of the Hebrew
+scriptures, going so far as to remark in the "Essay on Heroic Poetry" that
+"most, even of [the heathen poets'] best Fancies and Images, as well as
+Names, were borrow'd from the Antient Hebrew Poetry and Divinity." In
+short, however faulty his particular conclusions, he had arrived at an
+historical viewpoint, from which it was no longer possible to regard the
+classical standards--much less the standards of French critics--as having
+the holy sanction of Nature herself.
+
+Some light is shed on the literary tastes of his period by Wesley's two
+essays here reproduced, which with a few exceptions were in accord with
+the prevailing current. _The Life of Our Blessed Lord_ shows strongly
+the influence of Cowley's _Davideis_. Wesley's great admiration
+persisted after the tide had turned away from Cowley; and his liking for
+the "divine Herbert" and for Crashaw represented the tastes of sober and
+unfashionable readers. In spite of the fact that he professed unbounded
+admiration for Homer as the greatest genius in nature, in practise he
+seemed more inclined to follow the lead of Cowley, Virgil, and Vida.
+Although there was much in Ariosto that he enjoyed, he preferred Tasso;
+the irregularities in both, however, he felt bound to deplore. To
+Spenser's _Faerie Queene_ he allowed extraordinary merit. If the plan
+of it was noble, he thought, and the mark of a comprehensive genius, yet
+the action of the poem seemed confused. Nevertheless, like Prior later,
+Wesley was inclined to suspend judgment on this point because the poem had
+been left incomplete. To Spenser's "thoughts" he paid the highest tribute,
+and to his "Expressions flowing natural and easie, with such a prodigious
+Poetical Copia as never any other must expect to enjoy." Like most of the
+Augustans Wesley did not care greatly for _Paradise Regained_, but he
+partly atoned by his praise for _Paradise Lost_, which was an
+"original" and therefore "above the common Rules." Though defective in its
+action, it was resplendent with sublime thoughts perhaps superior to any
+in Virgil or Homer, and full of incomparable and exquisitely moving
+passages. In spite of his belief that Milton's blank verse was a mistake,
+making for looseness and incorrectness, he borrowed lines and images from
+it, and in Bk. IV of _The Life of Our Blessed Lord_ he incorporated a
+whole passage of Milton's blank verse in the midst of his heroic couplets.
+
+Wesley's attitude toward Dryden deserves a moment's pause. In the "Essay
+on Heroic Poetry" he observed that a speech of Satan's in _Paradise
+Lost_ is nearly equalled in Dryden's _State of Innocence_. Later
+in the same essay he credited a passage in Dryden's _King Arthur_
+with showing an improvement upon Tasso. There is no doubt as to his vast
+respect for the greatest living poet, but his remarks do not indicate that
+he ranked Dryden with Virgil, Tasso, or Milton; for he recognized as well
+as we that the power to embellish and to imitate successfully does not
+constitute the highest excellence in poetry. In the _Epistle to a
+Friend_ he affirmed his admiration for Dryden's matchless style, his
+harmony, his lofty strains, his youthful fire, and even his wit--in the
+main, qualities of style and expression. But by 1700 Wesley had absorbed
+enough of the new puritanism that was rising in England to qualify his
+praise; now he deprecated the looseness and indecency of the poetry, and
+called upon the poet to repent. One other point calls for comment.
+Wesley's scheme for Christian machinery in the epic, as described in the
+"Essay on Heroic Poetry," is remarkably similar to Dryden's. Dryden's had
+appeared in the essay on satire prefaced to his translation of Juvenal,
+published late in October, 1692; Wesley's scheme appeared soon after June,
+1693.
+
+The _Epistle to a Friend concerning Poetry_ is neither startling nor
+contemptible; it has, in fact, much more to say than the rhymed treatises
+on verse by Roscommon and Buckinghamshire. Its remarks on Genius are
+fresh, though tantalizing in their brevity, and it defends the Moderns
+with both neatness and energy. Much of its advice is cautious and
+commonplace--but such was the tradition of the poetical treatise on verse.
+Appearing within two years of Collier's first attack upon the stage, it
+reinforces some of that worthy's contentions, but we are not aware of its
+having had much effect.
+
+The _Epistle to a Friend concerning Poetry_ is here reproduced, with
+permission, from the copy at Harvard. The "Essay on Heroic Poetry" is
+reproduced, with permission, from a copy of the 1697 edition of _The
+Life of Our Blessed Lord_ owned by the Henry E. Huntington Library, at
+San Marino, California. Our reproduction of the second item was made from
+a typescript because the printing of the original lacks the size and
+clarity which are necessary for satisfactory results In lithoprinting. The
+typescript follows the original accurately except that italics (crazily
+profuse in the 1697 edition) are omitted, the use of quotation marks is
+normalized, and three obvious typographical errors are silently emended.
+
+  Edward Niles Hooker
+
+
+
+
+AN
+EPISTLE
+TO A
+FRIEND
+CONCERNING
+POETRY.
+
+By SAMUEL WESLEY.
+
+_Fungor vice Cotis._
+
+_LONDON_
+
+Printed for CHARLES HARPER, at the _Flower de Luce_
+in _Fleetstreet_. MDCC.
+_25. Aprill_.
+
+
+
+
+PREFACE.
+
+_I have not much to say of this Poem, before I leave it to the_ Mercy _of
+the Reader. There's no need of looking far into it, to find out that the
+direct_ Design _of a great part of it, is to Serve the_ Cause of Religion
+_and_ Virtue; _tho' 'twas necessary for that End to dispose the_ whole _in
+such a manner as might be agreeable to the_ Tast _of the present Age, and
+of those who usually give such sort of Books the_ Reading. _If there be
+any Thoughts in it relating to_ Poetry, _that either are not known to_ all
+Persons, _or are tolerably_ ranged _and_ expressed, _the Reader is welcome
+to 'em for_ Over-weight: _If there are too few of these, I yet hope the
+Pardon of all_ candid Judges, _because I've done the best I cou'd on this_
+Argument. _I can't be angry with any Person for ranking me amongst the_
+Ogylbys; _my Quarrel is with these that rank themselves amongst_ Atheists,
+_and impudently defend and propagate that_ ridiculous _Opinion of the_
+Eternity of the World, _and a fatal_ invincible Chain of Things, _which,
+it seems, is now most commonly made use of to destroy the_ Faith, _as our_
+lewd Plays _are to corrupt the_ Morals _of the_ Nation: _An Opinion, big
+with more_ Absurdities _than_ Transubstantiation _it self, and of far
+more_ fatal Consequence, _if receiv'd and believ'd: For besides its
+extremely weakening, if not destroying, the_ Belief _of the_ Being _and_
+Providence of God, _it utterly takes away any sort of_ Freedom _in_ Humane
+Actions, _reduces Mankind beneath the_ Brute Creation; _perfectly_ excuses
+_the greatest_ Villanies _in_ this World, _and entirely vacates all_
+Retribution _hereafter. One wou'd wonder with what Face or Conscience such
+a_ Sett _of Men shou'd hope to be treated by the Rules of_ Civility, _when
+they themselves break through those of_ Society, _and_ common Humanity:
+_How they can expect any fairer_ Quarter _than_ Wolves _or_ Tygers; _or
+what Reason they can give why a_ Price _should not be sett upon their_
+Heads, _as well as on the_ Others; _or at least why they should not be
+securely_ hamper'd _and_ muzzled, _and led about for a_ Sight, _like
+other_ Monsters. _'Tis the fatal and spreading_ Poyson _of these Mens_
+Examples _and_ Principles _which has extorted these_ warm Expressions
+_from me; I cannot with_ Patience _see my_ Countrey ruin'd _by the
+prodigious increase of_ Infidelity _and_ Immorality, _nor forbear crying
+out with some_ Vehemence, _when I am giving Warning to all honest Men to
+stand up in the_ Defence _of it, when it is in greater and more eminent
+danger than it wou'd have been formerly, if the_ Spanish Armada _had made
+a Descent amongst us: I don't speak of these things by distant_ Hear-say,
+_or only from our publick_ Prints, _but from my own_ Knowledg _and little_
+Acquaintance _in the World, and therefore others must have observ'd much
+more, and cannot but fear, that if things go on as they now are, without a
+greater_ Check, _and more_ severe Laws _against these wide and contagious_
+Mischiefs, _at least without a more general united_ Endeavour _to put
+those Laws already made in_ strict Execution, _we are in a fair way to
+become a_ Nation of Atheists. _'Tis now no difficult matter to meet with
+those who pretend to be_ lewd _upon_ Principles; _They'll talk very_
+gravely, _look as if they were in earnest, and come_ sobrii ad perdendam
+Rempublicam: _they wou'd be_ Criticks _too, and_ Philosophers: _They
+attack_ Religion _in_ Form _and batter it from every_ Quarter; _they wou'd
+turn the very_ Scriptures _against themselves, and labour hard to remove
+a_ Supreme Being _out of the World; or if they do vouchsafe him any_ room
+_in it, 'tis only that they may find_ Fault _with his_ Works, _which they
+think, with that_ Blasphemer _of old, might have been much better order'd,
+had they themselves stood by and directed the_ Architect. _They'll tell
+you the_ Errors _of_ Nature _are every where_ plain _and_ visible, _all_
+monstrous, _here_ too much _and there_ too little; _or, as_ one of their
+own Poets,
+
+  Here she's _too sparing_, there _profusely_ vain.
+
+_What would these Men have, or why can't they be content to sink_ single
+_into the_ bottomless Gulph, _without dragging so much Company thither
+with 'em? Can they grapple_ Omnipotence, _or are they sure they can be_
+too hard _for_ Heaven? _Can they_ Thunder _with a_ Voice like God, _and
+cast abroad the_ Rage _of their_ Wrath? _Cou'd they_ annihilate _Hell,
+indeed, or did it only consist of such_ painted Flames _as they'd fain
+believe it, they might make a shift to be tolerably happy, more quietly
+rake through the World, and_ sink _into_ Nothing. _There's too great
+reason to apprehend, that this_ Infection _is spred among Persons of
+almost all_ Ranks _and_ Qualities; _and that tho' some may think it_
+decent _to keep on the_ Masque, _yet if they were search'd to the_ bottom,
+_all_ their Religion _wou'd be found that which they most blasphemously
+assert of_ Religion _in_ general, _only a_ State Engin _to keep the_ World
+in Order. _This is_ Hypocrisie _with a Witness; the_ basest _and_ meanest
+_of_ Vices; _and how come Men to fall into these_ damnable Errors _in
+Faith, but by_ Lewdness _of Life? The Cowards wou'd not believe a God
+because they_ dare _not do it, for Woe be to 'em if there be one, and
+consequently any_ Future Punishments. _From such as these, I desire no
+Favour, but that of their_ Ill Word, _as their_ Crimes _must expect_ none
+_from me, whose_ Character _obliges me to declare an_ eternal War
+_against_ Vice _and_ Infidelity, _tho' at the same time heartily to_ pity
+_those who are_ infected _with it. If I cou'd be_ ambitious _of a_ Name
+_in the World, it shou'd be that I might_ sacrifice _it in so glorious a_
+Cause _as that of_ Religion _and_ Virtue: _If none but_ Generals _must
+fight in this_ sacred War, _when there are such_ infernal Hosts _on the
+other side, they cou'd never prevail without one of the_ antient Miracles:
+_If_ little People _can but well discharge the Place of a_ private
+Centinel, _'tis all that's expected from us. I hope I shall never let the_
+Enemies of God and my Countrey _come on without_ Fireing, _tho' it serve
+but to give the_ Alarm, _and if I dye without_ quitting _my_ Post, _I
+desire no greater Glory_. _I have endeavour'd to shew that I had no_
+Personal Pique _against any whose_ Characters _I may have given in this
+Poem, nor think the worse of them for their_ Thoughts _of me. I hope I
+have every where done 'em_ Justice, _and as well as I cou'd, have given
+'em_ Commendation _where they deserve it; which may also, on the other
+side, acquit me of_ Flattery _with all_ Impartial Judges; _for 'tis not
+only the_ Great _whose_ Characters _I have here attempted. And if what I
+have written may be any ways_ useful, _or_ innocently diverting _to the
+virtuous and ingenious_ Readers, _he has his End, who is_
+
+  Their Humble Servant
+
+  S. WESLEY.
+
+
+
+
+AN
+EPISTLE
+TO A
+FRIEND
+CONCERNING
+POETRY.
+
+  As Brother _Pryme_ of old from Mount _Orgueil_,
+  So I to you from _Epworth_ and the _Isle_:
+  Harsh _Northern_ Fruits from our cold Heav'ns I send,
+  Yet, since the _best_ they yield, they'll please a _Friend_.
+    You ask me, What's the readiest way to _Fame_,
+  And how to gain a _Poet's_ sacred Name?
+  For _Saffold_ send, your Choice were full as just,
+  When burning _Fevers_ fry your Limbs to Dust!
+  Yet, lest you _angry_ grow at your _Defeat_,      }
+  And me as ill as that fierce _Spark_ should treat }                 10
+  Who did the Farrier into Doctor _beat_;           }
+  You to my little _Quantum_, Sir, are free,
+  Which I from HORACE glean or NORMANDY;
+  These with some grains of _Common Sense_ unite,
+  Then freely _think_, and as I think I write.
+    First _poize_ your _Genius_, nor presume to write
+  If _Phoebus_ smile not, or some _Muse_ invite:
+  Nature refuses _Force_, you strive in vain,
+  She will not _drag_, but struggling breaks the Chain.
+  How bright a Spark of _Heav'nly Fire_ must warm!                    20
+  What _Blessings_ meet a _Poet's Mind_ to form!
+  How oft must he for those _Life-Touches_ sit,
+  _Genius, Invention, Memory, Judgment, Wit_?
+  There's here no _Middle-State_, you must excel;
+  _Wit_ has no _Half-way-House_ 'twixt _Heav'n_ and _Hell_
+  _All cannot All things_, lest you mourn too late,
+  Remember _Phaeton_'s unhappy _Fate_!
+  Eager to guide the _Coursers_ of the _Day_,       }
+  Beneath their _Brazen Hoofs_ he trampled lay,     }
+  And his bright _Ruines_ mark'd their flaming Way. }                 30
+                                                   [Sidenote: _Genius_.]
+    You'll ask, What GENIUS is, and Where to find?
+  'Tis the full _Power_ and _Energy_ of _Mind_:
+  A _Reach_ of _Thought_ that skims all Nature o'er,
+  _Exhausts_ this narrow _World_, and asks for _more_:
+  Through every _Rank of Beings_ when't has flown,
+  Can frame a _New Creation_ of its own:
+  By _Possible_ and _Future_ unconfin'd:
+  Can stubborn _Contradictions_ yoke, and bind
+  Through _Fancy_'s Realms, with Number, Time and Place,
+  _Chimera-Forms_, a thin, an airy Race;                              40
+  Then with a secret _conscious Pride_ surveys
+  The _Enchanted Castles_ which't had _Power_ to raise.
+                                                      [Sidenote: _Wit_.]
+    As _Genius_ is the _Strength_, be WIT defin'd
+  The _Beauty_ and the _Harmony_ of _Mind_:
+  _Beauty's_ Proportion, Air, each lively Grace
+  The _Soul_ diffuses round the _Heav'nly Face_:
+  'Tis _various_, yet 'tis _equal_, still the same
+  In _Alpine Snows_, or _Ethiopian Flame_;
+  While _glaring Colours_ short-liv'd Grace supply,
+  Nor _Frost_ nor _Sun_ they bear, but _scorch_ and _die_.            50
+                                                 [Sidenote: _Judgment_.]
+    Nor these alone, tho much they can, suffice,
+  JUDGMENT must join, or never hope the Prize:
+  Those _Headstrong Coursers_ scowr along the Plains,
+  The _Rider's_ down, if once he lose the _Reins_:
+  Soon the _Mad Mixture_ will to all give Law,
+  And for the _Laurel Wreaths_ present thee _Wreaths of Straw_.
+  _Judgment's_ the _Act of Reason_; that which brings
+  Fit _Thoughts_ to _Thoughts_, and argues _Things_ from _Things_,
+  True, Decent, Just, are in its _Balance_ try'd,
+  And thence we learn to _Range, Compound, Divide_.                   60
+                                     [Sidenote: _Invention and Memory_.]
+    A _Cave_ there is wherein those _Nymphs_ reside
+  Who all the Realms of _Sense_ and _Fancy_ guide;
+  Nay some affirm that in the deepest _Cell_
+  Imperial _Reason's_ self does not disdain to dwell:
+  With Living _Reed_ 'tis thatch'd and guarded round,
+  Which mov'd by _Winds_ emit a Silver Sound:
+  Two _Crystal Fountains_ near its _Entrance_ play,      }
+  Wide scatt'ring _Golden Streams_ which ne'er decay,    }
+  Two _Labyrinths_ behind harmonious Sounds convey:      }
+  Chiefly, within, the _Room of State_ is fam'd                       70
+  Of rich _Mosaick Work_ divinely fram'd:
+  Of small _Extent_ to view, 'twill all things hide,
+  Heav'n's Azure _Arch_ it self not half so wide:
+  Here all the _Arts_ their sacred Mansion chuse,
+  Here dwells the MOTHER of the Heav'n-born Muse:
+  With wond'rous mystic _Figures_ round 'tis wrought
+  _Inlaid_ with FANCY, and _anneal'd_ with _Thought_:
+  With more than humane Skill depicted here
+  The various _Images of Things_ appear;
+  What _Was_, or _Is_, or labours yet to _Be_                         80
+  Within the Womb of Dark _Futurity_,
+  May _Stowage_ in this wondrous _Storehouse_ find,
+  Yet leave unnumber'd empty _Cells_ behind:
+  But ah! as fast they come, they fly too fast,
+  Not _Life or Happiness are more in haste_:
+  Only the _First Great Mind_ himself can stay
+  The _Fugitives_ and at _one Glance_ survey;
+  But those whom he disdains not to befriend,  }
+  _Uncommon Souls_, who nearest Heav'n ascend  }
+  Far more, at once, than others comprehend:   }                      90
+  Whate'er within this _sacred Hall_ you find,    }
+  Whate'er will _lodge_ in your _capacious Mind_  }
+  Let _Judgment_ sort, and skilful _Method_ bind; }
+  And as from these you draw your antient Store
+  Daily supply the _Magazine_ with more.
+  Furnish'd with such _Materials_ he'll excel
+  Who when he _works_ is sure to work 'em _well_;
+  This ART alone, as _Nature_ that bestows,
+  And in _Perfection_ both, th' accomplish'd _Verser_ knows.
+  Knows to _persuade_, and how to _speak_, and when;                 100
+  The _Rules of Life_, and _Manners_ knows and _Men_:
+  Those _narrow Lines_ which _Good_ and _Ill_ divide;
+                                                 [Sidenote: _Learning_.]
+  And by what _Balance Just_ and _Right_ are try'd:
+  How _Kindred-Things_ with _Things_ are closely join'd; }
+  How _Bodies_ act, and by what _Laws_ confin'd,         }
+  Supported, mov'd and rul'd by th' _Universal Mind_.    }
+  When the moist _Kids_ or burning _Sirius_ rise;  }
+  Through what ambiguous Ways _Hyperion_ flies,    }
+  And marks our _Upper_ or the _Nether Skies_.     }
+  He knows those _Strings_ to _touch_ with artful Hand               110
+  Which rule Mankind, and all the World command:
+  What _moves_ the _Soul_, and every secret _Cell_
+  Where _Pity, Love_, and all the _Passions_ dwell.
+  The _Music_ of his _Verse_ can _Anger_ raise,
+  Which with a softer _Stroak_ he _smooths_ and _lays_:
+  Can _Emulation, Terror_, all excite,
+  _Compress_ the _Soul_ with _Grief_, or _swell_ with vast Delight.
+  If this you can, your _Care_ you'll well bestow,
+  And some new _Milton_ or a _Spencer_ grow;
+  If not, a _Poet_ ne'er expect to be,                               120
+  Content to _Rime_, like _D----y_ or like me.
+    But here perhaps you'll stop me, and complain,
+  To such _Impracticable Heights_ I strain
+  A Poet's _Notion_, that if _This_ be _He_,
+  There ne'er was one, nor e'er is like to be.
+  --But soft, my Friend! may we not _copy_ well
+  Tho far th' _Original_ our _Art_ excel?
+  _Divine Perfection_ we our _Pattern_ make
+  Th' _Idea_ thence of _Goodness_ justly take;
+  But they who _copy_ nearest, still must fall                       130
+  Immensely short of their _Original_;
+                                                 [Sidenote: _Converse_.]
+    But _Wit_ and _Genius_, _Sense_ and _Learning_ join'd,
+  Will all come short if _crude_ and _unrefin'd_;
+  'Tis CONVERSE only melts the stubborn _Ore_
+  And _polishes_ the _Gold_, too rough before:
+  So _fierce_ the _Natural Taste_, 'twill ne'er b' endur'd,
+  The _Wine_ is _strong_, but never rightly _cur'd_.
+                                                    [Sidenote: _Style_.]
+    STYLE is the _Dress_ of _Thought_; a _modest_ Dress,
+  _Neat_, but not _gaudy_, will true _Critics_ please:
+  Not _Fleckno's Drugget_, nor a worse Extream                       140
+  All daub'd with _Point_ and _Gold_ at every Seam:
+  Who only _Antique Words_ affects, appears
+  Like old King _Harry's_ Court, all Face and Ears;
+  Nor in a _Load_ of _Wig_ thy Visage shrowd,
+  Like _Hairy Meteors glimm'ring through a Cloud_:
+  Happy are those who here the _Medium_ know,
+  We hate alike a _Sloven_ and a _Beau_.
+  I would not follow _Fashion_ to the height
+  Close at the _Heels_, not yet be _out of Sight_:
+  _Words_ alter, like our _Garments_, every day,                     150
+  Now _thrive_ and _bloom_, now _wither_ and _decay_.
+  Let those of greater _Genius_ new _invent_,
+  Be you with those in _Common Use_ content.
+    A different _Style's_ for _Prose_ and _Verse_ requir'd,
+  _Strong figures_ here, _Neat Plainness_ there desir'd:
+  A different _Set of Words_ to both belong;
+  What _shines_ in _Prose_, is, _flat_ and _mean_ in _Song_.
+  The _Turn_, the _Numbers_ must be vary'd here,
+  And all things in a _different Dress_ appear.
+  This every _School Boy_ lash'd at _Eaton_ knows,  }                160
+  Yet _Men of Sense_ forget when they _compose_,    }
+  And Father DRYDEN's Lines are sometimes _Prose_.  }
+  A _vary'd Stile_ do various Works require,
+  This _soft_ as _Air_, and _tow'ring_ that as _Fire_.
+  None than th' _Epistle_ goes more _humbly_ drest,
+  Tho _neat_ 'twou'd be, and _decent_ as the _best_.
+  Such as th' ingenious _Censor_ may invite     }
+  Oft to return with eager _Appetite_;          }
+  So HORACE wrote, and so I'd _wish_ to write.  }
+  Nor _creeps_ it always, but can _mount_ and _rise_,                170
+  And with _bold Pinions_ sail along the Skies.
+  The self-same Work of _different Style_ admits,
+  Now _soft_, now _loud_, as best the _Matter_ fits:
+  So Father THAMES from unexhausted _Veins_,
+  Moves _clean_ and _equable_ along the _Plains_;
+  Yet still of different _Depth_ and _Breadth_ is found,
+  And _humours_ still the _Nature_ of the _Ground_.
+                                                  [Sidenote: _Reading_.]
+    READING will mend your Style and raise it higher,
+  And _Matter_ find to feed th' _Immortal Fire_:
+  But if you would the _Vulgar Herd_ excel,                          180
+  And justly gain the _Palm_ of _Writing well_,
+  Wast not your Lamp in scanning _Vulgar Lines_,
+  Where _groveling_ all, or _One in twenty_ shines;
+  With _Prudence_ first among the _Antients_ chuse,
+  The _noblest_ only, and the _best_ peruse;
+  Such HOMER is, such VIRGIL's sacred Page,
+  Which _Death_ defie, nor yield to _Time_ or _Age_;
+  New _Beauties_ still their _Vigorous Works_ display,
+  Their _Fruit_ still _mellows_, but can ne'er _decay_.
+  The _Modern Pens_ not altogether slight,                           190
+  Be _Master_ of your _Language_ e'er you write!
+  _Immortal_ TILLOTSON with Judgment scan,
+  "That _Man of Praise, that something more than Man_!"
+  Ev'n those who hate his _Ashes_ this advise,         }
+  As from black Shades resplendent Lightning flies,    }
+  _Unwilling Truths_ break through a _Cloud of Lies_.  }
+  He _Words_ and _Things_ for _mutual Aid_ design'd,
+  Before at _Variance_, in just _Numbers_ join'd;
+  He always _soars_, but never's _out of sight_,
+  He taught us how to _Speak_, and _Think_, and _Write_.             200
+    If _English Verse_ you'd in _Perfection_ see,
+  ROSCOMMON read, and _Noble_ NORMANDY:
+  We _borrow_ all from their _exhaustless Store_,
+  Or little say they have not said _before_.
+  _Poor Insects_ of a _Day_, we toil and strive
+  To creep from _Dust_ to _Dust_, and think we _live_;
+  These weak _imperfect Beings_ scarce enjoy
+  E'er _Death's_ rude Hand our _blooming Hopes_ destroy:
+  With _Lynx's_ Eyes each others _Faults_ we find,
+  But to our _own_ how few who are not _blind_?                      210
+  How _long is Art_, how _short_, alas! our _Time_!   }
+  How few who can above the _Vulgar_ climb,           }
+  Whose _stronger Genius_ reach the _True Sublime_!   }
+  With _tedious Rules_ which we our selves transgress,
+  We make the _Trouble more_ who strive to make it _less_.
+    But meanly why do you your _Fate_ deplore,
+  Yet still write on?--Why do a _Thousand_ more,
+  Who for their _own_ or some _Forefathers_ Crime
+  Are _doom'd_ to wear their _Days_ in _beating Rhime_?
+  But this a _Noble Patron_ will redress,                            220
+  And make you _better write_, tho you _write less_:
+  Whate'er a _discontented Mind_ pretends,
+  _Distinguish'd Worth_ can rarely miss of _Friends_:
+  Do but _excel_, and he'll at last arise
+  Who from the _Dust_ may lift thee to the _Skies_;
+  For his _own Sake_ will his _Protection_ grant;
+  What _Horace_ e'er did yet _Mecænas_ want?
+  Or if the _World_ its _Favours_ should refuse,
+  With _barren Smiles_ alone _reward_ thy Muse;
+  Be thy _own Patron_, thou no more wilt need,                       230
+  For all will _court_ thee if thy _Works succeed_;
+  At least the few _Good Judges_ will commend,
+  And _secret growing Praise_ thy Steps attend.
+  Who shew'd _Columbus_ where the _Indies_ lay?
+  True to thy self, _charge through_, and _force_ to _Fame_ the way!
+  If _Envy snarl_, indulge it no _Reply_,
+  Write _better_ still, and let it _burst_ and _die_!
+  Rest pleas'd if you can please the _Wiser Few_,
+  Since _to please all is more than Heav'n it self can do_.
+  There are who _can_ whate'er they _will_ believe,                  240
+  That _Bail's_ too hard for _Beady_, _Three_ are _Five_:
+  That Nature, Justice, Reason, Truth must fall,
+  With _Clear Idea's_ they'll _confound_ 'em all:
+  That _Parallels_ may _travel_ till they _meet_;
+  _Faith_ they can find in L----, no _Sense_ in STILLINGFLEET.
+  Disturb 'em not, but let 'em still enjoy
+  Th' _unenvy'd Charms_ of their _Eternal Moi_.
+    If to the _craggy Top of Fame_ you rise,
+  Those who are _lab'ring after_ ne'er _despise_.
+  Nor those _above_ on _Honours_ dazling Seat      }                 250
+  Tho _disoblig'd_, with _sawcy Rudeness_ treat,   }
+  _Revenge_ not always is _below the Great_.       }
+  Their _Stronger Genius_ may o'er thine prevail:
+  _Wit, Power_ and _Anger_ join'd but rarely fail.
+  Tho _Eagles_ would not chuse to _hawk_ at _Flies_       }
+  They'd _snap_ 'em, should their _buzzing Swarms_ arise  }
+  Importunate, and hurt their _Sun bright Eyes_.          }
+  Nor should the _Muses Birds_ at _random_ fly,
+  And _strike_ at all, lest if they strike _they die_.
+    Why should we still be _lazily content_                          260
+  With thredbare _Schemes_, and nothing _new_ invent?
+  All _Arts_ besides _improve, Sea, Air_ and _Land_  }
+  Are every day with _nicer Judgment_ scan'd,        }
+  And why should _this_ alone be at a _stand_?       }
+  Or _Nature_ largely to the _Ancients_ gave
+  And little did for _younger Children_ save;
+  Or rather we _impartial Nature_ blame
+  To hide our _Sloth_, and cover o'er our _Shame_;
+  As _Sinners_, when their _Reason's_ drown'd in _Sense_,
+  Fall out with _Heav'n_, and quarrel _Providence_.                  270
+    Yet should you our _Galenic Way_ despise,
+  And some _new Colbatch_ of the _Muses_ rise;
+  No _Quarter_ from the _College_ hope, who sit
+  _Infallible_ at _Will's_ and judg of _Sense_ and _Wit_:
+  Keep fair with these, or _Fame_ you _court_ in vain,
+  A strict _Neutrality_ at least _maintain_!
+  Speak, like the wise _Italian_, well of all;
+  Who knows into what _Hands_ he's doom'd to _fall_?
+    Write _oft_ and _much_, at _first_, if you'd _write well_,
+  For he who ne'er _attempts_ will ne'er _excel_;                    280
+  _Practice_ will _file_ your _Verse_, your _Thoughts refine_,
+  And _Beauty_ give, and _Grace_ to every Line:
+  The _Gnat_ to fam'd _Æneis_ led the way,
+  And our _Immortal_ COWLEY once did _play_.
+  Let not the _Sun of Life_ in vain decline,
+  Or _Time_ run _waste; No Day without a Line_.
+  Yet learn by me, my Friend, from _Errors_ past;
+  O never _write_, or never _Print_ in _Haste_!
+  The _worst Excuse_ Ill Authors e'er advance,
+  Which does, like _Lies_, a _single Guilt_ enhance.                 290
+  Lay by your _Work_, and leave it on the _Loom_,
+  Which if at _mod'rate distance_ you resume,
+  A _Father's Fondness_ you'll with Ease look through,
+  And _Objects_ in a proper _Medium_ view.
+  'Tis _Time_ alone can _Strength_ and _Ripeness_ give;
+  A _Hasty Birth_ can ne'er expect to _live_.
+    Fly, _low_ at first, you'll with Advantage _rise_;
+  This _pleases_ all, as that will all _surprize_.
+                                              [Sidenote: _The Subject_.]
+    No _Work_ attempt but where your _Strength_ you know,
+  Be _Master of your Subject_, _Thoughts_ will _flow_:               300
+  The _newer_ 'tis, the _choicer Fruit_ 'twill yield,
+  More _Room_ you have to work if _large_ your _Field_;
+  The _Sponge_ you oftner than the _Pen_ will want,
+  And rather _Reason_ see to _prune_ than _plant_;
+  Yet where the _Thoughts_ are _barren, weak_ and _thin_,
+  New _Cyons_ should be neatly _grafted_ in.
+                                                  [Sidenote: _A Judge_.]
+    If you with _Friend_ or _Enemy_ are blest,
+  Your _Fancy's Offspring_ ne'er can want a _Test_,
+  Tho _Both_, perhaps may _overshoot_ the _Mark_:
+  First _Spite_ with _Envy_ charges in the _Dark_;                   310
+  _Unread_ they _damn_, and into _Passion_ fall,
+  'Tis _Stuff_, 'tis _Blasphemy_ 'tis _Nonsense_ all;
+  They _sleep_ (when _doz'd before_) at every _Line_,       }
+  While your more _dang'rous Friend_ exclaims,--'Tis fine,  }
+  'Tis _furiously Delightful_, 'tis _Divine_;               }
+  Th' _inspiring God's_ in ev'ry Page confess'd;
+  A COWLEY or a DRYDEN at the least!
+  Yet you'll from _both_ an _equal Judgment_ frame
+  And stand the _nearest Candidate_ for _Fame_:
+  What _Envy praises_, or what _Friends dislike_,                    320
+  This bears the _Test_, and that the _Sponge_ should strike.
+  Chuse to be _absent_ when your _Cause_ is try'd,
+  Lest _Favour_ should the _partial Judge_ misguide;
+  Not _others Thoughts_ implicitly prefer,
+  Your _Friend's_ a _Mortal_, and like _you_, may _err_.
+  Upon the _last Appeal_ let _Reason_ sit,
+  And _here_, let _all Authority_ submit.
+  Divest your _self of self_ whate'er you can,
+  And think the _Author_ now some _other Man_.
+  A thousand trivial _Lumber-Thoughts_ will come,                    330
+  A thousand _Fagot-Lines_ will crowd for room;
+  _Reform_ your _Troops_, and no _Exemption_ grant,
+  You'll gain in _Strength_, what you in _Numbers_ want.
+  Nor yet _Infallibility_ pretend;
+  He still _errs on_ who thinks he ne'er can _mend_:
+  Reject that _hasty_, that _presumptuous Thought_!
+  None e'er but VIRGIL wrote without a _Fault_;
+  (Or _none_ he has, or none that _I can find_,
+  Who, dazzled with his _Beauties_, to his _Moles_ am blind.)
+  Who has the _least_ is _happiest_, he the _best_,                  340
+  Who _owns_ and _mends_ where he has once _transgrest_.
+  Nor will _good Writers smaller Blots_ despise,
+  Lest those neglected should to _Crimes_ arise;
+  Such _Venial Sins_ indulg'd will _mortal_ prove,
+  At least they from _Perfection_ far remove.
+  Nor _Critical Exactness_ here deride,
+  It looks like _Sloth_ or _Ignorance_, or _Pride_;
+  _Good Sense_ is spoild in _Words unapt_ exprest,
+  And _Beauty_ pleases more when 'tis _well drest_.
+                                                   [Sidenote: _Method_.]
+    Forget not METHOD if the _Prize_ you'd gain,                     350
+  'Twill cost you _Thought_, but richly pays the _Pain_;
+  What _first_, what _second_, or what _last_ to place,
+  What here will _shine_, and there the _Work_ disgrace.
+    Before you build, your MODEL justly lay,
+  And ev'ry Part in _Miniature_ survey;
+  Where airy _Terraces_ shall threat the _Skies_,
+  Where _Columns_ tow'r, or neat _Pilasters_ rise;
+  Where cool _Cascades_ come _roaring_ down the Hill,
+  Or where the _Crystal Nymph_ a _mossie Bason_ fill:
+  What _Statues_ are to grace the _Front_ design'd,                  360
+  And how to throw the _meaner Rooms_ behind.
+  Draw the _Main Strokes_ at first, 'twill shew your _Skill_,
+  _Life-Touches_ you may add whene'er you will.
+  Ev'n _Chance_ will sometimes all our _Art_ excel,
+  The _angry Foam_ we ne'er can _hit_ so well.
+  A _sudden Thought_, all beautiful and bright,
+  Shoots in and _stunns_ us with _amazing Light_;
+  Secure the _happy Moment_ e'er 'tis past,
+  Not _Time_ more _swift_, or _Lightning_ flies so fast.
+    All must be _free_ and _easie_, or in vain                       370
+  You _whip_ and _spur_, and the _wing'd Courser_ strain:
+  When _foggy Clouds_ hang _bellying_ in the _Skies_,
+  Or _fleety Boreas_ through th' _Horizon_ flies;
+  He then, whose _Muse_ produces ought that's _fine_,
+  His _Head_ must have a _stronger Turn_ than mine:
+  Like _Sybils Leaves_ the _Train of Thoughts_ are rang'd,
+  Which by _rude Winds_ disturb'd, are _nothing_ if they're chang'd.
+  Or are there too in _Writing softer Hours_?
+  Or is't that _Matter_ nobler _Mind_ o'erpow'rs,
+  Which boasts her _native Liberty_ in vain,                         380
+  In _Mortal Fetters_ and a _Slavish Chain_?
+  _Death_ only can the _Gordian Knot_ divide,      }
+  Tho by what secret wondrous _Bands_ 'tis ty'd,   }
+  Ev'n _Reason's_ self must own she can't decide:  }
+  For as the _rapid Tides_ of _Matter_ turn           }
+  We're fann'd with _Pleasure_ or with _Anger_ burn,  }
+  We _Love_ and _Hate_ again, we _Joy_ and _Mourn_.   }
+  Now the swift _Torrent_ high and headstrong grows,
+  _Shoots_ through the Dykes, and all the Banks _o'erflows_;
+  Strait the _capricious Waters_ backward fly,
+  The _Pebbles_ rake and leave the Bottom _dry_;                     390
+  Watch the _kind Hour_ and seize the _rising Flood_,
+  Else will your _dreggy Poem_ taste of _Mud_.
+  Hence old and batter'd _Hackneys_ of the _Stage_,
+  By long Experience render'd _Wise_ and _Sage_,
+  With pow'rful _Juices_ restive Nature urge,
+  Or else with _Bays_ of old, they _bleed_ and _purge_;
+  Thence, as the _Priestess_ from her _Cave_ inspir'd,
+  When to his _Cell_ the _rancid God_ retir'd,
+  _Double Entendres_ their fond _Audience_ blind,
+  Their _boasted Oracles_ abuse Mankind:                             400
+  _False Joys_ around their _Hearts_ in _Slumbers_ play,
+  And the warm _tingling Blood_ steals fast away;
+  The _Soul_ grows _dizzy_, lost in _Senses Night_,
+  And melts in pleasing _Pain_ and vain _Delight_.
+    Not that the _sowrest Critick_ can reprove
+  The _soft_ the moving _Scenes_ of _Virtuous Love_:
+  _Life's Sunny Morn_, which wears, alas! too fast;
+  _Pity_ it e'er should _hurt_, or should not _always last_!
+  Has _Bankrupt Nature_ then no _more_ to give,
+  Or by a _Trick_ persuades Mankind to _live_?                       410
+  No--when with _Prudence_ join'd 'tis still the _same_  }
+  Or _ripens_ into _Friendship's_ nobler _Name_,         }
+  The _Matter_ pure, immortal is the _Flame_.            }
+  No _Fool_, no _Debauchee_ could ever prove
+  The _honest Luxury of Virtuous Love_;
+  Then _curs'd_ are those who that _fair Name_ abuse,
+  And holy _Hymen's_ sacred _Fillets_ loose;
+  Who _poison Fountains_, and _infect_ the _Air_,
+  _Ruine_ the _Witty_, and _debauch_ the _Fair_;
+  With _nauseous Images_ their _Scenes_ debase                       420
+  At once their Country's _Ruine_ and _Disgrace_.
+  _Weigh_ well each _Thought_ if all be _Just_ and _Right_,
+  For those must clearly _think_ who clearly _write_.
+  Nothing _obscure_, _equivocal_, or _mean_,
+  Much less what is or _impious_ or _obscene_:
+  Altho the tempting _Serpent_ play his part,
+  And wind in _glitt'ring Folds_ around thy _Heart_;
+  Reject the _trait'rous Charmer_, tear him thence,
+  And keep thy _Vertue_ and thy _Innocence_.
+                             [Sidenote: _The Manchinel, or Eves Apple_.]
+    In wild _America's_ rank _Champaign_ grows                       430
+  A _Tree_ which _Europe_ oft too dearly knows;
+  It rises high in _cool inchanting Groves_,
+  Whose green broad Leaves the fainting _Trav'ler_ loves;
+  _Fair_ is the treach'rous _Fruit_, and charms your _Eye_,
+  But ah! beware! for if you _taste_ you _die_.
+  Too well alas! it _thrives_ when _planted_ here,
+  Its deadly Branches shade our _Theatre_.
+    Of _Mesures, Numbers, Pauses_ next I sing,
+  And rest the breathless _Muse_ with cautious _Wing_:
+  Of _Embryo Thoughts_, unripen'd yet by Time,                       440
+  The Rules of _Verse_, of _Quantity_ and _Rhime_:
+  With trembling Steps through _Shades_ unknown I stray,
+  And mark a _rugged_ and a _dubious_ way;
+  Yet some small _glimm'ring Light_ will hence be show'd,
+  And future _Trav'lers_ may enlarge the _Road_.
+                                                  [Sidenote: _Measure_.]
+    Of CHAUCER'S Verse we scarce the _Measures_ know,
+  So _rough_ the _Lines_, and so _unequal_ flow;
+  Whether by Injury of _Time_ defac'd,
+  Or _careless_ at the _first_, and writ in _haste_;
+  Or _coursly_, like old _Ennius_, he _design'd_                     450
+  What After-days have _polish'd_ and _refin'd_.
+  SPENCER more _smooth_ and _neat_, and none than He
+  Could better skill of _English Quantity_;
+  Tho by his _Stanza_ cramp'd, his _Rhimes_ less chast,
+  And _antique Words_ affected all disgrac'd;
+  Yet _vast_ his _Genius, noble_ were his _Thoughts_,
+  Whence equal Readers wink at _lesser_ Faults.
+    From _France_ their _Alexandrins_ we receive
+  Which more of _Liberty_ and _Compass_ give;
+  Hence by our dull Translators were they us'd,                      460
+  Nor CHAPMAN nor old STERNHOLD these refus'd;
+  They borrow from _Hexameters_ their _Feet_,
+  Which with _Asclepiads_ and _Iambicks_ meet;
+  Yet in the midst we still a _Weakness_ see,
+  Their _Music_ gives us no _Variety_.
+  More _num'rous_ the _Pentameter_ and _strong_,
+  Which to our _Saxon Fathers_ did belong.
+  In this their antient _Edda_[1] seems to write,
+  _Mysterious Rhimes_, and _horrid_ to the _sight_:
+  Their _Runic Staves_ in this on _Rocks_ engrav'd,                  470
+  Which long th' Assaults of _Time_ it self have brav'd.
+  In this our antient _British Bards_ delight;  }
+  And, if I measure his _rough Numbers_ right,  }
+  In this old _Taliessin_ us'd to Write[2].     }
+  This still _Possession_ keeps, few else we read,
+  And _Right_ as well as _Fact_ may justly plead;
+  Altho the _French Intruders_ oft pursue
+  Their _baffled Title_, and their _Claim_ renew;
+  Too oft _Impressions_ on our _Armies_ make,
+  Cut off our _Straglers_ and our _Out-Guards_ take,                 480
+  Which lazily our Authors now admit,
+  And call th' _Excursions of Luxuriant Wit_;
+  With _Badger-Feet_ the two-top'd _Mount_ we climb,
+  And stalk from _Peak_ to _Peak_ on _Stilts of Rime_.
+    Sweet WALLER'S _Dimeter_ we most approve
+  For cheerful _Songs_ and _moving Tales of Love_,
+  Which for _Heroic Subjects_ wants of _Strength_,
+  Too _short_, as _Alexandrins_ err in _Length_.
+    Our _Ear's_ the Judge of _Cadence_; nicely weigh
+  What _Consonants_; rebel, and what obey;                           490
+  What _Vowels_ mixt compose a pleasing _Sound_,
+  And what the tender _Organs_ grate and wound.
+  Nor at thy Reader's _Mercy_ chuse to lie,
+  Nor let _his Judgment_ want of _thine_ supply:
+  So _easie_ let thy _Verse_ so _smoothly_ fall,
+  They must be read _aright_ if read at all.
+                                                  [Sidenote: _Numbers_.]
+  Nor _equal Numbers_ will for all suffice,
+  The _Sock_ creeps low, the _Tragic Bushkins_ rife;
+  None knew this _Art_ so well, so well did use
+  As did the _Mantuan Shepherd's_ Heav'nly Muse:                     500
+  He marry'd _Sound and Sense_, at odds before,
+  We hear his _Scylla bark, Charybdis roar_;
+  And when in Fields his _Fiery Coursers_ meet
+  The _hollow Ground_ shakes underneath their feet:
+  Yet nicer _Ears_ can taste a _Diff'rence_ when
+  Of _Flocks_ and _Fields_ he _sings_ or _Arms_ and _Men_.
+  If I our _English Numbers_ taste aright,
+  We in the grave _Iambic_ most delight:
+  Each _second_ Syllable the Voice should _rest_,
+  _Spondees_ may serve, but still th' _Iambic's_ best:               510
+  Th' unpleasing _Trochee_ always makes a _Blot_,
+  And lames the _Numbers_; or, if this forgot,
+  A strong _Spondaic_ should the _next_ succeed,
+  The feeble _Wall_ will a good _Buttress_ need:
+  Long _Writing, Observation, Art_ and _Pain_
+  Must here unite if you the _Prize_ would gain.
+                                                   [Sidenote: _Pauses_.]
+    _Pause_ is the _Rest_ of _Voice_, the poor _Remains_
+  Of _antient Song_ that still our _Verse_ retains:
+  The _second Foot_ or _third's_ our usual _Rest_,
+  Tho more of _Art's_ in _varying_ oft exprest.                      520
+  At ev'ry Word the _Pause_ is sometimes[3] made,
+  And wond'rous _Beauty_ every where displaid:
+  --But here we _guess_, and _wander_ in the _dark_;
+  How should a hoodwink'd _Archer_ hit the Mark?
+  The little _Glimpse_ that DRYDEN gives, is more
+  Than all our _careless Writers_ knew before;
+  A few _Chance Lines_ may smooth and roundly fly,
+  But still no Thanks to us, we know not why.
+  He finds _Examples_, we the _Rule_ must make,
+  Tho who without a Guide may not mistake?                           530
+    [4] "_Tho deep yet clear, tho gentle yet not dull,
+        Strong without Rage, without o'er flowing full._"
+  If we that _famous Riddle_ can unty,
+  Their brightest _Beauties_ in the _Pauses_ lie,
+  To Admiration _vary'd_; next to these
+  The _Numbers_ justly order'd charm and please:
+  Each _Word_, each happy _Sound_ is big with _Sense_,
+  They all _deface_ who take one _Letter_ thence.
+                                                 [Sidenote: _Quantity_.]
+    But little more of _Quantity_ we know
+  Than what our _Accent_ does, and _Custom_ show:                    540
+  The _Latin Fountains_ often we forsake,
+  As they the _Greek_; nay _diff'rent Ages_ take
+  A _diff'rent Path; Perfùme_ and _Envy_ now
+  We say, which _Ages past_ would scarce allow:
+  If no _Position_ make our _Accent_ strong
+  Most _Syllables_ are either _short_ or _long_.
+                                                    [Sidenote: _Rhime_.]
+    _Primitive Verse_ was grac'd with pleasing _Rhimes_,
+  The _Blank_ a lazy Fault of _After-times_;
+  Nor need we other proof of this to plead
+  With those the sacred [5] _Hebrew Hymns_ can _read_:               550
+  If this to _lucky Chance_ alone be _due_,
+  Why _Rhime_ they not in _Greek_ and _Latin_ too?
+  [6] PINDAR at first his ancient _Copy_ trac'd,
+  And sometimes equal _Sounds_ his _Numbers_ grac'd;
+  Till with the more than _human Labour_ tir'd,
+  He _drop'd_ his _Rhime_, and own'd him _uninspir'd_.
+  ORPHEUS and HOMER too, who first did dream
+  Of _num'rous Gods_, and left the _One Supreme,
+  Religion_ both and _Poetry_ did wrong,
+  _Apostatiz'd_ from _Rhime_, and lost the _Soul of Song_.           560
+  Yet still some weak and glimm'ring _Sparks_ remain'd,
+  And still our _Great Forefathers_ this retain'd;
+  Nor _Inundations_ of _Barbarian Rome_,
+  Our ancient _Rhime_ could wholly overcome.
+                                               [Sidenote: _Vide p._ 13.]
+    Ne'er _cramp_ thy _Reason_ for some paltry _Chime_,
+  Nor sacrifice _Good Sense_ to _Numbers_ and to _Rhime_:
+  Both may be _sav'd_ and made _good Friends_; and here
+  The Poets _Art_ and _Happiness_ appear:
+  But when some _stubborn Word_ denies to draw
+  In _Numbers_, and defies the _Muses Law_,                          570
+  Reject it strait, unworthy such a _Grace_,
+  Another _yoke_ which better fills the _Place_:
+  Much _Reading_ will thy _Poverty_ amend
+  And _Taggs_ without the help of _Crambo_ lend.
+    The _Double Rhime_ is _antiquated_ grown,
+  Or us'd in _Satyr_ or _Burlesque_ alone;
+  Nor loves our stronger _Tongue_ that tinkling _Chime_,
+  The _Darling_ of the _French_, a _Female Rhime_.
+    Now, daring _Muse_! attempt a _stronger Flight_,
+  Beyond a _Vulgar Verser's_ cautious Height,                        580
+  Beyond thy self, and consecrate to _Fame_   }
+  Those who a _Title_ to the _Laurel_ claim,  }
+  And may to after-times _embalm_ thy Name;   }
+  Commend the _Good_, to all but _Vice_ be kind,
+  And cast the _smaller Faults_ in _shades_ behind;
+  Who _first_, who _next_; the _Balance_ justly hold,
+  As that which shines above, and flames with _Heav'nly Gold_.
+    Great N----BY the first, ROSCOMMON gone,
+  He rules our _Empire_ now of _Wit_ alone:
+  The _Beauties_ he of _Verse_ exactly knows,                        590
+  The famous DRYDEN'S not more smoothly flows:
+  Had ORPHEUS half so sweetly mourn'd his _Fate_,
+  As VIRGIL sung, or _Sh----d_ did _translate_;
+  H' had made the _Manes_ once again _relent_,
+  They would again _Eurydice_ have sent:
+  _Death's Temple_ we with _sacred Aw_ survey,
+  With _Admiration_ read his _Great Essay_:
+  Was _Art_ or bounteous _Nature_ here more _kind_?       }
+  _Strong Sense_! Uncommon _Learning! Thoughts_ refin'd!  }          600
+  A _Godlike Person_, and an _equal Mind_!                }
+               [Sidenote: _Paraphrase on_ Psal. 148 O Azure Vaults, &c.]
+    The _next_ in Dignity, if not the _same_,
+  Is Deathless Dorsot's lov'd and noble _Name_:
+  How did he sing, (listen'd the _Heav'nly Quire_;)
+  The Wond'rous Notes of DAVID's _Royal Lyre_!
+  Ah! _Why no more_ must we for ever long
+  And vainly languish for so _sweet_ a _Song_?
+    The next is _Tityrus_, who not disdains
+  To read his _Name_ among the _tuneful Swains_;
+  _Unweary'd_ in his _Prince's_ glorious _Cause_,                    610
+  As he of _Faith_, Defender of the _Laws_;
+  _Easie_ to all but to himself, he shares
+  His Monarch's _Favours_, and his Monarch's _Cares_:
+  His flowing _Language_ cloaths his _massie Sense_,  }
+  Nor makes with _pompous Words_ a vain pretence,     }
+  _Sound_ without _Soul_, to _Wit_ and _Eloquence_.   }
+  Tho _Great_, he's still the same he was before:
+  --I _sue for nothing_, and I'll say no more.
+    _Montague_ left the _Muses_ peaceful _Seat_,
+  And bore the _Cares_ and _Honours_ of the _Great_:                 620
+  The _Pollio_ he of our _Augustan_ days,
+  Who _Wit_ rewards with more than _hungry Praise_;
+  _True Worth_ his _Patronage_ can never miss,
+  He has his _Prince's Smiles_ and _that_ has _his_.
+    Nor should he pass unprais'd whom all admire,
+  Who, mixt with _Seraphs_, rules the _Western_ Quire;
+  _Flowing_ and _pure_ his unexhausted _Vein_,
+  As Silver _Thames_, which, rolling down the _Plain_,
+  Salutes his _Sacred Dome_.----
+  But those _profane_ who meanly thus _commend_,                     630
+  Th' _Immortal Cowley's_ and the _Muses_ Friend.
+    Of _matchless_ DRYDEN only _Dryden's_ Skill
+  Could justly say enough,--of _Good_ or _Ill_.
+  _Envy_ must own he has our _Tongue refin'd_,
+  And manly _Sense_ with tend'rest _Softness_ join'd:
+  His _Verse_ would _Stones_ and _Trees_ with _Soul_ inspire,
+  As did the _Theban_ and the _Thracian_ Lyre:
+  His youthful _Fire_ within, like _Etna, glows_,
+  Tho _Venerable Age_ around his Temples _snows_:
+  If from the _modern_ or the _antient_ Store                        640
+  He _borrows_ ought, he always _pays_ 'em more:
+  So much _improv'd_, each _Thought_, so _fine_ appears,
+  WALLER or OVID scarce durst own 'em _theirs_.
+  The Learned _Goth_ has scowr'd all _Europe_'s Plains,  }
+  _France, Spain_, and fruitful _Italy_ he _drains_,     }
+  From every Realm and every Language _gains_:           }
+  His _Gains_ a _Conquest_ are, and not a _Theft_;
+  He wishes still new _Worlds_ of _Wit_ were left:
+  Thus _haughty Rome_, when, all the _Firm_ surpass'd,
+  Her _Eagles_ found our _moated World_ at last;                     650
+  Touching upon th' _unhospitable_ Coast,
+  _Good Laws_ bestow'd for our _wild Freedom_ lost;
+  With _Arts of Peace_ our stubborn Soil manur'd,
+  And _naked Limbs_ from _Frost_ and _Sun_ secur'd:
+  --But ah' how _dear_ the _Price_ of all we gain!       }
+  What _Shoals of Vices_ with 'em cross'd the Main?      }
+  What _Pride_, what _Luxury_, a foul, an odious Train?  }
+  Who weighs, like _Galcacus_, the _Good_ with _Ill_,
+  Would wish they'd let us been _Barbarians_ still:
+  Such _thankless Pains Ignatian Firebrands_ take                    660
+  An _honest Pagan_ spoil, and a _bad Christian_ make.
+    Blest be kind Heav'n, which wrap'd me in a _Gown_,
+  And drew me early from the _fatal Town_!
+  And blest _Her Name_, to endless Ages blest,
+  Who gave my weary _Muse_ this calm _Retreat_ and _Rest_.
+  True to my God, my Country, and my Friend,              }
+  Here, may I Life, not _wholly useless_, spend,          }
+  _Steal_ through the World, and _smiling_ meet my _End_! }
+  I envy not _Great Dryden_'s loftier Strain           }
+  Of _Arms_ and _Men_ design'd to entertain,           }             670
+  _Princes_ and _Courts_, so I but please the _Plain_: }
+  Nor would I barter _Profit_ for _Delight_,
+  Nor would have _writ like him, like him to write_.
+  If there's _Hereafter_, and a last _Great Day_,
+  What _Fire_'s enough to _purge_ his _Stains_ away?
+  How will he _wish_ each _lewd_ applauded _Line_      }
+  Which makes _Vice pleasing_, and _Damnation shine_,  }
+  Had been as _dull_ as honest _Quarles_ or _mine_!    }
+  With _sixty Years of Lewdness_ rest content!
+  It mayn't be yet _too late_, O yet _Repent_!                       680
+  Ev'n _Thee_ our _injur'd Altar_ will receive;
+  While yet there's _Hopes_ fly to its _Arms_ and live!
+  So shall for _Thee_ their _Harps_ the _Angels_ string,
+  And the _Returning Prodigal_ shall sing;
+  New _Joys_ through all the _Heav'nly Host_ be shown
+  In _Numbers_ only _sweeter_ than thy _own_.
+    CONGREVE from _Ireland_ wond'ring we receive,      }
+  Would he the _Town's loose way_ of Writing leave,    }
+  More Worth than all their Forfeit Lands will give:   }
+  _Justness_ of _Thought_, a _Courtly Style_, and clear,             690
+  And well-wrought _Passions_ in his _Works_ appear:
+  None knows with _finer Strokes_ our Souls to move,
+  And as he please we _smile_, or _weep_, or _love_.
+  When _Dryden_ goes, 'tis he must fill the _Chair_,
+  _With_ Congreve _only_ Congreve _can compare_.
+  Yet, tho he _natural_ is as untaught Loves,
+  His _Style_ as _smooth_ as _Cytherea_'s Doves,
+  When e'er unbyass'd _Judges_ read him o'er,
+  He sometimes _nodds_, as _Homer_ did before:
+  Some Lines his most _Admirers_ scarce would please,                700
+  Nor _B----_'s Verse alone could _raise Disease_.[7]
+    For _smooth_ and _well turn'd Lines_ we _T----_ admire,
+  Who has in _Justness_ what he wants in _Fire_:
+  Each _Rhime_, each _Syllable_ well-weigh'd and fair,
+  His _Life_ and _Manners_ scarce more _regular_.
+    With _Strength_ and _Flame_ prodigious _D----s_ writes
+  Of _Loves_ lost _Wars_, and cruel martial _Fights_:
+  Scarce LEE himself strove with a _mightier Load_,
+  Or _labour'd_ more beneath th' _Incumbent God_:
+  Whate'er of old to _Rome_ or _Athens_ known,                       710
+  What _France_ or _We_ have _glean'd_, 'tis all his _own_.
+    How few can equal _Praise_ with _C----ch_ obtain,
+  Who made _Lucretius smooth_, and _chast_, and _plain_?
+  Courted by _Fame_ he could her _Charms_ despise,  }
+  Still woo'd by that _false Fair_ he still denies, }
+  And press'd, for _Refuge_ to the _Altar_ flies;   }
+  Like _votive Tablets_ offers up his _Bays_,
+  "_And leaves to our lewd Town the Drudgery of Plays_."
+    In lofty _Raptures_, born on Angels Wings       }
+  Above the _Clouds_, above _Castalian Springs_,    }                720
+  N---- inspir'd, of God and _Nature_ sings;        }
+  And if one _Glance_ on this _poor World_ he throw,
+  If e'er he mind the _Croud_ and _Buzz_ below;
+  Pities our _fruitless Pains_ for _Fame_ and _Praise_,
+  And wonders why we _drudge_ for _Crowns_ and _Bays_.
+    Could _B_---- be _sober_, many he'd excel,
+  Few know the _Antients_, or could use so well;
+  But ah! his _Genius_ with his _Virtue's_ fled,
+  Condemn'd to _Want of Grace_ and _Want of Bread_.
+    Ev'n Envy _B----re's Subject_ must confess }                     730
+  _Exact_ and _rare_, a _curious Happiness_, }
+  Nor many could the _Fable better dress_:   }
+  Of _Words_ what _Compass_, and how vast a _Store_!
+  His _Courage_ and his _Vertue's_ only more:
+  More various _Scenes of Death_ his _Fights_ display
+  Then _Aghrim's_ Field or _London's_ fatal Day:
+  Let beauteous _Elda's Tears_ and _Passion_ prove
+  His _Soul_ is not _unknowing how to love_:
+  Disrob'd of _Clouds_ he view'd the _Stagyrite_
+  As _Nature_ he, confess'd to _Human sight_:
+  His _Rules_ surveys, and traces to their _Springs_,  }             740
+  Where the _blind Bard_ of flaming _Ilium_ sings;     }
+  Thence with the _Mantuan Swan_ in narrower Rings,    }
+  Tho more _exact_, he, stooping from his height,
+  Reviews the same _fierce Wars_ and _Gods_ and _Heroes_ fight:
+  That beauteous antient _Palace_ he surveys         }
+  Which _Maro's Hands_ had only Strength to raise,   }
+  _Models_ from thence, and _copies_ every _Grace_:  }
+  Each _Page_ is big with _Virgil's Manly Thought_,
+  To _follow him too near's a glorious Fault_.
+  He dar'd be _virtuous_ in the _World's_ Despite,                   750
+  _While_ D----n _lives he dar'd a Modest Poem write_.
+    Who can th' ingenious S----y's Praise refuse,
+  Who serves a grateful _Prince_, and grateful _Muse_?
+  Or _P----r_ read unmov'd, whose every _Page_
+  So just a _Standard_ to the opening _Age_?
+    Neat _S----n_'s courtly _Vein's_ correct and clear,
+  Nor shall he miss his _Praise_ and _Station_ here:
+  Nor should the _rest_ whom I _unnam'd_ must leave,
+  (Tho such _Omission_ they'll with ease _forgive_:)                 760
+  _Unknown_ to me, let each his _Works_ commend,
+  Since _Virtue, Praise_, as _Shame_ does _Vice_ attend.
+  _Poets_, like _Leaves_ and _Words_, their _Periods_ know,
+  Now _fresh_ and _green_, now _sear_ and wither'd grow;
+  Or _burnt_ by _Autumn's_ Heat, and _Winter's_ Cold,
+  Or a _new hasty Birth_ shoves off the _old_.
+  Happy are those, and such are _some_ of ours,            }
+  Who blest by bounteous _Heav'n's_ indulgent _Show'rs_    }
+  Bear wholsome _Fruit_, and not gay _pois'nous Flow'rs_:  }
+  Who would not ev'n a _Lawreat's self_ commence                     770
+  Or at their _Virtue's_ or their _Faith's_ Expence:
+  Renounce their _Creed_ to save a _wretched Play_,   }
+  And for a _crowded House_ and _full Third Day_      }
+  At one _bold Stroke_ throw all their _Heav'n_ away. }
+  What gain'd _Euripides_ by all his _Sense_,
+  Who madly rail'd against a _Providence_?
+  _Apostate Poets_ first seduc'd _Mankind_,
+  _But ours upon the Pagan Herd refin'd_;
+  They Vertue _prais'd_ at least, which ours _abuse_,
+  And more than _Paganize_ the Heav'n-born Muse:                     780
+  No Signs of _Grace_, or of _Repentance_ show,
+  Like _Strumpets lash'd_, more _impudent_ they grow.
+    Now learn, my Friend, and freely I'll impart
+  My _little All_ in this delightful Art:
+  Of _Poetry_ the various _Forms_ and _Kinds_,
+  The widest, strongest _Grasp_ of human Minds:
+  Not _all_ from _all_, but _some_ from _each_ I take,
+  Since we a _Garland_ not a _Garden_ make.
+                                                     [Sidenote: _Epic_.]
+    EPIC's the _first_ and _best_, which mounting sings  }
+  In _Mighty Numbers worthy mighty Things_,              }           790
+  Of _High Adventures, Heroes, Gods_ and _Kings_:        }
+  By lively _Schemes_ the Mind to _Vertue_ forms,
+  And far beyond _unactive Precept_ warms.
+  The _Subject_ may be either _feign'd_ or _true_,
+  _Too Old_ it should not be, but less _too New_:
+  _Narration_ mixt with _Action_ most delights,
+  _Intrigues_ and _Councils_, vary'd _Games_ and _Fights_:
+  Nothing so _long_ as may the Reader _tire_,
+  But all the just well-mingled _Scenes_ admire.
+  Your _Heroe_ may be _virtuous_, must be _brave_;
+  Nothing that's _mean_ should his great Soul enslave:
+  Yet Heav'ns unequal _Anger_ he may _fear_,
+  And for his _suffering Friends_ indulge a _Tear_:
+  Thus when the _Trojans Navy_ scatter'd lay
+  He _wept_, he _trembled_, and to Heav'n did _pray_;
+  But when bright _Glory beckon'd_ from afar,
+  And _Honour_ call'd him out to meet the _War_;
+  Like a fierce _Torrent_ pouring o'er the _Banks_,
+  Or _Mars_ himself, he _thunders_ through the _Ranks_;
+  _Death_ walks before, while he a _Foe_ could find,                 810
+  _Horror_ and _Ruine_ mark long frightful _Lanes_ behind.
+                                                 [Sidenote: _Machines_.]
+    For _worn_ and _old_ MACHINES few Readers care,
+  They're like the _Pastboard Chaos in the Fair_:
+  If ought surprizing you expect to shew,
+  The _Scenes_ if not the _Persons_ should be _new_:
+  With _both_ does MILTON'S wondrous Scheme begin,
+  The _Pandemonium, Chaos, Death_ and _Sin_;
+  Which _D----s_ had with like _Success_ assay'd,       }
+  Had not the _Porch_ of _Death's Grim Court_ been made }
+  Too _wide_, and there th' impatient _Reader_ staid.   }            820
+  And _G----h_, tho _barren_ is his _Theme_ and _mean_,
+  By this has _reach'd_ at least the fam'd _Lutrine_.
+  If _tir'd_ with such a plenteous _Feast_ you call
+  For a far meaner _Banquet_, _Meal_ and _Wall_;
+  The _best_ I have is _yours_, tho 'tis too _long_,
+  And what's behind will into _Corners_ throng.
+    A _Place_ there is, if _Place_ 'tis nam'd aright,  }
+  Where scatter'd _Rays_ of pale and sickly _Light_,   }
+  Fringe o'er the _Confines_ of _Eternal Night_.       }
+  _Shorn_ of their _Beams_ the _Sun_ and _Phoebe_ here               830
+  Like the _fix'd Stars_, through _Glasses_ view'd, appear;
+  Or those faint _Seeds of Light_, which just display
+  Ambiguous Splendor round the _milky Way_;
+  The _Waste_ of _Chaos_, whose _Auguster_ Reign
+  Does those more barren doubtful Realms disdain:
+  Here dwell those _hideous Forms_ which oft repair  }
+  To breath our upper _World's_ more _chearful_ Air  }
+  Bleak _Envy_, grinding _Pain_, and meagre _Care_;  }
+  _Disease_ and _Death_, the _Goddess_ of the _place_,
+  _Death_, the _least frightful Form of all their Race_;             840
+  _Ambition, Pride_, false _Joys_ and _Hopes_ as vain,
+  _Lewdness_ and _Luxury_ compose her Train:
+  How large their _Interest_, and how vast their _Sway_
+  Amid the wide invaded Realms of _Day_!
+  Soon would they our frail Race of _Mortals_ end,
+  Did not kind _Heav'n_ auspicious _Succours_ lend;
+  Sweet _Angel-Forms, Peace, Virtue, Health_ and _Love_,
+  How near ally'd, how like to those _above_!
+  These often drive the _Air_, those _Furies_ chace
+  And fetter in their own _infernal Place_:                          850
+  These lent at once NASSAW and ENGLAND Aid,
+  And bright MARIA to our _Shores_ convey'd:
+  Her, all their _Pow'r_ and all their _Charms_ they gave,
+  To _govern_ what her _Heroe_ came to _save_.
+    Nor _Envy_ this, who in her noisome Cell
+  By _Traitors_ in their swift _Descent to Hell_,
+  Her rising _Glories_ heard, then with a _Groan_
+  She crawl'd before her _Sov'reign's_ direful _Throne_:
+  A _Pile of Sculls_ the odious _Fantom_ bore,
+  With _Bones_ half-naked mixt, and dropping putrid _Gore_;          860
+  There thus--Shall _Heav'n_ defraud us of our _Reign_,
+  And BRITAIN, only BRITAIN break her _Chain_?
+  What can we there, while more than _mortal Grace_
+  Forbids our _Entrance_, and secures the _Place_?
+  Awhile I _gaz'd_ and _viewed_ her as I _fled_,
+  When first she came, till half my _Snakes_ were dead;
+  And had I tarry'd longer near her _Throne_,
+  Had soon some base _insipid Vertue_ grown:
+  So fast the wide _progressive Ills_ increase,  }
+  If longer unoppos'd our _Power_ will cease;    }                   870
+  The base degenerate World _dissolve_ to Peace; }
+  Our boasted _Empire_ there will soon be o'er,
+  And _Mortals_ tremble at our _Arms_ no more.
+    She said, her _Tidings_ all the _Court_ affright,
+  And doubled _Horror_ fill'd the _Realms of Night_:
+  Till out foul _Lewdness_ leap'd, and shook the Place.  }
+  The _fulsom'st Fiend_ of all th' _infernal Race_;      }
+  A crusted _Leprosie_ deform'd her _Face_;              }
+  With half a _bloodshot_ Eye the _Fury_ glar'd,
+  Yet when for _Mischief_ she above prepar'd,                        880
+  She _painted_ and she _dress'd_, those _Arts_ she knew,
+  And to her _self_ her self a _Stranger_ grew,
+  (Thus _old_ and batter'd _Bawds_ behind the Scenes,
+  New _rigg'd_ and _dawb'd_, pass on the _Stage_ for _Queens_;)
+  Nor yet, she cries, of _Britain_ we'll _despair_   }
+  I've yet some _trusty Friends_ in _Ambush_ there,  }
+  All is not lost, we've still the _Theatre_:        }
+  I'll batter _Virtue_ thence, nor fear to gain   }
+  New _Subjects daily_ from her _hated Reign_;    }
+  Is not Great _D----_ ours and all his _Train_?  }
+  He knows he has new _Laurels_ here prepar'd,        }              890
+  For those he lost _above_, a just Reward,           }
+  For his wide _Conquests_ he'll _command the Guard_: }
+  _Headed_ by him one _Foot_ we'll scorn to yield,
+  Tho _Virtue's_ glitt'ring _Squadrons_ drive the _Field_:
+  Grant me, Dread _Sov'reign_! a _Detachment_ hence  }
+  We'll not be long alone on our _Defence_,          }
+  But hope to drive the proud _Assailants_ thence.   }
+  Bold _Blasphemy_ shall lead our black _Forlorn_,
+  With _Colours_ from _Heav'n's Crystal Ramparts_ torn,
+  And _Anti-Thunderrs_ arm'd; _Profaneness_ next                     900
+  Their _Canon_ seize, and turn the _Sacred Text_
+  Against th' _Assailants_; brave _Revenge_ and _Rage_
+  Shall our _main Batt'ry_ ply, and guard the _Stage_.
+  --But most I on dear _Ribaldry_ depend,
+  We've not a _surer_ or a _stronger Friend_.
+  Now shall she _broad_ and _open_ to the Skie,
+  Now _close_ behind some _double Meaning_ lye;
+  Now with _sulphureous Rivers_ lave the _French_,
+  And choak th' _Assailants_ with infernal _Stench_;
+  Each nicer _Vertue_ from the _Walls_ repel,                        910
+  And _Heav'n_ it self regale with the Perfumes of _Hell_.
+  This from the World our dreaded _Foe_ will drive,
+  As _murm'ring Bees_ are forc'd to leave their _Hive_;
+  _Souls_ so _refin'd_ such _Vapours_ cannot bear,
+  But seek their _native Heav'n_ and purer Air:
+  When _She_ and all her heav'nly _Guards_ are gone
+  And her bright _Heroe_ absent, all's our own:
+  If any _pious Fools_ should make a stand,
+  To stop our _Progress_ through the conquer'd Land,
+  They soon shall pass for _hot-brain'd Visionairs_,                 920
+  We'll run 'em down with _Ridicule_ and _Farce_.
+  Must they _reform_ the World! A likely _Task_!
+  Tis _Vizard_ all, and them we'll soon _unmask_.
+  The rest will _tumble_ in, or if they stay
+  And loiter in _Damnation's_ ample Way,
+  I've one _Expedient_ left, which can't but take,
+  My last _Reserve_; From yon black _brimstone_ Lake,
+  Whence two _Canals_ thro _subterranean Veins_
+  Are drawn to _Sodom_ and _Campania's_ Plains,
+  My self I'll fill a _Vial_, and infuse                             930
+  My very Soul amid the _potent Juice_:
+  This _Essence_ near my _Heart_ I'll with me bear,  }
+  And this among my _dearest Fav'rites_ share,       }
+  Already _tutor'd_ by the _Theatre_;                }
+  Who pass'd those _Bugbears Conscience, Law_ and _Shame_
+  Have there been taught that _Virtue's_ but a _Name_:
+  _Exalted Souls_ who _vulgar Sins_ despise;
+  Fit for some _new discover'd_ nobler _Vice_;
+  One _Drop_ of this their _frozen Blood_ shall warm,
+  And _frighted Nature's feebler Guards_ disarm                      930
+  Till their _chill Veins_ with hotter _Fevers_ glow  }
+  Than any _Etna_ or _Vesuvius_ know,                 }
+  Scarce equal'd by their _Parent Flames_ below;      }
+  Till wide around the _gen'rous Canker_ spread,
+  And _Vengeance_ draw on each _devoted Head_:
+  Impatient _Heav'n_ it self our _Arms_ shall join,
+  The _Skies_ again with _forky Lightnings_ shine;
+  Till glutted _Desolation_ pants for Breath,
+  And _guilty Shades_ shall croud the _Realms of Death_.
+  --She said, the _Motion pleas'd_ she _wings_ away                  940
+  And in blue _pois'nous Foggs_ invades the _Day_:
+  Part of her _direful Threats_ too true we find,
+  And _Heav'n_ avert the _Plagues_ that yet remain _behind_!
+                                                  [Sidenote: _Tragedy_.]
+    The _Path_ which _Epic_ treads the TRAGIC Muse
+  With _daring_ tho _unequal_ Steps pursues,
+  A _little Epic_ shines through every _Scene_,
+  Tho more of _Life_ appears, and less _Machine_;
+  More _Action_, less _Narration_, more _Delight_;
+  We _see_ the _Gods_ descend, and _Heroes_ fight.
+  While _Oedipus_ is _raving_ on the _Stage_,                        950
+  Mild _Pity_ enters and dissolves our _Rage_;
+  We _low'r_ our _haughty Spirits_, our _Pride_ and _Hate_,
+  And learn to _fear_ the sad _Reverse of Fate_.
+  A _Tyrant's Fall_, a treach'rous _Statesman's_ End
+  Clear the _Just Gods_, and equal _Heav'n_ defend:
+  Ungrateful _Factions_ here themselves torment,
+  And _bring_ those very _Ills_ they would _prevent_:
+  Nor think the lost _Intrigues_ of _Love_ too mean
+  To fill the _Stage_ and grace toe _Tragic Scene_!
+  Who from the _World_ this _Salt of Nature_ takes,                  960
+  _Twice Slaves of Kings_ of _Life_ a _Desart_ makes.
+    The _Moral_ and _Pathetick_ neatly join'd,
+  Are best for _Pleasure_ and for _life_ design'd.
+    Be this in _Tragic_ an _Eternal Law_;
+  _Bold Strokes_ and _larger_ than the _Life_ to draw:
+  Let all be _Great_; when here a _Woman's_ seen,
+  Paint her a _Fury_, or a _Heroine_:
+  _Slaves, Spendthrifts_, angry _Fathers_, better fit
+  The meaner _Sallies_ of COMEDIAN Wit;
+  But _Courtly_ HORACE did their _Stage_ refuse,                     970
+  Nor was it trod by _Maro's_ heav'nly Muse:
+  A _Walk_ so _low_ their _nobler Minds_ disdain,
+  Where _sordid Mirth's_ exchang'd for _sordid Gain_;
+  Where, in false _Pleasure_ all the _Profit's_ drown'd,
+  Nor _Authors_ with just _Admiration_ crown'd:
+  Hence was the _Sock_ a Task for _servile Wit_,
+  Course PLAUTUS hence, and neater TERENCE writ:
+  Yet if you still your _Fortune_ long to take,
+  And long to hear the _crouded Benches_ shake;                      980
+  If you'd _reform_ the _Mob_, lov'd _Vice restrain_,
+  The _Pulpits_ break, and neighb'ring _B----_ drain;
+  Let _Heav'n_ at least, if not its _Priests_, be free,
+  The _Bible_ sures's too _grave_ for _Comedy_:
+  If she nor _lewdly_ nor _profanely_ talk
+  She'll have a _cleaner_, tho a _narrower Walk_.
+  Our Nation's _endless Humour_ will supply
+  So large a _Fund_ as never can be _dry_;
+  Why then should _Vice_ be _bare_ and _open_ shown,
+  And with such _Nauseous Scenes_ affront the _Town_?                990
+  Why thrive the _Lewd_, their _Wishes_ seldom crost,
+  And why _Poetic Justice_ often lost?
+  They plead they copy _Nature_.--Don't abuse
+  Her _sacred Name_ with such a _vile Excuse_!
+  She wisely _hides_ what these, like Beasts _display_, }
+  Ev'n _Vice_ it self, less _impudent_ than they,       }
+  Remote in _Shades_, and far from _conscious_ Day.     }
+    From this _Retrenchment_ by strong _Reason_ beat,
+  They next to _poor Necessity_ retreat:
+  The _Murderers, Bawds_ and _Robbers_ last pretence                1000
+  With equal _Justice_, equal _Innocence_!
+  So _Crack_, in _pious Fit_, will plead she's _poor_,
+  'Tis a _hard Choice_, Good Sir, to _starve_ or _whore_!
+  --Is there no _Third_, or will such _Reas'nings_ pass
+  In _Bridewel's_ rigid Court, or save the _Lash_?
+  Where the _stern Judge_, like _Radamanth_, surveys
+  The _trembling Sinner_, and each Action _weighs_.
+  A lazy, black, encumber'd _Stream_ rolls by,
+  Whole thick _sulphureous Vapours_ load the Sky;
+  Near where, in _Caves_ from _Heav'n's_ sweet _Light_ debar'd,     1010
+  _Shrieks, Groans_, and _Iron Whips_, and _Clanks of Chains_ are heard.
+  And can't you _thrash_, or _trail_ a _Pike_ or _Pole_?
+  Are there no _Jakes_ in Town, or _Kennels_ foul?
+  No _honester Employment_, that you chuse
+  With such _vile Drudgery_ t'abase the heav'n born _Muse_?
+    The num'rous ODE in various _Paths_ delights,
+  _Love, Friendship, Gods_, and _Heroes, Games_ and _Fights_:
+  Her _Age_ with _Veneration_ is confess'd
+  The _first great Mother_ she of all the rest,
+  This [8]MOSES us'd, and DAVID'S Royal Lyre,          }
+  This he whom wond'ring _Seraphs_ did _inspire_,      }            1020
+  Whence PINDAR stole some _Sparks of heav'nly Fire_,  }
+  Who now by COWLEY's happy Muse improv'd,
+  Is _understood_ by some, by more _belov'd_:
+  The _Vastness_ of his Thought, the daring _Range_,
+  That imperceptible and pleasing _Change_,
+  Our jealous _Neighbours_ must themselves confess
+  The _British Genius_ tracks with most Success;
+  But still the _Smoothness_ we of _Verse_ desire,
+  The _Regulation_ of our _Native Fire_:
+  This from experienc'd _Masters_ we receive,                       1030
+  Sweet FLATMAN'S Works, and DRYDEN'S this will give.
+    If you in _pointed_ SATYR most delight,
+  _Worry_ not, where you only ought to _bite_:
+  _Easie_ your _Style_, unstudy'd all and clear.
+  _Prosaic Lines_ are _pardonable_ here.
+  There are whose _Breath_ would blast the _brightest Fame_, }
+  Who from _base Actions_ court an _odious Name_,            }
+  With _Beauty_ and with _Virtue_ War proclaim;              }
+  Who _bundle_ up the _Scandals_ of the _Town_,                     1040
+  And in _lewd Couplets_ make it all their _own_:
+  _Just Shame_ be _theirs_ who thus _debauch_ a _Muse_,
+  To vile _Lampoons_ a _noble Art_ abuse:
+  As _ill_ be _theirs_, and _half of_ DATS'_s Fate_,
+  Who always dully rail against the _State_.
+  _Kings_ are but _Men_, nor are their _Councils_ more,
+  Those _Ills_ we can't _avert_ we must _deplore_:
+  Not _many Poets_ were for _Statesmen_ made,
+  It asks more _Brains_ than stocks the _Rhiming_ Trade:
+  (At least, when they the _Ministry_ receive,                      1050
+  To _Poets Militant_ their _Muse_ they leave.)
+  All _sordid Flat'ry_ hate, it pleases none
+  But _Tyrants_ grinning on their _Iron Throne_:
+  Yet where wer'e rul'd with _wise_ impartial Sway,
+  The _Muses_ should their _grateful Homage_ pay:
+  'Tis _base_ alike a _Tyrant's_ Name to raise,
+  And grudg a _Parent Prince_ our _tributary Praise_.
+  No wonder those who by _Proscriptions_ gain   }
+  In _Marian_ Days, or _Sylla's_ bloody Reign,  }
+  Of the divine _Augustus_ should complain;     }                   1060
+  Who stoops to wear a _Crown's uneasie Weight_,
+  As _Atlas_ under Heav'n, to prop the _State_:
+  No _Glory_ strikes his Great exalted Mind,
+  No _Pleasure_ like obliging all Mankind;
+  He lets the _Factious_ their weak _Malice_ vent,
+  Punish'd enough while they themselves _torment_:
+  _Satiate_ with _Conquest_, his dread _Sword_ he sheaths,
+  And with a _Nod disbands ten thousand Deaths_.
+  Who dares _Rebellious Arms_ against him move
+  While his _Prætorian Guard_'s his Subjects _Love_?                1070
+  Admir'd by all the _bravest_ and the _best_,
+  Who wear a _Roman Soul within their ample Breast_:
+  Tho _charm'd_ with _both_, which shall they more _admire_
+  In _Peace_ his _Wisdom_, or in _War_ his _Fire_?
+  --_One Labour_ yet remains, and that they _ask_,
+  _Alcides_ never clear'd a _nobler Task_;
+  O _Father_! banish'd _Vertue_ O restore!
+  Let _Hydra Vice_ pollute thy _Reign_ no more!
+  Strike through the _Monster-Form_, which threatning stands,
+  Fierce with a _thousand Throats_, a _thousand Hands_!             1080
+  _Rescue_ once more thy _Trojans sacred Line_         }
+  From _slavish Chains_, so shall thy _Temples_ shine  }
+  With _Stars_, and all _Elysium_ shall be _thine_.    }
+
+_FINIS._
+
+
+FOOTNOTES:
+
+[1] _Vide Edda Samundi--apud Sheringham, de Gentis Anglorum
+Origine, pag._ 28, 29.
+
+  _Hiaelp beiter eitt eun thad thier hialpa mun
+  Vid Sikum og Sottum goiru allum,
+  Thad kenn eg aunad er thorfa Ita
+  Syner their ed vilia lakner lisfa._

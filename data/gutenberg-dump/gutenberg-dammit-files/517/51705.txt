@@ -1,0 +1,3007 @@
+####################################################################
+
+                    Anmerkungen zur Transkription:
+
+    Der vorliegende Text wurde anhand der Dissertation des Pastors
+    Martin Brückner (ohne Jahresangabe) so weit wie möglich
+    originalgetreu wiedergegeben. Einige Satzzeichen und Umlautpunkte
+    waren nur undeutlich erkennbar und wurden sinngemäß hinzugefügt.
+    Zahlreiche Lettern waren kopfstehend in den Drucksatz eingefügt,
+    was u.a. regelmäßig zu Verwechslungen zwischen den Buchstaben
+    ‚u‘ und ‚n‘ führt. Diese und alle anderen offensichtlichen
+    typographischen Fehler wurden stillschweigend korrigiert.
+
+    Personennamen wurden meist gesperrt gedruckt, was allerdings
+    nicht durchgehend beibehalten wurde. Die Großbuchstaben Ä und Ü
+    wurden teilweise direkt in Form der Umlaute, zum Teil auch in
+    deren Umschreibung (Ae, Ue) dargestellt. Einige Begriffe wurden
+    in unterschiedlichen Schreibweisen nebeneinander verwendet (z.B.
+    ‚Szene‘ und ‚Scene‘). In allen diesen Fällen wurden hinsichtlich
+    des vorliegenden Textes keinerlei Änderungen vorgenommen.
+
+    In der Fußnote [4] wurde die Seitennummer (71) des Anhanges
+    hinzugefügt. Der Fußnotenanker zur Fußnote [12] fehlt im
+    Originaltext; dieser wurde vom Bearbeiter willkürlich an den
+    Schluss des ersten Absatzes der betreffenden Buchseite gesetzt, da
+    der Sinn des Textes die genaue Stelle nicht zwingend nahelegt. Die
+    Seitenangabe in der Fußnote [45] ist im Original nicht vorhanden
+    und muss deshalb in der vorliegenden Ausgabe offenbleiben.
+
+    Gesperrt gedruckte Passagen wurden mit ~Tilden~ gekennzeichnet.
+
+  ####################################################################
+
+
+
+
+               Die Komposition des Buches Jes. c. 28-33.
+
+                        Inaugural-Dissertation
+
+                                  zur
+
+                       Erlangung der Doktorwürde
+
+                                bei der
+
+           philosophischen Fakultät der Universität Leipzig.
+
+                              Eingereicht
+
+                                  von
+
+                       Martin Brückner, Pastor.
+
+
+
+
+Inhaltsangabe:
+
+
+                                                                  Seite:
+
+    Einleitung                                                       1-3
+
+
+    I. Die jesajanischen Stücke:
+
+    Ihre innere Zusammengehörigkeit                                 3-14
+
+      a) Ihre Gleichartigkeit nach Form und Inhalt                   3-8
+
+      b)  Ihr sachlich-chronologischer Zusammenhang                 9-14
+
+    Ihre äussere Unvollständigkeit und Zusammenhangslosigkeit      14-24
+
+      a) Die mangelhaften Eingänge                                 14-21
+
+      b) Das Fehlen redaktioneller Verbindung                      21-24
+
+    Die Herkunft der jes. Stücke aus einem grösseren
+        geschichtlichen Zusammenhange                              25-34
+
+      a)  Die verschiedene Redeform der einzelnen Stücke           25-30
+
+      b)  Die Eingänge von c. 28,7. 28,14. 29,19. 30,8. 31,4       30-34
+
+    Bestätigung des gewonnenen Resultates                          34-48
+
+      a)  Die kurzen Stücke                                        34-37
+
+      b)  Die geschichtlichen Darstellungen in c. 6-8,18
+        Zusammenfassung. c. 32,9-14                                37-48
+
+
+    II. Die nichtjesajanischen Stücke:
+
+    Ihr Verhältnis zu den jesajanischen Stücken                    48-54
+
+    Ihr Verhältnis zu einander                                     54-61
+
+    Die Fortsetzungen jesajanischer Stücke                         54-56
+
+    Die selbstständigen Stücke                                     56-61
+
+    Resultat und Abfassungszeit                                    62-65
+
+
+    III. Zusammenfassende Darstellung der Entstehungs-Geschichte
+        des Buches Jes. c. 28-33                                   65-69
+
+    Schlussbemerkungen                                             69-71
+
+
+    Anhang:
+
+    c. 28,23-29                                                    71-77
+
+    c. 32,15-20                                                    77-84
+
+
+
+
+Im ersten, ungedruckten Teile der vorliegenden Dissertation ist
+namentlich auf Grund der von ~Duhm~ in seinem Kommentare zu Jesaia[1]
+und von ~Hackmann~ in seiner Schrift über die Zukunftserwartung
+des Jesaia[2] vorgenommenen Untersuchungen eine eingehende Analyse
+des Buches Jes. c. 28-33 gegeben worden. Dieselbe hat zu folgendem
+Resultate geführt:
+
+1. Von Jesaia stammen folgende Stücke: c. 28,1-4, v. 7-13, v. 14-22, c.
+29,1-3. 4a. 7, v. 9 f., v. 13 f., v. 15, c. 30,1-5, v. 6 f., v. 8-17,
+c. 31,1-4, c. 32,9-14.
+
+2. Die übrigen Abschnitte: c. 28,5 f., v. 23-29, c. 29,4b. 5 f. 8, v.
+11 f., v. 16-24, c. 30,18-26, v. 27-33, c. 31,5-9, c. 32,1-8, v. 15-20,
+c. 33 gehören einer späteren Zeit an.
+
+Schon ~Duhm~ und ~Hackmann~ sind bei ihren Untersuchungen über die
+Entstehung unseres Buches unabhängig von einander[3] in der Hauptsache
+zu auffallend gleichem Resultate geführt worden.
+
+Die Ergebnisse meiner Untersuchungen stimmen meist mit denen
+~Hackmanns~ überein und sind nur eingehender begründet worden, als es
+für ~Hackmann~ im Rahmen seiner Schrift möglich war.
+
+Zu bedeutenderen Abweichungen in der Analyse bin ich nur in betreff
+der beiden Stücke c. 28,23-29 und c. 32,15-20 gekommen. Die Begründung
+meiner Stellungnahme zu beiden Stücken soll deshalb der vorliegenden
+Schrift in einem Anhange beigefügt werden.[4]
+
+Es ist nun die Aufgabe der vorliegenden Abhandlung, nachzuweisen, wie
+es gekommen ist, dass die verschiedenen Bestandteile des Buches Jes.
+c. 28-33 zu dem vorliegenden Buche zusammengeschmolzen sind. Wir haben
+also die Entstehungsgeschichte des Buches zu rekonstruieren.
+
+Diese positive Arbeit der Kritik ist ebensosehr wünschenswert wie
+notwendig.
+
+Sie ist wünschenswert zur eigenen Rechtfertigung der kritischen Arbeit.
+Denn es würde sich ja sonst die Frage erheben, wie es möglich sei,
+dass ein Buch aus so disparaten Bestandteilen entstanden und zu einem
+Ganzen zusammengewachsen sei. Stellt es sich aber heraus, dass sich
+für die Beantwortung dieser Frage wissenschaftlich wohl zu begründende
+Hypothesen aufstellen lassen, so erhält dadurch die Richtigkeit der im
+ersten Teile gewonnenen Resultate eine neue und starke Stütze. Denn
+bisher sind alle Versuche gescheitert, die Komposition unseres Buches
+oder einzelner Kapitel desselben, namentlich des c. 28, bei Annahme
+jesajanischer Autorschaft zu erklären.
+
+Wünschenswert ist die Beantwortung der Frage nach der
+Entstehungsgeschichte unseres Buches auch aus sachlichen Gründen.
+Einmal wird erst dadurch Zweck und Anlage des Buches klar, wenn man
+weiss, wie es entstanden ist, und sodann wirft die Erkenntnis der
+Entstehung des Buches auch ein Licht auf die Verfasser und ihre ganze
+Zeit.
+
+Diese sachlichen Rücksichten machen die Arbeit aber auch notwendig. Die
+Aufgabe der Kritik erschöpft sich keineswegs damit, dass vorhandene
+Anschauungen zerstört oder als irrig nachgewiesen werden, sondern es
+ist vielmehr das Ziel und der eigentliche Zweck derselben, an Stelle
+der alten Anschauungen neue, der Wahrheit entsprechendere zu setzen.
+
+Wenden wir uns nun der Lösung dieser Aufgabe an unserem Buche selbst
+zu, so ergeben sich aus dem im ersten Teile unserer Untersuchung
+festgestellten Charakter des Buches ganz von selbst zwei Teile zur
+Behandlung des vorhandenen Materials:
+
+    1. Die jesajanischen Bestandteile des Buches.
+    2. Die nichtjesajanischen Stücke desselben.
+
+Im ersten Teile wird zu fragen sein, ob die jesajanischen Bestandteile
+unseres Buches ein zusammengehöriges Ganze für sich bilden, oder woher
+sie, falls und soweit das nicht der Fall ist, entnommen sind.
+
+Sodann wird zu untersuchen sein, ob und wie weit die nichtjesajanischen
+Stücke von dem Hersteller des Buches selbst verfasst oder auf
+verschiedene Autoren zurückzuführen sind.
+
+Als Abschluss des Ganzen soll dann aus den gewonnenen Resultaten
+in kurz zusammenfassender Darstellung ein Ueberblick über die
+Entstehungsgeschichte unseres Buches gegeben werden, wobei vor allem
+Zweck und Anlage des Buches berücksichtigt werden müssen.
+
+Auf diese Weise werden wir in der Beantwortung der Frage nach der
+Komposition des Buches Jesaia c. 28-33 zu annähernd sicheren Resultaten
+gelangen können.
+
+
+
+
+I.
+
+
+Wir haben es also zunächst mit den jesajanischen Bestandteilen unseres
+Buches zu thun.
+
+Wenn man die oben angegebenen jesajanischen Stücke des Buches c. 28-33
+hintereinander durchliest[5], so fällt zunächst ein doppeltes auf, das
+man sonst im ganzen Jesaia-Buche nicht wieder antrifft, nämlich einmal
+der durchweg gleichartige Charakter der einzelnen Stücke, und sodann
+die innerhalb derselben erkennbare chronologisch-sachliche Entwicklung.
+
+Auf beides ist im ersten Teile der Untersuchung schon hingewiesen
+worden, muss aber an dieser Stelle noch näher eingegangen werden. Was
+die Gleichartigkeit aller dieser Stücke betrifft, so bezieht sich diese
+sowohl auf die Form als auch auf den Inhalt derselben. Schon ganz
+äusserlich, in wiederkehrenden Wendungen und Gedanken, fällt diese
+Gleichartigkeit auf. Bezüglich des Ausdruckes ist hinzuweisen auf das
+immer wiederkehrende הוי im Anfange der Rede c. 29,1. 29,15. 30,1.
+31,1; ferner auf das ‏העם חזה‎ 28,11. 28,14. 29,13. vgl. ferner die
+Wendungen und Gedanken c. 28,12 mit c. 30,15; c. 29,15 mit c. 30,1 und
+31,1; c. 28,7 f. mit c. 29,9 f; c. 30,5 mit c. 30,7; c. 30,1 mit 30,9;
+c. 28,21 mit 29,14 und c. 31,2 (c. 28,11); c. 28,15. 17b. 18a. mit c.
+30,2 f.
+
+Sämmtliche Stücke enthalten Drohworte, sei es in Form der Rede oder
+Schilderung. Die Adressaten der Reden sind immer die Leiter des Volkes,
+die Propheten und Priester oder die weltlichen Würdenträger; an sie
+sind die Drohreden gerichtet, die aber doch immer in ihrem Verlaufe das
+ganze Volk bedrohen.
+
+Endlich ist auch die Anlage der Reden meist gleichartig: erst kommt der
+Grund der Drohung, dann folgt die Drohung selber. So ist es c. 28,9 ff.
+c. 28,14 ff. c. 29,13 f. c. 30,1 ff. c. 30,8 ff. 31,1 ff. Dabei ist
+auch die äussere Gleichmässigkeit der Form zu beachten; mehrere Reden
+wiederholen das Schema: לכן כה אמד יהוה — יען כי vgl. c. 28,15. 16 mit
+c. 29,13. 14. und c. 30,12; c. 30 und 31 sind ganz parallel gebaut.[6]
+
+Sehen wir nun auf den Inhalt der Drohungen und ihrer Begründung, so
+ergiebt sich auch hier eine durchgehende Gleichartigkeit. Ganz deutlich
+ist es in c. 30 und 31 ausgesprochen, um was es sich bei den Drohreden
+Jesaias handelt, nämlich um das ägyptische Bündnis. Die Volksleiter
+führen damit einen Beschluss aus, der nicht von Jahwe ist, und um
+dessentwillen sie seinen Mund nicht befragt haben c. 30,1 f. c. 31,1.
+Es ist an diesen Stellen nicht nur ausgesprochen, dass sich Jesaias
+Drohreden wider das ägyptische Bündnis richten, sondern auch zugleich
+gesagt, warum sie das thun, nämlich weil der Anschluss an Aegypten
+wider Jahwes Willen ist; weil sie sich damit nicht nur an fremde Hülfe
+wenden, sondern das auch thun mit Umgehung Jahwes und seines Propheten.
+Halten wir diese Begründung fest, dann wird es klar, dass auch in
+den vorhergehenden Stücken nur von diesem ägyptischen Bündnisse die
+Rede sein kann. Am durchsichtigsten ist das noch bei c. 29,15. Hier
+weist nicht nur die ganze parallele Anlage, sondern auch der Ausdruck
+עצה darauf hin, dass unter dem Beschluss, den man vor Jahwe und seinem
+Propheten verbergen will, derselbe gemeint ist, wie in c. 30,1 f.,
+nämlich „hinabzuziehen nach Aegypten um Hülfe“.
+
+Aber schon in c. 29,13 f. scheint von diesen politischen Dingen nicht
+mehr die Rede zu sein. Es scheint vielmehr nur ganz allgemein die
+ethische Seite der Religion gegenüber dem blos äusserlichen Kultus
+hervorgehoben zu werden. Indessen glaube ich einmal, dass man immer
+gut thun wird, sich bei den Aussprüchen der alten Schriftsteller,
+namentlich der bedeutenderen unter ihnen, nicht bei allgemeiner Deutung
+zu beruhigen, sondern nach besonderen, konkreten Beziehungen zu fragen,
+und sodann scheint mir hier die an den Ausspruch angeknüpfte Drohung
+auf ein bestimmtes Faktum hinzuweisen. In v. 14b wird gesagt, dass sich
+die Weisheit der Weisen des Volkes verstecken, und die Einsicht seiner
+Einsichtigen untergehen wird. Die Drohung geht also auf die Leiter des
+Volkes, die sich in ihren Plänen verrechnet haben werden. Das führt uns
+im Blicke auf die folgenden Stücke auf das ägyptische Bündnis oder auf
+damit zusammenhängende Maassnahmen, etwa den Abfall von Assur. Dann
+lässt sich aber auch v. 13 gut auf diese politischen Dinge deuten. Die
+Entfernung des Herzens von Jahwe besteht darin, dass man ihn nicht um
+Rat fragt, dass man in Ungehorsam wider ihn diese politischen Dinge
+unternimmt und doch dabei äusserlich, in Opfern und Gottesdienst sich
+gebährdet, als ob man ihn auf das Höchste ehrt. Darum ist Jahwes Urteil
+darüber:
+
+    דאת ם אתי מצות אנשים מלמדה
+
+„Ihr mich fürchten“, ist hier Ausdruck für „Religion“, indem es das
+Wesen des Begriffes religio bezeichnet und damit andeutet, worin ihre
+Religion bestehen müsste, nämlich in Gottesfurcht, die sie abhalten
+müsste, wider Jahwe und seinen Propheten zu handeln, ihre Religion ist
+aber nur ein gelerntes Gebot, „ein bindender Rechtsbrauch, der gelernt
+werden muss“ (Duhm).
+
+Für das kurze Drohwort c. 29,9 f. lässt sich natürlich auch nicht mit
+absoluter Sicherheit eine konkrete Beziehung angeben. Nur so viel
+lässt sich sagen, dass sich der Ausdruck und der Ton des Stückes am
+besten aus der Beziehung auf jene politische Dinge erklären lässt. v.
+9b: Seid trunken, doch nicht von Meth, taumelt, doch nicht von Wein,
+weist auf den Taumel des von Freiheitsdurst und Siegesträumen erhitzten
+Volkes hin. Bezüglich des Tons der Rede hebt ~Duhm~ hervor, dass die
+Erregtheit, mit der sie hervorgestossen wird, einen Kampf mit den
+Volksleitern zu reflektieren scheint.
+
+In der Rede c. 29,1 ff. findet sich keine Begründung der Drohung. Die
+ironische Aufforderung: fügt Jahr zu Jahr, lasst die Feste kreisen!
+will ihnen nur entgegenhalten, dass ihnen die blos äussere, wenn auch
+noch so eifrige Ausübung des Kultus als blosser Lippendienst (c. 29,13)
+nichts helfen wird.
+
+In c. 28,14 ff. kann unter der v. 13 und 18 f. erwähnten Geissel nach
+allem, was wir sonst von Jesaia wissen, nichts anderes gemeint sein,
+als Assur. Damit hat auch diese Rede inhaltlich politischen Charakter
+genommen, was damit stimmt, dass sie an die Beherrscher des Volkes
+gerichtet ist. Deshalb könnte man annehmen, dass auch der Bund mit
+dem Tode und der Vertrag mit Scheol v. 15 auf politische Verträge
+mit Assur oder Aegypten zu deuten seien. Es scheinen aber vielmehr
+nach den Ausdrücken, die gebraucht sind, abergläubische Praktiken
+gemeint zu sein. Zu diesen Mitteln greifen sie, anstatt bei Jahwe
+Zuflucht zu suchen, aber deshalb, weil sie durch ihren ohne Jahwes
+Befehl vollzognen Abfall von Assur den Zorn und die Rache Jahwes
+heraufbeschworen haben.
+
+Davon, dass sie wider Jahwes Willen abgefallen sind und den Krieg mit
+Assur herbeigeführt haben, scheint c. 28,12 zu reden. Das Stück c.
+28,7-13 wendet sich gegen die Priester und Propheten, die den Willen
+Jahwes nicht verstehen oder nicht verstehen wollen, jedenfalls aber
+Prophezeiungen geben, die den Offenbarungen, welche Jesaia erhalten
+hat, widersprechen. Jesaia forderte im Namen Jahwes Unterwerfung und
+Ausharren, jene werden, wahrscheinlich auch im Bewusstsein, in Jahwes
+Namen zu reden, zu Abfall von Assur und Krieg geraten haben. Der Spruch
+Jahwes v. 12: „Dies ist die Ruhe, gebt Ruhe dem Müden, und dies ist
+die Erholung!“ bedeutet dann im Zusammenhange die Verzichtleistung
+auf politische Unternehmungen. Das ist jedenfalls die beste und auch
+genügende Erklärung der sonst unverständlichen Worte, die auch durch
+den parallelen Ausspruch c. 30,15 ihre Bestätigung erhält.
+
+So haben alle Stücke[7] des Buches Jesaia c. 28-31 ihre Beziehung auf
+dieselben politischen Verhältnisse, nämlich auf den Abfall Judas von
+Assur und das damit zusammenhängende ägyptische Bündnis.
+
+Dementsprechend haben auch die Drohungen den gleichen Inhalt in allen
+Stücken, nämlich die Unterwerfung und Vernichtung Judas durch Assur.
+In einigen Stellen tritt das ganz klar zu Tage. In c. 29,3 wird die
+Belagerung Jerusalems durch Schanzen und Belagerungswerke, die das
+feindliche Heer errichtet, beschrieben. In c. 30,17 wird gesagt, dass
+die judäischen Truppen trotz der ägyptischen Hülfe von dem feindlichen
+Heere zersprengt werden würden, so dass von ihrem ganzen Heere nur
+versprengte Flüchtlinge, wie ein einzelner Signalmast auf dem Berge,
+übrig bleiben werden. Nach c. 31,3 wird Jahwe wie ein Löwe im Heerzuge
+über den Berg Zions und seinen Hügel herfallen. Es ist schon oben
+erwähnt worden, dass die c. 28,15 und 18 erwähnte Geissel nichts
+Anderes bedeuten kann als Assur, und auch v. 21 lässt auf eine aus
+Kriegsgefahr entstehende Not schliessen. So wird auch das Bild von der
+einstürzenden Mauer c. 30,13 f. im Munde des Jesaia auf den Sturz der
+Mauern Jerusalems zu deuten sein, vgl. 29,1 ff., auch 32,13 f., c. 22
+und 5,1 ff.
+
+Die Vergleichung der einzelnen jesajanischen Stücke unseres Buches
+ergiebt, dass dieselben sowohl der Form als auch dem Inhalte nach
+zusammengehören. Ausgenommen sind dabei das erste und das letzte Stück
+des Buches, c. 28,1-4 und c. 32,9-14. Das erste Stück c. 28,1-4 hat es
+überhaupt nicht mit Juda und Jerusalem zu thun, sondern mit Ephraim
+und weissagt den schnellen Untergang Samarias durch Assur. Das letzte
+Stück c. 32,9-14 wendet sich zwar gegen Jerusalem und weissagt sogar
+am deutlichsten den definitiven Untergang der Stadt; es zeigt aber
+doch so bedeutende Abweichungen von den vorangehenden Stücken, dass es
+nicht ohne Weiteres mit denselben zusammengethan werden kann. Nicht
+nur in der poetischen Form weicht es von denselben ab, auch inhaltlich
+unterscheidet es sich von ihnen dadurch, dass es nicht an die
+Volksleiter, sondern an die Frauen Jerusalems gerichtet ist, und dass
+ihm im Zusammenhange damit jede Beziehung auf das ägyptische Bündnis
+fehlt. Abgesehen von diesen beiden Stücken aber herrscht, wie wir
+gesehen haben, eine weitgehende formelle wie sachliche Uebereinstimmung
+unter den jesajanischen Stücken des Buches c. 28-33. Wir werden
+aber noch weiter gehen können. Es lässt sich zeigen, dass innerhalb
+derselben eine chronologische und sachliche Entwickelung stattfindet.
+
+Nach c. 31,2 f. nimmt Jesaia, wie schon bemerkt worden ist, als
+ausgemachte Thatsache an, dass die Aegypter Juda zu Hülfe kommen und
+darum auch mit demselben zu Grunde gehen werden. Das setzt voraus, dass
+das Bündnis mit Aegypten eine abgeschlossene Thatsache ist. Aus v. 1
+und 3a ist übrigens auch zu schliessen, dass die Aegypter Juda nicht
+blos sachliche Unterstützung, etwa Geld und Pferde, sondern auch die
+Hülfe eines Kriegsheeres versprochen haben, und v. 3a zeigt, wie grosse
+Hoffnung die Judäer auf diese Unterstützung gesetzt haben. Aus c. 30,9
+ff. ist das noch nicht klar; da richtet sich auch die Drohung nur gegen
+Juda. Indessen ergiebt sich dort auch aus v. 15 ff., dass der Vertrag
+mit Aegypten bereits abgeschlossen ist.
+
+c. 30,1 ff. wendet sich gegen die, die einen Beschluss ausführen
+wollen, der nicht von Jahwe ausgegangen ist, die Gussopfer giessen
+wollen, aber nicht mit Jahwes Geist, d. h. die nach Aegypten
+hinabziehen, um dort den wider Jahwes Willen eingegangenen Bund
+abzuschliessen.
+
+c. 30,6 f. schildert sie, wie sie den dafür zu entrichtenden Tribut
+nach Aegypten bringen.
+
+Dreimal also, in c. 30,1 ff, in c. 30,6 f. und in c. 31,1 ff. ist von
+einem Hinabziehen nach Aegypten die Rede. Aber jedes Mal hat dasselbe
+einen anderen Zweck. ~Duhm~ meint, dass c. 30,6 f. inhaltlich ziemlich
+identisch mit dem vorhergehenden sei und hält c. 31,1 ff. für ein vom
+Redaktor zusammengestelltes kürzeres Seitenstück zu c. 30. Das ist
+indessen nicht der Fall. In c. 30,1 ff. ziehen sie hinab, um den Bund
+abzuschliessen (vgl. v. 1 und die Ausdrücke in v. 2b), nach c. 30,6 f.
+thun sie es, um ihre Güter und Schätze hinzubringen, d. h., um den ~für
+die versprochene~ Hülfe zu leistenden Tribut zu entrichten; endlich
+nach c. 31,1 ff. ziehen sie dem versprochenen Hülfsheer entgegen.
+Darauf deuten die Ausdrücke in v. 1: die auf Rosse schauen und auf den
+Tross, weil er gross, und auf die Reiter, weil sie sehr stark sind.
+Darauf deutet auch der weitere Inhalt der Rede, der sich mindestens
+ebenso sehr gegen die Hülfe der Aegypter als gegen Juda selbst wendet.
+
+Man wird zwar diese inhaltliche Unterscheidung innerhalb dieser drei
+Stücke, die sich gegen die wenden, die „nach Aegypten hinabgehen“,
+nicht mit absoluter Gewissheit machen dürfen; aber neben den doch mit
+ziemlicher Deutlichkeit im Texte gegebenen Andeutungen führt noch eine
+Erwägung allgemeiner Art auf die Notwendigkeit überhaupt, derartige
+Unterscheidungen besonders bei Reden von so konkreter Veranlassung
+festzustellen. Will man nicht, was doch gewiss niemand thun wird,
+annehmen, dass Jesaia seine Reden, ehe er sie hielt, predigtähnlich
+ausgearbeitet habe, so ist kein irgendwie durchschlagender Grund
+einzusehen, warum er nachträglich Reden von so gleichartigem konkreten
+Inhalt in nur variierter Form zu Papier gebracht und herausgegeben
+haben sollte. Mündlich konnte und wird Jesaia sich mehrfach über
+denselben Gegenstand ausgesprochen haben; aber schriftlich genügte eine
+Aufzeichnung völlig zur Dokumentierung seiner Ansicht.
+
+Wir kommen zu c. 29,15. Dieses kurze Stück besagt ein doppeltes über
+das Bündnis mit Aegypten: 1. dass die Volksleiter den Beschluss, mit
+Aegypten ein Bündnis zu schliessen, definitiv gefasst haben, aber
+heimlich vor Jahwe und seinem Propheten, und 2. dass Jesaia davon Kunde
+erhalten hat. Es geht also chronologisch und sachlich den folgenden,
+oben besprochenen Stücken voran. Als Jesaia das Wort c. 29,15 sprach,
+war gewissermassen im Staatsrate beschlossen, in Aegypten um ein
+Bündnis wider Assur nachzusuchen. Die folgenden Stücke wenden sich
+gegen die Ausführung dieses Staatsbeschlusses.
+
+Sehen wir uns nun die vorhergehenden Abschnitte in c. 28 und 29 an, so
+haben sie gegenüber den folgenden dies gemeinsam, dass in ihnen von
+diesem förmlichen und definitiven Beschluss der Volksleiter noch nicht
+die Rede ist. Denn wir haben gesehen, dass auch die Stelle c. 28,15
+nicht direkt auf den Bund mit Aegypten bezogen werden darf, obwohl
+derselbe auch dort schon im Hintergrunde steht. Die Situation, welche
+die jesajanischen Stücke in c. 28 und 29 voraussetzen, ist folgende.
+Die Vorgänge in Assur haben die schon vorhandenen ägyptenfreundlichen
+Neigungen und Strömungen Judas mächtig geschürt. Das ganze Volk ist
+erfüllt von Freiheitsdurst und Thatendrang, es sehnt sich danach, das
+drückende und verhasste Joch Assurs abzuschütteln. Diese patriotische
+Begeisterung wird von Priestern und Propheten geteilt und genährt; auch
+die Leiter des Volkes treten dafür ein und haben sich über das Gelingen
+des Planes durch Nekromantie und allerhand Zaubermittel Gewissheit
+verschafft.
+
+Diese Situation spiegeln die Stücke in c. 28 und 29 nun auch unter sich
+in gewisser chronologischer und sachlicher Ordnung wieder.
+
+c. 28,7-13 hat es mit den Priestern und Propheten zu thun, die das
+Feuer der Begeisterung im Volke durch Opfer und Weissagungen schüren.
+Jesaia kommt ihnen in seiner Nüchternheit einfältig vor, so dass sie
+über ihn spotten. Aber eine andere Begeisterung hat auch ihn erfasst,
+die Begeisterung, im Dienste seines Gottes und der Wahrheit zu stehen,
+und in gewaltiger Drohrede voll erhabenstem Schwung giebt er ihnen
+ihren Spott zurück.
+
+Das zweite Stück, c. 28,14-23, wendet sich gegen die Volksleiter, die
+sich von Priestern und Propheten haben „fest“ machen lassen. Dass das
+unter anderem auch durch Orakel geschehen ist, zeigt v. 19: „und es
+wird rein Entsetzen sein, Orakel zu deuten“. Das setzt voraus, dass sie
+dem Propheten Orakel entgegengehalten haben, die ihnen das Gelingen
+ihres Planes verheissen, eine weitere Bestätigung für unsere Auffassung
+von v. 15. In v. 22 deuten die Worte, „dass nicht fest werden eure
+Bande“, auch darauf hin, dass der Plan des Bündnisses mit Aegypten noch
+nicht zum definitiven Staatsbeschluss erhoben worden ist.
+
+In c. 29,1 ff. ist von dem Bündnisse mit Aegypten nicht die Rede; aber
+die Gewissheit, mit der Jesaia hier die Belagerung Jerusalems kommen
+sieht, beweist, dass der Plan vorgeschritten ist, und dass seine Reden
+dagegen fruchtlos geblieben sind. c. 29,9 f. setzt, wie wir schon
+gesehen haben, einen erbitterten Kampf Jesaias mit den Volksleitern
+voraus, zeigt aber zugleich, dass sie in ihrer wilden Begeisterung
+(v. 9 b) blind gegen seine Warnungsreden sind (v. 9 a), so dass
+Jesaia an ihnen verzweifelt und in ihrem Verhalten das definitive
+Verstockungsgericht Jahwes erkennt (v. 10).
+
+c. 29,13 f. endlich wendet sich an das Volk, das in fanatisiertem Eifer
+nur um so mehr den äusserlichen Jahwekult betreibt. Jesaia verachtet
+es um seines Lippendienstes willen, erkennt aber zugleich, dass es von
+seinen „Weisen“ verführt ist v. 14.
+
+Ueberblicken wir diese innerhalb der einzelnen jesajanischen Stücke
+nachgewiesene chronologisch-sachliche Entwicklung noch einmal,
+so erkennen wir innerhalb derselben zwei scharf von einander
+unterschiedene Phasen. Die erste umfasst die Abschnitte in c. 28 und
+29 bis zu dem Stücke 29,13 f. In ihr ist noch alles in Bewegung und
+der Plan des ägyptischen Bündnisses noch nicht zum Staatsbeschluss
+erhoben; von c. 29,15 an ist dagegen dieser Staatsbeschluss gefasst und
+kommt zur Ausführung. Das ergiebt nun eine formelle und inhaltliche
+Unterscheidung dieser beiden grösseren Abschnitte, die freilich
+ihren inneren Zusammenhang nicht zerreisst, sondern vielmehr nur die
+Richtigkeit der nachgewiesenen chronologisch-sachlichen Entwicklung
+bestätigt.
+
+Der äusserlich gleichmässige Eingang der Reden in c. 29,15, c. 30,1 ff.
+und 31,1 ff. ist schon erwähnt worden. Alle drei Reden beginnen mit dem
+„Wehe denen, die u. s. w.“ In dem ersten Abschnitt findet sich weder
+diese Form noch überhaupt solche Gleichmässigkeit. Das kommt daher,
+dass der Prophet im zweiten Abschnitte immer dieselben Gegner vor Augen
+hat, nämlich die, welche den Bund beschliessen und zur Ausführung
+bringen, während er sich im ersten Abschnitte bald an die Priester und
+Propheten, bald an die Volksleiter, bald an das Volk wendet, um das
+Zustandekommen des Beschlusses zu verhüten. Damit hängt auch zusammen,
+dass im ersten Abschnitte die Drohung noch unbestimmter, an einer
+Stelle c. 28,22 sogar halb hypothetisch ausgesprochen ist. Jesaia sagt
+nur, dass sie straucheln und zerschellen werden, dass er Untergang und
+Entscheidung von Jahwe gehört habe, dass Jahwe sie wunderbar behandeln
+werde. Nur c. 29,1 ff. redet er bestimmt von der Belagerung Jerusalems;
+denn freilich ist er von ihrer Unverbesserlichkeit überzeugt c. 29,10.
+Aber doch ist seine Strafverkündigung im zweiten Teile bestimmter und
+konkreter. Da heisst es nicht mehr: wenn ihr das thut, sondern: weil
+ihr das gethan habt, so werdet ihr untergehen c. 30,12 f., 15 f. c.
+31,1 ff. vgl. auch 30,2 f. Da redet c. 30,13 f. von der gänzlichen
+Zerstörung Jerusalems, c. 30,16 f. von der völligen Vernichtung ihres
+Heeres, und c. 31,1-3 verkündet den verbündeten Heeren den Untergang
+ebenso wie c. 31,4 die rettungslose Zerstörung Jerusalems.
+
+Dieser Unterschied in beiden Teilen der in Betracht kommenden Stücke
+hebt darum aber den oben nachgewiesenen inneren Zusammenhang nicht auf,
+sondern bestätigt nur die Richtigkeit der nachgewiesenen Entwicklung,
+indem er ein Moment der Erklärung fordert, welches gerade in dem
+definitiven Beschluss, das ägyptische Bündnis einzugehen, ausreichend
+gegeben ist.
+
+Das Urteil Dillmanns über den Zusammenhang der Kapitel 28-32, dass
+Jesaia den Plan des ägyptischen Bündnisses in denselben von seinem
+ersten Auftauchen an bis zu seiner schliesslichen Ausführung Schritt
+für Schritt mit seinen Warnungsreden verfolgt, hat sich also auch
+für uns, wenn auch in anderer Weise und jedenfalls in sachlich
+zutreffenderer Weise als richtig herausgestellt. Die jesajanischen
+Stücke unseres Buches, mit Ausnahme des ersten und des letzten,
+stehen nicht nur unter einander in formellem und sachlichem
+Verwandtschaftsverhältnis, sondern weisen auch in der uns vorliegenden
+Reihenfolge eine stufenweise chronologische und sachliche Ordnung und
+Entwicklung auf.
+
+Diese Thatsache ist es auch gewesen, die die Kritik so lange verhindert
+hat, an die scheinbar dadurch so geschlossene Einheit der Kapitel
+28-32 ihren Hebel anzusetzen. Nachdem das aber nun geschehen ist, und
+die jesajanischen Bestandteile dieser Kapitel trotzdem dieselbe, ja
+eine noch viel engere Geschlossenheit aufweisen, so sollte man meinen,
+dass wir nun in den jesajanischen Bestandteilen das eigentliche,
+von Jesaia selbst verfasste Buch, vor uns haben. Indessen wird die
+weitere Untersuchung doch zeigen, dass auch diese jesajanischen
+Bestandteile des Buches wenigstens nicht in der Gestalt, in der sie
+uns jetzt vorliegen, als ein einheitliches Ganze aus der Hand des
+Jesaia hervorgegangen sein können. Nehmen wir diese zusammengehörigen
+Stücke so vor uns, wie wir sie jetzt haben, so fehlt ihnen zunächst der
+Anfang.[8]
+
+Das Stück c. 28,7 ff. beginnt mit den Worten:
+
+    וגם אלה בלין שגי ובשכר תעו
+
+Die Worte וגם אלה weisen ganz notwendig auf etwas Vorhergegangenes.
+Wollte man sie aber als einen nachträglichen Zusatz des Redaktors
+streichen, der durch dieselben das Stück c. 28,7 ff. mit dem
+Vorhergehenden habe verbinden wollen, so bliebe doch auch so noch der
+übrige Anfang des Stückes unerklärt und unverständlich. Mit den Worten:
+„im Wein schwindeln und im Meth schwanken sie“ kann Jesaia auch nicht
+ein Buch oder eine Redesammlung angefangen haben. Man kann aber auch
+nicht die ganze Einleitung zu der folgenden Scene, also v. 7 und 8, für
+einen nachträglichen, erläuternden Zusatz erklären, denn die v. 9 ff.
+geschilderte Szene bedarf notwendig eines solchen Zusatzes und ist erst
+recht kein passender und verständlicher Eingang der folgenden Rede oder
+gar der ganzen Sammlung. Es ist also notwendig anzunehmen, dass dem v.
+7 noch etwas Anderes vorausgegangen ist. Was ist dies aber?
+
+Auf v. 5 und 6 kann hier keine Rücksicht genommen werden, da diese
+Verse nicht von Jesaia sind. Dagegen bieten sich uns die Verse 1-4
+unseres Kapitels als eine scheinbar sehr befriedigende Lösung unserer
+Frage dar. Das Stück c. 28,1-4 wendet sich gegen Samaria und seine
+Trunkenen, die v. 1 und 3 erwähnt werden, und droht den schnellen
+Untergang der Stadt durch einen Gewaltigen Jahwes an. An diese
+Drohung scheint sich nun v. 7 f. äusserst bequem anzuschliessen.
+Besonders eindrucksvoll scheint dann das וגם אלה zu sein, indem es so
+zugleich auch auf die Strafe hinweist, die auch den jerusalemischen
+Trunkenbolden droht. Zudem scheint das Stück wie geschaffen als
+Einleitung in eine derartige Sammlung wie die vorliegende. Der Eingang
+dieser Drohung lässt an poetischer Kraft und Fülle sonstigen Eingängen
+Jesaias in Reden und Redesammlungen nichts nach. Deshalb steht auch
+~Duhm~ nicht an, anzunehmen, dass Jesaia selbst die Verbindung in v. 7
+f. mit v. 1-4 hergestellt habe, als er nämlich alle einzelnen Stücke
+zu einem Büchlein vereinigte. Allein diese Annahme ~Duhms~ bereitet
+doch Schwierigkeiten, die sich nicht beseitigen lassen, und die deshalb
+diese Annahme für unser Stück mindestens widerraten, für andere Stücke
+aber geradezu unmöglich machen.
+
+Dass man nicht etwa annehmen darf, dass Jesaia c. 28,1-4 und v. 7
+ff. in einem Zuge in Jerusalem gesprochen habe, ist im ersten Teile
+dieser Abhandlung schon bewiesen worden. Die Ereignisse, auf die
+sich c. 28,1-4 bezieht, liegen 20 Jahre früher, und v. 7 ff. bilden
+gar keine eigentliche Rede, sondern enthalten die Schilderung einer
+wahrscheinlich im Tempelvorhof vorgefallenen Szene.
+
+Es kann sich also nur um nachträgliche schriftstellerische Verbindung
+beider Stücke handeln. Dies kann nach der gangbaren Vorstellung der
+Entstehung jesajanischer Schriften nur geschehen sein, als Jesaia das
+Stück v. 7-13 niederschrieb, oder als er die Sammlung der einzelnen
+vorliegenden Stücke vornahm. Die erstere Annahme ist an sich sehr
+unwahrscheinlich. Denn es ist nicht wohl denkbar, dass Jesaia als
+Einleitung zu dem kurzen Stücke v. 7-13 eine fast gleich lange Rede
+gesetzt habe, die sich inhaltlich auf ganz andere Umstände und Zeitlage
+bezieht. Denn die Trunkenheit der Priester und Propheten bildet doch
+nur den Ausgangspunkt und Hintergrund der Szene, während sich die
+eigentlichen Auseinandersetzungen auf ganz andere Dinge beziehen (v.
+12). Vor allen Dingen aber sollte man erwarten, dass dann der Prophet
+irgendwie auf seine Einleitung Bezug genommen hätte. Da dies aber
+nicht geschehen ist, so ist auch an eine engere schriftstellerische
+Verbindung zwischen v. 1-4 und v. 7-13 nicht zu denken.
+
+Aehnliche Einwände erheben sich gegen die Annahme ~Duhms~, dass Jesaia
+die Verbindung zwischen v. 1-4 und v. 7 ff. erst später hergestellt
+habe, als er die einzelnen Stücke unseres Buches zu einer Sammlung
+vereinigte. Welche Gründe sollte wohl der Prophet gehabt haben, diese
+inhaltlich und zeitlich so fern liegende Drohrede mit den andern so eng
+zusammengehörigen Stücken zu vereinigen, und dieselbe als Einleitung
+an die Spitze derselben zu stellen. Denn ein besonderer Grund musste
+doch dafür angegeben werden können, aus dem Jesaia dieses Stück aus
+der Zeit vor der Zerstörung Samarias mit den aus der Sanherib-Zeit
+stammenden Stücken verbunden haben könnte. Nun ergiebt sich aber aus
+einem Vergleich dieses Stückes mit den übrigen Abschnitten
+
+1. dass in den sämmtlichen übrigen Stücken auch nicht ein einziges Mal
+ausser in c. 28,7, auf c. 28,1-4 Bezug genommen wird.
+
+2. dass c. 28,1-4 in inhaltlicher Beziehung völlig andersartig ist
+als die sämmtlichen anderen Stücke. In letzteren handelt es sich, wie
+wir gesehen haben, um politische Dinge; der Grund aller Drohungen ist
+das wider Jahwes Willen geplante und vollzogene Bündnis mit Aegypten.
+In c. 28,1-4 wird dagegen als Ursache des Unterganges von Samaria die
+sittliche Verkommenheit seiner Bewohner angeführt, die sich in ihrer
+Völlerei kundgiebt.
+
+Die einzige Beziehung hat das Stück c. 28,1-4 zu den Versen 7 und 8
+dieses Kapitels, und zwar auch nur darin, dass in v. 7 und 8 auch
+von Trunkenen die Rede ist. Allein diese Beziehung ist doch eben nur
+sehr äusserlich und kann deshalb eher einem Redaktor als dem Jesaia
+selbst zugetraut werden. Ein solches Armutszeugnis dürfen wir doch dem
+Jesaia nicht ausstellen, dass er nicht eine selbstständige Einleitung
+zu seiner Sammlung habe herstellen können, sondern dass er dazu ein
+möglichst wenig passendes Stück aus früherer Zeit gewissermassen
+an den Haaren herbeigezogen habe. Es spricht auch noch ausser den
+inneren Gründen ein äusserer Umstand dafür, dass c. 28,1-4 nicht von
+Jesaia, sondern von einem späteren Redaktor an die Spitze der Sammlung
+gestellt sei, das sind die beiden unechten Verse 5 und 6. Wären v.
+1-4 von Anfang an eng mit v. 7 ff. verbunden gewesen, so wäre es kaum
+denkbar, dass sich zwischen v. 4 und das וגם אלה v. 7 jene beiden
+Verse eingedrängt hätten. Ist aber die Verbindung von v. 1-4 mit v. 7
+ff. erst vom Redaktor hergestellt, dann stammen jedenfalls auch die
+dieselbe herstellenden Worte von ihm, und wahrscheinlich ist dann
+überhaupt v. 7 f. eine für jene Verbindung vom Redaktor hergestellte
+Umarbeitung einer etwas anderen jesajanischen Einleitung zu der v. 9
+ff. geschilderten Szene im Tempelvorhof. Denn es ist schon im ersten
+Teile der Abhandlung hervorgehoben worden, dass v. 7 f. wahrscheinlich
+nicht so, wie wir sie haben, von Jesaia niedergeschrieben worden sind.
+Eine jesajanische Einleitung hat sicher vor v. 9 ff. gestanden, weil
+dieselben sonst unverständlich wären und keinen Eingang hätten. Aber
+der Redaktor hat wahrscheinlich das darin von der Trunkenheit der
+Priester und Propheten Gesagte stark betont und weiter ausgemalt,
+um einen möglichst engen Anschluss an v. 1-4 zu erhalten, und hat
+dagegen Manches weggelassen, was uns vielleicht für das Verständnis
+von v. 9 ff. wertvoller gewesen wäre. Ob aber die Verbindung von
+c. 28,1-4 mit den übrigen Stücken dadurch entstanden sei, dass in
+der jesajanischen Aufzeichnung erzählt war, wie der Prophet sich im
+Streite mit den trunkenen Jerusalemiten auf die ehemalige Weissagung
+über Samaria und auf ihre vor Augen liegende Erfüllung berufen hat,
+wie ~Hackmann~[9] annimmt, lässt sich nicht mehr ausmachen.
+Nötig ist diese Annahme keineswegs, da die späteren Sammler durchaus
+keine Rücksicht auf die Chronologie nahmen, und für denselben zur
+Aufnahme des Stückes z. B. auch das חוי im Anfange sehr wohl
+ausschlaggebend gewesen sein kann.
+
+So viel scheint mir wenigstens erwiesen zu sein, dass der Anfang
+der zusammengehörigen jesajanischen Stücke unseres Buches nicht
+mehr erhalten, sondern von einem anderen durch das allerdings auch
+jesajanische, aber unserm Zusammenhange fremdartig gegenüberstehende
+Stück Jes. 28,1-4 ersetzt worden ist.
+
+Aber auch die übrigen sachlich zusammengehörigen Stücke können so, wie
+sie uns vorliegen, trotz ihres grossen sachlichen Zusammenhanges und
+ihrer strengen zeitlichen Reihenfolge nicht als eine von Jesaia selbst
+hergestellte Sammlung angesehen werden. ~Duhm~ vertritt allerdings
+diese Meinung. Er sagt[10]: „Ich halte es für möglich, dass Jesaia die
+Stücke, die wir jetzt von c. 28,1 an lesen, die sich recht gut als eine
+durch Jesaias eigene Hand redigierte Schrift auffassen lassen, in ihrer
+dem Anschein nach beispiellos korrekten chronologischen Reihenfolge
+zusammengestellt habe; diese Schrift geht dann mindestens bis c. 30,17
+umfasst aber vielleicht auch noch c. 30,27-31,9.“
+
+Aber ~Duhm~ vermag es selbst nicht, diese seine Ansicht für alle
+jesajanischen Stücke innerhalb des von ihm angenommenen Rahmens
+durchzuführen.
+
+Das ist zunächst bei dem Stücke c. 30,6 f. der Fall. Das Stück trägt
+die Ueberschrift:
+
+    משא בהמות גנב
+
+Hätte dieses Stück ursprünglich dicht neben c. 30,1-5 gestanden, so
+wäre nicht einzusehen, wie diese Ueberschrift gerade zwischen v.
+5 und 6 hineingekommen wäre. Denn auch v. 1-5 reden von dem Zuge
+nach Aegypten, gehören also äusserlich und innerlich ziemlich eng
+zusammen, und kein Mensch würde v. 6 f. für ein besonderes, für sich
+bestehendes Orakel gehalten haben. Man müsste also erwarten, dass
+dann die Ueberschrift vor v. 1 stünde. ~Duhm~ findet es daher
+wahrscheinlich, dass das Stück einst, wegen seiner Stichwortüberschrift
+neben c. 21. 22 gestanden habe und erst von dem letzten Redaktor
+hierher versetzt worden sei. Ob sich nicht eine andere, ebenso
+befriedigende Erklärung dafür wird finden lassen, werden wir nachher
+sehen; hier soll nur festgestellt werden, dass das Stück v. 6 f. sich
+nicht ursprünglich direkt an v. 1-5 angeschlossen haben kann.
+
+Zweifelhaft erscheint es ~Duhm~ ferner, ob das Stück c. 29,13 f. die
+Fortsetzung zu v. 9 f. bildet. Die einleitenden Worte: der Herr sprach,
+scheinen ihm auf einen andern, vielleicht historischen Zusammenhang
+hinzuweisen, aus dem der Sammler das Stück herausgebrochen hat. Dass
+sein Inhalt für seine Zuweisung zur Periode Sanheribs spricht, ist
+an sich noch kein Beweis für die Ursprünglichkeit seiner jetzigen
+Stellung. Denn wir haben auch jetzt noch an anderen Stellen des
+Jesaia-Buches Stücke, die jener Periode zugehören. Es handelt sich
+hier nicht um den Inhalt, sondern um die Form des Anschlusses. Und da
+muss doch gesagt werden, dass die einleitende Formel „und es sprach
+der Herr“ nicht zum direkten Anschlusse von v. 13 f. an v. 9 f. passt.
+Denn diese Formel würde, falls sie von Jesaia zur Verbindung der beiden
+Stücke geschrieben wäre, beide zu einem Ganzen verbinden. Dass das aber
+nicht geht, ist bereits im ersten Teile der Abhandlung gezeigt worden.
+
+Das einzige Stück, welches ausser dem eben besprochenen noch eine
+scheinbare Verbindung mit dem vorhergehenden aufweist, ist c. 28,14 ff.
+Aber auch hier zeigt grade die Art dieser Verbindung, dass dieselbe
+nicht von Jesaia zum Zwecke des direkten Anschlusses von v. 14 ff.
+an v. 7-13 hergestellt sein kann. Denn die Verbindung von v. 14 ff.
+mit dem Vorhergehenden durch לכן ist ungeschickt und verdunkelt den
+Sinn. Es ist oben gezeigt worden, welche Schwierigkeiten dieses לכן
+den Auslegern bereitet, und zu welchen gezwungenen Erklärungen es
+geführt hat. Denn einmal enthält das Stück v. 14 ff. selbst in v. 15
+die Begründung zu der folgenden Drohung, auf die auch ausdrücklich in
+v. 18 Bezug genommen wird; andrerseits ist aber in v. 7 ff. von einer
+solchen Begründung, auf die doch das לכן weisen müsste, gar keine Rede.
+Daher ist das לכן entweder nachträglich vom Redaktor hergestellt, oder
+weist, was noch wahrscheinlicher ist, auf einen anderen Zusammenhang
+hin. Denn es ist nicht sehr wahrscheinlich, dass ein Sammler, der doch
+sonst jesajanische Stücke ohne besondere Verknüpfung aneinandergereiht
+hat, ohne Grund diese unpassende Verbindung hergestellt haben sollte.
+
+So ergiebt sich uns also, dass grade die Stücke, die mit dem
+vorhergehenden schriftstellerisch verbunden zu sein scheinen, eben um
+dieser Verbindung willen nicht von Jesaia selbst so zusammengestellt
+sein können, sondern dass ihr Eingang vielmehr auf einen anderen,
+als ihren jetzigen Zusammenhang hinweist. Doch ehe wir auf die Frage
+eingehen, welches etwa ihr ursprünglicher Zusammenhang gewesen sein
+könne, müssen wir uns noch mit den übrigen jesajanischen Stücken
+befassen. Es sind die Stücke: c. 29,1 ff., 29,9 f., 29,15, 30,1
+ff., 30,8 ff., 31,1 ff. Alle diese Stücke stehen ohne irgendwelche
+schriftstellerische Verbindung neben einander.
+
+An sich ist das Fehlen redaktioneller Verbindung der Stücke nun
+freilich kein Grund, ihre Zusammenstellung dem Jesaia abzusprechen.
+Es ist im Gegenteil oft der Fehler bei der Erklärung prophetischer
+Schriften, dass man eine Verbindung zwischen einzelnen Reden
+herzustellen sucht, die nicht vorhanden und nicht beabsichtigt ist.
+
+Aber wenn wir die in Rede stehenden Stücke betrachten, so werden wir
+doch zu dem Schlusse gedrängt, dass ~diese~ Stücke in ihrer
+jetzigen Gestalt nicht von Jesaia selbst zu einem Buch zusammengestellt
+sein können.
+
+Zunächst müssen wir c. 30,8 ff. aus der vermeintlichen Sammlung
+ausscheiden. Denn dieses Stück setzt in seinem Eingange unbedingt
+einen anderen Zusammenhang voraus, als er in dem vorhergehenden Stücke
+gegeben ist. Das Stück beginnt mit den Worten:
+
+    Jetzt geh’ hinein, schreib es nieder, und auf ein Buch zeichne es!
+
+Mag der Vers auch nicht mehr ganz in Ordnung sein[11], so bleibt doch
+immer bestehen, dass Jesaia aufgefordert wird, „jetzt“ hinein (?) zu
+gehen und „es“ aufzuschreiben. Worauf bezieht sich das עתה, und was ist
+mit den Suffixen in den Verben gemeint? Da uns das nicht im Folgenden
+gesagt wird, so müssten wir erwarten, dass es im Vorhergehenden
+irgendwie angedeutet sei. Das Witzwort in v. 7 b kann es nicht sein;
+denn erstens stammt es nicht von Jesaia, und zweitens steht es in dem
+Stück v. 6 f., das, wie wir gesehen haben, auch nicht ohne Weiteres dem
+Zusammenhange angehört. In dem vorhergehenden Stück c. 30,1-5 lässt
+sich aber auch nichts zur Erklärung finden. Dann ist aber klar, dass
+auch dieses Stück nicht als unmittelbare Fortsetzung des vorhergehenden
+von Jesaia niedergeschrieben sein kann.
+
+Die noch übrigen Stücke fordern in ihren Anfängen keine Beziehungen
+auf etwas Vorangegangenes. Sie könnten also an sich wohl in ihrer
+Reihenfolge von Jesaia zu einer Sammlung zusammengestellt worden sein.
+Aber ein anderer Umstand widerspricht dieser Möglichkeit. Würden
+wir nämlich die vorherbesprochenen Abschnitte aus dieser Sammlung
+herausnehmen, so würde dadurch der sachlich-chronologische Zusammenhang
+der Stücke, den wir oben nachgewiesen haben, zerstört werden. Wir kämen
+ja auch dann zu der unglaublichen Annahme, dass Jesaia seine eigenen
+zusammengehörigen Stücke nur zum kleinen Teil geordnet habe, und
+dass es erst einem späteren Bearbeiter gelungen sei, für alle Stücke
+die chronologisch-sachliche Ordnung herzustellen. Dieser Annahme ist
+jedenfalls die andere vorzuziehen, dass die Zusammenstellung der Stücke
+in der Gestalt, in welcher sie uns vorliegen, überhaupt nicht auf
+Jesaia, sondern auf einen späteren Sammler zurückzuführen ist.
+
+Zu diesem Resultate werden wir auch noch durch eine andere, etwas
+allgemeinere Erwägung geführt. Wenn wir fragen, in welcher Weise
+Jesaia die vorliegende Sammlung hergestellt haben könnte, so bieten
+sich zur Beantwortung dieser Frage überhaupt nur zwei Möglichkeiten.
+Entweder hat der Prophet seine früher vereinzelt und nacheinander
+aufgeschriebenen Stücke und Reden in einer späteren Zeit geordnet
+und zusammengestellt, oder er hat die in einer früheren Zeit nur
+gehaltenen Reden selbstständig reproduziert und zu Papier gebracht.
+In letzterem Falle wäre dann die Sammlung gewissermassen wie aus
+einem Gusse entstanden. Aber in diesem Falle müssten erst recht
+alle einzelnen Stücke der Sammlung unter einander verbunden sein und
+auch schriftstellerisch zusammen ein wohl abgerundetes Ganze bilden.
+Das kann man aber von den vorliegenden Stücken trotz ihrer korrekten
+sachlichen Ordnung nicht behaupten.[12]
+
+Darum müssten sie auf die erstere Art entstanden sein, wenn sie in
+ihrer jetzigen Form eine von Jesaia hergestellte Sammlung bilden
+sollten. Es ist aber unmöglich, sich alle einzelnen Stücke auf diese
+Art entstanden sein zu denken. Ueberhaupt ist diese ganze gangbare
+Vorstellung von der Niederschrift wirklich gehaltener prophetischer
+Reden schwer zu vollziehen. Man muss ~Hackmann~ Recht geben, dass
+es „beinahe etwas ebenso Unnatürliches hat, zu denken, der Prophet
+habe seine in der Glut des Geistes geredeten Worte nachher schriftlich
+wiederholt, wie wenn man annähme, er hätte sie vorher wie eine zu
+haltende Predigt ausgearbeitet.“ So lange wir indessen nicht eine
+andere genügende Erklärung für die Aufzeichnung prophetischer Reden
+in unsern Prophetenbüchern haben, wird diese Vorstellung wohl weiter
+gangbar bleiben. Wir müssen darum auch an dieser Stelle mit ihr rechnen
+und hoffen, sie wenigstens für unser Buch zerstören zu können.
+
+Auf diejenigen längeren Reden unserer Stücke, welche deutlich Schuld
+und Strafe verkünden, und die auch einen selbstständigen Eingang und
+Abschluss bilden, lässt sich vielleicht die angegebene Vorstellung
+ihrer Niederschrift anwenden. In ihnen hatte der Prophet dann, entweder
+für sich, oder für seine Zeitgenossen und die späteren Geschlechter
+deutlich seine Meinung aufbewahrt.
+
+Aber es giebt grade auch unter den uns vorliegenden Stücken solche, bei
+denen man für sich allein weder erkennt, an wen sie gerichtet sind,
+noch worauf sie sich beziehen; kurze Sprüche, die für sich allein
+überhaupt gar keinen Sinn geben.
+
+So hätte sich der Prophet aus der Zeit, in der er den definitiven
+Entschluss der Volksleiter, sich mit Aegypten zu verbinden erfuhr,
+nur c. 29,15 notiert! Ist es ferner vorstellbar, dass sich Jesaia
+als Wiedergabe einer oder mehrerer Reden und heftiger Kämpfe mit
+den Volksleitern c. 29,9 f. aufgeschrieben habe לְעֵד עד עולם?! Oder was
+mochte wohl Jesaia damit bezwecken, als er, nicht als Rede, sondern in
+Form der Erzählung die Thatsache niederschrieb, dass die judäischen
+Gesandten auf dem Wege nach Aegypten seien (c. 30,6 f.)? Dieselbe Frage
+erhebt sich gegenüher der Schilderung jener Szene im Tempelvorhof c.
+28,7 ff. Endlich müssten wir auch annehmen, dass die jetzt in ihrem
+Anfange unvollständigen Stücke schon bei ihrer ersten Aufzeichnung
+von Jesaia so unvollständig niedergeschrieben wären, da es sonst
+unbegreiflich wäre, warum er sie nicht vollständig in seine Sammlung
+herübergenommen hätte. Aus allen diesen Gründen ist die Annahme, dass
+Jesaia die vorliegende Sammlung aus einzelnen früher selbstständigen
+Stücken hergestellt habe, unzulässig, und damit ist überhaupt die
+Sammlung der Stücke in der uns vorliegenden Gestalt durch Jesaia selbst
+unerklärlich.
+
+So hat uns also nicht nur die Untersuchung der einzelnen Stücke
+auf ihren Zusammenhang untereinander, sondern auch die Erwägung
+allgemeinerer Art zu demselben Resultate geführt, dass die inhaltlich
+zusammengehörigen Stücke unseres Buches, so wie sie uns jetzt
+vorliegen, nicht von Jesaia zusammengestellt sein können.
+
+Sie müssen daher von einem späteren Sammler in ihren jetzigen
+Zusammenhang gebracht sein. Aber woher hat sie dieser spätere Sammler
+entnommen? Er kann sie jedenfalls nicht aus einzelnen Aufzeichnungen
+Jesaias zusammengestellt haben. Denn wir haben gesehen, dass es
+undenkbar ist, dass Jesaia alle diese einzelnen Stücke zu verschiedenen
+Zeiten einzeln und als selbstständige Stücke aufgezeichnet habe.
+Ausserdem wäre auch ein späterer Sammler kaum im Stande gewesen,
+die in der Reihenfolge der Stücke waltende grosse sachliche Ordnung
+herzustellen.
+
+Daher müssen die einzelnen Stücke aus einem grösseren Zusammenhange
+stammen. Darauf führt 1. ihre chronologisch-sachliche Ordnung, 2. der
+Umstand, dass mehrere Stücke teils in ihrem Anfange unvollständig sind
+(c. 28,7 ff. c. 30,8 ff.), teils auch durch die Art ihres Anfanges auf
+etwas Verlorengegangenes schliessen lassen (c. 28,14 ff. c. 29,13 f.).
+Halten wir die beiden Punkte zusammen, so lässt sich vermuten, und
+zwar namentlich aus der innerhalb der einzelnen Stücke herrschenden
+chronologischen Ordnung, dass der grössere Zusammenhang, aus dem die
+einzelnen Stücke entnommen sind, ein geschichtlicher Zusammenhang
+gewesen ist.
+
+Es gilt nun im Folgenden zunächst, diese Vermutung wissenschaftlich
+näher zu begründen, und zu zeigen, dass sich durch diese Annahme eines
+ursprünglich geschichtlichen Zusammenhanges der in Frage stehenden
+jesajanischen Stücke des Buches alle vorhandenen Schwierigkeiten
+beseitigen lassen.
+
+Der einzige, der bisher diese Vermutung ausgesprochen hat, ist
+~Hackmann~, in seiner Schrift über die Zukunftserwartung des
+Jesaia. Er sagt dort Seite 47: „Unwillkürlich umgiebt man diese
+Reden mit Geschichte, und -- sollten sie nicht auch ursprünglich in
+geschichtlicher Umrahmung gestanden haben? Anzeichen für ein früheres
+Vorhandensein historischer Einkleidung liegen wohl vor. Das cap.
+28 steht so sehr mit einem konkreten geschichtlichen Vorgange in
+Verbindung, dass die Vorstellung nahe liegt, eine kurze Darstellung
+der begleitenden Verhältnisse sei einmal damit Hand in Hand gegangen.
+Manche Einzelheiten sind wie eine Bezugnahme auf eine nebenhergehende
+Erzählung; v. 9 f. setzt eine Unterbrechung der Rede durch Einwürfe
+der Trunkenen voraus; v. 15 redet in Anspielungen von einem Faktum,
+über welches ursprünglich vielleicht auch einige Worte verloren waren.
+Aehnlich ist es mit Stellen wie 30,1. 6. 15 und 16. Natürlich ist
+nur ein kurzer und einfacher Rahmen der Situation für die einzelnen
+Aussprüche anzunehmen, in der Weise von c. 7 und 8.“
+
+Es gilt nun im Folgenden, diese von ~Hackmann~ mehr andeutungsweise
+ausgesprochene Vermutung näher zu begründen und allseitig sicher zu
+stellen.
+
+Ein starker Wahrscheinlichkeitsgrund für die Richtigkeit dieser Annahme
+liegt ja vor allen Dingen in der oben nachgewiesenen chronologischen
+Reihenfolge unserer Stücke. Wir müssen uns aber auch nach möglichst
+starken äusseren Stützen für dieselbe umsehen. Diese liegen nun aber
+meines Erachtens nicht zuerst in den von ~Hackmann~ hervorgehobenen
+Anzeichen einer früheren geschichtlichen Umrahmung, obwohl auch diese,
+wie wir nachher sehen werden, stark mit ins Gewicht fallen.
+
+Der Hauptbeweis für die Annahme eines früheren geschichtlichen
+Zusammenhanges unserer Stücke liegt vielmehr in der Beschaffenheit
+dieser Stücke selbst.
+
+Diese enthalten nämlich keineswegs alle, wie man bisher meist
+angenommen hat, Reden, sondern sind zum guten Teil selbst noch
+geschichtliche Darstellungen, zum Teil geben sie auch Reden in
+geschichtlich referierender Form wieder.
+
+Eigentliche Reden enthalten überhaupt nur folgende Stücke: 1. c.
+28,14-22. Dieses Stück wendet sich mit direkter Anrede gleich in v.
+14 an die Machthaber in Jerusalem und behält die Form der Anrede bis
+zum Schlusse bei. 2. c. 29,9 f. Wer in dem kurzen Stücke angeredet
+ist, ist nicht gesagt; wahrscheinlich sind es die Volksleiter, denen
+Jesaia das Verstockungsgericht Jahwes ankündigt. 3. c. 30,1-5. Indessen
+ist hier schon zu merken, dass die Rede erst von v. 3 an mit dem והיה
+לכם direkte Anrede wird. In v. 1 f. ist der Spruch Jahwes in dritter
+Person referierend wiedergegeben. Denn die Worte: הוי בנים סוררם נאם
+יהוה darf man nicht übersetzen: Wehe euch widerspenstigen Söhnen, ist
+der Spruch Jahwes; sondern sie heissen: Wehe über die widerspenstigen
+Söhne u. s. w. Das geht klar hervor aus c. 29,15. Das Stück beginnt
+ganz parallel: הוי המעמיקים und fügt dann den Nachsatz in dritter
+Person an, wie aus dem מעשיהם und dem ויאמרו hervorgeht, vgl. auch c.
+31,1 f. 4. c. 30,12-17. Die Rede wendet sich an die Volksleiter und
+verkündet ihnen wegen ihres Ungehorsams gegen den Willen Jahwes den
+Untergang. Aber diese Rede will nicht die Wiedergabe einer Rede Jesaias
+an das Volk sein. Jesaia steht gar nicht vor dem Volk, sondern sitzt in
+seinem Hause und schreibt diese Rede als eine Rede Jahwes an das Volk
+für einen späteren Tag auf. Denn mit den Worten: לכן כה אמר קדןש ישראל
+(v. 12) ist dieselbe nicht nur als Rede Jahwes bezeichnet, sondern auch
+eng an die vorangehenden Verse 8-11 angeschlossen. Damit ist natürlich
+nicht gesagt, dass Jesaia nicht ähnliche Reden an das Volk gehalten
+hat. Aber es kommt hier auf die Form an, in welcher die vorliegende
+Rede aufgezeichnet ist; und darnach ist dieselbe nicht die Wiedergabe
+einer an das Volk gehaltenen Rede, sondern einer dem Jesaia von Jahwe
+geoffenbarten Rede, die ihm zum Zeugnis dienen soll ליום אחרון.
+
+Die vier Reden sind die einzigen direkten, in der zweiten Person an
+das Volk oder dessen Leiter gerichteten Reden unserer Stücke. Und auch
+diese erfahren in ihrer Bedeutung als solcher, wie wir gesehen haben,
+Einschränkungen.
+
+Neben diesen direkten Reden an das Volk stehen andere, die in
+erzählender Form in der dritten Person berichtet sind. Dazu gehören,
+wie oben zu c. 30,1-5 schon bemerkt worden ist, die Wehereden in c.
+29,15 und c. 31,1 ff. Es sind Zornesausbrüche Jesaias im Namen seines
+Gottes, hervorgerufen durch das Zustandekommen und die Ausführung jenes
+Beschlusses, durch welchen sich das Volk in seinen Führern definitiv
+vom Gehorsam gegenüber Jahwe losgesagt hat. Es ist fraglich, ob Jesaia
+diese Aussprüche je mündlich vorgetragen hat; sie eignen sich mehr zu
+schriftlichen Drohworten, und nach c. 30,8 scheint es, als ob sich
+Jesaia von da an überhaupt auf Weisung seines Gottes vom Schauplatz
+der öffentlichen Thätigkeit zurückgezogen habe. Die Form von c. 31
+überhaupt ist nicht die einer feurigen Rede, als vielmehr die einer
+grimmigen und doch siegesgewissen Argumentation. Man achte auf das וגם
+הוא חכם ויבא רע in v. 2 und die Gegenüberstellung Jahwes und Aegyptens
+in v. 3; ebenso auf das siegesgewisse: כי כה אמר יהוה אלי in v. 4. Er
+weiss es, dass Jahwe zu ihm und durch ihn geredet hat, und dass er
+darum zuletzt noch Recht behalten wird seinen Gegnern gegenüber.
+
+Jedenfalls ist auch c. 29,1 ff. zu diesen indirekten Drohreden zu
+rechnen. Das ergiebt sich schon daraus, dass Ariel (der Opferherd)
+angeredet ist. Aber das Stück bietet solche Schwierigkeiten, dass sich
+seine Form überhaupt nicht mehr wird mit Sicherheit feststellen lassen.
+In v. 1 redet Jesaia, v. 2 geht unvermittelt in die Rede Jahwes über,
+so dass anzunehmen ist, dass zwischen v. 1 und 2 etwas ausgefallen ist,
+was auch der völlig abweichende Text der LXX wahrscheinlich macht.
+Gehört v. 7 zum ursprünglichen Text, dann ist die Rede überhaupt in
+Schilderung übergegangen. Denn in v. 7 ist Ariel in der dritten Person
+genannt.
+
+Wir kommen nun zu einer dritten Gruppe von Stücken, in denen Worte
+Jahwes an Jesaia berichtet werden; und weil dies ganz in der Gestalt
+geschieht, wie sie dem Jesaia gegeben werden, so tragen diese Stücke
+vollkommen die Form der Erzählung. Zu diesen Stücken gehören c. 29,13
+f. und c. 30,8 ff.
+
+Zu c. 29,13 f. bemerkt schon ~Duhm~, dass dieser Spruch wegen der
+Einleitung der Herr sprach, vielleicht auf einen historischen
+Zusammenhang hinweise. Aber nicht nur die einleitenden Worte, sondern
+auch die Worte der Rede Jahwes tragen die Form der historischen
+Darstellung. Es heisst ja nicht: weil ihr euch nähert... sondern weil
+sich dies Volk nähert... drum siehe behandle ich es wunderbar. Der
+Angeredete ist der Erzähler.
+
+In c. 30,8 bezieht sich nun auch der Inhalt der Rede Jahwes auf Jesaia,
+Jesaia erzählt hier einen Befehl Jahwes, den er erhalten hat, mit den
+Worten Jahwes wieder; das ist also auch keine Rede Jesaias, sondern
+historische Darstellung einer Rede Jahwes an Jesaia. Wahrscheinlich
+gehören die mit כי angeschlossenen Worte v. 9-11 noch mit zur Rede
+Jahwes als Begründung des Befehls. Jahwe wird zwar in v. 9 und 11 in
+dritter Person erwähnt; aber es hat nichts Befremdliches, wenn Jahwe
+von sich in dritter Person redet. Ueber die weitere Fortsetzung v. 12
+ff. ist schon oben die Rede gewesen.
+
+Nun bleiben noch zwei Stücke übrig, die jedes für sich behandelt werden
+müssen: c. 30,6 f. und c. 28,7 ff. c. 30,6 f. enthält überhaupt keine
+Rede, sondern reine Erzählung. Es steht zwar jetzt: Orakel „Wüsten des
+Südlandes“ darüber; aber auch diese geheimnisvolle Ueberschrift kann
+natürlich für uns nicht die Erzählung in eine Rede verwandeln. „Im
+Land der Enge und Angst.... führen sie auf... Eseln ..... ihre Schätze
+zum Volk, das nicht nützt.....“ Dieser einfache Satz ist durch einiges
+poëtische Beiwerk erläutert und erweitert. Das ist das geheimnisvolle
+Orakel. Das Land der Angst ist die Wüste, die Schätze sind der Tribut
+für die versprochene Hülfe, das Volk, das nicht nützt, ist Aegypten. Es
+liegt derber Spott in dieser Schilderung Jesaias.
+
+c. 28,7-13 ist weder blos Erzählung noch blos Rede, sondern es ist
+Erzählung, direkte und indirekte Rede zusammen, kurz, es ist die
+lebendige historische Darstellung einer gewaltigen im Tempelvorhof
+vorgefallenen Scene. Die Einleitung erzählt oder vielmehr hat erzählt
+die Situation; denn wie wir oben gesehen haben, ist sie jetzt
+wahrscheinlich von einem späteren Bearbeiter stark modifiziert. In v.
+9 f. folgt dann in direkter Rede die Wiedergabe der Anrede oder besser
+der Hohnrede der trunkenen Priester und Propheten. Sie reden nicht
+Jesaia, sondern sich gegenseitig an, da sie von Jesaia in der dritten
+Person reden. Und darauf folgt -- nicht eine Anrede an, sondern ein
+Urteil Jesaias über die Trunkenen und ihre Rede; denn von den Trunkenen
+ist im Folgenden in der dritten Person geredet. Wenn wir fragen wollen,
+an wen Jesaia sich dieses Urteil über die Trunkenen und ihre Rede
+gerichtet dachte, so werden wir wohl antworten müssen, dass er dabei
+nicht jene Spötter, sondern die Leser seines Buches im Auge hatte.
+Dass Jesaia nicht eine ähnliche Drohrede jenen Spöttern ins Gesicht
+geschleudert habe, soll damit wieder nicht gesagt sein; die hier so
+drastisch und lebendig dargestellte Szene hat Jesaia gewiss selbst
+erlebt. Aber die Form der Wiedergabe seiner Entgegnung ist doch nun
+einmal nicht Rede -- dann müsste die zweite Person stehen --, sondern
+urteilende Darstellung.
+
+Der Überblick über die Form der in Frage stehenden jesajanischen
+Stücke hat uns gezeigt, dass dieselben nur zum kleinsten Teil wörtlich
+wiedergegebene Reden enthalten, dass die Aufzeichnung auch vieler
+Reden in indirekt referierender Form gehalten ist, und dass, was
+für unsere Frage die Hauptsache ist, sich sogar mehrere Stücke in
+rein historischer Darstellung finden. Um die letzteren noch einmal
+aufzuzählen, so sind dies c. 28,7-13. c. 29,13 f. c. 30,6 f. c. 30,8-11.
+
+Dieser bisher immer übersehene Thatbestand ist natürlich ein sehr
+entscheidendes äusseres Moment für die Richtigkeit unserer Vermutung,
+dass die zusammenhängenden jesajanischen Stücke unseres Buches
+ursprünglich einem grösseren historischen Zusammenhange angehört haben.
+Denn bei dieser Annahme erklärt es sich allein, dass sich in den uns
+erhaltenen jesajanischen Stücken unseres Buches bald die Form der
+direkten, bald der indirekten Rede findet, und dass sogar einige Stücke
+die Form der reinen Erzählung tragen, während sich dieser Wechsel der
+Form bei der bisher üblichen Vorstellung der Entstehung jesajanischer
+Stücke doch durchaus nicht verstehen lässt. Wie sollte Jesaia dazu
+gekommen sein, solche zum Teil abgerissenen und unvollständigen
+Stücke von Reden, Erzählungen und Szenen aufgeschrieben und später
+zusammengestellt zu haben!
+
+Auf einen grösseren ursprünglich historischen Zusammenhang weisen nun
+auch zweitens die oben besprochenen Eingänge einzelner Stücke hin, die
+jetzt zum Teil völlig Unzusammengehöriges eng mit einander verbinden.
+Es sind die Eingänge c. 28,7. 28,14. 29,13. 30,8. und in weiterem Sinne
+noch c. 31,4.
+
+Am deutlichsten ist das bei c. 29,13. Die Worte ויאמר יהוה können, wie
+wir gesehen haben, nicht v. 13 mit v. 10 verbinden. Es muss also vor
+v. 13 etwas ausgefallen sein, woran die Worte ויאמר יהוה ursprünglich
+angeknüpft haben. Dann weist aber das Stück, das selber erzählende
+Form trägt, gerade auch mit seiner der Erzählungsform entnommenen
+Einleitungsformel unabweislich auf einen historischen Zusammenhang hin.
+Der Inhalt lässt sich natürlich nicht mehr bestimmen, muss aber mit der
+angeführten Rede Jahwes irgendwie in Beziehung gestanden haben.
+
+Über den Eingang in c. 28,7 ist oben schon näher die Rede gewesen.
+c. 28,9 ff. fordern eine Einleitung, die die Situation beschreibt.
+Wären die Worte in c. 28,7 אלה נגם jesajanisch, dann würden sie, wie
+~Hackmann~ meint, allerdings auf eine ähnliche historische Beschreibung
+der trunkenen Ephraims zurückweisen. Aber die Ursprünglichkeit des
+überlieferten Textes in v. 7 f. ist nicht sehr wahrscheinlich.
+Andererseits weist aber gerade auch der überlieferte Text darauf hin,
+dass vor v. 9 eine ähnliche und jedenfalls umfassendere historische
+Einleitung gestanden haben muss; denn der Bearbeiter kann die jetzige
+nicht aus der Luft gegriffen haben, zumal im Folgenden von der
+Trunkenheit der Priester nicht mehr die Rede ist, und dann liegt es
+auch durchaus, wie wir noch sehen werden, der Art des Bearbeiters
+unserer Stücke fern, derartige geschichtliche Einleitungen zu bilden;
+er hat sie im Gegenteil, überall, wo es möglich war, entfernt und nur
+die Reden in seine Sammlung aufgenommen.
+
+In c. 28,14 bereitet das לכן, wie wir gesehen haben, den Auslegern
+grosse Schwierigkeiten. Dasselbe setzt voraus, dass der Grund der
+folgenden Drohrede im Vorhergehenden angegeben war. Nun ist derselbe
+aber in v. 7-13 nicht angegeben. Also muss vor v. 14 etwas ausgefallen
+sein, was den Grund der folgenden Drohung enthalten hat. Das kann
+aber nicht etwa der Anfang der Rede selbst gewesen sein. Denn in
+der v. 14 ff. angeführten Rede ist der Grund der Drohung in v. 15
+voll und ausreichend angegeben vgl. v. 17 f. Dieser Umstand fordert
+vielmehr nothwendig die Annahme, dass der Grund der Drohrede vorher
+in geschichtlichem Bericht gegeben war. Man könnte höchstens noch
+annehmen, dass das לכן v. 14 überhaupt nicht ursprünglich zu dem
+jesajanischen Stücke gehört habe, sondern vom Bearbeiter hinzugesetzt
+sei, um v. 14 ff. mit dem Vorhergehenden zu verbinden. Aber einmal
+hat der Sammler auch sonst in unserem Buche jesajanische Stücke ohne
+besondere Verbindung nebeneinander gestellt, und es wäre kein rechter
+Grund ersichtlich, warum er grade dieses durch ein nachträglich
+hinzugefügtes לכן mit dem vorhergehenden verbunden haben sollte;
+sodann aber setzt auch die Art und Weise, in der v. 15 der Grund der
+Drohung angegeben wird, eine Rückbeziehung auf konkrete geschichtliche
+Verhältnisse voraus, die ohne vorhergegangene Erläuterung dunkel bliebe
+und darum auch für uns thatsächlich dunkel ist. Hier kommen wir mit
+~Hackmann~ überein, der in seiner oben angeführten Ausführung sagt,
+v. 15 rede in Anspielungen auf ein Faktum, über welches ursprünglich
+vielleicht einige Worte verloren waren. Wir meinen, dass das לכן in v.
+14 noch deutlich diesen Ausfall erkennen lässt.
+
+In c. 30,8 ist es nicht die Form, sondern der Inhalt des Verses
+selbst, der auf geschichtliche Beziehungen zurückweist, deren Angabe
+einmal vor ihm gestanden haben muss. Sowohl der Zeitpunkt des עתה,
+als auch der Inhalt dessen, was Jesaia aufschreiben soll, muss einmal
+irgendwie vor v. 8 erzählt gewesen sein. Denn jetzt steht der Vers
+völlig in der Luft und die Suffixe in den Verben haben keine Beziehung
+auf etwas Vorhergehendes, die sie doch notwendig fordern.
+
+In c. 31,4 endlich kann sich der Eingang: כי כה אמר יהוה אלי zur Not
+als Fortsetzung an v. 3 anschliessen. Wahrscheinlich ist dies indessen
+nicht. Denn einmal hat das Stück v. 1-3 in den Worten:
+
+    וכשל עוזר ונפל עזר
+
+einen gewaltigen und völlig genügenden Abschluss erreicht; und zweitens
+passt der Inhalt von v. 4 nicht genau zu 1-3. Denn v. 1-3 stellen
+Ägypten in den Vordergrund, während v. 4 von der Belagerung Jerusalems
+handelt. Ist aber v. 4 von v. 1-3 zu trennen, dann verlangen die Worte:
+כי כה אמר יהוה אלי eine Ergänzung, die jetzt ausgefallen ist. Die
+Annahme wird dadurch noch wahrscheinlicher, dass das letzte Sätzchen
+in v. 3 mit seinem יחדו und יכליון jedenfalls mit ~Duhm~ für einen vom
+Sammler hinzugesetzten Abschluss zu halten ist.
+
+Die besprochenen Eingänge in c. 28,7. 28,14. 29,13. 30,8. und 31,4
+machen also wahrscheinlich, dass den durch sie eingeleiteten Stücken
+andere, und zwar zum Teil sicher in geschichtlicher Form, einst
+vorangegangen sind. Dasselbe ist natürlich auch bei den übrigen, nicht
+besprochenen Stücken, nicht ausgeschlossen; es finden sich in denselben
+nur keine Anzeichen mehr vor, die noch mit einiger Deutlichkeit darauf
+hinweisen.
+
+Diese Untersuchungen bestätigen die Vermutung ~Hackmanns~, dass unsere
+Stücke ursprünglich in geschichtlicher Umrahmung gestanden haben. Die
+inneren Gründe, die er als Stützen seiner Vermutung anführt, lassen
+sich freilich nicht so beweisen, dienen aber dem geführten Beweise zur
+Bestätigung. Denn dass wirklich manche Einzelheiten in unseren Stücken
+wie eine Bezugnahme auf eine nebenhergehende Erzählung erscheinen,
+wird jeder zugeben, der die Stücke mit Aufmerksamkeit liest. Ueber c.
+28,15 ist vorhin schon die Rede gewesen. Aehnliches wird man von den
+auch inhaltlich ähnlichen Versen c. 30,15 f. sagen dürfen. Doch c.
+30,6 kann nicht mit angeführt werden, da v. 6 f. nicht Rede, sondern
+Erzählung enthalten. Ebenso ist es mit c. 28,9 f., das nach ~Hackmann~
+eine Unterbrechung der Rede Jesaias durch Einwürfe der Trunkenen
+voraussetzt. Denn die v. 9 f. vorausgehenden Verse 6 und 7 sind nicht
+Bestandteile einer Rede Jesaias, sondern bilden die geschichtliche
+Einleitung zu der v. 9 ff. dargestellten Szene.
+
+Doch wir bedürfen auch keiner weiteren Beweise mehr für die Richtigkeit
+der aufgestellten Hypothese, dass die zusammengehörigen jesajanischen
+Stücke unseres Buches ursprünglich einem grösseren geschichtlichen
+Zusammenhange angehört haben. Wir haben folgende Thatsachen
+festgestellt:
+
+    1. Den in Betracht kommenden jesajanischen Stücken liegt eine
+    streng chronologisch-sachliche Ordnung zu Grunde.
+
+    2. Dieselben enthalten nur zum Teil die Wiedergabe von Reden des
+    Propheten; zum Teil enthalten sie auch erzählende Darstellungen von
+    Reden und Ereignissen.
+
+    3. Die Eingänge mehrerer Stücke nehmen deutlich auf einst
+    vorhergegangene geschichtliche Darstellungen Bezug.
+
+Diese Thatsachen finden ihre Erklärung nur durch die Annahme, dass
+unsere Stücke einst in einer grösseren geschichtlichen Umrahmung
+gestanden haben.
+
+Diese Annahme wird nun noch durch folgende Umstände bestätigt. Zunächst
+erklärt sich durch dieselbe am leichtesten die Beschaffenheit, in
+welcher uns die jesajanischen Stücke vorliegen. Die jesajanischen
+Partieen unseres Buches bestehen aus lauter einzelnen, zum Teil
+abgebrochenen Stücken und lassen jede schriftstellerische Verbindung
+unter einander vermissen. Diese Thatsache findet allein eine genügende
+Erklärung in der Annahme, dass dieselben aus einem grösseren
+Zusammenhange herausgebrochen sind.
+
+Dadurch erklärt sich vor allem auch das Vorhandensein vieler so kurzer
+Stücke, die jetzt wegen ihrer Zusammenhangslosigkeit als selbstständige
+Stücke behandelt werden müssen, ohne dass man einsieht, wie sie
+entstanden sein und für sich allein existiert haben könnten. Solche
+Stücke sind c. 29,9 f. 13 f. 15 c. 30,6 f. Man kann nicht sagen, dass
+ihnen am Anfange oder Schlusse etwas fehlt. ~Duhm~ nimmt dies zwar
+von c. 29,15 an: „was etwa noch fehlt, scheint unleserlich geworden
+und darum vom Redaktor durch v. 16-24 ersetzt zu sein.“ Allein in
+diesen Versen lässt sich nichts entdecken, was die Annahme ~Duhms~
+begünstigen könnte. Das nimmt auch ~Duhm~ nicht an; er hat keinen
+anderen Grund für seine Annahme als die Unwahrscheinlichkeit, dass
+dieses kurze Stück einst selbstständig existiert habe. Innerhalb einer
+geschichtlichen Darstellung kann aber auch eine so kurze Rede sehr wohl
+gestanden haben.
+
+Dasselbe gilt von den anderen Stücken. c. 29,9 f. ist als selbstständig
+aufgezeichnete Rede völlig unerklärlich. Man weiss weder, an wen sie
+gerichtet ist, noch, worauf sie sich bezieht, noch, was sie droht. Ist
+es wohl wahrscheinlich, dass Jesaia solche kurze Sätze aufgezeichnet
+hat? Eine irgendwie genügende Erklärung dafür kann man nicht finden.
+Dagegen liefert die Annahme, dass ein späterer Redaktor diese Reden
+aus einem geschichtlichen Zusammenhange herausgebrochen habe, eine
+vollständig genügende Erklärung sowohl für ihre Kürze als auch für ihre
+sonst befremdliche Unverständlichkeit. Denn in ihrem ursprünglichen
+Zusammenhange können alle ihre uns jetzt zum Teil dunklen Beziehungen
+sehr deutlich gewesen sein.
+
+Einer besonderen Erklärung bedarf noch das kurze Stück c. 30,6 f., das
+jetzt die Ueberschrift משא בהמות נגב trägt. Dass dieses kurze, noch
+dazu rein erzählende Stück einst eine besondere und selbstständige
+Aufzeichnung Jesaias gebildet haben soll, ist undenkbar, trotzdem, dass
+es jetzt als besonderes Stück behandelt werden muss und auch schon von
+dem Verfasser jener Ueberschrift als solches behandelt worden ist.
+Aber ~Duhm~ will nun eben um dieser Stichwortüberschrift willen das
+Stück ganz aus seinem jetzigen Zusammenhange entfernen und hält es für
+wahrscheinlich, dass es einst neben c. 21. 22 gestanden hat und erst
+vom letzten Redaktor an seine jetzige Stelle versetzt worden ist.
+Allein die in c. 21 mit Stichwortüberschriften versehenen Orakel sind
+nicht jesajanisch und werden auch von ~Duhm~ nicht für jesajanisch
+gehalten, und c. 22 gehört nicht derselben Zeit an wie unsere Stücke.
+Andrerseits passt das Stück c. 30,5 f. seinem Inhalte nach vorzüglich
+hinter v. 1-5, während es doch nicht einzusehen ist, dass es der letzte
+Redaktor, der es doch gewiss unter der dogmatischen Brille seiner
+Stichwortüberschrift betrachtet hat, an seinen geschichtlich richtigen
+Platz gesetzt haben sollte. Ich glaube aber, dass sich bei unserer
+Annahme eines ursprünglich geschichtlichen Zusammenhanges unserer
+Stücke eine genügende Erklärung für das Stück und seine Ueberschrift
+geben lässt.
+
+Es ist nämlich klar, dass der Sammler unserer Stücke, wie der von
+c. 1 (resp. 2) -- 12 und der von c. 13 ff. eine Sammlung von משאות
+ישעיהו hat geben wollen vgl. c. 1,1. 2,1. 13,1. Dazu gehörten vor
+allem alle ~Reden~, die Jesaia gehalten hat, oder die ihm als חזון
+(c. 1,1) von Jahwe offenbart worden sind. Daraus erklärt es sich,
+dass unsere sämmtlichen Stücke Reden, sei es von Jesaia, sei es von
+Jahwe enthalten, und dass der Sammler grade die sie verbindenden
+geschichtlichen Partieen weggelassen hat. Er hat nun diese Reden
+wörtlich so aus ihrem geschichtlichen Zusammenhange herausgenommen, wie
+er sie vorfand; daher es kommt, dass viele durch ihre Form noch den
+geschichtlichen Zusammenhang verraten. Nur in c. 28,7 f. hat er eine
+kurze geschichtliche Einleitung stehen lassen, um v. 9 ff. mit v. 1-4
+zu verbinden.
+
+Ausser diesen Einleitungsversen ist nun das Stück c. 30,6 f. das
+einzige, welches überhaupt keine Rede, weder von Jesaia, noch von
+Jahwe, enthält, sondern der reinen Erzählungsform angehört. Wie kommt
+es nun, dass es der Hersteller unseres Buches dennoch aus seinem
+Zusammenhange herausgelöst und seiner Sammlung einverleibt hat? Es
+lässt sich kein anderer Grund dafür finden als der, dass er es dennoch
+für eine משא ישעיהו gehalten hat. Entweder that er dies, weil er die
+Stichwortüberschrift, vielleicht am Rande seines Exemplares, schon
+vorfand, oder er hat dieselbe, was auch möglich ist, erst selbst
+verfasst und zugesetzt, weil er die Verse für ein „Orakel“ des Jesaia
+hielt und sie als solches kennzeichnen wollte. Denn es wird ja immerhin
+auch für seine damaligen Leser nicht ganz leicht gewesen sein, in
+diesen Versen ein „Orakel über die Tiere des Südlandes“ zu erkennen.
+So erklärt sich m. E. die Ueberschrift dieses Stückes so wie auch die
+Aufnahme desselben in unsere Sammlung am leichtesten.
+
+Es lassen sich also alle Schwierigkeiten, die sich aus der
+Beschaffenheit der jesajanischen Stücke unseres Buches für ihre
+Herkunft und Aufnahme in unsere Sammlung ergeben, durch die Annahme
+eines ursprünglich geschichtlichen Zusammenhanges derselben beseitigen,
+während sie sonst unerklärlich bleiben würden. Dieser Umstand stützt
+und bestätigt daher die Richtigkeit unserer These.
+
+Es lässt sich aber noch eine andere, sehr wertvolle Bestätigung
+derselben aufweisen. Das ist die Thatsache, dass sich auch sonst im
+Jesaia-Buche unzweifelhaft jesajanische Stücke in geschichtlicher
+Darstellung finden. Es sind dies die Abschnitte c. 6-8,18, c. 20 und c.
+22.
+
+Es ist klar, von welcher Bedeutung diese Thatsache für die
+Annehmbarkeit unseres Ergebnisses sein muss. Fänden sich nämlich
+im Jesaia-Buche sonst keine derartigen, von Jesaia stammenden
+geschichtlichen Darstellungen, sondern nur, worauf etwa c. 1-5 führen
+könnten, Redesammlungen, so würde sich immer wieder gegen unser
+Ergebnis das Bedenken erheben, dass es doch sonst nicht Jesaias Art
+sei, derartige geschichtliche Darstellungen zu geben.
+
+Wir müssen deshalb noch kurz auf das Verhältnis der übrigen Prophetieen
+des Jesaia zu den in unserer Sammlung enthaltenen eingehen. Es wird
+sich zeigen, dass nicht nur wenigstens die in c. 6-8 enthaltene Schrift
+der unserer Sammlung zu Grunde liegenden nach Zweck und Anlage sehr
+ähnlich ist, sondern auch, dass diese geschichtlichen Darstellungen den
+wesentlichsten Teil von allem ausmachen, was Jesaia überhaupt gegen
+Jerusalem und Juda geschrieben hat.
+
+Gewöhnlich nimmt man an, dass c. 6-9,6 eine kleine, von Jesaia selbst
+hergestellte Sondersammlung seiner Prophetieen sei. Richtig ist an
+dieser Annahme nur, dass der Hersteller der grösseren Sammlung,
+etwa der von c. 2-12, c. 6-9,6 bereits als abgeschlossene Sammlung
+vor sich hatte; denn sonst hätte er c. 6 an den Anfang seiner
+grösseren Sammlung gestellt. Aber ~Hackmann~ hat meines Erachtens
+entscheidend nachgewiesen, dass das Büchlein c. 6-9,6 nicht von Jesaia
+zusammengestellt sein kann.[13] Denn die hinter c. 8,18 folgenden Worte
+bilden ein Fragment aus allerlei zerbröckelten Stücken, und sind dazu
+zusammengetragen, um den Uebergang zu c. 9 herzustellen. ~Hackmann~
+macht nun darauf aufmerksam, dass c. 8,16-18 den Eindruck eines
+Schlusses machen. „Die Schlussworte:
+
+    אשר נתן לי יהוה לאתות ולמופתים בישראל
+             מעם יהוה צבאות השכן בהר ציון
+
+sind ein guter Abschluss“.
+
+Da nun c. 6 ein in sich geschlossenes Ganze für sich bildet, so liegt
+die Folgerung nahe, dass die Zusammenhänge von c. 7 und 8 in c. 8,16-18
+ihren Abschluss finden.
+
+Und in der That ist es grade die Sammlung c. 7-8,18, die der dem Buche
+c. 28-33 zu Grunde liegenden jesajanischen Schrift nach Zweck und
+Anlage so überaus ähnlich ist.
+
+Dieselbe kann dem von uns gefundenen Resultate einer ursprünglich
+geschichtlichen Form jener Schrift um so mehr zur Bestätigung dienen,
+als hier die geschichtliche Darstellungsform in den einzelnen Stücken
+noch viel deutlicher zu Tage tritt. Sehen wir uns dieselben daraufhin
+etwas näher an!
+
+c. 7,1-17 enthält nach ~Duhm~ einen „Bericht“ von Handlungen und
+Reden Jesaias beim Herannahen der Syrer und Israeliten gegen Juda.
+Wirklich enthält auch c. 7, auch wenn man v. 1 (= II. Kön. 16,5) vom
+Sammler entlehnt sein lässt, um den verlorenen Eingang einigermassen
+zu ersetzen, nicht die Wiedergabe einer Rede Jesaias, sondern einen
+Bericht, eine Erzählung aus des Propheten Feder.
+
+Zuerst erzählt der Prophet kurz von dem Herannahen der beiden Heere und
+den darob entstandenen Schrecken beim Hause Davids. Darauf giebt er
+den ihm von Jahwe zu teil gewordenen Auftrag wieder, dem Ahas auf die
+Strasse des Walkerfeldes ans Ende der Wasserleitung des oberen Teiches
+entgegenzugehen und ihm Mut und Trost zuzusprechen. Hieran schliesst
+sich die Wiedergabe der Unterredung zwischen Jesaia und dem Könige:
+Jesaia bietet dem Ahas ein Zeichen (או ת) an; Ahas schlägt es ab;
+Jesaia bestimmt nun selbst ein tröstliches Zeichen baldiger Rettung,
+knüpft aber zugleich wegen des verstockten Unglaubens des Königs eine
+Drohung gegen ihn und das Reich Juda daran.[14]
+
+In c. 8,1 und 3 f. ~erzählt~ Jesaia zwei weitere Versuche, das
+verstockte Volk zur Umkehr und zum Glauben zu bewegen. Da seine Reden
+nichts helfen, versucht er, durch ein anderes Wahrzeichen (אות) seinem
+Volke nahe zu kommen. Er nimmt eine Tafel und schreibt darauf:
+Maher-schalal-chas-baz. Dann giebt er diesen Namen seinem bald darauf
+geborenen Sohne. So viel hat Jesaia gethan, um das Volk zur Umkehr und
+zum Glauben zu bringen. Es hat aber nichts geholfen: c. 8,6:
+
+    מאס העם הזה את מי השלח ההלכים לאט
+
+Nun folgt das Verwerfungsurteil über Juda in mehreren Drohreden c.
+8,6-18, die wohl inhaltlich zusammengehören, aber auch wie in c. 28 ff.
+die schriftstellerische Verbindung nicht mehr aufweisen.
+
+Wie in der in c. 28 ff. enthaltenen jesajanischen Schrift ist auch hier
+der Zweck derselben, dem verstockten Volke das Verwerfungsurteil Jahwes
+zu verkünden und zu begründen. Auch diese Schrift zerfällt in zwei
+Teile: c. 7-8,4 schildern die Bemühungen Jesaias um die Bekehrung des
+Volkes; c. 8,5-16 verkünden dem verstockten Volke das Gericht.
+
+Dass c. 8,5 ff. wirklich mit dem Vorhergehenden zusammenhängen, zeigt
+v. 5:
+
+    ויסף יהוה דבר אלי עוד לאמר
+
+Nur kann Jesaia unmöglich die mit diesen Worten eingeleitete Rede
+so an das vorhergehende Stück angeschlossen haben. Denn v. 3 f.
+enthalten eine tröstliche Zusage an Juda, v. 6 ff. dagegen eine scharfe
+Gerichtsdrohung. Es muss also zwischen v. 4 und 5 etwas ausgefallen
+sein; und zwar muss vor v. 5 eine ähnliche Drohrede gestanden haben
+wegen des יוסף und des עוד in v. 5. Das ist vielleicht die Drohung
+gewesen, die jetzt in c. 7,18 ff. enthalten ist (vgl. vorige Anmerkung).
+
+Dass auch dieser zweite Teil der Schrift ursprünglich in historischem
+Rahmen gestanden hat, beweist der in der Form eines Berichtes
+abgefasste Eingang zu v. 11 ff., beweist auch der Schluss der Schrift
+v. 16-18, der keine Rede enthält und von dem Vorhergehenden losgerissen
+sinnlos wird.
+
+Der gegebene Überblick über den Zusammenhang und die Darstellungsform
+von c. 7-8,18 zeigt, dass wir hier auch eine in der Form der
+geschichtlichen Darstellung verfasste Schrift Jesaias vor uns haben.
+Auf die litterarische Beschaffenheit derselben kann hier natürlich
+nicht näher eingegangen werden[15]; es ist nur noch zu fragen, wann
+etwa Jesaia diese Aufzeichnungen gemacht haben könnte. Wir werden
+anzunehmen haben, dass c. 7 und 8 eine längere Wirkungsperiode Jesaias
+umspannen, dass namentlich zwischen c. 8,4 und 8,5 ff. Ereignisse
+liegen, die den Umschwung in Jesaias Prophetie begründet und veranlasst
+haben. Diese Ereignisse haben den Jesaia bewogen, sich vom öffentlichen
+Auftreten zurückzuziehen, c. 8,16-18. Sie müssen daher sein Auftreten
+nutzlos gemacht haben. Da sie auch nur politischer Natur gewesen sein
+können, denn um politische Ereignisse dreht sich der ganze Inhalt von
+c. 7 f., so kann nichts Anderes gemeint sein als die Botschaft des Ahas
+an Thiglath-Pileser 2. Kön. 16,7. Also ganz ähnlich wie in c. 28 ff.
+ist es auch hier das Bündnis mit einer auswärtigen Macht, um das es
+sich handelt. Statt auf Jahwe zu trauen, setzt „dies Volk da“ seine
+Hoffnung auf eine heidnische Grossmacht.
+
+Stellen wir nun noch einmal die Vergleichungspunkte der in c. 7 f.
+und in c. 28 ff. enthaltenen geschichtlichen Aufzeichnungen Jesaias
+zusammen. Analog ist:
+
+    1. Die Veranlassung derselben. In beiden Fällen handelt es sich
+    um das Zustandekommen eines Bündnisses mit einer heidnischen
+    Weltmacht, gegen das Jesaia vergeblich gekämpft hat. Da sein Reden
+    nutzlos geblieben ist, zieht er sich zurück und schreibt (c. 8,16
+    ff. 30,8).
+
+    2. Der Zweck derselben. Sie sollen beide ein ewiges Zeugnis dafür
+    sein, dass Jesaia die Schuld des Volkes erkannt und gebrandmarkt,
+    sowie die Strafgerichte Jahwes vorhergesagt habe.
+
+    3. Die Anlage derselben. In beiden schildert Jesaia zuerst seine
+    vergeblichen Versuche, Volk und König zum Glauben zu bewegen, um
+    dann dem verstockten Volke den Untergang zu verkünden.
+
+    4. Einzelheiten des Inhalts und der Form: c. 7,4 mit 30,15 f.,
+    7,9 mit 28,16, 8,6 f. mit 30,12 f., 8,9 f. mit 29,9 f., 8,15 mit
+    28,13., 8,14 mit 28,16., 8,16-18 mit 30,8.
+
+    5. „v. 16 (in c. 8) klingt wie ein Abschiednehmen von der Arbeit
+    unter dem Volke (~Duhm~).“ Dasselbe gilt von dem עתה בוא c. 30,8.
+
+Eine geschichtliche Aufzeichnung Jesaias haben wir nun ferner in c.
+6, in welchem Jesaia seine Berufungsvision erzählt. Sie ist uns dem
+Anscheine nach noch vollständig so erhalten, wie sie aus der Hand des
+Propheten hervorgegangen ist[16].
+
+In diesem Kapitel haben wir also eine weitere wertvolle Bestätigung
+dafür, dass Jesaia in geschichtlicher Darstellung auch sonst
+geschrieben hat. Wollte man darauf hinweisen, dass die Schilderung
+dieser Berufungsvision eben etwas ganz Besonderes sei, so ist dagegen
+zu erwidern, dass der Zweck ihrer Niederschrift dennoch ganz derselbe
+ist wie der der Aufzeichnung von c. 7 f. und c. 28 ff.
+
+Es ist oben schon darauf hingewiesen worden, dass das Kapitel sicher
+vom Propheten erst später aufgezeichnet worden ist, und ebenso ist
+der Versuch ~Hackmanns~, seinen Inhalt auf Nordisrael zu deuten, als
+unhaltbar nachgewiesen worden. Der Ausdruck העם הזה fordert gerade auch
+in diesem Kapitel (v. 5 und v. 1) seine Beziehung auf Juda. Der Zweck
+des Kapitels geht natürlich aus dem Inhalte der dem Jesaia gewordenen
+Offenbarung v. 9 ff. hervor: in v. 9 f. wird das Verstockungsgericht
+über das Volk ausgesprochen; in v. 11 (-13) wird ihm als Strafe dafür
+der gänzliche Untergang verkündet. Dieser in c. 6 ausgesprochene Zweck
+setzt voraus, dass der Niederschrift dieses Kapitels eine längere
+Wirksamkeit vorausgegangen ist. Nicht, als ob Jesaia im Beginne seiner
+Wirksamkeit nicht ähnliche Gedanken oder Offenbarungen gehabt haben
+könnte; über solche Möglichkeiten lässt sich schwer streiten; aber
+niedergeschrieben haben kann Jesaia solche Gedanken erst, nachdem sich
+das Volk wirklich seiner Predigt gegenüber verstockt gezeigt hat. Daher
+wird ~Duhm~ recht haben, dass die Niederschrift dieser Berufungsvision
+neben den c. 8,16 und c. 30,8 erwähnten ein neues Dokument von der
+Wahrheit und Wahrhaftigkeit seiner Mission sein soll.
+
+Mir scheint es nun inhaltlich dem c. 30,8 erwähnten Dokumente, d.
+h. also der in c. 28 ff. enthaltenen jesajanischen Schrift näher zu
+stehen. Denn einmal erscheint Jesaia dort mehr als in c. 7 f. von
+Anfang an von der Unverbesserlichkeit des Volkes überzeugt (vgl.
+c. 6,9 f. mit c. 29,9 f.), und dann entspricht auch die radikale
+Verkündigung des Unterganges von Juda in c. 6 mehr den Drohreden in
+c. 28 ff. als den in c. 8[17]. Wir haben also in c. 6 eine weitere
+wertvolle Bestätigung für unser Resultat bezüglich der geschichtlichen
+Darstellungsform der in c. 28 ff. enthaltenen Schrift.
+
+Es kommen nun noch als geschichtliche Stücke c. 20 und c. 22 in
+Betracht, über die wir aber schnell hinweggehen können.
+
+c. 20 gehört seiner Überschrift und seinem Inhalte nach ins Jahr 711.
+Es ist aber seiner Herkunft nach nicht ganz unverdächtig. Möglich wäre
+es, „dass es ähnlichen Ursprung hätte wie c. 36-39, und zu Gunsten
+dieser Annahme könnte man auf den in mehrfacher Beziehung verdächtigen
+v. 2 hinweisen (Duhm).“
+
+c. 22 fällt in die Zeit nach 701. Es ist bezüglich seiner
+Einheitlichkeit und Darstellungsform durchaus nicht allgemein
+anerkannt; da ich es aber für eine geschichtliche Darstellung halte; so
+sollte es wenigstens nicht unerwähnt bleiben[18].
+
+Diese im Vorhergehenden besprochenen geschichtlichen Darstellungen
+bilden nun nicht etwa den kleinsten, sondern vielmehr den weitaus
+grössten Teil dessen, was der Prophet Jesaia gegen Juda und Jerusalem
+überhaupt geschrieben hat. Denn ausser den besprochenen Abschnitten
+sind nur noch das kurze Stück c. 32,9-14 und die in c. 1-5 enthaltenen
+Drohreden gegen Juda und Jerusalem dem Jesaia zuzuschreiben[19].
+
+Eine vollgültige Bestätigung dieses statistischen Befundes können wir
+nun noch aus des Jesaia eigenen Worten entnehmen, nämlich aus den
+beiden Versen c. 30,8 und c. 8,16.
+
+In c. 30,8 heisst es: Jetzt geh hinein und schreib es nieder! Also,
+nachdem Jesaia lange vergeblich durch öffentliche Rede unter dem Volke
+gewirkt hatte, erhielt er den göttlichen Auftrag, sich vom Schauplatz
+der öffentlichen Thätigkeit zurückzuziehen und seine Drohungen
+niederzuschreiben לעֵד עד עולם. Dieser Auftrag Jahwes an Jesaia enthält
+doch offenbar für unsere Frage ein Doppeltes:
+
+    1. dass Jesaia bis dahin seine Reden nicht aufgeschrieben hat, dass
+    also die gewöhnliche Annahme, dass er gewissermassen ein Tagebuch
+    über seine Reden geführt habe, gegenüber den eigenen Worten Jesaias
+    nicht stichhaltig ist;
+
+    2. dass es für Jesaia eines besonderen Auftrages Jahwes oder eines
+    besonderen Zweckes bedurfte, seine Weissagungen niederzuschreiben.
+
+Der Zweck ist auch in c. 8,16 besonders hervorgehoben:
+
+    צור תעודה חתום תורה בלמדי
+
+Der Zweck der Niederschrift ist also nach beiden Stellen wie bei der
+Aufstellung der Tafel c. 8,1 f. und der Namengebung seiner Söhne c.
+8,3 f. 18 der, dass sie einer späteren Generation (עד עולם c. 30,8 und
+בלמדי 8,16) zum Zeugnis (לעד c. 30,8 und תעודה 8,16) der Wahrheit und
+Wahrhaftigkeit seiner Prophezeiungen dienen soll.
+
+Jedenfalls geht aus beiden Stellen hervor, dass der Prophet erst
+deshalb zur Niederschrift schreitet, weil er erkennt, dass die
+mündliche Predigt aussichtslos sei. Das wird daher auch von den
+anderen Stücken gelten, die etwa noch auf ihn zurückzuführen sind. Ein
+eigentlicher Schriftsteller wie Jeremia und die späteren Propheten, ist
+Jesaia noch nicht gewesen. Da nun die Niederschriften, auf welche jene
+beiden Stellen weisen, c. 7 f. und c. 28 ff., die Hauptperioden der
+Wirksamkeit Jesaias umspannen, so werden wir a priori anzunehmen haben,
+dass sie auch den grössten Teil dessen ausmachen, was Jesaia gegen
+Jerusalem und Juda geschrieben hat. Durch diese Stellen wird also das
+durch den statistischen Befund herausgestellte Verhältnis bestätigt.
+
+Der Ueberblick über die schriftstellerische Thätigkeit des
+Jesaia hat gezeigt, dass die Annahme einer ursprünglich
+geschichtlich-darstellenden Gestalt der jesajanischen Stücke in
+c. 28-33 durch die Beschaffenheit der in den anderen Sammlungen
+enthaltenen Stücke nicht widerraten, sondern vielmehr empfohlen
+wird. Ja, es ist gezeigt worden, dass jene in darstellender Form
+geschriebenen Stücke den weitaus grössten Teil von allem ausmachen, was
+Jesaia gegen Jerusalem und Juda geschrieben hat.
+
+Kehren wir nach diesem Ueberblicke über die Entstehung der übrigen
+jesajanischen Stücke zu unserem Buche c. 28 ff. zurück, so können wir
+jetzt folgendes Resultat feststellen:
+
+    1. In dem Buche c. 28-33 sind drei verschiedene jesajanische
+    Schriften enthalten, nämlich ausser den beiden kurzen Stücken c.
+    28,1-4 und c. 32,9-14 eine Anzahl Bruchstücke aus einer grösseren
+    Schrift Jesaias.
+
+    2. c. 28,1-4 enthält eine Weissagung Jesaias von dem Untergange
+    Samarias. Die Abfassung dieses Stückes fällt also jedenfalls vor
+    722, wegen des Schweigens über Aram und Damaskus wahrscheinlich
+    nach 732; vielleicht liegt ihm als bestimmter Anlass der Abfall
+    Hoseas von Assyrien zu Grunde, dann stammt es etwa aus dem Jahre
+    725/24[20].
+
+    3. Die in c. 28,7-31,4 enthaltenen Bruchstücke gehören ursprünglich
+    einer grösseren geschichtlichen Darstellung der Kämpfe Jesaias
+    mit den Volksleitern wider das Zustandekommen des ägyptischen
+    Bündnisses an. Jesaia hat diese Schrift etwa im Jahre ± 703 v. Chr.
+    selbst verfasst zum Zeugnis für einen späteren Tag.
+
+    4. Es bleibt noch das kurze Stück c. 32,9-14 übrig. Ueber die
+    Abfassungszeit dieses Stückes lässt sich aus seinem Inhalte nichts
+    absolut Sicheres entnehmen. Jesaia kündigt den Weibern Jerusalems
+    die völlige Verwüstung der Stadt und ihrer anmutigen Umgebung an.
+    Das könnte Jesaia freilich zu jeder Zeit seiner Wirksamkeit gethan
+    haben. Aber die Verkündigung klingt so radikal und unbedingt, dass
+    sie mit ihrem Inhalte auf Anzeichen ihrer Verwirklichung zu deuten
+    scheint. Vor allem ist hier der Ton etwas anders als sonst. Man
+    könnte die Dichtung fast ein Klagelied nennen. Die Anrede in v.
+    9 ist weniger bitter als traurig. Statt des sonstigen harten und
+    verächtlichen העם הזה steht hier v. 13 das mitleidig empfindende
+    עמי. Man hat den Eindruck, als ob einerseits Jerusalem mitten im
+    Unglück stände, Jesaia die Erfüllung seiner Drohungen eintreten
+    sähe, als ob aber das Volk und namentlich die Frauen Jerusalems
+    nicht recht daran glaubten. Die Stimmung ist ähnlich wie in c.
+    22; vgl. namentlich v. 4: lasst mich bitter weinen! auch v. 11 b.
+    13 f. Dieses Kapitel ist nach dem Vorgange ~Sörensens~[21] mit
+    ~Hackmann~ in die Zeit nach dem Abzuge Sanheribs zu setzen[22]. Die
+    überstandene Not hat die Jerusalemiter nicht gebessert; der Prophet
+    schaut tiefer. Er sieht in ihrer Unbussfertigkeit die Besiegelung
+    ihres gewissen Unterganges: „Wahrlich, nicht wird diese Sünde
+    euch gesühnt, bis dass ihr tot seid.“ v. 14. Dieselbe Stimmung
+    atmet unsere Weissagung, nur fehlt ihr die Bitterkeit. Vielleicht
+    fällt sie deshalb noch vor den Abzug Sanheribs in das Jahr 702/1.
+    Sicheres lässt sich nicht aussagen.
+
+Wir stehen am Ende mit der Besprechung der jesajanischen Stücke unseres
+Buches. Sie hat uns nicht nur einen interessanten und lehrreichen
+Einblick in die schriftstellerische Thätigkeit des Jesaia gegeben,
+sondern sie wird uns nun auch die Beantwortung der Frage, wie diese
+Stücke in ihren jetzigen Zusammenhang gekommen sind, wesentlich
+erleichtern. Halten wir an der Annahme fest, dass der Bearbeiter
+unseres Buches, um eine Sammlung von משאות ישעיהו herauszugeben, die
+meisten seiner jesajanischen Stücke aus einem grösseren Zusammenhange
+herausgenommen hat, so werden wir auch verstehen, wie er dazu
+gekommen ist, sie mit eigenen Zuthaten und Ergänzungen zu versehen.
+Die Komposition unseres Buches, die sonst bei seinem mosaikartigen
+Charakter und den beiden sich widersprechenden Gedankenreihen ein
+Rätsel bleibt, wird so erklärlich.
+
+
+
+
+II.
+
+
+Wir haben es also jetzt mit der Arbeit einer späteren Zeit zu thun. Es
+liegt in dem ganzen Charakter derselben begründet, dass wir mit ihren
+Erzeugnissen mehr auf das Gebiet der Vermutungen als der sicheren
+Ergebnisse gestellt sind. Denn dieselben haben es meist nicht mit
+der Gegenwart, sondern mit der Zukunft, und zwar alle mit derselben
+Zukunft, nämlich mit „jenem Tage“, zu thun. Sie sind daher meist zu
+wenig zeitgeschichtlich bestimmt, als dass man für die Frage nach ihrer
+Herkunft unumstösslich festen Boden gewinnen könnte.
+
+Das gilt auch von den nichtjesajanischen Stücken unseres Buches. Es
+wäre vergebliche Mühe, wenn man aus den einzelnen Stücken Schlüsse
+auf Verfasser und Herkunft ziehen wollte. Ebenso würde es zu nichts
+führen, wenn man, wie wir es bei den jesajanischen Stücken unseres
+Buches gethan haben, die Frage aufwerfen wollte, ob die einzelnen
+Stücke resp. welche unter einander in Zusammenhang stehen. Sie
+behandeln alle das eine Thema: die goldene Zukunft, und dieses würde
+sie unter einander ebenso sehr und ebenso wenig verbinden, wie sie
+selbst in sich dadurch verbunden sind. Ob man z. B. c. 29,16-24 mit c.
+30,18-26 zu einem Stück vereint oder jedes der beiden in zwei oder mehr
+Stücke teilt, macht für ihren Inhalt und Gedankengang nichts aus.
+
+Um daher für die nichtjesajanischen Stücke unseres Buches bezüglich
+ihrer Herkunft und Zeitansetzung zu einem einigermassen sicheren
+Ergebnisse zu gelangen, müssen wir einen anderen Weg der Untersuchung
+einschlagen.
+
+Wir werden zunächst das Verhältnis dieser Stücke zu den jesajanischen
+Partieen ins Auge fassen. Es wird festzustellen sein, welche
+unter ihnen sich als unmittelbare und beabsichtigte Fortsetzungen
+jesajanischer Partieen geben, und welche etwa selbstständig daneben
+stehen.
+
+Sodann haben wir zu untersuchen, ob sie unter einander auf denselben
+oder mehrere Verfasser schliessen lassen. Dann erst können wir nach
+Anzeichen einer genaueren Zeitbestimmung fragen.
+
+Endlich wird dann aus den gewonnenen Resultaten eine Uebersicht über
+Zweck, Art und Zeit der Zusammenstellung unseres Buches zu geben sein.
+
+Es wird sich zeigen, dass wir auf diesem Wege zu einem annähernd
+sicheren Resultate über die Entstehungsgeschichte unseres Buches werden
+gelangen können.
+
+Das erste Stück, mit welchem wir es zu thun haben, ist c. 28,5 f.
+Dieses ist ganz deutlich zum Zwecke der Fortsetzung von v. 1-4
+komponiert. Das zeigt erstens die Anknüpfung an das Vorhergehende durch
+die Worte: ביום ההוא und zweitens die Wahl der Bilder und Ausdrücke,
+die aus dem Vorhergehenden genommen sind. Die Bilder, die Jesaia vorher
+von Samaria und dessen trunkenen Grossen gebraucht hat, werden hier in
+geschmackloser Nachahmung auf Jahwe angewendet vgl. v. 5 mit v. 1 und 3.
+
+Ob wir in c. 29,5 ff. eine einfache Fortsetzung des jesajanischen
+Stückes v. 1-4 oder eine Umarbeitung einer ursprünglich jesajanischen
+Fortsetzung haben, ist nicht mehr sicher zu entscheiden. v. 4b ist
+spätere Parallele zu 4a, v. 8 zu v. 7, und zu dem Stücke v. 1-4 fehlt
+der Schluss. Jedenfalls ist klar, dass v. 5-8 kein selbstständiges
+Stück für sich bildet, sondern entweder als Fortsetzung oder als
+Umarbeitung von einem späteren an v. 1-4a angeschlossen ist.
+
+Aehnlich ist es mit c. 31,5 ff. Der Anschluss an v. 1-4 ist dadurch
+hergestellt, dass der Verfasser neben das Bild vom knurrenden Löwen das
+andere von den flatternden Vögeln gestellt hat, das ihm als Bild des
+Schutzes jedenfalls geeigneter erscheinen musste.
+
+Ob er im Folgenden jesajanische Ueberreste mit benutzt hat, lässt sich
+hier noch weniger feststellen, da sich kein Vers mehr als ursprünglich
+jesajanisches Gut zu erkennen giebt; nur ist wahrscheinlich, dass v. 4
+einst eine erläuternde Fortsetzung gehabt hat, und möglich, dass die
+Hand des Späteren schon in v. 4b verbessernd eingegriffen hat, da das
+ירד nicht ganz der ersten Hälfte der Vergleichung entspricht. Aber dass
+v. 5-8 jetzt wirklich die Fortsetzung Von v. 1-4 bilden sollen und dazu
+hergestellt sind, geht auch sonst aus seinem Inhalt und den gebrauchten
+Ausdrücken deutlich hervor. v. 6 weist mit seinem Inhalte auf v. 1b,
+in seiner Form העמיקי auf c. 29,15. Besonders deutlich ist v. 8 eine
+Nachbildung von v. 3. Dem אדם ולא אל in v. 3 steht gegenüber das לא
+איש בחרב in v. 8; dem בשר ולא רוח in v. 3 das חרב לא אדם in v. 8. Dass
+diese Nachbildung des Ausdruckes mit ihrem doppelten חרב und ihrer
+wunderbaren Vorstellung sehr glücklich wäre, kann man nicht behaupten.
+Um so deutlicher zeigt sich aber gerade darin die Nachbildung.
+Hinzuweisen ist auch noch auf das אור v. 9, bei dem man mit Recht an
+das אריאל c. 29 denkt.
+
+Auch c. 32,15-20 giebt sich als direkte Fortsetzung von v. 9-14. Die
+Worte עד יערה עלינו רוח ממרום knüpfen mit ihrem עד unmittelbar an
+das עד עולם in v. 14 an. Dass diese inhaltlich scheinbar unmögliche
+Verbindung nur von einem Solchen vollzogen werden konnte, dem die
+eschatologischen Ideen der späteren Zeit dogmatisch feststanden, ist
+schon im ersten Teile gezeigt worden. Aber Inhalt und Form zeigen auch
+deutlich, dass auch diese Verse überhaupt erst als Fortsetzung von
+v. 9-14 entstanden sind. In v. 9-14 wird zuerst die Verwüstung der
+Gärten und Fruchtgefilde, und dann die Zertrümmerung der menschlichen
+Wohnungen gedroht; in v. 15-20 wird zuerst verheissen, dass die Wüste
+zum Fruchtgefild werden soll und dann werden den Menschen sichere
+Wohnungen in Aussicht gestellt. Zur Entlehnung der Ausdrücke ist vor
+allem v. 9 f. mit v. 18b zu vergleichen. Die Prädikate der Frauen
+Jerusalems שאננות und בטחות werden hier auf die Wohnungen übertragen.
+Vgl. auch v. 17 am Schluss.
+
+In c. 29,9 f. musste es für die Späteren unverständlich sein, was unter
+dem dort verkündeten Verstockungsgerichte gemeint sei. Der Verfasser
+von v. 11 f. hat eine Erklärung von v. 9 f. im Sinne der späteren Zeit
+gegeben. Er sieht darin, dass seinen Zeitgenossen „das Gesicht von dem
+allen“, d. h. die dem Jesaia gewordenen Offenbarungen wie ein Buch mit
+sieben Siegeln erscheint, eine Erfüllung der Weissagung v. 10, und
+es ist offenbar seine Absicht, durch seine Zusätze den Schleier des
+Verständnisses zu lüften. Der Anschluss der Verse an die vorhergehenden
+durch ותהי und die Beziehung von חזות כל auf das Vorangegangene zeigen,
+dass die Verse keine selbstständige Bedeutung haben können und wollen.
+
+An das kurze Stück c. 29,15 schliesst sich eine längere
+Auseinandersetzung über eschatologische Dinge an. Der Ausruf: הפככם
+geht unmittelbar auf die in v. 15 getadelte Frage zurück und steht
+inhaltlich schon mit v. 14 in Zusammenhang. Der Verfasser fasst die
+Frage in v. 15 als Verzweiflungsfrage der Elenden seines Volkes auf,
+und giebt deshalb trostreichen Aufschluss. v. 18, ähnlich wie v. 11 f.,
+geht auf die Worte: והיה במחשך מעשיהם in v. 15 zurück. Zu v. 24 vgl.
+c. 28,9 f., zu v. 17 c. 32,15. Diese beständige Bezugnahme auf seine
+Umgebung beweist, dass auch dieses Stück kein selbstständiges Produkt
+eines andern Autors, sondern erst zum Zwecke der Erläuterung und
+Fortsetzung von v. 15 und den vorangegangenen Versen geschrieben ist.
+
+Dasselbe gilt auch von dem Stücke c. 30,18-26. Durch ein ולכן ist
+es eng an das Vorhergehende angeschlossen. Und der, welcher es
+angeschlossen hat, hat es auch geschrieben. ~Duhm~ meint zwar, dass
+das „darum“ v. 18 so gänzlich unmöglich als Fortsetzung von v. 17
+sei, dass man nur annehmen kann, der Ergänzer habe das Auge mehr auf
+seinen eigenen früheren Einsatz, als auf den Text des alten Propheten
+gerichtet gehabt. Man muss aber eben bedenken, dass derselbe auch v.
+8-17 unter eschatologischem Gesichtspunkt angesehen hat. Für ihn ist
+das Volk, zu dem er redet, der in v. 17 genannte Rest. Die Drohung
+sieht er bereits erfüllt; und grade die Erfüllung derselben ist ihm ein
+Beweis, dass auch die Erfüllung der Verheissung nahe bevorsteht, dass
+Jahwe voll Ungeduld ist, seinem Volke Huld zu schenken v. 18.
+
+Und nicht nur v. 18 schliesst sich an das Vorhergehende eng an, auch
+die übrigen Verse stehen damit in Verbindung. v. 20 stellt Jahwe als
+Lehrer seines Volkes hin, weil in v. 9 von der תורת יהוה die Rede
+gewesen ist. v. 21 weist auf den rechten Weg, von dem sie nach v. 11
+abgewichen sind; v. 26b nimmt ganz das Bild von v. 13 f. wieder auf.
+Berg und Hügel in v. 25 sind aus v. 17b; der Tag des grossen Würgens,
+„wenn Türme fallen“ spielt auf v. 13 f. an.
+
+Es bleiben nun noch vier Stücke übrig, die inhaltlich nicht in so reger
+Beziehung mit ihrer Umgebung stehen und in sich selbst einen mehr
+geschlossenen Zusammenhang bilden: c. 28,24-29, c. 30,27-33, c. 32,1-8,
+c. 33. Diese bedürfen deshalb noch einer besonderen Besprechung.
+
+c. 28,23-29 enthält ein dem Landbau entnommenes Maschal mit einer
+besonderen, dem Volksliede nachgeahmten Einleitung. Schon um dieser
+Einleitung willen wird es von den Auslegern als besonderes Stück
+behandelt, das Jesaia erst bei der Zusammenstellung seines Buches an
+seine jetzige Stelle gesetzt habe. Dass es indessen nicht von Jesaia
+sein kann, ist oben bewiesen worden. Sein Inhalt ist rein tröstlicher
+Natur. Aber grade deswegen nimmt es zu seiner Umgebung bezw. zu den
+voraufgegangenen jesajanischen Stücken dieselbe Stellung ein, wie die
+besprochenen unjesajanischen Stücke zu den ihren. Es bringt gegenüber
+den vorangegangenen Drohungen die Verheissung, indem es zugleich durch
+seinen Inhalt die Drohung und Strafe erklärt. Dass das Maschal zu den
+voraufgegangenen Stücken wirklich auch in diese Beziehung gebracht sein
+will, geht deutlich aus v. 29 hervor. Dieser Vers ist das Gegenstück zu
+v. 22. In v. 22 heisst es:
+
+    כי כלה ונחרצה שמעתי מאת יהוה צבאות
+
+In Vers 29 wird gesagt:
+
+    גם זאת מעם יהוה צבאות יצאה
+
+Es ist klar, dass dieser Vers mit seinem גם זאת auf v. 22 zurückweist,
+dass er also auch erst um dieser Rückbeziehung willen geschrieben
+ist. Aber damit ist nicht gesagt, dass auch das Maschal erst um der
+vorangehenden Stücke willen gedichtet worden ist. Bestimmte Bezugnahmen
+auf das Vorhergehende in Inhalt und Form finden sich in demselben
+nicht. Wir werden es daher vorläufig als ein besonderes Stück zu
+betrachten haben. Die Frage, ob es nicht mit den anderen Stücken
+trotzdem denselben Verfasser haben könne, wird nachher erörtert werden.
+
+Wir kommen zu c. 30,27-33. Auch dieses Stück ist eine besondere
+Weissagung, welche von dem Erscheinen Jahwes zum Entscheidungskampfe
+mit „Assur“ handelt. Sie beginnt ohne irgendwelche Anknüpfung an das
+auch selbst schon unjesajanische Stück v. 18-26 mit dem volltönenden
+Eingänge:
+
+    הנה שם יהוה בא
+
+Das Stück ist aber auch in sofern selbstständig, als es keinerlei
+Anspielungen und Rückbeziehungen auf die jesajanischen Stücke unseres
+Buches enthält. Assur wird in denselben nicht einmal erwähnt.
+
+Ohne Anschluss an ihre Umgebung nach vorwärts und rückwärts ist auch
+die messianische Weissagung c. 32,1-8; auch sie setzt völlig neu ein
+mit ihrem הן v. 1. Andrerseits ist aber doch hervorzuheben, dass sich
+in diesem Abschnitte manche Anklänge an jesajanische Stellen unseres
+Buches finden, die wie Rückbeziehungen und Nachahmungen aussehen, v. 2b
+erinnert an c. 28,12, v. 3a an c. 29,9 f. 30,10; die Stammler in v. 4
+an c. 28,7 ff., 30,10. 2.
+
+Diese Beziehungen sind ja freilich für sich genommen keine zwingenden
+Beweise dafür, dass das Stück c. 32,1-8 der Herstellung unserer
+Sammlung seine Entstehung zu verdanken hat; wir werden aber nachher
+sehen, dass noch andere Gründe stark für diese Annahme sprechen.
+
+c. 33 ist wieder ein für sich selbstständiges Stück. Es ahmt zwar mit
+seinem הוי in v. 1 den jesajanischen Stücken nach; es schliesst sich
+aber weder unmittelbar an jesajanische Partieen an, noch ist in seinem
+Inhalt und seiner Form etwas zu entdecken, was sonst auf dieselben
+hinwiese und als Erklärung oder Berichtigung derselben aufgefasst
+werden könnte.
+
+Wir kommen jetzt zur Besprechung des Verhältnisses der unjesajanischen
+Stücke zu einander. Hierbei ist eigentlich schon im Voraus anzunehmen,
+dass die Fortsetzungen und Ergänzungen der zusammmengehörigen
+jesajanischen Partieen von demselben Verfasser herrühren. Denn die
+Herstellung unseres Buches durch Entnahme jesajanischer Stücke aus
+einem grösseren Zusammenhange kann nur das Werk eines Mannes sein.
+Höchstens können spätere Leser hier und da Worte oder Sätze in den
+Zusammenhang eingeschoben, oder sich schon in dem dem Verfasser
+vorgelegenen jesajanischen Buche fremde Bestandteile befunden haben.
+Auf diese letztere Möglichkeit werden wir später noch zurückkommen. Für
+die meisten dieser Fortsetzungen und Ergänzungen lassen sich aber auch
+litterar-kritische Gründe aufweisen, die die Herleitung von ein und
+demselben Verfasser empfehlen.
+
+Hierfür kommt vor allem in Betracht die Gleichartigkeit der
+schriftstellerischen Form, in der die Stücke hergestellt sind. Alle
+sind gleichmässig eng und doch sehr äusserlich mit den jesajanischen
+Stücken verbunden, vgl. das ויהי c. 29,4 und 11; das ולכן c. 30,18;
+das הפככם c. 29,16; die Gegenüberstellung der verschiedenen Bilder c.
+31. Alle Stücke entlehnen bei ihrer Bezugnahme auf die jesajanischen
+Partieen gleichmässig in ziemlich äusserlicher und wenig geschickter
+Weise Bilder und Ausdrücke aus denselben, wie oben gezeigt worden
+ist. Aber auch sonst zeigen diese Stücke unter einander manche
+Aehnlichkeiten. Das tritt namentlich in den beiden längsten von ihnen,
+c. 29,16-24 und c. 30,18-26, hervor. Die Anlage von c. 30,18 ff. ist
+der von c. 29,16 ff. ziemlich ähnlich. Zuerst heisst es c. 30,18, dass
+Jahwe voll Ungeduld wartet, seine Huld zu offenbaren. Das entspricht
+dem הלא עוד מעט מזער in c. 29,17. Die Not, von der c. 30,18 redet, ist
+in c. 29,22 ff. geschildert. c. 30,20 entspricht inhaltlich c. 29,24.
+Dort ist gesagt, dass die Juden ihren „Lehrer“ Jahwe sehen sollen
+(es heisst nicht: auf ihn sehen sollen); hier werden sie „die Lehre
+lernen“; aus Finsternis heraus werden die Augen der Blinden sehen v. 18.
+
+Auch die in beiden Stücken vorausgesetzte Situation scheint dieselbe
+zu sein. c. 30,20 ist von Brot der Not und Wasser der Drangsal die
+Rede; das scheint auf erlittene Drangsalierungen und vielleicht sogar
+Belagerung zu deuten vgl. auch v. 26. Aehnlich ist 29,16 ff. 22 b wohl
+von äusseren Feinden die Rede, vor denen „Jakob erbleicht“, besonders
+aber c. 28,6 f., wo gesagt ist, dass Jahwe denen zur Heldenkraft werden
+soll, „die den Kampf zum Thor zurücktreiben“, vgl. auch 29,8. Endlich
+ist auch allen diesen Stücken die Stimmung gemeinsam, dass das Volk, zu
+dem sie reden, die Offenbarungen seiner Apokalyptiker nicht mehr recht
+glauben will, dass es blind und taub ist (c. 29,81 f., 18, 24. c. 30,20
+f.), murrt c. 29,24 und sich unverständig zeigt c. 29,16. Deshalb geben
+sich auch alle diese Stücke die möglichste Mühe, die Notwendigkeit und
+Möglichkeit eines baldigen Umschwunges der Dinge zu beweisen c. 29,8.
+11 f. 16 f. c. 30,18 f. vgl. auch c. 28,23-29. c. 32,6 f.
+
+Aus allen diesen Gründen zusammen mit der oben hervorgehobenen inneren
+Wahrscheinlichkeit wird man das Recht haben, alle Fortsetzungen und
+Ergänzungen der zusammengehörigen jesajanischen Stücke von demselben
+Verfasser herzuleiten.
+
+Von demselben Verfasser scheint mir auch der Zusatz von c. 28,1-4
+herzurühren. Wir haben schon gesehen, dass c. 28,1-4 mit v. 7 ff.
+schriftstellerisch verbunden ist. Es gehört also jetzt eng zu den
+zusammengehörigen jesajanischen Stücken unseres Buches. Die Art seines
+Anschlusses an das jesajanische Stück sowie der Benutzung des darin
+gebrauchten Bildes und die in v. 7 vorausgesetzte Situation einer
+Bedrängung resp. Belagerung Jerusalems sind der Art und Stimmung der
+anderen Stücke ziemlich ähnlich.
+
+Anders ist es mit dem Zusatz zu c. 32,9-14. Zwar ist auch hier die
+Form des Anschlusses an das jesajanische Stück (durch עד יערה) der der
+übrigen Stücke völlig analog, und auch die oben besprochene Art der
+Benutzung von Ausdruck und Inhalt desselben entsprechend. Aber doch hat
+man den Eindruck, dass c. 32,15-20 nach Form und Inhalt andersartig ist
+als die übrigen Zusätze. Das Stück ist in seiner ganzen Stimmung nicht
+so darauf angelegt, den Lesern in tröstlicher und lehrhafter Weise die
+Gewissheit und den baldigen Eintritt des grossen Umschwunges der Dinge
+ans Herz zu legen, als dass es vielmehr kompilatorisch und apodiktisch
+eine Aussage des eschatologischen Dogmas an die andere reiht. Von
+der Ausgiessung des Geistes, die der Verfasser als bekanntes Dogma
+einführt, ist nur hier die Rede, obwohl z. B. c. 30,18 ff. und c. 29,18
+Gelegenheit geboten hätten, davon zu reden. Sämmtliche Aussagen in v.
+15-20 klingen wie Anspielungen und Nachahmungen aus den vorhergehenden
+Zusätzen. v. 17 setzt deutlich c. 32,1 voraus; v. 18 lehnt sich im
+Ausdrucke an 32,9 und 30,15 an; v. 20 ist zusammenfassende Nachahmung
+von c. 30,23-25; v. 15b ist etwas veränderte Wiederholung von c. 29,17.
+Nun könnte man ja grade aus diesen Anklängen auf denselben Verfasser
+schliessen; aber die Art und Weise, wie z. B. c. 29,17 in v. 15b
+wiederholt wird, macht doch wahrscheinlich, dass ein anderer diese
+Wiederholung vollzogen hat, denn der Sinn in c. 29,17 ist ein völlig
+anderer als in c. 32,15. Dort ist die völlige Umwandlung der Natur
+gemeint: der Libanon soll zum Fruchtgefilde, und dieses zum Waldgebirge
+werden. Hier dagegen soll die einstige Fruchtbarkeit des ganzen Landes
+in Aussicht gestellt werden: die Wüste soll Fruchtgarten, und dieser
+Wald werden. Es kommt dadurch natürlich eine etwas verunglückte Klimax
+heraus, aber das macht gerade um so wahrscheinlicher, dass v. 15b
+Nachahmung von c. 29,17 ist (~Stade~), als umgekehrt (~Duhm~).
+
+Mit c. 32,15-20 steht nun c. 33 im engen Zusammenhange. Das hebt auch
+~Dillmann~ hervor, der wegen der Anklänge von c. 33,5 f. 16 an c. 32,15
+f. 18 annimmt, dass derselbe Schriftsteller, der c. 33 überarbeitet
+hat, auch c. 32,9-20 einer Schlussredaktion unterzogen habe. Für uns
+geht aus diesen Anklängen nicht die Annahme einer Schlussredaktion,
+sondern die der Zusammengehörigkeit beider Stücke hervor. Denn mit
+Jesaia haben c. 32,15 ff. und c. 33 nichts zu thun. c. 33,16 f.
+erinnert zwar auch stark an 30,20 und ~Duhm~ glaubt deshalb, in beiden
+Stücken dieselbe Hand sehen zu müssen, „v. 17 ff. haben wie c. 29,16
+ff. die Tendenz, die Gesetzestreuen zu trösten und zum Ausharren
+anzufeuern, man erkennt, warum das Büchlein c. 28-33 zusammengestellt
+ist, nicht aus blossem Sammeleifer, um den prophetischen Kanon zu
+kompletieren, sondern aus demselben Grunde, aus dem das Buch Daniel
+geschrieben wurde.“[23] Aber eben diese Tendenz war damals für jeden
+Apokalyptiker die gleiche und lässt deshalb keinen Schluss auf
+Identität der Verfasser zu; die Art aber, in der hier diese Tendenz
+vorgetragen wird, ist nicht ganz so lehrhaft wie in c. 29 und 30; und
+wenn wir in c. 32,15 ff. einen anderen Verfasser erkannt zu haben
+glauben wie in c. 29 f., so wird dies auch von c. 33 zu gelten haben,
+das sich mit c. 32,15 ff. berührt.
+
+Ist unsere Annahme richtig, so kämen wir auch von der Betrachtung der
+nichtjesajanischen Stücke aus zu dem Schlusse, dass c. 32,9 bis c.
+33,24 ursprünglich nicht zu dem Buche c. 28 ff. gehört haben, sondern
+erst später als Nachträge an dasselbe angeschlossen worden sind. Und
+zwar werden wir zwei solcher Nachträge anzunehmen haben: c. 32,9-20 und
+c. 33. Denn einmal setzt c. 33 neu ein und ist in seinem Anfange eine
+äusserliche Nachbildung des „Wehe“-Buches c. 28 ff., und dann erklären
+sich so auch die angeführten Beziehungen zwischen ihm und c. 32,15 ff.
+am besten.
+
+Betrachten wir nun noch die drei noch übrigen nichtjesajanischen
+Stücke unseres Buches. Den Abschluss desselben bildet die messianische
+Weissagung in c. 32,1-8. ~Duhm~ will dieses Stück mit c. 2,2-4 und c.
+11,1-8 in ursprünglichen Zusammenhang bringen. Da auch diese Stücke uns
+nicht als jesajanisch gelten[24], so wäre das auch für uns möglich.
+Aber gerade der Umstand, den ~Duhm~ als ein starkes Hindernis für
+nachexilische Ansetzung geltend macht, dass nämlich ein nachexilischer
+Dichter nicht so trocken von dem Messias hätte sprechen können, wie
+c. 32,1 ff. thut, macht es doch unmöglich, das Stück mit c. 11,1 ff.
+von demselben Verfasser abzuleiten, der in c. 11,1 ff. so begeistert
+und poetisch redet. Vielmehr passt gerade die trockene und lehrhafte
+Art unseres Stückes ausgezeichnet zu den übrigen nichtjesajanischen
+Partieen unseres Buches, und da, wie wir gesehen haben, unser Stück
+namentlich in v. 3-5 beständig auf die vorhergehenden Partieen Bezug
+nimmt, so ist es höchst wahrscheinlich, dass der Zusammensteller
+unseres Buches das Stück selbst als Abschluss desselben gedichtet hat.
+Der messianische Anfang und die Aehnlichkeit im Versbau mit c. 11,1
+ff. erklärt sich vielleicht daraus, dass der Verfasser das mit c. 11,1
+ff. schliessende Buch gekannt hat und seinem Buche einen ähnlichen
+Abschluss geben wollte.
+
+Wegen seines lehrhaften Charakters ist man nun auch berechtigt, das
+Maschal in c. 28,23-29 dem Hersteller unseres Buches zuzuschreiben.
+Wir haben gesehen, dass es durch v. 29 eng als Erklärung und Ergänzung
+der jesajanischen Partieen in c. 28,7-22 vom Verfasser des Buches
+an das Vorhergehende angeschlossen ist, dass sich aber aus dem Text
+keine Anknüpfungspunkte dafür ergeben, dass es erst zu diesem Zwecke
+gedichtet sei. Aber sein lehrhafter Inhalt und die trockene, lehrhafte
+Form, in welcher derselbe vorgetragen wird (namentlich v. 23. 25. 28)
+passt vorzüglich zu der sonstigen Art unseres Verfassers, namentlich
+auch zu c. 32,7 f. Sodann spricht ein Umstand dafür, dass das Maschal
+in unserm Zusammenhange seine ursprüngliche Stelle hat, nämlich der,
+dass es keine selbstständige Nutzanwendung hat und wahrscheinlich nach
+seinem ganzen Bau niemals gehabt hat, dass es also auf einen derartigen
+Zusammenhang, wie den unsern, angewiesen ist. Endlich könnte man auf
+den Vergleich von v. 25 mit 29,17 hinweisen. In beiden Fällen wird in
+schulmässig lehrhafter Weise mit dem Fragewort הלא eine argumentatio
+e concessis eingeführt. Auch erinnert das לא לנעה in v. 28 dem Sinne
+nach an das עוד מעט מזער c. 29,17 und an das בכו לא תבכה] c. 30,19: du
+sollst nicht immerfort weinen.
+
+Es bleibt nun nur noch c. 30,27-33 übrig. Dieses Stück ist in sich
+vollkommen selbstständig und hat zu den jesajanischen Partieen unseres
+Buches gar keine innere und äussere Beziehungen. Es unterscheidet sich
+aber auch in Form und Inhalt vollständig von den nichtjesajanischen
+Stücken desselben. Statt der lehrhaften Auseinandersetzungen haben
+wir hier schwülstige Schilderungen und groteske Bilder. Es ist schon
+deshalb kaum anzunehmen, dass es von demselben Verfasser herrührt
+wie die anderen Stücke. Zudem folgt es auf ein nichtjesajanisches
+Stück, und man dürfte wohl annehmen, dass der Verfasser seine eigene
+Fortsetzung mit dem Vorhergehenden in etwas engere Beziehung gesetzt
+haben würde. Auch inhaltlich unterscheidet sich das Stück von den
+anderen nichtjesajanischen Stücken. Während es in den vorhergehenden
+Stücken darauf ankam, das Volk über sein Unglück zu belehren und
+auf das baldige Eintreten der goldenen Zukunft zu vertrösten, wird
+hier ein Schlachtlied wider „Assur“ angestimmt. Nur c. 31,8 f. hat
+ähnlichen Inhalt. Es ist aber auch ganz deutlich, dass diese beiden
+Verse von unserm Stücke abhängen und auf dasselbe Bezug nehmen. Denn
+Assur wird in c. 31,8 als bekannt eingeführt, der Fels erinnert an
+c. 30,29b; endlich das Feuer und der Backofen in Jerusalem v. 9b
+ist eine Anspielung auf c. 30,33, wonach das feindliche Heer auf
+dem Scheiterhaufen verbrannt werden soll. c. 31,8 f. ist nun ohne
+Zweifel vom Hersteller des Buches als Fortsetzung und Ergänzung von
+v. 1-4 verfasst (v. 8 ist Nachbildung von v. 3). Das beweist nun
+aber eher gegen als für die Identität des Verfassers von c. 30,27
+ff. und c. 31,8 f. Denn es ist nicht anzunehmen, dass der Verfasser
+sich selbst so ausgeschrieben und auf seine eigene Dichtung als auf
+den „Spruch Jahwes“ hingewiesen haben sollte, wie v. 8 f. thun.
+Viel wahrscheinlicher ist, dass der Hersteller des Buches das Stück
+c. 30,27-33 für jesajanisch gehalten und darum in seine Sammlung
+aufgenommen hat.
+
+Der Sammler hat nun das Stück entweder schon in dem grösseren
+Zusammenhange, aus dem er seine jesajanischen Stücke entnommen
+hat, vorgefunden, oder er hat es, wie c. 28,1-4 als ein besonderes
+Orakel besessen. Bei der letzteren Annahme lässt sich allerdings
+kein genügender Grund entdecken, warum er das Stück dann in den
+jesajanischen Zusammenhang vor c. 31,1-4 eingeschoben hätte; es
+hätte auch nach c. 31 seinen guten Platz gehabt, während es an
+seiner jetzigen Stelle mit seiner Umgebung nach vorn und hinten
+ohne Zusammenhang steht. Daher werden wir wohl anzunehmen haben,
+dass der Sammler das Stück in dem von ihm benutzten geschichtlichen
+Zusammenhange schon vorgefunden hat. Diese Annahme bereitet auch
+gar keine Schwierigkeiten, wenn man bedenkt, wie z. B. in den
+geschichtlichen Anhängen des Jesaia-Buches, c. 36-39, auch nachträglich
+noch grössere Stücke, wie c. 38,10-20 eingeschoben werden konnten. Ja,
+wir werden a priori anzunehmen haben, dass es sehr unwahrscheinlich
+ist, dass sich die von Jesaia verfasste geschichtliche Darstellung bis
+zu der Zeit, in welcher der Verfasser unseres Buches schrieb, völlig
+rein von fremdem Gute gehalten haben sollte.
+
+Ueberblicken wir jetzt noch einmal den Gang unserer Untersuchung
+über die nichtjesajanischen Stücke des Buches c. 28-33, so haben wir
+folgende Resultate gewonnen:
+
+1) Diejenigen Stücke, welche sich als Fortsetzungen oder Ergänzungen
+der jesajanischen Partieen unseres Buches geben, rühren alle von
+demselben Verfasser her. Es sind dies folgende Abschnitte: c. 28,5 f.
+c. 29,4-8. c. 29,11 f. c. 29,16-24. c. 30,18-26. c. 31,4-8. Ausserdem
+gehören dem Hersteller unseres Buches wahrscheinlich noch an: das
+Maschal c. 28,23-29 und die messianische Weissagung c. 32,1-8.
+
+2) c. 30,27-33 ist eine Weissagung über die Vernichtung Assurs
+von unbekannter Hand, die aber der Hersteller unseres Buches für
+jesajanisch gehalten und jedenfalls auch schon im Zusammenhange der
+jesajanischen Stücke vorgefunden hat.
+
+3) c. 32,15-20 und c. 33 sind sammt dem dazu gehörigen jesajanischen
+Stücke spätere Nachtragungen und Ergänzungen, wahrscheinlich auch von
+anderer Hand.
+
+Es käme nun noch darauf an, für die Abfassung der einzelnen Stücke
+eine genaue Zeitangabe zu ermitteln. Das ist nun aber bei ihrer
+Beschaffenheit ganz unmöglich. Denn die eschatologischen Weissagungen
+der nachexilischen Zeit schweben in der Luft, handeln von der
+Zukunft, ohne die Gegenwart zu berücksichtigen. Vollkommen ist dies
+freilich nicht möglich; aber der geschichtliche Hintergrund, den sie
+widerspiegeln, ist so allgemein, dass er auf Jahrhunderte, ja auf
+das ganze nachexilische Judentum passt. „Die jüdische Hoffnung hatte
+nicht den realistischen Charakter der alten Weissagung. Keine Brücke
+leitete von der Gegenwart hinüber in die Zukunft, das Reich Davids
+sollte plötzlich durch das Eingreifen eines deus ex machina in die Welt
+gesetzt werden. Die Ereignisse der Zeit führten den Tag Jahwes nicht
+herbei, sondern waren nur Symptome, dass er nahe.“[25]
+
+Der Charakter der Zeit, aus der diese Weissagungen stammen, spiegelt
+sich fast nur in der Stimmung wieder, die sie beseelt. Aber auch diese
+Stimmung war für das nachexilische Judentum nahezu immer dieselbe.
+Es klingt fast wie eine Charakterisierung unserer Stücke, wenn
+~Wellhausen~[26] darüber schreibt: „Die Stimmung, die wir bei den
+heimgekehrten Verbannten fanden, blieb permanent, weil der Widerspruch
+nicht aufhörte, dass das messianische Heil längst fällig war und doch
+nicht eintrat. Die Befreiung aus dem Exil hatte die bitter empfundene
+Fremdherrschaft doch nicht beseitigt. Nachdem das Gefängnis längst
+gewendet war, musste die Bitte: „Wende das Gefängnis!“ noch immer
+wiederholt werden. Sion war zwar wieder gebaut, doch im Drucke der
+Zeiten. Die Frömmigkeit war Traurigkeit; erst von der Zukunft wagte man
+zu hoffen, dass dann die Opfer dem Herrn gefallen würden.“
+
+Wollen wir eine einigermassen sichere Zeitbestimmung für unsere
+Weissagungen finden, so müssen wir mehr die Theologie und die Form
+derselben zu Rate ziehen; der allenfalls erkennbare zeitgeschichtliche
+Hintergrund kommt erst bestätigend in zweiter Linie in Betracht.
+
+Wir haben daher vor allem das Verhältnis unserer Stücke mit anderen
+Erzeugnissen des alttestamentlichen Schrifttums ins Auge zu
+fassen. Da ist es nun von vornherein als bemerkenswerte Thatsache
+hinzustellen, dass unsere Stücke mit den Schriften der vorexilischen
+Periode weder in Form noch Inhalt in irgend einer Beziehung stehen,
+dass sie dagegen nach beiden Seiten das engste Verwandtschafts-
+und Abhängigkeitsverhältnis mit anerkannt nachexilischen Schriften
+aufweisen.
+
+Im einzelnen ist ja darauf schon bei der Besprechung dieser Stücke
+im ersten Teile dieser Abhandlung eingegangen worden. Hier seien
+nur noch einmal die Berührungspunkte mit Deutero- und Trito-Jesaja
+zusammengestellt, die in unseren Stücken besonders stark hervortreten:
+
+Vergleiche dazu: c. 29,16 mit 45,9. c. 29,18 mit 42,18. c. 29,29 mit
+41,16. c. 30,26 mit 65,17. c. 32,6-8 mit 58,7-10. c. 32,20 mit 58,11.
+c. 33,3 mit 66,6. c. 33,5 mit 40,22. 66,1. c. 33,14 mit 66,24. c. 33,24
+mit 60,21.
+
+Bedeutsam tritt vor allem die Abhängigkeit des grösseren Stückes c.
+29,16 ff. von Deuterojesaja hervor. Man wird ~Duhm~[27] beistimmen
+können, dass man sich des Eindrucks nicht erwehren kann, dass
+die Nachahmung des Deuterojesaja nach c. 29,16 ff. nicht ganz
+unbewusst geschehen sei, so dass die Möglichkeit vorliegt, dass
+der Verfasser den Deuterojesaja für jesajanisch gehalten habe. Mit
+Bestimmtheit lässt sich das freilich nicht sagen. Jedenfalls steht
+aber die Abhängigkeit fest. Ebenso lässt sich ein Abhängigkeits- und
+Verwandtschaftsverhältnis unserer Stücke mit den spätesten Psalmen
+und Propheten, wie Deutero-Sacharja und Joel, nachweisen, wie im
+ersten Teile gezeigt worden ist. Daraus geht hervor, dass wir mit der
+Zeitansetzung unserer Stücke bis ins zweite Jahrhundert hinabzugehen
+haben.
+
+Auf diese Zeit passen nun auch die Anspielungen auf die Gegenwart,
+die sich in ihnen, namentlich in c. 33 finden. Aus ihnen hat ~Duhm~
+wahrscheinlich gemacht, dass dieses Kapitel ungefähr aus dem Jahre 162
+stammt[28]. Diese Zeitansetzung unserer Stücke in die erste Hälfte des
+zweiten Jahrhunderts findet nun auch aus c. 30,27 ff. und c. 31,7 f.
+eine weitere Bestätigung.
+
+Diese beiden Stücke wenden sich gegen „Assur“. Was konnte aber ein
+nachexilischer Schriftsteller für ein Interesse daran haben, gegen das
+Assur Jesaias eine Drohweissagung zu schreiben, das es doch gar nicht
+mehr gab? Unter „Assur“ kann hier nur Syrien, das „Assur“ des zweiten
+Jahrhunderts, verstanden werden.
+
+In diese vielbewegte Zeit der Seleuzidenherrschaft passen nun auch
+die in den anderen Stücken wahrgenommenen Andeutungen auf Kämpfe und
+Kriegsnöte. Dahin gehört „das Brot der Not und Wasser der Drangsal“
+in c. 30,20, das „Erbleichen“ Jakobs in c. 29,22 und endlich auch c.
+28,6b, wo gesagt wird, dass Jahwe denen zur Heldenkraft werden wird,
+„die den Kampf zum Thore zurücktreiben.“
+
+Es ist demnach aus inneren und äusseren Gründen wahrscheinlich, dass
+wir als ungefähre Abfassungszeit der nichtjesajanischen Stücke unseres
+Buches die erste Hälfte des zweiten Jahrhunderts v. Chr. anzunehmen
+haben. Sollte die Annahme ~Duhms~, dass c. 33 aus dem Jahre 162 stammt
+-- was freilich nur eine Vermutung bleiben kann -- richtig sein, so
+hätten wir damit den terminus ad quem der Fertigstellung des Buches
+c. 28-33 gewonnen. Denn c. 33 setzt, wie wir gesehen haben, das
+Vorhandensein des übrigen Buches bereits voraus und ist hinter c.
+32,9-14 als zweiter Nachtrag an dasselbe angeschlossen worden. Das
+älteste unjesajanische Stück unseres Buches ist c. 30,27-33. Da es
+gegen „Assur“ gerichtet ist, werden wir für seine Entstehung etwa das
+Jahr ±200 anzunehmen haben. Die Hauptmasse würde demnach etwa in die
+Mitte zwischen 200 und 162 fallen, also um das Jahr ±180. Bestimmtere
+Anhaltspunkte für die Zeitansetzung finden sich nicht.
+
+
+
+
+III.
+
+
+Wir haben nun im Vorstehenden auch für die nichtjesajanischen Partieen
+unseres Buches eine Scheidung und Zeitansetzung der untereinander
+zusammengehörigen Stücke zu geben versucht. Es erübrigt noch, dass wir
+aus den gewonnenen Resultaten einen Ueberblick über den Zweck und die
+Anlage unseres Buches gewinnen. Das wird am besten durch eine kurze,
+zusammenfassende Darstellung der Entstehungsgeschichte unseres Buches
+geschehen.[29]
+
+Als im Jahre 705 v. Chr. der gewaltige König Sargon von Assur ermordet
+worden war, und der Babylonier Merodachbaladan den Regierungswechsel
+zu einem Aufstande benutzt hatte, schien vielen Vasallenstaaten des
+grossen Assyrerreiches der Augenblick gekommen zu sein, das verhasste
+Joch abzuschütteln. Auch in Juda regten sich Abfallsgelüste. Allein
+freilich konnte mans nicht wagen; es galt, sich mit Ägypten zu
+verbinden. Die ägyptenfreundliche Partei gewann die Oberhand; ein
+Freiheitstaumel patriotischer Begeisterung erfasste alle. Nur ein Mann
+blieb ruhig, der Prophet Jesaia; im Namen seines Gottes forderte er das
+Aufgeben dieser Pläne. Nicht auf Menschen, auf Jahwe solle man sich
+verlassen. „Glaubet ihr nicht, so bleibet ihr nicht.“ Er schleuderte
+seine Drohungen hinein in das Volk; er trat in dem Tempelvorhofe
+den trunkenen Priestern entgegen; er verkündete den Leitern und
+Machthabern des Volkes den Untergang. Es half nichts. Der Aufstand
+im Bunde mit Ägypten wurde Thatsache. Heimlich vor dem gewaltigen
+Manne verwirklichte man seine Pläne. Als Jesaia davon erfuhr, hat
+er wohl noch einmal in gewaltiger Drohrede das Strafgericht Jahwes
+verkündet.[30] Aber dann zog er sich zurück: „Jetzt geh’ hinein und
+schreib es nieder, und auf ein Buch zeichne es, dass es sei für einen
+spätern Tag, zum Zeugen für immer!“ c. 30,8.
+
+Dieser Befehl Jahwes, den Jesaia erhielt, war der Antrieb zur
+Aufzeichnung des Buches, das unserm Buche Jesaia c. 28-33 zu Grunde
+liegt. Nicht aus eigenem Antriebe hat Jesaia geschrieben; er führt
+seine schriftstellerische Thätigkeit selbst auf einen besonderen Befehl
+Jahwes zurück. Auch nicht aus blossem schriftstellerischen oder rein
+historischem Interesse hat Jesaia sein Buch verfasst, sondern zum
+Zeugnis für einen folgenden Tag, um der Wahrheit willen, damit Jahwe
+in seinem Propheten Recht behalte.[31] Wir dürfen darum auch nicht
+annehmen, dass die unserm Buche zu Grunde liegende Schrift Jesaias, in
+welcher er sein Auftreten geschildert hat, einen allzugrossen Umfang
+gehabt habe; einige kurze Notizen[32] über die den Reden zu Grunde
+liegenden Ereignisse werden die uns jetzt erhaltenen Stücke verbunden
+haben, etwa in der Weise von c. 7.
+
+Welche Schicksale dieses Buch bis zum zweiten Jahrhundert gehabt hat,
+ist uns unbekannt. Aus c. 30,27 ff. geht indes hervor, dass auch dieses
+Buch von fremden Einflüssen nicht unberührt geblieben ist. Ebenso ist
+möglicherweise c. 28,16 spätere Zuthat. Ob unter den fortgelassenen
+geschichtlichen Bestandteilen fremde Stücke waren, lässt sich natürlich
+nicht sagen. Der Text der jesajanischen Stücke ist teilweise sehr
+verdorben, zum Teil auch verloren gegangen. Ganz verstümmelt ist c.
+29,1 ff., wahrscheinlich auch der Anfang des Buches; unvollständig
+erhalten ist wohl auch der Schluss c. 31,4. Dennoch geht aber aus der
+grossen chronologisch-sachlichen Ordnung unserer noch jetzt erhaltenen
+jesajanischen Stücke hervor, dass das ursprüngliche Buch sich ziemlich
+vollständig erhalten haben muss.[33]
+
+Endlich ist aber auch dieses Buch dem Schicksale so vieler anderen
+älteren Schriften verfallen. Ein Apokalyptiker des zweiten Jahrhunderts
+besorgte eine neue Ausgabe dieses alten Buches. Er fand, dass die darin
+aufgezeichneten Gesichte Jesaias in seiner bedrängten Zeit sich zu
+erfüllen begännen. Die Not der Fremdherrschaft, unter der seine Zeit
+seufzte, ist die Erfüllung der von dem uralten Propheten geweissagten
+Gerichte Jahwes über sein Volk wegen des Abfalls, den „sie“ (nämlich
+die frühere Generation) begingen.[34] Er deutete die darin geweissagte
+Bedrängung Jerusalems auf die syrische Tyrannei.[35] Bei dieser Deutung
+konnte ihm freilich die geschichtliche Umrahmung nichts helfen. Es kam
+ihm auch an sich nur auf die Offenbarungen, also auf die Sammlung des
+reinen Wortes an. So brach er denn alle wirklichen und vermeintlichen
+Reden aus ihrem geschichtlichen Zusammenhange heraus und verarbeitete
+sie zu einem neuen Buche.
+
+In den jesajanischen „Gesichten“ (c. 29,11) war aber nur eine Seite
+der Endzeit hervorgehoben, nämlich das Gericht. Die andere Seite, die
+Erlösung und das messianische Heil, fehlte. Sie hat der Herausgeber aus
+seinem eigenen Schatze hinzugefügt. Das sollte kein Betrug sein und war
+auch keiner.
+
+Der Verfasser schrieb seine Stücke als notwendige Erläuterungen und
+Ergänzungen, und zwar, wie er sicher annahm, ganz im Geiste Jesaias.
+Was er über das zu erwartende Heil geschrieben hat, war nicht seine
+Erfindung, sondern zu seiner Zeit allgemeingültiges Dogma. Ja, er hat
+seine Gedanken zum Teil aus einem anderen von ihm für jesajanisch
+gehaltenen Buche, dem Deuterojesaja, entlehnt. Wie harmlos er den
+jesajanischen Stücken gegenübergestanden hat, ergiebt sich z. B.
+daraus, dass er die Schilderung Jesaias von dem Zuge der jüdischen
+Gesandtschaft nach Aegypten c. 30,6 f. für ein geheimnisvolles Orakel
+über die Tiere des Südlandes gehalten hat.
+
+Seine Schrift sollte eine Trostschrift sein. In der Zeit des Verfassers
+fing man an, an der Sicherheit des messianischen Heils irre zu werden.
+Da galt es, die Zeichen der Zeit zu verstehen und sie zum Trost und
+zur Belehrung des Volkes nach den Weissagungen der alten Propheten
+zu deuten. Aus diesem Zwecke erklärt sich der teils lehrhafte, teils
+weinerliche Ton der Schrift. „Die Gerichte, die Jesaia verkündet
+hat, geschehen jetzt in eurer Mitte; nur noch ein kleines Weilchen,
+dann folgt die grosse Umwandlung der Dinge; du Volk in Sion sollst
+nicht immerfort weinen; gab auch der Herr Brot der Not und Wasser der
+Drangsal, so wird er sich jetzt bald eurer erbarmen; wie man nicht
+immerfort drischt, so wird euch der Herr auch nicht immerfort schlagen.
+Grade die Trübsal ist ein sicheres Zeichen des nahen Heils; dann wird
+„Assur“ vernichtet, ihr aber werdet gesegnet werden.“
+
+Eine derartige Trostschrift wollte der Verfasser geben. Er that dies,
+indem er aus dem jesajanischen Buche alle wirklichen und vermeintlichen
+Reden herausbrach und sie mit seinen Erklärungen und Ergänzungen zu
+einem neuen Buche verarbeitete. So ist es gekommen, dass in dem neuen
+Buche die beiden sich ergänzenden Gedankenreihen von Gericht und Segen
+immer abwechselnd zu Worte kamen. Für den Zweck der Schrift konnte
+das nur um so wirksamer und eindringlicher sein, jemehr dadurch der
+eigentliche Charakter der Drohreden verwischt wurde. Dem Verfasser aber
+war diese Methode durch die Art der Gewinnung der jesajanischen Stücke
+an die Hand gegeben.
+
+Als Einteilungsprinzip diente ihm das mehrfach in den jesajanischen
+Stücken vorkommende הוי. Das wird ihn wohl auch veranlasst haben,
+an Stelle des vielleicht verstümmelten Einganges des Buches das in
+formaler Beziehung ganz passende Stück c. 28,1-4 zu setzen. Denn mit
+einem jesajanischen Stücke wollte er doch sein Buch beginnen.[36]
+Als Abschluss seines ganzen Werkes dichtete er nach dem Muster von
+c. 9,1-6 oder c. 11,1-9 die etwas verunglückte Weissagung c. 32,1-8.
+Ein späterer hat dann in ähnlicher Weise c. 32,9-20 hinzugefügt. Als
+zweiter Nachtrag reihte sich dann noch c. 33 an. Der Verfasser hat es
+in seinem Anfange dem Buche c. 28 ff. nachgebildet. So erschien dann
+die Schrift in damaliger Weise als חסון ישעיהו, wurde als solche später
+in das Ganze unseres Jesajabuches aufgenommen und blieb in dieser
+Geltung seitdem unangefochten.
+
+Dadurch, dass es der Kritik gelungen ist, die widerspruchsvolle Einheit
+auch dieser Sammlung des Jesaia-Buches zu zerstören, hat sie der
+alttestamentlichen Wissenschaft einen grossen Dienst geleistet.
+
+Zunächst ist es dadurch erst möglich geworden, ein entsprechendes Bild
+von der schriftstellerischen Thätigkeit jenes grossen Propheten des 8.
+Jahrhunderts zu gewinnen. Man hat sich nie eine rechte Anschauung davon
+machen können. Weder die Annahme einer vorhergehenden predigtähnlichen
+Ausarbeitung noch die der eigenen nachträglichen Niederschrift und
+redaktionellen Sammlung seiner in glühender Begeisterung gehaltenen
+Reden konnte befriedigen. Die Aufgabe des „Schriftstellers“ Jesaia
+ist gewiss kein Schaden für seine Bedeutung als Prophet. Sehr wohl
+erklärlich aber ist, dass Jesaia, nachdem er vergeblich durch mündliche
+Predigt gewirkt hat, nun auf Befehl seines Gottes davon eine kurze
+Darstellung giebt zum Zeugnis für einen folgenden Tag. So wird seine
+schriftstellerische Thätigkeit in seine prophetische mit hineingezogen.
+
+Von weittragendster Bedeutung ist aber die richtige Erkenntnis von der
+Komposition von Jesaia c. 28-33 für die inhaltliche Beurteilung seiner
+Prophetie. Gehören ihm nämlich in jenen Kapiteln nur die Drohreden an,
+hat demnach Jesaia grade in den Jahren 705 ff. den Untergang Jerusalems
+verkündet, so darf wahrlich seine Bedeutung für die Folgezeit nicht
+mehr darin gesehen werden, dass er die Unverletzlichkeit Jerusalems
+als der Gottesstadt festgehalten habe. Ja, es wird dann überhaupt
+der Meinung, die in ihm noch gern den Propheten „einer beglückenden
+Fernsicht und milden Tröstung“ sieht, immer mehr der Boden entzogen.
+„Ihn darf man nicht den Propheten der Hoffnung, wohl aber mehr als alle
+andern den Propheten des ~Glaubens~ nennen“ (Hackmann).
+
+Endlich lässt uns auch die Erkenntnis der Komposition unseres Buches
+einen lehrreichen Einblick in die Arbeit und Anschauungen des späteren
+Judentums thun. Denn wir haben es bei diesem Buche nicht mit blosser
+Ueberarbeitung oder mit Einschaltungen zu thun, sondern mit völliger
+Umgestaltung einer altprophetischen Schrift; und es dürfte im ganzen
+Kanon kaum eine Schrift geben, bei der, wie an unserer, der Zweck und
+die Art der Umgestaltung deutlich zu erkennen wäre.
+
+~Duhm~ ist der erste gewesen, der dem Buche c. 28-33 den falschen
+Schein der Einheitlichkeit genommen hat; ~Hackmann~ hat die Scheidung
+von jesajanischem und nichtjesajanischem Materiale auf die richtigen
+Prinzipien zurückgeführt. Der Zweck dieser Abhandlung ist es gewesen,
+durch eingehende Darlegung der Komposition des Buches die Richtigkeit
+der von ~Hackmann~ aufgestellten Prinzipien zu begründen und dadurch
+der von ~Duhm~ eröffneten Anschauung von der Gestaltung dieses Buches
+weiter Bahn zu brechen. Sie will an ihrem Teile einen kleinen Beitrag
+liefern zur Lösung des grossen Problems, das die Erkenntnis von der
+Beschaffenheit des Jesaia-Buches der neueren alttestamentlichen
+Forschung gestellt hat.
+
+
+
+
+Anhang.
+
+
+1. c. 28,23-29.
+
+Diese Dichtung enthält ein dem Landbau entnommenes Gleichnis, welches
+das Verhalten Jahwes seinem Volke gegenüber abbilden soll.
+
+Sie hat eine besonders feierliche Einleitung, wie sie der Volkssänger
+gebraucht, um die Aufmerksamkeit auf sich zu ziehen, und wie sie auch
+Jesaia in dem Gleichnisse vom Weinberge c. 5,1 nachgeahmt hat. Schon
+dadurch wird es unwahrscheinlich, dass ihr eine längere oder kürzere
+Rede voraufgegangen sei. Selbst ~Dillmann~ findet es wahrscheinlich,
+dass v. 23-29 ursprünglich nicht in unmittelbarer Fortsetzung von v.
+7-22 gesprochen ist.[37]
+
+Aber auch inhaltlich steht dies Maschal mit v. 7-22 in keinem
+Zusammenhange, so dass man annehmen könnte, Jesaia habe es nachträglich
+selbst als Fortsetzung an seine jetzige Stelle gesetzt. Die Ausleger
+geben sich vergeblich Mühe, den Zweck und Inhalt der Parabel mit dem
+Vorangegangenen in Einklang zu bringen.[38]
+
+Betrachtet man die Parabel für sich, so kann ihr Inhalt nur tröstlicher
+Art sein. Wie der Landmann nicht immerfort pflügt und eggt, sondern
+auch säet, nachdem er den Boden geebnet hat, so wird -- das ist die
+einzig richtige Parallele, auch Jahwe nicht immerfort zerstören,
+sondern auch bauen. Wie Dill und Kümmel nicht mit der Schleife
+gedroschen, sondern mit dem Stecken geklopft wird -- nämlich, damit sie
+nicht beschädigt werden -- so wird auch Jahwe sein Volk nicht zu Grunde
+richten, sondern nur züchtigen. Ebenso: wie Brotkorn nicht vom Rade des
+Wagens zermalmt wird, sondern nur von der Spreu geschieden, so wird
+Jahwe auch sein Volk nicht zermalmen, sondern es nur so lange strafen,
+bis es gereinigt und geläutert ist. Denn wunderbar ist sein Rat, gross
+seine Einsicht.
+
+Enthält aber das Maschal Tröstung, wie passt es dann als Fortsetzung
+zu v. 7-22. Denn dass Jesaia, wie ~Meinhold~[39] will, eine versteckte
+Drohung gegen die Magnaten darin habe aussprechen wollen, ist gänzlich
+unverständlich. Und noch dazu soll Jesaia das Maschal eigens dazu
+gedichtet haben, die vorstehende Drohrede zu verstärken und die Grossen
+zu erschrecken! In der That, diese Erklärung ist kaum wunderbarer, als
+der Fehlgriff ~Ewalds~, der, auf die vorhergehenden Drohungen wider
+die trunkenen Judäer zurückgehend, in der Bilderrede v. 23-29 eine
+symbolische Abmahnung von der Unmässigkeit im Trinken erblickt.
+
+Auf andere Art sucht ~Dillmann~ darzuthun, dass sich das Maschal noch
+„im Gedankenkreis des vorigen Abschnittes bewegt“. Denn teils ist es
+die Bewunderung des göttlichen Verstandes, worauf das Ganze hinausläuft
+(v. 29), und darin berührt es sich mit v. 21, teils wird aller
+Nachdruck darauf gelegt, dass der Landmann nicht immerfort den Boden
+umbricht, und darin berührt es sich mit v. 16 f., wonach „Gott nicht
+blos zerstört, sondern aufbaut“.
+
+Aber v. 21 und 29 berühren sich nicht so, wie ~Dillmann~ sagt. Beide
+Verse drücken zwar eine Verwunderung aus, und zwar über Gottes Thun.
+Trotzdem besagt v. 29 so ziemlich das Gegenteil von v. 21. In v. 21
+wundert sich der Prophet über Gottes Thun, weil er es nicht versteht.
+„Dem Propheten selber ist offenbar höchst fremd zu Mute, wenn er sich
+jenes Werk vorstellt, dass Jahwe mit Assurs wilden Scharen gegen Juda
+zu Felde ziehen soll: fremd seine That, wildfremd sein Werk!“ (Duhm).
+Aber freilich, nach Dillmann thut Jesaia den Ausruf, weil er es
+durchschaut, dass Jahwe schliesslich doch nicht Zion vertilgen, sondern
+durch die Strafe seine Verklärung bewirken wird![40] Wo steht davon
+auch nur ein Wort? Aber der wuchtigen Rede des Jesaia wird alles Mark
+entzogen, wenn er am Schlusse seiner Drohungen theologisch spintisiert
+und diesen unausgesprochenen Reflexionen durch Worte der Bewunderung
+Ausdruck gegeben hätte! Nein, er durchschaut eben den Ratschluss Gottes
+nicht, daher die Ausdrücke זר und נכריה, aber die Thatsache ist ihm
+gewiss: er hat Vertilgung als festen Beschluss Jahwes vernommen (v.
+22), und es ist auch ihm eitel Entsetzen, Orakel zu deuten (v. 19).
+
+Ganz anders in v. 29, wo auch durch das גם זאת am Anfange deutlich
+der ~Gegensatz~ zu v. 21 zum Ausdruck kommt. Insofern stehen
+allerdings beide Verse in Berührung. In den vorhergehenden Versen
+ist durch mehrere dem Landbau entlehnte Vergleiche das Thun Jahwes
+verständlich gemacht. Jahwe sucht sein Volk heim. Aber wer sich in
+seine Wege vertieft, der wird erkennen, dass das Pflügen und Dreschen
+zwar notwendig ist, aber nicht ewig währen kann. Wunderbarlich ist
+sein Raten; aber er führt es herrlich hinaus. Hier ist theologische
+Reflexion. Mit Recht sagt ~Duhm~[41]: „Das Stück löst keine scheinbaren
+Widersprüche, die in v. 7-22 enthalten wären und die auch Dillmann erst
+nachträglich einfallen.“
+
+Aber ich kann auch ~Duhm~[41] darin nicht beistimmen, dass das
+Maschal den Propheten wider den spöttischen Vorwurf verteidige, dass
+seine Drohungen nicht eintreffen. Denn es setzt ja Trübsal voraus
+und verkündet nicht das Eintreffen der Drohung, sondern das Ende der
+Plagen. Nur mit völliger Umbiegung seines einfachen Wortsinnes kann man
+ihm im Zusammenhange eine solche Deutung geben, wie auch Duhm es thut.
+
+Richtiger nach seinem Wortsinne deutet ~Guthe~[42] das Gleichnis:
+„So hat auch die Strafe Jahwes ein Ende, wenn die Zeit des Segens
+herbeigekommen ist.“ Aber um es so deuten zu können, muss er es aus
+dem Zusammenhange entfernen. Doch giebt er ihm aus seiner Konstruktion
+eines zweifachen Zukunftsbildes eine Nutzanwendung, die unhaltbar
+erscheint.[43]
+
+Das Maschal ist also weder direkte Fortsetzung von v. 7-22, noch kann
+es später von dem Propheten an seine jetzige Stelle gesetzt sein. Ja,
+es stammt überhaupt nicht von Jesaia.
+
+Das Gleichnis enthält eine tröstliche Verheissung an das heimgesuchte
+und geplagte Volk. Die Situation, die es voraussetzt, ist die, dass
+das Volk schon lange Zeit unter den Schlägen Jahwes zu leiden hat.
+Darauf liegt aller Nachdruck. So beginnt das Gleichnis schon mit der
+schmerzlichen Frage הכל היום, die es ja mit einem tröstlichen „nein“
+beantwortet. Ebenso heisst es v. 28: כי לא לנצח אדוש ידושנו. Das ist
+bisher von den Auslegern übersehen worden, weil sie immer den Jesaia
+als Autor vor Augen hatten. Und doch liegt in dem ganzen Maschal der
+Hauptton darauf, dass das Volk gerade deshalb, weil es schon lange
+Zeit, eine Ewigkeit (v. 28,23) unter der Zuchtrute Jahwes zu leiden
+hat, und deswegen an der Hülfe und Erlösung zu zweifeln anfängt, durch
+den aus dem Landbau genommenen Vergleich auf die einst doch und gewiss
+eintretende Zeit des Segens vertröstet werden soll.
+
+Diese Situation passt allerdings gar nicht auf die Zeit Jesaias, wohl
+aber sehr gut auf die nachexilische Gemeinde. Jesaia hat auch das Volk
+nie in seinen Reden als ein solches angesehen, das schon zu lange
+Zeit unter den Schlägen Jahwes leidet, so dass es nun auf Erlösung
+hoffen dürfte[44], sondern immer als ein solches, dem das gewaltige
+Drohgericht Gottes noch bevorsteht.
+
+Das durch den Inhalt des Maschals gewonnene Resultat findet nun noch
+mehrfache anderweitige Bestätigung. Zunächst ist befremdlich, dass es
+ganz allgemein gehalten ist und ohne weitere Nutzanwendung bleibt.
+Das ist sonst nicht Jesaias Art. Das Lied vom Weinberge c. 5,1 ff.
+erhält sofort seine konkrete Beziehung. Für das nachexilische Judentum
+bedurfte es einer solchen nicht. Da war die Situation immer dieselbe.
+
+Auf die nüchterne, theologisierende Reflexion ist oben schon aufmerksam
+gemacht worden. Das Bild des Landbaues ist an sich passend; doch wird
+es durch immer neue Wendungen breit ausgeführt, ohne doch einen neuen
+Gedanken zu bringen. Auch der Stil ist matt und raisonnierend vgl.
+das הלוא אם v. 25 und den Anfang von 28 לחם יודק, den man als Frage
+auffassen muss, um überhaupt einen Sinn zu erhalten.
+
+Oben ist gesagt, dass der Eingang der Einleitung eines Volksliedes
+nachgeahmt ist; aber doch nicht sehr geschickt, durch blosse Häufung
+von Imperativen, von denen der eine (שמעו) doppelt vorkommt. Ausserdem
+hat ~Meinhold~, wenn auch in anderer Absicht, darauf aufmerksam
+gemacht, dass in der älteren klassischen Zeit mit שמעו immer eine
+Drohung eingeführt werde; erst in späterer Zeit, wo man für das
+unterdrückte Volk keine Drohungen mehr hatte, gebrauchte man das Wort
+auch zur Einleitung in Trostreden (Jes. 36,1. 4. Jes. 37,4 f. 46,3. 12
+etc.).
+
+Wenig geschickt ist die Vorwegnahme des Säens in v. 24 (לזרע), wovon
+doch eigentlich erst v. 25 redet; künstlich die Konstruktion von v. 26,
+der das Subjekt erst im 2. Stichos bringt; v. 28 ist auch in seiner
+zweiten Hälfte schwerfällig und wird nicht leichter, wenn man auch die
+Pferde durch Korrektur beseitigt und וּפְרָשׂוֹ ולא liest (Duhm). Denn
+der erste Stichos giebt sich nicht als erster Vordersatz zu erkennen
+und der Sinn wird verbogen; denn nicht darauf kommt es an, ob das Brot
+nach dem Dreschen zermalmt wird, sondern dass das nicht durch das
+Dreschen geschieht. In v. 29 streicht ~Duhm~ das צבאות, weil Jahwe
+als Gott der Heerscharen nicht der Lehrmeister der Bauern war. Gewiss
+nicht für Jesaia; aber wohl für einen Späteren, für den der Begriff die
+konkrete Färbung nicht mehr hatte. Überhaupt ist die ganze Auffassung,
+dass Jahwe Lehrmeister der Bauern sei, zu Jesaias Zeit angesichts
+solcher Stellen wie ~Hosea~ 2,4 ff. kaum so volkstümlich gewesen, wie
+unser Gedicht voraussetzt.
+
+Sprachlich Ausschlag gebend ist vor allem das Wort תושיה, das zum
+Wortvorrat der Weisheitslehrer gehört (Pr. 2,7. 3,21. 8,14. 18,1. Tob.
+5,12. 6,13. 11,6. 12,6. 26,3 und die späte und verstümmelte Stelle Mi.
+6,9). Das Wort wird also nicht, wie ~Duhm~ meint, durch unsre Stelle
+als alt erwiesen. Endlich sei noch auf die beiden Begriffe נסמן und
+שורה hingewiesen, die sehr jung und für uns unübersetzbar sind. Da sie
+die LXX nicht hat (nur Cod. R hat für שורה κέγχρον), streichen sie
+viele Ausleger, wogegen aber ~Dillmann~ Einspruch erhebt.
+
+Die Verse 23-29 sind nach alledem nicht von Jesaia; sie sind vielmehr
+erst spät verfasst und mit der Drohung v. 14-22 verbunden worden, um
+derselben einen Trostspruch gegenüberzustellen. So erklärt sich auch
+das גם זאת v. 29 am leichtesten, das, auf v. 21 f. zurückblickend, den
+festen Vertilgungsbeschluss Jahwes im Blick auf sein wunderbar weises
+Walten korrigiert.[45]
+
+
+2. c. 32,15-20.
+
+Gewöhnlich nimmt man v. 15-20 mit den vorhergehenden Versen 9-14
+zusammen; und gegen diesen Abschnitt v. 9-20 als ganzen hat auch
+~Stade~ sein Bedenken erhoben. Es ist aber unmöglich, die Verbindung
+beider Stücke aufrecht zu erhalten. Der Abschnitt v. 9-20 beginnt mit
+einer furchtbaren Drohung gegen die sorglosen Weiber Jerusalems und
+schliesst daran die Verkündigung des Unterganges der Stadt, um dann
+plötzlich wieder v. 15 ff. in die glänzendste Zukunftsschilderung
+einzulenken.
+
+Dieser plötzliche Umschwung in v. 15 ff. schlägt der vorhergegangenen
+Ankündigung der Verwüstung Jerusalems zu sehr ins Gesicht, als dass er
+nicht Bedenken gegen seine Ursprünglichkeit wachrufen müsste. Sieht
+man sich den Übergang von v. 14 zu v. 15 näher an, so erkennt man
+dann auch, dass er nicht von dem hergestellt sein kann, der v. 9-14
+geschrieben hat. Bisher haben sich allerdings alle Exegeten diesen
+Übergang gefallen lassen. Erst ~Duhm~ hat die Unmöglichkeit erkannt,
+v. 15 ff. mit v. 9-14 zu verbinden, obwohl er beide Stücke dem Jesaia
+als Verfasser zuschreibt.
+
+v. 14 sagt, dass Jerusalem von der Erde verschwinden soll, so dass
+auf ihren Trümmern wilde Esel und Herden weiden werden; und das soll
+so bleiben עד עולם. v. 15 fährt dann fort: עד יערה עלינו רוח ממרום.
+„Dies עד,“ sagt ~Duhm~, „ist so unglücklich wie möglich; denn abgesehen
+davon, dass gleich die folgenden Stichen sich nicht mehr von ihm
+regieren lassen, kann doch nur ein in Zukunftshoffnung schwelgender
+Schriftsteller den Nexus vertragen: Jerusalem wird verwüstet sein auf
+ewig, bis dass das Gegenteil eintritt.“ Aber man muss noch weiter
+gehen. Denn von dem „Gegenteil“ der Verwüstung, von dem Wiederaufbau
+Jerusalems, ist weder in v. 15 noch in den folgenden Versen die Rede.
+Es wird darin vielmehr die innere Umwandlung, die Fruchtbarkeit des
+Landes und der Friede, der dann im Lande herrschen wird, geschildert,
+der Wiederaufbau Jerusalems aber vorausgesetzt. Und doch müsste in
+ihnen grade davon die Rede sein, wenn sie auch nur „als scharfer
+Gegensatz“ die Fortsetzung von v. 9-14 bilden sollen.
+
+Auch hier hat man darum wieder zur Vergewaltigung des klaren Sinnes
+des Textes in v. 14 seine Zuflucht nehmen müssen, um v. 15 ff. auch
+nur einigermassen als ursprüngliche Fortsetzung zu v. 9-14 verstehen
+zu können. Ob unter ארמון der Königssitz (Cheyne), was doch am
+wahrscheinlichsten ist, da das Wort so absolut und im sing. steht,
+oder Landhäuser (?) oder Prachtbauten der Magnaten in der Stadt zu
+verstehen sind, darüber kann man streiten; ebenso darüber, was בהן
+(Wartturm Neh. 3,25 ff.?) und עפל (Hügel, wohl der südliche Teil des
+Osthügels 2 Chr. 27,3. 33,4. Neh. 3,26. 11,21) bedeuten soll. Aber
+dass in v. 14 nicht blos von einem Verlassen, sondern von Zerstörung
+die Rede ist, sollte doch niemand abstreiten. Dillmann sagt zwar, von
+Zerstörung sei nicht die Rede, sondern von Verödung, welche durch die
+Fortschaffung der Bewohner, zumal der leichtsinnigen Grossen, im
+assyrischen Sturm bewerkstelligt wird. Aber eine verödete Stadt, die
+zur Wonne für Wildesel und zum Weideplatz für Herden geworden ist, ist
+doch wohl auch als zerstört, ja als gänzlich verschwunden gedacht.
+Dillmann hat es aber ganz übersehen, sich mit diesem Schlusse von v. 14
+auseinanderzusetzen.
+
+Ebenso wie die Thatsache der Verwüstung Jerusalems macht auch die
+Drohung, dass es עד עולם so bleiben werde, die Anknüpfung von v. 15
+ff. an v. 14 unmöglich. Deshalb hat man versucht, die Bedeutung des עד
+עולם abzuschwächen. Dillmann will es „nach עד יערה v. 15“ erklären,
+da die Grundbedeutung des Wortes עולם „Dauer“ sei. Aber schon die
+Präposition עד giebt dem Worte die Bedeutung „immerdar“. Dillmann führt
+für sich die Stelle 1. Sam. 1,22 an. Aber gerade dort bezeichnet עד
+עולם den Dienst Samuels vor Jahwe als einen bleibenden im Gegensatze
+zu einem nur zeitweiligen. Die Redensart 1 Reg. 1,31 ist aber doch
+eben als solche zu verstehen. Endlich erklärt Dillmann selbst das עד
+עולם nachher im 17. v. unseres Kapitels: „auf immer, hier (!) ohne
+Einschränkung!“
+
+Ist nach alledem v. 15 ff. nicht als ursprüngliche Fortsetzung von v.
+9-14 aufzufassen, so verteilen sich nun auch die von Stade erhobenen
+Bedenken gegen 9-20 auf die beiden Abschnitte v. 9-14 und v. 15-20,
+und zwar so, dass die hauptsächlichsten und stichhaltigsten auf den
+letzteren Abschnitt fallen.[46]
+
+Zwar nicht das ist richtig, dass nach v. 15 die Umwandlung der Natur
+dadurch vermittelt wird, dass ein Geist aus der Höhe ausgegossen
+wird; sondern beides ist zweierlei; die Umwandlung geschieht durch
+ein Allmachtswunder Gottes in der Natur, und durch die Ausgiessung
+des Geistes werden den Menschen übersinnliche Wunderkräfte verheissen
+vgl. Jes. 44,3. Joel 3,1 ff. Sach. 12,10. auch Jes. 11,2 f. Auch gegen
+die Bemerkung Stades wendet sich Duhm mit Recht, dass die Älteren die
+Bekehrung als Wirkung des göttlichen Gerichts fassen, welches die
+Menschen über ihre Sünde belehrt und in ihnen den freien Entschluss
+zur Umkehr erweckt. Das Gericht erscheint als Strafe für verweigerte
+Busse und nicht als Zuchtmittel. Aber damit wird doch nicht das
+sachliche Bedenken Stades entkräftet, dass in v. 16 משפט und צדקה als
+dona gratiae, als Geschenk Gottes in jener Zeit verheissen werden. Was
+soll denn sonst v. 16? Hier erscheint doch Recht und Gerechtigkeit
+ebenso als Verheissungsgut, wie in v. 15 die Ausgiessung des Geistes
+und die Umwandlung der Natur. Und dazu ist allerdings Ez. 36,24 ff.
+zu vergleichen. Die detaillierten Angaben dieser Stelle sind in v. 16
+ebenso vorausgesetzt wie in v. 15 die oben angeführten Weissagungen
+über die Geistesausgiessung. Dass letztere so kurz erwähnt wird, als
+wüsste der Leser schon, was sie zu bedeuten hat, giebt auch Duhm zu; er
+meint aber, dass vor v. 15 etwas ausgefallen sei. Aber wenn das auch
+so wäre, so könnte das kaum eine Erklärung über die Geistesausgiessung
+oder deren Wirkung gewesen sein; diese könnte nach der Konstruktion
+des Satzes höchstens folgen, nicht vorhergehen, v. 15 b kann man
+ebenso gut eine unglückliche Wiederholung von c. 29,17 nennen, wie
+diesen Vers als Nachahmung von v. 15 bezeichnen. Keiner von beiden
+trägt Züge der Ursprünglichkeit. Duhm hält unseren Vers für das jesaj.
+Vorbild und erklärt ihn so: Die Wüste soll Fruchtgarten werden und
+dieser Fruchtgarten soll wie ein Wald mit fruchtbaren Bäumen bewachsen
+sein. Das ist doch nur eine verlegene Umgehung der Erklärung Guthes,
+nach welcher יער Steigerung zu כרמל bildet. Aber יער heisst (wildes)
+Waldgebirge und nicht Park oder Obstgarten. Freilich passt die
+gewöhnliche Erklärung des zweiten Gliedes unseres Verses als Gegensatz
+zum ersten nicht in den Zusammenhang der Verheissungen; aber der
+einfache Wortlaut besagt nichts Anderes. Die Wüste soll Fruchtgarten,
+dieser wildes Waldgebirge werden. Die grosse Umwälzung gehörte eben
+zum eschatologischen Dogma, und die Verbindung der hierzu gehörigen
+Aussagen kümmerte die späteren Eschatologiker wenig; je bunter, um so
+besser. Ist es nicht schon bunt genug, dass in unserm kleinen Stücke
+erst (v. 15a) von der Ausgiessung des Geistes geredet wird, dann in
+v. 15b von der Naturumwälzung; dann wieder in v. 16 von der inneren
+Umwandlung der Menschen; in v. 17 f. von dem allgemeinen Frieden und
+der Sicherheit vor Feinden; in v. 19 von dem Untergange der Heiden und
+endlich in v. 20 noch einmal mit einem Segenswunsche abschliessend von
+dem Glücke und wunderbaren Aufblühen der Landwirtschaft! Gegenüber
+diesem wirren Durcheinander hat man gewiss kein Recht, bei der Exegese
+der einzelnen Verse auf den inhaltlichen Zusammenhang derselben unter
+einander allzugrossen Wert zu legen. Vielmehr zeigt sich hier ein sehr
+äusserlicher Anschluss an die Form und den Ausdruck der Gedanken. Das
+werden wir gleich sehen, wenn wir uns nun den einzelnen Versen unseres
+Abschnittes weiter zuwenden.
+
+Für v. 16 wird nämlich Stade Recht behalten müssen, wenn er sagt, dass
+sich dieser Vers mühsam an dem in v. 15 gegebenen Gegensatze weiter
+spinnt. Denn die מדבר in der nach v. 16 das Recht wohnen soll, ist
+doch eigentlich nach v. 15 gar nicht mehr vorhanden, sondern zum כרמל
+geworden! Wenn Duhm das damit entschuldigt, dass für eine Viehzucht
+treibende Bevölkerung eine מדבר (hier in der Bedeutung Trift) vorhanden
+sein muss, und diese nur weiter in die Wüste hineingeschoben zu denken
+sei, so ist das schon recht gut; aber dieser erklärende Zwischengedanke
+steht doch eben nicht da, und v. 16 knüpft in der Form so eng an v. 15
+an, dass man zuerst an die in v. 15 erwähnte מדבר denken muss. Dieser
+Anschluss ist also jedenfalls nicht sehr geschickt, sondern „mühsam“.
+
+In v. 17 beseitigt Duhm die Anstösse: er streicht das zweite צדקה
+liest statt „‏השקט‎“ „‏המשפט‎“, lässt die Kopula vor בטח weg und
+erklärt endlich עד עולם für einen müssigen Zusatz. Ob solche
+weitgehenden Korrekturen in dem sonst gut erhaltenen Texte, zumal
+sie nicht eigentlich Fehler, sondern nur Ungeschicklichkeiten der
+Form beseitigen, erlaubt sind, dürfte doch die Frage sein. Duhm
+unternimmt die Korrekturen auch nur unter der Voraussetzung, dass das
+Stück jesajanisch sei. Inhaltlich bleiben freilich auch so nur leere
+Allgemeinheiten und abstrakte Begriffe übrig. Jesaia würde kaum so
+allgemein von einer מעשה העדקה und עבדת המשפט geredet haben; er hätte
+sich gewiss konkret ausgedrückt.
+
+Von v. 18 giebt auch Duhm zu, dass derselbe „unstreitig einen etwas
+leeren Eindruck macht;“ die Schilderung ist überladen; die drei
+Ausdrücke „Wohnstätten des Friedens“, „sichere Wohnungen“ und „sorglose
+Ruhesitze“ besagen doch ganz dasselbe. Das ist freilich nicht Jesaias
+Art; wo aber sonst schon Anzeichen für spätere Abfassung vorliegen, ist
+das nur ein weiteres Kennzeichen der Unechtheit, und man hat kein Recht
+mehr, nur der ungeschickten Form wegen Varianten anzunehmen. Merkwürdig
+ist auch der Ausdruck עמי; das Subjekt des suff. ist vielleicht Gott;
+in v. 15 heisst es עלינו, in v. 20 אשריכם. Solcher Wechsel in der
+Person ist bei Späteren häufig; vgl. auch c. 33,1 mit 2 und 3; ebenso
+v. 14 ff.
+
+v. 19 findet auch ~Duhm~ wieder „vollends sonderbar und unbegreiflich“.
+Und das mit Recht. Denn mitten in der Schilderung der goldenen Zeit
+redet dieser Vers plötzlich von den Schrecken des Gerichts. Allerdings
+thut er das so dunkel, dass die Ausleger schon immer geschwankt haben,
+ob sie dieses Gericht auf Jerusalem oder Assur beziehen sollten.
+Auf beide passt der Wortlaut und Zusammenhang gleich schlecht.
+Versteht man, wie die meisten Ausleger es thun, unter יער im 1. Gl.
+den Assyrer, so ist im 2. Gl. der Ausdruck עיר für die Bollwerke
+der feindlichen Weltmacht nicht grade glücklich gewählt. Dillmann
+und andere beziehen den Vers deshalb auf Jerusalem: „Daran muss der
+Prophet, gemäss der Endabsicht des Stückes, noch einmal kurz erinnern,
+dass ohne schweres Zorngericht und tiefe Beugung es nicht abgeht.“
+So findet sich ~Dillmann~ mit der gradezu unerhörten Stellung dieses
+Verses mitten unter den glänzendsten Zukunftsbildern ab! Entkräften
+lassen sich solche Behauptungen nicht mehr; man wird ihnen einfach
+die entgegengesetzte gegenüber stellen müssen: Wenn in diesem Verse
+Jerusalem bedroht wäre, so könnte er nicht dem Zusammenhange angehören.
+~Duhm~ meint, dass der Vers vielleicht einem Gedichte über ein fremdes
+Volk entnommen und von einem Leser, dem er bei v. 14 (?) eingefallen
+sei, an den Rand geschrieben worden sei. Dann bleibt doch völlig
+unerklärt, wie er später grade an die unpassende Stelle gekommen sein
+soll, an der er jetzt steht. An seiner jetzigen Stelle kann er nur auf
+die feindliche Weltmacht bezogen werden und ist nur dann erklärlich,
+wenn er sowohl wie seine Umgebung nicht von Jesaia stammt. Denn für
+die späten Eschatologiker fallen die Bedenken hin. Gehört der Inhalt
+nur zum eschatologischen Dogma, so hat er sein Recht im Zusammenhange
+erworben. Der Ausdruck יער für den Assyrer ist aus c. 10,18. 33 f.
+verständlich. Unter der Stadt sind die feindlichen Bollwerke zu
+verstehen wie in c. 24 ff. Der Ausdruck עיר scheint mir lediglich
+als Parallele gewählt zu sein, um den schon sonst durch Paronomasien
+gezierten Vers möglichst künstlich zu gestalten. Denn ich glaube mit
+Stade, dass im Anfange des Verses ברר eigens vom Verfasser gebildet
+ist, um mit dem folgenden ברדת zu assonieren, und dass deshalb nicht
+mit Secker u. a. ירד zu lesen ist. Im zweiten Versgliede entspricht dem
+ja auch das unglückliche בשפל תשפל. So erklären sich wenigstens alle
+Schwierigkeiten und Wunderlichkeiten dieses Verses.
+
+Die Seligpreisung aller, die die goldene Zeit erleben, beschliesst den
+Abschnitt. Freilich ist auch hier der Inhalt dessen, was gemeint ist,
+nicht aus dem Wortlaute allein, sondern nur aus seiner Verbindung mit
+dem als bekannt vorausgesetzten eschatologischen Dogma zu gewinnen.
+Denn eine Glücklichpreisung der Nomaden oder Landbewohner als solcher
+ist natürlich hier nicht gemeint. Ebensowenig stellt der Vers den Lohn
+treuer Arbeit in Aussicht. Sondern das זרעי על נל מים will sagen, dass
+in jener Zeit die Bäche nie versiegen werden Job. 6,15. Jes. 58,11;
+und das zweite Versglied weist darauf hin, dass die Prärie fruchtbar
+und völlig gefahrlos sein wird. Ob Jesaia von seinen Zeitgenossen
+so verstanden wäre? Der, der v. 20 geschrieben hat, hat doch wohl
+bei seinen Lesern die Bekanntschaft mit dem eschatologischen Dogma
+vorausgesetzt.
+
+Es hat sich uns gezeigt, dass nicht nur der Abschnitt c. 32,15-20
+als solcher nach Inhalt und Form, sondern auch jeder einzelne
+Vers desselben die Spuren später Herkunft trägt. Es kann darum
+von jesajanischer Abfassung desselben keine Rede sein. Die genaue
+Bekanntschaft mit dem eschatologischen Dogma, die er voraussetzt und
+seine Berührungen mit spätjüdischen Schriften (Job. Joel. Jes. 24 ff.)
+zwingen sogar, für die Zeit seiner Entstehung bis tief ins zweite
+Jahrhundert hinabzugehen. Genaueres über die Zeit seiner Herkunft lässt
+sich natürlich nicht sagen, da sein Inhalt zu allgemein ist.
+
+
+
+
+Lebenslauf.
+
+
+Ich, ~Martin Brückner~, evangelischer Konfession, bin am 16. Juni
+1868 zu Friedersdorf bei Goerlitz geboren. Mein Vater ist Pastor und
+Königlicher Kreis-Schulinspektor zu Gersdorf bei Goerlitz. Ihm habe
+ich die Grundlage meiner Bildung zu verdanken. Von Tertia an war ich
+Alumnus auf der Königlichen Landesschule Pforta. Diese verliess ich
+Ostern 1888 mit dem Reifezeugnis, um in Tübingen, Leipzig und Halle
+acht Semester Theologie zu studieren. Ich besuchte Vorlesungen und
+Seminare bei folgenden akademischen Lehrern: Beyschlag, Brieger, Buder,
+Erdmann, Fricke, Gunkel, Guthe, Haupt, Hering, Kaehler, Koestlin,
+Kautzsch, Loofs, Spitta. Im Februar 1893 bestand ich in Halle die erste
+theologische Prüfung, absolvierte den Seminarkursus in Liegnitz und war
+ein Jahr in Pommern als Hauslehrer thätig. Ostern 1894 wurde ich in das
+Predigerseminar zu Wittenberg aufgenommen, wo ich an den theologischen
+und pädagogischen Vorlesungen und Uebungen der Herren Sup. D. Quandt,
+Prof. D. Reinicke und Prof. Schmidt teilnahm. Im Mai 1895 wurde ich als
+Pastor nach Altraudten bei Raudten berufen.
+
+Allen meinen verehrten Lehrern sage ich für vielfache Anregung und
+Förderung auch an dieser Stelle aufrichtigen Dank.
+
+
+
+
+FUSSNOTEN:
+
+[1] Das Buch Jesaia übersetzt und erklärt. Göttingen 1892.
+
+[2] Die Zukunftserwartung des Jesaia. Göttingen 1893.
+
+[3] Hackmann a. a. O. S. 7 Anm.
+
+[4] S. 71
+
+[5] Mit Ausnahme des ersten und letzten Stückes, die besonders
+besprochen werden müssen.
+
+[6] Denselben Bau im Anfange zeigt auch das kurze Stück c. 29,15.
+
+[7] Mit Ausnahme von c. 28,1-4 und 32,9-14.
+
+[8] Bezüglich des Schlusses könnte man sich ja zur Not mit c. 31,4
+begnügen. Aber der oben nachgewiesene grobe Missverstand vieler
+Exegeten in der Auslegung des Bildes vom knurrenden Löwen über seiner
+Beute zeigt doch, dass dies allzukurze Wort ein nicht völlig genügender
+Abschluss des Ganzen ist. c. 31,1-3 redet von der Vernichtung der
+beiden verbündeten Heere: „Da stürzt der Schützer und fällt der
+Geschützte“ v. 4 soll nun jedenfalls in gewaltigem Bilde vom Löwen
+den Untergang der Stadt Jerusalem malen. Aber Jesaia sagt in diesem
+Verse nur, dass sich Jahwe im wilden Heerzuge der Assyrer auf
+Jerusalem stürzen wird. Was dann geschieht, sagt Jesaia nicht mehr.
+Wahrscheinlich ist, dass der Schluss weggefallen ist; möglich ist aber
+allerdings auch, dass sich Jesaia mit der Andeutung durch das kurze,
+aber packende Bild begnügt hat. Das konnte sich jeder selber ausmalen,
+wie es der Beute unter den Tatzen des knurrenden Löwen ergehen würde;
+und Jesaia hat auch sonst nicht, auch nicht in dem Bilde vom Weinberge
+c. 5. die Zerstörung Jerusalems mit dürren Worten ausgesprochen.
+
+[9] S. 48.
+
+[10] Zu c. 30,8 S. 195.
+
+[11] ~Duhm~, Kommentar S. 195.
+
+[12] S. 49.
+
+[13] a. a. O. S. 22 ff., cf. S. 62 ff., vgl. auch ~Duhm~ Comm. zu den
+Stellen.
+
+[14] Hackmann will zwar der viel grösseren Leichtigkeit des
+Verständnisses wegen (S. 67) v. 18 ff. auf Israel bezogen wissen; aber,
+wie mir scheint doch mit Unrecht. Denn die ganze Schrift c. 7 f. ist
+gegen Juda geschrieben; da hätte doch eine solche Expektoration über
+das Geschick Nordisraels wenig Sinn. Freilich, direkte Fortsetzung der
+Rede v. 13-16 ist v. 18 ff. nicht; v. 17 ist vom Redaktor und v. 18
+ff. sind stark überarbeitet (vgl. schon das ewige ביום ההיא v. 18. 20.
+21. 23). Die Verse haben hinter c. 7 ursprünglich vielleicht dieselbe
+Bedeutung gehabt, wie c. 8,5 ff. hinter c. 8,1-4: Sie sprechen das
+Urteil Jesaias resp. Jahwes aus; aber nicht als Rede Jesaias an den
+König, sondern nur in schriftlicher Darstellung. Vielleicht haben v.
+18 ff. einst hinter c. 8,1-4 gestanden und sind vom Redaktor erst
+verbessert und vermehrt an ihren jetzigen Platz gestellt, um die
+messianisch verstandene Immannuelweissagung etwas zu verlängern und zu
+verzieren.
+
+[15] Vgl. darüber Duhm Comm. S. 49 ff., und Hackmann a. a. O. S.
+62-70. Die Annahme eines ursprünglich geschichtlichen Zusammenhanges
+der Stücke in c. 7 f. beseitigt jedenfalls sonst unüberwindliche
+Schwierigkeiten für die Annahme jesajanischer Herkunft derselben, die
+sich für einzelne Partien (c. 7,2-16, c. 8,1-4, 14 f. 16-18) doch
+immer aufdrängt. Hervorgehoben sind die Schwierigkeiten von c. 7
+namentlich von de Lagarde Sem. I. 9 ff. und Studer J. P. Th. V. 76 ff.
+Andererseits meint schon Ewald (I. 320. 329 f.), dass die Erzählungen
+dieses Stückes einst vollständiger gewesen seien, und auch Dillmann
+(Comm. S. 62) giebt es als Eigentümlichkeit des Stückes c. 6-9,6 an,
+dass es „geschichtlich angelegt ist“. Der Redaktor, der es bearbeitet
+und in seine Sammlung (c. 6-9,6) aufgenommen hat, hat es natürlich
+„messianisch“ behandelt. Das zeigt seine eigene Weissagung c. 9,1-6.
+Er dichtet dem Messias einen dritten Namen an, der noch länger ist
+als der in 8,1-4 genannte und auf die beiden anderen Bezug nimmt. Aus
+dem Immanu-el hat er sein El gibbor, aus dem chas-baz sein abi-ad
+(daher nicht Ewigvater, sondern Beutevater). Der „Wunderrat“ entstammt
+vielleicht dem wunderbaren אות c. 7,10. Der „Friedefürst“ ist eigene
+Zuthat, weil das Hauptmerkmal des Messias in seinem Namen nicht fehlen
+durfte.
+
+[16] Das tröstliche Schlusssätzchen ist unecht und fehlt noch in LXX.
+Vielleicht sind überhaupt v. 12 f. zu streichen. Sie bringen gegenüber
+v. 11 nichts Neues, reden vielmehr von einer zweimaligen Deportation,
+nachdem in v. 11 das Land schon menschenleer geworden war. Vgl.
+hierüber Duhm Comm. S. 48.
+
+[17] Die Möglichkeit so später Niederschrift ist nicht zu bezweifeln
+cf. Duhm zu c. 6. Für Jesaia war das eine ebenso glänzende wie
+innerlich wahre Rechtfertigung seines erfolglosen Wirkens, dass er
+dennoch den göttlichen Zweck seiner Sendung erfüllt habe. -- Dass c. 6
+jetzt vor c. 7 und nicht vor c. 28 steht, rührt daher, dass es zeitlich
+dahin gehört und wahrscheinlich schon bei der ersten Gesammtausgabe der
+drei Schriften Jesaias an diesen Platz gestellt ist.
+
+[18] Zu c. 22 vgl. namentlich Hackmann a. a. O. S. 108 f.
+
+[19] Über die in c. 1-5 aufbewahrten Stücke urteilt Hackmann S. 49,
+dass sie von Anhängern und Freunden des Propheten niedergeschrieben
+sind, da sich für den Propheten kein Motiv zur Fixirung der meist
+kurzen Sprüche finden lasse. Indessen besteht vielleicht auch
+die Möglichkeit, dass einzelne von ihnen früher den grösseren
+geschichtlichen Darstellungen angehört haben. Zu 3,6 bemerkt Duhm: „Der
+Eingang (ויאמר יהוה) legt die Vermutung nahe, dass das Stück einst
+einem grösseren Zusammenhange angehörte.“ Auch die Weherufe in c. 5
+sind wohl aus ursprünglich anderen Zusammenhängen hergenommen, denn sie
+stehen bunt durcheinander. Vgl. z. B. c. 5,18 ff. mit c. 28,9. 22 ff.
+c. 30,10.
+
+[20] Näheres s. Hackmann a. a. O. S. 80 ff.
+
+[21] Juda und die assyrische Weltmacht: S. 5 ff.
+
+[22] a. a. O. S. 92-97., 108 f.
+
+[23] Comm. S. 221.
+
+[24] ~Hackmann~ a. a. O. S. 136 ff.
+
+[25] ~Wellhausen~: Israelitische und jüdische Geschichte. 1894. S. 165.
+
+[26] a. a. O., S. 164.
+
+[27] Comm. S. 188.
+
+[28] Comm. S. 216 ff.
+
+[29] S. zum Folgenden Stade, Geschichte d. V. J. I. 614 ff. Wellhausen.
+Gesch. d. j. V. S. 85 f.
+
+[30] c. 30,9 ff.
+
+[31] Vgl. auch Duhm Comm. S. XVI: „So viel Jesaia geschrieben hat,
+so ist er doch kein Schriftsteller von Beruf; er schreibt teils aus
+dem allgemeinen Grunde, dem mündlich gesprochenen Worte eine grössere
+Ausbreitung und nachhaltigere Wirkung zu geben, teils zu dem besonderen
+Zwecke, um gegenüber dem Unglauben der Mehrheit seines Volkes
+Beweisstücke für die richtige Vorhersagung der Ereignisse zu schaffen.“
+
+[32] Vgl. hierzu Hackmann a. a. O. S. 47.
+
+[33] Das kommt vielleicht daher, dass man mit dem Buche, das nur
+Drohungen enthielt, nach dem Exil zuerst nichts Rechtes anzufangen
+wusste. Uebrigens mögen wohl auch die geschichtlichen Partieen schon
+früher mehr vernachlässigt worden sein, da man an ihnen natürlich
+immer das geringere Interesse haben musste, zumal sie obendrein mit
+der späteren Sage von Jesaias Stellung zur Zerstörung Jerusalems nicht
+stimmten. Nötig ist aber diese Annahme zur Erklärung ihrer Ausscheidung
+nicht. Jene Zeit stand solchen geschichtlichen Stoffen völlig kritiklos
+gegenüber.
+
+[34] c. 31,6. Der Apokalyptiker hat bei dieser Deutung freilich
+nicht das ägyptische Bündnis, sondern den Abfall seiner Zeit, die
+Bilderverehrung, im Sinne, wie v. 7 deutlich zeigt.
+
+[35] Das spricht er freilich nicht aus, weil es ihm und seiner Zeit für
+selbstverständlich galt. Bewiesen ist es aber für uns durch die Art und
+Weise, wie er seine Trostsprüche von der Zukunft mit jenen Drohreden
+verbunden hat: c. 29,17. 30,18. 32,15. 29,5 f. Aus diesen Stellen geht
+deutlich hervor, dass der Verfasser den Eintritt der goldenen Zeit
+in engen zeitlichen Zusammenhang mit dem Eintreten der Drohgerichte
+bringt, und dass er sein Volk gerade durch diesen Hinweis belehren und
+trösten will. Daraus ergiebt sich, dass er die Drohweissagungen in
+seiner Gegenwart erfüllt sieht.
+
+[36] Die Wahl dieses gegen Samarien gerichteten Stückes zeigt wieder
+deutlich die völlige Kritiklosigkeit des Verfassers.
+
+[37] Comm. S. 258.
+
+[38] Eine Zusammenstellung der verschiedenen Auslegungen bei Dillm. a.
+a. O. S. 258.
+
+[39] Studien u. Kritiken 1893. S. 1-46.
+
+[40] Comm. S. 257.
+
+[41] Comm. S. 178 f., vgl. auch Hackmann a. a. O. S. 40.
+
+[42] Das Zukunftsbild des Jesaia. Akad. Antrittsvorles. Leipzig 1885.
+
+[43] Guthe findet in dem „Klopfen“ des Kümmels und „Dreschen“ des
+Brotes den Unterschied, dass Israel die härteren, Juda die milderen
+Strafen zu erleiden hat. Aber beides bezeichnet dieselbe Sache. Dill
+wird eben geklopft, Korn mit der Schleife gedroschen.
+
+[44] Auch c. 1,4 ff. nicht. Von Vergebung und Ende der Plagen ist
+da keine Rede. v. 8 Schluss und v. 9 scheinen mir Glossen zu sein.
+Das כעיר נצורה passt nicht zu den vorhergehenden Bildern und scheint
+hinzugesetzt, weil diese zu respektswidrig sind. In v. 9 deutet sowohl
+שריו als כמעט als auch der anders wie in v. 10 gestimmte Vergleich mit
+Sodom und Gemorrha auf spätere Zeit.
+
+[45] Genaueres über die Verbindung des Abschnittes mit dem Vorstehenden
+S.
+
+[46] Über den Abschnitt v. 9-14 vgl. Duhm, Comm. S. 212 f. Der
+Haupteinwand Stades, dass „die Erwartung, dass Jerusalem verwüstet
+werden solle, mit Jesaias sonstigen Zukunftserwartungen nicht wohl
+vereinbar“ sei, spricht angesichts solcher Stellen wie c. 5,14. 17.
+c. 22,14. c. 6. c. 7,18 ff. c. 2,12 ff. eher für als gegen Jesaias
+Autorschaft.
