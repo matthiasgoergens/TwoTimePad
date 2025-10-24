@@ -1,0 +1,2926 @@
+ILLUSTRATIVE HAND NO. 1
+
+Many players would be tempted to declare “no-trumps” with this hand,
+but the declaration of hearts is sound. No risks should be taken with
+a strong heart make when one weak suit is held.
+
+TRICK 1.--There are two lines of play that could be adopted
+by the dealer in this hand, one to exhaust the trumps and try for
+the spade suit, the other to try to establish a ruff in the weaker
+hand. The former course is preferable. As Z holds but one trump, the
+adversaries would probably prevent the ruff. To make the spade suit
+an entry card may be necessary. Y takes the lead, in order to save
+Z’s entry card.
+
+TRICK 8.--This position will be appreciated by all students
+of the game. Z has three good spades and the commanding diamond, Y
+the losing trump and the ace of clubs. Should Y now lead a diamond
+and take Z’s re-entry card, the adversaries’ trump would stop the
+suit. Leading the losing trump is a clever play.
+
+SAVING AN ENTRY CARD. LEADING THE LOSING TRUMP.
+
+It is the first game, score sixteen to nothing, in favor of the
+dealer. Z deals and passes the make. Y declares hearts.
+
+                ♠ 9
+                ♣ A 6 5 3                    No. 1
+                ♦ A 4 2
+                ♥ A K Q 7 5
+
+               x-------------x
+  ♠ J 6 5      |      Y      |  ♠ K 10 8
+  ♣ 7 4 2      |             |  ♣ K Q J 10
+  ♦ Q 10 8 6   |  A       B  |  ♦ J 9
+  ♥ 9 3 2      |             |  ♥ J 10 8 4
+               |      Z      |
+               x-------------x
+
+                ♠ A Q 7 4 3 2
+                ♣ 9 8
+                ♦ K 7 5 3
+                ♥ 6
+
+  +-------+-------+-------+-------+--------+
+  | TRICK |   A   |   Y   |   B   |   Z    |
+  +-------+-------+-------+-------+--------+
+  |   1   |   6♦  |  [A♦] |   9♦  |   3♦   |
+  |   2   |   2♥  |  [K♥] |   4♥  |   6♥   |
+  |   3   |   3♥  |  [Q♥] |   8♥  |   5♦   |
+  |   4   |   9♥  |  [A♥] |  10♥  |   8♣   |
+  |   5   |   5♠  |  9♠   |  10♠  |   [Q♠] |
+  |   6   |   6♠  |  2♦   |   8♠  |   [A♠] |
+  |   7   |   J♠  |  [5♥] |   K♠  |   2♠   |
+  |   8   |   2♣  |  7♥   |  [J♥] |   7♦   |
+  |   9   |   4♣  |  [A♣] |   K♣  |   9♣   |
+  |  10   |   8♦  |  4♦   |   J♦  |   [K♦] |
+  |  11   |   7♣  |  3♣   |  10♣  |   [7♠] |
+  |  12   |  10♦  |  5♣   |   J♣  |   [4♠] |
+  |  13   |   Q♦  |  6♣   |   Q♣  |   [3♠] |
+  +-------+-------+-------+-------+--------+
+      The dealer makes a small slam.
+
+
+ILLUSTRATIVE HAND NO. 2
+
+TRICK 2.--This situation demands careful attention. If the
+diamond is led from Y’s hand for Z to trump, the adversaries must
+obtain the lead at the next trick, and would promptly lead trumps to
+prevent any further ruffing. Z can estimate that he has but five sure
+tricks in the two hands, three trump tricks, the diamond trick, the
+ruff, and the possibility of making a trick with the king of clubs.
+This, however, would give the adversaries the game and the rubber. To
+win the game, two ruffs must be obtained and Z cannot afford to make
+the situation clear to his opponents. He leads the seven of clubs
+from Y’s hand in order to establish the cross-ruff.
+
+It is this form of strategy that wins games and rubbers for the
+clever player. Z takes the one chance to win the game.
+
+TRICK 3.--B’s best play is unquestionably the trump. He has
+both the spade and the club suit protected, his partner is marked
+with strength in diamonds, and he can lead trumps with safety, but
+not knowing that the weak hand can ruff, he returns his partner’s
+original lead.
+
+TRICK 7.--A can stop the cross-ruff by trumping with the
+king of hearts, but this play would not afford him any advantage, as
+Y would discard a losing spade, and Z may not have another trump.
+
+TRICK 8.--There is no reason for B to trump. To discard is
+his best play.
+
+NOT SHOWING ADVERSARIES THAT THE WEAK HAND CAN “RUFF.”
+
+It is the rubber game, score twenty-four all. Z deals and passes the
+make. Y declares hearts.
+
+                  ♠ 9 6 5
+                  ♣ 7                        No. 2
+                  ♦ A 5 3 2
+                  ♥ Q J 10 5 4
+                 +-------------+
+                 |      Y      |
+    ♠ K Q        |             |   ♠ A 10 8 7
+    ♣ 10 8 6     | A         B |   ♣ A Q 5 2
+    ♦ K Q J 9 6  |             |   ♦ 10 8 7
+    ♥ A K 3      |      Z      |   ♥ 7 2
+                 +-------------+
+                  ♠ J 4 3 2
+                  ♣ K J 9 4 3
+                  ♦ 4
+                  ♥ 9 8 6
+
+  +---------+---------+---------+---------+---------+
+  |  TRICK  |    A    |    Y    |    B    |    Z    |
+  +---------+---------+---------+---------+---------+
+  |    1    |    K♦   |   [A♦]  |    7♦   |    4♦   |
+  |    2    |    6♣   |    7♣   |   [A♣]  |    3♣   |
+  |    3    |    6♦   |    2♦   |   10♦   |   [6♥]  |
+  |    4    |    8♣   |    5♠   |    2♣   |   [K♣]  |
+  |    5    |   10♣   |   [4♥]  |    5♣   |    4♣   |
+  |    6    |    9♦   |    3♦   |    8♦   |   [9♥]  |
+  |    7    |    Q♦   |   [5♥]  |    Q♣   |    9♣   |
+  |    8    |    J♦   |    5♦   |    7♠   |   [8♥]  |
+  |    9    |    Q♠   |    6♠   |   [2♥]  |    J♣   |
+  |   10    |   [K♥]  |   10♥   |    7♥   |    2♠   |
+  |   11    |   [K♠]  |    9♠   |    8♠   |    3♠   |
+  |   12    |   [A♥]  |    J♥   |   10♠   |    4♠   |
+  |   13    |    3♥   |   [Q♥]  |    A♠   |    J♠   |
+  +---------+---------+---------+---------+---------+
+     The dealer wins two odd tricks.
+
+
+ILLUSTRATIVE HAND NO. 3
+
+TRICK 4.--When the commanding trump is against you, the
+best play is usually to force your adversary to “ruff” with it, but
+if you hold an established suit in one hand, it often pays to take
+out the winning trump. Your long suit can then be continued without
+interruption.
+
+LEADING THE LOSING TRUMP
+
+It is the first game, score love all. Z deals and makes it hearts.
+
+                      ♠ 5 4 2
+                      ♣ A Q J 8 6 3          No. 3
+                      ♦ 7 5
+                      ♥ 9 5
+                     +-------------+
+                     |      Y      |
+    ♠ A K Q 8 7 6 3  |             |   ♠ J 10 9
+    ♣ 10 5 4         | A         B |   ♣ 9 7
+    ♦ K              |             |   ♦ Q J 10 9 8
+    ♥ J 3            |      Z      |   ♥ Q 8 2
+                     +-------------+
+                      ♠ ----
+                      ♣ K 2
+                      ♦ A 6 4 3 2
+                      ♥ A K 10 7 6 4
+
+  +---------+---------+---------+---------+---------+
+  |  TRICK  |    A    |    Y    |    B    |    Z    |
+  +---------+---------+---------+---------+---------+
+  |    1    |    K♠   |    2♠   |    9♠   |   [4♥]  |
+  |    2    |    3♥   |    5♥   |    2♥   |   [A♥]  |
+  |    3    |    J♥   |    9♥   |    8♥   |   [K♥]  |
+  |    4    |    3♠   |    4♠   |   [Q♥]  |    6♥   |
+  |    5    |    K♦   |    5♦   |    Q♦   |   [A♦]  |
+  |    6    |    4♣   |    3♣   |    7♣   |   [K♣]  |
+  |    7    |    5♣   |   [A♣]  |    9♣   |    2♣   |
+  |    8    |   10♣   |   [Q♣]  |   10♠   |    2♦   |
+  |    9    |    6♠   |   [J♣]  |    J♠   |    3♦   |
+  |   10    |    7♠   |   [8♣]  |    8♦   |    4♦   |
+  |   11    |    8♠   |   [6♣]  |    9♦   |    6♦   |
+  |   12    |    Q♠   |    7♦   |   10♦   |   [7♥]  |
+  |   13    |    A♠   |    5♠   |    J♦   |  [10♥]  |
+  +---------+---------+---------+---------+---------+
+        The dealer makes a small slam.
+
+
+ILLUSTRATIVE HAND NO. 4
+
+TRICK 1.--To win the game the king of hearts must be in B’s
+hand and the lead must be arranged so that Y can lead the jack of
+hearts toward the ace queen. To make an entry card in Y’s hand, Z
+throws his king of diamonds on the ace.
+
+TRICK 2.--A would like to change the suit, but, undoubtedly,
+the diamond is his best lead.
+
+ARRANGING THE LEAD
+
+It is the rubber game, score eight to twenty-four against the
+dealer. Z, the dealer, declares Hearts.
+                   ♠ 9 8 6 4
+                   ♣ 9 8 6 4                 No. 4
+                   ♦ Q 4
+                   ♥ J 5 4
+                 +------------+
+                 |      Y     |
+    ♠ K 5        |            | ♠ A Q J 10 7
+    ♣ 10 3 2     |  A      B  | ♣ A 7
+    ♦ A 9 8 7 6 3|            | ♦ J 10 5
+    ♥ 8 6        |      Z     | ♥ K 9 2
+                 +------------+
+                   ♠ 3 2
+                   ♣ K Q J 5
+                   ♦ K 2
+                   ♥ A Q 10 7 3
+
+  +-------+------+------+------+------+
+  | TRICK |   A  |   Y  |   B  |   Z  |
+  +-------+------+------+------+------+
+  |    1  | [A♦] |  4♦  |  5♦  |  K♦  |
+  |    2  |  3♦  | [Q♦] | 10♦  |  2♦  |
+  |    3  |  6♥  | [J♥] |  2♥  |  3♥  |
+  |    4  |  8♥  |  5♥  |  9♥  |[10♥] |
+  |    5  |  6♦  |  4♥  |  K♥  | [A♥] |
+  |    6  |  2♣  |  4♣  | [A♣] |  K♣  |
+  |    7  |  7♦  |  4♠  |  J♦  | [7♥] |
+  |    8  |  8♦  |  6♠  |  7♠  | [Q♥] |
+  |    9  | 3♣   |  6♣  |  7♣  | [Q♣] |
+  |   10  | 10♣  |  8♣  | 10♠  | [J♣] |
+  |   11  |  9♦  | [9♣] |  J♠  |  5♣  |
+  |   12  |  5♠  |  9♠  | [A♠] |  2♠  |
+  |   13  | [K♠] |  8♠  |  Q♠  |  3♠  |
+  +-------+------+------+------+------+
+     The dealer wins three odd tricks.
+
+
+ILLUSTRATIVE HAND NO. 5
+
+TRICK 2.--To many players a trump lead at this trick would
+seem imperative, but if trumps are led, the adversaries obtain the
+lead and must make three tricks in the club suit. The clubs must be
+discarded before the adversaries obtain the lead. The king of spades
+should be led, otherwise the spade suit would be blocked.
+
+TRICK 4.--It seems like tempting fate for Z to lead his high
+cards, but nothing can possibly be lost. The discards which Y takes
+on these high cards offset any trump that the adversary might make.
+There is everything to gain and nothing to lose.
+
+NOT LEADING TRUMPS UNTIL LOSING CARDS HAVE BEEN DISCARDED
+
+It is the rubber game, score eighteen to nothing in favour of the
+dealer. Z deals and passes the make. Y declares hearts.
+
+                  ♠ K 3
+                  ♣ 9 8 7                    No. 5
+                  ♦ A
+                  ♥ K Q J 9 6 4 2
+                  +-------------+
+    ♠ 5 4 2       |      Y      |  ♠ J 10 9 7
+    ♣ 6 3 2       |             |  ♣ A K Q J
+    ♦ J 9 7 5 2   |  A       B  |  ♦ 10 8 4
+    ♥ 5 3         |             |  ♥ A 10
+                  |      Z      |
+                  +-------------+
+                   ♠ A Q 8 6
+                   ♣ 10 5 4
+                   ♦ K Q 6 3
+                   ♥ 8 7
+
+  +-------+-------+-------+------+------+
+  | TRICK |   A   |   Y   |  B   |   Z  |
+  +-------+-------+-------+------+------+
+  |    1  |   5♦  |  [A♦] |  4♦  |  3♦  |
+  |    2  |   2♠  |  [K♠] |  7♠  |  6♠  |
+  |    3  |   4♠  |   3♠  |  9♠  | [A♠] |
+  |    4  |   2♦  |   7♣  |  8♦  | [K♦] |
+  |    5  |   7♦  |   8♣  |  10♦ | [Q♦] |
+  |    6  |   5♠  |   9♣  | 10♠  | [Q♠] |
+  |    7  |   3♥  |   J♥  | [A♥] |  8♥  |
+  |    8  |   2♣  |  [2♥] |  K♣  |  4♣  |
+  |    9  |   5♥  |  [K♥] |  10♥ |  7♥  |
+  |   10  |   3♣  |  [Q♥] |  J♠  |  5♣  |
+  |   11  |   6♣  |  [9♥] |  J♣  |  10♣ |
+  |   12  |   9♦  |  [6♥] |  Q♣  |  6♦  |
+  |   13  |   J♦  |  [4♥] |  A♣  |  8♠  |
+  +-------+-------+-------+------+------+
+        The dealer makes a small slam.
+
+
+ILLUSTRATIVE HAND NO. 6
+
+TRICK 2.--Should B lead another round of hearts the weak
+hand would “ruff” and the strong hand would discard.
+
+TRICK 4.--The dealer requires every trick to win the game.
+To accomplish this both finesses must be successful. The trumps held
+in the two hands are in sequence from the six to the queen, and
+should B have the king of trumps three times protected, the lead must
+be kept in Y’s hand. Many a hand has been ruined by the incorrect
+play of this position.
+
+TRICK 10.--Z has the opportunity to make a brilliant coup.
+To catch the ten of spades he must lead through A’s hand, and,
+therefore, trumps Y’s winning club in order to obtain the lead.
+
+LEADING THROUGH
+
+It is the first game, score love all. Z deals and makes it diamonds.
+
+                     ♠ A J 9 7 5
+                     ♣ K Q J 7               No. 6
+                     ♦ Q 8 6
+                     ♥ J
+                   +-------------+
+    ♠ K 10 6 4     |      Y      |  ♠ ----
+    ♣ 8 6 4 2      |             |  ♣ A 5
+    ♦ 3            |  A       B  |  ♦ K 5 4 2
+    ♥ K 10 9 7     |             |  ♥ A 8 6 5 4 3 2
+                   |      Z      |
+                   +-------------+
+                     ♠ Q 8 3 2
+                     ♣ 10 9 3
+                     ♦ A J 10 9 7
+                     ♥ Q
+
+  +-------+-------+-------+-------+-------+
+  | TRICK |   A   |   Y   |   B   |   Z   |
+  +-------+-------+-------+-------+-------+
+  |   1   |   7♥  |   J♥  |  [A♥] |   Q♥  |
+  |   2   |   2♣  |   7♣  |  [A♣] |   3♣  |
+  |   3   |   4♣  |  [J♣] |   5♣  |   9♣  |
+  |   4   |   3♦  |  [Q♦] |   2♦  |   9♦  |
+  |   5   |   6♣  |  [8♦] |   4♦  |   7♦  |
+  |   6   |   8♣  |   6♦  |   5♦  | [10♦] |
+  |   7   |   9♥  |   5♠  |   K♦  |  [A♦] |
+  |   8   |   K♠  |  [A♠] |   2♥  |   Q♠  |
+  |   9   |  10♥  |  [K♣] |   3♥  |  10♣  |
+  |  10   |   K♥  |   Q♣  |   4♥  |  [J♦] |
+  |  11   |   4♠  |   7♠  |   5♥  |  [8♠] |
+  |  12   |   6♠  |  [9♠] |   6♥  |   3♠  |
+  |  13   |  10♠  |  [J♠] |   8♥  |   2♠  |
+  +-------+-------+-------+-------+-------+
+     The dealer wins five odd tricks.
+
+
+ILLUSTRATIVE HAND NO. 7
+
+TRICK 1.--As there are but six trumps in the two hands, Z
+knows that one adversary must hold at least four trumps, and should
+the force be taken and the trumps led, the adversaries would make
+the entire suit of diamonds. Z must wait until Y is able to take the
+ruff, in this way keeping his own trump strength intact.
+
+TRICK 3.--A is placed in a difficult position.
+
+TRICK 7.--With the best trump against him, Z must force the
+commanding trump, for, no matter how the adversaries play, the spade
+suit must be brought in.
+
+REFUSING TO ACCEPT A FORCE
+
+It is the first game, score eight all. Z deals and makes it hearts.
+
+                        ♠ Q 4 3
+                        ♣ A 10 9 8 7 5       No. 7
+                        ♦ 7 5
+                        ♥ 9 3
+                       +-------------+
+    ♠ 6 2              |      Y      |  ♠ 10 7
+    ♣ K                |             |  ♣ Q J 6
+    ♦ A K Q 8 3 2      |  A       B  |  ♦ J 10 9 6 4
+    ♥ J 10 8 2         |             |  ♥ 7 5 4
+                       |      Z      |
+                       +-------------+
+
+                        ♠ A K J 9 8 5
+                        ♣ 4 3 2
+                        ♦ ----
+                        ♥ A K Q 6
+
+  +-------+-------+-------+-------+-------+
+  | TRICK |   A   |   Y   |   B   |   Z   |
+  +-------+-------+-------+-------+-------+
+  |   1   |  [K♦] |   5♦  |   6♦  |   2♣  |
+  |   2   |  [Q♦] |   7♦  |   9♦  |   3♣  |
+  |   3   |   K♣  |  [A♣] |   6♣  |   4♣  |
+  |   4   |   2♥  |   3♥  |   4♥  |  [A♥] |
+  |   5   |   8♥  |   9♥  |   5♥  |  [K♥] |
+  |   6   |  10♥  |   5♣  |   7♥  |  [Q♥] |
+  |   7   |   2♠  |  [Q♠] |   7♠  |   5♠  |
+  |   8   |   6♠  |   3♠  |  10♠  |  [A♠] |
+  |   9   |  [J♥] |   4♠  |  10♦  |   K♠  |
+  |  10   |   A♦  |   7♣  |   J♦  |  [6♥] |
+  |  11   |   2♦  |   8♣  |   4♦  |  [J♠] |
+  |  12   |   3♦  |   9♣  |   J♣  |  [9♠] |
+  |  13   |   8♦  |  10♣  |   Q♣  |  [8♠] |
+  +-------+-------+-------+-------+-------+
+     The dealer wins four odd tricks.
+
+
+ILLUSTRATIVE HAND NO. 8
+
+Many players might criticise the make of this hand without realising
+its tremendous possibilities. A hand with five trumps and an
+established suit is a difficult one for the adversaries to defeat.
+As Z is short in two suits, there are not many tricks for the
+adversaries outside of the trump suit. Z hopes to find an honour in
+trumps with his partner which would enable him to exhaust the trumps
+and make his suit.
+
+TRICK 2.--Many players would find it difficult to resist the
+temptation of leading trumps up to the ace and queen in Y’s hand, but
+the danger lies in having the finesse go wrong, for this would enable
+the adversary to force the strong trump hand and the trump suit would
+be blocked. To get the lead the dealer would again have to force his
+own trump hand. If either adversary held four trumps this would be
+ruinous.
+
+NOT TAKING A FINESSE, WHICH IF UNSUCCESSFUL,
+WOULD BLOCK THE TRUMP SUIT
+
+It is the first game, score love all. Z deals and makes it hearts.
+
+               ♠ 6
+               ♣ 8 7 6 3 2                   No. 8
+               ♦ A 5 4 3 2
+               ♥ A Q
+               x-------------x
+    ♠ 9 8 5 2  |      Y      |  ♠ 10
+    ♣ K 10 4   |             |  ♣ A Q J 9 5
+    ♦ K Q J 9  |  A      B   |  ♦ 10 8 7
+    ♥ 7 2      |             |  ♥ K 8 6 4
+               |      Z      |
+               +-------------+
+               ♠ A K Q J 7 4 3
+               ♣ ----
+               ♦ 6
+               ♥ J 10 9 5 3
+
+  +-------+-------+-------+-------+-------+
+  | TRICK |   A   |   Y   |   B   |   Z   |
+  +-------+-------+-------+-------+-------+
+  |   1   |   K♦  |  [A♦] |   7♦  |   6♦  |
+  |   2   |   2♥  |  [A♥] |   4♥  |   3♥  |
+  |   3   |   7♥  |   Q♥  |  [K♥] |   5♥  |
+  |   4   |   9♦  |   2♦  |  10♦  |  [9♥] |
+  |   5   |   J♦  |   6♠  |   6♥  |  [J♥] |
+  |   6   |   4♣  |   3♦  |   8♥  | [10♥] |
+  |   7   |   2♠  |   4♦  |  10♠  |  [A♠] |
+  |   8   |   5♠  |   5♦  |   5♣  |  [K♠] |
+  |   9   |   8♠  |   2♣  |   9♣  |  [Q♠] |
+  |  10   |   9♠  |   3♣  |   J♣  |  [J♠] |
+  |  11   |   Q♦  |   6♣  |   8♦  |  [7♠] |
+  |  12   |  10♣  |   7♣  |   Q♣  |  [4♠] |
+  |  13   |   K♣  |   8♣  |   A♣  |  [3♠] |
+  +-------+-------+-------+-------+-------+
+     The dealer makes a small slam.
+
+
+ILLUSTRATIVE HAND NO. 9
+
+TRICK 1.--Z must save an entry card for the spade suit.
+
+TRICK 2.--A refuses to part with the control of the
+adversary’s suit.
+
+TRICK 3.--Should Z not overtake the jack of spades, A would
+again refuse to part with the control, and hence this entire suit
+would be blocked. This situation frequently occurs and is often
+misplayed. When your cards are in sequence and should you know that
+the adversary is holding up, always overtake to obtain the lead so
+that you can continue to establish your suit.
+
+TRICK 4.--A cannot afford to lead any other suit and
+continues with the diamonds.
+
+SAVING AN ENTRY CARD. OVERTAKING
+
+It is the first game, score love all. Z deals and passes the make. Y
+makes it “no-trump.”
+
+                   ♠ Q J
+                   ♣ A Q J 2                 No. 9
+                   ♦ A 5 3
+                   ♥ A 8 7 4
+                  x-------------x
+    ♠ A 6 3       |      Y      |  ♠ 5 2
+    ♣ K 8 7       |             |  ♣ 9 5 4
+    ♦ Q J 7 6 2   |  A      B   |  ♦ 10 9 8
+    ♥ K 10        |             |  ♥ Q J 9 6 5
+                  |      Z      |
+                  +-------------+
+                    ♠ K 10 9 8 7 4
+                    ♣ 10 6 3
+                    ♦ K 4
+                    ♥ 3 2
+
+  +-------+-------+-------+-------+-------+
+  | TRICK |   A   |   Y   |   B   |   Z   |
+  +-------+-------+-------+-------+-------+
+  |   1   |   6♦  |  [A♦] |   8♦  |   4♦  |
+  |   2   |   8♠  |  [Q♠] |   2♠  |   4♠  |
+  |   3   |  [A♠] |   J♠  |   5♠  |   K♠  |
+  |   4   |   Q♦  |   3♦  |   9♦  |  [K♦] |
+  |   5   |   6♠  |   4♥  |   5♥  | [10♠] |
+  |   6   |   2♦  |   7♥  |   6♥  |  [9♠] |
+  |   7   |   7♦  |   8♥  |   4♣  |  [8♠] |
+  |   8   |  10♥  |   5♦  |   5♣  |  [7♠] |
+  |   9   |   7♣  |   2♣  |   9♣  | [10♣] |
+  |  10   |   8♣  |  [J♣] |  10♦  |   6♣  |
+  |  11   |   K♣  |  [A♣] |   9♥  |   3♣  |
+  |  12   |   K♥  |  [Q♣] |   J♥  |   2♥  |
+  |  13   |   J♦  |  [A♥] |   Q♥  |   3♥  |
+  +-------+-------+-------+-------+-------+
+     The dealer makes a small slam.
+
+
+ILLUSTRATIVE HAND NO. 10
+
+TRICK 1.--Z false cards the king of spades in order to
+deceive his adversaries.
+
+TRICK 2.--The lead of the club suit must come from Y, but if
+a low heart is led, it will take out Y’s only card of entry. With the
+purpose of making two cards of entry, Z leads the high cards from his
+own hand.
+
+TRICK 4.--As all the hearts have fallen, Z can safely
+overtake the jack, to lead the queen of clubs toward the ace. Should
+Z continue with another round of hearts, Y would have no way of
+obtaining the lead after the club suit was established. The low heart
+must be saved as a card of entry.
+
+DOUBLE ENTRY
+
+It is the first game, score love all. Z deals and makes it “no-trump.”
+
+                 ♠ 4 2
+                 ♣ Q J 10 6 3                No. 10
+                 ♦ 4 3
+                 ♥ K 5 4 3
+                 x-------------x
+    ♠ A 9 8 7 6  |      Y      |  ♠ J 5 3
+    ♣ 8 5        |             |  ♣ K 7 4
+    ♦ K 8 5      |  A      B   |  ♦ Q J 10 9 6
+    ♥ 10 7 6     |             |  ♥ 9 8
+                 |      Z      |
+                 +-------------+
+                 ♠ K Q 10
+                 ♣ A 9 2
+                 ♦ A 7 2
+                 ♥ A Q J 2
+
+  +-------+-------+-------+-------+-------+
+  | TRICK |   A   |   Y   |   B   |   Z   |
+  +-------+-------+-------+-------+-------+
+  |   1   |   7♠  |   2♠  |   J♠  |  [K♠] |
+  |   2   |   6♥  |   3♥  |   8♥  |  [A♥] |
+  |   3   |   7♥  |   4♥  |   9♥  |  [Q♥] |
+  |   4   |  10♥  |  [K♥] |   6♦  |   J♥  |
+  |   5   |   5♣  |  [Q♣] |   4♣  |   2♣  |
+  |   6   |   8♣  |   3♣  |   7♣  |  [9♣] |
+  |   7   |   5♦  |   6♣  |   K♣  |  [A♣] |
+  |   8   |   6♠  |  [5♥] |   3♠  |   2♥  |
+  |   9   |   8♠  |  [J♣] |   5♠  |   2♦  |
+  |  10   |   9♠  | [10♣] |   9♦  |   7♦  |
+  |  11   |  [A♠] |   4♠  |  10♦  |   Q♠  |
+  |  12   |   K♦  |   3♦  |   J♦  |  [A♦] |
+  |  13   |   8♦  |   4♦  |   Q♦  | [10♠] |
+  +-------+-------+-------+-------+-------+
+      The dealer makes a small slam.
+
+
+ILLUSTRATIVE HAND NO. 11
+
+TRICK 1.--As the club suit is blocked, Y needs two entry
+cards, one to establish the suit and the other to obtain the lead and
+make it. Z, therefore, overtakes the jack of spades with the ace, to
+make it possible for Y to have two entry cards.
+
+TRICK 5.--Without reference to the position of the cards,
+A’s lead of the five of spades is bad. The game is lost unless B
+holds the diamond suit, and his best play is undoubtedly the ace and
+the jack of diamonds. As the cards are placed, however, this would
+give the dealer an additional trick.
+
+MAKING AN ENTRY CARD
+
+It is the rubber game, score twenty-four to nothing against
+the dealer. Z deals and makes it “no-trumps.”
+
+                  ♠ Q J
+                  ♣ Q J 10 9 7 3 2           No. 11
+                  ♦ 8 6
+                  ♥ A 2
+                  x-------------x
+    ♠ 10 7 5 4 2  |      Y      |  ♠ 9 8 6
+    ♣ K  6 4      |             |  ♣ 8 5
+    ♦ A J         |  A       B  |  ♦ Q 10 9 5
+    ♥ K J 10      |             |  ♥ 9  8 7 3
+                  |      Z      |
+                  +-------------+
+                  ♠ A K 3
+                  ♣ A
+                  ♦ K 7 4 3 2
+                  ♥ Q 6 5 4
+
+  +-------+-------+-------+-------+-------+
+  | TRICK |   A   |   Y   |   B   |   Z   |
+  +-------+-------+-------+-------+-------+
+  |   1   |   4♠  |   J♠  |   6♠  |  [A♠] |
+  |   2   |   4♣  |   2♣  |   5♣  |  [A♣] |
+  |   3   |   2♠  |  [Q♠] |   8♠  |   3♠  |
+  |   4   |  [K♣] |   Q♣  |   8♣  |   2♦  |
+  |   5   |   5♠  |   6♦  |   9♠  |  [K♠] |
+  |   6   |  10♥  |  [A♥] |   3♥  |   4♥  |
+  |   7   |   6♣  |  [J♣] |   5♦  |   3♦  |
+  |   8   |   J♦  | [10♣] |   7♥  |   4♦  |
+  |   9   |   J♥  |  [9♣] |   8♥  |   5♥  |
+  |  10   |   7♠  |  [7♣] |   9♥  |   6♥  |
+  |  11   |  10♠  |  [3♣] |   9♦  |   Q♥  |
+  |  12   |  [A♦] |   8♦  |  10♦  |   K♦  |
+  |  13   |  [K♥] |   2♥  |   Q♦  |   7♦  |
+  +-------+-------+-------+-------+-------+
+    The dealer wins four odd tricks.
+
+
+ILLUSTRATIVE HAND NO. 12
+
+TRICK 5.--Z finds that the seven of diamonds is a card of
+re-entry and plays to establish the club suit.
+
+TRICK 12.--Z can well afford to chance the making of a small
+slam.
+
+A CARD OF RE-ENTRY
+
+It is the first game, score love all. Z, the dealer, makes it
+“no-trumps.”
+
+
+                  ♠ 8 4 2
+                  ♣ 8 7 5 4 3                No. 12
+                  ♦ 7 4 3 2
+                  ♥ A
+                x-------------x
+    ♠ 10 9 7 3  |      Y      |  ♠ K J 5
+    ♣ 9 6       |             |  ♣ Q J 10
+    ♦ 10 5      |  A      B   |  ♦ J 9 8
+    ♥ Q J 7 6 4 |             |  ♥ 10 9 8 5
+                |      Z      |
+                +-------------+
+                  ♠ A Q 6
+                  ♣ A K 2
+                  ♦ A K Q 6
+                  ♥ K 3 2
+
+  +-------+-------+-------+-------+-------+
+  | TRICK |   A   |   Y   |   B   |   Z   |
+  +-------+-------+-------+-------+-------+
+  |   1   |   6♥  |  [A♥] |   8♥  |   2♥  |
+  |   2   |   5♦  |   2♦  |   8♦  |  [A♦] |
+  |   3   |  10♦  |   3♦  |   9♦  |  [K♦] |
+  |   4   |   6♣  |   4♦  |   J♦  |  [Q♦] |
+  |   5   |   9♣  |   3♣  |  10♣  |  [A♣] |
+  |   6   |   3♠  |   4♣  |   J♣  |  [K♣] |
+  |   7   |   7♠  |   5♣  |  [Q♣] |   2♣  |
+  |   8   |   4♥  |   2♠  |  10♥  |  [K♥] |
+  |   9   |   9♠  |  [7♦] |   5♥  |   6♦  |
+  |  10   |   7♥  |  [8♣] |   9♥  |   6♠  |
+  |  11   |   J♥  |  [7♣] |   5♠  |   3♥  |
+  |  12   |  10♠  |   8♠  |   J♠  |  [Q♠] |
+  |  13   |   Q♥  |   4♠  |   K♠  |  [A♠] |
+  +-------+-------+-------+-------+-------+
+      The dealer makes a small slam.
+
+
+ILLUSTRATIVE HAND NO. 13
+
+TRICK 1.--Z cannot afford to hold up the ace of spades, as
+the entire diamond suit is against him. The game can neither be saved
+nor won unless the king of clubs is in B’s hand. Should this be the
+case, it may be necessary to lead twice from Y’s hand.
+
+Z proceeds to make these entry cards by leading the high hearts from
+his own hand. The situation is one that is not only interesting but
+instructive.
+
+DOUBLE ENTRY
+
+It is the rubber game, score twenty-four to nothing against
+the dealer. Z deals and makes it “no-trump.”
+
+                        ♠ 7 5
+                        ♣ 9 8 6              No. 13
+                        ♦ 7 6 5 4
+                        ♥ K 5 4 3
+                       x-------------x
+    ♠ K J 10 8 6 4 3   |      Y      |  ♠ Q 2
+    ♣ 7 4              |             |  ♣ K 10 3
+    ♦ J                |  A      B   |  ♦ A K Q 10 3 2
+    ♥ J 9 7            |             |  ♥ 10 8
+                       |      Z      |
+                       +-------------+
+                        ♠ A 9
+                        ♣ A Q J 5 2
+                        ♦ 9 8
+                        ♥ A Q 6 2
+
+  +-------+-------+-------+-------+-------+
+  | TRICK |   A   |   Y   |   B   |   Z   |
+  +-------+-------+-------+-------+-------+
+  |   1   |  10♠  |   5♠  |   2♠  |  [A♠] |
+  |   2   |   7♥  |   3♥  |   8♥  |  [A♥] |
+  |   3   |   9♥  |   4♥  |  10♥  |  [Q♥] |
+  |   4   |   J♥  |  [K♥] |   2♦  |   6♥  |
+  |   5   |   4♣  |   9♣  |  10♣  |  [J♣] |
+  |   6   |   3♠  |  [5♥] |   3♦  |   2♥  |
+  |   7   |   7♣  |  [8♣] |   3♣  |   2♣  |
+  |   8   |   4♠  |   6♣  |   K♣  |  [A♣] |
+  |   9   |   6♠  |   7♠  |   Q♠  |  [Q♣] |
+  |  10   |   8♠  |   4♦  |  10♦  |  [5♣] |
+  |  11   |   J♦  |   5♦  |  [Q♦] |   8♦  |
+  |  12   |   J♠  |   6♦  |  [K♦] |   9♦  |
+  |  13   |   K♠  |   7♦  |  [A♦] |   9♠  |
+  +-------+-------+-------+-------+-------+
+     The dealer wins four odd tricks.
+
+
+ILLUSTRATIVE HAND NO. 14
+
+TRICK 1.--Z’s only hope to win the game is to establish and
+make the diamond suit in Y’s hand. To do this it may be necessary to
+have an entry card.
+
+TRICK 2.--B very properly refuses to part with the
+commanding diamond and waits until the last diamond has been played
+from the dealer’s hand.
+
+TRICK 5.--There is little excuse for the dealer’s play of
+the ace of clubs at this point. He cannot lose by playing a low card.
+
+OVERTAKING TO MAKE AN ENTRY CARD
+
+It is the first game, score love all. Z, the dealer, makes it
+“no-trump.”
+
+                     ♠ 9 8 3
+                     ♣ J 7                   No. 14
+                     ♦ K J 7 6 3 2
+                     ♥ K Q
+                    x-------------x
+    ♠ K Q 5         |      Y      |  ♠ J 10 7
+    ♠ K Q 5         |             |  ♣ Q 10 9 5
+    ♦ 10            |  A      B   |  ♦ A 9 5
+    ♥ J 9 6 5 3 2   |             |  ♥ 10 8 7
+                    |      Z      |
+                    +-------------+
+                     ♠ A 6 4 2
+                     ♣ A 4 3 2
+                     ♦ Q 8 4
+                     ♥ A 4
+
+  +-------+-------+-------+-------+-------+
+  | TRICK |   A   |   Y   |   B   |   Z   |
+  +-------+-------+-------+-------+-------+
+  |   1   |   5♥  |   Q♥  |   7♥  |  [A♥] |
+  |   2   |  10♦  |   2♦  |   5♦  |  [Q♦] |
+  |   3   |   2♥  |  [J♦] |   9♦  |   8♦  |
+  |   4   |   3♥  |   3♦  |  [A♦] |   4♦  |
+  |   5   |   6♣  |   7♣  |   5♣  |  [A♣] |
+  |   6   |   6♥  |  [K♥] |   8♥  |   4♥  |
+  |   7   |   5♠  |  [K♦] |  10♥  |   2♣  |
+  |   8   |   8♣  |  [7♦] |   9♣  |   3♣  |
+  |   9   |   9♥  |  [6♦] |   7♠  |   4♣  |
+  |  10   |   Q♠  |   9♠  |  10♠  |  [A♠] |
+  |  11   |  [K♠] |   3♠  |   J♠  |   2♠  |
+  |  12   |  [J♥] |   J♣  |  10♣  |   4♠  |
+  |  13   |  [K♣] |   8♠  |   Q♣  |   6♠  |
+  +-------+-------+-------+-------+-------+
+    The dealer wins three odd tricks.
+
+
+ILLUSTRATIVE HAND NO. 15
+
+TRICK 1.--It is wrong to hold up an ace when one entire suit
+is against you. You must take the lead and make all that is possible
+in the other suits.
+
+TRICK 2.--The spade suit looks tempting, but the club
+suit is longer and the dealer cannot afford to run the risk of the
+adversaries’ obtaining the lead. Hasty and careless play to the first
+lead of clubs would ruin the hand. Y must begin to unblock.
+
+TRICK 8.--The game is saved and cannot be won unless the
+finesse in the spade suit is successful.
+
+NOT HOLDING UP AN ACE. UNBLOCKING
+
+It is the rubber game, score twenty-four to nothing against the
+dealer. Z, the dealer, makes it “no-trumps.”
+
+                   ♠ A 10 9 6 5
+                   ♣ 10 9 4                  No. 15
+                   ♦ 5 4 2
+                   ♥ 7 4
+                  x-------------x
+    ♠ K 8 2       |      Y      |  ♠ 4 3
+    ♣ Q 5         |             |  ♣ J 6
+    ♦ J 10 3      |  A      B   |  ♦ A K Q 9 7 6
+    ♥ Q 10 9 8 3  |             |  ♥ K J 5
+                  |      Z      |
+                  +-------------+
+                   ♠ Q J 7
+                   ♣ A K 8 7 3 2
+                   ♦ 8
+                   ♥ A 6 2
+
+  +-------+-------+-------+-------+-------+
+  | TRICK |   A   |   Y   |   B   |   Z   |
+  +-------+-------+-------+-------+-------+
+  |   1   |   8♥  |   4♥  |   K♥  |  [A♥] |
+  |   2   |   5♣  |   9♣  |   6♣  |  [A♣] |
+  |   3   |   Q♣  |  10♣  |   J♣  |  [K♣] |
+  |   4   |   3♦  |   4♣  |   6♦  |  [8♣] |
+  |   5   |  10♦  |   7♥  |   3♠  |  [7♣] |
+  |   6   |   3♥  |   2♦  |   4♠  |  [3♣] |
+  |   7   |   J♦  |   4♦  |   7♦  |  [2♣] |
+  |   8   |   2♠  |   5♠  |   9♦  |  [Q♠] |
+  |   9   |   8♠  |   6♠  |   Q♦  |  [J♠] |
+  |  10   |   K♠  |  [A♠] |   5♥  |   7♠  |
+  |  11   |   9♥  | [10♠] |   J♥  |   2♥  |
+  |  12   |  10♥  |  [9♠] |   K♦  |   6♥  |
+  |  13   |   Q♥  |   5♦  |  [A♦] |   8♦  |
+  +-------+-------+-------+-------+-------+
+      The dealer makes a small slam.
+
+
+ILLUSTRATIVE HAND NO. 16
+
+TRICKS 1 AND 2.--Z refuses to part with the ace of hearts,
+and waits until B’s last heart has been played.
+
+TRICK 4.--B cannot afford to win the queen of clubs with the
+king. The dealer may have another club to lead. As the dummy holds no
+card of entry, B hopes to block this suit by waiting until the last
+club has been played from the dealer’s hand.
+
+TRICK 5.--The dealer can, without doubt, make an extra trick
+by playing the ace of clubs, but he imagines that the king of clubs
+is with A.
+
+HOLDING UP A KING
+
+It is the first game. Score 8-0 against the dealer. Z, the dealer,
+declares “no-trumps.” A leads for the first trick.
+
+                  ♠ 5 4 2
+                  ♣ A J 10 8 7 3             No. 16
+                  ♦ 8 6
+                  ♥ 4 2
+                 x-------------x
+    ♠ J 8 6      |      Y      |  ♠ A 10 3
+    ♣ 9 4        |             |  ♣ K 6 2
+    ♦ 10 9 5     |  A      B   |  ♦ K J 4 2
+    ♥ K Q J 5 3  |             |  ♥ 10 8 6
+                 |      Z      |
+                 +-------------+
+                  ♠ K Q 9 7
+                  ♣ Q 5
+                  ♦ A Q 7 3
+                  ♥ A 9 7
+
+  +-------+-------+-------+-------+-------+
+  | TRICK |   A   |   Y   |   B   |   Z   |
+  +-------+-------+-------+-------+-------+
+  |   1   |  [K♥] |   2♥  |   6♥  |   7♥  |
+  |   2   |  [Q♥] |   4♥  |   8♥  |   9♥  |
+  |   3   |   3♥  |   2♠  |  10♥  |  [A♥] |
+  |   4   |   4♣  |   3♣  |   2♣  |  [Q♣] |
+  |   5   |   9♣  |  10♣  |  [K♣] |   5♣  |
+  |   6   |   5♦  |   6♦  |   2♦  |  [Q♦] |
+  |   7   |   6♠  |   4♠  |  [A♠] |   K♠  |
+  |   8   |   9♦  |   8♦  |   K♦  |  [A♦] |
+  |   9   |   8♠  |   5♠  |   3♠  |  [Q♠] |
+  |  10   |  [J♠] |   7♣  |  10♠  |   7♠  |
+  |  11   |  [J♥] |   8♣  |   6♣  |   9♠  |
+  |  12   |  [5♥] |   J♣  |   4♦  |   3♦  |
+  |  13   |  10♦  |   A♣  |  [J♦] |   7♦  |
+  +-------+-------+-------+-------+-------+
+      The dealer loses two odd tricks.
+
+
+ILLUSTRATIVE HAND NO. 17
+
+TRICK 1.--To win the game Z must establish and make the club
+suit; as A holds both queen and jack of clubs, he must make one trick.
+
+TRICK 2.--A plays very badly in attempting to win this
+trick. This mistake, however, is often made. Should A refuse to win
+this trick it would be impossible for the clubs in Y’s hand to make.
+
+TRICK 9.--B’s only hope is to find his partner strong in
+spades.
+
+OVERTAKING, LOSING A TRICK, IN ORDER TO MAKE A SUIT
+
+It is the rubber game, score love all.  Z, the dealer, makes
+it “no-trumps.”
+
+                   ♠ 8 6 4
+                   ♣ K 10 9 8 6 5            No. 17
+                   ♦ 10 6
+                   ♥ 5 4
+                   +-------------+
+        ♠ K 10 5   |      Y      |  ♠ Q J 3
+        ♣ Q J 7 2  |             |  ♣ ----
+        ♦ 5 4 2    |  A       B  |  ♦ A J 9 7 3
+        ♥ 9 8 3    |             |  ♥ K J 10 6 2
+                   |      Z      |
+                   +-------------+
+                   ♠ A 9 7 2
+                   ♣ A 4 3
+                   ♦ K Q 8
+                   ♥ A Q 7
+
+  +-------+-------+-------+-------+-------+
+  | TRICK |   A   |   Y   |   B   |   Z   |
+  +-------+-------+-------+-------+-------+
+  |   1   |   2♣  |   5♣  |   2♥  |  [A♣] |
+  |   2   |  [J♣] |   6♣  |   3♦  |   4♣  |
+  |   3   |   9♥  |   4♥  |   6♥  |  [Q♥] |
+  |   4   |   7♣  |  [8♣] |   7♦  |   3♣  |
+  |   5   |   Q♣  |  [K♣] |   9♦  |   2♠  |
+  |   6   |   2♦  | [10♣] |  10♥  |   7♠  |
+  |   7   |   4♦  |  [9♣] |   J♦  |   9♠  |
+  |   8   |   5♦  |  10♦  |  [A♦] |   8♦  |
+  |   9   |   5♠  |   4♠  |   Q♠  |  [A♠] |
+  |  10   |   3♥  |   6♦  |   3♠  |  [K♦] |
+  |  11   |   8♥  |   5♥  |   J♠  |  [Q♦] |
+  |  12   |  10♠  |   6♠  |   J♥  |  [A♥] |
+  |  13   |   K♠  |   8♠  |  [K♥] |   7♥  |
+  +-------+-------+-------+-------+-------+
+      The dealer wins four odd tricks.
+
+
+ILLUSTRATIVE HAND NO. 18
+
+TRICK 2.--Should Z finesse and lose, Y’s suit would be
+blocked and the adversary would undoubtedly take out Y’s only
+re-entry card. The suit must be cleared before this re-entry card is
+gone and many games and rubbers are lost by hasty play in positions
+of this kind.
+
+NOT TAKING A FINESSE
+
+The score is eighteen to nothing against the dealer. Z deals and makes
+it “no-trumps.”
+
+                    ♠ 8 7
+                    ♣ J 10 9 6 5 4           No. 18
+                    ♦ 7 3 2
+                    ♥ A K
+                   x-------------x
+    ♠ Q 4          |      Y      |  ♠ K J 10 9
+    ♣ K 8          |             |  ♣ 7 3 2
+    ♦ Q 9 6        |  A      B   |  ♦ 10 8 5
+    ♥ Q J 8 7 6 2  |             |  ♥ 10 9 5
+                   |      Z      |
+                   +-------------+
+                    ♠ A 6 5 3 2
+                    ♣ A Q
+                    ♦ A K J 4
+                    ♥ 4 3
+
+  +-------+-------+-------+-------+-------+
+  | TRICK |   A   |   Y   |   B   |   Z   |
+  +-------+-------+-------+-------+-------+
+  |   1   |   7♥  |  [K♥] |   5♥  |   3♥  |
+  |   2   |   8♣  |   4♣  |   2♣  |  [A♣] |
+  |   3   |  [K♣] |   5♣  |   3♣  |   Q♣  |
+  |   4   |   2♥  |  [A♥] |   9♥  |   4♥  |
+  |   5   |   6♥  |  [J♣] |   7♣  |   2♠  |
+  |   6   |   4♠  | [10♣] |   8♦  |   3♠  |
+  |   7   |   8♥  |  [9♣] |   5♦  |   5♠  |
+  |   8   |   J♥  |  [6♣] |   9♠  |   6♠  |
+  |   9   |   6♦  |   2♦  |  10♦  |  [K♦] |
+  |  10   |   9♦  |   3♦  |  10♠  |  [A♦] |
+  |  11   |   Q♠  |   7♠  |   J♠  |  [A♠] |
+  |  12   |  [Q♦] |   7♦  |  10♥  |   4♦  |
+  |  13   |  [Q♥] |   8♠  |   K♠  |   J♦  |
+  +-------+-------+-------+-------+-------+
+     The dealer wins four odd tricks.
+
+
+ILLUSTRATIVE HAND NO. 19
+
+TRICK 1.--Should Z refuse to win the first round of spades
+with the king, his hand may be led through and the king captured. He
+cannot gain by holding up this high card unless the original leader
+holds a six-card spade suit as well as the ace of hearts. In other
+words, he will lose if A has a four-or a five-card suit, and can
+only win if A holds a six-card suit and the ace of hearts. In the
+play of any hand, the usual, not the unusual distribution of the
+cards should be considered.
+
+TRICK 2.--Z must play the hand with a certain goal in
+view--eight tricks. If he leads the diamonds, he is compelled to
+guess, and a wrong guess would be disastrous. As the ace of hearts
+must win, Z hopes, by allowing the spades to make, to obtain
+information which will guide him to a successful finesse.
+
+TRICKS 4, 5, AND 6.--Why does B protect both clubs and
+diamonds?
+
+TRICK 9.--A’s discard of the two of diamonds is informative
+and as B is protecting the diamond suit the dealer can safely infer
+the location of the queen.
+
+FORCING DISCARDS TO LOCATE A FINESSE
+
+It is the rubber game, score twelve to twenty-four against the
+dealer. Z passes the make. Y declares “no-trumps.”
+
+                   ♠ 9 5
+                   ♣ A 8 7 3                 No. 19
+                   ♦ A 10 8 6
+                   ♥ K Q 3
+                  x-------------x
+    ♠ A J 10 7 6  |      Y      |  ♠ Q 4
+    ♣ K 10 6      |             |  ♣ Q 5 4
+    ♦ 9 4 2       |  A      B   |  ♦ Q 5 3
+    ♥ 8 2         |             |  ♥ A 9 6 5 4
+                  |      Z      |
+                  +-------------+
+                   ♠ K 8 3 2
+                   ♣ J 9 2
+                   ♦ K J 7
+                   ♥ J 10 7 4
+
+  +-------+-------+-------+-------+-------+
+  | TRICK |   A   |   Y   |   B   |   Z   |
+  +-------+-------+-------+-------+-------+
+  |   1   |   7♠  |   5♠  |   Q♠  |  [K♠] |
+  |   2   |   2♥  |   Q♥  |  [A♥] |   7♥  |
+  |   3   | [10♠] |   9♠  |   4♠  |   2♠  |
+  |   4   |  [A♠] |   3♣  |   4♥  |   3♠  |
+  |   5   |  [J♠] |   7♣  |   5♥  |   8♠  |
+  |   6   |  [6♠] |   8♣  |   6♥  |   2♣  |
+  |   7   |   6♣  |  [A♣] |   4♣  |   9♣  |
+  |   8   |   8♥  |   3♥  |   9♥  |  [J♥] |
+  |   9   |   2♦  |  [K♥] |   5♣  |  10♥  |
+  |  10   |   4♦  |   6♦  |   3♦  |  [J♦] |
+  |  11   |   9♦  |   8♦  |   5♦  |  [K♦] |
+  |  12   |  10♣  |  [A♦] |   Q♦  |   7♦  |
+  |  13   |   K♣  | [10♦] |   Q♣  |   J♣  |
+  +-------+-------+-------+-------+-------+
+      The dealer wins two odd tricks.
+
+
+ILLUSTRATIVE HAND NO. 20
+
+TRICK 2.--Z cannot afford to lead diamonds from Y’s hand, as
+this would take out the only entry card.
+
+TRICK 3.--B waits until Z’s last diamond has been played.
+
+TRICK 6.--Z endeavours to establish an entry card for Y by
+sacrificing a high card from his own hand. B again tries to block the
+dealer’s game.
+
+TRICK 7.--The ace of hearts is now marked with B, and the
+Finesse Obligatory must be taken. Unless the jack of hearts lies with
+A, Y can never make the diamond suit.
+
+TRICK 11.--It is very difficult for A to mark the two of
+clubs.
+
+DESCHAPELLES COUP. FINESSE OBLIGATORY
+
+It is the rubber game, score love all. Z, the dealer, makes it
+“no-trumps.”
+
+                    ♠ 9 8 5 4
+                    ♣ 8                      No. 20
+                    ♦ J 9 7 5 4
+                    ♥ Q 10 6
+                  x-------------x
+    ♠ K 10 6      |      Y      |  ♠ Q J 7
+    ♣ 10 7 6 5 3  |             |  ♣ J 9 4
+    ♦ 10 6        |  A      B   |  ♦ K 8 3
+    ♥ J 3 2       |             |  ♥ A 9 5 4
+                  |      Z      |
+                  +-------------+
+                    ♠ A 3 2
+                    ♣ A K Q 2
+                    ♦ A Q 2
+                    ♥ K 8 7
+
+  +-------+-------+-------+-------+-------+
+  | TRICK |   A   |   Y   |   B   |   Z   |
+  +-------+-------+-------+-------+-------+
+  |   1   |   5♣  |   8♣  |   J♣  |  [A♣] |
+  |   2   |   6♦  |   4♦  |   3♦  |  [A♦] |
+  |   3   |  10♦  |   5♦  |   8♦  |  [Q♦] |
+  |   4   |   6♠  |   7♦  |  [K♦] |   2♦  |
+  |   5   |   3♣  |   4♠  |   9♣  |  [K♣] |
+  |   6   |   2♥  |   6♥  |   4♥  |  [K♥] |
+  |   7   |   3♥  |  10♥  |  [A♥] |   8♥  |
+  |   8   |   6♣  |   5♠  |   4♣  |  [Q♣] |
+  |   9   |   J♥  |  [Q♥] |   5♥  |   7♥  |
+  |  10   |   7♣  |  [J♦] |   9♥  |   2♠  |
+  |  11   |  10♠  |  [9♦] |   7♠  |   3♠  |
+  |  12   |   K♠  |   9♠  |   J♠  |  [A♠] |
+  |  13   | [10♣] |   8♠  |   Q♠  |   2♣  |
+  +-------+-------+-------+-------+-------+
+     The dealer wins four odd tricks.
+
+
+ILLUSTRATIVE HAND NO. 21
+
+TRICK 2.--Z infers that the adversaries will not continue with
+the spade suit as Y holds a tenace over A’s cards. Every suit is
+protected, but it would be dangerous to have clubs led through, for,
+should A obtain the lead, this entire suit might be brought in. In
+all probability the adversaries will make a trick in diamonds and Z
+prefers that the first be taken by B.
+
+TRICK 3.--B leads an irregular card in hearts so that A can mark his
+suit. Z cannot afford to have A lead and so takes this trick.
+
+NOT ALLOWING ADVERSARY TO LEAD THROUGH A ONCE GUARDED KING
+
+It is the rubber game, score eight to twenty against the dealer.
+Z deals and makes it “no-trumps.”
+
+                   ♠ K J 7
+                   ♣ K 7                     No. 21
+                   ♦ K 8 3
+                   ♥ 10 8 5 4 3
+                  x-------------x
+    ♠ Q 10 9 6 3  |      Y      |  ♠ 8 2
+    ♣ 10 8 4      |             |  ♣ A Q J 9 5 3
+    ♦ Q 7 2       |  A      B   |  ♦ J 9
+    ♥ K J         |             |  ♥ Q 9 2
+                  |      Z      |
+                  +-------------+
+                   ♠ A 5 4
+                   ♣ 6 2
+                   ♦ A 10 6 5 4
+                   ♥ A 7 6
+
+  +-------+-------+-------+-------+-------+
+  | TRICK |   A   |   Y   |   B   |   Z   |
+  +-------+-------+-------+-------+-------+
+  |   1   |   6♠  |   7♠  |   8♠  |  [A♠] |
+  |   2   |   2♦  |   8♦  |  [J♦] |   4♦  |
+  |   3   |   J♥  |   3♥  |   9♥  |  [A♥] |
+  |   4   |   7♦  |  [K♦] |   9♦  |   5♦  |
+  |   5   |   Q♦  |   3♦  |   2♠  |  [A♦] |
+  |   6   |   4♣  |   4♥  |   3♣  | [10♦] |
+  |   7   |   8♣  |   5♥  |   5♣  |  [6♦] |
+  |   8   |   3♠  |  [J♠] |   9♣  |   5♠  |
+  |   9   |   9♠  |  [K♠] |   J♣  |   4♠  |
+  |  10   |  [K♥] |  10♥  |   2♥  |   6♥  |
+  |  11   |  [Q♠] |   8♥  |   Q♣  |   7♥  |
+  |  12   | [10♠] |   7♣  |   Q♥  |   2♣  |
+  |  13   |  10♣  |   K♣  |  [A♣] |   6♣  |
+  +-------+-------+-------+-------+-------+
+      The dealer wins two odd tricks.
+
+
+ILLUSTRATIVE HAND NO. 22
+
+TRICK 1.--Z hopes to exhaust the hearts in B’s hand.
+
+TRICK 4.--To make two odd tricks is simple. To win the game A must
+not get the lead. With an established suit against you, you
+should not take a finesse, which would allow the adversary with the
+established suit to obtain the lead. To lead the queen of clubs from
+Y’s hands would be dangerous. The possibilities lie in the diamond
+suit. Z, therefore, leads a diamond and allows B to win the trick.
+The dealer must play the ace of clubs, for, should the diamonds fall,
+the game is assured.
+
+NOT ALLOWING AN ESTABLISHED SUIT TO MAKE
+
+It is the rubber game, score twenty-four to nothing against the
+dealer. Z deals and makes it “no-trumps.”
+
+                    ♠ Q J 3
+                    ♣ Q 9                    No. 22
+                    ♦ A K 8 6 5 2
+                    ♥ 7 6
+                   x-------------x
+    ♠ 9 7 5        |      Y      |  ♠ 8 6 2
+    ♣ K 8          |             |  ♣ 6 4 3 2
+    ♦ Q 4 3        |  A       B  |  ♦ J 10 9
+    ♥ K Q J 10 5   |             |  ♥ 9 4 2
+                   |      Z      |
+                   x-------------x
+                    ♠ A K 10 4
+                    ♣ A J 10 7 5
+                    ♦ 7
+                    ♥ A 8 3
+
+  +-------+-------+-------+-------+-------+
+  | TRICK |   A   |   Y   |   B   |   Z   |
+  +-------+-------+-------+-------+-------+
+  |   1   |  [K♥] |   6♥  |   2♥  |   3♥  |
+  |   2   | [10♥] |   7♥  |   4♥  |   8♥  |
+  |   3   |   J♥  |   3♠  |   9♥  |  [A♥] |
+  |   4   |   3♦  |   2♦  |  [9♦] |   7♦  |
+  |   5   |   8♣  |   9♣  |   2♣  |  [A♣] |
+  |   6   |   5♠  |  [J♠] |   2♠  |   4♠  |
+  |   7   |   4♦  |  [A♦] |  10♦  |   5♣  |
+  |   8   |   Q♦  |  [K♦] |   J♦  |   7♣  |
+  |   9   |   7♠  |  [8♦] |   6♠  |  10♣  |
+  |  10   |   9♠  |  [6♦] |   8♠  |   J♣  |
+  |  11   |   5♥  |  [5♦] |   3♣  |  10♠  |
+  |  12   |   Q♥  |   Q♠  |   4♣  |  [K♠] |
+  |  13   |   K♣  |   Q♣  |   6♣  |  [A♠] |
+  +-------+-------+-------+-------+-------+
+     The dealer wins four odd tricks.
+
+
+ILLUSTRATIVE HAND NO. 23
+
+TRICK 3.--With four spades in B’s hand, to make this suit Z
+must allow B to win the first trick.
+
+TRICK 10.--Z hopes to make the king of diamonds by leading
+from the weak hand.
+
+“DUCKING”
+
+It is the first game, score love all. Z, the dealer, makes it
+“no-trumps.”
+
+                   ♠ A K Q 10 7 5 4
+                   ♣ 9 6 4                   No. 23
+                   ♦ 10 7
+                   ♥ 3
+                  x-------------x
+    ♠ ----        |      Y      |  ♠ J 9 3 2
+    ♣ Q 10 8 5    |             |  ♣ K J
+    ♦ Q 6 3 2     |  A      B   |  ♦ A J 9 4
+    ♥ Q 10 7 6 4  |             |  ♥ 9 8 5
+                  |      Z      |
+                  +-------------+
+                   ♠ 8 6
+                   ♣ A 7 3 2
+                   ♦ K 8 5
+                   ♥ A K J 2
+
+  +-------+-------+-------+-------+-------+
+  | TRICK |   A   |   Y   |   B   |   Z   |
+  +-------+-------+-------+-------+-------+
+  |   1   |   6♥  |   3♥  |   8♥  |  [J♥] |
+  |   2   |   2♦  |   4♠  |  [9♠] |   8♠  |
+  |   3   |   4♥  |   4♣  |   9♥  |  [A♥] |
+  |   4   |   5♣  |  [Q♠] |   2♠  |   6♠  |
+  |   5   |   7♥  |  [A♠] |   3♠  |   2♣  |
+  |   6   |   8♣  |  [K♠] |   J♠  |   3♣  |
+  |   7   |  10♣  | [10♠] |   4♦  |   7♣  |
+  |   8   |   Q♣  |  [7♠] |   9♦  |   5♦  |
+  |   9   |  10♥  |  [5♠] |   J♦  |   2♥  |
+  |  10   |   3♦  |   7♦  |  [A♦] |   8♦  |
+  |  11   |   Q♥  |  10♦  |   5♥  |  [K♥] |
+  |  12   |   6♦  |   6♣  |   J♣  |  [K♦] |
+  |  13   |   Q♦  |   9♣  |   K♣  |  [A♣] |
+  +-------+-------+-------+-------+-------+
+      The dealer wins five odd tricks.
+
+
+ILLUSTRATIVE HAND NO. 24
+
+Holding the ace, king, and jack of a suit, provided the queen is not
+in dummy, it is often advisable to wait until your partner can lead
+through the dealer’s hand. To lead through a king in dummy is sound
+play, especially when you hold a sequence. Z cannot gain by covering
+the honour led. He hopes that the ace will fall to the first or
+second lead.
+
+TRICK 5.--B indicates his suit before returning his partner’s original
+lead.
+
+LEADING THROUGH DUMMY’S STRENGTH
+
+It is the first game, score eight to nothing against the dealer.
+Z, the dealer, passes the make. Y declares hearts.
+
+                 ♠ J 2
+                 ♣ K 9 8                     No. 24
+                 ♦ 6 4 3
+                 ♥ A Q J 7 5
+                x-------------x
+    ♠ 10 7 5    |      Y      |  ♠ A K 6 4
+    ♣ Q J 10    |             |  ♣ A 6 5 4
+    ♦ A K J 5   |  A      B   |  ♦ 9 8 2
+    ♥ K 6 3     |             |  ♥ 8 2
+                |      Z      |
+                +-------------+
+                 ♠ Q 9 8 3
+                 ♣ 7 3 2
+                 ♦ Q 10 7
+                 ♥ 10 9 4
+
+  +-------+-------+-------+-------+-------+
+  | TRICK |   A   |   Y   |   B   |   Z   |
+  +-------+-------+-------+-------+-------+
+  |   1   |  [K♦] |   3♦  |   2♦  |   7♦  |
+  |   2   |  [Q♣] |   8♣  |   4♣  |   2♣  |
+  |   3   |  [J♣] |   9♣  |   5♣  |   3♣  |
+  |   4   |  10♣  |   K♣  |  [A♣] |   7♣  |
+  |   5   |   5♠  |   2♠  |  [K♠] |   3♠  |
+  |   6   |  [J♦] |   4♦  |   9♦  |  10♦  |
+  |   7   |  [A♦] |   6♦  |   8♦  |   Q♦  |
+  |   8   |   7♠  |   J♠  |  [A♠] |   8♠  |
+  |   9   |  10♠  |  [5♥] |   4♠  |   9♠  |
+  |  10   |   3♥  |  [A♥] |   2♥  |   4♥  |
+  |  11   |  [K♥] |   7♥  |   8♥  |   9♥  |
+  |  12   |   5♦  |  [J♥] |   6♣  |   Q♠  |
+  |  13   |   6♥  |  [Q♥] |   6♠  |  10♥  |
+  +-------+-------+-------+-------+-------+
+     The dealer loses three odd tricks.
+
+
+ILLUSTRATIVE HAND NO. 25
+
+TRICK 1.--Many players would be tempted to lead the supporting
+diamond rather than to open the four-card suit.
+
+TRICK 2.--Should B lead the ace of spades the ruff would be
+established in the weak hand. As B holds protection in all of the
+suits, his best play is to lead trumps through the strong hand.
+
+TRICK 3.--It would be bad play for A to return his partner’s lead of
+trumps. He holds the king of trumps protected and must wait until his
+partner can again lead through the dealer’s hand. It would be wrong
+to continue his original lead of spades, as the dealer could then
+stop the lead of trumps and give dummy the ruff. A infers from his
+partner’s lead of trumps that he holds strength in the other suits,
+and the ten of diamonds is undoubtedly his best play.
+
+TRICK 4.--B again leads through the strong trump hand, A makes his
+king and leads his losing trump to draw two for one. No matter how
+the dealer may play he cannot prevent his adversaries from making the
+remaining tricks in spades or in diamonds, it being impossible to
+obtain the lead in dummy.
+
+PREVENTING THE WEAK HAND FROM RUFFING
+
+It is the rubber game, score sixteen to eight in favour of the
+dealer. Z, the dealer, makes it hearts and A leads for the first
+trick.
+
+                 ♠ 5 4
+                 ♣ K Q 6 5 2                 No. 25
+                 ♦ K J 4
+                 ♥ 7 6 4
+                +-------------+
+    ♠ Q 10 9 2  |      Y      |  ♠ A K 6
+    ♣ 9 7 4     |             |  ♣ J 10 8 3
+    ♦ 10 9 5    |  A      B   |  ♦ A Q 8 2
+    ♥ K J 2     |             |  ♥ 5 3
+                |      Z      |
+                +-------------+
+                 ♠ J 8 7 3
+                 ♣ A
+                 ♦ 7 6 3
+                 ♥ A Q 10 9 8
+
+  +-------+-------+-------+-------+-------+
+  | TRICK |   A   |   Y   |   B   |   Z   |
+  +-------+-------+-------+-------+-------+
+  |   1   |   2♠  |   4♠  |  [K♠] |   3♠  |
+  |   2   |  [J♥] |   4♥  |   5♥  |   8♥  |
+  |   3   |  10♦  |   J♦  |  [Q♦] |   3♦  |
+  |   4   |  [K♥] |   6♥  |   3♥  |   9♥  |
+  |   5   |   2♥  |   7♥  |   2♦  | [10♥] |
+  |   6   |   4♣  |   2♣  |   3♣  |  [A♣] |
+  |   7   |   5♦  |   K♦  |  [A♦] |   6♦  |
+  |   8   |   9♠  |   5♠  |  [A♠] |   7♠  |
+  |   9   | [10♠] |   4♦  |   6♠  |   8♠  |
+  |  10   |  [Q♠] |   5♣  |   8♦  |   J♠  |
+  |  11   |  [9♦] |   6♣  |   8♣  |   7♦  |
+  |  12   |   7♣  |   Q♣  |  10♣  |  [Q♥] |
+  |  13   |   9♣  |   K♣  |   J♣  |  [A♥] |
+  +-------+-------+-------+-------+-------+
+     The dealer loses three odd tricks.
+
+
+ILLUSTRATIVE HAND NO. 26
+
+TRICK 1.--A is almost strong enough to lead the trump originally, but
+holding the ace and king of a suit his best play is to take a view of
+the dummy hand.
+
+TRICK 2.--The queen of spades falling in the dealer’s hand indicates
+that the weak hand will ruff. A leads trumps through the strong hand.
+
+TRICK 3.--B has no reason to wait for the trumps to be led through
+again, as he does not hold a tenace over dummy. He, therefore, leads
+the ace and then a low trump in order to exhaust trumps from the weak
+hand.
+
+PREVENTING THE WEAK HAND FROM RUFFING
+
+It is the first game, score love all. Z, the dealer, passes the
+make. Y declares hearts. A leads for the first trick.
+
+                 ♠ 9 4 3 2
+                 ♣ A K 6                     No. 26
+                 ♦ 7
+                 ♥ K J 9 5 3
+                x-------------x
+    ♠ A K J 10  |      Y      |  ♠ 8 7 6 5
+    ♣ Q J 8 3   |             |  ♣ 10 2
+    ♦ A Q 2     |  A      B   |  ♦ K J 8 4
+    ♥ 7 6       |             |  ♥ A Q 8
+                |      Z      |
+                +-------------+
+                 ♠ Q
+                 ♣ 9 7 5 4
+                 ♦ 10 9 6 5 3
+                 ♥ 10 4 2
+
+  +-------+-------+-------+-------+-------+
+  | TRICK |   A   |   Y   |   B   |   Z   |
+  +-------+-------+-------+-------+-------+
+  |   1   |  [K♠] |   2♠  |   5♠  |   Q♠  |
+  |   2   |   7♥  |   3♥  |  [Q♥] |   2♥  |
+  |   3   |   6♥  |   5♥  |  [A♥] |   4♥  |
+  |   4   |   2♦  |   9♥  |   8♥  | [10♥] |
+  |   5   |   3♣  |  [K♣] |   2♣  |   4♣  |
+  |   6   |   8♣  |  [A♣] |  10♣  |   5♣  |
+  |   7   |  [J♣] |   6♣  |   6♠  |   7♣  |
+  |   8   |  [A♠] |   3♠  |   7♠  |   9♣  |
+  |   9   |  [J♠] |   4♠  |   8♠  |   3♦  |
+  |  10   | [10♠] |   9♠  |   4♦  |   5♦  |
+  |  11   |  [A♦] |   7♦  |   8♦  |   6♦  |
+  |  12   |   Q♣  |  [J♥] |   J♦  |   9♦  |
+  |  13   |   Q♦  |  [K♥] |   K♦  |  10♦  |
+  +-------+-------+-------+-------+-------+
+     The dealer loses two odd tricks.
+
+
+ILLUSTRATIVE HAND NO. 27
+
+TRICK 2.--The dealer after taking the force leads trumps in order to
+bring in the established spade suit.
+
+TRICK 4.--This is the critical point in the hand. A can continue to
+force the strong trump hand, but as the trumps are evidently all
+established in the dealer’s hand, it would enable the dealer to take
+out the remaining trumps and make the spades.
+
+This situation is interesting and deserves careful study. It is too
+late to force when the adversary holds an established suit against
+you. You must make what you can in the other suits before giving up
+the lead.
+
+TRICK 5.--A overtakes the queen of clubs in order to continue the
+lead.
+
+TRICK 7.--B discards his only spade.
+
+TRICK 8.--A gives B the opportunity to make his losing trump.
+
+NOT FORCING
+
+It is the first game, score love all. Z, the dealer, makes it
+hearts.
+
+                 ♠ A K Q J 8 7 6
+                 ♣ 10 8                      No. 27
+                 ♦ 10 8
+                 ♥ J 9
+                +-------------+
+    ♠ 10 2      |      Y      |  ♠ 9
+    ♣ K J 9 2   |             |  ♣ A Q 6
+    ♦ A K Q J 7 |  A      B   |  ♦ 9 6 5 4 3 2
+    ♥ A 5       |             |  ♥ 7 4 2
+                |      Z      |
+                +-------------+
+                 ♠ 5 4 3
+                 ♣ 7 5 4 3
+                 ♦ ----
+                 ♥ K Q 10 8 6 3
+
+  +-------+-------+-------+-------+-------+
+  | TRICK |   A   |   Y   |   B   |   Z   |
+  +-------+-------+-------+-------+-------+
+  |   1   |   K♦  |   8♦  |   2♦  |  [3♥] |
+  |   2   |   5♥  |  [J♥] |   2♥  |   6♥  |
+  |   3   |  [A♥] |   9♥  |   4♥  |   K♥  |
+  |   4   |   2♣  |   8♣  |  [A♣] |   3♣  |
+  |   5   |  [K♣] |  10♣  |   Q♣  |   4♣  |
+  |   6   |  [J♣] |  10♦  |   6♣  |   5♣  |
+  |   7   |  [9♣] |   6♠  |   9♠  |   7♣  |
+  |   8   |  10♠  |   J♠  |  [7♥] |   3♠  |
+  |   9   |   7♦  |   7♠  |   3♦  |  [8♥] |
+  |  10   |   2♠  |  [8♠] |   4♦  |   4♠  |
+  |  11   |   J♦  |  [Q♠] |   5♦  |   5♠  |
+  |  12   |   Q♦  |   K♠  |   6♦  | [10♥] |
+  |  13   |   A♦  |   A♠  |   9♦  |  [Q♥] |
+  +-------+-------+-------+-------+-------+
+     The dealer wins the odd trick.
+
+
+ILLUSTRATIVE HAND NO. 28
+
+TRICK 1.--Z false cards the ace of hearts to tempt A to again lead
+the suit.
+
+TRICK 3.--The correct play of third hand is high unless two or more
+honours are held in sequence, in which case the lower honour is
+played. B’s play of the jack denies the ten and the king. It would,
+therefore, be bad play for A to continue his suit. He must wait until
+his partner can lead through the dealer’s hand.
+
+A’s best lead is through the strength of the dummy hand, and he leads
+the highest card of his sequence.
+
+TRICK 4.--B must wait until his partner can again lead through the
+king of diamonds, and so returns his partner’s original lead.
+
+INFERENCE
+
+It is the rubber game, score twenty-four to nothing against
+the dealer. Z, the dealer, makes it “no trumps.”
+
+                  ♠ 10 5 3 2
+                  ♣ 9 7 4                    No. 28
+                  ♦ K J 3 2
+                  ♥ 8 2
+                 +-------------+
+    ♠ 7 6 4      |      Y      |  ♠ Q J 9 8
+    ♣ A K        |             |  ♣ 6 2
+    ♦ 10 9 5     |  A       B  |  ♦ A Q 8 4
+    ♥ Q 9 7 6 3  |             |  ♥ J 5 4
+                 |      Z      |
+                 +-------------+
+                  ♠ A K
+                  ♣ Q J 10 8 5 3
+                  ♦ 7 6
+                  ♥ A K 10
+
+  +-------+-------+-------+-------+-------+
+  | TRICK |   A   |   Y   |   B   |   Z   |
+  +-------+-------+-------+-------+-------+
+  |   1   |   6♥  |   2♥  |   J♥  |  [A♥] |
+  |   2   |  [K♣] |   4♣  |   2♣  |   Q♣  |
+  |   3   |  10♦  |   J♦  |  [Q♦] |   6♦  |
+  |   4   |  [Q♥] |   8♥  |   5♥  |  10♥  |
+  |   5   |   9♥  |   2♠  |   4♥  |  [K♥] |
+  |   6   |  [A♣] |   7♣  |   6♣  |   J♣  |
+  |   7   |  [7♥] |   3♠  |   8♠  |   7♦  |
+  |   8   |  [3♥] |   5♠  |   9♠  |   3♣  |
+  |   9   |  [9♦] |   2♦  |   4♦  |   5♣  |
+  |  10   |   5♦  |   3♦  |  [8♦] |   8♣  |
+  |  11   |   4♠  |   K♦  |  [A♦] |   K♠  |
+  |  12   |   6♠  |  10♠  |   Q♠  |  [A♠] |
+  |  13   |   7♠  |   9♣  |   J♠  | [10♣] |
+  +-------+-------+-------+-------+-------+
+     The dealer loses three odd tricks.
+
+
+ILLUSTRATIVE HAND NO. 29
+
+TRICK 1.--With three cards of re-entry in his hand A can afford to
+lead one of them in order to gain information as to the position of
+the cards in his long suit. Winning the first trick, A can clearly
+see the situation. The play of the two of hearts by B indicates
+that he cannot hold four cards in the heart suit. Should A continue
+leading hearts he must establish one or more cards in the dealer’s
+hand.
+
+TRICK 3.--A cannot afford to lead spades, as Y holds a double major
+tenace over his hand. As Z, the dealer, has passed the make, A can
+mark strength in the diamond suit with B. He, therefore, abandons his
+own suit and endeavours to help his partner by leading the singleton
+diamond. B overtakes the jack of diamonds and continues with the suit.
+
+INFERENCE
+
+It is the rubber game, score twenty to nothing against the dealer.
+Z, the dealer, passes the make. Y declares “no-trump.”
+
+                    ♠ A Q 10
+                    ♣ A Q J 8 4 2            No. 29
+                    ♦ A 2
+                    ♥ 8 5
+                   +-------------+
+    ♠ K J 8 5 4 3  |      Y      |  ♠ 7
+    ♣ 9 7          |             |  ♣ K 6
+    ♦ J            |  A       B  |  ♦ K Q 10 9 8 7 6
+    ♥ A K Q 3      |             |  ♥ 7 6 2
+                   |      Z      |
+                   +-------------+
+                    ♠ 9 6 2
+                    ♣ 10 5 3
+                    ♦ 5 4 3
+                    ♥ J 10 9 4
+
+  +-------+-------+-------+-------+-------+
+  | TRICK |   A   |   Y   |   B   |   Z   |
+  +-------+-------+-------+-------+-------+
+  |   1   |  [K♥] |   5♥  |   2♥  |   4♥  |
+  |   2   |  [Q♥] |   8♥  |   6♥  |   J♥  |
+  |   3   |   J♦  |   2♦  |  [Q♦] |   3♦  |
+  |   4   |   3♠  |  [A♦] |   6♦  |   4♦  |
+  |   5   |   7♣  |  [A♣] |   6♣  |   3♣  |
+  |   6   |   9♣  |   Q♣  |  [K♣] |   5♣  |
+  |   7   |   4♠  |  10♠  |  [K♦] |   5♦  |
+  |   8   |   5♠  |   Q♠  | [10♦] |   2♠  |
+  |   9   |   8♠  |   2♣  |  [9♦] |   6♠  |
+  |  10   |   J♠  |   4♣  |  [8♦] |   9♠  |
+  |  11   |   K♠  |   8♣  |  [7♦] |  10♣  |
+  |  12   |  [A♥] |   J♣  |   7♥  |  10♥  |
+  |  13   |   3♥  |   A♠  |   7♠  |  [9♥] |
+  +-------+-------+-------+-------+-------+
+     The dealer loses four odd tricks.
+
+
+ILLUSTRATIVE HAND NO. 30
+
+TRICK 1.--B’s play of the queen denies the jack, which A marks with
+the dealer.
+
+TRICK 2.--The dealer can lead his high spades, but this lead might
+establish a trick in the suit for his adversaries. His best play is
+to conceal the strength in this suit, and to establish the club suit.
+
+TRICK 3.--A is placed in a difficult position; if he continues with
+his diamonds the jack will make. He must place the lead with B so
+that the dealer’s hand may be led through. The heart suit is better
+than the spade suit, as dummy holds an honour to lead through.
+
+TRICK 4.--B must wait until his partner can again lead through the
+king of hearts, and so returns A’s original lead.
+
+Should A continue with the lead of diamonds at trick two the dealer
+would win four odd tricks instead of losing that number.
+
+INFERENCE
+
+It is the rubber game, score sixteen to nothing against the dealer.
+Z, the dealer, makes it “no-trump.”
+
+                   ♠ 9 8 7 5
+                   ♣ 8 6 5 4                 No. 30
+                   ♦ 8 3
+                   ♥ K 8 7
+                  +-------------+
+    ♠ 4 3 2       |      Y      |  ♠ J 10 6
+    ♣ A 3         |             |  ♣ 10 2
+    ♦ K 10 9 7 2  |  A      B   |  ♦ Q 6 5
+    ♥ 6 5 2       |             |  ♥ A Q J 9 4
+                  |      Z      |
+                  +-------------+
+                   ♠ A K Q
+                   ♣ K Q J 9 7
+                   ♦ A J 4
+                   ♥ 10 3
+
+  +-------+-------+-------+-------+-------+
+  | TRICK |   A   |   Y   |   B   |   Z   |
+  +-------+-------+-------+-------+-------+
+  |   1   |   7♦  |   3♦  |   Q♦  |  [A♦] |
+  |   2   |  [A♣] |   4♣  |   2♣  |   K♣  |
+  |   3   |   6♥  |   7♥  |  [J♥] |   3♥  |
+  |   4   |  [9♦] |   8♦  |   6♦  |   4♦  |
+  |   5   |  [K♦] |   5♣  |   5♦  |   J♦  |
+  |   6   | [10♦] |   6♣  |  10♣  |  10♥  |
+  |   7   |  [2♦] |   8♣  |   6♠  |   7♣  |
+  |   8   |   5♥  |   8♥  |  [Q♥] |   9♣  |
+  |   9   |   2♥  |   K♥  |  [A♥] |   J♣  |
+  |  10   |   3♣  |   5♠  |  [9♥] |   Q♠  |
+  |  11   |   2♠  |   7♠  |  [4♥] |   K♠  |
+  |  12   |   3♠  |   8♠  |  10♠  |  [A♠] |
+  |  13   |   4♠  |   9♠  |   J♠  |  [Q♣] |
+  +-------+-------+-------+-------+-------+
+     The dealer loses four odd tricks.
+
+
+ILLUSTRATIVE HAND NO. 31
+
+TRICK 2.--B’s return of the three of hearts shows the situation to
+A. It is the rule at “no-trump” to return partner’s suit with your
+highest card. A can mark Z with two cards in the suit higher than the
+three.
+
+TRICK 3.--It would be bad play for A to lead his king of hearts, as
+this would establish the queen for Z. A opens the low diamond, hoping
+that B can obtain the lead.
+
+LEADING THROUGH
+
+It is the rubber game, score love all. Z, the dealer, makes
+it “no-trump.”
+
+                  ♠ K Q J 4 3
+                  ♣ K Q J 7                  No. 31
+                  ♦ J 5 2
+                  ♥ 10
+                 x-------------x
+    ♠ 6 5        |      Y      |  ♠ 8 7 2
+    ♣ 9 3        |             |  ♣ 10 6 5 4
+    ♦ Q 10 6 4   |  A      B   |  ♦ A 7 3
+    ♥ K J 8 7 6  |             |  ♥ A 3 2
+                 |      Z      |
+                 +-------------+
+                  ♠ A 10 9
+                  ♣ A 8 2
+                  ♦ K 9 8
+                  ♥ Q 9 5 4
+
+  +-------+-------+-------+-------+-------+
+  | TRICK |   A   |   Y   |   B   |   Z   |
+  +-------+-------+-------+-------+-------+
+  |   1   |   7♥  |  10♥  |  [A♥] |   4♥  |
+  |   2   |  [J♥] |   2♦  |   3♥  |   9♥  |
+  |   3   |   4♦  |   5♦  |  [A♦] |   8♦  |
+  |   4   |  [6♥] |   J♦  |   2♥  |   5♥  |
+  |   5   |  [K♥] |   7♣  |   3♦  |   Q♥  |
+  |   6   |  [8♥] |   3♠  |   7♦  |   9♦  |
+  |   7   |   Q♦  |   4♠  |   2♠  |  [K♦] |
+  |   8   |   5♠  |   J♠  |   7♠  |  [A♠] |
+  |   9   |   6♠  |  [Q♠] |   8♠  |  10♠  |
+  |  10   |   3♣  |  [K♠] |   4♣  |   9♠  |
+  |  11   |   9♣  |  [K♣] |   5♣  |   2♣  |
+  |  12   |   6♦  |  [Q♣] |   6♣  |   8♣  |
+  |  13   |  10♦  |  [J♣] |  10♣  |   A♣  |
+  +-------+-------+-------+-------+-------+
+     The dealer wins the odd trick.
+
+
+ILLUSTRATIVE HAND NO. 32
+
+TRICK 1.--B’s play of the jack denies the ace, which must be with the
+dealer.
+
+TRICK 2.--Should A allow the queen of hearts to win this trick, his
+re-entry card would be taken out before his suit is cleared. He must
+overtake his partner’s card in order to establish the suit.
+
+TRICK 4.--The dealer hopes that the ace of clubs is with B, as this
+would shut out A’s heart suit.
+
+OVERTAKING BY THE ADVERSARY
+
+It is the second game, score twenty-four to nothing against
+the dealer. Z, the dealer, makes it “no-trump.”
+
+                      ♠ Q 4 2
+                      ♣ 10 9 6               No. 32
+                      ♦ A J 10 5 4
+                      ♥ 5 3
+                     x-------------x
+    ♠ 9 8 3          |      Y      |  ♠ J 10 6 5
+    ♣ A 7            |             |  ♣ 5 4 3
+    ♦ 8 3            |  A      B   |  ♦ Q 9 7 2
+    ♥ K 10 9 8 6 4   |             |  ♥ Q J
+                     |      Z      |
+                     +-------------+
+                      ♠ A K 7
+                      ♣ K Q J 8 2
+                      ♦ K 6
+                      ♥ A 7 2
+
+  +-------+-------+-------+-------+-------+
+  | TRICK |   A   |   Y   |   B   |   Z   |
+  +-------+-------+-------+-------+-------+
+  |   1   |   8♥  |   3♥  |  [J♥] |   2♥  |
+  |   2   |  [K♥] |   5♥  |   Q♥  |   7♥  |
+  |   3   |   4♥  |   2♠  |   4♣  |  [A♥] |
+  |   4   |  [A♣] |   6♣  |   3♣  |   K♣  |
+  |   5   | [10♥] |   4♦  |   5♣  |   7♠  |
+  |   6   |  [9♥] |   5♦  |   2♦  |   2♣  |
+  |   7   |  [6♥] |  10♦  |   5♠  |   8♣  |
+  |   8   |   8♦  |   J♦  |   Q♦  |  [K♦] |
+  |   9   |   7♣  |   9♣  |   6♠  |  [Q♣] |
+  |  10   |   3♦  |  10♣  |  10♠  |  [J♣] |
+  |  11   |   3♠  |   4♠  |   J♠  |  [A♠] |
+  |  12   |   8♠  |   Q♠  |   7♦  |  [K♠] |
+  |  13   |   9♠  |  [A♦] |   9♦  |   6♦  |
+  +-------+-------+-------+-------+-------+
+      The dealer wins the odd trick.
+
+
+ILLUSTRATIVE HAND NO. 33
+
+TRICK 2.--As A holds no card of re-entry except the ace of diamonds,
+he cannot afford to win this trick. He must trust B for a card of
+re-entry and a diamond to lead. The play can only lose one trick, and
+it may save the game.
+
+TRICK 3.--Z must establish the spade suit.
+
+REFUSING TO PLAY THE HIGH CARD OF A LONG SUIT
+
+It is the rubber game, score love all. Z, the dealer, makes
+it “no-trumps.”
+
+                   ♠ 9 8 7
+                   ♣ J 10 7 5                No. 33
+                   ♦ K 4 2
+                   ♥ K Q 5
+                  x-------------x
+    ♠ 6 2         |      Y      |  ♠ A 5 3
+    ♣ 9 6 2       |             |  ♣ K 8 3
+    ♦ A 10 7 6 5  |  A      B   |  ♦ Q 9 3
+    ♥ 6 4 3       |             |  ♥ 10 9 8 7
+                  |      Z      |
+                  +-------------+
+                   ♠ K Q J 10 4
+                   ♣ A Q 4
+                   ♦ J 8
+                   ♥ A J 2
+
+  +-------+-------+-------+-------+-------+
+  | TRICK |   A   |   Y   |   B   |   Z   |
+  +-------+-------+-------+-------+-------+
+  |   1   |   6♦  |   2♦  |  [Q♦] |   8♦  |
+  |   2   |   5♦  |   4♦  |   9♦  |  [J♦] |
+  |   3   |   2♠  |   7♠  |  [A♠] |   4♠  |
+  |   4   |  [A♦] |   K♦  |   3♦  |   4♣  |
+  |   5   | [10♦] |   8♠  |   3♠  |   Q♣  |
+  |   6   |  [7♦] |   9♠  |   5♠  |   2♥  |
+  |   7   |   9♣  |   5♣  |   3♣  |  [A♣] |
+  |   8   |   6♠  |   7♣  |   8♣  |  [K♠] |
+  |   9   |   2♣  |  10♣  |   7♥  |  [Q♠] |
+  |  10   |   6♣  |   J♣  |   8♥  |  [J♠] |
+  |  11   |   3♥  |   5♥  |   9♥  | [10♠] |
+  |  12   |   4♥  |   Q♥  |  10♥  |  [A♥] |
+  |  13   |   6♥  |  [K♥] |   K♣  |   J♥  |
+  +-------+-------+-------+-------+-------+
+     The dealer wins two by cards.
+
+
+ILLUSTRATIVE HAND NO. 34
+
+TRICK 1.--B wins the first trick with his lower honour in sequence.
+
+TRICK 2.--The usual rule at “no-trump” is to return partner’s lead
+with your highest card. This is done to prevent blocking and in order
+not to mislead. To arrange the lead, B returns the low spade, knowing
+that he can neither deceive nor block his partner’s suit. He arranges
+the lead so that hearts may be led through the dealer’s hand.
+
+ARRANGING THE LEAD
+
+It is the first game, score love all. Z, the dealer, makes it
+“no-trump.”
+
+                  ♠ 2
+                  ♣ J 6 4 3                  No. 34
+                  ♦ 9 8 7 6 2
+                  ♥ 5 3 2
+                 x-------------x
+    ♠ A J 9 7 6  |      Y      |  ♠ K Q 5 4 3
+    ♣ 8 7 2      |             |  ♣ 10 9
+    ♦ 5 4        |  A      B   |  ♦ J 10
+    ♥ A 8 4      |             |  ♥ Q J 10 7
+                 |      Z      |
+                 +-------------+
+                  ♠ 10 8
+                  ♣ A K Q 5
+                  ♦ A K Q 3
+                  ♥ K 9 6
+
+  +-------+-------+-------+-------+-------+
+  | TRICK |   A   |   Y   |   B   |   Z   |
+  +-------+-------+-------+-------+-------+
+  |   1   |   7♠  |   2♠  |  [Q♠] |   8♠  |
+  |   2   |  [J♠] |   2♥  |   3♠  |  10♠  |
+  |   3   |  [A♠] |   3♥  |   4♠  |   3♦  |
+  |   4   |  [9♠] |   5♥  |   5♠  |   Q♣  |
+  |   5   |   6♠  |   3♣  |  [K♠] |   K♣  |
+  |   6   |   4♥  |   4♣  |  [Q♥] |   6♥  |
+  |   7   |   8♥  |   2♦  |  [J♥] |   9♥  |
+  |   8   |  [A♥] |   6♦  |   7♥  |   K♥  |
+  |   9   |   8♣  |   6♣  |   9♣  |  [A♣] |
+  |  10   |   4♦  |   7♦  |  10♦  |  [A♦] |
+  |  11   |   5♦  |   8♦  |   J♦  |  [K♦] |
+  |  12   |   2♣  |   9♦  |  10♥  |  [Q♦] |
+  |  13   |   7♣  |  [J♣] |  10♣  |   5♣  |
+  +-------+-------+-------+-------+-------+
+     The dealer loses two odd tricks.
+
+
+ILLUSTRATIVE HAND NO. 35
+
+TRICK 1.--With the ace and a small card, to your partner’s high
+card lead at “no-trumps,” the ace should usually be played, but B
+cannot afford to overtake his partner’s king, as it would eventually
+establish the ten of spades for Y.
+
+TRICK 3.--Unless A holds the king of hearts, the game is lost,
+no matter what B may lead. To make a possible re-entry for A, B
+sacrifices his queen of hearts. Z hopes that B has but two hearts and
+so refuses to win this trick.
+
+It makes but little difference what Y now leads. A’s spades must make.
+
+NOT UNBLOCKING. DESCHAPELLES COUP
+
+It is the rubber game, score eighteen to twenty-four against the
+dealer. Z, the dealer, passes the make. Y declares “no-trump.”
+
+                     ♠ 10 9 8 4
+                     ♣ A K J                 No. 35
+                     ♦ A Q J 9
+                     ♥ A J
+                    x-------------x
+    ♠ K Q J 6 5 3   |      Y      |  ♠ A 7
+    ♣ 8 3           |             |  ♣ Q 5 4 2
+    ♦ 6 5           |  A      B   |  ♦ K 4 3 2
+    ♥ K 8 6         |             |  ♥ Q 5 4
+                    |      Z      |
+                    +-------------+
+                     ♠ 2
+                     ♣ 10 9 7 6
+                     ♦ 10 8 7
+                     ♥ 10 9 7 3 2
+
+  +-------+-------+-------+-------+-------+
+  | TRICK |   A   |   Y   |   B   |   Z   |
+  +-------+-------+-------+-------+-------+
+  |   1   |  [K♠] |   4♠  |   7♠  |   2♠  |
+  |   2   |   3♠  |   8♠  |  [A♠] |   2♥  |
+  |   3   |   6♥  |   J♥  |  [Q♥] |   3♥  |
+  |   4   |   8♥  |  [A♥] |   5♥  |   7♥  |
+  |   5   |   5♦  |  [A♦] |   2♦  |   7♦  |
+  |   6   |   6♦  |   Q♦  |  [K♦] |   8♦  |
+  |   7   |  [K♥] |   J♣  |   4♥  |   9♥  |
+  |   8   |  [Q♠] |   9♠  |   3♦  |   6♣  |
+  |   9   |  [J♠] |  10♠  |   4♦  |   7♣  |
+  |  10   |  [6♠] |   9♦  |   2♣  |   9♣  |
+  |  11   |  [5♠] |   K♣  |   4♣  |  10♣  |
+  |  12   |   8♣  |  [A♣] |   5♣  |  10♥  |
+  |  13   |   3♣  |  [J♦] |   Q♣  |  10♦  |
+  +-------+-------+-------+-------+-------+
+
+
+ILLUSTRATIVE HAND NO. 36
+
+TRICK 2.--The dealer’s best play is undoubtedly to establish the club
+suit. A has little reason to pass this trick; taking the king with
+the ace may establish the jack in B’s hand.
+
+TRICK 3.--Players will so often play for their own suit, with little
+or no regard for their partner’s hand. If the high cards in your suit
+are against you, and your card of entry has been taken out, abandon
+the suit and endeavour to help your partner. A infers that his
+partner’s suit is diamonds and leads the supporting jack through the
+king.
+
+ABANDONING A SUIT
+
+It is the rubber game, score eighteen to nothing against the dealer.
+Z, the dealer, declares “no-trump.”
+
+                  ♠ J 9 8 7 5
+                  ♣ 5 4                      No. 36
+                  ♦ K 3 2
+                  ♥ K 8 7
+                 x-------------x
+    ♠ 6 4 2      |      Y      |  ♠ K 10
+    ♣ A 9 2      |             |  ♣ 10 7 3
+    ♦ J 4        |  A      B   |  ♦ A Q 10 9 7 5
+    ♥ J 6 4 3 2  |             |  ♥ 9 5
+                 |      Z      |
+                 +-------------+
+                  ♠ A Q 3
+                  ♣ K Q J 8 6
+                  ♦ 8 6
+                  ♥ A Q 10
+
+  +-------+-------+-------+-------+-------+
+  | TRICK |   A   |   Y   |   B   |   Z   |
+  +-------+-------+-------+-------+-------+
+  |   1   |   3♥  |   7♥  |   9♥  | [10♥] |
+  |   2   |  [A♣] |   4♣  |   3♣  |   K♣  |
+  |   3   |  [J♦] |   2♦  |   5♦  |   6♦  |
+  |   4   |   4♦  |   3♦  |  [9♦] |   8♦  |
+  |   5   |   2♠  |   K♦  |  [A♦] |   3♠  |
+  |   6   |   4♠  |   5♠  |  [Q♦] |   Q♠  |
+  |   7   |   2♥  |   7♠  | [10♦] |   6♣  |
+  |   8   |   2♣  |   8♠  |  [7♦] |   8♣  |
+  |   9   |   J♥  |  [K♥] |   5♥  |   Q♥  |
+  |  10   |   9♣  |   5♣  |   7♣  |  [Q♣] |
+  |  11   |   6♠  |   9♠  |  10♣  |  [J♣] |
+  |  12   |   4♥  |   J♠  |  10♠  |  [A♠] |
+  |  13   |   6♥  |   8♥  |   K♠  |  [A♥] |
+  +-------+-------+-------+-------+-------+
+     The dealer loses the odd trick.
+
+
+ILLUSTRATIVE HAND NO. 37
+
+TRICK 1.--The dealer’s first object should be to win the game. By
+playing the ace of spades, Z is assured of ten tricks--four in clubs,
+four in diamonds, one in spades, and one in hearts--whereas the play
+of a low spade or the queen might enable B to win the trick and
+establish the heart suit against the dealer; in this case, should A
+hold the king of clubs the game could not be won.
+
+TRICK 2.--In order to unblock the diamond suit the ace and king in
+Y’s hand must be led.
+
+TRICK 3.--Whether or not B covers is of minor importance, for the
+play of a low card does not alter the result of the hand.
+
+TRICK 5.--Z finds that his club suit is blocked by the two commanding
+cards in the dummy. The only possible way to make the balance of
+this suit is to discard the jack and ten of clubs on the two winning
+diamonds.
+
+TRICK 11.--Z takes out A’s king of spades, retaining the ace of
+hearts for re-entry.
+
+“DISCARDING COMMANDING CARDS”
+
+It is the first game, score love all. Z deals and passes the
+make. Y declares “no-trump.”
+
+                ♠ A Q 5 3 2
+                ♣ Q J 10                     No. 37
+                ♦ A K
+                ♥ A 3 2
+               +-------------+
+    ♠ K J 9 7  |      Y      |  ♠ 10 8
+    ♣ 4 3 2    |             |  ♣ K 5
+    ♦ 5 4 2    |  A       B  |  ♦ 10 9 8 6
+    ♥ K 8 4    |             |  ♥ Q J 10 9 6
+               |      Z      |
+               +-------------+
+                ♠ 6 4
+                ♣ A 9 8 7 6
+                ♦ Q J 7 3
+                ♥ 7 5
+
+  +-------+-------+-------+-------+-------+
+  | TRICK |   A   |   Y   |   B   |   Z   |
+  +-------+-------+-------+-------+-------+
+  |   1   |   7♠  |  [A♠] |   8♠  |   4♠  |
+  |   2   |   2♦  |  [A♦] |   6♦  |   3♦  |
+  |   3   |   4♦  |  [K♦] |   8♦  |   7♦  |
+  |   4   |   2♣  |   Q♣  |   K♣  |  [A♣] |
+  |   5   |   5♦  |  10♣  |   9♦  |  [Q♦] |
+  |   6   |   3♣  |   J♣  |  10♦  |  [J♦] |
+  |   7   |   4♣  |   2♥  |   5♣  |  [9♣] |
+  |   8   |   4♥  |   2♠  |   6♥  |  [8♣] |
+  |   9   |   9♠  |   3♠  |   9♥  |  [7♣] |
+  |  10   |   J♠  |   3♥  |  10♠  |  [6♣] |
+  |  11   |  [K♠] |   5♠  |  10♥  |   6♠  |
+  |  12   |   8♥  |  [A♥] |   J♥  |   5♥  |
+  |  13   |   K♥  |  [Q♠] |   Q♥  |   7♥  |
+  +-------+-------+-------+-------+-------+
+     The dealer makes a small slam.
+
+
+ILLUSTRATIVE HAND NO. 38
+
+TRICK 1.--The jack of clubs must be played to the first trick, for
+otherwise the club suit would be blocked, and it is useless to lead
+through A’s hand. B’s best discard is a spade. As A’s lead indicates
+a four-card suit, B can count Z with six clubs.
+
+TRICK 2.--A cannot afford to win this trick, for if Z has an entry
+card the clubs will be made. B should not shorten his diamonds or
+hearts as Y has four cards of each. He cannot lose by discarding an
+honour in spades. The queen gives A information, and if necessary
+enables B to unblock.
+
+TRICK 4.--A’s lead may be from four spades; B must keep the low spade.
+
+TRICK 6.--B can now count all the cards in both A’s and Z’s hands. A
+has shown four spades, four clubs, and is marked with the queen of
+diamonds alone; he must, therefore, have three hearts. Z has three
+remaining clubs, two diamonds, one spade, and two hearts. B unblocks
+the spade suit.
+
+TRICK 8.--A can now count both B’s and Z’s hands; B must have four
+hearts and the ace of diamonds alone; Z has the remaining clubs, a
+diamond and two hearts.
+
+TRICK 9.--It is immaterial what Z now discards; if he discards a
+diamond, A leads the heart; if he discards a heart, A leads the ace
+of clubs, and forces Z to lead a diamond to B.
+
+“COUNTING”
+
+It is the rubber game, score eight to nothing against the dealer.
+Z passes the make. Y declares “no-trump.”
+
+                ♠ A K
+                ♣ K J 5                      No. 38
+                ♦ K 7 5 3
+                ♥ K 7 5 2
+               x------------x
+    ♠ 7 5 3 2  |      Y     |  ♠ Q J 10 6 4
+    ♣ A Q 3 2  |            |  ♣ ----
+    ♦ Q J      |  A      B  |  ♦ A 10 9 8
+    ♥ J 6 4    |            |  ♥ Q 10 9 8
+               |      Z     |
+               +------------+
+                ♠ 9 8
+                ♣ 10 9 8 7 6 4
+                ♦ 6 4 2
+                ♥ A 3
+
+  +-------+-------+-------+-------+-------+
+  | TRICK |   A   |   Y   |   B   |   Z   |
+  +-------+-------+-------+-------+-------+
+  |   1   |   2♣  |  [J♣] |   4♠  |   4♣  |
+  |   2   |   3♣  |  [K♣] |   Q♠  |   6♣  |
+  |   3   |  [Q♣] |   5♣  |   8♦  |   7♣  |
+  |   4   |   2♠  |  [K♠] |  10♠  |   8♠  |
+  |   5   |  [J♦] |   3♦  |   9♦  |   2♦  |
+  |   6   |   3♠  |  [A♠] |   J♠  |   9♠  |
+  |   7   |  [Q♦] |   5♦  |  10♦  |   4♦  |
+  |   8   |  [7♠] |   2♥  |   6♠  |   8♣  |
+  |   9   |  [5♠] |   5♥  |   8♥  |   6♦  |
+  |  10   |   4♥  |   7♥  |   Q♥  |  [A♥] |
+  |  11   |   6♥  |  [K♥] |   9♥  |   3♥  |
+  |  12   |   A♣  |   7♦  |  [A♦] |   9♣  |
+  |  13   |  [J♥] |   K♦  |  10♥  |  10♣  |
+  +-------+-------+-------+-------+-------+
+     The dealer loses the odd trick.
+
+
+ILLUSTRATIVE HAND NO. 39
+
+TRICK 2.--A should not continue the lead of diamonds; the weak hand
+would “ruff.”
+
+TRICK 3.--Z can exhaust the trumps and make the club suit, but will
+then be left with two losing diamonds. Before attempting to get the
+trumps out, he must allow Y to trump these losing cards.
+
+TRICK 5.--Hasty play by the dealer at this point would incur a loss
+of four or five tricks. If Y trumps with the eight of hearts, the
+trump suit is blocked and Z has no way of obtaining the lead. Ruffing
+with the ace enables the dealer to unblock the trump suit and make
+the clubs.
+
+ALLOWING THE WEAKER HAND TO “RUFF”
+
+It is the first game, score sixteen to nothing against the dealer.
+Z deals and makes it hearts.
+
+                   ♠ 10 7 6 4
+                   ♣ K Q J 8 3               No. 39
+                   ♦ 6
+                   ♥ A 8 6
+                  x-------------x
+    ♠ Q J 9 8 5   |      Y      |  ♠ K
+    ♣ 9           |             |  ♣ 10 7 6 2
+    ♦ A K Q 10 8  |  A      B   |  ♦ J 9 4 2
+    ♥ 3 2         |             |  ♥ 9 7 5 4
+                  |      Z      |
+                  +-------------+
+                   ♠ A 3 2
+                   ♣ A 5 4
+                   ♦ 7 5 3
+                   ♥ K Q J 10
+
+  +-------+-------+-------+-------+-------+
+  | TRICK |   A   |   Y   |   B   |   Z   |
+  +-------+-------+-------+-------+-------+
+  |   1   |  [K♦] |   6♦  |   2♦  |   3♦  |
+  |   2   |   9♣  |   3♣  |   2♣  |  [A♣] |
+  |   3   |   8♦  |  [6♥] |   4♦  |   5♦  |
+  |   4   |   5♠  |   4♠  |   K♠  |  [A♠] |
+  |   5   |  10♦  |  [A♥] |   9♦  |   7♦  |
+  |   6   |   2♥  |   8♥  |   4♥  |  [K♥] |
+  |   7   |   3♥  |   6♠  |   5♥  |  [Q♥] |
+  |   8   |   8♠  |   7♠  |   7♥  |  [J♥] |
+  |   9   |   9♠  |  10♠  |   9♥  | [10♥] |
+  |  10   |   Q♦  |  [K♣] |   6♣  |   5♣  |
+  |  11   |   J♠  |  [Q♣] |   7♣  |   4♣  |
+  |  12   |   A♦  |  [J♣] |  10♣  |   2♠  |
+  |  13   |   Q♠  |  [8♣] |   J♦  |   3♠  |
+  +-------+-------+-------+-------+-------+
+     The dealer makes a small slam.
+
+
+ILLUSTRATIVE HAND NO. 40
+
+TRICK 1.--It would be bad play to hold up the ace of hearts.
+
+The adversary can only make the queen and jack, the nine being three
+times guarded in Z’s hand. The spade suit must be established at once.
+
+TRICK 5.--As A holds a possible card of re-entry in diamonds, he
+continues his own suit.
+
+TRICKS 7 AND 8.--Clever play to unblock the club suit and to obtain
+the lead with the eight of spades. Z discards his losing diamonds.
+
+NOT HOLDING UP AN ACE
+
+It is the rubber game, score love all. Z, the dealer, makes
+it “no-trump.”
+
+                     ♠ 8 6 5
+                     ♣ K Q 4                 No. 40
+                     ♦ 7 6 5 4 2
+                     ♥ A 10
+                    x-------------x
+    ♠ A 10          |      Y      |  ♠ 4 3 2
+    ♣ 8 3 2         |             |  ♣ J 10 9 7 6 5
+    ♦ K 8           |  A      B   |  ♦ J 10 9
+    ♥ K Q J 5 3 2   |             |  ♥ 7
+                    |      Z      |
+                    +-------------+
+                     ♠ K Q J 9 7
+                     ♣ A
+                     ♦ A Q 3
+                     ♥ 9 8 6 4
+
+  +-------+-------+-------+-------+-------+
+  | TRICK |   A   |   Y   |   B   |   Z   |
+  +-------+-------+-------+-------+-------+
+  |   1   |   K♥  |  [A♥] |   7♥  |   4♥  |
+  |   2   |  [A♠] |   5♠  |   2♠  |   K♠  |
+  |   3   |  [Q♥] |  10♥  |   5♣  |   6♥  |
+  |   4   |  [J♥] |   2♦  |   3♠  |   8♥  |
+  |   5   |   2♥  |   4♦  |   4♠  |  [9♥] |
+  |   6   |  10♠  |   6♠  |   6♣  |  [Q♠] |
+  |   7   |   2♣  |   4♣  |   7♣  |  [A♣] |
+  |   8   |   3♣  |  [8♠] |   9♣  |   7♠  |
+  |   9   |   8♣  |  [K♣] |  10♣  |   3♦  |
+  |  10   |   3♥  |  [Q♣] |   J♣  |   Q♦  |
+  |  11   |   8♦  |   5♦  |   9♦  |  [A♦] |
+  |  12   |   5♥  |   6♦  |  10♦  |  [J♠] |
+  |  13   |   K♦  |   7♦  |   J♦  |  [9♠] |
+  +-------+-------+-------+-------+-------+
+     The dealer wins four odd tricks.
+
+
+
+
+END PLAY
+
+
+End play must be premised by correct inferences drawn throughout
+the previous play of the hand. The last three or four tricks often
+present opportunities for brilliant play; opportunities which must be
+lost without a clear understanding of the position of the cards.
+
+It is in the end play that the novice is most deficient. He plays
+the last few cards carelessly, without the least thought of the
+possibilities they offer.
+
+In striving to gain by clever end play, do not lose sight of the fact
+that the game should be made before you incur unnecessary risks. With
+the game once won, you are justified in resorting to any strategy
+that may gain extra tricks.
+
+The best play of the last cards of a hand is most often obtained by
+throwing the lead. The following are examples of this, as well as
+other methods of gaining tricks.
+
+
+REFUSING TO DRAW THE LOSING TRUMP
+
+                                      No. 1
+                8♣ 7♣ 5♣ 4♣
+                6♦
+               x-------------x
+               |      Y      |
+      9♣ 2♣    |             |  A♣ 6♣ 3♣
+      K♦ 7♦ 3♦ |  A      B   |  8♦ 5♥
+               |             |
+               |      Z      |
+               x-------------x
+                K♣ Q♣ J♣
+                K♥ 10♣
+
+   Hearts are trumps. Z should lead ♣ king.
+
+
+LEADING THE LOSING TRUMP
+
+                                      No. 2
+
+                  K♣ 9♣ 4♣
+                  4♦ 2♦
+                 x-------------x
+                 |      Y      |
+       7♣ 3♣     |             |  K♦ Q♦ J♦
+      10♦ 9♦ 7♦  |  A      B   |  K♥ 3♦
+                 |             |
+                 |      Z      |
+                 x-------------x
+                  6♣ 5♥
+                  A♦ 6♦ 5♦
+
+   Hearts are trumps. Z should lead ♥ 5.
+
+
+THROWING THE LEAD
+
+                                      No. 3
+
+            6♣ 5♣
+            J♦
+         x-------------x
+         |      Y      |
+    ♣xx  |             |
+    Q♥   |  A      B   |
+         |             |
+         |      Z      |
+         x-------------x
+            A♣ Q♣
+            7♥
+
+Hearts are trumps. Clubs have not been led. Spades have all been
+played. Y has the best diamond. Z leads ♥ 7.
+
+
+LEADING A SINGLETON
+
+                                      No. 4
+
+                 4♦ 7♣
+                 K♣ J♣
+              x-------------x
+              |      Y      |
+              |             |
+              |  A      B   |
+              |             |
+              |      Z      |
+              x-------------x
+                 10♦ 8♦
+                  5♥ 3♣
+
+Hearts are trumps. Z holds the two commanding diamonds and the
+thirteenth trump. Clubs have not been led. Z leads ♣ 3 in the hope
+that A may hold the ace and not play it.
+
+
+SAVING A LOW TRUMP TO LEAD
+
+                                      No. 5
+
+                Q♠ 6♥
+                5♣ 7♦
+              x-------------x
+              |      Y      |
+      K♦ 10♦  |             |   9♦ 5♦
+      7♠  3♠  |  A      B   |  10♠ 7♣
+              |             |
+              |      Z      |
+              x-------------x
+               Q♥ J♥ 3♥
+               4♣
+
+Hearts are trumps. A leads ♦ king. Z trumps with ♥ jack
+and leads ♥ 3.
+
+
+REFUSING TO OVERTRUMP
+
+                                      No. 6
+
+              5♣
+              K♦ 7♦
+             x-------------x
+             |      Y      |
+      J♣     |             |  A♣
+      J♦ 4♦  |  A      B   |  K♥ 10♥
+             |             |
+             |      Z      |
+             x-------------x
+              4♣
+              A♥ 9♥
+
+Hearts are trumps. Y leads king ♦. B ruffs with ♥ 10.
+Z should discard.
+
+
+THE EXTRA TRUMP
+
+                                      No. 7
+
+                 7♠ 5♠
+                 K♣ 7♣
+              x-------------x
+              |      Y      |
+      A♥ 10♠  |             |  A♠ 4♣
+      10♥ 9♥  |  A      B   |  J♣ 6♣
+              |             |
+              |      Z      |
+              x-------------x
+                 6♠ 8♦
+                 Q♥ 8♥
+
+Hearts are trumps. Z should lead ♠6, not ♦8.
+
+
+UNBLOCKING
+
+                                      No. 8
+                    Q♥ 4♠ 3♠
+                  x-------------x
+                  |      Y      |
+                  |             |
+        K♣ Q♣ J♣  |  A      B   |  J♠ 10♠ 7♣
+                  |             |
+                  |      Z      |
+                  x-------------x
+                    A♣ 8♥ 6♥
+
+“No-trumps.” A leads ♣ king. Y should discard ♥ queen.
+
+
+MAKING A TENACE
+
+                                      No. 9
+
+                    Q♦ 8♦ 5♣
+                  x-------------x
+                  |      Y      |
+                  |             |
+        K♥ 8♥ 4♥  |  A      B   |  K♦ 10♦ 4♣
+                  |             |
+                  |      Z      |
+                  x-------------x
+                    A♥ J♥ 5♥
+
+Hearts are trumps. The remaining trumps are all with A and Z.
+Z should lead ♥ five.
+
+
+
+
+GLOSSARY
+
+
+=Book.=--The first six tricks won by the same partners.
+
+=Bring-in.=--To make the cards of a suit.
+
+=By Cards.=--The number of tricks won, more than six, or over
+the “Book,” is the number by cards. For instance, eight tricks are
+equal to two by cards.
+
+=Cards of Re-entry.=--A winning card which will bring into play
+another suit. Sometimes the re-entry is in the suit itself, but when
+a suit with a re-entry is spoken of, it means that the re-entry is in
+another suit.
+
+=Chicane.=--A hand dealt without a trump.
+
+=Command.=--The best card or cards of a suit. The ability to
+stop the suit at any time.
+
+=Coup.=--A brilliant play resulting in gain.
+
+=Covering.=--Putting a higher card on the trick when not the
+last player.
+
+=Cross-ruff.=--When two suits are being trumped by opposite
+hands.
+
+=Des Chapelles Coup.=--Sacrificing a high card, by leading it to
+make an entry card for your partner’s hand.
+
+=Discarding.=--When unable to follow suit, throwing away a
+card of a suit which is not trumps.
+
+=Doubling.=--Increasing the value of the trick points.
+
+=Doubtful Cards=.--Cards which may or may not win tricks.
+
+=Ducking.=--Refusing to play the master card of a suit, with the
+object of making the smaller cards in the suit.
+
+=Dummy.=--The player whose cards are exposed on the table.
+
+=Duplicate.=--A modification in which each hand is played more
+than once.
+
+=Echo.=--Playing a higher card before a lower, to your partner’s
+high card lead.
+
+=Eldest Hand.=--The player on the dealer’s left.
+
+=Entry Card.=--A card, with which you can obtain the lead.
+
+=Established Suit.=--A suit in which the partners can win every
+trick.
+
+=Exposed Card.=--Any card which is shown, but is not played to
+the trick, such as one or two cards inadvertently played at once.
+
+=Fall.=--The cards as they are played.
+
+=False Cards.=--Playing the ace, holding the king, or any
+similar attempt to conceal the cards held.
+
+=Finesse.=--Any attempt to win a trick with a card which is not
+the best in the hand, nor in sequence with it.
+
+=Follow.=--The cards played of the suit led.
+
+=Forcing.=--Making a player trump to win the trick.
+
+=Fourchette.=--The card next higher and next lower than the one
+led. Holding jack, nine, ten led--you hold a fourchette.
+
+=Fourth Best.=--Counting from the highest card in the suit.
+
+=Going Over.=--Doubling the value of the trick points.
+
+=Guarded Suits.=--A high card so protected by smaller cards that
+it cannot be caught by the adversaries’ lead of higher cards.
+
+=Holding Up.=--Refusing to play the best, and sometimes the
+second best card, of a suit.
+
+=Honours.=--In trumps the A K Q J 10 of the suit. At “no-trumps,”
+the four aces.
+
+=Leader.=--The first player to any trick.
+
+=Leading Through.=--Leading suit with a view to what the
+second hand holds in it.
+
+=Leading Up To.=--Playing a suit with a view to what the fourth
+hand holds in it.
+
+=Little Slam.=--Twelve tricks won out of thirteen.
+
+=Long Suit.=--A suit of more than three cards.
+
+=Long Trump.=--The last trump in play.
+
+=Losing Cards.=--Cards which cannot possibly take tricks.
+
+=Love-all.=--The state of the score before either side has made
+a point.
+
+=Master Cards.=--Any card of a suit the best in play.
+
+=Odd Trick.=--The first trick over the book of six.
+
+=Opening.=--You “open” a suit when you are the first to lead a
+card from the suit. The original leader is said to make the opening
+lead.
+
+=Original Lead.=--The opening of the hand.
+
+=Pass.=--When no effort is made to take a trick.
+
+=Revoke.=--Renouncing while still holding cards of the suit led.
+
+=Round.=--The cards that compose the trick.
+
+=Rubber.=--Two out of three games.
+
+=Ruffing.=--Trumping a trick.
+
+=Sequence.=--Two or more cards of equal value.
+
+=Short Suit.=--Any suit of less than four cards.
+
+=Singleton.=--A suit of which you hold originally but one card.
+
+=Slam.=--Winning all thirteen tricks.
+
+=Tenace.=--The best and third best of a suit. Ace and queen are
+tenace over the king, jack.
+
+=Third Hand.=--The leader’s partner.
+
+=Throwing the Lead.=--Purposely playing a losing card that you
+may not retain the lead.
+
+=Unblocking.=--Getting rid of a card that may stop the run of a
+long suit.
+
+=Underplay.=--Playing a low card with a higher card in hand.
+
+=Weak Suits.=--Those in which tricks are impossible, or very
+improbable.
+
+=Weakness.=--Inability to stop a suit.
+
+=Younger Hand.=--The partner of the original leader.
+
+
+
+
+INDEX.
+
+
+Ace, king, jack combination, 127
+Ace, queen, jack combination, 125
+Ace, jack, ten combination, 129
+Ace and king, lead from, 60
+Ace, lead of, 64
+Ace denies king, 64
+Accepting force, 143
+Advantages of discarding strength, 120
+Arranging the lead, 131
+Avoid leading trumps, 141
+Avoid weak red makes, 33
+Avoid opening trumps, 70
+Avoid leading from short trumps, 72
+Avoid leading from suit with one honour, 72
+Abandoning spade hands, 49
+
+Bridge for three players, 24
+Bridge, laws of, 1
+Bystanders, 20
+
+Cards exposed before play, 13
+Cards exposed during play, 14
+Cards played in error, 16
+Changing suits, 74
+Choice of suits to lead through, 79
+Choice of suits to play for, 151
+Chicane, 4
+Clubs, 46
+Convention, heart, 57
+Convention, weak suit, 57
+Covering honour with honour, 93
+Combining hands of dealer and dummy, 125
+Combinations to be avoided, 131
+Cutting, 3
+Cutting out, 4
+
+Dealer’s play of “no-trump” declaration, 151
+Dealer’s play, 124
+Defensive play against red makes, 59
+Dealing out of turn, 13
+Declaration, the, 31
+Declaring to the score, 27
+Declaring trumps, 8
+Deal, a new, 7
+Deal, the, 6
+Defence against overtaking and ducking, 172
+Desire to ruff, 75
+Diagrams of good combinations to lead from, 62
+Diagrams of bad combinations to lead from, 61
+Diamonds, 43
+Diamonds, original, 43
+Diamond make for safety, 45
+Diamond make, rule for, 45
+Discard, the, 116
+Discarding strength, advantages of, 117
+Discard against declared trump, 117
+Discard from weakness, 119
+Discard from strength, 118
+Discard at “no trump,” 118
+Discarding, hints on, 121
+Discarding partner’s suit, 121
+Discarding by the dealer, 122
+Discontinuing lead of trumps, 144
+Discards, forcing, 148
+Doubling, 51
+Doubling gives information to partner, 53
+Doubling to the score, 53
+Doubling on the rubber game, 52
+Doubling spades, 52
+Doubling no-trump, 53
+Doubling, redoubling, etc., 9
+Doubling to prevent loss, 53
+Ducking, 166
+Dummy, 11
+
+Echo, the, 88
+Eleven, rule of, 67
+Estimating the value of a hand, 54
+Establishing adversaries’ suit, 81
+Establishing small cards, 151
+Etiquette, 21
+Examples of fourth-best leads, 62
+Examples of bad openings against declared trump, 61
+Examples of hands that should not be passed, 42
+Examples of opening leads, 63
+Examples of inference from opening leads, 68
+Examples of leading trumps to the maker, 71
+Examples of leading trumps through dummy, 71
+Examples of no-trump makes, 38
+Examples of short suit openings, 77
+Examples of second hand plays, 137
+Examples of unblocking, 109
+Examples of original leads at no trump, 106
+Exhausting trumps, 144
+Exposed card before play, 13
+Exposed card during play, 13
+
+False-carding, 122
+Finesse obligatory, 134
+Finessing, 132
+Finessing by dealer, 132
+Finesses, locating, 135
+Finessing against partner, 81
+Five hearts including three honours, 40
+Five hearts including two honours, 41
+Five hearts with one honour, 41
+Forming tables, 3
+Forcing discards, 148
+Forcing strong hands, 89
+Forcing, 89
+Fourchette, 94
+Four hearts with three honours, 41
+Fourth best leads, examples of, 62
+Fourth best lead, 96
+
+General inferences, 99
+General rules, 19
+Giving correct information to partner, 60
+Giving partner ruff, 75
+
+Holding up by non-dealers, 111
+Holding up, examples of, 112
+Hearts, 38
+Hearts in preference to “no trump,” 42
+Heart combination, 39
+Heart convention, the, 57
+Hearts, not “no-trumps,” 43
+Hesitating in play, 93
+Hints on discarding, 121
+Holding the lead, 63
+Honours, value of, 4
+How to draw inferences, 97
+How to play to partner’s trump opening, 73
+
+Illustrations of inferences from third hand plays, 82
+Information, give to partner, 61
+Inferences from opening leads, examples of, 68
+Inferences from third hand play, 82
+Information, value of, 96
+Information, giving partner, 96
+Inferences, how to draw, 97
+Inferences, general, 99
+Inferences, 95
+Inferences regarding the make, 98
+Information given by doubling, 52
+Inferences from low card leads, 67
+Inferences from high card leads, 64
+
+Keeping command of adversary’s suit, 153
+Keeping the lead, 151
+King, jack, ten combination, 129
+
+Laws of Bridge, 1
+Locating trumps, 104
+Locating finesses, 135
+Long suits, leading from, 60
+Long suit, value of, 42
+Low card leads, inferences from, 68
+Leading trumps, examples of, 71
+Leading up to dummy, 87
+Leading to force, 89
+Letting partner ruff, 90
+Leading fourth best, 96
+Leading red suit to dealer, 105
+Leading weak suit at no-trump, 105
+Leading from weak hand, 130
+Leading trumps to prevent a ruff, 74
+Leads out of turn, 15
+Leading through strength, 77
+Leading through king in dummy, 79
+Leading long with four trumps, 76
+Leading short with six trumps, 76
+Leading red suit on passed make, 75
+Leading highest of short suit, 76
+Lead when spades are trumps, 72
+Leading trumps to throw the lead, 71
+Leading trumps from sequence, 70
+Leading trumps to prevent a ruff, 143
+Leading up to strength, 70
+Leading from long suit, 62
+Lead of the ace, 64
+Lead of ace and king, 65
+Lead of the king, 65
+Lead of the queen, 65
+Lead of the jack, 66
+Leading jack from king, jack, ten, 66
+Lead of the ten, 66
+Lead of the nine, 67
+Leading to save slam, 60
+Leading from sequence, 61
+Leading from ace and king, 65
+Leading trumps in doubled spades, 56
+Leading from weak trumps, 74
+Leading through weakness, 78
+Lead when partner has doubled, 55
+Leading short suits, 68
+
+Making high cards, 60
+Making to score, 31
+Management of trumps by dealer, 139
+Miscellaneous combinations, 130
+Misdeal, 10
+
+New deal, 7
+New cards, 20
+Non-dealer’s play against a “no-trump” hand, 102
+Non-dealer’s play to the score, 29
+Non-dealer’s play against a declared trump, 59
+“No-trump” declaration by the dealer, 32
+“No-trump” with three aces, 35
+“No-trump” with two aces and one other guarded suit, 35
+“No-trump” with two aces, 36
+“No-trump” with one ace, 37
+“No-trump” without an ace, 37
+Not returning lead of trumps, 73
+Not leading from single honour suits, 72
+Not leading from tenace suits, 72
+Not forcing strong trump hand, 142
+
+Obtaining a ruff, 141
+Opening leads, examples, 63
+Opening a short suit against a “no-trump” declaration, 107
+Original lead at “no-trump,” examples of, 106
+Original lead at “no-trump,” 103
+Opening short with strong hand, 74
+Opening lead, the, 60
+Opening lead against trump declaration, 60
+Original lead, the, 103
+Original lead at “no-trump,” 106
+Original trump openings, 70
+Original trump openings from strength, 72
+Overtaking and ducking, 171
+Overtaking and unblocking, 170
+Overtaking, 163
+Overtrumping, 147
+
+Passed makes, 47
+Passed red makes, 49
+Passed black makes, 48
+Placing high cards, 81
+Placing partner in lead, 75
+Playing before dummy, 92
+Playing ace second in hand, 94
+Playing through strength, 77
+Playing to the score, 28
+Playing before dealer, 94
+Preventing ruff, 74
+Preventing ruff, leading trumps to, 143
+
+Redoubling, 10, 54
+Returning partner’s lead, 91, 109
+Re-entries, saving, 157
+Red makes defensive, 39
+Re-entry cards, 148
+Reverse discard, 122
+Revoke, the, 17
+Rights of entry, 5
+Rubber, the, 1
+Ruff, obtaining a, 140
+Ruff, preventing a, 74
+Ruff, desire to, 75, 88
+Ruff, giving partner, 78
+Ruff, letting partner, 88
+Rule of eleven, 67
+Rules for “no-trump” declaration by the dealer, 34
+Rules for the heart make, 40
+
+Saving game, 151
+Saving re-entries, 157
+Score, the, 27
+Scoring, 1
+Seeing dummy hand, 59
+Second hand plays, 136
+Second hand plays, examples of, 137
+Short suit openings, examples of, 77
+Short suit openings, 74
+Second hand play, 91
+Shuffling, 6
+Slam, 4
+Short suit, leading from, 74
+Spades, 47
+Spades, original, 47
+Strength indicated by trump opening, 70
+Strength indicated by doubling, 51
+Suggestions for third hand play, 80
+
+Taking out re-entry cards, 115
+Trumps, leading in doubled spades, 73
+Trumps, avoid leading, 72
+Trump, original openings, 70
+Trumps, leading up to strength, 70
+Trump, opening from strength, 72
+Trump lead, not returning, 73
+Trusting partner, 99
+Trumping losing cards, 141
+Trump opening indicates strength, 72
+Trump lead when weak hand can ruff, 74
+Trump lead against a spade make, 72
+Trump opening from strength, 72
+Tenace, not leading from, 62
+Third hand play, 80
+Throwing the lead, 150
+
+Unblocking, 161, 170
+Unblocking trump suit, 142
+Unblocking, 108
+Unblocking, examples of, 109
+
+Value of long suit, 42
+Value of tricks, 4
+Value of information, 96
+
+Watching dealer’s discards, 135
+Watching fall of cards, 98
+Watching partner’s play, 98
+Watching adversaries’ play, 98
+Weakness, leading through, 71
+Weak trumps, leading from, 71
+Weak suit convention, the, 57
+When to lead through strength, 78
+When to lead trumps, 139
+When not to lead trumps, 141
+When to draw the remaining trumps, 144
+When to trump, 146
+When you play before the dummy, 92
+When you play before the dealer, 94
+Win the first trick, 59
