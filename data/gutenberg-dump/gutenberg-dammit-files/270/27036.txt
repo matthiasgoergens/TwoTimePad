@@ -1,0 +1,996 @@
+17.2. L'avenir du réseau vu par les auteurs
+
+
+Comment les auteurs voient-ils sur l'avenir du réseau?
+
+Michel Benoît, auteur de nouvelles noires et fantastiques: "En ce moment, il est
+extrêmement difficile de faire quelque prédiction que ce soit sur le futur
+d'internet. Toute prospective le moindrement pointue, techniquement par exemple,
+sur l'évolution du net sera certainement farfelue dans un futur plus ou moins
+rapproché. On peut y aller d'idées, encore que ça doit être très général. Pas
+par crainte d'être ridicule, le ridicule ne tue pas, c'est connu. Non, par souci
+d'honnêteté, tout simplement. (...) Parenthèse: est-il si farfelu de penser que
+les historiens des années 2100 considéreront l'avènement du net comme un
+événement aussi, sinon plus, important que la révolution industrielle? Le feu,
+l'agriculture, la révolution industrielle, le net. On en est rendu à la
+'révolution continue de l'Evolution'. Ça me fait penser à ce merveilleux texte
+Desiderata, découvert dans l'église Saint-Paul à Baltimore en 1693, je pense.
+J'en cite de mémoire une phrase qui me hante: 'Que vous le compreniez ou non,
+que vous le vouliez ou non, l'univers évolue comme il se doit.' J'y crois. Je
+crois sincèrement qu'au travers l'incroyable désordre de l'Evolution, il n'y a
+rien qui soit soumis au hasard. 'Dieu n'a pas créé un monde soumis au hasard',
+disait Einstein à Bohr lors d'une de leurs homériques prises de bec."
+
+Lucie de Boutiny, écrivain papier et pixel: "Comme tous ceux qui ont surfé avec
+des modems de 14.4 Ko sur le navigateur Mosaic et son interface en carton-pâte,
+je suis déçue par le fait que l'esprit libertaire ait cédé le pas aux activités
+libérales décérébrantes. Les frères ennemis devraient se donner la main comme
+lors des premiers jours car le net à son origine n'a jamais été un repaire de
+'has been' mélancoliques, mais rien ne peut résister à la force d'inertie de
+l'argent. C'était en effet prévu dans le scénario, des stratégies utopistes
+avaient été mises en place mais je crains qu'internet ne soit plus aux mains
+d'internautes comme c'était le cas. L'intelligence collective virtuelle pourtant
+se défend bien dans divers forums ou listes de discussions, et ça, à défaut
+d'être souvent efficace, c'est beau. Dans l'utopie originelle, on aurait aimé
+profiter de ce nouveau média, notamment de communication, pour sortir de cette
+tarte à la crème qu'on se reçoit chaque jour, merci à la société du spectacle,
+et ne pas répéter les erreurs de la télévision qui n'est, du point de vue de
+l'art, jamais devenue un média de création ambitieux."
+
+Alain Bron, consultant en systèmes d'information et écrivain: "Ce qui importe
+avec internet, c'est la valeur ajoutée de l'humain sur le système. Internet ne
+viendra jamais compenser la clairvoyance d'une situation, la prise de risque ou
+l'intelligence du coeur. Internet accélère simplement les processus de décision
+et réduit l'incertitude par l'information apportée. Encore faut-il laisser le
+temps au temps, laisser mûrir les idées, apporter une touche indispensable
+d'humanité dans les rapports. Pour moi, la finalité d'internet est la rencontre
+et non la multiplication des échanges électroniques."
+
+Tim McKenna, écrivain et philosophe: "J'aimerais que l'internet devienne
+davantage un outil d'accès à l'information et aux médias non contrôlé par les
+multinationales."
+
+Xavier Malbreil, auteur multimédia: "Concernant l'avenir de l'internet, je le
+crois illimité. Il ne faut pas confondre les gamelles que se prennent certaines
+start-up trop gourmandes, ou dont l'objectif était mal défini, et la réalité du
+net. Mettre des gens éloignés en contact, leur permettre d'intéragir, et que
+chacun, s'il le désire, devienne son propre fournisseur de contenu, c'est une
+révolution dont nous n'avons pas encore pris toute la mesure."
+
+Christian Vandendorpe, professeur et écrivain: "Cet outil fabuleux qu'est le web
+peut accélérer les échanges entre les êtres, permettant des collaborations à
+distance et un épanouissement culturel sans précédent. Mais cet espace est
+encore fragile. Il risque d'être confisqué par des juridictions nationales. Ou
+il peut être transformé en une gigantesque machine à sous au moyen de laquelle
+la quasi-totalité de nos activités entrerait dans le circuit économique et
+ferait l'objet d'une tarification minutée. On ne peut pas encore prédire dans
+quel sens il évoluera. Le phénomène Napster a contribué à un début de prise en
+main par les juges, qui tendent à imposer sur cet espace les conceptions en
+vigueur dans le monde physique. On pourrait ainsi en étouffer le potentiel
+d'innovation. Il existe cependant des signes encourageants, notamment dans le
+développement des liaisons de personne à personne et surtout dans l'immense
+effort accompli par des millions d'internautes partout au monde pour en faire
+une zone riche et vivante."
+
+
+17.3. L'avenir du réseau vu par les diffuseurs de contenu
+
+
+En juin 1998, Olivier Bogros, créateur de la Bibliothèque électronique de
+Lisieux, écrivait: "Internet est un outil formidable d'échange entre
+professsionnels (tout ce qui passe par le courrier électronique, les listes de
+diffusion et les forums) mais qui est un consommateur de temps très dangereux:
+on a vite fait si l'on n'y prend garde de divorcer et de mettre ses enfants à la
+DASS (Direction de l'aide sanitaire et sociale). Plus sérieusement, c'est pour
+les bibliothèques la possibilité d'élargir leur public en direction de toute la
+francophonie. Cela passe par la mise en ligne d'un contenu qui n'est pas
+seulement la mise en ligne du catalogue, mais aussi et surtout la constitution
+de véritables bibliothèques virtuelles. Les professionnels des bibliothèques
+sont les acteurs d'un enjeu important concernant la place de la langue française
+sur le réseau."
+
+De l'avis de Marie-Aude Bourson, créatrice de Gloupsy, site littéraire faisant
+connaître de nouveaux auteurs, l'internet verra "une concentration des sites
+commerciaux mais une explosion des sites persos qui seront regroupés par
+communautés d'intérêt".
+
+Denis Zwirn, PDG de Numilog: "Le développement attendu d'internet est une
+panacée qui possède suffisamment d'évidence pour ne pas y insister: il ne s'agit
+pas d'une mode, mais d'une révolution des moyens de communication qui présente
+des avantages objectifs tellement forts qu'on ne voit pas, sauf nouveau saut
+technologique inattendu, comment elle pourrait ne pas se répandre."
+
+
+17.4. L'avenir du réseau vu par les gestionnaires
+
+
+Pierre-Noël Favennec, expert à la direction scientifique de France Télécom R&D:
+"Le mariage des télécommunications et de l'informatique font de l'internet une
+technologie extrêmement puissante et très riche d'avenir. Mais l'internet n'est
+qu'une technologie, puissante certes, qui vient s'ajouter à celles existantes ;
+elle ne les remplace pas, elle apporte autre chose: de l'information potentielle
+supplémentaire, de la communication virtuelle où il n'y a plus de distance, un
+accès potentiel à de la culture venant de partout..."
+
+Gérard Jean-François, directeur du centre de ressources informatiques de
+l'Université de Caen: "Pour l'avenir, les évolutions suivantes se précisent à
+l'horizon: les développements techniques pour la prise en compte des différents
+médias; la 'démocratisation' de l'internet, qui amènera la mise en place de
+réseaux professionnels; la multiplication des problèmes de sécurité liés à la
+dématérialisation de l'information."
+
+Jean-Philippe Mouton, gérant de la société d'ingénierie Isayas: "Je pense que le
+développement et la maintenance de systèmes informatiques internet est une
+activité qui vient dans la continuité des systèmes MVS (multiple virtual
+storage) et client/serveur. De nouvelles sociétés sont créées pour répondre aux
+besoins informatiques récents des entreprises, alors que l'activité dans le
+domaine des vieux systèmes ralentit. La récession du net touche aujourd'hui en
+priorité les entreprises nouvelles de 'business online'. Internet n'a pas pour
+vocation véritable de créer de nouveaux commerces, c'est un moyen de
+communication, un nouvel outil marketing, la possibilité pour les entreprises
+d'avoir des franchises à moindre coût, une information accessible par l'ensemble
+de ses interlocuteurs... Je suis de ceux qui croient que les sociétés
+d'ingénierie risquent d'être moins touchées par le phénomène 'start-down' que
+d'autres dans ce domaine."
+
+La conclusion de ce chapitre appartient à Pierre Schweitzer, architecte designer
+et concepteur d'@folio, support numérique de lecture nomade: "Internet pose une
+foule de questions et il faudra des années pour organiser des réponses, imaginer
+des solutions. L'état d'excitation et les soubresauts autour de la dite
+'nouvelle' économie sont sans importance, c'est l'époque qui est passionnante."
+
+
+18. CYBERESPACE ET SOCIETE DE L'INFORMATION
+
+
+[Dans ce chapitre:]
+
+[18.1. Le cyberespace: définitions / Le cyberespace vu par les auteurs / Le
+cyberespace vu par les bibliothécaires-documentalistes / Le cyberespace vu par
+les éditeurs / Le cyberespace vu par les gestionnaires / Le cyberespace vu par
+les linguistes / Le cyberespace vu par les professeurs / Le cyberespace vu par
+les spécialistes du numérique // 18.2. La société de l'information: définitions
+/ Un concept vide de sens / La société de l'information vue par les auteurs / La
+société de l'information vue par les bibliothécaires-documentalistes / La
+société de l'information vue par les éditeurs / La société de l'information vue
+par les linguistes / La société de l'information vue par les professeurs / La
+société de l'information vue par les spécialistes du numérique]
+
+On rappelle souvent que la paternité du terme "cyberspace" revient à William
+Gibson, qui le définit ainsi dans Neuromancien, roman de science-fiction paru en
+1984: "Cyberespace: une hallucination consensuelle expérimentée quotidiennement
+par des milliards d'opérateurs réguliers, dans chaque nation, par des enfants à
+qui on enseigne des concepts mathématiques... Une représentation graphique des
+données extraites des banques de tous les ordinateurs dans le système humain.
+Complexité incroyable. Des lignes de lumière qui vont dans le non-espace de
+l'esprit, des agglomérats et des constellations de données. Et qui fuient, comme
+les lumières de la ville." (traduction personnelle à partir du texte anglais)
+
+Quant à la société de l'information, elle n'est pas si récente. On annonce
+presque quotidiennement son avènement depuis les années 70, comme le rappelle
+Jacques Pataillot, conseiller en management chez Cap Gemini Ernst & Young:
+"C'est un vieux concept, dont on parlait déjà en 1975! Seules les technologies
+ont changé."
+
+Les termes "cyberespace" et "société de l'information" sont sur toutes les
+lèvres, et dans tous les écrits. La littérature sur le sujet est abondante, et
+n'est pas près de tarir. Plutôt que la répertorier, ou de gloser sur le sujet,
+on a préféré demander aux professionnels du livre quelles étaient leurs propres
+définitions. Voici leurs réponses.
+
+
+18.1. Le cyberespace: définitions
+
+
+= Le cyberespace vu par les auteurs
+
+Alex Andrachmes, producteur audiovisuel, écrivain et explorateur d'hypertexte:
+"Lequel? Celui des Gibson, inventeur de la formule, des Spinrad ou des Clarke,
+utopies scientifiques pas toujours traitées comme elles devraient l'être? Ou
+celui des AOL/Time-Warner, des Microsoft ou des... J6M-Canal/Universal... Tout
+ce qu'on peut dire à l'heure actuelle, c'est que ce qu'on peut encore appeler le
+cyberspace est multiforme, et qu'on ne sait pas qui le domptera. Ni s'il faut le
+dompter d'ailleurs... En tout cas, les créateurs, artistes, musiciens, les sites
+scientifiques, les petites 'start-up' créatives, voire les millions de pages
+perso, les chats, les forums, et tout ce qui donne au net sa matière propre ne
+pourra être ignoré par les grands mangeurs de toile. Sans eux, ils perdraient
+leurs futurs 'abonnés'. Ce paradoxe a son petit côté subversif qui me plaît
+assez."
+
+Lucie de Boutiny, écrivain papier et pixel: "Le délire SF du type: 'bienvenue
+dans la 3e dimension, payez-vous du sexe, des voyages et des vies virtuels' a
+toujours existé. La méditation, l'ésotérisme, les religions y pourvoient, etc.
+Maintenant, on est dans le cyberspace."
+
+Jean-Pierre Cloutier, auteur des Chroniques de Cybérie, chronique hebdomadaire
+des actualités de l'internet, définit le cyberespace comme "un monde parallèle,
+un espace où se déroule l'ensemble des activités d'information, de
+communication, et d'échanges (y compris échanges commerciaux) désormais permises
+par le réseau. Il y a un centre, autonome, très interconnecté qui vit par et
+pour lui-même. Puis des collectivités plus ou moins ouvertes, des espaces
+réservés (intranets), des sous-ensembles (AOL, CompuServe). Il y a ensuite de
+très longues frontières où règne une culture mixte, hybride, issue du virtuel et
+du réel (on pense aux imprimés qui ont des versions web, aux sites marchands).
+Il y a aussi un sentiment d'appartenance à l'une ou l'autre de ces régions du
+cyberespace, et un sentiment d'identité."
+
+Luc Dall'Armellina, co-auteur et webmestre d'oVosite, espace d'écritures
+hypermédias: "Ce pourrait-être quelque chose comme l'ensemble électrique
+mouvant, le système invisible mais cohérent des êtres humains sensibles et des
+interfaces intelligentes dont les activités sont tout ou en partie réglées,
+conditionnées ou co-régulées à travers leurs machines connectées ensemble.
+Peut-être plus simplement: la virtualisation sensible et numérique de
+l'inconscient collectif..."
+
+Jean-Paul, webmestre du site des cotres furtifs, qui raconte des histoires en
+3D, le définit comme "un lieu isotrope en expansion pour l'instant infinie. Un
+modèle de la vision que nous avons aujourd'hui de l'univers. Jusqu'à l'invention
+du clic, le savoir humain était senti comme un espace newtonien, avec deux
+repères absolus: le temps (linéaire: un début, une fin) et l'espace (les trois
+dimensions du temple, du rouleau, du volumen). Le cyberespace obéit aux lois de
+l'hypertexte. Deux temps simultanés: le temps taxé (par le fournisseur d'accès
+ou par les impératifs de productivité, égrené par l'antique chrono), et le temps
+aboli, qui fait passer d'un lien à l'autre, d'un lieu à l'autre à la vitesse de
+l'électron, dans l'illusion du déplacement instantané. Quant aux repères,
+quiconque a lancé une recherche dans cet espace sait qu'il doit lui-même les
+définir pour l'occasion, et se les imposer (sous peine de se disperser, de se
+dissoudre), pour échapper au vertige de la vitesse. A cause de cette 'vitesse de
+la pensée', nous trouvons dans cet espace un 'modèle' de notre cerveau. 'Ça
+tourne dans ma tête', à travers 10, 20, etc... synapses à la fois, comme un
+fureteur archivant la toile. Bref les lois du cyberespace sont celles du rêve et
+de l'imagination."
+
+Pour Anne-Bénédicte Joly, écrivain auto-éditant ses livres, le cyberespace est
+"le domaine virtuel créé par la mise en relation de plusieurs ordinateurs
+communiquant et échangeant entre eux".
+
+Naomi Lipson, écrivain multimédia, traductrice et peintre: "J'aime la métaphore
+du labyrinthe. Le média se nourrissant lui-même, le cyberespace contient une
+infinité de sites sur les labyrinthes."
+
+Tim McKenna, écrivain et philosophe: "Pour moi, le cyberespace est l'ensemble
+des liens existant entre les individus utilisant la technologie pour communiquer
+entre eux, soit pour partager des informations, soit pour discuter. Dire qu'une
+personne existe dans le cyberespace revient à dire qu'elle a éliminé la distance
+en tant que barrière empêchant de relier personnes et idées."
+
+Pour Xavier Malbreil, auteur multimédia et modérateur de la liste e-critures, il
+s'agit d'"une interconnexion de tous, partout. Avec le libre accès à des banques
+de données, pour insuffler également du contenu dans les échanges
+interpersonnels".
+
+Murray Suid, écrivain travaillant pour une société internet de logiciels
+éducatifs: "Le cyberespace est n'importe où, c'est-à-dire partout. L'exemple le
+plus simple est ma boîte aux lettres électronique, qui me suit où que j'aille."
+
+= Le cyberespace vu par les bibliothécaires-documentalistes
+
+Emmanuel Barthe, documentaliste juridique et modérateur de la liste de
+discussion Juriconnexion: "Je ne visualise pas le cyberespace comme véritable
+espace physique mais comme un immense média néanmoins concentré en un lieu
+unique: l'écran de l'ordinateur. En revanche, je conçois/pense le cyberespace
+comme un forum ou une assemblée antique: beaucoup d'animation, diversité des
+opinions, des discours, des gens qui se cachent dans les recoins, des personnes
+qui ne se parlent pas, d'autres qui ne parlent qu'entre eux..."
+
+Bakayoko Bourahima, documentaliste à l'ENSEA (Ecole nationale supérieure de
+statistique et d'économie appliquée) d'Abidjan: "Il y a encore un peu de
+fantasme autour de ce mot. Quand j'ai fait connaissance avec ce mot (utilisé par
+Jean-Claude Guédon et Nicholas Négroponte), il m'avait d'abord laissé l'illusion
+d'un espace extra-terrestre où les ordinateurs et leurs utilisateurs se
+transportaient pour échanger des données et communiquer. Depuis que je navigue
+moi-même, je me rends compte qu'il s'agit tout simplement d'un espace virtuel
+traduisant le cadre de communication qui rassemble les internautes à travers le
+monde."
+
+Peter Raggett, directeur du centre de documentation de l'OCDE (Organisation de
+coopération et de développement économiques): "Le cyberespace est cette zone
+'extérieure' qui se trouve de l'autre côté du PC lorsqu'on se connecte à
+l'internet. Pour ses utilisateurs ou ses clients, tout fournisseur de services
+internet ou serveur de pages web se trouve donc dans le cyberespace."
+
+= Le cyberespace vu par les éditeurs
+
+Pour Marie-Aude Bourson, créatrice de Gloupsy, site littéraire destiné aux
+nouveaux auteurs, le cyberespace est "un espace d'expression, de liberté et
+d'échanges où tout peut aller très (trop) vite".
+
+Pierre-Noël Favennec, directeur de collection et expert à la direction
+scientifique de France Télécom R&D: "Le cyberespace est un monde où je suis
+relié par l'image et le son et sans fil avec qui je veux, quand je veux et où je
+veux, où j'ai accès à toutes les documentations et informations souhaitées, et
+dans lequel ma vie est facilitée par les agents intelligents et les objets
+communicants."
+
+Jacky Minier, créateur de Diamedit, site de promotion d'inédits artistiques et
+littéraires: "C'est un espace de liberté pour l'imaginaire, une dimension
+inexplorée de la planète, une jungle et un paradis tout à la fois, où tout est
+possible même si tout n'est pas permis par l'éthique, où le contenu du
+portefeuille des intervenants n'a aucun rapport direct avec la valeur des
+contenus des sites. C'est avant tout une vaste agora, une place publique où l'on
+s'informe et où l'on informe. Ça peut être également une place de foires et
+marchés, mais l'argent n'y a cours que très accessoirement, même si la
+possibilité de vendre en ligne est réelle et ne doit pas être négligée ni
+méprisée. Il n'y est pas la seule valeur de référence, contrairement au monde
+réel et, même dans les cas très médiatiques de start-up multimillionnaires, le
+rapport à l'argent n'est qu'une conséquence, la matérialisation d'espérances
+financières, très vite sanctionnée en cas d'ambitions excessives comme on le
+voit régulièrement sur le site Vakooler: Ki Vakooler aujourd'hui? (Va couler:
+qui va couler aujourd'hui?, ndlr), après les envolées lyriques et délirantes des
+premiers temps. A terme, je pense que le cyberespace restera un lieu beaucoup
+plus convivial que la société réelle."
+
+Nicolas Pewny, créateur des éditions du Choucas: "Je reprendrai volontiers une
+phrase d'Alain Bron, ami et auteur de Sanguine sur Toile (publié en 1999 par les
+éditions du Choucas, ndlr): 'un formidable réservoir de réponses quand on
+cherche une information et de questions quand on n'en cherche pas. C'est ainsi
+que l'imaginaire peut se développer... (Ma correspondante en Nouvelle-Zélande
+est-elle jolie ? L'important, c'est qu'elle ait de l'esprit.)'"
+
+= Le cyberespace vu par les gestionnaires
+
+Gérard Jean-François, directeur du centre de ressources informatiques de
+l'Université de Caen: "Le cyberspace peut être considéré comme l'ensemble des
+informations qui sont accessibles sans aucune restriction sur le réseau
+internet."
+
+Pour Pierre Magnenat, responsable de la cellule "gestion et prospective" du
+centre informatique de l'Université de Lausanne, le cyberespace est "l'ensemble
+des ressources et acteurs connectés et accessibles à un moment donné".
+
+Pour Jacques Pataillot, conseiller en management chez Cap Gemini Ernst & Young,
+le cyberespace est "l''économie connectée' (de l'anglais 'connected economy') où
+tous les agents sont reliés électroniquement pour les échanges d'information".
+
+= Le cyberespace vu par les linguistes
+
+Guy Antoine, créateur du site Windows on Haiti, site de référence sur la culture
+haïtienne: "Le cyberespace est au sens propre une nouvelle frontière pour
+l'humanité, un endroit où chacun peut avoir sa place, assez facilement et avec
+peu de ressources financières, avant que les règlements inter-gouvernementaux et
+les impôts ne l'investissent. Suite à quoi une nouvelle technologie lui
+succédera."
+
+Pour Alain Clavet, analyste de politiques au Commissariat aux langues
+officielles du Canada, il s'agit d'"un lieu de connaissances partagées non
+soumis aux contraintes du temps et de l'espace".
+
+Eduard Hovy, directeur du Natural Language Group de l'Université de Californie
+du Sud: "Pour moi, le cyberespace est représenté par la totalité des
+informations auxquelles nous pouvons accéder par l'internet et les systèmes
+informatiques en général. Il ne s'agit bien sûr pas d'un espace, et son contenu
+est sensiblement différent de celui des bibliothèques. Par exemple, bientôt mon
+réfrigérateur, ma voiture et moi-même seront connus du cyberespace, et toute
+personne disposant d'une autorisation d'accès (et d'une raison pour cela) pourra
+connaître précisément le contenu de mon réfrigérateur et la vitesse de ma
+voiture (ainsi que la date à laquelle je devrai changer les amortisseurs), et ce
+que je suis en train de regarder maintenant. En fait, j'espère que la conception
+de la publicité va changer, y compris les affiches et les présentations que j'ai
+sous les yeux en marchant, afin que cette publicité puisse correspondre à mes
+connaissances et à mes goûts, tout simplement en ayant les moyens de reconnaître
+que 'voici quelqu'un dont la langue maternelle est l'anglais, qui vit à Los
+Angeles et dont les revenus sont de tant de dollars par mois'. Ceci sera
+possible du fait de la nature dynamique d'un cyberespace constamment mis à jour
+(contrairement à une bibliothèque), et grâce à l'existence de puces
+informatiques de plus en plus petites et bon marché. Tout comme aujourd'hui
+j'évolue dans un espace social qui est un réseau de normes sociales,
+d'expectations et de lois, demain, j'évoluerai aussi dans un cyberespace composé
+d'informations sur lesquelles je pourrai me baser (parfois), qui limiteront mon
+activité (parfois), qui me réjouiront (souvent, j'espère) et qui me décevront
+(j'en suis sûr)."
+
+Steven Krauwer, coordinateur d'ELSNET (European Network of Excellence in Human
+Language Technologies): "Pour moi, le cyberespace est la partie de l'univers
+(incluant personnes, machines et information) que je peux atteindre 'derrière'
+ma table de travail."
+
+Zina Tucsnak, ingénieur d'études en informatique à l'ATILF (Analyse et
+traitements informatiques du lexique français): "Je crois que, dans le
+cyberespace, l'information et la quantité de l'information sont gouvernées par
+des lois mathématiques. Mais les modèles mathématiques n'ont pas trouvé encore
+leur solution, un peu comme le mouvement perpétuel ou la quadrature du cercle."
+
+= Le cyberespace vu par les professeurs
+
+Pour Gaëlle Lacaze, ethnologue et professeur d'écrit électronique dans un
+institut universitaire professionnel, il s'agit d'"une visuelle en trois
+dimensions: superposition de lignes droites mouvantes selon des directions
+multiples où les rencontres de lignes créent des points de contact".
+
+Pour Patrick Rebollar, professeur de littérature française et modérateur de la
+liste de diffusion LITOR (Littérature et ordinateur), le cyberespace est "la
+réplique virtuelle et très imparfaite du monde des relations humaines, sociales,
+commerciales et politiques. En privant partiellement les utilisateurs de la
+matérialité du monde (spatiale, temporelle, corporelle), le cyberespace permet
+de nombreuses interactions instantanées et multi-locales. A noter que les êtres
+humains se montrent aussi stupides ou intelligents, malveillants ou dévoués dans
+le cyberespace que dans l'espace réel..."
+
+Henri Slettenhaar, professeur en technologies de la communication à la Webster
+University de Genève: "Le cyberespace est notre espace virtuel, à savoir
+l'espace de l'information numérique (constitué de bits, et non d'atomes). Si on
+considère son spectre, il s'agit d'un espace limité. Il doit être géré de telle
+façon que tous les habitants de la planète puissent l'utiliser et en bénéficier.
+Il faut donc éliminer la fracture numérique."
+
+Pour Christian Vandendorpe, professeur à l'Université d'Ottawa et spécialiste
+des théories de la lecture, le cyberespace est "le nouveau territoire de la
+culture, un espace qui pourrait jouer le rôle de l'Agora dans la Grèce ancienne,
+mais à un niveau planétaire".
+
+Russon Wooldridge, professeur au département d'études françaises de l'Université
+de Toronto: "Je travaille dans la même université que Marshall McLuhan autrefois
+(nos carrières se sont un moment croisées). Le 'village global' qu'il
+entrevoyait à l'époque de la radio et de la télévision est devenu une réalité
+dans l'ère d'internet. Mais un village sans classes sociales (il n'y a pas de
+châtelain)."
+
+= Le cyberespace vu par les spécialistes du numérique
+
+Pierre Schweitzer, architecte designer et concepteur d'@folio, support numérique
+de lecture nomade: "C'est un terme un peu obscur pour moi. Mais je déteste
+encore plus 'réalité virtuelle'. Bizarre, cette idée de conceptualiser un
+ailleurs sans pouvoir y mettre les pieds. Evidemment un peu idéalisé, 'sans
+friction', où les choses ont des avantages sans les inconvénients, où les autres
+ne sont plus des 'comme vous', où on prend sans jamais rien donner, 'meilleur' -
+paraît-il. Facile quand on est sûr de ne jamais aller vérifier. C'est la porte
+ouverte à tous les excès, avec un discours technologique à outrance, déconnecté
+du réel, mais ça ne prend pas. Dans la réalité, internet n'est qu'une évolution
+de nos moyens de communication. Bon nombre d'applications s'apparentent ni plus
+ni moins à un télégraphe évolué (Morse, 1830): modem, e-mail... Les mots du
+télégraphe traversaient les océans entre Londres, New-York, Paris et Toyo, bien
+avant l'invention du téléphone. Bien sûr, la commutation téléphonique a fait
+quelques progrès: jusqu'à l'hypertexte cliquable sous les doigts, les URL
+(uniform resource locators) en langage presqu'humain, bientôt accessibles y
+compris par les systèmes d'écriture non alphabétiques... Mais notre vrai temps
+réel, c'est celui des messages au fond de nos poches et de ceux qui se perdent,
+pas le temps zéro des télécommunications. La segmentation et la redondance des
+messages, une trouvaille d'internet? Au 19e siècle, quand Reuters envoyait ses
+nouvelles par pigeon voyageur, il en baguait déjà plusieurs. Nos pages perso? Ce
+sont des aquariums avec un répondeur, une radio et trois photos plongés dedans.
+Tout ce joyeux 'bazar' est dans nos vies réelles, pas dans le 'cyberespace'."
+
+
+18.2. La société de l'information: définitions
+
+
+= Un concept vide de sens
+
+Gérard Jean-François, directeur du centre de ressources informatiques de
+l'Université de Caen: "Il n'y a pas de société de l'information particulière. De
+tout temps, elle a toujours existé. Ce qu'il faut noter, c'est son évolution
+continue. Gutenberg l'a fait évoluer, de même internet."
+
+Philippe Loubière, traducteur littéraire et dramatique: "Il n'y a pas, je crois,
+de société de l'information. Internet, la télévision, la radio ne sont pas des
+moyens d'information, ce sont des moyens de communication. L'information
+participe d'une certaine forme de savoir sur le monde, et les moyens de
+communication de masse ne la transmettent pratiquement pas. Ils l'évoquent dans
+le meilleur des cas (ceux des journalistes de terrain par exemple), et la
+déforment voire la truquent dans tous les autres. Et (pour autant qu'il le
+veuille!) le pouvoir politique n'est hélas plus aujourd'hui assez 'le' pouvoir
+pour pouvoir faire respecter l'information et la liberté. L'information, comme
+toute forme de savoir, est le résultat d'une implication personnelle et d'un
+effort de celui qui cherche à s'informer. C'était vrai au Moyen-Âge, c'est
+encore vrai aujourd'hui. La seule différence, c'est qu'aujourd'hui il y a
+davantage de leurres en travers du chemin de celui qui cherche."
+
+Pour Pierre Magnenat, responsable de la cellule "gestion et prospective" du
+centre informatique de l'Université de Lausanne, il s'agit d'"un mot à la mode,
+qui ne veut rien dire. Une société est par essence communicative, et donc
+caractérisée par des échanges d'informations. Les seules choses qui ont changé,
+c'est la quantité et la vitesse de ces échanges."
+
+Patrick Rebollar, professeur de littérature française et modérateur de la liste
+de diffusion LITOR (Littérature et ordinateur), définit la société de
+l'information comme "une grande mise en scène (mondialisée) qui fait prendre les
+vessies pour des lanternes. En l'occurrence, les gouvernants de toutes sortes,
+notamment sous le nom de 'marché', diffusent de plus en plus de prescriptions
+contraignantes (notamment commerciales, politiques et morales) qu'ils
+réussissent, un peu grâce aux merveilles technologiques, à faire passer pour des
+libertés. Notons que 'cybernétique' et 'gouvernement' ont la même racine
+grecque..."
+
+= La société de l'information vue par les auteurs
+
+Nicolas Ancion, écrivain et responsable éditorial de Luc Pire électronique:
+"Pour moi, la société de l'information est l'arrivée d'un nouveau clivage sur la
+planète: distinction entre ceux qui ont accès au savoir, le comprennent et
+l'utilisent, et ceux qui n'y ont pas accès pour de nombreuses raisons. Il ne
+s'agit cependant pas d'une nouvelle forme de société du tout car le pouvoir de
+l'information n'est lié à aucun pouvoir réel (financier, territorial, etc.).
+Connaître la vérité ne nourrit personne. Par contre, l'argent permet de très
+facilement propager des rumeurs ou des mensonges. La société de l'information
+est simplement une version avancée (plus rapide, plus dure, plus impitoyable) de
+la société industrielle. Il y a ceux qui possèdent et jouissent, ceux qui
+subissent et ceux dont on ne parle jamais: ceux qui comprennent et ne peuvent
+pas changer les choses. Au 19e siècle, certains artistes et certains
+intellectuels se retrouvaient dans cette position inconfortable. Grâce à la
+société de l'information, beaucoup de gens ont rejoint cette catégorie assise
+entre deux chaises. Qui possède des biens matériels et a peur de les perdre mais
+considère pourtant que les choses ne vont pas dans la bonne direction. Mon
+opinion personnelle, par rapport à tout ça, c'est que ce n'est pas l'information
+qui sauve. C'est la volonté. Pour changer le monde, commençons par lever notre
+cul de notre chaise et retrousser nos manches."
+
+Alex Andrachmes, producteur audiovisuel, écrivain et explorateur d'hypertexte:
+"Dans l'idéal, un lieu d'échange, le fameuse agora du village global. Mais
+l'idéal... Tant que le débat existe entre les fous du net et les VRP (voyageurs
+représentants de commerce, ndlr) de la VPC (vente par correspondance, ndlr), il
+y a de l'espoir. Le jour où les grands portails se refermeront sur la liberté
+d'échanger des infos en ligne, ça risque plutôt d'être la société de la
+désinformation. Ici aussi, des confusions sont soigneusement entretenues. Quelle
+information, celles du 20 heures à relayer telles quelles sur le net? Celles
+contenues sur ces fabuleux CD, CD-Rom, DVD chez vous dans les 24 h chrono? Ou
+toutes les connaissances contenues dans les milliards de pages non répertoriées
+par les principaux moteurs de recherche. Ceux qui ont de plus en plus tendance à
+mettre en avant les sites les plus visités, qui le sont dès lors de plus en
+plus. Là, on ne parle même plus de désinformation, de complot de puissances
+occultes (financières, politiques ou autres...), mais de surinformation, donc de
+lassitude, de non-information, et finalement d'uniformisation de la pensée. Sans
+avoir de définition précise, je vois qu'une société de l'information qui serait
+figée atteindrait le contraire de sa définition de base. Du mouvement donc..."
+
+Lucie de Boutiny, écrivain papier et pixel: "Je préférerais parler de
+'communautés de l'information'... Nous sommes plutôt dans une société de la
+communication et de la commutation. Il est très discutable de savoir si nos
+discussions sont de meilleure qualité et si nous serions plus savants... Etre
+informé n'est pas être cultivé."
+
+Pour Jean-Pierre Cloutier, auteur des Chroniques de Cybérie, chronique
+hebdomadaire des actualités de l'internet, la société de l'information est "une
+société où l'unité de valeur réelle est l'information produite, transformée,
+échangée. Elle correspond au 'centre' du cyberespace. Malheureusement, le
+concept a tellement été galvaudé, banalisé, on l'a servi à toutes les sauces
+politiciennes pour tenter d'évoquer ce qu'on ne pouvait imaginer dans le détail,
+ou concevoir dans l'ensemble, de sorte que l'expression a perdu de son sens."
+
+Pour Luc Dall'Armellina, co-auteur et webmestre d'oVosite, espace d'écritures
+hypermédias, la société de l'information est "la nôtre, je pense?
+L'américano-nord-européenne. A la Bourse, les annonces ont des effets mesurables
+en millions de dollars ou d'euros et déclenchent des impacts économiques et
+humains parfois très violents: rachats, ventes, hausses et baisses des valeurs,
+licenciements. C'est une société où la valeur absolue est l'information et son
+contrôle, et la valeur relative l'humain."
+
+Jean-Paul, webmestre du site des cotres furtifs, qui raconte des histoires en
+3D, définit la société de l'information en trois mots: "plus, plus vite. Mais
+les données ne sont pas l'information. Il faut les liens, c'est à dire le temps.
+Plus d'évènements, plus d'écrans pour les couvrir. Plus vite: l'évènement du
+jour est liquide. Effacé, recouvert par la vaguelette du lendemain, la vague du
+jour d'après, la houle de la semaine, le tsunami du mois. Cycles aussi
+'naturels' que les marées estivales du Loch Ness. Pas 'effacé', d'ailleurs,
+l'évènement d'hier (qui n'est pas 'tous les évènements d'hier'): déja archivé,
+dans des bases de données qui donnent l'illusion d'être exhaustives, facilement
+accessibles et momentanément gratuites. Mais les données ne donnent rien par
+elles-même. S'informer, c'est lier entre elles des données, éliminer celles qui
+ne sont pas pertinentes (quitte à revenir sur ces choix plus tard), se trouver
+ainsi obligé de chercher d'autres données qui corroborent ou infirment les
+précédentes... L'information naît du temps passé à tisser les liens. Or le temps
+nous est mesuré, au quartz près. Productique ou temps libre, nous passons de
+plus en plus de temps à raccrocher au nez de spammeurs qui nous interrompent
+pour nous revendre nos désirs (dont nous informons les bases de données qui les
+leur vendent). Ce qui est intéressant dans ce bonneteau est que les infos que
+nous fournissons sur nous-mêmes, nous les truquons suffisamment pour que les
+commerciaux n'arrivent pas à en tirer les lois du succès: Survivor II est un
+bide, après le succès de la version I. De cette incertitude viennent les trous
+dans le filet qui laissent parvenir jusqu'à nous certaines infos. Bref la
+'société de l'information', c'est le jeu des regards dans le tableau de de La
+Tour: 'La diseuse de bonne aventure'. Le jeune homme qui se fait dépouiller en
+est conscient, et complice. Il a visiblement les moyens de s'offrir les
+flatteries des trois jolies filles tout en exigeant de la vieille Diseuse
+qu'elle lui rende l'une de ces piécettes dont il a pris la précaution de gonfler
+ostensiblement la bourse qu'on lui coupe."
+
+Pour Anne-Bénédicte Joly, écrivain auto-éditant ses livres, la société de
+l'information permet "l'accès au plus grand nombre de la plus grande quantité
+d'information possible tout en garantissant la partialité de l'information et en
+fournissant les clefs de compréhension nécessaires à sa bonne utilisation".
+
+Tim McKenna, écrivain et philosophe: "Je considère la société de l'information
+comme la forme tangible de la conscience collective de Jung. L'information
+réside essentiellement dans notre subconscient mais, grâce à l'existence de
+navigateurs, l'information est désormais plus facile à récupérer. Cette
+information favorise une meilleure connaissance de nous-mêmes en tant
+qu'individus et en tant qu'êtres humains."
+
+Xavier Malbreil, auteur multimédia et modérateur de la liste e-critures, définit
+la société de l'information comme "la circulation de l'information en temps
+réel. La connaissance immédiate. L'oubli immédiat. L'espace saturé d'ondes nous
+entourant, et nous, corps humains, devenant peu à peu un simple creux laissé par
+les ondes, une simple interconnexion. Corps humains devenant instants de
+l'information."
+
+Pour Murray Suid, écrivain travaillant pour une société internet de logiciels
+éducatifs, il s'agit d'"une société dans laquelle les idées et le savoir sont
+plus importants que les objets".
+18.2.3. La société de l'information vue par les bibliothécaires-documentalistes
+
+Emmanuel Barthe, documentaliste juridique et modérateur de la liste de
+discussion Juriconnexion: "Il s'agit nettement moins d'une 'société' de
+l'information que d'une économie de l'information. J'espère que la société,
+elle, ne sera jamais dominée par l'information, mais restera cimentée par des
+liens entre les hommes de toute nature, qu'ils communiquent bien ou mal, peu ou
+beaucoup."
+
+Pour Bakayoko Bourahima, documentaliste à l'ENSEA (Ecole nationale supérieure de
+statistique et d'économie appliquée) d'Abidjan, la société de l'information est
+"la société de l'informatique et de l'internet".
+
+Peter Raggett, directeur du centre de documentation de l'OCDE (Organisation de
+coopération et de développement économiques): "La société de l'information est
+cette société dont le produit le plus précieux est l'information. Jusqu'au 20e
+siècle, ce sont les produits manufacturiers qui ont été les plus considérés. Ils
+ont ensuite été remplacés par l'information. En fait, on parle maintenant
+davantage d'une société du savoir, dans laquelle, du point de vue économique, le
+produit le plus prisé est le savoir acquis par chacun."
+
+= La société de l'information vue par les éditeurs
+
+Pour Marie-Aude Bourson, créatrice de Gloupsy, site littéraire destiné aux
+nouveaux auteurs, il s'agit d'"une société où l'information circule très vite
+(trop peut-être), et où chaque acteur se doit de rester toujours informé s'il ne
+veut pas s'exclure. L'information elle-même devient une véritable valeur
+monnayable."
+
+Pour Pierre-Noël Favennec, directeur de collection et expert à la direction
+scientifique de France Télécom R&D, il s'agit d'"une société dans laquelle tout
+membre de cette société a accès immédiatement à toutes les informations
+souhaitées".
+
+Olivier Gainon, créateur de CyLibris, maison d'édition littéraire en ligne: "Ce
+que nous vivons aujourd'hui, c'est la mise en réseau de notre société, au sens
+où, à terme, beaucoup des objets quotidiens seront connectés au Réseau (avec un
+grand R, qui sera lui-même composé de dizaines de réseaux différents). Bref,
+c'est une nouvelle manière de vivre et, à terme, certainement une nouvelle
+société. S'agit-il d'une société de 'l'information'? Je n'en suis pas certain.
+Faut-il que nous définissions collectivement ce que nous voulons dans cette
+société? Cela me semble urgent, et c'est un débat qui concerne tout le monde,
+pas uniquement les 'connectés'. Bref, sur quelles valeurs de société fonder
+notre action future? Voilà un vrai débat. J'en profite d'ailleurs pour faire un
+peu de pub pour un auteur CyLibris: La Toile de Jean-Pierre Balpe me semble
+aujourd'hui la meilleure illustration de ce débat. La société qu'il décrit au
+travers de ce roman est à mon sens la plus probable à court terme (l'action se
+passe en 2015). Est-ce cela que nous voulons? Est-ce ce type d'organisation?
+Peut-être, mais mon souci, c'est que ce choix soit conscient et non subi."
+
+Jacky Minier, créateur de Diamedit, site de promotion d'inédits artistiques et
+littéraires: "La société de l'information amène un recadrage des hiérarchies
+dans les rapports qui s'établissent entre les gens, de manière beaucoup plus
+naturelle, à partir des discussions en forums notamment. Dans la vie réelle, on
+est souvent influencé, voire impressionné, par les titres ou la largeur du
+bureau d'un interlocuteur 'installé' dans le système. Sur le net, seuls comptent
+le sens contenu dans le propos et la manière de l'exprimer. On distingue très
+vite les véritables intelligences raffinées des clowns ou autres mythomanes. Une
+forme de pédagogie conviviale, non intentionnelle et surtout non magistrale,
+s'en dégage généralement qui profite au visiteur lambda, lequel parfois apporte
+aussi sa propre expérience. Tout ça laisse augurer d'une créativité multiforme,
+dans un bouillonnement commun à des milliers de cerveaux reliés fonctionnant à
+la manière d'une fourmilière. C'est non seulement un véritable moyen d'échange
+du savoir, mais de surcroît un moyen de l'augmenter en quantité, de
+l'approfondir, de l'intégrer entre différentes disciplines. Le net va rendre les
+gens plus intelligents en favorisant leur plus grande convivialité, en cassant
+les départements et domaines réservés de certains mandarins. Mais il est clair
+qu'il faudra aussi faire attention aux dérives que cette liberté implique."
+
+Pour Nicolas Pewny, créateur des éditions du Choucas, il s'agit d'"une société
+qui pourrait apporter beaucoup, si l'on empêche qu'elle ne rime trop avec
+'consommation' et tout ce qui accompagne ce mot. Mais il est déjà trop tard
+peut-être..."
+
+= La société de l'information vue par les linguistes
+
+Pour Alain Clavet, analyste de politiques au Commissariat aux langues
+officielles du Canada, la société de l'information est "le constat que la valeur
+ajoutée centrale (en référence à une notion économique, celle de la valeur
+ajoutée) devient de plus en plus l'intelligence de l'information. Ainsi, dans
+une société de l'information, la connaissance devient la plus-value recherchée."
+
+Eduard Hovy, directeur du Natural Language Group de l'Université de Californie
+du Sud: "Une société de l'information est une société dans laquelle la majorité
+des gens a conscience de l'importance de cette information en tant que produit
+de base, et y attache donc tout naturellement du prix. Au cours de l'histoire,
+il s'est toujours trouvé des gens qui ont compris combien cette information
+était importante, afin de servir leurs propres intérêts. Mais quand la société,
+dans sa majorité, commence à travailler avec et sur l'information en tant que
+telle, cette société peut être dénommée société de l'information. Ceci peut
+sembler une définition tournant un peu en rond ou vide de sens, mais je vous
+parie que, pour chaque société, les anthropologues sont capables de déterminer
+quel est le pourcentage de la société occupé au traitement de l'information en
+tant que produit de base. Dans les premières sociétés, ils trouveront uniquement
+des professeurs, des conseillers de dirigeants et des sages. Dans les sociétés
+suivantes, ils trouveront des bibliothécaires, des experts à la retraite
+exerçant une activité de consultants, etc. Les différentes étapes de la
+communication de l'information - d'abord verbale, puis écrite, puis imprimée,
+puis électronique - ont chaque fois élargi (dans le temps et dans l'espace) le
+champ de propagation de cette information, en rendant de ce fait de moins en
+moins nécessaire le réapprentissage et la répétition de certaines tâches
+difficiles. Dans une société de l'information très évoluée, je suppose, il
+devrait être possible de formuler votre objectif, et les services d'information
+(à la fois les agents du cyberespace et les experts humains) oeuvreraient
+ensemble pour vous donner les moyens de réaliser cet objectif, ou bien se
+chargeraient de le réaliser pour vous, et réduiraient le plus possible votre
+charge de travail en la limitant au travail vraiment nouveau ou au travail
+nécessitant vraiment d'être refait à partir de documents rassemblés pour vous
+dans cette intention."
+
+Steven Krauwer, coordinateur d'ELSNET (European Network of Excellence in Human
+Language Technologies): "La société de l'information est une société dans
+laquelle: a) l'essentiel du savoir et de l'information n'est plus stocké dans
+des cerveaux ou des livres mais sur des médias électroniques; b) les dépôts
+d'information sont distribués et interconnectés au moyen d'une infrastructure
+spécifique, et accessibles de partout; c) les processus sociaux sont devenus
+tellement dépendants de cette information et de son infrastructure que les
+citoyens non connectés au système d'information ne peuvent pleinement participer
+au fonctionnement de la société."
+
+Zina Tucsnak, ingénieur d'études en informatique à l'ATILF (Analyse et
+traitements informatiques du lexique français): "La société de l'information
+peut être définie comme un milieu dans lequel se développent la culture et la
+civilisation par l'intermédiaire de l'informatique, qui restera la base et la
+théorie de cette société."
+
+= La société de l'information vue par les professeurs
+
+Pour Emilie Devriendt, élève professeur à l'Ecole normale supérieure de Paris,
+"le syntagme 'société de l'information' est plus une formule (journalistique,
+politique) à la mode depuis plusieurs années, qu'une véritable notion. Cette
+formule tend communément je crois, à désigner une nouvelle 'ère'
+socio-économique, post-industrielle, qui transformerait les relations sociales
+du fait de la diffusion généralisée des nouvelles technologies de l'information
+et de la communication (NTIC). Personnellement, je n'adhère pas à cette vision
+des choses. Si la diffusion croissante des NTIC est indéniable et constitue un
+phénomène socio-économique propre à l'époque contemporaine, je ne crois pas
+qu'il faille y voir la marque de l'avènement d'une nouvelle société 'de
+l'information'. La formule 'société de l'information' est construite sur le
+modèle terminologique (socio-économique) de la 'société industrielle'. Mais le
+parallèle est trompeur: 'société de l'information' met l'accent sur un contenu,
+alors que 'société industrielle' désigne l'infrastructure économique de cette
+société. L'information en tant que produit (industriel ou service) apparaît
+peut-être plus complexe que, par exemple, les produits alimentaires, mais cette
+complexité ne suffit pas à définir l'avènement dont il est question. D'autant
+plus que l'emploi inconditionnel de la formule a contribué à faire de
+l'information un terme passe-partout, très éloigné même de sa théorisation
+mathématique (Shannon), de sa signification informatique initiale. Elle traduit
+uniquement une idéologie du progrès électronique mise en place dans les années
+1950 et véhiculée ensuite par nos gouvernements et la plupart de nos
+journalistes, qui définissent fallacieusement le développement des NTIC comme un
+'nécessaire' vecteur de progrès social. Quelques analystes (sociologues et
+historiens des techniques comme Mattelart, Lacroix, Guichard, Wolton) ont très
+bien montré cela."
+
+Pour Gaëlle Lacaze, ethnologue et professeur d'écrit électronique dans un
+institut universitaire professionnel, il s'agit d'"une société où l'information
+est reçue et digérée, sans être étouffée par la profusion".
+
+Henri Slettenhaar, professeur en technologies de la communication à la Webster
+University de Genève: "La société de l'information est l'ensemble des personnes
+utilisant quotidiennement le cyberespace de manière intensive et qui
+n'envisageraient pas de vivre sans cela, à savoir les nantis, ceux qui sont du
+bon côté de la fracture numérique."
+
+Russon Wooldridge, professeur au département d'études françaises de l'Université
+de Toronto: "Si on veut parler de 'société' il ne peut pas être question d'une
+opposition 'haves' vs. 'have-nots' (munis vs. démunis), sauf dans la mesure où
+l'accès à l'information est plus ou moins libre ou limité d'un point de vue
+technologique ou économique, voire politique. Par exemple, l'accès à
+l'information en ligne est plus libre au Canada qu'en France, plus libre en
+France qu'en Algérie, etc. Internet est potentiellement un moyen pour que chacun
+puisse s'approprier son propre contrôle de l'information, qui n'est plus
+diffusée par les seuls canaux dirigistes, comme l'Edition ou l'Université, entre
+autres."
+
+= La société de l'information vue par les spécialistes du numérique
+
+Olivier Pujol, PDG de Cytale et promoteur du Cybook, livre électronique, la
+définit comme "une société où l'accès à l'information, l'information elle-même
+et la capacité à bien utiliser l'information sont des biens plus précieux que
+les biens matériels. Il faut noter que l'information a toujours été un avantage
+professionnel considérable. Il fut un temps où un avantage concurrentiel pouvait
+exister sur un territoire limité, et être protégé pour un temps long, par le
+secret, ou l'ignorance des autres. Les voyages, la mondialisation des échanges,
+la performance de la logistique ont énormément affaibli la notion de protection
+'géographique' d'un avantage concurrentiel. La société de l'information est une
+société où la protection de l'information est presque impossible, et où son
+usage devient donc la valeur essentielle."
+
+Pierre Schweitzer, architecte designer et concepteur d'@folio, support numérique
+de lecture nomade: "J'aime bien l'idée que l'information, ce n'est que la forme
+des messages. La circulation des messages est facilitée, techniquement, et elle
+s'intensifie. Et désormais, le monde évolue avec ça."
+
+François Vadrot, PDG de FTPress, société de cyberpresse, définit la société de
+l'information comme "une société dont l'information est le moteur, dans tous les
+sens du terme".
+
+
+19. EXPERIENCES ET SOUVENIRS
+
+
+[Dans ce chapitre:]
+
+[19.1. Les auteurs et l'internet // 19.2. Les bibliothécaires- documentalistes
+et l'internet // 19.3. Les concepteurs d'appareils de lecture et l'internet //
+19.4. Les créateurs de sites littéraires et l'internet // 19.5. Les éditeurs et
+l'internet // 19.6. Les gestionnaires et l'internet // 19.7. Les libraires et
+l'internet // 19.8. Les linguistes et l'internet // 19.9. Les professeurs et
+l'internet]
+
+Plutôt que de rédiger une conclusion, difficile à envisager pour un sujet aussi
+neuf, on préfère laisser la parole aux professionnels du livre cités tout au
+long de ces pages. Tous utilisent l'internet depuis plusieurs années. Beaucoup
+ont un souvenir particulièrement marquant lié au réseau, que celui-ci soit bon
+ou mauvais, ou alors une expérience particulièrement marquante, que celle-ci
+soit positive ou négative. Quels sont ces souvenirs et ces expériences?
+
+
+19.1. Les auteurs et l'internet
+
+
+Alex Andrachmes (Europe) est producteur audiovisuel, écrivain et explorateur
+d'hypertexte. Son meilleur souvenir: "Incontestablement quand apparaissent mes
+propositions de mails ou de design de site sur le web. Quand je revois les
+préparatifs, les brouillons, et que je vois ce que ça donne, c'est comme un
+flash. Au fond, c'est le même plaisir lorsque sur des Napster ou Gnutella, on
+trouve enfin 'le' morceau introuvable qu'on avait perdu d'ouïe depuis dix ans,
+on le charge, on attend, 1%>50%>99%>file complete, on le lance. Raaaah..."
+
+Son pire souvenir: "C'était au tout début, une de mes premières utilisations du
+médium. Je recherchais dans le cadre d'un projet des sites un peu rebelles,
+anarchisants, des trucs comme ça. Je tape 'cyberpunk' dans Yahoo!, s'affiche la
+classique liste de sites. 'Anarchy on the net, cyberpunk rock the web', ce
+genre... J'essaye d'en ouvrir quelques uns... Surprise! Un banner 'NetNanny'
+m'interdit l'accès aux sites. Emanation d'un groupuscule de la 'majorité morale'
+américaine, ce 'NetNanny' s'autorisait à interdire les sites qui ne lui plaisent
+pas... Je ne l'ai plus jamais rencontré depuis, mais quelle saleté, ce truc.
+Enfin, à l'autre extrémité, il y a bien le procédé dit de 'l'exit console' où,
+au moment de sortir d'un site, on vous 'propose' une autre page, puis une autre,
+puis une autre, impossible de sortir. Ça, je n'en ai pas fait l'expérience, mais
+ça doit être hard. C'est d'ailleurs un procédé de site hard, ai-je lu quelque
+part..."
+
+Jean-Pierre Balpe (Paris) est directeur du département hypermédias de
+l'Université Paris 8. Son meilleur souvenir: "Pas un en particulier. Disons que
+je suis heureux chaque fois que ça marche... et ce n'est hélas pas si
+souvent..." Son pire souvenir;: "Même réponse qu'à la question précédente mais
+inversée..."
+
+Michel Benoît (Montréal), écrivain, utilise l'internet comme outil de recherche,
+de communication et d'ouverture au monde. Son meilleur souvenir: "Les mails que
+j'échangeais avec les gens de B-52, la radio libre et clandestine de Serbie,
+pendant le conflit du Kosovo. En 1978, j'ai visité cette région. Je pouvais
+sentir leurs souffrances, leurs anxiétés, leurs espoirs. C'est vrai que je me
+sentais impuissant devant le drame qui se jouait à des milliers de kilomètres de
+chez moi, mais, au moins, je pouvais parler, témoigner."
+
+Son pire souvenir: "Les quelques rares visites que j'ai faites sur les chats. Le
+vide, l'ennui qui s'y distille. L'inculture qui s'y exprime aussi. Désolant, en
+même temps paniquant. Quelqu'un qui écrit: 'Ya man, yyyyyyeeeeeeesssssss,
+j't'aim 4 ever my luuuuuuvvvvvvvvvvvv' me semble incroyablement désespéré. Un
+jour, les travailleurs de rue, qui s'occupent actuellement des itinérants et des
+drogués, travailleront sur le net à récupérer cette humanité souffrante. Je
+pense sincèrement que, avec la porno, le chat est la poubelle du net."
+
+Silvaine Arabo (Poitou-Charentes), poète et plasticienne, a créé la cyber-revue
+Poésie d'hier et d'aujourd'hui. Son meilleur souvenir: "Les ami(e)s que ce mode
+de communication m'a permis de rencontrer dans la francophonie ainsi que tous
+ceux et celles qui m'ont dit avoir, grâce à moi, découvert ou redécouvert la
+poésie et avoir compris qu'il s'agissait là d'un mode de fonctionnement majeur
+de l'esprit humain." Son pire souvenir: "Certaines mesquineries de webmasters,
+parfois un esprit de compétition et d'arrivisme... On retrouve sur internet la
+société telle qu'en elle-même, ni plus, ni moins."
+
+Lucie de Boutiny (Paris), écrivain papier et pixel, est l'auteur de NON, roman
+multimédia publié en feuilleton sur le web. Son meilleur souvenir: "En 1997 ou
+1998, j'ai eu droit aux honneurs de la censure. L'une de mes nouvelles mises en
+ligne, aujourd'hui publiée honorablement sur support papier, était censurée par
+mon hébergeur. Il était inexact que ma petite histoire noire quoique teintée
+d'humour était un hommage rendu à un tueur en série pédophile, et cela bien que
+ce soit en effet le sujet. Mais voilà, par un matin gris acier, on apprit que
+quelques fournisseurs de services en ligne avaient été embarqués au commissariat
+de police le plus proche. Ils étaient tenus pour responsables du contenu des
+dizaines de milliers sites qu'ils hébergent! Et fatalement quelques-uns étaient
+suspects d'invitation à la haine raciale, au non-respect de la personne, etc. Ma
+petite nouvelle n'en faisait évidemment pas partie mais j'étais très amusée du
+fait qu'un 'robot trieur', le genre de nettoyeur informatique qui obéit aux
+ordres des censeurs, ait attenté, par erreur, à ma liberté d'expression."
+
+Son pire souvenir: "Il s'agit d'une vraie anecdote virtuelle: un soir, je reçois
+un mail sous pseudonyme m'annonçant que NON, mon roman hypermédia, avait été
+éradiqué de la planète net. Immédiatement, je me connecte sur mon site. Rien. Je
+me débranche, ouvre mon disque dur à la recherche de NON. Rien. Je cherche mes
+disques de sauvegarde. Volatilisés. Cinq ans de travail broyés par la masse des
+pixels!... Et c'est à ce moment là que je me suis réveillée... Le mauvais rêve!"
+
+Alain Bron (Paris) est consultant en systèmes d'information et écrivain. Son
+meilleur souvenir: "A la suite de la parution de mon deuxième roman, Sanguine
+sur toile (publié en 1999 par les éditions du Choucas, ndlr), j'ai reçu un
+message d'un ami que j'avais perdu de vue depuis plus de vingt ans. Il s'était
+reconnu dans un personnage du livre. Nous nous sommes revus récemment autour
+d'une bouteille de Saint-Joseph et nous avons pu échanger des souvenirs et
+fomenter des projets..."
+
+Son pire souvenir: "Virus, chaînes du 'bonheur', sollicitations commerciales,
+sites fascistes, informations non contrôlées, se développent en ce moment à très
+grande échelle. Je me pose sérieusement la question: 'Quel bébé ai-je bien pu
+contribuer à faire naître?'"
+
+Jean-Pierre Cloutier (Montréal) est l'auteur des Chroniques de Cybérie,
+chronique hebdomadaire des actualités de l'internet. Son meilleur souvenir: "Ce
+n'est pas très gai, et ça n'a rien à voir avec le rayonnement important qu'ont
+acquis Les Chroniques de Cybérie au fil des ans. Début 1996, j'ai reçu un
+message qui disait à peu près ceci: 'Mon fils, dans le début de la vingtaine,
+était gravement malade depuis des mois. Chaque semaine, il attendait avec
+impatience de recevoir dans sa boîte aux lettres votre chronique. Ne pouvant
+plus sortir de la maison, votre chronique lui permettait de 'voyager', d'ouvrir
+ses horizons, de penser à autre chose qu'à son mal. Il est décédé ce matin. Je
+voulais simplement vous remercier d'avoir allégé ses derniers mois parmi nous.'
+Alors, quand on reçoit un message comme ça, on se fout pas mal de parler à des
+milliers de gens, on se fout des statistiques d'achalandage, on se dit qu'on
+parle à une personne à la fois."
+
+Son pire souvenir: "Pas vraiment un seul 'gros et méchant' souvenir. Mais une
+foule de petits irritants. Le système est fragile, le contenu passe au second
+plan, on parle peu du capital humain, on nous inonde de versions successives de
+logiciels, etc. Mais c'est très vivable..."
+
+Luc Dall'Armellina (Paris) est co-auteur et webmestre d'oVosite, espace
+d'écritures hypermédias. Son meilleur souvenir: "Je n'ai pas de souvenir unique
+mais plutôt des événements marquants: avoir pu contacter et converser par e-mail
+avec des inconnus dont j'avais lu les travaux, avoir vu des travaux d'amis
+publiés en livre alors qu'ils étaient écrits initialement et après qu'ils aient
+existé d'abord pour le web, avoir échangé des vidéos et des photos de famille à
+l'autre bout du monde en quelques secondes. Quelques instants fugaces de
+babillard avec des Canadiens perdus dans les grands froids."
+
+Ses pires souvenirs: "L'arrivée de ce qu'on appelle l'e-business, pas l'arrivée
+du commerce qui est une activité respectable (activité naturelle d'échange qui
+crée du lien), mais celle du discours, du vocabulaire et de l'état d'esprit qui
+l'accompagne: rentabilité, business plan, parts de marché, agressivité... et de
+toute l'économie faite de flan, d'effets d'annonce et dont le paroxysme s'est
+appelé Nasdaq. La mise à mort de Mygale par un système et sa récupération par un
+des acteurs du marché a montré que la communauté de partage et d'intérêt avait
+elle aussi un prix (élevé) en fonction de son potentiel d'acheteurs."
+
+Jacques Gauchey (San Francisco) est spécialiste en industrie des technologies de
+l'information, "facilitator" entre les Etats-Unis et l'Europe, et journaliste.
+Son meilleur souvenir: "J'ai publié quelques numéros d'une lettre d'information
+en anglais gratuite il y a quatre ans sur internet. Une dizaine de lecteurs par
+numéro jusqu'au jour (en janvier 1996) où l'édition électronique de Wired
+Magazine créa un lien. En une semaine j'ai eu une centaine de courriers
+électroniques - y compris de lecteurs francais de mon livre La vallée du risque
+- Silicon Valley (publié en 1990 chez Plon, ndlr) contents de me retrouver." Son
+pire souvenir: "L'internet est un médium et comme tout médium un facteur
+d'éclatement du pire. La fusillade d'Atlanta fin juillet 1999 par un 'day
+trader'. La pornographie. La vente libre des armes en ligne. Les mails non
+sollicités."
+
+Jean-Paul (Paris) est le webmestre du site des cotres furtifs, qui raconte des
+histoires en 3D. Son meilleur souvenir: "Le vertige qui nous a pris à la
+réception du premier message... venant du Canada. 10.000 (?) ans après les
+Inuits, des cotres venaient de découvrir l'Amérique!" Son pire souvenir: "Tout
+ce sommeil en retard..."
+
+Anne-Bénédicte Joly (Antony, région parisienne), écrivain auto-éditeur, utilise
+le web pour faire connaître ses livres. Son meilleur souvenir: "Le
+franchissement de la barre des 200 visiteurs sur mon site." Son pire souvenir:
+"Je n'en ai pas encore..."
+
+Naomi Lipson (Paris et Tel-Aviv) est écrivain multimédia, traductrice et
+peintre. Son meilleur souvenir: "Pour moi, le réseau est un vivier de gens
+exceptionnels. J'ai fait des rencontres réelles et virtuelles absolument
+incroyables en deux ans. Ces gens préexistaient au réseau, bien sûr, mais sans
+lui, et surtout sans le mél, je ne les aurais jamais contactés!" Elle n'a pas de
+mauvais souvenirs: "J'ai eu beaucoup de chance. En restant très courtoise aussi,
+je crois avoir évité les désagréments les plus courants de la vie sur la toile.
+C'est aussi simple que ça. Et avec un peu de prudence, on évite très bien les
+virus."
+
+Tim McKenna (Genève), écrivain, s'interroge sur la notion complexe de "vérité"
+dans un monde en mutation constante. Son meilleur souvenir: "L'utilisation du
+courrier électronique pour rester en contact avec mes amis." Son pire souvenir:
+"Apprendre à utiliser l'internet, avant que la technologie n'apporte les
+améliorations me permettant de ne plus me préoccuper de mon inaptitude dans ce
+domaine."
+
+Xavier Malbreil (Ariège, Midi-Pyrénées), auteur multimédia, a créé le site

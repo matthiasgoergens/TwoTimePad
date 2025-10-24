@@ -1,0 +1,381 @@
+c’est-à-dire utilisable sur n'importe quel PDA. En avril 2002, la société lance
+un Mobipocket Reader pour ordinateur. En 2003, le Mobipocket Reader équipe tous
+les assistants personnels du marché, à savoir les gammes Palm Pilot, Pocket PC,
+eBookMan et Psion, et les smartphones de Nokia et Sony Ericsson. La gestion des
+livres numériques sous droits est faite au moyen du Mobipocket DRM System (DRM:
+digital rights management). [Voir aussi: logiciel de lecture, Mobipocket,
+Mobipocket DRM System, OeB, PDA.]
+
+= modem =
+
+Le terme "modem" est issu de la contraction de "modulateur-démodulateur". Le
+modem est un appareil permettant de relier deux ordinateurs entre eux par le
+biais de la ligne téléphonique. Il est installé entre la prise téléphonique
+standard et l’ordinateur pour convertir les données analogiques en données
+numériques. La transmission des données se fait au moyen d’un modulateur qui
+convertit les données numériques en données analogiques, puis d’un démodulateur
+qui effectue l’opération inverse. A l’origine, la vitesse du modem standard est
+de 56 Kbps (56 kilobits par seconde). Le modem standard est ensuite supplanté
+par le modem câble et le modem DSL/ADSL. Un modem DSL (digital subscriber line)
+ou ADSL (asymmetric digital subscriber Line) ou permet de transmettre des
+données avec un débit qui était à l’origine de 128 Kbps (kilobits par seconde),
+pour passer ensuite à 512 Kbps puis 1.024 Kbps, et qui se chiffre maintenant en
+Mbps (mégabits par seconde). [Voir aussi: ADSL, analogique, bps, DSL, modem,
+numérique, ordinateur.]
+
+= modérateur =
+
+Le modérateur est la personne supervisant et contrôlant une liste de diffusion
+ou un forum de discussion pour veiller au respect de la nétiquette et pour juger
+de l’opportunité ou non de publier tel ou tel message. Le modérateur est censé
+rejeter tout message à caractère injurieux, diffamatoire, sexiste, raciste ou
+pornographique. [Voir aussi: forum, liste de diffusion, nétiquette.]
+
+= Monde (Le) =
+
+Créé en 1996, Le Monde.fr est le site internet du grand quotidien français Le
+Monde. En 1998, Le Monde.fr est pris en charge par une équipe spécifique, celle
+du Monde interactif. Le Monde.fr devient un journal en ligne complet, actualisé
+en continu, en accès libre et gratuit. Mise en ligne en avril 2002, une édition
+abonnés payante propose des contenus et services supplémentaires: quotidien du
+matin par courriel, journal en ligne personnalisé, accès aux archives du Monde,
+édition électronique du journal, dépêches d'actualité thématiques, documents de
+référence, etc. En trois ans, entre 2001 et 2004, le trafic sur Le Monde.fr
+progresse de 300%. En 2004, Le Monde.fr lance ses blogs, "un formidable format
+d'expression journalistique qui permet un dialogue quasi-instantané avec son
+lecteur", selon Yann Chapellon, directeur du Monde interactif. Le Monde.fr est
+le premier site français d'information, avec 16 millions de visites mensuelles
+et 66 millions de pages vues (chiffres de novembre 2004). 60% des lecteurs ont
+moins de 35 ans, et près des deux tiers résident à l'étranger. Le Monde.fr
+adopte une nouvelle présentation en mars 2005. [Voir aussi: blog, journal en
+ligne, presse en ligne.]
+
+= Monde diplomatique (Le) =
+
+Mis en ligne en février 1995, le site web du mensuel Le Monde diplomatique est
+le premier site d’un périodique imprimé français. Monté dans le cadre d’un
+projet expérimental avec l’Institut national de l’audiovisuel (INA), ce site est
+inauguré lors du forum des images Imagina. Quelques mois après, plusieurs
+quotidiens imprimés mettent en ligne un site web: Libération à la fin de 1995,
+Le Monde et L’Humanité en 1996, etc. [Voir aussi: journal en ligne, Monde (Le),
+presse en ligne.]
+
+= Mosaic =
+
+Développé par le National Center for Supercomputing Applications (NSCA) à
+l’Université d'Illinois (un Etat des Etats-Unis), et distribué gratuitement à
+partir de novembre 1993, Mosaic est le premier logiciel de navigation sur le web
+- le web étant lui-même conçu en 1989 et opérationnel en 1991 - et contribue
+grandement à son expansion rapide. Mosaic a pour but de permettre à l'usager de
+trouver ce qu'il cherche dans un réseau de plus en plus foisonnant. Début 1994,
+une partie de l’équipe de Mosaic crée la Netscape Communications Corporation et
+lance un nouveau navigateur sous le nom de Nescape Navigator. [Voir aussi:
+navigateur, Netscape, NSCA.]
+
+= moteur de recherche =
+
+Un moteur de recherche est un programme indexant automatiquement le contenu du
+web. La recherche s’effectue à partir d’un ou plusieurs critères (mot, groupe de
+mots, mot-clé, sigle, nom du site, etc.). Elle peut être plus ou moins ciblée
+(recherche simple ou recherche avancée), avec utilisation ou non d’opérateurs
+boléens ("et", "ou", etc.). Un moteur de recherche peut être propre à un site
+web, à un portail ou à un ensemble de sites. Le pionnier des moteurs de
+recherche est WebCrawler, supplanté ensuite par AltaVista (lancé en 1995 et
+racheté plus tard par Yahoo!) et de nombreux autres. Lancé en septembre 1998,
+Google fait taire les nombreuses critiques sur l’approximation des résultats de
+ses prédécesseurs et devient rapidement le moteur de recherche le plus utilisé
+au monde. En février 2004, Yahoo! lance son propre moteur de recherche, Yahoo!
+Search, pour concurrencer Google. En novembre 2004, Microsoft lance MSN Search,
+qui devient ensuite Live Search, pour les mêmes raisons. Le marché est énorme.
+En 2004, 35% des visites de sites débutent par le lancement d'une requête dans
+un moteur de recherche. Le marché que représentent les liens sponsorisés se
+chiffre à plusieurs milliards de dollars. En novembre 2006, selon le cabinet
+Nielsen/NetRatings, 50% des recherches sont effectuées sur Google, 25% sur
+Yahoo! Search, 8% sur Live Search (Microsoft) et 6% sur AOL (America OnLine). De
+nouvelles start-ups travaillent à la prochaine génération des moteurs de
+recherche, qui seront capables d'apporter une réponse complète à une requête
+exprimée en langage courant. [Voir aussi: AltaVista, annuaire, AOL, Google, Live
+Search, recherche avancée, web, WebCrawler, Yahoo! Search.]
+
+= Mozilla =
+
+Lancé en 1998, Mozilla est d'abord un navigateur issu du code source de Netscape
+(le premier grand navigateur du marché), avec une messagerie électronique
+intégrée. En juillet 2003 est créée la Mozilla Foundation, une fondation
+indépendante subventionnée par AOL (groupe Time Warner), IBM, Sun Microsystems
+et Nokia, dans l'optique du lancement de deux produits distincts: le logiciel de
+navigation Firefox et la messagerie électronique Thunderbird. En novembre 2004,
+suite au succès immédiat de sa version test (8 millions de téléchargements en un
+mois), Firefox débute son ascension mondiale face au tout puissant Internet
+Explorer de Microsoft. En février 2005, Firefox représente 8% du marché des
+navigateurs, avec 25 millions de téléchargements. A la même date, la Mozilla
+Foundation signe un partenariat avec le moteur de recherche Google. En août
+2005, du fait de l’augmentation sensible de ses revenus, la Mozilla Foundation
+crée une division commerciale dénommée Mozilla Corporation. L'existence d'une
+division commerciale ne modifie pas les conditions de licence des logiciels,
+dont les codes sont publiés sous licence ouverte. En 2006, Firefox représente
+10% du marché des navigateurs. [Voir aussi: Google, Firefox, Internet Explorer,
+messagerie électronique, navigateur, Netscape.]
+
+= MP3 =
+
+"MP3" est l’abrégé de "MPEG-1 audio layer-3". Il s'agit d'un standard de
+compression audio (son, musique, voix) lancé en 1996 par le MPEG (Moving Picture
+Experts Group). Le fichier audio est compressé à 1/10e du fichier d'origine,
+sans perte de qualité sonore, avec une vitesse d'encodage de 128 Kbps (kilobits
+par seconde). Son extension de fichier est ".mp3". Le format MP3 connaît un
+grand succès. Les fichiers MP3 concurrencent vite les CD, pour des raisons
+pratiques: téléchargement immédiat, stockage facile, coût peu élevé, achat de
+titres à l’unité, etc. La taille des disques durs augmentant régulièrement, les
+mélomanes peuvent constituer une véritable discothèque de MP3 dans leur
+ordinateur. En 2000, les PDA (personal digital assistants) du marché intègrent
+un lecteur de MP3. Le mouvement se poursuit ensuite avec l'apparition de
+baladeurs numériques et de sites légaux de téléchargement de musique. Le format
+MP3 sert aussi à numériser des livres audio. D'autres standards de compression
+audio sont le MP3pro, issu du MP3, le WMA (Windows media audio) et AAC (advanced
+audio coding) d’Apple. [Voir aussi: AAC, baladeur numérique, bps, compression,
+livre audio, MP3pro, MPEG, musique en ligne, PDA, téléchargement, WMA.]
+
+= MP3pro =
+
+Lancé en 2001, le format MP3pro est un format de compression audio (son,
+musique, voix) issu du format MP3. Il offre une meilleure qualité sonore et une
+compression de fichier supérieure au MP3, avec une vitesse d'encodage de 64 Kbps
+(kilobits par seconde), deux fois moindre que le MP3 (encodage à 128 Kbps). La
+taille des fichiers se trouvant nettement diminuée, il est possible de stocker
+davantage de morceaux de musique sur un support donné, par exemple un baladeur
+numérique. Le MP3pro est développé à l'origine par Coding Technologies dans le
+cadre de la technologie SBR (spectral band recognition), destinée à un appareil
+auditif pour les personnes sourdes. Le développement se poursuit ensuite en
+collaboration avec les sociétés Thomson et Fraunhofer IIS. [Voir aussi: baladeur
+numérique, bps, compression, MP3.]
+
+= MP3 Surround =
+
+Développé par les sociétés Fraunhofer IIS et Agere pour procurer un son stéréo
+enveloppant (appelé 5.1, à savoir cinq enceintes et un caisson de basses), le
+format MP3 Surround prend moitié plus de place que le format MP3 standard, avec
+lequel il est compatible. Pour une seconde d'enregistrement stéréo normal, un
+fichier MP3 standard "occupe" 128 Kbps (kilobits par seconde), soit 2,8 Mo
+(mégaoctets) pour un morceau de trois minutes. Pour un morceau de même durée, un
+fichier MP3 Surround "occupe" 192 Kbps, soit 4,32 Mo. Les brevets sont issus par
+la société Thomson. Des produits utilisant le format MP3 Surround sont lancés
+fin 2004. [Voir aussi: 5.1, bps, octet, MP3, stéréo.]
+
+= MPEG (Moving Picture Experts Group) =
+
+Destinées aux applications multimédias, les normes MPEG sont des standards de
+compression audio et vidéo créés en 1988 par le MPEG (Moving Picture Experts
+Group), un groupe d'experts mis sur pied par l’ISO (Organisation internationale
+de normalisation) et l'IEC (International Electrotechnical Commission). [Voir
+aussi: audio, compression, ISO, MPEG-1, MPEG-2, MPEG-4, MPEG-7, MPEG-21, vidéo.]
+
+= MPEG-1 =
+
+Lancé en juin 1996 par le MPEG (Moving Picture Experts Group), le standard
+MPEG-1 est un standard de compression pour les fichiers audio. Ce standard est
+utilisé par exemple pour le format MP3 et le CD vidéo. [Voir aussi: audio, CD,
+compression, MP3, MPEG, vidéo.]
+
+= MPEG-2 =
+
+Lancé en octobre 2000 par le MPEG (Moving Picture Experts Group), le standard
+MPEG-2 est un standard de compression pour les données audio et vidéo. Ce
+standard est utilisé par exemple pour la télévision numérique et le DVD (digital
+versatile disc). [Voir aussi: audio, compression, DVD, MPEG, télévision, vidéo.]
+
+= MPEG-4 =
+
+Lancé en mars 2002 par le MPEG (Moving Picture Experts Group), le standard
+MPEG-4 est un standard de compression multimédia adapté à l'internet à haut
+débit, avec ou sans fil. [Voir aussi: compression, internet à haut débit, MPEG,
+multimédia.]
+
+= MPEG-7 =
+
+Lancé en mars 2003 par le MPEG (Moving Picture Experts Group), le standard
+MPEG-7 est un standard pour la description et la recherche de contenu audio et
+vidéo. [Voir aussi: audio, MPEG, vidéo.]
+
+= MPEG-21 =
+
+Lancé en 2005, avec un groupe de travail établi en octobre 2002 au sein du MPEG
+(Moving Picture Experts Group), le standard MPEG-21 est un standard destiné au
+contenu audio et aux images animées. [Voir aussi: audio, MPEG, image numérique.]
+
+= MS DOS (Microsoft disc operating system) =
+
+Le MS DOS (Microsoft disc operating system) est le premier système
+d’exploitation de Microsoft pour ordinateur personnel (PC: personal computer).
+Il est lancé en 1981 pour équiper le premier PC d’IBM (International Business
+Machines). [Voir aussi: DOS, IBM, Microsoft, système d’exploitation.]
+
+= multimédia =
+
+Le terme "multimédia" est un terme générique regroupant: (a) les supports
+informatiques - ordinateur, logiciel, CD (compact disc), CD-Rom, DVD (digital
+versatile disc), smartphone, etc. - combinant texte, son, graphiques, images et
+vidéos afin de proposer des séquences fixes et animées; (b) les oeuvres issues
+de ces combinaisons, par exemple un roman multimédia ou un documentaire
+multimédia; (c) les personnes qui conçoivent ces oeuvres, par exemple un auteur
+multimédia, ou qui les diffusent, par exemple un éditeur multimédia. [Voir
+aussi: auteur multimédia, CD-Rom, DVD, éditeur multimédia, logiciel, ordinateur,
+roman multimédia, smartphone.]
+
+= MUS (music) =
+
+Développé par Coda Music, devenu ensuite FinaleMusic, le format MUS (abrégé du
+terme anglais "music", et dont l'extension de fichier est ".mus") est un format
+propriétaire de qualité pour la numérisation des partitions musicales. Il
+n'existe pas encore de format ouvert - à savoir librement utilisable par tous -
+offrant des caractéristiques équivalentes. Des partitions musicales sont
+disponibles en accès libre dans la catégorie Sheet Music du Projet Gutenberg,
+grande bibliothèque mondiale de textes électroniques, ou encore sur les sites du
+Mutopia Project et des Classical Archives. [Voir aussi: numérisation, Projet
+Gutenberg.]
+
+= musique en ligne (1996-2002) =
+
+Suite à l'apparition en 1996 du format MP3, un standard de compression audio qui
+connaît un grand succès, les fichiers MP3 concurrencent vite les CD, pour des
+raisons pratiques: téléchargement immédiat, stockage facile, coût peu élevé,
+achat de titres à l’unité, etc. Par ailleurs, la taille des disques durs
+augmentant régulièrement, les mélomanes peuvent désormais constituer une
+véritable discothèque de MP3 sur leur ordinateur. Ils peuvent également stocker
+des fichiers musicaux sur leur PDA (personal digital assistant), dont tous les
+modèles intègrent un lecteur de fichiers MP3 dès 2000. La musique en ligne est
+d'abord caractérisée par des téléchargements gratuits (et le plus souvent
+illégaux) sur différents réseaux d'échange de fichiers, appelés réseaux P2P
+(peer-to-peer), dont le précurseur Napster (ancienne formule), suivi de Kazaa et
+de bien d'autres. L'échange de millions de fichiers musicaux suscite
+l'inquiétude des majors du disque (Sony, Universal, Warner Music, BMG, EMI,
+etc.). Napster est fermé en 2001 par décision de justice. Toutefois Kazaa,
+apparu en 2002, devient l'un des logiciels le plus téléchargés au monde. [Voir
+aussi: CD, disque dur, Kazaa, MP3, Napster, P2P, PDA, téléchargement.]
+
+= musique en ligne (2003-2004) =
+
+En 2003, la vente de musique en ligne s'organise par le biais de sites légaux et
+payants. Le premier site est l'iTunes Music Store d'Apple, lancé en avril 2003
+en même temps que le baladeur numérique iPod, qui connaît un succès fulgurant.
+Apple propose également une version Windows d'iTunes en octobre 2003.
+RealNetworks, auteur du RealPlayer (logiciel de lecture audio et vidéo), lance
+Rhapsody, une plateforme de vente de musique en ligne sur abonnement. La chaîne
+de supermarchés Wal-Mart lance elle aussi un secteur de téléchargement de
+musique, suite à l'achat de Liquid Audio. Napster nouvelle formule est lancé en
+octobre 2003 par l'éditeur de logiciels Roxio. Sony lance son service Connect
+aux Etats-Unis au printemps 2004 et Connect Europe en été 2004. Yahoo! rachète
+le site Musicmatch en septembre 2004. A la même date apparaissent les sites de
+musique d'eBay (eBay Music), de Virgin (Virgin Digital), de la Fnac (FnacMusic)
+et de Microsoft (MSN Music). En octobre 2004, l'iTunes Music Store (Apple)
+détient 70% du marché, contre 11% pour Napster (Roxio), 6% pour MusicMatch
+(Yahoo!), 6% pour Rhapsody (RealNetworks) et 6% pour Wal-Mart. Freiné par
+l'absence de standard commun, le marché de la musique en ligne reste toutefois
+marginal, et ne représente que 4,5% des ventes de musique au niveau mondial.
+[Voir aussi: Apple, baladeur numérique, eBay, iPod, iTunes, Microsoft, Napster,
+RealNetworks.]
+
+= musique en ligne (2005-2007) =
+
+Le moteur de recherche Yahoo! lance sa plateforme Yahoo! Music en août 2005. En
+2005 et 2006, de plus en plus de téléphones portables et smartphones intègrent
+un baladeur de musique. On compte 335 plateformes de téléchargement légal en
+2005, et 498 plateformes en 2006. La musique téléchargée représente 6% du marché
+de la musique (CD, cassettes, DVD, vinyles, téléchargements) en 2005 et 10% en
+2006. D'après les analystes, le marché de la musique en ligne devrait
+véritablement décoller en 2007. En janvier 2007, Apple annonce le lancement
+prochain du iPhone, un téléphone portable multifonctions comprenant un iPod
+intégré. A la même date, la plateforme VirginMega met en vente 200.000 morceaux
+au format MP3 sans DRM (digital rights management), pour favoriser la vente de
+la musique en ligne. La Fnac fait de même sur sa plateforme FnacMusic, avec
+150.000 morceaux sans DRM. En mai 2007, Amazon annonce son intention d’ouvrir
+une plateforme de musique sans DRM dans le courant de l’année. EMI Music passe
+des partenariats avec VirginMega (effectif à la mi-mai 2007), Apple (accord en
+mars 2007, effectif fin mai 2007), Amazon (accord en mai 2007, effectif plus
+tard) et diverses plateformes scandinaves pour la distribution de son catalogue
+sans DRM au prix de 1,29 euros le morceau (au lieu de 0,99 euros avec DRM). Les
+téléchargements de musique en ligne pourraient représenter 25% du marché de la
+musique en 2010. [Voir aussi: baladeur numérique, DRM, iPhone, téléchargement,
+smartphone, téléphone portable, Yahoo!]
+
+
+*N*
+
+
+= Napster =
+
+Lancé en 1998 aux Etats-Unis, Napster est le site précurseur de la musique en
+ligne. Il est le premier à permettre le téléchargement gratuit (et illégal) de
+musique au format MP3 par le biais du P2P (peer-to-peer), qui permet l'échange
+de fichiers entre internautes. Il connaît un succès fulgurant, avec une
+utilisation par 70 millions d'internautes au faîte de sa popularité. Ce succès
+provoque l'inquiétude des majors de l'industrie du disque, dont la vente de CD
+baisse face à cette concurrence inopinée. En 2001, Napster est fermé par
+décision de justice. En octobre 2003, il renaît de ses cendres sous la forme
+d'un site légal et payant géré par l'éditeur de logiciels Roxio. Son grand
+concurrent est iTunes, la plateforme de musique lancée par Apple en avril 2003.
+En février 2004, Napster franchit la barre des 5 millions de morceaux de musique
+vendus. On peut soit acheter les morceaux à l'unité (0,99 dollar US), soit
+prendre un abonnement mensuel (9,95 dollars US) et télécharger à volonté. En mai
+2004, Napster étend son activité au Canada. En décembre 2004, Napster nouvelle
+formule comptabilise 270.000 clients. Suivent un Napster UK, un Napster
+Allemagne et un Napster Japon. [Voir aussi: CD, iTunes, MP3, musique en ligne,
+P2P.]
+
+= navigateur =
+
+Appelé aussi logiciel de navigation, un navigateur permet à l’usager de
+rechercher et visualiser l’information sur le web: connexion à un site,
+affichage à l’écran des pages web, consultation des documents (texte, image et
+son) par le biais de liens hypertextes ou hypermédias. Les premiers navigateurs
+contribuent grandement au développement du web. Le pionnier est Mosaic,
+distribué gratuitement en novembre 1993. Mosaic est remplacé en 1994 par
+Netscape Navigator. En 1995, Microsoft lance Internet Explorer. Apparu en 1996,
+le navigateur Opera combine les avantages des deux grands navigateurs du marché
+tout en étant beaucoup plus léger, stable et rapide. C'est également le cas de
+Safari, le navigateur d'Apple, et de Firefox, le navigateur de Mozilla,
+disponible pour les plateformes Windows, Mac et Linux. Les navigateurs vocaux
+permettent aux usagers de naviguer sur le web à la voix, à partir de leur
+ordinateur ou de leur téléphone portable. [Voir aussi: Apple, Firefox, Internet
+Explorer, lien hypermédia, lien hypertexte, Mosaic, Mozilla, navigateur vocal,
+Netscape, Opera, web.]
+
+= navigateur vocal =
+
+Un navigateur vocal permet de naviguer sur le web depuis son ordinateur ou son
+téléphone mobile, avec commande à la voix. Le standard web pour les applications
+vocales interactives est validé en février 2004 par le consortium W3C (World
+Wide Web Consortium), sous le nom de VoiceXML. Ce standard est accompagné des
+directives utiles aux développeurs pour créer des dialogues vocaux “dans le but
+d'étendre l'accès universel du web, à l'aide d'interactions de type clavier
+téléphonique, commandes vocales, annonces pré-enregistrées, voix et musiques
+synthétisées”, toutes applications qui sont particulièrement utiles aux
+personnes aveugles et malvoyantes. [Voir aussi: interface, internet,
+reconnaissance vocale, synthèse vocale, téléphonie mobile, VoiceXML, XML, W3C.]
+
+= NCSA (National Center for Supercomputer Applications) =
+
+La très populaire page "What's New" du NCSA (National Center for Supercomputer
+Applications, Etat de l'Illinois, Etats-Unis) permet à des milliers
+d'internautes de suivre le développement du web dès ses débuts en 1991.
+Développé par le NCSA et distribué gratuitement à partir de novembre 1993,
+Mosaic est le premier navigateur web et contribue grandement à l'expansion
+rapide du réseau. [Voir aussi: Mosaic, navigateur, web.]
+
+= Nemoptic =
+
+Créée en 1999, Nemoptic est un société française spécialisée dans le papier
+électronique. Elle développe et produit des écrans à cristaux liquides (LCD:
+liquid crystal display) bistables pour des applications mobiles destinées au
+grand public ou aux professionnels. Ces écrans fins et légers permettent
+d’obtenir des images de haute résolution et présentent un confort de lecture
+équivalent au papier imprimé. La technologie BiNem (Bistable Nematic) de
+Nemoptic peut s’appliquer à de nombreux produits portables, comme les livres
+éducatifs électroniques, les dictionnaires et journaux électroniques, les PC
+ultra-portables, les téléphones portables, les jouets et les étiquettes
+électroniques. Les écrans de Nemoptic possèdent plusieurs avantages: haute
+résolution, consommation d’énergie nulle en état de veille, rapidité d’affichage
+et faible coût. Ils sont déclinables en version noir et blanc ou en version
+couleur. Nemoptic pilote notamment le projet Sylen (système de lecture nomade),
+qui vise à développer un lecteur numérique nomade bon marché pour journaux et
+livres électroniques, ainsi qu’une filière d’édition et de distribution
