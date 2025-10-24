@@ -1,0 +1,3165 @@
+Anmerkungen zur Transkription:
+
+Schreibweise und Interpunktion des Originaltextes wurden übernommen;
+lediglich offensichtliche Druckfehler wurden korrigiert. Eine Liste
+der vorgenommenen Änderungen findet sich am Ende des Textes. Folgende
+Zeichen sind für die verschiedene Schriftformen benutzt:
+
+  _Kleinschrift_
+  =fett gedruckter Text=
+  +kursiv gedruckter Text+
+  ~gesperrt gedruckter Text~
+  ^{hochgestellter Text}
+
+
+
+
+                             Das Abendmahl
+
+                                   im
+
+                    Zusammenhang mit dem Leben Jesu
+
+                                und der
+
+                     Geschichte des Urchristentums
+
+                                  von
+
+                       Lic. Dr. Albert Schweitzer
+
+                          in Strassburg i. E.
+
+
+                              Erstes Heft.
+
+                         Das Abendmahlsproblem
+
+                               auf Grund
+         der wissenschaftlichen Forschung des 19. Jahrhunderts
+                     und der historischen Berichte.
+
+                             [Illustration]
+
+                       =Tübingen= und =Leipzig=.
+               Verlag von ~J. C. B. Mohr~ (Paul Siebeck).
+                                 1901.
+
+
+
+
+    +Das Recht der Uebersetzung in fremde Sprachen behält sich die
+    Verlagsbuchhandlung vor.+
+
+
+    C. A. Wagner's Universitätsbuchdruckerei in Freiburg i. B.
+
+
+
+
+                             Seinem Lehrer
+
+                  Herrn Prof. D. Dr. =H. J. Holtzmann=
+
+                                gewidmet
+
+          in aufrichtiger Verehrung und treuer Anhänglichkeit
+
+                      von seinem dankbaren Schüler
+
+                          =Albert Schweitzer=.
+
+
+
+
+=~Vorrede~ zu einer neuen Untersuchung über das Abendmahl.=
+
+
+Der Anstoss zu der vorliegenden Arbeit ging von SCHLEIERMACHER aus.
+Im Jahre 1897 erhielt ich nämlich als Thema für meine schriftliche
+Examensarbeit folgende Aufgabe gestellt: Die Abendmahlslehre
+SCHLEIERMACHER's soll dargestellt und mit den im neuen Testament und in
+den Bekenntnisschriften niedergelegten Auffassungen verglichen werden.
+
+Ich hatte mich bis dahin mit der Abendmahlsfrage gar nicht beschäftigt
+und war über die neuesten Forschungen in keiner Weise orientiert,
+hatte auch keine Zeit dies nachzuholen, weil die Arbeit innerhalb acht
+Wochen abgeliefert werden musste. So war ich einzig auf die Texte und
+die bekenntnismässigen Formulierungen der verschiedenen Konfessionen
+angewiesen.
+
+Die SCHLEIERMACHER'sche Dialektik ersetzte mir aber alles. Sie
+zergliedert nämlich das Problem so, dass es als Ganzes und zugleich in
+allen Details vor einem steht. Man braucht nur geschichtlich Ernst zu
+machen mit dem dialektischen Spiel, das er mit vollendeter Kunst zur
+Beruhigung und Versöhnung der Geister und zugleich zu seinem eigenen
+ästhetischen Ergötzen aufführt, dann ist man genau auf dem Standpunkt
+der modernen historischen Forschung angekommen.
+
+Ein Satz besonders ist hier entscheidend. In § 139 _3_ der
+Glaubenslehre redet er vom äusseren Verlauf unserer Feier und
+zeigt, wie wir uns bei der Reproduktion der historischen Umstände
+naturgemäss auf das Wesentliche beschränken müssen. Wollte man z.
+B. einen bedeutenden Nachdruck auf den Zusammenhang, in welchem das
+historische Mahl mit dem Passahmahl stand, legen, so würde man alsbald
+zur Folgerung gedrängt werden, »dass das Abendmahl jetzt nicht mehr
+das sein könne, als was es Christus gestiftet habe und also auch
+wohl nicht könne von ihm als eine selbständige und immer dauernde
+Institution für die Kirche verordnet sein«. »Dieses Bedenken«, so fährt
+er dann fort, »liegt so nahe, ~dass es sich leicht in der evangelischen
+Kirche lautbarer machen kann, als bisher der Fall gewesen~, und
+veranlasst natürlich die Frage, worauf unser Glaube in dieser Sache
+eigentlich beruhe. Schwerlich wird sich behaupten lassen, dass aus
+den uns aufbewahrten Worten Christi ~diese Absicht ganz bestimmt
+hervorgehe.~ Vielmehr enthalten einige unserer Erzählungen gar ~keinen
+solchen Befehl~ (Markus und Matthäus), und in den andern ist er nur
+unbestimmt ausgedrückt (Lukas und Paulus); und da die Apostel aus den
+Worten Christi beim Fusswaschen keinen solchen Befehl entnommen haben,
+so ~hätten sie auch Recht gehabt, aus dem Abendmahl ebensowenig eine
+bestimmte und allgemeine Institution zu machen!~ Da nun aber offenbar
+ist, dass sie das eine gethan haben und das andere nicht, so können
+wir uns an das halten, ~was sie eingerichtet haben,~, ohne dass wir
+zu entscheiden brauchten, ob Christus ihnen über das Abendmahl noch
+andere ausdrückliche Anweisungen gegeben, oder ob sie dieselben aus
+seinen Worten gefolgert oder nur durch den unmittelbaren Eindruck der
+Sache und durch die begleitenden Umstände anders bestimmt worden sind
+in Bezug auf das Abendmahl als in Bezug auf das Fusswaschen. In dem
+letzten Fall würden wir dann das Abendmahl nur nicht ganz in demselben
+Sinn als eine unmittelbare Einsetzung Christi ansehen können, immer
+aber doch glauben müssen, dass sie in seinem Sinn gehandelt haben, wenn
+wir nicht auch in ihrem ~engsten Berufskreise ihr kanonisches Ansehen
+aufgeben wollen~«.
+
+Unsere Abendmahlsfeier beruht in letzter Linie nicht auf einer
+ausdrücklichen Verordnung Jesu! GRAFE ist also ganz unschuldig! Was er
+als ehrlicher Historiker in der Nachfolge anderer Historiker, von der
+Wucht der Thatsachen gedrängt, bedächtig und schonungsvoll aussprach,
+das hat SCHLEIERMACHER in seiner Glaubenslehre keck hingeworfen.
+Während man aber dem eleganten Spiel des Dialektikers verständnisvoll
+zunickte, nahm man es dem ehrsamen Historiker gar übel, als er ungefähr
+dasselbe zu sagen wagte. Vielleicht auch haben die temperamentvollen
+Gegner GRAFE's diese Seite in ihrem SCHLEIERMACHER überschlagen oder
+sie hielten dafür, dass der betreffende Abschnitt, weil er zeitlich
+schon einige gute Jahrzehnte zurückliegt, auch in zweideutigen Dingen
+als rechtgläubig passieren dürfe. Es ist merkwürdig: In der Theologie
+darf heutzutage einer fast alles sagen, was er will, wenn er es nur
+vornehm und geistreich mit einem gewissen eleganten Skeptizismus thut.
+Für den ehrlichen Menschen, der redet, weil sein Gewissen ihn zwingt,
+ist man aber unnachsichtlich.
+
+Die Behauptung, die SCHLEIERMACHER zum erstenmal vollständig klar
+ausgesprochen hat, die dann aber für Jahrzehnte ganz unter den
+Tisch fiel, ist dazu angethan, einen im kantischen Sinn »aus dem
+dogmatischen Schlummer zu wecken«. Sie zeigt nämlich, dass nicht
+nur die kirchlichen, sondern geradesogut die wissenschaftlichen
+Abendmahlsauffassungen dem wirklichen Thatbestand nicht gerecht werden.
+Die kirchlichen Auffassungen setzen voraus, dass Jesus die Feier zur
+Wiederholung bestimmt habe, können aber nicht nachweisen, dass er es
+wirklich angeordnet hat, da der betreffende Befehl bei den ältesten
+Zeugen fehlt. Eine Reihe wissenschaftlicher Auffassungen gehen davon
+aus, dass die Feier nicht zur Wiederholung bestimmt war, können aber
+dann nicht erklären, warum sie doch schon in der allerersten Gemeinde
+aufkam -- und das ist doch auch eine unbedingt feststehende Thatsache.
+
+Der Zusammenhang zwischen den beiden Feiern, der historischen und der
+Gemeindefeier, bleibt also gleich unbegreiflich, ob man sie durch den
+Wiederholungsbefehl direkt kausal miteinander verbindet oder ob man
+sich mit der Konstatierung der reinen zeitlichen Aufeinanderfolge
+begnügt und die Kausalität dahingestellt sein lässt. ~SCHLEIERMACHER
+ist der Hume der Kausalitätsfrage im Abendmahlsproblem.~
+
+Der Vergleich der verschiedensten und zeitlich so weit
+auseinanderliegenden Abendmahlslehren mit der SCHLEIERMACHER'schen
+Ansicht führte mich vor die Frage, was denn das Beharrende bei diesem
+steten Wechsel der Auffassungen sei. Ist es nicht denkbar, dass alle
+Phasen, in denen sich das Abendmahlsproblem auswirkt, durch dieselben
+Gesetze beherrscht sind und dass also an diesen Gesetzen die wahre
+historische Auffassung sich zu erproben hat?
+
+Nachdem ich daher meine Examensarbeit zu Ende geführt und die mir
+in Umrissen schon vorschwebende neue Auffassung in allgemeinen
+Strichen angedeutet hatte, machte ich mich daran, alle Epochen
+der Abendmahlsfrage -- die altchristliche, die mittelalterliche,
+die reformatorische und die moderne -- gründlich zu studieren,
+fest entschlossen, nicht eher mit der neuen Auffassung an die
+Oeffentlichkeit zu treten, als bis ich sie für alle Epochen
+durchgeführt hätte und so die Gewissheit besässe, dass sie die ganze
+Geschichte des Abendmahls von der historischen Feier bis in die
+neueste Zeit erklärt. Zu dieser Arbeit habe ich vier Jahre gebraucht.
+Darum veröffentliche ich, was mir schon im Herbst 1897, ~unabhängig
+von der modernen Forschung, feststand~, erst im Herbst 1901, im
+Zusammenhang mit der Darstellung und Beurteilung der historischen
+Abendmahlsforschung im 19. Jahrhundert.
+
+Ich habe die Stellung des Problems an der wissenschaftlichen
+Abendmahlsforschung im 19. Jahrhundert entwickelt, weil uns diese
+Periode am nächsten liegt. Man hätte aber geradesogut jede andere Phase
+dazu benutzen können, da die Gesetze in allen dieselben sind.
+
+Die Absicht dieser Arbeit geht weiter als auf die Aufstellung einer
+neuen historischen Abendmahlsauffassung. Sie verfolgt den praktischen
+Zweck, ~die historische Grundlage unserer modernen Abendmahlsfeier
+abzugeben und das Bestehende geschichtlich zu rechtfertigen.~ Es ist
+nämlich nicht zu leugnen, dass unsere Gemeindefeier, nach dem jetzigen
+Stand der Wissenschaft, in der Luft hängt. Wenn der Wiederholungsbefehl
+historisch nicht fundiert ist, was soll dann unsere Wiederholung
+bedeuten?
+
+Den Gläubigen zwar ficht diese Sorge vorerst wenig an und soll ihn
+wenig berühren. Es ist nicht die Sache der Leute, welche über die
+Brücke gehen, sich ängstlich darum zu kümmern, ob durch die Fluten die
+Fundamente nicht langsam unterwaschen worden sind, sondern das liegt
+den Architekten ob. Diese müssen, wenn sie eine Senkung auch nur von
+einem Millimeter wahrnehmen, unverzüglich einer eventuellen Katastrophe
+entgegenarbeiten, sogar wenn den Passanten die Sache vorerst ganz
+belanglos scheint. So muss auch die theologische Wissenschaft auf
+das Fundament des Glaubens sehen und darauf achten, ob nicht die
+historische Grundlage der Institution, welche gleichsam die Brücke vom
+Vergänglichen zum Unvergänglichen bildet, durch den Strom der Zeit
+unterwaschen ist und ob nicht durch die historische Weltanschauung eine
+ganz andere Fundierung unserer Abendmahlsfeier notwendig wird als
+bisher.
+
+SCHLEIERMACHER hat gesagt, dass das Bedenken, die Berechtigung der
+Wiederholung betreffend, sich leicht in der evangelischen Kirche
+lautbarer machen könnte, als bisher der Fall gewesen. Und wenn dies
+nun eintritt, was dann? Solange das Problem der Berechtigung und
+Notwendigkeit unserer Abendmahlsfeier wissenschaftlich nicht gelöst
+ist, kann durch den geringfügigsten Umstand eine die öffentliche
+Meinung aufs äusserste aufregende und unerquickliche dogmatische
+Erörterung dieser Frage eintreten, zu der der Fall GRAFE nur ein kurzes
+idyllisches Vorspiel wäre.
+
+Das Schlimmste dabei wäre, dass diese Erörterung, einmal in die
+Oeffentlichkeit gezerrt, notwendig resultatlos bliebe. Denn der
+wissenschaftlich denkende Mensch wird diese Frage immer wieder
+aufwerfen müssen, während derjenige, der sich mehr auf den Standpunkt
+des kirchlichen Glaubens stellt, sie notwendig niederschlagen wird,
+in dem richtigen Empfinden, dass solche theoretische Bedenken eine
+so heilige und erhebende und durch den urchristlichen Usus in
+ihrer Art wieder so geschichtlich fundierte Feier nicht gefährden
+dürfen. Der Verteidiger wird sogar eigentlich die Geschichte auf
+seiner Seite haben. Denn, wenn das Abendmahl von Anfang an in der
+christlichen Gemeinde gefeiert worden ist, so ist doch diese Thatsache,
+vollständig objektiv betrachtet, viel entscheidender als das Fehlen
+des Wiederholungsbefehls in zwei alten Berichten. Wir haben es eben
+mit einer ganz unerklärlichen Antinomie zu thun, bei der man sich sehr
+hüten muss, irgend welche Folgerungen gegen unsere Feier zu ziehen,
+besonders wenn man bedenkt, dass man damit ein Stück des ältesten
+und heiligsten Bestandes des christlichen Glaubens angreift. Nehmen
+wir vorerst lieber an, dass uns der Schlüssel zur Erklärung der
+historischen und der urchristlichen Feier und zum Verständnis ihres
+Zusammenhangs fehlt.
+
+Es ist die Aufgabe der Wissenschaft, gefährliche Fragen in Angriff zu
+nehmen, ehe sie die öffentliche urteilslose Meinung in Unruhe bringen,
+den Zündstoff zu beseitigen und in der Stille segensreiche Arbeit zu
+thun.
+
+Als SCHLEIERMACHER in seiner Glaubenslehre die damals nur in seiner
+dialektischen Phantasie existierenden Parteien vor sich beschied,
+mutete er ihnen zu, sich auf »die Anerkennung des kanonischen Ansehens
+der Apostel in ihrem engsten Berufskreise« zu vergleichen. Auf diesen
+Vergleich kann man aber im Ernst nicht eingehen. Das Sprüchlein bannt
+das Gespenst nicht. Wir wollen den Aposteln die gebührende Ehrfurcht
+sicher gern erweisen, aber unsere Abendmahlsfeier auf ihr kanonisches
+Ansehen allein gründen, das dürfen wir nicht.
+
+Rücken wir die Frage ins rechte Licht. Unsere Abendmahlsfeier
+entspringt dem Vorgehen der ersten Gemeinde, zu der die Apostel
+gehören. In die Geschichte übersetzt, lautet die Frage nach dem
+»kanonischen Ansehen der Apostel in ihrem engsten Berufskreise« also
+folgendermassen: Welches waren die Motive, durch welche die erste
+Gemeinde bestimmt wurde, eine derartige im Zusammenhang mit dem letzten
+Mahl Jesu stehende Feier zu begehen? War das Willkür oder Notwendigkeit?
+
+Daran schliesst sich eine zweite Frage, die SCHLEIERMACHER
+unberücksichtigt gelassen hat. Wenn die erste Gemeinde aus bestimmten
+Gründen die Feier wiederholt hat, gelten diese auch noch für uns?
+Besteht in der historischen Feier als solcher auch für uns eine direkte
+Notwendigkeit, dass wir daraus irgendwie eine Feier ableiten, oder
+handelt es sich nur um etwas Ueberkommenes?
+
+Darauf lautet die Antwort der Geschichte: es war eine absolute
+Notwendigkeit, dass das Abendmahl trotz des Fehlens des
+Wiederholungsbefehls bei der ersten Gemeinde in Aufnahme kam, und
+diese Notwendigkeit besteht auch noch für uns zu Recht. Unsere Feier
+gründet sich nicht auf die geschichtliche Ueberlieferung oder auf die
+unkontrollierbare Autorität bestimmter Persönlichkeiten, sondern direkt
+auf die historische Feier. So ist unser Abendmahl berechtigt, geboten
+und notwendig von sich selbst aus.
+
+Die neue geschichtliche Erkenntnis führt aber nicht nur die Versöhnung
+hinsichtlich der Berechtigungsfrage herbei, sondern auch hinsichtlich
+der Frage nach der Bedeutung der Feier.
+
+Niemand kann sich der Einsicht verschliessen, dass unsere Feier
+eigentlich sehr dürftig und unlebendig ist, wenn sie nur auf die
+Darstellung eines Doppelgleichnisses durch die Reproduktion einer
+historischen Situation geht, wo der Pfarrer die Stelle Jesu und die
+Gläubigen die Stelle der Jünger einnehmen. Andererseits stellen die
+konfessionellen Auffassungen Zumutungen an ernste Christen, die sie
+entweder zur Gedankenlosigkeit oder zur Gewissenlosigkeit erziehen und
+den Zweifel und Spott geradezu herausfordern.
+
+Könnten beide Auffassungen aus ihrer Sprache heraustreten, dann
+würden sie darin übereinkommen, dass der Sinn der Feier etwas
+Geheimnisvolles ist, wo der Einzelne mit der feiernden Gemeinschaft
+und der Persönlichkeit unseres Herrn in ein besonders heiliges
+Verhältnis tritt. Nun zwingen aber die unglücklichen Einsetzungsworte
+den Einen durch die rein symbolische Deutung hinter diesem Geheimnis
+zurückzubleiben, den Andern durch die wörtliche Deutung über dieses
+Geheimnis hinauszugehen und das Unfassbare zu behaupten. Die
+Vermittlungsversuche sind am schlimmsten daran. In der Sache und dem
+religiösen Gehalt nach mögen sie richtig sein, aber in der Deutung
+der Gleichnisse sind sie gequetscht und gekünstelt, dass ein Mensch
+mit ehrlichem Verstand sie nicht zu ertragen vermag. So wie die
+»Einsetzungsworte« liegen und nach der Rolle, die man ihnen bisher
+in der Feier zuwies, sind nur die rein symbolische oder die krass
+realistische Deutung zulässig. Was dazwischen ist, ist vom Uebel.
+
+Auch hier bringt die wahre geschichtliche Erkenntnis die Befreiung
+von der unnatürlichen Alternative, indem sie zeigt, dass die
+Stellung, die man den Gleichnissen in dem Ganzen der Feier anwies,
+geschichtlich falsch ist. Die urchristliche Feier beruht nicht auf
+den »Einsetzungsworten« -- dies ist mein Leib, dies ist mein Blut --
+obwohl diese Worte bei der historischen Feier gesprochen worden sind.
+Also ist auch unsere Auffassung unabhängig von diesen rätselhaften
+Gleichnisworten.
+
+Diese kurzen Andeutungen mögen zeigen, dass diese Arbeit in einem
+praktisch aufbauenden und versöhnenden Geiste geschrieben ist.
+Zwar wird man, von den gewohnten Auffassungen herkommend, zunächst
+mannigfach an dieser Untersuchung Anstoss nehmen, da sie die Versöhnung
+nicht durch eine neue Vermengung oder Verdunkelung, sondern einzig
+und allein durch geschichtliche Wahrhaftigkeit und Unbefangenheit
+herbeiführen will. ~Wir müssen an die Geschichte glauben~, d.
+h. wir müssen der Zuversicht sein, dass mit dem Fortschritt der
+geschichtlichen Erkenntnis zugleich die Vertiefung und Einigung im
+Glauben notwendig verbunden ist, obwohl es manchmal vorerst nicht den
+Anschein hat. In diesem Glauben habe ich diese Untersuchung begonnen
+und zu Ende geführt.
+
+Diese Arbeit erscheint in drei Heften. ~Das erste~ behandelt das
+Problem, wie es sich aus der Forschung des 19. Jahrhunderts und aus den
+Berichten ergibt. ~Das zweite~ sucht die Grundlage der historischen
+Feier in dem Leben und in den Gedanken Jesu. Es stellt sich dar als die
+Skizze einer neuen Auffassung des Lebens Jesu. Das ~dritte~ behandelt
+das Abendmahl in der urchristlichen und in der altchristlichen Epoche
+und zeigt, wie sich daraus die römische Messe und das griechische
+Mysterium mit gleicher Berechtigung und Notwendigkeit entwickelt haben.
+Das erste und das zweite Heft erscheinen miteinander. Das dritte wird
+denselben in thunlichster Bälde folgen.
+
+Zum Schluss fühle ich mich gedrungen, allen meinen Freunden, die mir
+bei dieser Arbeit behülflich gewesen sind, den Herrn Pfarrern A. ERNST
+und R. WILL zu Strassburg, A. HUCK und ED. UNSINGER zu Schiltigheim und
+dem Herrn Vikar ALFRED ERICHSON in Strassburg, meinen tiefgefühlten
+Dank auszusprechen.
+
+    ~Strassburg~, im August 1901.
+
+
+
+
+=Inhaltsangabe des ersten Heftes.=
+
+
+                                                                  Seite
+
+  ~Vorrede zu einer neuen Untersuchung über das Abendmahl~        V-XII
+
+
+  =Erster Teil.=
+
+  =Das Abendmahlsproblem auf Grund der wissenschaftlichen Forschung des
+  19. Jahrhunderts=                                                1-44
+
+
+  +Erstes Kapitel+                                                  1-5
+
+  =Einleitung.=
+
+  1. Der Skeptizismus in der Abendmahlsforschung                    1-2
+
+  2. Der Ansatzpunkt                                                2-3
+
+  3. Die Einzelfragen                                               3-5
+
+  4. Die vier Typen der Abendmahlsauffassungen                        5
+
+
+  +Zweites Kapitel+                                                 5-7
+
+  =Das Vorspiel. Zwingli und Calvin.=
+
+
+  +Drittes Kapitel+                                                7-10
+
+  =Die doppelseitigen Auffassungen mit Zugrundelegung des
+  Darstellungsmoments und abgeleiteter Geltendmachung des Genussmoments.=
+
+  1. Die erste Hälfte des 19. Jahrhunderts. DE WETTE, EBRARD und RÜCKERT
+                                                                    7-8
+
+  2. Die zweite Hälfte des 19. Jahrhunderts. TH. KEIM, K. V. WEIZSÄCKER,
+     WILLIBALD BEYSCHLAG, H. HOLTZMANN, PAUL LOBSTEIN, W. SCHMIEDEL
+                                                                   8-10
+
+
+  +Viertes Kapitel+                                                  10
+
+  =Ueberblick über die Auffassungen mit Zugrundelegung des
+  Genussmoments.=
+
+
+  +Fünftes Kapitel+                                               11-21
+
+  =Die Auffassungen mit einseitiger Herausarbeitung des Genussmoments.=
+
+  1. Die Vorperiode. FR. STRAUSS, BRUNO BAUER, E. RENAN           11-13
+
+  2. Die modernen Versuche. W. BRANDT, FR. SPITTA, A. EICHHORN    13-14
+
+  3. W. BRANDT                                                    14-15
+
+  4. FR. SPITTA                                                   15-16
+
+  5. Kritik der Auffassung SPITTA's                               16-18
+
+  6. A. EICHHORN                                                  18-19
+
+  7. Die neue »Thatsache«                                         19-20
+
+  8. Die Skepsis in der Folge der einseitigen Herausarbeitung des
+     Genussmoments                                                   20
+
+  9. Der logische Grund der Skepsis                               20-21
+
+
+  +Sechstes Kapitel+                                              21-26
+
+  =Die doppelseitigen Auffassungen mit Zugrundelegung des Genussmoments
+  und abgeleiteter Geltendmachung des Darstellungsmoments.=
+
+  AD. HARNACK, ERICH HAUPT, FR. SCHULTZEN, R. A. HOFFMANN.
+
+  1. Allgemeines                                                  21-22
+
+  2. AD. HARNACK                                                  22-23
+
+  3. ERICH HAUPT                                                  23-24
+
+  4. FR. SCHULTZEN                                                24-25
+
+  5. R. A. HOFFMANN                                               25-26
+
+
+  +Siebentes Kapitel+                                             26-31
+
+  =Der gesetzmässige Zusammenhang zwischen den Einzelfragen.=
+
+  1. Der Wiederholungsbefehl                                      26-27
+
+  2. Das Abendmahl und die urchristliche Gemeindemahlzeit         27-30
+
+  3. Die Antinomie zwischen der historischen und der urchristlichen Feier
+                                                                  30-31
+
+
+  +Achtes Kapitel+                                                31-37
+
+  =Die Auffassungen mit einseitiger Geltendmachung des
+  Darstellungsmoments.=
+
+  1. Das Gefechtsfeld                                             31-32
+
+  2. Der Verteidigungsplan. P. W. SCHMIEDEL                       32-34
+
+  3. Die Offensive. ADOLF JÜLICHER                                34-36
+
+  4. Die Skepsis in den Auffassungen mit einseitiger Geltendmachung des
+     Darstellungsmoments                                          36-37
+
+
+  +Neuntes Kapitel+                                               37-44
+
+  =Die neue Problemstellung.=
+
+  1. Das Ergebnis der Untersuchung                                37-40
+
+  2. Der neue Weg                                                 40-44
+
+
+  =Zweiter Teil.=
+
+  =Das Abendmahlsproblem auf Grund der historischen Berichte=     45-62
+
+
+  +Zehntes Kapitel+                                               45-48
+
+  =Die textkritischen Fragen.=
+
+  1. Cod. D. Die textkritische Hauptfrage                         45-46
+
+  2. Abweichende Lesarten                                            47
+
+  3. Das Ergebnis der Textkritik                                  47-48
+
+
+  +Elftes Kapitel+                                                48-50
+
+  =Die Eigenart des Markusberichts= (Mk 14 _22-26_).
+
+
+  +Zwölftes Kapitel+                                              50-56
+
+  =Der Vergleich der Berichte.=
+
+  1. Das Prinzip der Gleichbildung                                   50
+
+  2. Der matthäische Bericht (Mt 26 _26-29_)                      50-51
+
+  3. Der paulinische Bericht (I Kor 11 _23-26_)                   51-53
+
+  4. Der lukanische Bericht (Lk 22 _14-20_)                       53-55
+
+  5. Der justinische Bericht (I Apol 66)                          55-56
+
+
+  +Dreizehntes Kapitel+                                           56-62
+
+  =Die Authentie des Markusberichts.=
+
+  1. Der Beweis                                                   56-60
+
+  2. Die Folgerungen aus der Authentie des Markusberichts            60
+
+  3. Das Messianitäts- und Leidensgeheimnis im Abendmahl          60-62
+
+
+
+
+=Erster Teil.=
+
+=Das Abendmahlsproblem auf Grund der wissenschaftlichen Forschung des
+19. Jahrhunderts.=
+
+
+Erstes Kapitel.
+
+=Einleitung.=
+
+
+=1. Der Skeptizismus in der Abendmahlsforschung.=
+
+Es gibt Fragen, welche in dem Denken der Menschheit auftauchen, das
+volle geistige Interesse einer Epoche in Anspruch nehmen und dann
+wieder zurücktreten, ohne ihre Lösung gefunden zu haben und ohne dass
+es klar ist, wie sie ungelöst an Interesse verlieren konnten.
+
+Jahrhunderte gehen darüber hin. Dann, durch eine Wendung in der
+Geschichte, wird dieselbe Frage wieder in den Vordergrund geschoben und
+das Spiel wiederholt sich.
+
+Zu diesen intermittierenden Vulkanen gehört die ~Abendmahlsfrage.~
+Drei Aktionsperioden sind bis jetzt zu verzeichnen. Die erste ist die
+längste. Sie dauert ungefähr zehn Jahrhunderte. Mit der Dauer steht die
+Intensität im umgekehrten Verhältnis. Wir haben keinen feuerspeienden
+Berg, sondern einen Krater mit langsamem Lavaausfluss. Einige Erdstösse
+-- die fränkischen Abendmahlskontroversen -- bezeichnen den Schluss der
+Aktionsperiode.
+
+Die Art, wie die Frage in der Reformationszeit neu auftaucht, ist
+in höchstem Grade überraschend. Man sollte meinen, dass, in dem
+gemeinsamen Gegensatz aller reformatorischen Auffassungen zur römischen
+Theorie, die innerprotestantischen Gegensätze gerade in dieser
+Frage Aussicht hatten, bis auf weiteres latent zu bleiben. Statt
+dessen wird gerade die Abendmahlsfrage der Pol, nach dem sich die
+Gedanken orientieren. Diese zweite, dogmatische Periode, war in ihrem
+eigentlichen Verlauf ebenso kurz wie heftig. Sie umfasst kaum drei
+Jahrzehnte. Dann wird die Abendmahlsfrage für die Dogmatik eine Frage
+neben andern. SCHLEIERMACHER's Glaubenslehre, die wissenschaftliche
+Begründung der Vermittlungsversuche, behandelt sie fast anhangsweise.
+
+Die dritte Periode wird durch die historisch-kritische Forschung
+heraufgeführt. Wir stehen mitten darin, so aber, dass die Mittagszeit
+bereits hinter uns liegt. Schon kündigt sich nämlich die Erschöpfung
+an. Nachdem eine Reihe der letzterschienenen Abhandlungen die
+Zuversicht, das Problem durch die historische Kritik lösen zu können,
+nicht mehr so entschieden zur Geltung kommen liessen, wie dies früher
+der Fall war, greift jetzt eine ausgesprochen skeptische Stimmung
+Platz, deren Sprache man in dem Aufsatz EICHHORNS's[1] vernehmen kann.
+
+An diesem Skeptizismus ist etwas unbedingt Berechtigtes. Er geht
+nämlich von der Thatsache aus, dass durch die ganze Forschung des 19.
+Jahrhunderts die Lösung des Problems ferner gerückt ist als je. Die
+Schwierigkeiten sind gerade durch die historisch-kritische Methode in
+viel stärkerem Masse hervorgetreten, als man früher jemals ahnen konnte.
+
+Unberechtigt daran ist aber die Art, der historischen gewissenhaften
+Kritik gegenüber vornehm zu thun und aus der Thatsache, dass sie bis
+jetzt in dem Problem nicht zum Ziele geführt hat, ihre Inferiorität
+einer excentrischen überkritischen Unkritik gegenüber zu proklamieren.
+Statt dessen sollte man eher nach den Gründen forschen, warum die
+historische Kritik die Lösung dieser Frage bisher nicht herbeiführen
+konnte.
+
+
+=2. Der Ansatzpunkt.=
+
+Das Abendmahlsproblem setzt sich aus einer Reihe von Einzelfragen
+zusammen, die in den verschiedenen Auffassungen verschieden beantwortet
+und verschieden mit einander in Zusammenhang gebracht werden.
+Gewöhnlich dreht sich nun die Kritik um diese Einzelfragen. Man
+untersucht, ob die Fassung der Einsetzungsworte haltbar ist, ob die
+Exegese der Gleichnisse richtig ist, wie die betreffende Abhandlung
+sich zur chronologischen Frage stellt, auf welche Art sie den
+behaupteten oder verneinten Zusammenhang zwischen Abendmahl und Passah
+begründet und dergleichen.
+
+~Der folgenden Untersuchung kommt es mehr auf die Gesamtauffassung
+an und auf den Zusammenhang, in welchem die Einzelfragen unter
+einander stehen.~ Wächst eine Abendmahlsanschauung aus einer Reihe von
+selbständigen Entscheidungen über die schwebenden Einzelfragen heraus,
+oder sind nicht diese Einzelfragen durch einen inneren verborgenen
+Mechanismus so mit einander verbunden, dass mit der einen zugleich über
+die andern entschieden wird? Welches sind die Gesetze, nach denen sich
+die Einzelfragen im Abendmahlsproblem gegenseitig bedingen? Das ist
+die Frage, welche uns beschäftigt. Nur sie kann uns darüber Aufschluss
+geben, warum die historisch-kritische Methode nicht zum Ziele führen
+konnte.
+
+
+=3. Die Einzelfragen.=
+
+Liegt die Bedeutung der Gleichnisse darin, dass Jesus das Brot bricht
+und den Wein im Kelch herumreicht? Oder beruht sie darin, dass die
+Jünger dieses Brot essen und diesen Wein trinken?
+
+Hat er die Worte über Brot und Wein als Gleichnisse gemeint, oder will
+er damit andeuten, dass die Jünger seinen Leib und sein Blut durch den
+Genuss sich irgendwie aneignen?
+
+Fand das Mahl im Zusammenhang mit dem Passahmahl statt, sodass für die
+Worte Jesu und ihr Verständnis Passahgedanken vorausgesetzt werden
+dürfen?
+
+Erlaubt es die Chronologie der Evangelien, Jesum noch am Passahabend im
+Kreise seiner Jünger zu sehen?
+
+Hat er den Jüngern befohlen, die Feier zu wiederholen?
+
+Was hat er ihnen zu wiederholen geboten?
+
+Ist es möglich, dass der »Stifter« ihnen zumutet, seine eigenen Worte
+zu wiederholen, die nur in seinem Munde und in jenem historischen
+Momente einen Sinn haben?
+
+Angenommen, der Wiederholungsbefehl ist nicht historisch, wie kommen
+denn die Jünger dazu, die Feier dennoch zu wiederholen?
+
+Wie ist es möglich, dass im Urchristentum Paulus die Wiederholung als
+auf den Herrn zurückgehend in die Darstellung der historischen Feier
+einträgt?
+
+Wie erklärt sich das Fehlen des historischen Berichts im vierten
+Evangelium, da doch Kap. 6 die Feier voraussetzt?
+
+Steht es im allgemeinen nicht so, dass mit der Annahme des
+Wiederholungsbefehls das psychologische Verständnis der historischen
+Feier unmöglich wird, während unter Voraussetzung seines Fehlens die
+Wiederholung in der ersten Gemeinde ganz unbegreiflich ist?
+
+Hat sich das Abendmahl an ein Passahmahl angeschlossen, wie ist
+dann, mit oder ohne Wiederholungsbefehl, die ~tägliche Feier~ in der
+urchristlichen Zeit begreiflich?
+
+Waren Agape und Herrenmahl getrennt, standen sie in irgend einem
+Zusammenhang, oder waren sie identisch?
+
+Wie verlief überhaupt die Herrenmahlsfeier im Urchristentum? Wie
+sind die Angaben der Didache mit den paulinischen Schilderungen und
+Forderungen in I Kor 11 zu vereinigen?
+
+In welchem Verhältnis stehen die Kunde und die Auffassung der
+historischen Feier, welche die Didache und Paulus voraussetzen, zu dem
+Bilde der historischen Feier in den Synoptikern?
+
+Wie erklärt sich das gänzliche Zurücktreten des Leidensgedankens und
+der Situation der historischen Feier in der Didache?
+
+Welche Bedeutung kam dem eschatologischen Moment in der urchristlichen
+Abendmahlsfeier zu?
+
+In welchem Zusammenhang steht das eschatologische Schlusswort Jesu von
+dem Neutrinken im Reich des Vaters mit dem Verlauf der historischen
+Feier?
+
+Wie lassen sich die Abweichungen der synoptischen Berichte erklären?
+
+Die paulinische Darstellung ist die chronologisch älteste; der
+Lukastext nach Cod. D der kürzeste; der Markustext steht im
+Zusammenhang mit der einfachsten und glaubwürdigsten evangelischen
+Geschichtsdarstellung, und der justinische Bericht ist möglicherweise
+unabhängig von unseren Evangelien. Welchem der vier grundverschiedenen
+Texte gebührt der Vorzug?
+
+In welche Verbindung stellte das Urchristentum die Teilnahme am
+Herrenmahl mit der Vorstellung von der Erlösung?
+
+Wir nehmen an, die Reproduktion der Herrenworte bei der urchristlichen
+Feier ist eine freie gewesen; die Bedeutung dieser Worte konnte aber
+nur eine einzige sein. Wie ist es erklärlich, dass wir aus der ganzen
+urchristlichen Zeit, ja eigentlich bis ins beginnende Mittelalter
+hinein keine Kunde von Auseinandersetzungen über den Sinn dieser Worte
+haben? Die Einsicht, dass die Vorstellungen im Urchristentum noch
+einen gewissen Grad der Flüssigkeit aufweisen, reicht zur Erklärung der
+obigen Thatsache nicht aus.
+
+
+=4. Die vier Typen der Abendmahlsauffassungen.=
+
+Bei der Darstellung der wissenschaftlichen Abendmahlsdebatte
+unterscheiden wir zunächst zwei Hauptströmungen. Wir teilen die
+Abhandlungen danach ein, ob sie für ihre Auffassung das ~Darstellungs-~
+oder das ~Genussmoment~ zu Grunde legen. ~Unter dem Darstellungsmoment
+verstehen wir das Handeln und Reden Jesu während der historischen
+Feier; unter dem Genussmoment die Bedeutung des Essens und Trinkens
+der Teilnehmer, wie sie sich aus dem Wesen der Feier ergeben soll.~
+Neben den Darstellungen, die eines dieser beiden Momente mit
+Ausserachtlassung des andern einseitig herausarbeiten, gibt es noch
+andere, doppelseitige, die eines der Momente zu Grunde legen, dabei
+aber dem zweiten nebensächliche Geltung zugestehen. Wir haben also im
+ganzen vier Haupttypen, zwischen denen die mannigfachsten Vermittlungen
+möglich sind.
+
+    1. ~Auffassungen mit einseitiger Herausarbeitung des
+    Darstellungsmoments.~
+
+    2. ~Doppelseitige Auffassungen mit Zugrundelegung des
+    Darstellungsmoments und abgeleiteter Geltendmachung des
+    Genussmoments.~
+
+    3. ~Auffassungen mit einseitiger Herausarbeitung des Genussmoments.~
+
+    4. ~Doppelseitige Auffassungen mit Zugrundelegung des Genussmoments
+    und abgeleiteter Geltendmachung des Darstellungsmoments.~
+
+Im folgenden werden diese Auffassungen dargestellt in der Ordnung, wie
+sie geschichtlich in die Erscheinung getreten sind.
+
+
+Fussnoten:
+
+[1] »Das Abendmahl im Neuen Testament« von ALBERT EICHHORN, (Leipzig
+1898), Hefte zur »Christlichen Welt« No. 36.
+
+
+
+
+Zweites Kapitel.
+
+=Das Vorspiel. Zwingli und Calvin.=
+
+
+Das Verdienst, das Abendmahlsproblem zuerst wissenschaftlich behandelt
+zu haben, gebührt ZWINGLI. Die Bedeutung der historischen Feier beruht
+nach ihm auf dem symbolischen Handeln Jesu. Durch das Brechen des
+Brotes und das Darbieten des Weines kündigt der Herr seinen Tod an.
+Er verordnet die Wiederholung der Feier, damit die Christen bei dem
+gebrochenen Brot und dem vergossenen Wein seines Todes gedenken.
+
+Die Schwäche dieser Auffassung liegt darin, dass ZWINGLI den
+Hauptnachdruck allein auf das Handeln Jesu legt. Er kann die
+historische Feier erklären, -- ~aber nicht die Wiederholung~, bei
+welcher notwendig der Nachdruck nicht auf dem Handeln Jesu, sondern
+auf dem der Teilnehmer, dem Genuss des Brotes und des Weines,
+ruht. Es gelingt nicht begreiflich zu machen, warum die Jünger
+die Gleichniselemente genossen und noch viel weniger, warum auch
+spätere Geschlechter bei der Wiederholung noch essen und trinken und
+nicht bloss ~anschauen~, um sich an dem erzählten und dargestellten
+Abendmahlshandeln Jesu zu erbauen. Dass ZWINGLI's Lehre dogmatisch
+nicht befriedigen konnte, lag in letzter Linie an der Einseitigkeit
+seiner wissenschaftlichen Exegese.
+
+So musste seine Auffassung auch wissenschaftlich durch diejenige
+verdrängt werden, welche dem Genuss der Teilnehmer einen Platz neben
+dem darstellenden Abendmahlshandeln Jesu anweisen konnte. Dies leistete
+die Abendmahlslehre CALVIN's.
+
+Bei ihm liegt die Symbolik zu gleichen Teilen in dem begründet, was
+Jesus mit den Elementen vornimmt (Brechen des Brotes und Ausgiessen
+des Weines), und in dem, was die Teilnehmer mit den Elementen beginnen
+(Essen des Brotes und Trinken des Weines). In dieser Betonung der
+Darbietung und der Aneignung als der beiden Grundmomente des Abendmahls
+beruht die wissenschaftliche Stärke der calvinischen Abendmahlslehre.
+Die historische Feier kann er weniger gut erklären, als es ZWINGLI
+gethan; dafür ist es ihm aber möglich, ihre Wiederholung als notwendig
+darzuthun, indem die ~Wertung des Genusses~, nicht allein ~der Befehl
+Jesu~, den Zusammenhang zwischen der historischen und der wiederholten
+Feier aufrecht erhält.
+
+Es waren also nicht nur ~dogmatische~, sondern auch ~wissenschaftliche~
+Interessen, welche den Sieg der calvinischen Abendmahlsauffassung
+über die zwinglische bedingten. Die zum Teil auf wissenschaftlicher
+Grundlage beruhende Auseinandersetzung zwischen diesen beiden
+Ansichten bildete ein kurzes Vorspiel zu der grossen historischen
+Abendmahlsdebatte im 19. Jahrhundert.
+
+Da die doppelseitige Auffassung durch den Sieg CALVIN's über
+ZWINGLI allgemein verbreitet war, setzte die historische Forschung
+die Doppelseitigkeit voraus. Sie betonte hauptsächlich das
+Darstellungsmoment, weil die exegetische Anschaulichkeit dafür sprach.
+So wurden zunächst die doppelseitigen Auffassungen mit Zugrundelegung
+des Darstellungsmoments wissenschaftlich ausgeprägt.
+
+
+
+
+Drittes Kapitel.
+
+=Die doppelseitigen Auffassungen mit Zugrundelegung des
+Darstellungsmoments und abgeleiteter Geltendmachung des Genussmoments.=
+
+
+=1. Die erste Hälfte des 19. Jahrhunderts. De Wette, Ebrard und
+Rückert.=
+
+DE WETTE vertritt die doppelseitige Auffassung in seinen
+Kommentaren.[2] Das Brechen und das Essen des Brotes, das Ausgiessen
+und das Trinken des Weins bedingen zusammen die Bedeutung der Elemente
+bei der Feier. Der Hauptnachdruck liegt aber auf dem Brechen, dem
+darstellenden Moment. Die Betonung des Genussmoments ist mehr
+nebensächlicher Art.
+
+Von AUGUST EBRARD[3] wird auf den Genuss der gleiche Wert gelegt wie
+auf das Brechen und Ausgiessen. Beide Momente gehören zusammen und
+bedingen sich gegenseitig. Jesus reicht das gebrochene Brot zum Essen
+und den ausgegossenen Wein zum Trinken dar.[4]
+
+Bei EBRARD ist die energische Betonung des Genussmoments durch seinen
+Zusammenhang mit der reformiert-calvinischen Auffassung begreiflich.
+Aus rein wissenschaftlichen Gründen findet sich das stärkere
+Herausarbeiten desselben Moments bei IMMANUEL RÜCKERT.[5] Seine
+klassische Schrift fasst den ganzen Ertrag der wissenschaftlichen
+Diskussion der Abendmahlsfrage in der ersten Hälfte des 19.
+Jahrhunderts zusammen. Die Handlung Jesu und der Genuss von seiten
+der Teilnehmer werden in gleicher Weise betont. In jedem dieser beiden
+Momente liegt eine besondere Symbolik. Jesus bricht das Brot und gibt
+es zum Essen, er giesst den Wein ein und bietet ihn zum Trinken dar.[6]
+
+
+=2. Die zweite Hälfte des 19. Jahrhunderts. Th. Keim, K. v. Weizsäcker,
+W. Beyschlag, H. Holtzmann, P. Lobstein, W. Schmiedel.=
+
+In der zweiten Hälfte des 19. Jahrhunderts lässt sich eine breite und
+ruhige Strömung verfolgen, welche beide Momente mit sich führt, jedoch
+so, dass das Darstellungsmoment die Grundströmung, das Genussmoment die
+Oberströmung bildet. Folgende Aussprüche geben die Richtung des Stromes
+an.
+
+    TH. KEIM. ~Geschichte Jesu von Nazara.~ 1872 Bd. III S. 232 bis 290
+    (Das Nachtmahl Jesu).
+
+»Man hat den Eindruck, dass es sich für Jesus doch um etwas mehr
+handelte, als nur um ein sprechendes Sinnbild seines irgendwie zum
+Heil der Jünger zu brechenden und zu tötenden Leibes vor den Gästen
+aufzustellen, man hat den Eindruck einer Gabe; diese Gabe liegt
+erstlich darin, dass er in nachdrücklicher, in endgültiger Weise als
+den Zweck seines bevorstehenden Todes das Heil der Jünger nennt,
+sodann, dass er im Zusammenhang damit die Sinnbilder dieses Heils den
+Erben dieses Heils nicht nur zum ~Anschauen~, sondern ~geradezu zum
+Nehmen und Geniessen~ übergibt, das Besitztum des Heilstodes und seine
+Früchte in ihre Hände deponiert.« S. 272.
+
+    KARL V. WEIZSÄCKER. ~Apostolisches Zeitalter.~ 1886 S. 596 bis 602.
+
+WEIZSÄCKER vertritt eine interessante Differenzierung in der Symbolik
+der beiden Akte. Das Brot ist das Sinnbild der ~Gegenwart Christi~ in
+der Gemeinde, der Wein aber das Sinnbild ~seines Todes~, durch welchen
+er das neue Passahopfer geworden ist. S. 598.
+
+    W. BEYSCHLAG. ~Das Leben Jesu.~ 1893 Bd. II S. 434-442.
+
+»Der Sinn der Abendmahlsstiftung ist vollkommen klar: Sein Leib,
+der für uns gebrochen, sein Blut, das für uns vergossen wird, ist
+sein Leben, das er für uns in den Tod gibt, -- für uns dahingibt,
+damit es in uns wirksam werde; damit es, vom inwendigen Menschen
+~angeeignet~, wie der äussere Mensch Speise und Trank in sich aufnimmt,
+ihm Speise und Trank ewigen Lebens werde, und so die in Ihm gekommene
+Erlösung, den in Ihm gekommenen neuen Bund der Gottgemeinschaft in uns
+vollziehe.« S. 439.
+
+    H. HOLTZMANN. ~Biblische Theologie.~ 1897 Bd. I S. 296-304.
+
+»Geschichtliche Voraussetzung und übereinstimmendes Resultat der
+letzten Forschungen ist, dass Jesus seinen Jüngern Brot und Wein zum
+Genusse dargereicht und dabei mit Beziehung auf das gebrochene Brot von
+seinem Leib, mit Beziehung auf den ausgegossenen Wein von seinem Blut
+gesprochen, letzteres insonderheit zugleich als Bundesblut bezeichnet
+hat.« S. 296.
+
+    PAUL LOBSTEIN. ~La doctrine de la sainte cène.~ Lausanne 1899.
+
+»Ceci est mon corps«, dit Jésus en rompant le pain qu'il distribue à
+ses disciples; »cette coupe est la nouvelle alliance dans mon sang
+versé pour vous«, leur dit-il en faisant circuler la coupe. S. 46. Le
+pain que Jésus rompt pour les disciples et qu'il leur distribue, ils
+doivent s'en nourrir: »De même que je vous convie à manger de ce pain,
+ainsi vous êtes appelés à vous assimiler le fruit de ma mort, les
+effets salutaires de ce don de moi-même, de ce corps brisé et livré
+pour vous.« S. 47.
+
+    WILHELM SCHMIEDEL. ~Die neuesten Ansichten über den Ursprung des
+    Abendmahls.~ Protestantische Monatshefte, III. Jahrgang Heft 4 1899.
+
+»Das Bedeutsame ist in erster Linie im ~Brechen des Brotes und
+Ausgiessen~ des Weines aus dem Krug in den Becher zu sehen. Die
+Austeilung dieser Speisen zum Genuss schliesst sich als etwas zweites
+an. ~Um der Hauptsache willen wäre es nicht nötig gewesen: aber da man
+einmal beim Mahle sass, war es naturgemäss.~« S. 147.
+
+Die gemeinsamen Grundzüge dieser Darstellungen sind also folgende:
+Brot und Wein sind Leib und Blut Christi, weil er an ihnen seinen
+Tod und dessen Heilswert versinnbildlicht hat. Dabei fordert er die
+Jünger zum Genuss auf; das soll bedeuten, dass ihnen die Wohlthaten
+seines Leidens zu gute kommen, wenn sie verstehen, sich dieselben
+anzueignen. Die Wiederholung ist erfolgt zum Teil, weil der religiöse
+Wert dieser Handlung von den Teilnehmern eingesehen wurde, zum Teil,
+weil Jesus durch einen Befehl oder eine Andeutung dazu aufforderte. Auf
+den Zusammenhang mit dem Passah wird Wert gelegt, ohne dass er jedoch
+für die Auffassung als absolut notwendig erklärt würde. Ueberhaupt
+haben diese Darstellungen etwas Schwankendes. Sie vereinigen die
+mannigfachsten Gesichtspunkte mit einander, sodass es fast unmöglich
+ist, sie in kurzen Sätzen präcis wiederzugeben.
+
+Deshalb ist es auch nicht ratsam von ihnen auszugehen, um die Gesetze
+des Zusammenhangs zwischen den Einzelfragen aufzustellen. Die Krisis in
+diesem Zustand wurde erst durch die Auffassungen mit Zugrundelegung des
+Genussmoments heraufgeführt.
+
+
+Fussnoten:
+
+[2] Vgl. DE WETTE's Commentar zu Matthäus (1836) und zu Johannes (1837).
+
+[3] »Das Dogma vom heiligen Abendmahl und seine Geschichte« von Dr.
+AUGUST EBRARD. 2 Bde., 1845.
+
+[4] Vgl. Bd. I S. 79-120.
+
+[5] »Das Abendmahl, sein Wesen und seine Geschichte in der alten
+Kirche« von Dr. LEOPOLD IMMANUEL RÜCKERT, Professor in Jena, 1856.
+
+[6] Vgl. Bd. I S. 61-131.
+
+
+
+
+Viertes Kapitel.
+
+=Ueberblick über die Auffassungen mit Zugrundelegung des Genussmoments.=
+
+
+Greift man aus der Geschichte der wissenschaftlichen
+Abendmahlsuntersuchung die Werke heraus, welche in allgemeiner Weise
+das Genussmoment zu Grunde legen, so fügen sich folgende Namen in
+bunter, zusammenhangsloser Reihe aneinander: DAVID FR. STRAUSS, BRUNO
+BAUER, E. RENAN, ADOLF HARNACK, FR. SPITTA, W. BRANDT, ERICH HAUPT,
+FRIEDRICH SCHULTZEN, RICH. AD. HOFFMANN und ALBERT EICHHORN. In dieser
+Reihe haben wir keine natürliche Kontinuität, wie in der vorher
+betrachteten. Bei näherem Zusehen ergeben sich zwei Epochen. Die erste
+fällt in die Mitte des Jahrhunderts (FR. STRAUSS, BRUNO BAUER, E.
+RENAN). Die zweite beginnt am Anfang der neunziger Jahre (HARNACK und
+SPITTA) und kommt noch vor Ablauf des Jahrzehnts zu ihrem naturgemässen
+Abschluss (A. EICHHORN).
+
+STRAUSS, BRUNO BAUER, E. RENAN, W. BRANDT, SPITTA und EICHHORN bieten
+~Auffassungen mit einseitiger Herausarbeitung des Genussmoments.~ ADOLF
+HARNACK, ERICH HAUPT, FRIEDRICH SCHULTZEN und R. A. HOFFMANN vertreten
+die ~doppelseitigen Darstellungen~ mit Zugrundelegung des Genussmoments
+und abgeleiteter Geltendmachung des Darstellungsmoments.
+
+
+
+
+Fünftes Kapitel.
+
+=Die Auffassungen mit einseitiger Herausarbeitung des Genussmoments.=
+
+
+=1. Die Vorperiode. Fr. Strauss, Bruno Bauer, E. Renan.=
+
+Für die Auffassungen mit einseitiger Herausarbeitung des Genussmoments
+gibt es zwei Perioden. Die erste liegt gegen die Mitte des 19.
+Jahrhunderts zu, die zweite gegen das Ende. FRIEDRICH STRAUSS
+bezeichnet die erste, FRIEDRICH SPITTA die zweite.
+
+STRAUSS[7] führt aus, dass die Uebersetzung »dies bedeutet«, wenn
+sie sich auf das, was Jesus mit den Elementen thut, beziehen soll,
+bei weitem nicht ausreicht, ja gar nicht im Sinne der Verfasser der
+Evangelien gelegen haben kann. »Den Schreibern unserer Evangelien ~war~
+das Brot im Abendmahl der Leib Christi ... hätte man geschlossen,
+dass das Brot den Leib bloss ~bedeute~, so würden sie sich dadurch
+nicht befriedigt haben« (S. 436 ff.). Es ist kritisch nicht zulässig,
+dass Jesus seinen gewaltsamen Tod mit Bestimmtheit vor sich gesehen
+habe. Daher kann sich für ihn die Symbolik bei der letzten Mahlzeit
+mit den Jüngern gar nicht auf seinen Tod beziehen. Ebenso ist der
+Wiederholungsbefehl für unhistorisch zu halten; dafür spricht das
+Schweigen der beiden ersten Evangelien und die Erwägung, dass
+überhaupt eine Gedächtnisfeier natürlicher aus dem Bedürfnis der
+Zurückbleibenden, als aus dem Plan des Scheidenden hervorgeht. Ein
+Passahmahl war diese letzte Mahlzeit mit den Jüngern auch nicht.
+Das eigentlich Historische an der ganzen Ueberlieferung ist das
+eschatologische Schlusswort beim Becher: ich werde davon nicht mehr
+trinken, bis ich ihn neu trinken werde mit euch in meines Vaters Reich.
+In Jesu Gedanken bezieht es sich auf den nächsten Passahwein, nicht
+allgemein auf das Essen und Trinken. Von Mahlzeiten im messianischen
+Reich sprach er, gemäss den Vorstellungen seiner Zeit, öfters, und so
+mag er erwartet haben, das in demselben namentlich das Passahmahl mit
+besonderer Feierlichkeit werde begangen werden. Wenn er nun versichert,
+dieses Mahl nicht mehr in ~diesem~, sondern erst in ~jenem~ Aeon zu
+geniessen, so muss, nach seiner Erwartung, bis zur Feier des Passah
+das messianische Reich eintreten. Es ist dabei nicht nötig, dass Jesus
+das Erscheinen des Reiches an seinen Tod geknüpft dachte. Die ganze
+urchristliche Abendmahlsauffassung erklärt sich daraus, dass statt des
+messianischen Reiches und seiner Passahfeier -- ~der Tod Jesu eintrat.~
+
+Die Gemeinde feierte das Passah. Es war natürlich, dass sich der
+Versuch darbieten musste, demselben durch die Beziehung auf den Tod
+und das letzte Mahl Jesu (welches kein Passahmahl gewesen) eine
+~christliche~ Deutung zu geben. So erklärt sich das Eindringen des
+Leidensgedankens und der Leidensweissagung in die historischen
+Abendmahlsberichte. Die Elemente erhielten eine Beziehung auf den
+Leib und auf das Blut Christi; dabei wurde das Wort Jesu, den Genuss
+des Passahweines betreffend, allgemein auf das Essen und das Trinken
+bezogen und mit Brot und Wein als seinem Leib und Blut in Verbindung
+gebracht. So entstand die Vorstellung von dem Wiederholungsbefehl.
+Die Neigung, das Gedächtnismahl vom Passah loszulösen und öfters zu
+begehen, erklärt das Aufkommen eines derartigen Wortes.
+
+Diese geniale Auffassung von FR. STRAUSS enthält bereits alle
+Faktoren, welche die späteren, das Genussmoment einseitig betonenden
+Abendmahlsdarstellungen kennzeichnen. Vor allem kommen hier in
+Betracht die Loslösung der historischen Feier vom Passahmahl, das
+Ausscheiden der Leidensanspielungen aus den Worten Jesu, die Erklärung
+der Wiederholung der Feier ohne Annahme des Wiederholungsbefehles
+und die Notwendigkeit, alle als unhistorisch erkannten Züge in
+den neutestamentlichen Abendmahlsdarstellungen (Anschluss an das
+Passahfest, Beziehung auf den Tod Christi und Wiederholungsbefehl) aus
+der Entwicklung der urchristlichen Feier in einem Zeitraum von nicht
+einmal zwei Jahrzehnten zu erklären.
+
+Will man diese Rückbildung nicht durch eine gewagte
+Geschichtskonstruktion erweisen, so bleibt nur wissenschaftliche
+Skepsis in irgend einer Form übrig. Diesen Weg hat BRUNO BAUER[8]
+betreten. Er setzt voraus, dass die Berichte besagen wollen: ~der
+Herr reichte seinen Jüngern seinen Leib und sein Blut zum Genuss
+dar.~ Der Wiederholungsbefehl ist eine Zuthat aus späterer Zeit mit
+abschwächender Tendenz. Man fühlte, dass man für die historische
+Feier den Genuss so nicht aufrecht erhalten könne. Darum hob man
+die Beziehung auf die Zukunft, die der Formel an sich zu Grunde
+liegt, hervor. Jesus kann seinen Jüngern nicht sein Fleisch und Blut
+dargereicht haben,[9] damit sie es assen; also ist der Bericht des
+Markus Phantasie, und alle andern Berichte sind Nachbildungen dieser
+Erfindung.
+
+Wie sehr gerade die Vollziehung des Genusses Voraussetzung der
+BAUER'schen Auffassung ist, zeigt sich darin, dass er dem Matthäus
+vorwirft, er habe das bei Markus konstatierte Faktum des Trinkens von
+seiten der Jünger eigenmächtig in einen Befehl Jesu umgesetzt, was
+schon eine Milderung bedeute. Das eschatologische Schlusswort lässt
+er unbeachtet und schneidet sich so den Weg ab, der STRAUSS aus den
+Schwierigkeiten, welche die einseitige Betonung des Genussmomentes nach
+sich zieht, herausführte.
+
+Nach E. RENAN[10] hat Jesus am letzten Abend die gewöhnliche gemeinsame
+Mahlzeit mit dem Brotbrechen im Kreise seiner Jünger gefeiert. »Dans
+ce repas, ainsi que dans beaucoup d'autres, Jésus pratique son rite
+mystérieux de la fraction du pain.« Das eschatologische Schlusswort
+ist für RENAN zweifelhaft und ohne Bedeutung. Die synoptischen
+Abendmahlsberichte erklären sich nur aus der Entwicklung der späteren
+Anschauungen, für welche das letzte Mahl ein Passahmahl war; dadurch
+drangen der Leidensgedanke, die Beziehung der Elemente auf den Leib
+Jesu und die Anordnung der Wiederholung in die Darstellung des letzten
+Mahles ein.
+
+
+=2. Die modernen Versuche. W. Brandt, Fr. Spitta, A. Eichhorn.=
+
+    Vergleiche zum Folgenden den verhängnisvollen Vortrag von E. GRAFE
+    (Die neuesten Forschungen über die ursprüngliche Abendmahlsfeier.
+    Zeitschrift für Theologie und Kirche 1895) und die klare
+    Zusammenfassung von RUD. SCHÄFER (Das Herrenmahl nach Ursprung und
+    Bedeutung 1897).
+
+Erst das letzte Jahrzehnt des 19. Jahrhunderts bietet eine Abhandlung,
+in der die bei STRAUSS, BAUER und RENAN angedeuteten Gedanken
+sich in voller Schärfe und Konsequenz zu einem einheitlichen Bilde
+entwickeln. Es ist die epochemachende Arbeit SPITTA's. Die Werke von
+AD. HARNACK und W. BRANDT gehen ihr zeitlich in der Hervorhebung des
+ausschliesslichen Mahlzeitscharakters der historischen Feier voraus.
+Da jedoch HARNACK schon mehr zu den doppelseitigen Darstellungen
+mit Zugrundelegung des Genussmoments überleitet, ist es rätlich,
+ihn erst dort zu behandeln. Zudem hat er in der 3. Auflage seiner
+Dogmengeschichte (Bd. I S. 64) zu dem Lösungsversuch SPITTA's Stellung
+genommen und seine eigene Ansicht daraufhin neu formuliert.
+
+
+=3. W. Brandt.=
+
+    Die evangelische Geschichte und der Ursprung des Christentums.
+    Leipzig 1893 S. 283 ff.
+
+Die Hauptbedeutung der historischen Feier liegt in dem
+~gemeinschaftlichen Genuss.~ Durch das Gleichnis beim Abendmahl hat
+Jesus die gemeinsamen Mahlzeiten zum ~Symbol der Gemeinschaft~ gemacht.
+In der Bedeutung dieses Symbols ist der Grund der Wiederholung zu
+sehen. Eine Anspielung auf den Tod ist, wenn sie sich in dem Wort,
+welches das Brotbrechen begleitete, findet, für das Wesen der Feier
+bedeutungslos.
+
+Die Aufnahme des Leidensgedankens und die Eintragung des
+Wiederholungsbefehls in unsere Berichte gehen auf eine Verschiebung
+in der urchristlichen Feier zurück. Diese ist dadurch bedingt, dass
+nach dem Jahre 70 wegen des Fehlens des Lammes Brot und Becher
+die vornehmsten Ingredienzen des jüdischen Passahmahls bildeten;
+dadurch wurde eine Gleichgestaltung desselben mit der urchristlichen
+Herrenmahlsfeier angebahnt. So erklärt es sich, dass die letztere durch
+das erstere im äusserlichen Verlauf und im Gedankengehalt beeinflusst
+wurde.
+
+In dieser ansprechenden Skizze finden wir die schon bei STRAUSS
+bemerkten Eigentümlichkeiten der das Genussmoment ausschliesslich
+betonenden Auffassungen wieder. Der Wiederholungsbefehl fehlt, und
+es kommt darauf an, den Leidenshinweis in unseren Berichten auf die
+Einwirkung späterer Gemeindevorstellungen zurückzuführen. Ob der von
+dem Verfasser angezeigte Weg wirklich zum Ziele führt, ist fraglich.
+Sicher ist, dass er eine grosse Schwierigkeit nicht berücksichtigt hat.
+Wie konnten die Jünger die Worte des Meisters in dem oben gebotenen
+Sinn verstehen? Wie konnten sie überhaupt begreifen, dass er bei der
+Darreichung von Brot und Wein sie aufforderte, seinen Leib und sein
+Blut zu geniessen?
+
+Es ist das unschätzbare Verdienst SPITTA's, diese Frage in den
+Vordergrund geschoben zu haben.
+
+
+=4. Fr. Spitta.=
+
+    Die urchristlichen Traditionen über Ursprung und Sinn des
+    Abendmahls (zur Geschichte und Litteratur des Urchristentums). 1893
+    S. 207 bis 337.
+
+Der Sinn der Worte Jesu liegt einzig und allein in der Aufforderung zum
+Genuss. Das Genossene ist nach seinen Worten sein Leib und sein Blut,
+gerade ~dadurch, dass es genossen wird~! Das Brechen und Ausgiessen als
+die darstellende Handlung, welche den Elementen eine veranschaulichende
+Beziehung auf seinen Tod geben soll, lag seinen Gedanken fern. Die
+historische Feier war eine ~Mahlzeit~, bei welcher nach dem gemeinsamen
+Inhalt aller Berichte die Jünger auf seine Aufforderung hin die
+dargereichte Speise als seinen Leib essen und den eingegossenen Wein
+als sein Blut trinken sollten und dies auch thaten.
+
+STRAUSS und BRUNO BAUER hatten denselben Thatbestand als von den
+Quellen geboten konstatiert, wurden aber von hier aus gezwungen, die
+historische Thatsächlichkeit des geschilderten Vorganges in Frage zu
+stellen und das Zustandekommen der Berichte sei es aus der Geschichte
+des Urchristentums (STRAUSS), sei es aus der Geschichte der Entstehung
+der christlichen Ueberlieferung überhaupt (BRUNO BAUER) zu erklären.
+Dass die Jünger auf die Aufforderung Jesu hin damals seinen Leib und
+sein Blut genossen haben sollen, ist für sie eine unvollziehbare
+Vorstellung.
+
+SPITTA kann den Vorgang als historisch aufrecht erhalten durch
+Zuhülfenahme ~eschatologischer Gedankengänge.~ Anknüpfend
+an die Vorstellung des messianischen Bundes, hat Jesus, wie
+die übereinstimmenden Züge aller Berichte zeigen, bei den
+»Einsetzungsworten« an das Essen und Trinken beim messianischen
+Mahl gedacht. In der prophetischen und in der apokalyptischen, in
+der Sapientia- und in der rabbinischen Litteratur stellt sich die
+Vollendung des Reiches in dem messianischen Mahl dar, ~wobei die
+genossene Speise der Messias selbst ist~! Auf Grund dieser Vorstellung
+konnte Jesus voraussetzen, dass die Jünger ihn verstehen würden, wenn
+er sie aufforderte, beim Essen ihn selbst zu geniessen. Was er ihnen
+bietet, ist eine Vorwegnahme des grossen messianischen Mahles der
+Endzeit. In diesem Gedanken konnten sie den Leib des Messias essen und
+ihn in seinem Blut, dem Saft der Trauben, trinken.
+
+Das letzte Mahl war kein Passahmahl, der Leidensgedanke kam für die
+Symbolik der Elemente nicht in Betracht, und der Wiederholungsbefehl
+ist unhistorisch. Diese Anschauungen sind späterer Art und nur dadurch
+verständlich, dass infolge des inzwischen eingetretenen Todes Jesu
+die Auffassung seiner Worte bei der letzten Mahlzeit sich notwendig
+ändern musste. Die Feier wurde in Analogie zu dem Passahmahl gesetzt,
+weil jetzt die Deutung der Worte vom Leib und Blut auf seine Leiden
+unabweislich war. Damit drang die Vorstellung einer Stiftung notwendig
+mit ein.
+
+Bei Paulus halten sich die ursprüngliche und die auf das Leiden
+bezogene Auffassung noch das Gleichgewicht. I Kor 10 _1_ ff. und I
+Kor 10 _14_ ff. kennen den Leidensgedanken noch nicht und betonen das
+Genussmoment. I Kor 11 _23_ ff. tritt das neue Moment in Sicht, welches
+Paulus bei der Bekämpfung der korinthischen Agapenskandale in die Feier
+einträgt: ~die Feier hat es mit dem Tode Jesu zu thun.~
+
+Das Neue ist also bei SPITTA die Heranziehung eigentümlich
+eschatologischer Gedankengänge, durch welche er eine Feier als
+historisch aufrecht erhält, bei der der Meister den zu Tische Liegenden
+Brot und Wein reichte mit der Aufforderung, seinen Leib zu essen und
+sein Blut zu trinken. In dem Wesen dieser Feier lag es begründet, dass
+sie ohne ausgesprochenen Wiederholungsbefehl Aufnahme in der ersten
+Gemeinde fand. Von hier aus scheint es dann nicht unmöglich, in der nun
+folgenden Entwicklung das Eintreten der Faktoren begreiflich zu machen,
+welche die neuen Züge in der Auffassung und Wertung der Feier bedingten.
+
+
+=5. Kritik der Auffassung Spitta's.=
+
+Die grosse Bedeutung der Untersuchung SPITTA's beruht darin, dass er
+die Abendmahlsfrage nach einem einheitlichen Gesichtspunkt aufgefasst
+und zu lösen unternommen hat. Alle Einzelfragen stehen bei ihm in
+einer gegenseitigen, engen Wechselverbindung. Seine Abhandlung bildet
+eine geschlossene Kette, bei der jedes Glied nur im Zusammenhang mit
+den andern in Betracht kommt. Darin besteht der grosse Fortschritt in
+seiner Untersuchung den früheren gegenüber. Die textkritischen und die
+exegetischen Erörterungen sind bei ihm sowohl ~Grundlage~ als auch
+~Folge~ der Gesamtauffassung.
+
+Man hat seine Auffassung eine ~eschatologische~ genannt, weil er, wie
+FR. STRAUSS, den Gedanken der Mahlzeit im messianischen Reich zu Hülfe
+nimmt, um die historische Feier verständlich zu machen. STRAUSS ging
+dabei vom synoptisch-eschatologischen Schlusswort aus, in welchem
+Jesus die Jünger auf das grosse Mahl der Endzeit verweist, wo er
+wieder mit ihnen vereint sein wird. Der eschatologische Charakter
+der SPITTA'schen Auffassung aber beruht nicht auf dem synoptischen
+Wort, ~sondern auf einer eschatologischen Vorstellung vom Endmahl,
+welche aus den Apokryphen und der Weisheitslitteratur zusammengetragen
+ist.~ Dabei ergeben sich eine Reihe schwerer Widersprüche mit dem
+synoptisch-eschatologischen Schlusswort.
+
+Nach ~Spitta~ bietet sich der Messias beim Mahle der Endzeit den Seinen
+zur Speise und zum Trank an. Nach den Synoptikern weist Jesus auf das
+Endmahl hin, wo er mit ihnen vom Gewächs des Weinstocks geniesst.
+Bei SPITTA will er also ~Speise und Trank~, bei den Synoptikern
+~mitgeniessender Tischgenosse sein~!
+
+Bei SPITTA wird der eschatologische Hinweis sowohl ~für die Speise als
+für den Trank vorausgesetzt.~ Historisch ist aber das eschatologische
+Schlusswort ~nur beim Becher~!
+
+SPITTA's Eschatologie bezieht sich auf die ~Aufforderung zum Genuss~
+des Leibes und Blutes. Das synoptisch-eschatologische Wort steht damit
+in keinem Zusammenhang, ~sondern folgt erst auf den Genuss.~
+
+SPITTA's Auffassung ist also ganz unabhängig vom
+synoptisch-eschatologischen Schlusswort. Es figuriert auch nicht in
+seiner kürzesten Form der Einsetzungsworte, sondern diese lauten
+einfach:
+
+»Nehmet, esset, das ist mein Leib.«
+
+»Trinket alle daraus. Das ist das Blut meines Bundes, das für viele
+vergossen wird.«
+
+Diese Worte konstituieren die Feier, denn »in der Gemeinde wurde immer
+daran gedacht, wie er damals darauf hingewiesen, ~er sei jetzt und in
+alle Ewigkeit~ die rechte Speise und Erquickung ihrer Seele« (S. 289).
+So wird das synoptisch-eschatologische Schlusswort zum ~wehmütigen
+Abschiedswort~, welches von dem Jubelklang der eschatologisch
+siegesgewissen Stimmung zum Todesgang überleitet.
+
+~Christus die rechte Seelenspeise:~ dieser Gedanke ist modern.
+Die Eschatologie SPITTA's zielt dahin, diesen Gedanken durch eine
+Zusammenstellung von alttestamentlichen und apokryphischen Sprüchen in
+künstlich-antikem Licht spielen zu lassen, damit er die Aufforderung
+Jesu zum Genuss seines Leibes und Blutes für die historische Situation
+erkläre. Verzichtet man auf dieses künstliche Licht, dann bleibt nur
+das skeptische Dunkel. Das ist bei EICHHORN der Fall.
+
+
+=6. A. Eichhorn.=
+
+    Das Abendmahl im Neuen Testament. Hefte zur christlichen Welt No.
+    36. 1898.
+
+»Wenn wir unseren Berichten trauen dürfen«, hat Jesus das erste
+Abendmahl mit seinen Jüngern so gehalten, dass er ihnen Brot und Wein
+ausgeteilt und sie seinen Leib und sein Blut gegessen und getrunken
+haben. Aller Nachdruck fällt auf den Genuss. Eine auf Jesu Handeln sich
+gründende Symbolik kann bei der Betonung des Genusses nicht bestehen.
+~Man darf nicht sagen, dass das Brechen des Brotes auf das Zerbrechen
+des Leibes und das Trinken des Weins auf das Vergiessen des Bluts~
+hindeutet. Die Handlung, die in Wirklichkeit vorgenommen wird, ist
+einfach das Essen und Trinken.
+
+Ist dies nun der durch die Quellen gebotene Sachverhalt, so gibt es
+vorläufig keine Möglichkeit, die historische Feier und das Aufkommen
+ihrer Wiederholung zu verstehen. Was auch Jesus gesagt und gethan haben
+mag an jenem Abend, ~das Kultmahl der Gemeinde mit dem sakramentalen
+Essen und Trinken des Leibes und Blutes Christi~, wie es in der
+ältesten Christenheit ziemlich von Anfang an sich ausgebildet hat,
+~ist von da aus nicht zu verstehen.~ So wird EICHHORN, weil er bei
+der eingestandenen Bedeutung des Genussmomentes von der Heranziehung
+eschatologischer oder moderner Anschauungen absieht, notwendig zur
+Skepsis gedrängt.
+
+Sie besteht in dem ausgesprochenen Verzicht, auf Grund der vorhandenen
+Berichte die historische und die wiederholte Feier in ihrem
+Zusammenhang zu begreifen, wenn nicht eine neue, von unseren Berichten
+unabhängige Thatsache ein Datum liefert, welches den Ausgangspunkt
+der uns unverständlichen Entwicklung kenntlich macht. -- Gelingt es
+nicht, in der gnostischen Gedankenwelt ein ~sakramentales Essen~,
+welches das Vorbild des Abendmahls abgeben könnte, nachzuweisen,
+sodass für die älteste Christenheit nicht das supranaturale Essen
+und Trinken als solches, sondern nur die Ersetzung einer andern
+übernatürlichen Substanz durch Christi Leib und Blut neu ist, ~dann
+muss auf ein Verständnis der historischen Feier und ihrer Entwicklung
+zur Gemeindefeier endgültig verzichtet werden.~
+
+
+=7. Die neue »Thatsache«.=
+
+Um dem Skeptizismus zu entgehen, postuliert EICHHORN eine neue, über
+den Bestand unserer Quellen hinausgehende Thatsache. Seine Vorgänger,
+die mit ihm die ausschliessliche Betonung des Genusses gemein haben,
+ersetzen dieses Postulat durch eine ~angenommene~ Thatsache.
+
+D. FR. STRAUSS erklärt das Aufkommen der Abendmahlsfeier im
+Urchristentum, und damit die Entstehung unserer Berichte, durch das
+Missverständnis eines von Jesu bei dem letzten Mahl gesprochenen
+eschatologischen Wortes von seiten der Jünger.
+
+BRUNO BAUER verlegt die ganze Entwicklung, da er sie anders nicht
+erklären kann, in die Phantasie des Urevangelisten. RENAN behilft
+sich mit der Annahme eines schon früher von Jesu geübten, den Jüngern
+bekannten geheimnisvollen Ritus des Brotbrechens. SPITTA bringt
+eine eigenartige, im Grunde moderne eschatologische Vorstellung
+an die synoptischen Berichte heran, welche mit dem dort gebotenen
+eschatologischen Schlusswort in gar keiner Beziehung steht.
+
+W. BRANDT überträgt moderne Anschauungsweisen in die Gedankenwelt Jesu
+und seiner Jünger, ohne diese Uebertragung aus den Berichten begründen
+zu können.
+
+So bildet die Untersuchung EICHHORN's den natürlichen Schlusspunkt der
+scheinbar so zusammenhangslosen Reihe der Auffassungen mit einseitiger
+Herausarbeitung des Genussmoments. Durch die dialektische Behandlung
+des Problems entzieht er jeder künftigen Darstellung von vornherein
+die Berechtigung, wenn sie nicht eine neue geschichtliche Thatsache
+aufbringen kann, die erklärt, wie die Anschauung aufkam, dass Jesus den
+Jüngern zumutete, seinen Leib und sein Blut zu essen und zu trinken.
+
+
+=8. Die Skepsis in der Folge der einseitigen Herausarbeitung des
+Genussmoments.=
+
+EICHHORN's ~Postulat~ trägt auch nicht weiter als die behaupteten
+Thatsachen seiner Vorgänger. Er verlangt, dass die Vorstellung
+des supranaturalen Essens und Trinkens in einer schon vorhandenen
+religiösen Gedankenwelt nachgewiesen werde. Die nähere Kenntnis des
+»Gnostizismus« könnte nach seiner Ansicht dazu führen.
+
+Zugegeben, dass ein solches supranaturales Essen und Trinken schon
+existiert hätte, so müsste dargethan werden, wie man im Urchristentum
+dazu kam, diesen Gedanken ins Abendmahl ~herüberzunehmen.~ Inwiefern
+gab die historische Feier Ansatzpunkte dazu? Die von EICHHORN
+vorgeschlagene Operation hängt ganz in der Luft, denn unsere Berichte
+stehen einem solchen Beginnen vollständig fremd und ablehnend gegenüber.
+
+Nun wäre die Umsetzung seines Postulats in eine dementsprechende
+historische Thatsache der einzige Ausweg aus der Skepsis. Gleich beim
+ersten Schritt zeigt sich aber, dass er völlig aussichtslos ist. Also
+muss eine Darstellung, welche von der Voraussetzung ausgeht, Jesus
+habe die Seinen bei Brot und Wein zum Genuss seines Leibes und Blutes
+aufgefordert, ~von vornherein, unter allen Umständen auf die Lösung des
+Problems verzichten! Die konsequente Herausarbeitung des Genussmoments
+führt notwendig zur Skepsis: das ist der Ertrag dieser Darstellungen.~
+
+
+=9. Der logische Grund der Skepsis.=
+
+Wenn in der wissenschaftlichen Behandlung einer Frage die Skepsis sich
+einstellt, so liegt dies immer daran, dass ~sich in den Voraussetzungen
+eine unbegründete Behauptung versteckt hat~, welche von da aus das
+menschliche Denken neckt und in die Irre führt. Die Wissenschaft an
+sich kann nie zur Skepsis führen. Mit der Aufdeckung der ~unerwiesenen
+Voraussetzungsbehauptung~ ist die Skepsis gehoben.
+
+Worin besteht diese nun in den obigen Abhandlungen? Der Fehler kann
+nicht in der ausschliesslichen Geltendmachung des Genussmoments
+beruhen. Dass das Abendmahl von der urchristlichen Gemeinde als
+~Mahlzeit~ übernommen und gefeiert wurde, dass die Handlung, welche
+die urchristliche mit der historischen Feier verbindet, nicht in dem
+symbolischen ~Handeln des »Stifters«~, sondern in der ~Handlung der
+Teilnehmer~, dem Essen und Trinken besteht: diese Thatsachen werden
+durch die Quellen geboten und durch das Urchristentum bestätigt.
+
+Nicht in der ~Thatsache~, sondern in der ~Art~ der Wertung des
+Genussmoments ist der Fehler zu suchen. Sämtliche obige Darstellungen
+formulieren sie dahin, dass Jesus die Jünger bei der Darreichung von
+Brot und Wein ~aufgefordert~ habe, seinen Leib zu essen und sein
+Blut zu trinken. ~Die Skepsis beruht also in der Verbindung des
+Mahlzeitcharakters der Feier mit den Gleichnisworten~, denn damit ist
+eine Aussage gegeben, in der Subjekt und Objekt identisch sind: der
+Darbietende ist zugleich der Genossene. Hier hört das Denken auf. ~Das
+üppige Schlinggewächs historischer und exegetischer Einfälle ist keine
+Brücke über den Abgrund des Selbstwiderspruchs!~
+
+Statt also von der Konstatierung auszugehen, dass Jesus den Seinen
+seinen Leib und sein Blut zum Genuss dargereicht habe, muss man damit
+beginnen, diese Voraussetzung selbst zu prüfen. Ist es wirklich eine
+aus der urchristlichen Feier und aus den Berichten unumstösslich
+feststehende Thatsache, dass Jesus ihnen dies in irgend einer Form
+zugemutet hat? Wenn ja, dann ist die Lösung der Abendmahlsfrage
+unmöglich, da wir dabei das »wie« aus unseren Texten nie erklären
+können und jede freie Deutung bei unseren Berichten ohne Rückhalt
+bleibt.
+
+
+Fussnoten:
+
+[7] DAVID FR. STRAUSS, Das Leben Jesu. 1. Ausgabe, Tübingen 1836. Bd.
+I, S. 396-442: Das Abendmahl.
+
+[8] BRUNO BAUER, Kritik der evangelischen Geschichte, 1842. Kritik der
+Evangelien, 1850, Bd. III S. 191-213.
+
+[9] Kritik der evangelischen Geschichte, Bd. III S. 241: »Ein Mensch,
+der leiblich und individuell dasitzt, kann nicht auf den Gedanken
+kommen andern seinen Leib und sein Blut zum Genuss anzubieten.«
+
+[10] E. RENAN, La vie de Jésus 1863, S. 385 ff.
+
+
+
+
+Sechstes Kapitel.
+
+=Die doppelseitigen Auffassungen mit Zugrundelegung des Genussmoments
+und abgeleiteter Geltendmachung des Darstellungsmoments.=
+
+AD. HARNACK, ERICH HAUPT, FR. SCHULTZEN, R. A. HOFFMANN.
+
+
+=1. Allgemeines.=
+
+Diese doppelseitige Reihe steht unter dem Einfluss der Auffassungen mit
+einseitiger Herausarbeitung des Genussmoments. Während die Richtung,
+die durch die Namen RÜCKERT, LOBSTEIN und HOLTZMANN gekennzeichnet
+wird, von dem Handeln Jesu ausgehend den Genuss der Teilnehmer zu
+erklären versuchte, verfahren die neuen doppelseitigen Auffassungen
+umgekehrt. Sie stellen den Genuss in den Vordergrund und suchen dieses
+Moment nun so zu formulieren und so zur Geltung zu bringen, dass auch
+das auf den Tod hinweisende Handeln Jesu damit in irgend einer Weise
+vereinbar ist und daraus seine Erklärung empfangt. Das Schwergewicht
+hat sich also von der einen auf die andere Seite verschoben.
+
+In letzter Linie sind es exegetische Bedenken, welche die betreffenden
+Verfasser dazu führen, auch dem Leidensgedanken und dem Handeln Jesu
+Rechnung zu tragen. »~Die Worte sind mir zu mächtig~«, sagt HARNACK bei
+der Würdigung der Auffassung SPITTA's, deren Grundgedanke ihm zusagt,
+während die Exegese ihn nicht befriedigt. Es ist das Motto auch der
+übrigen doppelseitigen Darstellungen.
+
+
+=2. Ad. Harnack.=
+
+    Brot und Wasser: die eucharistischen Elemente bei JUSTIN (Texte
+    und Untersuchungen Bd. VII S. 117 ff. 1891). Theologische
+    Litteraturzeitung 1892 S. 373-378. Dogmengeschichte (3. Aufl.) Bd.
+    I S. 64.
+
+Durch eine Untersuchung, ob Wasser oder ob Wein das eucharistische
+Genusselement in der alten Kirche waren, kam HARNACK im Jahre 1891
+dazu, in entschiedener Weise zu betonen, dass in jener älteren Zeit
+die Symbolik sich nicht auf das Wesen der Elemente habe beziehen
+können, sondern dass die ganze Bedeutung der historischen und der
+urchristlichen Feier ~auf der Mahlzeit als solcher~ beruht habe.
+
+Das Abendmahl muss eine wirkliche Mahlzeit gewesen sein; die in Frage
+kommende Handlung ist das Essen und Trinken. Jesu Worte beziehen sich
+auf den Genuss. »Die wichtigste Funktion des natürlichen Lebens hat
+der Herr geheiligt, indem er die Nahrung als seinen Leib und sein
+Blut bezeichnet hat. So hat er sich für die Seinen ~auf immer~ mitten
+hineingestellt in ihr natürliches Leben und sie angewiesen, die
+Erhaltung und das Wachstum dieses natürlichen Lebens zur Kraft des
+Wachstums des geistigen Lebens zu machen.«
+
+Mit diesem Moment sucht nun HARNACK noch ein anderes in Beziehung zu
+setzen und dadurch diese allgemeine religiöse Wertung des Genusses
+zu spezifizieren. »Der Herr hat ein Gedächtnismahl seines Todes
+eingesetzt, ~oder vielmehr~, er hat die leibliche Nahrung als sein
+Fleisch und sein Blut, d. h. als die Nahrung der Seele, bezeichnet
+(durch die Sündenvergebung), ~wenn~ sie mit Danksagung in Erinnerung
+seines Todes genossen wird.«
+
+Dieser Satz ist für HARNACK's Auffassung entscheidend. »Oder vielmehr«,
+»d. h.« und »wenn« sind die Rangiergeleise, auf denen man von dem
+allgemeinen, wunderbar tiefen Gedanken herkommend, »dass der Herr die
+wichtigste Funktion des natürlichen Lebens geheiligt habe«, umsetzt,
+um die Einfahrt zur historischen Feier, mit dem dort ausgedrückten
+Leidensgedanken, zu gewinnen. Der allgemeine Mahlzeitcharakter seiner
+Auffassung wird also näher bestimmt durch folgende Sätze:
+
+    1. Es handelt sich um eine Stiftung.
+
+    2. Der Wiederholungsbefehl ist irgendwie in der historischen
+    Situation enthalten.
+
+    3. Die Feier hat eine Beziehung auf den Tod des Stifters.
+
+
+=3. Erich Haupt.=
+
+    Ueber die ursprüngliche Form und Bedeutung der Abendmahlsworte.
+    Halle, Universitätsprogramm 1894.
+
+Indem Jesus die zu Tische liegenden Jünger bei der Darreichung
+des Brotes und des Weines auffordert, seinen Leib und sein Blut
+zu geniessen, will er sagen: »Meine Person ist Träger der Kräfte
+eines höheren Lebens, welches so angeeignet werden und so zu einem
+Bestandteil eurer Personen werden will, wie dies bei der irdischen
+Nahrung der Fall ist. Dies gilt aber ~ganz besonders~ von meinem
+bevorstehenden Tode; gerade die Dahingabe meiner ~Persönlichkeit~ wird
+euch die in ihr beschlossenen Lebens- und Heilskräfte in vollstem Masse
+erschliessen und zu gute kommen lassen.« Dieser Grundgedanke deckt sich
+vollständig mit dem SPITTA's. Während aber letzterer ihm im Munde Jesu
+eine eschatologische Wendung gab, überträgt HAUPT diesen durch den
+Ausdruck »Persönlichkeit« als modern gekennzeichneten Gedankengang auf
+die historische Feier durch Zuhülfenahme des Leidensgedankens.
+
+Die Eschatologie tritt dabei ganz zurück. Jesus hatte bei dem letzten
+Mahle auch von dem grossen Mahl der Vollendung gesprochen. Indem nun
+das ganze Mahl nachgebildet wurde, fanden auch diese eschatologischen
+Gedanken ihre Stelle. So ist bei HAUPT das eschatologische Moment
+nicht zur Erklärung der Wiederholung benutzt, sondern erst aus der
+Wiederholung selbst verständlich.
+
+Durch die nebenhergehende Geltendmachung des Todesgedankens für die
+Erklärung der Feier ist die Beibehaltung des Wiederholungsbefehls
+gegeben. In der Nacht des Verrats hat der Herr das ganze Mahl unter den
+Gesichtspunkt eines Abschiedsmahls gestellt. Er will sein ~Gedächtnis
+für die Zeit der Trennung~ wachhalten. »Somit ist nicht nur kein
+Gegengrund dagegen, dass Jesus die Wiederholung der Handlung seinen
+Jüngern anbefohlen hat, sondern ein dahin zielendes Wort ist sogar
+aus inneren Gründen ~höchst wahrscheinlich.~« Diese vorsichtige und
+zurückhaltende Begründung der Beibehaltung des Wiederholungsbefehls
+gibt den genauen Gradmesser ab für die Beeinflussung des zu Grunde
+gelegten Genussmoments durch das Darstellungsmoment und den
+Leidensgedanken.
+
+Mit derselben Vorsicht äussert HAUPT sich auch über das Verhältnis
+zwischen dem wiederholten Herrenmahl und der Agape. »Nicht zwei Teile
+sollen diese gemeinsamen Mahlzeiten haben, einen profanen, welcher der
+äusseren Sättigung dient, und einen religiösen, welcher der Erinnerung
+an Christi Tod gewidmet ist, sondern ihre ganze Zusammenkunft soll
+religiösen Charakter tragen, und das Herrenmahl ~im engeren Sinne~ ist
+nur der ~Höhepunkt des Ganzen.~«
+
+
+=4. Fr. Schultzen.=
+
+    Das Abendmahl im Neuen Testament. Göttingen 1895.
+
+In dieser Darstellung ist die Hervorhebung des Leidensgedankens und
+damit die Bedeutung des darstellenden Moments im Handeln Jesu aus der
+Nebenstellung fast bis zur Gleichstellung mit dem Genussmoment gerückt,
+wobei aber letzteres immer noch den Ausgangspunkt bildet. »Es spricht
+nichts dafür, dass etwa Jesus nur auf das Essen Gewicht gelegt habe und
+die Beziehung auf seinen Tod späterer Zusatz sei. Umgekehrt ist es aber
+auch nicht wahrscheinlich, dass Jesus nur eine symbolische Handlung bei
+jenem letzten Mahl vorgenommen hat, und dass die Verbindung mit dem
+Mahle nur durch den äusseren Anlass entstanden ist.« Auch das Brot ist
+nicht blosses Symbol, sondern auf ~Grund des Symbols~ zum wenigsten
+~Repräsentant und Vermittler~ des Leibes Jesu.
+
+Das Genussmoment und das darstellende Moment werden durch den Begriff
+~des Opfermahls~ zusammengehalten. Den Jüngern waren Jesu Gedanken
+aus der religiösen Vorstellungswelt Israels bekannt und fasslich. In
+dem Begriff des Opfermahls war die Wiederholung unmittelbar gegeben
+und ebenso der Empfang der in ihm gespendeten Gabe. So hat, trotz des
+Fehlens des Wiederholungsbefehls, Jesus auch nach dem Bericht des
+Markus an eine Wiederholung gedacht, weil er eine Gabe spendet, die
+auch für ~die fernsten~ Zeiten Wert hat.
+
+Wie bei ERICH HAUPT vermögen die eschatologischen Gedanken auch
+bei FR. SCHULTZEN sich nur anhangsweise Geltung zu verschaffen,
+nachdem die Wiederholung der Feier schon anderweitig feststeht. »Die
+Parousiegedanken bei dieser Feier erklären sich bei der lebhaften
+Sehnsucht der Gemeinde nach der Parousie leicht, da das Abendmahl auch
+nach I Kor 11 _26_ eine Feier ist, die in der Wiederkunft Christi ihr
+Ziel erreicht hat.«
+
+Die Trennung von Mahlzeit und Abendmahl wird bereits für die Urgemeinde
+vorausgesetzt. Paulus prägt schon Vorhandenes schärfer aus. Die später
+erfolgte Abtrennung der »Eucharistie« von dem Mahle erklärt sich viel
+einfacher, wenn sie bereits ein besonderer Teil derselben war, als wenn
+man das ihr besonders Eigentümliche gar nicht erkennen konnte.
+
+
+=5. R. A. Hoffmann.=
+
+    Die Abendmahlsgedanken Jesu Christi. Königsberg 1896.
+
+Bei HOFFMANN tritt das Darstellungsmoment noch stärker hervor als
+bei SCHULTZEN. Es wird geradezu eine zweifache Art von Teilnehmern
+vorausgesetzt. Das darstellende Handeln geht auf die einen, der Genuss
+ist für die andern bestimmt. »~Vergossen~ wurde sein Blut für ~das
+ungläubige Volk~, zu ~trinken~ gab er es den ~Seinen.~«
+
+Mit letzterem will er sagen, dass, da das ~Blut die Seele ist~, seine
+Seele in sie übergehen werde, um ihnen zu ihrer bevorstehenden hohen
+Mission Kraft zu geben, sie zu stärken, damit auch sie, wenn der Fall
+an sie herantritt, imstande seien, ihrerseits ihre Seele als Lösegeld
+für andere dahinzugeben. Nicht seinen Leichnam reicht er ihnen dar,
+sondern seinen lebendigen Leib als den Träger des ihm innewohnenden
+göttlichen Geistes.
+
+»In der urchristlichen Feier kommt, neben dem Essen und Trinken,
+auch dem, was Jesus gethan hat, dem Brechen und Danken -- ~in
+entsprechender Wiederholung~ -- Bedeutung zu.« Dies war der Standpunkt
+von SCHULTZEN. HOFFMANN geht noch weiter. »~Das Wesentliche der ersten
+Mahlzeit war ohne weiteres nicht zu wiederholen~, eben die Handlung des
+Herrn, wie sich in ihr seine überragende Geistesgrösse, seine Kraft und
+Leben ausströmende Gegenwart noch zum letztenmal ihnen dokumentiert
+hatte« (S. 106).
+
+Eine Wiederholung ohne Wiederholungsbefehl ist also ~undenkbar.~ Der
+Wiederholungsbefehl muss sich vor allem auf den Genuss bezogen haben,
+da Jesus zur Erinnerung an ihn ein ~Mahl~ eingesetzt hat. Es lässt sich
+nicht mehr ausmachen, wie sich in der ersten Zeit das Abendmahl des
+näheren zur Gemeindemahlzeit verhalten habe. Für Paulus jedenfalls war
+die feierliche Gemeindemahlzeit mit dem Abendmahl untrennbar verbunden.
+
+Der Eschatologie kommt in der Darstellung HOFFMANN's keine Bedeutung zu.
+
+
+
+
+Siebentes Kapitel.
+
+=Der gesetzmässige Zusammenhang zwischen den Einzelfragen.=
+
+
+=1. Der Wiederholungsbefehl.=
+
+Die historische Feier ist eine Mahlzeit: darin liegt ihre Wiederholung
+von selbst begründet. Wenn Jesus dem Essen und dem Trinken im
+gemeinsamen Kreis der Seinigen eine besondere, irgendwie segensreiche
+Bedeutung verleiht, so ist hiermit ohne weiteres die Wiederholung
+gefordert. Er braucht das nicht in einem Befehl ausgesprochen zu haben.
+
+Dies ist der Standpunkt der das Genussmoment ausschliesslich betonenden
+Darstellungen. Auch die doppelseitigen Auffassungen, welche das
+Genussmoment zu Grunde legen, stimmen damit überein. Wenn die Jünger
+Jesum verstanden haben, mussten sie von selbst diese Feier wiederholen.
+Sofern hingegen das ~Darstellungsmoment~ nebenbei betont wird, ist nun
+aber die Wiederholung gar nicht selbstverständlich. Was Jesus gethan,
+das kann eigentlich nicht wiederholt werden.
+
+So gehen diese doppelseitigen Darstellungen von dem Gedanken aus, dass
+der Wiederholungsbefehl eigentlich überflüssig ist, kommen aber dann
+dazu, ihn doch irgendwie als möglich oder notwendig anzunehmen.
+
+Die Frage bleibt für sie also in der Schwebe. Je stärker der
+Leidensgedanke und das Darstellungsmoment für die historische Feier
+geltend gemacht werden, mit desto grösserer Entschiedenheit wird zur
+Erklärung der eingetretenen Wiederholung eine darauf hinzielende
+Anweisung gefordert.
+
+
+=2. Das Abendmahl und die urchristliche Gemeindemahlzeit.=
+
+In der Gemeindefeier steckt ein Doppeltes. Wiederholt wird eine
+gemeinsame Mahlzeit. Dabei soll aber in irgend welchem Masse ein
+historischer, an sich einzigartiger Moment reproduziert werden.
+In welchem Verhältnis steht das wiederholte »Herrenmahl« zu den
+gemeinsamen religiösen Mahlzeiten des Urchristentums?
+
+Nach den Auffassungen mit einseitiger Herausarbeitung des Genussmoments
+sind beide ~identisch~, denn für sie besteht ja auch die historische
+Feier nur in der Mahlzeit als solcher. Die doppelseitigen Darstellungen
+aber kommen hier in dasselbe Gedränge, wie mit dem Wiederholungsbefehl.
+Auch sie, sofern sie den Mahlzeitcharakter zu Grunde legen, sollten
+eigentlich die Identität proklamieren. Nun betonen sie aber daneben
+auch das Darstellungsmoment. Dann wird aber die Gemeindefeier zur
+Wiederholung einer bestimmten ~historischen Situation~, welche nicht
+mehr durch die ~gemeinsame Mahlzeit als solche reproduziert wird.~ Das
+wiederholte Herrenmahl soll also jetzt von der gemeinsamen religiösen
+Mahlzeit irgendwie ~abheben~, jedoch nur soweit, dass die letzthinige
+Einheit beider festgehalten wird. Die Schwierigkeit wächst mit der
+stärkeren Betonung des Darstellungsmoments. Man erhält folgende
+Stufenleiter:
+
+W. BRANDT: Jesus macht die gemeinsamen Mahlzeiten zum Symbol der
+Gemeinschaft. Als nach seinem Tode der Glaube an ihn neu auflebte,
+wurde natürlich das vom Herrn selbst gegebene Symbol der Gemeinschaft
+besonders gepflegt. Gemeindemahlzeit und »Herrenmahl« sind identisch.
+
+FR. SPITTA: »Es wurde bei Brot und Wein immer daran gedacht, wie
+er damals darauf hingewiesen, dass er jetzt und in alle Ewigkeit
+die rechte Speise und Erquickung ihrer Seele sei.« Die Didache
+repräsentiert die urchristliche Feier. Herrenmahl und Agape
+waren danach identisch. Es ist verfehlt, Didache 9 und 10 als
+Einleitungsgebete zur »eigentlichen Abendmahlsfeier« auffassen zu
+wollen.
+
+AD. HARNACK: Hier beginnt die Differenzierung. Sie ist in dem
+klassischen Satz mit den Rangiergeleisen enthalten. »Der Herr hat
+ein Gedächtnismahl seines Todes eingesetzt, ~oder vielmehr~, er hat
+die leibliche Nahrung als sein Fleisch und sein Blut, d. h. als die
+Nahrung der Seele bezeichnet (durch die Sündenvergebung), ~wenn~ sie
+mit Danksagung in Erinnerung seines Todes genossen wird. So haben
+die Apostel seine Stiftung verstanden.« Eine Feier, bei der alle
+diese näheren Bestimmungen zum Ausdruck kommen sollen, ist aber keine
+einfache gemeinsame Mahlzeit mehr, sondern eine ~Ceremonie.~ »Jesus
+verhiess ihnen, dass er mit der Kraft seiner Sündenvergebung bei jeder
+Mahlzeit sein werde, die sie zu seinem ~Gedächtnis~ halten würden.« Wie
+wurde aber die gemeinsame Mahlzeit als »Gedächtnismahl« gekennzeichnet?
+Durch welche Akte, durch welche Reden? Wie wurde die Situation des
+historischen Mahls reproduziert, wo doch auch das »Abendmahl« nur ein
+besonderer Augenblick im Verlauf der letzten gemeinsamen Mahlzeit
+gewesen war?
+
+ERICH HAUPT: »Die ganze Zusammenkunft soll religiösen Charakter tragen,
+und das Herrenmahl ~in engerem Sinn~ ist nur der ~Höhepunkt des
+Ganzen.~« Weil HAUPT das Darstellungsmoment stärker betont als HARNACK,
+kann er Gemeindemahl und »Abendmahl« nicht irgendwie in einander
+übergehen lassen, sondern er muss das Abendmahl als eine besondere
+Situation auffassen, die den Höhepunkt der ganzen Mahlvereinigung
+repräsentiert. Er kann nicht darum herumkommen, die auf Grund der
+Stiftung »wiederholte Handlung« von der religiösen Mahlzeit sich
+abheben zu lassen und doch wieder die letzthinige Einheit beider
+festzuhalten. So bleibt ihm nur das Verhältnis der Steigerung.
+
+SPITTA und HARNACK bestreiten, dass in Didache 10 _6_ »wenn einer
+heilig ist, trete er herzu« eine besondere Feier beginnt. HAUPT muss
+seine Steigerung auch hier wiederfinden und nimmt an, dass diese Worte
+die eigentliche Abendmahlsfeier einleiten. Das »Herr, komme doch«
+bezieht sich auf die Gegenwart des Herrn im »Sakrament«.
+
+FR. SCHULTZEN: Durch den Begriff des »Opfermahls« hält er die beiden
+auseinanderstrebenden Teile der Feier zusammen. Er kann sie aber nicht
+mehr, wie ERICH HAUPT, in das Verhältnis der Steigerung setzen -- dazu
+ist die Betonung des Darstellungsmoments bei ihm schon viel zu stark
+-- sondern er muss die Trennung konstatieren. »In dem Begriff des
+Opfermahls ist die Wiederholung der Mahlzeit unmittelbar gegeben und
+ebenso der stetige Empfang der gespendeten Gabe« (S. 74). Wiederholt
+wird aber zweitens die Handlung des Veranstalters der Opfermahlzeit,
+als Voraussetzung des Empfangs und des Genusses der Teilnehmer. »Die
+Gabe, die er ihnen zuwandte, sollte den Erfolg haben und hat ihn auch
+wirklich gehabt, ~dass sie wiederholten, was er gethan~, und damit auch
+ferner an dem Segen seines Opfertods Anteil erhielten« (S. 96).
+
+Wie soll man sich aber vorstellen, dass die Jünger beim gemeinsamen
+Mahl »wiederholten, was er gethan?« Das bedeutet nichts anderes, als
+dass das Gemeindemahl und das Abendmahl auf die Trennung angelegt
+waren. In I Kor 11 macht Paulus die schon vor ihm angebahnte Scheidung
+nur stärker geltend. Dass nachher die Eucharistie vom Mahle gänzlich
+losgelöst wurde, »ist nur die geschichtliche Vollendung des schon in
+der Stiftung enthaltenen Prozesses«.
+
+R. A. HOFFMANN: Das Darstellungsmoment tritt so stark hervor, dass
+HOFFMANN auf die Lösung des Problems verzichtet. »Das Wesentliche
+der ersten Abendmahlsfeier war ohne weiteres nicht zu wiederholen,
+~eben die Handlung des Herrn~« (S. 106). Auf den von Jesus selbst
+vorgenommenen Akt kann der Wiederholungsbefehl nicht gehen. Ihn auf
+die Handlung der Teilnehmer, das Essen und Trinken zu beziehen, ist
+zwar grammatikalisch sozusagen unmöglich. Da aber nichts anderes übrig
+bleibt, müssen wir eben annehmen, Jesus habe zum Mittel der Erinnerung
+an ihn »ein Mahl eingesetzt«.
+
+Wie er das verstanden haben wollte, ist nicht klar. Es ist stark mit
+der Möglichkeit zu rechnen, »dass dasjenige, was uns von den Worten
+Jesu bei der Einsetzung seines Mahles überliefert worden ist, nicht
+alles repräsentiert, was er wirklich zur Aufklärung über seine uns
+heutzutage so schwer verständliche Handlung gesprochen hat« (S. 115).
+
+Wie man es mit der Feier im Urchristentum gehalten hat, darüber ist
+keine vollständige Klarheit zu gewinnen. Wir wissen nur, »dass das
+Abendmahl in der Urgemeinde eine wirkliche Mahlzeit war, wobei sehr
+wahrscheinlich ist, dass das Brotbrechen zugleich Herrenmahl war« (S.
+137).
+
+~Zusammenfassung.~ Die Untersuchung ergibt folgenden Satz: ~Bei
+ausschliesslicher Geltendmachung des Genussmoments sind die
+Gemeindemahlzeit und das Abendmahl identisch. Mit der nebenhergehenden
+Betonung des Darstellungsmoments wird die Differenzierung
+zwischen beiden in steigendem Masse notwendig, bis zuletzt beide
+auseinanderfallen.~
+
+
+=3. Die Antinomie zwischen der historischen und der urchristlichen
+Feier.=
+
+Es ist wohl nicht das geringste Verdienst der grossartigen Abhandlung
+SPITTA's, in voller Schärfe das Prinzip proklamiert zu haben, dass
+eine Abendmahlsauffassung nur dann Wert hat, wenn sie das Wesen der
+urchristlichen Feier, wie es uns besonders in der Didache begegnet,
+erklärt. Dementsprechend bildet die urchristliche Feier auch den
+Hauptstützpunkt seiner Darstellung. Er wird ihr vollkommen gerecht,
+da seiner Auffassung zufolge das Abendmahl eine Freudenmahlzeit war.
+Indem er von einem Wiederholungsbefehl und von einer Abhebung des
+»Abendmahls« von der Gemeindemahlzeit absieht, stimmt er vollständig
+mit der urchristlichen Ueberlieferung überein; diese weiss ja auch
+nichts davon, dass die Feier eine auf den Befehl Jesu erfolgende
+ausgesprochene Reproduktion jener historischen Situation sein soll.
+
+Während SPITTA so die urchristliche Feier vollkommen erklärt, vermag
+er aber der historischen in keiner Weise auch nur annähernd gerecht zu
+werden. Das teilt er mit allen Auffassungen, welche das Genussmoment
+einseitig herausarbeiten. Inwiefern die Jünger Jesum verstehen mussten
+und verstanden haben, als er sie aufforderte, seinen Leib und sein Blut
+zu geniessen: das vermögen sie, ohne unerlaubte Kunstgriffe, in keiner
+Weise deutlich zu machen. ~Für die historische Situation bleibt ihnen
+nur der Skeptizismus übrig~, wobei sie sich trösten dürfen, wenigstens
+der urchristlichen Feier gerecht zu werden.
+
+Mit den doppelseitigen Auffassungen steht es folgendermassen:
+Je mehr sie das Darstellungsmoment betonen, desto besser und
+ansprechender können sie die ~historische Feier~ erklären, da sie
+nun den Leidensgedanken und die Symbolik des Handelns Jesu für die
+Deutung der Gleichnisse verwerten können. In demselben Masse aber
+werden sie ~unfähig, die urchristliche Feier zu erklären.~ Mit dem
+Darstellungsmoment ist ja der Wiederholungsbefehl, die Bedeutung
+des Leidensgedankens für die Feier und die Differenzierung zwischen
+Abendmahl und Gemeindemahlzeit gegeben. Das alles läuft aber der
+urchristlichen Ueberlieferung schnurstracks zuwider. Diese weiss nichts
+davon, sondern sie beschränkt sich merkwürdigerweise auf den Satz: Das
+Abendmahl ist ein Freudenmahl, bei dem das darstellende Handeln Jesu in
+keiner Weise irgendwie reproduziert wird.
+
+Die Antinomie ist also unlösbar. ~Eine doppelseitige Auffassung erklärt
+die historische Feier nur in dem Masse, als sie die urchristliche
+nicht erklärt und umgekehrt.~ Dieser Satz enthält das Grundresultat
+der Untersuchung über die doppelseitigen Darstellungen. Infolge dessen
+müssen sie auf die Lösung des Problems verzichten, da keine von ihnen,
+und wäre sie noch so geistreich, über diese Antinomie hinauskommen kann.
+
+Letztere liegt eben in der bisherigen Problemstellung selbst begründet,
+welche die urchristliche Feier als eine ~entsprechende Wiederholung~
+der historischen auffassen will. Nun ist aber das Wiederholte
+der Geschichte zufolge dem Ursprünglichen gar nicht ähnlich. Die
+historische Feier ist eine ~Ceremonie~ im Verlauf einer Mahlzeit, die
+urchristliche ist nur eine ~gemeinsame Mahlzeit~ ohne entsprechende
+Wiederholung der Ceremonie. Damit ist Antinomie unabweisbar gegeben.
+
+Nun steht aber fest, dass die urchristliche auf die historische
+Feier zurückgeht. Also ist das Problem erst dann gelöst, wenn der
+Zusammenhang beider erklärt wird, ohne dass deshalb die Gemeindefeier
+irgendwie eine entsprechende Nachbildung der historischen ist. ~Die
+urchristliche Abendmahlsfeier ist etwas Selbständiges.~
+
+
+
+
+Achtes Kapitel.
+
+=Die Auffassungen mit einseitiger Geltendmachung des
+Darstellungsmoments.=
+
+
+=1. Das Gefechtsfeld.=
+
+Die Darstellungen mit ausschliesslicher Betonung des Genussmoments
+bedeuteten einen kühnen Vorstoss gegen die allgemein verbreitete
+Auffassung, welche durch die Namen RÜCKERT, HOLTZMANN und LOBSTEIN
+vertreten ist. Es konnte einen Augenblick scheinen, als hätte die
+hergebrachte Ansicht durch diesen unerwarteten, geschlossenen Angriff
+gegen die Deutung der Gleichnisse aus dem Handeln Jesu alle ihre
+Positionen verloren. Jetzt aber, wo die Lage sich langsam klärt, zeigt
+sich, dass dies nicht der Fall ist.
+
+Wohl mussten einige exponierte Stellungen von dem angegriffenen
+Teil aufgegeben werden. Dafür hat er sich aber in eine Position
+zurückgezogen, die als unüberwindbar gelten darf. Die Sache steht so,
+dass der Angreifer darauf verzichten muss, ~diese befestigte Stellung
+jemals zu erobern~, der Angegriffene aber auf absehbare Zeit nicht an
+eine ~Aktion im freien Felde~ denken kann.
+
+Zu den aufgegebenen Positionen gehört vor allem die Stellung zur
+Frage des Passahmahls. Während bis in die 70er und 80er Jahre das
+letzte Mahl den Synoptikern entsprechend fast allgemein als Passahmahl
+aufgefasst wurde, sucht man jetzt diese Frage aus dem Zusammenhang
+mit der Gesamtauffassung herauszurücken. Man begnügt sich mit einer
+vorsichtigen chronologischen Erwägung, ob das synoptische Datum
+wahrscheinlich sei oder nicht.
+
+Aehnlich steht es mit dem Wiederholungsbefehl. Auch die Auffassungen
+mit Zugrundelegung des Darstellungsmoments suchen sich von der
+Notwendigkeit eines auf die Wiederholung hinweisenden Wortes frei zu
+machen.
+
+Zugleich wird das Genussmoment im ganzen doch entschiedener
+hervorgehoben als es bisher der Fall war. Es bleibt jedoch immer in
+Abhängigkeit vom Darstellungsmoment und wird erst durch dasselbe
+verständlich.
+
+Diese Verschiebungen in der Position kann man am besten in den
+successiven Kundgebungen LOBSTEIN's und HOLTZMANN's verfolgen, soweit
+sie die Abendmahlsfrage betreffen. Sie haben die Verteidigungsstellung
+eingerichtet.
+
+
+=2. Der Verteidigungsplan. P. W. Schmiedel.=
+
+    Protestantische Monatshefte 1899: Die neuesten Ansichten über den
+    Ursprung des Abendmahls.
+
+Dem etwas forschen Vorgehen EICHHORN's gegenüber unternahm es SCHMIEDEL
+darzuthun, wie die Sachen eigentlich liegen. Er zeigt zunächst, dass
+die chronologischen Gründe gegen die Möglichkeit, dass das letzte Mahl
+ein Passahmahl war, zusammengenommen allerdings einen grossen Eindruck
+machen. Betrachtet man sie aber einen nach dem andern, so verlieren sie
+bedeutend an Energie. Die Annahme, dass Jesus das gesetzliche Passah
+feierte, ist also nicht von der Hand zu weisen, da die entschiedenen
+Aussagen der Synoptiker den chronologischen Einwürfen wohl das
+Gleichgewicht halten können.
+
+Ueberdies lässt sich der Passahgedanke in ansprechender Weise zur
+Erklärung der historischen Feier heranziehen, wobei mit der Möglichkeit
+zu rechnen ist, dass in Jesu Seele Passah- und Bundesgedanken
+zusammenflossen.
+
+Was die Handlung betrifft, die er vorgenommen haben soll, ist
+anzunehmen, dass das ~Bedeutsame~ mindestens in erster Linie das
+Brechen des Brotes und ~das Ausgiessen des Weines aus dem Krug in den
+Becher~ sei. Das Austeilen dieser Speisen zum Genuss schliesst sich
+als etwas ~Zweites~ an. »~Um der Hauptsache willen wäre es nicht nötig
+gewesen; aber da man einmal beim Mahle sass, war es naturgemäss.~« Es
+dient demselben Zwecke wie das einem Bundesopfer oder dem Passahopfer
+nachfolgende Mahl überhaupt, der gemeinsamen Aneignung und Pflege des
+in dem Opfer vorkommenden Gedankens.
+
+Die Frage, ob der Wiederholungsbefehl historisch ist oder nicht,
+bleibt hier in der Schwebe. Wäre er sicher überliefert, so wäre er
+verständlich. Aber ebenso begreiflich ist es, dass Jesus an eine
+Wiederholung nicht dachte.
+
+Der genialen Unbesonnenheit gegenüber ist ruhiges Abwägen absolut
+notwendig. S. 148: »Wir müssen noch darauf aufmerksam machen, wie
+dringend es sich empfiehlt, auf jeden dem unsrigen ähnlichen Versuch
+wohlwollend einzugehen, wenn man nicht in ~unlösbare Schwierigkeiten~
+kommen will.« Der hohe Wert dieser Stellung beruht nämlich in der
+Stütze, die sie in einer natürlichen Exegese unserer neutestamentlichen
+Abendmahlsberichte findet. Durch seine Geltendmachung des
+Darstellungsmoments kann SCHMIEDEL jeden einzelnen Zug der historischen
+Situation, jeden durch die Exegese angedeuteten Nebengedanken in seiner
+Gesamtauffassung unterbringen. Es ist gelungen, ~»die Möglichkeit,
+dass Jesus eine der Beschreibung ungefähr entsprechende Feier wirklich
+gehalten habe«, auf einen sehr hohen Grad der Wahrscheinlichkeit
+zu bringen.~ Die Herleitung der Berichte aus der späteren
+Gemeindetheologie, etwa gar mit Benutzung ausserchristlicher Analogien,
+wird von selbst gegenstandslos. Jede derartige Konstruktion muss zuerst
+den Nachweis erbringen, dass die von ihr behauptete Umbildung sich in
+so kurzer Zeit nach Jesu Tod habe einbürgern können.
+
+~Damit erschöpft sich aber~ der Wert dieser Verteidigungsstellung:
+sie verfügt über sicher schiessende, gut placierte Geschütze, die
+aber nicht sehr weit tragen, sodass vor den Augen der Belagerten die
+Reiterschwärme der Belagerer sich auf dem unbestrichenen Terrain
+vergnügt und unbehelligt tummeln. Es ist nämlich unmöglich, dass jemals
+eine mit der SCHMIEDEL'schen verwandte Auffassung erklären könne, wie
+die von ihnen ~bis ins einzelne verstandene historische Feier~ im
+Urchristentum, etwa noch gar ohne Annahme eines dahinzielenden Befehls
+Jesu, ~wiederholt worden ist.~ Denn das Schwergewicht liegt ja für sie
+in dem Handeln Jesu. Nun ist dieses Handeln Jesu in der urchristlichen
+Feier gar nicht wiederholt worden, weil dies unmöglich ist. Der
+Leidensgedanke fehlt ihr ja vollständig. Sie ist eine Mahlzeit, bei
+welcher, so viel wir wissen, die Ceremonie der historischen Feier in
+keiner Weise reproduziert wurde. Das Nebensächliche, das Essen, ist
+also Hauptsache geworden und die Hauptsache ist in der wiederholten
+Feier ganz zurückgetreten.
+
+Ausserhalb des schmalen, von den Festungsgeschützen beherrschten
+Terrainstreifens ist also der geringste Reitertrupp des Angreifers
+gegen die wohlbewaffnete, aber schwerfällige Besatzung im Vorteil, wenn
+sie einen Ausfall wagen sollte. Jede kecke Konstruktion, von STRAUSS
+bis auf EICHHORN, kann das Aufkommen und das Wesen der urchristlichen
+Feier besser erklären, als die exegetisch gewissenhafte, aus den
+Berichten destillierte Auffassung SCHMIEDEL's. Nur halte die erstere
+sich ausser Bereich des exegetischen Verteidigungsfeuers, wenn sie
+nicht durch den ersten Schuss ausser Gefecht gesetzt sein will. Fürwahr
+ein merkwürdiger Kampf, wo es einen nicht Wunder nimmt, dass jeder als
+Sieger thut, obwohl der andere unbesiegt ist.
+
+
+=3. Die Offensive. Adolf Jülicher.=
+
+    Zur Geschichte der Abendmahlsfeier in der ältesten Kirche. 1892.
+    (Theologische Abhandlungen, K. v. WEITZSÄCKER gewidmet.)
+
+JÜLICHER berührt sich am nächsten mit ZWINGLI, dessen Auffassung er
+ins Moderne übersetzt, indem er auf die gegenwärtige Form der Fragen
+Rücksicht nimmt. Es handelt sich um die einseitige Geltendmachung des
+Darstellungsmoments.
+
+~Alle auf dem Genussmoment beruhenden Auffassungen legen Jesu moderne
+Gedanken unter.~ Was er bei jenem Mahle zuletzt so besonders feierlich
+sagte, muss für jeden Anwesenden unmittelbar verständlich gewesen
+sein. Der Vergleichspunkt muss also in dem liegen, was er vor den
+Augen der Jünger mit den Genusselementen vornimmt: in dem Brechen des
+Brots und in dem Ausgiessen des Weins. Der Sinn der begleitenden Worte
+bezieht sich auf den bevorstehenden Tod. »So wie dieser Wein alsbald
+verschwunden sein wird, so wird alsbald mein Blut vergossen sein,
+denn mein Tod ist eine beschlossene Sache; aber«, fügt er tröstend
+hinzu, »es wird nicht umsonst vergossen, sondern »für viele« und --
+ein bildlicher Ausdruck, der in dem Gedankenkreis des Passahtages lag
+-- als ein Bundesblut.« Nur den Gegenstand des Geniessens vergleicht
+Jesus hier und dort mit seinem Leibe, ~auf das Geniessen reflektiert er
+gar nicht.~ Höchstens insofern das Genussmoment aus dem vorhergehenden
+darstellenden Moment irgend eine Bedeutung empfängt, kann man ihm
+problematische Geltung zugestehen. So hatte die Feier ursprünglich
+einen wehmütig schmerzlichen Charakter, welcher nur aus der Situation
+begriffen werden kann.
+
+Nun lässt die älteste Ueberlieferung Jesum durch nichts andeuten,
+dass er jene sinnvolle Handlung auch künftighin von seinen Gläubigen
+vollzogen sehen möchte. Wie hat man aber dann in der Urkirche aus
+dieser historischen Feier so schnell eine zu steter Wiederholung
+bestimmte Handlung machen können? Zuerst war es wohl ein inneres
+Bedürfnis. Passahgedanken und Abschiedserinnerungen wirkten mit. Bald
+fand die Wiederholung im Zusammenhang mit jedem Mahle statt und es kam
+die Vorstellung eines ausdrücklichen darauf hinzielenden Gebotes Jesu
+auf. »~So weit es irgend ging, wollte man die Situation von ehedem
+reproduzieren, nur dass man jetzt auf das zurückblickte, was damals
+angekündigt werden sollte~« (S. 247). Diese Feier wurde nach dem ersten
+Akt kurz das Brotbrechen genannt. Bei der Austeilung der sakramentalen
+Elemente hat man wohl nicht von jeher die Deutungs- respektive
+Einsetzungsworte des Herrn verbotenus wiederholt, denn sonst würde
+deren Ueberlieferung nicht so viele Differenzen aufweisen. Nach I Kor
+11 _26_ hat man dabei nie versäumt, den Tod des Herrn zu verkünden,
+also immer wieder das erschütternde Ereignis sich vor Augen zu stellen
+und seine Notwendigkeit, wie seine segensreichen Wirkungen zu erörtern;
+~aber das geschah in freien Formen.~
+
+
+=4. Die Skepsis in den Auffassungen mit einseitiger Geltendmachung des
+Darstellungsmoments.=
+
+Die Darstellung JÜLICHER's bedeutet für die Abendmahlsauffassungen
+mit konsequenter Zugrundelegung des Darstellungsmomentes das,
+was die Abhandlung EICHHORN's für die das Genussmoment zu Grunde
+legenden Auffassungen war. Beide zeigen durch die Konsequenz ihres
+Gedankenaufbaus, dass die alleinige Betonung des von ihnen zu Grunde
+gelegten Moments notwendig zum Skeptizismus führt. Dies tritt bei
+EICHHORN darin zu Tage, dass er die historische Feier, von der
+urchristlichen Gemeindefeier aus betrachtet, nicht zu erklären vermag.
+JÜLICHER kann die Gemeindefeier von der historischen Feier aus nicht
+erklären.
+
+Er hat ganz Recht, wenn er sagt, dass die Zugrundelegung des
+Genussmoments die Zuhülfenahme moderner Gedanken zur Erklärung der
+historischen Worte Jesu fordere. Heisst es aber nicht ebenso sehr
+moderne Gedanken auf vergangene Zeiten übertragen, ~wenn man sich die
+urchristliche Feier als gewollte, möglichst genaue Reproduktion der
+Situation von ehedem begreiflich machen will~? JÜLICHER's Auffassung
+könnte die zwinglische Gemeindefeier erklären -- und da fehlte ihm noch
+der Wiederholungsbefehl -- aber niemals die urchristliche religiöse
+~Gemeindemahlzeit.~
+
+Die Schwierigkeiten werden gerade durch seine scharfe und
+logisch einheitliche Gesamtauffassung mit absoluter Deutlichkeit
+herausgearbeitet. Er erlaubt sich nicht zwischen dem Abendmahl im
+eigentlichen Sinne und der Gemeindemahlzeit zu unterscheiden. Mit
+diesem Spielraum hatten die doppelseitigen Darstellungen aller
+Schattierungen operiert und damit die grössten Schwierigkeiten
+überwunden. ~Die ganze Gemeindefeier ist »Herrenmahlzeit«~ -- so sagt
+JÜLICHER und stimmt dabei mit niemand so vollkommen überein als mit
+SPITTA und EICHHORN.
+
+Damit ist aber die Antinomie, welche zum Skeptizismus führt, notwendig
+gegeben. Die Gemeindefeier, auf die JÜLICHER von seiner Auffassung
+der historischen Feier aus kommt, ist eine Fiktion, welche der
+wirklichen urchristlichen Mahlfeier geradezu widerspricht, da die
+letztere »keine Reproduktion der Situation von ehedem« war. Wie die
+Wiederholung aufgekommen, vermag er in keiner Weise darzuthun. »Dass
+es zunächst wohl ein inneres Bedürfnis war, bei dem Passahgedanken und
+Abschiedserinnerungen mitwirkten«: diese problematische und gewundene
+Annahme erklärt für die Wiederholung gar nichts.
+
+Nun könnte JÜLICHER durch den Wiederholungsbefehl um die Schwierigkeit
+herumkommen. Das erlaubt ihm aber sein exegetisches Gewissen nicht.
+Obwohl er ihn absolut notwendig brauchte, verzichtet er darauf,
+weil er durch die beiden ältesten Synoptiker nicht bezeugt ist.
+Seine ansprechende Auffassung ist aus der exegetischen Betrachtung
+der Berichte erwachsen. Gerade die Exegese beraubt ihn aber der
+einzigen Möglichkeit, die Wiederholung der von ihm geschilderten
+Feier im Urchristentum auch nur einigermassen begreiflich zu machen.
+Die urchristliche Feier als Reproduktion der historischen Situation
+ohne Wiederholungsbefehl ist einfach undenkbar. Also stehen wir
+hier vor einer vollständigen Selbstauflösung. Um das Aufkommen der
+urchristlichen Feier zu erklären, müsste JÜLICHER eine unabhängig von
+den Berichten gegebene Thatsache postulieren -- wie EICHHORN es thut,
+um das Aufkommen des historischen Berichts fasslich zu machen.
+
+Die konsequente Geltendmachung des Darstellungsmoments führt also zu
+derselben Skepsis, wie die einseitige Herausarbeitung des Genussmoments.
+
+
+
+
+Neuntes Kapitel.
+
+=Die neue Problemstellung.=
+
+
+=1. Das Ergebnis der Untersuchung.=
+
+Die Auffassungen mit einseitiger Betonung des Genussmoments können nur
+die ~urchristliche~, nie die ~historische~ Feier erklären.
+
+Die Auffassungen mit einseitiger Betonung des Darstellungsmoments
+können nur die ~historische~, nie die ~urchristliche~ Feier erklären.
+
+Die doppelseitigen Auffassungen können die ~historische~ Feier nur in
+dem Masse erklären als sie die ~urchristliche~ nicht erklären, und
+umgekehrt.
+
+Also vermag keine dieser Auffassungen das Abendmahlsproblem zu lösen,
+da dieses gerade verlangt, ~dass beide Feiern in ihrem gegenseitigen
+Zusammenhang begriffen werden!~
+
+Durch diese Sätze werden nicht bloss die hier besonders analysierten
+Auffassungen betroffen. Diese sind nur Typen für so und so viele
+andere, die schon veröffentlicht worden sind oder noch im Zeitenschosse
+schlummern. Vergangen oder zukünftig: alle werden sie durch die obigen
+drei Sätze schon im Vorverfahren abgethan. Ehe sie überhaupt gehört
+werden können, müssen sie zuerst nachweisen, dass sie etwas anderes
+sind als eine neue Kombination von Darstellungs- und Genussmoment.
+Können sie das nicht, so sind sie von vornherein abgewiesen, denn
+dann vermögen sie das Problem nicht zu lösen. Es kommt ja nicht auf
+ihr bestimmtes Gepräge oder auf die Art, wie sie sich historisch und
+exegetisch darstellen, an, ~sondern nur auf das Verhältnis, in dem das
+Darstellungs- und das Genussmoment darin zu einander stehen.~ Alles
+andere ist Beiwerk.
+
+Jede Auffassung ist durch die Formel bedingt, welche das von
+ihr angenommene Verhältnis des Darstellungs- zum Genussmoment
+ausdrückt. Damit ist ja ihre Stellung zu den Einzelfragen -- dem
+Wiederholungsbefehl, der Deutung der Gleichnisse, der Form der
+angenommenen urchristlichen Feier u.s.w. -- entschieden. ~Man kann
+sie danach geradezu ausrechnen.~ Was die Verfasser dann noch von dem
+Ihrigen an geistreichen Einfällen, exegetischen Funden und genialen
+Inkonsequenzen hinzuthun, das ist alles ohne Belang. Ohne dass sie es
+wissen, folgen sie ja einem inneren Zwang. Weil sie ~müssen~, nehmen
+sie die schwersten exegetischen Hindernisse! Weil sie ~nicht anders
+können~, übersehen sie schwerwiegende historische Fragen! Weil sie die
+Verschnörkelungen am Erker nach freiem Bedünken entwerfen dürfen, sind
+sie -- und die andern mit ihnen -- geneigt zu vergessen, dass ihnen der
+Grundriss des Baues aufgegeben ist.
+
+Unter den gegebenen Voraussetzungen gibt es keine neuen
+Abendmahlsauffassungen mehr. Ob auch eine aus einer exegetischen
+oder historischen Beobachtung hervorwächst, kann sie im Grunde doch
+nichts anderes sein, ~als die Wiederholung oder Modifizierung einer
+schon vorhandenen, nämlich der, mit welcher sie die Formel über das
+Verhältnis der beiden Momente gemein hat.~ Wollte man sich die Mühe
+geben, den Stammbaum der vorhandenen Auffassungen aufzustellen, so
+würde es nicht schwer halten, jeder ihre Vorfahren zu entdecken.
+
+Die Darstellungen mit einseitiger Herausarbeitung des Genussmoments
+sind nur die wissenschaftlich-historische Reproduktion der
+altgriechischen Auffassung.
+
+ZWINGLI hat die römische Theorie rationalisiert und ist von JÜLICHER
+ins modern-geschichtliche übertragen worden.
+
+Die doppelseitigen Auffassungen geben die Vermittlungsversuche
+zwischen der Messe und dem griechischen Mysterium und diejenigen der
+Reformationszeit in historischer Form wieder. Man kann also ruhig
+sagen, dass alle möglichen Kombinationen der beiden Momente schon
+erschöpft sind.
+
+Mit »neuen Auffassungen« ist also nichts gethan; neu daran ist immer
+nur der Einfall, nie die Formel -- ~und auf letztere kommt es allein
+an.~ Darum führt die Detailauseinandersetzung mit einer solchen neuen
+Auffassung zu gar nichts. Das für »richtig« und das für »falsch«
+Befundene hängen ja gesetzmässig zusammen: eins ist nur insofern
+richtig, als das andere falsch ist.
+
+Daran liegt es, dass Arbeiten in der Art, wie sie RUD. SCHÄFER,
+CLEMEN[11] und SCHMIEDEL zu den neuesten Aufstellungen geliefert haben,
+trotz aller abwägenden Gewissenhaftigkeit die Forschung nicht in dem
+Masse des aufgewandten Scharfsinns vorwärts bringen. Aus dem, was sie
+anerkennen, lässt sich keine neue Auffassung zusammenbauen, und das,
+was sie auszusetzen haben, reicht nicht hin, die andere zu verwerfen,
+wenn man nichts Besseres an die Stelle zu setzen hat.
+
+Diejenigen, welche unter den gegebenen Verhältnissen neue
+Abendmahlsauffassungen aufstellen, rechnen ein Exempel, das bisher nie
+hat wollen aufgehen, zum so und sovielten Male durch. Ihre Kritiker
+rechnen das Exempel zum so und sovielten Male nach. Auf geht es aber
+darum doch nicht.
+
+~Es kann nie aufgehen.~ Darum nützt es nichts, immer mit Eifer und
+Sammlung von vorn anzufangen. Man muss den Fehler nicht in der
+Rechnung, sondern im Ansatz suchen. Die bisherigen Auffassungen
+bringen es nicht über dialektische Behauptungen hinaus, welche als
+Ganzes aus den geschichtlichen Thatsachen weder zu beweisen noch zu
+widerlegen sind.
+
+~Es gilt also sich von der bisherigen Problemstellung loszumachen.~
+
+~Wo liegt der Grund des Metaphysischen in der Abendmahlsfrage?~
+
+
+=2. Der neue Weg.=
+
+Bisher galt der Satz: Um das Abendmahl zu erklären, muss man von der
+Deutung der Gleichnisse ~ausgehen~, denn diese konstituieren das Wesen
+der Feier. So suchte man sie aus dem Genuss, oder aus dem Handeln, oder
+aus beiden zusammen zu deuten -- und, wenn man eine plausible Erklärung
+gefunden hatte, glaubte man den Schlüssel zum Abendmahl zu besitzen.
+
+Nun gilt es aber zwei Thüren zu öffnen: der betreffende Schlüssel passt
+aber jedesmal nur zu einer. Angenommen SPITTA und die andern deuten die
+Gleichnisse richtig auf das Urchristentum: der historischen Situation
+entspricht aber ihre Erklärung nicht. Angenommen JÜLICHER und die
+andern deuten sie richtig aus der historischen Situation: im Sinne des
+Urchristentums ist aber ihre Erklärung nicht, denn dort kommt in keiner
+Weise zum Ausdruck, dass die Handlung Jesu den Tod versinnbildlichte.
+
+Man hat aber allen Grund zu fragen, ob die Gleichnisse aus der sie
+begleitenden Handlung ~so ohne weiteres~ deutbar sind. Alle Erklärungen
+werden ja auf Umwegen erreicht! Wieso soll das Brechen des Brots die
+Kreuzigung des Leibes anzeigen? Ist diese Erklärung etwa deswegen
+einleuchtender, weil es die einzige ist, welche die begleitende
+Handlung offen lässt? Wer sagt uns, dass es die Jünger so verstanden
+haben können? In der urchristlichen und altchristlichen Epoche, ja
+eigentlich bis auf ZWINGLI weiss kein Mensch etwas von dieser Deutung.
+
+Mit dem Wort über dem Kelch steht es noch schlimmer. Hier muss man
+nämlich, um dem Gleichnis einen Sinn abzugewinnen, den Vergleichspunkt
+zur Handlung ~geradezu hinzuerfinden.~ Berichtet ist nur das
+~Herumreichen~ des Kelches. Dieses ist aber für das »~Vergiessen
+des Blutes~« nicht charakteristisch. Das einzig Erträgliche wäre
+das »~Ausgiessen in den Kelch~«. ~Obwohl nun diese Handlung in
+keinem Berichte erwähnt ist~, haben es alle exegetischen Deutungen,
+welche auf dem Darstellungsmoment beruhen, mit dem »~Ausgiessen~«
+des Weines in den Kelch zu thun. Aus der inneren Zwangslage heraus
+schaffen sie frei ein ~Analogon zum Brotbrechen~, ohne sich darüber zu
+rechtfertigen, wie sie dazu kommen, die Situation in unerlaubter Weise
+zu bereichern.
+
+Wo steht denn geschrieben, dass Jesus den Wein in den Kelch vor den
+Augen der Jünger bedeutungsvoll eingoss, wie er das Brot brach?
+Nirgends! Also beruht die exegetische Deutung des zweiten Gleichnisses
+~auf reiner Erfindung.~
+
+Gestehen wir es offen ein: es fehlt uns jegliche Anleitung zu einer
+natürlichen Deutung der Gleichnisse. Ueber Künstelei haben wir es
+dabei nicht hinausgebracht. Unser Schlüssel ist nur ein schlechter
+Nachschlüssel: er passt zur Not in das eine Schloss, aber nicht in
+beide. ~Und aus dieser Notdeutung der Gleichnisse wollen wir die ganze
+historische und urchristliche Mahlfeier erklären!~
+
+Wenn man in dieser Notlage einmal den noch einzig möglichen Ausweg ins
+Auge fasste! Es geht nicht an, ~die Feier durch die Gleichnisse zu
+erklären.~ Versuchen wir es mit dem umgekehrten Verfahren, nämlich ~die
+Gleichnisse aus der Feier zu erklären~!
+
+Freilich, am Anfang scheint das nur das letzte verzweifelte Rütteln an
+der verschlossenen Thür. Aber überlegen wir die Sache einmal ruhig.
+
+Beim Abendmahl handelt es sich um die Austeilung von Seiten Jesu, um
+den Genuss von Seiten der Jünger und um zwei Gleichnisse, welche mit
+dem Vorgang ~zusammenfallen.~ Ich sage ~zusammenfallen~! In einer
+~Situation~ können Handlungen und Reden zeitlich zusammenfallen,
+während sie in dem Bericht nur in zeitlicher Folge geschildert
+werden können, weil die Worte jedes Nebeneinander notwendig in eine
+Aufeinanderfolge auseinanderlegen.
+
+So halten unsere Berichte die Reihenfolge: Austeilung, Gleichnis,
+Genuss inne, als hätte Jesus zuerst symbolisch gehandelt, dann
+ausgeteilt, dann das erklärende Gleichnis gesprochen, worauf zuletzt
+die Jünger verständnisvoll gegessen hätten.
+
+Versucht man es aber einmal, sich den berichteten Vorgang als Scene
+vorzustellen, so merkt man bald, ~dass die säuberliche chronologische
+Folge stark illusorisch wird.~ Man denke sich die 12 Menschen,
+die wie auf eine innere Verabredung hin mit dem Essen des ihnen
+zugeteilten Stückes warten, bis Jesus das Gleichniswort gesprochen! Wie
+unnatürlich, ja unmöglich diese Scene in der gedachten chronologischen
+Folge der Handlungen ist, kann man in Oberammergau sehen, wenn sie ins
+Leben übersetzt wird! Es lässt sich kaum etwas Unnatürlicheres und
+Geschraubteres denken.
+
+Für den, welcher eine berichtete Situation mit dem Blick des Malers in
+der Wirklichkeit zu schauen vermag, bleiben nur zwei Möglichkeiten.
+Entweder hat Jesus jedem Einzelnen das Brot zugeteilt und dabei
+für jeden Einzelnen das Gleichniswort wiederholt: dann ist die
+chronologische Folge so haltbar. Oder aber, wie feststeht, er hat allen
+zusammen Brot ausgeteilt und das Gleichniswort nur einmal gesprochen:
+dann ist die chronologische Folge, mit der wir bisher operierten,
+illusorisch geworden. Sie besagt dann nur, dass Jesus im Verlauf der
+Austeilung des Brotes und während des Herumreichens des Bechers die
+Gleichnisworte vom Leib und vom Blut gesprochen! ~Ob zu Anfang, in der
+Mitte oder zu Ende, ob vor, während oder nach dem Essen und Trinken:
+das ist nicht auszumachen.~ Unsere Berichte geben uns darüber keinen
+Aufschluss.
+
+Aus der angenommenen ~chronologischen~ Folge haben die bisherigen
+Auffassungen ohne weiteres eine ~causale~ gemacht. Man sagte: Die
+Austeilung und das dabei vorkommende Brechen und Ausgiessen begründet
+das Gleichnis, das Gleichnis soll den Jüngern die Bedeutung des
+Genusses erklären, und die Bedeutung des Genusses macht das Wesen der
+Feier aus.
+
+Aus einer angenommenen zeitlichen Folge eine causale zu machen, das ist
+ein Fehler, den das menschliche Denken trotz aller Warnungen immer und
+immer wieder macht und sich dadurch die grössten Probleme schafft.
+
+~Nun zeigt die Geschichte, dass gerade diese angenommene causale Folge
+das Abendmahlsproblem unlösbar macht.~ Andererseits beschränkt sich
+unsere Kenntnis von der Situation darauf, dass Jesus im Verlauf der
+Austeilung die Gleichnisse gesprochen hat. Also machen wir uns von dem
+Vorurteil los, als ob die Gleichnisse die Feier konstituierten, und
+fassen das Problem so, ~dass die Feier die Gleichnisse erklärt.~ Anders
+ausgedrückt: Man meinte bisher, dass Jesus die Jünger aufforderte, das
+dargereichte Brot und den herumgereichten Wein zu geniessen, ~weil er
+sie als seinen Leib und sein Blut bezeichnet hatte~ (wobei freilich
+niemand sagen kann, in welchem Sinne sie mit Brot und Wein seinen Leib
+und sein Blut assen und tranken).
+
+Wir aber gehen jetzt davon aus, dass Jesus von dem Brot und dem Wein,
+die seine Jünger auf seine Darreichung hin genossen, sagt, sie wären
+sein Leib und sein Blut, ~gerade im Hinblick darauf, dass sie es auf
+seine Darreichung hin geniessen~! Sie essen also nicht seinen Leib und
+trinken nicht sein Blut, sondern, ~weil sie jenes Brot essen und jenen
+Wein trinken~, sagt er, es ~sei sein Leib und sein Blut~! Das Gleichnis
+konstituiert also die Feier nicht, sondern es erwächst aus ihr!
+
+Die Feier ist selbständig! Sie besteht darin, dass Jesus unter
+Danksagung seinen Jüngern das Brot bricht und den Kelch herumreicht und
+sie davon geniessen. Zum Wesen der Feier gehören die Gleichnisse nicht,
+sondern Jesus spricht in diesen geheimnisvollen Worten die Bedeutung
+aus, welche die Feier für ~ihn~ hat!
+
+Diese zweite Eventualität liegt gerade so gut in den Berichten wie
+die erste. Nur ging man immer an ihr vorüber, weil die chronologische
+Folge der Handlungen in der schriftstellerischen Darstellung die
+Aufmerksamkeit ganz für die erste gefangen nahm.
+
+Nun ist aber logisch festgestellt, dass die bisherige Annahme das
+Problem vollständig unlösbar macht. Also muss man es notgedrungen mit
+der zweiten probieren.
+
+Ueberdies spricht die Geschichte gerade für die zweite. Es steht fest,
+dass die Leidensgleichnisse in der urchristlichen Feier ~keine Rolle~
+spielten. Sie wurden im Verlauf der Feier in keiner Weise reproduziert!
+Dafür sprechen Didache und Paulus, denn wenn sie aus dem alltäglichen
+Verlauf der Feier bekannt gewesen wären, bliebe I Kor 11 _23_
+unverständlich, da hier dann etwas Bekanntes in geheimnisthuerischer
+Weise wiederholt würde! Es stand also im Urchristentum so: Man wusste
+wohl, dass diese Gleichnisse bei der historischen Feier gesprochen
+worden waren, die Gemeindefeier leitete sich von dieser historischen
+Feier ab: ~aber doch fühlte man kein Bedürfnis, die historischen
+Gleichnisse Jesu dabei irgendwie zu reproduzieren. Also war die
+historische Feier, sofern sie sich in der Gemeindefeier fortsetzte,
+von den Gleichnissen unabhängig~, da man sonst auch die Gleichnisse
+wiederholt hätte. Das ist durch die Geschichte bezeugt.
+
+Darum hat es das Abendmahlsproblem gar nicht mehr mit den beiden
+unmöglichen Fragen zu thun, wieso Jesus seinen Jüngern seinen Leib zu
+essen und sein Blut zu trinken gegeben habe und wie sie diese Feier
+später in entsprechender Weise reproduzierten, sondern das Problem
+selbst ist ein ganz anderes. Es heisst nicht mehr: ~Was bedeuten die
+Gleichnisse~, damit wir die Feier erklären können? sondern: ~Was
+bedeutete die Feier~, damit wir die ~Gleichnisse~ erklären können.
+
+~In welchem Sinne war die Austeilung von Brot und Wein beim letzten
+Mahl ein so überaus feierlicher Akt, der sich auf Jesu Tod bezog?~ --
+von dieser Frage hat die Untersuchung auszugehen, indem sie die
+Gleichnisse vorerst ganz bei Seite lässt. Es ist der einzige Weg zur
+Lösung des Problems.
+
+
+Fussnoten:
+
+[11] Der Ursprung des heil. Abendmahls von Lic. Dr. KARL CLEMEN. 1898.
+Hefte zur christl. Welt No. 37.
+
+
+
+
+Zweiter Teil.
+
+=Das Abendmahlsproblem auf Grund der historischen Berichte.=
+
+
+
+
+Zehntes Kapitel.
+
+=Die textkritischen Fragen.=
+
+
+=1. Cod. D. Die textkritische Hauptfrage.=
+
+Es handelt sich um den Lukasbericht (Lk 22 _15-20_). In der
+gewöhnlichen Fassung zeigt er ein eigentümliches Gepräge. Er bietet
+zunächst ein Wort über den Passahgenuss in dem zukünftigen Reiche.
+Darauf folgt ein ähnliches Wort, den Becher betreffend, welches mit
+dem synoptisch-eschatologischen Schlusswort nach Markus und Matthäus
+übereinstimmt. Nachdem so gleichsam ein erster Redegang über das Essen
+und Trinken abgeschlossen ist, kommt das Wort über dem gebrochenen
+Brot und über dem Wein als Bundesblut; bei letzterem fehlt dann das
+bei den beiden älteren Synoptikern den zweiten Akt beschliessende
+eschatologische Schlusswort.
+
+Wir haben also eine merkwürdige Doppelheit: zwei Worte das Essen, und
+zwei den Kelch betreffend. Von den beiden auf das Essen bezogenen
+Worten handelt nur das zweite von dem Genuss des Brots, während das
+erste vom Passah allgemein redet. Die Doppelheit ist also hier nicht so
+auffällig, wie in den beiden das Trinken betreffenden Worten, welche
+sich beide auf den Kelch beziehen. Das zweite nimmt sich wie ein
+Nachtrag zum ersten aus, da es ohne das eschatologische Schlusswort
+steht, die Aufforderung zum Genuss nicht enthält und überhaupt in
+dieser Form der Feier keinen abrundenden Abschluss gibt, wie es das
+altsynoptische Kelchwort thut.
+
+Als daher diese eigentümliche Doppelheit in dem Lukasbericht auffiel,
+war die natürlichste Korrektur schon gegeben: das zweite Kelchwort,
+da die Aufforderung zum Genuss schon im ersten enthalten schien,
+zu streichen, dagegen das zweite Wort über dem Brot, das in seiner
+spezifischen Eigenschaft vorher nicht erwähnt war, zu belassen, weil
+es die Aufforderung zum Genuss enthält. Es ist die Korrektur von Cod.
+D.[12] Er schliesst mit den Worten: [touto esti to sôma mou] (V. _19ª_).
+
+Entschliesst man sich einmal zu diesem so natürlichen Abstrich, so
+liegt gar kein Grund mehr vor, das Kelchwort mit seiner Aufforderung
+zum Trinken sich zwischen die beiden auf das Essen bezogenen Aussagen
+eindrängen zu lassen und sie unnatürlich auseinanderzureissen; man
+moduliert nach der ursprünglichen synoptischen Harmonie zurück, sodass
+das eschatologische Schlusswort beim Kelch wieder ans Ende kommt. Tritt
+dementsprechend V. _17_ und _18_ hinter _19ª_, so erhält man einen
+Bericht, der sich von dem gewöhnlichen nur dadurch unterscheidet,
+dass er vor dem Brotwort ein Wort über das Passah bringt, welches dem
+eschatologischen Schlusswort über dem Kelch nachgebildet ist. Dieses
+Verfahren findet sich bei b c.[13]
+
+~Die Entstehung des Abendmahlsberichtes des Cod. D. beruht auf
+Reflexion.~ Ueberhaupt bricht sich die Ueberzeugung immer mehr
+Bahn, dass seine Abweichungen durchweg diesen Charakter tragen.
+Eine originelle Vorstellung der historischen Feier schwebt dieser
+Berichtform gar nicht vor. Daher betrifft die Grundfrage der Textform
+des Lukas gar nicht Cod. D, sondern die gewöhnliche Lesart. Wie kommt
+Lukas dazu, den Bericht ~so ins Doppelte sich spiegeln zu lassen~,
+dass der Versuch, diese Doppelheit als auf ein Versehen zurückgehend
+zu korrigieren, sich in Cod. D notwendig einstellen musste? Diese
+Frage ist aber gar keine textkritische mehr, sondern sie hängt mit
+der Entwicklung der Feier im Urchristentum und der damit gegebenen
+Verschiebung des Bildes des historischen Mahles zusammen.[14]
+
+
+=2. Abweichende Lesarten.=
+
+Die Frage, ob in den einzelnen Fällen [eulogêsas] oder [eucharistêsas]
+zu lesen ist, hat keine Bedeutung. Die beiden älteren Synoptiker
+gebrauchen den ersteren, Paulus, Lukas und Justin den letzteren
+Ausdruck.
+
+Der Grund der verschiedenen Lesarten in Mt 26 _26_ ist leicht
+einzusehen. Partizipien und erzählende Verben häufen sich in einer
+Weise, dass man in keinem Falle eine schwerfällige und ungriechische
+Konstruktion vermeiden kann. Ob man nun liest: [labôn ho Iêsous arton
+kai eulogêsas eklasen kai dous tois mathêtais eipen],[15] oder ob man
+eines der Partizipien auflöst und die Lesart erhält: [labôn ho Iêsous
+arton kai eulogêsas eklasen kai edidou tois mathêtais kai eipen][16]
+bleibt sich gleich. Der Satz ist in jedem Falle formlos, weil er eine
+Häufung von Handlungen auf einen Moment enthält, deren zeitlicher und
+logischer Zusammenhang sich sprachlich gar nicht wiedergeben lässt. Die
+Varianten beruhen auf der empfundenen darstellerischen Schwierigkeit,
+die jeder auf eine andere Weise zu überwinden suchte.
+
+Bei Markus treten die stilistischen Schwierigkeiten nicht so sehr
+hervor. Er vermeidet nämlich die namentliche Nennung des Spenders
+und der Empfänger, wodurch die matthäische Konstruktion so besonders
+ungelenk wird.
+
+Der paulinische und der justinische Bericht sind von dieser
+Schwierigkeit befreit: sie vereinfachen die Situation, indem sie die
+Darreichung ([edôken]) und die Aufforderung zum Genuss ([labete])
+auslassen.
+
+Das [phagete] in Mk 14 _22_[17] ist naive matthäische Nachbildung. Die
+alten Zeugen bieten nur [labete].
+
+Der Zusatz [kainês], den einige Lesarten bei dem Wort über dem
+Becher in Mk 14 _24_[18] bieten, beruht auf naiver Nachbildung der
+paulinischen Version.
+
+
+=3. Das Ergebnis der Textkritik.=
+
+Die Verschiedenheit der Lesarten ist nicht darin begründet, dass
+die eine mit ihren Wurzeln historisch höher hinaufreicht als die
+andere. Sie gehen zum Teil aus der Schwierigkeit hervor, welche die
+betreffenden Auffassungen haben, sich ~stilistisch darzustellen.~
+Zum Teil entspringen sie der Tendenz, die Berichte einander
+~gleichzubilden.~ Dazu war es aber schon zu spät: die verschiedenen
+Typen hatten schon eine zu scharfe historische Ausprägung erhalten,
+als dass es den nachbessernden Versuchen hätte gelingen können, den
+Einheitstypus herzustellen, an dem die vorhergehende geschichtliche
+Epoche sich vergebens abgearbeitet hatte.
+
+Den letzten Versuch dieser Gleichbildung bietet der textus receptus,
+sofern er den ersten Akt bei Paulus nach Analogie mit dem matthäischen
+darstellt und dadurch eine Aufforderung zum Genuss einträgt (nehmet,
+esset), die in I Kor 11 _24_ ursprünglich fehlt.
+
+Die Aufgabe der Textkritik in der Abendmahlsfrage besteht darin, dass
+sie jeden der Berichte in seiner charakteristischen Eigentümlichkeit
+darstellt, indem sie ihn von den Spuren der versuchten litterarischen
+Gleichbildung mit andern befreit. Diese Aufgabe, so bescheiden sie
+scheint, ist von eminenter Tragweite. ~Hätte sich die Gleichbildung der
+Berichte wirklich durchgesetzt, so wäre das Abendmahlsproblem unlösbar.~
+
+
+Fussnoten:
+
+[12] D, a, ff². Die Ausgabe von WESTCOTT und HORT hat diese Lesart
+adoptiert.
+
+[13] In derselben Absicht lässt syr^{cu} Vers _20_ aus und setzt dafür
+Vers _17_ und _18_ ein.
+
+[14] Eine eingehende Darlegung der Textfragen, welche den Lukasbericht
+betreffen, findet sich in der Abhandlung von ERICH HAUPT.
+
+[15] So [Aleph] (sed [dous] ex [edidou] korrigiert ab [Aleph]ª) BDLZ.
+
+[16] [ACGD].
+
+[17] Mk 14 _22_: zu [labete] zugesetzt [phagete] (EFHM²).
+
+[18] Mk 14 _24_: [tês diathêkês] ([Aleph]BCDL).
+
+
+
+
+Elftes Kapitel.
+
+=Die Eigenart des Markusberichts= (Mk 14 _22-26_).
+
+
+Der erste Akt besteht einzig darin, dass Jesus unter Gebet das Brot
+bricht und es herumreicht; zugleich spricht er das Gleichniswort von
+seinem Leib. Es fehlt, wie bei Matthäus, das uns aus Paulus gewohnte
+[hyper hymôn] und über Matthäus hinaus das [phagete].
+
+Ist so im ersten Akt die ~Aufforderung zum Genuss~ in Hinsicht auf das
+Gleichnis nicht ausdrücklich ausgesprochen, ~so fehlt sie im zweiten
+vollständig.~ Es wird zuerst berichtet, dass Jesus allen den Kelch nach
+dem Gebetswort herumgereicht habe und alle daraus getrunken haben (Mk
+14 _23_). ~Darauf erst~ spricht er das Gleichniswort von dem für viele
+vergossenen Blut (Mk 14 24).
+
+BRUNO BAUER war meines Wissens der erste, der darauf hingewiesen, dass
+Markus statt der Aufforderung zum Trinken die ~Konstatierung~ bietet,
+dass alle getrunken haben. Er sieht darin nur eine Abschwächung gegen
+Matthäus, da Markus sich scheue, die Aufforderung Jesu in vollem Umfang
+aufrecht zu erhalten.
+
+Dabei hat aber BRUNO BAUER nicht bemerkt, dass mit dieser Konstatierung
+auch die gewöhnliche chronologische Folge vom Gleichnis zum Genuss
+sich verschiebt, wodurch zugleich das uns geläufige kausale Verhältnis
+zwischen Gleichnis und Genuss aufgehoben wird. Diesem Bericht zufolge
+ist es unmöglich, dass Jesus oder die Jünger die Bedeutung des Trinkens
+~aus dem Gleichnis herleiten~, weil dieses ja erst ~auf das Trinken
+folgt~!
+
+Zu beachten ist ferner, wie das weihevoll ([amên]) und nachdrücklich
+gesprochene eschatologische Schlusswort von dem Neutrinken in dem Reich
+des Vaters sich eng an das Gleichniswort anschliesst! Es bildet den
+Höhepunkt der Feier (V. _25_), worauf alsbald der Aufbruch erfolgt.
+
+~Diese eigenartigen Züge des Markusberichts sind bisher nicht
+herausgearbeitet worden.~ Man hat ihn einfach nach den andern gedeutet.
+Alle Berichte, so nahm man ohne weiteres an, bieten dieselbe Thatsache.
+Beim letzten Mahl hat Jesus den Jüngern Brot und Wein so dargereicht,
+dass sie die Elemente irgendwie als seinen Leib und sein Blut assen und
+tranken. Das Fehlen des [phagete] bei Markus erklärte man daraus, dass
+es sich von selbst verstehe. Die Eigentümlichkeit des zweiten Akts hob
+man nicht einmal hervor, weil man sie -- ohne sich davon Rechenschaft
+zu geben -- nach Matthäus und den andern interpretierte.
+
+Diese Annahme, dass der Markusbericht im Grunde dasselbe besage wie
+die andern, ist ~eine der unbewiesenen Voraussetzungen~, mit denen die
+bisherigen Abendmahlsauffassungen operierten. Wenn wir nämlich nur den
+Markusbericht hätten, käme niemand auf den Gedanken, dass Jesus seinen
+Jüngern Brot und Wein als seinen Leib und sein Blut ausgeteilt und sie
+zum Genuss in diesem Sinne aufgefordert habe. Man würde die zeitliche
+Folge im ersten Akt nach der des zweiten auffassen und als Thatbestand
+feststellen, dass Jesus ~im Verlauf der Austeilung des Brotes das
+Gleichnis von seinem Leib und =nach= der Herumreichung des Bechers
+das Gleichnis von seinem Blut gesprochen habe.~ Wenn wir aber einen
+Bericht haben, wo Jesus dem strikten Wortlaut zufolge weder seinen
+Leib noch sein Blut zum Genuss ausgeteilt hat, so dürfen wir ihn nicht,
+als handle es sich um eine gewisse Nachlässigkeit und Sparsamkeit im
+Ausdruck, nach den andern auslegen, sondern wir müssen ihn mit ihnen
+vergleichen und eine Auseinandersetzung herbeiführen. Daraus ergibt
+sich dann die Tragweite der Abweichungen. Entweder handelt es sich
+um eine absolut ~unverständliche Schilderung~, die man, weil sie mit
+dem feststehenden Thatbestand absolut keine Verwandtschaft hat, als
+Kuriosum nicht weiter zu beachten braucht, oder -- ~wir haben den
+authentischen Bericht vor uns, von dem die Untersuchung ausgehen muss.~
+Diese Alternative ist nicht zu umgehen, sobald man sich die Eigenart
+des Markusberichts klar gemacht hat.
+
+
+
+
+Zwölftes Kapitel.
+
+=Der Vergleich der Berichte.=
+
+
+=1. Das Prinzip der Gleichbildung.=
+
+Aeusserlich betrachtet zeigt sich die Eigenart des Markusberichts
+darin, dass die beiden Akte an Umfang und Gesichtspunkten verschieden
+sind. Der erste ist ganz kurz; er beschränkt sich auf das Gebetswort,
+das Brechen zum Austeilen und die Gleichnisrede; der zweite enthält
+das Gebetswort, die Austeilung, die Erwähnung des Genusses, die
+Gleichnisrede, den Hinweis auf die Heilsbedeutung des Todes und
+das eschatologische Schlusswort. Der Vergleich zeigt, dass bei
+den andern Berichten die beiden Akte in steigendem Masse einander
+~gleichgebildet werden~, sowohl dem Umfang nach, als auch hinsichtlich
+der Gesichtspunkte, die sie enthalten. Wir erhalten zwei Parallelakte,
+indem die Handlungen und Worte beim Wein genau denen beim Brot
+entsprechen.
+
+Diese Gleichbildung erfolgt entweder so, dass die Momente des zweiten
+Akts in den ersten eingetragen werden (Matthäus, Paulus, Lukas), oder
+so, dass der zweite Akt nach Analogie des ersten zusammengezogen wird
+(Justin).
+
+
+=2. Der matthäische Bericht= (Mt 26 _26-29_).
+
+Matthäus befindet sich auf dem Wege zur Gleichbildung. Durch das
+[phagete] ist die ausdrückliche Erwähnung des Genussmoments in den
+ersten Akt aufgenommen. Da im zweiten an Stelle der Konstatierung
+ebenfalls die Aufforderung zum Genuss getreten ist, so entsprechen
+sich beide Akte in diesem Punkte vollkommen. [labete, phagete· touto
+estin to sôma mou. piete ex autou pantes· touto gar estin to haima
+mou.] Die Gleichbildung ist aber noch nicht vollständig vollzogen. Dem
+ersten Akt fehlt ein dem Wort über die Bedeutung des vergossenen Bluts
+entsprechender Hinweis ([to peri pollôn]). Auch das eschatologische
+Wort, welches das Gleichnis über dem Wein beschliesst, ist beim Brot
+noch nicht vertreten.
+
+Zudem zeigt das im zweiten Akt stehen gebliebene [pantes], dass hier
+eine Konstatierung in eine Aufforderung umgesetzt worden ist. Bei
+der Konstatierung muss ja notwendig erwähnt werden, dass sie alle
+davon getrunken haben. Bei der Aufforderung aber ist das [pantes]
+selbstverständlich, oder -- wenn es die Weihe der Aufforderung
+nachdrücklich hervorheben soll -- wie kann es dann beim Brot fehlen?
+Hier wäre es wirklich gefordert, da Jesus nicht ohne weiteres annehmen
+kann, dass alle das Stückchen Brot, das er ihnen darbietet, auch
+wirklich essen, während er dem Herumgehen des Kelches mit dem Auge
+folgt. Bei Paulus, Lukas und Justin ist dann das [pantes], als nicht
+mehr von Belang, auch wirklich ausgefallen.
+
+Die Verbindung des eschatologischen Schlussworts mit dem Kelchwort nach
+rückwärts, dem Aufbruch zum Leidensweg nach vorwärts ist bei Matthäus
+noch gewahrt. Jedoch ist es mit dem Kelchwort nicht mehr durch das
+gewaltige [amên] in Steigerung verbunden, so dass es, wie bei Markus,
+den ~Höhepunkt~ der ganzen Feier bildet, sondern es ist nur mehr eine
+mit [de] ~beigeordnete Schlussbemerkung~ (Markus [amên legô hymin],
+Matthäus [legô de hymin]).
+
+So befindet sich die Gleichbildung bei Matthäus noch im Fluss. Bei
+Paulus ist sie schon viel weiter fortgeschritten.
+
+
+=3. Der paulinische Bericht= (I Kor 11 _23-26_).
+
+Hinter jedem Akt ist abschliessend angefügt: [touto poieite eis tên
+emên anamnêsin]. Durch Uebernahme eines auf die Bedeutung des Todes
+hinweisenden Worts ([to hyper hymôn]) gleicht sich der erste Akt dem
+zweiten an. Nur das [eklasen] hat keine Parallele.
+
+Bei Markus und Matthäus beschloss das Wort von der Wiedervereinigung
+beim Mahl im zukünftigen Reich den Spruch über dem Becher. Nur
+scheinbar ist es bei Paulus ausgefallen. Er setzt es vielmehr als
+Abschluss ~bei beiden Akten voraus:~ [hosakis gar ean esthiête
+ton arton touton kai to potêrion pinête, ton thanaton tou kyriou
+katangellete, achri ou elthê] (V. _26_).
+
+~Bis dass er kommt~ -- darin liegt die Erwartung des Kommens des Herrn
+und des Anbruchs des Reiches. Dies darf man für die Erklärung des
+[touto poieite eis tên emên anamnêsin] nicht ausser Acht lassen. Danach
+ist die [anamnêsis] doppelseitig: nach rückwärts eine Erinnerung an den
+Tod Jesu, nach vorwärts ein Gedenken an seine Parusie. Die Feier gilt
+dem Gekreuzigten, der als Messias bei seiner Ankunft offenbart werden
+wird, als welcher er schon jetzt durch die Auferstehung zur Rechten
+Gottes erhöht ist.
+
+Bedenkt man nun, dass die historische Relation des eschatologischen
+Schlussworts im zweiten Akt abgefallen ist, dass aber nach der
+Vorstellung Pauli beide Akte mit der Erwartung der Parusie in
+Zusammenhang stehen, so liegt es nahe, in dem [touto poieite], als
+Konstatierung oder als Wiederholungsbefehl gefasst, ~die paulinische
+Form des beiden Akten beigesetzten eschatologischen Schlussworts zu
+sehen.~
+
+Für den ersten Akt ist dies eine künstliche Angliederung, da historisch
+dieser Hinweis nur mit dem Kelchwort in Beziehung steht, wo der
+Genuss konstatiert ist; der erste Akt mit seinem [eklasen] ist gar
+nicht darauf angelegt. Daraus entsteht bei Paulus eine unerträgliche
+grammatikalische Verwirrung. Die Parallele zu dem [hosakis ean pinête],
+das erwartete [hosakis ean esthiête], fehlt in der Form des [touto
+poieite] von V. _24_. Unter dem [poiein] kann also für den ersten
+Akt nur das erwähnte ~Brechen~ verstanden sein. Aus V. _25_ und _26_
+geht aber hervor, dass, dem [poiein] des zweiten Akts entsprechend,
+der Genuss, nämlich das Essen, darunter verstanden werden muss.
+Grammatikalisch allein berechtigt wäre: so oft ihr dieses Brot brechet
+und diesen Kelch trinket; thatsächlich aber soll es bedeuten: so oft
+ihr dieses Brot esset. So ist auch das [gar] zu verstehen, welches
+V. _26_ mit V. _24_ und _25_ zugleich verbindet, sofern es als
+Wiederholung der dort von Jesu gemeinten Handlung das Essen und Trinken
+voraussetzt.
+
+Die Gleichbildung ist also trotz des latenten Widerstandes des ersten
+Aktes erreicht. An beide Gleichnisse schliesst sich das Wort von der
+Heilsbedeutung des Todes und der eschatologische Hinweis an.
+
+Dabei entgeht Paulus durch die Form, in der er diesen Hinweis bietet,
+einer grossen Schwierigkeit. Dieses Wort ist in der ursprünglichen
+Gestalt ein ~Schlusswort.~ Fügt man es in dieser Form dem ersten Akt
+an, so wird die Handlung in der Mitte auseinander gerissen, da dann
+Jesus schon beim Brot die Feier beschliesst. Diese Schwierigkeit hat
+Lukas gefühlt, als er die paulinische Vorstellung in den synoptischen
+Bericht zu übertragen unternahm.
+
+
+=4. Der lukanische Bericht= (Lk 22 _14-20_).
+
+Lukas bringt zuerst das eschatologische Schlusswort in direkter Rede
+für beide Akte. Für das Kelchwort lag die Form der älteren Synoptiker
+vor. Er nimmt die Matthäusform, weil er die Aufforderung zum Genuss,
+welche Paulus nicht bietet, voraussetzt. Durch die Auslassung des
+Wortes vom Blut wird folgendes Kelchwort hergestellt Lk 22 _17_ u.
+_18_: [kai dexamenos potêrion eucharistêsas eipen· labete touto kai
+diamerisate eis heautous· legô gar hymin hoti ou mê piô apo tou nyn apo
+tou genêmatos tês ampelou heôs hotou hê basileia tou theou elthê].
+
+Der Versuch nimmt sich gut aus; das [diamerisate] hat zugesetzt werden
+müssen, damit man die später folgende Darreichung des Kelches (V.
+_20_) nicht vorwegnehme; das eingefügte [gar] stellt in Verbindung mit
+dem [diamerisate] zur Not einen logischen Gedankenzusammenhang her;
+das [kainon] (vgl. Mt 26 _29_) blieb besser weg, weil dieses Adjektiv
+nachher als erklärender Zusatz zu [diathêkê] figuriert; der Farbenton
+der eschatologischen Aussage ist etwas verblasst (Matthäus [heôs tês
+hêmeras ekeinês hotan auto pinô meth' hymôn kainon en tê basileia tou
+patros mou·] Lukas [heôs hotou hê basileia tou theou elthê]).
+
+Schwieriger war die Formulierung des eschatologischen Schlussworts für
+den ersten Akt, da hier kein behauenes Material vorlag und das Wort
+über dem Brot seinen Widerstand gegen die aufgezwungene Verbindung mit
+irgend einem eschatologischen Hinweis schon bei Paulus hinreichend
+bekundet hatte. Ein einziger Ausweg bot sich dar: das eschatologische
+Schlusswort, da es einmal für die Handlung des Essens gefordert war,
+auf die ganze Mahlzeit zu beziehen. Dieser Fassung kam der Gedanke
+zu Hülfe, dass möglicherweise die historische Feier ein Passahmahl
+gewesen; das neukonstruierte eschatologische Schlusswort für das Essen
+bezieht sich bei Lukas also auf das Passahmahl, das Jesus mit den
+Seinen feiert. _15_ [kai eipen pros autous· epithymia epethymêsa touto
+to pascha phagein meth' hymôn pro tou me pathein·] _16_ [legô gar hymin
+hoti ou mê phagô auto heôs hotou plêrôthê en tê basileia tou theou].
+
+Die Benutzung des Passahgedankens ermöglicht Lukas, eine Mahlfeier
+darzustellen, ~bei der sowohl das Essen als das Trinken einen
+eschatologischen Hinweis erhalten.~ Dabei wird aber die historische
+Feier auseinandergerissen! Zuerst kommen die beiden eschatologischen
+Worte; sie werden in den Verlauf der Passahmahlzeit gerückt. Das erste
+bildet zugleich eine stimmungsvolle Einleitung. Von dem Wort über dem
+Brot wird dadurch nichts vorausgenommen: nur mit dem Wort über dem
+Becher hat es seine Schwierigkeit. Um das Kelchwort, welches dann bei
+der eigentlichen historischen Feier eintritt, von dem vorhergehenden,
+welches im Rahmen des Passahmahls verlief, genau abzuheben, wird es
+in der paulinischen Form berichtet: [to potêrion meta to deipnêsai
+legôn· touto to potêrion hê kainê diathêkê en tô haimati mou]: soweit
+geht die Uebereinstimmung. Nun ist aber der eschatologische Hinweis
+nach Paulus (I Kor 11 _24_ u. _25_ [touto poieite] etc.) schon beim
+ersten Passah-Kelchwort verbraucht; deswegen wird hier nach Matthäus
+zurückmoduliert und [to hyper hymôn ekchynnomenon] eingesetzt; aus
+diesem Grunde war schon an Stelle des paulinischen [en tô emô haimati]
+das altsynoptische [en tô haimati mou] eingetreten.
+
+Der erste Akt wird nach Paulus beschrieben; aus den Synoptikern ist
+die ausdrückliche Erwähnung der Darbietung ([edôken-didomenon])
+eingedrungen. Das [touto poieite] ist stehen geblieben, weil das
+eschatologische Wort hinsichtlich des Essens sich auf das Passahmahl
+allgemein bezieht.
+
+Der Bericht des Lukas erklärt sich litterarisch einfach als ein
+Versuch, die bei Paulus erreichte Gleichbildung der beiden Akte
+unter Zuhülfenahme des Zusammenhangs der historischen Feier mit dem
+Passahmahl in die synoptische Geschichtserzählung zurückzutragen.
+Daraus resultiert dann folgender Verlauf der Feier: Jesus weist zu
+Anfang des Passahmahls darauf hin, dass er es erst im Gottesreiche
+wieder mit den Jüngern feiern wird. Solches wiederholt er beim ersten
+Herumreichen des Kelches. Bei einer Brotdarreichung im Verlaufe der
+Feier spricht er das Gleichnis von seinem Leibe, desgleichen beim
+Kelch das Gleichnis von seinem Blute. Beide Akte sind absolut gleich
+durch die Geltendmachung des Heilswertes der Dahingabe (V. _19_ [to
+hyper hymôn didomenon], V. _20_ [to hyper hymôn ekchynnomenon]). Auch
+bei dieser Gleichbildung geht es ohne stilistische Härte nicht ab,
+sofern nämlich im zweiten Akt von einem vergossenen Kelch die Rede ist,
+während das Blut gemeint ist.
+
+Wie bei Paulus werden beide Akte durch das [touto poieite]
+abgeschlossen. Wir haben also eine bis auf den gemessenen Rythmus
+in der Sprache sich erstreckende Gleichbildung. Freilich ist dabei
+der Schluss der Feier verloren gegangen. Das stolze Wort von dem
+Wiedertrinken in des Vaters Reich ist schon für den Anfang der
+Passahfeier verbraucht, statt dass es, wie bei Markus und Matthäus, zum
+Aufbruch überleitet. Dafür finden hier die Episoden von der Bezeichnung
+des Verräters, dem Rangstreit und der Verwarnung des Petrus ihren Platz
+(Lk 22 _21-38_), wobei die Schilderung des feierlichen Aufbruchs nach
+dem Lobgesang (Mk 14 _26_ = Mt 26 _30_) unterbleibt. »Er ging nach
+seiner Gewohnheit an den Oelberg« (Lk 22 _39_: [kai exelthôn eporeuthê
+kata to ethos eis to oros tôn elaiôn]).
+
+Eine originelle Auffassung von dem Wesen der historischen Feier liegt
+dieser Darstellung nicht zu Grunde. In keinem Falle ist sie aus dem
+Bestreben hervorgegangen, die Trennung des »Abendmahls« von der
+gemeinsamen religiösen Mahlzeit, welche bei Paulus angebahnt sein
+soll, historisch zu begründen! Dieser formlose Bericht ist nur aus dem
+Prinzip [parêkolouthêkoti anôthen pasin akribôs kathexês grapsai](Lk 1
+3) zu erklären.
+
+Es ist daher nicht zu erwarten, dass durch Streichung oder
+Versversetzung aus der lukanischen Darstellung sich ein Bericht
+gewinnen lässt, der auf eine originelle ältere Vorstellung der
+historischen Feier zurückgeht. Mehr als durch solche Versuche wird
+man dem Wert der lukanischen Darstellung gerecht, wenn man das
+schriftstellerische Geschick, das ästhetische Feingefühl und den
+liturgischen Schwung würdigt, von denen diese Schilderung Zeugnis gibt.
+
+
+=5. Der justinische Bericht= (I Apol. 66).
+
+Hier vollzieht sich die Gleichbildung durch Verkürzung des zweiten Akts
+nach Analogie des ersten. Die berichtete Feier beschränkt sich auf zwei
+rätselhafte Worte Jesu. Nach einem Dankgebet über dem Brot spricht er:
+»dies ist mein Leib«, desgleichen beim Kelch: »dies ist mein Blut«
+([ton Iêsoun labonta arton eucharistêsanta eipein· touto poiete eis tên
+anamnêsin mou, touto esti to sôma mou. kai to potêrion homoiôs labonta
+kai eucharistêsanta eipein· touto esti to haima mou]).
+
+Es fehlt das Brechen des Brots, der Hinweis auf den Wert der Dahingabe
+und die Hervorhebung des erwarteten oder erfolgten Genusses im zweiten
+Akt. Auch das eschatologische Schlusswort ist ausgefallen. Nur beim
+ersten Akt findet sich das [touto poieite] in der paulinischen Form,
+wobei aus [tên emên anamnêsin] (I Kor 11 _24_) [tên anamnêsin mou]
+geworden ist.
+
+Hier steigert sich aber der Widerstand des ersten Akts gegen einen
+derartigen Eintrag bis zur Unerträglichkeit. Worauf soll sich das
+[poiein] beziehen? Auf das vorausgehende Gebetswort? Das Brechen ist
+nicht erwähnt, der Genuss vorausgesetzt, aber nicht hervorgehoben. So
+ist das [touto poieite] hier für die grammatikalische Auslegung sinnlos
+und die Erwähnung desselben ~bei dem ersten Akt allein~ unverständlich.
+
+Bei dieser verkürzten Darstellung ist die ganze historische Situation
+interesselos geworden. Zwar erwähnt Justin Dial. 41, 70 und 117, dass
+in der Gemeindefeier auch die Erinnerung an Jesu Tod mit hereinspielt.
+In seinem Bericht aber fehlt jede Andeutung, dass dieses Mahl in der
+Nacht vor dem Tod stattgefunden hat.
+
+Aus dem »justinischen Bericht« allein wüssten wir also nur, dass Jesus
+bei einem Mahle, nachdem er das Dankgebet über dem Brot gesprochen,
+seinen Jüngern geboten habe, diesen Brauch zur Erinnerung an ihn
+festzuhalten; danach habe er fortfahrend das gesegnete Brot als seinen
+Leib und den gesegneten Kelch als sein Blut bezeichnet.
+
+
+
+
+Dreizehntes Kapitel.
+
+=Die Authentie des Markusberichts.=
+
+
+=1. Der Beweis.=
+
+Authentisch ist ein Bericht, ~welcher in keiner Weise durch die
+Vorstellung von der Gemeindefeier beeinflusst ist.~ Der Markusbericht
+ist authentisch, weil sich dieser Nachweis für ihn führen lässt.
+
+Worauf beruht die ~Gleichbildung der beiden Akte~, welche alle
+andern Berichte, wenn auch der Art und dem Grad nach verschieden,
+im Unterschied zu Markus aufweisen? Auf dem Einfluss, welchen die
+altchristliche Feier auf die Vorstellung der historischen ausübt. Die
+Gemeindefeier war eine Mahlzeit, bei der dem Essen dieselbe Bedeutung
+zukam wie dem Trinken. Ganz natürlich übertrug sich dies auf die
+historische Feier. Man wusste also nicht anders, als dass Jesus beim
+Brot und beim Wein in genau entsprechender Weise gehandelt und geredet
+haben musste, sofern in der abgeleiteten Feier die gleiche Wertung des
+Essens wie des Trinkens konstatiert wurde. So war die Gleichbildung der
+beiden Akte für die historische Feier von der urchristlichen gefordert.
+
+Besässen wir nun den Markusbericht nicht, so würden wir an der
+Gleichheit der beiden Akte nichts Besonderes finden, da dies auch
+unserem Empfinden als das Natürlichste erscheint. Alle modernen
+Rekonstruktionsversuche der »ursprünglichen Einsetzungsworte« vertreten
+die Gleichbildung ebenfalls. Wir sind also auch geneigt, die Gleichheit
+der beiden Akte ohne weiteres für selbstverständlich zu halten.
+
+Nun zeigt aber der Markusbericht, dass die Gleichheit der beiden
+Akte nicht selbstverständlich ist. Also muss man entweder für die
+Ungleichheit derselben bei ihm oder für die Gleichheit bei den andern
+eine Erklärung suchen. Dabei ergibt sich, dass man wohl die andern
+aus dem Markusbericht ableiten kann, ~nicht aber umgekehrt.~ Matthäus
+und Paulus -- der Lukasbericht ist ein rein litterarisches Produkt
+-- stellen die Feier nach dem zweiten Akt des Markus dar, Justin
+nach dem ersten. Bringt man bei jedem die Gleichbildung der beiden
+Akte entsprechend in Abrechnung, wozu die grammatikalischen Härten
+und Unmöglichkeiten Anweisung geben, ~so erhält man jedesmal den
+Markusbericht.~
+
+Dabei zeigt sich in der Gleichbildung der beiden Akte noch eine
+gewisse Entwicklung. Dass sie bei Matthäus noch nicht vollständig
+durchgeführt ist, lässt erkennen, dass die Gleichheit der Akte nicht
+das Ursprüngliche ist. Also muss sie ihren Grund in der historischen
+Anschauung der alten Zeit haben, welche diese Berichte ~formuliert~
+hat. Da dieser allein in dem Mahlzeitcharakter der Essen und Trinken
+gleichwertenden Gemeindefeier gegeben sein kann, steht fest, ~dass
+diese Berichte durch das Medium der altchristlichen Auffassung der
+Gemeindefeier hindurchgegangen sind. Markus steht ausserhalb dieses
+Prozesses, weil er die Gleichbildung nicht aufweist; also ist er
+authentisch.~
+
+Dass die Vorstellung der historischen Feier bei Paulus und Justin
+in einem sehr hohen Masse durch die Auffassung der Gemeindefeier
+bedingt ist, liegt auf der Hand. Der historische Bericht ist bei ihnen
+ja nur Mittel zum Zweck. Er soll eine bestimmte Anschauung von der
+Gemeindefeier vertreten. Die Art, wie sie beide in Verbindung setzen,
+geht weit über unsere Begriffe hinaus. Wir verstehen die Gemeindefeier
+immer nur als eine entsprechende ~Wiederholung~ der historischen,
+sofern sie aus der letzteren begründet wird. Paulus und Justin setzen
+beide gleich, indem sie die Gemeindefeier mit der historischen Feier
+gegeben sein lassen. Dabei entstehen dann Gedankengänge, die für uns
+ganz überraschend sind.
+
+Es handelt sich um I Kor 11 _26_. In V. _24_ und _25_ vollzieht Jesus
+die Einsetzung. Wer redet in V. _26_? Das [gar], sofern es sich zum
+Vorhergehenden begründend verhält, schliesst den Subjektswechsel
+aus. Der Ausdruck [ton thanaton tou kyriou] zeigt aber an, dass die
+historische Situation verlassen ist und Paulus von der Gemeindefeier
+redet. Dazu passt aber das [gar] nicht, denn was für die Gemeindefeier
+gilt, ist nicht eine ~Begründung~ zu den Worten Jesu, sondern eine
+~Folgerung~ aus dem historischen Spruch. In diesem Satz vollzieht also
+Paulus den Uebergang von der historischen Feier zur Gemeindefeier so,
+dass er beide für einen Augenblick gleichsam zusammenschiebt.
+
+Darum schmilzt er zwei Sätze, von denen der erste der historischen
+Situation, der zweite der Darlegung über die Gemeindefeier angehört,
+ineinander.
+
+    1. Jesus zu den Jüngern im Anschluss an die Gleichnisse: »denn
+    ([gar]) so oft ihr von diesem Brot esset und von diesem Wein
+    trinket, verkündet ihr meinen Tod, bis dass ich komme.«
+
+    2. Paulus der Gemeinde das Wesen ihrer Feier aus der historischen
+    erklärend: »Darum ([hôste]), so oft ihr von diesem Brot esset und
+    von diesem Wein trinket, verkündet ihr des Herrn Tod, bis dass er
+    komme.«
+
+Justin bietet ein Seitenstück zu diesem schillernden Uebergang. Er
+fasst in der berühmten Darlegung I Apol. 65 und 66 die historische
+Feier und die Gemeindefeier in einem gemeinsamen Ausdruck zusammen,
+indem er sie bezeichnet als: [hê di' euchês logou tou par' autou]
+(sc. Jesu) [eucharistêtheisa trophê]. Dieser Ausdruck bekundet eine
+Gleichsetzung der beiden Feiern, die weit über unseren Begriff
+der entsprechenden Wiederholung hinausgeht. Die Speise bei der
+Gemeindefeier ist, wie bei der historischen, durch Jesu Gebetswort
+geheiligt. Ein Unterschied besteht also nicht.
+
+Was die Gleichbildung der beiden Akte anzeigt, wird durch die
+Argumentierung, mit welcher Paulus und Justin die Gemeindefeier mit
+der historischen Feier verbinden, bestätigt: Sie sehen die historische
+Feier nur in der Beleuchtung der Gemeindefeier.
+
+Solange die Textvergleichung ausschliesslich auf die Entdeckung der
+wahrscheinlichsten und ansprechendsten Form der ~Einsetzungsworte~
+ausging, bestand die Vorstellung der Möglichkeit einer paulinischen
+oder justinischen Sondertradition zu Recht, da beide »die
+Einsetzungsworte« in sowohl unter sich unabhängigen als von den beiden
+älteren Synoptikern grundverschiedenen Fassungen boten. Prüft man aber
+die ~Berichte als Berichte~, frägt man sie, ohne den verlockenden
+Anpreisungen ihrer »Einsetzungsworte« Gehör zu geben, was sie von
+dem Verlauf und dem Wesen des gesamten historischen Vorgangs, bei
+welchem diese Gleichnisse geredet wurden, wissen, dann ist es mit der
+Scheinoriginalität aus. Es zeigt sich, dass sie sich die historische
+Feier der ihnen geläufigen Gemeindefeier entsprechend vorstellen,
+nur dass Jesus dabei Speise und Trank austeilt und die bekannten
+Gleichnisse redet. Also geht auch ihre Fassung »der Einsetzungsworte«
+nicht auf eine paulinische oder justinische Sondertradition zurück,
+sondern sie ist geschichtlich aus der vorausgesetzten Gemeindefeier zu
+erklären. Paulus und Justin differieren in ihren »Einsetzungsworten«,
+weil und insofern die justinische von der paulinischen Gemeindefeier
+differiert. Zwischen beiden muss in der Auffassung der Feier eine
+Wandlung eingetreten sein.
+
+So führt die neue Problemstellung eine neue Auffassung der Authentie
+mit sich, welche sich nicht mehr auf ~Meinungen, sondern auf Gesetze~
+gründet. Als authentisch gilt nicht mehr die kürzeste oder scheinbar
+klarste Relation »der Einsetzungsworte«, ~sondern die Darstellung des
+gesamten historischen~ Vorgangs, für welche eine Beeinflussung durch
+die Gemeindefeier nicht nachgewiesen werden kann, ob uns nun die
+betreffende »Einsetzungsformel« zusagt oder nicht.
+
+Bisher galt es für interessant, mit einer gewissen skeptischen
+Nonchalance die Behauptung hinzuwerfen, dass wir über die Authentie
+der Berichte niemals etwas wissen können. Selbst wenn unter unseren
+Berichten ein authentischer sich befände, so hätten wir doch kein
+Mittel, ihn unter den andern herauszufinden. Durch die neue Auffassung
+der Authentie ist diese Skepsis abgethan. Wir besitzen einen
+authentischen Bericht. Wer es bestreiten will, muss nachweisen, dass
+der Markusbericht ein durch die andern Darstellungen desavouiertes
+Phantasieprodukt ist. Authentisch oder sinnlos: das ist die einzig
+offene Alternative.
+
+
+=2. Die Folgerungen aus der Authentie des Markusberichts.=
+
+Die neue Auffassung der Authentie bezeichnet den ersten Erfolg der
+neuen Problemstellung. Er öffnet dem neuen Lösungsversuch den Weg.
+Jesus forderte die Jünger auf, seinen Leib zu essen und sein Blut zu
+trinken: dieser angenommene gemeinsame Thatbestand aller Berichte
+schien den Weg zu versperren. Durch die Authentie des Markusberichts
+wird aber dieser Scheinthatbestand ausser Kraft gesetzt. Es ist
+historisch bestätigt, was aus der Kritik der modernen Auffassungen
+geschlossen wurde: Jesus hat seine Jünger nicht aufgefordert, seinen
+Leib und sein Blut zu geniessen, sondern er hat die Gleichnisworte im
+Verlauf, nicht vor dem Genuss gesprochen. Das Kelchwort kommt erst,
+nachdem alle getrunken haben!
+
+Also haben wir einen Bericht, bei dem das Wesen der Feier nicht auf den
+Gleichnissen, sondern auf dem feierlichen Vorgang beruht. Das hatte die
+neue Problemstellung gefordert. Nun ist es Thatsache geworden. ~Also
+ist das Abendmahlsproblem für die historische Kritik lösbar.~
+
+
+=3. Das Messianitäts- und Leidensgeheimnis im Abendmahl.=
+
+Die Bedeutung der Darreichung der Genusselemente bleibt vorerst
+rätselhaft. Nur das Negative ist klar, dass nämlich die Gleichnisse
+nicht aus der symbolischen Handlung des Brechens und aus dem
+vorausgesetzten Ausgiessen des Weins an sich erklärt werden dürfen.
+Das darstellende Moment spielt in den Berichten keine Rolle und
+verschwindet zuletzt ganz, wie der justinische Text zeigt, wo das
+Brechen nicht einmal mehr erwähnt wird.
+
+Wollte man die Gleichnisse nach dem authentischen Markustext deuten, so
+müsste man das erste aus dem Brechen, das zweite aus der Thatsache,
+dass alle Jünger getrunken haben, erklären. Man bekäme also zwei ganz
+verschieden geartete Gleichnisse.
+
+Die Gleichnisse vom Leib und Blut müssen aber irgendwie den
+Leidensgedanken enthalten. Dass Jesus damit das Geheimnis seines
+Leidens zum letztenmal ausgesprochen hat, ist in den Umständen dieses
+letzten Zusammenseins gegeben. Wenn wir also die Gleichnisse nicht
+richtig zu verstehen vermögen, kann dies nur daran liegen, dass wir das
+~Geheimnis des Leidensgedankens~ falsch auffassen.
+
+Nun ist es die Eigentümlichkeit aller modern-historischen
+Abendmahlsauffassungen, dass sie in der Feier ~den eschatologischen
+Gedanken~ nicht zur Geltung bringen. Sie verwenden das Wort von dem
+Neutrinken in des Vaters Reich nicht als eine das Wesen jenes letzten
+Mahls mitkonstituierende Aussage, sondern machen daraus bestenfalls ein
+Anhangswort.
+
+Im Markustext nimmt es aber eine Hauptstellung ein. Es ist das mit
+erhobener Stimme feierlich und eindringlich gesprochene Schlusswort
+der Feier. Dabei hängt es mit dem Wort vom vergossenen Blut eng und
+unzertrennlich zusammen, so dass es mit ihm einen einzigen Gedanken
+zu bilden scheint. ~Diese enge Verbindung zwischen dem Todes- und
+Wiederkunftsgedanken ist charakteristisch für den zweiten Akt der
+Situation bei Markus.~
+
+Demselben Zusammenhang begegnen wir aber auch bei Paulus und zwar in
+beiden Akten. Nach ihm -- und er beruft sich dabei ausdrücklich auf den
+historischen Hergang -- besteht die Bedeutung des Essens und Trinkens
+irgendwie in der Verkündigung des Todes des Herrn zugleich mit der
+Erwartung seiner Parusie. »So oft ihr dieses Brot esset und diesen Wein
+trinket, verkündigt ihr den Tod des Herrn, bis dass er komme.«
+
+In der authentischen Relation der historischen Feier und in der
+ältesten Relation der Gemeindefeier haben wir also beidemal
+eine organische Verbindung zwischen dem Leidensgedanken und der
+eschatologischen Erwartung. Es ist daher falsch, das Wesen der Feier
+in der letzten Aussprache des Todesgedankens allein zu finden.
+~Nicht von seinem Tod, sondern von seinem Tod und der baldigen
+Wiedervereinigung mit ihnen beim Mahle im neuen Reich~ hat Jesus zu
+den Seinen geredet. Das Geheimnis seines Todes, welches bei dieser
+Feier in der ergreifendsten und erhebendsten Weise zum letztenmal
+von Jesus ausgesprochen wurde, enthält den Leidensgedanken im engsten
+Zusammenhang mit der eschatologischen Erwartung.
+
+Die modern-historischen Abendmahlsauffassungen sind also unhistorisch,
+weil der Leidensgedanke, mit dem sie operieren, keinen Zusammenhang
+mit der Eschatologie aufweist. Darum können sie den wesentlichen
+Grundzug der historischen Feier und der ältesten Gemeindefeier nicht
+zum Ausdruck bringen. Um das Wesen des letzten Mahles zu begreifen,
+bedarf es daher eines Einblicks in den eschatologischen Charakter des
+Leidensgeheimnisses Jesu. Diesen kann man nicht aus der Feier selbst
+gewinnen, da Jesus dort das Geheimnis im Gleichnis ausspricht. Das
+Gleichnis aber vermögen wir nicht zu deuten.
+
+~Beim letzten Mahl handelt Jesus als Messias, und zwar als leidender
+Messias.~ Wenn wir sein Handeln nicht verstehen, so liegt dies mithin
+daran, dass wir sein Messianitäts- und Leidensgeheimnis falsch
+verstehen. Das Abendmahl kann nur aus dem Zusammenhang des Lebens Jesu
+begriffen werden. Unsere Abendmahlsauffassungen sind falsch -- ~also
+ist die Auffassung des Lebens Jesu, welche uns dazu geführt hat, auch
+falsch.~
+
+Das Abendmahlsproblem ist das Problem des Lebens Jesu! Eine neue
+Abendmahlsauffassung kann nur aus einer neuen Auffassung des Lebens
+Jesu hervorwachsen, welche das Messianitäts- und Leidensgeheimnis so
+enthält, dass sein feierliches Handeln beim letzten Mahle begreiflich
+und verständlich wird. ~Ein neues Leben Jesu:~ das ist der einzige Weg
+zur Lösung des Abendmahlsproblems.
+
+
+
+
+Anmerkungen zur Transkription:
+
+Die erste Zeile entspricht dem Original, die zweite Zeile enthält die
+Korrektur.
+
+
+S. XV:
+
+  3. Das Ergebnis des Textkritik
+  3. Das Ergebnis der Textkritik
+
+S. 13:
+
+  Vergleiche zum folgenden den verhängnisvollen Vortrag
+  Vergleiche zum Folgenden den verhängnisvollen Vortrag
+
+S. 17:
+
+  sondern auf einer eschatologichen Vorstellung vom Endmahl
+  sondern auf einer eschatologischen Vorstellung vom Endmahl
+
+S. 25:
+
+  wenn der Fall an sie herantritt, im stande seien, ihrerseits ihre Seele
+  wenn der Fall an sie herantritt, imstande seien, ihrerseits ihre Seele
+
+S. 54:
+
+  touto to potêrion hê kainê diadêkê en tô haimati mou
+  touto to potêrion hê kainê diathêkê en tô haimati mou
