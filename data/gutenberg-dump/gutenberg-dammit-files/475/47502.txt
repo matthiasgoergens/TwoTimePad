@@ -1,0 +1,3344 @@
+Hinweise zur Transkription
+
+
+    Im Original gesperrter Text wird ~so dargestellt~.
+
+    Im Original kursiver Text wird _so dargestellt_.
+
+    Im Original fetter Text wird =so dargestellt=.
+
+    Weitere Hinweise zur Transkription befinden sich am Ende des
+    Buches.
+
+
+
+
+    LEHRBUCH
+
+    DER
+
+    PERSPECTIVE.
+
+    MIT 118 IN DEN TEXT GEDRUCKTEN
+    ZEICHNUNGEN
+
+    VON
+
+    G. CONZ,
+
+    MALER, PROFESSOR AM K. CATHARINENSTIFT IN STUTTGART.
+
+    [Illustration]
+
+    STUTTGART.
+
+    VERLAG VON KONRAD WITTWER.
+    1888.
+
+
+
+
+    ~Alle Rechte vorbehalten.~
+
+
+    Druck von ~Carl Hammer~ in Stuttgart.
+
+
+
+
+Vorwort.
+
+
+Wer das Schaffen unserer Künstler kennt, der weiss, dass auch der
+Talentvollste nicht ohne gewissenhaftes und gründliches Studium zum
+Ziele gelangt, und dass sie Mühe und Arbeit nicht zu scheuen pflegen.
+Woher kommt es nun, dass die Mehrzahl der Maler so wenig von der
+Perspective versteht, welche doch zweifellos eine so wichtige Grundlage
+ihrer Studien bildet? Die Meisten unterschäzen den Wert derselben
+nicht, nehmen auch wohl dieses oder jenes Lehrbuch zur Hand, aber
+gewöhnlich nur, um es bald wieder zur Seite zu legen, ohne ihren Zweck
+erreicht zu haben, und wenn man nach dem Grunde fragt, so heisst es,
+das möge alles ganz gut für Architekten sein, eigne sich aber nicht für
+Maler.
+
+Allerdings ist die Art und Weise, in welcher der Architekt die
+perspectivischen Geseze anwendet, wesentlich verschieden von der
+des Malers und es mag wohl sein, dass die meisten perspectivischen
+Lehrbücher dem Standpunkt des Lezteren weniger als dem des Ersteren
+Rechnung tragen.
+
+Der Architekt stellt sich die Aufgabe, das perspectivische Bild eines
+Gegenstands mathematisch genau zu berechnen auf Grund bestimmter
+Angaben über die wirkliche (geometrische) Richtung, Grösse und
+Winkelstellung sämtlicher Linien, wie sie ihm in seinem Grundriss
+und Aufriss vorliegen. Für den Maler dagegen ist das perspectivische
+Bild, welches in der Natur oder in seiner Fantasie vor ihm steht,
+das zuerst Gegebene. In den meisten Fällen ist er darauf angewiesen,
+zunächst die perspectivische Richtung und Grösse einzelner für die
+beabsichtigte Wirkung seines Bildes wesentlicher Linien, so gut
+die Übung seines Auges gestattet, festzustellen und dann erst die
+perspectivische Berechnung anzuwenden, um das Übrige mit jenen in
+richtige Übereinstimmung zu bringen. Für diese Berechnung fehlen ihm
+aber, da er selten in der Lage ist, Messungen an seinem Gegenstand
+vorzunehmen, die genauen und bestimmten Angaben, welche dem Architekten
+zu Gebote stehen, und welche die Auffassung auch eines geübten Auges
+nicht vollständig ersezen kann. Er muss daher in der Regel auf eine
+vollständige perspectivische Genauigkeit aller Teile seines Bildes
+verzichten und er bezweckt eine solche auch nicht. Man kann sagen, dass
+er in dieser Beziehung seiner Aufgabe genügt, wenn er ~perspectivische
+Fehler vermeidet, welche für das Auge eines kundigen Beschauers ohne
+Anwendung einer Berechnung wahrnehmbar und deshalb für die Wirkung des
+Ganzen störend wären~.
+
+Hieraus ergeben sich einerseits gewisse Schwierigkeiten, welche ein
+für die Zwecke des Malers geeignetes Lehrbuch der Perspective zu
+berücksichtigen hat, anderseits bietet sich die Möglichkeit, in
+mancher Beziehung den Stoff zu vereinfachen und leichter verständlich
+zu machen.
+
+Der Umgang mit Kunstgenossen, sowie eine langjährige Lehrthätigkeit
+haben dem Verfasser das Bedürfnis eines in dem erwähnten Sinne
+geschriebenen Lehrbuchs so oft nahe gelegt und ihm zugleich so
+vielfache Gelegenheit gegeben, die Mittel und Wege, welche sich hiebei
+darbieten, zu erproben, dass er vielleicht hoffen darf, mit dieser
+Schrift Vielen einen Dienst zu erweisen. Neben den Bedürfnissen des
+Malers sind zugleich diejenigen des Schulunterrichts ins Auge gefasst.
+Mit Rücksicht auf diesen sind auch die einfachen geometrischen
+Begriffe, welche in Betracht kommen, besprochen und ist die Anordnung
+des Stoffes eine solche, dass die für das Freihandzeichnen wichtigsten
+und unentbehrlichsten Lehrsäze, welche zugleich die verständlichsten
+sind, leicht von den schwierigeren Teilen getrennt vorgenommen werden
+können.[1]
+
+    [1]: Anm. Das Notwendigste und zugleich Einfachste sind ausser
+    einigen Grundbegriffen (§§ 1--15) die allgemeinen Regeln über
+    die Richtung der verkürzten parallelen und wagrechten Linien (§§
+    20--29, § 37); nächst diesen die §§ 30--36, 41--64, 71--73, 86--92,
+    99--101, § 105. Der Grad von perspectivischer Genauigkeit, welcher
+    mit Hilfe dieser Abschnitte zu erzielen ist, mag in vielen Fällen
+    genügen.
+
+Auch für den Künstler haben ohne Zweifel die weniger schwierigen
+Berechnungen, welche sich im Notfall mittels einiger aus freier Hand
+gezeichneter Hilfslinien ausführen lassen, den meisten Wert und
+Manchen wäre vielleicht eine noch kürzere und einfachere Fassung des
+Ganzen erwünscht und genügend gewesen. Aber abgesehen davon, dass ein
+grösserer Massstab des Bildes zuweilen genauere und ausführlichere
+Constructionen erfordert, haben dieselben auch den Wert, das
+Verständnis zu üben und zu schärfen, wie überhaupt der wichtigste
+Nuzen solcher Studien darin besteht, dass das Auge richtiger sehen und
+auch ohne Anwendung einer Berechnung die Formen der Natur rascher und
+sicherer auffassen lernt.
+
+    =Stuttgart=, im März 1888.
+
+    =Der Verfasser.=
+
+
+
+
+Inhalt.
+
+
+                                                                   Seite
+
+              Vorwort                                            III--VI
+
+
+              I. Geometrische Begriffe.
+
+  § 1.        Senkrechte, wagrechte, schräge und parallele Linien      1
+
+  § 2.        Winkel; rechte, stumpfe und spize                     1--3
+
+  § 3.        Dreiecke; gleichseitige, gleichschenklige,
+              rechtwinklige                                         3--4
+
+  § 4.        Vierecke; Quadrat, Rechteck, Raute, Trapez            4--5
+
+  § 5.        Der Kreis. Hilfsmittel zum perspectivischen Zeichnen  5--6
+
+
+              II. Grundbegriffe der Perspective.
+
+  § 6--11.    Unterschied der geometrischen und perspectivischen
+              Form                                                 7--14
+
+  § 12--13.   Der Standpunkt; Sehkreis, Augpunkt, Horizont        15--19
+
+  § 14--20.   Die Distanz      19--23
+
+  § 21--24.   Das Grundgesez der perspectivischen Formerscheinung.
+              Verkürzte und unverkürzte Stellung der Flächen und
+              Linien                                              24--27
+
+
+              III. Perspectivische Richtung verkürzter Linien.
+
+  § 25--27.   Verkürzte Parallellinien                            28--31
+
+  § 28--31.   Verkürzte wagrechte Linien                          31--37
+
+  § 32--36.   Rechtwinklige wagrechte Linien                      37--45
+
+  § 37.       Verkürzte wagrechte Linien, deren Richtung nicht
+              genau zu berechnen ist                                  45
+
+  § 38--40.   Wagrechte Parallellinien, deren Fluchtpunkt
+              unzugänglich ist                                    46--51
+
+  § 41--44.   Verkürzte schräge Linien                            51--57
+
+  § 45--48.   Berechnung der Richtung schräger Linien ohne Hilfe
+              ihrer Fluchtpunkte                                  57--62
+
+  § 49--61.   Verschiedene Beispiele: Treppen, Dächer,
+              Dachfenster, Turmhelme                              62--80
+
+
+              IV. Die perspectivischen Grössenverhältnisse.
+
+  § 62.       Unterscheidung der verschiedenen Aufgaben               81
+
+  § 63--70.   Parallellinien von gleicher Länge in verschiedener
+              Tiefe                                               82--90
+
+  § 71--73.   Teilung einer verkürzten Linie nach bestimmten
+              Verhältnissen                                       90--94
+
+  § 74--79.   Perspectivisches Grössenverhältnis nicht
+              paralleler Linien                                  95--105
+
+  § 80.       Das Quadrat in gerader Stellung                   105--106
+
+  § 81--85.   Das Quadrat in schräger Stellung                  106--111
+
+  § 86--87.   Vergrösserung oder Verkleinerung eines Quadrats
+              oder Rechtecks                                    111--115
+
+
+              V. Verkürzte Kreise, Achtecke und Sechsecke;
+              Gewölbeformen.
+
+  § 88--90.   Der Kreis in verkürzter Stellung                  116--119
+
+  § 91.       Parallele und concentrische Kreise                119--120
+
+  § 92.       Teilung eines verkürzten Kreises                  120--121
+
+  § 93--95.   Verkürzte Achtecke                                122--127
+
+  § 96--98.   Verkürzte Sechsecke                               127--130
+
+  § 99--100.  Weitere Beispiele: Rad, Wasserrad, Walze,
+              Cylinder                                          130--133
+
+  § 101--108. Tonnengewölbe, Kreuzgewölbe, Spizbogen, Kuppel    133--144
+
+
+Druckfehler.
+
+    S. 17 Zeile 13 und 14 von oben ist zu lesen: je tiefer wir stehen,
+      desto schmaler, je höher wir stehen, desto breiter erscheint uns
+      dieselbe.
+
+    S. 26 Z. 14 v. o ist zu lesen: _b c_ ferner als _a d_.
+
+    S. 50 "  16 "  "  "   "   "    _B_ statt _g_.
+
+    S. 57 "   1 v. u. "   "   "    _F_ statt _E_.
+
+    S. 62 "   3 v. o. "   "   "    _n a_ statt _m d_.
+
+
+
+
+I. Geometrische Begriffe.
+
+
+Gerade Linien.
+
+§ 1. Eine gerade Linie ist ~senkrecht~, wenn sie die durch das Lot
+oder Senkblei angegebene Richtung hat, ~wagrecht~, wenn ihre beiden
+Endpunkte (und somit alle Punkte derselben) in gleicher Höhe liegen,
+~schräg~, wenn sie nach irgend einer Richtung hin steigt oder fällt.
+Dies gilt sowohl von den wirklichen Linien im Raume, als von den Linien
+einer Zeichnung, wenn wir uns leztere senkrecht stehend denken.
+
+Linien, welche dieselbe Richtung haben, so dass der Abstand zwischen
+ihnen, soweit man sie verlängern mag, überall gleich gross ist, heissen
+~Parallellinien~, vgl. _A B_ und _C D_, _E F_ und _G H_ Fig. 1. Zieht
+man zwischen 2 parallelen Linien Verbindungslinien, welche unter sich
+gleichfalls parallel sind, so sind leztere gleich lang, vgl. die Linien
+_a_, _b_, _c_, _d_, _e_, _f_ Fig. 1.
+
+[Illustration: Fig. 1.]
+
+
+Winkel.
+
+§ 2. Linien, welche nicht parallel sind, stehen in einem ~Winkel~ zu
+einander. Treffen sie in einem Punkte zusammen, wie in Fig. 2 _b c_ und
+_c d_ in _c_ oder _a b_ und _b c_ in _b_, so heisst dieser Punkt die
+~Spize~ des Winkels; die beiden den Winkel bildenden Linien heissen
+seine ~Schenkel~. Wenn man von der Grösse eines Winkels spricht, so
+ist damit der Grad gemeint, in welchem beide Schenkel desselben gegen
+einander geneigt sind; der Winkel bei _c_ ist z. B. kleiner, als der
+Winkel bei _b_; die Länge der Schenkel kommt hiebei nicht in Betracht.
+
+[Illustration: Fig. 2.]
+
+Eine senkrechte und eine wagrechte Linie, oder 2 schräge Linien, welche
+in demselben Grade gegen einander geneigt sind, wie eine senkrechte
+und eine wagrechte, bilden einen ~rechten Winkel~, vgl. Fig. 2 _A B_
+und _A C_, _e f_ und _c d_. Werden die Schenkel eines rechten Winkels
+über die Spize hinaus verlängert, so entstehen 4 rechte Winkel (z. B.
+bei _A_). Zwei Linien, welche weniger gegen einander geneigt sind, als
+die Schenkel eines rechten Winkels, bilden einen ~stumpfen~ solche,
+die stärker gegen einander geneigt sind, einen ~spizen~ Winkel. Ein
+stumpfer Winkel (_a b_ und _c b_, Fig. 2) ist also grösser, ein spizer
+Winkel (_b c_ und _c d_) ist kleiner, als ein rechter.
+
+
+Dreiecke.
+
+[Illustration: Fig. 3.]
+
+§ 3. _A_, _B_, _C_, _D_, _E_ Fig. 3 sind verschiedene Arten von
+Dreiecken: _A_, ein ~gleichseitiges~ Dreieck, hat 3 gleich lange
+Seiten, welche in den Ecken 3 gleich grosse spize Winkel bilden; _B_,
+_C_ und _E_ sind ~gleichschenklige~ Dreiecke, in welchen 2 Seiten
+gleich lang sind, während die dritte entweder länger oder kürzer ist,
+als jene beiden; leztere heisst die ~Grundlinie~. _D_ und _E_ sind
+~rechtwinklige~ Dreiecke, d. h. einer der 3 Winkel ist ein rechter; _E_
+ist also ein gleichschenkliges rechtwinkliges Dreieck: der Winkel bei
+_a_ ist ein rechter, _a b_ und _a c_ sind gleich lang; die Winkel bei
+_b_ und _c_ sind halbe rechte Winkel; durch eine Linie von _a_ nach
+_d_, der Mitte von _b c_, entstehen 2 rechtwinklige gleichschenklige
+Dreiecke: _a d c_ und _a d b_.
+
+
+Vierecke.
+
+§ 4. Fig. 4 ist ein ~Quadrat~, d. h. ein Viereck mit 4 gleich langen
+Seiten, welche in den Ecken 4 rechte Winkel bilden; in einem ~Rechteck~
+oder Oblongum (Fig. 5) stossen die Seiten gleichfalls in rechten
+Winkeln zusammen, aber das eine Seitenpaar ist länger, als das andere.
+Fig. 6 ist eine ~Raute~ oder ein Rhombus: die 4 Seiten sind gleich lang
+und die gegenüberliegenden sind parallel, wie im Quadrat, aber sie
+bilden in den Ecken nicht rechte, sondern 2 spize und 2 stumpfe Winkel.
+
+[Illustration: Fig. 4.]
+
+[Illustration: Fig. 5.]
+
+[Illustration: Fig. 6.]
+
+Vierecke, in welchen die gegenüberliegenden Seiten parallel sind, also
+Quadrat, Rechteck und Raute, heissen ~Parallelogramme~. Die Linien
+_a c_ und _b d_ in Fig. 4, 5 und 6, welche die gegenüberliegenden Ecken
+eines Parallelogrammes verbinden, heissen ~Diagonalen~. Die beiden
+Diagonalen eines Parallelogramms sind gleich lang, und schneiden sich
+im Mittelpunkt desselben. Zieht man durch den Punkt _e_, in welchem
+sie sich schneiden, Linien, welche mit den Seiten parallel sind, so
+werden leztere halbiert. Im Quadrat werden die rechten Winkel der
+Ecken durch die Diagonalen halbiert. Diese stehen zu einander in einem
+rechten, zu den Seiten des Quadrats in einem halben rechten Winkel.
+_e a b_, _e b c_, _e c d_ und _e d a_ Fig. 4 sind 4 rechtwinklige,
+gleichschenklige Dreiecke, welche durch die Linien _e f_, _e g_, _e h_
+und _e i_ wieder in je 2 solche Dreiecke geteilt werden.
+
+[Illustration: Fig. 7.]
+
+Ein Viereck, in welchem 2 Seiten parallel, die beiden andern nicht
+parallel sind, heisst ~Trapez~ (Fig. 7.)
+
+
+Der Kreis; Hilfsmittel zum perspectivischen Zeichnen.
+
+§ 5. Der ~Kreis~ (Fig. 8) ist eine gebogene Linie, welche überall
+gleich weit von einem Punkte, ihrem Mittelpunkt, entfernt ist.
+~Durchmesser~ des Kreises heisst eine gerade Linie, welche von einem
+beliebigen Punkte der Kreislinie durch den Mittelpunkt hindurch
+nach dem entgegengesezten Punkt derselben gezogen wird, wie _a b_;
+eine gerade Linie vom Mittelpunkt nach einem beliebigen Punkt der
+Kreislinie, z. B. _c a_, _c b_, _c d_, _c e_, welche somit die Hälfte
+eines Durchmessers bildet, heisst ~Halbmesser~ oder ~Radius~. Alle
+Radien eines Kreises sind gleich lang. ~Concentrische~ Kreise sind
+Kreise, welche denselben Mittelpunkt haben.
+
+[Illustration: Fig. 8.]
+
+[Illustration: Fig. 9.]
+
+[Illustration: Fig. 10.]
+
+Als Hilfsmittel sind zum perspectivischen Zeichnen erforderlich: ein
+grösseres Reissbrett, ein Zirkel, ein rechter Winkel (Fig. 9) und eine
+Reissschiene (Fig. 10); durch leztere erhält man, indem der kurze
+Teil an den Rand des Reissbretts angelegt wird, auf bequeme Weise die
+senkrechten und wagrechten Linien.
+
+
+
+
+II. Grundbegriffe der Perspective.
+
+
+Unterschied der geometrischen und perspectivischen Form.
+
+§ 6. Einen Gegenstand perspectivisch zeichnen heisst ihn so zeichnen,
+wie er dem Auge erscheint, wenn wir ihn von einem bestimmten
+Standpunkte aus betrachten. Dieses scheinbare oder ~perspectivische
+Bild~ der Dinge ist vielfach verschieden von der Form, welche sie
+in Wirklichkeit haben, d. h. ihrer ~geometrischen Form~; während
+leztere unverändert bleibt, ändert sich die perspectivische Form eines
+Gegenstands mit jeder Veränderung unseres Standpunkts oder mit jeder
+Veränderung in der Stellung des betreffenden Gegenstandes.
+
+Die geometrische Form eines Würfels (cubus) ist z. B. die eines
+Körpers, welcher von 6 gleich grossen quadratischen, rechtwinklig
+aneinanderstossenden Flächen begrenzt wird. Die Umrisslinien dieser
+Flächen sind geometrisch gleich lang, ihre geometrische Richtung
+ist, wenn wir den Würfel auf eine wagrechte Fläche stellen, teils
+senkrecht, teils wagrecht, sie stehen geometrisch teils parallel, teils
+rechtwinklig zu einander. Stellen wir aber mehrere in Wirklichkeit
+gleich grosse Würfel in verschiedener Stellung und Entfernung
+vor uns, oder betrachten wir denselben Würfel von verschiedenen
+Standpunkten aus, so erhalten wir sehr verschiedene Bilder, wie
+Fig. 11 zeigt: während einige Linien, wie _a b_, _b c_, _c d_ in
+_A_, ihre geometrische Richtung und Länge behalten, erscheint ein
+Teil der geometrisch wagrechten Linien schräg, wie _c e_ in _A_,
+_a b_, _a g_, _c d_, _c e_, _d f_ und _e f_ in _B_, zuweilen auch
+senkrecht, wie _d f_ in _A_; geometrisch parallele Linien erscheinen
+nicht mehr parallel, wie _c e_ und _d f_ in _A_, von den geometrisch
+gleich grossen Linien und Flächen erscheint bald die eine, bald die
+andere grösser oder kleiner u. s. w. Und während in Wirklichkeit die
+Gegenstände und ihre einzelnen Teile und Linien nicht nur neben und
+über einander, sondern auch in den verschiedensten Entfernungen vor und
+hinter einander liegen, sehen wir sie perspectivisch so, als ob sie
+in einer senkrechten Fläche sämtlich neben und über einander lägen,
+weshalb wir denn auch auf der Fläche des Papiers, der Leinwand u. s.
+w. das naturgetreue Bild eines Gegenstandes wiedergeben können. Die
+deutlichste Anschauung hievon gibt das fotografische Abbild oder
+das Spiegelbild. Wenn wir einen Gegenstand, ohne unser Auge von der
+Stelle zu bewegen, so wie wir ihn in einem Spiegel oder durch eine
+Fensterscheibe sehen, auf der Fläche des Glases nachzeichnen, so
+erhalten wir sein genaues perspectivisches Bild.
+
+[Illustration: Fig. 11.]
+
+
+§ 7. Es ist die Erfahrung und Übung des Auges, welche bewirkt, dass wir
+die perspectivische Form, in der wir die Dinge sehen, nicht mit ihrer
+wirklichen oder geometrischen Form verwechseln, sondern uns auch da,
+wo die erstere von der lezteren abweicht, eine allerdings nicht immer
+genaue Vorstellung von der wirklichen Form des betreffenden Gegenstands
+machen können; dass wir z. B. bei Betrachtung von mehreren, wie _A_,
+_B_, _C_, _D_, _E_, _F_, _G_ Fig. 11 sich darstellenden Würfeln uns
+ihrer verschiedenen Entfernung von unserem Standpunkt, der geometrisch
+wagrechten und parallelen Richtung der Linien _c e_, _d f_ u. s. w. in
+_A_, der geometrisch gleichen Länge sämtlicher Umrisslinien der Würfel
+bewusst sind.
+
+Ja, diese auf der Erfahrung unseres Auges beruhende Kenntnis der
+geometrischen Form bildet ein nicht unwesentliches Hindernis für die
+richtige Auffassung des perspectivischen Bildes.[2] Unbewusst halten
+wir in dem häufigen und mannigfachen Wechsel der perspectivischen
+Erscheinung die Vorstellung der geometrischen Form fest und der
+ungeübte Zeichner ist deshalb stets geneigt, auch wo das seinem
+Auge sich darbietende Bild eines Gegenstands von dessen wirklicher
+Form erheblich abweicht, die leztere an Stelle des ersteren zu
+sezen, oder wenigstens mehr als richtig ist, der geometrischen Form
+nahe zu bleiben. Er wird z. B. Flächen oder Linien, welche von dem
+angenommenen Standpunkt aus im Verhältnis zu andern kleiner erscheinen,
+als sie in Wirklichkeit sind, fast immer zu gross, in Fig. 12 z. B.
+_a b_ statt _i g_ (das linke Bild als das richtige angenommen),
+geometrisch rechtwinklige Linien, welche perspectivisch einen stumpfen
+oder spizen Winkel bilden, meist so zeichnen, dass sie wenigstens
+annähernd rechtwinklig zu einander stehen, vgl. _c_, _d_, _e_, _f_
+statt _m_, _n_, _o_, _p_; erscheint eine geometrisch wagrechte Linie
+perspectivisch schräg, so wird er sie zu wenig von der wagrechten
+Richtung abweichen lassen, vgl. _a b_ u. s. w.
+
+    [2]: Mit dem Ausdruck »Bild« wird sowohl der perspectivisch
+    gesehene Gegenstand selbst, als die perspectivische Darstellung
+    desselben bezeichnet.
+
+[Illustration: Fig. 12.]
+
+
+§ 8. ~Jede Berechnung einer perspectivischen Form muss zunächst
+ausgehen von der geometrischen Form des betreffenden Gegenstands~: um
+zu berechnen, welche Richtung und welche Länge eine bestimmte Linie
+unseres Bildes haben soll, müssen wir die wirkliche Richtung und Länge
+der betreffenden Linie kennen und nur soweit, als wir diese genau
+anzugeben vermögen, ist ein genaues Resultat unserer Berechnung möglich.
+
+Aber, wie bereits angedeutet, ist unsere Beurteilung der geometrischen
+Form nicht eine unbedingt sichere und genaue, wenn wir (siehe
+Vorwort) voraussezen, dass wir ohne Hilfe von Messungen am Gegenstand
+die wirkliche Form desselben nur auf Grund unserer Anschauung und
+Erfahrung uns klar zu machen haben.
+
+~Auch ein geübtes Auge vermag die geometrische Form der Dinge nur
+dann mit vollkommener Bestimmtheit und Genauigkeit zu erkennen, wenn
+dieselbe eine regelmässige, durch die Natur des Gegenstands notwendig
+bedingte und dem Auge aus Erfahrung bekannte, nicht aber, wenn sie
+unregelmässig, zufällig und willkürlich ist. Unsere Berechnung wird
+sich daher nur auf Formen der ersteren Art erstrecken.~
+
+Teils aus diesem Grunde, teils weil wir bei Ausführung einer
+perspectivischen Berechnung auf das Lineal angewiesen sind, haben
+wir es zunächst nur mit geraden Linien zu thun. Doch ist damit
+die Anwendung der perspectivischen Regeln auf Formen, welche
+nicht geradlinige Umrisse haben, nicht ausgeschlossen, indem wir
+mittels gerader Linien die Lage einzelner wichtiger Punkte ihres
+perspectivischen Bildes berechnen können, von welchen aus das Übrige
+sich leicht aus freier Hand ergänzen lässt, wie dies z. B. bei der
+Darstellung eines von der Seite gesehenen Kreises geschieht, vgl. Fig.
+93 und 94.
+
+
+§ 9. Welche Linienrichtungen und Grössenverhältnisse sind nun als
+regelmässig und notwendig, welche als willkürlich anzusehen?
+
+Bei aufmerksamer Betrachtung von Gegenständen der verschiedensten Art
+werden wir finden, dass es meist durch die Natur des betreffenden
+Gegenstandes bedingt und, auch wenn das perspectivische Bild von
+der geometrischen Form abweicht, deutlich wahrnehmbar ist, ob eine
+Linie geometrisch senkrecht, wagrecht, oder schräg ist, welche Linien
+geometrisch parallel, welche rechtwinklig zu einander stehen. Dasselbe
+gilt von den symmetrischen Grössenverhältnissen. (Da die Entfernung
+zweier Punkte von einander nach der Länge einer zwischen ihnen
+gezogenen geraden Linie bemessen wird, so bezieht sich das Gesagte auch
+auf die perspectivischen Entfernungen).
+
+Wo dagegen Linien in einem spizen oder stumpfen Winkel zu einander
+stehen, ist die geometrische Größe dieses Winkels meist zufällig und
+willkürlich. (Eine Ausnahme bilden die Winkel, in welchen die Linien
+mancher geometrischen Figuren zu einander stehen, z. B. die Diagonalen
+eines Quadrats zu dessen Seiten, die Seiten eines gleichseitigen
+Dreiecks, eines Sechsecks, Achtecks u. s. w. zu einander). Alle
+Grössenverhältnisse, mit Ausnahme der symmetrischen, sind mehr oder
+weniger willkürlich.
+
+
+§ 10. Nehmen wir z. B. an, dass das Haus Fig. 13 und das Zimmer Fig.
+14 so, wie sie hier gezeichnet sind, in Wirklichkeit vor uns stehen
+und dass die geometrische Richtung und Länge der verschiedenen Linien
+angegeben werden soll.
+
+[Illustration: Fig. 13.]
+
+Leicht erkennbar sind überall die senkrechten Linien, da ihre Richtung
+stets unverändert dieselbe ist. Beispiele geometrisch wagrechter
+Linien sind in beiden Figuren die mit _a_, _b_, _c_, _d_, _e_, _f_,
+_g_, _h_ bezeichneten Linien, geometrisch schräg sind in Fig. 13 _i_,
+_h_, _k_, _m_, _n_, _o_. Geometrisch parallel sind in Fig. 13 die
+Wagrechten _a a_ und _b_, sodann die mit _c_ und die mit _e_, ferner
+die mit _f_ bezeichneten Linien und die schrägen Linien _i i_, sowie
+_o o_. In Fig. 14 sind geometrisch parallel die mit _e_, sodann die
+mit _f_ bezeichneten Linien; ebenso _a_ und _b_, _c_ und _d_, _g_ und
+_h_. Geometrisch rechtwinklig stehen zu einander in beiden Figuren die
+Linien _a_ und _b_ zu _c_ und _d_, ferner die Linien _e_ zu _f_.
+
+[Illustration: Fig. 14.]
+
+In Fig. 13 haben die 5 Fenster des ersten Stockwerks in Wirklichkeit
+gleiche Höhe, und Breite, die Entfernungen der Fenster von einander und
+von den Ecken sind je auf einer Seite geometrisch gleich gross, die
+Giebellinien _i_ und _k_ sind geometrisch gleich lang, ebenso in Fig.
+14 die 4 Tischbeine, die 2 senkrechten Linien der Thüre (zwischen _g_
+und _h_) u. s. w.
+
+Die rasche und sichere Auffassung solcher geometrischen
+Linienrichtungen und Grössenverhältnisse erfordert immerhin einige
+Übung. Dass die geometrisch schräge Linie _m_ Fig. 13 (oder die
+geometrisch wagrechte _a b_ Fig. 29) mit einer Senkrechten
+verwechselt werde, ist kaum zu befürchten; leichter geschieht es, dass
+der Anfänger die geometrisch parallele oder rechtwinklige Stellung von
+Linien übersieht, welche nicht in Einer Fläche liegen oder wegen ihrer
+geringen Länge wenig in's Auge fallen (z. B. dass die Linie _b_, Fig.
+13 geometrisch parallel ist mit _a a_). Bei einiger Aufmerksamkeit
+gewöhnt sich jedoch das Auge bald an eine richtige Unterscheidung der
+angeführten Linienrichtungen und Grössenverhältnisse.
+
+Aber weder unser Auge noch unsere Erfahrung sagen uns genau, wie gross
+in Wirklichkeit der Winkel ist, in welchem die Linien _i_ und _k_
+Fig. 13 zu der darunter liegenden Wagrechten _c_, oder in Fig. 14 die
+Linien _a_ und _b_, _c_ und _d_ oder _g_ und _h_ zu _e e_ stehen, wie
+breit in Wirklichkeit die linke Seite des Hauses Fig. 13 im Verhältnis
+zur rechten, das Fenster Fig. 14 im Verhältnis zur vorderen, dieser
+zum anstossenden Tischrand ist; denn alle diese Winkelstellungen und
+Grössenverhältnisse ergeben sich nicht aus der Natur des Gegenstandes;
+sie sind zufälliger Art.
+
+
+§ 11. Da die zufälligen und willkürlichen Linienrichtungen,
+Winkelstellungen und Grössenverhältnisse, deren Darstellung wir dem
+Auge und der Übung des Zeichners überlassen, überall häufig vorkommen,
+in der landschaftlichen Natur sogar weit vorherrschen über das
+Regelmässige und Notwendige der Form, so könnte es scheinen, als ob
+die Anwendung und der Nuzen perspectivischer Geseze und Studien sehr
+beschränkt sei. Aber es ist klar, dass die Genauigkeit der Zeichnung
+eine um so grössere sein muss, die Kenntnis und Anwendung bestimmter
+Regeln daher um so notwendiger ist, je bekannter und regelmässiger die
+darzustellenden Formen sind, während unregelmässige und willkürliche
+Formen der Darstellung eine grössere Freiheit gestatten. Hievon
+abgesehen beruht der Wert perspectivischer Studien nicht allein darin,
+dass sie uns in Stand sezen, das perspectivische Bild eines Gegenstands
+mathematisch zu berechnen, sondern wir lernen durch dieselben
+überhaupt die Eindrücke des Auges mit richtigerem und klarerem
+Verständnis aufzufassen und infolge dessen auch da, wo keine genauere
+Berechnung stattfindet, richtiger wiederzugeben.
+
+
+Der Standpunkt; Sehkreis, Augpunkt, Horizont.
+
+§ 12. Nächst der geometrischen Richtung und Länge der Linien ist es
+ihre Stellung zu unserem Auge, oder, was dasselbe ist, unseres Auges
+zu ihnen, d. h. ~unser Standpunkt~, wovon das perspectivische Bild
+abhängt. Gewöhnlich versteht man unter Standpunkt die Stelle, auf
+welcher wir stehen oder sizen; im Sinne der genauen perspectivischen
+Berechnung jedoch verstehen wir darunter ~den Punkt, wo unser Auge sich
+befindet~. Der Unterschied zwischen rechtem und linkem Auge kommt dabei
+nicht in Betracht wegen der als notwendig vorausgesetzten Entfernung
+unseres Standpunkts von dem zu zeichnenden Gegenstand.
+
+[Illustration: Fig. 15.]
+
+Da wir nach allen Richtungen gleich viel übersehen, so bildet der
+Umfang dessen, was wir mit Einem Blick erfassen können, einen --
+selbstverständlich nicht bestimmt abgegrenzten -- Kreis, unsern
+~Sehkreis~, vgl. Fig. 15. Der Mittelpunkt desselben, _P_, ist der
+Punkt, welcher dem Auge gerade gegenüber liegt und heisst der
+~Augpunkt~. Durch den Augpunkt denke man sich eine wagrechte den
+Sehkreis in der Mitte durchschneidende und nach beiden Seiten über
+denselben hinaus beliebig sich fortsezende Linie (_H H_) gezogen; dies
+ist der perspectivische ~Horizont~. Die perspectivische Berechnung
+geht von der Voraussezung aus, dass der Blick des Zeichners bei
+aufrechter Haltung des Kopfes geradeaus gerichtet sei, so dass beide
+Augen in einer wagrechten Linie liegen, welche wir unsere ~Augenlinie~
+nennen. Mit dieser Linie parallel-laufend und in gleicher Höhe mit
+ihr haben wir uns den Horizont zu denken. ~Eine von unserem Auge nach
+dem Augpunkt gezogene Linie würde demnach rechtwinklig zu unserer
+Augenlinie und zum Horizont stehen~ wie _D P_ zu _H H_ in Fig. 15. Man
+denke sich die Zeichnung senkrecht stehend und _D P_ als wagrechte
+rechtwinklig zu _H H_ stehende Linie, vgl. Fig. 16.
+
+[Illustration: Fig. 16.]
+
+Im gewöhnlichen Sprachgebrauch bedeutet Horizont die Linie, welche
+die sichtbaren Gegenstände gegen den Himmel abgrenzt, es sei dies
+eine Berglinie, oder der obere Umriss von Gebäuden u. s. w. Dieser
+sogenannte scheinbare Horizont ist zugleich unser perspectivischer,
+wenn wir eine wagrechte, soweit das Auge reicht vor uns ausgedehnte
+Fläche überblicken. Eine solche Fläche erscheint gegen den Himmel
+begrenzt durch eine wagrechte in gleicher Höhe mit unserem Auge
+liegende Linie, wie uns am deutlichsten die Meeresfläche zeigt: je
+tiefer wir stehen, desto schmaler, je höher wir stehen, desto breiter
+erscheint uns dieselbe, mit unserem Standpunkt scheint auch die
+Grenzlinie des Meeres höher oder tiefer zu rücken,[3] vgl. Fig. 17 und
+18.
+
+    [3]: Man könnte aus der Kugelgestalt der Erde schliessen, dass
+    die Grenzlinie der Meeresfläche oder einer grossen Ebene nicht
+    eine gerade Linie sei und nicht genau in der Höhe des Auges liege.
+    Aber im Verhältnis zur Grösse des Erdballs ist der Teil, welchen
+    wir mit Einem Blick übersehen können, so klein, dass er wie eine
+    wagrechte Fläche, seine Grenzlinie vollständig wagrecht erscheint
+    und angenommen werden kann, dass leztere in gleicher Höhe mit dem
+    Auge liege.
+
+[Illustration: Fig. 17 und 18.]
+
+
+§ 13. Indem wir Augpunkt und Horizont auf unserer Zeichnung angeben
+(was in sämtlichen Figuren durch die Buchstaben _P_ und _H H_ geschehen
+ist), bezeichnen wir damit die ~Höhe~ und die ~Richtung~, aus welcher
+wir den betreffenden Gegenstand sehen und zeichnen. In Fig. 15 haben
+wir uns demnach den Zeichner in der Fortsezung der Linie _e f_ stehend
+oder sizend zu denken, so dass sein Auge dem Punkte _P_ gerade
+gegenüber und in gleicher Höhe mit diesem und mit der Linie _H H_ sich
+befände, vgl. Fig. 16.
+
+Um beim Zeichnen nach der Natur Augpunkt und Horizont an der richtigen
+Stelle anzugeben, muss man zuvor, so gut dies ohne Berechnung möglich,
+eine Skizze der Hauptlinien des Bildes nach ihren ungefähren
+Verhältnissen entworfen haben. Hält man hierauf einen Bleistift, den
+Rand des Zeichenblattes oder dgl. wagrecht in gleicher Höhe mit dem
+Auge vor sich, so ist es nicht schwer, die Höhe zu ersehen, in welcher
+der Gegenstand von der Horizontlinie durchschnitten wird und auf
+derselben die dem Auge gerade gegenüberliegende Stelle zu bestimmen.
+
+Gewöhnlich wird übrigens nicht der ganze Umfang des Sehkreises als Bild
+verwendet. Wir pflegen vielmehr der Zeichnung die Form eines Rechtecks
+zu geben, welches in der Regel so abgegrenzt wird, dass Horizont und
+Augpunkt nicht in der Mitte, aber auch nicht zu nahe am Rande desselben
+liegen, vgl. Fig. 17 und 18.
+
+
+Die Distanz.
+
+§ 14. Unter der ~Entfernung unseres Standpunkts~ oder der ~Distanz~ ist
+zu verstehen ~unsere Entfernung von den uns zunächst liegenden Teilen
+des zu zeichnenden Gegenstands~. Häufig liegt der nächste Vordergrund
+in der wagrechten Fortsezung der Fläche, auf welcher wir unsern
+Standpunkt genommen haben und bildet so den untern Rand der Zeichnung,
+wie in Fig. 13--15. Ziehen wir in solchem Fall eine Linie von unserem
+Fuss nach dem gerade gegenüber liegenden Punkt der Vordergrundlinie,
+dem sog. ~Fusspunkt~, so bezeichnet die Länge dieser Linie (_F f_ Fig.
+16) die genaue Grösse unserer Distanz.
+
+Denken wir uns, dass anstossend an den Teil unseres Gegenstands,
+welcher unserem Auge am nächsten liegt, z. B. in Fig. 15 und 16 auf der
+Linie _a b_, eine grosse unser ganzes Bild umfassende Glastafel stehe
+und dass Augpunkt, Horizont und Fusspunkt in der senkrechten Fläche
+dieser Tafel (der sogenannten Bildfläche) liegen, so wäre eine Linie
+vom Auge nach dem Augpunkt eben so lang, als eine Linie von unserem
+Fusse nach dem Fusspunkt (vgl. _D P_ und _F f_ Fig. 16) und könnte
+ebenso als Mass der Distanz gebraucht werden. In diesem Sinne ist es zu
+verstehen, wenn gesagt wird, die Distanz bedeute die Entfernung unseres
+Auges vom Augpunkt, und so oft von dieser die Rede ist, muss man sich
+das zu zeichnende Bild in der angeführten Weise als eine senkrechte
+Fläche vorstellen, wie wir es im Spiegelbilde sehen.
+
+
+§ 15. ~Die Entfernung des Standpunkts muss wenigstens so gross sein,
+dass der Zeichner gerade aus in der Richtung des Augpunkts blickend und
+ohne das Auge nach der Seite, nach oben oder unten zu wenden, alles,
+was er in sein Bild aufnehmen will, deutlich übersehen kann.~
+
+Denn da bei jeder Veränderung des Standpunkts das perspectivische
+Bild des Gegenstands ein anderes wird, so ist die erste Bedingung
+einer perspectivisch richtigen Zeichnung, dass das Ganze von ein und
+demselben Standpunkt aus, d. h. aus derselben Höhe, Richtung und
+Entfernung gezeichnet, die einmal angenommene Lage von Horizont und
+Augpunkt, sowie die Grösse der Distanz unverändert beibehalten werde.
+Sobald wir aber die Richtung unseres Blickes verändern, so ändert sich
+die Lage unseres Augpunkts und somit unser Standpunkt.
+
+Die Grösse der Distanz muss demgemäss in einem gewissen Verhältnis zum
+Umfang des zu zeichnenden Gegenstandes stehen: je grösser derselbe sein
+soll, desto grösser muss auch die Distanz sein.
+
+
+§ 16. Man nimmt an, dass das Auge eine ihm senkrecht gegenüberstehende
+kreisrunde oder quadratische Fläche vollständig in der angeführten
+Weise übersehen kann, wenn seine Entfernung vom Mittelpunkt dieser
+Fläche wenigstens so gross ist, als ein Durchmesser oder eine Diagonale
+derselben. Dabei ist vorausgesezt, dass sich das Auge dem Mittelpunkt
+der Fläche gegenüber befinde.
+
+Wenn wir uns z. B. das Quadrat _a b c d_ Fig. 15 als eine senkrecht vor
+uns stehende Glastafel denken, deren Mittelpunkt unser Augpunkt und
+deren Diagonale (_a c_ oder _b d_) 4-1/2 Meter lang wäre, so müsste
+unser Auge von dem Mittelpunkt dieser Tafel wenigstens 4-1/2 Meter
+entfernt sein, um ohne Veränderung des Standpunkts den ganzen Umfang
+derselben übersehen zu können. Oder wenn in Fig. 16 _P_ Augpunkt des in
+_F_ stehenden Beschauers und _a b c d_ eine quadratische Glastafel ist,
+so müssen die Linien _D P_ und _F f_ wenigstens so lang sein wie _a c_
+und _b d_, damit das Auge von _D_ aus die ganze Tafel und alles, was
+durch dieselbe sichtbar ist, übersehen kann.
+
+Befindet sich das Auge nicht dem Mittelpunkt der Bildfläche gegenüber,
+so ist die Diagonale derselben noch kein hinreichendes Mass der
+Distanz. Wenn wir z. B. dem Bilde _a b c d_ Fig. 15 so gegenüberstehen,
+dass _m_ unser Augpunkt ist, so muss, um den von dem Viereck _a b c d_
+umschlossenen Raum übersehen zu können, die Distanz wenigstens doppelt
+so gross sein, als eine Linie von _m_ nach _b_ oder nach _c_, d. h.
+eben so gross als für ein Rechteck _g b c k_ erforderlich wäre, dessen
+Mittelpunkt _m_ ist oder für einen von _m_ aus durch _c_ und _b_
+beschriebenen Kreis.
+
+Dagegen kann die Distanz nach Belieben grösser angenommen werden.
+
+
+§ 17. Natürlich ist das Gesagte nicht so aufzufassen, als ob innerhalb
+eines bestimmten Umkreises alle Gegenstände gleich deutlich, jenseits
+desselben undeutlich oder gar nicht mehr sichtbar wären, vielmehr nimmt
+die Deutlichkeit derselben allmälig ab, je weiter sie sich vom Augpunkt
+entfernen. Es ist aber für die perspectivische Berechnung notwendig,
+eine Grenzlinie festzusezen, innerhalb deren eine hinreichende
+Deutlichkeit des Bildes anzunehmen ist. Dieses Mass der kleinsten
+Distanz ist in den perspectivischen Lehrbüchern verschieden angegeben,
+wie auch der Umfang dessen, was mit Einem Blick zu übersehen ist,
+nicht für jedes Auge gleich gross ist. Jedoch kann ohne Gefahr für
+eine perspectivisch richtige Wirkung nicht wohl ein niedrigeres Mass
+angenommen werden, als oben geschehen ist.
+
+Ist es dem Zeichner durch die Raumverhältnisse unmöglich gemacht,
+seinen Standpunkt in hinreichender Entfernung zu nehmen, so muss
+mittels perspectivischer Berechnung das Ganze so gezeichnet werden, wie
+es sich, in richtiger Entfernung gesehen, dem Auge darstellen würde.[4]
+
+    [4]: Ein geschickter Zeichner mag sich allerdings zuweilen
+    Abweichungen von dieser wie von andern Regeln gestatten, aber um
+    zu wissen, wo und wie er dies thun kann, ohne dass die Wirkung
+    seiner Zeichnung eine falsche oder zum mindesten unschöne wird,
+    muss er vor allem die Regel kennen, welche hiedurch nichts an ihrer
+    Giltigkeit verliert.
+
+
+§ 18. Die Grösse der für eine Zeichnung angenommenen Distanz wird
+ausgedrückt durch die ~Distanzpunkte~. Ein Distanzpunkt ist ein
+senkrecht über oder unter dem Augpunkt oder seitwärts von diesem in der
+Horizontlinie angegebener Punkt, dessen Entfernung vom Augpunkt (im
+Verhältnis der Zeichnung) der Entfernung unseres Auges vom Augpunkt
+oder unseres Fusses vom Fusspunkt entspricht. Ist z. B. in Fig. 15
+die Linie _a b_ 3 Meter lang und ist die vom Zeichner für das Bild
+_a b c d_ angenommene Distanz eine solche, dass sein Fuss von _f_, sein
+Auge von dem (senkrecht über _f_ gedachten) Augpunkt _P_ 4-1/2 Meter
+entfernt sich befindet, so sind _D_ und _Dg_ Distanzpunkte, indem eine
+Linie von einem dieser 2 Punkte bis _P_ 1-1/2 mal so gross ist, als
+_a b_.
+
+Zur Unterscheidung werden wir die seitwärts vom Augpunkt liegenden
+Distanzpunkte ~Diagonalpunkte~ nennen (_Dg_ und _Dp_). Von den beiden
+andern ist stets der unterhalb des Augpunkts liegende verwendet und als
+Distanzpunkt (_D_) bezeichnet.
+
+Aus § 16 folgt, dass ein Distanzpunkt oder Diagonalpunkt nie innerhalb
+der Zeichnung liegen kann, da ~seine Entfernung vom Augpunkt wenigstens
+so gross sein muss, als eine Diagonale derselben, wenn der Augpunkt in
+der Mitte des Bildes liegt, oder, wenn dies nicht der Fall ist, doppelt
+so gross als eine Linie vom Augpunkt nach dem von ihm entferntesten
+Punkte der Zeichnung~.
+
+
+§ 19. Ein genaues Abmessen der Distanz ist natürlich in den meisten
+Fällen nicht ausführbar und ist auch behufs Angabe der Distanzpunkte
+nicht notwendig. ~Die Hauptsache ist, dass eine zu kleine Distanz
+vermieden wird.~ Um sich beim Zeichnen nach der Natur zu versichern,
+dass die angenommene Entfernung des Standpunkts eine für den
+beabsichtigten Umfang des Bildes hinreichende sei, kann man sich eines
+aus starker Pappe gefertigten Rahmens bedienen, dessen innerer Rand ein
+Rechteck von 48 : 36 Centimeter bildet. Die Diagonale eines Rechtecks
+von dieser Grösse entspricht ungefähr der durchschnittlichen Länge des
+Arms; die Distanz ist also hinreichend gross, wenn der Rahmen, auf
+Armeslänge vor das Auge gehalten, während der Blick auf den Augpunkt
+gerichtet ist, den ganzen Gegenstand, welcher gezeichnet werden soll,
+umschliesst, vgl. Fig. 16. Hiebei wird man sich leicht überzeugen,
+dass der Umfang des innerhalb des Rahmens sichtbaren Bildes kleiner
+oder grösser wird, je nachdem man, denselben vor sich haltend, dem
+Gegenstande näher tritt oder sich von demselben entfernt.
+
+
+§ 20. Wenn von der Entfernung einzelner Teile des Bildes von unserem
+Standpunkt die Rede ist, so kommt dabei nicht in Betracht, ob dieselben
+mehr in der Mitte oder nach dem Rande desselben liegen, da dies bei
+richtiger Grösse der Distanz keinen für die perspectivische Berechnung
+wesentlichen Unterschied macht, sondern es ist damit nur die Entfernung
+in der Richtung vom Vordergrund nach dem Hintergrund zu gemeint. Um die
+Entfernung eines Punktes oder einer Linie vom Auge in diesem Sinne zu
+bezeichnen, gebraucht man häufig den Ausdruck »~Tiefe~«. Man kann z.
+B. sagen: _a_ und _b_ Fig. 15 liegen in gleicher Tiefe, _a_ und _e_ in
+verschiedener Tiefe.
+
+
+Das Grundgesez der perspectivischen Formerscheinung. Unverkürzte und
+verkürzte Stellung der Flächen und Linien.
+
+§ 21. Das wichtigste und am meisten in die Augen fallende Gesez
+der Perspective ist, ~dass alle Gegenstände kleiner zu werden
+scheinen, je weiter sie sich von unserem Standpunkt entfernen~. Alle
+perspectivischen Formveränderungen lassen sich auf dieses Gesez
+zurückführen, dessen Begründung wir im Bau unseres Auges und der
+hiedurch bedingten Art, wie sich in demselben die Gegenstände spiegeln,
+zu suchen haben.
+
+[Illustration: Fig. 19.]
+
+Aus jenem Gesez folgt zunächst, dass nur eine Fläche, welche ganz
+gerade vor uns steht, d. h. senkrecht und parallel mit unserer
+Augenlinie, wie die Fläche _A_ Fig. 19, dem Auge genau so erscheinen
+kann, wie sie in Wirklichkeit ist, mit andern Worten so, dass die
+perspectivische Richtung und das perspectivische Grössenverhältnis
+ihrer Umrisse und aller in ihr liegenden Linien mit deren geometrischer
+Richtung und Länge übereinstimmt. Denn in diesem Fall befinden sich
+sämtliche Teile der Fläche in gleicher Entfernung vom Auge (in
+gleicher Tiefe). Sobald wir die Tafel _A_, während unser Standpunkt
+derselbe bleibt, nach irgend einer Seite wenden, so liegen einzelne
+Teile derselben in ungleicher Tiefe; die ferneren Teile erscheinen
+infolge dessen verhältnismässig kleiner, als die näheren und die
+perspectivische Form der ganzen Tafel wird hiedurch eine von ihrer
+geometrischen Form verschiedene. In _B_ ist z. B. die Linie _b c_
+ferner als _a d_, jene erscheint daher kürzer als diese, folglich
+können die geometrisch parallelen Linien _a b_ und _d c_ nicht mehr
+parallel und sie können nicht mehr beide rechtwinklig zu _a d_
+und _b c_ erscheinen. Wird die Tafel _B_ in mehrere gleich grosse
+senkrechte Streifen geteilt, so erscheinen diese nach der Linie _b c_
+hin allmälig kleiner zu werden, die ganze Fläche erscheint daher
+schmaler als bei der Stellung _A_, vgl. Fig. 11.
+
+
+§ 22. Wenn eine Fläche oder Linie eine solche Stellung zum Auge hat
+(unser Standpunkt zu ihr ein solcher ist), dass sämtliche Teile
+derselben in gleicher Tiefe liegen, wie in Fig. 19 _A_ und die an _A_
+befindlichen Linien, so nennt man dies die ~unverkürzte Stellung~;
+eine Fläche oder Linie ist dagegen ~verkürzt~, wenn einzelne Teile
+derselben dem Auge näher, andere ferner liegen. Unverkürzt sind also
+in Fig. 19 die Flächen _A_ und _G_, sämtliche senkrechte Linien, die
+wagrechten Linien _a b_ und _c d_ in _A_ und _D_, _a e_ in _G_, die
+schrägen Linien _a c_ und _b d_ in _A_, _a d_ und _b c_ in _E_. Alle
+übrigen Flächen und Linien sind verkürzt. (Man bemerke, dass zwar die
+schräge ~Fläche~ _E_ verkürzt ist, da _b c_ ferner liegt als _a d_, die
+schrägen ~Linien~ _a d_ und _b c_ aber in _E_ unverkürzt sind, indem
+ihre beiden Endpunkte in gleicher Tiefe liegen).
+
+~Die senkrechten Linien haben immer unverkürzte Stellung~, da ihre
+beiden Endpunkte immer in gleicher Tiefe liegen. Eine senkrechte
+_Fläche_ dagegen kann sowohl verkürzt sein wie _B_, als unverkürzt wie
+_A_.
+
+~Die unverkürzten wagrechten Linien eines Bildes sind parallel mit
+unserer Augenlinie und mit dem Horizont, folglich auch parallel unter
+sich.~ Wagrechte und schräge ~Flächen~ sind stets verkürzt.
+
+
+§ 23. Für Anfänger ist es zweckmässig, einen Bleistift, ein Lineal oder
+dergl. in der für die Zeichnung angenommenen Richtung der Augenlinie
+und des Horizonts vor sich zu legen, um mit dieser Normallinie die
+verschiedenen wagrechten Linien des Gegenstands vergleichen und
+leichter unterscheiden zu können, ob sie unverkürzt oder verkürzt sind.
+
+Sollte man in Betreff einer schrägen Linie im Zweifel sein, ob sie
+unverkürzt oder verkürzt ist, so denke man sich dieselbe mit einer
+senkrechten und einer wagrechten Linie zu einem Dreieck verbunden, wie
+in _G_ die schräge Linie _a d_ mit _a e_ und _e d_ oder in _F_ die
+Linie _b c_ mit _b e_ und _e c_. Man nennt dies das ~Massdreieck~ einer
+schrägen Linie. Ist die wagrechte Linie dieses Dreiecks unverkürzt, wie
+_a e_ in _G_, so ist es auch die schräge; ist erstere verkürzt, wie
+_b e_ in _F_, so ist auch die schräge Linie verkürzt.
+
+
+§ 24. ~Unverkürzte Linien, welche in gleicher Tiefe~ (in Einer
+unverkürzten senkrechten Fläche) ~liegen~, wie sämtliche Linien der
+Fläche _A_ Fig. 19, ~behalten ihre geometrische Richtung und ihr
+geometrisches Grössenverhältnis~; sie erscheinen und werden gezeichnet
+wie sie in Wirklichkeit sind; ~unverkürzte Linien in ungleicher Tiefe~,
+wie _a d_ und _b c_ in _B_, _b c_ und _a d_ in _E_, ~behalten ihre
+geometrische Richtung, nicht aber ihr geometrisches Grössenverhältnis~
+(indem die ferneren kleiner erscheinen); ~die perspectivische Länge
+der verkürzten Linien ist immer, ihre perspectivische Richtung in den
+meisten Fällen verschieden von ihrer geometrischen Richtung und Länge~.
+
+Wo die geometrische Richtung oder Länge einer Linie unverändert bleibt,
+muss dieselbe entweder nach dem Augenmass oder mit Hilfe von Lineal
+und Zirkel bestimmt werden. Wir bedürfen für solche Fälle keiner
+perspectivischen Regel und Berechnung.
+
+
+
+
+III. Perspectivische Richtung verkürzter Linien.
+
+
+Verkürzte Parallellinien.
+
+§ 25. Wenn 2 parallele Linien durch eine Anzahl von Linien verbunden
+werden, welche unter sich gleichfalls parallel sind, so sind nach § 1,
+Fig. 1 diese Verbindungslinien gleich lang. Haben wir nun parallele
+Linien in verkürzter Stellung vor uns, wie die Eisenbahnschienen in
+Fig. 20, so befinden sich die Verbindungslinien, hier die Schwellen,
+in verschiedener Entfernung vom Auge, sie scheinen daher nach der
+Ferne hin immer kleiner zu werden, d. h. der Abstand zwischen den
+beiden verkürzten Parallellinien scheint sich zu verkleinern, sie
+scheinen näher zusammenzurücken je weiter sie sich von unserem Auge
+entfernen und wenn sie sich auf sehr weite Entfernung fortsezen, so
+müssen sie schliesslich in Einem Punkte, wie hier in dem Punkte _P_,
+zusammentreffen, in welchem sie aufhören sichtbar zu sein.
+
+[Illustration: Fig. 20.]
+
+Man nennt diesen Punkt den ~Fluchtpunkt~ oder ~Verschwindungspunkt~ der
+betreffenden Linien.
+
+
+§ 26. In demselben Punkte, in welchem 2 verkürzte Parallellinien
+zusammentreffen, müssen auch alle weiteren mit ihnen parallelen Linien,
+wie in Fig. 20 die Linien _a P_, _b P_, _c P_, sich treffen, da der
+Zwischenraum zwischen allen in demselben Verhältnis nach der Ferne hin
+kleiner wird. Wenn _a b_, _b c_ und _c d_ gleich lang, _a e_ und _d f_
+je halb so lang sind als _a b_, so müssen _g h_, _h i_ und _i k_, _m g_
+und _k n_ in demselben Verhältnis zu einander stehen, sie werden also
+zugleich aufhören, sichtbar zu sein.
+
+Wenn wir solche Linien auch nicht mit dem Auge verfolgen können bis
+zu dem Punkte, in welchem sie zusammentreffen würden, sondern sie nur
+in kürzerer Ausdehnung vor uns haben, wie die geometrisch parallelen
+Linien _a a_ und _b b_ in Fig. 21, so müssen sie stets so gezeichnet
+sein, dass der Zwischenraum zwischen ihnen nach der Ferne hin kleiner
+wird, so dass sie, von ihrem ferner liegenden Ende aus fortgesezt,
+irgendwo in Einem Punkte zusammentreffen würden, d. h. ~verkürzte
+Parallellinien müssen die Richtung nach einem gemeinschaftlichen
+Fluchtpunkt haben~.
+
+[Illustration: Fig. 21.]
+
+Man vergleiche ausser Fig. 20 und 21 die wagrechten Parallellinien
+_a a_, _c c_, _f f_ in Fig. 13 und 14, sämtliche wagrechte Linien in
+Fig. 22, die schrägen Parallellinien _n n_ in Fig. 21, _a c_ und _e d_,
+_a g_ und _e h_ in Fig. 36, _a_, _b_, _c_ und _d_ Fig. 37 und andere.
+
+[Illustration: Fig. 22.]
+
+
+§ 27. Sobald wir also 2 verkürzte Parallellinien dieser Regel
+entsprechend gezeichnet haben, so ist damit auch die perspectivische
+Richtung aller weiteren mit ihnen parallelen Linien gegeben: man
+verlängert die zuerst gezeichneten bis zu dem Punkte, in welchem sie
+zusammentreffen und zieht nach diesem die übrigen.
+
+Wie zu verfahren ist, wenn ein Fluchtpunkt ausserhalb der Zeichnung
+liegt, wie die Fluchtpunkte der Linien _a a_, _b b_, _n n_ in Fig. 21,
+wird später gezeigt werden. Häufig kann jedoch die genaue Berechnung
+in solchen Fällen dadurch ersezt werden, dass man einen Papierstreifen
+an das Zeichenblatt anlegt, um die betreffenden Linien bis zu ihrem
+Fluchtpunkt verlängern zu können, oder dass man wie in Fig. 21 und
+22 sie wenigstens so weit als der Raum gestattet, fortsezt, da sich,
+je länger sie sind, desto deutlicher beurteilen lässt, ob sie die
+erforderliche Richtung nach Einem Punkte hin haben.
+
+
+Verkürzte wagrechte Linien.
+
+§ 28. Wenn wir am Ende eines Zimmers stehend Decke und Fussboden
+desselben betrachten, so scheint die erstere nach dem jenseitigen Ende
+des Zimmers hin zu fallen, der Boden scheint nach dorthin anzusteigen;
+ebenso scheinen alle wagrechten Flächen, welche höher liegen als
+unser Auge, nach der Ferne hin zu fallen, tiefer liegende scheinen
+zu steigen. Halten wir aber eine Fläche, z. B. ein dünnes Brett, ein
+Stück Pappe oder dergl. wagrecht in gleicher Höhe mit unserem Auge vor
+uns, so sehen wir weder die untere noch die obere Seite dieser Fläche,
+wir sehen sie nur als eine wagrechte Linie, welche, da der Horizont
+gleichfalls eine in der Höhe des Auges liegende wagrechte Linie ist,
+mit diesem zusammenfällt, vgl. Fig. 22. ~Alle wagrechten Flächen
+scheinen sich also nach dem Horizont hin zu neigen.~
+
+Denn alle wagrechten Flächen sind parallel und sind verkürzt. Daher
+scheint der Zwischenraum zwischen 2 wagrechten Flächen, z. B. zwischen
+Decke und Fussboden, nach der Ferne hin immer kleiner zu werden, sie
+scheinen einander näher zu rücken, ebenso wie verkürzte parallele
+Linien. Wie diese nach Einem Punkte, so scheinen alle wagrechten
+Flächen nach Einer Linie hinzustreben und diese Linie kann nach dem
+Gesagten nur der Horizont sein: ~der Horizont ist die gemeinschaftliche
+Fluchtlinie oder Verschwindungslinie aller wagrechten Flächen~.
+
+
+§ 29. Mit den wagrechten Flächen scheinen auch die in ihnen liegenden
+verkürzten Linien[5] zu steigen oder zu fallen; jede wagrechte Linie
+kann als Teil einer wagrechten Fläche gedacht werden; ~folglich müssen
+verkürzte wagrechte Linien, wenn sie tiefer liegen als unser Auge, d.
+h. unterhalb des Horizonts, von ihrem näheren nach ihrem entfernteren
+Endpunkte zu steigen; wenn sie höher liegen als unser Auge, d. h. über
+dem Horizont, so müssen sie nach der Ferne hin fallen; wagrechte Linien
+aber, welche mit dem Auge in gleicher Höhe liegen, bleiben wagrecht,
+auch wenn sie verkürzt sind~. Mit andern Worten: ~die Fluchtpunkte
+aller verkürzten wagrechten Linien liegen im Horizont~; jede muss so
+gezeichnet sein, dass sie, von ihrem entfernteren Ende aus verlängert,
+in irgend einem Punkte den Horizont trifft und dieser Punkt ist
+zugleich der Fluchtpunkt aller mit ihr parallelen Linien; vgl. Fig. 20,
+21, 22.
+
+    [5]: In einer senkrechten Fläche können sowohl senkrechte als
+    wagrechte und schräge Linien liegen, in einer schrägen Fläche nur
+    schräge und wagrechte, in einer wagrechten Fläche nur wagrechte
+    Linien, vgl. die Flächen _A_, _D_ und _C_, Fig. 19.
+
+Haben wir also wagrechte Parallellinien in verkürzter Stellung zu
+zeichnen, so ist, sobald die perspectivische Richtung für eine
+derselben bestimmt ist, auch die Richtung der übrigen gegeben: man
+verlängert die erstere bis zum Horizont und nach dem Punkte, in welchem
+sie ihn trifft, werden die andern gezogen.
+
+
+§ 30. Die Lage dieser Fluchtpunkte kann nun, wie schon die bisherigen
+Beispiele zeigen, eine sehr verschiedene sein. Es entsteht also die
+Frage, an welcher Stelle des Horizonts in diesem oder jenem Falle der
+Fluchtpunkt einer wagrechten Linie liegen muss, d. h. in welchem Grade
+die verschiedenen wagrechten Linien nach dem Horizont hin fallen oder
+steigen müssen.
+
+Die allgemeine Regel in dieser Beziehung ist, ~dass der Fluchtpunkt
+einer verkürzten wagrechten Linie da liegt, wo eine parallel mit ihr
+vom Auge nach dem Horizont gezogene Linie diesen treffen würde~. Denn
+verkürzte Parallellinien haben denselben Fluchtpunkt.
+
+Z. B.: _a_, _b_, _c_, _d_, _e_ Fig. 23 sind verkürzte wagrechte Linien,
+welche zu der unverkürzten Wagrechten _A B_ verschiedene Winkel bilden.
+Der Horizont ist parallel mit den unverkürzten wagrechten Linien
+unseres Gegenstandes (§ 22), der Winkel also, in welchem eine verkürzte
+wagrechte Linie in Wirklichkeit zu einer unverkürzten Wagrechten steht,
+ist derselbe, in welchem sie auch zum Horizont steht. Die geometrische
+Stellung der Linien _a_, _b_, _c_, _d_, _e_ zu _A B_ Fig. 23 ist in
+Fig. 24 angegeben. Dies ist auch ihre Winkelstellung zum Horizont.
+Denken wir uns nun, dass die 5 Stäbe in Wirklichkeit so wie sie hier
+gezeichnet sind vor uns liegen und dass parallel mit denselben 5 Linien
+von unserem Auge nach dem Horizont gezogen seien, so müssten die
+Punkte, in welchen die von unserem Auge ausgehenden Linien den Horizont
+treffen, die Fluchtpunkte der 5 Stäbe sein. Wenn man sich hievon eine
+deutliche Vorstellung macht, etwa indem man einen langen Stab parallel
+mit einer verkürzten Linie des zu zeichnenden Gegenstands vor's Auge
+hält, so wird man die Lage ihres Fluchtpunkts annähernd bestimmen
+können; man wird z. B. verstehen, dass der Fluchtpunkt von _e_ sehr
+weit nach rechts, der Fluchtpunkt von _d_ näher nach dem Augpunkt hin
+liegen muss u. s. w.
+
+[Illustration: Fig. 23.]
+
+[Illustration: Fig. 24.]
+
+
+§ 31. Die Stellung einer Linie zum Horizont ist jedoch immer eine
+willkürliche, da die Richtung des lezteren von der zufälligen Wahl
+unseres Standpunkts abhängt. ~Wenn wir die Lage des Fluchtpunkts einer
+wagrechten Linie genauer berechnen, so geschieht dies nicht, damit
+ihre Stellung zum Horizont, sondern damit ihre Stellung zu andern
+Linien des Bildes eine richtige Wirkung mache. Nur wo es sich um eine
+bestimmte und notwendige Winkelstellung wagrechter Linien zu einander
+handelt, bedürfen wir einer genaueren Regel in Betreff der Lage ihrer
+Fluchtpunkte und können wir eine solche anwenden.~
+
+Nehmen wir z. B. in Fig. 23 als Fluchtpunkt der Linie _d_ den Punkt
+_y_ statt _x_ an, so scheint der Winkel, in welchem _d_ zu _e_ steht,
+grösser, ihr Winkel zu _c_ kleiner zu sein, als wenn _x_ Fluchtpunkt
+ist. Aber die Winkelstellung dieser Linien zu einander und zu den
+übrigen Linien des Gegenstands ist ebenso willkürlich und zufällig, wie
+ihre Stellung zum Horizont. Mit blossem Auge würde der Beschauer auch
+nicht mit Bestimmtheit zu erkennen vermögen, dass ihre geometrische
+Stellung zu _A B_ und zum Horizont oder ihre Stellung zu einander genau
+die in Fig. 24 angegebene ist. Also können wir auch die perspectivische
+Stellung dieser Linien zum Horizont und zu einander nicht genau
+berechnen und ist es für die perspectivische Richtigkeit der Zeichnung
+ohne Belang, ob beispielsweise _y_ oder _x_ als Fluchtpunkt der Linie
+_d_ angenommen wird.
+
+Ebenso ist in Fig. 14 die Winkelstellung der verkürzten wagrechten
+Linien _g_ und _h_, sowie der Linien _a_, _b_, _c_, _d_ zu den übrigen
+Linien des Bildes eine willkürliche. Notwendig ist nur, dass _g_ und
+_h_, _a_ und _b_, _c_ und _d_ als parallele Linien erscheinen und dass
+die Linien _a_, _b_, _c_, _d_ ein Rechteck darstellen. Wir überlassen
+es deshalb dem Auge des Zeichners, zuerst die Richtung für eine der
+Linien _g_ oder _h_ und für eine Seite des genannten Rechtecks zu
+bestimmen, natürlich mit Rücksicht darauf, dass die Fluchtpunkte dieser
+Linien im Horizont liegen müssen, da sie geometrisch wagrecht sind.
+Aber angenommen, dass _g_ und _a_ die zuerst gezeichneten Linien seien,
+so ist damit nicht nur die perspectivische Richtung der mit jenen
+parallelen Linien _h_ und _b_, sondern auch der rechtwinklig zu _a_
+stehenden Linien _c_ und _d_ gegeben. Für die Lage des Fluchtpunkts
+der 2 lezteren sind ebenso wie für die Richtung der verkürzten
+Parallellinien bestimmte Regeln massgebend.
+
+Unsere nächste Aufgabe soll demgemäss die Beantwortung der Frage sein,
+~welche Stellung in unserer Zeichnung wagrechte Linien zu einander
+haben müssen, welche in Wirklichkeit rechtwinklig zu einander stehen~,
+wie _a_ und _d_ oder _e_ und _f_ in Fig. 14, mit andern Worten, nach
+welcher Regel der Fluchtpunkt einer verkürzten wagrechten Linie zu
+bestimmen ist, welche zu einer gegebenen Wagrechten geometrisch
+rechtwinklig steht.
+
+
+Rechtwinklige wagrechte Linien.
+
+§ 32. Man unterscheidet die ~gerade Ansicht eines rechten Winkels,
+Rechtecks oder Quadrats~, d. i. wenn nur eine der beiden Linien, welche
+einen rechten Winkel bilden, verkürzt, die andere aber unverkürzt ist,
+wie _A B_ und _B C_ oder _A D_ und _D C_ in Fig. 25 und die ~schräge
+Ansicht~, d. i. wenn beide Schenkel des Winkels verkürzt sind, wie
+_a b_ und _b c_ oder _a d_ und _d c_. Der Ausdruck »schräg« bezieht
+sich also in diesem Zusammenhang auf die Stellung wagrechter Linien zum
+Auge oder zum Horizont.
+
+[Illustration: Fig. 25.]
+
+In § 12 Fig. 15 und 16 wurde gezeigt, dass eine vom Auge nach dem
+Augpunkt gezogene Linie einen rechten Winkel zum Horizont bilden würde,
+d. h. mit andern Worten: ~wenn wir uns eine Linie von unserem Auge nach
+dem Horizont gezogen denken, so dass sie rechtwinklig zu diesem steht,
+so trifft sie den Augpunkt, der Augpunkt ist ihr Fluchtpunkt~.
+
+Steht nun eine verkürzte wagrechte Linie geometrisch rechtwinklig zu
+einer unverkürzten Wagrechten, wie in Fig. 25 _A D_ oder _B C_ zu
+_C D_, so steht sie auch zum Horizont in einem rechten Winkel, sie ist
+also parallel mit einer von unserem Auge nach dem Augpunkt gehenden
+Linie und muss mit dieser denselben Fluchtpunkt haben.
+
+~Also ist der Augpunkt der Fluchtpunkt aller verkürzten wagrechten
+Linien, welche zu einer unverkürzten Wagrechten (zum Horizont)
+geometrisch rechtwinklig stehen~ oder welche, wie man häufig sagt, sich
+in gerader Linie von uns entfernen. Vgl. in Fig. 14 die Linien _f_,
+_f_, in Fig. 20 _a P_, _b P_, _c P_ u. s. w.
+
+
+§ 33. Sind beide Linien, welche den rechten Winkel bilden, verkürzt,
+wie in dem Rechteck _a b c d_ Fig. 25, so ist die Frage, wie gross die
+Entfernung der beiden Fluchtpunkte von einander, d. h. das Stück des
+Horizonts, welches zwischen beiden liegt, sein muss. Denn je nachdem
+der Winkel, in welchem 2 verkürzte Linien zu einander stehen, grösser
+oder kleiner ist, wird auch die Entfernung ihrer beiden Fluchtpunkte
+eine grössere oder kleinere sein und umgekehrt, wie aus § 31 Fig. 23 zu
+ersehen ist.
+
+[Illustration: Fig. 26.]
+
+Ausser der geometrischen Grösse des betreffenden Winkels ist jedoch
+auch die Grösse der Distanz von Einfluss auf den Abstand der
+Fluchtpunkte seiner beiden Schenkel. Eine vom Auge nach dem Horizont
+gezogene Linie, welche zu diesem rechtwinklig steht, trifft immer den
+Augpunkt und so kann auch die verkürzte Seite eines rechten Winkels in
+gerader Ansicht nur im Augpunkt ihren Fluchtpunkt haben, gleichviel,
+ob unsere Distanz grösser oder kleiner ist. Steht aber eine verkürzte
+Wagrechte in einem beliebigen andern Winkel zum Horizont oder zu einer
+unverkürzten Wagrechten, so liegt der Punkt, in welchem eine parallel
+mit ihr d. h. in demselben Winkel vom Auge nach dem Horizont gezogene
+Linie diesen treffen würde, näher am Augpunkt oder entfernter von ihm,
+je nachdem die Entfernung des Auges vom Augpunkt grösser oder kleiner
+ist. Dieselbe Linie, welche in Fig. 26 von _a_ aus gezogen die Linie
+_m n_ in _z_ trifft, trifft sie von _b_ aus in _p_, von _c_ aus in
+_n_ u. s. w. Und wenn wir 2 verkürzte wagrechte Linien vor uns haben,
+welche in Wirklichkeit rechtwinklig (oder in einem beliebigen Winkel)
+zu einander stehen, so werden die 2 Punkte, in welchen 2 parallel mit
+ihnen vom Auge ausgehende Linien den Horizont treffen, desto näher
+beisammen liegen, je kleiner die Distanz ist und desto weiter von
+einander entfernt sein, je grösser dieselbe ist, wie Fig. 26 deutlich
+zeigt: _o p_ ist grösser als _y z_, _m n_ grösser als _o p_.
+
+[Illustration: Fig. 27.]
+
+Demnach kann der Abstand der beiden Fluchtpunkte eines rechten Winkels
+in schräger Ansicht ein sehr verschiedener sein. So zeigt Fig. 27
+zwei verschiedene Ansichten eines Rechtecks, welche es in derselben
+Stellung, aus derselben Höhe und Richtung, aber aus verschiedener
+Entfernung gezeichnet darstellen. Mit zunehmender Distanz erscheint
+nicht nur das Ganze kleiner, sondern auch die Form der rechten Winkel
+wird eine verschiedene: da mit der Distanz die Entfernung der beiden
+Fluchtpunkte von einander zunimmt, so erscheinen die Seitenwinkel
+bei _b_ und _d_ in _B_ spizer, der Winkel bei _a_ und _c_ erscheint
+stumpfer als in _A_.
+
+Natürlich ist die Wirkung dieselbe, wenn wir, statt die Entfernung
+unseres Standpunkts zu verändern, den betreffenden Gegenstand näher
+oder ferner rücken, vgl. Fig. 29.
+
+Es muss daher die genaue Grösse der für eine Zeichnung angenommenen
+Distanz mittels eines Distanzpunkts angegeben und dieser zu Hilfe
+genommen werden, wenn der Abstand jener 2 Fluchtpunkte von einander
+genau berechnet werden soll. Wie lezteres geschehen kann, ist in §
+81--85 gezeigt. Da jedoch die Grösse der vom Zeichner angenommenen
+Distanz mit blossem Auge aus den Linien einer Zeichnung nicht zu
+ersehen ist, so kann gewöhnlich diese genauere Berechnung entbehrt und
+durch Beobachtung der nachfolgenden Regel ersezt werden.
+
+
+§ 34. ~Überall, wo die Grösse der Distanz von wesentlichem Einfluss ist
+auf die perspectivische Form, kommt es hauptsächlich darauf an, die
+falsche Wirkung zu vermeiden, welche aus einer zu klein angenommenen
+Distanz entsteht. Bei Darstellung eines rechten Winkels in schräger
+Ansicht entsteht diese falsche Wirkung, wenn die Entfernung der beiden
+Fluchtpunkte von einander zu klein ist.~
+
+[Illustration: Fig. 28.]
+
+Betrachten wir in Fig. 28 _D_ als unser Auge, _P_ als Augpunkt, so
+bezeichnet die Linie _D P_ die Grösse der Distanz. Ziehen wir nun (mit
+Hilfe des Winkels Fig. 9) von _D_ aus in verschiedener Richtung je 2
+rechtwinklig zu einander stehende Linien nach der durch _P_ gehenden
+Wagrechten d. h. nach dem Horizont, z. B. _D c_ und _D d_, _D a_ und
+_D b_, _D Dg_ und _D Dp_, so ergibt sich, dass die 2 Punkte, in welchen
+die verschiedenen Linienpaare den Horizont treffen, dann den geringsten
+Abstand von einander haben, wenn sich die beiden Linien in der Stellung
+zum Horizont befinden, welche _D Dg_ und _D Dp_ zeigen. Diese stehen
+zum Horizont, wie die Diagonalen eines Quadrats zu dessen Seiten, wie
+_m n_ und _m o_ zu _o n_, d. h. beide stehen in einem halben rechten
+Winkel zum Horizont. _Dg_ und _Dp_ sind Diagonalpunkte: ihre Entfernung
+vom Augpunkt ist gleich der Distanz und ihre Entfernung von einander
+doppelt so gross als die Distanz, _Dg--Dp_ ist gleich 2 mal _Dp_.
+
+Bei jeder andern Stellung der beiden Linien zum Horizont ist der
+Abstand jener beiden Punkte ein grösserer und er wird immer grösser, je
+ungleicher die Stellung der beiden Linien zum Horizont ist: _c d_ ist
+grösser als _Dp--Dg_, _a b_ grösser als _c d_ u. s. w.
+
+
+§ 35. Hieraus folgt, ~dass die 2 Fluchtpunkte eines rechten Winkels in
+schräger Ansicht wenigstens so weit von einander entfernt sein müssen,
+dass der zwischen ihnen liegende Teil des Horizonts doppelt so gross
+ist, als die Distanz~. Diese muss nach § 18 wenigstens doppelt so gross
+sein, als eine Diagonale des Bildes, oder als eine Linie vom Augpunkt
+nach dem von ihm entferntesten Punkte, ~also muss, wenn beide Schenkel
+eines aus 2 wagrechten Linien bestehenden rechten Winkels verkürzt
+sind, die Entfernung ihrer Fluchtpunkte von einander wenigstens 4
+mal so gross sein, als eine Linie vom Augpunkt nach dem von ihm
+entferntesten Punkte der Zeichnung~. Z. B. in Fig. 31 müssen, wenn
+_A B_ und _A C_ geometrisch rechtwinklige Linien sind, _P_ Augpunkt
+und _f_ die von _P_ entfernteste Ecke des Bildes ist, die Fluchtpunkte
+der beiden genannten Linien einen Abstand von einander haben, der
+wenigstens = 4 mal _P f_ ist.
+
+Kommen in demselben Bilde verschiedene rechte Winkel in schräger
+Stellung vor, so müssen sie selbstverständlich in übereinstimmender
+Weise behandelt, d. h. es muss überall dieselbe Distanz zu Grunde
+gelegt werden.
+
+Die falsche Wirkung, welche entsteht, wenn gegen jene Regel gefehlt
+wird, zeigt Fig. 29. Die Entfernung der beiden Fluchtpunkte von
+einander ist = 4 mal _P f_; daher wirken alle rechten Winkel, welche
+innerhalb der Kreislinie _f f_ liegen, perspectivisch richtig, aber die
+Winkel bei _m_, _n_ und _o_ können nicht mehr als rechte Winkel gelten.
+
+[Illustration: Fig. 29.]
+
+Andererseits zeigt Fig. 25, dass dem Zeichner innerhalb der angegebenen
+Grenze einige Freiheit gestattet ist: _a b e f_ wird auch dem
+geübtesten Auge ebenso als richtiges Bild eines Rechtecks erscheinen,
+wie _a b c d_.
+
+
+§ 36. Allerdings ist nicht sofort ersichtlich, wie gross die Entfernung
+der beiden Fluchtpunkte ist oder sein muss, da niemals beide
+innerhalb der Zeichnung, häufig dagegen weit ausserhalb derselben
+liegen. Will man sich nicht mit der Aushilfe begnügen, welche § 27 in
+Betreff entfernter Fluchtpunkte angegeben wurde, so ist in Fig. 30
+eine genauere Berechnung gezeigt. _A B_ und _A C_ seien 2 verkürzte
+wagrechte Linien. Eine von _A_ zum Horizont gezogene Senkrechte _A P_
+ist in 4 gleiche Teile geteilt und vom oberen Teilungspunkt _a_ sind
+2 Linien _a b_ und _a c_ geometrisch parallel mit _A B_ und _A C_
+gezogen, indem an beliebigen Punkten der lezteren Linien z. B. in _D_
+und _E_ 2 Senkrechte errichtet und _D d_ und _E e_ = _A a_ gemacht
+wurden. _c b_ kann nun als ein Viertel des Abstandes betrachtet werden,
+welchen die Fluchtpunkte der Linien _A B_ und _A C_ von einander haben
+und es lässt sich hienach bemessen, ob derselbe hinreichend gross ist.
+Wäre z. B. _f_ der von _P_ entfernteste Punkt der Zeichnung, so dürften
+die beiden Linien _A B_ und _B C_ nicht stärker als hier der Fall ist
+gegen einander geneigt sein, der Abstand ihrer Fluchtpunkte dürfte
+nicht kleiner sein als 4 mal _c b_; denn _c b_ ist = _P f_.
+
+[Illustration: Fig. 30.]
+
+Oder: wenn _A B_ als erste Linie gezeichnet ist, so muss, nachdem
+_a b_ parallel mit _A B_ gezogen und _b c_ = _P f_ gemacht ist, die
+zweite von _A_ ausgehende Linie entweder parallel mit _a c_ oder nach
+einem ferner liegenden Fluchtpunkt gerichtet sein, d. h. eine flachere
+Richtung haben, als _A C_.
+
+Würden bei einer Vierteilung der erstgenannten Senkrechten nicht beide
+den Punkten _b_ und _c_ entsprechenden Punkte innerhalb der Zeichnung
+fallen, so halbiere man das dem Horizont zunächst liegende Viertel und
+ziehe von hier aus die beiden Linien nach dem Horizont, also _i g_ und
+_i k_ statt _a b_ und _a c_. Die Punkte, wo sie den Horizont treffen,
+hier _g_ und _k_, müssen in diesem Fall einen Abstand haben, der
+wenigstens halb so gross ist, als eine Linie vom Augpunkt nach dem von
+ihm entferntesten Punkte.
+
+
+Verkürzte wagrechte Linien, deren Richtung nicht genau zu berechnen ist.
+
+§ 37. Wo die perspectivische Richtung einer verkürzten wagrechten Linie
+ohne genauere Berechnung gefunden werden muss, bietet die Vergleichung
+mit einer unverkürzten Wagrechten das beste Mittel, um den Grad, in
+welchem jene nach dem Horizont hin fallen oder steigen muss, richtig
+zu beurteilen. Man halte zu diesem Zweck den Rand des Zeichenblattes,
+ein Lineal oder dergl. in der Richtung einer unverkürzten Wagrechten so
+zwischen Auge und Gegenstand, dass ein Endpunkt der verkürzten Linie,
+welche man zeichnen will, davon durchschnitten wird, wie in Fig. 34 der
+Punkt _a_ von der Linie _e f_. Übrigens ist auch die perspectivische
+Länge einer verkürzten Linie von wesentlichem Einfluss auf die richtige
+oder unrichtige Wirkung ihrer perspectivischen Richtung. Je weniger die
+Stellung einer verkürzten Wagrechten zum Horizont von der Richtung des
+lezteren abweicht, desto weniger verändert sich ihr Grössenverhältnis
+zu andern Linien; je mehr sie der rechtwinkligen Stellung zum
+Horizont, ihr Fluchtpunkt dem Augpunkt sich nähert, desto kürzer
+scheint sie zu werden, vgl. Fig. 23. Es kommt nun häufig vor, dass die
+perspectivische Richtung verkürzter Linien, wenn sie ganz der Regel
+entsprechend angegeben ist, dennoch eine falsche Wirkung macht, weil
+ihr perspectivisches Grössenverhältnis verfehlt ist und zwar geschieht
+dies gewöhnlich in der Weise, dass sie zu lang gezeichnet wird (vgl. §
+7).
+
+
+Wagrechte Parallellinien, deren Fluchtpunkt unzugänglich ist.
+
+[Illustration: Fig. 31.]
+
+§ 38. In Fig. 31--33 ist gezeigt, wie die Richtung verkürzter
+wagrechter Parallellinien, deren Fluchtpunkt nicht erreichbar ist,
+genau berechnet werden kann. Es seien in Fig. 31 gegeben die Wagrechten
+_A B_ und _A C_ sowie die Senkrechten _A D_ und _C E_ und sollen von
+_D_ und _E_ Linien parallel mit _A B_, von _D_ und _B_ 2 weitere
+parallel mit _A C_ gezeichnet werden. Man bilde über _A B_ mit der
+Horizontlinie und einer in _B_ errichteten Senkrechten das Rechteck
+_A B b P_ und errichte in _i_, dem Schnittpunkt seiner Diagonalen, eine
+Senkrechte, ziehe hierauf eine Linie von _D_ nach _b_ und von _P_ durch
+den Punkt _k_, in welchem _D b_ jene Senkrechte schneidet, eine Linie
+nach der verlängerten _B b_, so ist _D G_ perspectivisch parallel mit
+_A B_.
+
+Ebenso ist auf der andern Seite durch die Diagonalen des Rechtecks
+_A C c P_ dessen perspectivischer Mittelpunkt gefunden und eine in
+diesem errichtete Senkrechte benüzt, um die Lage des Punktes _d_ und
+hiemit die Richtung der mit _A C_ parallelen Linie _D d_ zu bestimmen.
+
+Um von _E_ eine mit _A B_ parallele Linie zu zeichnen, kann leztere bis
+zu der durch _E_ gehenden Senkrechten also bis _s_ verlängert und die
+perspectivische Mittellinie des Rechtecks _s A P c_ wie oben benüzt
+werden, um den Punkt _t_ zu erhalten. Oder kann seitwärts ein Rechteck
+_s o H c_ gebildet, mittels seiner senkrechten Halbierungslinie oben
+der Punkt _e_ gefunden und hierauf _e E_ nach rechts verlängert werden.
+
+Wie auf gleiche Weise die mit _A C_ parallele Richtung der von _B_
+ausgehenden Linie _B g_ und damit _B r_ mittels der Halbierungslinie
+eines Rechtecks _b a f h_ gefunden wird, ist aus den Linien der Figur
+zu ersehen. Statt der Linie _A C_ könnte auch eine andere mit ihr
+parallele Linie z. B. _d D_ verlängert und durch die Diagonalen _y h_
+und _z b_ die Mittellinie von _b h z y_ gefunden werden.
+
+Um schliesslich den Punkt _F_ zu erhalten, kann von _C_ eine mit _A B_
+parallele Linie gezeichnet und in dem Punkte _r_, in welchem sie die
+verlängerte _B g_ trifft, eine Senkrechte errichtet werden, welche die
+parallel mit _A B_ von _E_ ausgehende Linie in _F_ schneidet.
+
+Ist so das schräg liegende Rechteck _E D G F_ gegeben, so lässt sich
+die schräge Mittellinie desselben (welche sich durch Verbindung des
+perspectivischen Halbierungspunktes von _D G_ mit dem Schnittpunkt der
+Diagonalen _D F_ und _E G_ ergibt) verwenden, um von einem beliebigen
+Punkte der Linien _D E_ oder _G F_ eine mit _D G_ parallele Linie zu
+ziehen, z. B. _m n_.
+
+
+§ 39. In Fig. 32 sollen, nachdem _A B_ und _A C_ als Seiten eines
+Rechtecks gegeben sind, die beiden andern Seiten gezeichnet werden. Da
+der Raum nicht gestattet, die genannten Linien wie in Fig. 31 bis zu
+den 2 von _C_ und _B_ abwärts gezogenen Senkrechten zu verlangen, so
+sind _A a_, _B b_ und _C c_ halbiert und durch die Halbierungspunkte
+die Linien _g f e_ und _h f k_ gezogen, welche perspectivisch parallel
+sind mit _A B_ und _A C_. Entsprechend § 38 ist nun eine Senkrechte
+durch _i_, den Schnittpunkt der Diagonalen _a e_ und _c f_ gezogen,
+welche von der Linie _f C_ in _m_ geschnitten wird. Eine Linie von
+_e_ durch _m_ ergibt auf der Senkrechten _A a_ den Punkt _p_ und die
+mit _A B_ parallele Richtung _C p_. In gleicher Weise ist die mit
+_A C_ parallele Richtung _B o_ durch die senkrechte Mittellinie des
+Rechtecks _a b k f_ gefunden; statt dessen könnte auch, wie die Figur
+zeigt, ein seitwärts gebildetes Rechteck zu demselben Zweck verwendet
+werden.
+
+[Illustration: Fig. 32.]
+
+Bequemer wäre jedoch in diesem Fall das in Fig. 33 angewendete
+Verfahren, wo gleichfalls _A B_ und _A C_ die gegebenen Seiten eines zu
+bildenden Rechtecks sein sollen.
+
+[Illustration: Fig. 33.]
+
+Wenn in einem von 6 Quadraten oder Rechtecken umschlossenen Raume
+zwischen 2 entgegengesezten Ecken Diagonallinien gezogen werden, wie
+in Fig. 40 die Linien _a b_ und _B c_, so schneiden sich dieselben in
+der Mitte jenes Raums: _p_ Fig. 40 ist die Mitte von _A B b C c a G h_.
+Eine durch _p_ gezogene Senkrechte trifft also die Rechtecke _a G h c_
+und _A B b C_ in dem Durchschnittspunkt ihrer Diagonalen. Ziehen wir
+nun in Fig. 33 von _A_, _B_ und _C_ bis zum Horizont die Senkrechten
+_A a_, _B b_ und _C c_, so entsprechen die Linien _B c_ und _C b_,
+welche sich in _e_ schneiden, den Diagonalen _B c_ und _a b_ Fig.
+40 und eine von _e_ abwärts gezogene Senkrechte ergibt _o_ als
+perspectivische Mitte der Diagonale _C B_. Die Diagonalen _A b_ und
+_a B_ schneiden sich in _k_, _A c_ und _a C_ in _i_; _g_ und _m_ sind
+also die perspectivischen Halbierungspunkte von _A B_ und _A C_; _z_
+ist Fluchtpunkt der Diagonale _A o_ und folglich auch der von _g_ nach
+der Mitte von _B D_ gehenden Linie, da beide geometrisch parallel sind.
+_g z_ und die verlängerte _m o_ schneiden sich in _n_, _A z_ und die
+verlängerte _B n_ in _D_, womit die Form des Rechtecks gegeben ist.
+
+Die verlängerten Mittellinien _m n_ und _g o_ können sodann benüzt
+werden, um entsprechend Fig. 31 und 32 weitere mit _A B_ und _A C_
+parallele Linien zu ziehen. Soll z. B. von _d_ nach links eine
+mit _A C_ parallele Linie gezeichnet werden, so schneidet man die
+verlängerte _m n_ durch _D d_ in _p_ und zieht von _B_ durch _p_ eine
+Linie nach _f_; _d f_ ist somit parallel mit _A C_ und _B D_.
+
+
+§ 40. Muss eine grössere Anzahl von Parallellinien, deren Fluchtpunkt
+unzugänglich ist, gezeichnet werden, so würde es zu umständlich
+sein, jede einzelne genau zu berechnen. Man kann sich in diesem Fall
+begnügen, einige in passenden Zwischenräumen zu konstruieren, um mit
+Hilfe derselben ohne weitere Berechnung die übrigen zu zeichnen. So
+können in Fig. 21, wenn die Richtung _c d_ gegeben ist, mittels der
+senkrechten Halbierungslinie von _c d e f_ die von _g_, _h_ und _i_
+ausgehenden Parallellinien genau berechnet und sodann die zwischen
+ihnen liegenden ohne weitere Berechnung gezeichnet werden.
+
+Oder können von 2 beliebigen Punkten der zuerst gezeichneten
+Wagrechten 2 Senkrechte bis zum Horizont gezogen und beide in eine
+gleiche Zahl von gleich grossen Teilen geteilt werden wie in Fig.
+30 _A P_, _B G_ und _C F_ in je 4 Teile geteilt sind. Durch die
+Verbindung der entsprechenden Teilungspunkte erhält man perspectivische
+Parallellinien, zwischen welchen dann weitere gezogen werden können,
+vgl. Fig. 75 die Teilung von _A D_ und _B C_ in je 9 Teile. Je nach
+Bedürfnis kann sodann dieselbe Einteilung nach oben oder unten in der
+Verlängerung jener Senkrechten fortgesezt werden.
+
+Ein weiteres Verfahren, die Richtung verkürzter Parallellinien ohne
+Hilfe ihres Fluchtpunkts zu bestimmen, ist in § 70 angegeben.
+
+
+Verkürzte schräge Linien.
+
+§ 41. In Fig. 36 ist _a c_ eine nach der Ferne hin steigende, _a g_
+eine dorthin fallende Linie. (Wenn im Folgenden von fallenden oder
+steigenden Linien die Rede ist, so sind immer Linien gemeint, welche
+in ~Wirklichkeit~ oder geometrisch nach der Ferne hin fallen oder
+steigen). Bilden wir das Massdreieck dieser Linien (vgl. § 23) mittels
+der Wagrechten _a b_ und der 2 Senkrechten _b c_ und _b g_, so ist
+klar, dass eine steigende Linie wie _a c_, soweit man sie verlängern
+mag, niemals einen Punkt treffen kann, der unterhalb der wagrechten
+Linie ihres Massdreiecks oder deren Verlängerung liegt und ebenso wenig
+eine fallende Linie wie _a g_ einen Punkt, der über jener Wagrechten
+liegt.
+
+~Also liegt der Fluchtpunkt einer verkürzten schrägen Linie oberhalb
+des Horizonts, wenn sie nach der Ferne hin steigt, unterhalb des
+Horizonts, wenn sie nach der Ferne hin fällt~; vgl. die steigenden und
+fallenden Linien in Fig. 37.
+
+
+§ 42. Es kann vorkommen, dass gemäss dieser Regel eine steigende
+Linie so gezeichnet werden muss, dass ihr fernerer Endpunkt tiefer
+liegt als der nähere, vgl. _a c_ Fig. 34. Häufiger ist der umgekehrte
+Fall, dass Linien, welche in Wirklichkeit nach der Ferne hin fallen,
+perspectivisch nach dorthin steigen, wie _a b_ und _c d_ Fig. 35.
+
+[Illustration: Fig. 34.]
+
+In solchen Fällen ist es nötig, durch Hervorheben von geometrisch
+wagrechten Linien der nächsten Umgebung, welche zu den betreffenden
+schrägen Linien einen sichtbaren Gegensaz bilden, die Wirkung der
+lezteren zu unterstüzen, damit sie mit hinreichender Deutlichkeit
+das ausdrücken, was sie sein sollen. In Fig. 34 sind es z. B. die
+Balken der rechten Seite, in Fig. 35 die wagrechten Fugenlinien der
+anstossenden Mauer, welche es dem Beschauer deutlich machen, dass _a c_
+dort eine in Wirklichkeit von _a_ nach _c_ steigende, _a b_ in Fig. 35
+eine nach _b_ fallende Linie ist.
+
+[Illustration: Fig. 35.]
+
+
+§ 43. In Fig. 36 sind _a b_ und _e f_ wagrechte Parallellinien, ebenso
+_a e_, _b f_ und _c d_; _a c_ und _e d_ sind schräge Parallellinien.
+Wenn zwischen parallelen Linien Verbindungslinien liegen, welche
+unter sich gleichfalls parallel sind, so sind leztere gleich lang (§
+1, Fig. 1); also sind _a e_, _b f_ und _c d_ gleich lang, d. h. die
+Entfernung der schrägen Parallellinien _a c_ und _e d_ und diejenige
+der wagrechten _a b_ und _e f_ von einander ist gleich gross. Da der
+Abstand dieser Parallellinien von einander nach der Ferne hin in
+gleichem Masse kleiner zu werden scheint, d. h. in gleicher Tiefe immer
+wieder derselbe ist -- _m n_ ist = _o p_ u. s. w. -- so müssen beide in
+gleicher Tiefe zusammentreffen, d. h. ihre Fluchtpunkte müssen in Einer
+senkrechten Linie liegen, wie Fig. 36 deutlich zeigt.
+
+[Illustration: Fig. 36.]
+
+Dasselbe gilt selbstverständlich für die fallenden Linien _a g_ und
+_e h_. Mit andern Worten: ~der Fluchtpunkt einer verkürzten schrägen
+Linie liegt senkrecht über oder unter dem Fluchtpunkt der wagrechten
+Linie ihres Massdreiecks~.
+
+So liegt in Fig. 37 der Fluchtpunkt der Linien _a_, _b_, _c_ und _d_
+senkrecht über _n_, der Fluchtpunkt der Linien _g_ und _i_ senkrecht
+unter _n_, die Fluchtpunkte von _e_, _f_ und _k_ liegen in einer
+Senkrechten, welche durch den Fluchtpunkt der Wagrechten _o_ und _p_
+geht.
+
+Ist demnach _a c_ Fig. 36 als Richtung einer schrägen Linie, _a b_ als
+Richtung der wagrechten Linie ihres Massdreiecks angenommen, so ist
+auch die perspectivische Richtung aller mit _a c_ parallelen Linien
+gegeben, indem _a b_ bis zum Horizont, _a c_ bis zu der senkrechten
+durch den Fluchtpunkt von _a b_ gehenden Linie verlängert und so der
+die Richtung der parallelen Linien bestimmende Fluchtpunkt gefunden
+wird.
+
+
+§ 44. ~Befinden sich in einer verkürzten senkrechten Fläche steigende
+und fallende Linien, welche in Wirklichkeit denselben Neigungswinkel
+haben, so liegen ihre Fluchtpunkte in gleicher Entfernung vom Horizont.~
+
+Solche Linien sind z. B. _a c_ und _a g_ Fig. 36; _a_ und _g_, _d_
+und _i_, _f_ und _k_ Fig. 37. In Fig. 36 ist _a c g_ in Wirklichkeit
+ein gleichschenkliges Dreieck, also muss eine von seiner Spize _a_
+nach der Grundlinie _c g_ gezogene Wagrechte die leztere in ihrem
+Halbierungspunkt _b_ treffen; werden _a c_ und _a g_ verlängert und
+an beliebiger Stelle durch eine Senkrechte _s m_ verbunden, so wird
+leztere durch die verlängerte _a b_ gleichfalls halbiert, also muss
+auch _z_, der Fluchtpunkt von _a b_, in der Mitte liegen zwischen _x_
+und _y_, den Fluchtpunkten von _a g_ und _a c_.
+
+[Illustration: Fig. 37.]
+
+In Fig. 37 ist _h h_ parallel mit _i i_ (da beide denselben Fluchtpunkt
+haben) und die Senkrechte _y z_ wird von der Wagrechten _m n_ in der
+Mitte durchschnitten. Ebenso muss _n_ in der Mitte liegen zwischen
+den Fluchtpunkten der Linien _h_, _i_, _g_ und _c_, _d_, _a_; die
+Fluchtpunkte von _e_, _f_ und _k_ müssen gleich weit entfernt sein vom
+Fluchtpunkt der Wagrechten _o_ und _p_.
+
+
+Berechnung der Richtung schräger Linien ohne Hilfe ihrer Fluchtpunkte.
+
+§ 45. Man bedient sich jedoch, um die Richtung verkürzter schräger
+Linien zu berechnen, selten ihrer Fluchtpunkte, da dieselben in den
+meisten Fällen ausserhalb der Zeichenfläche liegen. Den nächstliegenden
+Ersaz bietet die senkrechte und wagrechte Linie ihres Massdreiecks. Ist
+Richtung und Länge der wagrechten sowie die Höhe der senkrechten Linie
+eines solchen Dreiecks gegeben oder leicht zu berechnen, so ist damit
+auch die Richtung (und Länge) der betreffenden schrägen Linien gefunden.
+
+Nehmen wir z. B. an, dass in Fig. 38 die Linie _A C_ gegeben sei und
+darüber ein Giebel von beliebiger Höhe, dessen 2 Seiten mit _A C_
+in Wirklichkeit ein gleichschenkliges Dreieck bilden, gezeichnet
+werden soll, so kann _k_ als perspectivische Mitte von _A C_ durch
+die Diagonalen eines Rechtecks _A C E D_ oder _A C g f_ gefunden und
+in _k_ eine Senkrechte errichtet werden, in welcher die Spize des
+Giebeldreiecks liegen muss. -- Ist das Dreieck _A B k_ gegeben, so dass
+der Punkt _C_ bestimmt werden muss, so bildet man mit _A k_ und einer
+beliebigen Parallellinie, z. B. _i D_, ein Rechteck _A k i D_ und zieht
+eine Linie von _D_ durch die Mitte von _i k_ nach der verlängerten
+_A k_, wodurch _C k_ = _A k_ gemacht ist.
+
+[Illustration: Fig. 38.]
+
+Soll, nachdem _D F_ und _D E_ gegeben sind, von _E_ abwärts eine Linie
+gezeichnet werden, welche denselben Neigungswinkel hat, wie _D F_, so
+wird leztere verlängert bis _e_, wo sie die senkrechte Mittellinie
+trifft und von _e_ durch _E_ die Linie _E G_ gezogen. -- Oder kann
+von _F_ eine mit _D E_ parallele Linie nach links und die senkrechte
+Mittellinie von _E D f g_ gezogen, die von _y_ nach _H H_ gehende
+Senkrechte halbiert und hierauf durch eine Linie von _r_ durch diesen
+Halbierungspunkt der Punkt _G_ bestimmt werden.
+
+
+§ 46. In Fig. 39 ist angenommen, dass die perspectivische Richtung
+und Länge der Linien _A B_ und _A C_, die Höhe _A a_ und die Breite
+_a c_ bestimmt seien, womit auch die Richtung der schrägen Linie
+_A c_ gegeben ist, in welcher die inneren Ecken der Stufen liegen
+müssen; die äusseren Ecken liegen in einer mit _A c_ parallel von _a_
+ausgehenden Linie, deren Richtung gefunden wird, indem man _c d_ =
+_b c_ macht. Eine Linie von _d_ nach dem Fluchtpunkt von _A C_ ergibt
+_e_, eine Senkrechte von hier den Punkt _f_. Bildet man hierauf das
+Rechteck _A C h g_, so kann mittels seiner Diagonalen _m n_ als
+senkrechte Mittellinie gefunden werden; _C m n_ ist demnach = _A m n_
+und die Ecken der ferneren Stufen können durch die von _a_ und _k_
+nach dem Fluchtpunkt von _A C_ gezogenen Linien und die entsprechenden
+Senkrechten gefunden werden. (Übrigens kann dieselbe Aufgabe auch ohne
+Hilfe der zweiten schrägen Linie gelöst werden: man macht _a k_ und
+_k g_ = _A a_, zieht von diesen Punkten aus die mit _A C_ parallelen
+Linien und erhält die Punkte _d_ und _f_ durch die in _c_ und _e_
+errichteten Senkrechten.) Die übrigen Linien der Figur sind teils
+senkrecht, teils sind sie parallel mit _A C_ oder mit _A B_.
+
+[Illustration: Fig. 39.]
+
+
+§ 47. Ein Beispiel, wie die Richtung verkürzter schräger Parallellinien
+ohne Hilfe ihres Fluchtpunkts berechnet werden kann, ist auch in Fig.
+31 enthalten, wo, um den Punkt _F_ zu finden, _B r_ und _C r_ gezogen
+und in _r_ eine Senkrechte errichtet wurde, welche auf der von _E_
+ausgehenden Wagrechten den Punkt _F_ und hiemit die mit _D E_ parallele
+Richtung der Linie _G F_ ergibt. Auf dieselbe Weise kann in Fig. 40,
+wenn das Dreieck _A B D_ und die Wagrechte _A C_ gegeben sind, die
+Richtung der mit _A D_ parallelen Linie _C E_ berechnet werden, indem
+man von _C_ eine mit _A B_, von _d_ und _D_ zwei mit _A C_ parallele
+Linien zieht und in _e_ eine Senkrechte errichtet. Ebenso kann _F n_
+gefunden werden durch die Linien _F m_ und _m n_.
+
+[Illustration: Fig. 40.]
+
+In Fig. 38 kann von _p_ aus eine Linie parallel mit _A B_ gezeichnet
+werden mittels der Linien _k x_, _p x_ und einer in _x_ errichteten
+Senkrechten. Oder kann man in _A_ und _p_ 2 Senkrechte errichten,
+_B b_ parallel mit _A C_, _b o_ parallel mit _A p_ ziehen und hierauf
+durch eine weitere mit _A C_ parallele Linie von _o_ aus den Punkt _n_
+bestimmen.
+
+Soll von _D_ aus abwärts eine mit _A B_ parallele Linie gezeichnet
+werden, so kann durch die Verlängerung von _A B_, _A C_ und _D E_ ein
+Dreieck _A c d_ gebildet und _d h_ = _c d_ gemacht werden, wodurch
+_D h_ parallel mit _B A_ ist. Oder kann, nachdem das Dreieck _A B b_
+gezeichnet ist, _D a_ = _A b_ gemacht und von _a_ eine mit _A C_ und
+_b B_ parallele Linie bis zu der Senkrechten _B k_ gezogen werden,
+wodurch _e D_ parallel mit _A B_ ist und von _D_ aus verlängert werden
+kann. Es könnte ferner, wenn _F z_ geometrisch = _y z_ ist, durch den
+Halbierungspunkt von _D z_ eine Linie von _i_ nach der verlängerten
+_y z_ gezogen werden.
+
+
+§ 48. In Fig. 41 sei _A G a_ und _A o_ gegeben. Um die Richtung
+der parallel mit _A a_ von _B_, _i_ und _o_ ausgehenden Linien zu
+berechnen, ist durch den Halbierungspunkt der Senkrechten _n a_ eine
+mit _A G_ parallele Linie nach _f_ und von hier aus _f g_ als wagrechte
+Mittellinie des Daches gezogen, welche nun ähnlich wie die Mittellinien
+in Fig. 31 benüzt werden kann, um zwischen _A B_ und _a p_ beliebige
+mit _A a_ parallele Linien z. B. _B b_, _i k_ und _o p_ zu zeichnen:
+man zieht _a B_ und _A r b_, _b i_ und _B s k_ u. s. w. Die Richtung
+der Linie _C c_ ist auf die in § 45 Fig. 38 angegebene Weise berechnet:
+_d h_ ist = _n a_ gemacht und von _h_ eine Linie durch _C_ nach der
+verlängerten _m z_ gezogen. Der Punkt _F_ ergibt sich durch eine
+parallel mit _A G_ von _E_ nach der Verlängerung von _b B_ gezogenen
+Linie; eine Senkrechte von _F_ abwärts schneidet die von _c_ nach
+rechts gehende Wagrechte in _e_, womit _E e_ gegeben ist.
+
+[Illustration: Fig. 41.]
+
+Sind auf solche Weise einige Parallellinien gezeichnet, so kann die
+perspectivische Richtung weiterer zwischen ihnen liegender Linien auch
+ohne genaue Berechnung jeder einzelnen ohne Schwierigkeit bestimmt
+werden.
+
+
+Verschiedene Beispiele. Treppen, Dächer, Dachfenster, Turmhelme.
+
+§ 49. Die Anwendung des vorangegangenen ist in Fig. 42--60 an weiteren
+Beispielen gezeigt. Der Gleichartigkeit des Gegenstands wegen befinden
+sich unter denselben auch solche, bei denen die im folgenden Abschnitt
+besprochene Form des verkürzten Quadrats als gegeben betrachtet werden
+muss.
+
+Für die Construction der Treppe Fig. 42 nehmen wir die Höhe und Breite
+der untersten Stufe, also die perspectivische Länge der Linien _B b_
+und _b c_, sowie die Linie _A B_ als gegeben an. Da leztere eine
+unverkürzte Wagrechte ist, so muss der Augpunkt Fluchtpunkt der Linie
+_b c_ sein. Wird nun _b m_ = _B b_ gemacht, in _c_ eine Senkrechte
+errichtet und von _m_ eine Linie nach _P_ gezogen, so ist _c n_ die
+perspectivische Höhe der zweiten Stufe und es ist durch _b n_ die
+Richtung der schrägen Linie gegeben, in welcher die vorderen Ecken
+der folgenden Stufen liegen müssen. Hierauf wird auf der verlängerten
+_B m_ die Höhe _B b_ mit dem Zirkel so oft wiederholt, als nötig
+ist, um die gewünschte Zahl von Stufen zu erhalten und werden von
+den Teilungspunkten Linien nach _P_ gezogen. Die Punkte, in welchen
+leztere die Linie _b d_ schneiden, sind die vorderen Ecken der Stufen,
+die hinteren dem Punkte _c_ entsprechenden Ecken ergeben sich durch
+die von _o_, _p_ u. s. w. abwärts gezogenen Senkrechten. Auf der
+andern Seite schneiden sich _a P_ und die von _c_ nach links gezogene
+Wagrechte in _y_, eine Wagrechte von _n_ nach links und eine in _y_
+errichtete Senkrechte schneiden sich in _z_ u. s. w.
+
+[Illustration: Fig. 42.]
+
+Um von _F_ aus die mit _a D_ und _b d_ parallele Linie des Geländers
+zu zeichnen, ist durch die Diagonalen eines Rechtecks _g h d D_ dessen
+wagrechte Mittellinie bestimmt, welche von der Linie _F d_ in _i_
+geschnitten wird, worauf die von _h_ durch _i_ nach _D d_ gezogene
+Diagonale den Punkt _f_ und hiemit _F f_ als Parallele von _h d_
+ergibt.
+
+
+§ 50. Fig. 43 zeigt 2 häufige Formen von Dachfenstern. _m y_ und _n z_
+sind parallel mit _A D_ zu zeichnen, _y z_, _o p_, _m n_ parallel
+mit _A C_; die Höhe _m o_ sowie die Länge _m y_ sind beliebig,
+vorausgesezt, dass _o y_ und _p z_ als nach _y_ und _z_ hin steigende
+Linien gezeichnet sind.
+
+[Illustration: Fig. 43.]
+
+Bei der zweiten Form ist _d f_ parallel mit _A D_; die Höhe des Giebels
+kann beispielsweise in _i_ oder in _c_ angenommen werden; _e f_, _i k_,
+_c b_ sind parallel mit _A B_; die Punkte _b_ oder _k_ liegen sodann
+da, wo die von _c_ oder _i_ parallel mit _A B_ gezogenen Wagrechten
+sich mit einer schrägen Linie schneiden, welche von _a_, der Mitte
+von _d h_, parallel mit _A D_ aufsteigt. Durch den Punkt _b_, in
+welchem die leztgenannte Linie und die Firstlinie des Hauptdaches sich
+schneiden, ist _c b_ als grösste Höhe gegeben, welche für die obere
+Wagrechte des Dachfensters angenommen werden darf, d. h. eine von
+seiner Giebelspize parallel mit _A B_ gezogene Wagrechte darf die von
+_a_ parallel mit _A D_ ausgehende Linie nicht jenseits des Punktes _b_,
+nicht oberhalb der Firstlinie _D b_ treffen, es wäre denn, dass eine
+entsprechende Fortsezung auf der andern Dachseite angenommen würde.
+
+
+§ 51. In Fig. 44 seien _a b_ und _b c_ als zwei Seiten eines
+quadratischen Turmes gegeben und soll darüber ein Dach gezeichnet
+werden, dessen Spize über der Mitte des ganzen Turmes, d. h. seiner
+quadratischen Grundfläche liegt. Zieht man die mit _a b_ und _b c_
+parallelen Linien _d c_ und _a d_, so muss die Spize in einer
+Senkrechten liegen, welche in dem Schnittpunkte der Diagonalen _a c_
+und _b d_ errichtet wird; die Höhe der Spize ist beliebig. Bequemer
+wird in den meisten Fällen die Mitte des Ganzen auf die § 39 angegebene
+Weise gefunden: man zieht an beliebiger Stelle die mit _a b_ und
+_b c_ parallelen Linien _e f_ und _f g_ (oder benüzt statt derselben
+die Horizontlinie), um mittels der Diagonalen _c e_ und _a g_ den
+gewünschten Punkt zu erhalten, in welchem jene Senkrechte zu errichten
+ist.
+
+[Illustration: Fig. 44.]
+
+Häufig kann man sich auch damit begnügen, die 2 äusseren Senkrechten z.
+B. in Fig. 44 _e a_ und _g c_, nach oben zu verlängern und die Spize in
+die Mitte zwischen beide zu verlegen. Das Resultat stimmt zwar nicht
+immer vollständig mit dem der genauen Berechnung überein, doch ist die
+Abweichung eine so geringe, dass die richtige Wirkung nicht dadurch
+beeinträchtigt wird; vgl. Fig. 45.
+
+
+§ 52. In Fig. 45 sind zuerst von _a_, _b_ und _c_ aus 3 Linien nach
+einem tiefer liegenden Punkte _o_ der senkrechten Mittellinie gezogen,
+hierauf an beliebiger Stelle die mit _a b_ und _b c_ parallelen Linien
+_k m_ und _m n_ und von den Punkten _k_, _m_ und _n_ 3 Linien nach der
+höher liegenden Spize _p_.
+
+[Illustration: Fig. 45.]
+
+Die Construction von Fig. 46 ist hienach leicht zu verstehen. In Fig.
+47 sind von _a_, _b_ und _c_ aus zuerst 3 Linien nach dem höher in
+der Mittellinie liegenden Punkt _p_, hierauf die mit _a b_ und _b c_
+parallelen _d e_ und _e f_, und nach dem tiefer liegenden Punkt _o_ die
+Linien _d o_, _e o_ und _f o_ gezogen.
+
+[Illustration: Fig. 46.]
+
+[Illustration: Fig. 47.]
+
+
+§ 53. Bei der in Fig. 48 und 49 dargestellten Dachform liegen die
+Punkte _E_ und _F_ senkrecht über den Punkten _m_ und _n_, welche
+ihrerseits in der Mittellinie _a b_ des Rechtecks _A B C D_ liegen.
+_m a_ ist in Wirklichkeit = _n b_; denken wir uns die senkrecht
+über _A B_ und _C D_ stehenden Giebelwände _A B d_ und _D C f_
+hinzugezeichnet, so wäre auch _E d_ = _F f_. Gewöhnlich haben die
+beiden schrägen Dreiecke (_A B E_ und _D C F_) denselben Neigungswinkel
+wie die anstossenden Breitseiten des Daches. In diesem Fall müssen die
+senkrecht unter _E_ und _F_ liegenden Punkte _m_ und _n_ Mittelpunkte
+zweier Quadrate sein, deren Seiten = _A B_ sind, so dass _m a_ = _A a_
+wäre. Doch ist die Form auch dann eine richtige, wenn angenommen wird,
+dass der Neigungswinkel jener Flächen (_A B E_ und _A E F D_) ein
+verschiedener sei. Die Hauptsache ist, dass _E_ und _F_ von _d_ und
+_f_ oder _m_ und _n_ von _a_ und _b_ gleich weit entfernt sind, mit
+andern Worten, dass die beiden Dreiecke _A B E_ und _C D F_ die gleiche
+Neigung haben. Zu diesem Zweck bestimme man in Fig. 48, angenommen,
+dass _A B E_ und _A D_ gegeben seien, die perspectivische Mitte der
+Firstlinie in _h_ (mittels _A C_ und _B D_ oder _B z_ und _D y_) bilde
+das Rechteck _E h e c_ und ziehe _c F_ durch die Mitte von _h e_, so
+ist _F h_ perspectivisch = _E h_. Oder man verbinde (Fig. 49) den
+Halbierungspunkt _r_ der Linie _A D_ mit _h_, der wie oben gefundenen
+Mitte der Firstlinie, ziehe die Diagonale _E D_ und durch den Punkt, in
+welchem _E D_ und _r h_ sich schneiden, eine Linie von _A_ nach _F_.
+
+[Illustration: Fig. 48.]
+
+[Illustration: Fig. 49.]
+
+Oder auch man bestimme, nachdem _A B E_ und _A D_ (Fig. 49) gegeben
+sind, die perspectivische Mitte von _A B_ und _C D_, also die Punkte
+_a_ und _b_, ziehe von _a_ durch _E_ eine Linie nach der senkrechten
+Mittellinie des Ganzen (errichtet im Schnittpunkte der Diagonalen _B z_
+und _D y_) und von _o_ eine Linie nach _b_, welche die Firstlinie in
+_F_ schneidet.
+
+
+§ 54. Um das Dach Fig. 50 zu construieren, wird zuerst die einfache
+Dachform _C A a g h_ und an beliebiger Stelle die Wagrechte _e f_
+parallel mit _A a_, sowie _e c_ parallel mit _A C_ gezeichnet. Die
+perspectivische Mitte von _A C_ ist _m_, eine Linie von hier durch den
+Schnittpunkt _i_ ergibt den Punkt _n_ als Mitte der Firstlinie. Die
+Lage des einen der beiden Punkte _D_ oder _d_ wird beliebig angenommen,
+die des zweiten durch die Diagonalen _D c_ und _e d_, wie in Fig. 49, §
+53, gefunden.
+
+[Illustration: Fig. 50.]
+
+Häufig wird es auch genügen, bei Darstellung von Dachformen wie Fig.
+48--50 zuerst die gewöhnliche Dachform mit senkrechten Giebelwänden
+oder die perspectivische Mitte der Firstlinie anzugeben und nach dem
+Ermessen des Auges den ferneren der beiden geometrisch gleich grossen
+Teile kleiner zu zeichnen, als den näheren, also z. B. in Fig. 50 dafür
+zu sorgen, dass _n d_ kleiner sei als _D n_, _d h_ kleiner als _g D_.
+
+
+§ 55. Wenn in einem Dach von der Fig. 48--50 dargestellten Form
+Dachfenster wie in Fig. 43 gezeichnet werden sollen, so muss die
+schräge Mittellinie der betreffenden Seite gesucht werden. In Fig. 51
+z. B. muss die Linie _e d_ perspectivisch parallel sein mit _c D_;
+wäre das Dachfenster nicht in der Mitte von _A B D_, so müsste eine
+mit _c D_ parallele Linie entsprechend der Linie _a b_ in Fig. 43
+gezeichnet und sodann wie dort weiter verfahren werden.
+
+[Illustration: Fig. 51.]
+
+Auf der anstossenden Seite _A C E D_ müssen _a b_, _f g_ u. s. w.
+parallel sein mit der Mittellinie _m n_. In Fig. 53 wäre _f c_ am
+unteren, _c z_ am oberen Teil massgebend für die schrägen Linien eines
+Dachfensters.
+
+
+§ 56. Fig. 52, ein Staffelgiebel, ist so construiert, dass zuerst die
+einfache Dachform _a b c g e_ und die parallel mit _a c_ von _f_ und
+_d_ ausgehenden Linien gezeichnet wurden (_d g_ kleiner als _f c_). Um
+die Höhe der einzelnen Absäze zu bestimmen, ist in _k_ eine über _a_
+hinausreichende Senkrechte _k z_ errichtet und in die erforderliche
+Anzahl von gleichen Teilen geteilt. Durch die Teilungspunkte sind
+die Linien _m n_, _o p_ u. s. w. und nach dem Fluchtpunkt der
+andern Seite _m i_, _o h_ u. s. w. gezogen. Das Weitere ist aus den
+Constructionslinien der Fig. 52 leicht zu ersehen.
+
+[Illustration: Fig. 52.]
+
+
+§ 57. Die Form eines Mansardendaches Fig. 53 ist stets eine solche,
+dass die 4 Seiten des unteren und ihrerseits diejenigen des oberen
+Teiles denselben Neigungswinkel haben. Es muss daher, wenn _A B_ und
+_A C_ gegeben sind, von _A C_ ein Teil _A f_ abgeschnitten werden,
+welcher perspectivisch = _A B_ ist, so dass die senkrechte Linie, in
+welcher die Punkte _k_ und _d_ liegen müssen, über der Mitte eines
+Quadrats (_A B p f_) oder über dem Schnittpunkt der Diagonalen _B m_
+und _f n_ errichtet werden kann. Nachdem nun _A a_, _a b_, _B b_, _a d_
+und _b d_ gezeichnet sind (vergl. § 52, Fig. 47), so werden die von
+_a_, _d_ und _k_ parallel mit _A C_ ausgehenden Linien gezogen; _i_
+ergibt sich auf die § 53, Fig. 48 gezeigte Weise (nachdem _z_ als Mitte
+der Firstlinie bestimmt ist), _e_ durch eine von _i_ abwärts gezogene
+Senkrechte, _g_ durch eine Linie von _i_ nach _C_.
+
+[Illustration: Fig. 53.]
+
+
+§ 58. Der Turmhelm Fig. 54 und 55 ist eine an Bauten des romanischen
+Stils häufige Form: die 4 Seiten des quadratischen Turms schliessen
+oben mit 4 Giebeln ab, von deren Spizen 4 Linien nach der Turmspize
+gehen und so mit den Giebellinien 4 rautenförmige Flächen bilden.
+Zunächst müssen die Giebelspizen in gleicher Höhe liegen; angenommen,
+dass in Fig. 54 _a b d_ und _a c_ gegeben seien, so können die
+senkrechten Ecklinien von _a_ und _b_ nach oben verlängert werden,
+bis sie eine parallel mit _a b_ durch _d_ gezogene Wagrechte treffen;
+eine Wagrechte von _g_ aus parallel mit _a c_ und eine Senkrechte über
+der perspectivischen Mitte von _a c_ ergeben sodann den Punkt _f_,
+eine gleichfalls mit _a c_ parallele Linie von _h_ und eine mit _a b_
+parallele Linie von _f_ aus den Punkt _e_ (vergl. Fig. 56).
+
+[Illustration: Fig. 54.]
+
+[Illustration: Fig. 55.]
+
+In Fig. 55 ist die Stellung des Turmes eine solche, dass nur eine der
+oberen 4 Flächen und keine der Umrisslinien des dritten Giebelfeldes
+zu sehen ist. Die Höhe des zweiten Giebels ist hier dadurch gefunden,
+dass, nachdem _a c f_ und die Linie _a b_ gezeichnet waren, von _f_
+eine mit _a b_ parallele Wagrechte bis zur senkrechten Mittellinie des
+ganzen Turmes, d. h. bis _o_ und von hier eine mit _a c_ parallele
+Linie bis zu der in der Mitte von _a b_ errichteten Senkrechten gezogen
+wurde, wodurch _d_ als Spize des rechtseitigen Giebels gegeben ist.
+
+[Illustration: Fig. 56.]
+
+So könnte auch in Fig. 54 statt der oben angewendeten Construction
+von _d_ eine mit _a c_ parallele Wagrechte nach der senkrechten
+Mittellinie, durch den so gewonnenen Punkt _o_ eine mit _a b_ parallele
+Linie und hierauf _b e_ perspectivisch parallel mit _a f_ gezogen
+werden (vergl. Fig. 56).
+
+Ferner muss, damit _a i_ eine gerade Linie, _a d i f_ eine Fläche sei,
+_a d_ und _a f_ = _d i_ und _f i_ sein; _a d f_ und _i d f_ sind in
+Wirklichkeit 2 einander gleiche Dreiecke, _o i_ muss daher = _k o_
+sein. Oder kann zu demselben Zweck die senkrechte Mittellinie eines
+Giebelfeldes z. B. _m f_ benüzt werden: _f p_ wird = _m f_ gemacht und
+eine mit _a b_ parallele Linie von _p_ nach der senkrechten Mittellinie
+des ganzen Turmes gezogen.
+
+
+§ 59. Soll ein viereckiges Türmchen an beliebiger Stelle auf ein
+Giebeldach gesezt werden, wie in Fig. 57, so geht die Construction am
+besten von der mit _a b_ parallelen Linie _c d_ aus, deren Länge nach
+Gutdünken bestimmt wird. Man errichtet über _c_ und _d_ 2 Senkrechte,
+bildet mit denselben ein Rechteck _m n o p_ und zieht aus _n_ durch den
+Halbierungspunkt von _m o_ eine Linie, welche in _f_ die verlängerte
+_o p_ trifft und damit die Breite der ganzen Seite angibt. Für die
+perspectivische Breite der anstossenden Seite _p g e c_ sind, wenn sie
+genau berechnet werden soll, die im folgenden Abschnitt enthaltenen
+Regeln über die Construction des Quadrats massgebend.
+
+[Illustration: Fig. 57.]
+
+In Fig. 58 ist ein ähnliches Türmchen auf die Mitte eines Giebeldaches
+gesezt. Ist wie hier die Grundfläche ein Quadrat, d. h. _a b_ = _b c_,
+so ist wie bei Fig. 46 zu verfahren, nachdem von _i_, der Mitte der
+Firstlinie, die Linien _i a_, _i b_ und _i c_ gezogen sind. Ist _a b_
+länger als _b c_ oder umgekehrt, so schneide man von der Mitte der
+Firstlinie aus 2 perspectivisch gleich grosse Teile _i d_ und _i e_
+entsprechend der gewünschten Grösse des oberen Türmchens ab, ziehe von
+_d_ und _e_ 2 schräge Linien parallel mit den Seitenlinien des Dachs
+abwärts und verfahre wie bei Fig. 57.
+
+[Illustration: Fig. 58.]
+
+In Fig. 59 ist zuerst der Turmaufsaz über _a b g h_ wie oben mittels
+der Linien _d a_, _d b_ und _d c_ construiert (vergl. Fig. 55, 56 und
+57), die Punkte _f_ und _e_ ergeben sich sodann durch die senkrechten
+Mittellinien der beiden Seiten des Turmaufsazes.
+
+[Illustration: Fig. 59.]
+
+
+§ 60. Fig. 60 ist zuerst geradlinig wie Fig. 47 construiert, wodurch
+die für die perspectivische Schweifung der Ecklinien wichtigen Punkte
+_n_, _m_ und _k_ gewonnen werden.
+
+[Illustration: Fig. 60.]
+
+In Fig. 61 ist zuerst _a b c d_ gezeichnet, sodann (vergl. Fig. 45) die
+Lage der Punkte _k m n_ bestimmt, von welchen die geschweiften Linien
+ausgehen, ferner die Lage der 3 Punkte, an welchen sie ihre stärkste
+Ausladung haben. Diese Punkte liegen ebenso wie _k m n_ in 2 mit _a b_
+und _b c_ parallelen Linien und ergeben sich, je nachdem die Ausladung
+eine stärkere oder schwächere ist, durch Verlängerung der senkrechten
+Ecklinien, wie _x y z_ oder dadurch, dass von andern in gleicher
+Höhe liegenden Punkten der Linien _a d_, _b d_, _c d_, oder ihrer
+Verlängerung, z. B. von _e_, _f_ und _g_, 3 Senkrechte und zwischen
+diesen in entsprechender Höhe 2 mit _a b_ und _b c_ parallele Wagrechte
+wie _o h_ und _o i_ gezogen werden.
+
+[Illustration: Fig. 61.]
+
+
+§ 61. In Fig. 62 ist schliesslich gezeigt, wie auf Grund der bisher
+angewandten Constructionslinien vorspringende Dächer zu zeichnen sind.
+
+[Illustration: Fig. 62.]
+
+Nachdem _A_ als vordere Ecke des Daches angenommen wurde, sind die mit
+_a b_, _b c_, _a c_ und _a t_[6] parallelen Linien _A B_, _B C_, _A C_
+und _A D_ gezeichnet. _C d_ und _e f_ sind parallel mit _A D_, _m n_
+und _o p_ mit _A C_. _z y_ ist geometrisch = _B b_, aber entfernter,
+muss also entsprechend kleiner sein als _B b_. Selbstverständlich wird
+die Mitte der Giebelseiten bezeichnet durch die von _b_ und _h_ abwärts
+gezogenen Senkrechten und dürfen hiezu nicht die Punkte _B_ und _g_
+benüzt werden.
+
+    [6]: Statt des bei _k_ und _D_ stehenden Buchstaben _b_ ist ein _t_
+    zu sezen.
+
+
+
+
+IV. Die perspectivischen Grössenverhältnisse.
+
+
+Unterscheidung der verschiedenen Aufgaben.
+
+§ 62. Wir sind in § 22 ausgegangen von dem wichtigsten Gesez in Betreff
+der perspectivischen Grössenverhältnisse, wonach jeder Gegenstand im
+Verhältnis seiner Entfernung vom Auge kleiner zu werden scheint. Ferner
+wissen wir aus § 8, dass wir es nur mit der perspectivischen Grösse
+solcher Linien zu thun haben, deren geometrisches Grössenverhältnis zu
+andern Linien ein symmetrisches, regelmässiges und notwendiges ist.
+
+Es lassen sich in dieser Beziehung 3 Fälle unterscheiden: 1)
+Parallellinien, welche in Wirklichkeit gleich lang sind, aber
+verschiedene Entfernung vom Auge haben (in verschiedener Tiefe sich
+befinden), wie z. B. in Fig. 62 die senkrechten Umrisslinien der
+3 grösseren Fenster. 2) Verkürzte Linien, auf welchen sich gleich
+grosse Masse wiederholen, oder welche nach bestimmten symmetrischen
+Verhältnissen geteilt sind, wie die Linie _i k_ Fig. 62, wenn die
+Fenster in Wirklichkeit gleiche Breite und gleiche Abstände haben.
+3) Verkürzte Linien, welche zu einer nicht parallelen Linie in einem
+bestimmten Grössenverhältnisse stehen, wie die Seiten eines verkürzten
+Quadrats oder die Teile der Linie _i s_ Fig. 62, wenn die Fenster und
+Zwischenräume in Wirklichkeit auf beiden Seiten gleiche Breite haben.
+
+
+Parallellinien von gleicher Länge in verschiedener Tiefe.
+
+§ 63. Die Berechnung der perspectivischen Länge paralleler Linien,
+welche geometrisch gleich gross sind, aber in ungleicher Tiefe liegen,
+geschieht nach dem § 1 angeführten Geseze, dass parallele Linien,
+welche zwischen 2 gleichfalls parallelen Linien liegen, gleich lang
+sind.
+
+Mehrfache Beispiele sind schon in den vorangegangenen Figuren
+enthalten, z. B. in Fig. 20 sind _i k_ und _c d_, _g h_ und _a b_
+perspectivisch gleich lang (stellen Linien dar, welche geometrisch
+gleich lang sind), weil sie als unverkürzte Wagrechte unter sich
+parallel sind und die Linien _a P_ und _b P_, _c P_ und _d P_, zwischen
+welchen sie liegen, gleichfalls perspectivisch parallel sind, vergl.
+die gleich langen Linien _a i_, _b g_, _k e_ und _f h_, oder _a e_
+und _c d_ in Fig. 36, ähnliche Linien in Fig. 40 und 41 und andere.
+Soll in Fig. 62 die Linie _r x_ massgebend sein für die Höhe der
+übrigen Fenster, so werden durch _r_ und _x_ 2 Linien parallel mit
+den wagrechten Linien dieser Seite bis zu der senkrechten Ecklinie
+gezogen und von lezterer aus auf der andern Seite parallel mit _a c_
+fortgesezt, wodurch sämtliche zwischen diesen Parallelen liegende
+senkrechte perspectivisch gleich lang sind.
+
+
+§ 64. In Fig. 63 sei die Aufgabe gestellt, die Höhe der Figur _a b_ auf
+die in derselben wagrechten Fläche liegenden Punkte _c_, _e_ und _g_ zu
+übertragen oder auf den leztgenannten Punkten Figuren von gleicher Höhe
+mit _a b_ zu zeichnen. Ziehen wir von _a_ durch _c_ eine Linie nach dem
+Horizont, und nach dem Punkte _x_, wo sie denselben trifft, eine zweite
+von _b_ aus, so sind alle senkrechten Linien, welche zwischen den 2
+Parallellinien _a x_ und _b x_ liegen, perspectivisch gleich hoch.
+Eine Linie von _a_ durch _e_ oder von _g_ durch _a_ nach dem Horizont
+würde diesen in 2 weit ausserhalb der Zeichenfläche liegenden Punkten
+treffen. Man benüzt daher 2 von _a_ und _b_ nach einem beliebigen Punkt
+des Horizonts gezogene Linien, z. B. _a x_ und _b x_, zieht von _e_
+eine unverkürzte Wagrechte nach _i_ und errichtet dort die Senkrechte
+_i k_, welche somit in gleicher Tiefe mit _e_ steht und mittels
+einer unverkürzten Wagrechten von _k_ aus auf die gewünschte Stelle
+übertragen werden kann. Da eine von _g_ aus nach der verlängerten _x a_
+gezogene Wagrechte die leztere nicht mehr innerhalb der Zeichenfläche
+erreichen würde, so ist ein Punkt _y_ wie oben benüzt, von _g_ eine
+Wagrechte nach der verlängerten _y a_, d. h. nach _m_ gezogen, _m n_ =
+_a b_ gemacht und ist somit auch _g h_ = _a b_.
+
+[Illustration: Fig. 63.]
+
+Liegt der Horizont in gleicher Höhe mit dem oberen Ende einer
+senkrechten Linie, z. B. in der Scheitelhöhe einer menschlichen Figur,
+so ist die Höhe aller gleich grossen senkrechten Linien oder anderer
+Figuren, welche in derselben wagrechten Fläche stehen, durch die
+Horizontlinie gegeben, vgl. Fig. 64.
+
+[Illustration: Fig. 64.]
+
+
+§ 65. In Fig. 65 sei _A B_ gegeben und sollen 2 weitere Figuren in _f_
+und _g_, d. h. in 2 Punkten gezeichnet werden, welche in gleicher Höhe
+und gleicher Tiefe mit den Punkten _a_ und _e_ liegen. Zu diesem Zweck
+sind die durch _a_ und _e_ gehenden Senkrechten verlängert bis zu der
+wagrechten Fläche, auf welcher _A B_ steht, also bis _o_ und _p_, und
+ist auf die oben beschriebene Weise _o c_ = _A B_ gemacht. Die Höhe
+_o c_ kann nun mit dem Zirkel nach _a d_ und von hier mittels einer
+Wagrechten nach _f k_ übertragen werden. _e p_ ist = _o c_ = _e b_,
+somit ist auch _g h_ = _A B_.
+
+[Illustration: Fig. 65.]
+
+
+§ 66. In Fig. 66 ist angenommen, dass _A B_ als Höhe einer in _A_
+stehenden Figur gegeben sei und der Punkt _C_, in welchem eine zweite
+Figur stehen soll, um 3 Stufen tiefer liege, als die obere Fläche. Man
+errichte eine Senkrechte in _g_, mache _i g_ = 3 mal _g e_, d. h. =
+_a g_, und _i p_ = _a b_, d. h. = _A B_, ziehe _i P_ und _p P_, eine
+Wagrechte von _C_ nach _m_ und errichte eine Senkrechte in _m_ bis
+_p P_, so ist _m n_ und folglich auch _C D_ = _A B_.
+
+[Illustration: Fig. 66.]
+
+Wäre die Höhe _A B_ auf eine der beiden andern Stufen oder auf irgend
+einen Punkt der Fläche, in welcher _g_ liegt, zu übertragen, so würde
+man bei _b d_, _d f_ und _f h_ = _g e_, _e c_ und _c a_ machen, so dass
+_g h_, _e f_ und _c d_ je = _a b_ = _A B_ wären und könnte hierauf jede
+dieser Senkrechten auf einen beliebigen Punkt der Fläche, in welcher
+ihr unteres Ende liegen soll, wie oben übertragen werden.
+
+
+§ 67. In Fig. 67 ist die mit _a b_ gleiche Höhe einer in _c_
+stehenden Figur berechnet, indem von _c_ abwärts eine mit _d f_ und
+_g h_ parallele schräge Linie bis _i_, d. h. bis zu der wagrechten
+Ebene, in welcher _a_ liegt, gezogen, die Höhe _a b_ nach _i k_ und
+hierauf mittels der weiteren schrägen Parallellinien _k e_ nach _c_
+übertragen wurde. In einem derartigen Falle ist vorauszusezen, dass der
+Fluchtpunkt oder das Massdreieck einer in der betreffenden schrägen
+Fläche liegenden schrägen Linie, wie hier _g m h_, bekannt sei. Ein
+ähnliches Beispiel zeigt Fig. 35: Die Höhe _g i_ ist zuerst mittels
+_g n_ und _i n_ nach _f_ übertragen, wo die wagrechte Fläche beginnt,
+in welcher eine zweite Figur stehen soll. Die Höhe der lezteren ergibt
+sich sodann durch _f P_ und _e P_.
+
+[Illustration: Fig. 67.]
+
+Die perspectivische Grösse von Figuren oder irgend welchen Linien,
+welche auf unregelmässigem Terrain in verschiedener Tiefe sich
+wiederholen, kann nicht genau berechnet werden.
+
+
+§ 68. Wie auf dieselbe oder ähnliche Weise ~wagrechte~ Parallellinien
+von gleicher Länge in verschiedener Tiefe zu zeichnen sind, ist in Fig.
+68--70 gezeigt.
+
+Es sei die Aufgabe gestellt, 2 Rechtecke von gleicher Grösse und in
+gleicher Stellung wie _A B C D_, Fig. 68, zu zeichnen, so, dass die
+linke vordere Ecke des einen in _E_, die des andern in _e_ liegt.
+Zieht man von _E_ eine unverkürzte Wagrechte nach _r_, so ist _r s_ =
+_A B_ und kann mit dem Zirkel von _E_ nach _F_ übertragen werden. Die
+Richtung der verkürzten Seiten ist durch _P_ gegeben, ihre Länge durch
+eine Linie von _E_ nach _z_, dem Fluchtpunkt der Diagonale _A C_ und
+folglich auch der mit _A C_ parallelen _E G_. Ebenso kann _e f_ = _a b_
+gemacht und die Länge _f g_ durch die Diagonale _e g_ bestimmt werden.
+
+[Illustration: Fig. 68.]
+
+Wären die Fluchtpunkte beider Diagonalen des gegebenen Rechtecks
+_A B C D_ unzugänglich, so könnten _A B_, _E F_ und _e f_ halbiert
+werden, um _y_ als Fluchtpunkt von _o C_ wie oben _z_ behufs Berechnung
+der Länge _F G_ und _f g_ zu benüzen. _e h_ könnte auch = _F G_ gemacht
+werden mittels einer von _F_ durch _e_ nach dem Horizont und einer
+zweiten von _G_ nach _y_ gezogenen Linie. Sollte auf diesem Wege die
+Länge _E H_ = _B C_ bestimmt werden, so müsste, da eine Linie von _B_
+durch _E_ den Horizont ausserhalb der Zeichnung trifft, eine näher bei
+_E_ liegende Linie, z. B. _m n_ = _B C_ gezeichnet werden, um _m E y_
+und _n H y_ ziehen zu können.
+
+
+§ 69. In Fig. 69 ist von _a_ aus ein Rechteck = _E F G H_ gezeichnet,
+indem von _E_ eine Linie durch _a_ nach dem Horizont gezogen und
+hierauf die Lage von _b_, _c_ und _d_ durch die Linien _F P_, _G P_,
+_H P_ und die nach den betreffenden Fluchtpunkten gezogenen _a b_,
+_b c_, _a d_ bestimmt wurde. Wäre statt _a_ der Punkt _A_ als vordere
+Ecke des zweiten Rechtecks gegeben, welcher in gleicher Tiefe mit _E_
+liegt, so könnte man von _E_, _F_, _G_ und _H_ unverkürzte Wagrechte
+nach links ziehen, in welchen auch die Punkte _B_, _C_ und _D_ liegen
+müssen und hierauf die Lage der lezteren ohne Hilfe ihrer Fluchtpunkte
+dadurch näher bestimmen, dass man nach einem beliebigen Punkt des
+Horizonts, z. B. nach _P_, Linien von _E_, _F_, _G_, _H_ und _A_ zieht,
+und hierauf _f g_ = _i k_, _f C_ = _i G_, _f e_ = _i h_ macht u. s. w.
+Ebenso ist _m n_ = _x y_, _n o_ = _y a_ u. s. w.
+
+[Illustration: Fig. 69.]
+
+Wäre _A B C D_ und der Punkt _a_ gegeben, somit der Fluchtpunkt einer
+von _A_ durch _a_ gezogenen Linie unzugänglich, so könnte auf die
+zulezt angegebene Weise das erstere Rechteck leicht soweit als nötig
+zur Seite gerückt werden, wie oben die Linie _B C_, Fig. 68 nach _m n_.
+
+
+§ 70. Aus dem Vorangegangenen ergibt sich ein weiteres in vielen
+Fällen bequemes Mittel, die Richtung verkürzter Parallellinien, deren
+Fluchtpunkt unzugänglich ist, zu berechnen. Wenn in Fig. 70 _E_ die
+vordere Ecke eines Rechtecks = _A B C D_ sein soll und wie oben eine
+Wagrechte durch _A_ sowie die Linien _A E z_, _B z_, _C z_ und _D z_
+gezogen sind, so bilde man mit einer aus einem beliebigen Punkt des
+Horizonts z. B. aus _y_ durch _B_ gezogenen Linie ein Dreieck _a c B_
+und ziehe _c z_. _b d_ ist nun = _a c_, eine Linie von _d_ nach _y_
+macht _b F_ = _a B_, somit sind die Dreiecke _a c B_ und _b d F_ oder
+_A a B_ und _E b F_ einander gleich und ist _E F_ perspectivisch gleich
+gross und parallel mit _A B_. Die Lage der Ecke _G_ ist durch _C z_ und
+die Diagonale _E y_ gegeben, könnte aber gleichfalls dadurch berechnet
+werden, dass auf die angegebene Weise _F h g_ = _B f e_ gemacht und
+eine unverkürzte Wagrechte von _h_ nach _G_ gezogen würde. Um _K_ zu
+erhalten, ist schliesslich _D m_ gezogen, durch _m z_ _G n_ = _C m_
+gemacht, und durch eine Wagrechte von _n_ nach _D z_ der Punkt _K_
+bestimmt.
+
+[Illustration: Fig. 70.]
+
+Da sowohl Richtung als Länge einer schrägen Linie durch die senkrechte
+und wagrechte Linie ihres Massdreiecks gegeben ist, so gilt das
+Gesagte auch für verkürzte gleich grosse ~schräge~ Parallellinien in
+verschiedener Tiefe.
+
+
+Teilung einer verkürzten Linie nach bestimmten Verhältnissen.
+
+§ 71. Die einfachste und häufigste Art einer solchen Teilung ist die
+Halbierung mittels der Diagonalen eines Rechtecks, dessen eine Seite
+die zu halbierende Linie bildet. Die vorangehenden Figuren, z. B.
+38--41, bieten hievon mehrfache Beispiele. Ebenso von der Verdopplung
+einer Linie: in Fig. 48 z. B. ist, nachdem _E h_ gegeben, die zweite
+Hälfte _h F_ = _E h_ gemacht mittels eines Rechtecks _E h e c_ und
+einer Linie aus _c_ durch die Mitte von _e h_ nach _F_.
+
+[Illustration: Fig. 71.]
+
+Soll in Fig. 71 die Länge _e f_ auf der Fortsezung dieser Linie
+wiederholt werden, so bilde man mit _e f_ ein beliebiges Rechteck
+_e f b a_, ziehe von _a_ eine Linie durch die Mitte von _b f_ nach _g_,
+von _b_ durch die Mitte von _c g_ nach _h_ u. s. w. Auf dieselbe Weise
+ist in Fig. 72 die Länge _a b_ nach _c_ u. s. w. übertragen. In Fig. 71
+ergibt sich _f n_ als Hälfte von _e f_, wenn _m_ (vom Schnittpunkt der
+Diagonalen _a f_ und _e b_ aus) als Hälfte von _a b_ bestimmt und von
+da eine Linie durch _d_ gezogen wird.
+
+[Illustration: Fig. 72.]
+
+In der Mitte des Rechtecks _a b c d_ Fig. 73 kann ein Fenster
+gezeichnet werden, indem die senkrechte Mittellinie _e f_ gezogen,
+_m n o p_ als nähere Hälfte angenommen und _n z_ durch die Mitte von
+_m p_ gezogen wird, vgl. die beigefügte geometrische Figur.
+
+[Illustration: Fig. 73.]
+
+Soll auf der Linie _B P_ Fig. 68 von _b_ aus ein Stück = _B C_
+abgeschnitten werden, so bilde man ein Rechteck _C b a D_, ziehe _D b_
+und _C a_ und durch _i_ eine Linie von _A_ nach _c_.
+
+
+§ 72. Die Teilung einer verkürzten Linie in eine grössere Anzahl von
+Teilen, welche in einem bestimmten geometrischen Verhältnis zu einander
+stehen, geschieht gewöhnlich zufolge dem Geseze, dass in einem Dreieck
+Linien, welche parallel mit einer Seite zwischen den beiden andern
+gezogen werden, auf lezteren Teile von gleichem Verhältnis ergeben.
+
+[Illustration: Fig. 74.]
+
+In Fig. 74 ist z. B. die Linie _a b_ so geteilt, dass _a d_ und _e f_
+gleich gross und je die Hälfte von _d e_ und _f b_ sind. Zieht man nun
+von _f_, _e_ und _d_ Linien parallel mit _b c_ nach _a c_, so erhält
+man auf lezterer Linie Teile von demselben Verhältnis. Ist die Aufgabe
+gestellt, die Linie _D C_ Fig. 75 so zu teilen, dass die Fenster je
+halb so gross als die Zwischenräume sein sollen, so wird durch _D_
+eine unverkürzte Wagrechte gezogen, mit dem Zirkel, nachdem _D a_ als
+erster Teil beliebig angenommen ist, _a b_ = 2 mal _D a_, _b c_ = _D a_
+u. s. w. gemacht und eine Linie von _f_, dem Endpunkt des letzten
+Teilabschnitts, durch _C_ nach dem Horizont gezogen, worauf die Linien
+_a p_, _b p_, _c p_ u. s. w. auf _D C_ die gewünschten Verhältnisse
+ergeben.
+
+[Illustration: Fig. 75.]
+
+Statt auf _D f_ könnten die Teile auch auf einer höher gelegenen Linie,
+z. B. von _m_ aus in der Weise angetragen werden, dass eine Linie von
+_m_ durch _D_ nach dem Horizont, eine zweite von _p_ durch _C_ nach _n_
+gezogen und _m n_ mit dem Zirkel nach den gewünschten Verhältnissen
+geteilt würde.
+
+Auch in Fig. 72 könnte auf diese Weise die perspectivische Weite der
+Zwischenräume berechnet werden, wie auf der Linie _a d_ angedeutet ist.
+
+Dasselbe Verfahren ist in Fig. 42 angewandt, um die verkürzte schräge
+Linie _b d_ in eine Anzahl gleicher Teile zu teilen und so die
+perspectivische Höhe der Stufen zu bemessen, mit dem Unterschied, dass
+die senkrechte Linie _b e_ hier die Stelle der unverkürzten Wagrechten
+in Fig. 75 vertritt.
+
+
+§ 73. Ein anderes Verfahren ist das folgende: Wenn in Fig. 73 das
+Rechteck _a b c d_ gegeben ist und die Breite eines in der Mitte davon
+zu zeichnenden Fensters 1/5 der Linie _a d_ betragen soll, so wird
+_a b_ in 5 gleiche Teile geteilt und die Diagonale _a c_ oder _b d_
+gezogen. Zieht man nun von _g_ und _h_ Linien parallel mit _a d_
+und _b c_, so erhält man da, wo dieselben die Diagonalen schneiden,
+die Punkte, welche die Breite des Fensters bestimmen, vergl. die
+geometrische Figur. Auch die perspectivische Breite der Fenster und der
+Zwischenräume in Fig. 75 könnte dadurch bestimmt werden, dass _A D_
+mit dem Zirkel in 9 gleiche Teile geteilt würde (vorausgesezt, dass
+das oben angegebene Verhältnis massgebend sein soll). Die Punkte, in
+welchen die von 1, 3, 4, 6 und 7 aus gezogenen Parallelen die Diagonale
+_D B_ schneiden, ergeben, wie die Figur zeigt, dasselbe Verhältnis wie
+die obige Berechnung.
+
+
+Perspectivisches Grössenverhältnis nicht paralleler Linien.
+
+§ 74. Wenn wir uns von unserem Auge eine Linie nach dem Augpunkt und
+2 andere nach den beiden Diagonalpunkten (§ 18) gezogen denken, so
+entstehen 2 gleichschenklige rechtwinklige Dreiecke. Denn eine Linie
+vom Auge nach dem Augpunkt steht zum Horizont in einem rechten Winkel
+und die Entfernung der Diagonalpunkte vom Augpunkt ist gleich der
+Entfernung des Auges vom Augpunkt. Wenn in Fig. 76 _D_ unser Auge, _P_
+der Augpunkt ist, so sind _Dp_ und _Dg_ Diagonalpunkte.
+
+[Illustration: Fig. 76.]
+
+~Die beiden Linien vom Auge nach den Diagonalpunkten~ -- _D Dp_ und
+_D Dg_ -- ~stehen zum Horizont in einem halben rechten Winkel~, wie die
+Diagonalen eines Quadrats zu dessen Seiten, vergl. _a b c d_. Steht
+eine Linie unseres Gegenstands in einem halben rechten Winkel zu einer
+unverkürzten Wagrechten, so steht sie auch zum Horizont in einem halben
+rechten Winkel, sie ist also parallel mit einer Linie von unserem Auge
+nach einem der beiden Diagonalpunkte und dieser muss ihr Fluchtpunkt
+sein. ~Die Diagonalpunkte sind also die Fluchtpunkte aller wagrechten
+Linien, welche zu einer unverkürzten Wagrechten in einem halben rechten
+Winkel stehen.~
+
+Umgekehrt, ~jede Linie des Bildes, deren Fluchtpunkt ein Diagonalpunkt
+ist, stellt eine Linie dar, welche zum Horizont und zu den unverkürzten
+Wagrechten derselben Zeichnung in einem halben rechten Winkel steht~.
+
+Ist also in Fig. 77 die Distanz = 2 mal _A P_ = _P Dg_, so ist _Dg_
+ein Diagonalpunkt und stellt _A C_ eine Linie dar, welche in einem
+halben rechten Winkel zu _A B_ steht; die Linie _B C_, welche ihren
+Fluchtpunkt im Augpunkt hat, ist demnach eine rechtwinklig zu
+_A B_ stehende Linie und _A B C_ ist die perspectivische Form eines
+gleichschenkligen rechtwinkligen Dreiecks = _a b c_ Fig. 76. _B C_ Fig.
+77 ist = _A B_, wie in Fig. 76 _b c_ = _a b_ ist.
+
+[Illustration: Fig. 77.]
+
+
+§ 75. Demgemäss kann die Länge einer unverkürzten Wagrechten auf
+eine rechtwinklig zu ihr stehende, d. h. nach dem Augpunkt gehende
+Wagrechte übertragen werden, indem entweder von einem Endpunkt der
+gegebenen unverkürzten Wagrechten eine Linie nach einem der beiden
+Diagonalpunkte gezogen wird, welche die nach dem Augpunkt gehende Linie
+schneidet: _B C_ Fig. 77 wird = _A B_ gemacht durch eine Linie von _A_
+nach _Dg_, welche die Linie _B P_ in _C_ schneidet; oder indem man
+eine Linie von einem Diagonalpunkte durch einen Endpunkt der gegebenen
+unverkürzten nach der verkürzten Wagrechten zieht: so wird _E A_ =
+_C E_ mittels einer Linie von _Dg_ durch _C_ nach _A_. _A B C E_ ist
+somit die perspectivische Form eines wagrecht liegenden Quadrats.
+
+Ebenso kann die Länge einer nach dem Augpunkt gehenden Linie auf eine
+anstossende unverkürzte Wagrechte übertragen werden: durch _Dg C A_
+wird _A B_ = _B C_, durch _A C Dg_ wird _C E_ = _A E_ gemacht.
+
+
+§ 76. Ist in Fig. 77 die Distanz = 2 mal _P A_, so ist _D_/2 die
+Hälfte, _D_/3 ein Drittel, _D_/4 ein Viertel der Distanz. Ebenso ist
+_B a_ die Hälfte, _B b_ oder _B e_ ein Drittel und _B c_ ein Viertel
+von _A B_. Ziehen wir, statt von _A_ nach _Dg_, eine Linie von _a_ nach
+_D_/2 oder von _b_ nach _D_/3 oder von _c_ nach _D_/4, so wird von der
+aus _B_ nach _P_ gehenden Linie dieselbe Länge _B C_ abgeschnitten;
+gehen wir von der verkürzten Linie _B C_ aus, so erhalten wir durch
+eine aus _D_/2, _D_/3 oder _D_/4 durch _C_ gezogene Linie auf der durch
+_B_ gehenden Wagrechten die Hälfte, ein Drittel oder ein Viertel von
+_B C_.
+
+Da ein Diagonalpunkt stets ausserhalb der Zeichnung liegt, so bedarf
+man eines Ersazmittels, welches durch jene Teilpunkte gegeben ist:
+soll _B C_ = _A B_ gemacht werden, so zieht man eine Linie von _a_
+nach _D_/2, von _b_ nach _D_/3 oder von _c_ nach _D_/4, soll _A B_ =
+_B C_ gemacht werden, so erhält man durch eine Linie von _D_/2 nach
+_a_, _D_/3 nach _b_ u. s. w. zunächst die Hälfte, ein Drittel oder
+Viertel von _A B_ und kann hienach mit dem Zirkel die ganze Länge _A B_
+leicht ergänzt werden. Statt der Linie _b D_/3 könnte auch eine Linie
+von _e_ nach dem rechts vom Augpunkt liegenden Drittel der Distanz
+gezogen werden, sowie man statt der rechtsseitigen Punkte _D_/2 und
+_D_/4 die entsprechenden Teilpunkte links vom Augpunkt benüzen und
+mittels derselben rechts von _B_ die Hälfte oder ein Viertel von _A B_
+abschneiden könnte.
+
+
+§ 77. Hienach ist es leicht, auch einer nach einem Distanzpunkt
+gehenden Linie jedes beliebige Grössenverhältnis zu einer anstossenden
+unverkürzten Wagrechten zu geben oder umgekehrt. Wird z. B. in Fig.
+77 die Senkrechte _B F_ = _A B_ gemacht, so ist das Dreieck _A B F_ =
+_A B C_ (da auch _B C_ = _A B_ ist); _A C_ ist = _A F_ = _A g_; _A f_
+ist = _A d_ = _A n_, _A h_ = _A i_. Es kann also ein beliebiger Teil
+der Linie _A z_ mit dem Zirkel auf _A F_ oder ihre Verlängerung und von
+hier mittels einer Senkrechten und einer nach dem Augpunkt gehenden
+Linie auf die Linie _A Dg_ übertragen werden.
+
+Soll die Länge der nach einem Distanzpunkt gehenden Linie _A C_ auf die
+durch _A_ gezogene Wagrechte übertragen werden, so zieht man eine Linie
+von _P_ durch _C_ nach _B_, eine Senkrechte _B F_ = _A B_ und macht
+mit dem Zirkel _A g_ = _A F_ = _A C_.
+
+Das unverkürzte Dreieck kann natürlich ebensowohl oberhalb als
+unterhalb der Linie _A B_ gebildet werden. Um z. B. _A o_ auf _A B_
+zu übertragen, kann _P o g_ gezogen, die Senkrechte _g p_ = _A g_
+errichtet und _A z_ = _A p_ gemacht werden.
+
+[Illustration: Fig. 78.]
+
+Oder sei in Fig. 78 _A B_ die zuerst gegebene Linie, _D_/2 die Hälfte,
+_D_/3 ein Drittel der Distanz. _B e_ ist die Hälfte, _B d_ ein Drittel
+von _A B_; somit wird _B C_ = _A B_ mittels einer Linie von _D_/2 durch
+_e_, oder von _D_/3 durch _d_. _B f_ ist = _A B_, also ist _A B f_ =
+_A B C_; _A f_ ist = _A C_; _A h_ ist = _A B_, also erhält man auf
+_A C_ den Teil _A i_ = _A B_, indem man eine Senkrechte von _h_ nach
+_A B_, und durch den Punkt, in welchem sie _A B_ trifft, eine Linie von
+_P_ aus zieht.
+
+
+§ 78. Mit Hilfe desselben Verfahrens kann nun das perspectivische
+Grössenverhältnis jeder verkürzten wagrechten Linie zu einer
+andern bemessen werden. Nehmen wir an, dass in Fig. 79 _D_/2 als
+Hälfte der Distanz, die perspectivische Richtung der (nicht nach
+einem Diagonalpunkt gehenden) Linien _A B_ und _A C_, sowie die
+perspectivische Länge _A B_ gegeben und die Aufgabe gestellt sei,
+leztere auf _A C_ zu übertragen, so wird durch _A_ eine unverkürzte
+Wagrechte und nach dieser aus dem Augpunkt eine Linie durch _B_
+gezogen. _B b_ steht somit rechtwinklig zu _A b_; da _D_/2 die Hälfte
+der Distanz ist, so ist _b f_ = die Hälfte von _B b_; _b c_ ist = 2
+mal _b f_, also = _B b_, folglich ist _A c_ = _A B_. Hierauf ist durch
+einen beliebigen Punkt _o_ der zweiten Linie gleichfalls eine Linie aus
+_P_ und aus _D_/2 gezogen und hiedurch gefunden, dass _o n_ = _m n_ (=
+2 mal _n p_) ist; _A d_ wird nun = _A c_ gemacht und schliesslich eine
+Senkrechte von _d_ nach _a_ und eine Linie von hier nach _P_ gezogen,
+wodurch sich die Länge _A C_ = _A B_ ergibt.
+
+[Illustration: Fig. 79.]
+
+Wäre _A F_ statt _A B_ als Mass gegeben, so dass eine von _D_/2 durch
+_F_ gezogene Linie die durch _A_ gehende Wagrechte nicht mehr innerhalb
+der Zeichenfläche treffen würde, so können 2 Senkrechte _A g_ und _F h_
+bis zum Horizont und die Diagonalen _F g_ und _A h_ gezogen und kann
+von ihrem Schnittpunkt aus durch eine Senkrechte der perspectivische
+Halbierungspunkt von _A F_ gefunden werden, um auf dem angegebenen
+Wege zunächst die Hälfte von _A F_ auf die Linie _A a_ zu bringen. Ist
+angenommen, dass die beiden verkürzten Linien einen rechten Winkel
+darstellen, so wird auf kürzerem Wege _A C_ = _A B_ gemacht, indem mit
+dem Winkel (Fig. 9) _A d_ = _A c_ rechtwinklig zu _A c_ gezeichnet und
+hierauf _d a_ und _a P_ gezogen wird.
+
+[Illustration: Fig. 80.]
+
+In Fig. 80 sind die Wagrechten _A B_ und _A C_, deren Richtung von
+_A_ aus gegeben ist, = der in gleicher Fläche liegenden _E F_ gemacht.
+Zu diesem Zweck ist zunächst _A G_ = _E F_ gemacht mittels einer Linie
+von _F_ durch _A_ nach _z_ und einer zweiten von _z_ nach _E_ und ist
+hierauf von _P_ eine Linie nach einem beliebigen Punkte _b_ der Linie
+_A B_ gezogen. _D_/2 sei die Hälfte der Distanz; also ist _a c_ = 2 mal
+_a n_, _a b_ = 2 mal _a m_, das wagrechte Dreieck _A a c_ ist somit =
+dem senkrechten _A a e_, _A a b_ ist = _A a g_ (_a e_ = 2 mal _a n_,
+_a g_ = 2 mal _a m_). Nachdem nun _A f_ und _A h_ = _A G_ gemacht sind,
+werden die Senkrechten _f m_ und _h i_ gezogen und ergeben die von _P_
+nach _m_ und durch _i_ nach _B_ gezogenen Linien die Länge _A C_ und
+_A B_ = _A G_ = _E F_.
+
+[Illustration: Fig. 81.]
+
+Fig. 81 zeigt die Anwendung des Vorangegangenen auf eine geöffnete
+Thüre. Es ist angenommen, dass die Länge _A B_ und die Richtung _A D_
+gegeben, die Richtung _D E_ beliebig und die Breite der Thüre = _A C_
+sein soll. In beliebiger Richtung ist aus _P_ nach der durch _A_
+gehenden Wagrechten die Linie _a b_ gezogen, welche, wenn _D_/3 ein
+Drittel der Distanz darstellt, = 3 mal _b c_, also = _b d_ ist; _A e_
+ist = _A C_, somit ist auch _A D_ = _A C_. Nun ist eine Wagrechte durch
+_D_ gezogen und in gleicher Weise zuerst an beliebiger Stelle ein
+Dreieck _D m i_ = _D g i_ construiert (_i m_ = 3 mal _i h_), um sodann
+_D n_ = _D F_, _D E_ = _D n_ zu machen; _D F_ ist = _A C_, somit ist
+_E D_ ebenfalls = _A C_.
+
+
+§ 79. Kann die Länge einer verkürzten auf eine unverkürzte Wagrechte
+übertragen werden und umgekehrt, so ist damit auch das Mittel
+gegeben, eine bestimmte Grösse von einer ~Senkrechten~ oder einer
+~unverkürzten schrägen~ Linie auf eine verkürzte Wagrechte zu
+übertragen und umgekehrt, vgl. Fig. 81, wo die Linien _A D_ und _E D_
+= der Senkrechten _A C_ gemacht wurden, oder Fig. 78, wo _A C_ = der
+unverkürzten schrägen Linie _A f_ und = der Senkrechten _A g_ ist.
+
+[Illustration: Fig. 82.]
+
+Die Berechnung der perspectivischen Länge einer ~verkürzten schrägen~
+Linie ist in Fig. 82 und 83 gezeigt. In beiden Beispielen ist die
+Richtung der Linien _c e_ und _b c_, sowie die Länge _b c_ als gegeben
+angenommen und soll _c e_ = _b c_ gemacht werden. Es ist zunächst die
+Länge _b c_ auf die durch _b_ gehende Wagrechte zu übertragen. In Fig.
+82 geht _b c_ nach dem Augpunkt, folglich ist _b g_ die Hälfte von
+_b c_. Die von _c_ ausgehende schräge Linie ist bis zu einer in _b_
+errichteten Senkrechten verlängert, _b i_ ist = 2 mal _b g_, d. h. =
+_b c_, somit ist das Dreieck _b i h_ = _b h c_; _i m_ ist = _b i_ =
+_b c_; zieht man eine unverkürzte Wagrechte von _m_ nach _n_ und von
+_n_ eine mit _b c_ parallele Linie nach _P_, so ist _c e_ = _i m_ =
+_b c_. Eine Senkrechte von _e_ nach _o_, eine Wagrechte von _o_ nach
+_k_ und eine Senkrechte von _k_ nach _f_ ergeben _f d_ als die mit
+_c e_ parallele Seite.
+
+[Illustration: Fig. 83.]
+
+In Fig. 83 ist zuerst eine Linie von _P_ durch _c_ nach _o_ gezogen;
+_c o_ ist = 2 mal _o g_ = _x z_, _x y_ ist = _o b_; folglich ist das
+Dreieck _b o c_ = _x y z_ und _b c_ ist = _y z_ = _b i_, das Dreieck
+_b i h_ ist = _b h c_ u. s. w.
+
+Ist statt _c e_ die Richtung der Linie _c k_ gegeben und soll auf
+leztere die Länge _c b_ übertragen werden, so kann _c p_ = _c b_
+gemacht (vgl. Fig. 68) und links von _p s_ ein unverkürztes Dreieck =
+_c p s_ gebildet werden; oder kann, wenn der Raum dies nicht gestattet,
+_s h_ parallel mit _b p_ gezogen, der Punkt _n_ wie oben bestimmt und
+von hier aus mittels _n k_ die schräge Linie _c k_ = _b c_ gemacht
+werden.
+
+Eine andere Lösung der Aufgabe wäre die Construction eines Halbkreises
+über _b p_, indem alle von diesem nach _c_ gezogenen Linien = _b c_
+sein würden.
+
+
+Das Quadrat in gerader Stellung.
+
+§ 80. Die perspectivische Form eines wagrecht liegenden Quadrats
+in gerader Stellung ist gegeben durch den Augpunkt, welcher die
+Richtung der beiden verkürzten Seiten bestimmt (§ 32) und durch die
+Diagonalpunkte, welche Fluchtpunkte der beiden Diagonalen sind und
+hiemit das perspectivische Grössenverhältnis der Seiten zu einander
+angeben (§ 74); die Ausführung ist aus § 74--75 und aus Fig. 77--78
+ersichtlich.
+
+Auch in diesem Fall kommt es hauptsächlich darauf an, dass die
+Entfernung des betreffenden Diagonalpunkts vom Auge, welche
+gleichbedeutend ist mit der Distanz, nicht zu klein angenommen werde
+(§ 34). Die Folge wäre, dass die verkürzten Seiten zu lang erscheinen
+würden im Verhältnis zu den unverkürzten. _E F B D_ Fig. 84 kann
+ebensowohl ein Quadrat darstellen, als _E F G H_; der Unterschied ist
+nur, dass die leztere Form einen näheren Standpunkt voraussezt als die
+erstere. Sobald wir aber die Linie _G H_ näher nach dem Horizont hin
+rücken, z. B. nach _m n_, so erscheinen die beiden verkürzten Seiten
+länger als die unverkürzten. Denn _P D_/2 ist = _P F_ und 2 mal
+_P F_ ist in diesem Fall die kleinste Distanz, welche angenommen werden
+kann.
+
+[Illustration: Fig. 84.]
+
+~Es ist daher im allgemeinen darauf zu achten, dass bei der
+besprochenen Stellung des Quadrats der Punkt, in welchem eine Linie von
+der Mitte der unverkürzten Vorderseite durch eine gegenüberliegende
+Ecke nach dem Horizont~ (_A G_ oder _A H_, Fig. 84) ~diesen trifft,
+wenigstens ebenso weit vom Augpunkt entfernt sein muss, als dieser von
+der entferntesten Ecke des Bildes.~
+
+
+Das Quadrat in schräger Stellung.
+
+§ 81. Ist die Stellung des Quadrats eine solche, dass die eine
+Diagonale eine unverkürzte Wagrechte ist, so steht die andere
+rechtwinklig zum Horizont, hat also ihren Fluchtpunkt im Augpunkt und
+die Seiten haben dieselbe Stellung, welche im vorhergehenden Fall die
+Diagonalen hatten, ihre Fluchtpunkte sind die beiden Diagonalpunkte, s.
+Fig. 77. Ist _A D_ in Fig. 84 als erste Seite eines solchen Quadrats
+gezeichnet, also angenommen, dass der Fluchtpunkt von _A D_ ein
+Diagonalpunkt sei, so ergibt sich _B_ dadurch, dass eine unverkürzte
+Wagrechte von _D_ nach rechts, eine Linie von _A_ nach _P_ gezogen und
+hierauf _k B_ = _D k_ gemacht wird, der Punkt _C_ durch _P D E_, _A E_
+und eine Linie aus _E_ durch die Mitte von _D k_ nach _A P_. Oder man
+bildet das einschliessende Quadrat in gerader Stellung und bestimmt in
+diesem die Halbierungspunkte der Seiten.
+
+
+§ 82. Wie die geometrisch gezeichneten Quadrate _a b c d_ und
+_e f g h_, Fig. 84 zeigen, entstehen, wenn durch Verbindung der
+Halbierungspunkte _a b c d_ ein kleineres Quadrat innerhalb des
+grösseren gebildet wird, zwischen beiden 4 gleichschenklige
+rechtwinklige Dreiecke von gleicher Grösse: _a f b_, _b g c_ u. s. w.
+Wird eine Quadratseite in zwei ungleiche Teile geteilt und dieselbe
+Teilung auf den 3 andern Seiten wiederholt, wie in Fig. 85 (_a f_ =
+_b g_ = _c h_ = _d e_ und folglich _a e_ = _d h_ u. s. w.), so bilden
+die Verbindungslinien der 4 Teilungspunkte, hier _a_, _b_, _c_ und _d_,
+gleichfalls ein Quadrat und entstehen wieder 4 rechtwinklige Dreiecke
+von gleicher Form und Grösse (_a f b_, _b g c_ u. s. w.) mit dem
+Unterschiede, dass dieselben nicht gleichschenklig sind. Zieht man aus
+_a_ und _c_ 2 Linien parallel mit _f g_, aus _d_ und _b_ zwei weitere
+parallel mit _e f_ je nach der gegenüberliegenden Seite des äusseren
+Quadrats, so ist _e m_ = _a f_, _m f_ ist = _a e_ und dieselben
+Verhältnisse ergeben sich auf allen 4 Seiten.
+
+[Illustration: Fig. 85.]
+
+Ist nun ein verkürztes Quadrat in gerader Stellung z. B. _E F G H_
+Fig. 85, gegeben und in demselben ein Punkt _A_ als vordere Ecke eines
+inneren Quadrats, dessen Ecken die Seiten des äusseren berühren sollen,
+so wird man _F M_ = _A E_ machen, _M P_ und _A P_ sowie eine Diagonale
+des äusseren Quadrats und durch die Schnittpunkte _y_ und _z_ oder _i_
+und _k_ zwei Wagrechte ziehen, wodurch sich die Lage der Punkte _B_,
+_D_ und _C_ ergibt.
+
+
+§ 83. Ist _A B_ als Seite eines Quadrats und zweimal _P F_ als Distanz
+angenommen, so zieht man eine Wagrechte durch _A_ und eine Linie aus
+_P_ durch _B_ nach _F_. Eine Linie aus _D_/3 durch _B_ ergibt _F p_
+als ein Drittel von _B F_, _F M_ ist = 3 mal _F p_, also ist _F M_ =
+_B F_. Wird nun _A E_ = _F M_ gemacht, so kann _E P_ gezogen und das
+äussere Quadrat _E F G H_ entweder durch Verlängerung der Diagonale des
+Quadrats _M F B z_ oder durch eine Linie aus _D_/3, nach _s_, d. h. dem
+Drittel von _F E_ gebildet werden, worauf man wie oben verfährt.
+
+Oder kann man, nachdem _P F_ gezogen, _F M_ = _B F_ und _A E_ = _F M_
+gemacht ist, _E P_ und eine Linie von _D_/3 nach _m_, d. h. einem
+Drittel von _A F_ ziehen, wodurch das Quadrat _A F n y_ entsteht. Die
+verlängerte _n y_ ergibt den Punkt _D_, die verlängerte Diagonale
+_F y_ den Punkt _H_, von wo aus eine Wagrechte die Linie _M P_ in _C_
+schneidet.
+
+Die Quadrate _A F n y_ oder _E M k D_, durch welche der Punkt _D_
+gegeben ist, lassen sich auch ohne die zweite von _D_/3 nach _s_
+gezogene Linie durch Verlängerung der Diagonale _F z_ und die von _A_
+und _M_ nach _P_ gezogenen Linien bilden.
+
+
+§ 84. Die Anwendung des hier beschriebenen Verfahrens kann überhaupt
+eine mannigfaltige sein. Wäre statt _A B_ die Linie _A D_ als erste
+Seite gegeben, so würde man mittels einer von _D_/3 durch _D_ gezogenen
+Linie auf der nach links verlängerten _A E_ ein Drittel von _A D_
+erhalten oder zieht man eine Linie aus _D_/3 durch _y_, wo sich _A P_
+und die von _D_ nach rechts gehende Wagrechte schneiden, nach _o_, um
+_A o_ oder _E o_ als ein Drittel von _E D_ zu bestimmen und somit _E M_
+= _E D_ zu erhalten. Hierauf wird _A F_ = _E M_ gemacht und mit der
+verlängerten Diagonale des Quadrats _E M k D_, welche von _F P_ in _G_
+geschnitten wird, das grössere Quadrat gebildet.
+
+[Illustration: Fig. 86.]
+
+Fig. 86 zeigt dasselbe Verfahren mit etwas veränderter Stellung des
+inneren Quadrats. Die Distanz ist = 4 mal _P A_ angenommen, also ist
+_B r_ ein Viertel von _B F_; _B m_ ist = 4 mal _B r_, also = _B F_,
+folglich ist das verkürzte Dreieck _E B F_ = dem unverkürzten _E B f_.
+_A H_ ist = 4 mal _A a_ = _A m_ und = _A h_, folglich ist _A H E_ =
+_A h E_ und man sieht deutlich, wie auch die übrigen Linien der zwei
+wagrechten Quadrate nach Grösse und Winkelstellung durch die Linien
+der senkrecht sich anschliessenden Quadrate _A B c d_ und _E f g h_
+geometrisch wiedergegeben sind.
+
+
+§ 85. Hiemit ist zugleich die genaue Berechnung der perspectivischen
+Form eines rechten Winkels in schräger Stellung gegeben, auf welche in
+§ 33 verwiesen wurde.
+
+Die Ausführung kann, wenn nur die 2 Linien des rechten Winkels
+verlangt sind, in wesentlich vereinfachter Weise stattfinden. Wenn z.
+B. in Fig. 86 von _E_ aus eine zu _E F_ rechtwinklige Linie gezeichnet
+werden soll, so genügt hiezu eine Linie von _D_/4 durch _F_, wonach
+_E A_ = 4 mal _B r_, d. h. = _B F_ zu machen ist, eine zweite Linie
+von _A_ nach _P_ und eine dritte von _D_/4, nach _a_, indem _A a_ ein
+Viertel von _E B_ und somit _A H_ = _E B_ ist. Ist _E H_ gegeben und
+soll eine rechtwinklig dazu stehende Linie gezeichnet werden, so bilde
+man das Rechteck _H A E y_, mache _E B_ = _A H_ (= 4 mal _A a_), ziehe
+_B P_ und eine Linie von _D_/4 nach _r_. Da _B r_ ein Viertel von _A E_
+ist, so ist hiemit _F B_ = _A E_. Welcher Weg im einzelnen Fall der
+bequemste, ob der Teildistanzpunkt links oder rechts vom Augpunkt für
+die Ausführung geeignet ist, wird man bei einiger Übung leicht erkennen.
+
+Bei der Construction ~senkrecht stehender verkürzter Quadrate~ handelt
+es sich nur um die Übertragung eines gegebenen Masses von einer
+senkrechten auf eine verkürzte wagrechte Linie oder umgekehrt, worüber
+in § 74--78 das Nötige angegeben ist; ebenso ist aus § 78 zu ersehen,
+wie ein verkürztes ~schräges Quadrat~ zu zeichnen wäre; doch kommt die
+leztere Aufgabe seltener vor.
+
+
+Vergrösserung oder Verkleinerung eines Quadrats oder Rechtecks.
+
+§ 86. Wenn man in Fig. 87, nachdem _g h i k_ gegeben ist, von _b_ aus
+die mit _g h_ und _h i_ parallelen _b f_ und _b e_ zieht, oder wenn
+man 4 Punkte der Diagonalen _g i_ und _h k_ durch Linien verbindet,
+welche mit den Seiten parallel sind, so entsteht bei _A_ wiederum ein
+Quadrat _f b e k_ oder _a b c d_, bei _B_ ein Rechteck _f b e k_ oder
+_a b c d_, dessen Seitenpaare dasselbe Verhältnis von 2 : 3 haben,
+wie _g h_ und _h i_. Wie auf die gleiche Weise aus einem kleineren
+ein grösseres Quadrat oder Rechteck durch Verlängerung der Diagonale
+gemacht werden kann, ist hienach leicht zu verstehen.
+
+[Illustration: Fig. 87.]
+
+Aber während in _A_ die Linien des inneren Quadrats _a b c d_ überall
+gleich weit von _g h i k_ entfernt sind, ist dies bei den Rechtecken
+_a b c d_ und _g h i k_ in _B_ nicht der Fall: der Zwischenraum
+zwischen den kürzeren Seiten ist grösser, als zwischen den längeren.
+Soll auf einem Wege, der auch bei verkürzter Stellung des Rechtecks
+anwendbar wäre, innerhalb _g h i k_ ein (paralleles) Rechteck
+gezeichnet werden, so dass die Seiten beider überall gleiche Entfernung
+von einander haben, so muss auf einer längeren Seite z. B. auf _g h_
+ein Teil = der Länge der kürzeren Seite abgeschnitten, also z. B. _g n_
+= _g k_ gemacht und so ein Quadrat _g n m k_ gebildet werden, um dessen
+Diagonalen zu dem genannten Zwecke zu benüzen. Soll _f g_ die Breite
+des Zwischenraums sein, so wird von _f_ eine mit _g h_ parallele Linie
+gezogen, welche die Diagonale _g m_ in _o_ schneidet und hiemit den
+Punkt _p_ ergibt. Zieht man nun von _m_ durch den Schnittpunkt der
+Diagonalen _g i_ und _h k_ eine Linie nach _s_, so ist _g s_ = _n h_,
+_s h_ = _g n_ = _h i_; _s i_ ist somit die Diagonale eines Quadrats =
+_g n m k_, und können die Punkte _y_ und _z_ durch die mit _k i_ und
+_i h_ parallelen Linien bestimmt werden.
+
+
+§ 87. Die Construction der verkürzten Quadrate und Rechtecke in Fig.
+88 und 89 ist hiemit gegeben. In Fig. 89 dient dieselbe dazu, die 4
+Tischbeine an die richtige Stelle zu sezen. Fig. 90 stellt in grösserem
+Massstab die Verjüngung der Tischbeine nach unten dar.
+
+[Illustration: Fig. 88.]
+
+[Illustration: Fig. 89.]
+
+[Illustration: Fig. 90.]
+
+Fig. 91 zeigt einen Stuhl ohne Lehne. Der Siz bildet ein Quadrat, die
+Punkte _a b c d_, von welchen die Stuhlbeine ausgehen, ergeben sich
+daher durch die Diagonalen wie in Fig. 87 _A_ und Fig. 88. Da sie nach
+auswärts stehen, so ist senkrecht unter _a b c d_ das Quadrat _e f g h_
+gebildet und mittels seiner Diagonalen vergrössert.
+
+[Illustration: Fig. 91.]
+
+Stühle mit Lehnen sind gewöhnlich so geformt, dass der Siz hinten
+schmäler ist als vorn. Man kann deshalb, wenn beispielsweise _a b_ Fig.
+92 die Vorderseite des Sizes sein soll, zunächst ein Quadrat _a b c d_
+bilden, um sodann die Lage der geometrisch gleichweit von _c_ und _d_
+entfernten Punkte _e_ und _f_ entweder auf früher beschriebene Weise
+oder nach dem Augenmass (_e c_ kleiner als _d f_) zu bestimmen. Für die
+Punkte, von welchen die Füsse ausgehen, sind nun die Diagonalen _a e_
+und _b f_ massgebend.
+
+[Illustration: Fig. 92.]
+
+
+
+
+V. Verkürzte Kreise, Achtecke und Sechsecke. Gewölbeformen.
+
+
+Der Kreis in verkürzter Stellung.
+
+§ 88. Die Berechnung der perspectivischen Form eines verkürzten Kreises
+kann nur darin bestehen, dass gewisse Punkte desselben gewonnen
+werden, mit deren Hilfe es leichter ist, die Kreislinie aus freier
+Hand zu zeichnen. Die zu diesem Zweck geeignetsten Punkte sind die
+Halbierungspunkte der Seiten eines den Kreis einschliessenden Quadrats
+und ferner die Punkte der Diagonalen in lezterem, welche von der
+Kreislinie durchschnitten werden, vgl. die geometrische Zeichnung von
+Quadrat und Kreis in Fig. 93.
+
+Gewöhnlich kann man sich eines Quadrats in gerader Ansicht bedienen.
+Die Halbierungspunkte der Seiten, _a_, _b_, _c_ und _d_ Fig. 93, erhält
+man mittels einer unverkürzten Wagrechten und einer nach dem Augpunkt
+gehenden Linie, welche durch den Schnittpunkt der Diagonalen gezogen
+werden. Ein geübter Zeichner wird sich für gewöhnlich mit diesen 4
+Hilfspunkten begnügen können.
+
+[Illustration: Fig. 93.]
+
+Um die Punkte der Diagonalen, welche der Kreis durchschneiden muss,
+_m_, _n_, _o_ und _p_ Fig. 93, zu erhalten, wird über oder unter einer
+der unverkürzten Seiten oder der unverkürzten Mittellinie, also mit
+_A B_, _C D_ oder _b d_, ein senkrecht stehendes Rechteck halb so hoch
+als breit, z. B. _A B F E_ oder _C D G H_ gebildet und in diesem ein
+Halbkreis beschrieben. In Fig. 93 werden diese Halbkreise von den
+Diagonalen _a E_ und _a F_ oder _c G_ und _c H_ in _g_ und _h_, _y_
+und _x_ durchschnitten. Zieht man nun die Senkrechten _g i_ und _h k_
+oder _y z_ und _x s_ und 2 Linien von _P_ nach _i_ und _k_ oder durch
+_s_ und _z_, so ergeben sich auf den Diagonalen des verkürzten Quadrats
+die gesuchten Punkte _m_, _n_, _o_ und _p_. Es genügt auch nur eine der
+Linien nach dem Augpunkt zu ziehen, z. B. _i P_, um durch 2 unverkürzte
+Wagrechte von _m_ und _p_ aus die Punkte _n_ und _o_ zu erhalten.
+
+
+§ 89. Ein anderes Verfahren beruht darauf, dass die Entfernung der
+Punkte _i_ und _k_ Fig. 93 von _a_, der Mitte der Linie _A B_, ebenso
+gross ist, als die Diagonale eines Quadrats, dessen Seiten je = ein
+Viertel von _A B_ sind. _A f_ ist ein Viertel von _A B_. Wird also
+_A e_ = _A f_ gemacht, so kann die Länge _e f_ von _a_ aus nach _i_ und
+_k_ übertragen und so die Lage dieser beiden Punkte und der Punkte _m_,
+_n_, _o_, _p_ bestimmt werden.
+
+
+§ 90. In Fig. 94 ist gezeigt, wie mittels derselben Hilfspunkte ein
+Kreis innerhalb eines Quadrats in schräger Ansicht gezeichnet werden
+kann. Nachdem in _A B C D_ die Diagonalen und Halbierungslinien
+gezeichnet sind, ist eine Linie aus _P_ durch _B_ nach der durch _A_
+gehenden Wagrechten gezogen und _A b_ ebenso geteilt, wie _A B_ in Fig.
+93. Statt abwärts von _A_ aus ist hier seitwärts das Dreieck _b g f_
+gebildet, in welchem _b g_ und _g f_ je = ein Viertel von _A b_ sind;
+_a i_ und _a k_ werden = _b f_ gemacht und dieselben Verhältnisse
+mittels _i P_ und _k P_ auf die Linie _A B_ übertragen.
+
+[Illustration: Fig. 94.]
+
+Aus § 72 Fig. 72 und 75 erhellt, dass man statt _P_ auch einen
+beliebigen andern Punkt des Horizonts benüzen könnte, um von demselben
+eine Linie durch _B_ nach der Linie _A g_ zu ziehen und sodann wie oben
+weiter zu verfahren.
+
+Statt durch _A_ könnte man auch durch _C_ eine Wagrechte und von _D_
+eine Linie nach _P_ ziehen, um auf dieselbe Weise wie oben die Punkte
+_e_ und _c_, _m_ und _n_ zu bestimmen.
+
+Aus Fig. 94 ist zugleich die Anwendung der beiden in § 88 und 89
+angegebenen Berechnungsweisen auf einen ~senkrecht~ stehenden Kreis
+zu ersehen. Es ist klar, dass hiebei die zwei senkrechten Seiten des
+Quadrats an Stelle der unverkürzten wagrechten treten und dass die
+Linien _A E_, _B F_, _i g_, _h k_ der Fig. 93 jezt als Wagrechte
+gezeichnet werden müssen. Das Übrige ergibt sich deutlich genug aus den
+Linien der Fig. 94.
+
+
+Parallele und concentrische Kreise.
+
+§ 91. Fig. 95 zeigt 2 in gleicher Höhe stehende parallele Kreise.
+Der eine ist von dem Quadrat _a b c d_, der andere von _e f g h_
+umschlossen. Die Schnittpunkte der Diagonalen _a c_ und _b d_, _e g_
+und _f h_ ergeben die beiden Mittelpunkte _y_ und _z_; die Punkte
+_o_, _p_, _i_, _k_ sind auf die oben angegebene Weise bestimmt, die
+entsprechenden 4 Punkte auf _e g_ und _f h_ durch Linien, welche
+parallel mit _a e_ und _b f_ von _k_, _o_, _p_, _i_ nach links gezogen
+sind.
+
+[Illustration: Fig. 95.]
+
+
+§ 92. In Fig. 96 soll, nachdem der Kreis _A B C D_ gegeben ist, durch
+_a_ ein Kreis mit dem gemeinschaftlichen Mittelpunkt _i_, sodann durch
+_F_ ein mit _A B C_ paralleler Halbkreis gezeichnet werden. Zunächst
+wird _C c_ = _A a_ gemacht, sodann das Quadrat des inneren Kreises
+gebildet, indem man durch _a_ und _c_ Linien nach dem Augpunkt zieht
+und die Punkte _m_ und _n_, _o_ und _p_, in welchen hiedurch die
+Diagonalen des grösseren Kreises geschnitten werden, durch 2 Wagrechte
+verbindet. Die Halbierungspunkte der Seiten dieses kleineren Quadrats
+sind _a b c d_. Die Punkte der Diagonalen, durch welche der innere
+Kreis geht, können auf die § 88--89 angegebene Weise bestimmt werden,
+doch sind sie, wenn der Massstab der Zeichnung kein sehr grosser ist,
+entbehrlich, nachdem die Linie des äusseren Kreises gezeichnet ist.
+
+[Illustration: Fig. 96.]
+
+Um den unteren Halbkreis zu zeichnen, wird die durch _F_ gehende _E G_
+mittels _h E_ und _k G_ = _h k_ gemacht und das Quadrat _E G g e_
+gebildet, womit für den unteren Kreis ausser _F_ die Punkte _s_, _r_
+und _f_ gegeben sind. Die Punkte der Diagonalen _E g_ und _G e_, welche
+er durchschneiden muss, ergeben sich durch die von _m_, _n_, _o_, _p_
+abwärts gezogenen Senkrechten.
+
+
+Teilung eines verkürzten Kreises.
+
+§ 92. In Fig. 96 ist zugleich gezeigt, wie diese Kreise in eine
+beliebige Zahl von gleich grossen Teilen geteilt werden können: mit dem
+Halbmesser _F G_ ist von _F_ oder von _H_ aus ein Halbkreis gebildet,
+der mit dem Zirkel auf die gewünschte Weise, hier in 8 Teile, geteilt
+wird. Hierauf sind von den Teilungspunkten senkrechte Linien bis _E G_
+und von da Linien parallel mit _E e_ und _G g_, d. h. nach _P_ bis zur
+Linie des unteren Halbkreises gezogen. Das Weitere ist aus der Figur
+ersichtlich, vgl. die Teilung eines verkürzten Kreises in 8 oder 6
+Teile, Fig. 100--104.
+
+
+Verkürzte Achtecke.
+
+§ 93. Wie Fig. 97 zeigt, entsteht ein Achteck, wenn dieselben 8
+Punkte, welche zur Darstellung des Kreises dienten, durch gerade
+Linien verbunden werden, nämlich die Halbierungspunkte der Seiten
+eines Quadrats und die Punkte seiner Diagonalen, welche von einem
+in demselben beschriebenen Kreis durchschnitten werden. Die
+perspectivische Form eines verkürzten Achtecks, welches die in Fig. 97
+angenommene Stellung zu den Seiten eines gegebenen Quadrats hat, bedarf
+also keiner weiteren Erklärung.
+
+[Illustration: Fig. 97.]
+
+Etwas Anderes ist es, wenn ein Quadrat oder eine Seite eines Quadrats
+gegeben ist, in welchem ein Achteck wie _a b c d e f g h_ in _A B C D_
+Fig. 98 gezeichnet werden soll, d. h. so, dass sämtliche 8 Ecken in den
+4 Seiten des Quadrats liegen. Die geometrische Construction würde darin
+bestehen, dass die 4 von _i_, dem Mittelpunkte des gegebenen Quadrats,
+nach den Halbierungspunkten der Seiten gehenden Linien über diese
+hinaus um soviel verlängert würden, dass jede die Länge einer halben
+Diagonale des Quadrats hätte, also _i m_, _i n_, _i o_ und _i p_ je =
+_i A_ wären. Durch Verbindung der Punkte _m_, _n_, _o_ und _p_ entsteht
+ein zweites dem ersten gleiches Quadrat und die Verbindungslinien der
+Punkte _b_ und _c_, _d_ und _e_, _f_ und _g_, _h_ und _a_ ergeben das
+Achteck.
+
+[Illustration: Fig. 98.]
+
+Ist nun das verkürzte Quadrat _A B C D_ Fig. 99 gegeben, so kann eine
+der unverkürzten Seiten z. B. _C D_ benüzt werden, um mit einer Hälfte
+derselben ein gleichschenkliges Dreieck _C E F_ zu bilden. Wird hierauf
+_E k_ = _E F_ gemacht, so ist das äussere Quadrat _H G K L_ leicht
+zu bilden: eine Linie von _P_ durch _k_ schneidet die verlängerten
+Diagonalen _A C_ und _D B_ in _H_ und _G_ und 2 unverkürzte Wagrechte
+von hier aus ergeben die Punkte _L_ und _K_. Hiermit sind auch die
+Punkte _m_, _n_, _o_ und _p_ und die Seiten des Achtecks gegeben.
+
+[Illustration: Fig. 99.]
+
+Oder könnte auch die Länge _E F_ von _C_ nach _f_ und von _D_ nach _e_
+getragen werden -- denn aus Fig. 98 ist ersichtlich, dass _C f_ oder
+_D e_ = _C i_ sind -- um hierauf die weiteren Constructionslinien teils
+parallel mit den Diagonalen, teils parallel mit den Seiten des Quadrats
+_A B C D_ zu ziehen.
+
+Wäre statt des Quadrats _A B C D_ _a b_ als Seite eines zu zeichnenden
+Achtecks gegeben, so würde man mit der Hälfte derselben ein
+gleichschenkliges rechtwinkliges Dreieck _b z y_ bilden, _b B_ und
+_a A_ = _y b_ machen und hierauf das Quadrat _A B C D_ construieren, um
+wie oben zu verfahren; vgl. die geometrische Zeichnung Fig. 98.[7]
+
+    [7]: Fig. 99 ist insofern ungenau, als _b B_ und _a A_ etwas
+    kleiner sind als _y b_. Der Fehler wurde zu spät bemerkt und ist so
+    geringfügig, dass es genügen dürfte, hiedurch darauf aufmerksam zu
+    machen.
+
+
+§ 94. Fig. 100 zeigt die Construction eines Achtecks, wenn ein solches
+anschliessend an die Seiten eines Quadrats in schräger Ansicht
+gezeichnet werden soll.
+
+[Illustration: Fig. 100.]
+
+Angenommen, es sei das Quadrat _A B C D_ gegeben, so ziehe man eine
+unverkürzte Wagrechte durch _A_ und eine Linie von _P_ durch _B_ nach
+_E_. Die perspectivischen Verhältnisse, in welche _A B_ zu teilen ist,
+können nun auf _A E_ geometrisch angegeben und durch Linien, welche
+mit _E B_ parallel sind, auf _A B_ übertragen werden (vgl. Fig. 72
+und 75). Man bildet entsprechend Fig. 98 mit der Hälfte von _A E_ ein
+gleichschenkliges Dreieck _p E y_, macht _A o_ und _E s_ je = _p y_
+und zieht von _s_ und _o_ zwei mit _E B_ parallele Linien nach _a_ und
+_b_. Zieht man nun von _a_ und von _b_ aus zwei Linien nach _r_, dem
+Fluchtpunkte der Diagonale _A C_, zwei weitere parallel mit _A D_ und
+_B C_, so erhält man die Punkte _c_, _d_, _e_ und _f_, durch eine Linie
+von _r_ durch _f_ den Punkt _g_ und ist schliesslich noch die mit _B D_
+und _e d_ parallele Seite _a h_ zu zeichnen.
+
+Der Augpunkt ist übrigens nur zufällig benüzt; es könnte statt
+desselben ein beliebiger Punkt des Horizonts gewählt werden.
+
+Nehmen wir an, dass _a b_ Fig. 100 als Seite eines zu zeichnenden
+Achtecks gegeben sei, so wäre das Verfahren ein ähnliches wie oben:
+von _P_ (oder einem andern Punkte des Horizonts) wird eine Linie nach
+der durch _a_ gehenden Wagrechten gezogen, _a n_ in _m_ halbiert, ein
+gleichschenkliges rechtwinkliges Dreieck _a m t_ gebildet und _n x_
+sowie _a z_ je = _m t_ gemacht. Die von _P_ nach _x_ und durch _z_
+gezogenen Linien ergeben die Punkte _A_ und _B_, es kann nun mit _A B_
+das Quadrat _A B C D_ gebildet werden u. s. w.
+
+
+§ 95. Es kann auch der Fall eintreten, dass ein verkürzter Kreis
+gegeben ist und innerhalb desselben von einem bestimmten Punkte aus ein
+Achteck gezeichnet werden soll.
+
+[Illustration: Fig. 101.]
+
+Es sei z. B. die Aufgabe gestellt, in dem verkürzten Kreise _A B C D_
+Fig. 101 von dem Punkte _a_ aus ein Achteck zu zeichnen. _o D_ ist =
+_D F_ gemacht, mit der Zirkelweite _D F_ von _o_ aus ein Halbkreis
+_e D f_ beschrieben und eine Linie von _P_ durch _a_ nach _c_ gezogen;
+_o x_ wird rechtwinklig zu _o b_, durch die Mitte von _b x_ der
+Halbmesser _o z_ und rechtwinklig zu diesem _o y_ gezogen (vgl. Fig.
+97), worauf die Punkte _x y z_ mittels senkrechter Linien nach _E F_
+gebracht und von hier durch die aus _m_, _n_ und dem Punkte zwischen
+_z_ und _g_ nach _P_ gezogenen Linien auf den Kreis übertragen werden.
+Die 4 jenseitigen Punkte sind durch den Mittelpunkt des Kreises,
+beziehungsweise den Schnittpunkt der Diagonalen des Quadrats, gegeben.
+
+
+Verkürzte Sechsecke.
+
+§ 96. Die geometrische Construction eines Sechsecks besteht darin, dass
+ein Kreis in 6 Teile geteilt wird, von welchen jeder die Grösse eines
+Halbmessers jenes Kreises hat: man gibt -- Fig. 102 -- dem Zirkel die
+Weite eines Halbmessers z. B. _O B_, schneidet von _B_ aus den Kreis
+in _C_, von _C_ aus in _D_ u. s. w. und verbindet diese Punkte durch
+gerade Linien. Zieht man von den 6 Ecken Linien nach dem Mittelpunkt
+_O_, so entstehen 6 gleichseitige Dreiecke; schliesst man das Sechseck
+in ein Rechteck, wie _H K M N_ ein, so sind die beiden längeren Seiten
+je = 2 Seiten des Sechsecks: _H K_ ist gleich 2 mal _A B_, _H G_ =
+_A B_; _H A_, _A G_, _G B_ und _B K_ sind gleich gross. Die kürzeren
+Seiten sind je = 2 mal _G O_; _H F_ und _F N_ sind je = _G O_.
+
+[Illustration: Fig. 102.]
+
+Ist nun _a b_ als Seite eines verkürzten Sechsecks, _P_ als Augpunkt
+und _D_/3 als Drittel der Distanz gegeben, so wird _b k_ und _a h_ je
+= der Hälfte von _a b_ gemacht, ein gleichseitiges Dreieck _a i b_
+gebildet (indem von _a_ und _b_ aus 2 Kreise mit der Zirkelweite _a b_
+beschrieben werden, welche sich in _i_ schneiden) und _k c_ = _g i_
+gemacht durch eine Linie aus _D_/3, nach _y_ (_k y_ = ein Drittel von
+_g i_). Hiemit sind das Rechteck _h k m n_ und die weiteren Punkte _d_,
+_e_ und _f_ gegeben.
+
+
+§ 97. In Fig. 103 ist angenommen, dass _h n_ als kürzere Seite des von
+unten gesehenen Rechtecks, _P_ als Augpunkt und _D_/2 als halbe Distanz
+gegeben sei, in _f_ also eine Ecke des Sechsecks liege. Beschreibt man
+von _n_ und von _f_ aus zwei Kreisbögen mit der Zirkelweite _n f_,
+so schneiden sich dieselben in _s_ und es entsteht, indem durch _s_
+eine rechtwinklig zu _f s_ stehende Linie bis zu den in _f_ und _n_
+errichteten Senkrechten gezogen wird, ein gleichseitiges Dreieck,
+dessen Mittellinie _s f_ = _f n_ oder = _f h_ ist, dessen Seiten also
+(vgl. § 96, Fig. 102) auf die durch _f_ gehende Wagrechte übertragen,
+die Länge einer Seite des zu zeichnenden Sechsecks darstellen. _h p_
+ist = _f z_; die von _h_ nach _P_ gehende Seite des zu bildenden
+Rechtecks muss also = 2 mal _h p_ sein (wie _H K_ Fig. 102 = 2 mal
+_A B_ ist), was durch eine Linie von _D_/2 nach _p_ erreicht wird. Ist
+so das Verhältnis der Seiten in dem Rechteck _h k m n_ das gleiche,
+wie in _H K M N_ Fig. 102, so bleibt nur noch übrig, dasselbe mittels
+Diagonalen wie dort in 4 gleiche Teile zu teilen, um die weiteren Ecken
+zu erhalten.
+
+[Illustration: Fig. 103.]
+
+
+§ 98. In Fig. 104 soll von dem Punkte _d_ des Kreises _A B C D_ aus ein
+Sechseck gezeichnet werden. Das Quadrat des Kreises ist _E F G H_. Wie
+in Fig. 101 ist _E e_ und _F f_ = der Hälfte von _E F_ gemacht und von
+_o_ aus ein Halbkreis beschrieben, auf welchem _x_ dem Punkte _d_ des
+verkürzten Kreises entspricht (mittels _P d m_ und _m x_). Von _x_ aus
+schneidet der Zirkel mit der Weite eines Halbmessers _D o_ oder _x o_
+den Halbkreis in _b_, von hier aus in _y_, und diese beiden Punkte
+werden auf die mehrfach beschriebene Weise nach _a_ und _c_ übertragen;
+Linien aus _d_, _a_ und _c_ durch den Mittelpunkt des Quadrats gezogen,
+ergeben die 3 jenseitigen Ecken.
+
+[Illustration: Fig. 104.]
+
+
+Weitere Beispiele. Rad, Wasserrad, Walze, Cylinder.
+
+§ 99. Fig. 105 zeigt die Anwendung von § 91 Fig. 95 auf 2 durch eine
+Achse verbundene Räder. Der Deutlichkeit wegen sind hier sowie in der
+folgenden Figur nur die wichtigsten Constructionslinien angegeben, mit
+deren Hilfe das Übrige ohne Schwierigkeit, so genau als der malerische
+Zweck erfordert, ergänzt werden kann.
+
+[Illustration: Fig. 105.]
+
+In Fig. 106 sind zunächst die 4 Kreise entsprechend Fig. 95 und
+96 gezeichnet. Hierauf ist der durch _a b c_ gehende Halbkreis in
+5 gleiche Teile geteilt und diese Teilung auf die andere Hälfte
+übertragen (vgl. Fig. 101 und 104), indem nach dem Halbkreis _c d a_
+Linien von jenen Teilpunkten aus durch den Mittelpunkt gezogen wurden.
+Diese Linien ergeben zugleich die Stellung der einzelnen Schaufeln;
+die wagrechten Linien der lezteren sind parallel mit _e f_, _g h_ und
+_o n_; die Verbindungslinien der Punkte _i_ und _k_, _y_ und _z_ u. s.
+w. gehen durch den Mittelpunkt _n_.
+
+[Illustration: Fig. 106.]
+
+
+§ 100. In Fig. 107 ist der Kreis _a b c d_ als vorderer Durchschnitt
+einer wagrecht liegenden Walze angenommen. Da derselbe unverkürzt ist
+und die durch _i_ gehende Achse der Walze geometrisch rechtwinklig zu
+_d b_ steht, so sind von _d_ und _b_ 2 Linien nach dem Augpunkt gezogen
+und dieselben an beliebiger Stelle durch die Wagrechte _h f_ verbunden.
+Ein Kreis aus _o_, der Mitte von _h f_, durch _h_ und _f_ beschrieben,
+ergibt _e f g h_ als den ferner liegenden Durchschnitt, worauf vom
+Augpunkt aus 2 die beiden Kreise berührende Linien (Tangenten) parallel
+mit _i o_ als Aussenlinien der Walze gezogen werden.
+
+[Illustration: Fig. 107.]
+
+Um den Cylinder Fig. 108 zu construieren, sind den beiden vorderen
+Kreisen entsprechend auf die oben gezeigte Weise die beiden ferneren zu
+zeichnen.
+
+[Illustration: Fig. 108.]
+
+Dieselben Formen mit verkürzter Ansicht des Kreises zu zeichnen, bietet
+hienach keine Schwierigkeit. Man achte dabei auf die bereits erwähnte
+geometrisch rechtwinklige Stellung der Achse und der Seitenlinien zur
+Kreisfläche, beziehungsweise zu einem Durchmesser derselben.
+
+
+Tonnengewölbe, Kreuzgewölbe, Spizbogen, Kuppel.
+
+§ 101. Fig. 109 stellt ein sogenanntes ~Tonnengewölbe~ dar. Dasselbe
+hat die Form eines halben Cylinders, welcher in Fig. 109 auf den nach
+dem Augpunkt gehenden Linien _a e_ und _b f_ ruht. Die Construction
+besteht einfach darin, dass über _a b_ und _e f_ je ein Halbkreis von
+den Mittelpunkten _c_ und _d_ aus beschrieben wird. Die Fugenlinien
+des Gewölbes gehen teils parallel mit _a e_ und _b f_, teils sind
+sie Teile von Halbkreisen, welche mit den beiden ersteren parallel
+sind, deren Mittelpunkte somit in der Linie _c d_ liegen. So ist der
+Mittelpunkt des Halbkreises _m n p_ da, wo die Wagrechte _m p_ von
+_c d_ durchschnitten wird, in _o_. Die Fugenlinien _g h_, _i k_ u. s.
+w. haben die Richtung nach _c_, dem Mittelpunkt der beiden durch _k h_
+und _i g_ gehenden Halbkreise.
+
+[Illustration: Fig. 109.]
+
+
+§ 102. Fig. 110 zeigt die Hauptlinien eines von aussen und oben
+gesehenen rundbogigen ~Kreuzgewölbes~. _A B C D_ ist ein Quadrat; über
+jeder Seite desselben erhebt sich ein Halbkreis, die gegenüberliegenden
+Ecken des Quadrats, _A_ und _C_, _B_ und _D_, sind nach oben verbunden
+durch 2 elliptische Linien, die sogenannten Diagonalrippen oder
+-gurten, welche sich über den Diagonalen _A C_ und _B D_ hinziehen.
+Der Scheitelpunkt _n_ des Gewölbes, in welchem die beiden Ellipsen
+sich durchschneiden, liegt senkrecht über der Kreuzung der Diagonalen
+_A C_ und _B D_, er ist zugleich Schnittpunkt der Diagonalen _E z_ und
+_F t_. Es entstehen so 4 ~Gewölbefelder~ oder ~Kappen~, welche je von
+einem Halbkreis und 2 Hälften jener Ellipsen begrenzt werden, z. B. von
+_A m B_, _A n_ und _B n_, vgl. die innere Ansicht Fig. 111--113.
+
+[Illustration: Fig. 110.]
+
+Bei der perspectivischen Construction einer solchen Gewölbeform handelt
+es sich, nachdem über jeder Seite des zu Grunde gelegten Quadrats ein
+Halbkreis gezeichnet ist, hauptsächlich um die Bestimmung einiger
+weiteren Hilfspunkte ausser dem durch _E z_ und _F t_ gegebenen Punkte
+_n_ behufs Darstellung der beiden elliptischen Linien. Die Halbkreise
+_A m B_ und _A h D_ werden von 2 Linien, welche man aus _E_ nach der
+Mitte von _A B_ und von _A D_ zieht, in _a_ und in _b_ geschnitten.
+Diese beiden Punkte liegen in gleicher Höhe; zieht man aus _a_ eine
+Linie parallel mit _A D_, also nach dem Augpunkt, und aus _b_ eine
+Parallele mit _A B_, d. h. eine unverkürzte Wagrechte, so müssen diese
+beiden Linien in dem Punkte _c_ der von _A_ ausgehenden Ellipse _A n C_
+zusammentreffen, welcher mit _a_ und _b_ in gleicher Höhe liegt und
+kann somit dieser Punkt benuzt werden, um _A c n_ zu zeichnen.
+
+Dem Punkte _a_ entspricht auf der rechten Seite _e_, eine Linie von
+hier nach dem Augpunkt und eine Wagrechte aus _c_ schneiden sich in
+_d_. Die entsprechenden jenseitigen Punkte der beiden Ellipsen ergeben
+sich durch die aus _a_ und _e_ nach dem Augpunkt gehenden Linien und
+eine Wagrechte von _g_ nach _f_ oder umgekehrt.
+
+
+§ 103. Fig. 111 zeigt dieselben Linien von unten und von innen gesehen,
+mit dem Unterschied, dass die 2 Seitenkappen geschlossen bis _A D_
+und _B D_ herabgehen (wie auch in Fig. 113). Der Fluchtpunkt dieser
+und der mit ihnen parallelen Linien ist wiederum der Augpunkt; _A B_,
+_C D_ und die beiden Halbkreise sind unverkürzt. Um die beiden
+Diagonalgurten zu zeichnen, ist hier ein anderer Weg eingeschlagen. In
+Fig. 110 liegen die Punkte _y_ und _x_ in gleicher Höhe mit _a_, _b_
+und _f_. Zieht man von _y_ eine mit _A C_ und _E z_ parallele Linie
+nach _x_, von _E_ und _z_ 2 Linien nach _p_, so erhält man da, wo die
+Linie _y x_ von _E p_ und _z p_ geschnitten wird, gleichfalls die
+Punkte _c_ und _s_, welche nun mittels unverkürzter Wagrechter nach _d_
+und _r_ übertragen werden können.
+
+[Illustration: Fig. 111.]
+
+In Fig. 111 entspricht das senkrecht stehende von unten gesehene
+Rechteck _E A C z_ dem Rechteck _E A C z_ in Fig. 110; auch die übrigen
+einander entsprechenden Punkte beider Figuren sind durch dieselben
+Buchstaben bezeichnet. Der Halbkreis _A m B_ wird von der Diagonale
+_E G_ in _a_ geschnitten. Zieht man von _a_ eine Wagrechte nach _y_ und
+von _y_ eine mit _E z_ parallele Linie nach _x_, so erhält man durch
+_E p_ und _z p_ die Punkte _c_ und _s_ u. s. w.
+
+
+§ 104. In Fig. 112 ist von einem beliebigen Punkte _a_ des Halbkreises
+_A m B_ eine Senkrechte nach _o_ und von hier eine Linie parallel mit
+_E y_ d. h. nach dem Augpunkt gezogen, welche die Diagonalen des
+Quadrats _E F z y_ in _i_ und _k_ schneidet. Zieht man nun von _i_ und
+_k_ 2 Senkrechte nach der aus _a_ nach dem Augpunkt gehenden Linie, so
+erhält man die Punkte _c_ und _r_, vgl. dieselben Punkte in Fig. 110.
+
+[Illustration: Fig. 112.]
+
+Durch eine Wagrechte aus _a_ nach _e_, eine Linie von _e_ nach dem
+Augpunkt und 2 Wagrechte aus _c_ und _r_ ergeben sich sodann _d_ und
+_s_.
+
+[Illustration: Fig. 113.]
+
+Wenn die seitlichen Kappen, wie in Fig. 113, geschlossen bis auf die
+wagrechte Linie herabgehen, auf welcher das Gewölbe ruht, so ist das
+leztgenannte Verfahren bequemer als das in § 102 beschriebene. Die
+Anwendung desselben auf Fig. 113 ist aus den Constructionslinien zu
+ersehen. _A m B_ ist hier nicht ein Halbkreis, sondern ein flacher
+Bogen, ein sogenannter Korbbogen. Der obere Teil desselben ist aus dem
+senkrecht unter _G_ liegenden Punkte _g_ beschrieben, die Fortsezung
+bis _A_ und _B_ kann leicht aus freier Hand ergänzt werden.
+
+
+§ 105. Ein ~Spizbogen~ wird gebildet durch 2 sich durchschneidende
+Bögen, wie _A_, _B_, _C_ Fig. 114 zeigen. In _A_ sind die beiden Bögen
+von _a_ und von _b_ aus mit der Zirkelweite _a b_ beschrieben, in
+_B_ von den Punkten _m_ und _n_ aus mit der Weite _m c_, in _C_ von
+_o_ und _i_ aus mit der Weite _i e_ (_m d_ = _n c_, _o e_ = _i f_).
+Die den Spizbogen umgebenden Fugenlinien haben die Richtung nach dem
+Mittelpunkte des betreffenden Bogens: in _A_ nach _a_ und _b_, in _B_
+nach _m_ und _n_, in _C_ nach _i_ und _o_.
+
+[Illustration: Fig. 114.]
+
+Sind mehrere in einer Flucht liegende Spizbögen in verkürzter Stellung
+zu zeichnen, so bilde man das Rechteck eines Spizbogens z. B. _a b c d_
+Fig. 115 und ziehe in demselben die senkrechte Mittellinie. Man kann
+nun eine der Bogenlinien z. B. _a B_ (leichter als _b B_) aus freier
+Hand zeichnen und den Punkt _o_, in welchem sie von der Diagonale _A d_
+geschnitten wird, mittels _e f_, _A c_, _g C_ u. s. w. nach _n_, _m_
+u. s. w. übertragen, was für gewöhnlich genügen wird. Ist grössere
+Genauigkeit erforderlich, so kann mit Hilfe eines Distanzpunktes
+anschliessend an _a d_ ein unverkürztes Rechteck _a d z y_ gebildet und
+_a h_ als geometrische Form der anstossenden unverkürzten Bogenlinie
+gezeichnet werden, worauf der Punkt _i_ nach _e_ und von hier nach _o_,
+_n_, _m_ u. s. w. übertragen wird.
+
+[Illustration: Fig. 115.]
+
+
+§ 106. Als Beispiel eines spizbogigen Kreuzgewölbes ist in Fig. 116
+der Deutlichkeit wegen die einfachste Form eines solchen gewählt; es
+wird jedoch nicht schwierig sein, das dabei angewandte Verfahren auf
+andere Formen, welche sehr mannigfaltiger Art sein können, anzuwenden.
+Die Mittelpunkte der Bogen _A m_ und _B m_, _D o_ und _C o_ sind in _a_
+und _b_, _e_ und _f_. _A a_ ist ein Viertel von _A B_, _A B C D_ ist
+ein Quadrat. _A i_ ist = _A B_; eine Linie von _B_ nach _i_ stellt also
+die geometrische Länge der Diagonale _A C_ dar. Es ist nun ein Rechteck
+_G H h g_ gebildet, in welchem _G H_ = _B i_ = _A C_ und _G g_ = _A E_
+ist; _G H h g_ ist somit die geometrische Form des verkürzten Rechtecks
+_A E z C_; der von _g_ nach _h_ führende Bogen ist = der von _A_ nach
+_C_ führenden Diagonalrippe. Da _G g_ die Hälfte von _G H_ ist, so
+ergibt sich, dass jene Diagonalrippe ein Halbkreis ist. Wird nun _E y_
+= _G k_ gemacht, so kann die Lage der Punkte _c_, _s_, _d_ und _r_ wie
+bei Fig. 111 bestimmt werden.
+
+[Illustration: Fig. 116.]
+
+
+§ 107. Fig. 117 zeigt eine von oben gesehene, in 8 Felder geteilte
+~Halbkugel~. Der ihren äusseren Umriss bildende Halbkreis ist mit
+dem Zirkel vom Mittelpunkt der Linie _A a_ aus beschrieben. Indem
+die Linien _A i_ und _a i_ zugleich als Teilungslinien angenommen
+wurden, ergeben sich die weiteren Teilpunkte der durch _A_ und _a_
+gehenden Kreislinie, nämlich _B_, _C_, _D_, _b_, _c_ und _d_, durch
+die Halbierungslinie und Diagonale des jenen Kreis umschliessenden
+Quadrats, und es stellt sich der von _C_ durch _i_ nach _c_ führende
+Halbkreis als Eine senkrechte Linie dar. Um die verkürzten Halbkreise
+_B m o b_ und _D n p d_ zu zeichnen, ist das Quadrat _E F G H_ (_E B_
+= der Hälfte von _B D_) senkrecht über _B D b d_ gebildet, in welchem
+die auf bekannte Weise bestimmten Punkte _m_, _n_, _o_, _p_ als
+Hilfspunkte für jene Halbkreise dienen.
+
+[Illustration: Fig. 117.]
+
+
+§ 108. In Fig. 118 sei der durch _A B C D_ gehende Kreis und in diesem
+der Punkt _B_ gegeben, um von hier aus eine achtseitige eiförmige
+~Kuppel~ und darüber eine gleichfalls achtseitige Laterne zu zeichnen.
+
+[Illustration: Fig. 118.]
+
+Die Teilung des Kreises in 8 Teile ist in § 95 Fig. 101 gezeigt. Die
+Ausführung in Fig. 118 ist nur insofern verschieden, als hier die
+Constructionslinien an die fernere Linie des den Kreis einschliessenden
+Quadrats nach unten angefügt sind. Sodann ist entsprechend dem Umfang,
+welchen die Laterne haben soll, ein kleinerer Kreis von demselben
+Mittelpunkt _y_ aus gezeichnet, welcher durch den von _A_, _B_, _C_,
+_D_ nach _y_ gehenden Halbmessern in den Punkten _a b c d_ geschnitten
+wird. Die in _a b c d_ errichteten Senkrechten bilden die Ecklinien
+der 3 sichtbaren Seiten der Laterne, welche oben und unten durch
+Parallelen der Linien _A B_, _B C_ und _C D_ begrenzt sind. Die Linien
+_A n_, _B e_, _C o_ und _D m_ treffen in ihrer Verlängerung zusammen
+in einem Punkte der senkrechten Mittellinie, hier in _z_, und es ist
+zu beachten, dass dieser Punkt bei einer derartigen Kuppelform höher
+liegen muss, als der Mittelpunkt des Kreises, welcher durch _n_, _e_,
+_o_, _m_ geht, hier also höher, als _x_.
+
+
+
+
+Weitere Anmerkungen zur Transkription
+
+
+Offensichtliche Satzfehler und fehlende Auszeichnungen wurden
+stillschweigend korrigiert.
+
+Die Abbildungen wurden soweit wie möglich zu den entsprechenden
+Paragraphen verschoben.
+
+Die Korrekturliste von S. VIII wurde eingearbeitet, diese Korrekturen
+sind hier einzeln aufgeführt.
+
+Der doppelte Paragraph § 92 wurde beibehalten.
+
+Korrekturen:
+
+    Seite V: _Bedürfniss_ -> _Bedürfnis_
+      haben dem Verfasser das _Bedürfnis_
+
+    Seite VIII: _paralleller_ -> _paralleler_,
+      _Größenverhältniss_ -> _Grössenverhältnis_
+      Perspectivisches _Grössenverhältnis_ nicht _paralleler_ Linien
+
+    S. 4: Sachlicher Fehler (nicht korrigiert):
+      Die beiden Diagonalen eines Parallelogramms sind gleich lang,
+
+    S. 17: _desto schmaler, je höher wir stehen_ ergänzt
+      je tiefer wir stehen, _desto schmaler, je höher wir stehen,_
+      desto breiter erscheint uns dieselbe,
+
+    S. 26: _a d_ und _b c_ vertauscht
+      da _b c_ ferner liegt als _a d_,
+
+    S. 50: _g_ -> _B_
+      und zieht von _B_ durch _p_ eine Linie
+
+    S. 57: _E_ -> _F_
+      Oder kann von _F_ eine mit _D E_ parallele
+
+    S. 62: _m d_ -> _n a_
+      _d h_ ist = _n a_ gemacht
+
+    S. 72: _b_ -> _B_
+      Mitte eines Quadrats (_A B p f_)
+
+    S. 99: die -> der
+      so ist _b f_ = _die_ Hälfte von _B b_;
+
+    S. 122: _Atwas_ -> _Etwas_
+      Etwas Anderes ist es,
+
+    S. 133: _Coustruction_ -> _Construction_
+      Die Construction besteht einfach darin,
+
+    S. 135: _y_ -> _t_
+      dem durch _E z_ und _F t_ gegebenen Punkte _n_
+
+    S. 136: _ruht_ nach vorn verschoben
+      auf welcher das Gewölbe _ruht_,

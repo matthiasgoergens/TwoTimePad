@@ -1,0 +1,504 @@
+= Livre-rare-book
+
+Créé en novembre 1995 par Pascal Chartier, gérant de la librairie du Bât
+d'Argent (Lyon), ce site professionnel propose en août 2003 un catalogue de plus
+d'un million de livres émanant de quelque 320 librairies, et un annuaire
+électronique international recensant près de 4.000 librairies.
+
+= Syndicat national de la librairie ancienne et moderne (SLAM)
+
+Le site du SLAM (France) regroupe des catalogues en ligne, un service de
+recherche de livres rares ou épuisés, un annuaire des librairies avec plusieurs
+critères de recherche (nom de la librairie, nom du libraire, lieu, spécialités),
+un guide du livre ancien avec lexique et liste d'abréviations, etc.
+
+#Répertoires de presse
+
+= AFP - Liens / Médias francophones
+
+Le répertoire de l'Agence France-Presse pour la France et les pays
+francophones. Donne accès à d'autres répertoires pour les médias germanophones,
+anglophones, hispanophones et lusophones.
+
+= Webdopresse
+
+Proposé par Webdo, site créé en 1995 par l'hebdomadaire genevois L'Hebdo,
+Webdopresse est un annuaire international recensant 16.000 médias. Trois grandes
+catégories: a) presse généraliste, b) presse spécialisée (classée en rubriques),
+c) radio / TV.
+
+= Internet Public Library (IPL) - Newspapers & Magazines
+
+L'Internet Public Library (IPL) sélectionne, organise et catalogue les
+ressources disponibles sur le réseau. Elle gère entre autres deux répertoires de
+presse. L'un est une liste de journaux en ligne avec classement géographique et
+alphabétique. L'autre est une liste de magazines en ligne répertoriés par
+sujets.
+
+= Ingenta
+
+Lancé en mai 1998, Ingenta est une base documentaire de 15 millions d'articles
+issus de 28.000 périodiques imprimés (rassemblés depuis l'automne 1988) et 5.400
+périodiques en ligne. Payant, l'envoi des documents est possible par courrier
+électronique, fax ou Ariel (service de transmission électronique). La recherche
+dans les différentes bases de données est gratuite.
+
+#Répertoires en sciences de l'information
+
+= ENSSIB
+
+Une mine d'informations procurée par l'Ecole nationale supérieure des sciences
+de l'information et des bibliothèques, située à Villeurbanne, près de Lyon.
+
+= IFLANET
+
+Le site de l'IFLA (International Federation of Library Associations and
+Institutions), organisme indépendant à destination des bibliothécaires du monde
+entier. L'IFLA se veut un carrefour pour l'échange d'idées et la promotion de la
+coopération internationale et de la recherche.
+
+= Lex Mercatoria: Intellectual Property
+
+La section de la Lex Mercatoria consacrée à la propriété intellectuelle. Créé
+en octobre 1993 par Ralph Ammisah, l'International Trade Law Monitor (devenu
+ensuite: Lex Mercatoria) est à l'époque le premier site juridique consacré au
+droit commercial international et au commerce électronique. Hébergé par
+l'Université d'Oslo (Norvège), et propriété du grand éditeur britannique Cameron
+May depuis octobre 2000, ce site de référence est poursuivi par son créateur et,
+selon son voeu, toujours en accès libre.
+
+
+# [ANNEXE] PERSPECTIVES
+
+
+[Jean-Pierre Balpe, professeur, chercheur et écrivain / Olivier Bogros, créateur
+de La bibliothèque électronique de Lisieux / Emilie Devriendt, responsable du
+site Translatio / Gérard Fourestier, créateur de Rubriques à Bac / Pierre
+François Gagnon, créateur d'Editel / Jean-Paul, explorateur d'hypermédia /
+Anne-Bénédicte Joly, écrivain auto-éditeur / Nicolas Pewny, consultant en
+édition électronique / Marie-Joseph Pierre, enseignante-chercheuse à La Sorbonne
+/ Philippe Renaut, gérant des éditions du Presse-Temps / François Vadrot, PDG de
+FTPress / Russon Wooldridge, créateur du Net des études françaises / Denis
+Zwirn, PDG de Numilog]
+
+En février et mars 2003, comment les professionnels du livre voient-ils l'avenir
+du livre numérique (au sens large, et pas seulement commercial), dans le cadre
+de leur activité professionnelle et/ou en général? Voici leurs réponses.
+
+= Jean-Pierre Balpe, professeur, chercheur et écrivain
+
+Directeur du département hypermédias de l'Université Paris 8, écrivain,
+chercheur et théoricien de la littérature informatique, Jean-Pierre Balpe nous
+envoie ses réponses le 10 février 2003.
+
+En ce qui concerne son activité: "Prenant ma retraite l'an prochain, mes
+'activités' se réduisent mais je compte toujours utiliser les capacités du
+numérique pour faire du livre hors du livre: projets de spectacles,
+installations, etc. (...) Ce qui m'intéresse est d'explorer cette voie-là, du
+moins tant que j'aurai envie d'écrire ou de faire écrire."
+
+En ce qui concerne l'avenir du livre numérique en général: "L'avenir est déjà
+assuré par la numérisation des livres et tout ce qu'elle permet. Cela ne peut
+que se développer. Si votre question porte sur l'e-book, je n'y crois pas dans
+les configurations techniques actuelles. Pour qu'il ait un réel avenir il
+faudrait un support souple aussi pratique que le papier et aussi bon marché. Ça
+viendra, mais je crains que nous en soyons loin. En plus le livre n'existe pas,
+il y a des quantités de types de livres, romans, encyclopédies, poèmes, livres
+scolaires, livres techniques, manuels, etc., et chaque type a un avenir
+différent dans le numérique: le manuel scolaire numérique est appelé à remplacer
+le livre dès que les élèves seront suffisamment équipés. Je crois qu'il faut
+raisonner en secteurs et voir quels sont les besoins particuliers de ces
+secteurs auxquels la 'numérisation du livre' peut répondre et sous quelle
+forme."
+
+= Olivier Bogros, créateur de La bibliothèque électronique de Lisieux
+
+Directeur de la médiathèque municipale de Lisieux (Normandie), Olivier Bogros
+crée en juin 1996 La bibliothèque électronique de Lisieux, une des premières
+bibliothèques francophones du réseau. Début 2003, la bibliothèque électronique
+comprend 540 textes, numérisés en mode texte à partir des collections de la
+médiathèque. A titre personnel, Olivier Bogros est aussi l'auteur du site
+Miscellanées, un mélange de textes choisis par ses soins.
+
+Le 8 mars 2003, Olivier Bogros écrit:
+
+"L'avenir du livre numérique, j'y crois beaucoup, même si sa forme matérielle
+définitive reste encore à venir. Les fichiers de livres numériques existent sur
+de nombreux sites et sous de nombreux formats. Et puis il y a le web et les
+pages html qui s'affichent librement sur les écrans de nos machines. Je pense
+bien sûr et d'abord dans mon domaine de compétence aux textes patrimoniaux ou du
+domaine public qu'encore trop peu de bibliothèques françaises mettent en ligne
+ou alors sous des formats image trop lourds et contraignants. Des initiatives
+particulièrement innovantes sont aussi à l'oeuvre: Grisemine (bibliothèques de
+l'Université de Lille 1, ndlr), @rchiveSic, les étonnantes collections de la
+BIUM (Bibliothèque interuniversitaire de médecine) de Paris, ColiSciences, ...
+qui s'ajoutent à des réalisations plus anciennes mais toujours dynamiques. De
+plus en plus d'internautes font du réseau, à tort ou à raison, le lieu unique de
+leur recherche documentaire; les institutions publiques ont l'obligation de
+répondre à cette demande."
+
+= Emilie Devriendt, responsable du site miroir Translatio
+
+Emilie Devriendt est élève professeure à l'Ecole normale supérieure (ENS) de
+Paris et doctorante à l'Université de Paris 4-Sorbonne. Elle est aussi la
+responsable du site Translatio, créé en septembre 2001. Translatio est le site
+miroir de trois sites académiques dédiés à la diffusion de ressources
+documentaires dans le domaine des études françaises, et plus particulièrement de
+l'histoire de la langue française.
+
+Le 9 février 2003, Emilie Devriendt écrit:
+
+"Je ne parlerai pas du livre numérique à strictement parler, concept qui semble
+aujourd'hui s'être révélé un échec total pour les entreprises qui ont tenté de
+le commercialiser. Je constate d'ailleurs que des projets datant d'il y a
+quelques années, projets selon moi plus astucieux, plus ergonomiques, et à
+l'évidence moins coûteux comme celui du 'baladeur de texte' (@folio), n'ont
+toujours pas 'percé'. Loin d'être au fait de tous les aspects qui ont contribué
+et contribuent à cet état de fait, je ne me risquerai pas à prédire quoi que ce
+soit dans ce domaine très circonscrit.
+
+Si l'on envisage l'avenir non plus du 'livre', mais du 'texte' électronique,
+celui-ci n'apparaît pas plus prévisible ou prédictible, mais il est quelques
+points que l'on peut souligner, et quelques évolutions que l'on pourrait à tout
+le moins appeler de ses voeux. Dans ce domaine que l'on appelle parfois
+l'informatique littéraire, deux aspects du texte électronique m'intéressent plus
+particulièrement, dans une perspective d'enseignement ou de recherche: la
+publication de ressources textuelles, par exemple littéraires, sur le Web au
+format texte ou au format image (exemple: Gallica ou la Bibliothèque
+électronique de Lisieux); la publication de bases de données textuelles
+interactives, c'est à dire d'outils de recherche et d'analyse linguistique
+appliqués à des textes électroniques donnés (exemple: la Nefbase du Net des
+Etudes Françaises ou, si l'on veut citer une banque de données payante,
+Frantext). Aujourd'hui ce type de ressources est relativement bien développé
+(même si aucune 'explosion' ne semble avoir eu lieu si l'on compare la situation
+actuelle à celle d'il y a deux ou trois ans). En revanche, on ne peut
+véritablement mesurer les usages qui en sont faits.
+
+La situation au sein de l'Université française, telle qu'elle m'apparaît, ne
+conduit pas spontanément à l'optimisme de ce point de vue. Tous les cursus
+'littéraires' sont loin de comprendre une formation obligatoire aux nouvelles
+technologies (qu'il s'agisse d'ailleurs de bureautique, de recherche
+documentaire ou d'analyse textuelle). Or sans un apprentissage sérieux de ce
+type risque paradoxalement de se constituer une nouvelle forme d'analphabétisme
+au sein même d'une population intellectuelle, les étudiants, les enseignants,
+les chercheurs ; ou, à tout le moins, une informatisation 'à deux vitesses' de
+cette population. Ici, l'idéal de l'accessibilité (formats libres, gratuité) des
+ressources textuelles publiées en ligne prend véritablement tout son sens."
+
+= Gérard Fourestier, créateur de Rubriques à Bac
+
+Diplômé en science politique et professeur de français à Nice, Gérard Fourestier
+crée en 1998 le site Rubriques à Bac, un ensemble de bases de données à
+destination des lycéens et étudiants. ELLIT (Eléments de littérature) regroupe
+des centaines d'articles sur la littérature française du 12e siècle à nos jours,
+ainsi qu'un répertoire d'auteurs. RELINTER (Relations internationales) recense
+2.000 liens sur le monde contemporain de 1945 à nos jours. Ces deux bases de
+données sont accessibles par souscription, avec version de démonstration en
+accès libre. Lancée en juin 2001 dans le prolongement d'ELLIT, la base de
+données Bac-L (baccalauréat section lettres) est en accès libre.
+
+Le 8 février 2003, Gérard Fourestier écrit:
+
+"Bien que ça et là, on assiste à des avancées pédagogiques par l'intégration des
+nouvelles technologies, l'institution de l'Education nationale est par trop
+timorée quant à un projet global qui aurait enfin fait entrer l'école dans le
+siècle du numérique.
+
+Espérons qu'avec les nouvelles générations de profs qui vont débouler au fur et
+à mesure des retraites de leurs aînées, se fera sentir par la base la nécessité
+d'une autre approche de la lecture au travers d'un produit que le 'ludique' n'a
+pas hésité à s'approprier à grande échelle.
+
+L'ère Gûtemberg a vécu, du moins dans son monopole, faute d'un mieux
+technologique et pratique jusqu'à une époque récente, mais les décideurs
+d'encore aujourd'hui sont toujours ceux d'hier. Pourtant, et à l'évidence, les
+avantages du numérique sont nombreux: gain de poids dans les cartables,
+accroissement du volume d'information, diminution des contingence de stockage;
+possibilités offertes aux mal-voyants, sans parler de l'aspect création qui rend
+plus attrayant un outil plus performant, etc.
+
+Bref, le numérique, c'est déjà le présent et c'est incontournable, sauf que les
+formats sont encore trop nombreux, et que c'est aussi sûrement un frein à un
+essor plus rapide.
+
+J'ai bien pensé mettre mes sites en ligne sur des supports 'e-book' mais un
+'livre' de ce type serait comme une goutte d'eau dans l'océan s'il ne bénéficie
+pas d'une structure qui en fait la promotion. Tant que je n'aurai pas
+l'assurance de cette promotion et parce qu'il faut des moyens que je n'ai pas,
+je différerai cette nouvelle aventure et je le regrette vivement."
+Pierre François Gagnon, créateur d'Editel
+
+Dès avril 1995, Pierre François Gagnon, poète et essayiste québécois, décide
+d'utiliser le numérique pour la réception des textes, leur stockage et leur
+diffusion. Il crée Editel, site pionnier de l'édition littéraire francophone et
+premier site web d'auto-édition collective de langue française. Editel devient
+ensuite un site de cyberédition non commerciale en partenariat avec quelques
+auteurs maison (notamment Jacques Massacrier et Mostafa Benhamza), ainsi qu'un
+webzine littéraire.
+
+Le 11 février 2003, Pierre François Gagnon nous envoie ce texte, intitulé: Eloge
+du Livre unique.
+
+"Le 'Livre unique' aux multiples pensées tous azimuts, est appelé à constituer,
+grâce à l'objet-support ultime que sera le papier électronique, la plate-forme
+de lancement globale de la Civilisation numérique, laquelle n'est encore
+exprimée qu'à l'état d'ébauche farouche et sauvage sur le Web d'aujourd'hui.
+
+Il nous manque de toute urgence cette épée de feu, de justice divine érigée
+entre les mains de tous et chacun dans la lutte contre la pauvreté et
+l'ignorance dans lesquelles les élites de pouvoir et d'argent croient avoir tout
+intérêt à maintenir leurs peuples respectifs.
+
+Et, n'en déplaise aux gourous de la pop-philo qui nous prêchent le statu quo
+techno-culturel du haut de leur notoriété, il ne s'agit pas seulement d'une
+nouvelle utopie néoromantique qui serait issue de la postmodernité prétendument
+antihumaniste. Il s'agit bien plus prosaïquement des conditions d'émergence
+spirituelle d'une classe moyenne supérieure qui soit également prospère et unie
+dans le monde entier.
+
+Nous sommes rien de moins, à l'époque de ces Nouvelles Lumières, que face à une
+révolution démocratique et altermondialiste, virtuellement libre de tout droit
+ultralibéral, enfin affranchissable à l'échelle planétaire de l'économie de
+marché facho-totalitaire sous l'empire états-unien.
+
+Voilà donc ce qui fait si peur aux classes possédantes du savoir-faire de ce
+temps de transition que je qualifierais presque de transhistorique, tant il
+m'apparaît nécessaire et évident: que tout cela leur échappe de justesse, elles
+qui contrôlent pourtant les moyens de conception et de production de la science
+et des technologies!
+
+C'est dire ainsi combien la Société - et non pas tant l'Amour - est désormais à
+réinventer bien au-delà de la droite et de la gauche, au risque sinon, de nous
+engluer dans les prolongements dévastateurs du 20e siècle, guerres, famines et
+maladies endémiques. Ça n'a malheureusement rien à voir avec autant de
+prophéties de malheur.
+
+Au contraire, c'est exactement, au début de l'an 2003, ce qui est en train de se
+produire sous nos yeux ahuris, ne serait-ce qu'à commencer par les projets d'un
+bombardement nucléaire soi-disant 'limité' que les Pentagone nourrissent pour
+les États voyous tels que l'Irak.
+
+Plus l'essentiel des connaissances de toute nature demeurera gratuitement
+accessible à tous et à toutes, sans conditions matérielles particulières, plus
+le niveau moyen de l'intelligence collective sous toutes ses formes tendra à
+s'élever pour le meilleur, et espérons-le, sans le pire.
+
+Dès lors, les exigences sociales et culturelles se raffermiront toujours
+davantage, désamorçant volontairement l'économie prédatrice. La nature du
+travail, définitivement transformée, la démocratie, profondément rénovée, la
+communauté pourra redevenir aussi vivante et créative qu'au temps jadis. Il ne
+sera plus jamais ridicule et absurde de parler tout simplement de bonheur
+domestique.
+
+Je fais maintenant l'éloge du développement durable de la pensée universelle,
+libre et sans contraintes, ubiquitaire et fraternelle, à travers le réseautage
+polyglotte de toutes les cultures. Le Livre unique comme pierre philosophale
+remplacera tous les objets de culte de la communication et de l'information tout
+en sacrifiant les pyramides aliénantes.
+
+Imaginez tous les cerveaux supérieurement intelligents, interconnectés en
+permanence, dans l'élaboration transcendant les divers Âges de l'Humanité, d'un
+tout nouveau projet de civilisation conçu et réalisé sur une base numérique, qui
+soit finalement assez fluide pour évoluer sans trop de heurts vers la paix et la
+prospérité perpétuelles. Voilà la seule anti-utopie que je connaisse d'avance,
+réaliste et réalisable, car elle est d'ores et déjà indispensable à notre survie
+commune.
+
+La déesse Gaïa est notre jardin intérieur. La révolution industrielle a été son
+viol collectif. Tout autour de soi, pour qui a pu accéder à ce tragique niveau
+de conscience cosmique, il n'y a plus que ruines et désolation. La légalité
+immorale, cruelle et violente, étend sa domination pratiquement absolue dans
+tous les domaines, en particulier dans l'édition.
+
+La sagesse du livre fut pétrifiée vivante et enfermée à perpétuité, sous bonne
+garde capitaliste, par l'imprimerie de papier, laquelle n'aura été qu'une
+technique de conservation et de diffusion des idées plutôt rustique et
+rudimentaire. Et inefficace à part peut-être le papier d'amiante à l'épreuve de
+tout - à titre par exemple de double système de sécurité quant à l'archivage
+total et quasi définitif! Il nous faut finir d'abattre les bastilles qui
+menacent de s'écrouler avec nous dans l'oubli et la poussière d'étoiles, faute
+d'assurer la libre circulation immédiate des oeuvres!
+
+Numérisons et libérons la Culture tout entière avant que les vendeurs du Temple
+ne s'en emparent au nom de l'État sous leur propre gouverne néolibérale ou
+gauchisante de travers! On ne peut pas voler ni dilapider le domaine public; pis
+encore, il se trouve trop longtemps restreint aux ayant droits de l'auteur à sa
+mort: 70 ans, quelle folie! Cet héritage collectif devrait être imposable sans
+aucun délai: diffusé, distribué inconditionnellement, un point c'est tout!
+
+À les en croire, le patrimoine culturel (ou même génétique) serait
+marchandisable. Le pillage corporatif de toute façon institutionnalisé à mort,
+la commercialisation des classiques fait rouler depuis belle lurette la planche
+à billets des éditeurs. Les États se refusent aujourd'hui à débloquer des
+budgets conséquents pour la numérisation systématique et exhaustive du fonds
+public de leurs bibliothèques nationales, tandis que le dépôt légal électronique
+et sécurisé tarde à devenir obligatoire. Quel espoir subsiste-t-il en ce moment
+même pour l'avenir du livre numérique, sauf dans le néant constellé d'effroi du
+sempiternel Marché-Dieu?"
+
+= Jean-Paul, explorateur d'hypermédia
+
+Aussi discret que présent dans le monde de l'hyperfiction francophone,
+Jean-Paul, écrivain, est explorateur d'hypermédia. Il est le webmestre des
+Cotres furtifs, un site hypermédia collectif racontant des histoires en 3D. "Les
+membres des cotres, 'ensemble flou à géométrie variable', aiment jouer avec les
+mots en y associant images et sons, non pas comme de simples illustrations, mais
+comme partie intégrante du récit et de ses architectures. Ils s'intéressent donc
+plus à l'hypermédia qu'à l'hypertexte au sens strict. On ne les trouve que sur
+le net parce que c'est le dernier espace, instable, fluide et non-fermé, dont
+tous les passages ne sont pas encore contrôlés."
+
+Le 4 février 2003, Jean-Paul écrit:
+
+"L'avenir, 3 ans après le 5 août 1999...
+
+Vaticinons donc.
+
+L'avenir, s'il doit être, est à la révolution,
+
+( n. f. Didac. Mouvement d'un mobile (partic. d'un astre) accomplissant une
+courbe fermée; durée de ce mouvement. La révolution de la Terre autour du
+Soleil.)
+
+qui est retour à la case départ.
+
+Rappel historique:
+
+Aux débuts de l'hyperlien, la technique était rude & les tuyaux étroits: ce fut
+le règne de l'écriture nue, sans images, sans son.
+
+Une poignée de pingoins sans boussole se creusaient la cervelle et lançaient
+avec les moyens du bord des écrits labyrinthiques dont le public n'existait pas.
+
+L'intérêt fut vif (il y eut des articles, et des soirées de bars animées), mais
+restreint. Quel public aurait pu lire ces écrits, sur quel support?
+
+Pas de public, pas d'argent. Hyperauteurs en quête de sponseurs, d'institutions,
+'résidences', détournements & autres hold-ups légaux.
+
+Un jour, que certains crurent de gloire ('enfin, ça démarre!'), déboulèrent de
+Jurrassik-Land & Fiscal Paradise des jumbos monstrueux, vracquiers
+gros-porteurs. Leurs soudures craquaient de trop d'or, qui dormait, mal (ce
+n'est pas bon pour le fric, de dormir).
+
+Leurs radars venaient de signaler une mine, aux veines épaisses comme des
+pipe-line; un off-shore abstrait, virtuel, aussi abstrait, aussi virtuel que des
+lignes de cotation boursières: la Toile, où s'ébattaient nos pingoins bénévoles
+& croqueurs de grains non-décaféïnés.
+
+Ce fut la ruée, on vit un Vivendi payer un simple nom de portail au prix de la
+tanzanite, la pierre dure la + précieuse, aussi dure qu'un mental de gagneur,
+mais précieuse.
+
+Quelques billets $£€ voletèrent jusqu'aux chercheurs, inventeurs, petites mains
+tricoteuses du html & autres entoileurs de 'Projet En Cours'. La technique
+suivait, élargissant les tuyaux étroits pour en faire du haut-débit.
+
+L'hypertexte put muer, passer hypermedia.
+
+Et...
+
+ce fut l'implosion, qui emporta les gros-porteurs 'partenaires financiers' (tant
+mieux) mais aussi (hélas) des projets passionnants, vrais hypermedia où l'image
+et le son faisaient enfin jeu égal avec les mots, au lieu d'être cantonnés à
+leur second rôle ancien de faire-valoir.
+
+Les survivants se retrouvent avec des carte-bleues flasques. Gueule de bois &
+ventre creux, mais la volonté farouche d'avancer.
+
+Retour à la case départ, donc.
+
+(fin du rappel)
+
+Mais la case a changé, le temps est passé sur elle, et sur nous. Durant ces
+courtes années excitantes, nous avons appris à jouer sur notre tas de sable avec
+des armes qui ne nous étaient pas destinées (n'oublions jamais que tout cela
+vient d'Arpanet, de nécessité militaire. Du sérieux, pas des rêveurs). On s'en
+est mis plein les yeux.
+
+Les scores (provisoires) du mundial des e-sumos & autres JM6 nous ont aussi
+montré que la question du support est secondaire & se résoudra toute seule: il y
+aura finalement (prenez des notes, capital-risqueurs) 3 formats: écran
+téléphone, écran livre, écran album-BD/jeu-video.
+
+Or, ces armes, il faut bien qu'elles servent. Et puisque leur rime est: larmes,
+notre but du jour sera: faire pleurer Nikita, de rire et d'autre. La toucher
+plein coeur, qu'elle soit prête à payer pour connaître la fin d'un roman
+hypermedia, en PDF, en CDRom ou même en imprimé.
+
+Bref, l'avenir?
+
+Il se présente à nous sous le soleil d'Icare & des horribles travailleurs.
+
+Sauf que, dans notre domaine DNS, l'avenir n'existe pas, ni le passé (où vont
+les liens morts?): l'hyperlien, c'est l'immobilité absolue, le déplacement sans
+la durée. Pas de ligne du temps, pas d'horaire d'embarquement... No past, no
+future: présents."
+
+= Anne-Bénédicte Joly, écrivain auto-éditeur
+
+Anne-Bénédicte Joly, romancière et essayiste, habite en région parisienne. En
+avril 2000, elle décide d'auto-publier ses oeuvres en utilisant l'internet pour
+les faire connaître. "Mon site a plusieurs objectifs, raconte-t-elle en juin
+2000, deux mois après son ouverture. Présenter mes livres (essais, nouvelles et
+romans auto-édités) à travers des fiches signalétiques (dont le format est
+identique à celui que l'on trouve dans la base de données Electre) et des
+extraits choisis, présenter mon parcours (de professeur de lettres et
+d'écrivain), permettre de commander mes ouvrages, offrir la possibilité de
+laisser des impressions sur un livre d'or, guider le lecteur à travers des liens
+vers des sites littéraires."
+
+Le 13 février 2003, Anne-Bénédicte Joly écrit:
+
+"Le livre numérique ne sera un progrès pour tous que s'il permet un réel accès
+universel à la culture, que s'il renforce la libre expression de la pensée et le
+plaisir de créer, que s'il propose une alternative aux solutions d'édition
+existantes et enfin, que s'il offre un moyen d'expression universelle.
+
+C'est dire que, dans le cadre de mes activités d'auteur auto-éditant ses
+oeuvres, je suis en droit de fonder de grands espoirs sur le livre numérique.
+
+Internet est avant tout un merveilleux vecteur de diffusion et de promotion. Je
+tente de m'inscrire dans cette logique en proposant sur mon site non seulement
+une présentation synthétique de mes travaux mais aussi des extraits de mes
+écrits afin que les lecteurs-internautes puissent découvrir mon univers
+littéraire. Ne disposant pas de l'appui d'une maison d'édition, ni encore moins
+de son réseau de communication et de diffusion, la question de la présentation
+de mon livre au public se pose. Le livre numérique me permettrait, en affinant
+une politique de prix (les internautes lecteurs semblent disposés à payer un
+e-book à 50% de sa valeur en version papier), de proposer mes écrits à un plus
+grand nombre de lecteurs. Puisque le net est un promoteur de l'accès à des
+livres moins connus (ou absents des réseaux admis de diffusion), je réfléchis
+actuellement à l'idée de pousser la logique jusqu'à offrir l'accès au livre
+lui-même. La question de la diffusion serait donc réglée.
+
+Par ailleurs, se pose aussi la question de la quantité de tirage d'un livre.
+J'édite en moyenne un ouvrage à 300 voire 400 exemplaires. Dommage(s), mon
+dernier roman paru en janvier 2003, a été édité à 300 exemplaires. Cette
+limitation étant directement liée au coût de fabrication du livre, à
+l'investissement global et à la détermination du point mort (combien faut-il que
+je vende de livres pour rentrer dans mes frais?). Prenons le cas de deux de mes
+précédents livres (Le meublé livres et Deux par d'eux) qui sont aujourd'hui
+épuisés. J'ai eu, depuis mon site et directement par certains lecteurs, quelques
+demandes concernant ces livres. Malheureusement, à chaque fois ma réponse est la
+même. 'Je suis navrée, le livre est épuisé. Vous ne le rééditerez pas? A priori
+non.' Je ne peux pas, en effet, financer la réédition (et dans quelles
+quantités?) de ces livres. Le livre numérique constitue, pour autant que les
+lecteurs souhaitent lire mes écrits sous ce format, une alternative possible.
+
+Bien entendu, comme tout créateur, je suis très attentive (et parfois même
+inquiète) à l'utilisation illicite de mes écrits. La question de la protection
+de mes oeuvres occupe une place centrale dans ma réflexion. Il existe
+aujourd'hui des techniques interdisant les copies illicites et infinies des
+oeuvres, les impressions totales ou partielles des textes... Bref la réponse
+technologique existe.
+
+Enfin, je réfléchis également sur la perception des droits d'auteur induits par
+la diffusion d'une oeuvre sur le net. Dans une récente étude (réalisée en 1999
+par Médiangles pour le compte de la SGDL - Société des gens de lettres), 82% des
+2.372 personnes interrogées considèrent que les auteurs devraient toucher des
+droits pour la diffusion de leurs oeuvres sur le net. Je partage évidemment
+cette position même si elle reste difficile à mettre en oeuvre tant du point de
+vue pratique, que du point de vue du mode de perception des droits.
+
+En conclusion, et parce que je me situe déjà en dehors des rouages classiques de
