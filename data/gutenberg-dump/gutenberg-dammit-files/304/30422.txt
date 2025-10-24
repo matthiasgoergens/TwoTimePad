@@ -1,0 +1,239 @@
+rapidly reaching the point where highly accurate machine translation of
+text and speech will be so common as to be embedded in computer
+platforms, and even in chips in various ways. At that point, and as the
+growth of the web slows, the accuracy of language translation hits 98%
+plus, and the saturation of language pairs has covered the vast
+majority of the market, language transparency (any-language-to-any-
+language communication) will be too limiting a vision for those selling
+this technology. The next development will be 'transcultural,
+transnational transparency', in which other aspects of human
+communication, commerce and transactions beyond language alone will
+come into play. For example, gesture has meaning, facial movement has
+meaning and this varies among societies. The thumb-index finger circle
+means 'OK' in the United States. In Argentina, it is an obscene
+gesture.
+
+When the inevitable growth of multimedia, multilingual
+videoconferencing comes about, it will be necessary to 'visually edit'
+gestures on the fly. The MIT (Massachusetts Institute of Technology)
+Media Lab, Microsoft and many others are working on computer
+recognition of facial expressions, biometric access identification via
+the face, etc. It won't be any good for a U.S. business person to be
+making a great point in a web-based multilingual video conference to an
+Argentinian, having his words translated into perfect Argentinian
+Spanish if he makes the 'O' gesture at the same time. Computers can
+intercept this kind of thing and edit them on the fly.
+
+There are thousands of ways in which cultures and countries differ, and
+most of these are computerizable to change as one goes from one culture
+to the other. They include laws, customs, business practices, ethics,
+currency conversions, clothing size differences, metric versus English
+system differences, etc. Enterprising companies will be capturing and
+programming these differences and selling products and services to help
+the peoples of the world communicate better. Once this kind of thing is
+widespread, it will truly contribute to international understanding."
+
+
+= Machine translation R&D
+
+Here is an overview of the work of four research centers, in Quebec
+(RALI Laboratory), California (Natural Language Group), Switzerland
+(ISSCO) and Japan (UNDL Foundation).
+
+# RALI Laboratory
+
+In Montreal, Quebec, the RALI Laboratory (Laboratory of Applied
+Research in Computational Linguistics - Laboratoire de Recherche
+Appliquée en Linguistique Informatique) has worked in automatic text
+alignment, automatic text generation, automatic reaccentuation,
+language identification, and finite state transducers. RALI produces
+the "TransX family" of what it calls "a new generation" of translation
+support tools (TransType, TransTalk, TransCheck, and TransSearch),
+which are based on probabilistic translation models that automatically
+calculate correspondences between the text produced by a translator and
+the original text from the source language.
+
+As explained on RALI's website in 1998: "(a) TransType speeds up the
+keying-in of a translation by anticipating a translator's choices and
+criticizing them when appropriate. In proposing its suggestions,
+TransType takes into account both the source text and the partial
+translation that the translator has already produced. (b) TransTalk is
+an automatic dictation system that makes use of a probabilistic
+translation model in order to improve the performance of its voice
+recognition model. (c) TransCheck automatically detects certain types
+of translation errors by verifying that the correspondences between the
+segments of a draft and the segments of the source text respect well-
+known properties of a good translation. (d) TransSearch allows
+translators to search databases of pre-existing translations in order
+to find ready-made solutions to all sorts of translation problems. In
+order to produce the required databases, the translations and the
+source language texts must first be aligned."
+
+# Natural Language Group
+
+The Natural Language Group (NLG) at the Information Sciences Institute
+(ISI) of the University of Southern California (USC) has been involved
+in various aspects of computational/natural language processing:
+machine translation, automated text summarization, multilingual verb
+access and text management, development of large concept taxonomies
+(ontologies), discourse and text generation, construction of large
+lexicons for various languages, and multimedia communication.
+
+Eduard Hovy, head of the Natural Language Group, explained in August
+1998: "People will write their own language for several reasons --
+convenience, secrecy, and local applicability -- but that does not mean
+that other people are not interested in reading what they have to say!
+This is especially true for companies involved in technology watch
+(say, a computer company that wants to know, daily, all the Japanese
+newspaper and other articles that pertain to what they make) or some
+Government Intelligence agencies (the people who provide the most up-
+to-date information for use by your government officials in making
+policy, etc.). One of the main problems faced by these kinds of people
+is the flood of information, so they tend to hire 'weak' bilinguals who
+can rapidly scan incoming text and throw out what is not relevant,
+giving the relevant stuff to professional translators. Obviously, a
+combination of SUM (automated text summarization) and MT (machine
+translation) will help here; since MT is slow, it helps if you can do
+SUM in the foreign language, and then just do a quick and dirty MT on
+the result, allowing either a human or an automated IR-based text
+classifier to decide whether to keep or reject the article. For these
+kinds of reasons, the U.S. Government has over the past five years been
+funding research in MT, SUM, and IR (information retrieval), and is
+interested in starting a new program of research in Multilingual IR.
+This way you will be able to one day open Netscape or Explorer or the
+like, type in your query in (say) English, and have the engine return
+texts in *all* the languages of the world. You will have them clustered
+by subarea, summarized by cluster, and the foreign summaries
+translated, all the kinds of things that you would like to have."
+
+Eduard Hovy added in August 1999: "Over the past 12 months I have been
+contacted by a surprising number of new information technology (IT)
+companies and startups. Most of them plan to offer some variant of
+electronic commerce (online shopping, bartering, information gathering,
+etc.). Given the rather poor performance of current non-research level
+natural language processing technology (when is the last time you
+actually easily and accurately found a correct answer to a question to
+the web, without having to spend too much time sifting through
+irrelevant information?), this is a bit surprising. But I think
+everyone feels that the new developments in automated text
+summarization, question analysis, and so on, are going to make a
+significant difference. I hope so!--but the level of performance is not
+available yet.
+
+It seems to me that we will not get a big breakthrough, but we will get
+a somewhat acceptable level of performance, and then see slow but sure
+incremental improvement. The reason is that it is very hard to make
+your computer really 'understand' what you mean -- this requires us to
+build into the computer a network of 'concepts' and their
+interrelationships that (at some level) mirror those in your own mind,
+at least in the subjects areas of interest. The surface (word) level is
+not adequate -- when you type in 'capital of Switzerland', current
+systems have no way of knowing whether you mean 'capital city' or
+'financial capital'. Yet the vast majority of people would choose the
+former reading, based on phrasing and on knowledge about what kinds of
+things one is likely to ask the web, and in what way. Several projects
+are now building, or proposing to build, such large 'concept' networks.
+This is not something one can do in two years, and not something that
+has a correct result. We have to develop both the network and the
+techniques for building it semi-automatically and self-adaptively. This
+is a big challenge."
+
+Eduard Hovy added in September 2000: "I see a continued increase in
+small companies using language technology in one way or another: either
+to provide search, or translation, or reports, or some other
+communication function. The number of niches in which language
+technology can be applied continues to surprise me: from stock reports
+and updates to business-to-business communications to marketing...
+
+With regard to research, the main breakthrough I see was led by a
+colleague at ISI (I am proud to say), Kevin Knight. A team of
+scientists and students last summer at Johns Hopkins University in
+Maryland developed a faster and otherwise improved version of a method
+originally developed (and kept proprietary) by IBM about 12 years ago.
+This method allows one to create a machine translation (MT) system
+automatically, as long as one gives it enough bilingual text.
+Essentially the method finds all correspondences in words and word
+positions across the two languages and then builds up large tables of
+rules for what gets translated to what, and how it is phrased.
+
+Although the output quality is still low -- no-one would consider this
+a final product, and no-one would use the translated output as is --
+the team built a (low-quality) Chinese-to-English MT system in 24
+hours. That is a phenomenal feat -- this has never been done before.
+(Of course, say the critics: you need something like 3 million sentence
+pairs, which you can only get from the parliaments of Canada, Hong
+Kong, or other bilingual countries; and of course, they say, the
+quality is low. But the fact is that more bilingual and semi-equivalent
+text is becoming available online every day, and the quality will keep
+improving to at least the current levels of MT engines built by hand.
+Of that I am certain.)
+
+Other developments are less spectacular. There's a steady improvement
+in the performance of systems that can decide whether an ambiguous word
+such as "bat" means "flying mammal" or "sports tool" or "to hit"; there
+is solid work on cross-language information retrieval (which you will
+soon see in being able to find Chinese and French documents on the web
+even though you type in English-only queries), and there is some rather
+rapid development of systems that answer simple questions automatically
+(rather like the popular web system AskJeeves, but this time done by
+computers, not humans). These systems refer to a large collection of
+text to find 'factiods' (not opinions or causes or chains of events) in
+response to questions such as 'what is the capital of Uganda?' or 'how
+old is President Clinton?' or 'who invented the xerox process?', and
+they do so rather better than I had expected."
+
+# ISSCO
+
+In Geneva, Switzerland, ISSCO (Dalle Molle Institute for Semantic and
+Cognitive Studies - Institut Dalle Molle pour les Études Sémantiques et
+Cognitives) is a research laboratory conducting basic and applied
+research in computational linguistics (CL) and artificial intelligence
+(AI), for a number of Swiss and European research projects. The
+University of Geneva has provided administrative support and
+infrastructure. Research is funded with grants and contracts with
+public and private bodies.
+
+Created by the Foundation Dalle Molle in 1972 to conduct research in
+cognition and semantics, ISSCO has come to specialize in natural
+language processing, including multilingual language processing, in a
+number of areas: machine translation, linguistic environments,
+multilingual generation, discourse processing, data collection, etc.
+ISSCO is multi-disciplinary and multi-national. As explained on its
+website in 1998, "its staff and its visitors [are drawn] from the
+disciplines of computer science, linguistics, mathematics, psychology
+and philosophy. The long-term staff of the Institute is relatively
+small in number; with a much larger number of visitors coming for stays
+ranging from a month to two years. This ensures a continual exchange of
+ideas and encourages flexibility of approach amongst those associated
+with the Institute."
+
+# UNDL Foundation
+
+The UNL (universal networking language) project was launched in the
+mid-1990s as a main digital metalanguage project by the Institute of
+Advanced Studies (IAS) of the United Nations University (UNU) in Tokyo,
+Japan. As explained on the bilingual (English, Japanese) website in
+1998: "UNL is a language that -- with its companion 'enconverter' and
+'deconverter' software -- enables communication among peoples of
+differing native languages. It will reside, as a plug-in for popular
+web browsers, on the internet, and will be compatible with standard
+network servers. The technology will be shared among the member states
+of the United Nations. Any person with access to the internet will be
+able to 'enconvert' text from any native language of a member state
+into UNL. Just as easily, any UNL text can be 'deconverted' from UNL
+into native languages. United Nations University's UNL Center will work
+with its partners to create and promote the UNL software, which will be
+compatible with popular network servers and computing platforms."
+
+In 2000, 120 researchers worldwide were working on a multilingual
+project in 16 languages (Arabic, Brazilian, Chinese, English, French,
+German, Hindu, Indonesian, Italian, Japanese, Latvian, Mongolian,
+Russian, Spanish, Swahiki, and Thai). The UNDL Foundation (UNDL:
+Universal Networking Digital Language) was founded in January 2001 to
+develop and promote the UNL project.
+
+
+
+CHRONOLOGY
+
+[Each line begins with the year or the year/month.]
