@@ -1,0 +1,1641 @@
+LANGUAGE
+
+AN INTRODUCTION TO THE STUDY OF SPEECH
+
+BY
+EDWARD SAPIR
+
+
+1939
+
+1921
+
+
+
+
+PREFACE
+
+
+This little book aims to give a certain perspective on the subject of
+language rather than to assemble facts about it. It has little to say of
+the ultimate psychological basis of speech and gives only enough of the
+actual descriptive or historical facts of particular languages to
+illustrate principles. Its main purpose is to show what I conceive
+language to be, what is its variability in place and time, and what are
+its relations to other fundamental human interests--the problem of
+thought, the nature of the historical process, race, culture, art.
+
+The perspective thus gained will be useful, I hope, both to linguistic
+students and to the outside public that is half inclined to dismiss
+linguistic notions as the private pedantries of essentially idle minds.
+Knowledge of the wider relations of their science is essential to
+professional students of language if they are to be saved from a sterile
+and purely technical attitude. Among contemporary writers of influence
+on liberal thought Croce is one of the very few who have gained an
+understanding of the fundamental significance of language. He has
+pointed out its close relation to the problem of art. I am deeply
+indebted to him for this insight. Quite aside from their intrinsic
+interest, linguistic forms and historical processes have the greatest
+possible diagnostic value for the understanding of some of the more
+difficult and elusive problems in the psychology of thought and in the
+strange, cumulative drift in the life of the human spirit that we call
+history or progress or evolution. This value depends chiefly on the
+unconscious and unrationalized nature of linguistic structure.
+
+I have avoided most of the technical terms and all of the technical
+symbols of the linguistic academy. There is not a single diacritical
+mark in the book. Where possible, the discussion is based on English
+material. It was necessary, however, for the scheme of the book, which
+includes a consideration of the protean forms in which human thought has
+found expression, to quote some exotic instances. For these no apology
+seems necessary. Owing to limitations of space I have had to leave out
+many ideas or principles that I should have liked to touch upon. Other
+points have had to be barely hinted at in a sentence or flying phrase.
+Nevertheless, I trust that enough has here been brought together to
+serve as a stimulus for the more fundamental study of a neglected field.
+
+I desire to express my cordial appreciation of the friendly advice and
+helpful suggestions of a number of friends who have read the work in
+manuscript, notably Profs. A.L. Kroeber and R.H. Lowie of the University
+of California, Prof. W.D. Wallis of Reed College, and Prof. J. Zeitlin
+of the University of Illinois.
+
+EDWARD SAPIR.
+
+OTTAWA, ONT.,
+April 8, 1921.
+
+
+
+
+CONTENTS
+
+PREFACE
+
+CHAPTER
+
+  I. INTRODUCTORY: LANGUAGE DEFINED
+
+    Language a cultural, not a biologically inherited, function.
+    Futility of interjectional and sound-imitative theories of the
+    origin of speech. Definition of language. The psycho-physical basis
+    of speech. Concepts and language. Is thought possible without
+    language? Abbreviations and transfers of the speech process. The
+    universality of language.
+
+  II. THE ELEMENTS OF SPEECH
+
+    Sounds not properly elements of speech. Words and significant parts
+    of words (radical elements, grammatical elements). Types of words.
+    The word a formal, not a functional unit. The word has a real
+    psychological existence. The sentence. The cognitive, volitional,
+    and emotional aspects of speech. Feeling-tones of words.
+
+  III. THE SOUNDS OF LANGUAGE
+
+    The vast number of possible sounds. The articulating organs and
+    their share in the production of speech sounds: lungs, glottal
+    cords, nose, mouth and its parts. Vowel articulations. How and where
+    consonants are articulated. The phonetic habits of a language. The
+    "values" of sounds. Phonetic patterns.
+
+  IV. FORM IN LANGUAGE: GRAMMATICAL PROCESSES
+
+    Formal processes as distinct from grammatical functions.
+    Intercrossing of the two points of view. Six main types of
+    grammatical process. Word sequence as a method. Compounding of
+    radical elements. Affixing: prefixes and suffixes; infixes. Internal
+    vocalic change; consonantal change. Reduplication. Functional
+    variations of stress; of pitch.
+
+  V. FORM IN LANGUAGE: GRAMMATICAL CONCEPTS
+
+    Analysis of a typical English sentence. Types of concepts
+    illustrated by it. Inconsistent expression of analogous concepts.
+    How the same sentence may be expressed in other languages with
+    striking differences in the selection and grouping of concepts.
+    Essential and non-essential concepts. The mixing of essential
+    relational concepts with secondary ones of more concrete order. Form
+    for form's sake. Classification of linguistic concepts: basic or
+    concrete, derivational, concrete relational, pure relational.
+    Tendency for these types of concepts to flow into each other.
+    Categories expressed in various grammatical systems. Order and
+    stress as relating principles in the sentence. Concord. Parts of
+    speech: no absolute classification possible; noun and verb.
+
+  VI. TYPES OF LINGUISTIC STRUCTURE
+
+    The possibility of classifying languages. Difficulties.
+    Classification into form-languages and formless languages not valid.
+    Classification according to formal processes used not practicable.
+    Classification according to degree of synthesis. "Inflective" and
+    "agglutinative." Fusion and symbolism as linguistic techniques.
+    Agglutination. "Inflective" a confused term. Threefold
+    classification suggested: what types of concepts are expressed? what
+    is the prevailing technique? what is the degree of synthesis? Four
+    fundamental conceptual types. Examples tabulated. Historical test of
+    the validity of the suggested conceptual classification.
+
+  VII. LANGUAGE AS A HISTORICAL PRODUCT: DRIFT
+
+    Variability of language. Individual and dialectic variations. Time
+    variation or "drift." How dialects arise. Linguistic stocks.
+    Direction or "slope" of linguistic drift. Tendencies illustrated in
+    an English sentence. Hesitations of usage as symptomatic of the
+    direction of drift. Leveling tendencies in English. Weakening of
+    case elements. Tendency to fixed position in the sentence. Drift
+    toward the invariable word.
+
+  VIII. LANGUAGE AS A HISTORICAL PRODUCT: PHONETIC LAW
+
+    Parallels in drift in related languages. Phonetic law as illustrated
+    in the history of certain English and German vowels and consonants.
+    Regularity of phonetic law. Shifting of sounds without destruction
+    of phonetic pattern. Difficulty of explaining the nature of phonetic
+    drifts. Vowel mutation in English and German. Morphological
+    influence on phonetic change. Analogical levelings to offset
+    irregularities produced by phonetic laws. New morphological features
+    due to phonetic change.
+
+  IX. HOW LANGUAGES INFLUENCE EACH OTHER
+
+    Linguistic influences due to cultural contact. Borrowing of words.
+    Resistances to borrowing. Phonetic modification of borrowed words.
+    Phonetic interinfluencings of neighboring languages. Morphological
+    borrowings. Morphological resemblances as vestiges of genetic
+    relationship.
+
+  X. LANGUAGE, RACE, AND CULTURE
+
+    Naïve tendency to consider linguistic, racial, and cultural
+    groupings as congruent. Race and language need not correspond.
+    Cultural and linguistic boundaries not identical. Coincidences
+    between linguistic cleavages and those of language and culture due
+    to historical, not intrinsic psychological, causes. Language does
+    not in any deep sense "reflect" culture.
+
+  XL LANGUAGE AND LITERATURE
+
+    Language as the material or medium of literature. Literature may
+    move on the generalized linguistic plane or may be inseparable from
+    specific linguistic conditions. Language as a collective art.
+    Necessary esthetic advantages or limitations in any language. Style
+    as conditioned by inherent features of the language. Prosody as
+    conditioned by the phonetic dynamics of a language.
+
+INDEX
+
+
+
+
+I
+
+INTRODUCTORY: LANGUAGE DEFINED
+
+
+Speech is so familiar a feature of daily life that we rarely pause to
+define it. It seems as natural to man as walking, and only less so than
+breathing. Yet it needs but a moment's reflection to convince us that
+this naturalness of speech is but an illusory feeling. The process of
+acquiring speech is, in sober fact, an utterly different sort of thing
+from the process of learning to walk. In the case of the latter
+function, culture, in other words, the traditional body of social usage,
+is not seriously brought into play. The child is individually equipped,
+by the complex set of factors that we term biological heredity, to make
+all the needed muscular and nervous adjustments that result in walking.
+Indeed, the very conformation of these muscles and of the appropriate
+parts of the nervous system may be said to be primarily adapted to the
+movements made in walking and in similar activities. In a very real
+sense the normal human being is predestined to walk, not because his
+elders will assist him to learn the art, but because his organism is
+prepared from birth, or even from the moment of conception, to take on
+all those expenditures of nervous energy and all those muscular
+adaptations that result in walking. To put it concisely, walking is an
+inherent, biological function of man.
+
+Not so language. It is of course true that in a certain sense the
+individual is predestined to talk, but that is due entirely to the
+circumstance that he is born not merely in nature, but in the lap of a
+society that is certain, reasonably certain, to lead him to its
+traditions. Eliminate society and there is every reason to believe that
+he will learn to walk, if, indeed, he survives at all. But it is just as
+certain that he will never learn to talk, that is, to communicate ideas
+according to the traditional system of a particular society. Or, again,
+remove the new-born individual from the social environment into which he
+has come and transplant him to an utterly alien one. He will develop the
+art of walking in his new environment very much as he would have
+developed it in the old. But his speech will be completely at variance
+with the speech of his native environment. Walking, then, is a general
+human activity that varies only within circumscribed limits as we pass
+from individual to individual. Its variability is involuntary and
+purposeless. Speech is a human activity that varies without assignable
+limit as we pass from social group to social group, because it is a
+purely historical heritage of the group, the product of long-continued
+social usage. It varies as all creative effort varies--not as
+consciously, perhaps, but none the less as truly as do the religions,
+the beliefs, the customs, and the arts of different peoples. Walking is
+an organic, an instinctive, function (not, of course, itself an
+instinct); speech is a non-instinctive, acquired, "cultural" function.
+
+There is one fact that has frequently tended to prevent the recognition
+of language as a merely conventional system of sound symbols, that has
+seduced the popular mind into attributing to it an instinctive basis
+that it does not really possess. This is the well-known observation that
+under the stress of emotion, say of a sudden twinge of pain or of
+unbridled joy, we do involuntarily give utterance to sounds that the
+hearer interprets as indicative of the emotion itself. But there is all
+the difference in the world between such involuntary expression of
+feeling and the normal type of communication of ideas that is speech.
+The former kind of utterance is indeed instinctive, but it is
+non-symbolic; in other words, the sound of pain or the sound of joy does
+not, as such, indicate the emotion, it does not stand aloof, as it were,
+and announce that such and such an emotion is being felt. What it does
+is to serve as a more or less automatic overflow of the emotional
+energy; in a sense, it is part and parcel of the emotion itself.
+Moreover, such instinctive cries hardly constitute communication in any
+strict sense. They are not addressed to any one, they are merely
+overheard, if heard at all, as the bark of a dog, the sound of
+approaching footsteps, or the rustling of the wind is heard. If they
+convey certain ideas to the hearer, it is only in the very general sense
+in which any and every sound or even any phenomenon in our environment
+may be said to convey an idea to the perceiving mind. If the involuntary
+cry of pain which is conventionally represented by "Oh!" be looked upon
+as a true speech symbol equivalent to some such idea as "I am in great
+pain," it is just as allowable to interpret the appearance of clouds as
+an equivalent symbol that carries the definite message "It is likely to
+rain." A definition of language, however, that is so extended as to
+cover every type of inference becomes utterly meaningless.
+
+The mistake must not be made of identifying our conventional
+interjections (our oh! and ah! and sh!) with the instinctive cries
+themselves. These interjections are merely conventional fixations of the
+natural sounds. They therefore differ widely in various languages in
+accordance with the specific phonetic genius of each of these. As such
+they may be considered an integral portion of speech, in the properly
+cultural sense of the term, being no more identical with the instinctive
+cries themselves than such words as "cuckoo" and "kill-deer" are
+identical with the cries of the birds they denote or than Rossini's
+treatment of a storm in the overture to "William Tell" is in fact a
+storm. In other words, the interjections and sound-imitative words of
+normal speech are related to their natural prototypes as is art, a
+purely social or cultural thing, to nature. It may be objected that,
+though the interjections differ somewhat as we pass from language to
+language, they do nevertheless offer striking family resemblances and
+may therefore be looked upon as having grown up out of a common
+instinctive base. But their case is nowise different from that, say, of
+the varying national modes of pictorial representation. A Japanese
+picture of a hill both differs from and resembles a typical modern
+European painting of the same kind of hill. Both are suggested by and
+both "imitate" the same natural feature. Neither the one nor the other
+is the same thing as, or, in any intelligible sense, a direct outgrowth
+of, this natural feature. The two modes of representation are not
+identical because they proceed from differing historical traditions, are
+executed with differing pictorial techniques. The interjections of
+Japanese and English are, just so, suggested by a common natural
+prototype, the instinctive cries, and are thus unavoidably suggestive of
+each other. They differ, now greatly, now but little, because they are
+builded out of historically diverse materials or techniques, the
+respective linguistic traditions, phonetic systems, speech habits of the
+two peoples. Yet the instinctive cries as such are practically identical
+for all humanity, just as the human skeleton or nervous system is to all
+intents and purposes a "fixed," that is, an only slightly and
+"accidentally" variable, feature of man's organism.
+
+Interjections are among the least important of speech elements. Their
+discussion is valuable mainly because it can be shown that even they,
+avowedly the nearest of all language sounds to instinctive utterance,
+are only superficially of an instinctive nature. Were it therefore
+possible to demonstrate that the whole of language is traceable, in its
+ultimate historical and psychological foundations, to the interjections,
+it would still not follow that language is an instinctive activity. But,
+as a matter of fact, all attempts so to explain the origin of speech
+have been fruitless. There is no tangible evidence, historical or
+otherwise, tending to show that the mass of speech elements and speech
+processes has evolved out of the interjections. These are a very small
+and functionally insignificant proportion of the vocabulary of language;
+at no time and in no linguistic province that we have record of do we
+see a noticeable tendency towards their elaboration into the primary
+warp and woof of language. They are never more, at best, than a
+decorative edging to the ample, complex fabric.
+
+What applies to the interjections applies with even greater force to the
+sound-imitative words. Such words as "whippoorwill," "to mew," "to caw"
+are in no sense natural sounds that man has instinctively or
+automatically reproduced. They are just as truly creations of the human
+mind, flights of the human fancy, as anything else in language. They do
+not directly grow out of nature, they are suggested by it and play with
+it. Hence the onomatopoetic theory of the origin of speech, the theory
+that would explain all speech as a gradual evolution from sounds of an
+imitative character, really brings us no nearer to the instinctive level
+than is language as we know it to-day. As to the theory itself, it is
+scarcely more credible than its interjectional counterpart. It is true
+that a number of words which we do not now feel to have a
+sound-imitative value can be shown to have once had a phonetic form that
+strongly suggests their origin as imitations of natural sounds. Such is
+the English word "to laugh." For all that, it is quite impossible to
+show, nor does it seem intrinsically reasonable to suppose, that more
+than a negligible proportion of the elements of speech or anything at
+all of its formal apparatus is derivable from an onomatopoetic source.
+However much we may be disposed on general principles to assign a
+fundamental importance in the languages of primitive peoples to the
+imitation of natural sounds, the actual fact of the matter is that these
+languages show no particular preference for imitative words. Among the
+most primitive peoples of aboriginal America, the Athabaskan tribes of
+the Mackenzie River speak languages in which such words seem to be
+nearly or entirely absent, while they are used freely enough in
+languages as sophisticated as English and German. Such an instance shows
+how little the essential nature of speech is concerned with the mere
+imitation of things.
+
+The way is now cleared for a serviceable definition of language.
+Language is a purely human and non-instinctive method of communicating
+ideas, emotions, and desires by means of a system of voluntarily
+produced symbols. These symbols are, in the first instance, auditory and
+they are produced by the so-called "organs of speech." There is no
+discernible instinctive basis in human speech as such, however much
+instinctive expressions and the natural environment may serve as a
+stimulus for the development of certain elements of speech, however much
+instinctive tendencies, motor and other, may give a predetermined range
+or mold to linguistic expression. Such human or animal communication, if
+"communication" it may be called, as is brought about by involuntary,
+instinctive cries is not, in our sense, language at all.
+
+I have just referred to the "organs of speech," and it would seem at
+first blush that this is tantamount to an admission that speech itself
+is an instinctive, biologically predetermined activity. We must not be
+misled by the mere term. There are, properly speaking, no organs of
+speech; there are only organs that are incidentally useful in the
+production of speech sounds. The lungs, the larynx, the palate, the
+nose, the tongue, the teeth, and the lips, are all so utilized, but they
+are no more to be thought of as primary organs of speech than are the
+fingers to be considered as essentially organs of piano-playing or the
+knees as organs of prayer. Speech is not a simple activity that is
+carried on by one or more organs biologically adapted to the purpose. It
+is an extremely complex and ever-shifting network of adjustments--in the
+brain, in the nervous system, and in the articulating and auditory
+organs--tending towards the desired end of communication. The lungs
+developed, roughly speaking, in connection with the necessary
+biological function known as breathing; the nose, as an organ of smell;
+the teeth, as organs useful in breaking up food before it was ready for
+digestion. If, then, these and other organs are being constantly
+utilized in speech, it is only because any organ, once existent and in
+so far as it is subject to voluntary control, can be utilized by man for
+secondary purposes. Physiologically, speech is an overlaid function, or,
+to be more precise, a group of overlaid functions. It gets what service
+it can out of organs and functions, nervous and muscular, that have come
+into being and are maintained for very different ends than its own.
+
+It is true that physiological psychologists speak of the localization of
+speech in the brain. This can only mean that the sounds of speech are
+localized in the auditory tract of the brain, or in some circumscribed
+portion of it, precisely as other classes of sounds are localized; and
+that the motor processes involved in speech (such as the movements of
+the glottal cords in the larynx, the movements of the tongue required to
+pronounce the vowels, lip movements required to articulate certain
+consonants, and numerous others) are localized in the motor tract
+precisely as are all other impulses to special motor activities. In the
+same way control is lodged in the visual tract of the brain over all
+those processes of visual recognition involved in reading. Naturally the
+particular points or clusters of points of localization in the several
+tracts that refer to any element of language are connected in the brain
+by paths of association, so that the outward, or psycho-physical, aspect
+of language, is of a vast network of associated localizations in the
+brain and lower nervous tracts, the auditory localizations being without
+doubt the most fundamental of all for speech. However, a speechsound
+localized in the brain, even when associated with the particular
+movements of the "speech organs" that are required to produce it, is
+very far from being an element of language. It must be further
+associated with some element or group of elements of experience, say a
+visual image or a class of visual images or a feeling of relation,
+before it has even rudimentary linguistic significance. This "element"
+of experience is the content or "meaning" of the linguistic unit; the
+associated auditory, motor, and other cerebral processes that lie
+immediately back of the act of speaking and the act of hearing speech
+are merely a complicated symbol of or signal for these "meanings," of
+which more anon. We see therefore at once that language as such is not
+and cannot be definitely localized, for it consists of a peculiar
+symbolic relation--physiologically an arbitrary one--between all
+possible elements of consciousness on the one hand and certain selected
+elements localized in the auditory, motor, and other cerebral and
+nervous tracts on the other. If language can be said to be definitely
+"localized" in the brain, it is only in that general and rather useless
+sense in which all aspects of consciousness, all human interest and
+activity, may be said to be "in the brain." Hence, we have no recourse
+but to accept language as a fully formed functional system within man's
+psychic or "spiritual" constitution. We cannot define it as an entity in
+psycho-physical terms alone, however much the psycho-physical basis is
+essential to its functioning in the individual.
+
+From the physiologist's or psychologist's point of view we may seem to
+be making an unwarrantable abstraction in desiring to handle the subject
+of speech without constant and explicit reference to that basis.
+However, such an abstraction is justifiable. We can profitably discuss
+the intention, the form, and the history of speech, precisely as we
+discuss the nature of any other phase of human culture--say art or
+religion--as an institutional or cultural entity, leaving the organic
+and psychological mechanisms back of it as something to be taken for
+granted. Accordingly, it must be clearly understood that this
+introduction to the study of speech is not concerned with those aspects
+of physiology and of physiological psychology that underlie speech. Our
+study of language is not to be one of the genesis and operation of a
+concrete mechanism; it is, rather, to be an inquiry into the function
+and form of the arbitrary systems of symbolism that we term languages.
+
+I have already pointed out that the essence of language consists in the
+assigning of conventional, voluntarily articulated, sounds, or of their
+equivalents, to the diverse elements of experience. The word "house" is
+not a linguistic fact if by it is meant merely the acoustic effect
+produced on the ear by its constituent consonants and vowels, pronounced
+in a certain order; nor the motor processes and tactile feelings which
+make up the articulation of the word; nor the visual perception on the
+part of the hearer of this articulation; nor the visual perception of
+the word "house" on the written or printed page; nor the motor processes
+and tactile feelings which enter into the writing of the word; nor the
+memory of any or all of these experiences. It is only when these, and
+possibly still other, associated experiences are automatically
+associated with the image of a house that they begin to take on the
+nature of a symbol, a word, an element of language. But the mere fact of
+such an association is not enough. One might have heard a particular
+word spoken in an individual house under such impressive circumstances
+that neither the word nor the image of the house ever recur in
+consciousness without the other becoming present at the same time. This
+type of association does not constitute speech. The association must be
+a purely symbolic one; in other words, the word must denote, tag off,
+the image, must have no other significance than to serve as a counter to
+refer to it whenever it is necessary or convenient to do so. Such an
+association, voluntary and, in a sense, arbitrary as it is, demands a
+considerable exercise of self-conscious attention. At least to begin
+with, for habit soon makes the association nearly as automatic as any
+and more rapid than most.
+
+But we have traveled a little too fast. Were the symbol "house"--whether
+an auditory, motor, or visual experience or image--attached but to the
+single image of a particular house once seen, it might perhaps, by an
+indulgent criticism, be termed an element of speech, yet it is obvious
+at the outset that speech so constituted would have little or no value
+for purposes of communication. The world of our experiences must be
+enormously simplified and generalized before it is possible to make a
+symbolic inventory of all our experiences of things and relations; and
+this inventory is imperative before we can convey ideas. The elements of
+language, the symbols that ticket off experience, must therefore be
+associated with whole groups, delimited classes, of experience rather
+than with the single experiences themselves. Only so is communication
+possible, for the single experience lodges in an individual
+consciousness and is, strictly speaking, incommunicable. To be
+communicated it needs to be referred to a class which is tacitly
+accepted by the community as an identity. Thus, the single impression
+which I have had of a particular house must be identified with all my
+other impressions of it. Further, my generalized memory or my "notion"
+of this house must be merged with the notions that all other individuals
+who have seen the house have formed of it. The particular experience
+that we started with has now been widened so as to embrace all possible
+impressions or images that sentient beings have formed or may form of
+the house in question. This first simplification of experience is at the
+bottom of a large number of elements of speech, the so-called proper
+nouns or names of single individuals or objects. It is, essentially, the
+type of simplification which underlies, or forms the crude subject of,
+history and art. But we cannot be content with this measure of reduction
+of the infinity of experience. We must cut to the bone of things, we
+must more or less arbitrarily throw whole masses of experience together
+as similar enough to warrant their being looked upon--mistakenly, but
+conveniently--as identical. This house and that house and thousands of
+other phenomena of like character are thought of as having enough in
+common, in spite of great and obvious differences of detail, to be
+classed under the same heading. In other words, the speech element
+"house" is the symbol, first and foremost, not of a single perception,
+nor even of the notion of a particular object, but of a "concept," in
+other words, of a convenient capsule of thought that embraces thousands
+of distinct experiences and that is ready to take in thousands more. If
+the single significant elements of speech are the symbols of concepts,
+the actual flow of speech may be interpreted as a record of the setting
+of these concepts into mutual relations.
+
+The question has often been raised whether thought is possible without
+speech; further, if speech and thought be not but two facets of the same
+psychic process. The question is all the more difficult because it has
+been hedged about by misunderstandings. In the first place, it is well
+to observe that whether or not thought necessitates symbolism, that is
+speech, the flow of language itself is not always indicative of thought.
+We have seen that the typical linguistic element labels a concept. It
+does not follow from this that the use to which language is put is
+always or even mainly conceptual. We are not in ordinary life so much
+concerned with concepts as such as with concrete particularities and
+specific relations. When I say, for instance, "I had a good breakfast
+this morning," it is clear that I am not in the throes of laborious
+thought, that what I have to transmit is hardly more than a pleasurable
+memory symbolically rendered in the grooves of habitual expression. Each
+element in the sentence defines a separate concept or conceptual
+relation or both combined, but the sentence as a whole has no conceptual
+significance whatever. It is somewhat as though a dynamo capable of
+generating enough power to run an elevator were operated almost
+exclusively to feed an electric door-bell. The parallel is more
+suggestive than at first sight appears. Language may be looked upon as
+an instrument capable of running a gamut of psychic uses. Its flow not
+only parallels that of the inner content of consciousness, but parallels
+it on different levels, ranging from the state of mind that is dominated
+by particular images to that in which abstract concepts and their
+relations are alone at the focus of attention and which is ordinarily
+termed reasoning. Thus the outward form only of language is constant;
+its inner meaning, its psychic value or intensity, varies freely with
+attention or the selective interest of the mind, also, needless to say,
+with the mind's general development. From the point of view of
+language, thought may be defined as the highest latent or potential
+content of speech, the content that is obtained by interpreting each of
+the elements in the flow of language as possessed of its very fullest
+conceptual value. From this it follows at once that language and thought
+are not strictly coterminous. At best language can but be the outward
+facet of thought on the highest, most generalized, level of symbolic
+expression. To put our viewpoint somewhat differently, language is
+primarily a pre-rational function. It humbly works up to the thought
+that is latent in, that may eventually be read into, its classifications
+and its forms; it is not, as is generally but naïvely assumed, the final
+label put upon, the finished thought.
+
+Most people, asked if they can think without speech, would probably
+answer, "Yes, but it is not easy for me to do so. Still I know it can be
+done." Language is but a garment! But what if language is not so much a
+garment as a prepared road or groove? It is, indeed, in the highest
+degree likely that language is an instrument originally put to uses
+lower than the conceptual plane and that thought arises as a refined
+interpretation of its content. The product grows, in other words, with
+the instrument, and thought may be no more conceivable, in its genesis
+and daily practice, without speech than is mathematical reasoning
+practicable without the lever of an appropriate mathematical symbolism.
+No one believes that even the most difficult mathematical proposition is
+inherently dependent on an arbitrary set of symbols, but it is
+impossible to suppose that the human mind is capable of arriving at or
+holding such a proposition without the symbolism. The writer, for one,
+is strongly of the opinion that the feeling entertained by so many that
+they can think, or even reason, without language is an illusion. The
+illusion seems to be due to a number of factors. The simplest of these
+is the failure to distinguish between imagery and thought. As a matter
+of fact, no sooner do we try to put an image into conscious relation
+with another than we find ourselves slipping into a silent flow of
+words. Thought may be a natural domain apart from the artificial one of
+speech, but speech would seem to be the only road we know of that leads
+to it. A still more fruitful source of the illusive feeling that
+language may be dispensed with in thought is the common failure to
+realize that language is not identical with its auditory symbolism. The
+auditory symbolism may be replaced, point for point, by a motor or by a
+visual symbolism (many people can read, for instance, in a purely visual
+sense, that is, without the intermediating link of an inner flow of the
+auditory images that correspond to the printed or written words) or by
+still other, more subtle and elusive, types of transfer that are not so
+easy to define. Hence the contention that one thinks without language
+merely because he is not aware of a coexisting auditory imagery is very
+far indeed from being a valid one. One may go so far as to suspect that
+the symbolic expression of thought may in some cases run along outside
+the fringe of the conscious mind, so that the feeling of a free,
+nonlinguistic stream of thought is for minds of a certain type a
+relatively, but only a relatively, justified one. Psycho-physically,
+this would mean that the auditory or equivalent visual or motor centers
+in the brain, together with the appropriate paths of association, that
+are the cerebral equivalent of speech, are touched off so lightly during
+the process of thought as not to rise into consciousness at all. This
+would be a limiting case--thought riding lightly on the submerged crests
+of speech, instead of jogging along with it, hand in hand. The modern
+psychology has shown us how powerfully symbolism is at work in the
+unconscious mind. It is therefore easier to understand at the present
+time than it would have been twenty years ago that the most rarefied
+thought may be but the conscious counterpart of an unconscious
+linguistic symbolism.
+
+One word more as to the relation between language and thought. The point
+of view that we have developed does not by any means preclude the
+possibility of the growth of speech being in a high degree dependent on
+the development of thought. We may assume that language arose
+pre-rationally--just how and on what precise level of mental activity we
+do not know--but we must not imagine that a highly developed system of
+speech symbols worked itself out before the genesis of distinct concepts
+and of thinking, the handling of concepts. We must rather imagine that
+thought processes set in, as a kind of psychic overflow, almost at the
+beginning of linguistic expression; further, that the concept, once
+defined, necessarily reacted on the life of its linguistic symbol,
+encouraging further linguistic growth. We see this complex process of
+the interaction of language and thought actually taking place under our
+eyes. The instrument makes possible the product, the product refines the
+instrument. The birth of a new concept is invariably foreshadowed by a
+more or less strained or extended use of old linguistic material; the
+concept does not attain to individual and independent life until it has
+found a distinctive linguistic embodiment. In most cases the new symbol
+is but a thing wrought from linguistic material already in existence in
+ways mapped out by crushingly despotic precedents. As soon as the word
+is at hand, we instinctively feel, with something of a sigh of relief,
+that the concept is ours for the handling. Not until we own the symbol
+do we feel that we hold a key to the immediate knowledge or
+understanding of the concept. Would we be so ready to die for "liberty,"
+to struggle for "ideals," if the words themselves were not ringing
+within us? And the word, as we know, is not only a key; it may also be a
+fetter.
+
+Language is primarily an auditory system of symbols. In so far as it is
+articulated it is also a motor system, but the motor aspect of speech is
+clearly secondary to the auditory. In normal individuals the impulse to
+speech first takes effect in the sphere of auditory imagery and is then
+transmitted to the motor nerves that control the organs of speech. The
+motor processes and the accompanying motor feelings are not, however,
+the end, the final resting point. They are merely a means and a control
+leading to auditory perception in both speaker and hearer.
+Communication, which is the very object of speech, is successfully
+effected only when the hearer's auditory perceptions are translated into
+the appropriate and intended flow of imagery or thought or both
+combined. Hence the cycle of speech, in so far as we may look upon it as
+a purely external instrument, begins and ends in the realm of sounds.
+The concordance between the initial auditory imagery and the final
+auditory perceptions is the social seal or warrant of the successful
+issue of the process. As we have already seen, the typical course of
+this process may undergo endless modifications or transfers into
+equivalent systems without thereby losing its essential formal
+characteristics.
+
+The most important of these modifications is the abbreviation of the
+speech process involved in thinking. This has doubtless many forms,
+according to the structural or functional peculiarities of the
+individual mind. The least modified form is that known as "talking to
+one's self" or "thinking aloud." Here the speaker and the hearer are
+identified in a single person, who may be said to communicate with
+himself. More significant is the still further abbreviated form in which
+the sounds of speech are not articulated at all. To this belong all the
+varieties of silent speech and of normal thinking. The auditory centers
+alone may be excited; or the impulse to linguistic expression may be
+communicated as well to the motor nerves that communicate with the
+organs of speech but be inhibited either in the muscles of these organs
+or at some point in the motor nerves themselves; or, possibly, the
+auditory centers may be only slightly, if at all, affected, the speech
+process manifesting itself directly in the motor sphere. There must be
+still other types of abbreviation. How common is the excitation of the
+motor nerves in silent speech, in which no audible or visible
+articulations result, is shown by the frequent experience of fatigue in
+the speech organs, particularly in the larynx, after unusually
+stimulating reading or intensive thinking.
+
+All the modifications so far considered are directly patterned on the
+typical process of normal speech. Of very great interest and importance
+is the possibility of transferring the whole system of speech symbolism
+into other terms than those that are involved in the typical process.
+This process, as we have seen, is a matter of sounds and of movements
+intended to produce these sounds. The sense of vision is not brought
+into play. But let us suppose that one not only hears the articulated
+sounds but sees the articulations themselves as they are being executed
+by the speaker. Clearly, if one can only gain a sufficiently high degree
+of adroitness in perceiving these movements of the speech organs, the
+way is opened for a new type of speech symbolism--that in which the
+sound is replaced by the visual image of the articulations that
+correspond to the sound. This sort of system has no great value for most
+of us because we are already possessed of the auditory-motor system of
+which it is at best but an imperfect translation, not all the
+articulations being visible to the eye. However, it is well known what
+excellent use deaf-mutes can make of "reading from the lips" as a
+subsidiary method of apprehending speech. The most important of all
+visual speech symbolisms is, of course, that of the written or printed
+word, to which, on the motor side, corresponds the system of delicately
+adjusted movements which result in the writing or typewriting or other
+graphic method of recording speech. The significant feature for our
+recognition in these new types of symbolism, apart from the fact that
+they are no longer a by-product of normal speech itself, is that each
+element (letter or written word) in the system corresponds to a specific
+element (sound or sound-group or spoken word) in the primary system.
+Written language is thus a point-to-point equivalence, to borrow a
+mathematical phrase, to its spoken counterpart. The written forms are
+secondary symbols of the spoken ones--symbols of symbols--yet so close
+is the correspondence that they may, not only in theory but in the
+actual practice of certain eye-readers and, possibly, in certain types
+of thinking, be entirely substituted for the spoken ones. Yet the
+auditory-motor associations are probably always latent at the least,
+that is, they are unconsciously brought into play. Even those who read
+and think without the slightest use of sound imagery are, at last
+analysis, dependent on it. They are merely handling the circulating
+medium, the money, of visual symbols as a convenient substitute for the
+economic goods and services of the fundamental auditory symbols.
+
+The possibilities of linguistic transfer are practically unlimited. A
+familiar example is the Morse telegraph code, in which the letters of
+written speech are represented by a conventionally fixed sequence of
+longer or shorter ticks. Here the transfer takes place from the written
+word rather than directly from the sounds of spoken speech. The letter
+of the telegraph code is thus a symbol of a symbol of a symbol. It does
+not, of course, in the least follow that the skilled operator, in order
+to arrive at an understanding of a telegraphic message, needs to
+transpose the individual sequence of ticks into a visual image of the
+word before he experiences its normal auditory image. The precise method
+of reading off speech from the telegraphic communication undoubtedly
+varies widely with the individual. It is even conceivable, if not
+exactly likely, that certain operators may have learned to think
+directly, so far as the purely conscious part of the process of thought
+is concerned, in terms of the tick-auditory symbolism or, if they happen
+to have a strong natural bent toward motor symbolism, in terms of the
+correlated tactile-motor symbolism developed in the sending of
+telegraphic messages.
+
+Still another interesting group of transfers are the different gesture
+languages, developed for the use of deaf-mutes, of Trappist monks vowed
+to perpetual silence, or of communicating parties that are within seeing
+distance of each other but are out of earshot. Some of these systems are
+one-to-one equivalences of the normal system of speech; others, like
+military gesture-symbolism or the gesture language of the Plains Indians
+of North America (understood by tribes of mutually unintelligible forms
+of speech) are imperfect transfers, limiting themselves to the rendering
+of such grosser speech elements as are an imperative minimum under
+difficult circumstances. In these latter systems, as in such still more
+imperfect symbolisms as those used at sea or in the woods, it may be
+contended that language no longer properly plays a part but that the
+ideas are directly conveyed by an utterly unrelated symbolic process or
+by a quasi-instinctive imitativeness. Such an interpretation would be
+erroneous. The intelligibility of these vaguer symbolisms can hardly be
+due to anything but their automatic and silent translation into the
+terms of a fuller flow of speech.
+
+We shall no doubt conclude that all voluntary communication of ideas,
+aside from normal speech, is either a transfer, direct or indirect, from
+the typical symbolism of language as spoken and heard or, at the least,
+involves the intermediary of truly linguistic symbolism. This is a fact
+of the highest importance. Auditory imagery and the correlated motor
+imagery leading to articulation are, by whatever devious ways we follow
+the process, the historic fountain-head of all speech and of all
+thinking. One other point is of still greater importance. The ease with
+which speech symbolism can be transferred from one sense to another,
+from technique to technique, itself indicates that the mere sounds of
+speech are not the essential fact of language, which lies rather in the
+classification, in the formal patterning, and in the relating of
+concepts. Once more, language, as a structure, is on its inner face the
+mold of thought. It is this abstracted language, rather more than the
+physical facts of speech, that is to concern us in our inquiry.
+
+There is no more striking general fact about language than its
+universality. One may argue as to whether a particular tribe engages in
+activities that are worthy of the name of religion or of art, but we
+know of no people that is not possessed of a fully developed language.
+The lowliest South African Bushman speaks in the forms of a rich
+symbolic system that is in essence perfectly comparable to the speech of
+the cultivated Frenchman. It goes without saying that the more abstract
+concepts are not nearly so plentifully represented in the language of
+the savage, nor is there the rich terminology and the finer definition
+of nuances that reflect the higher culture. Yet the sort of linguistic
+development that parallels the historic growth of culture and which, in
+its later stages, we associate with literature is, at best, but a
+superficial thing. The fundamental groundwork of language--the
+development of a clear-cut phonetic system, the specific association of
+speech elements with concepts, and the delicate provision for the formal
+expression of all manner of relations--all this meets us rigidly
+perfected and systematized in every language known to us. Many primitive
+languages have a formal richness, a latent luxuriance of expression,
+that eclipses anything known to the languages of modern civilization.
+Even in the mere matter of the inventory of speech the layman must be
+prepared for strange surprises. Popular statements as to the extreme
+poverty of expression to which primitive languages are doomed are simply
+myths. Scarcely less impressive than the universality of speech is its
+almost incredible diversity. Those of us that have studied French or
+German, or, better yet, Latin or Greek, know in what varied forms a
+thought may run. The formal divergences between the English plan and the
+Latin plan, however, are comparatively slight in the perspective of what
+we know of more exotic linguistic patterns. The universality and the
+diversity of speech lead to a significant inference. We are forced to
+believe that language is an immensely ancient heritage of the human
+race, whether or not all forms of speech are the historical outgrowth of
+a single pristine form. It is doubtful if any other cultural asset of
+man, be it the art of drilling for fire or of chipping stone, may lay
+claim to a greater age. I am inclined to believe that it antedated even
+the lowliest developments of material culture, that these developments,
+in fact, were not strictly possible until language, the tool of
+significant expression, had itself taken shape.
+
+
+
+
+II
+
+THE ELEMENTS OF SPEECH
+
+
+We have more than once referred to the "elements of speech," by which we
+understood, roughly speaking, what are ordinarily called "words." We
+must now look more closely at these elements and acquaint ourselves with
+the stuff of language. The very simplest element of speech--and by
+"speech" we shall hence-forth mean the auditory system of speech
+symbolism, the flow of spoken words--is the individual sound, though, as
+we shall see later on, the sound is not itself a simple structure but
+the resultant of a series of independent, yet closely correlated,
+adjustments in the organs of speech. And yet the individual sound is
+not, properly considered, an element of speech at all, for speech is a
+significant function and the sound as such has no significance. It
+happens occasionally that the single sound is an independently
+significant element (such as French _a_ "has" and _à_ "to" or Latin _i_
+"go!"), but such cases are fortuitous coincidences between individual
+sound and significant word. The coincidence is apt to be fortuitous not
+only in theory but in point of actual historic fact; thus, the instances
+cited are merely reduced forms of originally fuller phonetic
+groups--Latin _habet_ and _ad_ and Indo-European _ei_ respectively. If
+language is a structure and if the significant elements of language are
+the bricks of the structure, then the sounds of speech can only be
+compared to the unformed and unburnt clay of which the bricks are
+fashioned. In this chapter we shall have nothing further to do with
+sounds as sounds.
+
+The true, significant elements of language are generally sequences of
+sounds that are either words, significant parts of words, or word
+groupings. What distinguishes each of these elements is that it is the
+outward sign of a specific idea, whether of a single concept or image or
+of a number of such concepts or images definitely connected into a
+whole. The single word may or may not be the simplest significant
+element we have to deal with. The English words _sing_, _sings_,
+_singing_, _singer_ each conveys a perfectly definite and intelligible
+idea, though the idea is disconnected and is therefore functionally of
+no practical value. We recognize immediately that these words are of two
+sorts. The first word, _sing_, is an indivisible phonetic entity
+conveying the notion of a certain specific activity. The other words all
+involve the same fundamental notion but, owing to the addition of other
+phonetic elements, this notion is given a particular twist that modifies
+or more closely defines it. They represent, in a sense, compounded
+concepts that have flowered from the fundamental one. We may, therefore,
+analyze the words _sings_, _singing_, and _singer_ as binary expressions
+involving a fundamental concept, a concept of subject matter (_sing_),
+and a further concept of more abstract order--one of person, number,
+time, condition, function, or of several of these combined.
+
+If we symbolize such a term as _sing_ by the algebraic formula A, we
+shall have to symbolize such terms as _sings_ and _singer_ by the
+formula A + b.[1] The element A may be either a complete and independent
+word (_sing_) or the fundamental substance, the so-called root or
+stem[2] or "radical element" (_sing-_) of a word. The element b (_-s_,
+_-ing_, _-er_) is the indicator of a subsidiary and, as a rule, a more
+abstract concept; in the widest sense of the word "form," it puts upon
+the fundamental concept a formal limitation. We may term it a
+"grammatical element" or affix. As we shall see later on, the
+grammatical element or the grammatical increment, as we had better put
+it, need not be suffixed to the radical element. It may be a prefixed
+element (like the _un-_ of _unsingable_), it may be inserted into the
+very body of the stem (like the _n_ of the Latin _vinco_ "I conquer" as
+contrasted with its absence in _vici_ "I have conquered"), it may be the
+complete or partial repetition of the stem, or it may consist of some
+modification of the inner form of the stem (change of vowel, as in
+_sung_ and _song_; change of consonant as in _dead_ and _death_; change
+of accent; actual abbreviation). Each and every one of these types of
+grammatical element or modification has this peculiarity, that it may
+not, in the vast majority of cases, be used independently but needs to
+be somehow attached to or welded with a radical element in order to
+convey an intelligible notion. We had better, therefore, modify our
+formula, A + b, to A + (b), the round brackets symbolizing the
+incapacity of an element to stand alone. The grammatical element,
+moreover, is not only non-existent except as associated with a radical
+one, it does not even, as a rule, obtain its measure of significance
+unless it is associated with a particular class of radical elements.
+Thus, the _-s_ of English _he hits_ symbolizes an utterly different
+notion from the _-s_ of _books_, merely because _hit_ and _book_ are
+differently classified as to function. We must hasten to observe,
+however, that while the radical element may, on occasion, be identical
+with the word, it does not follow that it may always, or even
+customarily, be used as a word. Thus, the _hort-_ "garden" of such Latin
+forms as _hortus_, _horti_, and _horto_ is as much of an abstraction,
+though one yielding a more easily apprehended significance, than the
+_-ing_ of _singing_. Neither exists as an independently intelligible and
+satisfying element of speech. Both the radical element, as such, and the
+grammatical element, therefore, are reached only by a process of
+abstraction. It seemed proper to symbolize _sing-er_ as A + (b);
+_hort-us_ must be symbolized as (A) + (b).
+
+[Footnote 1: We shall reserve capitals for radical elements.]
+
+[Footnote 2: These words are not here used in a narrowly technical
+sense.]
+
+So far, the first speech element that we have found which we can say
+actually "exists" is the word. Before defining the word, however, we
+must look a little more closely at the type of word that is illustrated
+by _sing_. Are we, after all, justified in identifying it with a radical
+element? Does it represent a simple correspondence between concept and
+linguistic expression? Is the element _sing-_, that we have abstracted
+from _sings_, _singing_, and _singer_ and to which we may justly ascribe
+a general unmodified conceptual value, actually the same linguistic fact
+as the word _sing_? It would almost seem absurd to doubt it, yet a
+little reflection only is needed to convince us that the doubt is
+entirely legitimate. The word _sing_ cannot, as a matter of fact, be
+freely used to refer to its own conceptual content. The existence of
+such evidently related forms as _sang_ and _sung_ at once shows that it
+cannot refer to past time, but that, for at least an important part of
+its range of usage, it is limited to the present. On the other hand, the
+use of _sing_ as an "infinitive" (in such locutions as _to sing_ and _he
+will sing_) does indicate that there is a fairly strong tendency for the
+word _sing_ to represent the full, untrammeled amplitude of a specific
+concept. Yet if _sing_ were, in any adequate sense, the fixed
+expression of the unmodified concept, there should be no room for such
+vocalic aberrations as we find in _sang_ and _sung_ and _song_, nor
+should we find _sing_ specifically used to indicate present time for all
+persons but one (third person singular _sings_).
+
+The truth of the matter is that _sing_ is a kind of twilight word,
+trembling between the status of a true radical element and that of a
+modified word of the type of _singing_. Though it has no outward sign to
+indicate that it conveys more than a generalized idea, we do feel that
+there hangs about it a variable mist of added value. The formula A does
+not seem to represent it so well as A + (0). We might suspect _sing_ of
+belonging to the A + (b) type, with the reservation that the (b) had
+vanished. This report of the "feel" of the word is far from fanciful,
+for historical evidence does, in all earnest, show that _sing_ is in
+origin a number of quite distinct words, of type A + (b), that have
+pooled their separate values. The (b) of each of these has gone as a
+tangible phonetic element; its force, however, lingers on in weakened
+measure. The _sing_ of _I sing_ is the correspondent of the Anglo-Saxon
+_singe_; the infinitive _sing_, of _singan_; the imperative _sing_ of
+_sing_. Ever since the breakdown of English forms that set in about the
+time of the Norman Conquest, our language has been straining towards the
+creation of simple concept-words, unalloyed by formal connotations, but
+it has not yet succeeded in this, apart, possibly, from isolated adverbs
+and other elements of that sort. Were the typical unanalyzable word of
+the language truly a pure concept-word (type A) instead of being of a
+strangely transitional type (type A + [0]), our _sing_ and _work_ and
+_house_ and thousands of others would compare with the genuine
+radical-words of numerous other languages.[3] Such a radical-word, to
+take a random example, is the Nootka[4] word _hamot_ "bone." Our English
+correspondent is only superficially comparable. _Hamot_ means "bone" in
+a quite indefinite sense; to our English word clings the notion of
+singularity. The Nootka Indian can convey the idea of plurality, in one
+of several ways, if he so desires, but he does not need to; _hamot_ may
+do for either singular or plural, should no interest happen to attach to
+the distinction. As soon as we say "bone" (aside from its secondary
+usage to indicate material), we not merely specify the nature of the
+object but we imply, whether we will or no, that there is but one of
+these objects to be considered. And this increment of value makes all
+the difference.
+
+[Footnote 3: It is not a question of the general isolating character of
+such languages as Chinese (see Chapter VI). Radical-words may and do
+occur in languages of all varieties, many of them of a high degree of
+complexity.]
+
+[Footnote 4: Spoken by a group of Indian tribes in Vancouver Island.]
+
+We now know of four distinct formal types of word: A (Nootka _hamot_);
+A + (0) (_sing_, _bone_); A + (b) (_singing_); (A) + (b) (Latin
+_hortus_). There is but one other type that is fundamentally possible:
+A + B, the union of two (or more) independently occurring radical
+elements into a single term. Such a word is the compound _fire-engine_
+or a Sioux form equivalent to _eat-stand_ (i.e., "to eat while
+standing"). It frequently happens, however, that one of the radical
+elements becomes functionally so subordinated to the other that it takes
+on the character of a grammatical element. We may symbolize this by
+A + b, a type that may gradually, by loss of external connection between
+the subordinated element b and its independent counterpart B merge with
+the commoner type A + (b). A word like _beautiful_ is an example of
+A + b, the _-ful_ barely preserving the impress of its lineage. A word
+like _homely_, on the other hand, is clearly of the type A + (b), for no
+one but a linguistic student is aware of the connection between the
+_-ly_ and the independent word _like_.
+
+In actual use, of course, these five (or six) fundamental types may be
+indefinitely complicated in a number of ways. The (0) may have a
+multiple value; in other words, the inherent formal modification of the
+basic notion of the word may affect more than one category. In such a
+Latin word as _cor_ "heart," for instance, not only is a concrete
+concept conveyed, but there cling to the form, which is actually shorter
+than its own radical element (_cord-_), the three distinct, yet
+intertwined, formal concepts of singularity, gender classification
+(neuter), and case (subjective-objective). The complete grammatical
+formula for _cor_ is, then, A + (0) + (0) + (0), though the merely
+external, phonetic formula would be (A)--, (A) indicating the abstracted
+"stem" _cord-_, the minus sign a loss of material. The significant thing
+about such a word as _cor_ is that the three conceptual limitations are
+not merely expressed by implication as the word sinks into place in a
+sentence; they are tied up, for good and all, within the very vitals of
+the word and cannot be eliminated by any possibility of usage.
+
+Other complications result from a manifolding of parts. In a given word
+there may be several elements of the order A (we have already symbolized
+this by the type A + B), of the order (A), of the order b, and of the
+order (b). Finally, the various types may be combined among themselves
+in endless ways. A comparatively simple language like English, or even
+Latin, illustrates but a modest proportion of these theoretical
+possibilities. But if we take our examples freely from the vast
+storehouse of language, from languages exotic as well as from those that
+we are more familiar with, we shall find that there is hardly a
+possibility that is not realized in actual usage. One example will do
+for thousands, one complex type for hundreds of possible types. I select
+it from Paiute, the language of the Indians of the arid plateaus of
+southwestern Utah. The word
+_wii-to-kuchum-punku-rügani-yugwi-va-ntü-m(ü)_[5] is of unusual length
+even for its own language, but it is no psychological monster for all
+that. It means "they who are going to sit and cut up with a knife a
+black cow (_or_ bull)," or, in the order of the Indian elements,
+"knife-black-buffalo-pet-cut up-sit(plur.)-future-participle-animate
+plur." The formula for this word, in accordance with our symbolism,
+would be (F) + (E) + C + d + A + B + (g) + (h) + (i) + (0). It is the
+plural of the future participle of a compound verb "to sit and cut
+up"--A + B. The elements (g)--which denotes futurity--, (h)--a
+participial suffix--, and (i)--indicating the animate plural--are
+grammatical elements which convey nothing when detached. The formula (0)
+is intended to imply that the finished word conveys, in addition to what
+is definitely expressed, a further relational idea, that of
+subjectivity; in other words, the form can only be used as the subject
+of a sentence, not in an objective or other syntactic relation. The
+radical element A ("to cut up"), before entering into combination with
+the coördinate element B ("to sit"), is itself compounded with two
+nominal elements or element-groups--an instrumentally used stem (F)
+("knife"), which may be freely used as the radical element of noun
+forms but cannot be employed as an absolute noun in its given form, and
+an objectively used group--(E) + C + d ("black cow _or_ bull"). This
+group in turn consists of an adjectival radical element (E) ("black"),
+which cannot be independently employed (the absolute notion of "black"
+can be rendered only as the participle of a verb: "black-be-ing"), and
+the compound noun C + d ("buffalo-pet"). The radical element C properly
+means "buffalo," but the element d, properly an independently occurring
+noun meaning "horse" (originally "dog" or "domesticated animal" in
+general), is regularly used as a quasi-subordinate element indicating
+that the animal denoted by the stem to which it is affixed is owned by a
+human being. It will be observed that the whole complex
+(F) + (E) + C + d + A + B is functionally no more than a verbal base,
+corresponding to the _sing-_ of an English form like _singing_; that
+this complex remains verbal in force on the addition of the temporal
+element (g)--this (g), by the way, must not be understood as appended to
+B alone, but to the whole basic complex as a unit--; and that the
+elements (h) + (i) + (0) transform the verbal expression into a formally
+well-defined noun.
+
+[Footnote 5: In this and other examples taken from exotic languages I am
+forced by practical considerations to simplify the actual phonetic
+forms. This should not matter perceptibly, as we are concerned with form
+as such, not with phonetic content.]
+
+It is high time that we decided just what is meant by a word. Our first
+impulse, no doubt, would have been to define the word as the symbolic,
+linguistic counterpart of a single concept. We now know that such a
+definition is impossible. In truth it is impossible to define the word
+from a functional standpoint at all, for the word may be anything from
+the expression of a single concept--concrete or abstract or purely
+relational (as in _of_ or _by_ or _and_)--to the expression of a
+complete thought (as in Latin _dico_ "I say" or, with greater
+elaborateness of form, in a Nootka verb form denoting "I have been
+accustomed to eat twenty round objects [e.g., apples] while engaged in
+[doing so and so]"). In the latter case the word becomes identical with
+the sentence. The word is merely a form, a definitely molded entity that
+takes in as much or as little of the conceptual material of the whole
+thought as the genius of the language cares to allow. Thus it is that
+while the single radical elements and grammatical elements, the carriers
+of isolated concepts, are comparable as we pass from language to
+language, the finished words are not. Radical (or grammatical) element
+and sentence--these are the primary _functional_ units of speech, the
+former as an abstracted minimum, the latter as the esthetically
+satisfying embodiment of a unified thought. The actual _formal_ units of
+speech, the words, may on occasion identify themselves with either of
+the two functional units; more often they mediate between the two
+extremes, embodying one or more radical notions and also one or more
+subsidiary ones. We may put the whole matter in a nutshell by saying
+that the radical and grammatical elements of language, abstracted as
+they are from the realities of speech, respond to the conceptual world
+of science, abstracted as it is from the realities of experience, and
+that the word, the existent unit of living speech, responds to the unit
+of actually apprehended experience, of history, of art. The sentence is
+the logical counterpart of the complete thought only if it be felt as
+made up of the radical and grammatical elements that lurk in the
+recesses of its words. It is the psychological counterpart of
+experience, of art, when it is felt, as indeed it normally is, as the
+finished play of word with word. As the necessity of defining thought
+solely and exclusively for its own sake becomes more urgent, the word
+becomes increasingly irrelevant as a means. We can therefore easily
+understand why the mathematician and the symbolic logician are driven to
+discard the word and to build up their thought with the help of symbols
+which have, each of them, a rigidly unitary value.
+
+But is not the word, one may object, as much of an abstraction as the
+radical element? Is it not as arbitrarily lifted out of the living
+sentence as is the minimum conceptual element out of the word? Some
+students of language have, indeed, looked upon the word as such an
+abstraction, though with very doubtful warrant, it seems to me. It is
+true that in particular cases, especially in some of the highly
+synthetic languages of aboriginal America, it is not always easy to say
+whether a particular element of language is to be interpreted as an
+independent word or as part of a larger word. These transitional cases,
+puzzling as they may be on occasion, do not, however, materially weaken
+the case for the psychological validity of the word. Linguistic
+experience, both as expressed in standardized, written form and as
+tested in daily usage, indicates overwhelmingly that there is not, as a
+rule, the slightest difficulty in bringing the word to consciousness as
+a psychological reality. No more convincing test could be desired than
+this, that the naive Indian, quite unaccustomed to the concept of the
+written word, has nevertheless no serious difficulty in dictating a text
+to a linguistic student word by word; he tends, of course, to run his
+words together as in actual speech, but if he is called to a halt and is
+made to understand what is desired, he can readily isolate the words as
+such, repeating them as units. He regularly refuses, on the other hand,
+to isolate the radical or grammatical element, on the ground that it
+"makes no sense."[6] What, then, is the objective criterion of the word?
+The speaker and hearer feel the word, let us grant, but how shall we
+justify their feeling? If function is not the ultimate criterion of the
+word, what is?
+
+[Footnote 6: These oral experiences, which I have had time and again as
+a field student of American Indian languages, are very neatly confirmed
+by personal experiences of another sort. Twice I have taught intelligent
+young Indians to write their own languages according to the phonetic
+system which I employ. They were taught merely how to render accurately
+the sounds as such. Both had some difficulty in learning to break up a
+word into its constituent sounds, but none whatever in determining the
+words. This they both did with spontaneous and complete accuracy. In the
+hundreds of pages of manuscript Nootka text that I have obtained from
+one of these young Indians the words, whether abstract relational
+entities like English _that_ and _but_ or complex sentence-words like
+the Nootka example quoted above, are, practically without exception,
+isolated precisely as I or any other student would have isolated them.
+Such experiences with naïve speakers and recorders do more to convince
+one of the definitely plastic unity of the word than any amount of
+purely theoretical argument.]
+
+It is easier to ask the question than to answer it. The best that we can
+do is to say that the word is one of the smallest, completely satisfying
+bits of isolated "meaning" into which the sentence resolves itself. It
+cannot be cut into without a disturbance of meaning, one or the other or
+both of the severed parts remaining as a helpless waif on our hands. In
+practice this unpretentious criterion does better service than might be
+supposed. In such a sentence as _It is unthinkable_, it is simply
+impossible to group the elements into any other and smaller "words" than
+the three indicated. _Think_ or _thinkable_ might be isolated, but as
+neither _un-_ nor _-able_ nor _is-un_ yields a measurable satisfaction,
+we are compelled to leave _unthinkable_ as an integral whole, a
+miniature bit of art. Added to the "feel" of the word are frequently,
+but by no means invariably, certain external phonetic characteristics.
+Chief of these is accent. In many, perhaps in most, languages the single
+word is marked by a unifying accent, an emphasis on one of the
+syllables, to which the rest are subordinated. The particular syllable
+that is to be so distinguished is dependent, needless to say, on the
+special genius of the language. The importance of accent as a unifying
+feature of the word is obvious in such English examples as
+_unthinkable_, _characterizing_. The long Paiute word that we have
+analyzed is marked as a rigid phonetic unit by several features, chief
+of which are the accent on its second syllable (_wii'_-"knife") and the
+slurring ("unvoicing," to use the technical phonetic term) of its final
+vowel (_-mü_, animate plural). Such features as accent, cadence, and the
+treatment of consonants and vowels within the body of a word are often
+useful as aids in the external demarcation of the word, but they must by
+no means be interpreted, as is sometimes done, as themselves responsible
+for its psychological existence. They at best but strengthen a feeling
+of unity that is already present on other grounds.
+
+We have already seen that the major functional unit of speech, the
+sentence, has, like the word, a psychological as well as a merely
+logical or abstracted existence. Its definition is not difficult. It is
+the linguistic expression of a proposition. It combines a subject of
+discourse with a statement in regard to this subject. Subject and
+"predicate" may be combined in a single word, as in Latin _dico_; each
+may be expressed independently, as in the English equivalent, _I say_;
+each or either may be so qualified as to lead to complex propositions of
+many sorts. No matter how many of these qualifying elements (words or
+functional parts of words) are introduced, the sentence does not lose
+its feeling of unity so long as each and every one of them falls in
+place as contributory to the definition of either the subject of
+discourse or the core of the predicate[7]. Such a sentence as _The mayor
+of New York is going to deliver a speech of welcome in French_ is
+readily felt as a unified statement, incapable of reduction by the
+transfer of certain of its elements, in their given form, to the
+preceding or following sentences. The contributory ideas of _of New
+York_, _of welcome_, and _in French_ may be eliminated without hurting
+the idiomatic flow of the sentence. _The mayor is going to deliver a
+speech_ is a perfectly intelligible proposition. But further than this
+we cannot go in the process of reduction. We cannot say, for instance,
+_Mayor is going to deliver_.[8] The reduced sentence resolves itself
+into the subject of discourse--_the mayor_--and the predicate--_is going
+to deliver a speech_. It is customary to say that the true subject of
+such a sentence is _mayor_, the true predicate _is going_ or even _is_,
+the other elements being strictly subordinate. Such an analysis,
+however, is purely schematic and is without psychological value. It is
+much better frankly to recognize the fact that either or both of the two
+terms of the sentence-proposition may be incapable of expression in the
+form of single words. There are languages that can convey all that is
+conveyed by _The-mayor is-going-to-deliver-a-speech_ in two words, a
+subject word and a predicate word, but English is not so highly
+synthetic. The point that we are really making here is that underlying
+the finished sentence is a living sentence type, of fixed formal
+characteristics. These fixed types or actual sentence-groundworks may be
+freely overlaid by such additional matter as the speaker or writer cares
+to put on, but they are themselves as rigidly "given" by tradition as
+are the radical and grammatical elements abstracted from the finished
+word. New words may be consciously created from these fundamental
+elements on the analogy of old ones, but hardly new types of words. In
+the same way new sentences are being constantly created, but always on
+strictly traditional lines. The enlarged sentence, however, allows as a
+rule of considerable freedom in the handling of what may be called
+"unessential" parts. It is this margin of freedom which gives us the
+opportunity of individual style.
+
+[Footnote 7: "Coordinate sentences" like _I shall remain but you may go_
+may only doubtfully be considered as truly unified predications, as true
+sentences. They are sentences in a stylistic sense rather than from the
+strictly formal linguistic standpoint. The orthography _I shall remain.
+But you may go_ is as intrinsically justified as _I shall remain. Now
+you may go_. The closer connection in sentiment between the first two
+propositions has led to a conventional visual representation that must
+not deceive the analytic spirit.]
+
+[Footnote 8: Except, possibly, in a newspaper headline. Such headlines,
+however, are language only in a derived sense.]
+
+The habitual association of radical elements, grammatical elements,
+words, and sentences with concepts or groups of concepts related into
+wholes is the fact itself of language. It is important to note that
+there is in all languages a certain randomness of association. Thus, the
+idea of "hide" may be also expressed by the word "conceal," the notion
+of "three times" also by "thrice." The multiple expression of a single
+concept is universally felt as a source of linguistic strength and
+variety, not as a needless extravagance. More irksome is a random
+correspondence between idea and linguistic expression in the field of
+abstract and relational concepts, particularly when the concept is
+embodied in a grammatical element. Thus, the randomness of the
+expression of plurality in such words as _books_, _oxen_, _sheep_, and
+_geese_ is felt to be rather more, I fancy, an unavoidable and
+traditional predicament than a welcome luxuriance. It is obvious that a
+language cannot go beyond a certain point in this randomness. Many
+languages go incredibly far in this respect, it is true, but linguistic
+history shows conclusively that sooner or later the less frequently
+occurring associations are ironed out at the expense of the more vital
+ones. In other words, all languages have an inherent tendency to economy
+of expression. Were this tendency entirely inoperative, there would be
+no grammar. The fact of grammar, a universal trait of language, is
+simply a generalized expression of the feeling that analogous concepts
+and relations are most conveniently symbolized in analogous forms. Were
+a language ever completely "grammatical," it would be a perfect engine
+of conceptual expression. Unfortunately, or luckily, no language is
+tyrannically consistent. All grammars leak.
+
+Up to the present we have been assuming that the material of language
+reflects merely the world of concepts and, on what I have ventured to
+call the "pre-rational" plane, of images, which are the raw material of
+concepts. We have, in other words, been assuming that language moves
+entirely in the ideational or cognitive sphere. It is time that we
+amplified the picture. The volitional aspect of consciousness also is to
+some extent explicitly provided for in language. Nearly all languages
+have special means for the expression of commands (in the imperative
+forms of the verb, for example) and of desires, unattained or
+unattainable (_Would he might come!_ or _Would he were here!_) The
+emotions, on the whole, seem to be given a less adequate outlet.
+Emotion, indeed, is proverbially inclined to speechlessness. Most, if
+not all, the interjections are to be put to the credit of emotional
+expression, also, it may be, a number of linguistic elements expressing
+certain modalities, such as dubitative or potential forms, which may be
+interpreted as reflecting the emotional states of hesitation or
+doubt--attenuated fear. On the whole, it must be admitted that ideation
+reigns supreme in language, that volition and emotion come in as
+distinctly secondary factors. This, after all, is perfectly
+intelligible. The world of image and concept, the endless and
+ever-shifting picture of objective reality, is the unavoidable
+subject-matter of human communication, for it is only, or mainly, in
+terms of this world that effective action is possible. Desire, purpose,
+emotion are the personal color of the objective world; they are applied
+privately by the individual soul and are of relatively little importance
+to the neighboring one. All this does not mean that volition and emotion
+are not expressed. They are, strictly speaking, never absent from normal
+speech, but their expression is not of a truly linguistic nature. The
+nuances of emphasis, tone, and phrasing, the varying speed and
+continuity of utterance, the accompanying bodily movements, all these
+express something of the inner life of impulse and feeling, but as these
+means of expression are, at last analysis, but modified forms of the
+instinctive utterance that man shares with the lower animals, they
+cannot be considered as forming part of the essential cultural
+conception of language, however much they may be inseparable from its
+actual life. And this instinctive expression of volition and emotion is,
+for the most part, sufficient, often more than sufficient, for the
+purposes of communication.
+
+There are, it is true, certain writers on the psychology of language[9]
+who deny its prevailingly cognitive character but attempt, on the
+contrary, to demonstrate the origin of most linguistic elements within
+the domain of feeling. I confess that I am utterly unable to follow
+them. What there is of truth in their contentions may be summed up, it
+seems to me, by saying that most words, like practically all elements of
+consciousness, have an associated feeling-tone, a mild, yet none the
+less real and at times insidiously powerful, derivative of pleasure or
+pain. This feeling-tone, however, is not as a rule an inherent value in
+the word itself; it is rather a sentimental growth on the word's true
+body, on its conceptual kernel. Not only may the feeling-tone change
+from one age to another (this, of course, is true of the conceptual
+content as well), but it varies remarkably from individual to individual
+according to the personal associations of each, varies, indeed, from
+time to time in a single individual's consciousness as his experiences
+mold him and his moods change. To be sure, there are socially accepted
+feeling-tones, or ranges of feeling-tone, for many words over and above
+the force of individual association, but they are exceedingly variable
+and elusive things at best. They rarely have the rigidity of the
+central, primary fact. We all grant, for instance, that _storm_,
+_tempest_, and _hurricane_, quite aside from their slight differences of
+actual meaning, have distinct feeling-tones, tones that are felt by all
+sensitive speakers and readers of English in a roughly equivalent
+fashion. _Storm_, we feel, is a more general and a decidedly less
+"magnificent" word than the other two; _tempest_ is not only associated
+with the sea but is likely, in the minds of many, to have obtained a
+softened glamour from a specific association with Shakespeare's great
+play; _hurricane_ has a greater forthrightness, a directer ruthlessness
+than its synonyms. Yet the individual's feeling-tones for these words
+are likely to vary enormously. To some _tempest_ and _hurricane_ may
+seem "soft," literary words, the simpler _storm_ having a fresh, rugged
+value which the others do not possess (think of _storm and stress_). If
+we have browsed much in our childhood days in books of the Spanish Main,
+_hurricane_ is likely to have a pleasurably bracing tone; if we have had
+the misfortune to be caught in one, we are not unlikely to feel the word
+as cold, cheerless, sinister.
+
+[Footnote 9: E.g., the brilliant Dutch writer, Jac van Ginneken.]
+
+The feeling-tones of words are of no use, strictly speaking, to science;
+the philosopher, if he desires to arrive at truth rather than merely to
+persuade, finds them his most insidious enemies. But man is rarely
+engaged in pure science, in solid thinking. Generally his mental
+activities are bathed in a warm current of feeling and he seizes upon
+the feeling-tones of words as gentle aids to the desired excitation.
+They are naturally of great value to the literary artist. It is
+interesting to note, however, that even to the artist they are a danger.
+A word whose customary feeling-tone is too unquestioningly accepted
+becomes a plushy bit of furniture, a _cliché_. Every now and then the
+artist has to fight the feeling-tone, to get the word to mean what it
+nakedly and conceptually should mean, depending for the effect of
+feeling on the creative power of an individual juxtaposition of concepts
+or images.
+
+
+
+
+III
+
+THE SOUNDS OF LANGUAGE
+
+
+We have seen that the mere phonetic framework of speech does not
+constitute the inner fact of language and that the single sound of
+articulated speech is not, as such, a linguistic element at all. For all
+that, speech is so inevitably bound up with sounds and their
+articulation that we can hardly avoid giving the subject of phonetics
+some general consideration. Experience has shown that neither the purely
+formal aspects of a language nor the course of its history can be fully
+understood without reference to the sounds in which this form and this
+history are embodied. A detailed survey of phonetics would be both too
+technical for the general reader and too loosely related to our main
+theme to warrant the needed space, but we can well afford to consider a
+few outstanding facts and ideas connected with the sounds of language.
+
+The feeling that the average speaker has of his language is that it is
+built up, acoustically speaking, of a comparatively small number of
+distinct sounds, each of which is rather accurately provided for in the
+current alphabet by one letter or, in a few cases, by two or more
+alternative letters. As for the languages of foreigners, he generally
+feels that, aside from a few striking differences that cannot escape
+even the uncritical ear, the sounds they use are the same as those he is
+familiar with but that there is a mysterious "accent" to these foreign
+languages, a certain unanalyzed phonetic character, apart from the
+sounds as such, that gives them their air of strangeness. This naïve
+feeling is largely illusory on both scores. Phonetic analysis convinces
+one that the number of clearly distinguishable sounds and nuances of
+sounds that are habitually employed by the speakers of a language is far
+greater than they themselves recognize. Probably not one English speaker
+out of a hundred has the remotest idea that the _t_ of a word like
+_sting_ is not at all the same sound as the _t_ of _teem_, the latter
+_t_ having a fullness of "breath release" that is inhibited in the
+former case by the preceding _s_; that the _ea_ of _meat_ is of
+perceptibly shorter duration than the _ea_ of _mead_; or that the final
+_s_ of a word like _heads_ is not the full, buzzing _z_ sound of the _s_
+in such a word as _please_. It is the frequent failure of foreigners,
+who have acquired a practical mastery of English and who have eliminated
+all the cruder phonetic shortcomings of their less careful brethren, to
+observe such minor distinctions that helps to give their English
+pronunciation the curiously elusive "accent" that we all vaguely feel.
+We do not diagnose the "accent" as the total acoustic effect produced by
+a series of slight but specific phonetic errors for the very good reason
+that we have never made clear to ourselves our own phonetic stock in
+trade. If two languages taken at random, say English and Russian, are
+compared as to their phonetic systems, we are more apt than not to find
+that very few of the phonetic elements of the one find an exact analogue
+in the other. Thus, the _t_ of a Russian word like _tam_ "there" is
+neither the English _t_ of _sting_ nor the English _t_ of _teem_. It
+differs from both in its "dental" articulation, in other words, in being
+produced by contact of the tip of the tongue with the upper teeth, not,
+as in English, by contact of the tongue back of the tip with the gum
+ridge above the teeth; moreover, it differs from the _t_ of _teem_ also
+in the absence of a marked "breath release" before the following vowel
+is attached, so that its acoustic effect is of a more precise,
+"metallic" nature than in English. Again, the English _l_ is unknown in
+Russian, which possesses, on the other hand, two distinct _l_-sounds
+that the normal English speaker would find it difficult exactly to
+reproduce--a "hollow," guttural-like _l_ and a "soft," palatalized
+_l_-sound that is only very approximately rendered, in English terms, as
+_ly_. Even so simple and, one would imagine, so invariable a sound as
+_m_ differs in the two languages. In a Russian word like _most_ "bridge"
+the _m_ is not the same as the _m_ of the English word _most_; the lips
+are more fully rounded during its articulation, so that it makes a
+heavier, more resonant impression on the ear. The vowels, needless to
+say, differ completely in English and Russian, hardly any two of them
+being quite the same.
+
+I have gone into these illustrative details, which are of little or no
+specific interest for us, merely in order to provide something of an
+experimental basis to convince ourselves of the tremendous variability
+of speech sounds. Yet a complete inventory of the acoustic resources of
+all the European languages, the languages nearer home, while
+unexpectedly large, would still fall far short of conveying a just idea
+of the true range of human articulation. In many of the languages of
+Asia, Africa, and aboriginal America there are whole classes of sounds
+that most of us have no knowledge of. They are not necessarily more
+difficult of enunciation than sounds more familiar to our ears; they
+merely involve such muscular adjustments of the organs of speech as we
+have never habituated ourselves to. It may be safely said that the total
+number of possible sounds is greatly in excess of those actually in
+use. Indeed, an experienced phonetician should have no difficulty in
+inventing sounds that are unknown to objective investigation. One reason
+why we find it difficult to believe that the range of possible speech
+sounds is indefinitely large is our habit of conceiving the sound as a
+simple, unanalyzable impression instead of as the resultant of a number
+of distinct muscular adjustments that take place simultaneously. A
+slight change in any one of these adjustments gives us a new sound which
+is akin to the old one, because of the continuance of the other
+adjustments, but which is acoustically distinct from it, so sensitive
+has the human ear become to the nuanced play of the vocal mechanism.
+Another reason for our lack of phonetic imagination is the fact that,
+while our ear is delicately responsive to the sounds of speech, the
+muscles of our speech organs have early in life become exclusively
+accustomed to the particular adjustments and systems of adjustment that
+are required to produce the traditional sounds of the language. All or
+nearly all other adjustments have become permanently inhibited, whether
+through inexperience or through gradual elimination. Of course the power
+to produce these inhibited adjustments is not entirely lost, but the
+extreme difficulty we experience in learning the new sounds of foreign
+languages is sufficient evidence of the strange rigidity that has set in
+for most people in the voluntary control of the speech organs. The point
+may be brought home by contrasting the comparative lack of freedom of
+voluntary speech movements with the all but perfect freedom of voluntary
+gesture.[10] Our rigidity in articulation is the price we have had to
+pay for easy mastery of a highly necessary symbolism. One cannot be both
+splendidly free in the random choice of movements and selective with
+deadly certainty.[11]
+
+[Footnote 10: Observe the "voluntary." When we shout or grunt or
+otherwise allow our voices to take care of themselves, as we are likely
+to do when alone in the country on a fine spring day, we are no longer
+fixing vocal adjustments by voluntary control. Under these circumstances
+we are almost certain to hit on speech sounds that we could never learn
+to control in actual speech.]
+
+[Footnote 11: If speech, in its acoustic and articulatory aspect, is
+indeed a rigid system, how comes it, one may plausibly object, that no
+two people speak alike? The answer is simple. All that part of speech
+which falls out of the rigid articulatory framework is not speech in
+idea, but is merely a superadded, more or less instinctively determined
+vocal complication inseparable from speech in practice. All the
+individual color of speech--personal emphasis, speed, personal cadence,
+personal pitch--is a non-linguistic fact, just as the incidental
+expression of desire and emotion are, for the most part, alien to
+linguistic expression. Speech, like all elements of culture, demands
+conceptual selection, inhibition of the randomness of instinctive
+behavior. That its "idea" is never realized as such in practice, its
+carriers being instinctively animated organisms, is of course true of
+each and every aspect of culture.]
+
+There are, then, an indefinitely large number of articulated sounds
+available for the mechanics of speech; any given language makes use of
+an explicit, rigidly economical selection of these rich resources; and
+each of the many possible sounds of speech is conditioned by a number of
+independent muscular adjustments that work together simultaneously
+towards its production. A full account of the activity of each of the
+organs of speech--in so far as its activity has a bearing on
+language--is impossible here, nor can we concern ourselves in a
+systematic way with the classification of sounds on the basis of their
+mechanics.[12] A few bold outlines are all that we can attempt. The
+organs of speech are the lungs and bronchial tubes; the throat,
+particularly that part of it which is known as the larynx or, in popular
+parlance, the "Adam's apple"; the nose; the uvula, which is the soft,
+pointed, and easily movable organ that depends from the rear of the
+palate; the palate, which is divided into a posterior, movable "soft
+palate" or velum and a "hard palate"; the tongue; the teeth; and the
+lips. The palate, lower palate, tongue, teeth, and lips may be looked
+upon as a combined resonance chamber, whose constantly varying shape,
+chiefly due to the extreme mobility of the tongue, is the main factor in
+giving the outgoing breath its precise quality[13] of sound.
+
+[Footnote 12: Purely acoustic classifications, such as more easily
+suggest themselves to a first attempt at analysis, are now in less favor
+among students of phonetics than organic classifications. The latter
+have the advantage of being more objective. Moreover, the acoustic
+quality of a sound is dependent on the articulation, even though in
+linguistic consciousness this quality is the primary, not the secondary,
+fact.]
+
+[Footnote 13: By "quality" is here meant the inherent nature and
+resonance of the sound as such. The general "quality" of the
+individual's voice is another matter altogether. This is chiefly
+determined by the individual anatomical characteristics of the larynx
+and is of no linguistic interest whatever.]
+
+The lungs and bronchial tubes are organs of speech only in so far as
+they supply and conduct the current of outgoing air without which
+audible articulation is impossible. They are not responsible for any
+specific sound or acoustic feature of sounds except, possibly, accent or
+stress. It may be that differences of stress are due to slight
+differences in the contracting force of the lung muscles, but even this
+influence of the lungs is denied by some students, who explain the
+fluctuations of stress that do so much to color speech by reference to
+the more delicate activity of the glottal cords. These glottal cords are
+two small, nearly horizontal, and highly sensitive membranes within the
+larynx, which consists, for the most part, of two large and several
+smaller cartilages and of a number of small muscles that control the
+action of the cords.
+
+The cords, which are attached to the cartilages, are to the human speech
+organs what the two vibrating reeds are to a clarinet or the strings to
+a violin. They are capable of at least three distinct types of movement,
+each of which is of the greatest importance for speech. They may be
+drawn towards or away from each other, they may vibrate like reeds or
+strings, and they may become lax or tense in the direction of their
+length. The last class of these movements allows the cords to vibrate at
+different "lengths" or degrees of tenseness and is responsible for the
+variations in pitch which are present not only in song but in the more
+elusive modulations of ordinary speech. The two other types of glottal
+action determine the nature of the voice, "voice" being a convenient
+term for breath as utilized in speech. If the cords are well apart,
+allowing the breath to escape in unmodified form, we have the condition
+technically known as "voicelessness." All sounds produced under these
+circumstances are "voiceless" sounds. Such are the simple, unmodified
+breath as it passes into the mouth, which is, at least approximately,
+the same as the sound that we write _h_, also a large number of special
+articulations in the mouth chamber, like _p_ and _s_. On the other hand,
+the glottal cords may be brought tight together, without vibrating. When
+this happens, the current of breath is checked for the time being. The
+slight choke or "arrested cough" that is thus made audible is not
+recognized in English as a definite sound but occurs nevertheless not
+infrequently.[14] This momentary check, technically known as a "glottal
+stop," is an integral element of speech in many languages, as Danish,
+Lettish, certain Chinese dialects, and nearly all American Indian
+languages. Between the two extremes of voicelessness, that of
+completely open breath and that of checked breath, lies the position of
+true voice. In this position the cords are close together, but not so
+tightly as to prevent the air from streaming through; the cords are set
+vibrating and a musical tone of varying pitch results. A tone so
+produced is known as a "voiced sound." It may have an indefinite number
+of qualities according to the precise position of the upper organs of
+speech. Our vowels, nasals (such as _m_ and _n_), and such sounds as
+_b_, _z_, and _l_ are all voiced sounds. The most convenient test of a
+voiced sound is the possibility of pronouncing it on any given pitch, in
+other words, of singing on it.[15] The voiced sounds are the most
+clearly audible elements of speech. As such they are the carriers of
+practically all significant differences in stress, pitch, and
+syllabification. The voiceless sounds are articulated noises that break
+up the stream of voice with fleeting moments of silence. Acoustically
+intermediate between the freely unvoiced and the voiced sounds are a
+number of other characteristic types of voicing, such as murmuring and
+whisper.[16] These and still other types of voice are relatively
+unimportant in English and most other European languages, but there are
+languages in which they rise to some prominence in the normal flow of
+speech.
+
+[Footnote 14: As at the end of the snappily pronounced _no!_ (sometimes
+written _nope!_) or in the over-carefully pronounced _at all_, where one
+may hear a slight check between the _t_ and the _a_.]
+
+[Footnote 15: "Singing" is here used in a wide sense. One cannot sing
+continuously on such a sound as _b_ or _d_, but one may easily outline a
+tune on a series of _b_'s or _d_'s in the manner of the plucked
+"pizzicato" on stringed instruments. A series of tones executed on
+continuant consonants, like _m_, _z_, or _l_, gives the effect of
+humming, droning, or buzzing. The sound of "humming," indeed, is nothing
+but a continuous voiced nasal, held on one pitch or varying in pitch, as
+desired.]
+
+[Footnote 16: The whisper of ordinary speech is a combination of
+unvoiced sounds and "whispered" sounds, as the term is understood in
+phonetics.]
+
+The nose is not an active organ of speech, but it is highly important as
+a resonance chamber. It may be disconnected from the mouth, which is
+the other great resonance chamber, by the lifting of the movable part of
+the soft palate so as to shut off the passage of the breath into the
+nasal cavity; or, if the soft palate is allowed to hang down freely and
+unobstructively, so that the breath passes into both the nose and the
+mouth, these make a combined resonance chamber. Such sounds as _b_ and
+_a_ (as in _father_) are voiced "oral" sounds, that is, the voiced
+breath does not receive a nasal resonance. As soon as the soft palate is
+lowered, however, and the nose added as a participating resonance
+chamber, the sounds _b_ and _a_ take on a peculiar "nasal" quality and
+become, respectively, _m_ and the nasalized vowel written _an_ in French
+(e.g., _sang_, _tant_). The only English sounds[17] that normally
+receive a nasal resonance are _m_, _n_, and the _ng_ sound of _sing_.
+Practically all sounds, however, may be nasalized, not only the
+vowels--nasalized vowels are common in all parts of the world--but such
+sounds as _l_ or _z_. Voiceless nasals are perfectly possible. They
+occur, for instance, in Welsh and in quite a number of American Indian
+languages.
+
+[Footnote 17: Aside from the involuntary nasalizing of all voiced sounds
+in the speech of those that talk with a "nasal twang."]
+
+The organs that make up the oral resonance chamber may articulate in two
+ways. The breath, voiced or unvoiced, nasalized or unnasalized, may be
+allowed to pass through the mouth without being checked or impeded at
+any point; or it may be either momentarily checked or allowed to stream
+through a greatly narrowed passage with resulting air friction. There
+are also transitions between the two latter types of articulation. The
+unimpeded breath takes on a particular color or quality in accordance
+with the varying shape of the oral resonance chamber. This shape is
+chiefly determined by the position of the movable parts--the tongue and
+the lips. As the tongue is raised or lowered, retracted or brought
+forward, held tense or lax, and as the lips are pursed ("rounded") in
+varying degree or allowed to keep their position of rest, a large number
+of distinct qualities result. These oral qualities are the vowels. In
+theory their number is infinite, in practice the ear can differentiate
+only a limited, yet a surprisingly large, number of resonance positions.
+Vowels, whether nasalized or not, are normally voiced sounds; in not a
+few languages, however, "voiceless vowels"[18] also occur.
+
+[Footnote 18: These may be also defined as free unvoiced breath with
+varying vocalic timbres. In the long Paiute word quoted on page 31 the
+first _u_ and the final _ü_ are pronounced without voice.]
