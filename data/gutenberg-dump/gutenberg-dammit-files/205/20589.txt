@@ -1,0 +1,1431 @@
+DIE DICHTUNG BD. XLII
+  EDGAR ALLAN POE VON
+  HANNS HEINZ EWERS
+
+
+
+
+  +------------------------------------------------------+
+  |                    +DIE DICHTUNG+                    |
+  |                                                      |
+  |            EINE SAMMLUNG VON MONOGRAPHIEEN           |
+  |             HERAUSGEGEBEN VON PAUL REMER             |
+  |           BUCHSCHMUCK VON HEINRICH VOGELER           |
+  +------------------------------------------------------+
+  | Band      I. Henrik Ibsen      von Paul Ernst        |
+  | Band     II. Anzengruber       von J. J. David       |
+  | Band    III. Victor Hugo     von H. v. Hofmannsthal  |
+  | Band     IV. Liliencron        von Paul Remer        |
+  | Band      V. Leo Tolstoj       von Julius Hart       |
+  | Band     VI. Hölderlin         von Hans Bethge       |
+  | Band    VII. Boccaccio         von Hermann Hesse     |
+  | Band   VIII. Cervantes         von Paul Scheerbart   |
+  | Band     IX. Gottfried Keller  von Ricarda Huch      |
+  | Band      X. Mörike            von Gustav Kühl       |
+  | Band     XI. Droste-Hülshoff   von Wilh. v. Scholz   |
+  | Band    XII. E. T. A. Hoffmann von Rich. Schaukal    |
+  | Band   XIII. Franz von Assisi  von Hermann Hesse     |
+  | Band    XIV. Peter Hille       von Heinrich Hart     |
+  | Band     XV. d’Annunzio     von Alberta v. Puttkamer |
+  | Band    XVI. Lenau             von Leo Greiner       |
+  | Band   XVII. Novalis           von Willy Pastor      |
+  | Band  XVIII. Walt Whitman      von Johannes Schlaf   |
+  | Band    XIX. Ebner-Eschenbach  von Gabr. Reuter      |
+  | Band     XX. Kleist            von Wilh. Hegeler     |
+  | Band    XXI. Wilhelm Busch     von Rich. Schaukal    |
+  | Band   XXII. Homer             von Willy Pastor      |
+  | Band  XXIII. C. Ferd. Meyer    von Wilh. Holzamer    |
+  | Band   XXIV. Theod. Fontane    von Franz Servaes     |
+  | Band    XXV. Grabbe            von Otto Krack        |
+  | Band   XXVI. Schiller          von Fritz Lienhard    |
+  | Band  XXVII. Rich. Wagner      von Hans v. Wolzogen  |
+  | Band XXVIII. Hebbel            von Wilhelm v. Scholz |
+  | Band   XXIX. J. P. Jacobsen    von Hans Bethge       |
+  | Band    XXX. Paul Verlaine     von Stefan Zweig      |
+  | Band   XXXI. Bismarck          von Max Bewer         |
+  | Band  XXXII. Klaus Groth       von Timm Kröger       |
+  | Band XXXIII. Maeterlinck       von Anselma Heine     |
+  | Band  XXXIV. Oscar Wilde       von Hedw. Lachmann    |
+  | Band   XXXV. Lessing           von Otto Ernst        |
+  | Band  XXXVI. Fritz Reuter      von Marx Möller       |
+  | Bd.  XXXVII. Sophokles         von Paul Ernst        |
+  | Bd. XXXVIII. Verhaeren         von Johannes Schlaf   |
+  | Band  XXXIX. Shakespeare       von Franz Servaes     |
+  | Band     XL. Heinrich Heine    von Wilh. Holzamer    |
+  | Band    XLI. Eichendorff       von Gustav Falke      |
+  | Band   XLII. Edgar Allan Poe   von H. Heinz Ewers    |
+  |                                                      |
+  |              In Vorbereitung:                        |
+  | Luther                   von Adolf Bartels           |
+  | Gerhart Hauptmann        von Hermann Stehr           |
+  | Li-tai-pe                von Arno Holz               |
+  | Euripides                von Hermann Bahr            |
+  | Richard Dehmel           von Gustav Kühl             |
+  | Theodor Storm            von Paul Remer              |
+  |              und andere                              |
+  +------------------------------------------------------+
+  |       _Jeder Band elegant kartoniert M. 1.50_        |
+  |       _Jeder Band in echt Leder geb. M. 2.50_        |
+  +------------------------------------------------------+
+
+
+  FÜR BÜCHERLIEBHABER
+  Wurden die ersten zwanzig Exemplare
+  dieses Buches auf echtes Büttenpapier
+  gedruckt und handschriftlich numeriert.
+  Der Preis dieser in Original-Collin-Leder
+  gebundenen Luxusausgabe beträgt 10 Mark.
+  Sie ist durch alle Buchhandlungen zu beziehen
+
+
+  ALLE RECHTE VORBEHALTEN
+
+
+
+
+  [Abbildung: A EDGAR POE]
+
+
+
+
+  EDGAR ALLAN POE
+
+  von
+
+  HANNS HEINZ EWERS
+
+  [Verzierung]
+
+  Verlegt bei Schuster & Loeffler
+    Berlin und Leipzig
+
+
+
+
+GUSTAV MEYRINK,
+
+dem _Rauschkünstler_, dem _Träumer, der an Träume glaubt
+als an das einzig Wirkliche_ -- wie es Poe tat, wie es der
+tut, der dies schrieb -- sei dies Büchlein gewidmet.
+
+  +In der Alhambra+
+    April 1905    HANNS HEINZ EWERS.
+
+
+
+
+  [Verzierung]
+
+Leicht schreitet mein Fuss über die grauen Steine, den alten Weg, den
+ich so oft gegangen, hinauf zu der Alhambra heiligem Haine. Das Tor der
+Granaten öffnet sich weit meiner Sehnsucht, dahinter bin ich der Zeit
+entflohen -- -- so leicht wandelt man in der Träume Land. Wo die Ulmen
+rauschen, wo die Springquellen plaudern, wo aus Lorbeerbüschen hundert
+Nachtigallen singen, da mag ich wohl an meinen Dichter denken.
+
+
+
+Man sollte es nicht tun. Wirklich nicht.
+
+Man sollte nicht hingehen und irgendein Buch lesen über den Künstler,
+den man liebt. Fast immer wird man enttäuscht sein -- -- wie kann ein
+Pfaffe über Gott sprechen? So vorsichtig soll man damit sein, so sehr
+vorsichtig.
+
+Du solltest es _so_ machen:
+
+Du liebst Firdusi? -- Goethe schrieb über ihn; +den+ kennst du nicht?
+Nun gut: lies erst alles, was Goethe schrieb, ehe du das liest, was er
+über den Perser sagt. -- Und dann erst, +wenn du den genau kennst+, der
+über deinen Liebling schrieb, +dann+ erst entscheide dich, ob du das
+lesen willst, was er über ihn sagt! -- So wirst du keine Enttäuschung
+erleben.
+
+Lies nie, was Hinz und Kunz über den Künstler schreiben, den du liebst.
+Und wenn Hinz und Kunz die allergrössten Sterne sind, und wenn dein
+Liebling ein ganz kleiner Nebelfleck ist -- -- _lies es nicht!_ Lies es
+nicht eher, bis du Hinz und Kunz genau kennst, bis du weisst: sie haben
+ein Recht, über +deinen Künstler+ zu sprechen.
+
+Ich habe es nicht so gemacht. Ich habe irgendwoher ein paar
+dickflüssige Tropfen im Blute: unerträgliche deutsche Gründlichkeit.
+So eine Art Pflichtgefühl. Ich dachte: eh du über den Dichter schreibst,
+den du liebst, lies das, was andere vor dir schrieben. Ich dachte:
+„Vielleicht -- --“
+
+Ich las also viel über Edgar Allan -- Nun bin ich so enttäuscht, so sehr
+enttäuscht. Da war nur einer, dessen Geist ihn fassen konnte.
+
+War nur +Baudelaire+ -- --
+
+Baudelaire, der aus dem Haschich eine Kunst schuf. -- Wie hätte _er_ ihn
+auch nicht fassen sollen, ihn, der aus Alkohol und Laudanum Kunstwerte
+formte?!
+
+
+
+-- Jetzt muss ich das alles vergessen, was die anderen sagten. Diesen
+grässlichen Griswold muss ich vergessen, dessen ganze Poebiographie
+nichts anderes ist, als ein giftiges Ausspucken: „_Er soff, er soff_,
+pfui doch, _er soff!_“ -- -- Und den noch grässlicheren Ingram muss ich
+vergessen, diesen Narren, der meinen Künstler +ehrenrettete+, indem er
+immer wieder stammelte: „_Er trank gar nicht, wirklich, er trank gar
+nicht!_“
+
+Rasch, ehe ich sie vergesse, will ich die Daten niederschreiben, die ich
+von ihnen habe:
+
+„_Edgar Allan Poe, geb. am 19. Januar 1809 in Boston. Irische Familie,
+langer Stammbaum, normannisches, keltisches, angelsächsisches,
+italienisches Blut. 1816 nach England mit seinen Pflegeeltern, ein paar
+Jahre in einer Boarding-School in Stoke-Newington. -- 1822 zurück nach
+Amerika, 1826 Student in Richmond, dann in Charlottesville. 1827 Reise
+nach Europa mit unbekannten Abenteuern. 1830 Offizierskadett in
+Westpoint. 1834 Leiter des Southern Literary Messenger in Richmond.
+1836 verheiratet mit seiner Cousine Virginia Clemm. Er schrieb. --[1] Er
+lebte abwechselnd in New-Jork, Philadelphia, Richmond, Fordham. Es ging
+ihm sehr schlecht. +,Er soff‘+ (sagt Griswold). +,Er trank gar nicht‘+
+(sagt Ingram). Er starb am 7. Oktober im Armenkrankenhaus zu Baltimore,
+vierzig Jahre alt._“
+
+So, das wären diese allergleichgültigsten Daten. Nun kann ich auch das
+vergessen.
+
+
+    -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- --
+
+-- Wie schwer das doch ist! -- Ganz langsam gehe ich durch die
+Ulmenallee, hinauf zu dem Königsschloss. Links biege ich ein und
+durchschreite die mächtige Turmpforte des Gesetzes. Ich freue mich
+über die Hand da oben, die den bösen Blick bannt; ich denke: da werden
+meine Pfaffen draussen bleiben. Nun bin ich oben -- -- allein in den
+vertrauten Räumen.
+
+Ich weiss wohl, wohin ich will. Rasch durch den Myrtenhof, durch den
+Saal der Mocaraben in den Hof der zwölf Löwen. Links hinein in das
+Zimmer der beiden Schwestern und durch das der Ajimeces. Nun bin ich da,
+im Mirador de Daraxa, wo Boabdils Mutter ‘Aicha wohnte. Ich sitze am
+Fenster, blicke hinaus auf die alten Zypressen -- --
+
+Wie schwer es doch ist, zu vergessen! Da gehen meine Pfaffen im Garten
+spazieren. Zwei englische Heuchler, runder Hut, kurze Pfeife, schwarzer
+Rock. Den Bädeker in der Hand.
+
+„_Er soff!_“ zischt der eine.
+
+„_O nein, er trank wirklich nicht!_“ fistelt der andere.
+
+Ich möchte sie mit den Köpfen zusammenstossen! Ich möchte ihnen
+zuschreien: „Fort, Ratten, fort! Hier sitzt einer, der träumt von dem
+Künstler, den er liebt! Er sang in eurer Sprache -- -- und ihr Stöcke
+wisst nichts von ihm!“ --
+
+Sie gehen ja schon, gewiss doch! Ich bin wieder allein -- --
+
+
+
+Er soff -- -- er soff nicht! -- So streiten Engländer über ihre Dichter!
+Sie lassen Milton verhungern, sie stehlen Shakespeare sein ganzes
+Lebenswerk, sie wühlen mit krummen Fingern in Byrons und Shelleys
+Familiengeschichten, sie begeifern Rossetti und Swinburne, stecken Wilde
+ins Zuchthaus und zeigen mit den Fingern auf Charles Lamb und Poe -- --
+weil sie tranken!
+
+Ich bin doch froh, dass ich ein Deutscher bin! Deutschlands grosse
+Männer durften -- -- unsittlich sein. +Unsittlich+ -- -- das heisst:
+nicht eben _genau so_ sittlich, wie die guten Bürger und Pfaffen. Der
+Deutsche sagt: „Goethe war unser grosser Dichter“. -- Er weiss, dass er
+nicht so sehr sittlich war, aber er nimmt ihm’s nicht weiter übel. --
+Der Engländer sagt: „Byron war unsittlich, +darum war er+ _kein_ grosser
++Dichter+“. Nur in England konnte des widerlichen Moralpfaffen Kingsley
+Wort über Heine ein geflügeltes werden: „Sprecht nicht von ihm -- -- --
+_er war ein schlechter Mensch!_“ --
+
+Wenn es aber gar nicht mehr anders geht, wenn alle Völker ringsum die
+„unsittlichen“ englischen Dichter anerkennen und lieben, wenn der
+Engländer endlich +gezwungen wird, zu sprechen+ -- -- -- dann +lügt+
+er. Er gibt seine Heuchelei nicht auf, er sagt dann: nach neueren
+Untersuchungen war der Mann gar nicht unsittlich; er war vielmehr
+hochsittlich, ganz rein und ganz unschuldig! So haben die englischen
+Lügner Byrons „_Ehre gerettet_“, so wird es nicht lange mehr dauern, bis
+sie auch aus Saulus Wilde einen Paulus machen! -- So ist für Poe den
+Griswolds ein Ingram gefolgt: „Ach nein, er trank wirklich nicht!“
+
++Die Engländer dürfen nun Edgar Allan Poe anerkennen, nachdem ihm
+amtlich bescheinigt ist, dass er ein sittlicher Mensch war!+
+
+Wir aber, die wir nicht den geringsten Anspruch auf bürgerliche und
+pfäffische Sittenreinheit machen, wir lieben ihn, wenn er auch trank. Ja
+noch mehr, wir lieben ihn, _weil_ er trank, denn wir wissen, dass eben
+aus dem Gifte, das seinen Leib zerstörte, reine Blüten entsprossten,
+deren Kunstwerte unvergänglich sind.
+
+Wie Kunstwerte entstanden, das geht den Laien nichts an. Das hat der
+Künstler mit sich allein abzumachen, niemand darf da ein Wort mitreden,
+oder gar ein abfällig Urteil fällen. Nur die wenigen, denen er einen
+Einblick gewährt in sein Schaffen, +weil sie ihn lieben+, nur die dürfen
+schweigend zuschauen, dürfen erzählen -- --
+
+Wilde erzählt das Märchen von der wunderschönen Rose, die aus dem
+Herzblut der sterbenden Nachtigall erwuchs. Der Student, der sie brach,
+schaute und staunte, nie hatte er eine solch wunderrote Blutrose
+gesehen. Aber er +wusste nicht+, _wie sie entstand_.
+
+  [Abbildung: EDGAR ALLAN POE
+  Nach E. Manet]
+
+Wir bewundern Odontoglossum grande, die prächtigste Orchidee -- -- --
+ist sie weniger schön, weil sie sich von Insekten ernährt, die sie in
+der schmählichsten Weise langsam zu Tode quält? Wir freuen uns im Parke
+von Cintra über die herrlichen Lilien, wir staunen: so gross, so weiss
+haben wir sie nie gesehen! Was geht es uns an, dass sie all ihre
+aussergewöhnliche Pracht dem Umstand verdanken, dass der kluge Gärtner
+ihren Nährboden nicht mit dem „natürlichen“ Wasser, sondern mit Guano,
+mit ausgesuchtem Kunstdünger behandelte?!
+
+-- Es wird einmal eine Zeit kommen, wo man mitleidig lächeln wird über
+die breiten Landstrassen unserer rauschlosen Kunst, die nur spärlich
+hier und da durch des Alkohols trübe Laternen erhellt werden. Eine Zeit,
+für die die Begriffe +Rausch+ und +Kunst+ ein untrennbares Ganzes sind,
+die nur innerhalb der grossen Rauschkunst Unterschiede kennt. Dann erst
+wird man den _Pfadfindern_ die hohe Stelle geben, die ihnen gebührt, den
+Hoffmann, Baudelaire, Poe -- -- den Künstlern, die zuerst _bewusst_ mit
+dem Rausche arbeiteten.
+
+
+    -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- --
+
+Seid doch ehrlich! Gibt es einen Künstler, der des Rausches ganz
+entbehren kann? Nehmen sie nicht alle ihr kleines Giftchen: Tee, Tabak,
+Kaffee, Bier oder was es sei? Muss nicht der Geist „vergiftet“ werden,
+um Kunstwerte zu schaffen, sei es nun, dass er das Gift durch den Körper
+empfängt, sei es -- -- -- auf andere Weise?
+
+_Denn es gibt manche andere Weisen_ -- --
+
+Die Kunst ist der Natur entgegengesetzt. Ein Mensch, der physisch
+und psychisch rein abstinent lebt, dessen Voreltern auch durch lange
+Generationen hindurch ebenso abstinent lebten, so dass sein Blut nicht,
+wie bei uns allen, längst „vergiftet“ ist, kann +nie+ ein Künstler
+werden -- wenn nicht eines Gottes Gunst seinem Leben andere Sensationen
+schenkt, die Ekstasen erwecken mögen. Aber auch das sind _Vergiftungen_
+des Geistes! Natur und Kunst sind die schlimmsten Feinde: wo die eine
+herrscht, ist die andere unmöglich.
+
+Was ist -- -- im engsten, im _besten Sinne_ -- der Künstler? +Ein
+Pionier der Kultur in das Neuland des Unbewussten!+
+
+Wie wenige verdienen in diesem heiligen Sinne den stolzen Namen! Th. A.
+Hoffmann verdient ihn, und Jean Paul und Villiers und Baudelaire -- --
+Und ganz sicher auch _Edgar Allan Poe_, das müssen selbst die Griswolds
+dem Dichter zugestehen, der in so manchen seiner Geschichten ein
+geheimes Land der Seele betrat, von dem niemand vor ihm -- und am
+wenigsten die Wissenschaft -- eine leise Ahnung hatte!
+
+In grauer Nebelwolke träumt vor uns das gewaltige Land des Unbewussten,
+das ewige Land _unserer Sehnsüchte_. Warm liegt der Bettler in der
+Sonne, hockt der satte Bürger am Ofen. Aber es gibt Menschen, deren
+blutende Sehnsucht so ungeheuer ist, dass sie hinaus +müssen+ aus dem,
+_was wir wissen_. Robur et aes triplex muss ihre Brust schirmen, wenn
+sie das sonnige Land des Bewusstseins verlassen, wenn sie durch die
+grauen Mörderfluten nach Avalun steuern. Und viele, viele gehen
+schmählich zugrunde, ohne je einen Blick hinter die Wolken zu werfen.
+
+Ganz wenigen aber gelingt die Fahrt. Sie finden ein Neuland, entdecken
+es für die Kultur: +sie haben die Grenzen des Bewusstseins ein Stück
+weiter hinausgeschoben+.
+
+Die +Künstler+ sind diese ersten Entdecker. Dann mag die Menschheit
+Forscherfahrten ausrüsten, um das neue Land zu vermessen und zu
+untersuchen: Grundbuchleute und Katasterbeamte entsenden -- -- -- Männer
+der +Wissenschaft+.
+
+-- -- Nun ist gewiss, dass -- neben andern Wegen -- die sogenannten
+Gifte, die wir Narkotika nennen, geeignet sind, uns über die Schwelle
+des Bewusstseins hinauszuführen. Gelingt es jemand, in diesem „Jenseits“
+irgendwo festen Fuss zu fassen, das Metaphysische in etwas Positives
+umzuwerten, so schafft er einen neuen Kunstwert, ist, _im edelsten
+Sinne_, +ein Künstler+.
+
+Vielleicht ist hier nötig, die Binsenweisheit zu betonen, dass nie
+natürlich von einem Schaffen _im_ +Rausche selbst+ die Rede sein kann?!
+Oder die andere, dass kein Rauschmittel der Welt aus einem Menschen
+etwas heraus zu holen vermag, _das nicht in ihm steckt?!_ Die Griswolds
+und Ingrams mögen noch soviel Wein trinken, noch soviel Opium rauchen,
+noch soviel Haschisch essen, sie werden doch nimmermehr Kunstwerte
+schaffen! -- -- +Aber+: der durch Narkotica bewirkte Rausch ist unter
+Umständen -- -- neben andern Ursachen -- geeignet, irgendwann später
+eine Ekstase hervorzurufen. Und: +in dieser Ekstase leistet jeder Mensch
+das Höchste, was seine Intelligenz überhaupt zu leisten imstande ist+.
+
+
+
+Der Griswold hatte recht: _Edgar Allan Poe trank._ Und da -- wie bei
+uns allen -- sein Leib verhältnismässig schlecht auf die Vergiftung des
+Alkohols reagierte, abgestumpft war durch die Trinkgewohnheiten von
+Generationen +von Vorfahren+, so trank er viel. Er soff. -- Aber er tat
+das mit Absicht, tat es, um in den Rauschzustand zu kommen, aus dem
+heraus er -- später, vielleicht Jahre später -- _neue Kunstwerte_
+schaffen konnte. Solch ein Rausch ist kein Genuss, er ist eine
+entsetzliche Qual, die +bewusst+ nur der ersehnt, dem das Kainszeichen
+der Kunst von der Stirne flammt.
+
+-- Gibt es eine schmählichere Lüge als die der Banausen: „Künstlerisches
+Schaffen ist keine Arbeit; es ist eine Freude!?“ Der das sagte, und die
+grosse Masse, die es gedankenlos nachplappert, haben nie einen Hauch der
+Ekstase verspürt, die allein künstlerisches Schaffen bedingt. Und +diese
+Ekstase+ ist _immer_ eine Qual, selbst dann, wenn -- in seltenen Fällen
+-- der Grund, der sie hervorrief, ein Genuss war.
+
+Man sagt, dass die Katzenmütter ihre Jungen mit Genuss zur Welt
+bringen -- -- aber es sind auch nur arme blinde Kätzlein. So mag der
+Wochenplauderer der Buxtehuder Zeitung, mag der Textdichter von „Berlin
+bei Nacht“ mit Genuss seine Zeilen zu Papier bringen -- -- +ein
+Kunstwerk ist nie ohne Schmerzen geboren worden.+
+
+
+
+Ich bin hinausgegangen. Durch den mächtigen Palast des fünften römischen
+Kaisers deutscher Nation, der den Namen Karl führte. Quer durch den
+gewaltigen Säulenhof. Hinauf durch die lange Allee weissblühender
+Akazien, durch die Wiesen, die viele tausend blauer Iris tragen. Den
+Turm der Prinzessinnen liess ich mir aufschliessen, wo einst die
+Sultantöchter Zayda, Zorayda und Zorahayda am Fenster der gefangenen
+Christenritter Lieder belauschten.
+
+Ich schau über das Tal auf den Hügel, von dem Boabdil beim Scheiden
+seinen letzten Seufzer dem verlorenen Granada sandte. Ich blicke auf
+den Garten des Generalife, deutlich sehe ich die vielhundertjährigen
+Zypressen, unter deren Schatten des letzten Maurenkönigs Frau -- Hamet,
+dem schönsten der Abenceragen das unheilbringende Stelldichein gab.
+
+-- Hier erzählt jeder Stein eine trübe, verklungene Sage -- --
+
+Tief unten im Tal geht der Weg, der weit hinauf zur Totenstatt führt.
+Ein paar schwarze Ziegen weiden an den grünen Abhängen; hinten, unter
+dem Turm der Gefangenen, sitzt ein zerlumpter Zollwächter vor seiner
+schmutzigen Höhle. Langohrige Kaninchen grasen um ihn herum, sieben
+Hähne, zum nahen Kampfe schon der Kämme und Schwanzfedern beraubt,
+picken im Boden oder fliegen aufeinander. Und weit im Osten glüht
+purpurrot der Schnee der wilden Sierra Nevada --
+
+Ein Trupp zerlumpter Bengels zieht durch das Tal. Zwei tragen einen
+kleinen Kindersarg auf den Schultern, offen nach spanischer Sitte; ein
+anderer schultert den Deckel. Der Sarg ist sehr einfach, drei gelbe
+Bretter und zwei Brettchen. Aber drinnen liegen Blumen, viele Blumen,
+rote, gelbe und weisse und blaue Blumen, unter denen das wachsbleiche
+Köpfchen in schwarzem Haar hervorschaut. Kein Priester, keine
+Verwandten, nicht einmal Vater und Mutter im Zuge; sechs zerlumpte
+Bengels -- --
+
+Doch zwischen so vielen bunten Blumen ruht das tote Kind, in solch
+frischem, blühendem Dufte. Wie gut, dass man ihm die Augen nicht
+schloss! Nun schaut es heraus, neugierig aus den bunten Blumen, hinauf
+zu dem alten, maurischen Königsschloss. So zufrieden blickt es heraus
+aus seiner bunten Pracht, das kleine tote Mädchen, so zufrieden und
+glücklich, wie es gewiss nie im Leben war.
+
+  [Abbildung: POE’S LANDHAUS ZU FORDHAM
+  Zeichnung von H. Crickmore]
+
+_Hier_ hätte Edgar Allan Poe sitzen müssen. Wie hätte er geträumt, wie
+wären die bunten Sagen auf leichten Flügeln um seine Stirn geflogen. Und
+er hätte in ehernen Worten eine neue Alhambra gebaut, die die hausdicken
+Türme der Nasseriden um viele Jahrhunderte überdauern würde -- -- --
+
++Hier+ hätten ihn vielleicht andere Wege zur Ekstase geführt; er hätte
+wohl nicht getrunken. Aber er war ja da drüben in Neu-England, seine
+arme Dichterseele stak eingepfercht zwischen realsten Prosawerten,
+indes zur selben Zeit Washington Irving, dies Musterbild englischer
+Sittlichkeit, im Mondscheinzauber der Alhambra träumen durfte! Und seine
+_Alhambrasagen_ wurden weltberühmt; Tag um Tag sehe ich die Fremden die
+geheiligten Räume betreten: in der Hand den Baedeker, in der Rocktasche
++sein+ Buch. So, wie sie im Hause der Vettier oder in dem des Dionysos
+die „_Letzten Tage von Pompei_“ lesen. Sind die paar Schönheiten in
+diesen Büchern, die sich nicht wegleugnen lassen, Lord Lyttons oder
+Irvings Geiste entsprungen? O nein, ein Hauch der römischen Totenstadt,
+des maurischen Geisterschlosses goss sich in ihre Seelen, obgleich sie
+nicht Dichter, obgleich sie nur kleine bürgerliche Schreiberlein waren.
+Nicht Bulwer, nicht Irving schufen diese Schönheiten. Pompei schuf sie
+und die Alhambra -- -- +trotz ihnen+.
+
+
+    -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- --
+
+Poes glühende Sehnsucht kannte nichts von alledem. Um sich
+herauszuheben, um in sich eine Ekstase zu erwecken, die ihn forttrug aus
+all den Dutzendwerten, die ihn umgaben, blieb ihm nur ein Mittel. Von
+ganz geringen Anregungen abgesehen, die wohl kaum geeignet waren, zur
+Ekstase zu führen, hat dieser unglückliche Dichter nur einmal in seinem
+Leben von aussen her der Muse Kuss empfangen: durch sein schönes
+geliebtes Weib, Virginia Clemm. Mag der Moralist diesen Rausch einen
+heiligen, göttlichen nennen, mag er des Dichters _andere_ Ekstasen, die
+aus Alkohol und hier und da aus Opium erwuchsen, als unheilig und
+teuflisch schelten: das gilt uns gleich! Denn die Kunstwerte, die aus
+diesen hervorgingen, sind nicht weniger herrlich -- --
+
+Qualvoll aber war für den Geweihten die göttliche Ekstase kaum minder
+als die teuflische! Eine Hölle sollte ihm sein, was andern ein Paradies
+war, eine heissgeliebte, eine selige Hölle, deren Flammen aber nicht
+weniger sengten. Denn Virginia, deren sterbenden Augen wir _Morella_ und
+_Ligeia_, _Berenice_ und _Leonore_ verdanken, war dem Tode bestimmt, ehe
+sie noch dem Dichter die Hand reichte. Er wusste, dass die Schwindsucht
+das leuchtende Rot auf ihre Wangen log, wusste, dass aus diesen tiefen,
+feucht schimmernden Augen die unerbittliche Krankheit herausgrinste.
+Wenn er am Abend die geliebten Locken streichelte, fühlte er: „_Noch so
+viele Tage wird sie leben_“; und am andern Morgen: „_Wieder einen Tag
+weniger_“. Eine Sterbende war es, die seine Lippen küsste, eine
+Sterbende, deren schöner Kopf nächtens neben dem seinen ruhte. Wenn er
+aufwachte von dem Röcheln und Rasseln ihrer mühsam arbeitenden Lungen,
+schien ihm das weisse Linnen ein Leichentuch, schien ihm der kalte
+Tropfen auf ihrer Stirne ein Todesschweiss. Ein Sterben durch Jahre
+hindurch, ein sichtbares langsames Sterben der Geliebten -- -- das
+war das einzige -- „+Glück+“ dieses unseligsten aller Dichter. O ja,
+_Sensationen_ gab ihm die schöne todgeweihte Gattin, aber es waren
+Sensationen der Angst, des stummen verhaltenen Schmerzes, der
+Verzweiflung in lächelnder Larve: ein +Paradies der Qualen+. Lies seine
+schönsten Geschichten, die Virginia in seine Seele senkte: du wirst
+einen Hauch davon verspüren, in welch namenlosen Qualen sie geboren.
+
+Ehe noch der letzte Faden zum Leben zerrissen und die stille Frau in die
+Gruft gesenkt war, schrieb Edgar Poe sein Meisterstück, den „+Raben+“.
+Und zu diesem Gedicht, das in der Weltliteratur nicht seinesgleichen
+hat, nahm er, -- ich möchte es den englischen Heuchlern ins Gesicht
+schreien -- die Ekstase wie aus dem „_heiligen_“ Rausche des um die
+Verlorene blutenden Herzens, so auch aus dem „_gemeinen, lasterhaften_“
+Rausche +der Weinflasche+!
+
+Jeder Irrenarzt, der sich mit Säuferwahnsinn beschäftigt hat, wird
+mit Leichtigkeit nachweisen können, was in dem „Raben“ mit absoluter
+Gewissheit einem Delirium entstammt; ebenso leicht ist für den
+Psychologen der Nachweis des andern Rausches, den der Dichter Virginia,
+der „_lost Lenore_“, hier verdankt. Und damit vergleiche man das
+freimütige, wunderbar klare Essay, das Poe über die Entstehung des
+Gedichtes schrieb. Jede Strophe, jede Zeile, jeden einzelnen Wortklang
+begründet er in verblüffend einfacher Logik, es ist fast, als ob er den
+binomischen Lehrsatz beweisen wollte! Freilich die Hauptsache, die
+Ekstase und ihre Entstehung aus einem heiligen und einem -- ach, so
+unheiligen Rausche erwähnt er mit keinem Wort -- schrieb er sein Essay
+doch für neuengländische Magazinleser, wie hätten die einen Dichter
+verstehen sollen, der von einer Ekstase sprach!? Das Handwerksmässige,
+das rein Technische, das, was _die_ Kunst ausmacht, die auf _das Können_
+sich stützt, das ist nie von einem Dichter klarer und überzeugender
+dargelegt worden, als in diesem Essay: ein Lehrbuch der Dichtkunst an
+einem Meisterbeispiel! Freilich -- -- benutzen werden Gevatter Schneider
+und Handschuhmacher den Leitfaden +nie können+, für den Künstler aber
+ist er die wertvollste Belehrung, die es gibt. -- Mag er daraus ersehen,
+dass „der göttliche Rausch“ +allein+ kein vollkommenes Kunstwerk
+schafft, dass die gemeine Arbeit, die verachtete Technik, das Überlegen
+und Feilen, das Wiegen und Tönen ebenso unentbehrlich sind.
+
+-- Nicht der gewaltige Gedanke des arabischen Baumeisters allein schuf
+die herrliche Alhambra: Maurer und Eseltreiber, Gärtner und Anstreicher,
+jeder trug sein Teilchen bei!
+
+-- Edgar Allan Poe war +der erste Dichter+, der mit solcher Offenheit
+von der Arbeit, von dem rein Handwerksmässigen sprach. Da, und auch wohl
+nur da, war er Amerikaner, da stand er, und das will mehr sagen, an der
+Schwelle modernen Denkens -- -- als erster. Ein glänzender Beweis für
+den Vollwert dieses Künstlers, der nur von der Technik spricht und _mit
+keinem Worte_ hier die Intuition erwähnt, die der Dilettant immer im
+Munde führt. Vielleicht, wenn er für andere Leser in seinem Magazine
+geschrieben hätte, vielleicht wäre er noch einen Schritt weiter
+gegangen, hätte ihnen wohl gar von der Technik des Rausches erzählt.
+
+Nie vor ihm hat ein anderer sein eigenes Kunstwerk so zergliedert, so
+bis auf die letzte Faser anatomisch zersetzt. Der göttliche Hauch, der
+die Bibel diktierte, spukt bis auf unsere Tage in dem Glauben der Masse
+herum, und die Herrn Künstler von Gottes Gnaden hüteten sich wohl, das
+Inspirationsfabelchen aufzuklären. Wenn _der heilige Geist über sie kam_
+-- dann malten, dichteten, komponierten sie und setzten mehr oder
+weniger immakulate Geisteskindlein in die Welt. Das war so nett, so
+bequem, dass gewiss manche grosse Künstler selbst an die geheimnisvolle
+Weihe glauben mochten. „Trunken vom Gotte“, hiess der thrakische Sänger,
+auch wenn er so nüchtern war wie Sokrates. Dieser Gedanke, der sich in
+der _dionysischen Urform_ fast mit unseren modernen Anschauungen von
+Rausch und Ekstase deckt, bekam in der spätern _apollinischen_
+Auffassung -- -- die „göttliche Salbung“, die die christliche
+Weltanschauung, wie so vieles, das klares Denken zu trüben imstande war,
+mit grosser Begeisterung übernahm. Alle die schönen Phrasen von dem
+Platz im Olymp, von dem Kuss der Muse, von dem göttlichen Rausche, von
+dem Gottesgnadentum des Künstlers usw. -- bei denen wir uns Gott sei
+Dank nicht das geringste mehr denken -- haben _da_ ihren Ursprung.
+
+Es gehörte Mut dazu, diesen leuchtenden Nebel zu zerschlagen; wenige,
+gar wenige Gedichte der Weltliteratur vertragen eine solche
+unerbittliche Zersetzung. Aber weil Poe in seinem „Raben“ ein Kunstwerk
+geschaffen, so rein, so vollendet, konnte er den Schritt wagen. Das
+Kleinliche, das Lächerliche und Absurde, das alles Erhabene sonst in den
+Staub reisst, vermag nichts dieser Vollkommenheit gegenüber.
+
+-- Mein Blick fällt auf die Wandbekleidung des Saales. Im Stile Mudejar
+verschlingen und lösen sich die Arabesken und kufischen Sprüche, das
+Auge mag sich nicht satt sehen an all diesen phantastischen Harmonien.
+Nun, das arabische Wunderwerk besteht aus +Gips+, gemeinem Gips -- --
+_wie lächerlich, wie kleinlich, wie absurd!_ Aber obschon es aus
+erbärmlichem Gips besteht, verliert dieses vollkommene Kunstwerk nichts
+von seiner Erhabenheit. Die gemeine Materie atmet den Hauch des Geistes
+-- +die Kunst triumphiert über die Natur+, _und diese Kunst ist so
+gross, dass ihr meine Erkenntnis des lächerlichen Stoffes nichts anhaben
+mag!_
+
+  [Abbildung: DER RABE
+  Zeichnung von C. F. Tilney]
+
+Poe brauchte eben das uralte Lügenmäntelchen nicht mehr. Er sah, dass
+es fadenscheinig und zerrissen war, und warf es kühn zur Seite. In den
+paar Worten, mit denen er in „_Heureka_“ den Begriff der _Intuition_
+definierte, als „eine Wahrheitserkenntnis, die sich auf Induktionen und
+Deduktionen gründet, die so schattenhaft sind, dass sie sich unserem
+Bewusstsein entziehen, sich vom Verstande nicht fassen lassen und der
+Ausdrucksfähigkeit der Sprache spotten“, -- liegt eine klarere
+Erkenntnis der Wege des künstlerischen Schaffens, als einer seiner
+Zeitgenossen sie hatte. Indem der Dichterphilosoph also der sogenannten
+„Intuition“ der Philosophie gegenüber -- speziell Aristoteles und Bacon
+gegenüber, mit denen er sich auseinandersetzt -- eine Stelle einräumt,
+die ihr diese abspricht, bestimmt er zugleich ihren Wert und zwar in
+einem +engbegrenzten+, untheologischen, durchaus modernen Sinne. Das ist
+das Grosse an diesem ersten Menschen mit modernem Geiste, dass er, der
+Romantiker, der Träumer, doch ein Anbeter des Verstandes war, der _nie_
+den Boden der Erde unter den Füssen verlor!
+
+
+
+Edgar Allan Poe bekannte also -- als Erster -- offen die Technik des
+Denkens, nahm Zolas „Genie ist Fleiss“ um Jahrzehnte vorweg. Und dieser
+_selbe_ Edgar Allan Poe schrieb in seinem Vorwort zu „+Heureka+“:
+
+  „Denen, die mich lieben und die ich liebe; +den Träumern und denen,
+  die an Träume glauben+, _als an das einzig Wirkliche_ -- +widme ich
+  dies Buch der Wahrheiten+, nicht um Wahrheiten zu erzählen, +sondern
+  um der Schönheit willen, die in der Wahrheit sich birgt+, _die
+  allein die Wahrheit wahr macht_. Ihnen weihe ich diese Arbeit, nur
+  als +ein Werk der Kunst+, einen Roman, wenn ihr wollt; oder auch,
+  wenn das nicht zuviel gesagt ist, als ein Gedicht. Was ich hier
+  sage, _ist wahr, deshalb kann es nicht sterben:_ und wenn es
+  irgendwie vergehen sollte, so wird es wieder auferstehen zu ewigem
+  Leben.“
+
+So stellt Poe, völlig unabhängig von Th. Gautier, sein L’art pour
+l’art-Prinzip auf. Grösser als Gautier, der die Schönheit nur mit dem
+Auge des Malers sah, stellt er seine Forderung, und auch tiefer als
+Gautier, dem die äussere Form allein die Schönheit offenbarte. +Die
+Schönheit erst+ macht ihm die Wahrheit -- _zur Wahrheit_, deren
+Daseinsberechtigung er ohne die Schönheit verneint: das ist die höchste
+Anforderung an die Kunst, die je gestellt wurde. Und da diese Forderung
+sich nur in Sehnsüchten erfüllen kann, sind ihm die Träume das +einzig
+Wirkliche+, spricht er dem wachen Leben jeden Realitätswert ab. Auch
+hier ist Poe -- der Romantiker -- ein Pfadfinder, auch hier offenbart
+er als Erster das, was wir „modernen Geist“ nennen. Hat er das von Zola
+gemünzte Prinzip des technischen Schaffens vorweg genommen, hat er
+weiter der Parnassier Kunstprinzip unabhängig von ihnen aufgestellt, so
+überspringt er hier um ein halbes Jahrhundert die Zeit und gibt eine
+Forderung, so ultramodern, dass selbst heute nur ein kleiner Teil der
+fortgeschrittensten Geister sie in ihrer ganzen radikalen Grösse
+verstehen wird.
+
+Die Befruchtung der Literatur der Kulturvölker durch Poes Geist wird
+erst in diesem Jahrhundert volle Blüten treiben: das vergangene sah ihm
+nur ein paar lächerliche Äusserlichkeiten ab, ein Räuspern und Spucken,
+das freilich den glücklichen Abguckern, den Jules Verne und Conan Doyle
+ein Vermögen eintrug. Ganz gewiss hat der darbende Poe _diese_ Sachen
+nur für das tägliche Brot geschrieben: die See- und Mondreisen Gordon
+Pyms und Hans Pfaals usw., sowie einige der Kriminal-Novellen (wie
+z.B. der „Mord in der Rue de Morgue“, der „Entwendete Brief“, der
+„Goldkäfer“) sind durchaus nur aus dem Bedürfnis heraus entstanden, warm
+zu Mittag speisen zu können. Denn Poe wusste, was hungern heisst! So
+schrieb er diese Sachen, wie er auch Übersetzungen anfertigte und an
+allen möglichen wissenschaftlichen Werken mitarbeitete. Freilich, jede
+einzelne der Geschichten, und sei es die schwächste, lässt alle
+Abenteuer des eminenten Sherlock Holmes verblassen. -- Warum das
+grosse Publikum, und namentlich das englischredende, trotzdem Doyles
+lächerliche Detektivgeschichten mit Begeisterung verschlingt und die
+Poeschen aus der Hand legt? Nichts ist verständlicher! Poes Figuren
+sind, wie die Dostojewskys, so echt, seine Komposition ist so lückenlos,
+hält die Phantasie des Lesers so unentrinnbar in ihren Netzen, dass
+auch der Tapferste sich eines Grauens nicht zu erwehren vermag, eines
+qualvollen, mörderischen Grauens, das wie ein grausamer Albdruck
+festhält. Bei seinen so ausserordentlich beliebten Nachahmern aber ist
+dies Grauen nichts als ein angenehmer Kitzel, der in keinem kleinen
+Moment den Leser einen Zweifel an der Kulisse ankommen lässt. Der Leser
+weiss stets: das ist alles dummer Unfug; er steht _über_ dem Erzähler --
++das will er+! Poe aber nimmt ihn beim Schopfe, reisst ihn in Abgründe
+und schleudert ihn in Höllen, dass dem armen Tropf Hören und Sehen
+vergeht, dass er nicht mehr ein noch aus weiss. Darum zieht der gute
+Bürger, der gern ruhig schlafen will, den Kulissenhelden der Bakerstreet
+vor und bedankt sich für Poes grauenhaften Nachtmar. Man sieht: auch
+da, wo er bürgerlich sein wollte, wo er für die grosse Masse schreiben
+_wollte_, steckte er sein Ziel viel zu hoch; sprach zu Bürgerköpfchen
+und glaubte zu seinesgleichen zu reden! Um sein +Hirn+ zu Markte zu
+tragen, lief er von Verleger zu Verleger herum -- -- zu Leuten, die
++Stroh+ kaufen wollten!
+
+
+
+Aber eine Zeit, die _kommt_, wird reif sein für des Dichters Gaben.
+Schon erkennen wir klar den Weg, der von Jean Paul und Th. A. Hoffmann
+zu Baudelaire und Edgar Allan Poe führt, diesen einzigen Weg, den eine
+Kunst der Kultur gehen kann, schon haben wir manche Ansätze -- --
+
+Diese Kunst wird nicht mehr in engem nationalen Kleide stecken. Sie
+wird sich bewusst sein, wie sich Edgar Allan Poe als Erster bewusst war,
+dass sie nicht für „_ihr_ Volk“ da ist, sondern einzig für die dünnen
+Kulturschichten, ob diese germanischer oder japanischer, lateinischer
+oder jüdischer Art sind. Kein Künstler hat je für „_sein_ Volk“
+geschaffen, und doch haben es fast alle gewollt und geglaubt. Der
+grossen Masse in Spanien ist Velazquez und Cervantes genau so völlig
+unbekannt, wie dem englischen Arbeiter Shakespeare und Byron, wie dem
+französischen Rabelais und Molière, wie dem holländischen Rembrandt und
+Rubens sind. Das deutsche _Volk_ hat nicht die geringste Ahnung von
+Goethe und Schiller, es kennt die Bürger und Heine nicht einmal dem
+Namen nach. Die kleinen Rundfragen bei den Soldaten einzelner
+Regimenter: „Wer war Bismarck? -- Wer war Goethe?“ sollten doch dem
+vertrauensseligsten Blinden endlich die Augen öffnen. Ganze Welten
+trennen den Kulturmenschen in Deutschland von seinen Landsleuten, die er
+täglich auf der Strasse sieht: ein Nichts aber, eine Wasserrinne nur,
+trennt ihn von dem Kulturmenschen in Amerika.
+
+Heine fühlte das und warf es den Frankfurtern ins Gesicht, Edgar Allan
+Poe sprach es noch viel klarer aus. Die meisten Künstler aber und
+Gelehrten und Gebildeten aller Völker hatten ein so geringes Verständnis
+dafür, dass bis auf unsere Tage Horaz’ feines „Odi profanum“ falsch
+ausgelegt wird! Der Künstler, der für „sein Volk“ schaffen will,
+erstrebt etwas Unmögliches und vernachlässigt darüber häufig etwas
+Erreichbares und doch Höheres: für die ganze Welt zu schaffen. _Über_
+dem Deutschen, über dem Briten und Franzosen steht eine höhere Nation:
+die Kulturnation; für sie zu schaffen, ist des Künstlers allein würdig.
+_Hier_ war Poe bodenständig, so wie es Goethe war, wenn auch in anderm,
+ebenso bewusstem, aber längst nicht so modernem Sinne.
+
+
+
+  [Abbildung: DIE WASSERGRUBE UND DAS PENDEL
+  Zeichnung von C. F. Tilney]
+
+Ganz langsam schreite ich im Parke der Alhambra unter den alten Ulmen,
+die Wellington pflanzte. Zu allen Seiten plätschern die raschen Quellen,
+mischen ihren Singsang mit den süssen Liedern von hundert Nachtigallen.
+Zwischen den hohen Türmen schreite ich in dem üppigen Tale der Alhambra.
+
+Wem gehört dieses Zauberschloss, dieser Träumegarten? Der spanischen
+Bettelnation, die ich verachte? Dem Fremdenpöbel mit dem roten Buche
+in der Hand, dem ich auf zehn Schritte schon aus dem Wege gehe? O nein!
+Mir gehört es, mir und den wenigen, die diese Schönheit in ihre Seele
+aufzunehmen vermögen. Deren Hauch diesen Steinen, diesen Sträuchern
+Leben zu leihen vermag, deren Geist es versteht, diese +Schönheit zur
+Wahrheit zu machen+. Alles um mich herum und all das andere, was schön
+ist auf dieser Erde, ist ein heiliges, unverletzliches Eigentum der
+Kulturnation, die über den Völkern steht. Sie ist Herrscherin, sie ist
+Besitzerin: _einen andern Herrn duldet die Schönheit nicht_. Das
+begreifen heisst die Welt ergreifen: Edgar Allan Poe tat es als Erster.
+
+Ich sitze auf der Steinbank, auf der Aboul-Haddjâdj einst träumte. Vor
+mir springt ein Quell in die Höhe, fällt in das runde Marmorbecken. Ich
+weiss wohl, warum der Sultan hier sass, allein in den Dämmerstunden:
+o, es ist so süss, hier zu träumen.
+
+War einst ein Dichter, der schrieb nichts anderes, als Gespräche mit
+Toten. Mit allen sieben Weisen plauderte er und allen Königen Ninives.
+Und mit ägyptischen Priestern und thessalischen Hexen, mit Athens
+Sängern, mit Roms Feldherrn und mit König Artus’ Tafelrunde.
+Schliesslich mochte er mit keinem lebenden Menschen mehr reden: die
+Toten sind so viel unterhaltsamer! -- O, man kann mit ihnen plaudern,
+gewiss doch. Alle Träumer können es, und +alle die, die an Träume
+glauben+, _als an das einzig Wirkliche_.
+
+Bin ich nicht heute mit ihm, den ich liebe, dort oben durch die Säle
+gewandert? Habe ich nicht dem Toten ein Teil von der Welten Schönheit
+gezeigt, die des Lebenden Augen nie sahen? Nun steht er da vor mir, an
+die Ulme gelehnt -- --
+
+„Frage nur,“ sagt er.
+
+Er fühlt wohl, wie ich mit den Augen ihn liebkosend frage. Und er
+spricht. Bald tropfen die Worte klar von den Lippen, bald plätschert
+seine Stimme aus dem Springbrunn, sie singt aus den Kehlen der
+Nachtigallen und rauscht mit den Blättern der alten Ulmen. So klug sind
+die Toten.
+
+„Lass du mein armes Leben,“ sagt Edgar Allan Poe. „Frage Goethe darnach,
+der ein Fürst war, der sechs Hengste zahlte und mit ihnen durch die
+Welten jagte. Ich war ein Einsamer.“
+
+Ich lass den Blick nicht von ihm: „Erzähle! Denen, die dich lieben, und
+die du liebst!“
+
+„_Das Leben_ vergass ich, das ich lebte,“ sagte er, „o nicht erst, seit
+ich tot bin, wie die Menschlein sagen. Jeden Tag vergass ich am nächsten
+Tage -- -- hätte ich sonst weiter leben können? -- Mein wahres Leben
+aber, mein Leben in meinen Träumen, das kennst du ja!“
+
+-- -- Vom Boden her huscht ein leichter Nebel durch den Abend, eine
+süsse Kühle fächelt meine Schläfen. Freilich: das Leben seiner Träume
+kenn ich wohl, schenkte er es doch mir und der Welt. Und langsam lass
+ich dies Leben in seinen Dichtungen vor mir vorübergleiten.
+
+
+    -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- --
+
+-- -- _William Wilson._ Natürlich ist es Poe. So sehr Poe, dass der
+Pfaffe Griswold geruhig Wilsons Geburtsjahr -- 1813 -- als das des
+Dichters angibt! -- Der Knabe herrscht in der alten Boarding-School zu
+Stoke-Newington über all seine Mitschüler, nur über einen nicht, den
++andern+ Wilson: _sich selbst_. Und er, dessen ererbter leichter Sinn
+ihn als Knaben, Jüngling und Mann immer wieder zum Lumpen werden lässt,
+wird sein Gewissen nicht los: den +andern+ Wilson, _sich selbst_. Trotz
+des Gewissens stösst ihn sein Hang zum Verbrechen in der Welt herum, und
+immer von neuem ist _er selbst_ sein strafender Richter.[2]
+
+So ist des Dichters Kindheit, so sein Jünglingsalter vergiftet. Das
+ererbte und durch die Erziehung noch mehr entwickelte Gefühl für gut und
+böse ist so überstark in ihm, dass er aus dem ewigen Hin und Her nicht
+herauskommt, schier an ihm zugrunde geht. Jedes kleine Unrecht, das er
+begangen, wächst in seinen Träumen zum ungeheuerlichen Verbrechen und
+quält ihn, quält ihn. Noch mehr: die Gedankensünde, das Spielen mit der
+Idee des Bösen sind in seinen Träumen zu Wahrheiten geworden: er ist
+_selbst_ der Held all seiner grausigen Geschichten. Die Sünden der Väter
+rächen sich an dem letzten Spross des Geschlechtes; wie sein Friedrich
+von Metzengerstein reitet er auf dem dämonischen Ross in alle Flammen
+der Hölle.
+
+
+
+-- -- Wie doch die Ulmenblätter rauschen! Und ich höre des Unseligen
+Stimme aus den Winden:
+
+„Wenn ich kein Dichter gewesen wäre, wäre ich wohl ein Mörder geworden.
+Ein Betrüger, ein Dieb, ein Räuber und Falschspieler.“
+
+Die Blätter der Ulmen klingen, und wieder rauscht seine Stimme:
+
+„Und _vielleicht_ wäre ich glücklicher gewesen.“
+
+
+
+Ich denke: wer weiss? -- Gibt es wohl einen Verbrecher, dem seine Taten
+die Martern brachten, wie dem Dichter die Verbrechen, _die er nie
+begangen?_ Denn Edgar Allan Poe ist in seinen Träumen, +die ihm allein
+das wahre Leben waren+, nicht nur der Mörder, er ist auch zugleich das
+Opfer. Er mauert seinen Feind lebendig in den Keller ein -- und er ist
+es _selbst_, der eingemauert wird. („Ein Fass Amontillado.“) Er mordet,
+weil _er muss_, den Mann mit dem Geierauge, er verscharrt ihn unter den
+Dielen, und das Herz, das darunter klopft und klopft und die Tat verrät,
+ist wieder sein eigenes. („Das verräterische Herz.“) _Der doppelte
+William Wilson: überall._
+
+Selten hat ein Künstler so wenig _über_ dem gestanden, was er schuf, nie
+hat einer so sehr _in_ seinen Werken gelebt. Ein Deutscher, ein Franzose
+hätte sich leichter von dem unseligen Moralbegriff emanzipiert; dem
+Dichter aber lastete durch Abstammung und Erziehung eine erdrückende
+Religiosität auf der Seele, von der er sich nie ganz befreien konnte.
+Spät erst gelang es ihm, sich etwas zu distancieren: ganz jenseits von
+Gut und Böse hat er nie gestanden. Der alte englische Fluch drückte
+ihn, keine Folter wurde ihm erspart; diese arme Seele musste alle
+wahnsinnigen Höllenqualen der Breughel, der Jean van Bosch und Goya bis
+zur letzten Neige auskosten.
+
+O ja, wäre er ein Verbrecher der Tat, nicht des Gedankens gewesen,
+hätte er am Galgen sein Dasein beschlossen, statt im Armenkrankenhaus,
+sein Leben wäre elend und jammervoll gewesen -- -- _doch nicht so
+schrecklich, als es war_.
+
+Aber Tempel erstanden aus den Schädelstätten, Lilienfelder auf
+blutgedüngten Wiesen. Und wir Glücklichen geniessen die herrlichen
+Blumen, die aus des Dichters vergiftetem Herzblut erwuchsen.
+
+
+
+Die Quellbächlein plätschern durch den Park der Alhambra. Kleine
+muntere Bächlein, die plaudern und schwatzen. In den schmalen
+kieselgepflasterten Betten springen sie schnell vorbei, schnell wie die
+guten Stunden in des Dichters Leben dahineilten. Die Stunden, Minuten
+vielleicht, in denen er harmlos fröhlich sein konnte.
+
+Dann träumte er irgendeinen lustigen Traum. Etwa von dem Manne mit der
+wunderbar grossen Nase, die alle Welt in Begeisterung setzte, die Maler
+malten und Herzoginnen küssten. Diese köstliche kleine Geschichte, die
+in der bizarren Art ihrer Anlage Mark Twain vorweggenommen ist. Nur dass
+bei Poe die grotesken Übertreibungen viel feiner, viel natürlicher
+herauskommen, dass sich nirgends ein Wortwitz vordrängend breit macht.
+
+Oder er macht sich über die breiten Bettelsuppen lustig, die die
+Wochenblätter ihren gutmütigen Lesern auftischen, gibt der Miss Zenobia
+Unterricht, wie sie einen tüchtigen Blackwoodartikel abzufassen hat,
+lässt den ehrenwerten Herrn Thingum Bob von der „Weltlaterne“ höchst
+ergötzlich über seine literarische Laufbahn plaudern. -- So leicht,
+so liebenswürdig und einschmeichelnd ist des Dichters Witz! Wie die
+Bächlein, die munter plaudernd durch den Park der Alhambra plätschern
+
+
+
+
+Aber wie die Nachtigallen schluchzen seine Träume der Sehnsucht. Und
+aus der Seele einer Nachtigall scheint die Stimme gemacht, die sie sang.
+So rein, so ohne Makel; die heilige Cäcilia möchte aus Neid ihre Geige
+zerbrechen und Apoll seine Leier zerschlagen. War dem Dichter in seinen
+Verbrecherträumen keine Hölle tief genug, so war ihm in diesen heiligen
+Gesängen kein Himmel zu hoch.
+
+Nirgends finden wir bei Poe nur einen Satz, einen leisen Gedanken, der
+sich auf sexuelle Liebe bezöge. Die Erotik ist ihm so völlig fremd,[3]
+wie keinem andern Dichter, den einen Scheerbart vielleicht ausgenommen.
+Ebenso wenig ist irgendwo ein Zug sozialen Fühlens bei ihm zu entdecken.
+Und doch hat er ein Herz in der Brust, das sich nach Liebe sehnt, dem
+Liebesmitteilung unabweisbares Bedürfnis ist. _Nur_ dass er den Menschen
+nicht lieben +kann+, weil er immer und überall die _kleinen_ Seiten
+sieht, die ihn abstossen, die die zur Liebkosung ausgestreckte Hand
+festbannen, das schmeichelnde Wort auf der Zunge ersterben lassen. Da
+wendet sich die Sucht Gutes zu tun, Liebes zu erweisen, dem +Tiere+ zu,
+streichelt den Hund, füttert die verhungerte Katze und ist dankbar für
+einen treuen Blick, für ein zufriedenes Schnurren. Wie bewusst das alles
+dem Dichter war, geht aus seiner Novelle: „Der schwarze Kater“ hervor,
+wo er ausdrücklich diese Tierliebe als die reichste _Quelle seiner
+Freuden_ bezeichnet. War es die _reichste_ Freudenquelle eines armen
+Lebens, so war es auch gewiss die _reinste_, denn die hohe Liebe zu der
+sterbenden Gattin gab ihm Freuden nur mit grässlichen Qualen vermischt.
+
+_Der_ Edgar Allan Poe, der +Roderich Usher+ ist, hatte wie der Engel
+Israfel des Korans statt des Herzens eine Laute in der Brust. Wenn er
+die schöne Geliebte anblickte, schluchzte sein Herz, und die Laute sang.
+Sang die hohen Lieder der Sehnsucht, deren Titel schon mit so süssen
+Tönen ins Ohr klingen, die reinen Weisen von Morella und Berenice, von
+Eleonora und Ligeia. Dieselbe _innere Musik_, die den „Raben“
+durchflutet und „Ulalume“, und die vielleicht _das Höchste_ der Kunst
+ist, rauscht durch diese Poesie in Prosa. Und das Wort, das der Dichter
+seinem Weltensang „Heureka“ zum Geleite gab, gilt auch für diese Klänge:
+„They cannot die: or if by any means they be now trodden down, so that
+they die, they will rise again to the life eternal.“
+
+Ja, sie haben Ewigkeitwert, sie werden die kurze Spanne Zeit leben, die
+wir Menschlein Ewigkeit nennen: das aber ist das Höchste, was je ein
+Mensch erreichen kann, auch in alle Zukunft hinaus.
+
+
+
+Für keine Zeit aber ist der Wert des Dichters Edgar Allan Poe ein
+höherer, als für unsere Tage, denn gerade unsere Zeit kann von ihm
+lernen -- und _sie tut es_. Poe ist heute kein Problem mehr, er ist eine
+Erscheinung, die lichtklar vor allen denen liegt, die sehen können. Das
+Bewusste seiner Rauschkunst, das Hervorheben der Bedeutung der Technik,
+das klare Erkennen des parnassischen Kunstprinzips in weitester
+Auffassung, die starke bis zur äussersten Grenze gehende Hervorkehrung
+der hohen Bedeutung der innern Musik für alle Poesie -- -- das alles
+sind Momente, die einzeln von manchen andern betont sind, in ihrer
+Gesamtheit und durchdringenden Verbindung aber von keinem Künstler so
+erkannt und angewandt sind, wie von dem neuenglischen Dichter. Und da
+diese Momente eben _in ihrem Aggregat_ das darstellen, was als die
+Forderung des modernen Geistes für die Kulturkunst bezeichnet werden
+kann, so ist das eingehende Studium wohl keines Dichters für den
+Künstler und gebildeten Laien so dankbar, wie das Edgar Allan Poes. Dass
+man freilich solche Studien nicht an Übersetzungen machen kann, liegt
+auf der Hand: kennen lernen und geniessen mag man den Dichter in
+Übersetzungen, zu einem Eindringen in sein innerstes Wesen ist die
+Urform notwendig. Das mag von allen Dichtern gelten, von keinem aber
+mehr als von Poe.
+
+
+
+Noch flöten die Nachtigallen, und aus ihren kleinen Kehlen singt die
+Stimme des Dichters, den ich liebe. Die leichten Winde schlagen die
+Flügel ein, die Blätter der Ulmen halten inne mit Rauschen. Selbst die
+Rieselbächlein lassen von ihrem Geplauder: der Park der Alhambra lauscht
+dem Gesange der Nachtigallen. Durch Hunderte von Jahren haben am Abend
+diese süssen Klänge die alten Türme und Mauern zur Ruhe gewiegt -- --
+auch heute sind es die vertrauten Töne und doch anders, so anders. Eines
+toten Dichters Lautenherz klopft, und _seiner Seele Lieder_ singen die
+kleinen Vögel. Da lauschen die Bäche und Bäume, da lauschen die roten
+Quadersteine, da lauschen die purpurglühenden Kuppen der Schneeberge.
+Und ein unendlicher Seufzer klingt durch den grossen Garten von Westen
+her: das ist die warme, sinkende Sonne, die trauernd Abschied nehmen
+muss von eines Dichters erhabenem Sange.
+
+Die Dämmerung atmet durch die Ulmen, und leichte Nebelschatten
+heben sich aus den Lorbeerbüschen, steigen hinab aus dem maurischen
+Geisterschloss. Wie ein langer Zug schreiten sie vorbei, setzen sich
+ringsum auf die Marmorbänke. Ich weiss wohl, wer sie sind: Granadas
+Dichter, Juden und Araber. Ganz nahe bei mir sitzt Gabirol, dann Ibn
+al-Khabib und Ibn Esra. Und Jehudah ben Halevy und Mohammed Ibn Khaldoûn
+und Ibn Batoûta, hundert tote Dichter lauschen schweigend dem Sange der
+Nachtigallen. Sie wissen alle, _was_ heute die grauen Vöglein singen --
+_so klug sind die Toten_. Sie hören das Herz des Engels Israfel, von dem
+der Koran erzählt, und preisen dankend den Gott, der solche Töne
+erweckte. -- Oualâ ghâliba ill’ Allâhta ‘alâ -- murmeln die
+Nebelschatten der Alhambra.
+
+Und die Nachtigallen singen von dunkeln Rätseln, von den reinen
+Quellen des Lebens, das eine grosse Sehnsucht ist. Sie singen von dem
+geheimnisvollen Gedanken, der alles erschuf und ewig durchdringt, von
+dem weltenbauenden Hauche, der mit unendlicher Liebe das All erfüllt.
+Singen von der Schönheit, die alle Wahrheit erst zur Wahrheit macht; von
+den Träumen, die das Leben erst zum Leben machen.
+
+Poes Seele singt, und hundert tote Dichter lauschen den Klängen. Und von
+ihren Lippen lösen sich immer wieder die uralten Worte: -- Oualâ ghâliba
+ill’ Allâhta ‘alâ. -- -- So dankbar sind die Toten.
+
+
+
+Und tiefer sinkt die Nacht herein. Die Nachtigallen schweigen, und der
+Ostwind hebt sich von der Sierra her. Da weichen die Nebelschatten;
+wieder bin ich allein in der Alhambra verzauberten Parke, allein mit
+eines grossen Dichters Seele. Und wie der Wind durch die Blätter fährt,
+rauschen die alten Ulmen und singen von „Ulalume“, der seltsamen Ballade
+von des Dichters schaurigem Traume -- --
+
+  ’The skies they were ashen and sober;
+  The leaves they were crispèd and sere --
+  The leaves they were withering and sere;
+  It was night in the lonesome October
+  Of my most immemorial year.
+  It was hard by the dim lake of Auber
+  In the misty mid region of Weir --
+  It was down by the dank tarn of Auber
+  In the ghoul -- haunted Woodland of Weir.
+
+  Here once, through an Alley Titantic
+  Of Cypress, I roamed with my Soul -- --
+  -- -- -- --‘
+
+Ich weiss wohl, dass ich es bin, der die Verse spricht. Aber ich fühle,
+dass meine Lippen nichts anderes sagen, als das, was die Ulmen da
+rauschen. Ich fühle: das ist das trübe Oktoberlied der heulenden Winde,
+das eines Dichters überirdische Sehnsucht in sich aufsog und in
+Menschenworte bannte. Das ist das Einatmen eines innersten Sinnes der
+Natur, ist ein Aufgehen des eigenen Wesens im All und zugleich ein
+Durchdringen des Alls mit dem Gedanken, der die Urform allen Seins ist.
+Das ist ein kleiner Beweis für das von dem Dichter aufgestellte höchste
+Gesetz „von der +Einheit+ _als Quelle aller Dinge_“.
+
+Mein Mund spricht die geheimnisvollen Worte, die meinem Ohre der Wind
+zuträgt. Ich fürchte mich in dieser düstern Einsamkeit, in der eine
+märchenferne Zeit lebt; ich will hinaus aus dem Tale der Alhambra. Da
+verirrt sich mein Fuss, tappt im Dunkel und verfehlt den Weg. Und wie
+ich eine Allee gewaltiger Zypressen zu Ende schreite, stosse ich hart an
+ein niederes Tor. O, die Angst lehrt im Dunkeln sehn -- -- ich weiss,
+ich weiss, wessen Grab das ist. Und _gegen meinen Willen_ sprechen meine
+Lippen zu meiner Seele:
+
+  -- -- -- „What is written, sweet Sister,
+  On the door of this legended tomb?“
+  She replied: -- „Ulalume -- Ulalume --
+  ’Tis the vault of thy lost Ulalume!“
+
+Immer steigert sich meine Furcht. Des toten Dichters Seele, die durch
+der Ulmen Blätter rauschte, in der Nachtigallen Sang erklang, die aus
+den Quellbächlein plätscherte und des Windes schauriges Lied erfüllte,
+sie nimmt _auch von mir_ Besitz. Von mir: einem winzigen Stäubchen der
+Natur, die sie durchdringt. Ich weiss, dass dieser Gedanke mich
+vernichtet, dem ich nicht entfliehen kann. Doch wehre ich ihm nicht,
+-- -- und seltsam! ich werde ruhig, so ruhig, wie ich ganz von ihm
+erfüllt bin.
+
+Leise schwindet die kleine Menschenangst.
+
+
+
+Nun finde ich auch meinen Weg wieder. Ich schreite durch die Pforte der
+Reben auf den Platz der Aljibes zu. Ich gehe in die Alcazaba, steige den
+Ghafar hinauf, den mächtigen Wachtturm der maurischen Fürsten. Ein
+leuchtender Halbmond glänzt nun zwischen ziehenden Wolken, das alte
+Wahrzeichen arabischer Grösse, das kein Christengott vom Himmel
+wegwischen kann. Ich blicke tief hinunter auf das kirchenfrohe Granada,
+lärmend und schwärmend im nächtlichen Strassentreiben. Das läuft in
+Kaffeehäuser, das liest Zeitungen, putzt Stiefel und lässt sich Stiefel
+putzen. Das schaut in erleuchtete Ladenfenster, fährt in Trambahnen,
+ruft frisches Wasser aus und sammelt Zigarrenstummel. Das lärmt und
+schreit, zankt sich und verträgt sich wieder. -- Und _kein Mensch_ hebt
+den Blick, kein Mensch schaut hinauf auf die einzige Pracht hier oben!
+
+Rechts von mir braust der Darro daher, hinten höre ich des Genil
+Rauschen. Helle Feuerscheine dringen aus den Erdhöhlen des
+Zigeunerberges, und zur andern Seite strahlen silbern im Mondlichte die
+Schneehäupter der Sierra. Zwischen dem Wachtturme, auf dem ich stehe,
+und den Purpurtürmen des Mohrenberges zieht sich tief im Tal der dunkle
+Park hin, hinter mir liegt, Saal an Saal, Hof an Hof, der Alhambra
+Zauberschloss.
+
+Dort unten lärmt das kleine Leben des Jahrhunderts, hier oben ist der
+Träume Land. Und das da unten -- -- wie fern, wie unendlich weit ist das
+von mir. Und das hier oben -- -- ist nicht jeder Stein ein Stück meiner
+Seele? Bin ich, allein in dieser Welt der Geister, _die das blinde Leben
+unten nicht sieht_, bin ich nicht ein Teil all dieser Träume? -- Die
+allmächtige Schönheit macht diese Träume _zur Wahrheit_: hier blüht das
+Leben, und die Wirklichkeit da unten wird zum Schattenspiele.
+
+Die Tat ist nichts -- der Gedanke ist alles. Die Wirklichkeit ist
+hässlich, und dem Hässlichen fehlt die Berechtigung des Daseins. Die
+Träume aber sind schön, und sind wahr, _weil_ sie schön sind.
+
+Und darum glaube ich an die Träume, als an das _einzig_ Wirkliche.
+
+  [Verzierung]
+
+
+
+
+WIE SAH EDGAR ALLAN POE AUS?
+
+
+Es gibt Männer, von denen ein seltsamer Zauber ausgeht. Sie ziehen in
+ihren Bann, willenlos: man _muss_ an ihre Persönlichkeit glauben. Und
+dann ist da ein _Etwas_, das zurückstösst; man weiss nicht, was es ist
+-- -- _aber es ist da_. Sie sind _gezeichnet_: mit dem Kennzeichen der
+Kunst. So war Oscar Wilde, so war +Edgar Allan Poe+.
+
+Seine Gestalt war hoch, sein Gang leicht und seine Haltung stets
+harmonisch. Immer vornehm, trotz seiner Armut; von einer romantisch
+ritterlichen Art. Seine stolzen Züge waren regelmässig, ja, sie waren
+schön; die reinen Augen dunkelgrau mit einem seltsam violetten Glanze.
+Die selbstbewusste Stirn hoch und von wunderbarem Ebenmass. Bleich war
+stets seine Gesichtsfarbe und schwarz die Locken, die sie beschatteten.
+Schön war Edgar Allan Poe, an Leib und an Seele. Wie Musik klang seine
+leise Stimme -- --
+
+Geschmeidig war er und kräftig, zu jeder Leibesübung geschickt. Ein
+ausdauernder Schwimmer, der einmal über sieben englische Meilen ohne zu
+ermüden von Richmond nach Warwick gegen reissenden Strom schwamm; ein
+gewandter Springer, eleganter Reiter und vorzüglicher Fechter, der mehr
+wie einmal einen Gegner heissblütig zum Zweikampfe forderte.
+
+Er war ein _Gentleman_ vom Scheitel zur Sohle. Seine gesellschaftlichen
+Formen waren kühl und doch bestrickend liebenswürdig. Er war weich und
+zart und doch ernst und fest. Er war ein Gelehrter, besass eine fast
+universale Bildung. Es war ein gleich grosser ästhetischer Genuss ihn zu
+sehen, wie ihm zuzuhören. Er war immer der Schenkende, und sein Fluch
+war, dass so wenige, wenige all derer, an die er seine reichen Gaben
+zerstreute, sie zu würdigen verstanden. Ein paar schöne Frauen -- --
+verstanden ihn? -- nein, aber sie ahnten den Adel seiner Seele;
+instinktiv, wie es immer die Frauen tun. -- Drei Menschen, die zu seiner
+Zeit lebten, vermochten ihn ganz zu erfassen: Baudelaire und die beiden
+Browning. Aber sie lebten drüben im alten Europa, und er sah sie nie --
+
+  [Abbildung: Edgar A. Poe.
+  (Nach einer Radierung von Harry G. Webb)]
+
+So war der Dichter allein, einsam in seinen verstiegenen Träumen.
+
+Und wie er schön war und über alles die Schönheit liebte, so musste auch
+alles das schön sein, was ihn umgab. Grandiose Schönheiten schuf er in
+seinen Träumen, die ihm ja Wirklichkeit waren; da hauste er in Landors
+köstlichem Landhaus oder auf dem herrlichen Gute zu Arnheim. Aber auch
+in dem armen bescheidenen Leben, das die Pfennige zählt, wusste er um
+sich herum ein Sein zu schaffen, das die Bewunderung Reichster erregte.
+Seine kleine Hütte zu Fordham, in der er an der Seite der schönen
+todgeweihten Gattin ein Paradies der Qualen durchlebte, durchflutete
+eine köstliche Harmonie, die jeden Besucher entzückte. Krempel und
+Gerümpel stand da herum -- -- aber _wie_ es herum stand, war es reizvoll
+und schön. Es war eine erbärmliche Hütte auf der Spitze eines kleinen
+Hügels, aber blühende Kirschbäume standen auf der grünen Wiese, kleine
+Singvögel lockten frühmorgens den Dichter hinaus in die nahen
+Fichtenwälder. Dann schritt er durch seine bunten Georginenbüsche,
+atmete den süssen Duft der Reseden- und Heliotropbeete ein. Die leichte
+Morgenluft küsste seine feuchten Schläfen, streichelte die müden Augen,
+die die lange Nacht über an dem Lager der langsam sterbenden Geliebten
+gewacht hatten. Er ging zu der hohen Brücke über den Fluss Harlem oder
+an den felsigen Abhang und träumte dort, von alten Zedern beschattet,
+in das weite Land hinaus.
+
+Nun ruht er -- -- irgendwo. Am Tage nach seinem Tode begrub man ihn,
+auf dem Westminsterchurchfriedhofe zu Baltimore. Wie einen Landstreicher
+las man den sterbenden Dichter von der Strasse auf, wie einen Hund
+verscharrte man ihn am andern Tage. Sein Grab soll nahe bei dem seines
+Grossvaters liegen, des Generals David Poe, der in dem Befreiungskampfe
+der Union sich einen Namen machte. Da ungefähr _soll_ es sein; man weiss
+es nicht so genau. Kein Kreuz, kein Grabstein erhebt sich an der Stelle;
+kein Mensch bekümmert sich darum. Seine Landsleute haben andere Sorgen:
+was geht die ein toter Dichter an! -- So eine Woche noch beschäftigten
+sie sich mit dem elend Verschiedenen -- um sein Andenken zu beschmutzen,
+zu begeifern. Alle die Lügengeschichten, die noch heute über ihn im
+Umlauf sind, wurden da erfunden; eine ganze Flut giftiger Tinte wurde
+über den toten Löwen verspritzt. Alle die Mittelmässigkeiten fielen über
+ihn her, die neidgeschwollenen Schreiberlein, die er so unbarmherzig
+zerrupft hatte. Stimmten ein in den Schlachtruf des Lügenpfaffen
+Griswold: „Er verreckte im Dusel! Er soff, er soff, er soff!“ -- Dann
+vergass man ihn da drüben, und das war gut so: seine Landsleute waren
+eben lange noch nicht reif, ihres grossen Dichters Genie zu erkennen.
+
+Ob sie es heute sind?
+
+Aber nach hundert Jahren werden sie die morschen Knochen zusammensuchen,
+werden ihnen einen mächtigen Denkstein errichten und darauf schreiben:
+
+„Die Vereinigten Staaten _ihrem_ grossen Dichter.“
+
+Mögen sie die Knochen behalten, die da drüben! Wir aber wollen des
+Dichters Seele lauschen, die in den Nachtigallenkehlen der Alhambra
+lebt.
+
+
+_Anmerkungen_
+
+  [Anmerkung A: Die beste Ausgabe in englischer Sprache ist bei
+  J. B. Lippincott Company, Philadelphia erschienen; eine deutsche
+  Gesamtausgabe (die nur die kritischen Studien und einige Gedichte
+  und Humoresken nicht enthält) erschien bei J. C. C. Bruns in Minden;
+  einzelne Novellen in der Reclamschen und der Meyerschen
+  Volksbibliothek.]
+
+  [Anmerkung B: Was seinen Biographen, den Pfaffen +Griswold+, nicht
+  hindert, zu behaupten, „dass es in der ganzen Literatur kein
+  Beispiel gäbe, bei welchem man, wie bei Poe, so sehr auch nur den
+  Schatten eines Gewissens vermisse!“]
+
+  [Anmerkung C: {7 Seiten} Es ist völlig verfehlt, diese Tatsache,
+  wie +van Vleuten+ es tut, auf den übermässigen Alkoholgenuss
+  zurückzuführen: Bacchus, der Venus Feind. Seine Bemerkung: „Dass der
+  Alkohol ein Feind der physischen Liebe ist, weiss jeder Arzt; in Poe
+  scheint er auch das psychische Äquivalent vernichtet zu haben“
+  („Zukunft“ 1903 pag. 189), ist mir aus dem Munde eines ernsten
+  Psychiaters, wie +van Vleutens+, einfach unbegreiflich. Ich habe im
+  +Gegenteil häufig+ die Erfahrung gemacht -- und mir von Psychiatern
+  bestätigen lassen -- dass chronische Alkoholiker im Rausche oft
+  genug, manche sogar regelmässig, eine ausserordentliche Steigerung
+  des Geschlechtstriebes zeigen. Es ist hier nicht der Ort, auf diese
+  Frage näher einzugehen, jedenfalls ist es eine Tatsache, die jeder
+  Polizist bestätigen wird und die +van Vleuten+ gewiss nicht leugnen
+  kann, dass dreiviertel der nächtlichen Bordellbesucher in einem mehr
+  oder weniger grossen Rausche handeln. Ist also die Hypothese van
+  Vleutens falsch, so ist seine Schlussfolgerung völlig absurd: „in
+  Poe scheint der Alkohol auch das +psychische+ Äquivalent vernichtet
+  zu haben. _Deshalb_ war das Weib aus seinen Delirien verbannt; und
+  da sein Dichten fast ausschliesslich in seinen Delirien wurzelte,
+  fehlt ihm die ganze Sphäre des Weibes und der Geschlechtsliebe“. --
+  „Die Sphäre des Weibes“ fehlt Poe durchaus nicht, vielmehr hat er
+  sie häufig, freilich stets in der denkbar reinsten und edelsten
+  Form, verwandt. -- Übrigens widerspricht sich van Vleuten selbst.
+  Er stellt fest, „dass ’_Der Rabe_’ offenbar aus einem +Delirium+
+  stamme“ (a.a.O. pag. 189). Nun, in diesem Gedicht spielt doch _ein
+  Weib_ die Hauptrolle, wie kann er da behaupten, dass „das Weib aus
+  Poes Delirien verbannt sei“? -- Der Satz, „dass der Alkohol der
+  physischen Liebe -- und sogar ihres psychischen Äquivalents -- Feind
+  sei“, ist in dieser Allgemeinheit gewiss unrichtig; die Wirkung ist
+  eben +individuell+ völlig verschieden. Daher hätte sich van Vleuten
+  seine Bemerkung, dass _Baudelaire_, als er auf die Asexualität der
+  Novellen Poes hinwies, „_keine rechte Erklärung hierfür habe finden
+  können_“, besser gespart. Baudelaire, dem bewussten Rauschkünstler
+  par excellence, war ganz sicher diese sogenannte „Erklärung“ wohl
+  bekannt, er gab sie mit Absicht _nicht_ wieder, da er ihre Hohlheit
+  durchaus erkannte. -- -- Die _Asozialität_ des Dichters, die
+  übrigens ebenso wie die Asexualität beim Lesen Poes in die Augen
+  springt, berührt van Vleuten leider mit keinem Wort: -- möchte er
+  etwa behaupten, dass ihr _physisches_ Äquivalent bei ihm _vorhanden
+  gewesen_, aber durch den Alkohol vernichtet worden sei?! -- Logisch
+  +müsste er es+, denn der innere Zusammenhang beider Momente -- hier
+  in der Negation -- lässt sich doch einmal nicht verleugnen! -- --
+  Es ist übrigens unerhört, zu welchen Gewaltmitteln van Vleuten in
+  seiner sonst klugen Arbeit greift, um den Dichter in das
+  Prokrustesbett seiner vorher festgelegten Schablone zu pressen! So
+  behauptet er: „Die Landschaft Poes ist schematisch und einförmig.
+  -- -- -- Für die wirkliche Landschaft war der Blick des Kranken
+  +unempfindlich+, wenigstens liess die Amnäsie keine Erinnerung daran
+  haften.“ -- Und solchen Unfug sagt ein Psychiater, der selbst ein
+  begabter Dichter ist, von dem Edgar Allan Poe, der „_Landors
+  Cottage_“ und „_The Domain of Arnheim_“ schrieb, diese +Hohenlieder
+  der Landschaft+, in denen auf fünfzig engbedruckten Seiten von
+  nichts anderm als von landschaftlichen Schönheiten die Rede ist! --
+  Ich kann mir dies Vorgehen van Vleutens nur so erklären, dass er
+  Poes Werke nur bruchstückweise kennt und die erwähnten beiden
+  Kabinettstücke, sowie die Mehrzahl seiner Gedichte, die eine Menge
+  landschaftlicher Bilder enthalten, nie gelesen hat! Wenn ich ihn
+  also in Schutz nehme vor dem Vorwurfe, bewusst Unrichtiges gesagt
+  zu haben, so kann ich ihm doch den andern schweren Vorwurf nicht
+  ersparen: ohne genügende Vorkenntnisse den Lesern der „Zukunft“,
+  das heisst, unserm Elitepublikum, eine Arbeit vorgesetzt zu haben,
+  die, obwohl im grossen ganzen gewiss anerkennenswert, doch in
+  Einzelheiten schwere Irrtümer enthält, die geeignet sind, das Bild
+  eines der allergrössten Genies im Werte herabzusetzen.]
+
+[Verzierung]
+
+
+
+
+SCHRIFTEN VON
+
+HANNS HEINZ EWERS
+
+
+MÄRCHEN UND FABELN
+
+Ein Fabelbuch (mit Etzel). IV. Aufl.
+  Verlag Albert Langen, München
+
+Die verkaufte Grossmutter. III. Aufl.
+  Verlag Hermann Seemann Nachf., Berlin
+
+Die Ginsterhexe. II. Aufl. Verlag J. von
+  Schalscha-Ehrenfeld, Leipzig
+
+
+NOVELLEN UND GEDICHTE
+
+Der gekreuzigte Tannhäuser. VI. Aufl.
+  (Vergriffen)
+
+C. 33 und anderes. (Vergriffen)
+
+Das Grauen. Nachtstücke in Goya’s Manier.
+  Verlag Concordia, Berlin
+
+Moganni Nameh (Gesammelte Gedichte)
+  Verlag Concordia, Berlin
+
+
+
+
+Band XII der DICHTUNG
+
+  E. T. A. HOFFMANN
+  von
+  RICHARD SCHAUKAL
+
+Mit 11 Abbildungen
+
+
+Urteile:
+
+  =Nationalzeitung=: Richard Schaukal verbreitet sich in sachlicher
+  Weise über E. T. A. Hoffmann, einen Vorfahren, dem Schaukal selber in
+  seinem dichterischen Streben mannigfaltig verpflichtet ist. Er erzählt
+  das Leben Hoffmanns an der Hand der alten Hitzig-Hippelschen
+  Biographie und gibt dann eine gute Charakteristik des Hoffmannschen
+  Gesamtwerkes, in jenem eigenwilligen Stil, der den Prosaschriften
+  dieses Autors eine so amüsante persönliche Färbung verleiht.
+
+  =Dresdener Anzeiger=: ... Schaukal gibt viele Anregungen und ist mit
+  seinem verzwickten barocken Stil, mit seiner blendenden
+  Eindrucksfähigkeit in mehr als einer Hinsicht dem Wesen des
+  Gespenster-Hoffmann verwandt. Wir finden hier ein tiefes Eindringen,
+  ein williges Aufgehen in der Subjektivität. Haben wir das Buch von
+  Schaukal gelesen, dann haben wir teils direkt, teils indirekt durch
+  stilistische Kunst ein Bild E. T. A. Hoffmanns selbst.
+
+  =Wiener Abendpost=: Als Frucht einer langen über alle literarischen
+  Umwälzungen geretteten Liebe und eines grossen Fleisses hat Schaukal
+  seinen Essay über Hoffmann erscheinen lassen. In „Umrisse“ und
+  „Palette“ teilt er ab, was er über den malenden und komponierenden
+  Dichter zu sagen hat. Die „Umrisse“ zeichnen nach fremden Porträts
+  rasch eine charakteristische Skizze von Hoffmanns seltsamem Leben und
+  seiner idealisch glühenden Art. Mehr von Eigenem gibt Schaukal im
+  zweiten Teile. Während der erste Abschnitt auch irgendeinem besonders
+  feinfühligen Gelehrten gelingen könnte, spricht in der zweiten
+  Abteilung ein Künstler von der zerrissenen, in ironischen Masken
+  grinsenden Seele eines Künstlers.
+
+
+
+
+Band XXIV der DICHTUNG
+
+  OSCAR WILDE
+  von
+  HEDWIG LACHMANN
+
+Mit 10 Abbildungen
+
+
+Urteile:
+
+  =Allgemeine Zeitung, München=: Ungeachtet der Schriftenflut, die sich
+  über den englischen Dichter und Lebenskünstler ergossen hat, ... wird
+  man diese einfach geschriebene, von innerlicher Wärme erfüllte, in
+  aller Bewunderung für ihren Helden massvoll abwägende, klar und fein
+  durchgeführte Schilderung gerne lesen.
+
+  =Strassburger Post=: ... Zu einer grundverschiedenen Dichternatur, dem
+  genialen, unglücklichen Engländer Oscar Wilde, führt den Leser Hedwig
+  Lachmann, die Wildes „Salome“ ins Deutsche übertragen hat. „Wie in
+  einer tragischen Dichtung aus Anlagen und Verhältnissen das Geschick
+  des Helden mit geradliniger Folgerichtigkeit herausrollt, so, als wäre
+  es von einem Dichterhirn ersonnen und in die Welt gestellt, spielt
+  sich das Leben Oscar Wildes ab.“
+
+  =Berner Bund=: „Die Dichtung“, die im Verlage von Schuster & Loeffler
+  herausgegeben wird, enthält wohl das Feinste, was bis jetzt in
+  Deutschland über den englischen Dichter geschrieben wurde. Sein Leben
+  und sein Werk werden als aus derselben Wurzel hervorgehend begriffen
+  und gewürdigt.
+
+
+J. C. C. Bruns’ Verlag, Minden i. W.
+
+
+
+
+  Edgar Allan Poes Werke
+
+  Kritische Ausgabe in 10 Bänden,
+  Herausgegeben und übersetzt
+  von _Hedda_ u. _Arthur Moeller-Bruck._
+  Brosch. 10 Bände
+  à M. 2.--, geb. 10 Einzelbände
+  à M. 2.50 od. 5 Doppelbände
+  à M. 5.--.
+
+  Band I: „_Leben und Schaffen_“ (enthält neben einer Vorrede die
+  _Lebensbeschreibung_ des Dichters durch seinen Biographen John H.
+  Ingram in Übersetzung, eine Darstellung von Poes künstlerischem
+  Schaffen aus der Feder Arthur Moeller-Brucks, sowie zwei Aufsätze
+  Poes). -- Band II: „_Gedichte_“ (enthält die metrisch gebundenen
+  Poesien, ein Dramenfragment und einige mehr lyrische Prosastücke).
+  -- Band III: „_Heureka_“ (enthält neben der grossen Kosmogonie selbst,
+  weitere mehr lyrische Prosastücke). -- Band IV: „_William Wilson_“
+  (enthält im allgemeinen die _romantisch-phantastischen Novellen_).
+  -- Band V: „_Der Geist des Bösen_“ (enthält im allgemeinen die
+  _Kriminalnovellen_). -- Band VI: „_Mesmeristische Enthüllungen_“
+  (enthält im allgemeinen die _spiritistischen Novellen_). -- Band VII:
+  „_Hans Pfaalls Mondfahrt_“ (enthält im allgemeinen die _aëronautisch-,
+  geographisch- usw. phantastischen Novellen_). -- Band VIII: „_Die
+  Abenteuer Gordon Pyms_“ (Roman). -- Band IX: „_Der Teufel im
+  Glockenstuhl_“ (enthält im allgemeinen die _Satiren_). -- Band X:
+  „_Der Engel des Wunderlichen_“ (enthält im allgemeinen die
+  _Grotesken_).
+
+  Die einzelnen Bände können einzeln bezogen werden, jeder Band bildet
+  ein abgeschlossenes Ganzes. Die Ausstattung des Werkes, dem eine
+  hervorragende literarische Bedeutung innewohnt, ist gediegen.
+
+
+Zu beziehen durch alle Buchhandlungen.
+
+Herrosé & Ziemsen, G.m.b.H., Wittenberg.
+
+
+
+
+  VERLEGT BEI
+  SCHUSTER & LOEFFLER
+  BERLIN UND LEIPZIG
+
+
+           *       *       *       *
+
+
+Fehler und Unregelmässigkeiten
+
+Westpoint; New-Jork; Rue de Morgue _usw._
+  _Namensformen im Originaltext ungeändert_
+Leonore; Eleonora _usw._
+  _Fehler für »Lenore« ?_
+
+„Die Dichtung“ (Reklame)
+  _Variation zwischen »Bd.« und »Band« ungeändert_
+[Abbildung: A Edgar Poe]
+  _Original ungeändert: Namen gehört zu das Bild_
+... vierzig Jahre alt.“
+  _Anführungszeichen fehlt im Original_
+Den Bädeker in der Hand.
+  _Original ungeändert: anderswo »Baedeker«_
+seine arme Dichterseele stark eingepfercht
+  _Original hat »stak«_
+die je gestellt wurde.
+  _Endpunkt fehlt_
+„They cannot die:
+  _Original hat »Thay«_
+Of my most immemorial year.
+  _Original hat »i memorial« mit unsichtbares »m«_
+’Tis the vault of thy lost Ulalume!“’
+  _Original hat »Ulalume!“‘« mit überflüssiges anführungszeichen_
+  _Oder: anführungszeichen fehlt am anfang des Dichtes_
+dem eine hervorragende literarische Bedeutung innewohnt
+  _Original hat »innnewohnt«_

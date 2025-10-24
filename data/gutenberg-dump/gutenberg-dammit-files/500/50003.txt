@@ -1,0 +1,3242 @@
++------------------------------------------------------------------+
+  | Anmerkungen zur Transkription                                    |
+  |                                                                  |
+  | Gesperrter Text ist als _gesperrt_ dargestellt, kursiver Text    |
+  | als =kursiv=, Fettschrift als $fett$ und Schrift in Antiqua als  |
+  | ~antiqua~.                                                       |
+  | Eine Liste der Änderungen befindet sich am Ende des Buchs.       |
+  +------------------------------------------------------------------+
+
+
+
+
+Schutz- und Trutzbündnisse
+in der Natur
+
+
+
+
+Kosmos, Gesellschaft der Naturfreunde, Stuttgart
+
+
+Die Gesellschaft Kosmos bezweckt, die Kenntnis der Naturwissenschaften
+und damit die Freude an der Natur und das Verständnis ihrer
+Erscheinungen in den weitesten Kreisen unseres Volkes zu verbreiten.
+-- Dieses Ziel sucht die Gesellschaft durch Verbreitung guter
+naturwissenschaftlicher Literatur zu erreichen im
+
+  Kosmos, Handweiser für Naturfreunde
+
+  Kriegs-Ausgabe.
+
+  Jährlich 12 Hefte mit 4 Buchbeilagen. Preis halbjährl. M 2.80.
+
+Diese Buchbeilagen sind, von ersten Verfassern geschrieben, im guten
+Sinne gemeinverständliche Werke naturwissenschaftlichen Inhalts.
+Vorläufig sind für das Vereinsjahr 1918 festgelegt (Änderungen und
+Reihenfolge vorbehalten):
+
+  $Wilh. Bölsche, Eiszeiten und Klimawechsel$ Reich illustriert.
+  Geheftet M 1.--
+
+  $Dr. Kurt Floericke, Forscherfahrt in Feindesland (Dobrudscha).$
+  Reich illustriert. Geheftet M 1.--
+
+  $Dr. Fischer-Defoy, Schlafen und Träumen$ Geheftet M 1.--
+
+Über einen weiteren Band folgt Mitteilung im Handweiser.
+
+Diese Veröffentlichungen sind durch _alle Buchhandlungen_ zu beziehen;
+daselbst werden Beitrittserklärungen (Jahresbeitrag nur M 5.60) zum
+$Kosmos, Gesellschaft der Naturfreunde$ (auch nachträglich noch für die
+Jahre 1904/17 unter den gleichen günstigen Bedingungen, jährlich zu
+M 4.80, Jahrg. 1917 M 5.60) entgegengenommen. (Satzung, Bestellkarte,
+Verzeichnis der erschienenen Werke usw. siehe auf den nächsten Seiten.)
+Der Kosmos kann während des Krieges auch $halbjährlich$ zum Preise von
+M 2.80 mit Buchbeilagen bezogen werden.
+
+
+$Geschäftsstelle des Kosmos$: Franckh’sche Verlagshandlung, Stuttgart.
+
+
+
+
+                      Schutz- und Trutzbündnisse
+                             in der Natur
+
+                                  Von
+
+                            Wilhelm Bölsche
+
+                  Mit vielen erläuternden Abbildungen
+
+                            [Illustration]
+
+                               Stuttgart
+
+                _Kosmos_, Gesellschaft der Naturfreunde
+
+             Geschäftsstelle: Franckh’sche Verlagshandlung
+
+                                 1917
+
+
+  Alle Rechte, besonders das Übersetzungsrecht, vorbehalten.
+
+
+  ~STUTTGARTER SETZMASCHINEN-DRUCKEREI
+  HOLZINGER & Co, STUTTGART~
+
+
+
+
+[Illustration]
+
+
+
+
+„Zwei Seelen wohnen, ach, in meiner Brust...“ Dieses Wort Fausts
+ist auch dem Naturforscher unserer Tage immer einmal wieder
+entgegengeklungen. Der alte Siebold mag sich daran erinnert haben,
+als es ihm in einer zoologischen Überraschungsstunde gelang, einen
+vertrackten Schmarotzerwurm der Karpfen, das ~Diplozoon paradoxum~,
+das angeblich zwei Darmkanäle und zwei Mundöffnungen hatte, auf solche
+Zweiseelenexistenz zurückzuführen: indem es sich nämlich um zwei
+Wurmindividuen dabei handelte, die jedesmal auf der Höhe ihres Lebens
+übers Kreuz miteinander zu einem neuen Doppelwesen verwuchsen (Abb. 1).
+Die Geschichte war aber doch harmlos gegen die andere, die ums Ende
+der 60er Jahre des 19. Jahrhunderts von deutschen Botanikerkreisen
+in die Welt ausging. Alexander von Humboldt, als er seinen „Kosmos“
+schrieb, hatte einmal gleichsam des Weltalls letzte Ecken in einen
+einzigen prächtigen Satz gefaßt: vom fernsten bläulich verglimmenden
+Nebelfleck bis zur letzten gelben Flechte am irdischen Granitfels;
+ihm erschien die Flechte dabei als die äußerste, fast kosmisch
+anspruchslose Anpassungsform des Lebens, wie sie, beinahe nur noch
+einer dürren mineralischen Farbkruste gleich, als einsamer Pionier
+zuletzt am splitterfasernackten Hochgebirgsstein unter der unendlichen
+Weltraumsöde hing. Eben von diesen Flechten insgesamt aber wurde damals
+plötzlich behauptet, daß sie gar keine richtige Pflanzenklasse für sich
+bildeten, sondern ebenfalls so diplozoonhaft, nur noch paradoxer, erst
+durch körperliche Verwurstelung und Verknotung von je zwei Vertretern
+himmelweit verschiedener Klassen einzeln zustande kämen. Ungefähr
+so, wie wenn der Elefant sich eines Tages als ein Mischprodukt aus
+einer Maus und einem Tintenfisch herausstellte, die nicht in kühner
+Ehe ein Kind erzeugt, sondern als ausgewachsene Wesen sich ineinander
+gekrempelt hätten.
+
+[Illustration: Abb. 1. ~Diplozoon paradoxum~, ein doppelter
+Schmarotzerwurm an Fischen.]
+
+[Illustration: Abb. 2. Heinrich Anton de Bary (1831-1888).]
+
+Der Sachverhalt erschien, abgesehen von dem großen Systemsturz, den
+er bedeutete, für allgemeine Lebensfragen so einzigartig merkwürdig,
+daß einer der Väter der Theorie, Anton de Bary (trotz des fremden
+Namens ein geborener Frankfurter und damals Professor der Botanik
+an der neuen reichsdeutschen Universität zu Straßburg, Abb. 2),
+auf der Naturforscherversammlung zu Kassel von 1878 einen Vortrag
+darüber für nötig hielt, der zugleich den Grundstein zu einem ganz
+neuen Forschungsgebiet weit noch über die Einzelfrage hinaus setzen
+sollte. De Bary legte den Schwerpunkt darauf, daß es sich hier um
+ein dauerndes ganz intimes Zusammenleben handle. Und zwar nicht
+bloß wie beim Diplozoon von zwei Individuen ein und derselben Art.
+Sondern von Vertretern verschiedener Arten, ja Klassen oder Stämmen.
+Nun kennen wir zwar eine Form solchen „innerlichen“ Zusammen- und
+Ineinanderlebens auch sonst und sogar persönlich mißlich. Der Bandwurm
+z. B. lebt zeitweise in unserem Menschenleibe und löffelt als übler
+Schmarotzer dort auf unsere Kosten mit. Bei den Flechten aber schien
+das einfache Zusammenleben zu einer im Gegensatz ganz friedlichen Lage
+geführt zu haben: zu einer wirklichen Genossenschaft in einer Art
+gemeinsamen Haushalts. Im einzelnen blieb hier für de Bary allerdings
+noch manches unklar. Aber er meinte, es müsse auf jeden Fall für
+dieses ganze hochinteressante Gebiet von engstem Zusammenhalten
+verschiedener Wesen systematisch gegensätzlicher Art ein neues Wort
+geschaffen werden, das zugleich ein Arbeitsprogramm für weitere
+Studien bedeuten könnte. Und so übersetzte er nach dem hergebrachten
+Fremdwörterbrauch der Forschung mit „_Symbiose_“, was wörtlich (aus
+griechisch ~syn~, zusammen, und ~bios~, Leben) eben nur das einfache
+deutsche „Zusammenleben“ wiederholt. Er ließ dabei offen, unter dieses
+ganz allgemeine Wort auch den Fall Bandwurm, wo der eine Mitleber den
+andern plagt, mitaufzunehmen, doch erschien auch ihm schon ersichtlich
+am wichtigsten das „Zweiseelengeschöpf“, bei dem die eine „Seele“ der
+andern brüderlich half. Und in diesem Zusammenhang verwies er auch
+schon auf eine im Verhältnis zu der noch nicht über 10 Jahre alten
+Flechtengeschichte uralte, fast hundertjährige wissenschaftliche Tat
+hin, die zu ihrer Zeit allerdings auch ein Abenteuer ersten Ranges
+gewesen war. Nämlich die große Entdeckung des trefflichen Rektors
+Sprengel zu Spandau von 1793, daß auch zwischen Blumen und Insekten,
+also genügend himmelweit verschiedenen Angehörigen sogar zweier
+gegensätzlicher Lebensreiche, eine Art solcher Lebensgemeinschaft
+bestehe. Die Blüte lieferte der Biene oder dem Schmetterling Honig, und
+das Insekt vermittelte dafür die Befruchtung der Pflanze. Hier war zwar
+von flechtenhaft oder auch nur bandwurmhaft dauerndem Ineinanderleben
+der Parteien nicht eigentlich die Rede. Aber dafür trat die friedliche
+Gegenseitshilfe besonders hübsch hervor, und de Bary nahm also
+versuchsweise auch diese Sprengelgeschichte (die kein Geringerer als
+Darwin selbst damals erneut in Umlauf gebracht hatte) unter seinen
+Titel auf.
+
+[Illustration: Abb. 3. Oskar Hertwig.]
+
+Wie gewöhnlich, wenn ein mehr oder minder glückliches Schlagwort
+zur Stelle ist, machte erst jetzt das Flechtenabenteuer der
+Spezialbotaniker das Gesamtaufsehen, das es verdiente. Als im
+Herbst 1883 abermals die Naturforscherversammlung tagte, diesmal in
+Freiburg i. B., ergriff der damalige junge Jenenser Zoologieprofessor
+Oskar Hertwig (Abb. 3) zu der Sache erneut das Wort. Er knüpfte
+unmittelbar an de Barys Vortrag an, spann den Faden aber jetzt für die
+Tierkunde aus. Er berichtete von wunderbaren Genossenschaftshaushalten
+sehr verschiedenartiger Tierarten (auch hier aus gegensätzlichen
+Klassen und Stämmen), die im Meeresgrunde bei Neapel merkbar
+würden, und enthüllte ganz besonders auch einen fabelhaften Fall,
+der an Sprengel anklang, indem Tiere darin ebenfalls mit Pflanzen
+zusammenhielten, zugleich sich aber diesmal beide Parteien wirklich
+flechtenhaft auf Lebenszeit ineinander verschachtelten. Das
+Entscheidende aber war, daß Hertwig, der dem Thema nach über „Die
+Symbiose oder das Genossenschaftsleben im Tierreich“ sprach (de
+Bary hatte allgemein „Die Erscheinung der Symbiose“ angekündigt),
+aufs unzweideutigste jetzt grade die Bedeutung der _friedlichen_,
+gegenseitig _fördernden_ Genossenschaftsbildungen einseitig hervorhob
+und in ihnen die eigentliche Grundlage einer „gesetzmäßigen Vereinigung
+ungleichartiger Organismen“, wie sie die Symbiose darstelle, sah.
+Vor einem Beispiel für schon höher entwickelte Tiere fiel bei ihm
+dabei gradezu das Wort von einem „Freundschaftsbund“ der aneinander
+angeschlossenen Parteien. Und das hat für die Folge, je mehr Beispiele
+sie anhäufte, zunächst über den eigentlichen Gebrauchswert des Wortes
+„Symbiose“ entschieden. Man hat sich gewöhnt, fortan unter wahrer
+Symbiose nur eben jenes im engeren Sinne _genossenschaftlich fördernde
+Zusammenleben_ zu verstehen, -- unter Ausschluß der bandwurmhaft
+aussaugenden und mißbrauchenden Einwohnerschaft. Dafür paßte dann
+freilich der Wortsinn nicht mehr ganz scharf, da er selbst ja nur das
+Zusammenleben überhaupt betonte, während andererseits solche loseren
+Fälle, wie der des alten Sprengel, die doch grade für jenen echten
+Genossenschaftsaustausch so sehr beweisend sind, in ihm wieder wie
+in einer zu engen Jacke steckten. Inzwischen ist’s ein Schlagwort
+geworden und lebt als solches fort, wobei man, wie so oft, schließlich
+nur den Klang noch hört und ihm selber den rechten Sinn unterlegt, ohne
+daß es auf die Buchstaben mehr viel ankäme. Will man aber aus gutem
+deutschem Ausdruck ersetzen, so würde sich das auch in unserem Titel
+gewählte „Schutz- und Trutzbündnisse zwischen Tier- und Pflanzenarten“
+empfehlen. Auf „Arten“ muß dabei aus gleich zu erörternden Gründen ein
+Nachdruck liegen.
+
+Die merkwürdige Naturerscheinung, die hier gefaßt ist und einige der
+gewiß seltsamsten Einzelentdeckungen aus dem Lebensgebiet zugleich
+berührt und erklärt, ist, wie dieser kurze Geschichtsabriß zeigt, eine
+echte Errungenschaft neuerer Forschung -- noch nicht vier Jahrzehnte
+dort alt. Von ihren ersten Ergründern ist de Bary erst 1888 gestorben,
+Hertwig lebt und lehrt noch. So jung ist die Definition und sind (wenn
+wir von Sprengels Insektengeschichte absehen) auch die Beobachtungen
+dazu aus dem Naturgebiet selbst. Denn auch die Flechtensache ist im
+einzelnen erst seither ordentlich geklärt worden. Freilich: über
+Schutz- und Trutzbündnisse in der Tier- und Pflanzenwelt allgemein gab
+es scheinbar schon die umfangreichste alte Literatur. Die ganze älteste
+Zoologie ist mehr oder minder anekdotischer Beispiele voll, das Volk
+erzählte davon. Dem Vater Herodot hatten sie bereits im alten Ägypten
+das Vöglein (einen Regenpfeifer) gezeigt, das dem Krokodil ins offene
+Maul krieche, um ihm die Zähne vom Ungeziefer zu reinigen, wofür der
+gutmütige Leviathan darauf verzichte, es zu verschlucken. Das meiste
+derart war aber unverfälschtes Jägerlatein. An der Krokodilgeschichte
+scheint etwas Wahres zu sein, doch ist bis heute nicht geklärt, ob
+sie wirklich an eine echte Symbiose anklingt. Durchweg aber steckten
+in diesem alten Wust loser Berichtchen auch sonst die gewöhnlichen
+Einzelfehler kindlicher Naturgeschichte. Die Sachen wurden als ganz
+isolierte Wunder tierischen oder gar pflanzlichen Genies geschildert,
+durchweg der Einzelintelligenz oder dem Einzelgemüt des betreffenden
+Wesens je nachdem bewundernd oder gerührt zugeschrieben. Davon nun
+unterscheidet sich jener neu entdeckte wissenschaftliche Begriff
+der Symbiose weit und grundlegend. Durch und durch Erzeugnis modern
+geschulten Naturforscherblicks, sucht er im Gegensatz eine streng
+gesetzmäßige Erscheinung. Wo Symbiose in seinem Sinne auftritt, da
+gehört sie, dauernd und von allen Individuen immer wieder geübt, den
+betreffenden Arten an wie ein Organ, angeschlossen heute an uralt
+eingepaukte Reflexe und Instinkte mit dem großen „Muß“ solcher.
+So romantisch gelegentlich auch hier die Beispiele selbst klingen
+mögen (wie bei den Flechten!) -- ihren Entdeckern lag alles ferner
+als romantische Gefühlsregungen. Das neue Feld eröffnete sich ihnen
+in ihrem nüchternsten Fachgebiet, all ihren auch sonst verwerteten
+exakt wissenschaftlichen und experimentellen Methoden zugänglich.
+Vor allem aber traf es bei ihnen in eine Stimmung, die keine frühere
+Naturbetrachtung so haben konnte, während sie uns heute allenthalben
+beherrscht. De Bary selbst gipfelte gleich seinen ersten Vortrag
+in einem lebhaftesten Hinweis auf Darwin. Dem „Maschinenbetrieb“
+gewissermaßen des äußeren Tier- und Pflanzendaseins auf Erden, wie ihn
+Darwin genial zu zeichnen versuchte, sollte sich auch das neue Phänomen
+dieser Symbiose restlos einordnen. Ich glaube, daß wir nichts Besseres
+tun können, als auch unsere Betrachtung ebenfalls gleich ohne Zögern
+auf diese „Darwinschau“ einzustellen.
+
+Nun, wie bekannt, ist Darwins großes Lebensgemälde allerdings zunächst
+der Idee von friedlichen Schutz- und Trutzbündnissen gewiß nicht
+günstig. Kampf steht vielmehr dort im Vordergrund. Nehmen wir irgend
+einen Blütenbaum. Ich erinnere mich aus dem Garten meines Elternhauses
+zweier uralter ungeheurer Birnbäume. Wenn sie im Frühjahr blühten, war
+es ein wahres Märchen, der ganze Garten lag noch einmal wie im Schnee,
+in den die Sonne vom blauen Himmel sah und aus dem die Bienen sangen.
+Oft später ist mir die ganze „Natur“, wenn ich das Wort irgendwo
+gebrauchte, im Bilde dieser Zauberbäume erschienen. Für Darwin aber
+ist solcher Baum zunächst nur der Schauplatz eines gradezu schaurigen
+Kampfes. Unendliche Massen von Lebensformen wirft die phantastisch
+schaffende Natur herauf, nur eine beschränkte Zahl aber kann bestehen.
+Die äußeren Verhältnisse hauen auf die Arten, die Arten zerfleischen
+sich untereinander, unzählige Individuen regnen beständig ab wie
+Blütenschnee. Dante in seiner Hölle hat keine härteren Bilder gemalt,
+als Darwins unbestechliche Hand hier von der Natur. Es ist wie in den
+Schrecken eines Schiffbruchs: die paar Planken gönnen nur wenigen Raum,
+diese stoßen sich zum Teil noch unabsichtlich herab, und die Letzten
+dezimiert das gräßliche Schlachtlos in der Hungersnot. So nimmt der
+Frost Blüten mit, andere fallen in der Raumnot vom Ast, soundso viele
+werden von Insekten gefressen, die selbst wieder in ihren verschiedenen
+Arten kannibalisch übereinander stürzen, um im ganzen von den
+niedlichen Singvögeln dezimiert zu werden, denen Raubvögel nachstellen.
+
+Aber schon in dieser harten „Maschine“ Darwins sehen wir doch auch
+ein Gegenbild. Jener schauerliche Kampf mit seinen ungezählten
+Schlachtopfern tobt nur zwischen den äußeren Verhältnissen und den
+Arten sowie den Arten unter sich. Er schweigt dagegen ganz oder doch
+größtenteils zwischen den Individuen ein und derselben Art.
+
+Grade der eigentliche scheußliche Kannibalismus des Artkampfes ist hier
+wie ausgelöscht, dafür herrschen Frieden, gegenseitige Hilfe, Sorge
+des Stärkeren für den Schwachen, Hingabe des einen für andere. Das
+Rotschwänzchen füttert seine Jungen, die Bienen sammeln für ihre Brut
+mit und stechen als hingebende Soldaten eines großen Familienstaats,
+wehrhafte Männchen schützen allenthalben die Weibchen, starke Weibchen
+die unmündigen Kinder. Was bedarf es auch hier der Ausmalung! Bei
+Quallen und Pflanzensprossen führt das zu unmittelbar auch körperlich
+zusammengewachsenen Geschwisterstaaten, bei Ameisen und Termiten zu den
+wunderbarsten freieren Instinktverbänden, und wir wissen schließlich
+alle, daß sämtliche höheren Pflanzen und Tiere mit Einschluß von uns
+Menschen ja als Einzelperson schon einen solchen Geschwisterbund aus
+zahllosen Zellen, einen „Zellenstaat“ mit großartiger, in den Organen
+offenbarter Arbeitsteilung, darstellen. Also es _gibt_ auch friedliche
+Möglichkeiten, -- auch in der harten Darwinwelt des Vorteils; Frieden
+muß eben hier das Vorteilhaftere sein.
+
+Aber auch bei den so wüst einander bekämpfenden Arten selbst gewahren
+wir bei genauem Hinsehen einen sehr interessanten tiefsten Sachverhalt.
+Auch dort geht der noch so erbitterte Zerfleischungszwist durchweg
+nicht auf wirkliche Vernichtung. Sondern es ist, als werde immer nur
+ein gewisser _Überschuß_ gewaltsam abgeschöpft, der im Gesamtkonto
+jeder Art entbehrt werden kann. Der Birnbaum, die Insektenarten, die
+Vögel, jetzt dezimiert, sind als Art doch im nächsten Jahr wieder da,
+wenigstens durchweg. Selbst die äußeren Verhältnisse mit ihren Dürren,
+Frösten, Hagelschlägen schöpfen meist nur solchen Überschuß ab. Auf
+die Dauer geologischer Zeiträume mögen sie allerdings mit stärkeren
+Mitteln auch ganze Arten ausrotten. Aber bei den Arten unter sich
+reicht offenbar in der Regel der Überschuß, der Luxus gleichsam schon
+zur Erhaltung des Gleichgewichts. An sich ist das Abheben dieses
+Überschusses ja eine leidige Notwendigkeit. Können doch die Tiere
+im ganzen überhaupt nur leben, indem sie von der Pflanzenschöpfung
+mitzehren; trotzdem grünt aber diese Pflanze in aller Fülle der Kraft
+bis heute, sie hat eben offensichtlich von je so viel Überschuß in
+Blättern, Wurzeln, Früchten erzeugen können, daß der ganze Grundstamm
+der Tierwelt mühelos davon mit unterhalten werden konnte; was aber die
+Tiere noch mehr brauchen, das erheben sie in Überschußabnahme wieder
+voneinander als Tribut gefressener anderer Tiere, ohne daß doch auch
+da wirkliche Werte vertilgt würden; der Leopard lebt seit undenklichen
+Zeiten neben der Antilope, dezimiert sie, aber beide bleiben. Ja,
+das ganze ungeheure Arsenal an Waffen und Schutzinstinkten, das die
+einzelnen Arten gegeneinander aufstellen, scheint in diesem Sinne
+nur dazu zu dienen, daß bei dem gewaltsamen Überschußabschöpfen kein
+Mißbrauch getrieben wird, der wirklich zu solcher Vernichtung führen
+könnte. Es schützt soundso viel Individuen als eisernen Bestand, der
+bleiben muß, während der Rest dareingehen mag. Pfiffige Gegner meinten
+wohl der Theorie z. B. von den Schutzfärbungen damit ein Bein stellen
+zu können, daß sie nachwiesen, kein Schutz derart wirke unter allen
+Umständen sicher. Weismann hat darauf aber schon vor Jahr und Tag
+geantwortet, solcher absolute Schutz sei auch gar nicht der Zweck;
+bei ihm stürze der ganze Naturhaushalt ein; soundso viel Prozent etwa
+rinden- oder blattähnlicher Insekten müßten trotzdem den andern zum
+Opfer fallen, dieser Überschuß könne aber entbehrt werden, wenn nur ein
+gewisser Stamm oder eiserner Bestand durch den Schutz davon komme; in
+der Tat ist mir keine einzige absolut wirkende Schutzanpassung bekannt.
+
+Erwägt man aber das, so sieht man auf eine neue Möglichkeit.
+Schließlich hätte sich auch hier bei den Arten am Ende alles viel
+friedlicher regulieren lassen. Auf Grund dessen, daß ja doch auch
+hier zuletzt nur ein gegenseitiges Unterstützungsverhältnis vorliegt.
+Wenn nun der besagte „Überschuß“ allgemein _freiwillig_ abgegeben
+worden wäre? Vielleicht hätte er nicht immer durch den Tod ganzer
+Individuen mit allen Schrecken eines solchen zu gehen brauchen.
+Jeder einzelne hätte bereits ohne Lebensgefahr seinen Teil Überschuß
+abgeben können, etwa wie auf jener friedlichen Seite die Mutter Blut
+oder Milch an ihre Jungen wendet, ohne daß diese Jungen sie deshalb
+auffressen müßten. Dabei konnte die allgemeine Gegenseitigkeit der
+Überschußnutzung vielleicht noch schärfer herausgearbeitet werden,
+indem eine Art etwa geradeso viel Überschuß von der andern übernahm,
+wie sie selbst gewährte. Solche Arten hätten ihre Waffen gegeneinander
+abschaffen und gegen den gemeinsamen Feind in den äußeren Verhältnissen
+richten können, dort sich mit dem unterstützend, was sie hier sparten.
+So hätten sich Schutzverbände aufrichten können auch zwischen
+Gattungen, Klassen, Reichen, die auf niederen Stufen vielleicht
+wieder zu körperlichen Verwachsungen führten, auf höheren zu freier
+Angliederung, wo jeder so weit selbständig blieb, aber zugleich mit
+dem andern auf ~do ut des~ (Geben und dafür Nehmen) friedlich in
+Geschäftsanschluß stand. Bis zu dem letzten Ideal einer vollkommen auf
+Austausch und Arbeitsteilung unter sich geeinigten Lebenswelt, die sich
+nun mit ganzer Kraft in immer weiter gehender Eroberung und Anpassung
+mit den großen Elementargewalten dieser Erde auseinanderzusetzen hätte.
+Man braucht die Dinge durchaus nicht sentimental anzusehen, um sich
+doch auch hier einen großen Vorteil denken zu können.
+
+Nun, wir wissen, daß das in _solchem_ Umfange _nicht_ erfüllt ist.
+Der Kampf beherrscht tatsächlich im weitesten Maße das Artbild, wie
+es vor uns steht. Ob die Natur trotz ihrer geologischen Jahrmillionen
+nicht Zeit fand, auch hier die friedliche Regelung durchzusetzen?
+Ob eine gewisse zentrifugale Zersplitterung auf gewisser Breite des
+Lebens zu stark widersprach? Das organische Leben auf Erden hat ja von
+Beginn an wohl zweifellos eine Einheitstendenz gehabt, von gemeinsamem
+Urzustand her und innerster Gleichartigkeit. Aber daneben muß sich
+auch eine Art zentrifugaler Bewegung früh schon in ihm geltend gemacht
+haben, die sozusagen atomistisch auseinander trieb, und ihr Hauptwerk
+steht ja eben in der Verschiedenheit der Arten vor Augen; möglich
+also, daß grade hier zunächst zuviel entgegenstand. Oder war (hier lag
+wohl Darwins eigene Meinung) auch hier zunächst noch ein Teil grober
+Individuenauslese zur Stählung des Ganzen im Kampf eingeschaltet,
+die nicht so rasch in allgemeine Verbandsauslese umgeschaltet werden
+konnte? Doch verirren wir uns nicht in letzte Gründe, wie sie
+einstweilen in all diesen Lebensfragen (auch mit Darwin) problematisch
+bleiben, und halten uns weiter an das sichtbare Wirklichkeitsbild.
+So wäre immerhin im Sinne des Gesagten jetzt _möglich_, daß aus ihm
+_einzelne_ Beispiele auch dieses Artfriedensschlusses sich im Laufe der
+Zeiten losgerungen hätten an Stellen, wo doch die höhere Nützlichkeit
+schon entscheidend einmal überwog. Und hier jetzt wäre etwa der Punkt,
+wo wir auch ein solches Symbiosebeispiel ohne Zwang und ganz nüchtern
+mitten aus dem Darwinbilde, gewissermaßen, um das Wort zu wiederholen,
+aus der großen „Maschine“ Darwins selbst, verstehen würden. Wir würden
+verstehen, daß, wie die Dinge einmal liegen, seine Anfänge sich
+zunächst mitten im härtesten Kampf selber zeigten, an diesen Kampf
+irgendwie anknüpfend wie ein Teil von ihm, -- daß aber dieser Kampf
+irgendeinen zuerst kleinen Anlaß und Ausweg geboten hätte, -- daß dann
+die Maschine der größeren Nützlichkeit auch hier eingesetzt und in eine
+Linie getrieben hätte, die tatsächlich aus dem Kampf fort und in den
+genossenschaftlichen Frieden hineinführte. Weil eben doch hinter dem
+ganzen Kampfe beständig latent die Möglichkeit eines Friedensschlusses
+als höhere Instanz im Sinne des Gesagten gestanden hätte...
+
+Suchen wir uns das jetzt an ein paar einfachen Beispielen, zunächst
+mitten aus dem Kampfe selbst entnommen, zu vergegenwärtigen.
+
+[Illustration: Abb. 4. Wegwespen mit ihrer Beute (Spinnen).]
+
+Daß der Artenkampf heute noch im weitesten Umfange tobt, dafür braucht
+es als Zeugnis nur eines einzigen Kreuzspinnennetzes etwa mit seinen
+Schlachtopfern. An sich, als Kampffalle, ist solches Spinnennetz ja
+ein Wunderding. In jedesmal unendlicher Feinarbeit hat die Spinne
+erst ein Fadendreieck hergestellt, dann ein Viereck eingesetzt, in
+ihm Speichen gezogen und zuletzt über diese Speichen eine riesige
+Spirale aus Klebfäden gerollt. An einer Stelle des Ganzen lauert sie,
+bis eine Erschütterung in der Spirale sie wie mit einem Klingelzug
+benachrichtigt; nun fährt sie ein, packt das angeklebt sich sträubende
+Insekt, knebelt es in raschem Herumwirbeln ganz, tötet es durch Giftbiß
+und verzehrt es, indem sie eigenen Magensaft in den Leib des Opfers
+ergießt und den so vorverdauten Inhalt aufsaugt. Alle diese sinnreichen
+Dinge aber dienen nur dem Schlächterhandwerk. Kein Zweifel: hier ist
+reiner Kampf ohne Gnade; das Opfer, um verzehrt zu werden, wird gepackt
+und augenblicklich ganz zerstört. Der gleiche Kampf bietet aber nun
+auch ein Bild, wo es gelegentlich der Spinne selbst an den Kragen
+geht. Auf unsern Waldpfaden kann man die bekannten muntern Wegwespen
+(Abb. 4) beobachten, wie sie dicke Kreuzspinnen mit ihrem Giftstachel
+geschickt ins Bauchmark stechen und die so gelähmten in ihre Nesthöhlen
+schleppen, wo das wehrlose Opfer in einer Art Narkose oder Scheintod
+so lange liegen und warten muß, bis die junge Wespenlarve auskriecht
+und es wie eine Proviantwurst bei lebendigem Leibe auffrißt. Fabre hat,
+wie man weiß, anziehend von der Treffsicherheit solchen vorläufigen
+Stichs zu erzählen gewußt, und M. Müller hat gelegentlich festgestellt,
+daß die unglückliche Spinne über 70 Tage so in Lähmung, aber immer
+noch lebend, liegen kann. Man könnte sich aber vielleicht eine noch
+sinnreichere Methode denken, bei der das Ei unmittelbar in die Spinne
+selbst gelegt würde, die dann frei herumlaufen könnte und doch den
+Tod mit sich trüge. Und auch das machen Schlupfwespen mit gewissen
+Raupen vor (Abb. 5). Die Schmetterlingsraupen werden mit Wespeneiern
+bestiftet, die erst nach einiger Zeit in ihnen auskommen. Die Raupen
+leben eine Weile noch hin, als sei nichts geschehen, und mästen sich
+weiter wie kleine Fettschweinchen, die Schlächter aber sitzen ihnen
+im Leibe. Eines Tages kriechen die Larven auch hier aus und beginnen
+von innen zu fressen. Kommen die Raupen noch zur Verpuppung, so werden
+die Puppen leer gefressen und die Wespenpuppen treten an Stelle ihres
+Inhalts. Vollzieht sich das Verhängnis bereits in der Raupe, so wird
+berichtet, daß die Fresser anfangs noch die edleren Teile des Opfers
+schonen, um möglichst lange Profit von seinem Leben zu haben, und sogar
+ihre eigenen Exkremente unterdrücken, um ihr Mastschweinchen nicht vor
+der Zeit zu vergiften. Und erst wenn sie selber zur Verpuppung reif
+sind, durchlöchern sie rücksichtslos die Haut der entkräfteten Raupe,
+die nun unter letzten Qualen abstirbt. Die ausquellenden flockigen
+Wespenkokons an der vertrockneten Haut sind dann die „Raupeneier“ des
+Volksglaubens, es handelt sich aber, wie man sieht, um einen weit
+grausigeren Vorgang, als bloß eine normale Geburt wäre.
+
+[Illustration: Abb. 5. Raupe eines Spinners, aus der sich die
+ausgewachsenen Larven einer Schlupfwespe hervorbohren, um sich zu
+verspinnen.]
+
+Bei diesen letzten Beispielen, die an sich ebenfalls kraß im Kampf
+verharren, erscheint doch, wie man beachten möge, schon ein feiner
+Unterschied. Auf der einen Seite schlägt der Raupenfall ausgesprochen
+in jene engere Kampfesart, die wir schon beim Bandwurm erwähnten: der
+Schlächter oder Fresser mietet sich unmittelbar im Opfer selbst ein.
+Lange ehe das Wort Symbiose geschaffen wurde, hat man das bereits
+gewohnheitsmäßig als „Parasitismus“ bezeichnet. Der Parasitismus ist
+offenbar von früh an eine der allererfolgreichsten Kampfesformen
+gewesen, denn seine Beispiele dort sind Legion, -- von der bösen
+~Cuscuta~, dem Teufelszwirn, der sich wie ein Polyp an andere Pflanzen
+saugt, die eigene Wurzel aufgibt und dafür mit gierigen Freßmäulern in
+Gestalt eingesenkter Zellbündel den fremden Pflanzenleib durchwühlt
+und ausnutzt, -- bis zu einem so hochentwickelten Tier wie noch dem
+Fisch Neunauge, das als Inger Dorschen oder Butten unter den Bauch
+kriecht, die Haut durchraspelt, dann (man versteht, unter was für
+Qualen für das Opfer) mit ganzer Person einschlüpft und das Innere
+ausräumt. Eben dieser Parasitismus stellt aber zwischen Vernichter
+und Beute ganz von selbst ein näheres Verhältnis her in dem Sinne,
+daß sich dieser Vernichter zunächst noch eine Weile mit dem noch
+_lebenden_ Opfer beschäftigen muß. Er muß so lange mit ihm hausen,
+sich seinen eigenen Gewohnheiten anpassen, in eine tatsächliche kurze
+Lebensgemeinschaft mit ihm treten, wenn auch eine im letzten Zweck
+feindliche. Damit verknüpft sich aber alsbald ein zweites. Bei der
+Spinne als lebendiger Dauerwurst wie bei der Raupe als Fettschweinchen
+gewinnt der Schlächter im Banne der Naturzüchtung ein Interesse,
+sein Schlachttier vorübergehend (wenn auch mit bösester Endabsicht)
+in diesem Leben selber noch zu _schonen_, ja Mittel und Wege seiner
+zeitweisen Lebens_erhaltung_ von sich aus zu suchen, -- wie das ja
+besonders in der bloß narkotisierten Spinne hervortritt. Ein Schritt
+nur scheint es, daß das Opfer auch schon so lange gradezu geschützt,
+daß es mit verteidigt würde. Dazu aber nun ein weiteres Exempel.
+
+[Illustration: Abb. 6. ~A~ Bernsteinschnecke auf Pflanzenblatt
+mit sogenanntem ~Leucochloridium~ (in die Fühler einwachsenden
+Keimschläuchen eines Wurmes, die Vögel zum Abreißen und Fressen
+animieren). Natürl. Größe. Nach Loos, ~B~ Das ganze aus der Schnecke
+herauspräparierte ~Leucochloridium~. Dreifache Vergr. Nach Vosseler.]
+
+Auf unsern Sumpfwiesen leben die kleinen Bernsteinschnecken, die mit
+ihrer Blätternahrung öfter die Brut eines Saugwurms, des ~Urogonimus
+macrostomus~, verschlucken und damit solchen lebenden Wurm als
+Parasiten in den Leib bekommen. Dieser Wurm hat aber nicht den Trieb,
+die Schnecke selbst innerlich auszufressen, sondern er erwartet, daß
+sie von einem Vogel, etwa einem Rotkehlchen, gefressen werde, worauf
+er im Vogeldarm wirklich bandwurmhaft saugen kann. Dabei aber liegt es
+ebensosehr in seinem Interesse, daß die Schnecke nicht bloß _einmal_
+so gefressen werde, denn dann käme er jedesmal nur in einen Vogel,
+während seine Kraft tatsächlich langt, in solcher Schnecke schon
+mehrere Generationen aus sich hervorzutreiben, die für verschiedene
+Vögel reichten. Zu dem Ende stellt er an der Schnecke das sogenannte
+„Leucochloridium“ her, eines der wunderbarsten Gebilde des gesamten
+Naturkampfs. Er treibt nämlich je einen wurstartigen Schlauch, mit
+junger Brut gefüllt, in jeden der beiden Fühler der Schnecke, der
+diesen Fühler prall zum riesigen Kolben ausweitet, der die bunten
+Ringel und den Kopf einer fetten Insektenmade vortäuscht und sich auch
+in entsprechenden Windungen an der Schnecke bewegt (Abb. 6). Die Vögel
+reißen die Dinger in der Tat als vermeintliche Leckerbissen solcher Art
+ab und verschlucken sie, so mit dem Wurm in dieser Generation gesegnet,
+während die Schnecke im ganzen davonkommt und auf Grund erstaunlicher
+eigener Lebenszähigkeit bald die Verstümmelung ersetzt, -- worauf
+der Wurm bandwurmhaft sprossend ein neues Leucochloridium baut und
+einen neuen Vogel mit einer neuen Keimfracht seines Volkes täuschend
+belädt. Und so fort bis zum natürlichen Altersende von Schnecke und
+Wurm. Inmitten der Gewaltsamkeit des Kampfes treten hier offenbar neue
+lehrreiche Züge hervor. Einerseits bei der Schnecke selbst: sie opfert
+immer nur, wenn schon unter Gewalt und Verlust, einen _Teil_ von sich
+auf, kommt aber dafür im ganzen davon. Viel bedeutsamer aber noch ist
+das Verhalten des Wurms. In seinem Vorteil liegt es, die Schnecke
+zwar immer wieder zu einem Opfer zu nötigen, aber zugleich auch zum
+Zweck der Wiederholung zu erhalten. So erzwingt er das Teilopfer,
+rettet sie aber grade dadurch im ganzen; denn durch den befriedigenden
+Lockbissen des Leucochloridiums werden offensichtlich soundso viel
+herumstöbernde hungrige Vögel abgehalten, die Schnecke ganz aus ihrem
+Hause herauszufressen. Recht besehen, tritt auch hier bereits ein
+merkwürdiges _Wechsel_verhältnis beider Teile inmitten einer scheinbar
+noch wüsten Kampfbrutalität und Ausnutzung in Kraft: der Parasit hat
+Vorteil vom Opfer, aber auch dieses Opfer zieht jenseits aller Roheit
+des Eingriffs einen überwiegenden Vorteil vom Parasiten, indem er ihm
+sein Leben im ganzen verlängert und es gleichsam dazu erzieht, durch
+Aufgabe eines mehr oder minder überschüssigen Teils das Ganze zu retten.
+
+[Illustration: Abb. 7. weiblicher Bitterling (~Rhodeus amarus~), der
+mit Hilfe seiner Legeröhre ein Ei in eine lebende Malermuschel (~Unio
+pictorum~) legt.]
+
+Wir betrachten aber noch einen Fall. Ein kleiner hübscher Fisch
+unserer Gewässer aus der Verwandtschaft der Karpfen, der im
+Hochzeitskleid vielfarbig schillernde Bitterling, praktiziert mit Hilfe
+einer langen Legeröhre seine Eier sehr geschickt in die bekannten
+Malermuscheln (Abb. 7), wo in den Kiemen des lebendigen Muscheltiers
+die junge Fischbrut auskommt, -- im äußern Bilde also wie Wespe zu
+Raupe, nur daß sich diesmal die Jungfischchen mit der geschützten
+Wiege im Fremdtier begnügen und nachher gänzlich harmlos wieder
+ausschwärmen, ohne an der Muschel selber gefressen zu haben. Umgekehrt
+aber klammert sich die Jungbrut der Muschel, wenn sie ausgeschwärmt
+ist, an erwachsene Bitterlinge oder in Ermangelung andere Fische und
+läßt sich von ihnen eine Weile herumtragen, bis sie einen guten Fleck
+zum dauernden Neuansiedeln findet, -- wobei von ihr immerhin etwas,
+aber auch in der Regel harmlos, vom Fisch gezapft wird. Diesmal ist
+man wirklich schon nahezu über die Wasserscheide zwischen Kampf und
+Frieden hinaus. Man könnte fast versucht sein, von dem zu reden, was
+ein ebenfalls älteres Forscherwort „Synökie“ genannt hat (von ~oikos~
+griechisch Haus): einfaches indifferentes Sicheinmieten eines Wesens
+bei einem andern ohne Schaden des Wirtes. So sitzen am Seestrande die
+allbekannten kleinen weißen Seepocken (in Wahrheit seßhafte Krebschen
+in ihren Kalkhäuschen) auf den blauen Miesmuscheln auf, sich selbst
+zur Bequemlichkeit, für die Muschel indifferent. Oder es geht der
+sogenannte Schiffshalterfisch mit einer Kopfscheibe gleichsam angeklebt
+am Bauch großer Haifische oder auch der Menschenschiffe friedlich mit
+als einem kostenlosen Fahrzeug zweiten Grades, das den kleinen „blinden
+Passagier“ gar nicht merkt. Immerhin ist bei der Muschel am Bitterling,
+wie gesagt, noch eine geringe Selbstschröpfung auch des Trägers da,
+aber es wäre ein leichtes, auch sie noch friedlicher umzudenken in
+der Weise eben jenes Schiffshalters, der nicht mehr an seinem Fisch
+körperlich saugt, wohl aber gern von den äußeren Nahrungsabfällen
+des Großen profitiert. Das Interessanteste aber ist wieder die
+Gegenseitigkeit der Hilfe: dem Fisch bietet die Muschel Unterschlupf
+und er selber ihr Fahrgelegenheit. Die Sache ist auch hier noch nicht
+ganz rein, sozusagen noch verzettelt; die Muschel kann gelegentlich
+auch andere Fische benutzen als den Bitterling wieder selbst; aber man
+fühlt, wie rasch diesmal ein ganz mathematisch klappender Fall auf ~do
+ut des~ unter weitestem Friedensanschluß sich durch etwas dramatische
+Zusammenschiebung auf Orts- und Zeiteinheit herausdenken ließe. Wenn
+aber jeder schließlich reinen Vorteil vom Domizil am andern hat: wie
+nahe läge auch hier irgend eine Mitverteidigung dieses gastlichen
+Domizils durch ihn selbst? Manche selbst winzigen Fischchen schirmen
+wütig ihr Nest, z. B. die Stichlinge: hier ist das Nest die Muschel,
+warum also nicht sie ebenfalls schützen, wovon dann sie selbst wieder
+den Dank ihrer Patenschaft hätte? Fast wundert man sich, daß es im
+Beispiel nicht wirklich schon so ist. Und selbst von den Muscheljungen
+am Fisch (den „Glochidien“, wie man sie zu nennen pflegt) ließe sich
+zur Not so etwas aussinnen, wenn man sieht, wie sich gelegentlich
+solche Mollusken (z. B. viele Schnecken) mit allerhand Stink- und
+Farbsäften (der bekannte Purpur ist nur solche Schutztinte), ja im
+äußersten Falle sogar mit richtiger ausgespritzter Schwefelsäure,
+die auch dem heftigsten Angreifer des Fischs nicht genehm sein
+könnte, verteidigen. Friedensschluß, Gegenseitigkeit, synökische
+Sitzgelegenheit für den Unrast und ebensolche Wandermöglichkeit für
+einen Sitzer, Nährabfall als bequemster Überschuß ohne Teilverlust am
+Leibe selbst, Waffenaustausch: -- mit diesen Einzelstücken können wir
+uns aber jetzt schon folgende Geschichte fast ganz aufbauen, soviel
+eigene Besonderheit sie im üppigen Proteusspiel der Natur wieder haben
+mag.
+
+Jene Säureschnecken (es sind besonders die großen Tritonen, die so
+Seeigel wie mit chemischen Stichflammen in ihrem Stachelpanzer
+anbrennen und zersetzen) dürfen uns an ein anderes Tiervolk mit
+allgemein solchem ähnlichen Höllenapparat erinnern. Das war ja eine
+der schauerlichsten Vorstellungen alter Sage: der Lindwurm, der gegen
+seinen Siegfried rotes Feuer spie, -- eine Vorstellung, bei der ich
+in diesem Falle übrigens immer an die flammrote vorgeschnellte Zunge
+unserer heute noch großen und einst in junger geologischer Zeit
+riesigen Waraneidechsen habe denken müssen. Wenn auch nicht mit solchem
+echten Feuer, so doch mit Ätzhauch zu arbeiten, ist aber wieder eine
+wirkliche uralte Kampfpraxis der Natur. Der Bombardierkäfer macht
+Angriffe mit knallender Salpetersäure, unsere roten Waldameisen gehen
+mit hohen Garben Ameisensäure vor. In den kanülenhaft durchbohrten
+und bei Berührung oben abbrechenden Schutzhaaren der Brennessel
+wird das zum richtigen Giftdolch, in den Brenngift einfließt, und
+wieder dessen tierischer Gipfel ist der ähnlich hohle und von
+Giftspeichel durchströmte Mordzahn der Viper. Eng an die Brennessel
+knüpfen zunächst nun als Naturtechniker ersten Ranges auf diesem
+Gebiet auch die unmittelbar so genannten Nesseltiere (Cnidarien vom
+griechischen Wort für Nessel) an, als Stamm auch als Cölenteraten und
+Pflanzentiere, im engeren volkstümlicher als „Polypen“ bezeichnet,
+wobei aber nicht der Polyp als Tintenfisch (der zu den Mollusken
+zählt), sondern etwa unser kleiner grüner Süßwasserpolyp, die Hydra,
+oder, im Anschluß daran, alle Seerosen, Korallen und Genossen, sowie
+die auch wieder da hinein eng verschwisterten Quallen oder Medusen
+gemeint sind. Die meisten dieser Polypentiere führen trotz echter
+Tiernatur doch noch wieder ein pflanzenhaft seßhaftes Leben, und auch
+die zwar frei schwimmenden Quallen (die ursprünglich übrigens alle
+nur zeitweise zu Geschlechtszwecken abgelöste Sitzpolypen darstellen)
+haben bei schutzlos weichem, größtenteils wasserdurchsetztem
+Körper nur erst äußerst mangelhafte Selbstbestimmung. So taten
+hier brennesselhafte Wehr- und Lähmwaffen besonders not, die bei
+Fremdberührung gewissermaßen einen geheimen Zauberbann um die zarte
+tierische Blüte zogen und in denen das einfache Nesselprinzip sich
+dann mit dem Explosionsprinzip vereinigte. Auch diese Explosion,
+allerdings die nicht feurige, kalte, ist ja eine alte Naturtechnik:
+die wilde Balsamine, das „Kräutchen-rühr-mich-nicht-an“ unserer
+Wälder, streut schon durch Spiralfederschuß seiner Schoten bei
+Berührung seine Samenkörner herum, und die italienische Vexiergurke
+schleudert durch eine ähnliche innere Federmechanik beim Abbrechen dem
+Nichtsahnenden ihren ganzen Ekelinhalt weithin ins Gesicht. Am Polypen-
+und Quallenkörper aber sitzen durchweg ungeheure Massen winziger
+Kapseln, von denen jede eine Art solchen kleinen, aber mit Brennstoff
+zugleich geladenen Explosivkörpers darstellt, bereit, ebenfalls
+bei der Berührung oder schon bloßen Annäherung eines feindlichen
+Fremdkörpers auf ein Nervenzeichen hin mit aller Wucht zu explodieren.
+In zusammenfassendem Bilde (die Einzelmethoden schwanken je nach der
+Art) kann der Hergang etwa so beschrieben werden, daß auf irgend einen
+gröberen oder feinen, mechanischen oder chemischen Nervenreiz hin
+auf der Spitze der Kapsel ein Deckelchen sich lüftet, worauf Wasser
+(alles spielt sich ja im Wasser ab) in das Innere eindringt und dort
+eine quellbare Gallertsubstanz zur elastischen Explosion bringt;
+dadurch wird ein handschuhfingerartig hineingestülpter Schlauch mit
+voller Gewalt ausgekrempelt und ausgestoßen, mit scharfen Dornen in
+die Haut des Angreifers eingebohrt und nachgeschoben, während sich
+gleichzeitig aus seinem Innern die konzentrierteste Brennflüssigkeit
+in die Wunde ergießt. Die Verletzung ist höchst unangenehm, wie
+vielleicht im kleinen mancher Leser aus dem Zusammentreffen mit einer
+gewöhnlichen Qualle im Seebade weiß. Es gibt aber Riesenquallen
+und große schwimmende Quallenkolonien (z. B. Physalia), die nackte
+Schwimmer auf Tod und Leben so verbrennen können. Vielfach werden
+die Giftkapseln von besonderen Sammelstellen entsandt, oder sie
+können auch selber noch einmal an langen, über und über gespickten
+Schleuderlassos sitzen, und ihre Macht ist einzeln furchtbar genug,
+sich spielend selbst durch den harten Panzer eines Krebses zu ätzen. Wo
+die Polypen- oder Quallentiere, wie es in diesem Reiche häufig Brauch,
+zu größeren Familiengenossenschaften mit Arbeitsteilung der Geschwister
+zusammenhalten, da tritt auch diese Verteidigung sinnreich in den
+Verbandsdienst, indem sie besonderen Soldaten in der Kolonie einseitig
+anvertraut wird. In vielköpfigem Gewimmel sitzt in solchem Falle etwa
+ein Polypenvolk von in sich gleicher Art auf irgendeiner Unterlage
+beisammen, alle auf diesem Fundament noch einmal durch ein besonderes
+Wurzelgeflecht mit Kanalanschluß körperlich verknüpft. In diesem Kanal
+wird eine gemeinsame Familiensuppe rund getrieben, die von einigen
+besonders gierigen und maulbegabten „Freßpolypen“ für alle mit bereitet
+wird. Daß aber das Ganze nicht von außen bedroht werde und zugleich
+diesen „Familienmägen“ die nötigen Schlachtopfer zugewiesen werden
+können, dafür sorgen in der sinnigen Berufsteilung die „Wehrpolypen“,
+die, mit Kapseln wurfbereit ausgerüstet und gleichsam am ganzen eigenen
+schlanken Leibe in solche Schleuderlassos verwandelt, ständig auf der
+Lauer gegen Feinde oder zu lähmende unvorsichtige Beutetiere liegen.
+Blumenschön und blumenhaft wehrlos, wie diese bunten, oft kristallhaft
+durchsichtigen Nixenkinder in ihren Wassergründen erscheinen, bilden
+sie doch mit dieser raffinierten Technik dort eine keineswegs zu
+verachtende Großmacht des unteren Lebenskampfs.
+
+Aber sonst leiden sie doch auch an mancherlei Übelständen der
+Seßhaftigkeit. Vom freien Ortswechsel auf der Nahrungssuche, diesem
+Obervorrecht sonst des Tieres, das doch nicht wirklich pflanzenhaft den
+Boden am Fleck aussaugen kann, erscheint der Polyp, solange er sitzt,
+leidig entfremdet. Wohl kann er seine Unterlage selbst gelegentlich
+sinnreich verbessern, sich durch eigene mineralische Ausscheidung
+sozusagen auf immer besseren Stuhl setzen, -- wie ja das hierher
+gehörige üppige Tropenvolk der Korallen in vereinter Kraft seiner
+Generationen durch solchen fort und fort nachwachsenden Kalkbau dem
+Sinken eines ganzen Ozeanbodens Trotz zu bieten wagt. Dennoch müßte der
+einzelnen Seerose oder solcher Polypenkolonie manchmal recht erwünscht
+sein, wenn sie auch noch die Gabe des Märchens besäßen, den Fels, an
+dem sie haften, nicht bloß aufwärts zu strecken, sondern wagerecht mit
+ihnen fortkriechen zu machen. Und da mag es seit alters geschehen sein,
+daß der Zufall nachhalf. Einzelne Kiesel, an die sich solche Seerose
+im sonst schlecht faßbaren Schlick angeklammert, rollten im Flutspiel
+ein Stück weit mit ihr dahin, oder ein leeres, leicht verschobenes
+Schneckenhaus tat noch williger diesen passiven Dienst. Aber es geschah
+auch, daß in diesem Haus von tierischer Arbeit noch die Erbauerin,
+die Schnecke selbst, saß. Die Seerose war dann wieder Gast der
+Hausbesitzerin in zunächst harmloser „Synökie“. Solcher Schnecke selbst
+aber war nicht bloß zufälliger, sondern jederzeit selbstwilliger, wenn
+auch langsamer Ortswechsel beschieden, bei dem sie alle Male jetzt den
+blinden Passagier auf dem Dach ihrer schwerfälligen dicken Postkutsche
+mitgehen ließ, oft jedenfalls neuen und besseren Fleischtöpfen zu,
+die ja auch die Schnecke selbst, wenn sie zu den räuberischen ihrer
+Sippe gehörte, aufsuchte. Noch heute beobachtet man vielfältig solche
+Seerosen auf Schnecken, besonders den zur Anheftung hervorragend
+geeigneten wulstigen Murexarten, zu denen die erwähnte sabbernde
+echte Purpurschnecke gehört. Bereits im alten Fischbuch Gesners von
+1558 finde ich solche von zwei Polypen berittene Purpurschnecke in
+trefflichem Holzschnitt verewigt. Aber mit solchen Schneckenhäusern
+hatte es da unten in der Nixentiefe noch eine besondere Bewandtnis.
+
+Zu den leeren und den noch von der Meisterin selbst bewohnten Schalen
+gibt es einen dritten, an sich auch allbekannten Möglichkeitsfall. Das
+ist jetzt wieder ein großes Kapitel im Naturkampf: Tiere, die sich
+selber mit Fremdmaterialien zweiter Hand verteidigen, anstatt bloß
+mit eigenem Organ. So wirft der kleine Ameisenlöwe automatisch aus
+seiner Grube mit Sand, und der Schützenfisch schießt nach Insekten
+mit hochgeschnellten Wassertropfen. Immer hat diese Stufe etwas, das
+bereits wie Vorspiel unserer menschlichen Werkzeugtechnik anmutet.
+Hierher gehört aber auch, daß ein Tier in findigem Instinkt sich
+den hinterlassenen Schutzpanzer eines andern zum eigenen Harnisch
+überstülpt. Und daraus haben gewisse Krebse, Tiere mit verwickelten
+Trieben wie auch nicht schlechter persönlicher Wahlintelligenz, bei
+Schneckenhäusern seit alters eine Spezialität gemacht. Von grauen Tagen
+an (die Spuren gehen wohl mindestens schon bis ins älteste Tertiär
+der Erdgeschichte zurück) holt das Volk der Paguriden, der Bernhards-
+oder Einsiedlerkrebse, sich durchweg solches leere Schneckenerbe,
+stopft den Hinterleib hinein und nutzt den fremden Küraß noch zu dem
+eigenen, wobei im Laufe der Dinge die Sitte bereits so fest geworden
+ist, daß sie der findigen Diebsgesellen eigenen Körperbau beeinflußt,
+den natürlichen Panzer wenigstens an dem so „hinten im Faß“ verwahrten
+Hinterteil als Ballast beseitigt und das Krebsende zugleich selber
+schneckenhaft in der Achse gedreht hat.
+
+Auch auf solchen Fremdschalen mit Krebsinvasion aber siedelten sich
+Polypen und Polypenkolonien an. Und da sieht man denn auf den ersten
+Blick: das mußte doch noch wieder bedeutsam Neues hinzubringen. Der
+Krebs läuft trotz und mit der Huckepackschale immer noch gar viel
+behender als der Schneck, muß also seine blinden Passagiere, die er
+mit der Fremdkutsche übernommen, noch ganz anders zu ihrem Gewinn
+herumschütteln. Aber solcher Krebs ist auch, abgesehen vom Laufen,
+ein ganz anders unruhiger Geselle, immerzu strudelt er mit Beinen
+und Kiefern im Grundmoder herum, wühlt alle Sorten Stoff durch und
+durch, wirft herauf und auseinander, und als noch wilderer Räuber lebt
+er sozusagen auf Schritt und Tritt im Schlachthause, packt, zerbeißt
+und hackt, was er nur kriegen kann, daß die Abfallfetzen nur so
+fliegen. Hat das Polypenvolk also gelegentlich schon von der Schnecke
+nicht bloß als Kutsche zum Wirtshaus profitiert, sondern unmittelbar
+etwas Kriegskost mit abbekommen, so muß sich das hier gradezu zum
+Hauptnutzen steigern. Immer mehr kann der „Storch auf dem Dach“ da
+selber gebrauchen gleich den aufräumenden Marabus in unsern indischen
+Menschenstädten, und zuletzt ist ihm die Ortsbewegung wirklich fast
+gleichgültig gegen den Krebs in Person, der ihn, wo immer er Mittag
+hält, ohne Absicht aus den Brosamen seines Reichtums selber mitfüttert.
+Man versteht, daß Polypen auf Schalen mit solchen Bernhardskrebsen
+allmählich fetter wuchsen als irgendwo sonst, und daß also die
+Naturzüchtung (wie immer man sich im einzelnen nun deren Wege denken
+mag) grade solche Bewohnung als „Synökie“ mit freier Kost obenein
+auch in ihren Trieben begünstigen und die Polypen zum lebhafteren
+Anschlußbedürfnis grade hier herüber drängen mußte. Wie einfach war
+aber dann wieder eine weitere Logik.
+
+Solcher Krebs ist gewiß ein verwegener Kerl, der es als reisiger
+Kriegsmann mit manchem aufnimmt. Aber auch er hat doch Feinde, die
+ihm „über“ sind, größere seines Volks, wehrhafte Beißer unter den
+Fischen, die wilden „Kraken“ oder Tintenfische, die auch schon bei
+kleinem Kaliber eine tyrannische Macht üben in den Jagdgründen da
+unten. Um sich dagegen zu schützen, hat sich der Einsiedler ja schon
+den steinharten Fremdharnisch der Schnecke selbst übergezogen, in den
+er sich nötigenfalls völlig zurückzuziehen, ja den er durch kunstvoll
+in der Öffnung gekreuzte Scheren oft wunderbar noch zu sperren weiß.
+Aber der ganz geschickte Gegner versteht es doch das eine- oder
+anderemal, ihn auch in dieser Festung zur Übergabe zu zwingen, wobei
+es dann keinen Pardon gibt. Da aber mußte es soundso oft ganz von
+selber auch geschehen, daß der böse Feind unversehens den aufsitzenden
+Polypen zu nahe kam. Und gereizt schnurrte alsbald deren ganzer eigener
+Schutzapparat ab: es hagelte plötzlich von der einzelnen Seerose oder
+den Soldaten des Polypengärtleins da oben Explosivkapseln dem Fisch
+oder Tintenfisch auf den Kopf, daß ihm Hören und Sehen verging und er
+in vielen Fällen nun doch noch jammervoll Reißaus nahm, also daß der
+bedrängte Krebs wunderbar wieder Luft bekam. Die Sache entwickelte
+eine neue Seite auch für den Krebs selbst! Der gleichgültige „Synöke“
+da oben brachte ihm im Wechselspiel selber einen Gewinn: nämlich
+noch eine sehr wirksame Hilfsverteidigung. Das „Dach mit Storchnest“
+erwies sich als wesentlich wertvoller als das einfache Dach. Und
+abermals begreift man, wie auch dieser Vorteil nach Tierbrauch sich
+allmählich in festem Trieb gleichsam anlegen mußte, der, wie er den
+Polypen Schneckenhäusern mit Krebsen darin geneigter machte, so im
+Krebsinstinkt Schneckenhäuser mit Polypen darauf begünstigte.
+
+Auf dieser einfachen logischen Basis gewahren wir nun ein gegebenes
+Bild, das wieder schon früh den Beobachtern am Meeresstrande sich
+aufdrängte, ohne ihnen doch gleich so verständlich zu werden. In Menge
+sehen wir verschiedene Bernhardinerarten Polypen herumschleppen, als
+müßte es so sein. Bald sitzt eine große einzelne Seerose, riesig
+im Verhältnis wie ein prunkvoller Federschmuck, auf der erbeuteten
+Rüstung, bald drängen sich dort sogar mehrere, gleich bunten Schirmen
+entfaltet schwebend oder auch einer fetten Schwarte ähnlich den ganzen
+Harnisch noch einmal umklammernd. Sagartia- und Adamsia-Arten kommen
+in unseren Gewässern so besonders in Betracht. Oder das ganze hängende
+Gärtlein der Semiramis ist in Gestalt solcher auf Arbeitsteilung
+vereinten polypischen Geschwisterkolonie dem Dach eingebaut
+(Hydractinia und Podocoryne).
+
+[Illustration: Abb. 8. Symbiose von Seeanemonen (~Sagartia parasitica~)
+mit einem Einsiedlerkrebs (~Pagurus striatus~), zwei davon geschlossen
+mit ausgestoßenen Akontien. Zum Teil nach Faurot in Hesse-Doflein,
+Tierbau und Tierleben, Bd. ~II~.]
+
+Betrachtet man aber genauer das Verhältnis, so merkt man alsbald,
+wie die allgemeinen Anschlußtriebe beider Parteien innerhalb dieser
+geläufigsten Typen bereits stufenweise Steigerung erfahren haben.
+Die schon häufig getragene ~Sagartia parasitica~ (früher wohl auch
+als die Adamsia des Rondeletius bezeichnet, Abb. 8), eine große, wie
+eine Sommerhose braun und weiß gestreifte Seerose, die manchmal bis
+zu sieben Mann hoch auf der gleichen Krebsklause stolz gleich den
+Haimonskindern der Sage reitet, führt doch noch ein halb selbständiges
+Leben, erst in ihrer Reife sorgt sie sich um einen Krebs, die
+verschiedensten Klausner sind ihr aber eben recht, und wenn’s sein muß,
+kann sie auch ohne einen bleiben, so wie auch die Eremiten selber ihrer
+nicht unbedingt benötigen zum Lebensglück. Das vertritt offensichtlich
+noch eine ältere, losere Stufe. Aber bereits die echte ~Adamsia~, die
+der Tierkundige die ~palliata~, die „mantelhafte“, nennt, kennt es
+nicht mehr anders, als daß sie schon von früher Jugend an mit ihrem
+schön bunten, oft prächtig weiß mit rosa geäugten Mantelleibe stets
+ein und dieselbe Krebsart, den ~Eupagurus Prideauxi~, beglückt, den
+man sich denn auch seinerseits gar nicht mehr ohne sie vorstellen
+kann. Und ebenso blühen gewisse hängende Koloniegärtchen, wie jene
+Podocoryne, allemal auf bestimmtem Krebs, und der Krebs lauert nur
+unter ihnen wie der zugehörige Drache ihres kleinen Paradieses, der
+allerdings selber noch von dem feurigen Engelsschwert dieses Paradieses
+profitiert. Hier muß schon längst alles im eingefahrenen Geleise
+laufen über jede zufällige Gelegenheit hinaus. Und damit ja kein
+Zweifel bleibe, entdecken wir diesmal auch schon körperliche Folgen des
+Daueranschlusses selbst. Die Anpassung mit ihrer großen ausgleichenden
+Maschine hat eingesetzt, indem sie zunächst den Polypenleib noch
+enger auf den neuen geselligen Nutzzweck zurechtschneiderte. Jene
+Adamsia heißt nicht umsonst die mit dem Pallium, die mantelartige.
+Sie hat die sonst so stolz nach oben blühende Rose ihres Körpers
+abgeschafft zugunsten einer Art derber Knospe, die mantelhaft von
+unten her das Schneckenhaus des Krebses umgreift. Sie umgreift es
+aber von unten, weil so ihr ehemaliger oberer Rosenmund unmittelbar
+hinter dem Krebsmund, wie er abwärts geneigt aus der Schnecke kommt,
+sich einstellen, den Abfall des Krebsmahls aus erster Quelle fassen
+oder wohl gleich am Krebsbissen mitfressen kann, etwa wie ein junges
+Äffchen, das der Mutter unter dem Leibe hängt und der Alten listig
+ab und zu etwas vom Munde fortstiehlt, grade da sie es sich selber
+zu Gemüte führen will. Dabei zeigt aber eben solche Adamsia noch
+ein Besonderes. Sie versteht nämlich, zu kurze Schneckenhäuser auf
+dem Krebs selbsttätig durch Abscheidung horniger Substanzen vorne
+anzulängen, als wachse die tote Schnecke gespenstisch noch weiter.
+Die alte felsbildende Kraft des Polypenstammes scheint noch einmal
+in ihr aufgelebt. Dem Krebs aber ist auch das von entschiedenem
+Nutzen. Als kleiner Kerl hat er schon solches Schneckenhaus, damals
+doch natürlich ein entsprechend kleines, bezogen. Wenn er nun wächst,
+muß er öfter ausziehen, ein neues, größeres suchen. Wie hübsch aber,
+wenn das Haus selber eine Möglichkeit zeigt, über ihm zu wachsen.
+Ganz wird’s ja nicht gehen, zuletzt wird er doch noch einmal wechseln
+müssen, immerhin ist’s schon Gewinn, wenn ein zu kleines Dach nur
+noch etwas länger brauchbar bleibt. Und man versteht, daß der Polyp
+hier auch auf des Krebses Organisation rückwirken mußte: er kann sich
+mit kleineren Häusern und weniger Häusern behelfen, ja man könnte
+sich denken, daß er unter Umständen gar kein echtes Schneckenhaus
+mehr brauchte, sofern ihm der Polyp nur selber eines auf den Leib
+mißt. Und bei den hängenden Gärtlein jener ganz mitgeschleppten
+Polypenkolonien geschieht’s wirklich so: da zersetzt der Dachgarten
+zuletzt die echte Schneckenhülse, baut aber dafür im gleichen Schritt
+einen solchen eigenen hörnernen Schutzsack ganz zwischen Krebs und
+sich ein, der genügt und zugleich den Gewinn des eigenen Nachwachsens
+bringt. Solcher Ganzersatz ist dann wieder besonders wertvoll in der
+Tiefsee geworden, wo die gehäufte Kohlensäure ohnehin den Schneckenkalk
+angreift und fremde Kalkhäuser zum Wechseln selten macht. Unsere
+deutsche Valdivia-Expedition hat aus dem südatlantischen Ozean von
+einer Bank in nicht ganz 1000 ~m~ Tiefe zahllose Einsiedlerkrebse
+gezogen, deren Körper von großen rosettenförmig angeordneten violetten
+Seerosen bis zu einem Dutzend an der Zahl besetzt waren; mit unten
+verknüpften Leibeshöhlen stellten auch diese Polypen eine Art Kolonie
+dar, in deren knorpelharter Grundmasse der Schneckenhauskalk bis auf
+den ursprünglichen Hornbelag völlig aufgelöst erschien, während der
+einfache derbe Knorpelsack dem Krebs allein genügenden Hinterhalt bot.
+Daß der Krebs so auch die Tiefsee bestehen konnte, bedeutete auch ihm
+aber wieder eine beträchtliche Erweiterung seines Lebenshorizonts.
+
+Nun mag ja solcher Zug zum eigenen Ersatzfels von gewissen Polypen
+auch hier bereits mitgebracht worden sein, als sie zum Krebs kamen,
+-- wie er denn bei den hängenden Gärtchen den Kolonieverband selber
+als Grundrost vermitteln hilft und auch in eigenen Brustwehrspitzen,
+gleichsam zackigen Zinnen über der Kolonie, für die Deckung der zarten
+Persönchen auf rollender Unterlage verwertet wird. Aber bei der
+Adamsia sieht’s doch auch wie etwas Neues zum Zweck aus, und dieser
+Zweck scheint nicht bloß mit eigenem Bessersitzen und Stühlchenrücken
+zum gemeinsamen Tisch erschöpft, sondern die körperliche Änderung
+des Polypen scheint hier bereits auf _den Nutzen des Krebses selbst_
+zu zielen als abermals neue Stufe. Und das jetzt wieder finden
+wir unzweideutig durchgeführt bei den Verteidigungskapseln der
+Polypenpartei.
+
+[Illustration: Abb. 9. Der Einsiedlerkrebs ~Eupagurus constans~.
+Sein Gehäuse wurde auf Unterlage eines Schneckenhauses von einer
+Polypenkolonie (~Hydractinia~) erbaut. Zum Teil nach Hesse-Doflein,
+Tierbau und Tierleben. Bd. ~II~.]
+
+Wir sahen, wie sie dem Krebs entscheidend mithalfen, zunächst schon
+sozusagen rein zufällig, -- wie der Blitz den mittrifft, der sich
+unvorsichtig unter den Baum setzt. Im enger werdenden Anschluß versteht
+man dann, daß die Kapselwaffen sich oben wohl verstärken mußten, da
+sie fortan mit ziemlicher Regel durch zwei Feinde, neben eigenen auch
+noch die des Krebses, zur Reizung kamen. Bei all den krebsreitenden
+Einzelrosen treten also neben den gewöhnlichen Hautkapseln noch jene
+schon erwähnten, mit Millionen von Explosionskapseln gespickten
+Schleuderlassos in wirksamster Form auf, lange Fäden, Akontien (vgl.
+Abb. 8), zu deutsch Wurfspieße, genannt, die durch das Mundtor oder
+besondere kleine Leibesschießscharten entsandt und dem Angreifer
+weithin auf den Pelz gebrannt werden können. Die Einschaltung mag dabei
+ein interessantes Naturbild geben, daß ein einziger Seerosenfangarm
+unter Umständen 43 Millionen einzelner Kapseln führen kann, was bei 150
+vorhandenen Armen die hübsche Summe von 6000 Millionen verfügbarer
+Geschosse in solchem ätherischen Blumenkind vermeintlicher Unschuld
+ergibt. Schon vor langen Jahren hat Eisig im schönen Neapeler Aquarium
+die Grundbeobachtung gemacht, wie eine solche Seerose mit besonderen
+Akontien einen großen bösen Oktopus, also einen Tintenfisch, der
+den Krebs vermittelst eines seiner langen Schröpfkopfarme aus dem
+Schneckenhaus ziehen wollte, wie ein Feinschmecker bei uns eine leckere
+gekochte Weinbergschnecke auswickelt, in jähe Flucht und vorsichtige
+Fernbetrachtung trieb. Aber die Umwandlung ist nicht bei dieser
+einfachen Verstärkung stehen geblieben.
+
+[Illustration: Abb. 10. Randstück einer Polypenkolonie (~Hydractinia~)
+auf einem Schneckenhause. Vorne gekrümmte Wehrpolypen, dahinter und
+an den Skelettstacheln Freßpolypen. Stark vergrößert. Unter Benutzung
+eines Originals von Stechow in Hesse-Doflein, Tierbau und Tierleben.
+Bd. ~II~.]
+
+Bei den Nixengärtchen der Podocoryne und Hydractinia tritt die
+Anordnung der Kolonie ausgesprochen vom eigenen Schutz _zum
+Krebsschutz_ über (Abb. 9 u. 10). Jene besonderen kapselgespickten
+Wehrpolypen, die hier die Akontien der Einzelrose gleichsam
+genossenschaftlich mit ganzer Person wiederholen, setzen sich nämlich
+sämtlich genau über den oberen offenen Rand der Schneckenhöhle,
+also sozusagen auf die Logenbrüstung unmittelbar über dem Parkett
+das der Krebs innehat, -- die denkbar geeignetste Stellung zur
+Krebsverteidigung als Erstzweck. Untätig lassen sie wie Troddeln
+gleichsam ihre Beine auf den Krebs herabbaumeln oder bei ganz
+eingezogener Lage des Krebses vorweg pendeln, oder sie stehen auch,
+spiralig gerollt, sprungbereit auf dem Anstand: sobald aber ein
+Verdächtiges gegen den Krebs anrückt, schlagen sie (wie Weismann
+berichtet) „alle wie auf ein gegebenes Signal gleichzeitig von oben
+nach unten und wiederholen das drei- bis viermal“. Bei künstlichen
+Versuchen soll man die Eruption (auch nach Weismann) schon durch
+einfaches kräftiges Heranstrudeln von Wasser hervorlocken können, das
+offenbar bereits als Annäherung eines Feindes selbst genommen wird,
+-- ein Beweis, wie automatisch die eigentliche Technik auch hier noch
+läuft. Die Polypentierchen sehen ja selber in Ermangelung echter
+Augen weder ihren Krebs noch seine Feinde, sie reagieren nur auf ein
+allgemein Nichtgeheures, das unter großem Wasseraufruhr von vorne
+und in der Richtung nach unten ins Parkett hinein naht. Aber eben
+dieses von vorne und nach unten umschließt schon den „Krebsblick“ auch
+dieser dunkel tappenden Tast- oder sonst irgendwie Fühlgeister als
+das Entscheidende, -- den Krebsschutz als Ziel. Und alsbald sehen wir
+weiter, daß es doch auch nicht bei einfachem Richtungs-Automatismus,
+sosehr der auch den Ausgangspunkt gebildet haben mag, diesmal geblieben
+ist.
+
+Es haben sich zunächst jetzt wieder bei dem Krebs als einem für
+höhere, verwickelte Instinkte durchaus schon geeigneten, „seelisch“
+geweckten Tiere starke Instinkte solcher Art an die von oben gebotene
+Unmittelbarverteidigung angeschlossen. Dieser Krebs bevorzugt in den
+engeren Fällen längst nicht mehr bloß allgemein Schneckenhäuser mit
+bestimmten Polypen darauf: er sorgt durch ganz feste Handlungen, die,
+allgemein instinktiv zu werten, doch im Einzelfalle sogar mit einem
+gewissen Maß Wahlintelligenz angewendet und eingepaßt werden müssen,
+dafür, daß er keinen Augenblick ohne Schutzpolypen bleibt. Schon
+in jenem grundlegenden Vortrag von 1883 hat Oskar Hertwig das mit
+durchweg dauergültigen Sätzen festgelegt: „Man versuche nur einmal,
+den Freundschaftsbund der beiden Genossen zu stören; man nehme,
+wie es im Aquarium zu Neapel geschehen ist, einen Einsiedlerkrebs
+aus seiner Schneckenschale heraus, stopfe die Höhlung ... mit
+kleinen Leinwandstückchen fest zu und bringe sie wieder in das
+Meerwasser zurück. Bald wird man jetzt der Zuschauer bei einer höchst
+merkwürdigen Szene werden. Zunächst strengt sich der Einsiedler an,
+die Leinwandstückchen aus seiner alten Wohnung, auf welcher sich noch
+die alte Seerose befindet, zu entfernen, und erst dann, wenn ihm nach
+vielem Bemühen sein Vorhaben nicht gelingt, sucht er in einer leeren
+Schneckenschale, welche der Experimentator mit in das Aquarium gelegt
+hat, seinen Leib in Sicherheit zu bringen. Aber noch fehlt ihm seine
+Genossin. Er wandert jetzt zu der verlassenen alten Behausung hin,
+betastet die Seerose mit seinen Scheren und Füßen, sucht sie von ihrer
+Unterlage loszulösen und ruht nicht eher, als bis auch sie, seiner
+Ermunterung folgend, auf die neue Schneckenschale mit übergewandert
+ist. Einige Beobachter geben sogar an, daß, wenn durch Zufall die
+neue Wohnung dem Geschmack der Seerose nicht zusagt, der Krebs eine
+andere aufsucht, bis seine Gefährtin vollkommen befriedigt ist.“ Der
+letzte Satz mag etwas unbestimmt bleiben, wie es sich auch bisher
+z. B. nicht hat wieder bestätigen wollen, daß der Krebs seine Seerose
+geradezu absichtlich füttere; prinzipiell würde aber auch dieser
+letztere kleine Zug nichts Unwahrscheinliches mehr hinzutun, da (wie
+Kammerer in seiner trefflichen Schrift über „Genossenschaften von
+Lebewesen auf Grund gegenseitiger Vorteile“ mit Recht dazu bemerkt
+hat) Mantelaktinien ohne ihren Einsiedler im Aquarium trotz der sonst
+leichten Eingewöhnung dieser Rosen dauernd nicht zu erhalten sind,
+sondern auch bei Doppelfutter absterben, als seien sie durchaus von
+ihrem Krebs mit besonderen Bissen verwöhnt. Und es ändert auch nichts
+an den immer wieder gleichartig beobachteten Grundtatsachen, daß im
+einzelnen Umschläge vorkommen, gewissermaßen launische Instinktabfälle,
+wo, wie ein Tier trotz Elterninstinkt einmal plötzlich seine Jungen
+auffrißt, der Krebs seinen (irgendwie widerspenstigen) Polypen bei der
+Verpflanzung schlachtet.
+
+Nun aber dazu wieder im Ausgleich krönt ein packendster Schachzug
+das Ganze. Dem hochentwickelten Krebs traut man solche gewissermaßen
+geistig dirigierenden Instinkte schon zu, und man freut sich ihrer
+besonders, da sie eine so gute Probe auf das Exempel geben. Immer, wenn
+zu körperlichen Umwandlungen auf einen wahrscheinlichen Zweck hin auch
+noch gleich gerichtete Instinkte kommen, steigt ja beträchtlich die
+Wahrscheinlichkeit, daß es sich wirklich um solchen Zweck (also hier
+die Genossenschaft) handle. Das ist doch auch dauernd die entscheidende
+Grundlage der berühmten, so viel bestrittenen Farbanpassungstheorie,
+wo z. B. ein Tier auf Grün schutzgrün ist: hat es zu der grünen Farbe
+auch noch den Instinkt, sich bei Wahl verschiedener bunter Unterlagen
+allemal auf Grün zu setzen (wie die kleinen Virbiuskrebse das z. B.
+so hübsch tun), so wird diese Doppelzüchtung in zwei parallelen
+Wegen unmöglich einen zwecklosen Zufall darstellen können, wie immer
+wieder soundso viele meinen. Aber irgend etwas derartig Instinktives
+muß nun auch bei der systematisch doch so sehr viel niedrigeren
+Polypenpartei auf die Dauer der Schutzangliederung ihrer Waffen an
+den Krebs möglich geworden sein, so schwer es dem Kenner zunächst
+eingehen will. Der Einzelpolyp oder die Polypenkolonie, automatisch
+sonst gewöhnt, gegen jeden Fremdangreifer des Krebses schon beim
+geringsten auch nur scheinbaren Anzeichen augenblicks mobil zu machen,
+ihre vielmillionenhaft vergifteten Akontien zu schnellen oder ihre
+Wehrsoldaten alle zugleich von ihrem Bock da oben herabbrennen zu
+lassen, -- sie wenden ihre Einzelwaffe oder Armee _niemals gegen den
+Krebs selbst_. Gelegenheit im Sinne einer einfachen automatischen
+Reizauslösung wäre ja auch dazu wahrlich genug. Wenn ein einfach
+verstärkter Wasserdruck schon die Wehrpolypen der Podocoryne weckt,
+wieviel mehr könnte es der immerfort im Tastbereich dieser tapfern
+Vorposten strudelnde und „krebsende“ Krebs selber tun. Oder gar jener
+selbstherrische Krebsbruder, der in Hertwigs anmutiger Aquariennovelle
+die akontienreiche Seerose von ihrer Unterlage hebt und auf ein neues
+Dach zu versetzen sucht, wie unbedingt müßte er dazu reizen, -- zumal
+wenn man weiß, wie schwer und widerstandszäh sich solche Tierblume
+gegen jeden Eingriff eines Menschenwerkzeugs wehrt, ja sich lieber in
+kleine Fetzen zerreißen läßt, ehe sie ihre Sohle preisgibt. Wenn der
+Krebs aber kommt, so sanft wie solche Panzerfäuste können, aber doch
+sicherlich nicht bloß Sammet, so fügt die Rose sich schon von sich
+aus unverkennbar glatt darein wie zu einem Liebesakt, machen kann er
+mit ihr, was immer er mag, ja laut Doflein (in seinem wundervollen
+Werk über „das Tier als Glied des Naturganzen“) „kriecht sie event.
+sogar selbst auf seine Schneckenschale hinüber“. Die Akontien aber
+feiern bei ihr wie drüben die Wehrpolypen, als sei ein Signalzeichen
+diesmal eingestellt: gut Freund, kein Bandit. Und nicht einmal die
+einfache Praxis scheint geübt zu werden, die wir alle von unsern
+sensitiven Rosen des Seestrandes doch so gut kennen: daß die Blüte bei
+der Berührung sich schließt wie ein Mimosenblatt. Kein Zweifel mehr:
+auch hier waltet ein streng korrespondierender Instinkt, einerlei
+nun, durch was für spezielle Merkzeichen er gerade vom Krebs in
+dem blinden Polypen ausgelöst wird, und vor solcher Sachlage hört
+der letzte Rest des Zufälligen, des vielleicht doch noch von Fall
+zu Fall Vorübergehenden oder der voreilig menschlichen Deutung in
+diesem Beispiel endgültig auf. Wir stehen vor einer Glied um Glied
+körperlich und (immer in tierischen Verhältnissen gesprochen) geistig
+ineinandergreifenden Gesetzmäßigkeit. Der typische Fall der „Symbiose“
+ist diesmal gegeben, indem wir mit Einsiedler und Polyp zugleich das
+Beispiel berühren, das Oskar Hertwig damals seiner Begründung der
+Symbiose auch auf der tierischen Seite zugrunde legte als „_ein auf
+vollständiger Gegenseitigkeit beruhendes Zusammenleben zweier ganz
+verschiedenartiger Tiere_“.
+
+Im engern schart sich um diesen entscheidenden Fall für unsere heutige
+Kenntnis aber sofort noch ein ganzer Kreis gleichsam erläuternder
+Nebenfälle mehr oder minder scharfer Art.
+
+Mit dem Krebs in seinem Schneckenhaus können meerbewohnende
+Borstenwürmer (Chätopoden aus der Gattung Nereis) in einer
+Genossenschaft zweiten Grades leben, die, wie mit langen Hälsen
+vorgestreckt, ebenfalls sozusagen aus seiner Schüssel mitfressen,
+ihm dafür aber mit harten Kiefern tranchieren helfen oder Ungeziefer
+seiner Höhle wegfangen, während er sie ebenso freundlich schont wie
+seine Rose. Solche Würmer haben auch sonst (in Seesternen, andern
+Würmern oder Fischen) Neigung zum Schmarotzen, was dann auch bei ihnen
+zuletzt in Symbiose umgeschlagen scheint. Interessant ist dabei, daß
+sie, die vorher frei beweglich waren, sich nachträglich zum Zweck
+erst wieder unter gewisser Verkümmerung seßhaft gemacht haben, um
+sich gleich den Rosen fremd herumfahren zu lassen. Umgekehrt können
+in den Seerosenblüten Asseln hausen, die der Polyp nicht frißt, noch
+brennt, weil sie ihm (nach Kammerer) unwillkommene Abfälle fortzuräumen
+scheinen. Diese kleinen Reinigungsunternehmer zählen gleich unsern
+bekannten Kellertieren selber zu den Krebsen, so daß also hier zweiter
+Hand auch noch ein ursprünglich frei beweglicher Krebs mit der
+Polypenpartei lebte, die selbst nur wieder durch einen zweiten Krebs
+beritten gemacht wird. Die anfangs zweiseitige Symbiose erscheint zu
+einer selbdritt und selbviert erhöht. Umgekehrt wird der anfängliche
+Fall vereinfacht, wenn die Seerose sich unmittelbar auf dem Krebs
+ansiedelt, sich Krabben, die nie ein Schneckenhaus schleppen, einfach
+auf den breiten Rücken oder eine der Scheren setzt. Wenigstens der
+Brennvorteil bleibt ja auch so, und man versteht, wie jene von Möbius
+so anziehend geschilderten kleinen Krabben der Korallenriffe, die
+Polydectinen (Melia u. a.), sich gewöhnen konnten, die immer wieder
+sorgsam aufgelesenen polypischen Stichflammen ihrer Scheren bei noch
+etwas geweckterer Selbsthilfe dauernd mit der Scherenzange selbst
+umkneipt zu halten und so dem Feinde gleichsam wie einen schußbereiten
+Revolver drohend entgegenzustrecken (Abb. 11). Dazu wieder im Gegensatz
+ließe sich mit geringer Phantasie ein Fall ausmalen, wo in dem
+Schneckenhause des Bernhardskrebses auch noch die lebende Schnecke
+_neben_ ihm erhalten bliebe und in die Symbiose einträte. Denn die
+sog. „Muschelwächter“, zahlreiche kleine Krabben und Flohkrebse (am
+bekanntesten ~Pinnotheres veterum~, den schon die Antike feierte) leben
+genau so bei dem lebenden Muscheltier in Austern und Steckmuscheln mit,
+laufen bei geöffneter Klappschale frei aus und ein und profitieren in
+der Gefahr von dem Mitverschluß, den sie der Sage und vielleicht auch
+Wahrheit nach selber durch eilige Flucht ins Innere herbeiführen, so
+auch dem stumpfen Muscheltier Nutzen bringend. Dächte man sich auf die
+Muschel hier eine Seerose gepflanzt, die von dem frei ausschwärmenden
+Krebs Vorteil zöge, so wäre auch in dieser Gestalt die schönste
+Drei-Symbiose fertig.
+
+[Illustration: Abb. 11. Die Krabbe ~Melia tessalata~ auf einer
+Riffkoralle (~Madrepora~). Sie hält in jeder Schere eine kleine
+Seerose, die sie mit ihren Nesselbatterien als wirksamer
+Verteidigungswaffe Feinden entgegenstreckt. Vergr. Unter Benutzung
+einer Skizze nach Borradaile in Hesse-Doflein, Tierbau und Tierleben,
+Bd. ~II~.]
+
+Eine neue Variante trifft dann eine Eigenschaft der Polypenpartei,
+die wir in dem Grundbeispiel bisher übergangen hatten, weil sie dort
+nebensächlich war: aufsitzende Blume oder hängendes Gärtchen geben dem
+Krebs auch darin Schutz, daß sie ihn unkenntlich, nämlich mit seinem
+ganzen Hause einem harmlosen Pflanzengebild wirklich gleich machen.
+Daß der Krebs auch darauf spekuliert, merkt man, wenn man Krabben, die
+keine Rosen tragen, sich doch künstlich drapieren, Algenpflänzchen
+pflücken, sich aufpflanzen und an den feinen Angelhäkchen des Rückens
+befestigen sieht, bis auch das echte Gärtchen da oben weiterwächst, --
+wobei sogar gelegentlich sehr sinnreich auf rotem Grunde rote Algen
+gewählt werden und auf grünem grüne. Auch das aber konnte für sich
+Anlaß zu Teil-Symbiosen werden: nicht nur Schnecken leben ähnlich
+mit Rasen bildenden Moostierchen (Bryozoen, Kolonien wurmähnlicher
+Geschöpfchen), die zugleich maskieren und die Schalen gegen Stöße
+verdicken helfen, sondern gewisse Bernhardiner verbinden sich statt mit
+Polypen gewohnheitsmäßig mit derben roten Korkschwämmen so (auch der
+Schwamm ist in diesem Falle ein niedriges Tier), die ihnen ebenfalls
+allmählich das Schneckenhaus auflösen und mit ihrer ekeln Knolle
+ersetzen und, wenn sie schon nicht nesseln können, doch den Insassen
+mit einem für alle andern Tiere widerwärtigen Unflat decken; ganz
+glatt scheint übrigens diese Symbiose noch nicht zu klappen, denn der
+rote Schwamm mauert in blödem Wachstum gelegentlich den Krebs wie eine
+gefallene Vestalin lebendig ein.
+
+Um so schönere Parallelfälle bieten sich dafür wieder, wo die
+Polypenbatterien als solche sich auch mit andern Genossen als grade
+Krebsen verbinden. Da sieht man kleine Polypenkolonien (~Hebella~),
+die sich, efeugleich rankend, an größere heranwinden, der Zwerg
+noch von den Kanonen des Riesen profitierend und wohl auch als
+Spatz im Hühnertrog pickend. Oder es spielt solcher Wurm, wie
+wir ihn gelegentlich beim Krebs als Unterpartner fanden, für die
+Polypenbatterie selber gleichsam den Krebs: Röhrenwürmer, wie die
+Schraubensabelle (~Spirographis spallanzani~), nehmen sie auf ihren
+Lederschlauch, der zwar diesmal auch angeheftet sitzt, aus dem heraus
+aber der entfaltete ungeheure Kiemenkranz des Wurms einen solchen
+Maëlstrom zum Anstrudeln rettungslos mitgerissener Schlachtopfer
+erzeugt, daß beide Parteien auf die Kosten kommen, während die Batterie
+gegen größere Seeungeheuer zugleich den Wurm frei schießt, wie dort
+den Krebs. Doch auch solcher Ganzwurm (~Aspidosiphon~, aus der etwas
+entfernteren, wieder frei beweglichen Sipunkulidengruppe) kann sich
+selber einsiedlerhaft in ein Schneckenhaus einquartieren, das er
+nun genau wie der Bernhardskrebs schleppt und ebenso gern von einer
+Polypenkolonie bereiten läßt, die darauf blitzt und auf die Dauer auch
+hier ein eigenes, für ihn noch wohnlicheres Blitzhaus an Stelle der
+ursprünglichen Schneckenhülle durch Zersetzung und Nachfundamentierung
+baut. Ein besseres äußerliches Parallelbeispiel zu dem Krebsfall selbst
+kann es nicht leicht geben.
+
+Erscheint aber darin der Wurm immerhin als ein niedrigerer
+Gesellschafter als der Krebs, dem man kaum so vollendete innere
+Instinkte zuschreiben würde, wie jenem, so springt gerade in dieser
+Linie auch ein noch viel höheres Tier gelegentlich ein: nämlich
+als Partner der Brennbatterie ein Fisch. Richard Semon beobachtete
+auf der Sundainsel Amboina einmal eine große Qualle aus der
+Gruppe der Rhizostomiden, die seinen Fangversuchen stets mit der
+ganzen Geschicklichkeit solchen Fischs und nicht der gewöhnlichen
+Hilflosigkeit dieser Schwimmblumen auszuweichen verstand. Es stellte
+sich heraus, daß die Qualle in der Tat mit einem kleinen Fisch (~Caranx
+auratus~, einer Makrelengattung) in Symbiose stand, der, im Innern
+verborgen, ihrer durchsichtigen Glasglocke wie ein kluger Kapitän durch
+geschickte Steuerstöße Richtung gab, während sie ihn mit dem unnahbaren
+Brunhildfeuer, das auch solche Qualle umloht, verteidigte. Ähnlich
+fahren (Schwimmer diesmal im Schwimmer) ganze Geschwader zierlicher
+Meeräschen (Hirtenfischchen, ~Nomeus~) regelmäßig in jenen furchtbaren
+großen Staatsquallen der Physalia, ballonhaft am Meeresspiegel
+dahinschwebenden Polypengärten mit ähnlicher Arbeitsteilung des
+Geschwisterhaushalts wie bei jenen hängenden Semiramisgärten der
+Podocoryne, deren Brennstrahlen, wie gesagt, ein Mensch erliegen kann.
+Und wieder noch andere Fischarten wohnen und schwimmen aus und ein in
+den tropischen Korallenparadiesen mit ihrer bunten Blütenpracht oder
+auch unmittelbar den großen Einzelrosen selber, wie sie der Krebs
+sucht. Sie schleppen ihre Beute zu dem lebenden Haus und halten Tafel
+dort, wobei beim Herumschlucken und Mundgerechtmachen mancher Bissen
+auch auf die Rose abfallen mag. Der Fisch scheut sich hier durchaus
+nicht, in seine Rose selbst einzusteigen, wie drüben der Krebs in sein
+leeres Schneckenhaus: er hält sein Schläfchen in der geschlossenen,
+spaziert in ihrem Magen herum und reinigt wohl auch die nicht eben
+glücklich hier angelegte, oben im Munde selbst wieder zurückmündende
+Kloakeneinrichtung der Partnerin. Mit Staunen sieht man solchen Fisch
+(~Anthias dofleini~) auf Dofleins Bild aus dem japanischen Meer sogar
+täuschend genau die gelbe und rote Livree seiner Korallenpolypen
+tragen, so daß er daran hinschwebend selber nur wie ein abgelöstes
+Stückchen Korallengrund erscheint. Immer aber auch hier scheint die
+Macht der Symbiose die ganze schaurige Waberlohe der Polypenburg wie
+mit einem Gegenzauber eingeschläfert zu haben: auch der Fisch schreitet
+wie der Siegfried der Sage gefeit durch alle Flammen.
+
+Man hat allerdings in diesem Falle noch eine Sondertheorie
+dazu aufgestellt. Es gibt eine Anzahl räuberischer Fische, die
+gewohnheitsmäßig Quallen verzehren, z. B. der direkt danach benannte
+Quallenfresser ~Schedophilus medusophagus~. Dazu müssen nun auch sie
+bis in den Schlund hinunter brennfest sein, ohne daß eine hemmende
+Ausschaltung von seiten der Qualle selbst in Frage kommen würde. Man
+nimmt also an, daß es sich hier um eine mitten im Kampf erworbene
+Giftfestigkeit des Fischs handle, wie wir sie ähnlich beim Igel gegen
+Schlangengift oder bei unsern Raupen des kleinen Fuchses vor der
+mühelos verdauten Brennessel finden. Der Fisch hat davon im eigenen
+Verteidigungskampf noch den Nutzen, daß das aufgenommene Fremdgift
+sein persönliches Fleisch ungenießbar, ja gefährlich und von anderen
+Tierinstinkten gemieden macht, -- was wieder an den geradezu glänzenden
+Schachzug gewisser Schnecken, der Aeolidier, erinnert, die, ebenfalls
+so brennfest, Polypen fressen, durch den sinnreichsten Innenmechanismus
+aber nicht explodiert verschluckte Kapseln der Polypen in ihre
+eigenen äußeren Hautanhängsel wandern lassen, wo sie nun explodieren,
+wenn ein Fremdangreifer die Schnecke beim Fell packt. Aus solcher
+Brennfestigkeit, von den Ahnen im Kampf erworben, soll nun auch bei
+den heutigen symbiontischen Fischen ihre Siegfriedkraft, bloß jetzt
+friedlich gewendet, übrig geblieben sein, und das würde also einen
+besondern Polypeninstinkt (oder was man sich darunter denken will) auch
+hier ganz überflüssig machen. Da man indessen bei der Krebssymbiose
+keinesfalls ohne solchen auskommt (der Polyp _versucht_ ja dort
+überhaupt nicht zu brennen), sehe ich keinen strengen Grund, ihn nicht
+auch hier mitspielen zu lassen statt der immer etwas künstlichen
+Ahnenerklärung, -- zumal man grade Fische in jenen Tropenmeeren auch in
+einer friedlichen Symbiose mit großen, beim Angriff wehrhaft ihre (auch
+oft vergifteten) Stacheln aufsperrenden Seeigeln findet, wo doch von
+einem früheren Verzehren solcher harten Seeigeldolche keine Rede sein
+kann.
+
+Ein anderes, etwas strittiges symbiontisches Geheimnis liegt
+dagegen immer noch über dem schon seit Jahrhunderten solcher
+Dinge verdächtigen, äußerlich aalartigen Fierasfer-Fischchen in
+Seegurken. Die Seegurken sind träge, wurstförmige Gesellen aus der
+(nicht polypischen) Verwandtschaft jener Seesterne selbst. In ihre
+Hinteröffnung schlüpfen nun die schlanken Fischlein ein und stellen
+sich mit geschmeidiger Drehung kerzengerade wieder rückwärts um, den
+Leib in kiemenhaften Darmanhängen des grotesken Wirtes geborgen,
+die freche Schnauze aber am Hintertor, wo sie dann bissig die Gurke
+verteidigen soll, während sie selber von durch die ganze Gurke
+gestrudelten Krebschen profitiert. Es bleibt indessen bis heute unklar,
+ob die Gurke wirklich von ihnen beschirmt wird, und ob sie nicht
+(was bei einer Art bereits feststeht) Selbstfresser an ihr sind nach
+Art der Wespenkinder in der Unglücksraupe. Nesseln kann die Gurke
+übrigens nicht, wohl aber erlaubt sie sich bei allzu großer Belästigung
+gelegentlich sozusagen im ganzen zu explodieren, indem sie den eigenen
+Eingeweidebestand ausspuckt, wobei dann allerdings auch die Unruhgäste
+~nolens volens~ herausfliegen.
+
+Inzwischen, so sieht man, erweitert dieser Kreis von
+Parallelbeispielen, sosehr er auch die symbiontische Sitte schon in
+dieser Tierschicht nicht als ganz vereinzelte Ausnahme, sondern bereits
+als etwas ziemlich weit Verbreitetes dartut und lehrreiche Details
+einflicht, doch das Grundbeispiel prinzipiell noch nicht, wie er auch
+noch keinen im ganzen harmonischeren, darüber hinaus vervollkommneten
+Fall geben kann. Um dahin zu kommen, müssen wir vielmehr erst wieder
+eine kleine Phantasieerweiterung uns gewissermaßen nachschaffend
+ausdenken.
+
+Solcher Polyp und Krebs sind gewiß himmelweit voneinander geschiedene
+Tiertypen. Gleichwohl macht ihre Symbiose aus ihnen schon einen
+gewissen neuen Einheitskörper. Die Genossen im Spiel bekommen etwas
+von Organen: der Krebs als Bewegungs- und Kauorgan, die Rose als
+Brennorgan. Jedes engste Zusammenhalten führt wieder zu solcher
+Organähnlichkeit: man kennt das alte Gleichnis des Menenius Agrippa
+von den Organen am Menschenleibe, die sich gegenseitig helfen mußten,
+statt verderblichen Zwists; die Lunge hilft den Muskeln, der Darm
+der Lunge, die Leber dem Darm und so weiter. Das ist bei ein und
+demselben Wesen der gleichen Art. Aber wo immer „Hilfe“ auftaucht,
+da muß sich ein Entsprechendes durchsetzen. In der Polypenkolonie
+werden die Einzelindividuen erneut zu einer Form von Organen im
+Geschwisterverband, wie soll’s nicht auch auf Polyp und Krebs zuletzt
+treffen. Und man könnte sich nun denken, daß das auch hier noch viel
+weiter ginge. Jene Aeolidier-Schnecken, die den Rosen so sinnreich
+ihre Kapseln abnehmen, um sie bei sich selbst abzubrennen, geben einen
+Anhalt, was da auch friedlich noch an unentwirrbarer Durchdringung
+möglich wäre. Bei den Krebsen gibt es (allerdings hier auch noch auf
+der Kampfseite) einen Schmarotzer, den Wurzelkrebs, der sich Krabben
+unter den Leib beißt und ihren ganzen Körper bis in die feinsten
+Verzweigungen mit einem eigenen Wurzelgeflecht durchspinnt. So könnte
+am Ende der Polyp sich mit seinem Zellgewebe in den Krebs verzetteln,
+der Krebs aber sozusagen im Polypen ausfließen, bis der Zoologe vor dem
+Rätsel stände, wo ihm das eine Tier anfinge und das andere aufhörte.
+In jenen gleichen Seegurken wohnt auch (zwar wieder feindlich) eine
+parasitische Muschel, die ~Entoconcha~ mit dem Beiwort der ~mirabilis~,
+der wunderbaren, die so eng dort gleichsam innerlich eingeschraubt ist,
+daß noch ein Anatom solchen Ranges wie unser Johannes Müller sich einst
+verblüffen ließ, sie sei wirklich nur ein Stück Gurkenleib, das dann
+die unmöglichsten Allotria trieb, bis zu einem Wirrsal, das Müller,
+man kann wohl sagen, damals geradezu den Verstand gekostet hat. Dieser
+Knoten wickelte sich allerdings auseinander, als man die gesonderte
+Fortpflanzung entscheiden ließ, die aus der Gurke wieder Gurken, aus
+der Schachtelmuschel Muscheln ergab. Aber wenn nun auch da die Symbiose
+einen letzten Trumpf spielte?
+
+Unsere symbiontischen Bernhardiner erzeugen aus ihren Eiern ebenfalls
+brav Jungkrebse und die Polypen Schwimmjunge oder doch abgelöste
+Geschlechtsquallen, aus denen wieder Polypensaat hervorgeht. Aber
+weshalb sollte die fortschreitende Symbiose nicht zustande bringen, was
+eigentlich bereits in den Abenteuern des Bitterlings nahe lag: daß das
+Polypenjunge sich etwa schon an das Jungkrebschen klammerte, um gleich
+zur Stelle zu sein, wie Swinegel im Märchen, der „auch schon da“ war;
+oder daß gar die Eier der beiden in Konnex träten? Auf diesem Wege
+würde die neue Einheit sich selbst in der Fortpflanzung zu schließen
+beginnen! Mag das in unserm Beispiel einstweilen bloß Phantasie sein,
+die wie mit einem Nebelbilderapparat das alte Bild zu einem neuen,
+noch kühneren verschwimmen läßt: wir stehen in Wahrheit damit nur
+bei der _wirklichen_ Fortsetzung, die einst bei jener Begründung
+des Symbiosebegriffs durch de Bary geradezu bereits die _erste_
+geschichtliche Voraussetzung gebildet hatte. Wir berühren nämlich das
+große Grundbeispiel der Symbiose aus der Pflanzenwelt: die Flechte.
+
+Jeder kennt sie. In der Granitregion unseres Riesengebirges ist
+der Wanderer stundenlang schon mit ihr allein, wie sie als gelbe
+Krustenflechte den Stein bemalt; hier erscheint sie wirklich wie
+eine Urform des Lebens, die zuerst den ungefügen Fels benagt und
+anschmilzt, letzter Grundtyp aller Urbarmachung dieser Erde. Als
+grauer Rübezahlbart hängt sie dann von den Wetterfichten, sie färbt,
+wie den nackten Stein, so auch die trockenste Baumrinde, kriecht in
+scheinbarem Blatt- und Strauchwerk oder verkrumpelten Gallerthäufchen
+am Boden dahin; sie nährt als Renntierflechte in letzter dürrer
+Wiese noch das Polartier und macht damit seine Breite auch dem
+Menschen noch bewohnbar. Kaum ein Naturgebild von den kleinen der
+Erdlandschaft, das sich so fest, so allgegenwärtig uns von früh an
+einprägte. Hören wir aber (im engen Anschluß zunächst an de Barys
+erste Darlegung selbst), als was sich dem Botaniker solche Flechte
+entpuppen mußte. Von den mehrtausend Arten der Flechten, Lichenen,
+wie das botanische Fremdwort sagt, lernte man lange in der Schule,
+daß sie eine besondere Kryptogamengruppe bildeten, die mit den Pilzen
+in der Fortpflanzung übereinstimmte, aber etwas besäße, das sonst den
+Pilzen absolut fremd ist. Der Pilz wird zwar zu den Pflanzen gezählt,
+hat aber kein Chlorophyll, also nicht den bekannten wunderbaren
+„Kochtopf“ der grünen Pflanze, mit dem sie im Licht aus anorganischem
+Stoff Lebenssubstanz kocht; er kann nur wie das Tier von schon
+vorgebildeter Substanz solcher Art leben, die er für gewöhnlich am
+Lebendigen und Toten zweiter Hand schmarotzernd sich verschaffen muß.
+In diesen Flechtenpilzen aber lagen außerdem stets chlorophyllführende
+Zellmassen, die jene Kunst besaßen und übten. Man fand im
+Flechtenkörper, dem „Thallus“, wie man das nennt, stets zunächst
+verflochtene Zellreihen (Fäden, Hyphen), die Sporenfrüchte mit
+keimfähigen Sporen nach Pilzart trugen. Das waren offenbar echte Pilze,
+der bei uns gangbaren Form nach Schlauchpilze, also vom Morchel- oder
+Trüffelstamm. Aber was bedeuteten die chlorophyllhaltigen lebendigen
+Einlagen? Man nannte sie hergebracht die „Gonidien“ der Flechte, nahm
+sie aber als Organe des Pilzes, die in diesem Falle grünen Algen
+ähnelten (Abb. 12). „Flechte“ war also ein algennaher, mit einer Art
+Metamorphose seines Wachstums in Algentyp übergehender Pilz, bei dem
+die Gonidien anscheinend als kleine Zweiglein aus den Pilzfäden selber
+hervorwuchsen. Doch schien die Fortpflanzung dunkel zu bleiben, die
+aus isolierten Sporen nur reine, stets rasch vergängliche Pilze ergab,
+während in andern Fällen die Gonidien wie durch Hexerei hineingezaubert
+schienen. So sprach „auf Grund dieser und ähnlicher Bedenken“ de Bary
+1866 aus, wenigstens _einige_ Flechten möchten aus einer Vereinigung
+eines jedesmal bestimmten Pilzes mit einer echten Alge hervorgehen.
+Und das dehnte dann Schwendener, nachdem man die Gonidien allenthalben
+mit auch selbständig vorkommenden Algen zu identifizieren begonnen,
+auf sämtliche Flechten aus und entwickelte es zur festen Theorie,
+worauf es Reeß und dem hochverdienten Stahl gelang, durch Vereinigung
+solcher bestimmten, selbständig wachsenden Algen mit den geeigneten
+Pilzen einen Flechtenthallus absichtlich zustande zu bringen, also die
+Probe auf das Exempel zu geben. De Bary aber begründete, wie erzählt,
+mit dem ganzen enträtselten Sachverhalt die umfassende neue Lehre von
+der Macht der Symbiose, die hier einen chlorophyllosen Pilz mit einer
+chlorophyllführenden Alge buchstäblich bis zur äußeren Unkenntlichkeit
+zu einer neuen Genossenschaftseinheit verschweiße. Denn daß auch hier
+eine gegenseitige Hilfe in glücklichstem Ausgleich vorliege, wurde
+schon de Bary selbst als eigentlichste Erklärung wahrscheinlich, und
+die Folge hat es auch nur bis zum äußersten bestätigen können.
+
+[Illustration: Abb. 12. stark vergrößerter Querschnitt durch einen
+Flechtenkörper mit den in dem Pilzgeflecht eingelagerten zahlreichen
+kugeligen Algen.]
+
+Die in den Pilz mehr oder minder wie eine oberflächliche Stickerei
+eingewebte grüne Alge kocht in ihrer Chlorophyllküche mit Lichtheizung
+nicht nur Lebensnahrung für sich, sondern sie erzeugt auch in der Fülle
+der Kraft Überschuß genug, den hungrigen Pilz mitzunähren, friedlich,
+ganz im Sinne des früher Gesagten, ohne daß er selber an ihr fressen
+muß. Der Pilz aber, der gewissermaßen hier die Alge als Kochtopf auf
+seinen Händen sich vorhält, wie oben die kleine Korallenriffkrabbe
+ihren Seerosen-Revolver, tut ihr dafür den Gegendienst des umsichtigen
+Gärtners, der sein Bäumchen hegt, daß es für ihn fruchte, -- selbst
+kann er nicht an seine innere Kraft, wie ein Glückswunder auch für sich
+muß er sie hinnehmen, wohl aber darf er der Wurzel den besten Stand
+geben, den Boden düngen und wässern, damit die Frucht so reichlich
+werde, daß er selber ohne Schaden der Pflanze davon mitleben kann;
+so saugt auch der Pilz der Flechte Wasser samt den darin enthaltenen
+Mineralsalzen und leitet sie der Küche als Betriebsstoff zu, er
+kondensiert das Wölkchen noch am unfruchtbarsten Fels und Holz, und
+er gräbt selbst im härtesten Granit mit eigener ätzender Säure immer
+wieder ein Töpfchen gleichsam aus, in dem das Ganze zwischen Himmel
+und Abgrund haften mag. Daß solche genossenschaftliche Fabrik, wo die
+eine Partei, noch an den nacktesten Prometheusfelsen gekettet, aus
+Licht und Luft süße Speise zu bereiten versteht und die andere dafür
+alle grobe Handlangerarbeit versieht, noch ausdauern kann, wo sonst
+Alge wie Pilz allein, ja jegliches bekannte Leben erlahmen müßte,
+begreift man, -- bewundernd aber sieht man dabei auf die Symbiose hier
+als eine Mehrerin nicht bloß des Einzelraumes einer Art, sondern des
+ganzen Lebens auf Erden, während man zugleich auch an eine gewisse
+geschichtliche Verkettung denkt, die wohl gerade in dieser Pilzsymbiose
+stecken könnte. Denn der Pilz, heute von der eigenen elementaren
+Bereitung des pflanzlichen Lebensbrotes abgeschnitten, ist, so darf
+man vermuten, selber doch wohl ursprünglich nur ein verlorener Sohn
+der Pflanzenwelt gewesen, ein abgelenkter Zweig etwa der Algen selber,
+der diese Gabe nachträglich verloren hatte, weil er sich gewöhnt, in
+der lichtfernen Bodentiefe dem Abhub des Lebenstisches der andern bei
+Tod und Verwesung nachzugehen. Aus dieser Tiefe ist er aber dann
+doch wieder vielfältig als ein schlimmer Fresser und Parasit auch am
+wirklich Lebendigen erstanden. Bis in solcher Symbiosenform abermals
+eine Art neuen Ausgleichs auch für ihn eintrat, bei dem er friedlich
+von oben das verlorene Brot wiederbekam, dafür aber jetzt seine als
+Bergmann und Schatzspürer in der Tiefe erworbene Kraft in den Dienst
+dessen stellte, der ihm dieses Brot gab, -- womit auf weitem Umweg der
+Natur etwas geschaffen war, das auch im ganzen da oben im Licht eine
+glückliche Neuerung und Erweiterung darstellte.
+
+Nun aber sollte es noch etwas sein, auf das ebenfalls bereits de Bary
+selbst hinweisen konnte. Grüne Einzelalgen sitzen auch auf dem Lande
+schon in Menge an Bäumen und Felsen allein, brauchen nicht allzuviel
+Feuchte und fliegen in ihrem eingetrockneten und abgeblätterten
+Zellenmaterial weit mit dem Winde umher. Ebenso aber fliegen Pilzsporen
+herum, der alte Kerner hat seinerzeit unübertrefflich geschildert, wie
+man beider Schwärmerei sozusagen an aufgestellten Leimruten nachweisen
+kann, -- einfach, daß sie also gelegentlich sich immer wieder auch
+einten und die Flechte erzeugten, wobei gewisse Pilzarten (wie gesagt,
+bei uns regelmäßig nur Schlauchpilze, in den Tropen aber wohl auch
+einmal ein Ständerpilz von der entfernten Champignonverwandtschaft)
+nur recht gediehen, wenn sie mit gewissen schon in altem Erbe
+prädisponierten Algen so zusammenträfen, während die Algen sich
+wahlloser gäben, aber in bestimmten Arten schließlich doch auch des
+Pilzes nicht mehr ganz entbehren möchten. Wo solches zusammenbestimmte
+Flechtenvolk von heute dann bereits in Kolonien beisammen sitzt, da
+wird ja durch Abstäuben grade dieser Pilzsporen und Abschilfern dieser
+Algenzellchen auch der engere Bund immer wieder erleichtert werden.
+Und doch ist auch das noch nicht das Ganze. Grade der letzteren Hilfe
+hat sich erst das vollkommenste Symbiosenwunder diesmal angeschlossen.
+Wo Alge und Pilz sich glücklich in bestimmter Art zusammengefunden
+haben, wo sie in der Reife der Kraft lange schon genossenschaftlich
+gewirtschaftet haben: da endlich gelingt es ihnen, _ihre Fortpflanzung
+wirklich zusammenzulegen_. Sie bringen sogenannte Soredien hervor.
+Soredon bedeutet im Griechischen etwas Gehäuftes. Nicht das einfache
+Häufchen ist aber hier das Bezeichnende, sondern entsprechend der
+Symbiose das Zusammengehäufte, aus zwei Parteien zu gemeinsamem Zweck
+Ineinandergehäufte. Aus der Oberfläche der Flechte erwachsen, oft
+in besonderen Gärtchen, winzige Körperchen, ebenso lösbar und vom
+Winde verführbar wie der gewöhnliche Pilzstaub oder Algenschorf.
+Aber diese Soredien sind diesmal nicht bloß Pilz oder Alge. Sie
+sind schon saatreife junge Neuflechten: Genossenschaftsableger. In
+jedem sitzt eine gewisse kleine Zellprobe Alge, umsponnen von einem
+Fadenteil Pilz. Die Flechte, zum Zweiseelenwesen geworden, entsendet
+ein siamesisches Zwillingspaar. Zwar ist’s auch in der geschicktesten
+Variante noch keine eigentliche Ei-Verschmelzung, sondern hat stets
+mehr vom doppelten Ablegerzwilling, aber wer will auf dieser Stufe des
+Liebeslebens das noch so scharf trennen! Grundlegend ist vom Wesen
+aller Fortpflanzung aus jedenfalls, daß auch hier schon der _Zufall_
+der nachträglichen Begegnung _ausgeschaltet_ wird: die Soredien
+_müssen_ wieder neue Flechten der betreffenden Art erzeugen, wie nur
+irgend eine Froschart Frösche, eine Käferart Käfer ihrer Art erzeugt.
+Und so wäre auch unser kühnstes Phantasiebild hier erfüllt...
+
+Die Entlarvung der Flechte als eines im Kleinleben der Natur gradezu
+allgegenwärtigen Symbiosefalls war aber kaum erfolgt, als sich an
+sie eine noch viel umfassendere Entdeckung anschließen sollte. Alge
+wie Pilz sind an sich Niederformen der Pflanzenreihe, wie sie trotz
+ihrer Allverbreitung doch auch in unserm Wald- und Gebirgsbilde
+gleichsam nur eine Deckfarbe bilden. Da aber traten mit Mitte der 80er
+Jahre abermals deutsche Botaniker (zuerst Frank, nachher auch wieder
+besonders Stahl) mit der überraschenden Erklärung hervor, daß auch
+der ganze obere Grundstamm unseres heimischen Vegetationsbildes, der
+Wald mit all seinen Eichen, Buchen, Birken, Kiefern, Tannen, Fichten
+und seinem ganzen Strauchwerk an Preiseln, Ginster und so fort bis in
+den unendlichen Teppich der Heidekräuter hinaus und im Hochgebirge bis
+in den obersten Ring der Alpenrosen hinauf nichts anderes darstelle
+als eine einzige unfaßbar ungeheure Symbiose mit einer dämonisch
+unsichtbaren Unterweltsmacht. Das wunderbare Problem der „Mykorrhiza“
+war es, das hier aufdämmerte.
+
+Der Ausdruck, von Frank eingeführt, bedeutet griechisch Pilzwurzel.
+Das Entscheidende liegt aber auch hier wieder in der symbiontischen
+Doppelbeziehung Pilz und Wurzel. Bei all diesen landschaftsbestimmenden
+Holzgewächsen unserer Forste und Heiden treffen die unterirdisch
+wühlenden feinen Saugwurzeln in der Heide- und Dammerde auf
+allenthalben dort wucherndes und aus Sporenkeimen immer wieder
+reichlich nacherzeugtes Tiefengeflecht (sogenanntes Myzel) von Pilzen.
+Dabei umspinnt dieses Pilzmyzel aber die Wurzeln mehr oder minder
+dicht, dringt bisweilen bis ins Innere selbst vor oder umkleidet sie
+doch mit einem so vollkommenen Mantel, daß sie selber, von Wasser
+und Mineralsalzen abgeschnitten, elend mit ihrem ganzen aufruhenden
+Walde und Heidekraut vergehen müßten, wenn nicht eben wundersamerweise
+die Pilze selber einträten, von sich aus den Boden weithin in der
+findigsten Weise bearbeiteten, durchstöberten, auslaugten und
+kanalisierten und das Ergebnis ihrer eigenen Bergmannsarbeit den
+fremden Wurzeln ausgiebig zuführten. Auf den ersten Anblick könnte
+man versucht sein, hier bloß einen Glückszufall der Natur zu sehen:
+genötigt, in den allenthalben dick infizierten Pilzboden zu gehen und
+dem Umsponnenwerden hilflos preisgegeben wie eine Fliege im Netz, kämen
+die Wurzeln durch irgendeine Durchlässigkeit der strotzenden Pilzfäden
+grade noch mit einem blauen Auge davon. Die Sache liegt aber auch
+diesmal entschieden tiefer und läuft auf die kolossalste Symbiose der
+Natur hinaus. Alle jene Wurzeln verkümmern heute ohne Pilz. Deswegen
+kann man Eriken, Azaleen, junge Tannen und Lärchen, wie jedem Gärtner
+bekannt, nicht in reiner Gartenerde, die keine Wald- oder Heidepilze
+enthält, ziehen. Der Pilz ersetzt offenbar der Wurzel nicht bloß, was
+er ihr nimmt, sondern er hat von je selbständig zugegeben und die
+Pflanze hat sich gewöhnt, ihn als unentbehrlich zu betrachten. Der
+einleuchtendsten Erklärung nach handelt es sich bei all diesen Bäumen
+und Sträuchern um von Natur mäßige Wassersauger, die aus eigener Kraft
+auf schlechtem Boden oder bei starker Konkurrenz stets versagt hätten,
+der Pilz aber pumpt ihnen erst die volle Bodennutzung zu. Erst durch
+ihn, den geschickten Gnomen der Tiefe, ballt sich der schöne Wald
+da oben auf, prangt die Heide in ihrem Purpur, wirft sich die Matte
+in Alpenrosenglut. Warum aber leistet er der fremden Wurzel, die in
+gewissem Sinn auch seine Konkurrentin ist, diesen Dienst? Nun eben,
+weil auch hier Symbiose mit Gegengeschenk wirkt, eine ganz ähnliche wie
+in der Flechte, -- ob nun dort nur ein paar grüne Algenzellen auf dem
+Pilz ruhen oder hier ein ganzer tausendjähriger Eichbaum: der Pilz kann
+selber aus den Elementarstoffen wieder keine Nährsubstanz kochen, denn
+ihm fehlt das grüne Pflanzenblatt oben im Licht. Baum und Heidekraut
+aber vermögen es, und was sie oben so fabriziert, dessen strömt der
+Überschuß jetzt unten aus der Wurzel wieder dem offen angeschlossenen
+Pilz selber zu. Und so waltet auch hier der große Vertrag: er reichert
+die Küche von unten an und teilt dafür den fertigen Mittagstisch.
+
+Wenige, die durch den würzigen Buchen- und Tannenduft wandern, mögen
+ahnen, was für dunkle Wege die Natur erst hat abschreiten müssen,
+um diesen lichten Naturzauber zu ermöglichen. Man denke sich aber
+Wald und Heide auch nur aus unserm deutschen Heimatbild fort und man
+begreift, daß Symbiose kein verlorener Einzelfall und auch nicht
+bloß eine Gebietserweiterung ist: sie ist eine Grunderscheinung des
+irdischen Lebens, an seinem Kern und Herzen allerorten in Kraft. Wobei
+es einen hübschen Einklang noch geben mag, daß man Mykorrhizabildung
+(die grade auch unserm lebenden Bärlapp nicht fremd ist) bereits an
+den urweltlichen Wäldern der Steinkohlenzeit nachgewiesen haben will.
+Während man zugleich auch hier wieder im Sinne des oben angeschlagenen
+Gedankens den Pilz ahnt, der sich aus seinem Tartarus erneut zum
+Licht gefunden; diesmal hat er es, ohne den Tiefengrund selber zu
+verlassen, aber gerade so doch erst in der allerwirksamsten Weise, die
+uns statt des Bildes vom verlorenen Sohn fast den Satz wagen läßt,
+daß durch seine Existenz das Pflanzenwesen als Ganzes gleichsam in
+zwei vollkommene Anpassungsformen auseinandergespalten sei: die eine
+nach oben für das Licht und die andere ebenso denkbar gut für die
+Unterwelt -- und daß die Symbiose das dann wieder zu einem ergänzenden
+Überorganismus zusammengeschmiedet hat, mit Meile um Meile Wald und
+Heide als Lichtorgan und entsprechend mitlaufendem Pilzgeflecht als der
+wahren Wurzel dazu.
+
+Hinsichtlich der Fortpflanzung ergreift die Mykorrhiza zwar sogleich
+die ersten Seitenwürzelchen des höheren Pflanzenkeims, geht aber im
+Walde für gewöhnlich noch nicht an den Samen selbst, ein so enger
+Anschluß war hier wohl nicht nötig, da ja jeder Waldhumus von Pilzen
+ohnehin wimmelt und auf die engere Art diesmal noch weniger anzukommen
+scheint; immerhin bemerkt man z. B. bei den auch hier anschließenden
+Orchideen bereits eine Pilzinfizierung des Samenkorns im Boden als
+notwendige Voraussetzung, wenn es überhaupt keimen soll, der Weg
+lag also auch klar offen. Auf der andern Seite kommen natürlich bei
+so riesiger Ausdehnung dieser Symbiose (sie macht auch mit unserer
+gemäßigten Zone nicht halt) auch wieder kleine Schwankungen vor, wo
+das durchweg friedliche Verhältnis einmal etwas stärker von seiten der
+Wurzel oder des Pilzes in ausbeutenden Übergriff umschlägt: man muß
+eben immer bedenken, daß der Frieden dem Kampf ursprünglich abgelistet
+war und den alten Pferdefuß noch nicht völlig verleugnet. Auch bestehen
+über die Einzelheiten, was besonders der Pilz der Wurzel an Stoffen
+liefert, noch mancherlei Meinungsverschiedenheiten der Forscher, aus
+denen sich doch, soviel ich sehe, die hier vorgetragene Form als die
+allgemeinste ergibt, ohne daß es für unsern Zweck hier eines engern
+Eingehens auf diese mehr pflanzenphysiologische Seite der Sache
+bedürfte. Aber im ganzen ragt auch hier das Beispiel, das an Größe
+nicht mehr zu überbieten ist. Und ihm schließt sich sofort noch ein
+zweites an, das, nicht ebenso universal für den Naturhaushalt, doch im
+Menschenhaushalt Epoche gemacht hat, seit man auch seinen Berg mit dem
+Sesam der Symbiose zu öffnen verstand.
+
+Die vollkommene Pflanze braucht zu ihrer Lebensküche außer der
+Luftkohlensäure und anderem stets auch Stickstoff als Material. Aber
+obwohl sie im ungeheuren Stickstoffmeer unsrer Luft beständig schwimmt,
+kann sie doch dieser Luft selber keinen Stickstoff zur Eiweißbereitung
+entnehmen, muß ihn vielmehr mit der Wurzel aus den gelösten Salzen des
+Bodens ziehen. Rätselvoll ist diese Lücke ihres Haushalts, auf einen
+Urzusammenhang im Baum des Lebens schauen wir hier, den unser Blick
+heute nicht durchdringt. Auf ihm aber beruht umgekehrt wieder unsere
+menschliche Kunst des Düngens. Auf Boden, arm oder schon ausgelaugt an
+jenen Salzen, fügen wir (nach dieser Seite dem ursprünglichen Baume
+des Lebens immer mehr überlegen) künstlich neuen Stickstoffgehalt zu
+und mehren so selbsttätig der auch uns wertvollen Pflanze Kraft. Aber
+eben in diesen Dingen zeigte sich seit alters auch ein neues Geheimnis.
+Gewisse Pflanzen (Leguminosen) kamen auch mit stickstoffärmstem Boden
+aus, und dennoch speicherten sie in sich fortwachsend Stickstoff an.
+Wenn man sie grün wieder einpflügte, war der vorher sterile Boden von
+ihnen selbst wie gedüngt. Hier beruhte die Bedeutung der Lupine, die
+den schlechtesten Boden für Korn reif machte, wenn man sie vorher
+pflanzte und dann eindüngte. Konnte diese Lupine also doch auch
+Luftstickstoff verwerten? Nein, keine grüne Pflanze kann’s, und des
+Rätsels Lösung bleibt abermals eine wundervolle Symbiose. Es gibt auch
+in solchem schlechten Acker gewisse winzige Wesen, zu den Bakterien
+gehörig. Meist nennt man solche Bakterien Spaltpilze, aber eigentlich
+stehen sie noch ihr Stück auch unter dem echten Pilz als ganz einfache
+Urwesen. Schon von solchem echten Pilz selbst ist nun gelegentlich
+bei der Mykorrhizafrage vermutet worden, er sei ein heimlicher
+Luftstickstoff-Fänger in seinem Tartarus, doch bleibt das einstweilen
+problematisch. Die hier gemeinten Bakterien, noch ein Stück elementarer
+als er, können aber wirklich, was die Pflanze auch als Leguminose nicht
+vermag: sie können bei bestimmter eigener Kraftfütterung aus der auch
+da unten noch verbreiteten Erdluft wirklich unmittelbar Stickstoff
+umsetzen. Und solche Stickstoffbakterien sind nun abermals mit den
+Wurzeln jener Leguminosen in Symbiose getreten in einer etwas zum Zweck
+abgeänderten Mykorrhizaform, indem sie kolonienweise dort eindringen,
+die Wurzeln ähnlich den bekannten, die Blätter oben anstechenden
+Gallwespen zu kleinen knöllchenartigen Wucherungen bringen (Abb. 13),
+in denen sie sich nun häuslich einrichten, Wohnung und Wochenstube
+finden und einen höchst erstaunlichen Kost- und Fabrikbetrieb mit der
+Pflanze eingehen. Die grüne Pflanze kocht ihnen, was sie bei all ihrer
+noch weiteren Alchymistenkunst doch auch nicht können, Lebenssuppe
+und leitet sie ihnen von oben zu. Sie aber gewinnen eben davon in
+ihren Nestchen jenes Mehr an Energie, um nun Luftstickstoffabriken
+herzustellen, die sie wieder der Pflanze nutzbar machen. So kann die
+Pflanze wunderbar gedeihen wie im nicht endenden Mistbeet, und wenn sie
+selber in den Grund von uns eingebuttert wird, versteht man, daß sie
+den Boden neu aufbessern muß, als sei sie selber ein konzentrierter
+Stickstoffdünger: daher das Wunder der Lupine.
+
+[Illustration: Abb. 13. Wurzel der Saubohne mit Bakterienknöllchen ~K~.]
+
+Auch in diesem Fall ist unsere Weisheit jung, so gut auch schon die
+Antike die Praxis der Lupine kannte, kaum daß auch sie über das Ende
+der 80er Jahre zurückgeht; und auch hier laufen noch die Theorien mit
+manchem Wenn und Aber, auch sollen wieder kleine parasitische Züge,
+vielleicht doch nur unnormal, nebenher eingehen. Umgekehrt wächst aber
+der anfangs kleine Umkreis auch dieser Dinge schon ersichtlich weiter,
+schon kennt man von unsern Erlen ähnliche Stickstoffsammelknöllchen,
+und wer weiß, wie sich die echte Mykorrhiza gar noch mit diesen
+Bakterienfabriken eines Tages kombiniert erweisen könnte, -- so reißt
+die symbiontische Betrachtung jedenfalls auch hier wieder etwas wie ein
+Tor auf, indem sie zugleich ein uraltes Saisbild der Landwirtschaft
+entschleiert und damit dem Menschen als dem großen entscheidenden
+Landwirt im Naturhaushalt dieser Erde bedeutsam wird. Hat man doch
+neuerdings mit einigem Erfolg sogar schon versucht, die Leguminosen
+künstlich noch wieder aufzubessern, indem man ihren Boden mit in
+Reinkultur gezüchteten Stickstoffbakterien impfte: wieder ein Übergang
+zu neuer Dreisymbiose, wo der Mensch zu Pflanze und Spaltpilz tritt
+oder in dem Lupinenfall gar einer vierfachen, in der erst das spätere
+Korn dem Menschen wieder den Einsatz zurückbringt. Worein sich freilich
+hier schon eine Leitkraft seitens des überlegensten Wesens mischt, die
+wir erst gleich näher zu beachten haben werden.
+
+Inzwischen ist bei den letzten Beispielen zunächst noch
+charakteristisch und neu, daß die echte grüne Pflanze darin
+vergesellschaftet erscheint mit solchen Grenzwesen, wie Pilzen oder
+gar Spaltpilzen, die selber (sei es nachträglich oder ursprünglich)
+ganz unpflanzliche, im echten Pilzfall der Haupternährung nach gradezu
+eher tierische Natur besitzen. Kein großer Schritt also von hier zur
+Möglichkeit einer Symbiose unmittelbar zwischen Pflanze und Tier.
+
+Es war nun wieder in den 50er und im Anfang der 60er Jahre des
+19. Jahrhunderts, daß eine überaus merkwürdige Gruppe kleiner
+meerbewohnender Tierchen in der Zoologie Aufsehen zu machen begann:
+die seither vielbesagten sogenannten Strahltierchen oder Radiolarien.
+Der alte treffliche Berliner Infusorienforscher Ehrenberg hatte
+aus den Abgründen der Tiefsee dort im Schlamm gelagerte, gradezu
+künstlerisch schöne Kieselskelette beschrieben, und Huxley, Johannes
+Müller und Haeckel hatten die zugehörigen, durchweg mikroskopisch
+winzigen Geschöpfchen selbst gefunden. Nun tobte aber Streit, wo diese
+niedlichen Radiolarien im System hingehörten. Ehrenberg hielt sie für
+hochentwickelte Stachelhäuter, Verwandte also jener Seegurken, die
+ihren verwickelten Bau bloß in liliputanischer Winzigkeit verstecken
+sollten. Huxley dagegen nahm sie als primitive einzellige Urtierchen
+vom Schlage der Rhizopoden oder Wurzelfüßer. Dem glaubte aber ihr
+erster Monograph großen Stils, der junge Haeckel, widersprechen zu
+müssen, indem er zwar nicht die urtümliche Rhizopodennatur im ganzen,
+wohl aber den Aufbau aus nur _einer_ Zelle bestritt, da sich doch an
+eine Hauptzelle in deren äußerem Gallertmantel durchweg noch eine
+Anzahl anderer anschlössen. Die Grundfrage schien damit geklärt,
+und die Radiolarien paradierten zunächst nur durch ihre besagte
+kristallhaft regelmäßige Gestalt, zu der allmählich die großen
+Tiefsee-Expeditionen Tausende von immer prächtigeren Varianten liefern
+sollten. Da aber brachte 1871 der russische Botaniker Cienkowski auch
+jene anatomische Sache neu in Fluß durch die überraschende Behauptung,
+jedes Radiolar sei dennoch nur ein Tier aus einer einzigen Zelle,
+denn jene gelben Zusatzzellen in ihm seien in Wahrheit einzellige
+Algen, also Pflänzchen, die nur als fremde Eindringlinge in dem
+tierischen Radiolar lebten, gleichsam die beiden großen Naturreiche
+lebendig vermischend auf denkbar engstem Raum; denn solches Radiolar
+maß durchweg nur einen Millimeterbruchteil, während oft mehrere
+hundert solcher strittigen Zellen in seinem Leibe eingeschachtelt
+steckten. Die Behauptung machte als überkühn zunächst lachen, erwies
+sich dann aber besonders durch Brandts Bemühungen als wahr. Es gibt
+ja schließlich chemische Feinmethoden, eine Pflanzenzelle von einer
+Tierzelle in ihrer Lebensäußerung zu unterscheiden. Nicht nur, daß
+sie meist einen Mantel von Zellulose, also pflanzlichem Holzstoff,
+führt (solche Zellulose können sehr ausnahmsweise auch einmal Tiere
+wie die bekannten, den Wirbeltieren nahen Manteltiere, die Aszidien
+und Verwandten, entwickeln), sondern sie scheidet vor allem als Regel
+wenigstens im Tageslicht bei ihrer Arbeit Sauerstoff aus als Abfall
+ihrer Kohlenstoffabrik, während die Tierzelle atmend fortwährend nur
+Kohlensäure haucht, und diesen „Schornstein“ ihres gegensätzlichen
+Maschinenbetriebes behaupten solche Liliputer auch mitten im engsten
+Ineinanderstecken, wenn man die Dinge nachprüfend auf die Goldwage
+legt. Kaum aber war diese eigenartige und in ihrer Weise epochemachende
+Entdeckung getan, so schloß sich auch an sie bereits wieder eine
+umfassendere an.
+
+Jene besagte merkwürdige Elementarküche der echten Pflanzen vom
+winzigsten einzelligen Algenpflänzchen bis zu einem ganzen grünen Walde
+zeigt sich bekanntlich geknüpft an jenen erwähnten Stoff, den man
+Chlorophyll nennt und der sich äußerlich bei den Pflanzenblättern durch
+die auffällig grüne Farbe auszuzeichnen pflegt; sie ist hier wirklich
+mehr oder minder die Farbe des typischen chemischen Pflanzenkochtopfs,
+wobei wir die bis heute noch ungelösten Geheimnisse dieses Chlorophylls
+als eine rein pflanzenphysiologische Frage wieder beiseite lassen
+können. Genug, man kannte aber schon längst da doch auch einzelne
+Tiere, die ebenfalls unverkennbar intensiv pflanzengrün waren und diese
+Blattfarbe allem Anschein nach wirklich auch solcher Chlorophylleinlage
+in ihrem Tierleibe verdankten, -- so war, wenn auch nicht unser rein
+farblich grüner Laubfrosch, doch unser ebenfalls sehr allbekannter
+kleiner grüner Süßwasserpolyp, die ~Hydra viridis~ (ein auch sonst
+von je die Beobachtung durch sein enormes Wiederherstellungsvermögen
+beim Zerschneiden, sowie als unmittelbarer Seerosen-Vetter unserer
+Binnenwasser fesselnder kleiner Kerl), ein sinnfälligstes Beispiel
+dieser Art. Bisher hatte man sich damit abgefunden, daß hier also auch
+ein Tier gelegentlich Chlorophyll erzeugen könnte, -- seltsam nur, daß
+diese so ganz unsäglich wichtige Gabe, die solchem Tier ja zugleich
+alle Urkraft der Pflanze verlieh (mit solcher Kraft würden wir Menschen
+heute von Luft und mineralhaltigem Wasser leben können, eine hübsche
+Lösung der sozialen Frage!), so launisch bloß über ein paar Arten (eine
+zweite Art z. B. schon dieser Hydra besaß sie nicht) verteilt sein
+sollte. Hier aber fiel es nun beim Aufrollen der Radiolariensache auf
+einmal wie Schuppen von den Augen: ob nicht alle diese vermeintlichen
+„Chlorophylltiere“ tatsächlich auch auf solche mit einem Tier lebend
+kombinierten Pflanzeneinlagen hinauslaufen könnten? Die grüne Farbe
+brauchte dabei, nebenher bemerkt, nicht allein ausschlaggebend zu sein,
+denn jene Radiolarienalgen waren selber gelb, und das Chlorophyll kann
+an und für sich auch eine etwas andere Färbung gelegentlich annehmen,
+ohne zu verlieren, was es ist.
+
+Und wirklich gelang es gleich den Brüdern Oskar und Richard
+Hertwig 1879, einen solchen Fall teils gelber, teils grüner
+Chlorophylleinschlüsse in der Darmschicht jetzt einmal wieder
+unserer mehrerwähnten guten Seerosen mit Glück aufs Korn zu nehmen,
+-- wobei sich klipp und klar herausstellte, daß auch hier tief
+in den Bauchzellen des Seerosentiers eine ganze dicke Vegetation
+bestand, ein wahrer kleiner unterirdischer und nur im Farbton
+grünlich oder braungelb durchscheinender Wald von echten Algen, die
+alle ihre Schornsteine mitten im Tierhaushalt ruhig nach Weise ihrer
+Pflanzenfabrik weiter rauchen ließen. Brandt konnte (nachdem hier schon
+der ungarische Zoolog Géza Entz sogar vor den Hertwigs erfolgreich
+vorgearbeitet hatte) bereits 1881 das gleiche vom Hydrapolypen
+nachweisen, der selber eben auch nur so salatgrün war, weil auch in
+ihm, etwas bildlich gesprochen, wirklich Salat in ganzen Feldern
+grünte. Und in der Folge ist dann diese innere Salatversetzung noch
+bei den verschiedensten Grüntieren festgestellt worden: von selbst
+noch radiolarienhaft einzelligen grünen Amöben bis zu den schönsten
+Polypen der Korallenbänke und wieder dem Strudelwurm Convoluta, bei
+dem die Pflänzchen sogar ohne Zellulosemäntelchen unmittelbar nackt in
+den tierischen Nacktzellen der Haut zu stecken scheinen. Von gewissen
+grünen Seerosen hat Weismann erzählt, daß er sie gelegentlich an der
+Küste von Korsika gradezu für eine Seegraswiese gehalten habe, so
+täuschend hatten sie sich mit ihren eigenen Salatbeeten maskiert. Oskar
+Hertwig in seinem berühmten Symbiosenvortrag von 1883 aber gab nun
+auch diesem Komplex unwahrscheinlicher und doch wahrer Erscheinungen
+wieder die Tiefe, indem er sie als einen weiteren Fall seiner
+Symbiose selbst proklamierte. Die grünen Schmuggelpflänzchen lebten
+mit den betreffenden Tieren abermals im Schutz- und Trutzbündnis auf
+Gegenseitigkeit. Sie wurden von dem Tier, auch wo sie, wie bei der
+Hydra und den Seerosen, in den hier innerlich verdauenden Magenzellen
+saßen, selber nie oder doch in der Regel nicht (Hungersnöte sollen
+einzelne Ausnahmen schaffen) mitverdaut im Sinne wirklich verschluckten
+Salats, fanden vielmehr hier das üppigste Treibhaus, ja vielleicht
+eine Art Mistbeet. Ihre pflanzliche Küche, die tagsüber Sauerstoff
+rauchte (nachts wirft die jetzt rein atmende, nicht kochende Pflanze
+auch Kohlensäure aus wie das Tier selbst), paffte diesen Sauerstoff als
+erquickende Atemluft unmittelbar in das umschließende Tierhaus hinein,
+dieses Tier aber, aus dem immer nur Kohlensäure raucht, warf wieder
+solche als vorzüglichen Brennruß ständig in die kleinen Pflanzenküchen
+zurück. Auf engstem Raum konzentriert wirksam erwies sich hier etwas,
+das eigentlich schon im ganzen freien Tier- und Pflanzenleben auf
+Erden eine gewisse an Symbiose immerhin anklingende Rolle spielt.
+Ich habe oben einmal gesagt, das Tier sei im großen Freßkampf eine
+Art urbestimmten Schmarotzers an der Pflanze gewesen. Das ist vom
+echten Magenfreßkampf aus auch richtig, trifft aber doch nicht so die
+merkwürdige ständige Luftausgleichung der beiden, die ebenso von je
+etwas friedlich Ergänzendes besessen hat: wenn nämlich die kochenden
+grünen Pflanzen eben immerzu auch im Ganzen Sauerstoff rauchen, der
+von den atmenden Tieren gebraucht wird, und die Tiere dafür die dort
+erwünschte Koch-Kohlensäure. Nennen könnte man auch das schon eine
+große Ursymbiose der ganzen beiden Reiche, doch müßte man dann auch den
+ganzen Kreislauf des Stoffs heranziehen: wie das Leben der Pflanze am
+eigenen und des Tieres Abfall und Tod, an Verwesung, Fäulnisbakterien,
+Neubefreiung von Nährsalzen hängt und das Tier wieder daran durch die
+Pflanze, -- womit aber der echte Symbiosebegriff sich ins Uferlose
+des ganzen physiologischen Lebensprozesses verflüchtigte, so daß man
+das im engeren Zweck des einheitlichen Bildes lieber wieder liegen
+läßt. Jedenfalls aber mußte bei solchem engsten Zusammendrängen von
+ganzen Gewächshäusern in Tierleibern auch dieser Gasaustausch eine
+nicht unwesentliche Rolle des ~do ut des~ spielen. Darüber hinaus ist
+dann, wenn nicht ganz einstimmig, so doch seither immer entschiedener,
+behauptet worden, daß Alge und Tier sich auch noch gegenseitig im
+Freßsinne richtig fütterten. Die Alge soll der Seerose Überschüsse an
+Zucker und Stärke abgeben, wie sie ihre Küche schafft, und dafür von
+drüben allerlei Abhub, auf dem sie gleichsam wie im Mistbeet sitzt,
+erhalten, -- und gewiß ist, daß die Alge unter dem tierischen Glasdach
+Schutz hat, zumal wenn wieder ein Polyp (auch die kleine Hydra ist
+darin ein richtiger) sein Brennschwert besser als Vogelscheuchen und
+Stacheldraht über ihren Beeten schwingt. Bei den Einzelheiten muß die
+Debatte da naturgemäß wieder auseinandergehen, ist es doch nicht immer
+ganz leicht, auch mit den feinsten Experimenten so etwas zu erweisen
+(z. B. also, ob ein Hydrapolyp ohne Algen etwas an Kost vermißt), wenn
+die Ernährungstheorie solcher Wassertiere im ganzen noch so schwankt;
+nach einer viel besprochenen Theorie Pütters enthält jedes beliebige
+Teich- und Ozeanwasser nämlich allgemein schon so viel abgelösten
+Pflanzenzucker, daß seine Tiere sämtlich nahezu davon allein leben
+könnten, eine Ansicht, die allerdings wieder von andern heftig befehdet
+wird, aber doch zur ernsten Debatte steht. Und auf alle Fälle hat
+das Tier mit dem grünen Salat im Leibe, der durchschimmernd seine
+eigene Farbe bestimmt, auch noch einen eigenen äußeren Deckvorteil: es
+verschwimmt im Pflanzenwald da unten selber wie ein grünes Kräutlein
+nach dem Prinzip der Mimikry.
+
+Das Verblüffendste aber an dem Ganzen ist auch jetzt wieder das
+Eindringen der Symbiose in die Fortpflanzung. Bei dem Süßwasserpolypen
+ist sie in unzweideutiger Weise beobachtet worden, und sie geht
+tatsächlich jetzt noch ein Stück über den Flechtenfall hinaus. Man
+nennt diese symbiontisch grünfärbenden Tieralgen hier Zoochlorellen
+(im Gegensatz zu den gelbfärbenden Zooxanthellen) und sieht nun
+die Zoochlorellen im Mikroskop gewöhnlich in Massen der inneren
+Hydrawand als kleine Grünkörnchen eingelagert. Sobald sich aber in dem
+Außenteil der durch eine Stützlamelle wie durch eine verschlossene
+Tür gesonderten Doppelwand des Polypen ein Ei dieses Polypen bildet,
+durchbohrt ein Teil der Algenkörnchen die Tür und steigt drüben
+_in das Ei selbst_ ein, dem so schon auf seine spätere befruchtete
+Ablösung hin die nötige Dosis Algensaat für den aus ihm entstehenden
+Neupolypen gleich mitgegeben wird, -- etwa wie wenn im Hühnerei bereits
+ein Salatblatt mitginge, das dem werdenden Hühnchen dort sofort in
+den Bauch mit einwüchse. Da die Süßwasserpolypen schon richtige
+Geschlechtszeugung (neben Knospung) besitzen, also auch Mannessamen zu
+ihren Eiern produzieren, wäre unschwer zu denken, daß auch in ihn die
+Algen vorsorgend einkröchen, und wenn es nicht geschieht, so liegt es,
+abgesehen von der Winzigkeit jetzt solcher Samenzellen, wohl wesentlich
+an der Überflüssigkeit, da jede Samenzelle ja doch erst noch zu einer
+Eizelle hinmuß; man könnte sich aber auch mit ebensolcher Leichtigkeit
+nach Analogie anderer Romane des Liebeslebens vorstellen, daß, wenn
+die Algen zu ihrer Fortexistenz geschlechtliche Zeugung nötig hätten,
+auch das auf diesem Wege der Doppelbestiftung der zueinander eilenden
+Samen- und Eizellen des Polypen mit Mannes- und Weibesalgen, deren Akt
+mit jenem dort zusammenfiele, zu machen gewesen wäre. Das einfache
+Einkriechen in die Eizelle kommt übrigens auch in Medusenpolypen im
+Meer vor, während bei jenem Wurm Convoluta die ganz junge Larve zuerst
+ihr Beetchen überpflanzt bekommt.
+
+Wie vorher, so schließt sich auch um diese Tieralgen wieder ein
+engerer Kreis verwandter Erscheinungen, an denen vor allem die weite
+Verbreitung auch dieser Symbiosenform erhellt. Nimmt man statt
+der Algen wieder echte Pilze oder gar bakterische Spaltpilze, so
+leben sowohl Hefepilze wie echte Spaltpilze in vielen Insekten,
+z. B. Hefepilze regelmäßig in den Zikaden und Wanzen. Auch sie
+besetzen bereits das Ei des Insekts und hausen in der Larve wie dem
+fertigen Tier, daß man unwillkürlich an jene schlimmen Schlupfwespen
+erinnert wird, tun aber dem Wirt durchaus kein Leid, leben vielmehr
+gewohnheitstreu in jedem Exemplar, zur Art dort mit besonders
+angepaßter eigener Art gesellt: kurz auch hier kaum ein Zweifel, daß
+man vor einer alt eingefahrenen Symbiose steht. Bakterien aber, der
+Gabe teilhaftig, Pflanzenzellulose selber aufzulösen und in Nährstoffe
+umzuwandeln, erfüllen in viel weiterem Maße die Vormägen und langen
+Blinddärme pflanzenfressender Säugetiere, vor allem der Wiederkäuer, wo
+auch sie ihrem Herbergsvater keineswegs bandwurmhaft fertige Nahrung
+fortfressen, sondern grade umgekehrt die eigene vorverdauen, eine
+Sache, die, erst neuerlich erkannt, abermals bereits der Symbiose
+verdächtig ist, die in diesem Falle für zahllose große Säugetiere
+mindestens so wichtig und unentbehrlich wäre wie die Mykorrhiza für
+unsern Wald. Es ist sicherlich noch nicht aller Tage Abend mit den
+Entdeckungen an dieser Ecke. Nimmt man den Algenkreis umgekehrt um ein
+geringes höher, so ziehen sich Algenfäden vielfach durch Schwämme, z. B.
+unsern Süßwasserschwamm, in einer Weise, die ganz und gar an das
+symbiontische Gewebe in der Flechte, bloß hier nicht von Alge mit Pilz,
+sondern mit echtem Tier auf nicht ganz Polypenhöhe, erinnert. Ganze
+Algengarben tragen laut Kammerer auf ihrer Außenfläche nicht nur jene
+schon einmal erwähnten Krebse, sondern besonders auch die räuberischen
+Libellenlarven unsrer Binnengewässer mit sich herum, die, bei Häutungen
+sorgsam gerettet, als »wandelnder Wald« beim Berücken armer Opfer
+vermummen sollen, während der echte Pflanzengarten hier wieder den
+Transportvorteil des Pflanzentiers im Polypenbeispiel genieße. Ja hoch
+im brasilianischen Urwald trägt das Faultier, also ein Säugetier, vor
+seinem Blätterdickicht ein solches grünes Mimikrykleid aus Algen (je
+einer besonderen Trichophilus- und Cyanoderma-Art bei jeder seiner
+beiden Gattungen), die sein struppiges, verkehrt gescheiteltes Haar
+durchspinnen wie jene den Bauch des Hydrapolypen; nimmt man den
+baumfrohen Gesellen aus der Heißfeuchte seines Tropenwaldes so stirbt
+die Vegetation im Pelze ab, und er wird mißfarbig graubraun, in der
+Heimat aber hat ihm die Alge über das symbiontische Schutzverhältnis
+hinaus gar die Motten in den Pelz gezogen, den Faultierschmetterling
+~Bradypodicola~, einen Zünsler, dessen Räupchen dort wieder selber
+parasitisch die Algenwiese abweiden. Seit vielen Jahren hinter
+Symbioseerscheinungen her, gestehe ich doch, daß mir grade dieses
+Beispiel, als es mir zuerst in der Fachliteratur aufstieß, am meisten
+Spaß gemacht hat, wie es denn in den äußern Umständen bis heute
+vielleicht das paradoxeste von allen ist.
+
+Mit den bisher geschilderten Erscheinungen ist der Kreis dessen
+ungefähr abgeschritten, was man _enger_ Symbiose nennt. Ein paar
+kleine Beispiele sind als unsicher oder unwesentlich übergangen, geben
+jedenfalls nichts Änderndes mehr hinzu. Dagegen ist jetzt noch eine
+Linie zu verfolgen, die, bei der ersten Begründung ebenfalls schon
+eingeschlagen, doch unverkennbar eine Sonderrichtung bewahrt, wenn auch
+eine für sich wieder ungemein lehrreiche, da sie unmittelbar auch zur
+Anwendung des Prinzips auf den Menschen führt.
+
+Ich habe erwähnt, daß die Teilnehmer einer solchen echten Symbiose eine
+Neigung zeigen, wieder in Organe eines neuen Gesamtkörpers überzugehen,
+und wir sahen das gesteigert bis zur systematischen Unkenntlichkeit, ja
+zum Zusammenschluß der Fortpflanzung. Aber eben in dieser körperlichen
+Organbildung selbst gewahren wir mit ansteigender Lebensentwicklung
+eine bedeutsame Neuerung: über die andern Organe erhebt sich auf
+der tierischen Seite noch einmal besonders das Gehirn, das den Rest
+als überlegen meistert und lenkt, sei es schon mit Intelligenz,
+sei es (entscheidend noch beim Tier unterhalb des Menschen) mit
+verwickelten Instinkten. Auch dazu aber finden wir nun Analogie in
+den symbiontischen Verhältnissen, ja sie tritt ein im unmittelbaren
+Abglanz von dort. Höher entwickelte, weiter vorgeschrittene Lebewesen
+verbinden sich mit niederen, und es kann nicht ausbleiben, daß auch
+hier das höhere eine _überragende_ Stellung gewinnt. Sie bleiben zwar
+friedlich, fallen nicht wieder in den rohen Zerstörungskampf, aber die
+obere Partei greift selbsttätig bei der niederen ein, modelt sie am
+lebendigen Leibe stärker für den Zweck, regelt ihre Überschüsse noch
+erwünschter; die andere braucht dabei keineswegs schlecht zu fahren,
+sie bleibt auch der ersten unersetzlich, aber die Balanze verschiebt
+sich _geistig_ nach einer einseitigen Hauptleitung: das eine Wesen
+wird tatsächlich zum Gehirn des andern. Schon in dem Polypenbeispiel
+war der Polyp ersichtlich geringwertiger als Krebs oder Fisch.
+Zuletzt aber haben wir die Pflanze, die Alge, im Tier getroffen, und
+hier berühren sich unverkennbar bedeutendste Höhengegensätze. Aller
+vollkommenen Gleichmacherei in der Natur tritt, wenn jetzt nicht der
+Individualismus, so die Ungleichartigkeit der Stammbaumentwicklung
+entgegen, die hier zurückbleiben ließ, dort gesteigert hat. Und
+man versteht, daß sich das nur immer mehr verstärken mußte, je
+entschiedener überlegene Tiere in den Bund eintraten, und daß hier
+zuletzt eine Symbiosenform auftaucht, die innerlich noch wieder zu
+etwas Drittem verschoben wird, das weder Kampf, noch reine Symbiose
+ist, sondern vielleicht ein neues, dem geistigen Umgriffenwerden durch
+die eine Partei entsprechendes Wort verdiente. Ohne zunächst auf die
+Wortsuche zu gehen, betrachten wir auch hier ein paar Beispiele,
+vielleicht daß sich das Wort dabei von selbst gibt.
+
+Bei de Barys Symbiosenbegründung hatte, wie erzählt, die Entdeckung des
+weiland Spandauer Rektors über die Blütenbefruchtung durch Insekten
+sogleich eine Rolle gespielt. Sprengel hatte diese merkwürdige Hilfe
+schon bei ungefähr 500 Pflanzarten nachweisen können, später leider
+durch Amtsentsetzung (wegen einiger beim Botanisieren versäumten
+Sonntagspredigten!) am Verfolg seiner Studien behindert, und die
+Wahrheit war dann langsam, aber glänzend durchgedrungen, daß auch
+hier ein entschiedenes Wechselverhältnis auf ~do ut des~ vorliege.
+Die Blüte gibt freiwilligen Überschuß: eiweißhaltigen Pollen und
+ein Kohlenhydrat (Honig) her, und die Fliege oder Biene oder der
+Schmetterling übertragen bei Gelegenheit des Tischbesuchs, von
+Blüte zu Blüte gleicher Art gehend, den Staub auf fremde Griffel zu
+Kreuzbestäubung, die zur Verminderung der Inzucht im Liebesleben der
+Pflanzen not tat; die Grunddinge stehen heute in jedem Schulbuch und
+erübrigen sich für uns hier. Pflanze und Insekt leben, d. h. wohnen
+allerdings hier in der Regel nicht beisammen, sondern das Insekt
+besucht die Pflanze nur, aber das läuft für den Symbiosebegriff,
+wie gesagt, doch nur auf einen Wortstreit. Geschichtlich können wir
+diesmal den Finger fast noch genau auf den Zeitpunkt legen, in dem die
+Verbindung begonnen haben muß: erst in der Kreidezeit waren die höheren
+Blütenpflanzen (Gipfel des ganzen Pflanzenstammbaums) und höchsten
+Insekten da, und zwar sind beide damals offensichtlich schon in
+aufeinander gestimmter symbiontischer Doppelanpassung entstanden. Und
+der Weg dazu ist auch noch recht deutlich. Im Mittelpunkt stand wieder
+wie bei Krebs und Seerose das alte Bewegungsproblem. Die Landpflanze
+auch in ihrer Höchstform wurzelte, das Insekt dagegen war (das Wie ist
+in meinem Kosmosbändchen „Stammbaum der Insekten“ erzählt) als Flieger
+ein erstklassiger Ortswechsler geworden. Die seßhafte Pflanze war,
+um ihren Blütenstaub wenigstens fremd zu vertreiben, lange genötigt
+gewesen, unermeßliche Pollenmassen zu verschwenden, die der Wind auf
+gut Glück entführte, damit ein paar Stäubchen drüben landeten. Im
+Grunde ja eine seltsame Sorte Überschuß, da jedes Pollenkörnchen doch
+ein echtes Stück Leben, eine halbe Individualität darstellt, aber das
+Liebesleben kennt in dem Punkt von je keine Rücksicht, man denke nur
+an die wahnsinnige Verschwendung unsrer menschlichen Samenzellen,
+deren 200 Millionen in jedem Erguß mitgehen. Da aber zeigte sich nun,
+daß, wenn die Insekten ein Teil Pollen abfraßen und dabei die Blüten
+wechselten, der Rest angeklebt an ihren Körper weit sicherer ans Ziel
+kam. Und so wurde der Pollen unmittelbar in Insektenbrot verwandelt
+und die Blüte in einen offenen Bäcker- oder Konditorladen mit allen
+Lockmitteln des Gratisbetriebs, wobei immerhin ein großer Nebenversuch
+fast gelang, wirklich doch auch das lebendige Pollenbrot, in dem immer
+Leben zerstört wurde, durch reinen Abfallzucker (Honig) zu ersetzen.
+
+Man kennt den Riesenapparat, den die Naturzüchtung hier an der
+Pflanze herausgearbeitet hat: Pollenläden mit weithin leuchtenden
+Farbenschildern (erst hier ist die Pracht unserer Blumenwiesen
+entstanden, wieder ein riesiger landschaftsbildender Faktor aus Macht
+der Symbiose!), weit offene Honigtöpfe, endlich kunstvoll langhalsige
+Honigflaschen, wunderbarer Duft, besondere Wegzeichen (Saftmale)
+wie eine Art Schrift, -- alles doch zugleich im Zweck des möglichst
+ausgiebigen Bepulverns und Beklebens mit Mitnehmesamen; dieser
+Samenstaub selber dem Insekt durch harmlose Schlagwerke und Explosionen
+beim Betreten der Konditorei übergestreut, -- der Honig (wie bei den
+Orchideen) in besondern Schränkchen mit einer Bank davor aufbewahrt --
+nimmt das Insekt Platz und steckt das lüsterne Köpfchen in den Schrank,
+so kleben sich ihm dort zwei Samenklumpen wie Hörner vor die Stirn,
+die sich dann selbsttätig auf seinem Weiterflug so einkrümmen, daß
+sie genau ins nächste Schränkchen mit eingehen und dort befruchten.
+Die Kunststücke können noch viel weiter gehen bei weniger feinen
+Insekten, es braucht auch kein uns angenehmer Duft dabei mitzuspielen:
+im Aronstab (um nur noch ein Beispiel flüchtig zu streifen) stinkt die
+Blüte nach Klosett, lockt grade damit Fliegen, die dann durch eigene
+Heizung der Pflanze zunächst in die warme Backstube gelockt werden,
+worauf sich aber hinter ihnen eine Fischreuse schließt und sie tagelang
+bei Proviant eingesperrt hält, bis sie den Samen gründlich abgeladen
+oder neuen angeschmiert bekommen haben, -- kleine Zwangslisten, die
+doch das Einvernehmen nicht stören können. Demgegenüber nun das Insekt
+mit seinen entsprechenden körperlichen Einbauten zum Proviantzweck:
+ungeheure Saugrüssel der Schmetterlinge, je enger der Honigkelch,
+desto länger, bis 25 ~cm~ einer Madagaskarart, zu der man erst den
+Orchideensporn so tief fand, bis man dann richtig auch den Heber
+entdeckte; bei den Honigbienen besondere Kröpfe für den Honig, Körbe
+(Höschen) für den hier obenein gewährten Pollenüberschuß, die diesmal
+nicht bloß dem Eigenkonsum dienen, sondern an deren ins Nest getragenen
+Vorrat das Insekt hier seine eigene Jugendpflege angeschlossen hat,
+wie dort die Pflanze an den Insektenvertrieb ihre Fortpflanzung. Wobei
+noch bemerkt sei, was vielleicht nicht jeder kennt, daß nicht bloß
+Insekten so wirken, sondern auch Vögel (Kolibris und Nektarinien),
+denen die Pflanzen ebenso buntfarbige Signallaternen und Sitzbänke
+(z. B. bei den Strelitzien) aufstecken, sowie Fledermäuse und selbst
+ein durch Honigsaugen fast zahnlos gewordenes australisches Beuteltier
+(~Tarsipes~). Im ganzen jedenfalls die wunderbarste Nutzung wieder
+auf Gegenseitigkeit mit der Pracht ineinandergreifender Glieder einer
+Präzisionsmaschine, woran auch hier kleine Begleitzüge nichts ändern;
+der Kampf geht ja als Naturunterströmung immer mit: die friedliche
+Blütenfalle des Aronstabes wird nebenan im Blatt der insektenfressenden
+Pflanze zur scheußlichsten Zyklopenhöhle, und wo auch die Blüte das
+Insekt, wenn es rein räuberisch auftritt, nicht „will“, sperrt sie auch
+ihm den Weg mit den wildesten Stacheldrähten und Leimtöpfen; aber gegen
+solchen Kontrast hebt sich nur erst recht auch hier die Symbiose ins
+Licht.
+
+Inzwischen scheint aber, wenn irgendwo, auch der Fall einseitiger
+geistiger Überlegenheit jetzt gegeben. Die Pflanze ist zwar die
+höchste ihres Reichs, aber daneben steht das Tier auf der Stufe,
+wenn nicht gar des Vogels oder Säugetiers, so doch des begabtesten
+Insekts, wie es etwa durch das Gehirn einer Honigbienen-Arbeiterin
+gekennzeichnet ist. Das Gehirn solcher Biene, entsprechend dem
+Nervenbau hier als obere Schlundmarkverdickung ausgebildet, wiegt
+1/174 des Gesamtkörpers im Gegensatz von nur 1/3500 beim Maikäfer:
+was besagt, daß noch der Maikäfer „ein absolut kleineres Gehirn hat
+als die 40mal kleinere Biene“ (Hesse). Man hat daraus mit vielleicht
+nicht allzuviel Übertreibung gefolgert, daß schon unter den Insekten
+selbst hier Geistesgegensätze bestehen müßten, wie zwischen Frosch und
+Mensch, wobei man (was für unsern Zweck hier, wie gesagt, genügt) noch
+immer nicht in die Trennungsfrage von freier Intelligenz und vererbten
+Gehirntrieben einzugehen braucht, um doch die ungeheure Überlegenheit
+des blütenbesuchenden Insekts gegen die Blüte zu ahnen. Nun wird man
+allerdings zunächst etwas enttäuscht. So wundervoll die körperlichen
+Anpassungen der beiden Parteien sind (bei der Pflanze eigentlich noch
+besser als beim Tier), so ist doch von jeher aufgefallen, daß gerade
+eine entscheidende Hauptsache, wie die Befruchtung der Pflanze, selbst
+durchaus _nicht_ in den unmittelbaren Gehirninstinkt des Insekts
+aufgenommen ist. Das Insekt besucht von sich aus die Blume lediglich
+zum Nahrungszweck, die Bestäubung bleibt _ihm_ aber Zufallssache.
+Drastisch gesagt: es wischt sich beim Futterholen immer wieder etwas
+Schmutz an den Rockärmel und schmiert ihn drüben ebenso achtlos wieder
+ab, -- anstatt daß auch diese ihm zuletzt im Erfolg so hochwichtige
+Sache von seinem _eigenen_ Instinkt mit umfaßt werde; denn wenn die
+Befruchtung sich nicht vollzöge, gingen seine Nährlieferanten, wie die
+Dinge heute stehen, ja doch herunter oder ein, während umgekehrt, wenn
+das Insekt auch diese Sache in seine unzweideutigen Instinkte aufnähme
+und ohne Zufall mit der ganzen Sicherheit solchen Instinkts selbständig
+vollzöge, der Mehrvorteil ein außerordentlicher sein könnte. Das Insekt
+hätte die Fortpflanzung der Pflanze damit selber in der Hand. Noch in
+weit engerem als bloß bildlichem Sinne hinge die Pflanze von ihm fortan
+als einem kundigen Gärtner ab. Es könnte ihre Existenz zweckgerecht
+stärken unter Ausschaltung jeden Zufalls. Unwillkürlich träumt man,
+was für einen Aufschwung die Insektenblüten unter dieser Regelung
+noch genommen haben könnten, -- wenn die Propagation der Art an eine
+_Pflicht_ des Insektengehirns angeschlossen würde. Man fühlt aber auch,
+was dieser Anschluß im Sinne jener einseitigen Überlegenheit bedeutet
+hätte: die Pflanze kam aus der Zucht des Zufalls einseitig in die des
+Insektengehirns. Nun, eben in der erdrückenden Masse der Fälle ist es
+aber hier noch nicht so geworden. Die Dinge müssen sich ungefähr auch
+so durchgesetzt haben, und die Natur scheint einmal wieder den Weg des
+kleinsten Kraftmaßes gegangen zu sein (soviel wir uns unter diesem Wort
+vorstellen können): nämlich nicht mehr zuzulegen, als unbedingt nötig
+war.
+
+Ganz genau besehen, gewahren wir indessen in einem höchst bedeutsamen
+Einzelfall auch hier schon wenigstens einen Ansatz. Seit einer Reihe
+von Jahren weiß man, daß es _ein_ Beispiel gibt, wo vom Insekt die
+Blütenbefruchtung mit voller Instinktabsicht tatsächlich bereits
+vollzogen wird, -- nämlich bei der amerikanischen Yukkamotte,
+der ~Pronuba yuccasella~, einem kleinen, metallisch glänzenden
+Nachtschmetterling in den prachtvollen großen, nur nachts geöffneten
+und dann weithin im Mondlicht lockenden weißen Glocken der
+Yukkapflanze. Diese Yukkamotte, an sich ein so unscheinbares Kerlchen
+wie andere, erklettert die Staubgefäße der Yukka und bemächtigt sich
+dort mit Hilfe ihrer eigens dazu umgestalteten, griffartig klemmenden
+Kiefertaster eines Ballens Blütenstaub, den sie nun weder frißt, noch
+als Proviant fortschafft, sondern im Fluge zu einer zweiten Blüte
+hinüberträgt und dort genau in die Griffelnarbe stopft, solchermaßen
+unter völliger Zufallsausschaltung ihre Pflanze jedesmal zielgerecht
+fremdbestäubend. Der Fall steht, wie gesagt, ungefähr einzig da,
+beweist aber unzweideutig, daß die Sache auch so bereits nicht nur
+möglich, sondern vereinzelt sogar schon realisiert war. Die Yukkamotte
+leistet tatsächlich ihrer Pflanze, was beispielsweise menschliche
+Kunstgärtnerei des Orients in uralter, bis ans Grau vorgeschichtlicher
+Tage sich verlierender Überlieferung mit der Dattelpalme macht, wo auch
+herausgenommene und zerschnittene reife Pollenkolben künstlich in die
+lebendigen weiblichen Blütenscheiden gestopft werden.
+
+Nun ist aber wieder bedeutsam, daß gerade bei dieser Yukkamotte die
+Symbiose selbst sich auf ihren ursprünglichen Sinn zugleich wieder
+verengt hatte, nämlich vom losen Blütenbesuch durch das Insekt erneut
+zur wirklichen zeitweisen Wohngemeinschaft zwischen Tier und Pflanze
+übergegangen war. Auch die Biene, die doch Wohl und Wehe ihrer Brut an
+Brot und Honigbelag ihrer Blüten angeschlossen hat, hat diese Brut
+anderswo und holt nur drüben für sie ein; die Yukkamotte dagegen legt
+dieses Heim ihrer Brut unmittelbar wieder in den Fruchtknoten der Yukka
+selbst, den sie (sehr sinnreich hat hier auch der Schmetterling einen
+Legestachel wie eine Schlupfwespe) mit ihren Eiern bestiftet und in dem
+die kleinen Raupen auskriechen und bis zu ihrer Verpuppung gefüttert
+werden, ohne daß erneut etwa hier Raupenparasitismus umgekehrter Art
+entstände: die Pflanze opfert vielmehr, wie der Biene Pollen, so hier
+der stets beschränkten Zahl Räupchen einen kleinen Überschuß ihrer
+Samenkörner (von 100 vorhandenen jedem Räupchen etwa 20), was sie um
+so leichter kann, als sie ihrer Befruchtung hier ja noch weit übers
+Gewöhnliche hinaus gewiß sein darf. Wer Anstoß daran nimmt, daß doch
+auch solches Samenkorn schon vollwichtiges Neu-Leben darstellt, also
+die Pflanze eigentlich auch schon ein ~ver sacrum~ im antiken Sinne,
+ein Stück Weihefrühling ihres Geschlechts, daran gibt, der muß sich
+eben auch hier mit den „Ausnahmen“ des Liebeslebens abfinden, das
+z. B. am Eierstock jedes Menschenweibes 72000 Eier anlegt, von denen
+höchstens doch ein paar reifen können, der Rest aber auch vergeht.
+Jedenfalls bekommt man aber den Eindruck, daß das Insekt zur ganzen
+Entfaltung seiner _überragenden_ Instinkte erst kam, als es auch wieder
+in irgendeine Art näheren Hausanschlusses mit der Pflanze getreten war,
+-- wie doch auch wir Menschen uns geschichtlich erst ganz intim mit
+einer Pflanze befaßt haben vom Augenblick an, da wir sie gewissermaßen
+in unsern Hausgarten aufnahmen. Sobald aber wieder möglich wurde,
+daß die Pflanze auch die Kinderstube oder (der Schritt ist ja sehr
+klein) überhaupt das eigene Wohnhaus des Insekts wurde (wie nahe läge
+z. B., daß jene zeitweisen Gefangenen des Aronstabes nach Fall der
+Liebesgatter auch weiter die behagliche Pflanzenstube als Quartier
+benutzten!), mußten sich zunächst noch wieder anschließende ältere
+Symbiosenvorteile einseitig betätigen: das wehrhafte Insekt mochte sein
+Haus, die Pflanze, verteidigen. Dieser Weg ist für sich auch zwischen
+höherer Pflanze und Insekt nun wieder reichlich beschritten worden,
+wenn wir von der Befruchtungssymbiose selbst zunächst noch einmal mehr
+oder minder absehen wollen.
+
+Anfänge von Blütenverteidigung durch bissige Insekten liegen bereits
+auf der Grenze vor allem symbiontischen Anschluß, wenn Blüten rein im
+Kampf gegen rohe Blütenfresser hemmenden Kleber nach Art der Pechnasen
+an alten Burgen träufeln, dieser Kleber bei Kornblumen wegen seines
+Honiggehalts aber von Ameisen gesucht und nun von diesen Ameisen gegen
+blütenfressende Rosengoldkäfer (Cetoniden) wütend verteidigt wird, --
+wobei ich offen lasse, ob nicht auch hier durch Hin- und Herlaufen der
+Ameisen auf dem Blütenbeet solcher Komposite auch Kreuzbefruchtungen
+nebenher vermittelt werden könnten. Wenn wir aber dabei schon auf die
+Ameisen (die sonst als Vermittler nicht so in Frage kommen) geraten,
+so wären hier ein bereits viel anschaulicheres und selber fest
+eingefahrenes symbiontisches Beispiel die unmittelbar so benannten
+„Ameisenpflanzen“, falls man sie (es liegen hier Streitfragen) noch
+gelten lassen will. Der einfache Sachverhalt läuft in dem bekanntesten
+und oft beschriebenen Fall des brasilianischen Imbaubabaumes,
+einer Cecropia-Art, darauf hinaus, daß gewisse räuberische Ameisen
+(Atta-Arten) zu einem besonderen Zweck dort oft ganze Bäume ihrer
+Blätter berauben, wogegen andere, sehr tapfere Ameisenvölker einer
+Azteca-Art nun jenen Baum gewohnheitsmäßig durch wütige Gegenangriffe
+schützen sollen; und die Imbauba bietet ihnen dafür der Erzählung nach
+ihre nach Doldenart hohlen und übereinander gekammerten Stengel als
+Wohnung, zu der besonders vorgesehene dünne Wandstellen sich leicht als
+Außen- und Falltüren öffnen lassen, sowie in besonderen eiweißhaltigen
+Überschußbildungen (hier doch ohne Bezug zum Pollen) auch eigene
+Hauskost. Ähnlich sollen andere „Schutzameisen“ zu den ungeheuren
+eigenen Wehrdornen amerikanischer Akazien noch eine persönliche
+Garde fügen, die in solchen Stacheln selber haust und ebenso durch
+besonderes Fettbrot an den Blattspitzen beköstigt wird. Und endlich
+leben schirmende Ameisenheere in den kaktusartigen Knollenstengeln
+der auf indischen Urwaldstämmen sitzenden Myrmekodien, die üppige
+Wasserreservoire dieser Pflanzen für die Trockenzeit bilden und deshalb
+häufig von durstigen Tieren bedroht sind, während die Ameisen einen
+lebendigen Stachelwall, besser als jede echte Kaktuswehr, darumziehen.
+Im Engeren scheinen sich in diese Schilderungen kleine Irrtümer
+gemischt zu haben, die Gegengaben der Pflanzen sollen auf nicht mehr
+hinauslaufen, als sie ohne Ameisen auch schon lieferten, und die
+Ameisen ihr zufällig gefundenes Haus nur eben als „ihres“ verteidigen
+ohne sonst stärker durchgeführte Symbiose. Unserer Betrachtung aber
+mag wieder vollständig genügen, ohne daß sie mehr und Strittiges
+aufzurollen brauchte, wenn eben dieser Hausschutz nur schon auf Grund
+fester Insekteninstinkte betrieben wird. Auf noch ein Weiteres führt
+uns dann schlicht ein Zug der Geschichte selbst, der als solcher
+niemals bezweifelt worden ist: nämlich eben das Blättersammeln jener
+andern, der Atta-Ameisen. Die Ameisen, die das tun, haben ihr Haus und
+Nest nicht in der Pflanze, sondern tragen die Blätter erst dorthin
+fort. Daß sie es (feindlich hier zur Pflanze) tun, ist an sich nicht
+wunderbarer, als daß die Bienen es friedlich mit dem Pollen machen.
+Aber was die Atta-Völker jetzt daheim mit den Blättern vollführen, das
+ist nochmals etwas ganz Neues und Überraschendes.
+
+Die den verschiedensten Pflanzen feindlich ausgeschnittenen
+Blattstücke, von den Ameisenprozessionen zierlich wie kleine
+Sonnenschirme auf dem Heimzug hochgehalten, werden, nährarm, wie sie
+für verwöhntere Tiere sind, zu Hause nicht selber verzehrt, sondern
+als Futter für eine gewisse andere Pflanze verwertet, die jetzt in
+friedlicher Symbiose mit der Ameise lebt, -- allerdings in einer
+Symbiosenform, die nunmehr aufs allersinnfälligste die einseitige
+Überlegenheit des Insektengehirns zum Ausdruck bringt. Die Ameise
+hat diese wichtigste Pflanze in die Unterräume ihrer eigenen Burgen
+(Atta-Arten bauen Haufen bis zu 2½ Meter Höhe im feuchten Waldgrund)
+als „Hauspflanze“ aufgenommen. Im dunkeln Keller solchen Mulmhaufens
+wird man allerdings schwerlich eine Blütenpflanze vermuten, und
+es ist auch diesmal keine, sondern wieder erst einmal ein Pilz,
+dessen unterirdisches Sauggeflecht (Myzel) von den Ameisen mit jenen
+angeschleppten Blättermassen aufs sorgfältigste gefüttert wird.
+In dem Ameisenbau werden die zweckgerecht zerkauten Blatteile in
+besonderen Kammern als Mistbeeten dem wuchernden Pilz unter Ausjäten
+aller unkrauthaften Eindringlinge bereit gemacht. Eine körperlich
+angepaßte Kaste des Volks aus kleinen Arbeitern besorgt als „Gärtner“
+diesen Dienst. Ihr liegt aber noch eine wichtigste Handlung an dem
+übermäßig so gedeihenden Kulturpilz selber ob: indem die Gärtner
+bestimmte wucherkräftige Triebe daran beständig kappen, scheinen
+sie den Pilz immer wieder zur Bildung eigentümlicher eiweißhaltiger
+Stauknötchen anzutreiben, die jetzt eine wirklich höchst brauchbare
+verdichtete Nahrung für das Ameisenvolk abgeben, ohne daß der Pilz von
+dem Abernten dieser Produkte, die er sonst frei wuchernd wohl wieder
+verbraucht hätte, Schaden erführe. Ein solches übermäßiges Wuchern
+aber ist ihm auch nicht nötig, denn die Ameise gibt ihm auch auf engem
+Raum immer wieder volle Neukraft, indem sie nicht nur übers Maß ihn
+füttert, sondern auch von Zeit zu Zeit als umsichtiger Gärtner das
+ganze ausräumt, mit Neumaterial als Nährbeet ersetzt und darin einem
+zweckgerecht bewährten Treibstück des alten Myzels frischen Raum zum
+Wuchern gibt, als wäre der Pilz mit einem jungen Sproß in wirkliches
+Neuland gelangt. Wenn aber überhaupt ganz neue Ameisenbauten errichtet
+werden sollen durch ausziehendes Jungvolk der Ameisen selbst, so wird
+solcher Rest der alten Pilzkultur noch viel raffinierter auch dorthin
+überstiftet: die befruchtete Ameisenkönigin, der jedesmal obliegt,
+das neue Volk und Nest zu begründen, nimmt stets ein solches lebendes
+Pilzzweiglein in einer besonderen Kinnbackentasche (sozusagen in
+einem hohlen Zahn) mit; am neuen Fleck nährt sie es dann zunächst
+mit eigenem Stuhl, zu dessen wohltätigem Abgang sie einen Teil ihrer
+selbstgelegten Eier sich wieder als nährenden Eierkuchen zu Gemüte
+führt, bis aus dem Rest der Eier neue Gärtnerameisen erwachsen sind,
+die nun abermals allmählich Blätter zu holen beginnen und das so lange
+mühsam durchgepäppelte heilige Pflänzchen neuen großen Staatsmistbeeten
+einverleiben, auf daß es nun erneut zum segnenden Fruchtbaum für alle
+mit werde. Kein Zweifel: diesmal sieht man das Insekt wirklich ganz und
+gar die Pflanze umgreifen, -- friedlich, auch sie kunstvoll erhaltend,
+-- aber gerade so übermächtig -- als der leitende Herr. Es schützt
+sie im eigenen Haus, es füttert sie bis zur Mästung, es schließt ihre
+Fortpflanzung an neuem Fleck an seine eigene an; man erinnert sich
+des Verhältnisses des Pilzes zur Flechte, aber wie unendlich viel
+straffer hängt hier alles in der Instinktregie der höheren Partei, --
+selbst der Krebs tritt weit dagegen zurück. Denn vor allem: sogar die
+Gegenleistung der Pflanze erscheint in entscheidendem Grade erst als
+eine Handlung der Ameise, die sie selbsttätig bestimmt, wenn sie als
+Gärtnerameise wenigstens heute unzweideutig auch die Überproduktion
+hervorruft.
+
+[Illustration: Abb. 14. Schematischer Durchschnitt eines Termitenhügels
+mit den durch dünne Gänge verknüpften, dunkel schattierten Pilzgärten
+im Innern. (Nach Escherich.)]
+
+Man glaubt durchaus zu verstehen, daß auch diesmal die Dinge
+geschichtlich nicht durch Hexerei entstanden sind. Diese Ameisen fanden
+wohl seit alters natürliches Pilzmyzel in ihren Bauten wuchernd.
+Anfangs war’s lästig. Sie beschnitten also seine sperrenden Ranken,
+dabei aber zeigten sich wohl jene merkwürdigen Stauprodukte zunächst
+rein pathologisch auf die Hemmung und den Reiz hin; man denkt wieder
+unwillkürlich an die bekannten Gallen, dicke Nährwucherungen, die
+sich auf Blättern entwickeln, die eine Gallwespe angestochen und
+mit einer sich entwickelnden Made versehen hat, eine übrigens für
+sich noch bis heute sehr rätselvolle Sache, aus der sich vielleicht
+selber noch einmal eine geheimnisvolle Symbiose schält. Aber wieviel
+weiter geht auch das hier heute schon, indem die Pflanze mit dem
+Mistbeet zur Überproduktion großen Stils regelrecht vom Konsumenten
+selbst gemästet wird. Auch das Verschleppen anhaftenden Pilzmyzels
+in neue Haufen ist vielleicht anfangs nur ein Zufall gewesen, wie
+oben die Blütenbefruchtung. Jetzt aber schaltet sich auch das an den
+Gehirninstinkt, der den Zufall ausschließt. Damit ist die Fortpflanzung
+der Pflanze faktisch diesmal auch in der Macht des Insekts, wie es
+nur je oben unsere Phantasie erdenken konnte. Müßte der Pilz durch
+Befruchtung fortgepflanzt werden, statt daß Stecklinge hier dauernd
+zu genügen scheinen, so dünkt selbstverständlich, daß die Ameise auch
+das so gut wie die Yukkamotte durchführen würde. Ja so ganz und gar
+ist die Pflanze heute vom Insekt umgriffen, daß es bereits geht wie
+bei gewissen unserer eigenen Kulturpflanzen: man weiß gar nicht mehr,
+wo der Ameisenpilz der Atta heute noch wild vorkommt, sondern kennt
+ihn nur mehr in der Ameisenzucht. Wie weit auch diese wunderbare
+Pilzsymbiose aber wieder in der Natur verbreitet ist, lehrt ihr fast
+genau so, nur noch besser entwickeltes Auftreten bei einer Masse von
+Termitenarten, also bei von den Ameisen weit verschiedenen, doch auch
+sehr instinktklugen Insekten aus der Nähe unserer Küchenschaben, in
+deren riesigen, bis 6 ~m~ hohen Burgen sich die Pilzkulturen nur so
+drängen. Die Pilze der Pilzkammern (Abb. 14) werden hier mit zerkautem
+und vorverdautem Holz gemästet, wozu die Termiten ihre bekannten,
+so furchtbar verheerenden Zerstörungszüge vollführen. Man hat den
+künstlichen Futterknötchen dort wie hier einen Namen gesucht, indem
+man mit menschlichen Kunstzüchtungen eßbarer Dick- und Luxusteile
+bei Kulturpflanzen verglich: Blumenkohl oder Kohlrabi. Auch Ambrosia
+nennt man’s wohl. Dieser Name stammt aber wieder selber von längst
+beobachteten Pilzgeflechten in den Fraß- und Kinderstubengängen unserer
+im tiefen Holz bohrenden Borkenkäfer, und das Bild wird vollends groß,
+wenn man berichtet, daß neuerlich auch alle diese heimischen Käfer
+unserer Waldbäume der Pilzzucht verdächtig sind. Die Pilze scheinen
+ihnen den feinsten Nährextrakt des weithin durchsponnenen Kernholzes in
+ihre Gänge zu leiten und in ähnlichen Luxusknöllchen dort zu servieren,
+die Käfer aber sollen die Pilzsporen (absichtlich oder unabsichtlich)
+jedesmal wieder in ihre Neubauten mit übertragen: vielleicht noch keine
+so vollkommene, aber doch eine bereits werdende Symbiose, die da wieder
+durch alle unsere deutschen Wälder geht.
+
+Man hat indessen auch schon von viel höheren Pflanzen behauptet,
+daß Ameisen sie entsprechend in Kultur hätten. Die Ernteameise des
+Mittelmeergebiets, die schon Salomo nicht entgangen war, treibt
+mit zunächst rein feindlich geräuberten Getreidekörnern seltsame
+Entkeimungsprozeduren, wobei sie nach gewissen Beobachtungen die Samen
+im Sinne richtigen Mälzens zuerst in der Feuchte zwingt, keimend Zucker
+anzusetzen, und dann die Keimung künstlich wieder durch Abbeißen hemmt,
+damit der Zucker sich nicht normal selber verbrauche. Selbst wenn der
+letzte Sinn etwas einfacher wäre (die Deutung schwankt noch), möchte
+man solchen Brauern aber wohl willig auch noch weitere Feldkunststücke
+zuschreiben, und die unmittelbar so benannte „ackerbautreibende
+Ameise“ in Texas sollte also künstlich Gras zu eigenen Feldern ansäen,
+in Reinkultur jäten und zur rechten Zeit abernten. Heute wird das
+bestritten, aber man wundert sich fast, daß es nicht sein soll, so
+gut paßte es in die Linie; denn massenhaft säen Ameisen überall die
+bekanntesten unter unsern Waldblumen (Veroniken, Lamien, Veilchen
+und andere) dadurch aus, daß sie die Samen gewisser Ölteile wegen
+verschleppen, anknabbern und dann wieder wegwerfen, worauf der Samen
+doch noch keimt, weil auch dieser Ölanhang eine Art Luxussache war; daß
+nicht auch da schon Symbiosen mitspielen sollten, erscheint mir gradezu
+unwahrscheinlich.
+
+In Summa aber: das Wort, das wir oben suchten, -- ich meine, es hat
+sich uns bereits soundso oft durch das beständig aufgenötigte Bild
+jetzt von selber ergeben: diese Symbiosenform zwischen Insektenhirn
+und Pflanze _ist_ einfach schon die des Ackerbaues, der Gärtnerei, der
+künstlichen Pflanzenzucht, der Kultur im engeren Sinne, wo eine weit
+überlegene Macht die Pflanze in Schutz und Zucht nimmt, sie als Art
+sorgsam erhält, aber zugleich auf das Maximum ihrer Produktion treibt,
+ihre Überschüsse künstlich regelt und lockt, ja ihren ganzen Organismus
+schließlich in den Grenzen seiner Begabung umzüchtet, bis er nur mehr
+wirklich ein Organ ist, das gleichsam am Nervenfaden des Gehirns von
+drüben hängt. Lassen wir die Frage nach Instinkt oder Intelligenz dabei
+nach wie vor aus dem Spiel, so ist das _objektive_ Bild des Tieres
+hier durchaus schon das menschliche, während sich umgekehrt für unsern
+menschlichen Ackerbau selbst die interessanteste allgemein-biologische
+Einordnung ergibt: der Ackerbau des Menschen erscheint ebenfalls
+untergeordnet dem großen Begriff der Symbiose! Wenn wir uns gewöhnen,
+in dem Menschen überhaupt ein natürliches Wesen zu sehen, das sich
+trotz aller unermeßlichen Überlegenheit und allen Systemwechsels
+dem oberen Lebensstammbaum geschichtlich einfügt, so kann auch in
+dieser Vergleichung wohl nichts Paradoxes liegen. Wir wissen, daß der
+Ackerbau beim Menschen sich erst auf einer gewissen, verhältnismäßig
+gar nicht mehr so ganz jungen Stufe hinzugefunden hat: die ganze
+lange Diluvialzeit sah noch keinerlei Kulturgewächs in der Zucht
+und Gesellschaft ihrer Menschenrassen. Erst nach ihr hat die erste
+Symbiose mit dem Weizen, der Gerste, dem Hafer eingesetzt. Man erinnert
+sich auch, wieviel später noch erst wieder die mit der Weinrebe oder
+gar der Kartoffel sich entwickelt hat; ausgeblieben ist übrigens
+schließlich auch die mit dem Pilz nicht. Auf alle Fälle aber hat der
+Mensch seine Überlegenheit sogleich darin bewährt, daß er jene Form
+der _ungleichen_ Symbiose zwischen sich und der Pflanze durchgeführt
+hat, und so gibt er uns heute das sichtbarste, nächste Beispiel
+auch für sie, ein Beispiel, uns längst geläufig, ehe wir von andern
+Symbiosen überhaupt erfuhren. Wir entnehmen daraus das Recht, nun auch
+rückschauend das Wort von ihm für die vorahnenden Beispiele unter ihm
+zu entlehnen, und ich finde kein kürzeres als eben _Kultursymbiose_
+dafür. Der Begriff „Kulturpflanzen“ ist uns allen geläufig. In dem
+Wort Kultur steckt das einseitig Umwandelnde. Der Mensch verwandelt
+die Natur im ganzen, wenigstens versuchsweise, mit Kultur. Kultur ist
+höher. Zugleich wahrt das Wort aber doch etwas Friedliches. Die Kultur
+vernichtet nicht die Natur, aber sie umgreift sie. So tritt der eine
+Symbiont hier zugleich friedlich und doch höher dem andern gegenüber.
+
+Die allgemeine Anwendung des Begriffs der Symbiose auch auf menschliche
+Kulturzüchtung ist wohl 1893 zuerst von dem ausgezeichneten
+Haustierforscher Konrad Keller in Zürich gemacht worden. Keller ging
+dabei aber nicht von den Kulturpflanzen, sondern den Haustieren des
+Menschen aus, bei denen er „alle Voraussetzungen und charakteristischen
+Züge der tierischen Symbiose“ zutreffen sah. Und es ist nun wieder
+interessant und wirkt wie eine Art Probe aufs Exempel, daß sich in der
+Tat auch zu der Kultursymbiose unserer Haustierzucht Beispiele schon in
+der gleichen Schicht Leben nachweisen lassen, die uns die Pilzkultur
+der Insekten zeigt. Die gleichen Ameisen, die in Südamerika mit Pilzen
+leben, leben bei uns in der bekannten ausgesprochenen Kultursymbiose
+mit den Blattläusen. Die Blattlaus erscheint selbst schon von Natur
+als ein geborener Überschuß-Arbeiter. Sie überfrißt sich sozusagen an
+Pflanzensäften auf der Suche nach dem geringen Eiweißgehalt darin und
+wirft den Überschuß beständig hinterwärts in wahren Verdauungskaskaden
+ab, die als süßer Honigtau von den am pflanzlichen Zellsaft mit ihren
+Saugschnäbeln angeschlossenen Blattlauskolonien niederzugehen pflegen;
+der Schreiber dieser Zeilen arbeitet zuzeiten nicht leicht in seinem
+Garten, ohne daß ihm jedes Manuskriptblatt von diesem Segen klebte.
+Diesen indirekten Pflanzenhonig machen sich nun die Ameisen nutzbar,
+melken durch Betrillern die Läuse regelrecht (die bei manchen Arten
+ihrerseits schon so symbiontisch angeschlossen sind, daß sie mit
+der Entleerung zaudern, bis die nötige Ameise kommt), verteidigen,
+versteht sich, auch ihr Vieh mit bekannter Ameisenbravour, pferchen
+es gelegentlich in kunstvolle Schutzgewölbe aus Erde und regeln seine
+Fortpflanzung, indem sie die Eier der Blattläuse einholen, im eigenen
+Hause überwintern und zum Frühjahr gleichsam wieder aussäen, -- kurz
+unzweideutige Haustierzucht! Weniger bekannt pflegt zu sein, daß auch
+gewisse Zikaden (also nahe Verwandte der Blattläuse) der Gattung
+~Tettigometra~ in ähnlicher Ameisenhut leben, die auf Getreidehalmen
+über den Ameisennestern ihre Weide haben und zur Eiablage freiwillig
+und ungestört ins Nest selber kommen, in dem dann ihre Larven nachher
+die eigentlichen Zuckerlieferanten zu bilden scheinen. Und entsprechend
+gedeihen die Räupchen unserer reizenden Bläulinge (Lyzäninen) unter den
+Schmetterlingen in einer kulturellen Ameisengemeinschaft dergestalt,
+daß die Ameisen die fressenden Raupen als Schutzgarde umschwärmen,
+auch bei den ersten Anzeichen nahender Verpuppung in ihren Bau tragen
+und sorgsam mit loser Erde umhüllen; nachher sollen sie sogar noch dem
+Schmetterling beim Auskriechen behilflich sein; die Raupe aber lockt
+und lohnt sie dafür mit besonderem Parfüm und einer feinen Leckerei,
+die beim Betasten aus einem Rückenwärzchen quillt.
+
+In diesem Bläulingsfall mischt sich allerdings gleich auch eine
+Besonderheit ein, die bis heute noch wieder das Verständnis eines
+großen, auch hier anschließenden Gebiets erschwert und in gewissem
+Sinne nochmals einen Weg oder, wir sagen wohl besser, einen Abweg
+dieser Symbiose angedeutet hat, ohne daß es doch auch dazu an
+sehr bekannten, ja berüchtigten Menschenvergleichen fehlte. Reine
+Zuckeraufnahmen haben bei Tier wie Mensch ja stets etwas, das so sachte
+schon vom Nährmittel zum Genußmittel hinüberführt. Gehen wir aber vom
+Honig zu Met oder der Süße zum Sekt, so sind wir beim Menschen inmitten
+der reinen Luxusgenüsse. Bei diesen Lyzäninenraupen scheint es sich
+nun auch bereits um solche für die Ameisen zu handeln, zur Gewißheit
+aber wird das bei den Unmengen besonders kleiner Käferchen, die sowohl
+in den Ameisen- wie den Termitenburgen dauernd und gewohnheitsmäßig
+gehalten und dort von uns in der Regel auch als „Haustiere“ oder
+doch als Gäste und Freunde (Myrmekophilen, Termitophilen) bezeichnet
+werden. Am bekanntesten ist aus dieser bunten Gesellschaft unser
+blindes, völlig auf Ameisenfütterung angewiesenes Keulenkäferchen
+~Claviger~, etwa 2,5 Millimeter groß und systematisch nahe an die
+Kurzflügler (Staphyliniden) anschließend, doch zählen die Vertreter
+in Wahrheit nach vielen Hunderten, worunter sich bei den indischen
+Termiten auch eine flugunfähige Fliege, die ~Termitoxenia~, mischt,
+deren Flügel in bequeme Greifhenkel umgewandelt sind, an denen die
+Stallbesitzer ihr Viehchen hin und her zerren können. Auch hier
+bestehen alle äußern Anzeichen zunächst der Kultursymbiose: Füttern,
+Schützen, Wohnunggeben, nachhaltigste Jungenpflege, auch sind die
+„Gäste“, wie die beiden Beispiele schon zeigen, in denkbar weitestem
+Maße an die Hut selber angepaßt oder, besser noch gesagt, ihr einseitig
+ausgeliefert. Bei alledem steuern auch sie aber durchweg nur solche
+Genußmittel bei und nicht solide Nahrung, Genußmittel „anscheinend
+wohl narkotischer Natur“, wie sich ein neuester Schilderer (Werner)
+ausdrückt, -- stellen also bildlich Kühe dar, aus denen Sekt gemolken
+wird. Feine Haarpinsel und andere Begleiterscheinungen verraten
+die Anwesenheit von Luxusextrakten, auf die hier gezüchtet ist,
+aromatisch-narkotischen Essenzen, wobei wir uns erinnern, daß Tiere
+allenthalben sich auch auf unsere menschlichen Alkoholika wie gewisses
+Parfüm höchst erpicht zeigen und sich unheimliche Räusche antrinken
+können, -- wie denn nach Oskar Hertwigs Angabe bereits die Eizellen
+von Tieren künstlich in eine Rauschlähmung versetzt werden können und
+dann die Sperrungen, die sonst der Überfruchtung (Aufnahme von mehr
+als einem Samenfaden in das weibliche Ei) wehren, vernachlässigen.
+(Lehrbuch der Entwicklungsgeschichte, 8. Aufl., S. 62.) Und solche
+Luxussymbiose, wenn sie auch noch so sehr unter die einseitige
+Kultursymbiose im ganzen fällt, wie diese unter die Symbiose überhaupt,
+zeigt erklärlich auch hier ebensolche Gefahren für die herrschende
+Partei selbst, wie sie bei uns jeder nicht vergeistigte, sondern
+grob materielle Luxus ergibt. Es stellen sich in der Volkswirtschaft
+auch dieser Insekten Schäden ein, wie wenn ein ganzes Land bloß noch
+mit Burgunderreben überzogen würde unter völliger Vernachlässigung
+von Korn und Kartoffeln, ja noch tiefer greifende persönliche. Wenn
+die Ameisen solche Bläulingsraupen finden, lassen sie plötzlich ihre
+Blattläuse im Stich. Die Sache wird aber ärger, wenn sich in der Rolle
+solcher Sektgeber böse Räuber einschmuggeln (schon bei jenen Raupen
+gibt es fleischfressende, ameisenfressende Arten) und um des Genusses
+willen unmittelbar toleriert werden. Paussus, Lomechusa und andere
+geradezu vergötterte Helden gewisser Ameisenstaaten, auch jene seltsame
+Termitenfliege, sind ganz eigentlich solche Kannibalen, besonders
+Fresser an armen Larvenkindern ihres Gastgebervolks. Es ist, als habe
+die Symbiose ihnen den alten im Blute steckenden Räuber diesmal nicht
+abzuerziehen brauchen, da das narkotische Genußgift die Symbionten
+so pervers gemacht hatte, daß sie auf diesen schlimmsten Rückstand
+diesmal gar kein Gewicht legten, vielmehr wohl selber eine wahrhaft
+selbstmörderische Verkehrtauslese ins Werk setzten. Die fremden
+Kinder des Erzräubers Lomechusa (eines Kurzflüglerkäfers) werden in
+gewissen Ameisenvölkern derartig in der Pflege bevorzugt, daß die
+eigene Ameisenbrut darüber entartet. Bei den Termiten ist der immerhin
+schon normal bedenkliche Brauch eingerissen, im eigenen Volke die
+nötige Königinnenpflege bei den Arbeitern nicht bloß an einen strengen
+Pflichtinstinkt, sondern auch eine Luxuszugabe zu ketten: die Königin
+läßt beständig von ihren Flanken eine Art narkotischen Saftes träufeln,
+der wie in einer großen Staatskneipe von den Pflegern abgetrunken wird.
+Daran aber hat sich nun wieder angeschlossen, daß sich hier öfter
+solche fremden Räuber, die durch Fressen von Königinnenmast gleicher
+Gabe teilhaftig geworden, im blinden Volk gradezu an Stelle solcher
+Königin schmuggeln und entsprechend verhätschelt und beschützt werden,
+obwohl sie zyklopengleich die wartende Schar fortgesetzt dezimieren.
+Erklärlich, daß an solcher mörderischen Symbiose ganze Einzelstaaten
+zugrunde gehen, ja auf die Dauer die Arten im ganzen sich wie mit einer
+„sozialen Krankheit“, wie Doflein sich einmal ausgedrückt hat, behaftet
+zeigen müssen. Unwillkürlich denkt man an unsere Südseeinsulaner, die
+am Branntwein und gewissen Lasterkrankheiten absterben. Die gesunde
+Kultursymbiose ist hier zur _Lastersymbiose_ geworden, ob nun Ameise
+oder Mensch. Wobei noch an eine andere Gefahr dieser Kultursymbiose
+erinnert sei, die man ebenfalls bei beiden studieren kann: wenn sich
+nämlich die überlegene Partei schließlich so sehr von der andern
+mästen und aushalten läßt, daß sie das eigene Arbeiten ganz abschafft
+und verlernt, hoffnungslos faul und hilflos und so schließlich selber
+wieder zum abhängigen Teil wird. Wir erleben das bei gewissen der
+sogenannten Sklavenameisen (~Polyergus~, Amazonenameisen), wo die eine
+Partei sich von ursprünglich andersartigen Ameisen füttern und bedienen
+läßt, die sie zunächst (nicht symbiontisch) aus andern Ameisennestern
+gewaltsam als Puppen geraubt hat, mit denen sie aber dann soweit ganz
+gut symbiontisch weiterlebt, doch mit dem unsinnigen Extrem, daß sie
+selber nicht mehr allein fressen kann, sondern verhungert, wenn ihr
+die fremden Genossen nicht „einholen“ und die fertigen Bissen in den
+Mund stecken. Den Schluß dieser neuen Form von Lastersymbiose stellen
+vielleicht gewisse Ameisenpersonen aus im ganzen längst zerfallenen
+eigenen Staaten dar, die sich heute als fette, hilflose Müßiggänger
+einzeln in andern Nestern herumtreiben und dort wohl nur Unheil
+anrichten, nachdem sie sich in ihrem Bettlerstande wahrscheinlich auch
+auf perverse Gaukelkünste jener andern Art geworfen haben. Man sieht,
+daß die einseitige Überlegenheit in den Schutzgenossenschaften in
+dauernden und gesunden Traditionen immer nur normal bestehen bleiben
+kann, wenn sie zuletzt auf einer Gehirnüberlegenheit und nicht auf
+Genußlastern und Faulheit beruht!
+
+Es wäre zum Schluß noch eine Symbiosenform als Möglichkeit auch im Tier
+zu besprechen, bei der wir, doch jetzt bei der Menschenfortsetzung
+angelangt, am geeignetsten zunächst vom Menschen unmittelbar ausgehen.
+Unsere Symbiose hat uns (auch mit Einschluß selbst ihrer Auswüchse)
+wesentlich zuletzt schon an das Gehirn anknüpfen lassen. Dieses
+Gehirn ist nun bei uns Menschen auf der einen Seite das überragende
+Intelligenzorgan, nachdem sich bei den Tieren zunächst hauptsächlich
+die höheren und verwickelten Instinkte hier angeschlossen hatten.
+Inwiefern doch auch bei den Tieren sich in steigendem Maße nach oben in
+die Symbiosen schon solche echte Intelligenz eingemischt haben könnte,
+möchte ich hier dahingestellt sein lassen, die Entscheidung ist deshalb
+so schwer, weil wir gerade bei den entschieden schon intelligentesten
+Tieren (in der Wirbeltierreihe von den Fischen an aufwärts)
+merkwürdigerweise nur ganz vereinzelte und meist kaum über die Vorstufe
+der noch fast indifferenten Synökie (Hausgemeinschaft) hinausgelangende
+Beispiele haben, andererseits aber die fest eingeführten Symbiosen
+grade ihrem Wesen nach nicht eigentlich in die Einzelintelligenz
+fallen wollen, sondern beim Tier ohne menschliche Überlieferungsart
+notwendig etwas Vererbtes und damit Triebhaftes wahren müssen; wie sie
+im Einzelfall _ausgeübt_ wurden innerhalb des vererbten Grundgesetzes,
+daran mag ja die Intelligenz wachsend nach oben Anteil genommen haben,
+doch entzieht sich das grade durchweg unserer Betrachtung, die das
+Gesetzmäßige sucht. Die paar bisher bekannt gewordenen, früher noch
+nicht miterwähnten Fälle oberster Wirbeltiersymbiosen lassen sich fast
+an den Fingern abzählen: der altertümliche Hatteria-Saurier, der in
+seinem Zusammenwohnen auf neuseeländischen Klippen mit Sturmvögeln in
+gleichen Höhlen von Schauinsland so anschaulich geschildert und im
+Museum zu Bremen in prachtvollen Modellen verewigt worden ist, -- die
+Indizien echter Symbiose bleiben aber ziemlich schwach; die Kuhreiher
+und Nashornstare (Madenhacker), die den großen tropischen Büffeln
+und Rhinozerossen Ungeziefer stochernd auf dem Rücken reiten und bei
+Gefahr warnend auffliegen, -- in Einzelheiten noch nicht geklärt wie
+jene hier angrenzende Geschichte vom Krokodilwächter; Präriehunde mit
+Klapperschlangen und Eulen, also gefährlichen Feinden, im gleichen
+Bau, -- vorläufig ganz unklar; wobei immerhin erwähnt sei, daß auch
+vorratsammelnde Nagetiere (Wurzelmäuse) sich an gewissen narkotischen
+Wurzeln (Eisenhut) weniger beköstigen, als berauschen sollen und die
+südamerikanischen geselligen Viscachas durch fortgeworfene Kerne
+auf ihren Bauten immer wieder kleine Melonengärten ansiedeln, ohne
+daß doch weder sie noch unser Hamster, bei dem es so nahe läge, zu
+wirklichem Ackerbau übergegangen wären; endlich Zebras, Gnuantilopen,
+Giraffen, Strauße, an sich schon keine feindlichen Gegensätze, in
+Afrika zu genossenschaftlichen Herden regelmäßig vereint, wie auf
+unseren heimischen Seen die verschiedensten Entenarten und Taucher,
+-- Schillings hat davon die reizvollsten Bilder gegeben, doch wird
+man kaum über die Gesetze einfacher Herdenbildung der gleichen Arten
+unter sich hinausgeführt. Die Beispiele, die der russische Fürst Peter
+Kropotkin in einem bekannten Buche über „Gegenseitige Hilfe in der
+Entwicklung“ zusammengestellt hat, beziehen sich fast ausnahmslos
+überhaupt nur auf solches Sozialleben _gleicher_ Arten, haben also mit
+echter Symbiose nichts zu tun; da grade dieses Buch wiederholt als
+„Begründung der Symbiosenlehre“ gefeiert worden ist, sei dazu noch
+vermerkt, daß Kropotkins älteste Veröffentlichungen über den Stoff
+nicht über die 90er Jahre zurückgehen, also auch in diesem Sinne für
+eine Priorität nicht entfernt in Betracht kommen können.
+
+Die Fülle der echten Beispiele setzt jedenfalls erst wieder ganz ohne
+Übergang (grade von echter Affensymbiose ist mir nichts bekannt)
+beim Menschen selbst ein. Aber wir haben bei diesem Menschen noch
+etwas anderes an sein Gehirn angeschlossen. Neben der Intelligenz
+im Sinne auch möglichst kluger Einzelabwägung jeden Vorteils und
+praktischer persönlicher Erfindung zum Nutzzweck zeigen sich
+hier die Gemütserregungen: Freundschaft, Mitleid, Liebe in einem
+vergeistigt-gefühlsmäßigen Sinne, persönliche Sympathie auf einem
+keineswegs bloß verstandesmäßigen, vorteilsuchenden Wege. Die
+Empfindung, mit der ein Mensch sich beispielsweise zu seinem Hunde
+zu stellen pflegt, geht entschieden außerordentlich weit über diesen
+kalten Nutzanschluß seiner Kultursymbiose hinaus. Ich möchte hier
+unmittelbar von einer _Gemütssymbiose_ sprechen. Und es darf wohl
+die Frage zuletzt aufgeworfen werden, inwieweit solche persönliche
+Gemütssymbiose immerhin auch in alle Einzelfälle wenigstens höchster
+tierischer Symbiosen (und vielleicht auch ihre Entstehung hier
+schon im ganzen) hineingewirkt haben könnte. Es gibt ja eine ganze
+Zoologenschule heute, die behauptet, wir hätten überhaupt kein Mittel,
+Gefühle bei den Tieren zu erkennen, ein Standpunkt, mit dem sich meines
+Erachtens nicht streiten läßt, da er in der hellen Sonne die Sonne
+nicht mehr sieht. Aber ich denke, auch der erbittertste Gegner echten
+tierischen Gemütslebens wird die Möglichkeit des Falles mindestens beim
+Hunde und seiner Symbiose zum Menschen als gegeben erachten, -- und
+zwar auf seiten des Hundes sowohl wie des Menschen.
+
+
+
+
+Sachregister.
+
+
+  Ackerbautreibende Ameise, angebliche 68 f.
+
+  ~Adamsia palliata~ 26 ff.
+
+  Anolidier (Schnecken) 38
+
+  Akontien 27, 29, 33
+
+  Alge und Pilz 42 ff.
+
+  Ameisen als Pilzzüchter 66 ff.
+
+  Ameisen und Waldblumen 69
+
+  Ameisenpflanzen 64
+
+  ~Anthias dofleini~ (Fisch) 38
+
+  Aronstab 60, 63
+
+  ~Aspidosiphon~ 37
+
+  Asseln in Symbiose 34
+
+  Atta-Ameisen 64 f.
+
+
+  Bakterien, Stickstoff- 49 f.
+
+  --„-- im Darm 56
+
+  Bandwurm 7
+
+  Bernsteinschnecke 17
+
+  Bernhardinerkrebse (Einsiedlerkrebse) 24 ff.
+
+  Bitterling (Fisch) 19
+
+  Blattläuse und Ameisen 70 f.
+
+  Bläulingsraupe und Ameisen 71
+
+  Blumen und Insekten als Symbiose 7, 58 ff.
+
+  Blütenverteidigung durch Insekten 63 f.
+
+  Bombardierkäfer 21
+
+  Borkenkäfer als Pilzzüchter 68
+
+  Borstenwurm in Symbiose 34
+
+  ~Bradypodicola~ (Schmetterling) 57
+
+  Brennfestigkeit von Fischen 38 f.
+
+  Brennkapseln der Polypen 22, 25, 29
+
+  Bryozoen in Symbiose 36
+
+
+  ~Caranx~ (Fisch) 37
+
+  Chlorophyll 41, 43, 52 ff.
+
+  --„--, angebliches in Tieren 52
+
+  Cienkowski 51
+
+  ~Claviger~ (Käfer) 71
+
+  Cnidarien (Nesseltiere) 21
+
+  ~Cuscuta~ (Teufelszwirn) 16
+
+  ~Convoluta~ (Wurm) 53, 55
+
+
+  Darwin 8, 10 ff., 13 f.
+
+  Daseinskampf 10 ff.
+
+  de Bary 6 ff., 41 f., 58
+
+  ~Diplozoon paradoxum~  5
+
+  Doflein 27, 29, 30, 33, 35, 38
+
+  Drei-Symbiose 35, 50
+
+
+  ~Entoconcha mirabilis~ (Muschel) 40
+
+  Ernteameise 68
+
+  Escherich 67
+
+  Explosionsprinzip in der Natur 21
+
+
+  Faultieralgen 56
+
+  ~Fierasfer~ (Fisch) 39
+
+  Flechten 6, 41 ff.
+
+  Frank 45
+
+  Freßpolypen 22, 30
+
+
+  Gehirn der Biene 61
+
+  Gemütssymbiose 76
+
+  Glochidien 20
+
+  Gonidien 42
+
+
+  Haeckel 51
+
+  Hatteria 75
+
+  ~Hebella~ 36
+
+  Hertwig, Oskar 7 ff., 31, 52 f., 72
+
+  Hertwig, Richard 52
+
+  Humboldt, Alexander von 5
+
+  Hund und Mensch 76
+
+  ~Hydra viridis~ 52 ff., 55
+
+  ~Hydractinia~ 26, 29 f.
+
+
+  Kammerer 32, 34, 56
+
+  Keller, Konrad 70
+
+  Kolibri 60
+
+  Korkschwamm in Symbiose 36
+
+  Krebsschutz durch Polypen 30 ff., 58
+
+  Krokodilwächter 9, 75
+
+  Kropotkin 75
+
+  Kuhreiher 75
+
+  Kultursymbiose 70
+
+
+  Lastersymbiose 73
+
+  Leguminosen, Symbiose bei 48 ff.
+
+  ~Leucochloridium~ 17, 18
+
+  ~Lomechusa~ (Käfer) 72 f.
+
+  Lupinendüngung, Sinn der 48 f.
+
+  Luxussymbiose 72
+
+
+  Malermuschel 19
+
+  Müller, Johannes 40
+
+  Muschelwächter (Krebs) 35
+
+  Mykorrhiza, Problem der 45 ff.
+
+  Myrmekophilen (Ameisengäste) 71
+
+
+  Neunauge 16
+
+  ~Nomeus~ (Fisch) 37
+
+
+  Orchideen in Symbiose 47, 59 ff.
+
+
+  ~Paussus~ (Käfer) 72
+
+  Parasitismus 16
+
+  ~Physalia~ 37
+
+  Pilze in Insekten 56
+
+  ~Podocoryne~ 26, 37
+
+  Polydectinen (Krebse) 35
+
+  Purpurschnecken 24
+
+  Pütter 54
+
+
+  Quallenfresser (Fisch) 38
+
+
+  Radiolarien 50 f.
+
+  Raupe mit Wespenlarven 16 f.
+
+
+  ~Sagartia parasitica~ 26, 27
+
+  Säureschnecken 20
+
+  Schillings 75
+
+  Schraubensabelle in Symbiose 36
+
+  Schutzpolypen 30 f.
+
+  Seegurken 39
+
+  Semon, Richard 37
+
+  Sklavenameisen 73
+
+  Soredien 44 f.
+
+  Spinnennetz 14
+
+  Sprengel 7, 58
+
+  Stahl 42, 45
+
+  Stickstoffbakterien 49
+
+  Symbiose, Definition des Wortes 7-9
+
+  Synökie 20 f., 23, 25, 74
+
+
+  ~Tarsipes~ 60
+
+  Termiten als Pilzzüchter 67 f.
+
+  Termitenkönigin, Luxussaft der 73
+
+  Termitophilen 71
+
+  ~Termitoxenia~  72
+
+  Tintenfisch im Kampf mit Krebs und Polypen 25, 30
+
+
+  ~Urogonimus macrostomus~ 17
+
+
+  Vexiergurke 21 f.
+
+  ~Virbius~ (Krebs) 33
+
+
+  Wegwespe und Kreuzspinne 15
+
+  Wehrpolypen 23, 30, 33
+
+  Weismann 12, 31
+
+  Wurzelkrebs 40
+
+
+  Yukkamotte 62
+
+
+  Zikaden und Ameisen 71
+
+  Zoochlorellen 55
+
+  Zooxanthellen 55
+
+
+
+
+  Naturwissenschaftliche Bildung
+  ist die Forderung des Tages!
+
+
+Zum Beitritt in den „Kosmos, Gesellschaft der Naturfreunde“, laden wir
+
+  alle Naturfreunde
+
+jedes Standes sowie alle Schulen, Volksbüchereien, Vereine usw. ein. --
+Außer dem geringen
+
+  Halbjahresbeitrag von nur M 2.80
+
+  (beim Bezug durch den Buchhandel 20 Pf. Bestellgeld, durch die Post
+  Porto besonders)
+
+erwachsen dem Mitgliede $keinerlei$ Verpflichtungen; dagegen werden ihm
+folgende großen Vorteile geboten:
+
+Die Mitglieder erhalten laut § 5 der Satzung als Gegenleistung für
+ihren Jahresbeitrag im Jahre 1917 $kostenlos$:
+
+  ~I.~ Die Monatsschrift Kosmos, Handweiser für Naturfreunde. Reich
+  bebildert. Preis für Nichtmitglieder M 3.60.
+
+  ~II.~ Die ordentlichen Veröffentlichungen. 4 Buchbeilagen.
+
+  Nichtmitglieder zahlen den Einzelpreis von M 1.-- für jeden Band.
+
+  Wilhelm Bölsche, Schutz- und Trutzbündnisse in der Natur.
+  Dr. Kurt Floericke, Plagegeister.
+  H. Besser, Natur- und Jagdstudien in Deutsch-Ostafrika.
+  Dr. Alfred Hasterlik, Von Speise und Trank.
+
+  Über die für 1918 in Aussicht genommenen ordentlichen
+  Veröffentlichungen siehe Anzeige vor dem Titel.
+
+  ~III.~ Vergünstigungen beim Bezuge von hervorragenden
+  naturwissenschaftlichen Werken.
+
+
+  Jedermann kann jederzeit Mitglied werden.
+  Bereits Erschienenes wird nachgeliefert.
+
+
+
+
+Satzung
+
+
+  § 1. Die Gesellschaft Kosmos (eine freie Vereinigung der Naturfreunde
+  auf geschäftlicher Grundlage) will in erster Linie die Kenntnis
+  der Naturwissenschaften und damit die Freude an der Natur und das
+  Verständnis ihrer Erscheinungen in den weitesten Kreisen unseres
+  Volkes verbreiten.
+
+  § 2. Dieses Ziel sucht die Gesellschaft zu erreichen: durch die
+  Herausgabe eines den Mitgliedern $kostenlos$ zur Verfügung gestellten
+  naturwissenschaftlichen Handweisers (§ 5); durch Herausgabe
+  neuer, von hervorragenden Autoren verfaßter, im guten Sinne
+  gemeinverständlicher Werke naturwissenschaftlichen Inhalts, die sie
+  ihren Mitgliedern $unentgeltlich$ oder $zu einem besonders billigen
+  Preise$ zugänglich macht, usw.
+
+  § 3. Die Gründer der Gesellschaft bilden den geschäftsführenden
+  Ausschuß, den Vorstand usw.
+
+  § 4. $Mitglied kann jeder werden$, der sich zu einem Jahresbeitrag
+  von $M 5.60$ (außer etwaiger Postgebühr) verpflichtet. Andere
+  Verpflichtungen und Rechte, als in dieser Satzung angegeben sind,
+  erwachsen den Mitgliedern nicht. Der Eintritt kann $jederzeit$
+  erfolgen; bereits Erschienenes wird nachgeliefert. Der Austritt ist
+  gegebenenfalls bis 1. Okt. des Jahres anzuzeigen, womit alle weiteren
+  Ansprüche an die Gesellschaft erlöschen.
+
+  § 5. Siehe Seite 78.
+
+  § 6. Die Geschäftsstelle befindet sich bei der $Franckh’schen
+  Verlagshandlung, Stuttgart$, Pfizerstraße 5. Alle Zuschriften,
+  Sendungen und Zahlungen (vgl. § 5) sind, soweit sie nicht durch eine
+  Buchhandlung Erledigung finden konnten, dahin zu richten.
+
+
+Kosmos
+
+Handweiser für Naturfreunde
+
+Kriegs-Ausgabe.
+
+Erscheint jährlich zwölfmal und enthält:
+
+  $Originalaufsätze$ von allgemeinem Interesse aus sämtlichen Gebieten
+  der Naturwissenschaften und den Grenzgebieten. Reich illustriert.
+
+  $Regelmäßig orientierende Berichte$ über Fortschritte und neue
+  Forschungen auf allen Gebieten der Naturwissenschaft.
+
+  $Auskunftsstelle -- Wertvolle kleine Mitteilungen.$
+
+  $Mitteilungen über Naturbeobachtungen$, Vorschläge und Anfragen aus
+  dem Leserkreise.
+
+  $Bibliographische Notizen$ über bemerkenswerte neue Erscheinungen der
+  deutschen naturwissenschaftlichen Literatur.
+
+
+
+
+Die ordentlichen Veröffentlichungen
+
+früherer Jahre erhalten Mitglieder, solange vorrätig, zu
+Ausnahmepreisen:
+
+
+1904
+
+(Handweiser vergriffen) zusammen für M 4.-- (Preis für Nichtmitglieder
+M 5.-), geb. für M 6.20 (für Nichtmitglieder M 8.40):
+
+  $Bölsche, W., Abstammung des Menschen.$
+  $Meyer, Dr. M. W., Weltuntergang.$
+  $Zell, Ist d. Tier unvernünftig?$ (Doppelbd.)
+  $Meyer, Dr. M. Wilh., Weltschöpfung.$
+
+
+1905
+
+1906
+
+(Handweiser vergriffen) je für M 4.-- (Preis für Nichtmitgl. M 5.--),
+geb. für M 6.75 (für Nichtmitgl. M 9.--):
+
+  $Bölsche, W., Stammbaum der Tiere.$
+  $Welten, Die Sinne der Pflanzen.$
+  $Zell, Dr. Th., Tierfabeln.$
+  $Teichmann, Dr. E., Leben und Tod.$
+  $Meyer, Dr. M. W., Sonne und Sterne.$
+  $Welten, Wie die Pflanzen lieben.$
+  $Meyer, Dr. M. Wilh., Rätsel d. Erdpole.$
+  $Zell, Dr. Th., Streifzüge durch d. Tierwelt.$
+  $Bölsche, Wilh., Im Steinkohlenwald.$
+  $Ament, Dr. W., Die Seele des Kindes.$
+
+
+1907
+
+1908
+
+(Handweiser vergriffen) je für M 4.-- (Preis für Nichtmitgl. M 5.--),
+geb. für M 6.75 (für Nichtmitgl. M 9.--):
+
+  $Francé, Streifzüge im Wassertropfen.$
+  $Zell, Dr. Th., Straußenpolitik.$
+  $Meyer, Dr. M. W., Kometen u. Meteore.$
+  $Teichmann, Fortpflanzung u. Zeugung.$
+  $Floericke, Dr. K., Die Vögel des deutschen Waldes.$
+  $Meyer, Dr. M. W., Erdbeben u. Vulkane.$
+  $Teichmann, Dr. E., Die Vererbung.$
+  $Sajó, Krieg u. Frieden im Ameisenstaat.$
+  $Dekker, Naturgeschichte des Kindes.$
+  $Floericke, Dr. K., Säugetiere des deutschen Waldes.$
+
+
+1909
+
+ungebunden zusammen M 4.80 (für Nichtmitglieder M 7.80) und gebunden
+für M 8.80 (für Nichtmitglieder M 13.25):
+
+  $Francé, Bilder aus d. Leben d. Waldes.$
+  $Meyer, Dr. M. Wilh., Der Mond.$
+  $Sajó, Prof. K., Die Honigbiene.$
+  $Floericke, Kriechtiere u. Lurche Deutschl.$
+  $Bölsche, Wilh., Der Mensch in der Tertiärzeit und im Diluvium.$
+
+
+1910
+
+1911
+
+ungebd. zus. M 4.80 (für Nichtmitglieder M 7.80) und gebunden für M
+8.80 (für Nichtmitglieder M 13.25):
+
+  $Koelsch, Pflanzen zwisch. Dorf u. Trift.$
+  $Dekker, Fühlen und Hören.$
+  $Meyer, Dr. M. W., Welt der Planeten.$
+  $Floericke, Säugetiere fremder Länder.$
+  $Weule, Kultur der Kulturlosen.$
+  $Koelsch, Durch Heide und Moor.$
+  $Dekker, Sehen, Riechen und Schmecken.$
+  $Bölsche, Der Mensch der Pfahlbauzeit.$
+  $Floericke, Vögel fremder Länder.$
+  $Weule, Kulturelemente der Menschheit.$
+
+
+1912
+
+ungebunden zusammen M 4.80 (für Nichtmitglieder M 7.80) und gebunden
+für M 8.80 (für Nichtmitglieder M 13.25):
+
+  $Gibson-Günther, Was ist Elektrizität?$
+  $Dannemann, Wie uns. Weltbild entstand.$
+  $Floericke, Fremde Kriechtiere u. Lurche.$
+  $Weule, Die Urgesellschaft und ihre Lebensfürsorge.$
+  $Koelsch, Würger im Pflanzenreich.$
+
+
+1913
+
+ungebunden zusammen M 4.80 (für Nichtmitglieder M 7.80) und gebunden
+für M 8.80 (für Nichtmitglieder M 13.25):
+
+  $Bölsche, Festländer und Meere.$
+  $Floericke, Einheimische Fische.$
+  $Koelsch, Der blühende See.$
+  $Zart, Bausteine des Weltalls.$
+  $Dekker, Vom sieghaften Zellenstaat.$
+
+
+1914
+
+1915
+
+ungebd. zusammen M 4.80 (für Nichtmitgl. M 7.80) und gebunden für M
+8.80 (für Nichtmitgl. M 13.25):
+
+  $Bölsche, Wilh., Tierwanderg. i. d. Urwelt.$
+  $Floericke, Dr. Kurt. Meeresfische.$
+  $Lipschütz, Dr. A., Warum wir sterben.$
+  $Kahn, Dr. Fritz, Die Milchstraße.$
+  $Nagel, Dr. Osk., Romantik der Chemie.$
+  $Bölsche, Wilh., Der Mensch der Zukunft.$
+  $Floericke, Dr. K., Gepanzerte Ritter.$
+  $Weule, Prof. Dr. K., V. Kerbstock z. Alphab.$
+  $Müller, Alfr. Leop., Gedächtn. u. s. Pflege.$
+  $Besser, H., Raubw. u. Dickhaut. i. D.-Ostaf.$
+
+
+1916
+
+ungebunden zusammen M 4.80 (für Nichtmitglieder M 7.80) und gebunden
+für M 8.80 (für Nichtmitglieder M 13.25):
+
+  $Bölsche, Stammbaum der Insekten.$
+  $Dekker, Dr., Heilen und Helfen.$
+  $Floericke, Dr., Bulgarien.$ Doppelbd.
+  $Weule, Krieg in den Tiefen d. Menschheit.$
+
+
+1917
+
+ungebunden zusammen M 5.60 (für Nichtmitglieder M 7.80) und gebunden
+für M 9.25 (für Nichtmitglieder M 13.25):
+
+  $Besser, Natur- u. Jagdstudien in D.-Ostafr.$
+  $Floericke, Dr., Plagegeister.$
+  $Hasterlik, Dr., Speise und Trank.$
+  $Bölsche, Schutz- u. Trutzbündn. i. d. Natur.$
+
+
+=Allen Jahrgängen, außer 1904-1908, werden die 12 Hefte des betr.
+Handweiser-Jahrg. beigefügt.=
+
+Sämtl. noch vorhand. Jahrgänge der Kosmos-Veröffentlichungen (s. obige
+Zusammenstellung) liefern wir an Mitgl.: geh. für M 55.-- (Preis für
+Nichtmitgl. 98,20), geb. (auch Handw.) f. M 88.50 (Preis f. Nichtmitgl.
+163.65) auch nach $Vereinbarung gegen monatl. Ratenzahl.$
+
+
+
+
+  +------------------------------------------------------------------+
+  | Anmerkungen zur Transkription                                    |
+  |                                                                  |
+  | Inkonsistenzen wurden beibehalten, wenn beide Schreibweisen      |
+  | gebräuchlich waren, wie:                                         |
+  |                                                                  |
+  | anderen -- andern                                                |
+  | äußeren -- äußern                                                |
+  | Bernhardskrebs -- Bernhardinerkrebs                              |
+  | besonderen -- besondern                                          |
+  | Drei-Symbiose -- Dreisymbiose                                    |
+  | engeren -- engern                                                |
+  | Pflanzarten -- Pflanzenarten                                     |
+  | ums -- um das                                                    |
+  | unseren -- unsern                                                |
+  | unserer -- unsrer                                                |
+  | Volkes -- Volks                                                  |
+  |                                                                  |
+  | Folgende Änderungen wurden vorgenommen:                          |
+  |                                                                  |
+  | Der Zensurstempel "A. g. XIII." auf der Titelseite wurde nicht   |
+  | übernommen.                                                      |
+  | S. 18 "Leukochloridium" in "Leucochloridium" geändert.           |
+  | S. 27 "Podokoryne" in "Podocoryne" geändert.                     |
+  | S. 30 "Hydraktinia" in "Hydractinia" geändert.                   |
+  | S. 30 "Podokoryne" in "Podocoryne" geändert.                     |
+  | S. 33 "Podokoryne" in "Podocoryne" geändert.                     |
+  | S. 35 "Polydektinen" in "Polydectinen" geändert.                 |
+  | S. 37 "Podokoryne" in "Podocoryne" geändert.                     |
+  | S. 53 "Geza Entz" in "Géza Entz" geändert.                       |
+  | S. 56 "Bradypicola" in "Bradypodicola" geändert.                 |
+  | S. 62 "Blütenscheiben" in "Blütenscheiden" geändert.             |
+  | S. 73 "Viskatschas" in "Viscachas" geändert.                     |
+  | S. 75 "Bradypicola" in "Bradypodicola" geändert.                 |
+  | S. 75 "Hydraktinia" in "Hydractinia" geändert.                   |
+  | S. 75 "Polydektinen" in "Polydectinen" geändert.                 |
+  | S. 77 , eingefügt.                                               |
+  | S. 78 . eingefügt.                                               |
+  |                                                                  |
+  +------------------------------------------------------------------+

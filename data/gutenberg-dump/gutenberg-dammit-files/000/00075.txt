@@ -1,0 +1,810 @@
+This rough version is missing 8 out of 28 chapters and 1 out of 5
+appendices.
+
+Copyright (c) 1993 by John E. Goodwin.  All Rights Reserved.
+
+You may make and distribute verbatim copies of these course notes for
+non-commercial purposes using any means, provided this copyright notice
+is preserved on all copies.
+
+For information on taking the internetworking course, contact
+
+     John Goodwin (jgoodwin@adcalc.fnal.gov)
+     P.O. Box 6022
+     St. Charles, IL  60174, U.S.A.
+1 
+
+<title> E-MAIL 101
+
+If you like those little machines that give you 24 hour access to your
+bank account, you'll love the Internet.  I suppose there are still
+people who, given a choice, will go to a drive-through teller just so
+they can deal with a "live person" instead of a machine.  But even those
+people will admit that it is nice to have the option of doing things for
+yourself, on your own schedule, anywhere.  Do you remember what it was
+like before automatic tellers?  Banks closed at 3 p.m. on weekdays.
+Each Saturday you had to guess how much money you would need for the
+following week.  If you were wrong you had to cash a check at a food
+store (and maybe buy something you didn't want).  And if you were out of
+town?  Well, there were always credit cards.
+
+We don't do that anymore.  I think many people go to the automatic
+teller because they like the privacy of handling their own business
+without having to explain it all to someone else.  And we like the
+illusion of having access to our "own" account anytime we want.
+There are disadvantages to using an automatic teller card too--you may
+have to pay a fee each month or even for each transaction--and you have
+to remember to deduct those fees from your account balance or you will
+bounce checks.  But I'll bet you feel pretty competent using an
+automatic teller and don't lose much sleep worrying over the fees.
+
+This course is designed to give you that same sense of freedom and
+competence with the Internet that you have with an automatic teller
+machine or the telephone.  With a home computer, a modem, and
+communications software, you can connect to other computers over the
+phone line to exchange electronic mail (E-mail), trade files, or search
+for information.  Many of those computers are connected to the worldwide
+network called the Internet.  Some few of them will--for a fee--let
+*you* connect to the Internet.  From there you can dial any of 900,000
+or more computers, send E-mail to any of 25 million people, and access
+hundreds of free, informative services.
+
+In short, you are on the verge of a new method of communicating with
+people and machines called "internetworking."  Internetworking lets you:
+
+  o Avoid playing phone tag;
+
+  o Sign up to receive special interest electronic newsletters and
+journals;
+
+  o Access hundreds of information services and document collections in
+exactly the same way--no need to have hundreds of sets of different
+instructions or hundreds of (expensive) special purpose software
+packages;
+
+  o Find and communicate with other people who share your interests.
+
+Internetworking is an essential skill for the '90s.  Your children will
+find it as common as viewing television or using the telephone.  It
+still has a few rough edges--but we'll explain those.
+
+There is actually no single network owned by one company called the
+Internet.  Instead, many medium-sized networks have grown together to
+create a "phone system" that connects together nearly a million
+computers.  Many hundreds of these computers allow some form of public
+access.  You can get the latest news or weather, download information
+about Government programs or high-tech products, search on-line library
+catalogues and databases, download free software, and do many other
+things, with little or no monetary investment beyond the cost of your
+home computer.
+
+Using the Internet need not be expensive:  you can get on the Internet
+for as little as $10 a month if you own (1) a home computer, (2) a $50
+modem, and (3) some communications software (under $100).  There are
+more expensive ways to connect to the Internet, of course.  These ways
+make sense for businesses or organizations that make heavy use of the
+network.  But in this course we will discuss methods that cost in the
+$10-$40/month range.  These methods are suitable for exploring the net
+after hours and for casual use.  We will provide some basic information
+about more expensive methods of connecting (Appendix C) so that you can
+make informed decisions if your networking needs should increase in the
+future.
+
+Internetworking well means mastering a whole host of skills--connecting
+two computers together using the Internet is just the beginning.  You
+have to learn methods for transferring information from the remote
+computer to your own.  This is a complex task that may involve using a
+file transfer protocol and compression techniques.
+
+Because the information world is so vast, your biggest problem will most
+likely not be connecting to the Internet.  It will be finding what you
+want.  Thus, this course covers not only the mechanics of making a
+connection and transferring files, but techniques for locating material
+as well.  And of course you will want to be savvy about the costs of
+different connection methods.  This means estimating whether it will
+cost you more per Megabyte to transfer the information or to have it
+faxed to you by a friendly librarian.
+
+This course is intended for the general public--students,
+businesspersons, librarians, teachers, writers, journalists--in fact
+anyone who needs to find information and communicate with others.
+Whether you are researching a paper, writing an article, or trying to
+get technical information on a product, you will use these techniques
+over and over.
+
+Chapters marked with an asterisk are omitted from this edition.
+
+ 
+COURSE CONTENTS
+
+1 : The Past and the Future of Internetworking
+
+2 : What Is the Internet?
+
+3 : How Do I Connect to the Internet?
+
+4 : Who Pays for the Internet?
+
+5 : Internet Basics
+
+6 : Getting on the Internet Step by Step
+
+7 : Programs and Pictures
+
+8 : File Compression Methods for Faster Transfer
+
+9 : What to Do When You Only Have E-mail
+
+10 : Employee Development:  How to Get Your Employees Internetworking
+
+ 
+Part II  Special Concerns
+
+11 : Special for Businesses
+
+12 : Special for Students and their Parents
+
+13 : Special for Writers, Journalists, Publishers, and Printers
+
+14 : Special for Elementary and High School Teachers
+
+15 : Special for Librarians
+
+16 : Special for Scholars
+
+17 : Special for Churches, Synagogues, and Mosques
+
+ 
+Part III  Research, Organization, and Writing
+
+18 : Research Methods I:  Basic Navigation Methods
+
+*19 : Research Methods II:  Usenet Newsgroups
+
+20 : Research Methods III:  Advanced Techniques
+
+*21 : Organizing Information
+
+*22 : Information Structures
+
+*23 : Boolean Logic
+
+*24 : Writing for an Internetworked World:  Basic Problems
+
+*25 : Writing for an Internetworked World:  Getting Through to your
+Audience
+
+ 
+Part IV  Resources
+
+*26 : The Internet Address Book
+
+27 : Bibliography
+
+*28 : Glossary
+
+Appendix A.  Computer Hints for the *Really* Green
+
+Appendix B.  Using a Modem
+
+*Appendix C.  Technical Details of an Internet Connection
+
+Appendix D.  Just Enough UNIX
+
+Appendix E.  The Ten Best Things To Get If You Only Have E-Mail
+
+ 
+
+<Chapter 1>  The Past and Future of Internetworking
+
+There is an old fashioned way to connect with other computers and share
+information and there is a modern way.  It is helpful to compare the two
+methods briefly in order to make contact with methods you may already
+know and to show off the advantages of using the Internet.
+
+The old fashioned (ca. 1980) method of making contact with other
+computers is through a bulletin board service (BBS).  Bulletin board
+services grew up in the late 70s as a method for sharing software,
+talking, playing games, etc. with a personal computer.  They range in
+size from small special interest Bulletin Boards with a local following
+to giant national boards like CompuServe, GEnie, and The Source.  You
+access a bulletin board with a modem and communication software by
+dialing a telephone number.  Of course, if you don't live in the local
+area of the BBS you have to use a long distance carrier.  This may add a
+couple dollars per hour to the connect fee.
+
+The basic services offered by a Bulletin Board and by the Internet are
+similar:
+
+  (1)  Access to a host computer (Internet TELNET command)
+
+  (2)  File transfer capability (Internet FTP command)
+
+  (3)  The ability to contact other BBS members individually (Internet
+E-mail)
+
+  (4)  The ability to post messages for general consumption in any of
+several catagories. (Usenet Newsgroups)
+
+The difference is that whereas each BBS has its own dialup procedure,
+menu interface, file transfer methods, billing policies, and so on, THE
+INTERNET USES ONE METHOD FOR ALL COMPUTERS IN THE WORLD.  The savings in
+terms of the "learning curve" is staggering.  Once you know how to use
+anonymous FTP you know how to get information from *hundreds* of
+providers.  It is like the difference between using the postal service
+or using a special courier for each person you write a letter to.  Once
+you know how to address the envelope and put the stamp on, you can write
+anyone.
+
+The Internet has the added savings that any communications software you
+buy for it works with all providers.  You do not have to buy (or
+customize) special software for each information provider.  Thus you can
+use one familiar graphical user interface ("windows" program) to connect
+with any computer.  The usual situation where you have to buy a special
+"client" program to connect to each kind of "server" is replaced with a
+situation in which you have a single program that any "server" out there
+has to comply with.  This standardization is the main advantage of using
+the Internet.
+
+Bulletin Boards are still around.  In fact, one of the easiest ways to
+connect to the Internet is through a national bulletin board service.
+One disadvantage of this method is that--as of this writing--national
+BBS's like CompuServe offer only E-mail.  You can't FTP or Telnet from
+them.  And they often charge per message for E-mail, so using them can
+be quite expensive.  There are better ways.
+
+ 
+<Chapter 2>  What is the Internet?
+
+The best way to think of the Internet is as a communications medium like
+the Telephone, Television, or the Postal Service.  Using the Internet
+you can send a any written text by E-mail.  This is rather like mailing
+a letter and having it arrive in seconds--three days in the most
+backwards parts of the world.  Using a special protocol called File
+Transfer Protocol you can transfer text files that are too long to mail
+(over about 50 pages) or even transfer graphics and programs.  If E-mail
+is the equivalent of "talking" to a person, then Telnet, the third main
+Internet service, is equivalent to telephoning a computer.  As long as
+you know the password for logging on to a computer, you can access and
+search any of nearly a million computers.  Details of E-mail, FTP, and
+Telnet are contained in Chapter 5, Internet Basics.
+
+This chapter puts the Internet into context.  Rather than concentrating
+on the trees that will occupy us in later chapters, it paints a big
+picture of the computing world in which the Internet has evolved.  When
+you pick up a telephone receiver you know you can dial households,
+businesses, or government offices.  You can dial 800 numbers or 411 for
+information.  You know how to get the time or weather, get your credit
+card balance, or leave a message on an answering machine.  In short, you
+have a good idea of what might possibly be at the other end of the line
+and a great deal of experience with negotiating their various
+intricacies.  But you are new to the Internet.  Some sense of "what's
+out there" in this new world is necessary to avoid getting lost in the
+thickets of acronyms, numbers, and procedures developed by different
+vendors.
+
+As we approach the middle of the 90s, the normal working situation in
+offices is approaching something like this:  there is a Local Area
+Network (LAN) connecting together personal computers, workstations, and
+mainframes of different makes.  The LAN (pronounced like "land" without
+the "d") may be connected to other LANs as part of a Wide Area Network
+(WAN).  The WAN may or may not be part of the global network called the
+Internet.  In colleges, universities, and research laboratories it
+likely is part of the Internet; in the commercial world, except for a
+few high-tech companies, it likely is not.  But the difference between
+academia and the commerical world is rapidly becoming blurred.
+
+In addition to the LANs and WANs there are many, many home and office
+computers that *could* be part of the global network using a modem-to-
+host connection.  These computers can be the portable computers of
+outside salespersons connecting to the central office to file a report,
+a computer in a home-operated desktop publishing company connecting
+briefly to the Internet to get a graphic for a newsletter, or a parent
+sending E-mail to their child at college.
+
+ 
+<Section 2.1>  Getting Over Shell-Shock
+
+Let's face it.  Not many members of the public--even the computer
+literate public-are on the Internet.  There are three reasons that using
+the Internet for the first time can be rather intimidating, even though
+it is actually rather simple to use, when you get down to the nitty-
+gritty of internetworking:
+
+  o  Getting on to the Internet can be a little bit complicated;
+
+  o  The capability of logging on to computers you've never used before
+by its very nature means facing unfamiliar--and hence uncomfortable--
+situations; and
+
+  o  The world is a very big place.
+
+I like to think of the first problem--getting on to the Internet--by
+remembering what it was like using an "alternative" long distance
+service before the breakup of the Bell monopoly.  People who used the
+alternative carriers had to dial all sorts of access codes--very often a
+local access number, a credit card number, a security code, *and* the
+number of the party they were calling.  They knew that whatever came
+after that was going to be easier.
+
+That's what getting on the Internet is like.  You may have to dial a
+local access number, get your modem settings right, and type the right
+magic combination of words; but after all that, actually *using* the
+Internet is simple.  We'll talk you through the initial steps--after a
+while (and some frustration) it will be as unconscious as unlocking your
+front door or tuning a television set.
+
+The second problem is a little more substantial.  Using the Internet,
+you can get yourself into situations that are, well, experimental.
+Because the Internet gives you the freedom to "go anywhere" and "do
+anything"--at least if you know the passwords--you can uncover strange
+incompatibilities and unfamiliar systems.  I call this experience "shell
+shock".  At some point you will likely find yourself face to face with a
+computer program that expects you to type a command you don't happen to
+know.
+
+You can mostly avoid such situations by only trying things about which
+you have good information.  The situation is not much different from
+using a telephone:  if you stick to well-worn paths like dialing local
+numbers or simple long distance calls, you will have little trouble; but
+if you start dialing other countries or special numbers you may be in
+for a surprise or two.
+
+When you do log on to a new (previously unknown) computer, you can
+expect to come face to face with something called a "shell prompt".
+Shell prompts look like this:
+
+     %        (or some other obscure symbol, like a dollar-sign)
+
+or this:
+
+     mail>    (a favourite--means you're in some sort of mail program)
+
+or like this:
+
+     prez23:
+
+(means 23rd command since you logged into computer "prez").
+
+A prompt means the other computer expects you to type a command for its
+"shell", or "command interpreter".  The shell is the outer layer that
+you, the user, interact with.
+
+Two other types of "user interfaces" you might encounter are:
+
+  o  menu systems that give you choice of numbers
+
+  o  "window" systems or graphical user interfaces (GUIs, pronounced
+"gooey").
+
+Menu systems are popular on bulletin board services, and usually present
+no problem to the novice.  Their weakness is that they get cloying after
+about five minutes.  Most menu systems that are designed to be used for
+that length of time or longer have a "command mode", where you get--you
+guessed it--a shell prompt.
+
+Even windowing systems (you know if you have one of these) very often
+give you a window that "emulates a terminal", i.e. that gives you a
+shell prompt inside.
+
+So, you see, in each of the three common user interfaces--command line,
+menu-driven, or graphical user interface--you will likely encounter, at
+some time in your life, a shell prompt.  Advice on things that will
+likely work to get you started is given here and in Appendix A.  Some
+experience of other kinds of computers, especially computers that use
+the UNIX operating system is useful.  Some tips about using UNIX and
+other operating systems you may not have encountered before is given in
+Appendix D.
+
+If you do get stuck, whether by being experimental or just by accident,
+it is helpful to remember a few points:
+
+  o  You can always disconnect from a remote service by using your
+communications software to "hang up".
+
+  o  If the computer gives you a strange symbol like a percent sign or a
+dollar sign and just sits and stares at you, you can try "help" or "?"
+to try to find out what the computer expects, or else try "exit",
+"quit", "bye", "logoff", or something similar, to return to where you
+were before.
+
+  o  Many times, when you log on to a system, you will get instructions
+on how to get further help or how to "escape" back to your own system.
+You should remember these or write them down!
+
+  o  As a last resort, exit the communications program (and all other
+active programs) and shut off your computer, turn off your modem, and
+disconnect it from the phone line.  Be sure to do these steps in the
+order prescribed.  It is unwise (though tempting) to simply turn your
+computer off and on, or to pull the plug on your modem with your
+computer running.
+
+More suggestions for the inexperienced are given in Appendix A.
+
+ 
+The final hurdle to using the Internet is that the world, even the world
+of the Internet, is indeed a very large place.  When using the Internet
+you have to decide:
+
+  o  where to go;
+
+  o  what information you want (and where it might be); and
+
+  o  how to get to it (and get it back home intact).
+
+For a system as vast as the Internet, these are hard decisions.  Often,
+the only strategy that works is to explore and try different things.
+This course is designed to get you over the initial hurdles, give you a
+fair grounding in methods that work, and point you in the right
+direction.  The exploration is up to you.  As an initial orientation, we
+describe the "three worlds of the known Internet" in the next section.
+
+ 
+<Section 2.2>  The Three Worlds of the Known Internet
+
+The Internet, like ancient Gaul, is divided into three parts.  These
+parts are not so much territories as worlds, each with their own sets of
+assumptions, favorite dialects, and favored equipment.  We may
+conveniently refer to them as the "PC world", the "UNIX world", and the
+"Mainframe world".  Here's a dossier on each of the three worlds:
+
+     World:  Personal Computer (PC)
+     Typical Equipment:  IBM PC and clones (85%) , Macintosh (15%)
+     Conventional Operating Systems:  MS-DOS, OS/2
+     Windowing Systems:  Windows, MacOS
+     Typical Size:  PC ($1k to $5k typical; few $100 used)
+     Clientele:  Mixed--Business, Home users, just about everybody
+
+     World:  (mostly UNIX) workstation
+     Typical Equipment:  Sun Workstation, VAXStations, other vendors
+     Conventional Operating Systems:  UNIX (two major dialects), VMS
+     Windowing System:  X Windows
+     Typical Size:  Workstation ($5k and up)
+     Clientele:  Engineering/Scientific users; more and more businesses
+
+     World:  Mainframe or Minicomputer
+     Typical Equipment:  IBM (various), Digital Equipment VAXes
+     Conventional Operating Systems:  VM, VMS, UNIX
+     Windowing Systems:  X Windows, if available
+     Typical Size:  Minicomputer or Mainframe ($10k to millions)
+     Clientele:  Big Business, Universities, Government
+
+The neat picture of three worlds is distorted somewhat by a tendency for
+each of the worlds to have two (or a few) major options, either in
+choice of equipment, operating system, or vendor.  So, for example, the
+PC world is split into two camps, the MS-DOS people and the Mac people.
+Similarly, the UNIX world is split into the "BSD" workstations and
+"System V" (i.e. "5") workstations.
+
+The three worlds are reflected somewhat in networking.  The Internet is
+dominated by minicomputers and workstations running UNIX and VMS, with
+an ever increasing influx of PCs running MS-DOS and Macs.  Machines
+running other operating systems often put a "UNIX-like" foot forward, so
+the user can almost believe he or she is dealing with UNIX machines.
+There is a certain sense that the UNIX software is the standard for the
+Internet.  Software tends to appear on UNIX machines first and then be
+"ported" to other machines.
+
+What makes it possible for all these disparate machines to talk to each
+other is the "Internet Protocol" (known more formally as TCP/IP, for
+Transport Control Protocol/Internet Protocol).  TCP/IP can be thought of
+as a set of rules for two computers to use when they communicate with
+each other, even if they are not from the same vendor.
+
+We are used to thinking of computer systems as having "software" and
+"hardware", but it is closer to the truth to say that complicated
+systems like the Internet have many levels--in the case of the Internet
+as many as seven--ranging from "very software" to "very hardware".  Each
+level has its own set of rules, called its protocol.  The TCP/IP
+protocol belongs to two of the middle levels.  At the moment, the most
+common protocol for the two most "very hardware" levels is "Ethernet"
+(looks rather like the coaxial cable used for cable TV), while the "very
+software" levels are completely dependent on the vendor.  In fact, it is
+this profusion of levels which lets the Internet work on just about any
+kind of hardware and with software from many different vendors.
+
+Anyway, the Internet grew up as several medium-sized networks, all
+having diffent "very hardware" and "very software", but using the TCP/IP
+protocol for their middle layers, were connected together.  Two of the
+first, and biggest, nets to adopt the Internet Protocol were ARPAnet--
+Internet was first designed for this one--the network for what used to
+be called DARPA (the Defense Advanced Research Projects Agency of the
+U.S. Department of Defense), and NSFnet, a network connecting
+universities and government laboratories for the U.S. National Science
+Foundation.  These and other large networks form the "backbone" of the
+Internet.  But today there are hundreds of smaller nets hooked on to the
+backbones.
+
+There *are* big networks that don't use TCP/IP.  For example, in the
+context of IBM mainframes at large universities and research
+institutions, BITnet (The "Because It's Time" Network) emerged.  This
+large worldwide network does not use the Internet protocol.  BITnet can
+be reached from the Internet through special translators called
+gateways, but it is definitely a different network.  Occasionally one
+encounters problems that can be traced to this fact.
+
+ 
+<Section 2.3>  The Future of the Internet
+
+The future of any technology is difficult to forcast, and I do not
+profess to know what the future holds for the Internet.  Some
+predictions that various forcasters have made for internetworking (and
+telecommunications in general) are:
+
+  o  A proposal for a data "superhighway" called the NREN (National
+Research and Education Network) will pass the U.S. Congress.  This is an
+upgrade for the Internet.
+
+  o  Commercial use of the Internet will become more common and new
+schemes for charging for its use will emerge.
+
+  o  The Internet will be handed by the government over to AT&T and the
+other "telecoms", who will charge so much to access it that the whole
+scheme will collapse.
+
+  o  Optical Fiber will replace Coaxial Cable (Ethernet protocol) as the
+most common standard for LANs.
+
+  o  The Internet will enter the home over ordinary phone lines.
+
+  o  The Internet will enter the home over existing Cable TV coaxial
+cable.
+
+  o  The Internet will enter the home through newly strung optical fiber
+as part of a unified system for Telephony, Cable TV, and the data
+communication, using [insert your favorite protocol here] as a standard.
+
+  o  Personal Computers will replace telephones, answering machines,
+stereos, CD players, and VCRs--maybe even TV!--as a single, universal
+device for home use.  Sounds like a good thing to connect to the NREN.
+
+  o  Computer and telephone technology will become so intertwined that
+it is hard to tell the difference.  One product, already on the market,
+is described as "[a handheld] alphanumeric pager, an XT-compatible
+computer with a backlit screen and PCMCIA Type III slot, a fax/modem, a
+cellular and land-line phone, and a voice recorder"!
+
+You are welcome to believe all or none of these predictions.
+
+ 
+<Chapter 3>  How Do I Connect To the Internet?
+
+Connecting to the Internet involves several steps:
+
+  (1) Getting your modem and communications software working together
+
+  (2) Connecting to a provider over the phone lines (or a LAN)
+
+  (3) Using Internet services
+
+For the first step you will have to rely on the manuals that came with
+your modem and software.  Appendix B contains a discussion of some of
+the obscurer terminology associated with modem settings.  You might want
+to read it if your manual is not well written.
+
+Actually, you do not have to know about the second step in great detail.
+Mostly it is a matter of knowing enough to intellegently choose a
+provider.  Each provider will have a specific set of steps--modem
+settings, access numbers, passwords, etc.--that you need to follow in
+order to get from you to the provider.  Don't lose hope!  Once you get
+there you've finished the hardest part.  Chapter 6 contains very
+explicit instructions for connecting to one particular service, DELPHI.
+
+Step 3 is the subject of the rest of this course--what you can do once
+you're on.  The basics are discussed in the next chapter.
+
+ 
+<Section 3.1>  Connection Methods
+
+In theory, there are three ways to connect to the Internet from a
+personal computer or workstation:
+
+  (1) Your PC may have a direct connection.  This means that it is part
+of a Local Area Network (LAN) that is in turn connected to one of the
+component Wide Area Networks of the Internet.  Your computer will have
+its own Internet Protocol (IP) Address.  This type of connection is
+common in offices, especially of high-tech firms, but definitely not for
+home use.
+
+  (2) You may have a connection to a "host" computer that is directly
+connected to the net.  If you can use a modem to connect your home PC to
+the mainframe at the office and the mainframe is on the net, then you
+can get an Internet connection that way.  But what if your office
+doesn't have a mainframe on the net?  You can still subscribe to a
+service that makes a host computer available to the public.  This is
+presently the cheapest and most common method for public access to the
+net.
+
+  (3) There is a connection method in between cases (1) and (2) called a
+Serial Line Internet Protocol (SLIP) connection.  You dial up a special
+host computer--just like case (2)--called a SLIP-server.  The difference
+is that the SLIP server gives you a temporary IP address and talks to
+your computer using the Internet Protocol.  This requires your
+computer's software to speak SLIP.  Your computer thinks it is using
+case (1) even though your actual connection is closer to step 2.  The
+advantage of fooling your terminal into thinking it has a direct
+connection is that it can use all the fancy, free software developed for
+computers with direct connections.
+
+The software for a SLIP connection is being built into all new
+communications software.  If you just bought or upgraded your software,
+you probably have SLIP capability already.  The catch?  SLIP is too slow
+on a cheap 2400 baud modem.  But if you buy a fast FAX modem it works
+fine.  That's one reason that a $350 FAX modem is a good investment.  It
+is fast enough for SLIP and gives you the ability to send and receive
+FAXes as well.
+
+SLIP technology is still rather new and somewhat experimental, so this
+discussion will focus on the old reliable--method 2.  How do you find a
+service that will give the public access to the Internet?
+
+Depending on where you live, you may have a provider you can call in
+your local area code.  If not, then most of your problem will be finding
+the cheapest way to make a long distance phone call.  This book does not
+have a list of providers, since such a list will get out of date
+rapidly.  Instead, it gives you one cheap way to get on the Internet,
+then gives you instructions on how to find out who the providers are and
+what their rates are.  I would rather teach you how to look out for
+yourself than just give you some outdated advice.  This method also has
+the advantage that one set of instructions works for everybody.  That
+wouldn't be true if I listed 20 or 30 providers.  Instructions are given
+in "Gettin on the Internet Step by Step."
+
+ 
+<Section 3.2>  Types of Internet Providers
+
+As I said, most of the problem of getting on the net occurs when you
+live in an area that doesn't have a LOCAL provider.  Basically there are
+three kinds of providers and three ways to get to them:
+
+  (1) Providers of direct connections.  If you are setting up a business
+and need a high volume direct connection for your office Local Area
+Network and can afford several thousand a year at least, you will want
+to consider these high-end providers.  They are not relevant to our
+discussion.  (But see Appendix C for more information).
+
+  (2) There are several regional networks and one national one that
+specialize in low cost PC-to-host or SLIP connections.  Costs range from
+$20-40 a month to $2000 a year, depending on the services you need.
+Performance Systems International (PSI) is a major provider of this kind
+of service.  Other networks offer services similar to PSI, although PSI
+has the most extensive nationwide service at this time.  This service
+can be very competitive with BBS type service (see below) if you are a
+frequent user of the net or need to send more than an occasional E-mail
+message.  It is definitely worth a look.
+
+  (3) Many computer bulletin board services offer E-mail or even
+Internet connections for around $10-20 per month.  Be very careful to
+check out the connection charges.  If you are not careful you could be
+charged for using the bulletin board (per hour), using the Internet, the
+long-distance connection, a surcharge for daytime use, and a per message
+charge for E-mail!  One of the purposes of this book is to explain the
+minefield of charges so you don't get burned.  The service recommended
+bundles all the charges up front so there are no surprises.
+
+Generally speaking, connecting to the Internet through a BBS is the best
+method for the explorer.  Once you've determined that you need the
+Internet on a regular basis, one of the regional networks or PSI is
+probably the most economical route.
+
+Unless you are fortunate enough to live in an area where an Internet
+provider is a local call away, you will have to contend with long
+distance charges.  Actually, these can be as low as $2 an hour and are
+sometimes bundled in with the network connection charge.
+
+ 
+<Section 3.3>  Finding the Cheapest Long Distance Method
+
+There are three basic methods of paying for long distance:
+
+  (1)  You just pay for a call to another area code.  This is very
+expensive and not recommended.
+
+  (2)  You use a provider with a toll free (800) number and pay for the
+call in a higher connect charge.  This is also very expensive.
+
+  (3)  You use a Public Data Network after hours and pay around $2 an
+hour (may be included).
+
+Actually, the last method is the only workable one.  There are a number
+of PDN's.
+
+  CompuServe has a data network.  You do not have to join CompuServe to
+use it.
+
+  PSI has its own data network with many points of presence around the
+US and abroad.  These are divided into Class A and Class B, depending on
+the level of service provided.
+
+  Tymenet and SprintNet are two other public data networks.  You may
+have heard of the SprintNet service PC Pursuit.  For a monthly fee this
+gives you many BBS nationwide as well as any computer that can be
+reached by SprintNet.
+
+In general, for a first experiment we recommend the DELPHI BBS and
+SprintNet.  DELPHI includes the SprintNet surcharge in its $13/month
+bill (after hours use only--daytime is expensive everywhere).  At this
+writing you get 5 free hours the first month and 4 hours per month after
+that.  Additional hours are $4 each.  There is also a 20 hours for $20
+plan.  Additional hours are $2 each with this plan.  Detailed
+instructions on how to sign up are given in "Connecting to the Internet
+Step by Step."
+
+ 
+<Chapter 4>  Who Pays for the Internet?
+
+All this talk of cost may be making you edgy.  Eventually, everyone
+using the Internet must face the fear--if I am calling up a computer in
+Switzerland won't I be billed for the call?  The marvelous thing about
+the Internet is that although there is plenty of expense involved in
+getting on it, there is no additional expense associated with what you
+do after you are connected.  THE WHOLE WORLD IS ON LOCAL.  Thus, you may
+have to pay for a $2 an hour call to Massachussetts, for your PC, your
+modem and software, and a connect fee to your internet provider.  But
+you DO NOT HAVE TO PAY FOR EACH AND EVERY INTERNET CALL.
+
+Since most people find it hard to believe that you can send mail
+anywhere in the world or dial up a computer on the other side of the
+globe without paying a special charge, I will spend some time explaining
+who does pay for the Internet and how those costs are reflected back to
+the user.  One way or another you do pay for network usage, but these
+payments are not in the form of a direct billing for each call.
+
+First, you already know that there is no Internet, Inc. that monitors
+all the calls and bill customers.  Instead there are hundreds of smaller
+networks that act as relays.  Those networks *could* charge their
+customers for each call, based on how much time it takes and where it
+goes, but since no one is charging them, they have no real incentive to
+pass on costs.  Instead they charge a flat fee--usually based on connect
+time, but for a 24 hour connection just a flat yearly fee.
+
+Now network traffic does use up resources.  Basically, the Internet
+works like a potluck supper.  Everyone with a direct connection allows
+some of their system resources to be used by messages that are just
+"passing through".  They allow this because other systems allow them the
+same privilege.  Thus, it is in everyone's interest to allow some of
+their resources to be consumed by other persons' messages, because
+everyone comes out ahead.
+
+So, sites with direct connections pay real costs in terms of lost
+computing cycles, extra cabling, fancier equipment, and lost disk space.
+These costs are passed on to their customers or shouldered by government
+subsidy.  But there are no direct charges associated with using the
+system.
+
+In the early days of the Internet, Government subsidy of the backbone
+networks was crucial.  The backbone was built with government funds and
+it was government funds that paid for the extra equipment needed by the
+universities and laboratories that carried more traffic than they
+generated.  With the development of commercial nets alternatives to the
+Government-sponsored backbone arose.  The Government subsidy is still
+important, but becomming less so every year.
+
+So, the short answer is that you pay for the network.  You either pay
+your provider a flat fee or you pay as a taxpayer for Government
+subsidized network resources.  Most of the cost you actually see will be
+in your own equipment, the cost of placing a phone call, and whatever
+your provider charges you.
+
+ 
+
+<Chapter 5>  Internet Basics
+
+We've talked a lot about the Internet, but how do you actually use it?
+There are three basic skills on which all Internet use is based:
+
+  Electronic Mail (E-mail)
+
+  File Transfer Protocol (FTP)
+
+  Telnet
+
+All three commands rely on the Internet addressing scheme.  An Internet
+"telephone number" of another computer is its Internet Protocol (IP)
+address, a number that looks like this:
+
+     225.225.12.38
+
+This form, called "dotted decimal," is still required by some computers.
+But, to make IP addresses easier for humans, this telephone number has
+another form which is easier to remember:
