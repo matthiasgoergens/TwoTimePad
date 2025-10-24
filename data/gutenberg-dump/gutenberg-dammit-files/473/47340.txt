@@ -1,0 +1,528 @@
+[Illustration: _Many buildings in Charleston, South Carolina, were
+damaged or destroyed by the large earthquake that occurred August 31,
+1886._]
+
+
+
+
+        U.S. Department of the Interior / U.S. Geological Survey
+
+
+
+
+                              Earthquakes
+
+
+                        _by Kaye M. Shedlock and
+                           Louis C. Pakiser_
+
+
+            For sale by the U.S. Government Printing Office
+                      Superintendent of Documents
+               Mail Stop: SSOP, Washington, DC 20402-9328
+
+One of the most frightening and destructive phenomena of nature is a
+severe earthquake and its terrible aftereffects. An earthquake is a
+sudden movement of the Earth, caused by the abrupt release of strain
+that has accumulated over a long time. For hundreds of millions of
+years, the forces of plate tectonics have shaped the Earth as the huge
+plates that form the Earth's surface slowly move over, under, and past
+each other. Sometimes the movement is gradual. At other times, the
+plates are locked together, unable to release the accumulating energy.
+When the accumulated energy grows strong enough, the plates break free.
+If the earthquake occurs in a populated area, it may cause many deaths
+and injuries and extensive property damage.
+
+Today we are challenging the assumption that earthquakes must present an
+uncontrollable and unpredictable hazard to life and property. Scientists
+have begun to estimate the locations and likelihoods of future damaging
+earthquakes. Sites of greatest hazard are being identified, and definite
+progress is being made in designing structures that will withstand the
+effects of earthquakes.
+
+[Illustration: _USGS scientist uses portable seismic recording equipment
+near Mount St. Helens, Washington._]
+
+
+
+
+                         Earthquakes in History
+
+
+The scientific study of earthquakes is comparatively new. Until the 18th
+century, few factual descriptions of earthquakes were recorded, and the
+natural cause of earthquakes was little understood. Those who did look
+for natural causes often reached conclusions that seem fanciful today;
+one popular theory was that earthquakes were caused by air rushing out
+of caverns deep in the Earth's interior.
+
+The earliest earthquake for which we have descriptive information
+occurred in China in 1177 B.C. The Chinese earthquake catalog describes
+several dozen large earthquakes in China during the next few thousand
+years. Earthquakes in Europe are mentioned as early as 580 B.C., but the
+earliest for which we have some descriptive information occurred in the
+mid-16th century. The earliest known earthquakes in the Americas were in
+Mexico in the late 14th century and in Peru in 1471, but descriptions of
+the effects were not well documented. By the 17th century, descriptions
+of the effects of earthquakes were being published around the
+world--although these accounts were often exaggerated or distorted.
+
+The most widely felt earthquakes in the recorded history of North
+America were a series that occurred in 1811-12 near New Madrid, Mo. A
+great earthquake, whose magnitude is estimated to be about 8, occurred
+on the morning of December 16, 1811. Another great earthquake occurred
+on January 23, 1812, and a third, the strongest yet, on February 7,
+1812. Aftershocks were nearly continuous between these great earthquakes
+and continued for months afterwards. These earthquakes were felt by
+people as far away as Boston and Denver. Because the most intense
+effects were in a sparsely populated region, the destruction of human
+life and property was slight. If just one of these enormous earthquakes
+occurred in the same area today, millions of people and buildings and
+other structures worth billions of dollars would be affected.
+
+[Illustration: _The great 1906 San Francisco earthquake and fire
+destroyed most of the city and left 250,000 people homeless._]
+
+The San Francisco earthquake of 1906 was one of the most destructive in
+the recorded history of North America--the earthquake and the fire that
+followed killed nearly 700 people and left the city in ruins. The Alaska
+earthquake of March 27, 1964, was of greater magnitude than the San
+Francisco earthquake; it released perhaps twice as much energy and was
+felt over an area of almost 500,000 square miles. The ground motion near
+the epicenter was so violent that the tops of some trees were snapped
+off. One hundred and fourteen people (some as far away as California)
+died as a result of this earthquake, but loss of life and property would
+have been far greater had Alaska been more densely populated.
+
+
+
+
+                        Where Earthquakes Occur
+
+
+The Earth is formed of several layers that have very different physical
+and chemical properties. The outer layer, which averages about 70
+kilometers in thickness, consists of about a dozen large, irregularly
+shaped plates that slide over, under, and past each other on top of the
+partly molten inner layer. Most earthquakes occur at the boundaries
+where the plates meet. In fact, the locations of earthquakes and the
+kinds of ruptures they produce help scientists define the plate
+boundaries.
+
+[Illustration: Diagram of plate boundaries and earthquake locations.]
+
+There are three types of plate boundaries: spreading zones, transform
+faults, and subduction zones. At _spreading zones_, molten rock rises,
+pushing two plates apart and adding new material at their edges. Most
+spreading zones are found in oceans; for example, the North American and
+Eurasian plates are spreading apart along the mid-Atlantic ridge.
+Spreading zones usually have earthquakes at shallow depths (within 30
+kilometers of the surface).
+
+_Transform faults_ are found where plates slide past one another. An
+example of a transform-fault plate boundary is the San Andreas fault,
+along the coast of California and northwestern Mexico. Earthquakes at
+transform faults tend to occur at shallow depths and form fairly
+straight linear patterns.
+
+[Illustration: Map explanation: yellow lines, plate Boundary.]
+
+_Subduction zones_ are found where one plate overrides, or subducts,
+another, pushing it downward into the mantle where it melts. An example
+of a subduction-zone plate boundary is found along the northwest coast
+of the United States, western Canada, and southern Alaska and the
+Aleutian Islands. Subduction zones are characterized by deep-ocean
+trenches, shallow to deep earthquakes, and mountain ranges containing
+active volcanoes.
+
+Earthquakes can also occur within plates, although plate-boundary
+earthquakes are much more common. Less than 10 percent of all
+earthquakes occur within plate interiors. As plates continue to move and
+plate boundaries change over geologic time, weakened boundary regions
+become part of the interiors of the plates. These zones of weakness
+within the continents can cause earthquakes in response to stresses that
+originate at the edges of the plate or in the deeper crust. The New
+Madrid earthquakes of 1811-12 and the 1886 Charleston earthquake
+occurred within the North American plate.
+
+[Illustration: Damaged house.]
+
+
+
+
+                         How Earthquakes Happen
+
+
+An earthquake is the vibration, sometimes violent, of the Earth's
+surface that follows a release of energy in the Earth's crust. This
+energy can be generated by a sudden dislocation of segments of the
+crust, by a volcanic eruption, or even by manmade explosions. Most
+destructive quakes, however, are caused by dislocations of the crust.
+The crust may first bend and then, when the stress exceeds the strength
+of the rocks, break and "snap" to a new position. In the process of
+breaking, vibrations called "seismic waves" are generated. These waves
+travel outward from the source of the earthquake along the surface and
+through the Earth at varying speeds depending on the material through
+which they move. Some of the vibrations are of high enough frequency to
+be audible, while others are of very low frequency. These vibrations
+cause the entire planet to quiver or ring like a bell or a tuning fork.
+
+A _fault_ is a fracture in the Earth's crust along which two blocks of
+the crust have slipped with respect to each other. Faults are divided
+into three main groups, depending on how they move. _Normal faults_
+occur in response to pulling or tension; the overlying block moves down
+the dip of the fault plane. _Thrust (reverse) faults_ occur in response
+to squeezing or compression; the overlying block moves up the dip of the
+fault plane. _Strike-slip (lateral) faults_ occur in response to either
+type of stress; the blocks move horizontally past one another. Most
+faulting along spreading zones is normal, along subduction zones is
+thrust, and along transform faults is strike-slip.
+
+[Illustration: _Normal Fault. Blocks are pulled apart_]
+
+[Illustration: _Thrust Fault. Blocks are pushed together_]
+
+[Illustration: _Strike-Slip Fault. Blocks slide past each other_]
+
+Geologists have found that earthquakes tend to reoccur along faults,
+which reflect zones of weakness in the Earth's crust. Even if a fault
+zone has recently experienced an earthquake, however, there is no
+guarantee that all the stress has been relieved. Another earthquake
+could still occur. In New Madrid, a great earthquake was followed by a
+large aftershock within 6 hours on December 16, 1811. Furthermore,
+relieving stress along one part of the fault may increase stress in
+another part; the New Madrid earthquakes in January and February 1812
+may have resulted from this phenomenon.
+
+[Illustration: Diagram of Earth's layers and seismic wave propagation.]
+
+The _focal depth_ of an earthquake is the depth from the Earth's surface
+to the region where an earthquake's energy originates (the _focus_).
+Earthquakes with focal depths from the surface to about 70 kilometers
+(43.5 miles) are classified as shallow. Earthquakes with focal depths
+from 70 to 300 kilometers (43.5 to 186 miles) are classified as
+intermediate. The focus of deep earthquakes may reach depths of more
+than 700 kilometers (435 miles). The focuses of most earthquakes are
+concentrated in the crust and upper mantle. The depth to the center of
+the Earth's core is about 6,370 kilometers (3,960 miles), so even the
+deepest earthquakes originate in relatively shallow parts of the Earth's
+interior.
+
+The _epicenter_ of an earthquake is the point on the Earth's surface
+directly above the focus. The location of an earthquake is commonly
+described by the geographic position of its epicenter and by its focal
+depth.
+
+Earthquakes beneath the ocean floor sometimes generate immense sea waves
+or tsunamis (Japan's dread "huge wave"). These waves travel across the
+ocean at speeds as great as 960 kilometers per hour (597 miles per hour)
+and may be 15 meters (49 feet) high or higher by the time they reach the
+shore. During the 1964 Alaska earthquake, tsunamis engulfing coastal
+areas caused most of the destruction at Kodiak, Cordova, and Seward and
+caused severe damage along the west coast of North America, particularly
+at Crescent City, Calif. Some waves raced across the ocean to the coasts
+of Japan.
+
+[Illustration: _Tsunami destruction on Kamehameha Avenue on Hilo's
+waterfront, 1946._ (Photograph provided by the U.S. Army Corps of
+Engineers.)]
+
+_Liquefaction_, which happens when loosely packed, water-logged
+sediments lose their strength in response to strong shaking, causes
+major damage during earthquakes. During the 1989 Loma Prieta earthquake,
+liquefaction of the soils and debris used to fill in a lagoon caused
+major subsidence, fracturing, and horizontal sliding of the ground
+surface in the Marina district in San Francisco.
+
+[Illustration: _Liquefaction of sands and debris caused major damage
+throughout the Marina district in San Francisco during the Loma Prieta
+earthquake._]
+
+Landslides triggered by earthquakes often cause more destruction than
+the earthquakes themselves. During the 1964 Alaska quake, shock-induced
+landslides devastated the Turnagain Heights residential development and
+many downtown areas in Anchorage. An observer gave a vivid report of the
+breakup of the unstable earth materials in the Turnagain Heights region:
+_I got out of my car, ran northward toward my driveway, and then saw
+that the bluff had broken back approximately 300 feet southward from its
+original edge. Additional slumping of the bluff caused me to return to
+my car and back southward approximately 180 feet to the corner of
+McCollie and Turnagain Parkway. The bluff slowly broke until the corner
+of Turnagain Parkway and McCollie had slumped northward._
+
+[Illustration: _Many homes were damaged by landslides triggered by the
+1964 Alaska earthquake (above) and the 1989 Loma Prieta shock (below)._]
+
+[Illustration: Home damaged by landslide triggered by the 1989 Loma
+Prieta shock.]
+
+[Illustration: Scientist examining seismographic equipment.]
+
+
+
+
+                         Measuring Earthquakes
+
+
+The vibrations produced by earthquakes are detected, recorded, and
+measured by instruments called seismographs. The zig-zag line made by a
+seismograph, called a "seismogram," reflects the changing intensity of
+the vibrations by responding to the motion of the ground surface beneath
+the instrument. From the data expressed in seismograms, scientists can
+determine the time, the epicenter, the focal depth, and the type of
+faulting of an earthquake and can estimate how much energy was released.
+
+The two general types of vibrations produced by earthquakes are _surface
+waves_, which travel along the Earth's surface, and _body waves_, which
+travel through the Earth. Surface waves usually have the strongest
+vibrations and probably cause most of the damage done by earthquakes.
+
+Body waves are of two types, _compressional_ and _shear_. Both types
+pass through the Earth's interior from the focus of an earthquake to
+distant points on the surface, but only compressional waves travel
+through the Earth's molten core. Because compressional waves travel at
+great speeds and ordinarily reach the surface first, they are often
+called "primary waves" or simply "P" waves. P waves push tiny particles
+of Earth material directly ahead of them or displace the particles
+directly behind their line of travel.
+
+Shear waves do not travel as rapidly through the Earth's crust and
+mantle as do compressional waves, and because they ordinarily reach the
+surface later they are called "secondary" or "S" waves. Instead of
+affecting material directly behind or ahead of their line of travel,
+shear waves displace material at right angles to their path and are
+therefore sometimes called "transverse" waves.
+
+[Illustration: Diagram of propagation of seismic waves.]
+
+The first indication of an earthquake is often a sharp thud, signaling
+the arrival of compressional waves. This is followed by the shear waves
+and then the "ground roll" caused by the surface waves. A geologist who
+was at Valdez, Alaska, during the 1964 earthquake described this
+sequence: _The first tremors were hard enough to stop a moving person,
+and shock waves were immediately noticeable on the surface of the
+ground. These shock waves continued with a rather long frequency, which
+gave the observer an impression of a rolling feeling rather than abrupt
+hard jolts. After about 1 minute the amplitude or strength of the shock
+waves increased in intensity and failures in buildings as well as the
+frozen ground surface began to occur.... After about 3-1/2 minutes the
+severe shock waves ended and people began to react as could be
+expected._
+
+[Illustration: _Large earthquakes cause more damage east of the Rocky
+Mountains; this map shows areas that suffered major architectural damage
+(striped areas) and minor damage (dotted areas) during the magnitude-8
+earthquakes in New Madrid and San Francisco and the smaller but still
+damaging quakes in Charleston and San Fernando._]
+
+The severity of an earthquake can be expressed in several ways. The
+_magnitude_ of an earthquake, usually expressed by the _Richter Scale_,
+is a measure of the amplitude of the seismic waves. The _moment
+magnitude_ of an earthquake is a measure of the amount of energy
+released--an amount that can be estimated from seismograph recordings.
+The _intensity_, as expressed by the _Modified Mercalli Scale_, is a
+subjective measure that describes how strong a shock was felt at a
+particular location.
+
+The Richter Scale, named after Dr. Charles F. Richter of the California
+Institute of Technology, is the best known scale for measuring the
+magnitude of earthquakes. The scale is logarithmic so that a recording
+of 7, for example, indicates a disturbance with ground motion 10 times
+as large as a recording of 6. A quake of magnitude 2 is the smallest
+quake normally felt by people. Earthquakes with a Richter value of 6 or
+more are commonly considered major; great earthquakes have magnitudes of
+8 or more on the Richter scale.
+
+The Modified Mercalli Scale expresses the intensity of an earthquake's
+effects in a given locality in values ranging from I to XII. The most
+commonly used adaptation covers the range of intensity from the
+condition of "I--Not felt except by a very few under especially
+favorable conditions," to "XII--Damage total. Lines of sight and level
+are distorted. Objects thrown upward into the air." Evaluation of
+earthquake intensity can be made only after eyewitness reports and
+results of field investigations are studied and interpreted. The maximum
+intensity experienced in the Alaska earthquake of 1964 was X; damage
+from the San Francisco and New Madrid earthquakes reached a maximum
+intensity of XI.
+
+[Illustration: _The January 17, 1994, earthquake at Northridge,
+California, caused this collapse of a major highway interchange._
+(Photograph by James W. Dewey, USGS.)]
+
+Earthquakes of large magnitude do not necessarily cause the most intense
+surface effects. The effect in a given region depends to a large degree
+on local surface and subsurface geologic conditions. An area underlain
+by unstable ground (sand, clay, or other unconsolidated materials), for
+example, is likely to experience much more noticeable effects than an
+area equally distant from an earthquake's epicenter but underlain by
+firm ground such as granite. In general, earthquakes east of the Rocky
+Mountains affect a much larger area than earthquakes west of the
+Rockies.
+
+An earthquake's destructiveness depends on many factors. In addition to
+magnitude and the local geologic conditions, these factors include the
+focal depth, the distance from the epicenter, and the design of
+buildings and other structures. The extent of damage also depends on the
+density of population and construction in the area shaken by the quake.
+
+The Loma Prieta earthquake of 1989 demonstrated a wide range of effects.
+The Santa Cruz mountains suffered little damage from the seismic waves,
+even though they were close to the epicenter. The central core of the
+city of Santa Cruz, about 24 kilometers (15 miles) away from the
+epicenter, was almost completely destroyed. More than 80 kilometers (50
+miles) away, the cities of San Francisco and Oakland suffered selective
+but severe damage, including the loss of more than 40 lives. The
+greatest destruction occurred in areas where roads and elevated
+structures were built on unstable ground underlain by loose,
+unconsolidated soils.
+
+The Northridge, California, earthquake of 1994 also produced a wide
+variety of effects, even over distances of just a few hundred meters.
+Some buildings collapsed, while adjacent buildings of similar age and
+construction remained standing. Similarly, some highway spans collapsed,
+while others nearby did not.
+
+[Illustration: _A sudden increase in earthquake tremors signaled the
+beginning of a series of eruptions at Redoubt Volcano in 1989-90._]
+
+
+
+
+                       Volcanoes and Earthquakes
+
+
+Earthquakes are associated with volcanic eruptions. Abrupt increases in
+earthquake activity heralded eruptions at Mount St. Helens, Washington;
+Mount Spurr and Redoubt Volcano, Alaska; and Kilauea and Mauna Loa,
+Hawaii. The location and movement of swarms of tremors indicate the
+movement of magma through the volcano. Continuous records of seismic and
+tiltmeter (a device that measures ground tilting) data are maintained at
+U.S. Geological Survey volcano observatories in Hawaii, Alaska,
+California, and the Cascades, where study of these records enables
+specialists to make short-range predictions of volcanic eruptions. These
+warnings have been especially effective in Alaska, where the imminent
+eruption of a volcano requires the rerouting of international air
+traffic to enable airplanes to avoid volcanic clouds. Since 1982, at
+least seven jumbo jets, carrying more than 1,500 passengers, have lost
+power in the air after flying into clouds of volcanic ash. Though all
+flights were able to restart their engines eventually and no lives were
+lost, the aircraft suffered damages of tens of millions of dollars. As a
+result of these close calls, an international team of volcanologists,
+meteorologists, dispatchers, pilots, and controllers have begun to work
+together to alert each other to imminent volcanic eruptions and to
+detect and track volcanic ash clouds.
+
+
+
+
+                         Predicting Earthquakes
+
+
+The goal of earthquake prediction is to give warning of potentially
+damaging earthquakes early enough to allow appropriate response to the
+disaster, enabling people to minimize loss of life and property. The
+U.S. Geological Survey conducts and supports research on the likelihood
+of future earthquakes. This research includes field, laboratory, and
+theoretical investigations of earthquake mechanisms and fault zones. A
+primary goal of earthquake research is to increase the reliability of
+earthquake probability estimates. Ultimately, scientists would like to
+be able to specify a high probability for a specific earthquake on a
+particular fault within a particular year. Scientists estimate
+earthquake probabilities in two ways: by studying the history of large
+earthquakes in a specific area and the rate at which strain accumulates
+in the rock.
+
+Scientists study the past frequency of large earthquakes in order to
+determine the future likelihood of similar large shocks. For example, if
+a region has experienced four magnitude 7 or larger earthquakes during
+200 years of recorded history, and if these shocks occurred randomly in
+time, then scientists would assign a 50 percent probability (that is,
+just as likely to happen as not to happen) to the occurrence of another
+magnitude 7 or larger quake in the region during the next 50 years.
+
+But in many places, the assumption of random occurrence with time may
+not be true, because when the strain is released along one part of the
+fault system, it may actually increase on another part. Four magnitude
+6.8 or larger earthquakes and many magnitude 6-6.5 shocks occurred in
+the San Francisco Bay region during the 75 years between 1836 and 1911.
+For the next 68 years (until 1979), no earthquakes of magnitude 6 or
+larger occurred in the region. Beginning with a magnitude 6.0 shock in
+1979, the earthquake activity in the region increased dramatically;
+between 1979 and 1989, there were four magnitude 6 or greater
+earthquakes, including the magnitude 7.1 Loma Prieta earthquake. This
+clustering of earthquakes leads scientists to estimate that the
+probability of a magnitude 6.8 or larger earthquake occurring during the
+next 30 years in the San Francisco Bay region is about 67 percent (twice
+as likely as not).
+
+Another way to estimate the likelihood of future earthquakes is to study
+how fast strain accumulates. When plate movements build the strain in
+rocks to a critical level, like pulling a rubber band too tight, the
+rocks will suddenly break and slip to a new position. Scientists measure
+how much strain accumulates along a fault segment each year, how much
+time has passed since the last earthquake along the segment, and how
+much strain was released in the last earthquake. This information is
+then used to calculate the time required for the accumulating strain to
+build to the level that results in an earthquake. This simple model is
+complicated by the fact that such detailed information about faults is
+rare. In the United States, only the San Andreas fault system has
+adequate records for using this prediction method.
+
+[Illustration: _Using a two-color laser to detect movement along a fault
+near Parkfield, California._]
+
+Both of these methods, and a wide array of monitoring techniques, are
+being tested along part of the San Andreas fault. For the past 150
+years, earthquakes of about magnitude 6 have occurred an average of
+every 22 years on the San Andreas fault near Parkfield, California. The
+last shock was in 1966. Because of the consistency and similarity of
+these earthquakes, scientists have started an experiment to "capture"
+the next Parkfield earthquake. A dense web of monitoring instruments was
+deployed in the region during the late 1980s. The main goals of the
+ongoing Parkfield Earthquake Prediction Experiment are to record the
+geophysical signals before and after the expected earthquake; to issue a
+short-term prediction; and to develop effective methods of communication
+between earthquake scientists and community officials responsible for
+disaster response and mitigation. This project has already made
+important contributions to both earth science and public policy.
+
+[Illustration: _San Andreas fault in the Carrizo Plain, central
+California._]
+
+Scientific understanding of earthquakes is of vital importance to the
+Nation. As the population increases, expanding urban development and
+construction works encroach upon areas susceptible to earthquakes. With
+a greater understanding of the causes and effects of earthquakes, we may
+be able to reduce damage and loss of life from this destructive
+phenomenon.
+
+[Illustration: _A statue of Christ at Cemetery Hill overlooks the ruined
+town of Yungay, Peru. It and a few palm trees were all that remained
+standing after the May 31, 1970, earthquake._]
+
+  U.S. Geological Survey
+  Information Services
+  P.O. Box 25286
+  Denver, CO 80225
+
+* U.S. GOVERNMENT PRINTING OFFICE: 1996--421-205
+
+[Illustration: US DEPARTMENT OF THE INTERIOR; MARCH 3, 1849]
+
+As the Nation's principal conservation agency, the Department of the
+Interior has responsibility for most of our nationally owned public
+lands and natural and cultural resources. This includes fostering sound
+use of our land and water resources; protecting our fish, wildlife, and
+biological diversity; preserving the environmental and cultural values
+of our national parks and historical places; and providing for the
+enjoyment of life through outdoor recreation. The Department assesses
+our energy and mineral resources and works to ensure that their
+development is in the best interests of all our people by encouraging
+stewardship and citizen participation in their care. The Department also
+has a major responsibility for American Indian reservation communities
+and for people who live in island territories under U.S. administration.
+
+[Illustration: (_Cover photographs, clockwise from top left_): _Mexico
+City, Mexico, 1985_; _Coalinga, Calif., 1983_; _Northridge, Calif.,
+1994_; _Anchorage, Alaska, 1964_; _San Francisco, Calif., 1906_; _Loma
+Prieta, Calif., 1989_.]
