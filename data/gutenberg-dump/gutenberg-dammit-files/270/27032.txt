@@ -1,0 +1,295 @@
+In The New York Times, Bruno Giussani wrote: "Jean-Pierre Cloutier (...) is one
+of the leading figures of the French-speaking Internet community. Cloutier
+writes one of the most intelligent, passionate and insightful electronic
+newsletters available on the Internet (...) an original mix of relevant Internet
+news, clear political analysis and no-nonsense personal opinions, (...) a
+publication that gave readers the feeling that they were living 'week after week
+in the intimacy of a planetary revolution'."
+
+*Interview of June 8, 1998 (original interview in French)
+
+= Could you tell us about your professional work?
+
+There are two different things. First I was a translator (after working in
+communications). I got connected to the Internet at the request of my small
+translation company's customers because it made it easier to receive the work to
+translate and then send the result back to them. Quite quickly, I began to get a
+broader range of customers, including some in the US.
+
+Then I made a switch. I stopped translating and became a columnist. At first I
+was doing it part-time, but it soon became my main activity. For me it was a
+return to journalism, but in a very different way. In the beginning, Chroniques
+de Cybérie dealt mainly with news (new sites and new software). But gradually I
+tackled more fundamental aspects of the Internet, and then branched out into
+current national and international social, political and economic events.
+
+With basic issues, it's fairly simple because all these resources (official
+documents, news stories, commentary and analysis) are online. You can delve into
+them, quote them, broaden the analysis and go on with the research. For current
+events, the choice of subject depends on available resources, and resources are
+not always easy to find. So you're in the same situation as radio or TV, that if
+there aren't any audio clips or pictures, even a major event becomes less
+interesting on the Internet.
+
+= How do you see the future?
+
+For Chroniques de Cybérie, we could introduce and maintain a formula because
+entry costs are quite low in this medium. However, everything will depend on the
+extent of what's called media "convergence" and on whether production costs rise
+if we need to offer audio and video material to stay in the game. If that
+happens, we'll have to rethink our strategic partnerships, such as the one
+linking us to the Ringier group which enabled us to relaunch Chroniques after
+six months of silence. But however much "convergence" there is, I think there'll
+always be room for written work and for in-depth analysis of the main questions.
+
+*Interview of August 6, 1999 (original interview in French)
+
+= What has happened since our first interview? Any new projects, new ideas...?
+
+No real new projects. New ideas, yes, but I'm still working on them.
+
+= What do you think of the debate about copyright on the Web? What practical
+suggestions do you have?
+
+That's a very big subject.
+
+First there are the copyright and reproduction rights of big companies. These
+are relatively well supported legally, either through internal legal means or by
+hiring specialized companies.
+
+There's no doubt the "dematerialization" of information, brought about by the
+Internet and digitization, makes it easier to undermine intellectual property in
+various ways.
+
+The danger is real for small producers/distributors of "original" content, who
+don't have the means to monitor the theft of their products, or to take legal
+action to ensure their rights are respected.
+
+But all this is the "official" part -- cases of plagiarism that can be found in
+"rematerialized" works. There is perhaps a more insidious form of plagiarism,
+which is the theft of ideas, concepts, formulas, etc., with no mention of their
+origin. It's hard to "prove" such plagiarism because it is not just a matter of
+"copy and paste". But it's another aspect of the issue which is often obscured
+in the debate.
+
+What's the solution? We need a system where you can register free of charge an
+article, book or piece of music with an international organization that can take
+legal action against plagiarism. This wouldn't solve all the problems, but would
+at least establish a basic structure and, who knows, might deter the thieves.
+
+= How do you see the growth of a multilingual Web? What practical suggestions do
+you have?
+
+We passed the milestone this summer. Now more than half the users of the
+Internet live outside the United States. Next year more than half of all users
+will be non English-speaking, compared with only 5% five years ago. Isn't that
+great?
+
+At the same time, the Internet has became multi-faceted and now requires more
+and more efficient tools because of the "enrichment" of content (or rather of
+what contains it, because as far as the real content is concerned, there's no
+enrichment, except of the firms that sell it). The Internet needs strong
+systems, with good memory and powerful microprocessors. Development of the non
+English-speaking Web will be mainly aimed at people who have no way of getting
+powerful systems or the latest software and operating systems, or of upgrading
+or renewing it all every year. Also, communication infrastructure is sorely
+lacking in many places outside Europe and the United States. So there is a
+problem of bandwidth.
+
+I've been noticing this phenomenon since the very beginning of Chroniques. Some
+readers (in Africa, Asia, Caribbean, South America and the Pacific) tell me they
+like being able to suscribe to an e-mail version. They can get Chroniques as a
+single message, read it off-line and choose the sites they want to consult
+later. Often they have to plan their time online carefully because of poor
+communication links.
+
+The Web is going to grow in these non English-speaking regions. So we've got to
+take into account the technical aspects of the medium if we want to reach these
+"new" users.
+
+I think it's a pity there are so few translations of important documents and
+essays published on the Web -- from English into other languages and vice-versa.
+
+Let me explain. Jon Katz published on the Web an analysis of the "Goth" culture
+which the perpetrators of the Littleton slaughter were into, and of the term
+"Goth". The French-speaking press quoted one or two sentences of his analysis,
+lifted a few of his ideas, made an article out of it and that's all. But it
+wasn't enough to allow one to understand Katz and his analysis of this youth
+culture.
+
+In the same way, the recent introduction of the Internet in regions where it is
+spreading raises questions which would be good to read about. When will
+Spanish-speaking communications theorists and those speaking other languages be
+translated?
+
+= What is your best experience with the Internet?
+
+It's not a very cheerful one and has nothing to do with the significant
+influence Chroniques de Cybérie has gained over the years.
+
+At the beginning of 1996, I got a message which roughly said: "My son, in his
+early twenties, has been very ill for months. Every week, he looked forward very
+much to getting your newsletter in his electronic mailbox. As he could no longer
+leave the house, the newsletter allowed him to 'travel', to open his mind and
+think about something else other than his pain. He died this morning. I just
+wanted to thank you because you lightened his last months with us."
+
+When you get a message like this, you don't care about speaking to thousands of
+people, you don't care about lots of statistics, you tell yourself you're
+talking to one person at a time.
+
+= And your worst experience?
+
+I haven't really had a "big bad" experience. Lots of small and irritating ones,
+though. The system is fragile, content takes second place, the human resources
+aren't talked about much and lots of new software is inundating us. But we can
+live with it all quite easily.
+
+
+KUSHAL DAVE (Yale)
+
+
+#Student at Yale University
+
+*Interview of September 1, 1998
+
+= How do you see the relationship between the print media and the Internet?
+
+This is still being worked out, of course. So far, all I've been able to see is
+that electronic media undermines the print form in two ways:
+
+a) providing completely alternative presses that draw attention away from the
+previous strongholds, and
+
+b) forcing the print publications to spend resources trying to counteract this
+trend. Both forms of media critique one another and proclaim their superiority.
+Print media operates under a self-important sense of credibility. And the
+electronic media operates under a belief that they are the only purveyors of
+unbiased truth.
+
+There are issues of niche and finance that need to be resolved. The Internet is
+certainly a more accessible and convenient medium, and thus it would be better
+in the long run if the strengths of the print media could be brought online
+without the extensive costs and copyright concerns that are concomitant. As the
+transition is made, the neat thing is a growing accountability for previously
+relatively unreproachable edifices. For example, we already see e-mail addresses
+after articles in publications, allowing readers to pester authors directly.
+Discussion forums on virtually all major electronic publications show that
+future is providing not just one person's opinion but interaction with those of
+others as well. Their primary job is the provision of background information.
+Also, the detailed statistics can be gleaned about interest in an advertisement
+or in content itself will force greater adaptability and a questioning of
+previous beliefs gained from focus groups. This means more finely honed content
+for the individual, as quantity and customizability grows.
+
+= How did using the Internet change your life?
+
+The Internet has certainly been a distraction. ;) But beyond that, an
+immeasurable amount of both trivial and pertinent information has been gleaned
+in casual browsing sessions.
+
+= How do you see the future?
+
+In my personal future, I'd like to get a B.S., M.S., and M.Eng, working in the
+industry for a while before moving on to write about the medium for some
+reputable publication.
+
+The future of the Internet in general I see as becoming more popular and yet
+more fraught with conflict over the growth of commercialism and the perception
+that the Net's devolutionary spirit has been undermined. There will also be a
+need to deal with a glut of information - already we see Internet search engines
+reinventing themselves to try to provide a more optimal and efficient portal.
+
+
+CYNTHIA DELISLE (Montreal)
+
+
+#Consultant at the CEVEIL (Centre d'expertise et de veille inforoutes et langues
+- Centre for Assessment and Monitoring of Information Highways and Languages)
+
+[Joint interview with Guy Bertrand. See: Guy Bertrand.]
+
+
+BRUNO DIDIER (Paris)
+
+
+#Webmaster of the Pasteur Institute Library
+
+"The Pasteur Institutes (...) are exceptional observatories for studying
+infectious and parasite-borne diseases. They are wedded to the solving of
+practical public health problems, and hence carry out research programmes which
+are highly original because of the complementary nature of the investigations
+carried out: clinical research, epidemiological surveys and basic research work.
+Just a few examples from the long list of major topics of the Institutes are:
+malaria, tuberculosis, AIDS, yellow fever, dengue and poliomyelitis." (extract
+of the website)
+
+* Interview of August 10, 1999 (original interview in French)
+
+= Can you tell us about the website you've created?
+
+The main aim of the Pasteur Institute Library website is to serve the Institute
+itself and its associated bodies. It supports applications that have became
+essential in such a big organization: bibliographic databases, cataloging,
+ordering of documents and of course access to online periodicals (presently more
+than 100). It's also a window for our different departments, at the Institute
+but also elsewhere in France and abroad. It plays a big part in documentation
+exchanges with the institutes in the worldwide Pasteur network. I'm trying to
+make it an interlink adapted to our needs for exploration and use of the
+Internet. The website has existed in its present form since 1996 and its
+audience is steadily increasing.
+
+= What exactly is your professional activity?
+
+I build and maintain the web pages and monitor them regularly. I'm also
+responsible for training users, which you can see from my pages. The Web's an
+excellent place for training and it's included in most ongoing discussion about
+that.
+
+= How did using the Internet change your professional life?
+
+Our relationship with both the information and the users is what changes. We're
+increasingly becoming mediators, and perhaps to a lesser extent "curators". My
+present activity is typical of this new situation: I'm working to provide quick
+access to information and to create effective means of communication, but I also
+train people to use these new tools.
+
+= How do you see the future?
+
+I think the future of our job is tied to cooperation and use of common
+resources. It's certainly an old project, but it's really the first time we've
+had the means to set it up.
+
+As for my professional future, I especially hope the Internet will eventually
+allow me to work from home, at least part of the time. It would avoid two and a
+half hours of travelling every day...
+
+= What do you think of the debate about copyright on the Web?
+
+I haven't followed these discussions. But I think it's going to be hard to
+maintain the community spirit which was the basis of the Internet in the
+beginning.
+
+= How do you see the growth of a multilingual Web?
+
+I think a multilingual Web's a very positive thing. The Internet doesn't belong
+to any one nation or language. It's a vehicle for culture, and the first vector
+of culture is language. The more languages there are on the Net, the more
+cultures will be represented there. I don't think we should give in to the
+kneejerk temptation to translate web pages into a largely universal language.
+Cultural exchanges will only be real if we're prepared to meet with the other
+culture in a genuine way. And this effort involves understanding the other
+culture's language. This is very idealistic of course. In practice, when I'm
+monitoring, I curse Norwegian or Brazilian websites where there's isn't any
+English.
+
+= What is your best experience with the Internet?
+
+The day I won a box of Swiss chocolates on the Health On the Net site. But don't
+rush to this site, the game doesn't exist any more.
+
+= And your worst experience?
+
+The abuse of e-mail: bad-mannered people take advantage of the distance and
+relative anonymity to say not very nice things and take really juvenile
+attitudes with, alas, consequences which are not always the kind you find in a
