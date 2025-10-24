@@ -1,0 +1,2232 @@
+Because your shell is a process like any other, it has an environment. You
+   can view your shell's environment by entering the printenv command.
+
+                       Figure 6.1: Sample printenv output
+\begin{figure}\par\par\begin{list}{}{ \setlength{\rightmargin}{\leftmargin}
+\ra... ...ables}\index{shells!environments}
+\par\_=/usr/bin/printenv\end{list}\end{figure}
+
+   Figure 6.1 on page [*] has some sample output from printenv. On your
+   system, the output will be different but similar.
+
+   Environment variables are one way to configure the system. For example,
+   the EDITOR variable lets you select your preferred editor for posting
+   news, writing e-mail, and so on.
+
+   Setting environment variables is simple. For practice, try customizing
+   your shell's prompt and your text file viewer with environment variables.
+   First, let's get a bit of background information.
+
+           man less
+   This command lets you view the online manual for the less command. In
+   order to show you the text one screenful at a time, man invokes a pager
+   that shows you a new page of text each time you press the space bar. By
+   default, it uses the pager called more.
+
+   Go ahead and glance over the man page for less, which is an enhanced
+   pager. Scroll to a new page by pressing space; press q to quit. more will
+   also quit automatically when you reach the end of the man page.
+
+           export PAGER=less
+   After reading about the advantages of less, you might want to use it to
+   read man pages. To do this, you set the environment variable PAGER.
+
+   The command to set an environment variable within bash always has this
+   format:
+
+           export NAME=value
+   export means to move the variable from the shell into the environment.
+   This means that programs other than the shell (for instance, a file
+   viewer) will be able to access it.
+
+           echo $PAGER
+   This is the easiest way to see the value of a variable. $PAGER tells the
+   shell to insert the value of the PAGER variable before invoking the
+   command. echo echoes back its argument: in this case, it echoes the
+   current PAGER value, less.
+
+           man more
+   Displays the more manual. This time, man should have invoked the less
+   pager.
+
+   less has lots of features that more lacks. For example, you can scroll
+   backward with the b key. You can also move up and down (even sideways)
+   with the arrow keys. less won't exit when it reaches the end of the man
+   page; it will wait for you to press q.
+
+   You can try out some less-specific commands, like b, to verify that they
+   don't work with more and that you are indeed using more.
+
+           unset PAGER
+   If you don't want to specify a pager anymore, you can unset the variable.
+   man will then use more by default, just as it did before you set the
+   variable.
+
+           echo $PAGER
+   Because PAGER has been unset, echo won't print anything.
+
+           PS1=hello:
+
+                        Figure 6.2: Changing the prompt
+\begin{figure}\par\par\begin{list}{}{ \setlength{\rightmargin}{\leftmargin}
+\ra... ...o~My~prompt~is~\$PS1} \par My~prompt~is~hello: \par
+hello:\end{list}\end{figure}
+
+   Just for fun, change your shell prompt. $ should now change; see Figure
+   6.2 for details.
+
+   export is not necessary, because you're changing the shell's own behavior.
+   There's no reason to export the variable into the environment for other
+   programs to see. Technically, PS1 is a shell variable rather than an
+   environment variable.
+
+   If you wanted to, you could export the shell variable, transforming it
+   into an environment variable. If you do this, programs you run from the
+   shell can see it.
+
+                    Where Commands Reside: The PATH Variable
+
+   When you type a command into the shell, it has to find the program on your
+   hard disk before executing it. If the shell had to look all over the disk,
+   it would be very slow; instead, it looks in a list of directories
+   contained in the PATH environment variable. This list of directories makes
+   up the shell's search path; when you enter a command, it goes through each
+   one in turn looking for the program you asked to run.
+
+   You may need to change the PATH variable if you install programs yourself
+   in a non-standard location. The value of PATH is a colon-separated list of
+   directories. The default value on Debian systems is as follows:
+
+           /usr/local/bin:/usr/bin:/bin:/usr/bin/X11:/usr/games
+
+   This value is defined in the file /etc/profile and applies to all users.
+   You can easily change the value, just as you can change any environment
+   variable. If you type the command ls, the shell will first look in
+   /usr/local/bin; ls isn't there, so it will try /usr/bin; when that fails,
+   it will check /bin. There it will discover /bin/ls, stop its search, and
+   execute the program /bin/ls. If /usr/bin/X11/ls existed (it doesn't, but
+   pretend), it would be ignored.
+
+   You can see which ls the shell is going to use with the type command.
+   type ls will give you the answer /bin/ls. Try it yourself.
+
+   Try asking where type itself resides:
+
+           $ type type
+
+           type is a shell builtin
+
+   type isn't actually a program; it's a function provided by the shell.
+   However, you use it just like an external program.
+
+   There are a number of commands like this; type man builtins to read the
+   man page describing them. In general, you don't need to know whether a
+   command is a builtin or a real program; however, builtins will not show up
+   in the output of ps or top because they aren't separate processes. They're
+   just part of the shell.
+
+                              Configuration Files
+
+   Many applications on Linux systems allow you to alter how they behave at
+   certain times by altering files containing configuration information.
+   These configuration files may contain application start-up information,
+   run-time settings and application shutdown settings. In general, a
+   configuration filename is based on the name of the application for which
+   it contains settings. Such a naming convention allows you to more readily
+   determine which configuration file contains settings for a given
+   application.
+
+System-Wide Versus User-Specific
+Configuration
+
+   It's important to remember that there are two different kinds of
+   configurations on a Debian system. System-wide configuration affects all
+   users. System-wide settings are made in the /etc directory, so you
+   generally must be root in order to change system-wide settings. You might
+   configure the way the system connects to the Internet, for example, or
+   have web browsers on the system always start on the company home page.
+   Since you want these settings to apply to all users, you make the changes
+   in /etc. Sample configuration files in /etc include /etc/X11/XF86Config,
+   /etc/lynx.cfg, and /etc/ppp/options. In fact, nearly all the files in /etc
+   are configuration files.
+
+   User configuration affects only a single user. Dotfiles are used for user
+   configuration. For example, the file ~/.newsrc stores a list of which
+   USENET (discussion group) articles you have read and which groups you
+   subscribe to. This allows news readers such as trn or GNUS to display
+   unread articles in the groups you're interested in. This information will
+   be different for every user on the system, so each user has his own
+   .newsrc file in his home directory.
+
+                                    Aliases
+
+   If you use the same command often, you might get tired of typing it. bash
+   lets you write shorter aliases for your commands.
+
+   Say you always use the -almost-all and -color=auto options to ls. You
+   quickly get tired of typing ls -almost-all -color=auto. So you make an
+   alias:
+
+           alias myls='ls -almost-all -color=auto'
+   Now you can type myls instead of the full command. To see what myls really
+   is, run the command type myls. To see a list of aliases you've defined,
+   simply type alias on a line by itself.
+
+                          Controlling Input and Output
+
+   Throughout your experiences with Linux, you will most likely find that
+   manipulating application input and output can be a very powerful thing to
+   do. This section describes some of the things that controlling input and
+   output can do for you.
+
+stdin, stdout, Pipelines, and Redirection
+
+   Every process has at least three connections to the outside world. The
+   standard input is one source of the process's data; the standard output is
+   one place the process sends data; and the standard error is a place the
+   process can send error messages. (These are often abbreviated stdin,
+   stdout, and stderr.)
+
+   The words ``source'' and ``place'' are intentionally vague. These standard
+   input and output locations can be changed by the user; they could be the
+   screen, the keyboard, a file, even a network connection. You can specify
+   which locations to use.
+
+   When you run a program from the shell, usually standard input comes from
+   your keyboard, and standard output and error both go to your screen.
+   However, you can ask the shell to change these defaults.
+
+   For example, the echo command sends it output to standard output, normally
+   the screen. But you can send it to a file instead with the output
+   redirection operator, >. For example, to put the word ``Hello'' in the
+   file myfile, use this command:
+
+           echo Hello > myfile
+   Use cat or your text file pager (more or less) to view myfile's contents;
+   see Figure 6.3 on page [*].
+
+                         Figure 6.3: Redirecting output
+\begin{figure}\par\par\begin{list}{}{ \setlength{\rightmargin}{\leftmargin}
+\ra... ...llo~>~myfile} \par\$~\textbf{cat~myfile} \par Hello
+\par\$\end{list}\end{figure}
+
+   You can change the standard input of a command with the input redirection
+   operator, <. For example, cat < myfile will display the contents of
+   myfile. This is not useful in practice; for convenience, the cat command
+   accepts a filename argument. So you can simply say cat myfile, and the
+   effect will be the same. redirection operators
+
+   Under the hood, cat < myfile means that the shell opens myfile and then
+   feeds its contents to the standard input of cat. cat myfile, without the
+   redirection operator, means that the cat command receives one argument
+   (myfile) opens the file itself, and then displays the file.
+
+   There's a reason for the double functionality, however. For example, you
+   can connect the standard output of one command to the standard input of
+   another. This is called a pipeline, and it uses the pipe operator6.1, |.
+
+   Perhaps you want to see the GNU General Public License in reverse. To do
+   this, you use the tac command (it's cat, only backward). Try it out:
+
+           tac /usr/doc/copyright/GPL
+   Unfortunately, it goes by too quickly to read. So you only get to see a
+   couple of paragraphs. The solution is a pipeline:
+
+           tac /usr/doc/copyright/GPL | less
+   This takes the standard output of tac, which is the GPL in reverse, and
+   sends it to the standard input of less.
+
+   You can chain as many commands together as you like. Say you have an
+   inexplicable desire to replace every G with Q. For this you use the
+   command tr G Q, like this:
+
+           tac /usr/doc/copyright/GPL | tr G Q | less
+   You could get the same effect using temporary files and redirection, for
+   example:
+
+           tac /usr/doc/copyright/GPL > tmpfile
+
+           tr G Q < tmpfile > tmpfile2
+
+           less < tmpfile2
+
+           rm tmpfile tmpfile2
+
+   Clearly a pipeline is more convenient.
+
+                               Filename Expansion
+
+   Often you want a command to work with a group of files. Wildcards are used
+   to create a filename expansion pattern: a series of characters and
+   wildcards that expands to a list of filenames. For example, the pattern
+   /etc/* expands to a list of all6.2 the files in /etc.
+
+   * is a wildcard that can stand for any series of characters, so the
+   pattern /etc/* will expand to a list of all the filenames beginning with
+   /etc/.
+
+   This filename list is most useful as a set of arguments for a command. For
+   example, the /etc directory contains a series of subdirectories called
+   rc0.d, rc1.d, etc. Normally to view the contents of these, you would type
+   the following:
+
+           ls /etc/rc0.d /etc/rc1.d /etc/rc2.d /etc/rc3.d
+
+           ls /etc/rc4.d /etc/rc5.d /etc/rc6.d /etc/rcS.d
+
+   This is tedious. Instead, you can use the ? wildcard as shown here:
+
+           ls /etc/rc?.d
+   /etc/rc?.d expands to a list of filenames that begin with rc, followed by
+   any single character, followed by .d.
+
+   Available wildcards include the following:
+
+
+           Matches any group of 0 or more characters.
+
+   ?
+           Matches exactly one character.
+
+   [...]
+           If you enclose some characters in brackets, the result is a
+           wildcard that matches those characters. For example, [abc] matches
+           either a, or b, or c. If you add a ^ after the first bracket, the
+           sense is reversed; so [^abc] matches any character that is not a,
+           b, or c. You can include a range, such as [a-j], which matches
+           anything between a and j. The match is case sensitive, so to allow
+           any letter, you must use [a-zA-Z].
+
+   Expansion patterns are simple once you see some concrete examples:
+
+   *.txt
+           This will give you a list of all filenames that end in .txt, since
+           the * matches anything at all.
+
+   *.[hc]
+           This gives a list of filenames that end in either .h or .c.
+
+   a??
+           This gives you all three-letter filenames that begin with a.
+
+   [^a]??
+           This gives you all three-letter filenames that do not begin with
+           a.
+
+   a*
+           This gives you every filename that starts with a, regardless of
+           how many letters it has.
+
+                                 More on Files
+
+   In section 5.2 on page [*], we covered moving and renaming files with mv,
+   copying them with cp, removing them with rm, removing directories with
+   rmdir, and creating directories with mkdir. This chapter will cover some
+   more aspects of working with files.
+
+                                  Permissions
+
+   GNU and Unix systems are set up to allow many people to use the same
+   computer, while keeping certain files private or keeping certain people
+   from modifying certain files. You can verify this for yourself. Log in as
+   yourself, i.e. NOT as root.
+
+           whoami
+   This verifies that you are not root. Then enter the following command:
+
+           rm /etc/resolv.conf
+   You should be told Permission denied. /etc/resolv.conf is an essential
+   system configuration file; you aren't allowed to change or remove it
+   unless you're root. This keeps you from accidentally messing up the
+   system, and if the computer is a public one (such as at an office or
+   school), it keeps users from messing up the system on purpose.
+
+   Now type ls -l /etc/resolv.conf.
+
+   This will give you output that looks something like this:
+
+           -rw-r-r- 1 root root 119 Feb 23 1997 /etc/resolv.conf
+
+   The -l option to ls requests all that additional information. The info on
+   the right is easy: The size of the file is 119 bytes; the date the file
+   was last changed is February 23, 1997; and the file's name is
+   /etc/resolv.conf. On the left side of the screen, things are a little more
+   complicated.
+
+   First, the brief, technical explanation: The -rw-r-r- is the mode of the
+   file, the 1 is the number of hard links to this file (or the number of
+   files in a directory), and the two roots are the user and group owning the
+   file, respectively.
+
+   So that was cryptic. Let's go through it slowly.
+
+File Ownership
+
+   Every file has two owners: a user and a group. The above case is a little
+   confusing because there's a group called root in addition to the root
+   user. Groups are just collections of users who are collectively permitted
+   access to some part of the system. A good example is a games group. Just
+   to be mean, you might create a group called games on your computer and
+   then set up your system so that only people in a games group are allowed
+   to play games.
+
+   Here's a more practical example. Consider a case in which you're setting
+   up a computer for a school. You might want certain files to be accessible
+   only to teachers, not students, so you put all the teachers in a single
+   group. Then you can tell the system that certain files belong to members
+   of the group teachers, and that no one else can access those files.
+
+   Let's explore groups on the system. First, you can use the groups command
+   at the shell prompt. This will show you a list of the groups to which you
+   belong. Here's an example:
+
+           $ groups
+
+           system-wide configuration!permissions!file
+           ownershipusername dialout cdrom floppy audio
+
+   It's likely that you're a member of only one group, which is identical to
+   your username. However, root can add you to other groups. The above
+   example shows a person that is a member of five groups.
+
+           less /etc/group
+   This file lists the groups that exist on your system. Notice the root
+   group (the only member of this group is the root user), and the group that
+   corresponds to your username. There are also groups like dialout (users
+   who are allowed to dial out on the modem) and floppy (users who can use
+   the floppy drive). However, your system is probably not configured to make
+   use of these groups. It's likely that only root can use the floppy or the
+   modem right now. For details about this file, try reading man group.
+
+           ls -l /home
+   This command shows you that every user's directory is owned by that user
+   and that user's personal group.
+
+     Tip: If you just installed Debian, you may be the only user. You can use
+     the adduser command to add more users to the system.
+
+Mode
+
+   In addition to being owned by one user and one group, every file and
+   directory also has a mode, which determines who's allowed to read, write,
+   and execute the file (and run it, if it's a program). There are a few
+   other things also determined by the mode, but they're advanced topics so
+   we'll skip them for now.
+
+   The mode looks like this in the ls output: -rw-r-r-. For now, we'll
+   consider nine of these parts: those that control read, write, and execute
+   permissions for the user owning the file, the group owning the file, and
+   others (everyone on the system, sometimes called world).
+
+   In the mode line, the first ``element'' gives the file type. The - in this
+   case means it's a regular file. If it was d, we'd be looking at a
+   directory. There are also other possibilities too complex to go into here;
+   for details, see section 13.2.2 on page [*].
+
+   The remaining nine elements are used to display the file's mode. The basic
+   9 bits (read, write, and execute for user, group, and other) are displayed
+   as three blocks of rwx.
+
+   So if all permissions are turned on and this is a regular file, the mode
+   will look like this: -rwxrwxrwx. If it was a directory with all
+   permissions turned off for others and full permissions for user and group,
+   it would be drwxrwx--.
+
+                        Table 7.1: Permissions in Linux
++------------------------------------------------------------------------------+
+| Code |  Name   | Allows for Files         | Allows for Directories           |
+|------+---------+--------------------------+----------------------------------|
+|  r   |  read   | Examine contents of file | List contents of directory       |
+|------+---------+--------------------------+----------------------------------|
+|  w   |  write  | Modify file              | Add or remove files in directory |
+|------+---------+--------------------------+----------------------------------|
+|  x   | execute | Run as a command         | Access files in directory        |
++------------------------------------------------------------------------------+
+
+   Table 7.1 describes the meaning of the read, write, and execute
+   permissions for both files and directories.
+
+   Directory modes can be a little confusing, so here are some examples of
+   the effects of various combinations:
+
+           r-
+   The user, group, or other with these permissions may list the contents of
+   the directory, but can do nothing else. The files in the directory can't
+   be read, changed, deleted, or manipulated in any way. The only permitted
+   action is reading the directory itself, that is, seeing what files it
+   contains.
+
+           rw-
+   Write permission has no effect in the absence of execute permission, so
+   this mode behaves just like the above mode.
+
+           r-x
+   This mode permits the files in a directory to be listed and permits access
+   to those files. However, files can't be created or deleted. Access means
+   that you can view, change, or execute the files as permitted by the files'
+   own permissions.
+
+           -x
+   Files in this directory can be accessed, but the contents of the directory
+   can't be listed, so you have to know what filename you're looking for in
+   advance (unless you're exceptionally good at guessing). Files can't be
+   created or deleted.
+
+           rwx
+   You can do anything you want with the files in this directory, as long as
+   it's permitted by the permissions on the files themselves.
+
+   Directory write permission determines whether you can delete files in a
+   directory. A read-only file can be deleted if you have permission to write
+   to the directory containing it. You can't delete a file from a read-only
+   directory even if you're allowed to make changes to the file.
+
+   This also means that if you own a directory you can always delete files
+   from it, even if those files belong to root.
+
+   Directory execute permission determines whether you have access to files -
+   and thus whether file permissions come into play. If you have execute
+   permissions to a directory, file permissions for that directory become
+   relevant. Otherwise, file permissions just don't matter; you can't access
+   the files anyway.
+
+Permissions in Practice
+
+   This section goes through a short example session to demonstrate how
+   permissions are used. To change permissions, we'll use the chmod command.
+
+           cd; touch myfile
+   There are a couple of new tricks here. First, you can use ; to put two
+   commands on one line. You can type the above as:
+
+           $ cd
+
+           $ touch myfile
+
+   or as:
+
+           $ cd; touch myfile
+   Either way the same thing will end up happening.
+
+   Recall that cd by itself returns you to your home directory. touch is
+   normally used to change the modification time of the file to the current
+   time. But it has another interesting feature: If the file doesn't exist,
+   touch creates the file. So you're using it to create a file to practice
+   with. Use ls -l to confirm that the file has been created and notice the
+   permissions mode:
+
+           $ ls -l
+
+           -rw-r-r- 1 user user 0 Nov 18 22:04 myfile
+
+   Obviously the time and user/group names will be different when you try it.
+   The size of the file is 0, because touch creates an empty file. -rw-r-r-
+   is the default permissions mode on Debian.
+
+           chmod u+x myfile
+   This command means to add (+) execute (x) permissions for the user (u) who
+   owns the file. Use ls -l to see the effects.
+
+           chmod go-r myfile
+   Here you've subtracted (-) read permission (r) from the group (g) owning
+   the file and from everyone else (others, o). Again, use ls -l to verify
+   the effects.
+
+           chmod ugo=rx myfile
+   Here you've set (=) user, group, and other permissions to read and
+   execute. This sets permissions to exactly what you've specified and unsets
+   any other permissions. So all rx should be set, and all w should be unset.
+   Now, no one can write to the file.
+
+           chmod a-x myfile
+   a is a shortcut for ugo, or ``all.'' So all the x permissions should now
+   be unset.
+
+           rm myfile
+   With this command, you're removing the file, but without write
+   permissions. rm will ask if you're sure by displaying the following
+   message:
+
+           rm: remove `myfile', overriding mode 0444?
+   You should respond by typing y and pressing Enter. This is a feature of
+   rm, not a fact of permissions. Permission to delete a file comes from the
+   directory permissions, and you have write permission in the directory.
+   However, rm tries to be helpful, figuring that if you didn't want to
+   change the file (and thus remove write permission), you don't want to
+   delete it either, so it asks you.
+
+   What was that 0444 business in the question from rm? The permissions mode
+   is a twelve-digit binary number, like this: 000100100100. 0444 is this
+   binary number represented as an octal (base 8) number, which is the
+   conventional way to write a mode. So you can type chmod 444 myfile instead
+   of chmod ugo=r myfile.
+
+                       Files Present and Their Locations
+
+   Now that you can navigate the directory tree, let's take a guided tour of
+   the files and directories you created when you installed Debian. If you're
+   curious, cd to each directory and type ls to see its contents. If the
+   listing doesn't fit on the screen, try ls | less, where | is the ``pipe''
+   character, generally found on the same key with backslash.
+
+   /
+           As already mentioned, this is the root directory, which contains
+           every other directory.
+
+   /root
+           But don't get /confused with /root! /root is the home directory of
+           the root user, or superuser. It's a directory called /root, but it
+           isn't the root directory /.
+
+   /home
+           This is where all normal users - that is, all users except root -
+           have their home directories. Each home directory is named after
+           the user who owns it, for example, /home/jane. If you're using a
+           large system at a school or business, your system administrator
+           may create additional directories to contain home directories:
+           /home1 and /home2 for example. On some other systems, you'll see
+           an additional level of subdirectories: /home/students/username,
+           /home/staff/username, etc.
+
+           Your home directory is where you put all your personal work,
+           e-mail and other documents, and personal configuration
+           preferences. It's your home on the system.
+
+   /bin
+           This directory contains ``binaries,'' executable files that are
+           essential to the operation of the system. Examples are the shell
+           (bash) and file commands such as cp.
+
+   /sbin
+           This directory contains ``system binaries,'' utilities that the
+           root user or system administrator might want to use, but that you
+           probably won't want to use in your day-to-day activities.
+
+   /usr
+           /usr contains most of the files you'll be interested in. It has
+           many subdirectories. /usr/bin and /usr/sbin are pretty much like
+           /bin and /sbin, except that the directories in /usr are not
+           considered ``essential to the operation of the system.''
+
+           While not essential to getting the computer working, /usr does
+           contain the applications you'll use to get real work done. Also in
+           /usr, you'll find the /usr/man, /usr/info, and /usr/doc
+           directories. These contain manual pages, info pages, and other
+           documentation, respectively. And don't forget /usr/games!
+
+   /usr/local
+           The Debian system doesn't install anything in this directory. You
+           should use it if you want to install software that you compile
+           yourself or any software not contained in a Debian package. You
+           can also install software in your home directory if you'll be the
+           only one using it.
+
+   /etc
+           /etc contains all the system-wide configuration files. Whenever
+           you want to change something that affects all users of your
+           computer - such as how you connect to the Internet or what kind of
+           video card you have - you'll probably have to log on as root and
+           change a file in /etc.
+
+   /tmp
+           Here you'll find temporary files, most of them created by the
+           system. This directory is generally erased on a regular basis or
+           every time you reboot the system. You can create files here if you
+           want, just be aware that they might get deleted automatically.
+
+   /var
+           /var contains ``variable'' files that the system changes
+           automatically. For example, incoming mail is stored here. The
+           system keeps a log of its actions here. There are a number of
+           other automatically generated files here as well. You'll mostly be
+           interested in the contents of /var/log, where you can find error
+           messages that can help you figure out what you're system's up to
+           if something goes wrong.
+
+   Clearly there are many more directories on the system - far too many to
+   describe every one.
+
+   For changing things, you'll usually want to confine yourself to your home
+   directory and /etc. On a Debian system, there's rarely an occasion to
+   change anything else, because everything else is automatically installed
+   for you.
+
+   /etc is used to configure the system as a whole. You'll use your own home
+   directory, a subdirectory of /home, for configuring your own preferences
+   and storing your personal data. The idea is that on a day-to-day basis,
+   you confine yourself to /home/yourname, so there's no way you can break
+   anything. Occasionally you log in as root to change something in a
+   system-wide directory, but only when it's absolutely necessary. Of course,
+   if you're using Debian at a school or business and someone else is the
+   system administrator, you won't have root access and will be able to
+   change only your home directory and any other directory that you own. This
+   limits what you can do with the system.
+
+                           File Compression with gzip
+
+   Often it would be nice to make a file smaller - say, to download it
+   faster, or so it takes up less space on your disk. The program to do this
+   is called gzip (GNU zip). Here's how it works:
+
+           $ cd; cp /etc/profile ./mysamplefile
+   This switches to your home directory and copies an arbitrarily chosen file
+   (/etc/profile) to your current directory, in the process renaming it
+   mysamplefile. This gives you a file to play with when using gzip.
+
+           $ ls -l
+   Lists the contents of the current directory. Note the size of
+   mysamplefile.
+
+           $ gzip mysamplefile
+   Compresses mysamplefile.
+
+           $ ls -l
+   Observe the results of this command: mysamplefile is now called
+   mysamplefile.gz . It's also a good bit smaller.
+
+           $ gunzip mysamplefile.gz; ls -l
+   This uncompresses the file. Observe that mysamplefile has returned to its
+   original state. Notice that to uncompress, one uses gunzip, not gzip.
+
+           $ rm mysamplefile
+   Use this command to remove the file, since it was just to practice with.
+
+                                 Finding Files
+
+   There are two different facilities for finding files: find and locate.
+   find searches the actual files in their present state. locate searches an
+   index generated by the system every morning at 6:42 a.m. (this is a cron
+   job, explained elsewhere in this book). locate won't find any files that
+   were created after the index was generated. However, because locate
+   searches an index, it's much faster - like using the index of a book
+   rather than looking through the whole thing.
+
+   To compare the two ways of finding files, pretend you can't remember where
+   the X configuration file XF86Config resides.
+
+           $ locate XF86Config
+   This should be pretty fast. You'll get a list of filenames that contain
+   XF86Config, something like this:
+
+           /etc/X11/XF86Config
+
+           /usr/X11R6/lib/X11/XF86Config
+
+           /usr/X11R6/lib/X11/XF86Config.eg
+
+           /usr/X11R6/man/man5/XF86Config.5x.gz
+
+   Now try the find command:
+
+           $ find / -name XF86Config
+   You will hear a lot of disk activity, and this will take a lot longer.
+   Results will look something like this:
+
+           /etc/X11/XF86Config
+
+           /usr/X11R6/lib/X11/XF86Config
+
+           find: /var/spool/cron/atjobs: Permission denied
+
+           find: /var/spool/cron/atspool: Permission denied
+
+           find: /var/lib/xdm/authdir: Permission denied
+
+   Notice that find found only files that were named exactly XF86Config,
+   rather than any files containing that string of letters. Also, find
+   actually tried to look in every directory on the system - including some
+   where you didn't have read permissions. That's why you got the
+   Permission denied messages.
+
+   The syntax is different as well. With find, you had to specify what
+   directory to search in, whereas locate automatically chose the root
+   directory. And you had to specify a search by name using the -name option.
+   You could also have searched for files using many other criteria, such as
+   modification date or owner. To have find search for files whose names
+   match XF86Config, you'd have to use a wildcard:
+
+           $ find / -name '*XF86Config*'
+   Like most of the command line tools, find accepts wildcards as arguments.
+
+   In general, find is a more powerful utility, and locate is faster for
+   everyday quick searches. The full range of possible searches would take a
+   long time to explain; for more details , type info find, which will bring
+   up the very thorough info pages on find and locate.
+
+                         Determining a File's Contents
+
+   Debian comes with a utility that can guess at the contents of a file for
+   you. Although it is not 100% accurate, you can use the following command
+   to explore your system:
+
+           $ file /bin/cp
+   You should see something like this:
+
+           /bin/cp: ELF 32-bit LSB executable, Intel 386, version 1
+
+   Skipping the technical parts, this is an executable file for Intel
+   machines.
+
+           $ file /etc/init.d/boot
+   The preceding command gives this response:
+
+           /etc/init.d/boot: Bourne shell script text
+   meaning that this is a text file containing a Bourne shell script.
+
+                              Using a File Manager
+
+   Instead of moving files around by hand, you can use a file manager. If you
+   move a lot of files around, a file manager can make your work more
+   efficient. There are text-based file managers, such as GNU Midnight
+   Commander (mc), and a number of file managers for the X Window system (for
+   example gmc for the X Window version of GNU Midnight Commander).
+
+   Describing each of these is outside the scope of this book, but you may
+   want to try them out if the command line doesn't meet your needs.
+
+                            Working with Text Files
+
+   Text files are prevelant on a GNU/Linux system. They hold everything from
+   documentation to configuration files. Fortunately, it's easy to work with
+   them.
+
+                               Viewing Text Files
+
+   A text file is simply a normal file that happens to contain human-readable
+   text. There's nothing special about it otherwise. The other kind of file,
+   a binary file, is meant to be interpreted by the computer.
+
+   You can view either kind of file with the less file pager if you have it
+   installed (install it if you haven't, it's quite useful). Type less
+   /etc/profile to view a sample text file. Notice that you can read the
+   characters even if their meaning is obscure. Type less /bin/ls to view a
+   binary file. As you can see, the ls program is not meant to be read by
+   humans.
+
+   Sometimes, you'll find files that end with .gz. These files may be viewed
+   with zless; you can run it like so:
+
+           zless /usr/doc/ae/changelog.Debian.gz
+
+     Tip: zless is great for viewing documentation, which is often shipped in
+     .gz form.
+
+   The difference between the two kinds of files is purely a matter of what
+   they contain, unlike in some other systems (such as DOS and MacOS), which
+   actually treat the files differently.
+
+   Text files can contain shell scripts, documentation, copyright notices, or
+   any other human-readable text.
+
+   Incidentally, this illustrates the difference between source code and
+   binary executables. /bin/ls is a binary executable you can download from
+   Debian, but you can also download a text file that tells the computer how
+   to create /bin/ls. This text file is the source code. Comparing /bin/ls to
+   /etc/profile illustrates how important source code is if someone wants to
+   understand and modify a piece of software. Free software provides you or
+   your consultants with this all-important source code.
+
+                                  Text Editors
+
+   A text editor is a program used to create and change the contents of text
+   files. Most operating systems have a text editor: DOS has edit, Windows
+   has Notepad, MacOS has SimpleText.
+
+   Debian provides a large variety of text editors. vi and Emacs are the
+   classic two, which are probably both the most powerful and the most widely
+   used. Both vi and Emacs are quite complex and require some practice, but
+   they can make editing text extremely efficient. Emacs runs both in a
+   terminal and under the X Window system; vi normally runs in a terminal but
+   the vim variant has a -g option that allows it to work with X. text
+   editors
+
+   Simpler editors include nedit, ae, jed, and xcoral. nedit and xcoral
+   provide easy-to-use X Window system graphical interfaces. There are also
+   several vi variants. Additionally, you can find and a GNU Emacs variant
+   called XEmacs.
+
+   This book does not cover the use of any particular editor in detail,
+   though we will briefly introduce ae since it is small, fast, and can be
+   found even on the Debian rescue disks, so it pays to know a bit about it
+   for usage in a pinch. When you need to do more serious editing, check out
+   vim or GNU Emacs. Emacs provides an excellent interactive tutorial of its
+   own; to read it, load Emacs with the emacs command and type F1 t. Emacs is
+   an excellent choice for new users interested in a general-purpose or
+   programming editor.
+
+                                    Using ae
+
+   You can start ae by giving it the name of a file to edit, like so:
+
+           $ ae filename.txt
+   This will bring up an editor screen. The top part of this screen provides
+   some quick help; the bottom shows the file you're editing. Moving around
+   in this editor is simple; just use the arrow keys. You can save the file
+   by pressing C-x C-s and then exit the editor by pressing C-x C-c. Once you
+   feel comfortable with the editor, you can press C-x C-h to turn off the
+   help. That's it! Knowing this will let you do basic editing. For
+   programming or more detailed editing work, you'll want to investigate
+   other editors as discussed earlier.
+
+                              The X Window System
+
+   This chapter describes the X Window system graphical user interface. It
+   assumes that you have already successfully configured X as described in
+   the Installation Manual (again, the install manual is not yet written; for
+   now you will need to use the XFree86 HOWTO, the contents of /usr/doc/X11,
+   and this chapter). Once you install X, you can enter the X environment by
+   typing startx or via xdm, depending on your choice during configuration.
+
+                               Introduction to X
+
+   A GUI (Graphical User Interface) is part and parcel of the Windows and Mac
+   operating systems. It's basically impossible to write an application for
+   those systems that does not use the GUI, and the systems can't be used
+   effectively from the command line. GNU/Linux is more modular, that is,
+   it's made up of many small, independent components that can be used or not
+   according to one's needs and preferences. One of these components is the X
+   Window system, or simply X.
+
+   This component is also sometimes called X11. Please note that ``X
+   Windows'' is not correct.
+
+   X itself is a means for programs to talk to your mouse and video card
+   without knowing what kind of mouse and video card you have. That is, it's
+   an abstraction of the graphics hardware. User applications talk to X in
+   X's language; X then translates into the language of your particular
+   hardware. This means that programs only have to be written once, and they
+   work on everyone's computer.
+
+   In X jargon, the program that speaks to the hardware is known as an X
+   server. User applications that ask the X server to show windows or
+   graphics on the screen are called X clients. The X server includes a video
+   driver, so you must have an X server that matches your video card.
+
+   The X server doesn't provide any of the features one might expect from a
+   GUI, such as resizing and rearranging windows. A special X client, called
+   a window manager, draws borders and title bars for windows, resizes and
+   arranges windows, and provides facilities for starting other X clients
+   from a menu. Specific window managers may have additional features.
+
+   Window managers available on a Debian system include fvwm, fvwm2, icewm,
+   afterstep, olvwm, wmaker, twm, and enlightenment. You'll probably want to
+   try them all and pick your favorite.
+
+   Neither the X server nor the window manager provide a file manager; that
+   is, there aren't any windows containing icons for your files and
+   directories. You can launch a file manager as a separate application, and
+   there are many of them available. The GNOME desktop project is developing
+   an icon-based file manager and other GUI facilities. See the GNOME
+   homepage for the latest news on this.
+
+   A final feature of X is its network transparency, meaning that X clients
+   don't care if they're talking to an X server on the same machine or an X
+   server somewhere on the network. In practical terms, this means you can
+   run a program on a more powerful remote machine but display it on your
+   desktop computer.
+
+                           Starting the X Environment
+
+   There are two ways to start X. The first is to start X manually when you
+   feel like using it. To do so, log in to one of the text consoles and type
+   startx. This will start X and switch you to its virtual console.
+
+   The second (and recommended) way to use X is with xdm or X Display
+   Manager. Basically, xdm gives you a nice graphical login prompt on the X
+   virtual console (probably VC 7), and you log in there.
+
+   By default, either method will also start an xterm, which is a small
+   window containing a shell prompt. At the shell prompt, you can type any
+   commands just as you would on a text VC. So you can follow all the
+   examples in this book using xterm; the only difference between an xterm
+   and the text console is that you don't have to log on to the xterm because
+   you already logged on to X.
+
+   There are also a lot of things you can do only in X, which are covered in
+   this chapter.
+
+   One note: The default xterm window has a smallish font. If you have a
+   small monitor or very high resolution or bad eyesight, you may want to fix
+   this. Follow these steps:
+
+    1. Move the mouse pointer into the center of the xterm window.
+    2. Hold down the Control key and the right mouse button simultaneously.
+       This will give you a font menu.
+    3. Point to the font you want and release the mouse button.
+
+                               Basic X Operations
+
+   There are certain commonly used operations in X that you should
+   familiarize yourself with. This section describes some of the basic
+   operations that you may find useful.
+
+The Mouse
+
+   The mouse in X works pretty much the same as the mouse on other systems,
+   except that it has three buttons. If your mouse has only two, you can
+   simulate the middle button by clicking both buttons simultaneously. This
+   is kind of tricky and annoying, so investing in a $15 three-button mouse
+   probably isn't a bad idea. These are available from most computer
+   retailers.
+
+   The buttons are numbered from left to right assuming you have a
+   right-handed mouse. So button one is on the left, two is in the middle,
+   and three is on the right. You may see either the numbers or the locations
+   in documentation.
+
+   X has a simple built-in copy-and-paste facility. To select text to copy,
+   you click and drag with the left mouse button. This should select the text
+   to copy, assuming the application you're using has copy-and-paste support.
+   To paste the text, you click the middle mouse button in a different X
+   application. For example, if you receive an e-mail containing an URL, you
+   can select the URL with the left button and then click in your web
+   browser's ``Location'' field with the middle button to paste it in.
+
+X Clients
+
+   Programs that communicate with the X server are called X clients. Most of
+   these programs will ask the X server to display windows on the screen.
+
+   You start an X client the same way you start any other Debian program.
+   Simply type the name of the client on the command line. Try typing xterm
+   into an existing xterm window, and a new xterm client will appear on the
+   screen.
+
+   You may notice that the original xterm is now useless, because your shell
+   is waiting for the second xterm to finish. To avoid this problem, you can
+   run the X client in the backgroundby adding a & after the command name
+   like this: xterm &. If you forget, you can place a running process in the
+   background. First suspend the process with CTRL-z, and then place it in
+   the background with the bg command.
+
+   If you use a program often, your window manager will generally provide a
+   way to put that program on a convenient graphical menu.
+
+Troubleshooting
+
+   Sometimes when you launch an X client from a graphical menu, you won't be
+   able to see any error messages if it fails. You can find any error
+   messages in the file ~/.xsession-errors.
+
+Leaving the X Environment
+
+   To leave X, you need to use a menu. Unfortunately for beginners, this is
+   different for every window manager, and for most window managers, it can
+   be configured in many ways. If there's an obvious menu, look for an entry
+   like ``Exit'' or ``Close Window Manager.'' If you don't see a menu, try
+   clicking each of the mouse buttons on the background of the screen. If all
+   else fails, you can forcibly kill the X server by pressing
+   CTRL-ALT-Backspace. Forcibly killing the server destroys any unsaved data
+   in open applications.
+
+                           Customizing Your X Startup
+
+   When you start X, Debian runs some shell scripts that start your window
+   manager and other X clients. By default, a window manager, an xconsole,
+   and an xterm are started for you.
+
+   To customize your X startup, the file /etc/X11/config must contain the
+   line allow-user-xsession. If it does not, log in as root and add the line
+   now. Then log back in as yourself and continue the tutorial.
+
+   You can see how Debian's X startup works in the file /etc/X11/ Xsession.
+   Note that you can change the behavior of /etc/X11/Xsession by modifying
+   the file /etc/X11/config, which specifies a few system-wide preferences.
+
+   To run the clients of your choice when X starts, you create an executable
+   shell script called .xsession in your home directory.
+
+           $ touch ~/.xsession
+   This creates the file.
+
+           $ chmod u+x ~/.xsession
+   This makes the file executable.
+
+   Once .xsession is created, you need to edit it to do something useful with
+   your favorite text editor. You can do anything you want to in this script.
+   However, when the script's process terminates, X also terminates.
+
+   In practical terms, this means that you often end the script with a call
+   to exec. Whatever program you exec will replace the script process with
+   itself, so commands found after the exec line will be ignored. The program
+   you exec will become the new owner of the script process, which means that
+   X will terminate when this new program's process terminates.
+
+   Say you end your .xsession with the line exec fvwm. This means that the
+   fvwm window manager will be run when X starts. When you quit the fvwm
+   window manager, your X session will end, and all other clients will be
+   shut down. You do not have to use a window manager here; you could exec
+   xterm, in which case typing exit in that particular xterm would cause the
+   entire X session to end.
+
+   If you want to run other clients before you use exec, you will need to run
+   them in the background. Otherwise .xsession will pause until each client
+   exits and then continue to the next line. See the previous section on
+   running jobs in the background (basically you want to put an ampersand at
+   the end, as in xterm &).
+
+   You can take advantage of this behavior, though. If you want to run
+   commands at the end of your X session, you can have your .xsession run a
+   window manager or the like and wait for it to finish. That is, leave off
+   the exec and the &; just enter fvwm by itself. Then put the commands of
+   your choice after fvwm.
+
+   It would probably help to look at a few sample .xsession files. In all the
+   examples, replace fvwm with the window manager of your choice.
+
+   The simplest .xsession just runs a window manager:
+
+           exec fvwm
+   This will run fvwm, and the X session will end when fvwm exits. If you do
+   it without the exec, everything will appear to behave the same way, but
+   behind the scenes .xsession will hang around waiting for fvwm, and
+   .xsession will exit after fvwm does. Using exec is slightly better because
+   fvwm replaces .xsession instead of leaving it waiting. You can use the ps
+   or top command to verify this.
+
+   A more useful .xsession runs a few clients before starting the window
+   manager. For example, you might want some xterms and an xclock whenever
+   you start X. No problem; just enter xterm & xterm & xclock & exec fvwm.
+   Two xterms and an xclock start up in the background, and then the window
+   manager is launched. When you quit the window manager, you'll also quit X.
+
+   You might try it without the backgrounding just to see what happens. Enter
+   this command: xterm xclock exec fvwm. xterm will start, and wait for you
+   to exit it. Then xclock will start; you'll have to exit xclock before fvwm
+   will start. The commands are run in sequence, since the script waits for
+   each one to exit.
+
+   You can use sequential execution to your advantage. Perhaps you want to
+   keep track of when you stop working every day:
+
+           xterm &
+
+           xclock &
+
+           fvwm
+
+           date >> ~/logout-time
+
+   This will fork off an xterm and an xclock and then run fvwm and wait for
+   it to finish. When you exit fvwm, it will move on to the last line, which
+   appends the current date and time to the file ~/logout-time.
+
+   Finally, you can have a program other than the window manager determine
+   when X exits:
+
+           xclock &
+
+           fvwm &
+
+           exec xterm
+
+   This script will run xclock and fvwm in the background and then replace
+   itself with xterm. When you exit the xterm, your X session will end.
+
+   The best way to learn how to use .xsession is to try some of these things
+   out. Again, be sure you use chmod to make it executable; failure to do so
+   is a common error.
+
+                                  Filesystems
+
+   A Debian system uses a filesystem to store and manage your data. This
+   chapter introduces you to the filesystem, describes how to add and remove
+   filesystems, and shows you how to back up your system.
+
+                                    Concepts
+
+   It's probably a good idea to explain a little theory before discussing the
+   mechanics of using disks. In particular, you must understand the concept
+   of a filesystem. This can be a bit confusing because it has several
+   meanings.
+
+   The filesystem refers to the whole directory tree, starting with the root
+   directory /, as described in earlier chapters.
+
+   A filesystem in general means any organization of files and directories on
+   a particular physical device. ``Organization'' means the hierarchical
+   directory structure and any other information about files one might want
+   to keep track of: their size, who has permission to change them, etc. So
+   you might have one filesystem on your hard disk, and another one on each
+   floppy disk.
+
+   ``Filesystem'' is also used to mean a type of filesystem. For example,
+   MS-DOS and Windows 3.1 organize files in a particular way, with particular
+   rules: Filenames can have only eight characters, for example, and no
+   permission information is stored. Linux calls this the msdos filesystem.
+   Linux also has its own filesystem, called the ext2 filesystem (version two
+   of the ext filesystem). You'll use the ext2 filesystem most of the time
+   unless you're accessing files from another operating system or have other
+   special needs.
+
+   Any physical device you wish to use for storing files must have at least
+   one filesystem on it. This means a filesystem in the second sense - a
+   hierarchy of files and directories, along with information about them. Of
+   course, any filesystem has a type, so the third sense will come into play
+   as well. If you have more than one filesystem on a single device, each
+   filesystem can have a different type - for example, you might have both a
+   DOS partition and a Linux partition on your hard disk.
+
+                              mount and /etc/fstab
+
+   This section describes how to mount a floppy or Zip disk, discusses the
+   /dev directory, and addresses distributing the directory tree over
+   multiple physical devices or partitions.
+
+Mounting a Filesystem
+
+   On a GNU/Linux system there's no necessary correspondence between
+   directories and physical devices as there is in Windows, in which each
+   drive has its own directory tree beginning with a letter (such as C:\).
+
+   Instead, each physical device such as a hard disk or floppy disk has one
+   or more filesystems on it. In order to make a filesystem accessible, it's
+   assigned to a particular directory in another filesystem. To avoid
+   circularity, the root filesystem (which contains the root directory /) is
+   not stored within any other filesystem. You have access to it
+   automatically when you boot Debian.
+
+   A directory in one filesystem that contains another filesystem is known as
+   a mount point. A mount point is a directory in a first filesystem on one
+   device (such as your hard disk) that ``contains'' a second filesystem,
+   perhaps on another device (such as a floppy disk). To access a filesystem,
+   you must mount it at some mount point.
+
+   So, for example, you might mount a CD at the mount point /cdrom. This
+   means that if you look in the directory /cdrom, you'll see the contents of
+   the CD. The /cdrom directory itself is actually on your hard disk. For all
+   practical purposes, the contents of the CD become a part of the root
+   filesystem, and when you type commands and use programs, it doesn't make
+   any difference what the actual physical location of the files is. You
+   could have created a directory on your hard disk called /cdrom and put
+   some files in it, and everything would behave in exactly the same way.
+   Once you mount a filesystem, there's no need to pay any attention to
+   physical devices.
+
+   However, before you can mount a filesystem or actually create a filesystem
+   on a disk that doesn't have one yet, it's necessary to refer to the
+   devices themselves. All devices have names, which are located in the /dev
+   directory. If you type ls /dev now, you'll see a pretty lengthy list of
+   every possible device you could have on your Debian system. For a summary
+   of some devices, see Table 2.1 on page [*]. A more thorough list can be
+   found on your system in the file /usr/src/linux/Documentation/devices.txt.
+
+   To mount a filesystem, we want to tell Linux to associate whatever
+   filesystem it finds on a particular device with a particular mount point.
+   In the process, we might have to tell Linux what kind of filesystem to
+   look for.
+
+Example: Mounting a CD-ROM
+
+   As a simple demonstration, we'll go through mounting a CD-ROM, such as the
+   one you may have used to install Debian. You'll need to be root to do
+   this, so be careful; whenever you're root, you have the power to
+   manipulate the whole system, not just your own files. Also, these commands
+   assume there's a CD in your drive; you should put one in the drive now.
+   Then start with the following command:
+
+           su
+   If you haven't already, you need to either log in as root or gain root
+   privileges with the su (super user) command. If you use su, enter the root
+   password when prompted.
+
+           ls /cdrom
+   Use this command to see what's in the /cdrom directory before you start.
+   If you don't have a /cdrom directory, you may have to make one using
+   mkdir /cdrom.
+
+           mount
+   Simply typing mount with no arguments lists the currently mounted
+   filesystems.
+
+           mount -t iso9660 CD-device /cdrom
+   For this command, you should substitute the name of your CD-ROM device for
+   CD-device in the above command line. If you aren't sure, /dev/cdrom is a
+   good guess because the install process should have created this symbolic
+   link on the system. If that fails, try the different IDE devices:
+   /dev/hdc, etc. You should see a message like this: mount: block device
+   /dev/hdc is write-protected, mounting read-only.
+
+   The -t option specifies the type of the filesystem, in this case iso9660.
+   Most CDs are iso9660. The next argument is the name of the device to
+   mount, and the final argument is the mount point. There are many other
+   arguments for mount; see the manual page for details.
+
+   Once a CD is mounted, you may find that your drive tray will not open. You
+   must unmount the CD before removing it.
+
+           ls /cdrom
+   Confirms that /cdrom now contains whatever is on the CD in your drive.
+
+           mount
+   Displays the list of filesystems again; notice that your CD drive is now
+   mounted.
+
+           umount /cdrom
+   This unmounts the CD. It's now safe to remove the CD from the drive.
+   Notice that the command is umount with no ``n,'' even though it's used to
+   unmount the filesystem.
+
+           exit
+   Don't leave yourself logged on as root. Log out immediately, just to be
+   safe.
+
+/etc/fstab: Automating the Mount Process
+
+   The file /etc/fstab (it stands for ``filesystem table'') contains
+   descriptions of filesystems that you mount often. These filesystems can
+   then be mounted with a shorter command, such as mount /cdrom. You can also
+   configure filesystems to mount automatically when the system boots. You'll
+   probably want to mount all of your hard disk filesystems when you boot, so
+   Debian automatically adds entries to fstab to do this for you.
+
+   Look at this file now by typing more /etc/fstab. It will have two or more
+   entries that were configured automatically when you installed the system.
+   It probably looks something like this:
+
+           # /etc/fstab: static file system information.
+
+           #
+
+           # <file system> <mount point> <type> <options> #<dump > <pass>
+
+           /dev/hda1 / ext2 defaults 0 1
+
+           /dev/hda3 none swap sw 0 0
+
+           proc /proc proc defaults 0 0
+
+           /dev/hda5 /tmp ext2 defaults 0 2
+
+           /dev/hda6 /home ext2 defaults 0 2
+
+           /dev/hda7 /usr ext2 defaults 0 2
+
+           /dev/hdc /cdrom iso9660 ro,noauto 0 0
+
+           /dev/fd0 /floppy auto noauto,sync 0 0
+
+   The first column lists the device the filesystem resides on. The second
+   lists the mount point, the third indicates the filesystem type. The line
+   beginning by proc is a special filesystem. Notice that the swap partition
+   (/dev/hda3 in the example) has no mount point, so the mount point column
+   contains none.
+
+   The last three columns may require some explanation.
+
+   The fifth column is used by the dump utility to decide when to back up the
+   filesystem. In most cases, you can put 0 here.
+
+   The sixth column is used by fsck to decide in what order to check
+   filesystems when you boot the system. The root filesystem should have a 1
+   in this field, filesystems that don't need to be checked (such as the swap
+   partition) should have a 0, and all other filesystems should have a 2.
+   It's worth noting that the swap partition isn't exactly a filesystem in
+   the sense that it does not contain files and directories but is just used
+   by the Linux kernel as secondary memory. However, for historical reasons,
+   the swap partitions are still listed in the same file as the filesystems.
+
+   Column four contains one or more options to use when mounting the
+   filesystem. You can check the mount manpage for a summary; see section 5.1
+   on page [*].
+
+Removable Disks (Floppies, Zip Disks, Etc.)
+
+   Add the following lines to your /etc/fstab file:
+
+           /dev/sda1 /mnt/zip ext2 noauto,user 0 0
+
+           /dev/sda4 /mnt/dos msdos noauto,user 0 0
+
+   From now on, you'll be able to mount the DOS-formatted Zip disks with the
+   command mount /mnt/dos, and you be able to mount Linux-formatted Zip disks
+   with the command mount /mnt/zip.
+
+   If you have SCSI hard disks in your system, you'll have to change sda to
+   sdb or sdc in the example above.
+
+                                  Backup Tools
+
+   Backups are important under any operating system. Debian GNU/Linux
+   provides several different utilities that you might want to use.
+   Additionally, while many of these utilities were aimed at tape backups
+   originally, you'll find that they are now being used for other things. For
+   instance, tar is being used for distributing programs over the Internet.
+   Some of the utilities that you'll find include the following:
+
+     * Taper is a menu-driven, easy-to-learn backup program that can back up
+       to a variety of media. Its limitation is that it doesn't handle large
+       (4GB or larger) backups.
+     * dump is designed specifically for tapes; its main strengths are its
+       interface for file restores, low-level filesystem backups, and
+       incremental backup scheduling. Its limitations include the inability
+       to back up NFS or other non-ext2 filesystems and some rather arcane
+       defaults.
+     * GNU tar (short for Tape ARchiver) is an implementation of what is
+       probably the most widely used backup or archiving utility in Linux
+       today. It makes a good general purpose tool and can deal with the
+       widest variety of target media. Additionally, many different systems
+       can read tar files, making them highly portable. tar's weaknesses
+       include a weaker incremental backup system than dump and no
+       interactive restore selection screen.
+
+tar
+
+   Because tar is used so much, and for quite a bit in addition to backups,
+   it is being described here. For more details, see the tar manual page;
+   instructions for viewing manual pages can be found in section 5.1 on page
+   [*].
+
+   tar is an archiver. This means that tar can take many files and combine
+   them all into one large file or write them out to a backup device such as
+   a tape drive. Once you have this one large file, you will often want to
+   compress it; the -z option is great for this. Hence, tar offers a great
+   way to distribute programs and data on the Internet, and you'll find that
+   it is used extensively for this purpose.
+
+   Here's a sample tar command line:
+
+           tar -zcvf myfiles.tar.gz /usr/local/bin
+   Let's take a look at how this command can be broken down:
+
+   tar
+           Name of the command.
+
+
+           Tells tar that options will follow.
+
+   z
+           Tells tar to use gzip compression automatically; if you use this,
+           it's good to add a .gz extension as well.
+
+   c
+           Tells tar to create a new archive.
+
+   v
+           This says to be verbose; that is, it tells tar to let you know
+           what it's doing while it creates the archive.
+
+   f
+           This indicates that the next thing on the command line is the name
+           of the file to be created or the device to be used. If I used
+           /dev/st0 here, for instance, it would write the backup to the tape
+           drive.
+
+   myfiles.tar.gz
+           This is the name of the file to be created.
+
+   /usr/local/bin
+           This is the name of the file or directory to store in the archive.
+           It's also possible to specify several items here.
+
+   You may often find tar.gz files (or simply tgz files) on the Internet. You
+   can unpack these with a command like:
+
+           tar -zxvf filename.tar.gz
+
+                                   Networking
+
+   One of the key benefits of GNU/Linux over other systems lies in its
+   networking support. Few systems can rival the networking features present
+   in GNU/Linux. In this chapter, we tell you how to configure your network
+   devices.
+
+                                      PPP
+
+   This section is a quick-start guide to setting up PPP on Debian. If it
+   turns out that you need more details, see the excellent |PPP HOWTO| from
+   the Linux Documentation Project. The HOWTO goes into much more detail if
+   you're interested or have unique needs.
+
+Introduction
+
+   If you connect to the Internet over a phone line, you'll want to use PPP
+   (Point-to-Point Protocol). This is the standard connection method offered
+   by ISPs (Internet service providers). In addition to using PPP to dial
+   your ISP, you can have your computer listen for incoming connections -
+   this lets you dial your computer from a remote location.
+
+Preparation
+
+   Configuring PPP on Debian GNU/Linux is straightforward once you have all
+   the information you'll need. Debian makes things even easier with its
+   simple configuration tools.
+
+   Before you start, be sure you have all the information provided by your
+   ISP. This might include:
+
+     * Username or login
+     * Password
+     * Your static IP (Internet Protocol) address, if any (these look like
+       209.81.8.242). This information isn't needed for most ISPs.
+     * Bitmask (this will look something like 255.255.255.248). This
+       information isn't needed for most ISPs.
+     * The IP addresses of your ISP's name servers (or DNS).
+     * Any special login procedure required by the ISP.
+   Next, you'll want to investigate your hardware setup: whether your modem
+   works with GNU/Linux and which serial port it's connected to.
+
+   A simple rule determines whether your modem will work. If it's a
+   ``winmodem'' or ``host-based modem,'' it won't work. These modems are
+   cheap because they have very little functionality, and they require the
+   computer to make up for their shortcomings. Unfortunately, this means they
+   are complex to program, and manufacturers generally do not make the
+   specifications available for developers.
+
+   If you have a modem with its own on-board circuitry or an external modem,
+   you should have no trouble at all.
+
+   On GNU/Linux systems, the serial ports are referred to as /dev/ttyS0,
+   /dev/ttyS1, and so on. Your modem is almost certainly connected to either
+   port 0 or port 1, equivalent to COM1: and COM2: under Windows. If you
+   don't know which your modem is connected to, run the program wvdialconf to
+   try to detect it (see below); otherwise, just try both and see which
+   works.
+
+   If you want to talk to your modem or dial your ISP without using PPP, you
+   can use the minicom program. You may need to install the minicom package
+   to make the program available.
+
+The Easy Way: wvdial
+
+   The simplest way to get PPP running is with the wvdial program. It makes
+   some reasonable guesses and tries to set things up for you. If it works,
+   you're in luck. If it guesses wrong, you'll have to do things manually.
+
+   Be sure you have the following packages installed:
+
+     * ppp
+     * ppp-pam
+     * wvdial
+   When you install the wvdial package, you may be given the opportunity to
+   configure it. Otherwise, to set up wvdial, follow these simple steps:
+
+   Log in as root, using su (as described in an earlier chapter).
+
+           touch /etc/wvdial.conf
+   touch will create the following file if the file doesn't exist; the
+   configuration program requires an existing file.
+
+           wvdialconf /etc/wvdial.conf
+   This means you're creating a configuration file, /etc/wvdial.conf.
+
+   Answer any questions that appear on the screen. wvdialconf will also scan
+   for your modem and tell you which serial port it's on; you may want to
+   make a note of this for future reference.
+
+                                    Ethernet
+
+   Another popular way to connect to the Internet is via a LAN that uses
+   Ethernet. This gives you a high-speed local network in addition to
+   Internet access. Fortunately, though, you should have already configured
+   Ethernet networking during installation so there isn't much you need to do
+   now. If you ever need to modify your configuration, here are the files
+   that you will be interested in:
+
+     * /etc/init.d/network has things such as your IP address, netmask, and
+       default route.
+     * /etc/hostname records your hostname.
+     * /etc/hosts also records your hostname and IP address.
+
+                        Removing and Installing Software
+
+   This chapter describes ways of installing and removing software packages.
+   There are several ways of doing both. Here we discuss installation and
+   removal of pre-built software, such as Debian packages, and installation
+   of source that must be built by you.
+
+                    What a Package Maintenance Utility Does
+
+   An application or utility program usually involves quite a few files. It
+   might include libraries, data files like game scenarios or icons,
+   configuration files, manual pages, and documentation. When you install the
+   program, you want to make sure you have all the files you need in the
+   right places.
+
+   You'd also like to be able to uninstall the program. When you uninstall,
+   you want to be sure all the associated files are deleted. However, if a
+   program you still have on the system needs those files, you want to be
+   sure you keep them.
+
+   Finally, you'd like to be able to upgrade a program. When you upgrade, you
+   want to delete obsolete files and add new ones, without breaking any part
+   of the system.
+
+   The Debian package system solves these problems. It allows you to install,
+   remove, and upgrade software packages, which are neat little bundles
+   containing the program files and information that helps the computer
+   manage them properly. Debian packages have filenames ending in the
+   extension .deb, and they're available on the FTP site or on your official
+   Debian CD-ROM.
+
+                                      dpkg
+
+   The simplest way to install a single package you've downloaded is with the
+   command dpkg -i (short for dpkg -install). Say you've downloaded the
+   package icewm_0.8.12-1.deb and you'd like to install it. First log on as
+   root, and then type dpkg -i icewm_0.8.12-1.deb, and icewm version 0.8.12
+   will be installed. If you already had an older version, dpkg will upgrade
+   it rather than installing both versions at once.
+
+   If you want to remove a package, you have two options. The first is most
+   intuitive: dpkg -r icewm. This will remove the icewm package (-r is short
+   for -remove). Note that you give only the icewm for -remove, whereas
+   -install requires the entire .deb filename.
+
+   -remove will leave configuration files for the package on your system. A
+   configuration file is defined as any file you might have edited in order
+   to customize the program for your system or your preferences. This way, if
+   you later reinstall the package, you won't have to set everything up a
+   second time.
+
+   However, you might want to erase the configuration files too, so dpkg also
+   provides a -purge option. dpkg -purge icewm will permanently delete every
+   last file associated with the icewm package.
+
+                                    dselect
+
+   dselect is a great front-end for dpkg. dselect provides a menu interface
+   for dpkg, and can automatically fetch the appropriate files from a CD-ROM
+   or Internet FTP site. For details on using dselect, see section 3.20 on
+   page [*].
+
+                               Compiling Software
+
+   Many programs come in source format, often in tar.gz form. First, you must
+   unpack the tar.gz file; for details on doing this, see section 10.3.1 on
+   page [*]. Before you can compile the package, you'll need to have gcc,
+   libc6-dev, and other relevant ``-dev'' packages installed; most of these
+   are listed in the devel area in dselect.
+
+   With the appropriate packages installed, cd into the directory that tar
+   created for you. At this point, you'll need to read the installation
+   instructions. Most programs provide an INSTALL or README file that will
+   tell you how to proceed.
+
+                                Advanced Topics
+
+   By now, you should have a strong base for which to build your GNU/Linux
+   skills on. In this chapter we cover some very useful information regarding
+   some advanced GNU/Linux features.
+
+                              Regular Expressions
+
+   A regular expression is a description of a set of characters. This
+   description can be used to search through a file by looking for text that
+   matches the regular expression. Regular expressions are analogous to shell
+   wildcards (see section 6.6 on page [*]), but they are both more
+   complicated and more powerful.
+
+   A regular expression is made up of text and metacharacters. A
+   metacharacter is just a character with a special meaning. Metacharacters
+   include the following: . * [] - \^ $.
+
+   If a regular expression contains only text (no metacharacters), it matches
+   that text. For example, the regular expression ``my regular expression''
+   matches the text ``my regular expression,'' and nothing else. Regular
+   expressions are usually case sensitive.
+
+   You can use the egrep command to display all lines in a file that contain
+   a regular expression. Its syntax is as follows:
+
+           egrep 'regexp' filename1 ...
+   The single quotation marks are not always needed, but they never hurt.
+
+   For example, to find all lines in the GPL that contain the word GNU, you
+   type
+
+           egrep 'GNU' /usr/doc/copyright/GPL
+   egrep will print the lines to standard output. If you want all lines that
+   contain freedom followed by some indeterminate text, followed by GNU, you
+   can do this:
+
+           egrep 'freedom.*GNU' /usr/doc/copyright/GPL
+   The . means ``any character,'' and the * means ``zero or more of the
+   preceding thing,'' in this case ``zero or more of any character.'' So .*
+   matches pretty much any text at all. egrep only matches on a line-by-line
+   basis, so freedom and GNU have to be on the same line.
+
+   Here's a summary of regular expression metacharacters:
+
+   .
+           Matches any single character except newline.
+
+
+           Matches zero or more occurrences of the preceding thing. So the
+           expression a* matches zero or more lowercase a, and .* matches
+           zero or more characters.
+
+   [characters]
+           The brackets must contain one or more characters; the whole
+           bracketed expression matches exactly one character out of the set.
+           So [abc]matches one a, one b, or one c; it does not match zero
+           characters, and it does not match a character other than these
+           three.
+
+   ^
+           Anchors your search at the beginning of the line. The expression
+           ^The matches The when it appears at the beginning of a line; there
+           can't be spaces or other text before The. If you want to allow
+           spaces, you can permit 0 or more space characters like this: ^
+           *The.
+
+   $
+           Anchors at the end of the line. end$ requires the text end to be
+           at the end of the line, with no intervening spaces or text.
+
+   [^characters]
+           This reverses the sense of a bracketed character list. So [^abc]
+           matches any single character, except a, b, or c.
+
+   [character-character]
+           You can include ranges in a bracketed character list. To match any
+           lowercase letter, use [a-z]. You can have more than one range; so
+           to match the first three or last three letters of the alphabet,
+           try [a-cx-z]. To get any letter, any case, try [a-zA-Z]. You can
+           mix ranges with single characters and with the ^metacharacter; for
+           example, [^a-zBZ]means ``anything except a lowercase letter,
+           capital B, or capital Z.''
+
+   ()
+           You can use parentheses to group parts of the regular expression,
+           just as you do in a mathematical expression.
+
+   |
+           |means ``or.'' You can use it to provide a series of alternative
+           expressions. Usually you want to put the alternatives in
+           parentheses, like this: c(ad|ab|at)matches cad or cab or cat.
+           Without the parentheses, it would match cad or ab or at instead
+
+   \
+           Escapes any special characters; if you want to find a literal *,
+           you type \*. The slash means to ignore *'s usual special meaning.
+
+   Here are some more examples to help you get a feel for things:
+
+   c.pe
+           matches cope, cape, caper.
+
+   c\ .pe
+           matches c.pe, c.per.
+
+   sto*p
+           matches stp, stop, stoop.
+
+   car.*n
+           matches carton, cartoon, carmen.
+
+   xyz.*
+           matches xyz and anything after it; some tools, like egrep, only
+           match until the end of the line.
+
+   ^The
+           matches The at the beginning of a line.
+
+   atime$
+           matches atime at the end of a line.
+
+   ^Only$
+           matches a line that consists solely of the word Only - no spaces,
+           no other characters, nothing. Only Only is allowed.
+
+   b[aou]rn
+           matches barn, born, burn.
+
+   Ver[D-F]
+           matches VerD, VerE, VerF.
+
+   Ver[^0-9]
+           matches Ver followed by any non-digit.
+
+   the[ir][re]
+           matches their, therr, there, theie.
+
+   [A-Za-z][A-Za-z]*
+           matches any word which consists of only letters, and at least one
+           letter. It will not match numbers or spaces.
+
+                                 Advanced Files
+
+   Now that you have a basic understanding of files, it is time to learn more
+   advanced things about them.
+
+The Real Nature of Files: Hard Links and Inodes
+
+   Each file on your system is represented by an inode (for Information Node;
+   pronounced ``eye-node''). An inode contains all the information about the
+   file. However, the inode is not directly visible. Instead, each inode is
+   linked into the filesystem by one or more hard links. Hard links contain
+   the name of the file and the inode number. The inode contains the file
+   itself, i.e., the location of the information being stored on disk, its
+   access permissions, the file type, and so on. The system can find any
+   inode if it has the inode number.
+
+   A single file can have more than one hard link. What this means is that
+   multiple filenames refer to the same file (that is, they are associated
+   with the same inode number). However, you can't make hard links across
+   filesystems: All hard references to a particular file (inode) must be on
+   the same filesystem. This is because each filesystem has its own set of
+   inodes, and there can be duplicate inode numbers on different filesystems.
+
+   Because all hard links to a given inode refer to the same file, you can
+   make changes to the file, referring to it by one name, and then see those
+   changes when referring to it by a different name. Try this:
+
+           cd; echo "hello" > firstlink
+   cd to your home directory and create a file called firstlink containing
+   the word ``hello.'' What you've actually done is redirect the output of
+   echo (echo just echoes back what you give to it), placing the output in
+   firstlink. See the chapter on shells for a full explanation.
+
+           cat firstlink
+   Confirms the contents of firstlink.
+
+           ln firstlink secondlink
+   Creates a hard link: secondlink now points to the same inode as firstlink.
+
+           cat secondlink
+   Confirms that secondlink is the same as firstlink.
+
+           ls -l
+   Notice that the number of hard links listed for firstlink and
+   secondlinkfiles!inodes is 2.
+
+           echo "change" >> secondlink
+   This is another shell redirection trick (don't worry about the details).
+   You've appended the word ``change'' to secondlink. Confirm this with cat
+   secondlink.
+
+           cat firstlink
+   firstlink also has the word ``change'' appended! That's because firstlink
+   and secondlink refer to the same file. It doesn't matter what you call it
+   when you change it.
+
+           chmod a+rwx firstlink
+   Changes permissions on firstlink. Enter the command ls -l to confirm that
+   permissions on secondlink were also changed. This means that permissions
+   information is stored in the inode, not in links.
+
+           rm firstlink
+   Deletes this link. This is a subtlety of rm. It really removes links, not
+   files. Now type ls -l and notice that secondlink is still there. Also
+   notice that the number of hard links for secondlink has been reduced to
+   one.
+
+           rm secondlink
+   Deletes the other link. When there are no more links to a file, Linux
+   deletes the file itself, that is, its inode.
+
+   All files work like this - even special types of files such as devices
+   (e.g. /dev/hda).
+
+   A directory is simply a list of filenames and inode numbers, that is, a
+   list of hard links. When you create a hard link, you're just adding a
+   name-number pair to a directory. When you delete a file, you're just
+   removing a hard link from a directory.
+
+Types of Files
+
+   One detail we've been concealing up to now is that the Linux kernel
+   considers nearly everything to be a file. That includes directories and
+   devices: They're just special kinds of files.
+
+   As you may remember, the first character of an ls -l display represents
+   the type of the file. For an ordinary file, this will be simply -. Other
+   possibilities include the following:
+
+   d
+           directory
+
+   l
+           symbolic link
+
+   b
+           block device
+
+   c
+           character device
+
+   p
+           named pipe
+
+   s
+           socket
+
+  Symbolic Links
+
+   Symbolic links (also called ``symlinks'' or ``soft links'') are the other
+   kind of link besides hard links. A symlink is a special file that ``points
+   to'' a hard link on any mounted filesystem. When you try to read the
+   contents of a symlink, it gives the contents of the file it's pointing to
+   rather than the contents of the symlink itself. Because directories,
+   devices, and other symlinks are types of files, you can point a symlink at
+   any of those things.
+
+   So a hard link is a filename and an inode number. A file is really an
+   inode: a location on disk, file type, permissions mode, etc. A symlink is
+   an inode that contains the name of a hard link. A symlink pairs one
+   filename with a second filename, whereas a hard link pairs a filename with
+   an inode number.
+
+   All hard links to the same file have equal status. That is, one is as good
+   as another; if you perform any operation on one, it's just the same as
+   performing that operation on any of the others. This is because the hard
+   links all refer to the same inode. Operations on symlinks, on the other
+   hand, sometimes affect the symlink's own inode (the one containing the
+   name of a hard link) and sometimes affect the hard link being pointed to.
+
+   There are a number of important differences between symlinks and hard
+   links.
+
+   Symlinks can cross filesystems. This is because they contain complete
+   filenames, starting with the root directory, and all complete filenames
+   are unique. Because hard links point to inode numbers, and inode numbers
+   are unique only within a single filesystem, they would be ambiguous if the
+   filesystem wasn't known.
+
+   You can make symlinks to directories, but you can't make hard links to
+   them. Each directory has hard links - its listing in its parent directory,
+   its . entry, and the .. entry in each of its subdirectories - but to
+   impose order on the filesystem, no other hard links to directories are
+   allowed. Consequently, the number of files in a directory is equal to the
+   number of hard links to that directory minus two (you subtract the
+   directory's name and the . link). comparing!hard links and symlinks You
+   can only make a hard link to a file that exists, because there must be an
+   inode number to refer to. However, you can make a symlink to any filename,
+   whether or not there actually is such a filename.
+
+   Removing a symlink removes only the link. It has no effect on the
+   linked-to file. Removing the only hard link to a file removes the file.
+
+   Try this:
+
+           cd; ln -s /tmp/me MyTmp
+   cd to your home directory. ln with the -s option makes a symbolic link -
+   in this case, one called MyTmp that points to the filename /tmp/me.
+
+           ls -l MyTmp
+   Output should look like this:
+
+           lrwxrwxrwx 1 havoc havoc 7 Dec 6 12:50 MyTmp -> /tmp/me
+   The date and user/group names will be different for you, of course. Notice
+   that the file type is l, indicating that this is a symbolic link. Also
+   notice the permissions: Symbolic links always have these permissions. If
+   you attempt to chmod a symlink, you'll actually change the permissions on
+   the file being pointed to.
+
+           chmod 700 MyTmp
+   You will get a No such file or directory error, because the file /tmp/me
+   doesn't exist. Notice that you could create a symlink to it anyway.
+
+           mkdir /tmp/me
+   Creates the directory /tmp/me.
+
+           chmod 700 MyTmp
+   Should work now.
+
+           touch MyTmp/myfile
+   Creates a file in MyTmp.
+
+           ls /tmp/me
+   The file is actually created in /tmp/me.
+
+           rm MyTmp
+   Removes the symbolic link. Notice that this removes the link, not what it
+   points to. Thus you use rm not rmdir.
+
+           rm /tmp/me/myfile; rmdir /tmp/me
+   Lets you clean up after yourself. symlinks!removing
+
+  Device Files
+
+   Device files refer to physical or virtual devices on your system, such as
+   your hard disk, video card, screen, and keyboard. An example of a virtual
+   device is the console, represented by /dev/console.
+
+   There are two kinds of devices:character and block. Character devices can
+   be accessed one character at a time. Remember the smallest unit of data
+   that can be written to or read from the device is a character (byte).
+
+   Block devices must be accessed in larger units called blocks, which
+   contain a number of characters. Your hard disk is a block device.
+
+   You can read and write device files just as you can from other kinds of
+   files, though the file may well contain some strange
+   incomprehensible-to-humans gibberish. Writing random data to these files
+   is probably a bad idea. Sometimes it's useful, though. For example, you
+   can dump a postscript file into the printer device /dev/lp0 or send modem
+   commands to the device file for the appropriate serial port.
+
+    /dev/null
+
+   /dev/null is a special device file that discards anything you write to it.
+   If you don't want something, throw it in /dev/null. It's essentially a
+   bottomless pit. If you read /dev/null, you'll get an end-of-file (EOF)
+   character immediately. /dev/zero is similar, except that you read from it
+   you get the \0 character (not the same as the number zero).
+
+  Named Pipes (FIFOs)
+
+   A named pipe is a file that acts like a pipe. You put something into the
+   file, and it comes out the other end. Thus it's called a FIFO, or
+   First-In-First-Out, because the first thing you put in the pipe is the
+   first thing to come out the other end.
+
+   If you write to a named pipe, the process that is writing to the pipe
+   doesn't terminate until the information being written is read from the
+   pipe. If you read from a named pipe, the reading process waits until
+   there's something to read before terminating. The size of the pipe is
+   always zero: It doesn't store data, it just links two processes like the
+   shell |. However, because this pipe has a name, the two processes don't
+   have to be on the same command line or even be run by the same user.
+
+   You can try it by doing the following:
+
+           cd; mkfifo mypipe
+   Makes the pipe.
+
+           echo "hello" > mypipe &
+   Puts a process in the background that tries to write ``hello'' to the
+   pipe. Notice that the process doesn't return from the background; it is
+   waiting for someone to read from the pipe.
+
+           cat mypipe
+   At this point, the echo process should return, because cat read from the
+   pipe, and the cat process will print hello.
+
+           rm mypipe
+   You can delete pipes just like any other file.
+
+  Sockets
+
+   Sockets are similar to pipes, only they work over the network. This is how
+   your computer does networking. You may have heard of ``WinSock,'' which is
+   sockets for Windows.
+
+   We won't go into these further because you probably won't have occasion to
+   use them unless you're programming. However, if you see a file marked with
+   type son your computer, you know what it is.
+
+The proc Filesystem
+
+   The Linux kernel makes a special filesystem available, which is mounted
+   under /proc on Debian systems. This is a ``pseudo-filesystem'' because it
+   doesn't really exist on any of your physical devices.
+
+   The proc filesystem contains information about the system and running
+   processes. Some of the ``files'' in /proc are reasonably understandable to
+   humans (try typing cat /proc/meminfo or cat /proc/cpuinfo); others are
+   arcane collections of numbers. Often, system utilities use these to gather
+   information and present it to you in a more understandable way.
+
+   People frequently panic when they notice one file in particular -
+   /proc/kcore - which is generally huge. This is (more or less) a copy of
+   the contents of your computer's memory. It's used to debug the kernel. It
+   doesn't actually exist anywhere, so don't worry about its size.
+
+   If you want to know about all the things in /proc, type man 5 proc.
+
+Large-Scale Copying
+
+   Sometimes you may want to copy one directory to another location. Maybe
+   you're adding a new hard disk and you want to copy /usr/local to it. There
+   are several ways you can do this.
+
+   The first is to use cp. The command cp -a will tell cp to do a copy
+   preserving all the information it can. So, you might use
+
+           cp -a /usr/local /destination
+   However, there are some things that cp -a won't catch13.1. So, the best
+   way to do a large copy job is to chain two tar commands together, like so:
+
+           tar -cSpf - /usr/local | tar -xvSpf - -C /destination
+   The first tar command will archive the existing directory and pipe it to
+   the second. The second command will unpack the archive into the location
+   you specify with -C.
+
+                                    Security
+
+   Back in section 7.1 on page [*], we discussed file permissions in Linux.
+   This is a fundamental way to keep your system secure. If you are running a
+   multi-user system or a server, it is important to make sure that
+   permissions are correct. A good rule of thumb is to set files to have the
+   minimum permissions necessary for use.
+
+   If you are running a network server, there are some other things to be
+   aware of as well. First, you ought to uninstall or turn off any network
+   services you're not using. A good place to start is the file
+   /etc/inetd.conf; you can probably disable some of these. For most network
+   services, it's also possible to control who has access to them; the
+   /etc/hosts.allow and /etc/hosts.deny files (documented in
+   man 5 hosts_access) can control who has access to which services. You also
+   ought to keep up-to-date with patches or updates to Debian; these can be
+   found on your nearest Debian FTP mirror.
+
+   Some other commonsense rules apply:
+
+     * Never tell anyone your password.
+     * Never send your password in cleartext across the Internet by using
+       something like telnet or FTP. Instead, use encrypted protocols or
+       avoid logging in remotely.
+     * Avoid using root as much as possible.
+     * Don't install untrusted software, and don't install it as root.
+     * Avoid making things world-writable whenever possible. /tmp is one
+       exception to this rule.
+   While this is probably not of as much use to somebody not running a
+   server, it is still pays to know a bit about security. Debian's security
+   mechanism is what protects your system from many viruses.
+
+                        Software Development with Debian
+
+   Debian makes a great platform for software development and programming.
+   Among the languages and near-languages it supports are: C, C++,
+   Objective-C, Perl, Python, m4, Ada, Pascal, Java, awk, Tcl/Tk, SQL,
+   assembler, Bourne shell, csh, and more. Writing programs is beyond the
+   scope of this book, but here are some of the more popular development
+   programs in Debian:
+
+   gcc
+           The GNU C Compiler, a modern optimizing C compiler.
+
+   g++
+           The C++ compiler from the gcc line.
+
+   cpp
+           The C preprocessor from gcc.
+
+   perl
+           The Perl interpreter. Perl is a great ``glue'' language.
+
+   gdb
+           GNU Debugger, used to debug programs in many different languages.
+
+   gprof
+           Used for profiling, this program helps you to find ways to improve
+           the performance of your programs.
+
+   emacs
+           GNU Emacs is a programmers' editor and IDE.
+
+   as
+           The GNU Assembler.
+
+                                   Reference
+
+                     Reading Documentation and Getting Help
+
+                             Kinds of Documentation
+
+   On Debian systems, you can find documentation in at least the following
+   places:
+
+     * man pages, read with the man command.
+     * info pages, read with the info command.
+     * The /usr/doc/package directories, where package is the name of the
+       Debian package.
+
+         Tip:
+
+         zless is useful for reading the files in /usr/doc; see section 8.1
+         on page [*] for details.
+
+     * /usr/doc/HOWTO/contains the Linux Documentation Project's
+       HOWTO documents, if you've installed the Debian packages containing
+       them.
+
+     * Many commands have an -h or -help option. Type the command name
+       followed by one of these options to try it.
+     * The Debian Documentation Project has written some manuals.
+     * The Debian support page has a FAQ and other resources. You can also
+       try the Linux web site.
+   The confusing variety of documentation sources exists for many reasons.
+   For example, info is supposed to replace man, but man hasn't disappeared
+   yet. However, it's nice to know that so much documentation exists!
+
+   So where to look for help? Here are some suggestions:
+
+     * Use the man pages and the -help or -h option to get a quick summary of
+       a command's syntax and options. Also use man if a program doesn't yet
+       have an info page.
+     * Use info if a program has info documentation.
+     * If neither of those works, look in /usr/doc/packagename.
+     * /usr/doc/packagename often has Debian-specific information, even if
+       there's a man page or info page.
+     * Use the HOWTOs for instructions on how to set up a particular thing or
+       for information on your particular hardware. For example, the Ethernet
+       HOWTO has a wealth of information on Ethernet cards, and the PPP HOWTO
+       explains in detail how to set up PPP.
+     * Use the Debian Documentation Project manuals for conceptual
+       explanations and Debian-specific information.
+     * If all else fails, ask someone. See section A.1.3 on page [*].
+   Using man pages is discussed above in section 5.1 on page [*]. It's very
+   simple: press the space bar to go to the next page, and press q to quit
+   reading. Using info, viewing files in /usr/doc, and asking for help from a
+   person are all discussed in the remainder of this chapter.
+
+Using info
+
+   info is the GNU documentation viewer. Some programs provide
+   documentationin info format, and you can use info to view that
+   documentation. You can start up the viewer by simply typing info, or by
+   supplying a topic as well:
+
+           info emacs
+   You can also bring up the information on info itself, which includes a
+   tutorial, like so:
+
+           info info
+   Now, you may navigate with these keys:
+
+   arrows
+           Move the cursor around the document
+
+   m RET
+           Select the menu item that's at the cursor
+
+   u
+           Move ``up'' in the document
+
+   n
+           Move to the next page
+
+   p
+           Move to the previous page
+
+   s
+           Search for something
+
+   g
+           Go to a specific page
+
+   q
+           Quit info
+
+   You might notice that the top line of the screen indicates the next,
+   previous, and ``up'' pages, corresponding nicely to the actions for the n,
+   p, and u keys.
+
+HOWTOs
+
+   In addition to their books, the Linux Documentation Project has made a
+   series of short documents describing how to set up particular aspects of
+   GNU/Linux. For instance, the SCSI-HOWTO describes some of the
+   complications of using SCSI - a standard way of talking to devices - with
+   GNU/Linux. In general, the HOWTOs have more specific information about
+   particular hardware configurations and will be more up to date than this
+   manual.
+
+   There are Debian packages for the HOWTOs. doc-linux-text contains the
+   various HOWTOs in text form; the doc-linux-html package contains the
+   HOWTOs in (surprise!) browsable HTML format. Note also that Debian has
+   packaged translations of the HOWTOs in various languages that you may
+   prefer if English is not your native language. Debian has packages for the
+   German, French, Spanish, Italian, Japanese, Korean, Polish, Swedish and
+   Chinese versions of the HOWTOs. These are usually available in the package
+   doc-linux-languagecode, where languagecode is fr for French, es for
+   Spanish, etc. If you've installed one of these, you should have them in
+   /usr/doc/HOWTO. However, you may be able to find more recent versions on
+   the Net at the LDP homepage.
+
+Personal Help
+
+   The correct place to ask for help with Debian is the debian-user mailing
