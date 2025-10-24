@@ -1,0 +1,3620 @@
++------------------------------------------------------------------+
+  | Anmerkungen zur Transkription                                    |
+  |                                                                  |
+  | Gesperrter Text (verwendet für Rollen) ist als _gesperrt_        |
+  | dargestellt, kleinere Schrift (für Regieanweiseungen, immer in   |
+  | Klammern) als ($Anweisung$), und Antiqua-Schrift als =Antiqua=.  |
+  |                                                                  |
+  | Im Text wurde folgende Korrektur vorgenommen:                    |
+  |                                                                  |
+  | S. 14  "Gascha" durch "Sascha" ersetzt.                          |
+  |                                                                  |
+  +------------------------------------------------------------------+
+
+
+
+
+                       Der lebende Leichnam
+
+                Drama in sechs Akten (zwölf Bildern)
+
+                              von
+
+                        L. N. Tolstoi
+
+                        [Illustration]
+
+                    Übertragen von H. Röhl
+
+                 Im Insel-Verlag zu Leipzig
+
+
+
+
+Personen:
+
+
+  _Fjodor Wasiljewitsch Protasow_ (_Fedja_).
+  _Jelisaweta Andrejewna Protasowa_ (_Lisa_), seine Frau.
+  _Mischa_, der Sohn der beiden.
+  _Anna Pawlowna_, Lisas Mutter.
+  _Sascha_, ein junges Mädchen, Lisas Schwester.
+  _Viktor Michailowitsch Karenin._
+  _Anna Dmitrijewna Karenina._
+  _Fürst Sergei Dmitrijewitsch Abreskow._
+  _Mascha_, eine junge Zigeunerin.
+  _Iwan Makarowitsch_, ein alter Zigeuner     } Maschas
+  _Nastasja Iwanowna_, eine alte Zigeunerin   }  Eltern.
+  Ein Offizier.
+  Ein Musiker.
+  Erster Zigeuner.
+  Zweiter Zigeuner.
+  Eine Zigeunerin.
+  Zigeuner und Zigeunerinnen (Chor).
+  Ein Arzt.
+  _Michail Andrejewitsch Afremow._
+  _Stachow_     }
+  _Butkewitsch_ } Freunde Fedjas.
+  _Korotkow_    }
+  _Iwan Petrowitsch Alexandrow._
+  _Wosnesenski_, Karenins Sekretär.
+  _Pjetuschkow_, ein Künstler.
+  _Artemjew._
+  Ein Kellner in einer =chambre séparée=.
+  Ein Kellner im Restaurant.
+  Der Wirt des Restaurants.
+  Ein Schutzmann.
+  Der Untersuchungsrichter.
+  _Melnikow._
+  Der Protokollführer des Untersuchungsrichters.
+  Ein Gerichtsdiener.
+  Ein junger Rechtsanwalt.
+  _Petruschin_, Rechtsanwalt.
+  Eine Dame.
+  Ein Offizier.
+  Ein Gerichtsbeamter.
+  Die Kinderfrau bei Protasows.
+  Das Stubenmädchen bei Protasows (_Dunjascha_).
+  Afremows Diener.
+  Ein Diener bei Karenins.
+
+
+
+
+Erster Akt
+
+
+Erstes Bild
+
+  Die Handlung spielt in Moskau, in Protasows Wohnung. Die Szene stellt
+  ein kleines Speisezimmer vor.
+
+
+Erster Auftritt
+
+  _Anna Pawlowna_, eine korpulente, grauhaarige Dame, sitzt im Korsett
+  allein am Teetisch.
+
+
+Zweiter Auftritt
+
+  Anna Pawlowna und die Kinderfrau, die mit einer Teekanne hereinkommt.
+
+_Kinderfrau_: Kann ich bei Ihnen etwas heißes Wasser bekommen?
+
+_Anna Pawlowna_: Jawohl. Was macht der kleine Mascha?
+
+_Kinderfrau_: Er ist sehr unruhig. Es ist recht übel, daß die gnädige
+Frau ihn selbst nährt. Sie hat so ihren Kummer, und das Kind leidet
+darunter. Was muß das für eine Milch geben, wenn die gnädige Frau bei
+Nacht nicht schläft, sondern immerzu weint.
+
+_Anna Pawlowna_: Aber ich denke, sie hat sich jetzt beruhigt?
+
+_Kinderfrau_: Gott bewahre! Es zieht einem das Herz zusammen, wenn man
+sie ansieht! Sie hat da etwas geschrieben und dabei immerzu geweint.
+
+
+Dritter Auftritt
+
+  Anna Pawlowna, die Kinderfrau und Sascha, welche eintritt.
+
+_Sascha_ ($zur Kinderfrau$): Lisa sucht Sie.
+
+_Kinderfrau_: Ich geh schon, ich geh schon. ($Ab.$)
+
+
+Vierter Auftritt
+
+  Anna Pawlowna und Sascha.
+
+_Anna Pawlowna_: Die Kinderfrau sagt, sie weint immerzu. Daß sie sich
+immer noch nicht beruhigen kann!
+
+_Sascha_: Nein, Mama, über Sie muß man sich wirklich wundern. Sie
+soll sich von ihrem Manne, dem Vater ihres Kindes, lossagen, und Sie
+verlangen, sie solle dabei ruhig sein!
+
+_Anna Pawlowna_: Daß sie dabei ruhig sein soll, verlange ich nicht.
+Aber was geschehen ist, das ist geschehen. Wenn ich als Mutter es
+nicht nur zugelassen habe, sondern mich sogar darüber freue, daß
+meine Tochter sich von diesem Manne lossagt, so muß er das doch wohl
+verdienen. Nicht grämen sollte sie sich, sondern sich freuen, daß sie
+von einem so schlechten Subjekte, von einem solchen Goldmenschen frei
+kommt.
+
+_Sascha_: Mama, warum reden Sie so? Sie wissen ja doch, daß das
+nicht wahr ist. Er ist kein schlechter, sondern im Gegenteil ein
+vortrefflicher, ganz vortrefflicher Mensch, trotz seiner Schwächen.
+
+_Anna Pawlowna_: Na ja, ein vortrefflicher Mensch! Sobald er nur Geld
+in die Hände bekommt, sei es eigenes oder fremdes ...
+
+_Sascha_: Mama, er hat nie fremdes Geld genommen.
+
+_Anna Pawlowna_: Ganz egal, das Geld seiner Frau.
+
+_Sascha_: Aber er hat ja doch sein ganzes Vermögen seiner Frau
+hingegeben.
+
+_Anna Pawlowna_: Warum hätte er es ihr auch nicht hingeben sollen, da
+er ja wußte, daß er sonst doch alles durchbringen würde.
+
+_Sascha_: Ob er es nun durchbringt oder nicht, ich weiß nur, daß man
+sich von seinem Manne nicht scheiden lassen darf, und am wenigsten von
+einem solchen wie Fedja.
+
+_Anna Pawlowna_: Nach deiner Meinung muß man damit warten, bis er alles
+durchgebracht hat und seine Zigeunerliebsten ins Haus bringt?
+
+_Sascha_: Er hat keine Liebsten.
+
+_Anna Pawlowna_: Das ist eben das Malheur, daß er euch alle irgendwomit
+behext hat. Nur mich nicht; ich durchschaue ihn, und er weiß das. An
+Lisas Stelle würde ich mich nicht erst jetzt von ihm losmachen, sondern
+ich hätte es schon vor einem Jahre getan.
+
+_Sascha_: Wie Sie das nur so leichten Herzens sagen können!
+
+_Anna Pawlowna_: Nein, nicht leichten Herzens. Mir als Mutter ist es
+ein Schmerz, meine Tochter als geschiedene Frau zu sehen. Glaube mir,
+daß mir das ein großer Schmerz ist. Aber es ist doch immer noch besser,
+als daß sie ihr junges Leben zugrunde richtet. Nein, ich danke Gott,
+daß sie sich jetzt entschlossen hat, und daß nun alles zu Ende ist.
+
+_Sascha_: Vielleicht ist es doch noch nicht zu Ende.
+
+_Anna Pawlowna_: Ach was! Wenn er nur erst in die Scheidung einwilligt.
+
+_Sascha_: Was soll daraus Gutes hervorgehen?
+
+_Anna Pawlowna_: Nun, sie ist noch jung und kann noch glücklich werden.
+
+_Sascha_: Ach, Mama, es ist schrecklich, was Sie da sagen; Lisa kann
+doch keinen andern liebgewinnen.
+
+_Anna Pawlowna_: Warum sollte sie das nicht können? Wenn sie erst frei
+sein wird? Es gibt Männer, die tausendmal besser sind als euer Fedja,
+und die sich glücklich schätzen werden, Lisa zur Frau zu bekommen.
+
+_Sascha_: Mama, es ist nicht recht von Ihnen, so zu reden. Ich weiß,
+Sie denken dabei an Viktor Karenin.
+
+_Anna Pawlowna_: Warum soll ich nicht an ihn denken? Er liebt sie schon
+zehn Jahre lang, und sie liebt ihn.
+
+_Sascha_: Sie liebt ihn, aber nicht so wie ihren Mann. Das ist eine
+Jugendfreundschaft.
+
+_Anna Pawlowna_: Diese Jugendfreundschaften kennt man! Wenn nur erst
+die Hindernisse beseitigt sind.
+
+
+Fünfter Auftritt
+
+  Anna Pawlowna und Sascha. Das Stubenmädchen kommt herein.
+
+_Anna Pawlowna_: Was willst du?
+
+_Stubenmädchen_: Die gnädige Frau hat den Hausknecht mit einem Briefe
+zu Viktor Michailowitsch geschickt.
+
+_Anna Pawlowna_: Welche gnädige Frau?
+
+_Stubenmädchen_: Jelisaweta Andrejewna, unsere gnädige Frau.
+
+_Anna Pawlowna_: Nun, und?
+
+_Stubenmädchen_: Viktor Michailowitsch hat sagen lassen, er werde
+sogleich selbst herkommen.
+
+_Anna Pawlowna_ ($erstaunt$): Eben erst haben wir von ihm gesprochen.
+Ich verstehe nur nicht, warum sie ihn hat rufen lassen. ($Zu Sascha:$)
+Weißt du es nicht?
+
+_Sascha_: Vielleicht weiß ich es, vielleicht aber auch nicht.
+
+_Anna Pawlowna_: Immer Geheimnisse.
+
+_Sascha_: Lisa kommt gleich; die wird es Ihnen sagen.
+
+_Anna Pawlowna_ ($kopfschüttelnd zu dem Stubenmädchen$): Der Samowar
+muß wieder in Glut gesetzt werden. Nimm ihn mit, Dunjascha! ($Das
+Stubenmädchen nimmt den Samowar und geht hinaus.$)
+
+
+Sechster Auftritt
+
+  Anna Pawlowna und Sascha.
+
+_Anna Pawlowna_ ($zu Sascha, die aufgestanden ist und hinausgehen
+will$): Es ist gekommen, wie ich gesagt habe. Sofort hat sie ihn rufen
+lassen.
+
+_Sascha_: Vielleicht hat sie ihn in ganz anderer Absicht rufen lassen.
+
+_Anna Pawlowna_: In welcher Absicht denn?
+
+_Sascha_: Jetzt, in diesem Augenblicke, ist Karenin ihr ebenso
+gleichgültig wie jeder andere.
+
+_Anna Pawlowna_: Nun, du wirst ja sehen. Ich kenne sie doch. Sie läßt
+ihn rufen, um sich von ihm trösten zu lassen.
+
+_Sascha_: Ach, Mama, wie wenig kennen Sie sie, wenn Sie denken
+können ...
+
+_Anna Pawlowna_: Du wirst ja sehen. Ich freue mich sehr; sehr freue ich
+mich.
+
+_Sascha_: Wir werden ja sehen. ($Sie geht, vor sich hinsingend, ab.$)
+
+
+Siebenter Auftritt
+
+  Anna Pawlowna allein.
+
+_Anna Pawlowna_ ($schüttelt den Kopf und murmelt$): Sehr schön; lassen
+wir sie nur gewähren. Sehr schön; lassen wir sie nur gewähren. Ja ...
+
+
+Achter Auftritt
+
+  Anna Pawlowna und das Stubenmädchen, welches eintritt.
+
+_Stubenmädchen_: Viktor Michailowitsch ist gekommen.
+
+_Anna Pawlowna_: Nun schön; bitte ihn hereinzukommen und sage es der
+gnädigen Frau. ($Das Stubenmädchen geht hinaus.$)
+
+
+Neunter Auftritt
+
+  Anna Pawlowna und Viktor Karenin.
+
+_Viktor Karenin_ ($tritt ein und begrüßt Anna Pawlowna$): Jelisaweta
+Andrejewna hat mir einen Brief geschickt mit der Aufforderung
+herzukommen. Ich hatte sowieso die Absicht, heute abend bei Ihnen
+vorzusprechen, und habe mich daher sehr gefreut ... Befindet sich
+Jelisaweta Andrejewna wohl?
+
+_Anna Pawlowna_: Sie befindet sich wohl; aber das Kindchen ist ein
+bißchen unruhig. Sie wird gleich kommen. ($In traurigem Tone:$) Ja, ja,
+es ist eine schwere Zeit. Sie wissen ja wohl alles?
+
+_Karenin_: Allerdings. Ich war ja vorgestern hier, als sein Brief
+ankam. Aber ist denn das wirklich unwiderruflich beschlossen?
+
+_Anna Pawlowna_: Aber selbstverständlich. Das alles noch einmal
+durchzumachen wäre doch schrecklich.
+
+_Karenin_: Ein solcher Trennungsschnitt will doch zehnmal überlegt
+sein. Ins lebendige Fleisch zu schneiden, das ist doch eine schwere
+Aufgabe.
+
+_Anna Pawlowna_: Natürlich ist es eine schwere Aufgabe. Aber die
+Ehe der beiden war ja schon längst halb zerschnitten. Und daher war
+die vollständige Trennung weniger schwer, als es scheint. Er sieht
+selbst ein, daß nach allem Geschehenen seine Rückkehr ein Ding der
+Unmöglichkeit ist.
+
+_Karenin_: Wieso?
+
+_Anna Pawlowna_: Aber wie können Sie das nur für möglich halten
+nach all den garstigen Dingen, die er begangen hat, und nachdem er
+geschworen hat, dergleichen werde nicht wieder vorkommen, und wenn es
+doch vorkäme, so verzichte er auf alle seine Rechte als Ehemann und
+gebe ihr ihre volle Freiheit wieder ...
+
+_Karenin_: Ja, aber was will die Freiheit einer Frau besagen, die durch
+die Ehe gebunden ist?
+
+_Anna Pawlowna_: Es soll die Scheidung erfolgen. Er hat ihr die
+Scheidung versprochen, und wir werden darauf bestehen.
+
+_Karenin_: Ja, aber Jelisaweta Andrejewna hat ihn so geliebt ...
+
+_Anna Pawlowna_: Ach, ihre Liebe ist so harten Prüfungen ausgesetzt
+gewesen, daß von ihr kaum etwas übriggeblieben ist. Es fallen ihm
+Trunksucht, Hintergehung und Untreue zur Last. Kann man denn einen
+solchen Mann lieben?!
+
+_Karenin_: Der Liebe ist alles möglich.
+
+_Anna Pawlowna_: Sie reden von Liebe; aber wie kann man denn einen
+solchen Waschlappen lieben, auf den gar kein Verlaß ist? Was hat er
+noch jetzt eben für einen Streich begangen! ($Sie sieht sich nach
+der Tür um und beeilt sich mit ihrer Erzählung.$) Der ganze Haushalt
+ist ruiniert, alles versetzt, kein bares Geld vorhanden. Da schickt
+ihm sein Onkel endlich zweitausend Rubel, um die Zinsen der Schulden
+zu bezahlen. Er entfernt sich mit diesem Gelde und ist verschwunden.
+Seine Frau sitzt mit dem kranken Kinde da und wartet; endlich erhält
+sie einen Brief, sie möchte ihm Wäsche und andere Sachen seines
+persönlichen Bedarfes schicken.
+
+_Karenin_: Ja, ja, ich weiß.
+
+
+Zehnter Auftritt
+
+  Anna Pawlowna, Karenin. Lisa und Sascha treten ein.
+
+_Anna Pawlowna_: Nun, siehst du, Viktor Michailowitsch ist auf deine
+Aufforderung erschienen.
+
+_Karenin_: Ja, ich wurde ein wenig aufgehalten. ($Er begrüßt die
+Schwestern.$)
+
+_Lisa_: Ich bin Ihnen sehr dankbar. Ich habe an Sie eine große Bitte.
+Und ich kann mich damit an niemand wenden als an Sie.
+
+_Karenin_: Ich werde alles tun, was in meinen Kräften steht.
+
+_Lisa_: Sie wissen ja doch wohl alles?
+
+_Karenin_: Ja, ich weiß es.
+
+_Anna Pawlowna_: Ich werde euch also allein lassen. ($Zu Sascha:$)
+Komm, wir wollen die beiden allein lassen. ($Sie geht mit Sascha
+hinaus.$)
+
+
+Elfter Auftritt
+
+  Lisa und Karenin.
+
+_Lisa_: Ja, er hat mir einen Brief geschrieben, er betrachte alles
+zwischen uns als beendet. Ich ($sie drängt die Tränen zurück$) fühlte
+mich so gekränkt, so ... nun, mit einem Worte, ich war mit der Trennung
+einverstanden ... und antwortete ihm, ich nähme seine Absage an.
+
+_Karenin_: Und jetzt bereuen Sie das?
+
+_Lisa_: Ja, ich bin zu der Empfindung gelangt, daß das von meiner
+Seite schlecht gehandelt war, daß ich es nicht tun kann. Ich will
+lieber alles erdulden, als mich von ihm trennen. Nun, kurz gesagt,
+händigen Sie ihm diesen Brief ein! Bitte, Viktor, händigen Sie ihm
+diesen Brief ein, und sagen Sie ihm ... und bringen Sie ihn her!
+
+_Karenin_ ($verwundert$): Ja, aber wie soll ich das machen?
+
+_Lisa_: Sagen Sie ihm, ich bäte ihn, alles zu vergessen und
+zurückzukehren. Ich könnte ihm ja den Brief einfach zuschicken; aber
+ich kenne ihn: die erste Regung würde, wie immer, eine gute sein; aber
+dann macht sich irgendein fremder Einfluß geltend, und er wird anderen
+Sinnes und tut nicht das, was er in Wahrheit will.
+
+_Karenin_: Ich werde tun, was ich kann.
+
+_Lisa_: Sie wundern sich wohl, daß ich gerade Sie bitte?
+
+_Karenin_: Nein ... übrigens, um die Wahrheit zu sagen: ja, ich wundere
+mich ...
+
+_Lisa_: Aber Sie sind mir nicht böse?
+
+_Karenin_: Als ob ich Ihnen überhaupt böse sein könnte.
+
+_Lisa_: Ich habe Sie deswegen gebeten, weil ich weiß, daß Sie ihm
+zugetan sind.
+
+_Karenin_: Sowohl ihm als auch Ihnen. Das wissen Sie. Ich bin ihm nicht
+um seinetwillen zugetan, sondern um Ihretwillen. Und ich bin Ihnen
+dankbar für das Vertrauen, das Sie mir schenken. Ich werde tun, was ich
+kann.
+
+_Lisa_: Das weiß ich. Ich werde Ihnen alles sagen: ich bin heute bei
+Afremow gewesen, um zu erfahren, wo er sich jetzt aufhält. Es wurde mir
+gesagt, er habe sich zu den Zigeunern begeben. Und gerade das ist es,
+was ich fürchte. Diese Verlockung fürchte ich. Ich weiß, daß, wenn man
+ihn nicht rechtzeitig zurückhält, er sich verlocken und hinreißen läßt.
+Darum muß das geschehen. Also Sie werden hinfahren?
+
+_Karenin_: Selbstverständlich, sofort.
+
+_Lisa_: Fahren Sie hin, machen Sie ihn ausfindig, und sagen Sie ihm,
+daß alles vergessen ist und ich ihn erwarte.
+
+_Karenin_ ($steht auf$): Aber wo soll ich ihn suchen?
+
+_Lisa_: Er ist bei den Zigeunern. Ich bin selbst dort gewesen. Ich
+war an der Haustür und wollte ihm den Brief hineinschicken; aber dann
+besann ich mich anders und beschloß, Sie zu bitten ... Hier ist die
+Adresse. Sagen Sie ihm also, er möchte zurückkehren; es sei nichts
+geschehen; alles sei vergessen. Tun Sie das aus Liebe zu ihm und aus
+Freundschaft gegen uns.
+
+_Karenin_: Ich werde alles tun, was ich kann. ($Er verbeugt sich und
+geht hinaus.$)
+
+
+Zwölfter Auftritt
+
+  Lisa allein.
+
+_Lisa_: Ich kann es nicht, ich kann es nicht. Ich will lieber alles
+erdulden als ... ich kann es nicht.
+
+
+Dreizehnter Auftritt
+
+  Lisa, Sascha, welche eintritt.
+
+_Sascha_: Nun, wie ists? Hast du ihn hingeschickt?
+
+_Lisa_ ($nickt bejahend mit dem Kopfe$).
+
+_Sascha_: Und er hat sich dazu bereitfinden lassen?
+
+_Lisa_: Natürlich.
+
+_Sascha_: Warum hast du gerade ihn geschickt? Das ist mir unbegreiflich.
+
+_Lisa_: Wen hätte ich sonst schicken sollen?
+
+_Sascha_: Aber du weißt doch, daß er in dich verliebt ist?
+
+_Lisa_: Das gehört alles der Vergangenheit an und ist vorüber. Aber
+wen hätte ich denn deiner Meinung nach sonst darum bitten sollen? Wie
+denkst du darüber: wird er zurückkehren?
+
+_Sascha_: Ich bin davon überzeugt; denn ...
+
+
+Vierzehnter Auftritt
+
+  Lisa, Sascha. Anna Pawlowna, welche eintritt. (Sascha verstummt.)
+
+_Anna Pawlowna_: Nun? Wo ist Viktor Michailowitsch?
+
+_Lisa_: Er ist weggefahren.
+
+_Anna Pawlowna_: Wieso weggefahren?
+
+_Lisa_: Ich habe ihn gebeten, mir eine Bitte zu erfüllen.
+
+_Anna Pawlowna_: Was für eine Bitte? Das ist wohl wieder ein Geheimnis?
+
+_Lisa_: Ein Geheimnis ist es nicht: ich habe ihn einfach gebeten, einen
+Brief an Fedja persönlich zu bestellen.
+
+_Anna Pawlowna_: An Fedja? An Fjodor Wasiljewitsch?
+
+_Lisa_: Ja, an Fedja.
+
+_Anna Pawlowna_: Ich dachte, zwischen euch beiden wären alle
+Beziehungen abgebrochen?
+
+_Lisa_: Ich kann mich nicht von ihm trennen.
+
+_Anna Pawlowna_: Also soll die ganze Geschichte wieder von vorn
+anfangen?
+
+_Lisa_: Ich wollte mich von ihm lossagen und habe mir alle Mühe
+gegeben; aber ich kann es nicht. Ich will alles tun, was Sie wollen,
+wenn ich mich nur nicht von ihm zu trennen brauche.
+
+_Anna Pawlowna_: Dann möchtest du ihn also wohl wieder zurückholen?
+
+_Lisa_: Ja.
+
+_Anna Pawlowna_: Und du willst dieses schändliche Subjekt wieder zu dir
+ins Haus lassen?
+
+_Lisa_: Mama, ich bitte Sie, von meinem Manne nicht in solchen
+Ausdrücken zu reden.
+
+_Anna Pawlowna_: Dein Mann ist er gewesen.
+
+_Lisa_: Nein, er ist auch jetzt noch mein Mann.
+
+_Anna Pawlowna_: Ein Verschwender, ein Trunkenbold, ein Liedrian ist
+er, und du kannst dich nicht von ihm trennen?
+
+_Lisa_: Warum quälen Sie mich? Es ist mir so schon schwer genug ums
+Herz, und Sie scheinen mein Leid absichtlich noch vergrößern zu wollen.
+
+_Anna Pawlowna_: Ich quäle dich! Nun, dann will ich abreisen. Das kann
+ich nicht mit ansehen.
+
+_Lisa_ ($schweigt$).
+
+_Anna Pawlowna_: Ich sehe, daß ihr das wollt, und daß ich euch im Wege
+bin. Ich kann nicht hier bleiben. Ich verstehe euch gar nicht. Immer
+etwas Neues. Erst beschließt du, dich von ihm zu trennen; dann berufst
+du auf einmal einen Mann her, der in dich verliebt ist ...
+
+_Lisa_: Das ist nicht der Fall.
+
+_Anna Pawlowna_: Karenin hat dir einen Heiratsantrag gemacht, und nun
+schickst du ihn zu deinem Manne, um diesen holen zu lassen. Was stellt
+das vor? Willst du deinen Mann eifersüchtig machen?
+
+_Lisa_: Mama, es ist schrecklich, wie Sie da reden. Gönnen Sie mir Ruhe!
+
+_Anna Pawlowna_: Nun, dann jage deine Mutter aus dem Hause und laß
+deinen liederlichen Mann herein! Aber ich werde das nicht abwarten.
+Lebt wohl; Gott sei mit euch; meinetwegen macht, was ihr wollt! ($Sie
+geht hinaus und schlägt die Tür heftig zu.$)
+
+
+Fünfzehnter Auftritt
+
+  Lisa und Sascha.
+
+_Lisa_ ($läßt sich auf einen Stuhl sinken$): Das fehlte noch!
+
+_Sascha_: Nun, das ist nicht so schlimm. Es wird noch alles gut werden.
+Mama werden wir schon wieder beruhigen.
+
+
+Sechzehnter Auftritt
+
+  Lisa, Sascha und Anna Pawlowna, welche durchs Zimmer geht.
+
+_Anna Pawlowna_: Dunjascha, meinen Koffer!
+
+_Sascha_: Mama! So hören Sie doch! ($Sie eilt ihr nach und zwinkert
+dabei ihrer Schwester zu.$)
+
+  Vorhang.
+
+
+Zweites Bild
+
+  Ein Zimmer bei den Zigeunern.
+
+
+Erster Auftritt
+
+  Der Chor singt ein Lied. Fedja liegt rücklings in Hemdsärmeln
+  auf dem Sofa. Afremow sitzt dem Vorsänger gegenüber rittlings
+  auf einem Stuhl. Ein Offizier sitzt an einem Tische, auf welchem
+  Champagnerflaschen und Gläser stehen. Ebendort sitzt ein Musiker, der
+  sich Notizen macht.
+
+_Afremow_: Fedja, schläfst du?
+
+_Fedja_ ($richtet sich auf$): Schwatzt nicht! Jetzt: »Nicht der
+Abendstern«!
+
+_Ein Zigeuner_: Das geht nicht, Fjodor Wasiljewitsch. Jetzt soll Mascha
+erst allein singen.
+
+_Fedja_: Na, gut! Aber dann: »Nicht der Abendstern«! ($Er legt sich
+wieder hin.$)
+
+_Der Offizier_: »Die Schicksalsstunde«!
+
+_Der Zigeuner_: Einverstanden?
+
+_Afremow_: Meinetwegen.
+
+_Der Offizier_ ($zu dem Musiker$): Nun, haben Sie es sich
+aufgeschrieben?
+
+_Der Musiker_: Das ist ein Ding der Unmöglichkeit. Jedesmal klingt es
+anders. Und was ist das manchmal für eine Tonart! So gleich dieses
+hier. ($Er ruft eine Zigeunerin herbei und fragt sie.$) Stimmt das so?
+($Er singt.$)
+
+_Die Zigeunerin_: Ja, ganz richtig. Wundervoll.
+
+_Fedja_ ($sich aufrichtend$): Er wird es nicht aufschreiben können, und
+wenn er es aufschreibt und in einer Oper anbringt, so wird er alles
+verhunzen. Na, Mascha, dann mal los mit der »Schicksalsstunde«! Nimm
+die Gitarre! ($Er steht auf, setzt sich vor sie hin und sieht ihr in
+die Augen.$)
+
+_Mascha_ ($singt$).
+
+_Fedja_: Gut gemacht! Bravo, Mascha! Na, aber jetzt: »Nicht der
+Abendstern«!
+
+_Afremow_: Nein, warte mal! Erst mein Lied, mein Begräbnislied!
+
+_Der Offizier_: Wieso denn Begräbnislied?
+
+_Afremow_: Deswegen: wenn ich sterbe ... du verstehst, ich werde
+sterben und im Sarge liegen, und dann werden die Zigeuner kommen ...
+verstehst du? Das werde ich vorher meiner Frau zur Pflicht machen. Und
+wenn sie dann anstimmen: »Komm, mein Freund«, dann werde ich aus dem
+Sarge herausspringen, -- verstehst du?! ($Zu dem Musiker:$) Das schreib
+einmal auf! Na, nun vorwärts! ($Die Zigeuner singen.$)
+
+_Afremow_: Nun, was sagt ihr dazu? Jetzt: »Ihr meine braven Burschen«!
+($Die Zigeuner singen.$)
+
+_Afremow_ ($steht auf und macht ein paar Fechterbewegungen$). ($Die
+Zigeuner applaudieren ihm lächelnd und fahren fort zu singen.$)
+
+_Afremow_ ($setzt sich hin$). ($Das Lied ist zu Ende.$)
+
+_Die Zigeuner_: Bravo, Michail Andrejewitsch! Sie sind ein echter
+Zigeuner!
+
+_Fedja_: Na, jetzt aber: »Nicht der Abendstern«! ($Die Zigeuner
+singen.$)
+
+_Fedja_: Das ist mal ein Lied! Das ist mal ein Lied! Wundervoll! An
+das, was hier ausgesprochen wird, reicht keine Wirklichkeit heran! Ach,
+wie schön! Und warum kann der Mensch in ein solches Entzücken geraten,
+wenn es ihm doch nicht möglich ist, in diesem Zustande zu verharren?
+
+_Der Musiker_ ($macht sich Notizen$): Ja, es ist sehr originell.
+
+_Fedja_: Nicht originell, sondern echt.
+
+_Afremow_: Na ... nun erholt euch! ($Er nimmt die Gitarre und setzt
+sich zu Katja.$)
+
+_Der Musiker_: Im Grunde ist alles ganz einfach; nur der Rhythmus, der
+Rhythmus!
+
+_Fedja_ ($macht ihm eine geringschätzige Handbewegung, geht zu Mascha
+und setzt sich neben sie auf das Sofa$): Ach Mascha, Mascha, wie du
+mein ganzes Inneres umkehrst!
+
+_Mascha_: Nun, und um was habe ich Sie gebeten?
+
+_Fedja_: Um was? Um Geld? ($Er nimmt welches aus der Hosentasche.$) Na,
+schön; da, nimm!
+
+_Mascha_ ($lacht, nimmt das Geld und steckt es in den Busen$).
+
+_Fedja_ ($zu den Zigeunern$): Da soll ein Mensch daraus klug werden!
+Mir schließt sie den Himmel auf, und sie selbst bittet um ein
+Trinkgeld. Du verstehst ja nicht das geringste von dem, was du selbst
+tust.
+
+_Mascha_: Wie sollte ich es nicht verstehen? Ich verstehe, daß ich,
+wenn ich jemanden liebe, mir für ihn mehr Mühe gebe und besser singe.
+
+_Fedja_: Und mich liebst du?
+
+_Mascha_: Gewiß tue ich das.
+
+_Fedja_: Das ist herrlich! ($Er küßt sie.$) ($Die Zigeuner und
+Zigeunerinnen gehen hinaus. Es bleiben nur die Paare zurück.$)
+
+
+Zweiter Auftritt
+
+  Fedja mit Mascha, Afremow mit Katja, der Offizier mit Sascha. Der
+  Musiker schreibt. Ein Zigeuner klimpert auf der Gitarre einen Walzer.
+
+_Fedja_: Ich bin ja aber verheiratet. Und dir wird es der Chor nicht
+erlauben.
+
+_Mascha_: Der Chor ist eine gute Sache; aber das Herz bleibt doch
+immer das Herz. Wenn ich einen liebe, so liebe ich ihn, und wenn mir
+einer zuwider ist, dann ist er mir zuwider.
+
+_Fedja_: Ach mir ist so wohl! Ist dir auch wohl?
+
+_Mascha_: Natürlich ist mir wohl. Wenn wir nette Gäste hier haben, sind
+auch wir vergnügt.
+
+
+Dritter Auftritt
+
+  Ein Zigeuner tritt ein.
+
+_Der Zigeuner_ ($zu Fedja$): Ein Herr fragt nach Ihnen.
+
+_Fedja_: Was für ein Herr?
+
+_Der Zigeuner_: Ich kenne ihn nicht. Er ist gut gekleidet. Trägt einen
+Zobelpelz.
+
+_Fedja_: Ein vornehmer Herr? Na, gut, ruf ihn her!
+
+
+Vierter Auftritt
+
+  Dieselben ohne den Zigeuner.
+
+_Afremow_: Wer mag dich denn hier aufsuchen?
+
+_Fedja_: Weiß der Teufel! Wer kann etwas von mir wollen?
+
+
+Fünfter Auftritt
+
+  Dieselben. Karenin tritt ein und sieht sich ringsum.
+
+_Fedja_: Ah, Viktor! Na, dich hätte ich hier nicht zu sehen erwartet!
+Leg ab! Welcher Wind hat dich hierher geweht? Na, setz dich! Hör mal
+das Lied »Nicht der Abendstern« mit an.
+
+_Karenin_: =Je voudrais vous parler sans témoins.=
+
+_Fedja_: Worüber?
+
+_Karenin_: =Je viens des chez vous. Votre femme m'a chargé de cette
+lettre, et puis ...=
+
+_Fedja_ ($nimmt den Brief hin, liest ihn und macht ein finsteres
+Gesicht; dann lächelt er wieder freundlich$): Hör mal, Karenin, du
+weißt gewiß, was in diesem Briefe steht?...
+
+_Karenin_: Ja; und ich möchte dir sagen ...
+
+_Fedja_: Warte mal, warte mal! Bitte, glaube nicht, daß ich betrunken
+bin und meine Worte unzurechnungsfähig sind, ich will sagen, daß ich
+nicht zurechnungsfähig bin. Ich bin betrunken; aber in dieser Sache
+sehe ich ganz klar. Nun also, was ist dir aufgetragen zu sagen?
+
+_Karenin_: Es ist mir aufgetragen, dich aufzusuchen und dir zu sagen,
+daß ... sie ... dich erwartet. Sie bittet dich, alles zu vergessen und
+zurückzukehren.
+
+_Fedja_ ($hört schweigend zu und sieht ihm in die Augen$): Ich verstehe
+aber nicht, warum gerade du ...?
+
+_Karenin_: Jelisaweta Andrejewna ließ mich rufen und bat mich ...
+
+_Fedja_: So ...
+
+_Karenin_: Aber ich bitte dich nicht sowohl im Namen deiner Frau als in
+meinem eigenen Namen: komm mit nach Hause!
+
+_Fedja_: Du bist besser als ich. Was rede ich da für Unsinn! Besser als
+ich zu sein, das ist nicht schwer. Ich bin ein Taugenichts; aber du
+bist ein guter, ein sehr guter Mensch. Und gerade deswegen werde ich
+meinen Entschluß nicht ändern. Und nicht allein deswegen. Ich kann es
+einfach nicht und will es nicht ... Na, sag selbst: wie könnte ich so
+hinfahren?
+
+_Karenin_: Komm jetzt mit mir in meine Wohnung. Ich werde ihr sagen,
+daß du zurückkehren wirst, und morgen ...
+
+_Fedja_: Und morgen was? Ich werde immer ich bleiben, und sie immer
+sie. ($Er tritt an den Tisch und trinkt.$) Das Beste ist, den Zahn mit
+einem Male auszuziehen. Ich habe ihr ja gesagt, wenn ich wieder mein
+Wort nicht hielte, dann solle sie sich von mir lossagen. Ich habe mein
+Wort nicht gehalten, und nun ist alles zu Ende.
+
+_Karenin_: Für dich, aber nicht für sie.
+
+_Fedja_: Es ist erstaunlich, wieviel Mühe du dir gibst, daß unsere Ehe
+nicht zerstört werde.
+
+_Karenin_ ($will etwas erwidern. Mascha tritt hinzu$).
+
+_Fedja_ ($läßt ihn nicht zu Worte kommen$): Hör mal zu, wie sie das
+»Flachslied« singt. Mascha! ($Die Zigeuner sammeln sich.$)
+
+_Mascha_ ($flüsternd$): Wie redet man ihn an?
+
+_Fedja_ ($lacht$): Sage zu ihm: Herr Viktor Michailowitsch. ($Die
+Zigeuner singen.$)
+
+_Karenin_ ($hört zerstreut zu; dann erkundigt er sich, wieviel er geben
+soll$).
+
+_Fedja_: Na, gib fünfundzwanzig Rubel!
+
+_Karenin_ ($gibt das Geld$).
+
+_Fedja_: Das war wundervoll. Jetzt das »Flachslied«. ($Die Zigeuner
+singen.$)
+
+_Fedja_ ($blickt sich um$): Karenin hat sich davongemacht. Na, hol ihn
+der Teufel! ($Die Zigeuner zerstreuen sich.$)
+
+
+Sechster Auftritt
+
+  Fedja und Mascha.
+
+_Fedja_ ($setzt sich mit Mascha hin$): Weißt du, wer das ist?
+
+_Mascha_: Ich habe seinen Namen gehört.
+
+_Fedja_: Das ist ein vortrefflicher Mensch. Er ist hergekommen, um mich
+nach Hause zu holen, zu meiner Frau. Sie liebt mich Dummkopf, und ich
+führe mich hier so auf.
+
+_Mascha_: Nun, das ist nicht hübsch von Ihnen. Sie müssen zu ihr
+zurückkehren, mit ihr Mitleid haben.
+
+_Fedja_: Meinst du, daß ich das muß? Aber ich meine, nein.
+
+_Mascha_: Freilich, wenn Sie sie nicht lieben, dann kehren Sie nicht
+zurück! Nur die Liebe hat Wert.
+
+_Fedja_: Aber du, woher weißt du das?
+
+_Mascha_: Natürlich weiß ich das.
+
+_Fedja_: Na, gib mir einen Kuß! Ihr Zigeuner! Noch einmal das
+»Flachslied« -- und dann Schluß! ($Die Zigeuner beginnen zu singen.$)
+
+_Fedja_: Ach, wie wohl mir ist! Wenn man nur nie wieder erwachte!... So
+möchte ich sterben!...
+
+  Vorhang.
+
+
+
+
+Zweiter Akt
+
+
+Drittes Bild
+
+  Nach dem ersten Akte sind zwei Wochen vergangen. Bei Lisa.
+
+
+Erster Auftritt
+
+  Karenin und Anna Pawlowna sitzen im Eßzimmer. Sascha kommt herein.
+
+_Karenin_: Nun, wie steht es?
+
+_Sascha_: Der Arzt hat gesagt, es sei jetzt keine Gefahr mehr
+vorhanden. Nur dürfe er sich nicht erkälten.
+
+_Anna Pawlowna_: Na, aber Lisa ist dabei ganz heruntergekommen.
+
+_Sascha_: Er sagt, es sei unechter Krupp in gelinder Form. Was ist das?
+($Sie zeigt auf ein Körbchen.$)
+
+_Anna Pawlowna_: Viktor hat Weintrauben mitgebracht.
+
+_Karenin_: Mögen Sie nicht zulangen?
+
+_Sascha_: Ja, die ißt sie gern. Sie ist sehr nervös geworden.
+
+_Karenin_: Wenn sie auch zwei Tage lang nichts gegessen, zwei Nächte
+nicht geschlafen hat.
+
+_Sascha_ ($lächelnd$): Sie selbst haben es doch ebenso gemacht.
+
+_Karenin_: Mit mir ist das etwas anderes.
+
+
+Zweiter Auftritt
+
+  Dieselben. Der Arzt und Lisa treten ein.
+
+_Der Arzt_ ($nachdrücklich$): Also so: wechseln Sie alle halbe Stunde
+den Umschlag, wenn er nicht schläft. Wenn er schläft, stören Sie ihn
+nicht! Den Rachen zu pinseln ist nicht nötig. Die Zimmertemperatur
+halten Sie auf gleichmäßiger Höhe!...
+
+_Lisa_: Aber wenn er wieder Atemnot bekommt?
+
+_Der Arzt_: Das ist nicht wahrscheinlich. Sollte es aber eintreten, so
+wenden Sie den Zerstäuber an! Außerdem geben Sie ihm Pulver, morgens
+eines und abends eines! Ich werde sie sogleich verschreiben.
+
+_Anna Pawlowna_: Mögen Sie nicht ein Glas Tee trinken, Doktor?
+
+_Der Arzt_: Nein, ich danke; meine Kranken warten. ($Er setzt sich an
+den Tisch, Sascha bringt Papier, Tinte und Feder.$)
+
+_Lisa_: Also es ist bestimmt nicht Krupp?
+
+_Der Arzt_ ($lächelnd$): Ganz bestimmt nicht. ($Er schreibt.$)
+
+_Karenin_ ($zu Lisa$): Nun, jetzt trinken Sie aber ein Glas Tee, oder,
+noch besser, gehen Sie hin und ruhen Sie sich aus; sehen Sie nur, wie
+entstellt Sie aussehen!
+
+_Lisa_: Jetzt fühle ich mich neu belebt. Ich danke Ihnen. Sie sind ein
+wahrer Freund. ($Sie drückt ihm die Hand. Sascha geht ärgerlich zur
+Seite.$)
+
+_Lisa_: Ich bin Ihnen herzlich dankbar. Da sieht man, wo ...
+
+_Karenin_: Was habe ich denn getan? Zum Danken ist gar kein Anlaß.
+
+_Lisa_: Aber wer hat die Nächte über nicht geschlafen? Wer hat uns
+diese Zelebrität ins Haus geholt?
+
+_Karenin_: Ich bin schon dadurch hinlänglich belohnt, daß Mischa außer
+Gefahr ist, und besonders durch Ihre Güte.
+
+_Lisa_ ($drückt ihm wieder die Hand und zeigt ihm lachend ein
+Goldstück, das sie in der Hand hält$): Das ist für den Arzt. Nur weiß
+ich nicht, wie ich es ihm geben soll.
+
+_Karenin_: Ja, ich verstehe mich auch nicht darauf.
+
+_Anna Pawlowna_: Worauf verstehen Sie sich nicht?
+
+_Lisa_: Dem Arzte das Geld zu geben. Er hat mir mehr als das Leben
+gerettet, und ich gebe ihm Geld! Das ist eine peinliche Empfindung.
+
+_Anna Pawlowna_: Gib her; ich werde es ihm geben. Ich verstehe, wie man
+das macht. Es ist ganz einfach.
+
+_Der Arzt_ ($steht auf und reicht das Rezept hin$): Also diese Pulver
+rühren Sie in einem Eßlöffel voll abgekochten Wassers gut um und ($er
+spricht weiter$) ... ($Karenin trinkt am Tische Tee; Anna Pawlowna und
+Sascha gehen nach vorn.$)
+
+_Sascha_: Ich kann das Benehmen der beiden gar nicht mehr mit ansehen.
+Sie ist ordentlich verliebt in ihn.
+
+_Anna Pawlowna_: Was ist daran Verwunderliches?
+
+_Sascha_: Es ist widerwärtig!
+
+_Der Arzt_ ($empfiehlt sich allen und geht weg. Anna Pawlowna begleitet
+ihn hinaus$).
+
+
+Dritter Auftritt
+
+  Lisa, Karenin und Sascha.
+
+_Lisa_ ($zu Karenin$): Er ist jetzt so lieb und nett. Sowie ihm besser
+wurde, fing er sogleich an zu lächeln und zu plaudern. Ich will zu ihm
+gehen. Aber auch von Ihnen fortzugehen wird mir schwer.
+
+_Karenin_: Sie sollten ein Glas Tee trinken und etwas essen.
+
+_Lisa_: Ich brauche jetzt nichts. Es ist mir so wohl zumute nach all
+diesen Beängstigungen. ($Sie fängt an zu schluchzen.$)
+
+_Karenin_: Da sehen Sie, wie schwach Sie sind.
+
+_Lisa_: Ich bin so glücklich. Wollen Sie ihn sich ansehen?
+
+_Karenin_: Natürlich.
+
+_Lisa_: So kommen Sie mit! ($Sie gehen hinaus.$)
+
+
+Vierter Auftritt
+
+  Anna Pawlowna kommt zu Sascha zurück.
+
+_Anna Pawlowna_: Warum machst du denn ein so finsteres Gesicht? Ich
+habe ihm das Geld in sehr schöner Form gegeben, und er hat es ebenso
+genommen.
+
+_Sascha_: Es ist geradezu empörend! Sie hat ihn mit in das Kinderzimmer
+genommen. Gerade als ob er ihr Bräutigam oder ihr Mann wäre.
+
+_Anna Pawlowna_: Aber was geht es dich an? Weshalb wirst du so hitzig?
+Oder hast du vielleicht darauf spekuliert, ihn zu heiraten?
+
+_Sascha_: Ich?! Diesen langen Tölpel?! Da würde ich lieber ich
+weiß nicht wen heiraten, aber nicht ihn. Das ist mir überhaupt nie
+in den Kopf gekommen. Es ist mir nur zuwider, daß Lisa nach ihrem
+Zusammenleben mit Fedja es fertigbekommt, einem fremden Menschen in
+dieser Weise näher zu treten.
+
+_Anna Pawlowna_: Wie kannst du ihn einen fremden Menschen nennen? Er
+ist ihr Jugendfreund.
+
+_Sascha_: Aber ich sehe ja an dem Lächeln, an den Augen der beiden, daß
+sie ineinander verliebt sind.
+
+_Anna Pawlowna_: Was ist denn daran Verwunderliches? Er hat ihr während
+der Krankheit des Kindes soviel Teilnahme bewiesen und ihr geholfen;
+dafür ist sie ihm dankbar. Und außerdem: warum sollte sie sich nicht in
+Viktor verlieben und ihn heiraten?
+
+_Sascha_: Das wäre schrecklich, empörend! Empörend!
+
+
+Fünfter Auftritt
+
+  Karenin und Lisa treten ein.
+
+_Karenin_ ($empfiehlt sich schweigend$).
+
+_Sascha_ ($geht ärgerlich hinaus$).
+
+
+Sechster Auftritt
+
+  Anna Pawlowna und Lisa.
+
+_Lisa_ ($zu ihrer Mutter$): Was hat sie nur?
+
+_Anna Pawlowna_: Ich weiß es wirklich nicht.
+
+_Lisa_ ($seufzt schweigend$).
+
+  Vorhang.
+
+
+Viertes Bild
+
+  Zimmer bei Afremow. Auf dem Tische stehen Gläser mit Wein. Gäste.
+
+
+Erster Auftritt
+
+  Afremow, Fedja, Stachow (mit struppigem Barte), Butkewitsch (glatt
+  rasiert), Korotkow (ein aufdringlicher Mensch).
+
+_Korotkow_: Ich sage euch, daß er weit zurückbleiben wird. =La belle du
+bois= ist das erste Pferd Europas. Wetten?
+
+_Stachow_: Sei nur still, Bruder! Du weißt ja doch, daß dir kein Mensch
+glaubt. Und auch wetten wird niemand mit dir.
+
+_Korotkow_: Ich sage dir: dein =Cartouche= wird weit zurückbleiben.
+
+_Afremow_: Nun hört auf, euch zu zanken! Ich will euch versöhnen. Fragt
+mal Fedja! Der wird es euch zuverlässig sagen.
+
+_Fedja_: Die Pferde sind alle beide gut. Es kommt auf den Reiter an.
+
+_Stachow_: Gusew ist ein Schurke. Den muß man streng halten.
+
+_Korotkow_ ($schreit$): Nein!
+
+_Fedja_: Na, wartet, ich werde euer Schiedsrichter sein. Wer hat das
+Derby gewonnen?
+
+_Korotkow_: Nun ja, das hat er gewonnen, aber das besagt nichts weiter.
+Das war ein Zufall. Wenn =Cracouse= nicht krank geworden wäre ... Sieh
+mal ... ($Ein Diener kommt herein.$)
+
+
+Zweiter Auftritt
+
+  Dieselben und ein Diener.
+
+_Afremow_: Was willst du?
+
+_Der Diener_: Es ist eine Dame gekommen, die nach Fjodor Wasiljewitsch
+fragt.
+
+_Afremow_: Was für eine Dame?
+
+_Der Diener_: Das weiß ich nicht. Aber es ist eine richtige Dame.
+
+_Afremow_: Fedja, da will eine Dame zu dir.
+
+_Fedja_ ($erschrocken$): Wer ist es?
+
+_Afremow_: Das weiß er nicht.
+
+_Der Diener_: Soll ich sie in den Salon bitten?
+
+_Fedja_: Warten Sie, ich will hingehen und zusehen. ($Fedja und der
+Diener gehen hinaus.$)
+
+
+Dritter Auftritt
+
+  Dieselben ohne Fedja und den Diener.
+
+_Korotkow_: Wer will da zu ihm? Gewiß Mascha ...
+
+_Stachow_: Was für eine Mascha?
+
+_Korotkow_: Die Zigeunerin Mascha. Die hat sich in ihn verliebt. Wie
+eine Katze verliebt ist sie.
+
+_Stachow_: Ein allerliebstes Mädel! Und wie sie singt!...
+
+_Afremow_: Ganz entzückend. Tanjuscha und sie, über die beiden geht
+nichts. Gestern haben sie mit Peter ein Terzett gesungen ...
+
+_Stachow_: Er ist doch wirklich ein Glückspilz!...
+
+_Afremow_: Weil ihn die Weiber lieben? Die gönne ich ihm!
+
+_Korotkow_: Ich kann die Zigeunerinnen nicht leiden; Eleganz ist bei
+ihnen nicht zu finden.
+
+_Butkewitsch_: Na, das kannst du denn doch nicht sagen.
+
+_Korotkow_: Ich gebe sie alle für eine einzige Französin hin.
+
+_Afremow_: Na, du bist ja als Ästhet bekannt. Ich will doch mal
+hingehen und sehen, wer es ist ... ($Er geht hinaus.$)
+
+
+Vierter Auftritt
+
+  Dieselben ohne Afremow.
+
+_Stachow_ ($ihm nachrufend$): Wenn es Mascha ist, so bring sie her; sie
+soll uns etwas vorsingen! Nein, mit den Zigeunern ist es jetzt nichts
+Rechtes! Tanjuscha, die war früher eine großartige Sängerin; ach, hols
+der Teufel!
+
+_Butkewitsch_: Ich meine, sie leisten noch dasselbe.
+
+_Stachow_: Wie sollen sie denn dasselbe leisten, wenn sie abgeschmackte
+Romanzen statt der Volkslieder singen?
+
+_Butkewitsch_: Es gibt auch gute Romanzen.
+
+_Korotkow_: Wollen wir wetten? Ich werde die Zigeuner etwas singen
+lassen, und du wirst nicht erkennen, ob es ein Volkslied ist oder eine
+Romanze.
+
+_Stachow_: Korotkow immer mit seinen Wetten!
+
+
+Fünfter Auftritt
+
+  Dieselben und Afremow.
+
+_Afremow_ ($tritt ein$): Meine Herren, es ist nicht Mascha. Aber Fedja
+kann sie nirgends empfangen als hier. Wir wollen ins Billardzimmer
+gehen. ($Sie gehen hinaus.$)
+
+
+Sechster Auftritt
+
+  Fedja und Sascha treten ein.
+
+_Sascha_ ($verlegen$): Verzeih mir, Fedja, wenn ich dir ungelegen
+komme; aber höre mich an; ich bitte dich inständig! ($Die Stimme
+zittert ihr.$)
+
+_Fedja_ ($geht im Zimmer auf und ab. Sascha hat sich hingesetzt und
+sieht ihn an$).
+
+_Sascha_: Fedja, kehre nach Hause zurück!
+
+_Fedja_: Höre, Sascha, ich verstehe dich sehr wohl. Liebe Sascha, wenn
+ich an deiner Stelle wäre, so würde ich ebenso handeln: ich würde mir
+Mühe geben, alles wieder irgendwie in den alten Zustand zurückzuführen;
+aber wenn du, du liebes, feinfühliges Mädchen, an meiner Stelle wärest,
+wie seltsam es auch sein mag, das zu sagen, dann würdest du gewiß
+dasselbe tun, was ich tue, das heißt, du würdest deiner Wege gehen und
+ein fremdes Leben nicht länger stören ...
+
+_Sascha_: Wieso stören? Kann denn Lisa überhaupt ohne dich leben?
+
+_Fedja_: Ach, liebe Sascha, mein Täubchen, das kann sie, das kann sie,
+und sie wird noch glücklich werden, weit glücklicher, als sie es mit
+mir gewesen ist.
+
+_Sascha_: Niemals!
+
+_Fedja_: Das scheint dir nur so. ($Er hält ihre Hand in der seinigen.$)
+Aber darum handelt es sich nicht. Die Hauptsache ist, daß ich es nicht
+kann. Weißt du, biege ein Stück dickes Papier hin und her; du kannst
+das hundertmal tun, und es hält; aber biege es zum hundertundersten
+Male, und es geht entzwei. So steht es auch mit den Beziehungen
+zwischen mir und Lisa. Es ist mir zu peinlich, ihr in die Augen zu
+sehen. Und ihr ebenfalls, das kannst du mir glauben.
+
+_Sascha_: Nein, nein.
+
+_Fedja_: Du sagst nein, weißt aber selbst, daß es so ist.
+
+_Sascha_: Ich kann nur nach mir urteilen. Wenn ich an ihrer Stelle wäre
+und du mir so antwortetest, wie du es jetzt tust, so würde das für mich
+schrecklich sein.
+
+_Fedja_: Ja, für dich ... ($Stillschweigen; beide sind verlegen.$)
+
+_Sascha_ ($steht auf$): Soll es wirklich dabei bleiben?
+
+_Fedja_: Es muß wohl.
+
+_Sascha_: Fedja, kehre zurück!
+
+_Fedja_: Ich danke dir, liebe Sascha. Du wirst mir allzeit eine teure
+Erinnerung bleiben ... aber lebe wohl, mein Täubchen! Erlaube, daß ich
+dich küsse! ($Er küßt sie auf die Stirn.$)
+
+_Sascha_ ($aufgeregt$): Nein, ich nehme nicht Abschied, und ich glaube
+es nicht und will es nicht glauben ... Fedja ...
+
+_Fedja_: Nun, so höre! Aber gib mir dein Wort, daß du das, was ich dir
+sage, niemandem wiedersagen wirst. Gibst du mir dein Wort?
+
+_Sascha_: Natürlich.
+
+_Fedja_: Nun, so höre, Sascha! Ich bin allerdings ihr Mann, der Vater
+ihres Kindes; aber ich bin ein überflüssiger Mensch ... Warte, warte,
+erwidere mir nichts! Du glaubst, ich sei eifersüchtig? Ganz und gar
+nicht. Erstens habe ich kein Recht dazu; und zweitens habe ich keinen
+Anlaß. Viktor Karenin ist ein alter Freund von ihr und ebenso von mir.
+Und er liebt sie, und sie liebt ihn.
+
+_Sascha_: Nein.
+
+_Fedja_: Sie liebt ihn so, wie eine ehrenhafte, sittsame Frau lieben
+kann, die es sich nicht erlauben will, einen andern als ihren Mann zu
+lieben. Aber sie liebt ihn und wird ihn lieben, sobald dieses Hindernis
+($er zeigt auf sich selbst$) beseitigt sein wird, und ich werde es
+beseitigen, und sie werden glücklich sein. ($Die Stimme zittert ihm.$)
+
+_Sascha_: Fedja, sprich nicht so!
+
+_Fedja_: Du weißt ja, daß das die Wahrheit ist, und ich werde mich über
+das Glück der beiden freuen und kann gar nichts Besseres tun ... Ich
+werde nicht zurückkehren und gebe ihnen volle Freiheit ... Das bestelle
+du ihnen nur! Und nun sage weiter nichts, sage weiter nichts; lebe
+wohl! ($Er küßt sie auf den Kopf und öffnet ihr die Tür.$)
+
+_Sascha_: Fedja, ich bewundere dich!
+
+_Fedja_: Lebe wohl, lebe wohl! ($Sascha geht fort.$)
+
+
+Siebenter Auftritt
+
+  Fedja allein.
+
+_Fedja_: Ja, ja, wundervoll, prächtig, daß wir so damit zu Ende
+gekommen sind ... ($Er klingelt.$)
+
+
+Achter Auftritt
+
+  Fedja und ein Diener.
+
+_Fedja_: Rufen Sie den Herrn! ($Der Diener ab.$)
+
+
+Neunter Auftritt
+
+  Fedja allein.
+
+_Fedja_: Das ist das Richtige, das ist das Richtige!
+
+
+Zehnter Auftritt
+
+  Afremow tritt ein.
+
+_Fedja_: Gehen wir!
+
+_Afremow_: Wie hast du denn die Sache erledigt?
+
+_Fedja_: Wundervoll! Wundervoll! Wo sind die andern alle?
+
+_Afremow_: Sie spielen Billard.
+
+_Fedja_: Vorzüglich! Wir wollen auch hingehen und ein Stündchen da
+verbringen.
+
+  Vorhang.
+
+
+
+
+Dritter Akt
+
+
+Fünftes Bild
+
+  Ein Zimmer bei Anna Dmitrijewna, in diskret-luxuriöser Art
+  ausgestattet; voller Andenken.
+
+  Personen: Fürst Abreskow, ein sechzigjähriger, eleganter Junggeselle,
+  glattrasiert, mit Schnurrbart, alter Militär, sehr würdevoll und
+  melancholisch. Anna Dmitrijewna Karenina (Viktors Mutter), eine sich
+  jung machende fünfzigjährige =grande dame=. Sie spickt ihre Rede mit
+  französischen Ausdrücken. Ein Diener. Viktor. Lisa.
+
+
+Erster Auftritt
+
+_Anna Dmitrijewna_ ($schreibt einen Brief$).
+
+
+Zweiter Auftritt
+
+  Anna Dmitrijewna und ein Diener.
+
+_Der Diener_: Fürst Sergei Dmitrijewitsch.
+
+_Anna Dmitrijewna_: Ich lasse natürlich bitten. ($Sie wendet sich zum
+Spiegel und bringt ihre Frisur in Ordnung.$)
+
+
+Dritter Auftritt
+
+_Fürst Abreskow_ ($tritt ein$): =J'espère, que je ne force pas la
+consigne.= ($Er küßt ihr die Hand.$)
+
+_Anna Dmitrijewna_: Sie wissen, daß =vous êtes toujours le bienvenu=.
+Und jetzt, heute, ganz besonders. Sie haben mein Briefchen erhalten?
+
+_Fürst Abreskow_: Jawohl, und mein Erscheinen ist meine Antwort.
+
+_Anna Dmitrijewna_: Ach, mein Freund, ich fange an ganz zu verzweifeln.
+=Il est ensorcelé, positivement ensorcelé.= Ich bin bei ihm noch nie
+einer solchen Beharrlichkeit, einer solchen Hartnäckigkeit, einer
+solchen Mitleidslosigkeit und Gleichgültigkeit mir gegenüber begegnet.
+Seit diese Frau sich von ihrem Manne losgesagt hat, ist er vollständig
+umgewandelt.
+
+_Fürst Abreskow_: Aber was ist denn eigentlich geschehen? Wie steht die
+Sache?
+
+_Anna Dmitrijewna_: Er will sie unter allen Umständen heiraten.
+
+_Fürst Abreskow_: Und wie stellt sich ihr Mann dazu?
+
+_Anna Dmitrijewna_: Er willigt in die Scheidung.
+
+_Fürst Abreskow_: Also so ist das!
+
+_Anna Dmitrijewna_: Und er, Viktor, befaßt sich eifrig mit all diesen
+Dingen, mit all dem Schmutz, der dabei aufgerührt wird, und den
+Advokaten und den Schuldbeweisen. =Tout ça est dégoûtant.= Aber dadurch
+läßt er sich nicht abstoßen. Ich verstehe ihn gar nicht. Er mit seiner
+Feinfühligkeit und mit seiner Schüchternheit ...
+
+_Fürst Abreskow_: Er liebt. Ach, wenn jemand so richtig liebt, dann ...
+
+_Anna Dmitrijewna_: Ja, aber warum konnte denn zu unserer Zeit
+die Liebe eine reine, freundschaftliche, das ganze Leben hindurch
+anhaltende Liebe sein? Eine solche Liebe weiß ich zu verstehen und zu
+schätzen.
+
+_Fürst Abreskow_: Die jetzige neue Generation vermag sich nicht mehr
+mit idealen Beziehungen zu begnügen. =La possession de l'âme ne leur
+suffit plus.= Dagegen läßt sich nichts tun. Aber was machen wir mit ihm?
+
+_Anna Dmitrijewna_: Nein, sagen Sie das nicht mit Bezug auf ihn.
+Sondern das ist eine Art von Behexung. Er ist geradezu wie umgetauscht.
+Sie wissen ja: ich bin bei ihr gewesen. Er hatte mich so darum gebeten.
+Ich fuhr hin, traf sie aber nicht an und ließ meine Karte da. =Elle m'a
+fait demander, si je pouvais la recevoir.= Und heute ($sie sieht nach
+der Uhr$) zwischen eins und zwei, also sogleich, muß sie herkommen.
+Ich habe Viktor versprochen, sie zu empfangen; aber können Sie sich in
+meine Lage versetzen? Ich bin ganz verstört. Und nach alter Gewohnheit
+habe ich Sie hergebeten. Ich bedarf Ihrer Hilfe.
+
+_Fürst Abreskow_: Ich danke Ihnen.
+
+_Anna Dmitrijewna_: Sie werden sich darüber klar sein, daß dieser ihr
+Besuch für die ganze Angelegenheit, für Viktors Schicksal, entscheidend
+ist. Ich muß entweder meine Einwilligung verweigern ... aber wie kann
+ich das?
+
+_Fürst Abreskow_: Sie kennen sie noch gar nicht?
+
+_Anna Dmitrijewna_: Ich habe sie noch nie gesehen. Aber ich fürchte
+mich vor ihr. Eine gute Frau kann sich nicht dazu entschließen, ihren
+Mann zu verlassen. Und einen so guten Menschen! Er ist ja Viktors
+Kollege und hat bei uns verkehrt. Er war ein sehr liebenswürdiger
+Mensch. Aber wie er auch gewesen sein mag, =quels que soient les torts
+qu'il a eus vis-à-vis d'elle=, von ihrem Manne darf sie sich nicht
+lossagen. Man muß sein Kreuz tragen. Das eine verstehe ich nicht, wie
+Viktor bei seinen Grundsätzen es fertigbekommen kann, eine geschiedene
+Frau zu heiraten. Wie oft hat er, und erst kürzlich, in meiner
+Gegenwart mit Herrn Spizyn hitzig debattiert und den Beweis dafür
+zu führen gesucht, daß die Ehescheidung mit dem wahren Christentum
+unvereinbar sei, und nun wirkt er selbst auf eine solche hin. =Si elle
+a pu le charmer à un tel point= ... Ich fürchte mich vor ihr. Aber
+ich habe Sie hergebeten, um Sie zu hören, und statt dessen rede nur
+ich selbst immerzu. Was meinen Sie? Reden Sie! Was muß ich nach Ihrer
+Ansicht tun? Was halten Sie für nötig? Haben Sie mit Viktor gesprochen?
+
+_Fürst Abreskow_: Ja, ich habe mit ihm gesprochen. Und ich glaube, daß
+er sie liebt, daß diese Liebe ihm schon zur vollen Gewohnheit geworden
+ist und eine gewaltige Macht über ihn gewonnen hat; und er ist ein
+Mensch, welcher Neigungen nur langsam in sich aufnimmt, sie aber dann
+um so energischer festhält. Was einmal in sein Herz eingedrungen ist,
+das geht nicht wieder hinaus. Er wird nie eine andere Frau als sie
+lieben und kann mit keiner andern glücklich werden.
+
+_Anna Dmitrijewna_: Und wie gern würde ihn Warja Kasanzewa heiraten!
+Was ist sie für ein prächtiges Mädchen, und wie liebt sie ihn!...
+
+_Fürst Abreskow_ ($lächelnd$): =C'est compter sans son hôte.= Das ist
+jetzt ganz ausgeschlossen. Und ich glaube, es ist das beste, sich zu
+fügen und ihm zu der Heirat behilflich zu sein.
+
+_Anna Dmitrijewna_: Zu der Heirat mit einer geschiedenen Frau, damit er
+dem ersten Manne seiner Frau fortwährend begegnet? Ich verstehe nicht,
+wie Sie mit solcher Ruhe davon reden können. Ist das etwa eine Frau,
+wie eine Mutter sie ihrem einzigen Sohne, und noch dazu einem solchen
+Sohne, zur Gattin wünschen kann?
+
+_Fürst Abreskow_: Aber was ist da zu machen, liebe Freundin? Natürlich
+wäre es besser, wenn er ein Mädchen heiratete, das Sie kennen und gern
+haben. Aber wenn das eben nicht möglich ist ... Und dann: wenn er nun
+eine Zigeunerin oder Gott weiß wen heiratete? Lisa Protasowa aber ist
+ein herzensgutes, liebenswürdiges Wesen. Ich kenne sie durch meine
+Nichte Nelly: sie ist eine sanfte, gutherzige, liebevolle, moralisch
+tadellose Frau.
+
+_Anna Dmitrijewna_: Eine moralisch tadellose Frau, die es fertigbringt,
+sich von ihrem Manne loszusagen?!
+
+_Fürst Abreskow_: Ich erkenne Sie gar nicht wieder. Sie sind ja so
+hart und grausam. Der Mann dieser Frau ist einer von jenen Menschen,
+von denen man sagt, daß sie keinen andern Feind haben als sich selbst.
+Aber in noch höherem Grade ist er ein Feind seiner Frau. Er ist ein
+schwacher, völlig heruntergekommener, trunksüchtiger Mensch. Er hat
+sein ganzes Vermögen und ihr ganzes Vermögen verschwendet; sie hat ein
+Kind ... Wie können Sie nur eine Frau verurteilen, die einen solchen
+Mann verlassen hat? Zudem hat nicht sie ihn verlassen, sondern er sie.
+
+_Anna Dmitrijewna_: Ach, welch ein Schmutz! welch ein Schmutz! Und ich
+soll mich damit besudeln!
+
+_Fürst Abreskow_: Und Ihre Religion?
+
+_Anna Dmitrijewna_: Ja, ja, die Vergebung! »Wie auch wir vergeben
+unsern Schuldigern.« =Mais c'est plus fort que moi.=
+
+_Fürst Abreskow_: Wie kann sie denn mit einem solchen Menschen weiter
+zusammenleben? Auch wenn sie nicht einen andern liebte, müßte sie sich
+von jenem trennen. Um des Kindes willen müßte sie das tun. Er selbst,
+ihr Mann, der, wenn er sich in nüchternem Zustande befindet, ein
+verständiger, guter Mensch ist, er selbst rät ihr, dies zu tun.
+
+
+Vierter Auftritt
+
+  Anna Dmitrijewna, Fürst Abreskow, Viktor, welcher eintritt, seiner
+  Mutter die Hand küßt und den Fürsten Abreskow begrüßt.
+
+_Viktor_: Mama, ich bin nur hergekommen, um Ihnen zu sagen, daß
+Jelisaweta Andrejewna sogleich hier sein wird; und ich bitte und
+beschwöre Sie nur um eines: wenn Sie immer noch gegen meine Heirat
+sind ...
+
+_Anna Dmitrijewna_ ($unterbricht ihn$): Selbstverständlich bin ich
+immer noch dagegen.
+
+_Viktor_ ($fährt mit finsterer Miene fort$) ... so bitte und beschwöre
+ich Sie nur um eines: reden Sie nicht von Ihrer Abneigung, sprechen Sie
+es nicht aus, daß Sie Ihre Zustimmung verweigern!
+
+_Anna Dmitrijewna_: Ich meine, daß wir überhaupt nicht von etwas
+Derartigem reden werden. Ich wenigstens werde nicht davon anfangen.
+
+_Viktor_: Und sie noch weniger. Mein Wunsch war nur, daß Sie sie kennen
+lernen möchten.
+
+_Anna Dmitrijewna_: Ich verstehe nur eines nicht: wie kannst du deinen
+Wunsch, Frau Protasowa zu Lebzeiten ihres Mannes zu heiraten, mit
+deiner religiösen Überzeugung vereinigen, daß eine Ehescheidung gegen
+die Lehre des Christentums ist?
+
+_Viktor_: Mama, Sie verfahren grausam mit mir! Sind wir alle denn so
+unfehlbar, daß wir von unseren Grundsätzen nie abgehen dürften, obwohl
+doch das Leben ein so kompliziertes Geflecht ist? Mama, warum sind Sie
+gegen mich so grausam?
+
+_Anna Dmitrijewna_: Ich liebe dich und will dein Glück.
+
+_Viktor_ ($zu Abreskow$): Sergei Dmitrijewitsch!
+
+_Fürst Abreskow_: Selbstverständlich wollen Sie sein Glück; aber
+uns mit unseren grauen Haaren wird es schon schwer, die Jugend zu
+verstehen. Und besonders schwer ist das für eine Mutter, die sich an
+den Gedanken gewöhnt hat, das Glück des Sohnes müsse ihren eigenen
+Vorstellungen entsprechen. Alle Frauen sind von dieser Art.
+
+_Anna Dmitrijewna_: Nun ja, da haben wirs! Alle sind gegen mich.
+Natürlich kannst du es tun; =vous êtes majeur= ... aber du machst mich
+dadurch unglücklich.
+
+_Viktor_: Ich erkenne Sie gar nicht wieder. Das ist mehr als grausam.
+
+_Fürst Abreskow_ ($zu Viktor$): Hör auf, Viktor. Die Mama redet immer
+schlechter, als sie handelt.
+
+_Anna Dmitrijewna_: Ich werde zu ihr sagen, was ich denke und empfinde,
+und werde es zu ihr sagen, ohne sie zu kränken.
+
+_Fürst Abreskow_: Davon bin ich überzeugt.
+
+
+Fünfter Auftritt
+
+  Anna Dmitrijewna, Fürst Abreskow, Viktor und ein Diener, welcher
+  eintritt.
+
+_Fürst Abreskow_: Da ist sie.
+
+_Viktor_: Ich werde fortgehen.
+
+_Der Diener_: Jelisaweta Andrejewna Protasowa.
+
+_Viktor_: Ich gehe fort. Mama, ich bitte Sie ... ($Er geht fort.$)
+
+_Fürst Abreskow_ ($erhebt sich ebenfalls$).
+
+_Anna Dmitrijewna_: Ich lasse bitten. ($Zum Fürsten Abreskow:$) Nein,
+bleiben Sie!
+
+
+Sechster Auftritt
+
+  Anna Dmitrijewna und Fürst Abreskow.
+
+_Fürst Abreskow_: Ich glaubte, es würde Ihnen =en tête-à-tête=
+angenehmer sein.
+
+_Anna Dmitrijewna_: Nein, ich fürchte mich vor ihr. ($Sie gerät
+in nervöse Unruhe.$) Wenn mir der Wunsch kommen sollte, mit ihr
+=tête-à-tête= zu bleiben, so werde ich Ihnen einen Wink geben; =ça
+dépendra= ... Aber gleich von vornherein mit ihr allein zu bleiben, das
+würde mir peinlich sein. Ich werde dann so zu Ihnen machen. ($Sie macht
+ihm ein Zeichen.$)
+
+_Fürst Abreskow_: Ich verstehe. Ich bin davon überzeugt, daß sie Ihnen
+gefallen wird. Seien Sie nur gerecht!
+
+_Anna Dmitrijewna_: Wie ihr alle doch meine Gegner seid!
+
+
+Siebenter Auftritt
+
+  Anna Dmitrijewna. Fürst Abreskow, Lisa, welche im Visitenkostüm mit
+  Hut eintritt.
+
+_Anna Dmitrijewna_ ($erhebt sich$): Ich habe bedauert, daß ich Sie
+nicht antraf; aber nun sind Sie so liebenswürdig, selbst herzukommen.
+
+_Lisa_: Ich hatte Ihren Besuch in keiner Weise erwartet. Ich bin Ihnen
+so dankbar, daß Sie mich zu sehen gewünscht haben.
+
+_Anna Dmitrijewna_: Sind Sie bekannt? ($Sie zeigt auf den Fürsten
+Abreskow.$)
+
+_Fürst Abreskow_: Gewiß, ich hatte die Ehre, Ihnen vorgestellt zu
+werden. ($Shake hands.$) ($Sie setzen sich.$) Meine Nichte Nelly
+spricht zu mir oft von Ihnen.
+
+_Lisa_: Ja, wir waren sehr befreundet ($sie wirft einen schüchternen
+Blick auf Anna Dmitrijewna$) und sind auch jetzt befreundet. ($Zu Anna
+Dmitrijewna:$) Ich hatte es in keiner Weise erwartet, daß Sie den
+Wunsch hätten, mich zu sehen.
+
+_Anna Dmitrijewna_: Ich habe Ihren Mann gut gekannt. Er war mit Viktor
+befreundet und verkehrte vor seiner Übersiedlung nach Tambow in unserem
+Hause. Ich glaube, dort hat er Sie geheiratet?
+
+_Lisa_: Ja, dort haben wir uns geheiratet.
+
+_Anna Dmitrijewna_: Aber nachher, als er wieder nach Moskau gezogen
+war, hat er nicht mehr bei mir verkehrt.
+
+_Lisa_: Nein, er hat fast nirgends verkehrt.
+
+_Anna Dmitrijewna_: Und so hat er mich denn auch nicht mit Ihnen
+bekannt gemacht. ($Unbehagliches Stillschweigen.$)
+
+_Fürst Abreskow_: Das letztemal traf ich mit Ihnen bei Denisows
+zusammen, bei einer Liebhabervorstellung. Es war sehr nett dort. Sie
+spielten auch mit.
+
+_Lisa_: Nein ... ja ... gewiß ... ich erinnere mich. Ich spielte mit.
+($Wieder Stillschweigen.$) Anna Dmitrijewna, verzeihen Sie mir, wenn
+Ihnen das, was ich sagen werde, unangenehm sein sollte; aber ich kann
+mich nicht verstellen, ich verstehe das nicht. Ich bin hergekommen,
+weil mir Viktor Michailowitsch sagte ... weil er ... das heißt, weil
+Sie den Wunsch hatten, mich zu sehen ... aber es wird das beste sein,
+wenn ich alles sage ... ($Sie fängt an zu schluchzen.$) ... Es ist mir
+sehr peinlich ... aber Sie sind so gut.
+
+_Fürst Abreskow_: Ich werde lieber gehen.
+
+_Anna Dmitrijewna_: Ja, gehen Sie!
+
+_Fürst Abreskow_: Auf Wiedersehen! ($Er empfiehlt sich den beiden Damen
+und geht.$)
+
+
+Achter Auftritt
+
+  Anna Dmitrijewna und Lisa.
+
+_Anna Dmitrijewna_: Hören Sie, Lisa ... Ich weiß nicht und will auch
+gar nicht wissen, wie Sie mit Vatersnamen heißen ...
+
+_Lisa_: Andrejewna.
+
+_Anna Dmitrijewna_: Nun, ganz gleich; ich möchte Sie einfach Lisa
+nennen. Sie tun mir leid; Sie sind mir sympathisch. Aber ich liebe
+Viktor. Ich liebe auf der ganzen Welt nur dieses eine Wesen. Ich kenne
+seine Seele wie meine eigene. Er ist eine stolze Seele. Schon als
+siebenjähriger Knabe war er stolz, stolz nicht auf seinen Namen, nicht
+auf seinen Reichtum, sondern auf seine hohe sittliche Reinheit; und
+diese Reinheit hat er sich bewahrt. Er ist rein wie ein junges Mädchen.
+
+_Lisa_: Das weiß ich.
+
+_Anna Dmitrijewna_: Er hat nie eine Frau geliebt. Sie sind die erste.
+Ich kann nicht sagen, daß ich nicht eifersüchtig auf Sie wäre; ich
+bin eifersüchtig. Aber wir Mütter -- Ihr eigenes Söhnchen ist noch zu
+klein, und solche Gedanken liegen Ihnen noch fern --, wir Mütter müssen
+uns darauf vorbereiten, unsere Söhne einer anderen Frau abzutreten.
+Ich habe mich darauf vorbereitet, ihn einer andern abzutreten, ohne
+eifersüchtig zu werden. Aber ich wollte ihn einer Frau abtreten, die
+ebenso wäre wie er selbst.
+
+_Lisa_: Aber bin ich ... bin ich denn ...
+
+_Anna Dmitrijewna_: Verzeihen Sie, ich weiß, Sie tragen keine Schuld,
+Sie sind unglücklich. Und ich kenne ihn. Jetzt ist er bereit, alles zu
+ertragen, und er wird es ertragen und niemals etwas darüber sagen; aber
+er wird darunter leiden. Sein verletzter Stolz wird darunter leiden,
+und er wird nicht glücklich sein.
+
+_Lisa_: Ich habe darüber nachgedacht.
+
+_Anna Dmitrijewna_: Lisa, liebes Kind, Sie sind eine verständige, gute
+Frau. Wenn Sie ihn wahrhaft lieben, so müssen Sie doch mehr sein Glück
+wünschen als Ihr eigenes. Wenn es aber so ist, so werden Sie ihn nicht
+binden wollen und nicht schuld daran werden wollen, daß er es später
+bereut. Obgleich er es nicht sagen wird, es niemals sagen wird.
+
+_Lisa_: Das weiß ich, daß er es nicht sagen wird. Ich habe darüber
+nachgedacht und mir diese Frage vorgelegt. Ich habe darüber nachgedacht
+und es ihm gesagt. Aber was kann ich tun, wenn er mir erwidert, daß er
+ohne mich nicht leben mag? Ich habe gesagt: »Wir wollen Freunde sein;
+aber richten Sie sich Ihr Leben für sich ein, und verknüpfen Sie nicht
+Ihr reines Leben mit meinem unglücklichen.« Aber er will nicht.
+
+_Anna Dmitrijewna_: Ja, jetzt will er nicht.
+
+_Lisa_: Überreden Sie ihn, von mir abzulassen! Ich bin damit
+einverstanden. Ich liebe ihn um seines, nicht um meines Glückes willen.
+Nur helfen Sie mir, und hassen Sie mich nicht! Lassen Sie uns beide,
+voller Liebe, auf sein wahres Wohl bedacht sein!
+
+_Anna Dmitrijewna_: Ja, ja, ich habe Sie liebgewonnen. ($Sie küßt sie.
+Lisa bricht in Tränen aus.$) Aber trotzdem, trotzdem ist das alles
+so schrecklich. Hätte er Sie damals liebgewonnen, als Sie noch nicht
+verheiratet waren ...
+
+_Lisa_: Er sagt, er habe mich schon damals geliebt, habe aber das Glück
+seines Freundes nicht stören wollen.
+
+_Anna Dmitrijewna_: Ach, wie schrecklich das alles ist! Aber wir wollen
+einander trotz alledem liebhaben, und Gott wird uns helfen, zum Ziele
+unserer Wünsche zu gelangen.
+
+
+Neunter Auftritt
+
+  Anna Dmitrijewna, Lisa und Viktor.
+
+_Viktor_ ($tritt ein$): Mama, liebe Mama! Ich habe alles gehört. Ich
+hatte es erwartet, daß Sie sie liebgewinnen würden. Und nun wird alles
+gut werden.
+
+_Lisa_: Wie leid tut es mir, daß Sie alles gehört haben. Ich hätte es
+nicht gesagt, wenn ich das gewußt hätte.
+
+_Anna Dmitrijewna_: Aber entschieden ist noch nichts. Ich kann nur
+sagen, daß ich mich freuen würde, wenn nicht alle diese peinlichen
+Umstände vorhanden wären. ($Sie küßt sie.$)
+
+_Viktor_: Bitte, verbleiben Sie bei dieser Gesinnung!
+
+  Vorhang.
+
+
+Sechstes Bild
+
+  Ein bescheidenes Zimmer, ein Bett, ein Schreibtisch, ein Sofa.
+
+
+Erster Auftritt
+
+_Fedja_ ($allein, es wird an die Tür geklopft. Eine weibliche
+Stimme fragt von außen: »Warum hast du dich eingeschlossen, Fjodor
+Wasiljewitsch? Mach auf, Fedja!...«$).
+
+
+Zweiter Auftritt
+
+  Fedja und Mascha.
+
+_Fedja_ ($steht auf und öffnet die Tür$): Vielen Dank, daß du gekommen
+bist! Ich langweile mich hier, langweile mich furchtbar.
+
+_Mascha_: Warum bist du nicht zu uns gekommen? Du bist wieder ins
+Trinken hineingeraten. Ach, du! Und du hattest doch versprochen zu
+kommen.
+
+_Fedja_: Du weißt, daß ich kein Geld habe.
+
+_Mascha_: Warum habe ich mich nun in dich verliebt!
+
+_Fedja_: Mascha!
+
+_Mascha_: Ach was! »Mascha, Mascha!« Wenn du mich liebtest, hättest du
+dich schon längst scheiden lassen. Deine Leute haben dich ja selbst
+darum gebeten. Du sagst, daß du deine Frau nicht liebst, und hältst
+doch an ihr fest. Du willst offenbar nicht ...
+
+_Fedja_: Du weißt ja, weswegen ich nicht will.
+
+_Mascha_: Das ist alles dummes Zeug. Die Leute haben ganz recht, wenn
+sie sagen, daß du ein schlaffer Mensch bist.
+
+_Fedja_: Was soll ich dir darauf erwidern? Soll ich dir sagen, daß mir
+deine Worte ein Schmerz sind? Das weißt du ja selbst.
+
+_Mascha_: Dir ist nichts ein Schmerz ...
+
+_Fedja_: Du weißt selbst, daß ich nur eine Freude im Leben habe: deine
+Liebe.
+
+_Mascha_: Ich liebe dich schon, aber du nicht mich.
+
+_Fedja_: Nun, ich werde mich nicht auf Beteuerungen einlassen. Das wäre
+ja unnütz; du weißt selbst, daß ich dich liebe.
+
+_Mascha_: Fedja, warum marterst du mich so?
+
+_Fedja_: Wer martert wen?
+
+_Mascha_ ($weint$): Du bist kein guter Mensch.
+
+_Fedja_ ($tritt zu ihr hin und umarmt sie$): Mascha! Warum weinst du?
+Hör auf! Leben muß man, aber nicht schluchzen. Und dir steht das nun
+schon gar nicht, du mein schönes Kind!
+
+_Mascha_: Liebst du mich?
+
+_Fedja_: Wen sollte ich denn sonst lieben?
+
+_Mascha_: Nur mich? Nun, lies mir einmal vor, was du da geschrieben
+hast.
+
+_Fedja_: Es wird dich langweilen.
+
+_Mascha_: Wenn du es geschrieben hast, wird es schon hübsch sein.
+
+_Fedja_: Nun, so höre. ($Er liest.$) »An einem Tage im Spätherbst
+hatte ich mich mit einem Kameraden verabredet, daß wir uns auf der
+Murygina-Terrasse treffen wollten. Es war ein trüber, warmer, stiller
+Tag. Der Nebel ...«
+
+
+Dritter Auftritt
+
+  Fedja und Mascha. Der alte Zigeuner Iwan Makarowitsch und die alte
+  Zigeunerin Nastasja Iwanowna, Maschas Eltern, treten ein.
+
+_Nastasja Iwanowna_ ($tritt auf ihre Tochter zu$): Also hier bist du,
+du verlaufenes Schaf verfluchtes! Habe die Ehre, gnädiger Herr! ($Zur
+Tochter:$) Was tust du uns an, he?
+
+_Iwan Makarowitsch_ ($zu Fedja$): Du handelst nicht gut, gnädiger
+Herr. Machst das Mädchen unglücklich. Wirklich nicht gut. Du handelst
+unchristlich.
+
+_Nastasja Iwanowna_: Nimm dein Tuch um und dann sofort marsch! Nun sehe
+einer an, weggelaufen ist sie! Was werde ich dem Chor sagen? Läßt dich
+mit einem armen Schlucker ein! Was kannst du von dem kriegen?
+
+_Mascha_: Von Einlassen ist nicht die Rede. Ich liebe den gnädigen
+Herrn, weiter nichts. Ich werde mich von dem Chor nicht lossagen, werde
+weitersingen; aber daß ...
+
+_Iwan Makarowitsch_: Wenn du noch ein Wort sagst, so reiße ich dir den
+Zopf aus. Du Dirne! Wer hat dir so ein Beispiel gegeben? Dein Vater
+nicht, deine Mutter nicht, deine Tante nicht. Es ist schlecht von dir,
+Herr. Wir haben dich lieb gehabt; wie oft haben wir dir umsonst etwas
+vorgesungen, weil du uns leid tatest. Aber du, was hast du uns angetan!
+
+_Nastasja Iwanowna_: Du hast unser Töchterchen, unser liebes, einziges,
+süßes, goldenes, unschätzbares Töchterchen, mir nichts dir nichts
+zugrunde gerichtet, sie in den Schmutz getreten, -- das hast du uns
+angetan. Du hast keine Gottesfurcht.
+
+_Fedja_: Du urteilst falsch über mich, Nastasja Iwanowna. Deine Tochter
+ist mir wie eine Schwester. Ich taste ihre Ehre nicht an. Glaube so
+etwas nicht! Aber ich liebe sie ... Was ist da zu machen?
+
+_Iwan Makarowitsch_: Aber als du noch Geld hattest, da hast du sie
+nicht geliebt. Du hättest damals dem Chor zehntausend Rubel stiften
+sollen, dann hättest du sie in allen Ehren bekommen. Aber jetzt, wo
+du alles durchgebracht hast, da hast du sie heimlich entführt. Schäme
+dich, Herr, schäme dich.
+
+_Mascha_: Er hat mich nicht entführt; ich bin von selbst zu ihm
+gekommen. Und wenn ihr mich jetzt wegholt, so laufe ich doch wieder
+her. Ich liebe ihn -- und damit basta. Meine Liebe ist stärker als alle
+eure Schlösser und Riegel ... Ich will nicht.
+
+_Nastasja Iwanowna_: Na, liebste Mascha, mein Herzenskind, werde nicht
+hitzig! Du hast nicht gut gehandelt; na, und nun komm!
+
+_Iwan Makarowitsch_: Na, nun ist genug geredet! Marsch! ($Er faßt sie
+an den Arm.$) Lebe wohl, Herr! ($Alle drei ab.$)
+
+
+Vierter Auftritt
+
+  Fedja, Fürst Abreskow, welcher eintritt.
+
+_Fürst Abreskow_: Ich bitte um Verzeihung. Ich bin wider meinen Willen
+Zeuge einer unangenehmen Szene geworden.
+
+_Fedja_: Mit wem habe ich die Ehre?... ($Er erkennt ihn.$) Ah! Fürst
+Sergei Dmitrijewitsch! ($Er begrüßt ihn.$)
+
+_Fürst Abreskow_: Ja, unfreiwilliger Zeuge einer unangenehmen Szene.
+Ich hätte gewünscht, sie nicht mit anzuhören. Aber da ich sie nun
+einmal mit angehört habe, so halte ich es für meine Pflicht zu sagen,
+daß dies geschehen ist. Man hatte mich hierher gewiesen, und ich mußte
+an der Tür warten, bis diese Herrschaften weggingen. Um so mehr, da
+mein Klopfen wegen des sehr lauten Redens nicht gehört wurde.
+
+_Fedja_: Ja, ja. Bitte ergebenst, Platz zu nehmen. Ich bin Ihnen
+dankbar dafür, daß Sie mir das gesagt haben. Das gibt mir das Recht,
+Ihnen diese Szene zu erklären. Was Sie von mir selbst denken, ist mir
+ganz gleichgültig; aber ich möchte Ihnen sagen, daß die Vorwürfe,
+die Sie diesem jungen Mädchen, einer Zigeunerin, Sängerin, machen
+hörten, ungerechtfertigt sind. Dieses junge Mädchen ist sittlich so
+rein wie eine Taube. Und meine Beziehungen zu ihr sind lediglich
+freundschaftlicher Art. Und wenn sie vielleicht einen poetischen Anflug
+haben, so beeinträchtigt das die Reinheit und die Ehre dieses jungen
+Mädchens nicht. Das ists, was ich Ihnen sagen wollte. Also was wünschen
+Sie von mir? Womit kann ich Ihnen dienen?
+
+_Fürst Abreskow_: Ich möchte erstens ...
+
+_Fedja_: Verzeihen Sie, Fürst! Ich bin jetzt zu einer solchen Stellung
+in der Gesellschaft gelangt, daß meine oberflächliche und schon weit
+zurückliegende Bekanntschaft mit Ihnen mir keinen Anspruch auf einen
+Besuch von Ihnen verleiht, wenn nicht eine geschäftliche Angelegenheit
+Sie zu mir führt; also worin besteht diese?
+
+_Fürst Abreskow_: Ich will es nicht in Abrede stellen; Sie haben
+es erraten. Ich habe allerdings eine geschäftliche Angelegenheit.
+Aber dennoch bitte ich Sie zu glauben, daß die Veränderung Ihrer
+gesellschaftlichen Stellung keinerlei Einfluß auf meine Beziehungen zu
+Ihnen haben kann.
+
+_Fedja_: Davon bin ich vollkommen überzeugt.
+
+_Fürst Abreskow_: Was mich herführt ist dies: der Sohn meiner alten
+Freundin Anna Dmitrijewna Karenina sowie diese selbst haben mich
+gebeten, mich geradezu und direkt bei Ihnen danach zu erkundigen,
+welches Ihre Beziehungen ... Sie gestatten mir von Ihren Beziehungen zu
+Ihrer Gemahlin Jelisaweta Andrejewna Protasowa zu sprechen?
+
+_Fedja_: Meine Beziehungen zu meiner Frau (ich kann sagen: zu meiner
+ehemaligen Frau) sind vollständig gelöst.
+
+_Fürst Abreskow_: So habe auch ich die Sache aufgefaßt. Und nur
+deswegen habe ich diese schwierige Mission übernommen.
+
+_Fedja_: Diese Beziehungen sind gelöst, und ich beeile mich, die
+Erklärung abzugeben, daß dies nicht durch ihre, sondern durch meine
+Schuld geschehen ist, einzig und allein durch meine Schuld. Sie selbst
+war eine makellose Frau und ist das auch geblieben.
+
+_Fürst Abreskow_: Und nun, sehen Sie, hat mich Viktor Karenin sowie
+ganz besonders seine Mutter gebeten, Sie nach Ihren weiteren Absichten
+zu befragen.
+
+_Fedja_ ($hitzig werdend$): Was meinen Sie für weitere Absichten? Ich
+habe keine solchen. Ich lasse ihr völlige Freiheit. Ja, noch mehr: ich
+werde ihre Ruhe niemals stören. Ich weiß, daß sie Viktor Karenin liebt.
+Mag sie das tun! Ich halte ihn für einen sehr langweiligen, aber sehr
+braven, ehrenhaften Menschen und glaube, daß sie mit ihm, wie man sich
+gewöhnlich ausdrückt, glücklich werden wird. Und =que le bon Dieu les
+bénisse=! Weiter habe ich nichts zu sagen.
+
+_Fürst Abreskow_: Ja, aber wir würden gern ...
+
+_Fedja_ ($unterbricht ihn$): Und glauben Sie nicht, daß ich auch nur
+im geringsten eifersüchtig wäre. Wenn ich von Viktor gesagt habe,
+er sei langweilig, so nehme ich diesen Ausdruck zurück. Er ist ein
+vortrefflicher, ehrenhafter, sittlich guter Mensch, beinah das reine
+Gegenteil von mir. Und er hat sie von der Kinderzeit her geliebt.
+Vielleicht hat auch sie ihn schon damals geliebt, als sie mich
+heiratete. So etwas kommt vor. Die beste Liebe pflegt diejenige zu
+sein, von der man selbst nichts weiß. Ich glaube, sie hat ihn immer
+geliebt, hat aber als ehrenhafte Frau dies nicht einmal sich selbst
+eingestehen mögen. Aber das ... es lag eine Art von Schatten auf unserm
+Eheleben ... indessen wozu mache ich Ihnen solche Geständnisse?
+
+_Fürst Abreskow_: Bitte, fahren Sie fort! Sie können mir glauben, daß
+mich zu diesem Besuche bei Ihnen in erster Linie der Wunsch veranlaßt
+hat, in diese Beziehungen einen vollständigen Einblick zu gewinnen. Ich
+verstehe Sie; ich verstehe, daß ein solcher Schatten, wie Sie sich so
+treffend ausdrückten, vorhanden sein konnte ...
+
+_Fedja_: Ja, er war vorhanden, und vielleicht war das der Grund,
+weswegen das Familienleben, das sie mir gewährte, mich nicht
+befriedigen konnte, so daß ich anderwärts umhersuchte und auf Abwege
+geriet. Aber das klingt fast, als versuchte ich, mich zu rechtfertigen.
+Das liegt nicht in meiner Absicht, und das kann ich auch nicht. Ich
+bin ein schlechter Ehemann gewesen, das sage ich ganz offen; ich bin
+es gewesen, denn jetzt bin ich in meinem Bewußtsein schon längst kein
+Ehemann mehr. Ich betrachte sie als vollständig frei. Also da haben Sie
+die Antwort auf Ihre Mission.
+
+_Fürst Abreskow_: Ja, aber Sie kennen Viktors Familie und ihn selbst.
+In seinen Beziehungen zu Jelisaweta Andrejewna hat er immer eine
+respektvolle Entfernung innegehalten und tut das auch jetzt. Er hat ihr
+beigestanden, als sie sich in schwieriger Lage befand.
+
+_Fedja_: Ja, ich habe durch meinen liederlichen Lebenswandel zu der
+gegenseitigen Annäherung der beiden mitgewirkt. Was ist zu machen? Es
+hat wohl so sein sollen.
+
+_Fürst Abreskow_: Sie kennen seine und seiner Familie streng
+rechtgläubigen Anschauungen. Ich teile diese Anschauungen nicht. Ich
+betrachte die Dinge von einem freieren Standpunkte aus. Aber ich achte
+diese Anschauungen und habe für sie Verständnis. Ich verstehe, daß für
+ihn und ganz besonders für seine Mutter ein nahes Verhältnis zu einer
+Frau ohne kirchliche Eheschließung undenkbar ist.
+
+_Fedja_: Ja, ich kenne seine dum ... seine schlichte, konservative
+Denkungsart in dieser Hinsicht. Aber was wollen die beiden? Die
+Scheidung? Ich habe ihnen schon längst gesagt, daß ich bereit bin
+darein zu willigen, daß aber, wenn ich die Schuld auf mich nehmen und
+mich der ganzen damit verbundenen Lügerei unterziehen soll, das doch
+eine sehr schwere Bedingung ist.
+
+_Fürst Abreskow_: Ich verstehe Sie vollkommen und teile Ihre
+Anschauung. Aber was soll geschehen? Ich meine, es wird sich doch in
+dieser Weise ein Arrangement finden lassen ... Übrigens haben Sie
+recht. Das ist furchtbar, und ich verstehe Sie.
+
+_Fedja_ ($drückt ihm die Hand$): Ich danke Ihnen, lieber Fürst.
+Ich habe Sie immer als einen ehrenhaften, guten Menschen gekannt.
+Nun, sagen Sie also, wie soll ich mich verhalten? Was soll ich tun?
+Versetzen Sie sich ganz in meine Lage! Ich suche mich nicht besser zu
+machen, als ich bin. Ich bin ein Taugenichts. Aber es gibt Dinge, die
+ich nicht ruhigen Herzens tun kann. Ich kann nicht ruhigen Herzens
+lügen.
+
+_Fürst Abreskow_: Aber eines ist mir an Ihnen unverständlich: Sie sind
+ein so wohlbefähigter, kluger Mensch mit einem so feinen Gefühle für
+das Gute: wie konnten Sie so auf Abwege geraten und dermaßen all die
+Anforderungen vergessen, die Sie selbst an sich stellen? Wie sind Sie
+so weit gekommen? Wie haben Sie es fertiggebracht, Ihr eigenes Leben zu
+zerstören?
+
+_Fedja_ ($unterdrückt die Tränen, die ihm die Erregung in die Augen
+treibt$): Jetzt führe ich mein Lotterleben schon zehn Jahre lang, und
+zum ersten Male hat mich ein Mann wie Sie bemitleidet. Meine Kumpane
+und die Weiber haben mich bedauert; aber ein verständiger, guter Mann
+wie Sie hat das niemals getan. Ich danke Ihnen. Wie ich dazu gekommen
+bin, mich ins Verderben zu stürzen? Da ist erstens der Wein. Nicht,
+daß ich so besonders viel Geschmack an ihm fände. Aber ich mag tun,
+was ich will, immer habe ich die Empfindung, daß es nicht das Richtige
+ist, und dann schäme ich mich. Da rede ich jetzt gerade mit Ihnen und
+schäme mich. Wenn ich Adelsmarschall war, wenn ich Hasard spielte, da
+schämte ich mich, schämte mich gewaltig. Und nur wenn ich trinke, hört
+dieses Schamgefühl auf. Und dann die Musik ... ich meine nicht Opern
+und Beethoven, sondern die Zigeunermusik -- da durchströmt einen ein
+solches Leben, eine solche Energie! Und dazu noch freundliche schwarze
+Augen und ein heiteres Lächeln. Und je mehr man sich davon hinreißen
+läßt, um so mehr schämt man sich nachher.
+
+_Fürst Abreskow_: Nun, aber die Arbeit?
+
+_Fedja_: Auch damit habe ich es versucht. Aber es war alles nicht das
+Richtige; mit allem war ich unzufrieden. Aber wozu rede ich da von mir
+selbst? Ich danke Ihnen.
+
+_Fürst Abreskow_: Was soll ich also meinen Auftraggebern sagen?
+
+_Fedja_: Sagen Sie ihnen, ich würde tun, was sie wünschen. Sie wollen
+sich ja doch heiraten und wünschen, daß ihnen dabei nichts im Wege
+stehe?
+
+_Fürst Abreskow_: Gewiß.
+
+_Fedja_: Ich werde das bewirken; sagen Sie ihnen, ich würde das
+bestimmt bewirken.
+
+_Fürst Abreskow_: Wann denn?
+
+_Fedja_: Warten Sie einmal! Nun, sagen wir: in vierzehn Tagen. Genügt
+das?
+
+_Fürst Abreskow_ ($steht auf$): Das darf ich also bestellen?
+
+_Fedja_: Ja. Leben Sie wohl, Fürst; ich danke Ihnen nochmals. ($Fürst
+Abreskow geht hinaus.$)
+
+
+Fünfter Auftritt
+
+  Fedja allein.
+
+_Fedja_ ($sitzt lange da und lächelt schweigend vor sich hin$): Gut,
+sehr gut! Das ist das Richtige, das ist das Richtige, das ist das
+Richtige. Vortrefflich!
+
+  Vorhang.
+
+
+
+
+Vierter Akt
+
+
+Siebentes Bild
+
+  In einem Restaurant. =Chambre séparée.=
+
+  Ein Kellner führt Fedja und Iwan Petrowitsch Alexandrow herein.
+
+
+Erster Auftritt
+
+  Fedja, Iwan Petrowitsch und der Kellner.
+
+_Der Kellner_: Bitte hier herein! Hier wird Sie niemand stören; das
+Papier werde ich sofort bringen.
+
+_Iwan Petrowitsch_: Protasow! Ich werde auch mit hereinkommen.
+
+_Fedja_ ($ernsthaft$): Meinetwegen, komm herein; aber ich bin
+beschäftigt und ... Wenn du willst, so komm herein!
+
+_Iwan Petrowitsch_: Du willst auf die Forderungen dieser Leute
+antworten? Ich werde dir sagen, wie du es machen mußt. Ich würde es
+anders machen. Ich spreche immer offen und handle entschieden.
+
+_Fedja_ ($zum Kellner$): Eine Flasche Champagner! ($Der Kellner ab.$)
+
+
+Zweiter Auftritt
+
+  Fedja und Iwan Petrowitsch. (Fedja zieht einen Revolver hervor und
+  legt ihn auf den Tisch.)
+
+_Fedja_: Warte ein Weilchen!
+
+_Iwan Petrowitsch_: Was ist denn das? Du willst dich erschießen? Das
+ist auch ein Weg, gewiß. Ich verstehe dich. Sie wollen dich demütigen;
+aber du zeigst ihnen, wer du bist. Dich tötest du mit dem Revolver und
+die beiden durch deine Großmut. Ich verstehe dich. Ich verstehe alles;
+denn ich bin ein Genie.
+
+_Fedja_: Nun ja, nun ja. Nur ... ($Der Kellner kommt herein mit einer
+Flasche Champagner, Papier und Schreibzeug.$)
+
+
+Dritter Auftritt
+
+  Fedja, Iwan Petrowitsch und zu Anfang der Kellner.
+
+_Fedja_ ($bedeckt den Revolver mit einer Serviette$): Zieh die Flasche
+auf! Laß uns trinken! ($Sie trinken.$) ($Fedja schreibt.$) Warte ein
+bißchen!
+
+_Iwan Petrowitsch_: Auf deine ... große Reise! Ich nehme da einen
+höheren Standpunkt ein. Ich werde dich nicht zurückhalten. Leben und
+Tod, das macht für ein Genie keinen Unterschied. Ich sterbe im Leben
+und lebe im Tode. Du tötest dich, damit sie, diese beiden Menschen,
+dich bedauern. Ich aber, ich töte mich, damit die ganze Welt begreift,
+was sie verloren hat. Ich werde nicht schwanken, nicht überlegen. Ich
+ergreife ihn ($er faßt den Revolver$), bautz -- und alles ist erledigt.
+Aber es ist noch nicht an der Zeit. ($Er legt den Revolver wieder
+hin.$) Und etwas zu schreiben beabsichtige ich auch nicht; sie müssen
+es von selbst begreifen ... Ach, ihr ...
+
+_Fedja_ ($schreibt$): Warte ein bißchen!
+
+_Iwan Petrowitsch_: Klägliche Menschen! Da wimmeln sie umher und
+mühen sich geschäftig ab. Und sie verstehen nicht, daß ... gar nichts
+verstehen sie. Ich rede nicht zu dir. Ich rede nur so für mich, spreche
+meine Gedanken aus. Aber was tut der Menschheit not? Sehr wenig: daß
+sie ihre Genies zu schätzen wüßte; aber die hat sie immer hingerichtet,
+vertrieben, gefoltert ... Nein! ich werde nicht euer Spielzeug sein!
+Ich werde euch entlarven. Neei--n! Ihr Heuchler!
+
+_Fedja_ ($ist mit Schreiben fertig, trinkt sein Glas aus und liest das
+Geschriebene noch einmal durch$): Nun, bitte, geh weg!
+
+_Iwan Petrowitsch_: Ich soll weggehen? Na, dann leb wohl! Ich werde
+dich nicht davon zurückhalten. Ich werde dasselbe tun. Aber es ist noch
+nicht Zeit für mich. Ich will dir nur sagen ...
+
+_Fedja_: Schön! Du kannst es mir sagen, aber erst nachher. Jetzt paß
+mal auf, lieber Freund: bitte, gib doch dies hier dem Wirt ($er gibt
+ihm Geld$) und frage, ob ein Brief oder ein Paket für mich da ist. Sei
+so gut!
+
+_Iwan Petrowitsch_: Schön! Du wirst also warten, bis ich zurückkomme?
+Ich will dir noch etwas Wichtiges sagen. Etwas Derartiges, wie du
+es weder in dieser Welt noch im Jenseits zu hören bekommen wirst,
+wenigstens nicht, bevor ich dorthin komme. Also soll ich das Ganze
+abliefern?
+
+_Fedja_: So viel, wie nötig ist. ($Iwan Petrowitsch ab.$)
+
+
+Vierter Auftritt
+
+  Fedja allein.
+
+_Fedja_ ($seufzt erleichtert auf, schließt hinter Iwan Petrowitsch die
+Tür zu, nimmt den Revolver, spannt den Hahn, setzt die Waffe an die
+Schläfe, zuckt zusammen und läßt sie sachte wieder sinken. Er stöhnt$):
+Nein, ich kann es nicht, ich kann es nicht, ich kann es nicht! ($Es
+wird an die Tür geklopft.$) Wer ist da?
+
+_Maschas Stimme_ ($von außen$): Ich.
+
+_Fedja_: Wer ist das: »ich«? Ah, Mascha ... ($Er schließt die Tür auf.$)
+
+
+Fünfter Auftritt
+
+_Mascha_: Ich bin in deiner Wohnung gewesen und bei Popow und bei
+Afremow, und dann fiel mir ein, daß du wohl hier sein würdest. ($Sie
+erblickt den Revolver.$) Na, das ist ja nett! Bist du ein Dummkopf!
+Wirklich, ein Dummkopf! Hast du das denn wirklich gewollt?
+
+_Fedja_: Ich habe es nicht gekonnt.
+
+_Mascha_: Und an mich hast du wohl gar nicht gedacht? Gottloser! Mit
+mir hast du kein Mitleid gehabt! Ach, Fjodor Wasiljewitsch, schäme
+dich, schäme dich! Ist das der Dank für meine Liebe?...
+
+_Fedja_: Ich wollte den beiden die Freiheit geben; ich habe es ihnen
+versprochen. Und meinem Worte untreu werden, das kann ich nicht.
+
+_Mascha_: Und ich, ich?
+
+_Fedja_: Du? Dich würde ich damit auch von einer Fessel losmachen.
+Willst du dich denn lieber noch länger mit mir abplagen?
+
+_Mascha_: Ich muß es doch wohl lieber wollen. Ich kann ohne dich nicht
+leben.
+
+_Fedja_: Was hast du für ein Leben mit mir zusammen? Du würdest ein
+bißchen weinen und dann ruhig weiterleben.
+
+_Mascha_: Ich würde überhaupt nicht weinen! Hol dich der Teufel, wenn
+du mit mir kein Mitleid hast! ($Sie weint.$)
+
+_Fedja_: Mascha, mein Herzchen! Ich wollte es doch recht gut machen!
+
+_Mascha_: Ja, recht gut für dich!
+
+_Fedja_ ($lächelnd$): Aber inwiefern wäre es denn für mich recht gut,
+wenn ich mir das Leben nähme?
+
+_Mascha_: Selbstverständlich wäre es für dich recht gut. Aber was
+beabsichtigst du denn eigentlich damit? Das sage mir mal!
+
+_Fedja_: Was ich damit beabsichtige? Gar vieles.
+
+_Mascha_: Na was? was?
+
+_Fedja_: Erstens beabsichtige ich damit, mein Versprechen zu halten.
+Das ist das Erste, und das genügt schon. Zu lügen und all die andern
+garstigen Dinge zu tun, die zu einer Scheidung erforderlich sind, das
+bringe ich nicht fertig.
+
+_Mascha_: Das ist allerdings garstig. Ich selbst ...
+
+_Fedja_: Ferner beabsichtige ich, den beiden, das heißt meiner Frau und
+ihm, Freiheit des Handelns zu geben. Sie sind ja doch gute Menschen.
+Wozu sollen sie sich quälen? Das war Nummer zwei.
+
+_Mascha_: Na, an ihr kann doch nicht sehr viel Gutes sein, wenn sie
+sich von dir losgesagt hat.
+
+_Fedja_: Nicht sie hat sich von mir losgesagt, sondern ich mich von ihr.
+
+_Mascha_: Na gut, gut! Du nimmst immer alle Schuld auf dich. Sie ist
+ein Engel. Und was nun noch?
+
+_Fedja_: Dann sage ich mir noch, daß du ein gutes, liebes Mädchen bist
+und ich dich liebe und dich, wenn ich am Leben bleibe, unglücklich
+mache.
+
+_Mascha_: Das ist ja nicht deine Sache. Ich weiß schon allein, wo ich
+glücklich und wo ich unglücklich werde.
+
+_Fedja_ ($seufzt$): Und die Hauptsache, die Hauptsache: was ist mein
+Leben? Ich sehe ja doch, daß ich ein tief heruntergekommener Mensch bin
+und zu nichts tauge. Allen und mir selbst bin ich nur zur Last, wie
+dein Vater gesagt hat. Ich bin zu nichts nütze ...
+
+_Mascha_: Dummes Zeug! Ich lasse nicht von dir. Ich halte dich fest,
+und damit basta! Und wenn du ein unordentliches Leben führst, trinkst
+und dich herumtreibst, so läßt sich das doch abstellen. Du bist ja ein
+verständiger Mensch. Wirf das von dir! Ganz einfach!
+
+_Fedja_: Leicht gesagt.
+
+_Mascha_: Mach es so!
+
+_Fedja_: Ja, wenn ich dich so ansehe, so meine ich, ich könnte alles
+ausführen.
+
+_Mascha_: Und du wirst es auch ausführen. Alles wirst du ausführen.
+($Sie erblickt den Brief.$) Was ist das? Hast du an die beiden
+geschrieben? Was hast du geschrieben?
+
+_Fedja_: Was ich geschrieben habe? ($Er nimmt den Brief und will ihn
+zerreißen.$) Der Brief ist jetzt nicht mehr erforderlich.
+
+_Mascha_ ($entreißt ihm den Brief$): Hast du geschrieben, du werdest
+dir das Leben nehmen? Ja? Von der Pistole hast du nichts geschrieben,
+sondern nur im allgemeinen, daß du dir das Leben nehmen werdest?
+
+_Fedja_: Ja, daß ich bald nicht mehr sein werde.
+
+_Mascha_: Warte mal, warte mal, warte mal! Hast du »Was ist zu tun?«[1]
+gelesen?
+
+_Fedja_: Ich glaube, ich habe es gelesen.
+
+_Mascha_: Es ist ein langweiliger Roman; aber eines ist darin sehr
+gut, sehr gut. Er, dieser, wie heißt er doch? Rachmanow, erweckt den
+Anschein, daß er ertrunken sei. Das könntest du auch tun! Schwimmen
+kannst du nicht?
+
+_Fedja_: Nein.
+
+_Mascha_: Na, siehst du wohl! Du mußt alle deine Kleider hergeben,
+alles, auch die Brieftasche.
+
+_Fedja_: Und wie weiter?
+
+_Mascha_: Warte, warte, warte! Wir fahren zu dir nach Hause. Da
+kleidest du dich um.
+
+_Fedja_: Aber das ist ja ein Betrug.
+
+_Mascha_: Das schadet nichts. Du bist baden gegangen und hast deine
+Kleider am Ufer gelassen. Und in der Tasche steckt die Brieftasche und
+dieser Brief.
+
+_Fedja_: Nun, und dann?
+
+_Mascha_: Und dann? Dann fahren wir weg und führen ein wunderschönes
+Leben.
+
+
+Sechster Auftritt
+
+  Fedja, Mascha und Iwan Petrowitsch, welcher eintritt.
+
+_Iwan Petrowitsch_: Nun sehe mal einer an! Und was wird mit dem
+Revolver? Den werde ich mir nehmen.
+
+_Mascha_: Nimm ihn, nimm ihn; wir wollen fahren.
+
+  Vorhang.
+
+
+Achtes Bild
+
+  Salon bei Protasows.
+
+
+Erster Auftritt
+
+  Karenin, Lisa.
+
+_Karenin_: Er hat es so fest versprochen, daß ich bestimmt glaube, er
+wird sein Versprechen zur Ausführung bringen.
+
+_Lisa_: Es ist mir peinlich, aber ich muß es doch sagen, daß das, was
+ich über diese Zigeunerin erfahren habe, mir ein vollständiges Gefühl
+innerer Freiheit gegeben hat. Glaube nicht, daß das Eifersucht wäre. Es
+ist nicht Eifersucht, sondern, weißt du, ein Gefühl der Befreiung. Wie
+soll ich Ihnen das deutlich machen?...
+
+_Karenin_: Wieder »Ihnen«.
+
+_Lisa_ ($lächelnd$): Nun also: dir. Aber lassen Sie mich, laß mich
+meine Empfindungen aussprechen! Was mich am meisten quälte, war das
+Gefühl, daß ich zwei Männer liebte. Denn das bedeutet, daß ich eine
+sittenlose Frau bin.
+
+_Karenin_: Du eine sittenlose Frau?!
+
+_Lisa_: Aber seit ich erfahren habe, daß er mit einer anderen Frau
+zusammenlebt und ich also für ihn keine Bedeutung mehr habe, seitdem
+bin ich innerlich frei geworden und fühle, daß ich ohne zu lügen sagen
+darf: ich liebe Sie, -- dich. Jetzt ist in meiner Seele alles hell und
+klar, und nur meine äußere Lage quält mich noch. Diese Scheidung. Das
+ist alles so qualvoll! Dieses Warten!
+
+_Karenin_: Es wird sich in allernächster Zeit entscheiden. Abgesehen
+davon, daß Fedja uns sein Versprechen gegeben hat, habe ich auch noch
+meinen Sekretär ersucht, sich mit einem Bittgesuche an das Konsistorium
+zu ihm zu begeben und nicht eher wieder fortzugehen, als bis er seine
+Unterschrift gegeben hat. Wenn ich ihn nicht so genau kennte, so würde
+ich glauben, daß sein Zaudern Absicht ist.
+
+_Lisa_: Absicht? Nein, das ist alles bei ihm nur Schwäche und
+Ehrenhaftigkeit. Er will nicht die Unwahrheit sagen. Aber du hast nicht
+gut daran getan, ihm Geld zu schicken.
+
+_Karenin_: Es ging nicht anders. Das konnte die Ursache der Verzögerung
+sein.
+
+_Lisa_: Nein, Geld hat etwas Unschönes.
+
+_Karenin_: Nun, er könnte schon weniger =pointilleux= sein.
+
+_Lisa_: Was wir für Egoisten geworden sind!
+
+_Karenin_: Ja, ich bekenne es auch von mir. Aber daran bist du selbst
+schuld. Nach all diesem Warten und dieser Hoffnungslosigkeit bin ich
+jetzt so glücklich. Und das Glück macht egoistisch. Du bist daran
+schuld.
+
+_Lisa_: Du glaubst, du allein seist glücklich. Ich bin es ebenfalls.
+Ich fühle, daß meine Seele ganz voll Glücksempfindung ist, sich
+gleichsam in ihrem Glücke badet. Alles kommt zusammen: Mischa ist
+wieder gesund geworden, und deine Mutter liebt mich, und du liebst
+mich, und, was die Hauptsache ist, ich, ich selbst liebe.
+
+_Karenin_: Ja? Und du befürchtest nicht, es jemals zu bereuen und
+anderen Sinnes zu werden?
+
+_Lisa_: Seit jenem Tage hat sich alles in mir umgewandelt.
+
+_Karenin_: Und das Alte kann nicht wiederkehren?
+
+_Lisa_: Nein, niemals. Ich habe nur einen Wunsch: daß auch in deiner
+Seele alles Vergangene ebenso vollständig abgetan sein möchte wie in
+der meinigen.
+
+
+Zweiter Auftritt
+
+  Karenin, Lisa. Die Kinderfrau mit dem Knaben tritt ein. (Der Knabe
+  geht zur Mutter. Sie nimmt ihn auf den Schoß.)
+
+_Karenin_: Was sind wir doch für unglückliche Menschen!
+
+_Lisa_: Wieso? ($Sie küßt das Kind.$)
+
+_Karenin_: Als du dich verheiratet hattest und ich bei meiner Rückkehr
+aus dem Auslande dies erfuhr und fühlte, daß ich dich verloren hatte,
+da war ich unglücklich; aber ich freute mich, als ich erfuhr, daß du
+dich meiner noch erinnertest. Das genügte mir. Als sich dann später
+freundschaftliche Beziehungen zwischen uns herausbildeten und ich
+fühlte, daß du mir freundlich gesinnt warst, und daß in unserer
+Freundschaft ein Fünkchen eines Gefühles glimmte, das stärker war als
+bloße Freundschaft, da war ich beinahe glücklich. Es quälte mich nur
+das ängstliche Gefühl, daß ich Fedja gegenüber nicht ehrlich war.
+Indessen hatte ich immer ein so festes Bewußtsein von der Unmöglichkeit
+anderer als rein freundschaftlicher Beziehungen zu der Gattin meines
+Freundes (und ich kannte ja auch dich hinlänglich), daß ich mich nicht
+mit Selbstanklagen peinigte und ganz zufrieden war. Als dann nachher
+Fedja dich durch seinen Lebenswandel zu quälen begann und ich fühlte,
+daß ich dir eine Stütze war, und daß du dich vor meiner Freundschaft
+fürchtetest, da war ich bereits sehr glücklich, und eine unbestimmte
+Hoffnung regte sich in mir. Später, als er schon unmöglich geworden
+war und du dich entschlossen hattest, dich von ihm zu trennen, und
+ich dir zum erstenmal alles sagte und du nichts erwidertest, aber in
+Tränen von mir weggingst, da war ich schon vollkommen glücklich. Und
+wenn ich gefragt worden wäre, welchen Wunsch ich noch hätte, so würde
+ich erwidert haben: keinen. Aber dann zeigte sich die Möglichkeit, mein
+Leben mit dem deinigen zu vereinigen; meine Mutter gewann dich lieb;
+diese Möglichkeit begann sich zu verwirklichen; du sagtest mir, daß du
+mich geliebt hättest und liebtest; und dann sagtest du mir, wie jetzt
+eben, daß er für dich nicht mehr existiere, daß deine Liebe nur mir
+gelte: was bleibt mir da noch zu wünschen übrig, sollte man meinen?
+Aber nein, jetzt, jetzt quäle ich mich mit der Vergangenheit herum
+und möchte, daß diese Vergangenheit nicht vorhanden wäre, daß nichts
+vorhanden wäre, was mich an sie erinnert.
+
+_Lisa_ ($vorwurfsvoll$): Viktor!
+
+_Karenin_: Verzeih mir, Lisa! Ich sage das nur, weil ich nicht will,
+daß irgendein Gedanke in meiner Seele, der dich betrifft, dir verborgen
+sei. Alles dies habe ich absichtlich gesagt, um dir zu zeigen, wie
+schlecht ich bin, und wie wohl ich weiß, daß ich mit mir selbst kämpfen
+und mich überwinden muß. Und ich habe mich überwunden. Ich liebe ihn.
+
+_Lisa_: So ist es recht. Ich habe alles getan, was ich konnte. Oder
+vielmehr: in meinem Herzen hat sich alles so herausgebildet, wie du es
+nur wünschen konntest; jedes andere Bild außer dem deinen ist daraus
+verschwunden.
+
+_Karenin_: Jedes?
+
+_Lisa_: Ja, jedes, jedes. Sonst würde ich es nicht sagen.
+
+
+Dritter Auftritt
+
+  Karenin, Lisa, die Kinderfrau mit dem Knaben und ein Diener.
+
+_Der Diener_: Herr Wosnesenski.
+
+_Karenin_: Er bringt die Antwort von Fedja.
+
+_Lisa_ ($zu Karenin$): Lassen Sie ihn in dieses Zimmer eintreten!
+
+_Karenin_ ($steht auf und geht zur Tür$): Nun, da werden wir die
+Antwort zu hören bekommen.
+
+
+Vierter Auftritt
+
+  Karenin, Lisa. (Sie gibt der Kinderfrau das Kind zurück. Die
+  Kinderfrau ab.)
+
+_Lisa_: Wird sich jetzt wirklich alles entscheiden, Viktor? ($Sie küßt
+ihn.$)
+
+
+Fünfter Auftritt
+
+  Karenin, Lisa und Wosnesenski, welcher eintritt.
+
+_Karenin_: Nun, wie steht es?
+
+_Wosnesenski_: Er war nicht zu Hause.
+
+_Karenin_: Nicht zu Hause? Und er hat die Bittschrift nicht
+unterschrieben?
+
+_Wosnesenski_: Die Bittschrift hat er nicht unterschrieben; aber er
+hat einen Brief an Sie und Jelisaweta Andrejewna hinterlassen. ($Er
+zieht einen Brief aus der Tasche und reicht ihn Karenin hin.$) Ich kam
+nach seiner Wohnung; dort wurde mir gesagt, er sei in einem bestimmten
+Restaurant; ich ging dorthin, und da sagte mir Fjodor Wasiljewitsch,
+ich möchte in einer Stunde wiederkommen. Ich kam wieder hin, und da
+hatte er diesen Brief hinterlassen ...
+
+_Karenin_: Ob er wirklich immer neue Verschleppungsversuche und
+Ausflüchte macht? Nein, das ist geradezu häßlich von ihm. Wie tief ist
+er doch gesunken!
+
+_Lisa_: So lies doch; mach!
+
+_Karenin_ ($öffnet den Brief$).
+
+_Wosnesenski_: Bedürfen Sie meiner noch?
+
+_Karenin_: Nein, adieu, ich danke Ihnen ... ($Er liest und stutzt
+erstaunt. Wosnesenski ab.$)
+
+
+Sechster Auftritt
+
+  Karenin und Lisa.
+
+_Lisa_: Was steht darin? Was steht darin?
+
+_Karenin_: Das ist schrecklich!
+
+_Lisa_ ($greift nach dem Briefe$): So lies doch vor!
+
+_Karenin_ ($liest$): »Lisa und Viktor, ich wende mich an Euch beide.
+Ich will nicht lügen, indem ich Euch die Beiworte >lieb< und >teuer<
+gäbe. Wenn ich an Euch und Eure wechselseitige Liebe und an Euer
+Glück denke, so kann ich mich eines bitteren Gefühles nicht erwehren;
+Vorwürfe mache ich allerdings nur mir selbst, aber doch bereiten sie
+mir Qual. Ich weiß alles. Ich weiß, daß ich, trotzdem ich der Ehemann
+bin, Euch seinerzeit doch nur infolge einer Reihe von Zufälligkeiten
+gehindert habe, ein Paar zu werden. =C'est moi qui suis l'intrus.= Aber
+doch kann ich ein Gefühl der Bitterkeit und der Kälte Euch gegenüber
+nicht unterdrücken. Theoretisch liebe ich Euch beide, besonders Lisa,
+die gute Lisa; aber in Wirklichkeit bin ich mehr als kalt. Ich weiß,
+daß ich daran unrecht tue; aber ich kann mich nicht ändern.«
+
+_Lisa_: Wie kann er nur ...
+
+_Karenin_ ($liest weiter$): »Aber zur Sache! Eben dieses zwiespältige
+Gefühl veranlaßt mich dazu, Euren Wunsch in anderer Weise, als Ihr
+es gewollt habt, zur Ausführung zu bringen. Zu lügen, eine unwürdige
+Komödie aufzuführen, die Beamten des Konsistoriums zu schmieren, und
+was der garstigen Dinge mehr sind, all das ist mir widerwärtig und
+unerträglich. Wie garstig ich auch selbst sein mag, wenn auch garstig
+in einem anderen Sinne, so kann ich mich doch an diesem garstigen Tun
+nicht beteiligen; ich kann es einfach nicht. Der andere Ausweg, den ich
+jetzt einschlage, ist der allereinfachste! Ihr wollt Euch heiraten, um
+glücklich zu werden; ich bin Euch hinderlich; folglich muß ich aus dem
+Leben scheiden!...«
+
+_Lisa_ ($faßt Karenin an den Arm$): Viktor!
+
+_Karenin_ ($liest weiter$): »... muß ich aus dem Leben scheiden. Und
+das werde ich auch zur Ausführung bringen. Wenn Ihr diesen Brief
+erhaltet, bin ich nicht mehr. =P.S.= Es tut mir sehr leid, daß Ihr
+mir Geld zur Betreibung der Scheidung geschickt habt. Mir war das
+unangenehm, und Eurem ganzen Wesen entsprach es nicht. Na, da hilft nun
+nichts. Ich habe so viele Fehler begangen, da könnt Ihr auch einmal
+einen begehen. Das Geld geht Euch wieder zu. Mein Ausweg ist kürzer,
+billiger und sicherer. Um eines bitte ich Euch: seid mir nicht böse
+und behaltet mich in gutem Andenken! Und noch etwas: hier lebt ein
+Uhrmacher, namens Jewgenjew; könnt Ihr dem nicht helfen und seine
+wirtschaftlichen Verhältnisse ordnen? Er ist ein schwacher, aber braver
+Mensch. Lebt wohl! Fedja.«
+
+_Lisa_: Er hat sich das Leben genommen! Ja ...
+
+_Karenin_ ($klingelt und läuft in das Vorzimmer$): Rufen Sie Herrn
+Wosnesenski zurück!
+
+_Lisa_: Ich habe es gewußt, ich habe es gewußt! Fedja, lieber Fedja!
+
+_Karenin_: Lisa!
+
+_Lisa_: Es ist nicht wahr, nicht wahr, daß ich ihn nicht geliebt hätte
+und auch jetzt nicht liebte. Ich liebe nur ihn allein. Ich liebe ihn.
+Und ich habe ihn ins Verderben getrieben! Laß mich! ($Wosnesenski tritt
+ein.$)
+
+
+Siebenter Auftritt
+
+  Karenin, Lisa und Wosnesenski.
+
+_Karenin_: Wo ist Fjodor Wasiljewitsch? Was hat man Ihnen gesagt?
+
+_Wosnesenski_: Man hat mir gesagt, er sei am Morgen unter Hinterlassung
+dieses Briefes weggegangen und nicht wieder zurückgekehrt.
+
+_Karenin_: Das muß ich in Erfahrung bringen, Lisa; ich verlasse dich.
+
+_Lisa_: Verzeih mir, aber auch ich kann nicht lügen. Laß mich jetzt
+allein! Geh und stelle fest, was geschehen ist!...
+
+  Vorhang.
+
+
+
+
+Fünfter Akt
+
+
+Neuntes Bild
+
+  Ein schmutziges Zimmer in einer Schenke. Ein Tisch mit Gästen, welche
+  Tee und Branntwein trinken. Im Vordergrunde ein Tischchen, an welchem
+  Fedja, ganz heruntergekommen und in zerlumpten Kleidern, sitzt und
+  bei ihm Pjetuschkow, ein höflicher, zarter Mensch, dem seine langen
+  Haare ein geistliches Aussehen verleihen. Beide sind ein wenig
+  angetrunken.
+
+
+Erster Auftritt
+
+  Fedja und Pjetuschkow.
+
+_Pjetuschkow_: Ich verstehe, ich verstehe. Ja, das ist echte Liebe.
+Nun, und was dann?
+
+_Fedja_: Ja, wissen Sie, wenn diese Gefühle bei einem jungen Mädchen
+aus unserer Sphäre zutage kämen, so daß sie für den geliebten Mann
+alles zum Opfer brächte, dann würde man das noch erklärlich finden;
+aber hier handelt es sich um eine Zigeunerin, deren ganze Erziehung auf
+Eigennutz gerichtet war; und dabei doch diese reine, selbstlose Liebe!
+Sie gibt alles hin, ohne für sich selbst auch nur das geringste zu
+verlangen. Dieser Kontrast ist besonders merkwürdig.
+
+_Pjetuschkow_: Ja, das nennt man bei uns in der Malerei =valeur=.
+Ein volles, grelles Rot kann man nur dann herausbringen, wenn
+ringsumher Grün ist. Na, aber das gehört nicht hierher. Ich verstehe,
+ich verstehe ...
+
+_Fedja_: Ja, und das ist, glaube ich, die einzige gute Tat, die ich zur
+Rettung meiner Seele getan habe, daß ich ihre Liebe nicht mißbrauchte.
+Und wissen Sie warum?
+
+_Pjetuschkow_: Aus Mitleid.
+
+_Fedja_: Ach nein. Mein Gefühl ihr gegenüber war nicht Mitleid. Ich
+war, wenn ich sie sah, immer voller Entzücken, und wenn sie sang, --
+ach, wie sang sie! Auch jetzt singt sie vielleicht noch -- Und immer
+blickte ich zu ihr wie zu einem höheren Wesen empor. Ich habe sie
+einfach deswegen nicht unglücklich gemacht, weil ich sie liebte, sie
+innig liebte. Und selbst jetzt noch ist das für mich eine schöne,
+schöne Erinnerung. ($Er trinkt.$)
+
+_Pjetuschkow_: Sehen Sie, ich verstehe das, ich verstehe das. Das ist
+etwas Ideales.
+
+_Fedja_: Ich will Ihnen was sagen: ich habe seinerzeit auch so meine
+Schwärmereien und Liebschaften gehabt. Und so war ich denn auch
+einmal verliebt, in eine schöne Dame, und ich war in einer häßlichen,
+sinnlichen Art verliebt, und sie gab mir ein Rendezvous. Und ich blieb
+weg, weil ich der Ansicht war, das sei eine Gemeinheit gegen den
+Ehemann. Und bis auf den heutigen Tag geht es mir merkwürdig: wenn ich
+daran zurückdenke, so möchte ich mich freuen und mich dafür loben, daß
+ich ehrenhaft gehandelt habe; aber -- ich bereue es wie eine Sünde.
+Aber hier, bei Mascha, ist es gerade umgekehrt. Ich freue mich immer,
+freue mich sehr, daß ich dieses mein Gefühl mit nichts beschmutzt habe.
+Ich kann noch tiefer sinken, kann ganz verkommen, alles, was ich auf
+dem Leibe habe, verkaufen, kann verlaufen und die Krätze bekommen; aber
+dieser Brillant, oder besser, dieser Sonnenstrahl, ja, der bleibt für
+immer das Eigentum meiner Seele.
+
+_Pjetuschkow_: Ich verstehe, ich verstehe. Wo ist sie denn jetzt?
+
+_Fedja_: Ich weiß es nicht. Und ich möchte es auch gar nicht wissen.
+Das gehörte alles einem andern Leben an. Und jenes Leben will ich nicht
+mit meinem jetzigen vermischen. ($Man hört das Geschrei einer Frau an
+dem hinteren Tische. Der Wirt tritt heran; ein Schutzmann erscheint;
+die Frau wird abgeführt. Fedja und Pjetuschkow schauen hin, hören zu
+und schweigen.$)
+
+_Pjetuschkow_ ($nachdem es dort wieder ruhig geworden ist$): Ja, Ihr
+Leben ist ein ganz wundersames gewesen.
+
+_Fedja_: Nein, ein ganz gewöhnliches. Wir alle in der Lebenssphäre, in
+der ich geboren bin, haben zwischen drei Dingen die Wahl, nur zwischen
+dreien. Erstens, ein Amt zu bekleiden, Geld zu verdienen, den Schmutz,
+in dem wir leben, noch zu vergrößern; das war mir zuwider; vielleicht
+verstand ich es auch nicht; aber die Hauptsache war: es war mir
+zuwider. Zweitens, diesen Schmutz zu bekämpfen; dazu muß man ein Held
+sein, und ich bin kein Held. Oder drittens, sich selbst zu vergessen,
+zu trinken, zu bummeln, zu singen; und eben dies habe ich getan. Und
+nun ist das Lied ausgesungen. ($Er trinkt.$)
+
+_Pjetuschkow_: Nun, und das Familienleben? Ich wäre glücklich, wenn ich
+eine Frau hätte. An meinem Unglück ist meine Frau schuld.
+
+_Fedja_: Das Familienleben? Ja. Meine Frau war eine ideale Frau. Sie
+ist auch jetzt noch am Leben. Aber was soll ich Ihnen sagen? Es fehlten
+die kleinen Rosinen. Wissen Sie, die kleinen Rosinen im Kwas?[2] Es
+fehlte in unserm Leben das Element des heiteren Spieles. Und es war mir
+doch Bedürfnis, mich zu vergessen. Und ohne solches heiteres Spiel kann
+man sich nicht vergessen. Und da fing ich an, garstige Dinge zu tun.
+Sie wissen ja aber: wir lieben die Menschen wegen des Guten, das wir
+ihnen getan haben, und empfinden Abneigung gegen sie wegen des Bösen,
+das wir ihnen zugefügt haben. Und ich habe ihr viel Böses zugefügt. Sie
+schien mich zu lieben.
+
+_Pjetuschkow_: Warum sagen Sie: »Sie schien«?
+
+_Fedja_: Das sage ich, weil sie mir seelisch nie so nahe gestanden hat
+wie Mascha. Aber darum handelt es sich jetzt nicht. Sie war in andern
+Umständen, und dann nährte sie das Kind; ich aber trieb mich umher
+und kam betrunken nach Hause. Natürlich liebte ich sie eben deswegen
+immer weniger. Ja, ja. ($Er gerät in Entzücken.$) Da fährt mir eben
+ein Gedanke durch den Kopf: darum liebe ich Mascha, weil ich ihr Gutes
+getan habe und nicht Übles. Darum liebe ich sie. Jene aber habe ich
+gequält, und darum ... aber ich kann nicht sagen, daß ich Abneigung
+gegen sie empfände; nein ich liebe sie einfach nicht. Eifersüchtig bin
+ich gewesen, ja; aber auch das gehört der Vergangenheit an.
+
+
+Zweiter Auftritt
+
+  Fedja, Pjetuschkow und Artemjew, welcher herantritt. (Er trägt eine
+  Kokarde, einen alten, geflickten Anzug und hat einen gefärbten
+  Schnurrbart.)
+
+_Artemjew_: Guten Appetit. ($Er verbeugt sich vor Fedja.$) Sind Sie mit
+dem Künstler bekannt geworden?
+
+_Fedja_ ($kühl$): Ja, wir sind miteinander bekannt.
+
+_Artemjew_ ($zu Pjetuschkow$): Nun, haben Sie das Porträt fertiggemacht?
+
+_Pjetuschkow_: Nein, ich war nicht bei Stimmung.
+
+_Artemjew_ ($setzt sich$): Ich störe Sie doch nicht? ($Fedja und
+Pjetuschkow schweigen.$)
+
+_Pjetuschkow_: Fjodor Wasiljewitsch hat allerlei aus seinem Leben
+erzählt.
+
+_Artemjew_: Geheimnisse? Dann will ich nicht stören; fahren Sie
+nur fort! Was mach ich mir aus euch, ihr Ochsen! ($Er geht zum
+Nachbartische und läßt sich Bier geben. Während der ganzen folgenden
+Zeit biegt er sich zu Fedja und Pjetuschkow hin und behorcht ihr
+Gespräch.$)
+
+
+Dritter Auftritt
+
+_Fedja_: Ich kann diesen Herrn nicht leiden.
+
+_Pjetuschkow_: Er hat sich beleidigt gefühlt.
+
+_Fedja_: Na, meinetwegen. Ich kann mir nicht helfen: wenn so ein
+Mensch dabeisitzt, bringe ich kein Wort heraus. Sehen Sie, in Ihrer
+Gesellschaft fühle ich mich wohl und behaglich. Wovon redete ich doch
+gerade?
+
+_Pjetuschkow_: Sie sagten, Sie seien eifersüchtig gewesen. Nun, und auf
+welche Weise haben Sie sich von Ihrer Frau getrennt?
+
+_Fedja_: Ach! ($Er wird nachdenklich.$) Das ist eine wunderliche
+Geschichte. Meine Frau ist verheiratet ...
+
+_Pjetuschkow_: Wie denn das? Ist eine Scheidung erfolgt?
+
+_Fedja_: Nein. ($Er lächelt.$) Sie ist als meine Witwe zurückgeblieben.
+
+_Pjetuschkow_: Aber wie meinen Sie denn das?
+
+_Fedja_: Nun ja, als meine Witwe. Ich lebe nicht mehr.
+
+_Pjetuschkow_: Sie leben nicht mehr?
+
+_Fedja_: Nein. Ich bin ein Leichnam. Ja. ($Artemjew biegt sich herüber
+und horcht.$) Sehen Sie, Ihnen kann ich es ja sagen. Es ist schon lange
+her, und meinen richtigen Familiennamen kennen Sie nicht. Die Sache
+trug sich so zu. Als ich meine Frau schon ganz zermartert, alles, was
+ich konnte, vergeudet hatte und ganz unerträglich geworden war, da
+erschien ein Beschützer für sie. Glauben Sie nicht, daß da irgendetwas
+Schmutziges, Häßliches vorgegangen wäre; nein, der Betreffende war
+mein eigener Freund und ein guter, sehr guter Mensch, nur in jeder
+Hinsicht das gerade Gegenteil von mir. Und da ich viel mehr schlechte
+Eigenschaften besitze als gute, so war und ist er denn ein guter, sehr
+guter Mensch: ehrenhaft, charakterfest, enthaltsam, mit einem Worte
+tugendhaft. Er hatte meine Frau von Jugend auf gekannt, sie geliebt und
+dann, als sie mich heiratete, sich mit seinem Schicksal ausgesöhnt.
+Später aber, als ich so garstig wurde und anfing, sie zu quälen, da
+begann er häufiger bei uns zu verkehren. Ich wünschte das selbst. Und
+sie gewannen einander lieb; ich aber geriet zu jener Zeit ganz und gar
+auf Abwege und sagte mich selbst von meiner Frau los. Und dann kam noch
+Mascha hinzu. Ich machte ihnen selbst den Vorschlag, sie möchten sich
+heiraten. Sie wollten es nicht. Aber ich machte mich immer unmöglicher,
+und die Sache endete damit, daß ...
+
+_Pjetuschkow_: Wie immer ...
+
+_Fedja_: Ich bin davon überzeugt und weiß, daß sie rein blieben. Er ist
+ein religiöser Mensch und hielt eine Ehe ohne kirchlichen Segen für
+Sünde. Na, sie begannen also die Scheidung zu verlangen; ich sollte
+dazu meine Einwilligung geben. Wenn aber die Scheidung durchgesetzt
+werden sollte, mußte ich die ganze Schuld auf mich nehmen und mich
+zu einer großen Lügerei verstehen. Und das brachte ich nicht fertig.
+Werden Sie es glauben: es wäre mir leichter geworden, mir das Leben zu
+nehmen als zu lügen. Und ich wollte mir auch schon das Leben nehmen.
+Aber da sagte eine gute Person zu mir: »Warum willst du das tun?«
+Und es wurde alles arrangiert. Ich ließ ihnen einen Abschiedsbrief
+zukommen, und am andern Tage fand man am Ufer meine Kleider und meine
+Brieftasche mit verschiedenen an mich gerichteten Briefen. Schwimmen
+kann ich nicht.
+
+_Pjetuschkow_: Nun, und wie war es mit der Leiche? Wurde die nicht
+gefunden?
+
+_Fedja_: Ja, die wurde gefunden; denken Sie sich nur: eine Woche
+darauf wurde eine Leiche gefunden. Meine Frau wurde zur Besichtigung
+hinzugerufen. Die Leiche war schon stark in Verwesung übergegangen.
+Meine Frau sah sie an. »Ist er es?« wurde sie gefragt. »Ja, er
+ist es!« antwortete sie. Und dabei blieb es denn auch. Ich wurde
+begraben, und sie heirateten sich und leben hier und fühlen sich
+glücklich. Und ich lebe auch; ich lebe und trinke. Gestern ging ich
+an dem Hause der beiden vorbei. Hinter den Fenstern war Licht; der
+Schatten eines Menschen glitt an dem Rouleau vorüber. Manchmal ist mir
+dabei scheußlich zumute; aber manchmal mache ich mir nichts daraus.
+Scheußlich ist mir zumute, wenn ich kein Geld habe ... ($Er trinkt.$)
+
+_Artemjew_ ($tritt näher$): Na, nehmen Sie es nicht übel, ich habe Ihre
+Geschichte mit angehört. Es ist eine sehr nette und vor allen Dingen
+eine sehr nützliche Geschichte. Sie sagen, es sei Ihnen scheußlich
+zumute, wenn es Ihnen an Geld fehle. Allerdings, es gibt nichts
+Scheußlicheres. Aber Sie in Ihrer Lage müßten doch eigentlich immer
+Geld haben. Sie sind ja ein Leichnam. Nun gut ...
+
+_Fedja_: Erlauben Sie! Ihnen habe ich das nicht erzählt, und ich
+wünsche Ihre Ratschläge nicht.
+
+_Artemjew_: Ich aber wünsche sie Ihnen dennoch zu geben. Sie sind ein
+Leichnam, und wenn Sie wieder aufleben, dann sind jene beiden, Ihre
+Gattin und der betreffende Herr, die sich jetzt so glücklich fühlen,
+einfach Bigamisten und spazieren günstigsten Falls nach einem nicht
+allzu entlegenen Verbannungsorte. Also warum sollte es Ihnen an Geld
+fehlen?
+
+_Fedja_: Ich ersuche Sie, mich in Ruhe zu lassen.
+
+_Artemjew_: Schreiben Sie ganz einfach einen Brief! Oder wenn Sie
+wollen, werde ich einen schreiben; Sie brauchen mir nur die Adresse zu
+geben. Sie werden mir später noch dankbar sein.
+
+_Fedja_: Scheren Sie sich weg, sage ich Ihnen! Ich habe Ihnen nichts
+mitgeteilt.
+
+_Artemjew_: Doch, das haben Sie getan. Da ist ein Zeuge. Der Kellner
+hat es gehört, daß Sie sagten, Sie seien ein Leichnam.
+
+_Der Kellner_: Ich weiß von nichts.
+
+_Fedja_: Sie Taugenichts!
+
+_Artemjew_: Ich ein Taugenichts?! He, Schutzmann! Es muß ein Protokoll
+darüber aufgenommen werden!
+
+_Fedja_ ($steht auf und geht hinaus$). ($Artemjew halt ihn fest. Ein
+Schutzmann kommt.$)
+
+  Vorhang.
+
+
+Zehntes Bild
+
+  Die Handlung spielt auf einem Gute, in einer von Efeu umrankten
+  Veranda.
+
+
+Erster Auftritt
+
+  Anna Dmitrijewna, Karenin, Lisa (die in andern Umständen ist), die
+  Kinderfrau mit dem Kinde.
+
+_Lisa_: Jetzt fährt er schon vom Bahnhof im Wagen hierher.
+
+_Der Knabe_: Wer fährt?
+
+_Lisa_: Der Papa.
+
+_Der Knabe_: Papa fährt schon vom Bahnhof im Wagen hierher!
+
+_Lisa_: =C'est étonnant, comme il l'aime, tout-à-fait comme son père.=
+
+_Anna Dmitrijewna_: =Tant mieux! Se souvient-il de son père véritable?=
+
+_Lisa_: Ich spreche nie mit ihm von diesem. Ich denke, wozu soll ich
+ihm den Kopf wirr machen? Manchmal aber denke ich wieder, ich müßte es
+ihm eigentlich doch sagen. Was meinen Sie, Mama?
+
+_Anna Dmitrijewna_: Ich meine, Lisa, das ist Sache des Gefühls, und
+wenn du dich deinem Gefühle überläßt, so wird dein Herz dir schon
+zuflüstern, was du ihm sagen sollst und wann. In wie wunderbarer Weise
+doch der Tod versöhnend wirkt! Ich muß gestehen, es hat eine Zeit
+gegeben, wo er, Fedja (ich habe ihn ja gekannt, als er noch ein Kind
+war), für mich etwas Unangenehmes hatte; aber jetzt erinnere ich mich
+seiner nur als eines liebenswürdigen jungen Mannes, als eines Freundes
+von Viktor und als jenes leidenschaftlichen Menschen, der, ob auch in
+gesetzwidriger, nicht religiöser Weise, sich selbst für diejenigen zum
+Opfer brachte, die er liebte. =On aura beau dire, l'action est belle=...
+Hoffentlich hat Viktor nicht vergessen, Wolle mitzubringen; meine
+ist gleich alle. ($Sie strickt.$)
+
+_Lisa_: Da kommt er. ($Man hört Rädergerassel und Schellengeklingel.
+Lisa steht auf und tritt an den Rand der Veranda.$)
+
+_Lisa_: Er hat jemand bei sich. Eine Dame mit einem Hute. Es ist meine
+Mama! Es ist eine Ewigkeit, daß ich sie nicht gesehen habe. ($Sie geht
+zur Tür.$)
+
+
+Zweiter Auftritt
+
+  Lisa, Anna Dmitrijewna Karenina, die Kinderfrau mit dem Kinde.
+  Karenin und Anna Pawlowna treten ein.
+
+_Anna Pawlowna_ ($küßt Lisa und Anna Dmitrijewna$): Viktor hat mich
+getroffen und hergebracht.
+
+_Anna Dmitrijewna_: Sehr recht von ihm.
+
+_Anna Pawlowna_: Ja, gewiß. Ich dachte oft, ich möchte euch einmal
+wiedersehen, schob es aber immer auf. Da bin ich nun mitgekommen und
+werde, wenn ihr mich nicht fortjagt, bis zum Abendzuge hier bleiben.
+
+_Karenin_ ($küßt seine Frau, seine Mutter und den Knaben$): Und ich bin
+so glücklich, -- ihr könnt mir gratulieren. Ich kann zwei Tage zu Hause
+bleiben. Morgen werden sie sich auf dem Büro ohne mich behelfen.
+
+_Lisa_: Das ist ja prächtig! Zwei Tage! Das ist lange nicht dagewesen.
+Laß uns nach dem Klösterchen fahren; ja?
+
+_Anna Pawlowna_: Wie ähnlich das Kind seinem Vater ist! Und was ist er
+für ein forscher Junge geworden! Wenn er nur nicht alles von seinem
+Vater geerbt hat; dessen gutes Herz, nun ja ...
+
+_Anna Dmitrijewna_: Aber nicht seine Schwäche.
+
+_Lisa_: Er ist sein vollständiges Ebenbild. Aber Viktor ist mit mir
+derselben Ansicht, daß, wenn er nur von klein auf richtig erzogen
+wird ...
+
+_Anna Pawlowna_: Nun, ich verstehe das alles nicht; ich kann nur sagen:
+ich vermag nicht an ihn zurückzudenken, ohne daß mir die Tränen kommen.
+
+_Lisa_: Mir geht es ebenso. Wie er in unserer Erinnerung gewachsen ist!
+
+_Anna Pawlowna_: Ja, das finde ich auch.
+
+_Lisa_: Wie schien doch eine Zeitlang alles unlösbar verworren zu sein!
+Und wie entwirrte sich dann plötzlich alles!
+
+_Anna Dmitrijewna_: Nun, Viktor, hast du die Wolle mitgebracht?
+
+_Karenin_: Gewiß, gewiß! ($Er nimmt seine Reisetasche und holt allerlei
+daraus hervor.$) Da ist die Wolle, und da die =Eau de Cologne=, und da
+die angekommenen Briefe, und da ein amtliches Schreiben an dich. ($Er
+gibt es seiner Frau.$) Nun, Anna Pawlowna, wenn Sie Lust haben, sich
+nach der Fahrt zu waschen, so werde ich Sie führen. Auch ich muß mich
+säubern; wir essen sogleich zu Mittag. Lisa, ich soll Anna Pawlowna
+doch wohl in das Eckzimmer im Parterre bringen? ($Lisa, die ganz blaß
+geworden ist, hält das Schriftstück in den zitternden Händen und liest
+es.$)
+
+_Karenin_: Was ist dir, Lisa? Was steht darin?
+
+_Lisa_: Er ist am Leben. Mein Gott! Wann wird er mich endlich
+freigeben?! Viktor! Wie hängt das zusammen? ($Sie schluchzt.$)
+
+_Karenin_ ($nimmt das Schriftstück und liest es$): Das ist entsetzlich!
+
+_Anna Dmitrijewna_: Was denn? So sprich doch!
+
+_Karenin_: Das ist entsetzlich. Er ist am Leben. Und sie ist eine
+Bigamistin, und ich bin ein Verbrecher. Dieses Schreiben kommt vom
+Untersuchungsrichter, der Lisa vorladet.
+
+_Anna Dmitrijewna_: Welch ein entsetzlicher Mensch! Warum hat er das
+angerichtet?!
+
+_Karenin_: Es ist alles Lüge, alles Lüge.
+
+_Lisa_: O, wie ich ihn hasse! Ich weiß nicht, was ich rede. ($Sie geht
+weinend ab, Karenin folgt ihr.$)
+
+
+Dritter Auftritt
+
+  Anna Dmitrijewna und Anna Pawlowna.
+
+_Anna Pawlowna_: Wie in aller Welt geht das zu, daß er noch lebt?
+
+_Anna Dmitrijewna_: Ich weiß nur, daß Viktor, seit er mit dieser Welt
+des Schmutzes in Berührung gekommen ist, immer mehr hineingezogen wird.
+Und jetzt versinkt er darin. Alles ist Betrug, alles Lüge!
+
+  Vorhang.
+
+
+
+
+Sechster Akt
+
+
+Elftes Bild
+
+  Amtszimmer des Untersuchungsrichters. Der Untersuchungsrichter sitzt
+  am Tische und unterhält sich mit Melnikow. Seitwärts blättert der
+  Protokollführer in Akten.
+
+
+Erster Auftritt
+
+  Der Untersuchungsrichter, Melnikow, der Protokollführer.
+
+_Der Untersuchungsrichter_: Ich habe ihr das nie gesagt. Sie hat sich
+das ausgesonnen und macht mir nun Vorwürfe.
+
+_Melnikow_: Sie macht dir keine Vorwürfe; sie ist nur sehr betrübt.
+
+_Der Untersuchungsrichter_: Nun gut, ich werde zum Mittagessen
+kommen. Aber jetzt haben wir hier eine sehr interessante Sache. ($Zum
+Protokollführer:$) Lassen Sie sie eintreten!
+
+_Der Protokollführer_: Beide?
+
+_Der Untersuchungsrichter_ ($hört auf zu rauchen und verwahrt die
+Zigarette$): Nein! Nur Frau Karenina oder richtiger nach ihrem ersten
+Manne, Frau Protasowa.
+
+_Melnikow_ ($geht weg$): Ach, es handelt sich um Frau Karenina!
+
+_Der Untersuchungsrichter_: Ja, es ist eine unsaubere Sache. Allerdings
+fange ich die Untersuchung eben erst an; aber schön ist die Geschichte
+nicht. Na, dann adieu! ($Melnikow ab.$)
+
+
+Zweiter Auftritt
+
+  Der Untersuchungsrichter und Lisa, die schwarz gekleidet und
+  verschleiert eintritt.
+
+_Der Untersuchungsrichter_: Bitte ergebenst. ($Er weist auf einen
+Stuhl.$) Wollen Sie mir glauben, daß ich die Notwendigkeit, Ihnen
+einige Fragen vorzulegen, sehr bedauere; aber ich befinde mich in
+einer Zwangslage ... Bitte, beruhigen Sie sich; ich mache Sie darauf
+aufmerksam, daß Sie die Antwort auf meine Fragen verweigern dürfen.
+Nur bin ich der Ansicht, daß es für Sie und für alle das Beste ist,
+alles der Wahrheit gemäß auszusagen. Das ist immer das Beste und
+Zweckmäßigste.
+
+_Lisa_: Ich habe nichts zu verheimlichen.
+
+_Der Untersuchungsrichter_: Also hier ($er blickt in ein Aktenstück$).
+Ihren Namen, Ihren Stand, Ihre Religion, das habe ich alles schon
+hingeschrieben; stimmt es?
+
+_Lisa_: Ja.
+
+_Der Untersuchungsrichter_: Sie werden beschuldigt, obwohl Sie wußten,
+daß Ihr Mann am Leben war, einen andern geheiratet zu haben.
+
+_Lisa_: Ich wußte es nicht.
+
+_Der Untersuchungsrichter_: Und ferner werden Sie beschuldigt, durch
+Zahlung einer Geldsumme ihren Mann zur Begehung eines Betruges, nämlich
+zur Vorspiegelung eines Selbstmordes, veranlaßt zu haben, in der
+Absicht, von ihm loszukommen.
+
+_Lisa_: Das ist alles nicht wahr.
+
+_Der Untersuchungsrichter_: Gestatten Sie mir also einige Fragen. Haben
+Sie ihm im Juli vorigen Jahres zwölfhundert Rubel übersandt?
+
+_Lisa_: Dieses Geld gehörte ihm. Es war der Erlös aus seinen Sachen.
+Und in der Zeit, als ich mich von ihm getrennt hatte und darauf
+wartete, daß er die Scheidung in die Wege leite, da schickte ich es ihm.
+
+_Der Untersuchungsrichter_: So so, sehr wohl. Dieses Geld wurde ihm am
+17. Juli übersandt, das heißt zwei Tage vor seinem Verschwinden.
+
+_Lisa_: Es mag am 17. Juli gewesen sein. Ich erinnere mich nicht.
+
+_Der Untersuchungsrichter_: Warum wurden aber die Bemühungen beim
+Konsistorium zu derselben Zeit eingestellt und dem Rechtsanwalt das
+erteilte Mandat wieder abgenommen?
+
+_Lisa_: Das weiß ich nicht.
+
+_Der Untersuchungsrichter_: Nun, aber als die Polizei Sie aufforderte,
+die Leiche zu rekognoszieren, auf welche Weise erkannten Sie in
+derselben Ihren Mann?
+
+_Lisa_: Ich war damals so aufgeregt, daß ich die Leiche nicht genauer
+ansah, und war so davon überzeugt, daß er es war, daß ich, als ich
+gefragt wurde, antwortete, er sei es wohl.
+
+_Der Untersuchungsrichter_: Ja, Sie haben ihn in einer sehr
+erklärlichen Aufregung nicht genauer angesehen. Sehr wohl. Nun aber
+gestatten Sie die Frage: warum haben Sie denn allmonatlich Geld nach
+Saratow geschickt, nach eben der Stadt, wo Ihr erster Mann wohnte?
+
+_Lisa_: Dieses Geld hat mein Mann hingeschickt. Und über die Bestimmung
+desselben kann ich nichts aussagen, da das nicht mein Geheimnis ist.
+Nur soviel: es wurde nicht an Fjodor Wasiljewitsch geschickt. Wir waren
+fest davon überzeugt, daß er nicht mehr am Leben sei. Das kann ich
+Ihnen wahrheitsgemäß sagen.
+
+_Der Untersuchungsrichter_: Sehr wohl. Gestatten Sie mir nur die
+eine Bemerkung, gnädige Frau: wir sind Diener des Gesetzes; aber das
+hindert uns nicht, Menschen zu sein. Wollen Sie mir glauben: ich
+habe ein volles Verständnis für Ihre Lage und wende ihr meine ganze
+Teilnahme zu. Sie waren an einen Menschen gebunden, der das Vermögen
+verschwendete, Sie hinterging, mit einem Worte ein schweres Kreuz für
+Sie war ...
+
+_Lisa_: Ich liebte ihn.
+
+_Der Untersuchungsrichter_: Ja, aber es mußte doch in Ihnen ganz
+natürlicherweise der Wunsch rege werden, von ihm loszukommen, und
+Sie wählten diesen einfachen Weg, ohne zu bedenken, daß er Sie zu
+etwas führte, was als ein Verbrechen angesehen wird, zur Bigamie; das
+ist auch mir verständlich. Und auch die Geschworenen werden dafür
+Verständnis haben. Und daher würde ich Ihnen raten, alles offen zu
+gestehen.
+
+_Lisa_: Ich habe nichts zu gestehen. Ich habe nie gelogen. ($Sie
+weint.$) Bin ich nicht mehr nötig?
+
+_Der Untersuchungsrichter_: Ich möchte Sie bitten, noch ein Weilchen
+hier zu bleiben. Ich werde Sie nicht weiter mit Fragen belästigen.
+Haben Sie nur die Güte, dies hier durchzulesen und zu unterschreiben.
+Es ist das Protokoll über Ihre Vernehmung. Sind Ihre Antworten richtig
+wiedergegeben? Bitte ergebenst, dort Platz zu nahmen. ($Er zeigt auf
+einen Lehnstuhl am Fenster.$) ($Zu dem Protokollführer:$) Rufen Sie
+Herrn Karenin!
+
+
+Dritter Auftritt
+
+  Der Untersuchungsrichter, der Protokollführer, Lisa. Karenin tritt
+  mit ernster, feierlicher Miene ein.
+
+_Der Untersuchungsrichter_: Bitte ergebenst!
+
+_Karenin_: Ich danke. ($Er bleibt stehen.$) Was steht zu Ihren Diensten?
+
+_Der Untersuchungsrichter_: Ich bin verpflichtet, Sie zu vernehmen.
+
+_Karenin_: In welcher Eigenschaft?
+
+_Der Untersuchungsrichter_ ($lächelnd$): Ich in meiner Eigenschaft als
+Untersuchungsrichter bin verpflichtet, Sie in Ihrer Eigenschaft als
+Beschuldigter zu vernehmen.
+
+_Karenin_: Wieso? Weswegen?
+
+_Der Untersuchungsrichter_: Wegen einer Ehe mit einer verheirateten
+Frau. Gestatten Sie aber, daß ich die Fragen der Reihe nach stelle.
+Nehmen Sie Platz!
+
+_Karenin_: Ich danke.
+
+_Der Untersuchungsrichter_: Ihr Name?
+
+_Karenin_: Viktor Karenin.
+
+_Der Untersuchungsrichter_: Stand?
+
+_Karenin_: Kammerherr, Wirklicher Staatsrat.
+
+_Der Untersuchungsrichter_: Alter?
+
+_Karenin_: Achtunddreißig Jahre.
+
+_Der Untersuchungsrichter_: Religion?
+
+_Karenin_: Rechtgläubig. Vor Gericht habe ich noch nie gestanden und
+bin nie in Untersuchung gewesen. Nun?
+
+_Der Untersuchungsrichter_: War Ihnen damals, als Sie die Ehe mit Ihrer
+Frau eingingen, bekannt, daß Fjodor Wasiljewitsch Protasow am Leben war?
+
+_Karenin_: Nein, das war mir nicht bekannt. Wir waren beide der
+Überzeugung, daß er ertrunken sei.
+
+_Der Untersuchungsrichter_: An wen haben Sie nach der unwahren
+Nachricht von Protasows Tode allmonatlich Geld nach Saratow geschickt?
+
+_Karenin_: Diese Frage möchte ich nicht beantworten.
+
+_Der Untersuchungsrichter_: Sehr wohl. In welcher Absicht haben
+Sie Herrn Protasow kurz vor der Simulation seines Todes am 17. Juli
+zwölfhundert Rubel übersandt?
+
+_Karenin_: Dieses Geld hatte mir meine Frau übergeben.
+
+_Der Untersuchungsrichter_: Frau Protasowa?
+
+_Karenin_: Meine Frau hatte es mir übergeben zur Absendung an ihren
+Mann. Sie hielt dieses Geld für sein Eigentum, und da sie alle
+Beziehungen zu ihm abgebrochen hatte, so hielt sie es für unrecht,
+dieses Geld zurückzubehalten.
+
+_Der Untersuchungsrichter_: Jetzt noch eine Frage: warum haben Sie die
+Bemühungen um die Ehescheidung eingestellt?
+
+_Karenin_: Weil Fjodor Wasiljewitsch diese Bemühungen auf sich genommen
+und mich davon brieflich verständigt hatte.
+
+_Der Untersuchungsrichter_: Besitzen Sie diesen Brief?
+
+_Karenin_: Der Brief ist verloren gegangen.
+
+_Der Untersuchungsrichter_: Merkwürdig, daß alles das, was geeignet
+wäre, das Gericht von der Richtigkeit Ihrer Angaben zu überzeugen,
+verloren gegangen und nicht zur Stelle ist.
+
+_Karenin_: Wünschen Sie sonst noch etwas?
+
+_Der Untersuchungsrichter_: Ich wünsche weiter nichts als meine Pflicht
+zu erfüllen; Ihnen aber liegt ob, sich zu rechtfertigen, und ich habe
+soeben Frau Protasowa einen Rat gegeben und möchte ebendenselben
+auch Ihnen erteilen: nicht zu verheimlichen, was doch für einen
+jeden offensichtlich ist, und alles so zu erzählen, wie es sich in
+Wirklichkeit zugetragen hat. Um so mehr, da Herr Protasow schon alles
+so ausgesagt hat, wie es gewesen ist, und wahrscheinlich auch vor
+Gericht bei seiner Aussage verbleiben wird. Ich möchte Ihnen raten ...
+
+_Karenin_: Ich würde Sie bitten, sich innerhalb des Rahmens der
+Erfüllung Ihrer Pflichten zu halten und Ihre Ratschläge beiseite zu
+lassen. Dürfen wir weggehen? ($Er tritt zu Lisa hin; sie steht auf und
+nimmt seinen Arm.$)
+
+_Der Untersuchungsrichter_: Ich bedauere lebhaft, daß ich Sie noch
+zurückhalten muß ... ($Karenin wendet sich erstaunt um.$) O nein, nicht
+in dem Sinne, als ob ich Sie verhaften lassen wollte. Wiewohl das zur
+Erforschung der Wahrheit ganz zweckdienlich sein würde, werde ich doch
+nicht zu dieser Maßregel greifen. Ich möchte nur Herrn Protasow in
+Ihrer Gegenwart verhören und Sie mit ihm konfrontieren; Sie werden
+dabei eine bequeme Möglichkeit haben, ihn der Unwahrheit zu überführen.
+Bitte, nehmen Sie Platz! ($Zum Protokollführer:$) Rufen Sie Herrn
+Protasow herein!
+
+
+Vierter Auftritt
+
+  Der Untersuchungsrichter, der Protokollführer, Lisa, Karenin. Fedja,
+  schmutzig und verkommen, tritt ein.
+
+_Fedja_ ($wendet sich zu Lisa und Karenin$): Lisa, Jelisaweta
+Andrejewna, Viktor, ich bin nicht schuld daran. Ich wollte es recht
+gut machen. Wenn mich aber doch eine Schuld trifft, so verzeiht mir,
+verzeiht mir! ($Er verbeugt sich tief vor ihnen.$)
+
+_Der Untersuchungsrichter_: Ich bitte Sie, auf meine Fragen zu
+antworten.
+
+_Fedja_: Fragen Sie!
+
+_Der Untersuchungsrichter_: Ihr Name?
+
+_Fedja_: Den wissen Sie ja doch.
+
+_Der Untersuchungsrichter_: Ich bitte Sie zu antworten.
+
+_Fedja_: Na, Fjodor Protasow.
+
+_Der Untersuchungsrichter_: Ihr Stand, Ihr Lebensalter, Ihre Religion?
+
+_Fedja_ ($schweigt zunächst$): Schämen Sie sich denn nicht, solche
+dummen Fragen zu stellen? Fragen Sie doch, was nötig ist, und nicht
+solche Torheiten!
+
+_Der Untersuchungsrichter_: Ich ersuche Sie, in Ihren Ausdrücken
+vorsichtiger zu sein und auf meine Fragen zu antworten.
+
+_Fedja_: Na, wenn Sie sich nicht schämen, dann hören Sie! Stand:
+Kandidat[3]; Lebensalter: vierzig Jahre; Religion: rechtgläubig; na,
+nun weiter!
+
+_Der Untersuchungsrichter_: War es Herrn Karenin und Ihrer Frau
+bekannt, daß Sie am Leben geblieben waren, als Sie Ihre Kleider am
+Flußufer hatten liegen lassen und selbst verschwunden waren?
+
+_Fedja_: Bestimmt nicht. Ich hatte mich wirklich töten wollen, aber
+dann ... na, das brauche ich nicht zu erzählen. Tatsache ist, daß sie
+nichts wußten.
+
+_Der Untersuchungsrichter_: Wie kommt es denn, daß Sie dem
+Polizeibeamten ganz andere Aussagen gemacht haben?
+
+_Fedja_: Welchem Polizeibeamten? Ach so, als einer zu mir in das
+Nachtasyl kam? Ich war betrunken und log ihm etwas vor; was, das
+weiß ich nicht mehr. Das ist alles dummes Zeug. Jetzt bin ich nicht
+betrunken und sage die volle Wahrheit. Sie haben nichts gewußt. Sie
+glaubten, ich sei nicht mehr am Leben. Und ich freute mich darüber. Und
+es wäre auch alles so geblieben, wenn sich nicht dieser Schuft Artemjew
+hineingemischt hätte. Und wenn jemand eine Schuld trägt, so ist er es
+allein.
+
+_Der Untersuchungsrichter_: Ich verstehe, daß Sie sich großmütig
+zeigen wollen; aber das Gesetz verlangt Wahrheit. Warum ist Ihnen Geld
+geschickt worden?
+
+_Fedja_ ($schweigt$).
+
+_Der Untersuchungsrichter_: Sie haben durch Simonow das Geld erhalten,
+das Ihnen nach Saratow geschickt wurde?
+
+_Fedja_ ($schweigt$).
+
+_Der Untersuchungsrichter_: Warum antworten Sie nicht? Es wird im
+Protokolle vermerkt werden, daß der Beschuldigte auf diese Fragen nicht
+geantwortet hat, und das kann sowohl Ihnen als auch jenen beiden sehr
+schaden. Also wie wollen Sie sich nun verhalten?
+
+_Fedja_ ($nach anfänglichem Schweigen$): Ach, Herr
+Untersuchungsrichter, daß Sie sich nicht schämen! Warum stöbern Sie in
+einem fremden Leben herum? Sie freuen sich darüber, daß Sie die Macht
+haben, und um diese Macht zu beweisen, martern Sie, wenn auch nicht
+physisch, so doch seelisch, Leute, die tausendmal besser sind als Sie.
+
+_Der Untersuchungsrichter_: Ich ersuche Sie ...
+
+_Fedja_: Da ist nichts zu ersuchen. Ich sage alles, was ich denke.
+($Zum Protokollführer:$) Schreiben Sie es nur nieder! Wenigstens werden
+auf diese Art zum erstenmal in einem Protokolle vernünftige menschliche
+Gedanken stehen. ($Dann mit erhobener Stimme:$) Da waren drei Menschen:
+ich, er und sie. Unter uns bestanden komplizierte Beziehungen; es
+war ein Kampf des Guten mit dem Bösen, ein seelischer Kampf, von dem
+Sie keinen Begriff haben. Dieser Kampf endete mit einer bestimmten
+Situation, die alle Schwierigkeiten löste. Alle Beteiligten kamen zur
+Ruhe. Jene beiden waren glücklich und bewahrten mir ein freundliches
+Andenken. Und auch ich war trotz meines tiefen Falles glücklich
+darüber, daß ich meine Pflicht getan hatte, daß ich unnützer Mensch aus
+dem Leben gegangen war, um nicht zwei andern, braven, lebensfrischen
+Menschen im Wege zu sein. Und wir waren alle drei am Leben geblieben.
+Auf einmal erschien ein Taugenichts, ein Erpresser, der von mir
+verlangte, ich solle mich an der von ihm geplanten Erpressung
+beteiligen. Ich wies ihn von mir. Er ging zu Ihnen, dem Kämpfer für das
+Recht, dem Hüter der Moral. Und Sie, der Sie an jedem Zwanzigsten des
+Monats Ihr Gehalt für die Gemeinheiten erhalten, die Sie verüben, Sie
+zogen sich Ihre Uniform an und tun sich nun leichten Herzens diesen
+beiden Menschen gegenüber wichtig, denen Sie nicht wert sind die
+Schuhriemen aufzulösen, und die Ihnen nicht einmal den Eintritt in ihr
+Vorzimmer gestatten würden. Aber Sie haben sich diese beiden Menschen
+vorgenommen und freuen sich ...
+
+_Der Untersuchungsrichter_: Ich werde Sie hinausbringen lassen ...
+
+_Fedja_: Ich fürchte mich vor niemand; denn ich bin ein Leichnam, und
+Sie können mir nichts antun; es gibt keine Lage, die schlimmer wäre als
+die meinige. Na, dann lassen Sie mich nur hinausbringen!
+
+_Karenin_: Dürfen wir nun gehen?
+
+_Der Untersuchungsrichter_: Sofort; ich bitte Sie nur, erst noch das
+Protokoll zu unterschreiben.
+
+_Fedja_: Was würden Sie für eine komische Person sein, wenn Sie nicht
+so ekelhaft wären.
+
+_Der Untersuchungsrichter_: Führen Sie ihn ab! Ich verhafte Sie.
+
+_Fedja_ ($zu Karenin und Lisa$): Also verzeiht mir!
+
+_Karenin_ ($tritt zu ihm und gibt ihm die Hand$): Es hat wohl alles so
+sein sollen ... ($Lisa geht vorüber. Fedja verbeugt sich tief.$)
+
+  Vorhang.
+
+
+Zwölftes Bild
+
+  Korridor im Gebäude des Bezirksgerichts.
+
+  Im Hintergrunde eine Glastür, bei der ein Gerichtsdiener steht.
+  Rechts eine andere Tür, durch die die Angeklagten hineingeführt
+  werden. Der ersteren Tür nähert sich Iwan Petrowitsch Alexandrow, in
+  zerlumpter Kleidung, und will hineingehen.
+
+
+Erster Auftritt
+
+  Der Gerichtsdiener und Iwan Petrowitsch.
+
+_Der Gerichtsdiener_: Wo wollen Sie da hin? Es ist nicht erlaubt.
+Solche Dreistigkeit!
+
+_Iwan Petrowitsch_: Warum ist das nicht erlaubt? Das Gesetz sagt: die
+Sitzungen sind öffentlich. ($Man hört Beifallsklatschen.$)
+
+_Der Gerichtsdiener_: Es ist nicht erlaubt; das genügt. Es ist verboten.
+
+_Iwan Petrowitsch_: Flegel! Du weißt nicht, mit wem du sprichst. ($Ein
+junger Rechtsanwalt im Frack kommt heraus.$)
+
+
+Zweiter Auftritt
+
+  Der Gerichtsdiener, Iwan Petrowitsch und der junge Rechtsanwalt.
+
+_Der junge Rechtsanwalt_: Was ist mit Ihnen? Sind Sie bei dem Prozeß
+beteiligt?
+
+_Iwan Petrowitsch_: Nein, ich bin Publikum. Aber der Flegel von
+Cerberus hier läßt mich nicht hinein.
+
+_Der junge Rechtsanwalt_: Das ist ja auch kein Eingang für das Publikum.
+
+_Iwan Petrowitsch_: Das weiß ich; aber mich könnte er schon
+hineinlassen.
+
+_Der junge Rechtsanwalt_: Warten Sie einen Augenblick; es wird gleich
+eine Pause gemacht werden. ($Im Begriff wegzugehen begegnet er dem
+Fürsten Abreskow.$)
+
+
+Dritter Auftritt
+
+  Der Gerichtsdiener, Iwan Petrowitsch, der junge Rechtsanwalt und
+  Fürst Abreskow.
+
+_Fürst Abreskow_: Gestatten Sie mir die Frage: wie weit ist die
+Verhandlung gediehen?
+
+_Der junge Rechtsanwalt_: Die Verteidiger halten ihre Plädoyers. Jetzt
+spricht Petruschin. ($Erneutes Beifallsklatschen.$)
+
+_Fürst Abreskow_: Nun, und wie ertragen denn die Angeklagten ihre
+Situation?
+
+_Der junge Rechtsanwalt_: Mit großer Würde, namentlich Karenin und
+Jelisaweta Andrejewna. Es ist, als ob sie nicht angeklagt wären,
+sondern über die Gesellschaft zu Gericht säßen. Das ist das allgemeine
+Gefühl. Und auf diesen Ton hat auch Petruschin seine Rede gestimmt.
+
+_Fürst Abreskow_: Nun, und Protasow?
+
+_Der junge Rechtsanwalt_: Er ist furchtbar aufgeregt. Er zittert
+am ganzen Leibe; indes ist das freilich bei seinem Lebenswandel
+erklärlich. Aber er ist von einer besonderen Reizbarkeit und hat
+mehrmals den Staatsanwalt und die Verteidiger unterbrochen. Er befindet
+sich in einer eigentümlichen Erregung.
+
+_Fürst Abreskow_: Was meinen Sie? Wie wird das Urteil ausfallen?
+
+_Der junge Rechtsanwalt_: Das ist schwer zu sagen; die Zusammensetzung
+der Geschworenenbank weist eine bunte Mischung auf. Jedenfalls werden
+sie keinen Vorbedacht annehmen; aber trotzdem ... ($Ein Herr kommt
+heraus. Fürst Abreskow geht auf die Tür zu.$) Wollen Sie hineingehen?
+
+_Fürst Abreskow_: Ja, ich möchte gern.
+
+_Der junge Rechtsanwalt_: Sie sind Fürst Abreskow?
+
+_Fürst Abreskow_: Ja.
+
+_Der junge Rechtsanwalt_ ($zu dem Gerichtsdiener$): Lassen Sie den
+Herrn hindurch! Gleich linker Hand ist ein Stuhl frei.
+
+
+Vierter Auftritt
+
+  Der Gerichtsdiener läßt den Fürsten Abreskow hindurch. Man sieht
+  einen plädierenden Verteidiger. Der Gerichtsdiener, der junge
+  Rechtsanwalt und Iwan Petrowitsch.
+
+_Iwan Petrowitsch_: Ja, ja, diese Aristokraten! Ich bin ein Aristokrat
+des Geistes, und das ist noch etwas Höheres.
+
+_Der junge Rechtsanwalt_: Nun, entschuldigen Sie mich jetzt! ($Er geht
+fort.$)
+
+
+Fünfter Auftritt
+
+  Der Gerichtsdiener, Iwan Petrowitsch und Pjetuschkow, welcher eilig
+  kommt.
+
+_Pjetuschkow_: Ah, guten Tag, Iwan Petrowitsch! Wie weit ist die Sache?
+
+_Iwan Petrowitsch_: Bei den Plädoyers der Verteidiger. Aber man wird
+nicht hineingelassen.
+
+_Der Gerichtsdiener_: Machen Sie hier keinen Lärm! Hier ist keine
+Schenke. ($Wieder Beifallsklatschen. Die Tür öffnet sich, und es kommen
+Rechtsanwälte und Zuhörer heraus: Herren und Damen.$)
+
+
+Sechster Auftritt
+
+  Dieselben, eine Dame und ein Offizier.
+
+_Die Dame_: Herrlich; er hat mich geradezu bis zu Tränen gerührt.
+
+_Der Offizier_: Das ist schöner als jeder Roman. Unbegreiflich ist mir
+nur, wie sie ihn hat lieben können. Ein entsetzliches Subjekt!
+
+
+Siebenter Auftritt
+
+  Dieselben. Es öffnet sich die andere Tür, und die Angeklagten kommen
+  heraus, zuerst Lisa und Karenin, die dann auf dem Korridor auf und ab
+  gehen; nach ihnen Fedja, allein.
+
+_Die Dame_: Still, still! Das ist er. Sehen Sie nur, wie aufgeregt er
+ist. ($Die Dame und der Offizier entfernen sich.$)
+
+_Fedja_ ($tritt an Iwan Petrowitsch heran$): Hast du ihn mitgebracht?
+
+_Iwan Petrowitsch_: Da ist er. ($Er gibt ihm etwas.$)
+
+_Fedja_ ($steckt den erhaltenen Gegenstand in die Tasche und will
+gehen; dabei erblickt er Pjetuschkow$): Die ganze Gerichtsverhandlung
+ist dumm und gemein; langweilig, langweilig; sinnlos. ($Er will
+weggehen.$)
+
+
+Achter Auftritt
+
+  Dieselben und Petruschin (Rechtsanwalt, wohlbeleibt, mit frischer
+  Gesichtsfarbe und lebhaftem Wesen; er tritt zu Fedja heran).
+
+_Petruschin_: Nun, lieber Freund, unsere Sache steht gut; verderben Sie
+sie mir nur nicht durch Ihre letzte Ansprache!
+
+_Fedja_: Ich werde gar nicht reden. Was sollte ich ihnen sagen?! Ich
+werde es nicht tun.
+
+_Petruschin_: Nicht doch; reden müssen Sie. Haben Sie nur keine Angst!
+Wir haben jetzt schon so gut wie gewonnenes Spiel. Sagen Sie nur das,
+was Sie schon zu mir gesagt haben: daß Sie im Falle einer Verurteilung
+nur deswegen verurteilt werden würden, weil Sie einen Selbstmord, das
+heißt eine nach bürgerlichem und kirchlichem Rechte als Verbrechen
+geltende Handlung nicht begangen hätten.
+
+_Fedja_: Ich werde nichts sagen.
+
+_Petruschin_: Warum nicht?
+
+_Fedja_: Ich will es nicht und werde es nicht tun. Sagen Sie mir nur:
+was kann im schlimmsten Falle erfolgen?
+
+_Petruschin_: Das habe ich Ihnen bereits gesagt: im schlimmsten Falle
+Verschickung nach Sibirien.
+
+_Fedja_: Das heißt, wer würde verschickt werden?
+
+_Petruschin_: Sowohl Sie als auch Ihre Frau.
+
+_Fedja_: Und im besten Falle?
+
+_Petruschin_: Kirchenbuße und selbstverständlich Annullierung der
+zweiten Ehe.
+
+_Fedja_: Das heißt also, man würde mich wieder an sie fesseln, oder
+vielmehr sie an mich.
+
+_Petruschin_: Ja, so wird es wohl kommen. Aber regen Sie sich nicht
+auf! Und bitte, sprechen Sie nur so, wie ich es Ihnen sage, und nur die
+Hauptsache, nichts Überflüssiges! Na, aber ... ($er bemerkt, daß sich
+ein Kreis von Zuhörern um sie gebildet hat$) ich bin müde geworden und
+will weggehen und mich ein Weilchen still hinsetzen. Sie sollten sich
+ebenfalls ein bißchen erholen. Die Hauptsache ist: nicht ängstlich sein!
+
+_Fedja_: Und anders kann die Entscheidung nicht ausfallen?
+
+_Petruschin_ ($im Weggehen$): Nein, anders nicht.
+
+
+Neunter Auftritt
+
+  Dieselben außer Petruschin; ein Gerichtsbeamter.
+
+_Der Gerichtsbeamte_: Gehen Sie weiter, gehen Sie weiter! Nicht auf dem
+Korridor stehen bleiben!
+
+_Fedja_: Sofort. ($Er nimmt den Revolver heraus und schießt sich ins
+Herz. Er fällt zu Boden. Alle stürzen zu ihm hin.$) Es ist nichts
+Schlimmes; mir ist wohl. Ruft Lisa!...
+
+
+Zehnter Auftritt
+
+  Aus allen Türen kommen die Zuhörer, die Richter, die Angeklagten
+  und die Zeugen herbeigelaufen. Allen voran Lisa. Hinter ihr Mascha,
+  Karenin, Iwan Petrowitsch und Fürst Abreskow.
+
+_Lisa_: Was hast du getan, Fedja! Warum nur?!
+
+_Fedja_: Verzeih mir, daß ich dich ... nicht anders frei machen konnte.
+Nicht um deinetwillen ... für mich selbst ist es so das Beste. Ich
+wollte es ja ... schon längst tun ...
+
+_Lisa_: Du wirst am Leben bleiben. ($Ein Arzt biegt sich zu ihm herab
+und horcht.$)
+
+_Fedja_: Ich weiß auch ohne Arzt Bescheid ... Viktor, leb wohl ... Und
+Mascha ist zu spät gekommen ... ($Er weint.$) Wie wohl ist mir! Wie
+wohl!... ($Er stirbt.$)
+
+  Vorhang
+
+                                     Ende.
+
+
+
+
+Fußnoten:
+
+  [1] Ein berühmt gewordener, nihilistisch gefärbter Tendenzroman von
+  Tschernyschewski, erschienen im Jahre 1863.
+
+                                              Anmerkung des Übersetzers.
+
+
+  [2] Ein säuerliches Getränk aus Roggenmehl und Malz.
+
+                                              Anmerkung des Übersetzers.
+
+
+  [3] Ein juristischer Grad, mit der Berechtigung auf die zehnte
+  Rangklasse.
+
+                                              Anmerkung des Übersetzers.
+
+
+                         _Druck von Breitkopf
+                         und Härtel in Leipzig_
