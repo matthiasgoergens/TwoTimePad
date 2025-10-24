@@ -1,0 +1,752 @@
+Vasárnapi Könyv
+
+Kiadja az Országos Közművelődési Tanács
+
+1914. Első félév 10. füzet
+
+
+
+
+Az ólombetük gyártása
+
+
+A könyvnyomtatáshoz szükséges betüket ólomból,--ólom, antimon és
+cink keverékéből--öntik. Az öntést eleintén kézi szerszámmal
+végezték, de most már ezt a munkát is gépek végzik el. Amikor az
+egyes, különálló ólombetü öntésének módját feltalálták,
+voltaképpen ezzel egyidejüen találták fel a könyvnyomtatást is.
+Mert a könyvnyomtatásnak valójában az volt az alapja, hogyan
+lehetséges olyan betükből kiszedni a sajtóba kerülő szöveget,
+amelyeket a nyomtatás után külön széjjelszedve, más könyvekhez is
+felhasználhassanak.
+
+Azelőtt fába vagy vékony cinklemezbe vésték a könyvek és egyéb
+nyomtatványok sorait. Ezt azután máshoz, mint ugyanazon könyv
+vagy nyomtatvány második vagy harmadik kinyomtatásához, nem is
+használhatták. A különálló ólombetü volt tehát a megindítója a
+könyvnyomtatás fejlődésének, ez tette lehetségessé már abban a
+régi időben a könyvnek az elterjedését. Mivel pedig az ólombetü
+nem is volt drága, a nyomtatott könyvhöz meglehetősen olcsó áron
+sok ember hozzájuthatott.
+
+A könyvnyomtatás feltalálása után vagy háromszáz esztendeig maguk
+a könyvnyomtató mesterek űzték a betüöntés mesterségét is.
+Legalább száz esztendeig az öntéshez való betüformákat is maguk
+metszették és csak azután vált a betümetszés különálló
+mesterséggé. Ezt azután olyan tanult mesterek mívelték, hogy a
+betümetszést az idők folyamán igazi művészi tökéletességre
+emelték. Évszázadokkal ezelőtt Magyarországon híres betüöntők és
+betüvésők voltak Tótfalusi Kis Miklós és Kaproncai Nyerges Ádám.
+Tótfalusi Kis Miklós Hollandiában tanulta a betümetszés és a
+könyvnyomtatás mesterségét és az elsők között volt, akik az
+újfajta ipart hazánkban meghonosították.
+
+A kezdetleges kézi betüöntő szerszám alakja harapófogóhoz
+hasonlított, azzal a különbséggel, hogy ahol a harapófogó éles
+hegyben végződik, ott a betüöntő szerszám két négyszögletes,
+lapos formában csukódott össze. Elől kis lyuk volt a szerszámon,
+ahol kis kanalakkal a folyós ólmot öntötték a szerszámba és az
+oldalában erősítették meg azt a kis formát, amelybe a betünek
+homorú képe volt bevésve. Ezt a homorú formát betüodornak hívták,
+a másik formát pedig, amelyre a betünek domború képét vésték és
+amellyel a homorú formát ütötték a rézből készült odorba,
+betükölyünek nevezték. A betümetszők vésték kemény vasszeg tompa
+hegyére a betü domború formáját és azon készítették a betüodort
+is. Az öntésnél a folyós ólom a betüodor homorú formájában
+megszilárdult, az ólmon a betü formája domború alakot kapott és
+miután lecsiszolták róla az öntésnél kapott ólomcsapocskákat,
+készen volt az ólombetü. Ezzel az eljárással igen lassan ment a
+betü öntése. Minden egyes betü kiöntése után fel kellett nyitni
+az öntő-szerszámot, ki kellett belőle venni a kiöntött betüt és a
+kis homorú formát, az odort is. Azután az odort újra
+belehelyezni, a szerszámot újra becsukni ... így folytathatták
+lassan az öntést. Ilyen lassú eljárással a legügyesebb
+betüöntőmester sem önthetett egy nap alatt 1500 betünél többet, a
+betüöntésnek ez a módja mégis igen sok ideig életben maradt.
+
+[Illustration: A teljes betüöntőgép: Johnson és Atkinson
+szerkezete
+
+Ez az öntőgép önműködően, emberi beavatkozás nélkül, önti,
+csiszolja, tisztítja, egyenletes magasságúra gyalulja és sorba
+szedi a kész betüanyagot. Naponként húszezer, de esetleg
+harminc-vagy negyvenezer betüt is lehet készíteni rajta.]
+
+[Illustration: A betüöntögyár műhelye
+
+A műhelyben a különféle szerkezetű öntőgépeken kívül csiszoló- és
+mérőeszközök és magasságszabályozó gyaluk is vannak.]
+
+Az idő haladásával mind több és több ember vásárolt könyveket, több
+betüre volt szükségük a könyvnyomtatóknak és a kézi betüöntőszerszámmal
+nem tudták elég gyorsan és megfelelő mennyiségben kielégíteni a
+betüszükségletet. A szükség több embert olyan gépnek a feltalálására
+buzdított, amely a kézi eljárás fölöslegessé tevésével, alaposan
+meggyorsítja a betüöntést. Wing Vilmos és White Éliás angol gépészek már
+az 1805. esztendőben szerkesztettek betüöntőgépet, de az első, valóban
+használható betüöntő-gépet csak 1838-ban találta föl Bruce Dávid az
+északamerikai Brooklynban. Ez a betüöntőgép a kéziöntéstől azzal
+különbözött, hogy az öntést gyorsabbá tette, de a betü ebből sem jött ki
+használható, kész állapotban. Ezeken a betükön is megmaradtak az
+ólomcsapok és a csingák, nem voltak egyforma magasak, amikor a gépből
+kipotyogtak és csak hosszas mérés és gyalulás után kerültek használható
+állapotba.
+
+[Illustration: A Foucher-féle öntőgép
+
+A gép motoros hajtásra és gázfűtésre alkalmas: nagyobb betüalakok
+tömeges öntésére való.]
+
+A tökéletes betüöntőgépet, amely a betüket önmagától önti, a
+csingákat letördeli, a betüket csiszolja, legyalulja és
+sorrendbeszedi, 1853-ban Johnson és Atkinson nevű mérnökök
+találták föl Angolországban, utóbb pedig a szerkezetén az
+amerikai Hepburn javított egyetmást, amivel a gépet
+egyszerűsítette. Ez a gép hamar elterjedt egész Európában. A
+legutóbbi időben, még tökéletesebbé, használhatóbbá és
+szerkezetét egyszerűbbé tette Foucher Parisban és Küstermann
+Berlinben. Ezekkel a gépekkel naponként 30 ezer betüt is ki lehet
+önteni, annál többet, mennél kisebb alakúra öntik.
+
+Az emberi elme azonban nem nyugszik, folyton újat és jobbat akar
+és ezért különféle módszerekkel egyre tökéletesítik a géppel való
+öntés módját is. Az újabb gépek között említésre méltó az
+úgynevezett körforgó (rotációs) betüöntőgép, amelyet Wicks nevű
+angol tökéletesített és amely 60 ezer betüt is kiönt óránként. A
+gép főrésze egy kerék, amelynek kerületén száz betünek a homorú
+lenyomata van meg és a nyomó szivattyú folytonosan fecskendi az
+ólmot a kerék homorú betüformáiba. Mikor a folyékony ólomanyag
+lehül és megszilárdul, a gép önműködően löki ki a kész betüket.
+
+A nyomdaipar az utóbbi évek során úgy fejlődött, hogy a
+könyvnyomdákban a betüszedést már nem kézzel végzik, hanem
+javarészt szedőgépeket használnak. A szedőgépek szerkezete első
+pillantásra az írógépekhez hasonlít: a szedő a gép előtt ül és az
+egyes betüknek megfelelő billentyűket leüti. A billentyűk leütése
+után a szükséges betük egymás mellé állanak. Minden egyes
+billentyű leütésekor más-más betüodor (vagy amint a nyomdászok
+mondják: matrica) kerül elő. A matrica kis rézlapocska, amelyen a
+megfelelő betü bemélyített képe látható.
+
+A szedőgéppel külön öntőgép van kapcsolatban, amely a
+betümintáknak megfelelő betüalakokat ólomanyagból kiönti. Ha
+ugyanis a szedőgépen már annyi rézlapocska sorakozott egymás
+mellé, amennyit egy-egy sornak megszabott szélessége megkíván,
+akkor a »matricasor« az öntőszerkezet elé jut. Az öntőszerkezet a
+rézlapocskák bemélyített mintáinak megfelelő betüalakokat egy
+tömör darabban ólomból kiönti és egyúttal kellő magasságúra
+gyalulja, lecsiszolja. Némelyik betüszedőgép olyan, hogy a
+betüöntőszerkezet együtt van vele, némelyik pedig olyan, hogy
+külön van a szedőgép (ez szedi ki a betümintákat) és külön az
+öntőgép (ez önti ki a betüminták szerint a betüket).
+
+[Illustration: A szedőgép
+
+a jobboldalon látható billentyűk leütése után a kívánt szöveget
+mindjárt sorokban önti ki. A billentyűk megnyomására a megfelelő
+betüminta az öntőkészülék elé ugrik, a következő betüminta
+melléje kerül, a másik ismét melléje és így tovább. A
+betümintákra az öntőkészülék ólmot önt, mire az ólomból kialakul
+a betüsor.]
+
+Látnivaló tehát, hogy az új szerkezetű szedőgépek az egyes, kész
+betüalakokat feleslegessé teszik, mert a szöveget nemcsak
+kiszedik, hanem egy tömör darabban ólomból mindjárt ki is öntik.
+A nyomtatás elvégzése után ezeket az ólomsorokat beolvasztják,
+tisztítják és új fémmel vegyítve, megint öntésre használhatják.
+
+
+
+
+A kisebb adók
+
+
+A szállítási adó
+
+
+A vasutakon utazó személyeknek és a szállított árúknak
+Magyarország területén való szállításáért szállítási adót kell
+fizetni. A szállítási adó személyek és utimálhák szállításáért a
+viteldíjnak t8 százalékát, gyorsárúkért a szállítási díjnak 7
+százalékát, a közönséges teherszállítmányért pedig a szállítási
+díjnak 5 százalékát teszi ki.
+
+Az adó fizetésére a törvény az utasokat és a szállítókat
+kötelezi. A szállítási adót az utasoktól a szállítási díjjal
+együtt a vasút szedi be és adja be az állami pénztárba. A legtöbb
+ember nem is tudja, hogy mikor a vasuti jegyét megváltotta,
+mindjárt szállítási adót is fizetett, mely benne foglaltatik a
+vasuti jegy árában.
+
+A helyiérdekű vasutak az engedélyezésüktől számított tíz évig, a
+közuti vasutak pedig (Budapesten a villamos vasutak) föltétlenül
+mentesek a szállítási adótól. Adómentességben részesülnek még
+Budapesten a személyszállító dunai csavargőzösök is. A törvény
+értelmében csak a vasuti szállítás esik adó alá, a hajószállítás
+használata adómentes.
+
+
+A bányaadó
+
+
+A tényleg művelt bányák, kőszénbányák, aranymosó üzemek bányaadót
+fizetnek az után a jövedelem után, mely a bányák műveléséből
+ered. A bányaadó alól nincsen mentesség és így művelés alatt álló
+bányái után még az állam is adót tartozik fizetni. A
+kőszénbányáknál a tiszta jövedelem hét százalékát, más
+bányaműveknél a jövedelem öt százalékát kell bányaadó fejében
+fizetni. A bányák a bányakapitányságok felügyelete alatt állanak.
+Mielőtt tehát a bányákra a bányaadót kivetik, előbb kikérik a
+bányakapitányság véleményét is arról, hogy valamely bányának
+mekkora az évi termelése és mekkora a jövedelmezősége.
+
+
+A nyereményadó
+
+
+Nyereményadót kell fizetni a jótékony célra rendezett állami
+sorsjáték nyereményei után. Úgyszintén nyereményadót kell fizetni
+azokért az engedélyekért, melyeket a pénzügyi hatóság ingóságok
+kisorsolására ad. A jótékony célú sorsjátéknál a
+nyereményösszegnek, kisorsolási engedélyeknél pedig a
+játéktervben foglalt összegnek tíz százalékát kell nyereményadó
+fejében fizetni.
+
+A nyereményadót fizetni köteles: a nyeremény után a kifizetés
+alkalmával az, aki nyert; a kisorsolási engedély után pedig, aki
+engedélyt nyert. A nyerőtől a 10 százalékos nyereményadón fölül
+még 10 százalékot vonnak le a nyereményből játékdíj fejében. A
+pénzügyminiszternek joga van arra, hogy kivételes esetekben a
+jótékonycélú kisorsolások után járó nyereményadót elengedje.
+
+Aki külföldi sorsjegyeket árul, vagy aki sorsolási engedély
+nélkül ingóságokat kisorsol, kihágást követ el. A büntetés 1000
+koronáig terjedhető pénzbüntetés, melyet behajthatlanság esetén
+elzárási büntetésre változtatnak át.
+
+
+Az útadó
+
+
+Az állami, törvényhatósági és községi utak fentartási
+költségeinek fedezésére a törvényhatóságok útadót vetnek ki.
+Mentesek az útadó alól az állami tisztviselők, csendőrök,
+katonák, pénzügyőrök, vasuti pályaőrök, börtönőrök, mezőrendőrök,
+erdőkerülők. Az útadót az állami egyenes adók után meghatározott
+százalékban szabják ki. Az útadó azonban az egyenes adók
+tizedrészénél nagyobb nem lehet. Az útadót két évre előre
+állapítják meg.
+
+Vármegyékben a közgyűlés elhatározhatja, hogy az útadó egy részét
+kézi erővel, napszámmal vagy igavonó állati erővel rójják le. Ha
+az útadót természetben kell leróni, akkor a legkevesebb
+teljesítés: három kézinapszám, vagy egy kétfogatú napszám. Ez a
+kötelezettség kiterjed a napszámosokra is, akik különben
+adómentesek. Mentesek azonban ettől a községi közmunkától a
+tanítók, katonák, csendőrök, pénzügyőrök, nyomorékok, továbbá a
+cselédek, akik szolgálatukat másnak rendelkezésére adták.
+
+Az útadó ellen a közhírré tételtől számított 15 nap alatt lehet
+felebbezni a törvényhatóság első tisztviselőjéhez (megyében az
+alispánhoz, városban a polgármesterhez), kinek határozatát 15 nap
+alatt ismét meg lehet felebbezni a közigazgatási bizottsághoz.
+
+
+Az országos betegápolási pótadó
+
+
+Ez az adó tulajdonképpen csak adópótlék, melyet a földadó, a
+házadó, a kereseti adók, valamint a tőkekamatadó után vetnek ki.
+
+Az országos betegápolási pótadó mértékét évről-évre a
+költségvetési törvény határozza meg. Ez a pótadómérték
+ezidőszerint az állami adó 5 százaléka. (Például 40 korona állami
+adó után 2 korona.)
+
+Mivel ez az adó tulajdonképpen csak adópótlék, azért amilyen
+mértékben az állami adót törlik vagy mérséklik, olyan mértékben
+kell a betegápolási pótadót is törölni vagy mérsékelni.
+
+
+
+
+A platina
+
+
+A platina manap a legértékesebb fémek közül való: a tudományos
+kutatók, a vegyészeti gyárak, a fogorvosok és az ékszerészek
+egyaránt nagy hasznát veszik. A platina a legsúlyosabb fém, csak
+az ozmium és irídium nevű fémeknek nagyobb a fajsúlya. A
+termésplatina színe sötétebb vagy világosabb szürke aszerint,
+amint vasat is tartalmaz vagy sem. A színplatina szürkésfehér,
+ezüstös színű. Igen nehezen, 1750 fok körül olvad; kitünően
+nyújtható és üvegbe forrasztható, ami a villamos izzólámpa vékony
+áramvezető drótszálának készítésére tette alkalmassá. Savak,
+lúgok nem támadják meg, azért használják vegyiszerek keverésére
+való edények, finom tudományos műszerek, orvosi eszközök
+készítésére is. Termés-állapotban főleg arannyal, ezüsttel és az
+úgynevezett platin-fémekkel (ozmium, irídium) ötvöződve,
+gömbölyű, néha szögletes szemecskékben, apró rögökben a folyók
+iszapjában, vagy elhagyott folyammedrekben találják.
+
+A platinát javarészt iszapolással választják ki azokból a
+földrétegekből, amelyek platinát tartalmaznak. Iszapolás közben
+az idegen anyagokat folyóvízzel kimossák, a nehéz platina pedig a
+mosószerkezet fenekén ülepedik le. A platinatartalmú anyagot
+addig mossák, míg a tiszta platina magában marad. Az utóbbi
+években úszó kotrógépekkel aknázzák ki a folyók medréből a
+platinát. A kiemelt földanyagot a kotrógép szerkezete maga
+osztályozza: a platinás anyag dobban gyűlik össze, a
+hasznavehetetlen részt pedig a partra dobják. A gőzzel hajtott
+kotrógép 30 embert foglalkoztat, de 600 embernek a munkáját végzi
+el.
+
+A platina értéke az elmult húsz évben egyre emelkedett: 1892-ben
+1250 korona, 1895-ben 1750, 1900-ban 2800, 1905-ben 3400,
+1910-ben 5300, 1913-ban 5900 korona volt egy kilogram platina
+ára. De nem is csoda, hogy az ára ennyire emelkedik, hiszen a
+fogyasztása is egyre nő, egyre nagyobb tért hódít, míg a
+termelése jóformán csak egy helyre, Oroszországra szorítkozik.
+Szinte "orosz fémnek" is lehetne nevezni, mert a világ
+platinatermelésének mintegy 95 százalékát ez az ország
+szolgáltatja. Pedig nem is Oroszországban fedezték fel, hanem
+Dél-Amerikában, a Pintó-folyóban lelték először az aranymosó
+spanyolok. A súlyos, ezüsthöz hasonló fémet kezdetben pintói
+ezüst, majd spanyolul platinja (ezüstöcske) néven emlegették. A
+platinja szóból lett a mai platina név. Később megtalálták a
+platina nyomait Amerika többi aranymosó-helyein, sőt
+Ausztráliában is. Európába 1735 körül hozta Don Antonio Ulloa
+nevű spanyol ember. Értékét ez időben nem ismerték, úgy hogy az
+aranymosók az iszappal együtt kiöntötték.
+
+Oroszországban 1822-ben, az Ural-hegységben fedezték fel első
+nyomát, majd 1829-ben Humboldt Sándor, a kiváló német
+természettudós bejárta az Ural-hegységet és több helyen talált
+dús platina-telepeket. Kezdetben itt sem tudtak vele mit
+csinálni, nem ismerték tulajdonságait, használhatóságát. Matthey
+nevű angol vállalkozó ismerte fel először a platina számos
+jótulajdonságát és kezdett érdeklődni az orosz bányák iránt. Az
+orosz kormány egy ideig maga vásárolta össze az egész termelést
+és pénzt veretett belőle, de 1845-ben megszüntette a
+platina-pénzverést. Ettől fogva az orosz platina-bányászat is
+hanyatlásnak indult, annyira, hogy például 1854-ben az egész évi
+termelés orosz mérték szerint egy pud (körülbelül 16 kilogram)
+volt. Az angolok 1857-ben megszerezték a bányák egyrészének
+bérletét és olyan erővel fogtak kiaknázásukhoz, hogy három év
+multán már 1088 kilogram volt az évi termelés.
+
+[Illustration: Platina-mosás az oroszországi Tura-folyó mentén
+
+Az úszó kotrógépek a folyóból kiemelt anyagot a gép közepén levő
+dobban osztályozzák, a hasznavehetetlen részt pedig a partra
+dobják. A képünkön fönt jobbról a kisebb platinamosó szerkezetet,
+lent pedig a bal sarokban a platina-ércet tartalmazó anyag
+kiásását látjuk.]
+
+A mai orosz platinabányászat négy nagy társaság kezében van,
+melyek évente átlag 5400 kilogram platinát termeltek az utóbbi
+évek alatt. Az ezeken kívül működő számtalan kisebb-nagyobb
+bánya, valamint a szabad bányaterületek évi termése 2600
+kilogram, a mi összesen 8000 kilogramot tesz ki, úgy hogy az
+átlagos platina-termés ma a világ egyéb részeiben termelt 400
+kilogrammal együtt 8400 kilogramra rúg. Amikor az oroszországi
+platinabányászat megkezdődött, tíz métermázsa földtömegből 150
+gram (15 deka) platinát nyertek, de manap akkora földtömegből már
+csak 1 gramot tudnak kimosni.
+
+Oroszország a termelt nyers platinából, platinaércből alig 400
+kilogramot tart meg, míg az Amerikai Egyesült-Államok 3200,
+Anglia 2000, Franciaország 1600, Németország 1200 kilogramot vesz
+át. A finomítás költsége nem igen nagy,--körülbelül 90 korona
+kilogramonként--aminek jórésze, gyakran az egész is megtérül a
+finomítás melléktermékeiből: az ozmium, irídium és palládium nevű
+fémekből, mert ezeknek értéke még a platináénál is nagyobb.
+
+A megtisztított platinának további feldolgozása nem nehéz, mert
+jól olvasztható, kovácsolható, hengerelhető és könnyen lehet
+ötvözni is. A villamos vezetékekre és csengőkre alkalmasabb, mint
+például a réz, amely a levegőn megváltozik (okszidálódik) és
+ilyenkor a villamosságot rosszul vezeti. A platinát üvegbe
+forraszthatjuk anélkül, hogy az üveg a lehűlés vagy a hevítés
+közben megrepedne. A villamos izzólámpákba is két, nagyon rövid
+platinadróttal vezetik be az áramot. Ennek a kis drótocskának a
+súlya a gramnak alig néhány ezredrésze, mégis az izzólámpagyárak
+fogyasztják a legtöbb platinát. A műfogak készítése is igen sok
+platinát fogyaszt: évenként körülbelül kétezer kilogramot.
+Ujabban szívesen használják a platinát ékszerek (gyűrűk, láncok)
+készítésére, brilliánsok és más drágakövek befoglalására.
+
+A platina nagyobb tömbökben igen ritkán található. 1843-ban
+találtak egy kilenc és fél kilogramos és később egy 45 kilogramos
+darabot Oroszországban, mindkettőt a pétervári múzeumban őrzik.
+
+
+
+
+Hogyan terjednek a betegségek?
+
+
+Tudja mindenki, hogy némelyik betegség veleszületik már az
+emberrel, más betegségeket pedig úgy kap az életben. Azt is
+tudjuk, hogy némelyik betegség ragadós, azt tehát mástól kapja az
+ember. Vannak olyan betegségek, amik nem születnek az emberrel,
+de már egész kicsi gyerekkorában elkezdődnek, mert a gyermek
+világrahozott gyöngeséggel született,--ilyen például az angolkór.
+Van néhány olyan betegség is, aminek az igazi természetét még az
+orvosok se tudják és nem tudják azt se, mitől kapja az
+ember,--ilyen például a rákbetegség. A legtöbb betegségről,
+kiváltképpen pedig a legtöbb gyermekbetegségről azonban mégis
+tudjuk, hogy mitől támad, például a ragadós betegségekről, amik a
+legtöbb gyermeket pusztítják el. De nem elég csak azt tudnunk,
+hogy mi okozza a betegséget, hanem hogyha óvakodni akarunk tőle,
+akkor azt is meg kell tudnunk, hogy hogyan és hol éri a
+gyermekeket a fertőzés vagy egyéb baj, amitől beteg lesz. Tudjuk
+például, hogy kanyarós gyermekhez nem szabad közel ereszteni az
+egészséges gyermeket, mert megkaphatja a betegséget. De sokszor
+látni, hogy megkapta a kanyarót olyan gyermek is, aki sohase járt
+közel kanyarós beteghez. Azt is tudjuk, hogy sokszor
+tüdőbetegséget kap az olyan gyermek, aki körül az egész házban
+egy tüdőbeteg sincsen. Olyanról is hallott már mindenki, hogy
+egészséges családban beteges gyermekek vannak és az emberek nem
+igen tudják, mitől olyan véznák, betegesek azok a gyermekek. Azt
+kell tehát tudni, hogy hogyan jutnak a betegségek a gyermek
+közelébe és hogy mitől kell óvni a gyermeket, ha azt akarjuk,
+hogy egészséges maradjon.
+
+Azt, hogy ragadós beteghez a gyermeket nem szabad közel
+ereszteni, de ha csak lehet, még egy lakásban se hagyni--mindenki
+tudja. De kevesen tudják, hogy nemcsak a betegtől magától lehet a
+betegséget elkapni, hanem mindenkitől, aki a betegnél járt és még
+mindenféle tárgyaktól is, amelyek a beteg közelében voltak. A
+ragadós beteg csirája benne szokott lenni a beteg legtöbb
+váladékában, a nyálában is, kivált pedig a kiütéses
+gyermekbetegségek csirája terjed el könnyen, mert a kiütéses bőr
+későbben hámlik és a lehámlott bőrdarabkák televannak a
+fertőzettel. Ebből mindenki megítélheti, hogy hova mindenhova
+eljuthat a ragadós betegség csirája. Ha a beteg egyet köhint, már
+szerteköpköd igen sok apró nyálcsöppöt. Ezek a nyálcsöppök olyan
+aprók, hogy alig látni őket, de a betegség csirái is olyan
+kicsinyek, hogy még a láthatatlan kis csöppöcskékben is ezrével
+lehetnek. A beteg zsebkendőjére, vánkosára, ingére, takarójára
+biztosan igen sok ilyen apró nyálcsöpp kerül, de jut belőle az
+ágy fájára, a beteg evőeszközére, tányérjára, poharára, még a
+padlóra is. Ha a beteg bőre hámlik, akkor a lehámló picike
+bőrdarabkák szerteszét hurcolódnak a szobában, lerakódnak és
+fölkeverednek a porral és el is lehet őket vinni mindennel, amire
+egy kis por ráfér,--vagyis jóformán mindennel, ami csak megfordul
+a szobában.
+
+Aki bent volt a ragadós betegnek a szobájában, annak már a
+kezére, ruhájára, hajára juthat a beteg nyálából vagy lehámlott
+bőréből. Ha letette valahová a kalapját, azon is elvihet a
+fertőzött porból, de legkivált a cipője talpán biztosan visz
+belőle. A fertőzésnek pedig az a természete, hogy végtelenül
+kevés kell csak belőle, máris megbetegedhetik tőle az ember.
+Abban az alig-alig látszó csöppöcske nyálban, vagy az
+észrevehetetlenül apró bőrdarabkákban a betegséget okozó bacillus
+eljut az egészséges emberek közé, ha valamelyiknek a vérébe
+belekerül, akkor ott elszaporodhatik, eláraszthatja annak az
+egész testét és beteggé teheti azt is. Egyáltalában meg kell
+jegyezni, hogy a bacillusok éppen úgy mérgezik meg az ember
+testét, mint a veszedelmes mérgek. De azzal veszedelmesebbek,
+mint a mérgek, hogy élnek, tehát szaporodni tudnak. A veszedelmes
+mérgekből is érheti az ember testét olyan kevés, amennyi még nem
+árt és ha csak ennyi éri, akkor az embernek semmi baja se lesz
+tőlük. De ha a bacillusokból jut az emberbe egy kevés, akkor azok
+a testünkben szaporodni kezdenek és olyan szaporák, hogy néhány
+óra alatt már milliószámra szaporodhatnak és beteggé teszik az
+embert.
+
+Ha most már ebből tudjuk, hogyan kerül az egészséges ember házába
+a fertőzés, akkor azt is tudni kell, hogy hogyan jut bele a
+gyermek (vagy az ember) testébe. A legkönnyebben úgy, hogy a
+gyermek a fertőzött kézzel mosdatlanul eszik, vagy a szülő a
+gyermeket fertőzött kézzel eteti, vagy csak megfogja a gyermek
+ételét: ezen a módon már az ételre, az étellel pedig a gyomorba
+jut a fertőzés, a bacillus. Bejuthat a fertőzés a szoba porával
+is, mert olyan apró, hogy a legfinomabb, legapróbb szemű porban
+is elkeveredik és a porral együtt száll a levegőben, rakodik le
+mindenfélére, az asztalra is, a tányérra is, az ételre is és ezen
+a módon belekerülhet az emberbe. A port be is lélekzi az ember,
+ezzel pedig a tüdejébe juthat a bacillus.
+
+A gyermek, kivált az apróbb, még olyan módon is szerez ragadós
+betegséget, ahogyan a felnőtt ember, de már a nagyobbacska
+gyermek se szokott. A gyermek ugyanis sokat játszik a földön, a
+padlón, mászkál, guggol, ül és a szoba porában, piszkában a
+játékát is, a kezét is jól megforgatja. Ezzel aztán a kezére
+ragadhat a fertőzés is, amikor pedig a kezét vagy a játékát a
+szájába veszi, akkor azzal a fertőzés is a szájába jut és a
+gyerek megkaphatja a betegséget. Ezért jó mentül tisztábban
+tartani a gyermek kezét, kivált a körme alját, mert ott bújik el
+legjobban minden piszok. A körmöt mindig egészen rövidre kell
+vágni, hogy ne férjen alája piszok és ha rövid, ha hosszú, mindig
+ki kell mosni, ki is piszkálni. A tüdővészt majdnem mindig ezen a
+módon szerzi a gyermek, mert a tüdővészes betegnek a kiköpésében
+is benne van a fertőzés, a kiköpést pedig mindenhonnan, az
+utcáról is hazaviszik az emberek a cipőjük talpán és otthon
+megfertőzik vele a padlót. A gyermek aztán felszedi a padlóról és
+a maszatos kezével beleviszi a szájába.
+
+Sokan azt vetik ez ellen, hogy ők is, a testvéreik, gyermekeik is
+jártak ilyen betegeknél: mégsem kapták meg a ragadósnak mondott
+betegséget. Csakhogy tudni kell azt is, hogy nem minden
+fertőzésből lesz betegség. Sok ember ugyanis ellene tud állni a
+bacillusok mérgének, az ember egészséges vére sokszor le tudja
+győzni a fertőzést és ilyenkor az ember nem lesz beteg, ha bele
+is kerül a testébe a bacillus. Megesik az is, hogy valaki
+állandóan, folyvást hordja magával a fertőzést, sokan meg is
+kapják tőle a betegséget, ő maga azonban egészséges marad. Ezt
+azonban senki sem tudhatja magáról előre. Ezért jó, ha mindenki a
+legnagyobb óvatossággal és vigyázattal viselkedik. Ahol valakinek
+ragadós betegsége volt, ottan mindenféle dolgokon--ágyon,
+ruhafélén, meg amit a beteg csak használt--rajta maradhat jó
+sokáig a fertőzés és amikor például a kiütéses, kanyarós gyermek
+már régen meggyógyult, még mindig megkaphatja a betegséget
+ezektől a tárgyaktól egy másik gyermek. Ha tehát valahol ragadós
+beteg volt és az meggyógyult, akkor mindent, amit csak lehet,
+lúggal le kell sikálni, vagy lúgban kimosni, amit pedig így se
+lehet, azt legalább jól ki kell szellőztetni, kitenni a levegőre,
+a tiszta napvilágra. A nem ragadós betegségekről nem mindig lehet
+megmondani, hogy hogyan kapja a gyermek, de annyit ezekről is
+kell tudni, hogy minden betegséget az kap könnyebben, aki
+gyöngébb és aki egészségtelenebb módon él. A meghűlésre rá szokás
+fogni mindenféle betegséget és sokan ezért úgy vigyáznak a
+gyermekre (meg magukra is), hogy a széltől is óvják, mindig
+benntartják a szobában, mindenféle ruhákba, kendőkbe bugyolálják,
+ha már egyszer ki muszáj engedni, a szobába pedig sohase engedik
+be a friss levegőt. Ezen a módon pedig nem óvakodni lehet a
+meghűléstől, hanem inkább biztos betegséget lehet szerezni. Mert
+akit ezen a módon elkényeztetnek, az aztán egyetlenegy friss
+szellőtől vagy az úgynevezett légvonattól (cúgtól, amint mondani
+szokás) beteg is lesz tüstént. A meghűlés ellen nincs más
+védelem, mint az edzés, vagyis az, hogy a testünket
+hozzászoktatjuk a hideghez és a friss levegőhöz. Sokat kell
+szellőztetni, mindennap friss levegőre kell vinni vagy ereszteni
+a gyermeket. Meg is kell mosdatni mindennap hideg vizzel, még
+pedig nemcsak az arcát, hanem az egész testét tetőtől talpig.
+
+A haját is tisztán kell tartani a gyermeknek. A fiúk haja rövid
+legyen és a gyermek mossa meg mindennap éppen úgy, mint az arcát
+és a kezét. A lányok haját is legjobb mentül többször megmosni,
+kivált betegség után, mert a haj között sokáig megmaradhat valami
+fertőző piszok. Természetes, hogy a beteg ember csókjától is
+betegséget lehet kapni. Aki tehát beteg, az sohase csókolja meg a
+gyermeket, a más gyermekét pedig ne csókolja meg az ember sohase
+és tanítsa meg a maga gyermekét is, hogy ne engedje magát idegen
+emberektől megcsókolni.
+
+Az is nyilvánvaló, hogy aki sört, bort vagy akármilyen
+pálinkafélét ad a gyermeknek, az mérget, betegséget ad neki. A
+gyermeknek csak vizet vagy tejet szabad inni adni.
+
+
+
+
+Széchenyi István
+
+(4) Az ország újjászervezése. Széchenyi alkotásai
+
+
+Amikor Dessewffy József a maradiak nevében harcra kelt az újítók
+ellen, Széchenyi fölvette az odadobott keztyűt és megvívta a
+harcot. A régi rendhez ragaszkodó uraknak vitairattal felelt
+1831-ben. Ennek a könyvének a címe: Világ. Fegyverül választotta,
+amit így a címlapra írt: a világosságot. Amiket a Hitel lapjain
+az ország társadalmi képéről megrajzolt, azokat átfesti a
+Világban állami közéletünkre.
+
+Bírálatot mondott ősi közigazgatási berendezkedésünkről:
+államéletünket ez »rútul eldarabolja« öt párt, hat vallás, tíz
+nemzetiség és 52 vármegye közt, nem számítva a külön területeket
+és a szabad városokat. De ellentétek által idegeníti el egymástól
+az ősi nemességet is. A jövendő birtokosok--úgymond--járatlanok a
+hazai dolgokban és nem tudják megszolgálni a hazától kapott
+javakat. Lelkileg tova is szakadoznak a magyarságtól és odakünn
+költik a pénzt, mert itthon nincs mód, amivel az állandó
+tartózkodást maguknak kellemessé tehetnék. Ellentétük a
+köznemesség, mely a külföldet nem ismeri, a hazai állapotokat
+túlbecsüli, idegen találmányokról fogalma sincs és az ujítások
+ellen elvakultan küzd. A polgárelem nagyobbrészt nem magyar és a
+kiváltságos rendek nem édesgetik magukhoz. A parasztság sok
+nemzetbelire van tagolva és ebben a magyar, legszebb fajta bár,
+gyengén szaporodik, míg a többi fajta szapora, »mint gomba az
+erdőm«. Hitéletünkben úgy áll szemközt a protestáns a
+katolikussal, mint az »angol és gallus« egymással és alig van
+társaskör vagy intézet, »vallási irígykedés ördögétől ment«. Ily
+viszonyok közt vajmi nehéz a nemzet nagyságát kifejleszteni. Mert
+kisebbszerű ideiglenes javítások mitsem érnek: a beadott szer
+elgőzölögvén, a test még bágyadtabb és a fájdalom égetőbb lesz.
+Gyökeres javításról pedig az a köztudat, hogy azzal sarkalatos
+törvényeink ellenkeznek.
+
+Politikai reformok dolgában sürgősnek tartja a közteherviselést,
+hogy a nemesség is adózzék, pénzzel váltva meg a véradót: a
+katonáskodást. Javallja továbbá Széchenyi a jobbágyok
+fölszabadítását a robot és dézsma alól, a földesurak
+kártalanításával. Nagy súlyt helyez az értelmiség elterjedésére,
+mert a műveltség súlya leginkább fékezheti a kényuralmat és
+megszerezheti a nemzeti függetlenség másik biztosítékát: a
+vagyont és vele a jólétet.
+
+[Illustration: József nádor
+
+Széchenyit a »Világ« című könyvének megjelenése után kinevezte
+Pestmegye táblabírájának. Ezt a példát a többi megyék is
+követték.]
+
+Szerencsére--írja--a magyar nem egy kiélt, megvénült nemzet,
+melynek csak multja becses, inkább Európa legifjabb nemzete, mely
+történelmében kisdedkorát élte és nagy hivatása ezután
+következik. Nyolcszáz évig--úgymond--ez ország közélete »kis urak
+és szegény királyok története volt«, nem pedig a nemzeté. Még
+Nagy Lajos és Mátyás korát sem tartja megbámulni valónak. Fényes
+és dicső kort ő a jövőtől vár és erre óhajtaná a magyart
+előkészíteni, fölnevelni. »A magyar egy gyermeknép; most semmi,
+de minden lehet, mert lelki és testi erő rejtekezik fiatal
+keblében«.
+
+Számot vet a kormányhatalommal és föltételezi róla, hogy a
+nemzeti felújulásnak gátat vetni nem áll érdekében. Valaha más
+volt e hatalom politikája: hogy egyszerűsítse a birodalmi
+kormányzatot, egy nagy egészbe próbálta egyesítni a magyarságot a
+többi részekkel. De a cél: az összeolvasztás mindig sikertelen
+maradt és már fel is hagyott vele.
+
+Széchenyi a maga eszméit ez alapon most kiszélesíti. A nemzeti
+kaszinó mintájára szervezni kívánja a társaséletet vidéki
+városainkban is. Egyesületekbe készül tömörítni a mezőgazdasági
+erőket: lerakja a pesti Köztelek alapját, körülötte a gazdakörök
+országos hálózatával. Felveti a részvénytársulati üzlet kérdését,
+mellyel nagy vállalkozások egész sora volna indítható.
+Részvénytőkével szándékozik Pestnek állandó hidat és állandó
+színházat adni. Tervezi azt is, hogy nagy vizeink szabályozására
+társaságok alakuljanak, a Dunára gőzhajózást vezessenek és a
+fiumei tengeröbölig kőútat akar vágatni a Karszt kőhegyein át.
+
+Avatott bírálók most azt kívánták tőle, adja elő pontról-pontra
+való sorrendben, amit az országgyűlésen legott tárgyalni lehet,
+mert már megértek a rögtöni megoldásra. Eleget tett ennek a
+kérésnek is és 1833-ban kiadta harmadik nagy művét: a
+Stádiumot-ot.
+
+Ez törvényhozási feladatokról szól, amiket tizenkét pontba
+foglal:
+
+1. Rendezni kell a hitelképesség és a hitelforrások kérdéseit.
+
+2. Meg kell szüntetni az elavult ősiségét, mely miatt a
+földbirtok nem lehet jelzáloggá és a nemes családok nem jutnak
+hitelhez.
+
+3. A jobbágynéppel meg kell váltatni a terheit, hogy
+megszabaduljon tőlük és a nemesség kárpótlást kapjon értük.
+
+4. A birtokképességet mindenkire ki kell terjeszteni.
+
+5. Törvény előtt legyen mindenki egyenlő: mágnás a nemessel és a
+kettő a nemtelennel (így nevezték akkoriban azokat, akik nem
+tartoztak a nemességhez).
+
+[Illustration: A cenki Széchenyi-kastély
+
+Széchenyi István gróf a sopronmegyei cenki kastélyban töltötte a
+pihenőnapjainak nagy részét. Cenk környékén ö honosította meg a
+selyemhernyó-tenyésztést, amely akkoriban még újság volt
+Magyarországon.]
+
+6. Jobbágyi perekben a parasztok választhassanak tiszti ügyészt,
+érdekeiknek közköltségen való képviselésére.
+
+7. A nemesség vegyen aránylagos részt a házi pénztár és az
+országgyűlés költségeinek viseléséből.
+
+8. A forgalmi ügyek tartozzanak ezentúl országgyűlés elé.
+
+9. Szünjön meg minden egyedárúság, céh-és értékszabály.
+
+10. A törvény és az országgyűlés nyelve ezentúl csakis magyar
+lehessen.
+
+11. Magyarországon ne kormányozzon más, mint a magyar
+helytartótanács; az udvari kancelláriákat szorítsák a közös ügy
+intézésére.
+
+12. Legyen eltiltva minden titkosság a bírói tárgyalásoknál és az
+ítéletek kihirdetésénél.
+
+Széchenyi ezzel a művével az úgynevezett haladópárt élére állt és
+pontozataiban három országgyűlésnek szabott teendőt.
+
+És amit megkezdett tollal, hamar beváltotta tettekkel. Eddigi
+alkotásai: a lóverseny, akadémia és nemzeti kaszinó után
+belefogott legnagyobb vállalataiba: a Vaskapu-szabályozásba, a
+dunai gőzhajózásba és a pesti Lánchíd megépítésébe. Fáradhatatlan
+erélyével, sokoldalúságával és önfeláldozó munkásságával nemcsak
+a közönség előtt, hanem a meglepett hatalom előtt is Széchenyi
+volt ekkoriban a magyar nemzet vezére.
+
+[Illustration: Vásárhelyi Pál kiváló tudású mérnök készítette
+Széchenyi felszólítására az aldunai Vaskapu-szabályozás terveit.
+Az aldunai hajózó-útnak, amelyet 1835-ben nyitottak meg, mai
+napig is Széchenyi-út a neve.]
+
+A Dunát ötször járta be mérnökeivel. Adatokat gyűjtött,
+felvételeket végzett a folyam mocsárterületeiről, a kazáni szoros
+és a három aldunai zuhatag viszonyairól. Tanulmányozta a
+forgalom, árúk és vámok ügyét a magyar és a török partokon. A
+szabályozó munka pénzügyi nehézségek miatt sokáig fennakadt, mert
+a kormány cserben hagyta. De Széchenyi csüggedetlenül folytatta
+tanulmányait a Dunán és mellékfolyóin a gőzhajóval járhatóság
+szempontjából és a Száva, meg a Kulpa szabályozását is belevonta
+terveibe, hogy az Alföldről a tengerig összeköttetést létesítsen.
+
+A gőzhajózást osztrák tőkével teremtette meg és ha magyar
+szakerők hiányában magyar-lábra nem is állíthatta azt,
+gondoskodott, hogy a partjaink mentén járó hajók magyar nevet
+kapjanak, az igazgatóság főintézete Pesten települjön meg és
+Óbudán elsőrendű hajógyárral téli kikötőt építsenek. De figyelme
+kiterjedt a balatoni gőzhajózásra is: megépíttette az első tavi
+naszádot, a Himfy-t és később ennek társát, a félszázadon át
+üzemben maradt Kisfaludy nevű hajót.
+
+[Illustration: Széchenyi István gróf 1835-ben]
+
+A pesti álló híd ügye rajongó lelkesedéssel töltötte el. Attól
+várta Buda és Pest majdani egyesítését. Próféta szeme a jövőbe
+látott és oly művet akart arra hagyni, mely a leendő
+világvárosnak száz év mulva is dísze és büszkesége legyen.
+Nyolcszor utazott Angliába, megállapodni a nagytudású Clark Ádám
+mérnökkel, a merész szerkezetű függőhíd tervében, mely akkor
+világcsodának vált be. És hogy a lánchíd forgalmát a budai parton
+lebonyolíthassa, átfuratta a várhegyet az alagúttal.
+
+Óriási elfoglaltsága mellett kiterjesztette száz más feladatra is
+a figyelmét. A vidéki kaszinók megalakításával szervezetet adott
+a vidék társadalmának. Megalakította az állattenyésztő
+társulatot, melyből később az Országos Gazdasági Egyesület nőtte
+ki magát.
+
+Alapítója lett a Földhitelintézetnek, részt vett az első magyar
+biztosító társaság, a pesti hazai első takarékpénztár és az első
+gőzmalom megalkotásában. Indító lépéseket tett, hogy létrejöjjön
+nádori védnökség alatt a József-műegyetem. Nagy tervei voltak a
+nemzeti színjáték ügyében és díszes épületet szánt neki a
+Dunaparton. Foglalkozott Buda és Pest jövendőjével: sürgette a
+városrendezést, a külterület befásítását, a Duna két partján
+körülfolyó kereskedelmi csatornák, nagy árúkikötő építését.
+
+Ennyi gond és munka mellett ráért megírni buzdító cikkeit az
+ujságokban, jelentését a Dunáról, a Lánchídról, értekezéseit az
+olcsó házakról, lakásberendezésekről stb. Számítsuk ehhez roppant
+elfoglaltságát az 1830--1840-iki országgyűléseken, hol a
+gazdasági és hiteltörvények az ő javaslata szerint készültek el:
+így kapunk némi fogalmat arról az óriási szellemi munkáról, amit
+ez évek alatt Széchenyi pihenés nélkül elvégzett.
+
+(Folytatjuk)
+
+Szerkeszti: ÁRKAY KALMAN, az Országos Közművelődési Tanács
+alelnöke Kiadóhivatal: BUDAPEST, IV., FERENCIEK-TERE 3.:: Telefon
+108--84 Budapest, az ATHENAEUM irodalmi és nyomdai
+részvénytársulat nyomása
