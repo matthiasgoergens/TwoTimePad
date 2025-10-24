@@ -1,0 +1,2200 @@
+As the conclusions arrived at in the Introduction with regard to the
+relationship of the English and Latin versions in MS. Harl. 913, and the
+verbal connexion with the _Soul and Body_ Dialogues, agree, to some
+extent, with those indicated by Heuser, _Die Kildare-Gedichte_, pp.
+176-80, it is only reasonable to state that the greater part of the work
+upon the subject had been done, and a projected article upon it written
+in reply to Professor Fiedler's in the _Modern Language Review_, before
+I had any knowledge of Heuser's text, and that my conclusions had been
+formed independently of his, though his have helped to strengthen and
+confirm them. Moreover I owe his work a very real debt, since I first
+learned from it of the existence of the Cambridge Text, which has been a
+most important link in the building up of the general theory as to the
+connexion between the different versions of the poem.
+
+In conclusion, it is a pleasure to express thanks for kind and courteous
+assistance to the authorities of the British Museum, the Public Record
+Office, the Bodleian, Cambridge University Library and Lincoln Cathedral
+Library; to the librarian of Lambeth Palace Library, to whom I am
+indebted for the collation of the Lambeth text; to the authorities of
+Magdalene College, Cambridge, for permission to copy and print the
+Maitland text; to Lord Harlech for the loan of the Porkington MS.; to
+Professor Fiedler for permission to use the Brighton text; to Professor
+Priebsch, who pointed out the text in MS. Harl. 4486; to Miss Helen
+Sandison, of Bryn Mawr College, U.S.A., for the discovery of the text in
+the Appendix and for two of the Analogues, and to Professor Skeat for
+valuable advice and suggestions. In particular this text owes much to my
+Father, Sir James Murray of the _Oxford Dictionary_, who has read the
+proofs, and in the midst of his own arduous work has always been ready
+with help and advice, to my friend Miss K. S. Block, Lecturer in English
+at the Royal Holloway College, and, above all, to Dr. Furnivall, in whom
+all scholars and students of English mourn to-day the loss of a great
+pioneer, and an ever-ready friend and adviser.
+
+  OXFORD,
+    _July_ 1910.
+
+
+Since this was sent to press two other copies of the B version have come
+to light at Cambridge, and have by kind permission been inserted on pp.
+47, 48 as Appendix II:--
+
+(B 19) MS. Trinity College R. 3. 21, fol. 33, v^o, a copy of the normal
+B version in seven stanzas.
+
+(B 20) MS. Trinity College B. 15. 39, fol. 170, which contains nine
+stanzas of the expanded text preserved in MSS. Lambeth and Laud, and
+appears to represent a distinct copy of the original of these two (see
+Introd. p. xix).
+
+
+    [Footnote 1: A second Latin version of an _Erthe_ poem, together
+    with the same poem in Anglo-French, and in Middle English, occurs
+    on the back of a Roll in the Public Record Office, dating from the
+    time of Edward II (Ex^r. K. R. Proceedings, Bdle. 1; old No.
+    845/21), and in a 19th cent. transcript of this in MS. Brit. Mus.
+    Addit. 25478; it is given in the Appendix. Both the Latin and the
+    French appear to be translations or paraphrases of the English,
+    with an additional verse or two.]
+
+    [Footnote 2: The English text in the Appendix consists of nine
+    four-lined stanzas, and is distinct from either of the two current
+    versions of the poem. It appears to have been suggested by the
+    opening lines of A, and may be regarded as a single sub-type of A,
+    not affecting the main line of argument of the Introduction. (See
+    Appendix, p. 46.)]
+
+    [Footnote 3: This is repeated on each page of Bateman's text, and
+    is, perhaps, his own design.]
+
+    [Footnote 4: See Bateman's Preface.]
+
+    [Footnote 5: Probably not the author but the copier of the MS.:
+    see Notes.]
+
+    [Footnote 6: All the stanzas of the B version are four-lined
+    except MS. Porkington.]
+
+    [Footnote 7: v. Wanley's Catalogue.]
+
+    [Footnote 8: My attention was called to this MS. by the kindness
+    of Prof. Priebech.]
+
+    [Footnote 9: MS. Laud Misc. is not written throughout in metrical
+    lines, but the divisions of the stanzas, and, in most cases, of
+    the lines, are clearly indicated.]
+
+    [Footnote 10: The first leaf of this text has been torn out and
+    the verses in brackets are only conjectural.]
+
+    [Footnote 11: MS. Laud represents, in the main, the same version
+    as MS. Lamb., but the variant readings preclude the idea of its
+    being a copy of Lamb., unless the scribe deliberately tried to
+    modify his original on the lines of Harl. 4486 and Rawl. P. The
+    changes in the text (ll. 26, 27, 47: see Notes) show that it
+    cannot be the original of Lamb. It appears to be a transcript from
+    the same original made about the same date, or a little earlier
+    than the Lambeth text.]
+
+    [Footnote 12: Cf. MS. Brighton _nobley_.]
+
+    [Footnote 13: Cf. MS. Selden _delful_.]
+
+    [Footnote 14: The Latin and Anglo-French texts in the Appendix are
+    evidently renderings of the English poem which accompanies them.]
+
+    [Footnote 15: This is clearly seen in the Latin and French
+    versions in the Appendix where the Latin text uses _terra in
+    terra_, and the French _terre en terre_.]
+
+    [Footnote 16: Vernon MS. _to resten on_, Digby, _shal rest right
+    at_.]
+
+    [Footnote 17: Cotton MS. _þe rof þe firste_.]
+
+    [Footnote 18: Cf. Frendles ys þe dede (_Proverbs of Hendyng_,
+    l. 288).]
+
+    [Footnote 19: = heres þonkes, _of their own free will_.]
+
+    [Footnote 20: Compare with this the text in the Appendix which
+    begins:
+        Whanne eorthe hath eorthe wiþ wrong igete--
+    and in the French version:
+        Quant terre auera en terre large terre gayne.]
+
+    [Footnote 21: See the Appendix, p. 46.]
+
+    [Footnote 22: _Die Kildare-Gedichte_ (Bonn, 1904).]
+
+    [Footnote 23: See p. xxxiv above.]
+
+    [Footnote 24: The earliest known epitaphs in English date from the
+    fourteenth century.]
+
+    [Footnote 25: There is no record of this brass at the church of
+    St. Helen's, Bishopsgate.]
+
+    [Footnote 26: Dated 1590 by Ernest R. Suffling, _Epitaphia_
+    (1909), p. 382.]
+
+    [Footnote 27: A late instance of its use is given by Ch. Box
+    (_Elegies and Epitaphs_, Glouc. 1892) as found by him on the tomb
+    of a bricklayer, who died in 1837, aged 90:--
+        Earth walks upon Earth like glittering gold,
+        Earth says to Earth, 'We are but mould';
+        Earth builds upon Earth castles and towers,
+        Earth says to Earth, 'All is ours'!]
+
+    [Footnote 28: Printed from Grein-Wülcker, _Bibliothek der ags.
+    Poesie_, iii. 212.--(I know of a most noble guest in the
+    dwellings, hidden from men, whom fierce hunger cannot torment, nor
+    burning thirst, nor age, nor sickness [nor close-pressing death],
+    if the servant who shall [bear him company] in his course serves
+    him honourably: they, prospering, shall find abundance and bliss,
+    countless joys, allotted to them at home, but (they shall find)
+    sorrow, if the servant obeys his lord and master ill upon their
+    journey, and will not show him reverence, the one brother to the
+    other: that shall afflict them both, when they two depart,
+    hastening hence, from the bosom of their common kinswoman, mother
+    and sister.)]
+
+    [Footnote 29: Grein-Wülcker, iii. 105.--(The worm whose jaws are
+    sharper than needles, who first of all the worms in the grave
+    forces his way to him.)]
+
+
+
+
+  THE MIDDLE ENGLISH POEM
+
+  ERTHE UPON ERTHE.
+
+
+
+
+  I.
+
+  #A# VERSION.
+
+
+1.
+
+MS. HARLEIAN 2253. c. 1307.                              [fol. 57, v^o.]
+
+  Erþe toc of erþe erþe wyþ woh,
+  Erþe oþer erþe to þe erþe droh,
+  Erþe leyde erþe in erþene þroh,
+  Þo heuede erþe of erþe erþe ynoh.                                    4
+
+
+2.
+
+MS. HARLEIAN 913. c. 1308-1330.                          [fol. 62, r^o.]
+
+  1   [1]Whan erþ haþ erþ iwonne wiþ wow,
+      Þan erþ mai of erþ nim hír inow.
+      Erþ vp[2] erþ falliþ fol frow[3];
+      Erþ toward erþ delful hi{m} drow.                                4
+  Of erþ þou wer{e} makid, a{nd} mon þou art ilich;
+  In on erþ awaked þe pore a{nd} þe riche.
+
+      T{er}ra{m} p{er} i{n}iuriam cu{m} t{er}ra lucratur,
+      Tu{n}c de t{er}ra cepiam[4] t{er}ra sorciatur.                   8
+      T{er}ra sup{er} aream subito frustratur;           [fol. 62, v^o.]
+      Se t{r}axit ad aridam t{er}raq{ue} tristatur.
+  De t{er}ra plasmaris, es simil{is}[5] virroni,
+  Vna t{er}ra paup{er}es ac dites s{un}t proni.                       12
+
+  2   Erþ geþ on erþ wrikkend in weden,
+      Erþ toward erþ wormes to feden;
+      Erþ b{er}riþ[6] to erþ al is lif deden;
+  When erþ is i{n} erþe, heo muntid[7] þi meden.                      16
+  When erþ is i{n} erþe, þe rof is on þe chynne[8];
+  Þan schullen an hu{n}dred wormes wroten on þe skin.
+
+      Vesta p{er}git uestibus s{upe}r ueste{m} vare,
+      Artat{ur} & uermibus vesta pastu{m} dare;                       20
+      Ac cu{m} gestis o{mn}ibus ad uesta{m} migrare;
+      Cu{m} uesta sit scrobibus, q{u}is wlt[9] suspirare?
+  Cu{m} sit uesta po{n}ita[10], doma ta{n}git mentu{m};
+  Tu{n}c i{n} cute ca{n}dida verru{n}t[11] u{er}mes centu{m}.         24
+
+  3   Erþ askiþ erþ, a{nd} erþ hir answerid,
+      Whi erþ hatid erþ, a{nd} erþ erþ verrid.
+      Erþ haþ erþ, a{nd} erþ erþ teriþ,
+      Erþ geeþ on erþ, a{nd} erþ erþ berriþ.                          28
+  Of erþ þow wer{e} bigun, on erþ þou schalt end;
+  Al þ{a}t þou i{n} erþ wonne[12], to erþ schal hit wend.
+
+      Hum{us} humu{m} repetit, & re{spo}nsu{m} datur,
+      Humu{m} q{u}are n{e}gligit, & humo fruatur.                     32
+      Hum{u}s humu{m} porrigit, sic & operatur,
+      S{upe}r humu{m} p{er}agit, humo q{uod}[13] portatur.
+  Humo sic i{n}ciperis, ac humo meabis;
+  Q{uo}d humo q{ue}sieris, humo totu{m} dabis.                        36
+
+  4   Erþ get hit[14] on erp maist{r}i a{nd} mi[gh]te;   [fol. 63, r^o.]
+      Al we beþ erþ, to erþ we beþ idi[gh]te;
+      Erþ askeþ carayne of ki{n}g a{nd} of kni[gh]t;
+      Whan erþ is i{n} erþ, so low[gh] he be li[gh]t.                 40
+  Whan þi ri[gh]t a{nd} þi wow[gh] wendiþ þe bi-for,
+  Be þou þre ni[gh]t i{n} a þrou[gh], þi f{r}endschip is i-lor.
+
+      Terra ui{m}q{ue}[15] b{r}auivm t{er}ra collucratur;
+      Tot{us} cet{us} hominvm de t{er}ra patratur[16];                44
+      Ops cadau{er} militvm q{ue} regis sc{r}utatur;
+      Cu{m} det{ur} i{n} tumulvm, mox t{er}ra voratur.
+  Cu{m} ius & i{us}ticivm cora{m} te migrabu{n}t,
+  Pauci p{er} t{r}inoctivm morte{m} deplorabu{n}t.                    48
+
+  5   Erþ is a palfrei to king a{nd} to quene,
+      Erþ is ar[17] la{ng} wei, þouw we lutil wene,
+      Þ{a}t weriþ g{r}ouer a{nd} g{r}oy[18] a{nd} schrud so schene,
+      Whan erþ makiþ is liuerei, he g{r}auiþ vs i{n} g{r}ene.         52
+  Whan erþ haþ erp wiþ st{r}einþ þus geten,
+  Alast he haþ is leinþ miseislich i-meten.
+
+      Dic uesta{m}[19] dext{r}arium regiq{ue} regine,
+      It{er} lo{n}gu{m} marium, q{uod} e{st} sine fine,               56
+      I{n}dum{en}tu{m} uarium dans cedit se{n}tine[20],
+      Q{ua}ndo[21] dat corrodium, noa t{r}adit ruine.
+  Cu{m} p{er} fortitudinem tenet hanc luc{r}atam,
+  Capit lo{n}gitudinem mis{er}e metatam.                              60
+
+  6   Erþ gette on erþ gersom a{nd} gold,
+      Erþ is þi moder, in erþ is þi mold.
+      Erþ uppon erþ be þi soule hold;
+      Er erþe go to erþe, bild þi long bold.                          64
+  Erþ bilt[22] castles, a{nd} erþe bilt toures;          [fol. 63, v^o.]
+  Whan erþ is on erþe, blak beþ þe boures.
+
+      Hum{us} q{ue}rit pl{ur}ima sup{er} humu{m} bona,
+      Hum{us} e{st} mat{er} tua, i{n} q{u}a sumas dona[23].           68
+      A{n}i{m}e sis famula s{upe}r humu{m} prona;
+      Domu{m} d{e}i p{er}petra m{un}do cu{m} corona.
+  Ops t{ur}res edificat ac castra de petra;
+  Q{ua}n{do}[24] fatu{m} capiat, penora {sun}t tetra.                 72
+
+  7   Þenk man i{n} lond[25] on þi last ende,
+      Whar of þou co{m} a{nd} whoder schaltou wend.
+      Make þe wel at on wiþ hi{m} þ{a}t is so hend,
+      A{nd} dred þe of þe dome lest sin þe schend.                    76
+  For he is[26] king of blis, a{nd} mon of moch{e} mede,
+  Þ{a}t deliþ þe dai f{r}am ni[gh]t, a{nd} leniþ lif a{nd} dede.
+
+      De fine nouissimo mauors mediteris,
+      Huc q{u}o uen{er}is uico, dic q{u}o g{r}adieris.                80
+      Miti p{r}ude{n}tissimo co{n}cordare deris,
+      Hesides iudic[i]o[27], ne noxa da{m}pneris.
+  Q{uia} rex e{st} gl{or}ie, dans m{en}sura restat;
+  Mutat nocte{m} de die, vita{m} morte{m} prestat.                    84
+
+                                                     Am{en}.
+
+    [Footnote 1: Cf. Reliquiae Antiquae, _II. 216_; Furnivall,
+    Early Eng. Poems and Lives of Saints, _p. 150_; Heuser,
+    Kildare-Gedichte, _p. 180_.]
+
+    [Footnote 2: read _upon_.]
+
+    [Footnote 3: in margin _festi{n}e_.]
+
+    [Footnote 4: MS. _cepiam_, so Reliq. Ant.; Furn., Heuser,
+    _copiam_.]
+
+    [Footnote 5: MS. _simil'_, Furn. _simile_.]
+
+    [Footnote 6: MS. _b'riþ_, Furn., Reliq. Ant. _beriþ_, Heuser
+    _berriþ_, cf. l. 28.]
+
+    [Footnote 7: _muntiþ_, in margin _metit{ur}_.]
+
+    [Footnote 8: MS. originally _schynne_, _s_ erased.]
+
+    [Footnote 9: _vult_, cf. Furn.]
+
+    [Footnote 10: MS. _põita_, Furn., Heuser _posita_.]
+
+    [Footnote 11: in margin _t{r}ahu{nt}_.]
+
+    [Footnote 12: in margin _luc{r}ataris_, Heuser _lucrabaris_.]
+
+    [Footnote 13: MS. _humo [q-]_, Reliq. Ant., Furn. _humoque_, Heuser
+    _humo quod_.]  [[q with line through stem; exact form unclear]]
+
+    [Footnote 14: ? _getith_, in margin _luc{ratur}_.]
+
+    [Footnote 15: MS. _u[~i]q[gh]_, Reliq. Ant., Furn. _vincit_, Heuser
+    _vimque_.]
+
+    [Footnote 16: MS. _p^{a}rtratur_, Furn. _portratur_.]
+
+    [Footnote 17: MS. _ar_, Heuser _a_.]
+
+    [Footnote 18: Heuser _grey_ (lies _fou and grey_?).]
+
+    [Footnote 19: Furn. _est tam_.]
+
+    [Footnote 20: MS. _s[~e]tine_, Furn. _sentine_, Reliq. Ant.
+    _sentinæ_, so _reginæ_, _ruinæ_.]
+
+    [Footnote 21: MS. _Qñ_, Furn. _omne_.]
+
+    [Footnote 22: in margin _bildiþ_.]
+
+    [Footnote 23: Furn. H. _dorna_.]
+
+    [Footnote 24: MS. _qñ_, Furn. _quin_ or _quando_.]
+
+    [Footnote 25: Heuser ? _ilome_.]
+
+    [Footnote 26: MS. _h^{e}is_.]  [[inserted "e" over line]]
+
+    [Footnote 27: MS. _iudico_: Reliq. Ant. _judicio_, Furn., Heuser
+    _iudicio_.]
+
+
+
+
+  II.
+
+  #B# VERSION.
+
+
+1.
+
+WILLIAM BILLYNG'S MS. c. 1400-1430 ?.
+
+  1   [1]Erth owte of erth is wondyrly wroght,
+      Ffor erth hath geten of erth a nobul thyng of noght,
+      Erthe uppon erthe hath set alle hys thoght
+      How erthe uppon erthe may be hygh broght.                        4
+
+  2   Erthe uppon erthe yet wolde be a kynge,
+      But how erth shall to erth thynketh he nothyng;
+      But when erth byddyth erth his dute hom bryng,
+      Than shall erth fro erth have a peteus[2] partyng.               8
+
+  3   Erth wynnyth uppon erth both castellys and towris;
+      Than sayth erth unto erth: 'This is alle owres'.
+      But whan erth uppon erth hath byllyd all his bowrys,
+      Thanne shalle erth for erth suffer sharpe showres.              12
+
+  4   Erth byldyth uppon erth as molde uppo{n} molde,
+      And erth goth uppo{n} erth glyttryng alle gold,
+      Lyke as erth unto erth neuer goe sholde;
+      Ann justly tha[n][3] shalle erth go to erth
+              rather þa{n}[4] he wolde.                               16
+
+  5   Why man erth loveth erth wondyr me thynke,
+      Or why that erth for erth swet wylle or swynke,
+      Ffor whan erth uppon erth is broght w{i}t{h}i{n} þe[5] brynke,
+      Than shal þe[6] erth of erth have a ryght fowle sty[n]ke[6].    20
+
+  6   Memento[7] ho{mo} quod cinis es {e}t in cinere{m} reverteris.
+      Ffac bene du{m} vivis, post morte[m][8] viv{er}e si vis.
+      Wha{n} lyffe is most louyd and deth most hated,
+      Than deth drawyth hys drawght and maketh ma{n} ful naked.       24
+
+    [Footnote 1: From Bateman's print (William Billyng, Five Wounds of
+    Christ, Manchester, 1814).]
+
+    [Footnote 2: Bateman _petrus_.]
+
+    [Footnote 3: B. _tha_.]
+
+    [Footnote 4: B. _yã_.]
+
+    [Footnote 5: B. _w^{t}i y^e_.]
+
+    [Footnote 6: B. _y^e_; _styke_.]
+
+    [Footnote 7: B. _momento_.]
+
+    [Footnote 8: B. _morte_.]
+
+
+2.
+
+MS. THORNTON. c. 1440.                                       [fol. 279.]
+
+          Memento homo Quod Sinis Es
+          Et in cenerem Reuerteris.
+
+  1   [1]Erthe owte of erthe es wondirly wroghte,
+      Erthe hase getyn one erthe a dignyte of noghte,
+      Erthe appon{e} erthe hase sett alle his thoghte
+      How þat erthe appon{e} erthe may be heghe broghte.               4
+
+  2   Erthe appon{e} erthe wolde be a kynge,
+      Bot howe þ{a}t erthe to erthe sail thynkis he no thynge.
+      When erthe bredis erthe & his rentis[2] home brynge,
+      Thane schalle[3] erthe of erthe hafe full harde partynge.        8
+
+  3   Erthe appon{e} erthe wynnys castells and towrrys.
+      Thane saise[4] erthe vnto erthe: 'This es alle owrris'.
+      When erthe appo{ne} erthe hase bigged vp his bourris,
+      Than schalle erthe for erthe suffire scharpe scowrrys[5].       12
+
+  4   Erthe gose appon{e} erthe as golde appone golde,
+      He that gose appon{e} erthe gleterande as golde,
+      Lyke als erthe neu{er} more[6] goo to erthe scholde,
+      And [gh]itt schal erthe vnto erthe [gh]a
+              rathere þan he wolde.                                   16
+
+  5   Now why þ{a}t erthe luffis erthe wondire me thynke,
+      Or why þ{a}t erthe for erthe scholde oþ{er} swete or swynke,
+      For when þ{a}t erthe appon{e} erthe
+              es broghte w{i}t{h}in brynke,
+      Thane schalle erthe of erthe hafe a foulle stynke.              20
+
+          Mors Soluit Omnia.
+
+    [Footnote 1: Cf. G. G. Perry, Religious Poems in Prose and Verse
+    (E.E.T.S. _No. xxvi. 1867, p. 95, 1889, p. 96_); C. Horstmann,
+    Yorkshire Writers, _1. 373_.]
+
+    [Footnote 2: repeated in MS. _rentys_.]
+
+    [Footnote 3: Perry _sall_, MS., Horstmann _schalle_.]
+
+    [Footnote 4: perh. _sase_, MS. indistinct, Perry _thus sase_.]
+
+    [Footnote 5: perh. _stourrys_ as in Perry, but all other texts
+    have _schowrys_.]
+
+    [Footnote 6: MS. _more_, Perry _mare_.]
+
+
+3.
+
+MS. SELDEN Supra 53. c. 1450.                           [fol. 159, v^o.]
+
+  1   [1]Erthe apon erthe ys wonderly wroth[2],
+      Erthe apon erthe hath worschyp of nogth,
+      Erthe apon erthe hath set[3] al hys thowth
+      How erthe apon erth myth be hy browth.                           4
+
+  2   Erthe apon erth wolde be a kyng{e};
+      How erth schal to þe erth thy[n]k[4] he no thyng{e}.
+      Whan erth bydyth erth hys rent h[om]e[4] bryng{e},
+      Þan schal erth fro þe erth [haue][5] a delful partyng{e}[6].     8
+
+  3   Erth apon erth wyn[nyth ca[7]]stellys {and} towrys;
+      Þan seyth erth to þe erth: 'Þose beth al owrys'.
+      Whan erth apon erth hath byggyt al hys bowrys[8],
+      Þan schal erth for þe erth suffyr scharpe [s]chowrys[9].        12
+
+  4   Lo erth apon erth consyder þ{o}u may
+      Þ{a}t erth cometh owte of þ{e} erth nakyt alway.
+      Þan how scholde erth apon erthe be prowt [or gay][10]
+      Whan erth schal to þ{e} erth in so pore aray?                   16
+
+  5   Erth goth on erth as molde doþe on molde,
+      Erth goth on erth glydderande in golde,
+      Lyk as erth to erth neuyre go scholde.
+      [Gh]yt schal erth to þ{e} erth rathyr þan þey wolde.            20
+
+  6   I cowsayl erth apon erth þ{a}t wykytly hath wroht,
+      Whyle erth ys apon erth to turne al hys tho[w]th[11].
+      Now pray we to God þ{a}t al erth wrowth,
+      Þat erth owt of erth to blys myth be browth.                    24
+
+    [Footnote 1: The poem is in a different hand on the last leaf of
+    the MS., and the writing is much worn and stained, and in many
+    cases barely legible. A few letters have been re-written in black
+    ink by a later hand.]
+
+    [Footnote 2: _wroht_, cf. _nogth_, _thowth_, _browth_, and similar
+    cases of _th_ for _ht_ in v. 6.]
+
+    [Footnote 3: MS. perhaps _iset_.]
+
+    [Footnote 4: MS. obscure.]
+
+    [Footnote 5: omitted in MS.]
+
+    [Footnote 6: _partyn_ re-written in black ink, _ge_ of the
+    original hand still clear.]
+
+    [Footnote 7: MS. stained and illegible; portions of _nyth a_ seem
+    to be visible.]
+
+    [Footnote 8: _bow_ in original hand, _rys_ re-written in black
+    ink.]
+
+    [Footnote 9: The second hand has re-written _chowrys_ ignoring the
+    _s_ which is no longer visible.]
+
+    [Footnote 10: _o_ and _y_ re-written, the rest illegible.]
+
+    [Footnote 11: _w_ no longer legible.]
+
+
+4.
+
+MS. EGERTON 1995. c. 1430-1450.                          [fol. 55, r^o.]
+
+(William Gregory's Commonplace-Book.)
+
+      Memento homo q{uod} cinis es et in cinerem reuerteris.
+      Whenne lyfe ys moste louyde, and dethe ys moste hatyde,
+      Dethe drawythe hys draught{e}, and makythe man nakyde.
+
+  1   Erthe owte of þe erthe ys wounderly wrought{e},                  4
+      Erthe vppon erthe hathe sette hys thought{e}
+      Howe erthe a-pon erthe may be hy brought{e}[1].
+
+  2   Erthe vppon erthe wolde be a kynge;
+      Howe erthe shalle vnto erthe thynkythe he noo thynge.            8
+      Whenne erthe byddys erthe hys rentys home brynge,
+      Thenne shalle erthe of the erthe haue a pytyus partynge.
+
+  3   Erthe a-pon erthe wynnys castellis and towrys;
+      Thenne erthe saythe vnto[2] erthe: 'Thys ys alle owrys'.        12
+      Whenne erthe a-pon erthe hathe bylde vppe hys bourys,
+      Thenne shalle erthe for the erthe suffer sharpe schowrys.
+
+  4   Erthe goythe a-pon erthe as molde a-pon molde;
+      Erthe gothe a-pon erthe alle gleterynge in golde,               16
+      Lyke as erthe vnto erthe neuyr [go][3] scholde,
+      And yet shalle erthe vnto erthe rathyr thenne he wolde.
+
+  5   Why erthe louythe erthe woundyr I thynke,
+      Or why erthe for the erthe swete wylle or swynke,               20
+      Ffor whenne erthe a-pon erthe ys brought{e} w{i}t{h}yn brynke,
+      Thenne shalle erthe of erthe haue a foule stynke.
+
+  6   Loo erthe a-pon erthe consyder þ{o}u may
+      Howe erthe comythe to erthe nakyd alle day.                     24
+      Why scholde erthe a-pon erthe goo stowte and gay,
+      Syn erthe vnto erthe shalle pas in pore a-ray?
+
+  7   I consylle erthe a-pon erthe þ{a}t wyckydly hathe wrought{e},
+      Whyle erthe ys a-pon erthe to turne vppe hys thought{e},        28
+      And pray to God a-pon erthe that alle the erthe
+              hathe wrought{e},                          [fol. 55, v^o.]
+      That erthe owte of the erthe to blys may be brought.
+
+              Amen. Caue si vis.
+
+    [Footnote 1: The second line in omitted here and in No. 5, where a
+    new line has been added.]
+
+    [Footnote 2: MS. _vnt_.]
+
+    [Footnote 3: Omitted in MS., but required by metre.]
+
+
+5.
+
+MS. HARLEIAN 1671. 15th century.                         [fol. 1*, r^o.]
+
+  1   Erthe apon erthe ys waxyne and wrought{e},
+      And erthe apon erthe hathe ysette all{e} hys thought{e}
+      Howe that erth{e} apon erth{e} hye myght be brought{e},
+      But how that erth{e} scal to the erth{e}
+              thyngketh{e} he noht{e}.                                 4
+
+  2   Erthe apon erth{e} wolde be a kyng,
+      Butte how that erth{e} schal to erth{e} thynketh he no thynge,
+      Ffor when erth{e} byddyth{e} erth{e} hys rente home[1] brynge,
+      Than hath{e} erth{e} apon erth{e} heuy partyng.                  8
+
+  3   Eerthe apon erth{e} wynnyth castells and touris,
+      And erth{e} sayth{e} to the erth{e}: 'Thys ys all{e} ourys'.
+      Wanne erth{e} apon erth{e} syttyth{e} wyth-in hys bovrys,
+      Ye[gh]t schall{e} erth{e}[2] for the erthe
+              suffre scharpe schourys.                                12
+
+  4   Erth{e} goyth{e} on erth{e} as mowlde apon{ne} mowlde,
+      And erth{e} goyth on erth{e} gletterant as golde,
+      Like as erth{e} apon erth{e} neuer dye schoulde.
+      [Gh]yt schall erth{e} to the erth{e} rather than he wolde.      16
+
+  5   Why that erth{e} louyth erth{e} wond{er} me thynke,
+      Or why that erth{e} apon erth{e} swete or swynke,
+      Ffor whan{ne} erth{e} apon erth{e} ys brought wyth-in the brynke,
+      Than ys erth{e} apon erth{e} botte a fowle stynke.              20
+
+  6   Erth{e} apon erth{e} knoweth{e} eche day
+      Howe erth{e} cometh to the erth{e} naked all{e} waye.
+      Why schulde erth{e} apon erth{e} go stowte or gay,
+      Syth erth{e} apon erth{e} schal passe in pore aray?             24
+
+  7   I cowncell{e} erth{e} apon erth{e} that wonderly hath wrought{e}
+      Whyles that erth{e} ys apon erth{e} to turne all hys thought{e},
+      And y pray to God apon erth{e}
+              that all{e} erth{e} hath wrought{e},
+      That erth{e} out of erth{e} to blysse may be brought{e}. Amen.  28
+
+            [3]Whanne lyf ys moste louyd,
+            And dethe ys most hatyd,
+            Dethe drawyth hys drawghte
+            And maketh a man ful naked.                               32
+                De t{er}ra plasmasti me.
+
+    [Footnote 1: MS. _hime_ crossed out, and _home_ written in same
+    line.]
+
+    [Footnote 2: MS. _erht{e}_.]
+
+    [Footnote 3: written parallel with the poem in the right-hand
+    column. A signature apparently follows, but is indecipherable.]
+
+
+6.
+
+MS. BRIGHTON. 15th century.                              [fol. 90, v^o.]
+
+  1   [1]Erthe oute of erthe   is wondyrly wroghte,
+      Erthe vpon erthe   gete nobley of noughte,
+      Erthe vpon erthe   has sete all his thovghte
+      How erthe vpon erthe   may be hye brovghte.                      4
+
+  2   Erthe vpon erthe   wolde be a kynge,
+      How erthe sall to erthe   thenkys he nothyng,
+      For whan erthe byddes erthe   his rent home brynge,
+      Þan sall erthe from erthe   haf petus p{ar}tynge.                8
+
+  3   Erthe vpon erthe   wynnes castells and tours;
+      Than says erthe vnto erthe:   'This is all ovres'.
+      But whan erthe opon erthe   has bigged his borowes,
+      Than sall erthe for the erthe   sofur sharpe shovres.           12
+
+  4   Erthe gothe vpon erthe   os movlde opon movlde,
+      Erthe gothe opon erthe   glyd{er}yng os golde,
+      Lyke as erthe to erthe   neu{er} go shulde.
+      [Gh]yte shall erthe to erthe   rather þan he wolde.             16
+
+  5   Why þ{a}t erthe loues erthe   wond{er} me thynkes,
+      Vr why þ{a}t erthe vpon erthe   swetys or swynkes,
+      Ffor whan erthe opon erthe   is brente w{i}t{h}in þe brynkes,
+      Þan sall erthe of the erthe   hafe a foule stynke.              20
+
+  6   Lo erthe vpon erthe   consider þou may
+      How erthe comes into þe erthe   nakyd all way.
+      Why sulde erthe vpon erthe   go stovte or gay,
+      Sethen erthe oute of erthe   sall passe in por aray?            24
+
+  7   I concell erthe opon erthe   þ{a}t wykkydly has wrouthe,
+      The whyle þ{a}t erthe is vpon erthe   to turn vp his thouthe,
+      And praye to God vpon erthe   þat all the erthe wrouhte,
+      Þ{a}t erthe oute of erthe   to blys may be browthe.             28
+
+    [Footnote 1: Printed, by kind permission, from H. G. Fiedler's
+    text (Mod. Lang. Review, _III. iii. 219_).]
+
+
+7.
+
+STRATFORD-ON-AVON INSCRIPTION.  15th century.
+
+(Formerly in the Chapel of the Trinity.)
+
+  1   Erthe oute of erth ys wondurly wroght,
+      Erth hath gotyn vppon erth a dygnyte of noght,
+      Erth ypon erth hath sett[1] all hys thowht
+      How erth apon erth may be hey browght.                           4
+
+  2   Erth vpon erth wold be a kyng,
+      But how that erth gott to erth he thyngkys[2] nothyng.
+      When erth byddys erth hys rentys whom bryng,
+      Then schall erth apon erth haue a hard p{ar}tyng[3].             8
+
+  3   Erth apon erth wy{n}nys castellys and towrys;
+      Then seth erth vnto erth: 'Thys ys all owrys'.
+      When erth apon erth hath bylde hye[4] bowrys,
+      Then schall erth for erth suffur many hard schowrys.            12
+
+  4   Erth goth apon erth as man apon mowld,
+      Lyke as erth apon erth neu{er}[5] goo schold.
+      Erth goth apon erth as glisteryng gold,
+      And yet schall erth vnto erth rather then he wold.              16
+
+  5   Why that erth loueth erth wondur me thynke,
+      Or why that erth wold for erth other swett or swynke.
+      When erth apon erth ys broght w{ith}yn the brynke,
+      Then schall erth apon erth have a fowll stynke.                 20
+
+  6   Lo erth on erth, consedur thow may
+      How erth co{m}myth to erth nakyd all way.
+      Why schall erth apon erth goo stowte or gay,
+      Seth erth out of erth schall passe yn poor aray?                24
+
+  7   I counsill erth apone erth that ys wondurly wrogt,
+      The w{h}yll[6] þ{a}t erth ys apon erthe to torne hys thowht,
+      And pray to God vpon erth þ{a}t all erth wroght,
+      That all crystyn soullys to þe[7] blis may be broght.           28
+
+    [Footnote 1: Fisher (Facsimile of inscription) _seth_; Reeves
+    (Mod. Lang. Notes, ix. 4, 203) _sett_.]
+
+    [Footnote 2: Reeves _thynkys_.]
+
+    [Footnote 3: Fisher, Reeves _ptyng_.]
+
+    [Footnote 4: Fisher _hye_, Reeves _hys_; cf. H. 4486 hath _bygged
+    hy his bowres_.]
+
+    [Footnote 5: Fisher _neuu_.]
+
+    [Footnote 6: Fisher, Reeves _w^{h}yll_.]
+
+    [Footnote 7: Fisher _y_ for _y^e_.]
+
+
+8.
+
+MS. RAWLINSON C. 307. c. 1460.                            [fol. 2, r^o.]
+
+Memento homo quod cinis es et in cinerem reuerteris.
+
+  1   Erthe opon erthe hath set all{e} his thoght
+      How that erthe opon erthe may be hy broght.
+      Erthe oute of erthe is wonderly wroght,
+      Erthe hase of erthe a dignytie of noght.                         4
+
+  2   Erthe opon erthe wolde be a kyng,
+      Bot how erthe shall{e} to erthe thynkis he nothyng.
+      Ya bot when erthe byddis erthe his rentis hym bryng,
+      Than shall{e} erthe hafe of erthe a full{e} harde p{ar}tyng.     8
+
+  3   Erthe opon erthe byggis castels and towres,
+      Than sais erthe vnto erthe: 'All{e} þis is ours'.
+      Ya bot when erthe opon erthe hath byggid vp his bowres,
+      Than shall{e} erthe[1] for erthe suffre sharpe showres.         12
+
+  4   Erth{e} gose on erthe[1] glitterand as golde,
+      Like as erthe[1] vnto erthe[1] neu{er} go shulde.
+      Ya bot when erthe goeth on erthe as colde opon colde,
+      Yit shall{e} erthe vnto erthe rather þan{ne} he wolde.          16
+
+  5   Whi that erthe luffis erthe wondre me thynke,
+      Or whi þat erthe for erthe swete wyll{e} or swynke,
+      Ffor when erthe[1] opon erthe is brought with-in brynke,
+      Than shall{e} erthe hafe of erthe[1] a wonder foule stynke.     20
+
+  6   What may erthe say to erthe at beste tyme of all{e}?
+      Noght bot þ{a}t erthe opon erthe shall{e} hafe a fall{e}.
+      Bot when erthe oute of erthe[1]
+              shall{e} com to the laste call{e},
+      Than sall{e} erthe be[2] full{e} ferde for þe sely sall{e}.     24
+
+  7   Beholde þ{o}u erthe opon erthe what worship þ{o}u hase,
+      And thynk þ{o}u erthe opon erthe what maistres þ{o}u mase,
+      And how erthe opon erthe what gatis at þ{o}u gase,
+      And þ{o}u sall{e} fynde it forsuthe
+              that þ{o}u haste many fase.                             28
+
+  8   Now he þ{a}t erthe opon erthe ordande[3] to go
+      Graunte þ{a}t erthe vpon erthe may govern hym so,
+      Þat when erthe vnto erthe shall{e} be taken to,
+      That þe saule of þis erthe suffre no wo.                        32
+
+    [Footnote: Final _n_ is often written _n~_; so _m~_.]
+
+    [Footnote 1: possibly MS. _ertha_; final _e_ in this MS. is often
+    written very like _a_.]
+
+    [Footnote 2: looks like _ba_.]
+
+    [Footnote 3: looks like _ordanda_.]
+
+
+9.
+
+MS. HARLEIAN 4486. 15th century.                        [fol. 146, r^o.]
+
+      Memento homo q{uo}d cinis es & [in] cinerem reu{er}teris,
+      Ffac b{e}n{e} du{m} viuis, post morte{m} viuere si vis.
+      When[1] lyffe is most loued[1], & deth is moste hated,
+      Then dethe[2] draweth{e} his drawght{e}
+              & makyth{e} man full{e} naked.                           4
+
+  1   Erthe owte of erthe is wonderly wrowght{e},
+      Erthe of the erthe hathe gete an abbey of nawte,
+      Erthe apon erthe hath{e} sett all{e} his thowghte
+      How erthe apon erthe may be hye browte.                          8
+
+  2   Erthe apon erthe be he[3] a kyng{e},
+      Butt how erth{e} schall{e} to erthe thynketh{e} he nothyng{e}.
+      [4]When erthe byddeth{e} erthe his rent home bryng{e},
+      Then schall{e} erthe owte of erthe
+              haue a pyteous p{ar}tyng{e}.                            12
+
+  3   Erthe apon erthe wynneth{e} castell{es} & towres.
+      Then seyth{e} erthe to erthe: 'These byth{e} all{e} owres'.
+      When erthe apon erthe hath bygged{e} vp his bowres,
+      Then schall{e} erthe for the erthe suffre scharpe schowres.     16
+
+  4   Erthe gothe apon erthe as molde apon molde.
+      So goeth{e} erthe apon erthe all{e} gleteryng{e} in golde,
+      Lyke as erthe into erthe neu{er} go scholde,
+      And [gh]et schalle erthe into erth{e} rather then he wolde.     20
+
+  5   Why erthe loueth{e} erthe wonder me thynke,
+      Or why that erthe for erthe swete wyll{e} or swynke,
+      Ffor whan erthe apon erthe is browte w{i}t{h}yn þe brynke,
+      Then schall{e} erthe of the erthe haue a fowle stynke.          24
+
+  6   Loo, erthe apon erthe, consyder{e} thow may
+      How erthe com{m}yth{e} to erthe naked all{e} way.
+      Why scholde erthe apon erthe go stowte or gay,
+      Whan erthe schall{e} passe owte of erthe in a pore aray?        28
+
+                                                        [fol. 146, v^o.]
+  7   Therfor erthe apon erthe that wykedly hast wrought{e},
+      Whyle erthe is apon erthe torne agayne thy thowght{e},
+      And pray to God apon erthe that all{e} erthe hath wroughte
+      That this erthe apon this erthe to blysse may be browte.        32
+
+  8   Now Lorde that madyst for erthe & sufferdyst paynes ylle,
+      Lett neu{er} this erthe for this erthe i{n} myschyffe spylle,
+      But that this erthe in this erthe
+              be eu{er} worchyng{e} thy wylle,
+      So that this erthe fro þ{is} erthe
+              may stye vp to thy hylle.                               36
+
+                                                       Amen.
+
+    [Footnote 1: Final _n_ is uniformly written _n~_ in this text
+    excepting in the word _in_. Final _d_ is frequently written
+    _[d+]_.]
+
+    [Footnote 2, 3: _added above the line._]
+
+    [Footnote 4: The first words in ll. 11, 14, 15 seem to have been
+    freshened up.]
+
+
+10. MS. LAMBETH 853. c. 1430-1450.                            [fol. 35.]
+
+      Whanne liif is moost loued, and deeþ is moost hatid:
+      Þanne dooþ deeþ drawe his draw[gh]t, & makiþ ma{n} ful nakid.
+                  De terra plasmasti me, _&c._
+
+  1   Erþe out of erþe is wondirly wrou[gh]t,                          4
+      Erþe of erþe haþ gete a dignyte of nou[gh]t,
+      Erþe upo{n} erþe haþ sett al his þou[gh]t,
+      How þat erþe upon erþe may be hi[gh] brou[gh]t.
+
+  2   Erþe upon erþe wold he be a king;                                8
+      B{u}t how erþe schal to erþe þenkiþ he no [fol. 36] þing;
+      Wha{n}ne þat erþe biddiþ erþe hise rentis hom bring,
+      Þan schal erþe out of erþe haue a piteuous parting.
+
+  3   Erþe vpon erþe wy{n}neþ castels & touris,                       12
+      Þan seiþ erþe to erþe: 'Now is þis al houris'.
+      Wha{n}ne erþe upon erþe haþ biggid up hise boure[s],
+      Þanne schal erþe upo{n} erþe suffir scharpe schouris.
+
+  4   Erþe gooth vpon erþe as molde upon molde,                       16
+      So gooth erþe upon erþe al gliteringe in golde,
+      Like as erþe vnto erþe neu{er}e go schulde,
+      And [gh]it schal erþe vnto erthe raþ{er} þan he wolde.
+
+  5   O þ{o}u wrecchid erþe þat on erþe traueilist ny[gh]t and day,   20
+      To florische þe erþe, to peynte þe erþe wit{h} wantowne aray,
+      [Gh]it schal þou erþe for al þi erþe,
+              make þou it neu{er}e so queynte & gay,
+      Out of þis erþe in-to þe erþe,
+              þ{er}e to clinge as a clot of clay. [fol. 37.]
+
+  6   O wrecchid man whi art þ{o}u proud, þat art of þe erþe makid?   24
+      Hid{er} brou[gh]ttist þou no schroud,
+              but poore come þou and nakid.
+      Whanne þi soule is went out, & þi bodi in erþe rakid,
+      Þan þi bodi þat was rank & undeuout, of alle men is bihatid.
+
+  7   Out of þis erþe cam to þis erþe þis wrecchid garnement;         28
+      To hide þis erþe, to happe þis erþe, to hi{m} was cloþinge lente;
+      Now gooþ erþe upon erþe, ruli raggid and rent,
+      Þ{er}fore schal erþe vndir þe erþe haue hidiose turment.
+
+  8   Whi þat erþe to myche loueþ erþe wondir me þink,                32
+      Or whi þat erþe for sup{er}flue erþe
+              to sore sweete wole or swynk;
+      Ffor wha{n}ne þat erþe upo{n} erþe is brou[gh]t
+              w{i}t{h}i{n}ne þe brink,
+      Þan schal erþe of þe erþe haue a rewful swynk.
+
+  9   Lo erþe upon erþe considere þou may,                            36
+      How erþe comeþ i{n}to erþe nakid al way, [fol. 38.]
+      Whi schulde erþe upon erþe go now so stoute or gay,
+      Wha{n}ne erþe schal passe out of erþe in so poore aray?
+
+  10  Wolde God þ{er}fore þis erþe, while þat he is upon this erþe,
+            Vpon þis wolde he{r}tili þinke,                           40
+      & how þe erþe out of þe erþe schal haue his a[gh]en-risynge,
+      And þis erþe for þis erþe schal [gh]eelde streite rekenyng;
+      Schulde neu{er}e þan þis erþe for þis erþe mysplese heuene king.
+
+  11  Þerfore þou erþe upon erþe put so wickidli hast wrou[gh]t,      44
+      While þat þou erþe art upon erþe turne a[gh]en þi þou[gh]t,
+      And praie to þat God upo{n} erþe þat al þe erþe haþ wrou[gh]t,
+      Þat þou erþe upon erþe to blis may be brou[gh]t.
+
+  12  O þou Lord þat madist þis erþe for þis erþe & suffridist
+              heere peynes ille,                                      48
+      Lete neu{er}e þis erþe for þis erþe myscheue ne spille,
+      But þat þis erþe on þis [fol. 39] erþe
+              be eu{er}e worchinge þi wille,
+      So þ{a}t þis erþe from þis erþe may stie up to þin hi[gh] hille.
+
+                                                       Amen.
+
+      Memento homo quod cinis es, et i{n} cinere{m} reu{er}teris,     52
+      Ffac bene dum viuis. post mortem viu{er}e si uis.
+      Tangere qui gaudet. meretricem qualiter audet.
+      Palmis pollutis. regem tractare salutis.
+      Credo in deum patrem omnipotentem.                              56
+
+  (_Here follows the Creed in English verse._)
+
+
+11.
+
+MS. LAUD MISC. 23. Before 1450.                         [fol. 111, v^o.]
+
+      Whan lyf is moost louyd & deeþ is moost hatyd:
+      Thanne deeth drawyth his draut and makith man ful nakid.
+
+  1   Erthe out of erthe is wo{n}dirly wrou[gh]t,
+      Erthe of the erthe hath gete a dignyte of nowth{e},              4
+      Erthe vp-on e{r}the hath set al his thou[gh]t
+      How that erthe vp-on erthe may be hy[gh] browth.
+
+  2   Erthe vp-on erthe wolde be a kyng;
+      But how erthe shal to erthe thinkiþ he no thi{n}g;               8
+      Wha{n} that erthe biddeth erthe his rentys hoom bring,
+      Thanne shal erthe out of the erthe haue a pet{ous} partyng.
+
+  3   Erthe vp-on erthe wynnyth castellis and towris[1],
+      Tha{n}ne seith erthe to erthe: 'This is al owris.'              12
+      Whan erthe vp-on erthe hath biggid alle his bouris,
+      Thanne shal erthe for erthe suffre sharp showris.
+
+  4   Erthe gooth up-on erthe as moolde vp-on moolde,
+      So gooth erthe vp-on erthe al gleteryng in goolde,              16
+      Like as erthe vn-to erthe neu{er}e goo[2] shulde;
+      Yit shal erthe vnto erþe[3] rather{e} than he wolde.
+
+  5   O thou wrecchid erthe, that on the erthe
+              [fol. 112, r^o] traueylist ny[gh]t and day,
+      To florissh{e} the erthe, to peynte the erthe
+              wyth wantone a-ray;                                     20
+      [Gh]it shal thow erthe, for all{e} thyn erthe,
+              make thow it neu{er} so queynt & gay,
+      Out of the erthe in-to the erthe, ther to clynge as clot of clay.
+
+  6   O wrecchide man whi art thow p{r}ude, that art of erthe makid?
+      Hidir broutyst thow no shroude, but por{e} cam thow & nakid.    24
+      Whan thi soule is went out, & thi body in erthe rakid,
+      Tha{n}ne thi body that was rank and louyd of alle men, is hatyd.
+
+  7   Out of the erthe cam to this erthe his wantyng garneme{n}t;
+      To hyde this erthe, to wrappe this erthe,
+              to him was clothing lent;                               28
+      Now gooth erthe up-on erthe, ruly raggid and rent,
+      Therfor shal erthe vndir erthe haue hidous turme{n}t.
+
+  8   Whi that erthe louyth erthe wondir me thinke,
+      Or whi that erthe for erthe swete wole or swinke;               32
+      Ffor whan that erthe up-on the erthe
+              is brou[gh]t wyth-i{n}ne the brinke,
+      Thanne shal erthe of the erthe haue a rewfull{e} stinke.
+
+[-->]
+
+  9   Lo erthe up-on erthe consider thow may,
+      How erthe in-to the erthe comyth nakid al-way,                  36
+      Whi shuld erthe vp-on erthe go stout [fol. 112, v^o] or gay,
+      Wha{n} erthe shal passe out of erthe in a por{e} aray?
+
+  10  Wolde therfor{e} this erthe on this erthe, on this hertly thinke,
+      How that erthe out of the erthe shal haue risynge,              40
+      And thus erthe for erthe[4] yeelde shal streyt rikenynge,
+      Shulde neuer{e} erthe for erthe mysplese heuene kyng.
+
+  11  Thow erthe up-on erthe, that wickydly hast wrout,
+      While that erthe is vp-on erthe, turne a-[gh]en thi thout,      44
+      And preye to God vp-on erthe, that alle the erthe hath wrou[gh]t,
+      That erthe vp-on erthe to blisse may be brou[gh]t.
+
+  12  Lord God that erthe madist & for the erthe suffredist peynys ille,
+      Lete neu{er}e þis erþe[5] for this erthe myscheue ne spille,    48
+      But that this erthe in this erthe be eu{er}e worching thi wille,
+      So that erthe fro this erthe stye up on thyn hy[gh]e hille. Amen.
+      p{ar} charite, God it graunte that it so be.
+
+[-->]
+
+      [6]Tange{re} qui gaudes m{er}etricem qualit{er} audes[7].       52
+      Palmis pollutis regem tractar{e} salutis.
+
+  (_The poem _Whi is the wor[l]d belouyd that fals is and veyn_,
+  follows immediately._)
+
+    [Footnote 1: _towris_ added in margin by the same hand.]
+
+    [Footnote 2: MS. _goo ne_; _ne_ crossed out, and marked _[n.][e.]_.]
+
+       [[Expunctuated "ne" shown with under-dots]]
+
+    [Footnote 3: _vnto erþe_ inserted in red above the line.]
+
+    [Footnote 4: _for erthe_ repeated and crossed out in red.]
+
+    [Footnote 5: _þis erþe_ added above the line, _erþe_ in red.]
+
+    [Footnote 6: In left margin _de sac{er}dotib{us}_.]
+
+    [Footnote 7: in right margin _h{oc} in decretis_.]
+
+
+12.
+
+MS. COTTON TITUS A. xxvi. 15th century.                 [fol. 153, r^o.]
+
+  1   Erthe oute of erthe is wondirly wroght,
+      Erthe of þe erthe hathe goten a dyngnyte of noght,
+      Erthe vpon erthe hathe set all{e} hys thovght
+      Houe erthe vpon erthe maye be hyghe broght.                      4
+
+  2   Erthe vpon erthe wolde be a kyng;
+      Bot how erthe shall{e} to erthe thynkethe he nothyng;
+      Whan that erthe biddethe erthe hys rentis hom to bryng,
+      Than shall{e} erthe oute of erthe haue a pytous p{ar}tyng.       8
+
+  3   Whan erthe vpon erthe wynythe casteles & tourys,
+      Than says erthe to erthe: 'Þys is all{e} ourys'.
+      And whan erthe vpon erthe hathe byggid hys bourys,
+      Than shall{e} erthe vpon erthe suffer sharpe shoures.           12
+
+  4   Erthe gothe vpon erthe as molde vpon molde[1],
+      So gothe erthe vpon erthe all{e} glytryng in golde,
+      Lyke as erthe into erthe never goo sholde;
+      And y{e}t shal[2] erthe in to erthe rathar then he wolde.       16
+
+                                                        [fol. 153, v^o.]
+  5   O thou wreched erthe that on erthe trauayles nyght & daye
+      To fflorysshe[3] and paynt þe erthe w{i}t{h} wanton araye;
+      Y{e}t sshalle þou, erthe, for all{e} thy erthe,
+              make þ{o}u it neu{er} so queynt or gaye,
+      Oute of thys erthe in to erthe to klyng as clot in claye.       20
+
+  6   O wrechyd man, why[4] art þ{o}u[5] prowde that of erth art maked,
+      And hyder thou broght no shrowde, bot pore com and nakyd?
+      Lewe thy syne and lyffe in ryght,
+      And than shalt thou lyffe in heuyn as a knyght.                 24
+
+    [Footnote: Final _n_ is written _n~_ as a rule in this text, so
+    _m~_.]
+
+    [Footnote 1: MS. _moldee_.]
+
+    [Footnote 2: MS. _shal do_ or _de_, the second word crossed out.]
+
+    [Footnote 3: MS. _To fflorysshe þe erthe_, the last two words
+    crossed out, cf. MS. Lambeth, _v. 5_, MS. Rawl. Poet., _v. 15_.]
+
+    [Footnote 4: MS. _why at_, _at_ crossed out.]
+
+    [Footnote 5: MS. _þ^t_.]
+
+
+13.
+
+MS. RAWLINSON POETICAL 32. After 1450.                   [fol. 32, v^o.]
+
+  A descripture alchimicall of erthe & the nature of man[1].
+
+      Whanne life is most louyd,
+      And deth is most hatid,
+      Deth drawith his drau[gh]te
+      And makith a man nakid.                                      4
+
+  1   Erthe oute of erthe
+      Is wonderly wrou[gh]te;
+      Erthe hath of the erthe
+      [Gh]etyn a dignite of noughte.                               8
+
+  2   Erthe a-pon erthe
+      Hath set alle his thoughte
+      How erthe apon erthe
+      May be hiere y-broughte.                                    12
+
+  3   Erthe a-pon erthe
+      Wolde be made a kyng,
+      How erthe schal to erthe
+      Thynkyng no thyng.                                          16
+
+  4   Whanne erthe biddith erthe
+      Than he his rente hom brynge,
+      Thanne schal erthe for erthe
+      Haue a petous partynge.                                     20
+
+  5   Whanne erthe apon erthe
+      Hath billid al his bowris,
+      Thanne schalle erthe for erthe
+      Suffre ful harde schowris.                                  24
+
+  6   Erthe a-pon erthe                              [fol. 33, r^o.]
+      Wynnyth castellis and towris.
+      Thanne saithe erthe to erthe:
+      'This is alle owris'.                                       28
+
+  7   Erthe gothe apon erthe
+      As molde a-pon molde,
+      Erthe gothe apon erthe
+      Gleteryng alle in golde,                                    32
+
+  8   As thouh erthe to erthe
+      Neu{er} a-yen go schulde,
+      But yit schal erthe to þ{e} erthe
+      Rather thanne he wolde.                                     36
+
+  9   Oute of the erthe cam the erthe
+      Wantynge his garnament,
+      To hide the erthe, to lappe the erthe,
+      To hym was clothing y-lent.                                 40
+
+  10  Now goth the erthe apon erthe
+      Disgesily ragged and to-rent,
+      Therfore schal erthe vnder erthe
+      Suffer ful grete turment.                                   44
+
+  11  Whi that erþe loueþ erthe
+      Wonder y may thinke,
+      Or whi that erthe for the erthe
+      Unresonably swete wol or swynke,                            48
+
+  12  Ffor whanne erthe vnder erthe                  [fol. 33, v^o.]
+      Is brou[gh]te withynne brynke,
+      Thanne schal erthe of the erthe
+      Haue an oribyll stynke.                                     52
+
+  13  Yif erthe wold of erthe
+      Thus hartily haue thynkynge,
+      And how erthe out of erthe
+      Shal at last haue risynge,                                  56
+
+  14  Thanne schal erthe for erthe
+      Yelde riht streite rekenynge,
+      Thanne schuld [erthe] for erthe
+      Neuer mys-plese heuene kynge.                               60
+
+  15  Thow wrecchid erthe þ{a}t thus for erthe
+      Trauelist nyht and day
+      To florische the erthe, to paynte the erthe
+      With thi wanton array,                                      64
+
+  16  Yit schalt thou erthe for alle thi erthe,
+      Make thou neuer so gay,
+      Ffor thi erthe in to erthe
+      Clynge as clotte in clay.                                   68
+
+  17  Thinke now erthe how thou in erthe
+      Goist euer in dethis[2] grace,
+      And thanne thou erthe for the erthe
+      Shalt neuer stryue ne race.                                 72
+
+  18  Bute for thou erthe with thi erthe             [fol. 34, r^o.]
+      Hauntist enuye and hate,
+      Therefor schal erthe for erthe
+      Be excludid from heuene gate.                               76
+
+  19  Ffowle erthe whi louyst thou erthe
+      That is thi dedly foo,
+      And bildist on erthe
+      As thou schuldist dwelle euer moo?                          80
+
+  20  But thou erthe forsake the erthe,
+      Or that thou hennys goo,
+      Vnder erthe for lust of erthe
+      Thou schalt haue sorow and woo.                             84
+
+  21  Whiles erthe may in erthe
+      To festis and to drynkis gon,
+      Til the be made frome the erthe
+      As bare as any bon.                                         88
+
+  22  Thanne if erthe comyth to erthe
+      Makyng sorow and mone,
+      Thanne saith erthe to the erthe,
+      'Thou were a felow, but now art thou none'.                 92
+
+  23  Thus the erthe queytith the erthe
+      That doith to him seruyse,
+      Or tristyn on erthe, or plese the erthe
+      In any maner wise.                                          96
+
+  24  Therfor thou erthe be ware of erthe            [fol. 34, v^o.]
+      And thou the wele auyse,
+      Lest thou erthe p{er}ische for erthe
+      By-fore the hihe iustyse.                                  100
+
+  25  Ffor the erthe was made of erthe
+      At the first begynnynge,
+      That erthe schuld labour the erthe
+      In trowthe and sore swynkynge;                             104
+
+  26  But now erthe lyueth in erthe
+      With falshode and begilynge,
+      Therfor schal erthe for erthe
+      Be punsched in payne euerlastynge.                         108
+
+  27  But erthe forsake the erthe
+      And alle his falshede,
+      And of the erthe restore the erthe
+      Goodis that ben mys-gete,                                  112
+
+  28  Or that erthe be doluyn in erthe
+      And vnder fote y-trede,
+      Ffor synne of erthe, þ{a}t hath do in erthe,
+      Fful sore he schalle be bete.                              116
+
+  29  Drede thou erthe while thou in erthe
+      Hast witte & resoune at thi wille,
+      That, erthe, for loue of erthe,
+      Thi soule thou nougth spille.                              120
+
+  30  And thou erthe, repente the in erthe           [fol. 35, r^o.]
+      Of alle that thou hast don ille,
+      And thanne schalt thou, erthe apon erthe,
+      Goddis biddyngis fulfille.                                 124
+
+  31  Lord God that erthe tokist in erthe,
+      And suffredist paynes ful stille,
+      Late neuer erthe for the erthe
+      In dedly synne ne spille,                                  128
+
+  32  But that erthe in this erthe
+      Be doynge euer thi wille,
+      So that erthe for the erthe
+      Stye vp to thi holy hille. Amen. S. J.                     132
+
+    [Footnote 1: Added in a later hand, probably 16th century.]
+
+    [Footnote 2: MS. _deth is_.]
+
+
+14.
+
+MS. PORKINGTON 10. 15th century.                         [fol. 79, v^o.]
+
+  1   [1]Erthe vppo{n} erth{e} is wo{u}ndyr{e}ly wro{u}[gh]te;
+      Erthe vppo{n} erthe has set al his þou[gh]te[2]
+                                                         [fol. 80, r^o.]
+      How erthe vppo{n} erth to erthe schall{e} be[3] brou[gh]te;
+      Ther is no{n}e vppo{n} erth has hit in þou[gh]te.[4]             4
+                                            Take hede!
+      Whoso þinkyse on[5] his end{e}, ful well{e} schal he sped{e}.
+
+  2   Erth vppo{n} erth wold{e} be a kynge;
+      How erth schal to erthe he þink{is} no þinge.                    8
+      Whe{n} erth byddyþ erth his rent who{m}e brynge,
+      The{n} schal erth fro þe erth have a hard{e} parttynge,
+                                            W{i}t{h} care;
+      Ffor erth vppo{n} erþe wott{is}
+              neu{er} we{r} þ{er}for to far{e}.                       12
+
+  3   Erth vppo{n} erth wy{n}nis castyll{is} & tovris.
+      The{n} sayþe erth to erth: 'Al þ{i}s is ourus'.
+      Whe{n} erth vpp{on} erth has bylde al his bovres,
+      The{n} schal erth fro þe erth soffyr{e} scharpe schorrys,       16
+                                            And{e} smarte.
+      Ma{n}, amend{e} þe betyme, þi lyfe ys but a starte.
+
+  4   Erth gose on erth as mold{e} vpon{ne} molde,
+      Lyke as erth to þe erth neu{er} a-gayne schold{e};              20
+      Erth gose on erth glytteryng in gold{e}[6],
+                                                         [fol. 80, v^o.]
+      [Gh]et shale erth to þe erth, raþ{er} þe{n} he wolde.
+                                                Be owris!
+      [Gh]efe þi alm{is} w{i}t{h} þi hand{e}. Trust to no secatovrs.  24
+
+  5   Why þ{a}t erth louis erþe merwel me þinke,
+      [7]Or why erth vppo{n} erth wyl swet or swinke,
+      [7]Ffor whe{n} erth vppo{n} erth is bro{u}þt to þe brynke,
+      The{n} schal erth frov þe erth have a fovl stynke               28
+                                            To smele,
+      Wars þe{n} þe caryo{n} þ{a}t lyis in þe fele.
+
+  6   Lo, erth vppo{n} erth, co{n}sayfe þ{i}s þ{o}u maye,
+      That þ{o}u co{m}mys frome þe erth nakyd{e} alway[{e}];          32
+      How schuld{e} erth vppo{n} erth soe[8] prod{e} or gaye,
+      Sen[9] erth v{n}to erth schal pase i{n} symple araye,
+                                             Unclad{e}?
+      Cloth þe nakyd whyl þ{o}u may, for so Gode þe bade.             36
+
+  7   Erth vppo{n} erth, me þinky[gh] þe ful blynd{e},
+      That on erth ryches to set al[10] þi mynd{e};
+      In þe gospel wrytty{n}e exampul I fynde,
+      The pore went to heyuy{n}, þe rych to hel I fynd{e},            40
+                                             W{i}tt skyle:
+                                                         [fol. 81, r^o.]
+      The co{m}mandment{is} of God{e} wold{e} he not fulfyle.
+
+  8   Erth vppo{n} erth, deyle duly thy goode
+      To þe por{e} pepul þ{a}t favtt pe þi fovde,                     44
+      Ffor þe loue of þi Lord{e}, þ{a}t rent was on þe roode,
+      And{e} for þi loue on þe crose sched his[11] hart blode,--
+                                             Go rede!--
+      W{i}ttovte a{n}ny place to reste on his hede.                   48
+
+  9   Erth vppo{n} erth, take tent to my steyuyne;
+      Whyl þ{o}u leuyst, fulfyle þe w{er}kys of mercy vij.
+      Loke þ{o}u lete, for oode ne for ewyne,
+      Ffor þo by{n}e þe werk{is} þat helpyne vs to heyuy{n}e,         52
+                                             In haste.
+      Tho ded{is} who so dose þar, hy{m}e neu{er} be agaste.
+
+  10  Erth vppo{n} erth, be þ{o}u neu{er} so gaye,
+      Thow moue[12] wend{e} of þ{i}s world{e} an vnreydy waye;        56
+      Turne þe betyme, whyle þ{a}t þ{o}u maye,
+      Leste it lede þe into hele, to logege þ{er} for[13] ay,
+                                             In pyne;
+      Ffor þ{er} is noþ{er} to gett bred{e}, ale, ne wyne.            60
+
+  11  Erth vppo{n} erth, God{e} [gh]eyf þe grace,        [fol. 81, v^o.]
+      Whyle þ{o}u leuuyst vppo{n} erth, to purway þe a place
+      In heywy{n} to dweyll{e}, whyl þ{a}t þ{o}u hast space;
+      That myrthe for to myse it w{er} a karful case.                 64
+                                            Ffor whye?
+      That myrth is w{i}t{h}owtty{n} end{e}, I tel þe securlye.
+
+  12  I co{n}cele erth vppo{n} erth þ{a}t wykyd{e}ly has wro[gh]te,
+      Whyl erth is on erth, to torn all{e} his þov[gh]te,             68
+      And{e} pray to Gode vppo{n} erth,
+              þ{a}t al mad{e} of nov[[gh]te][14],
+      That erth owte of erth to blys may be bov[gh]te[15]
+                                            W{i}tt my[gh]the[16],
+      Thorow helpe Jh{e}su Cryst þ{a}t was our{e} lad{is} byrthe.     72
+                          Do for þiself.
+
+    [Footnote 1: Cf. Halliwell, Early Eng. Misc. in Prose and Verse,
+    printed for the Warton Club, _1855, p. 39_, Fiedler, Mod. Lang.
+    Review, _III. iii. 225_.]
+
+    [Footnote 2, 4: MS. _þo[~u][gh]te_.]
+
+    [Footnote 3: MS. _bo_.]
+
+    [Footnote 5: MS. _oñ_, _on~_, throughout.]
+
+    [Footnote 6: MS. _in [~i] gold{e}_.]
+
+    [Footnote 7: These two lines are transposed in the MS.]
+
+    [Footnote 8: MS. _soe_, Halliwell _soe_, Fiedler _goe_.]
+
+    [Footnote 9: MS. _señ_.]
+
+    [Footnote 10: H. _setal_.]
+
+    [Footnote 11: H. F. _schedhis_.]
+
+    [Footnote 12: MS. _mõu_.]
+
+    [Footnote 13: MS. _þ^{r}for_, H. F. _therefor_.]
+
+    [Footnote 14: MS. only _nov_ now legible.]
+
+    [Footnote 15: MS. _bov[gh]te_, Halliwell _bou[gh]t_, Fiedler
+    _brou[gh]t_.]
+
+    [Footnote 16: MS. Halliwell _my[gh]the_, probably erroneous for
+    _myrthe_.]
+
+
+15.
+
+MS. BALLIOL 354. Before 1504.                           [fol. 207, v^o.]
+
+(Richard Hill's Commonplace-Book.)
+
+  1   Erth owt of erth is worldly wrowght,
+      Erth hath gote{n} oppo{n} erth a dygnite of nowght,
+      Erth vpon erth hath[1] set all his thowght,
+      How þ{a}t erth vpon erth myght be hye browght.                   4
+
+  2   Erth vpon erth wold be a kyng,
+      But how þ{a}t erth shall to erth, he thy{n}kith no thyng;
+      Whe{n} erth biddith erth his rent{es}[2] home bryng,
+      The{n} shall erth for erth haue a hard p{ar}tyng.                8
+
+  3   Erth vpon erth wy{n}neth castl{les}[2] & towres,
+      The{n} seyth erth vnto erth: 'Þis is all owres';
+      But whe{n} erth vpo{n} erth hath bildyd his bowres,
+      Tha{n} shall erth for erth suffre hard showres.                 12
+
+  4   Erth vpon erth hath welth vpon molde,
+      Erth goth vpon erth glydryng all i{n} golde,
+      Like as he vnto erth neu{er} torn shuld;
+      & yet shal erth vnto erth son{er} tha{n} he wold.               16
+
+  5   Why þ{a}t erth loweth erth, wonder[3] I thynk;
+      Or why þ{a}t erth will for erth swet or swynk;
+      For wha{n} erth vpon erth is browght w{i}t{h}in þe brynk,
+      Than shall erth for erth suffre a fowle stynk.                  20
+
+  6   As erth vpon erth were þe worthyes ix,
+      & as erth vpon erth i{n} honour dide shyne;
+      But erthe liste not to know how þei shuld enclyn,
+      & þ{er} crow{n}nys leyd i{n} erth,
+              wha{n} deth hath made hys fyne.                         24
+
+  7   As erth vpon erth, full{e} worthy was Josue,      [fol. 208, r^o.]
+      Dauyd þe worthy kyng, Judas Machabe;
+      They were but erth vpon erth, no{n} of the{m} thre,
+      And so fro{m} erth vnto erth þei loste þ{er} dignite.           28
+
+  8   Alisand{er} was but erth, þ{a}t all the world wan,
+      & Ector vpon erth was hold a worthy ma{n},
+      & Julius Cesar þ{a}t þe empire first be-gan;
+      & now, as erth w{i}t{h}in erth, þei lye pale & wan.             32
+
+  9   Arthur was but erth, for all his renown;
+      No more was kyng Charlis, ne Godfrey of Bolown;
+      But now erth hath t{o}rned þ{er} noblenes vpsodown;
+      & thus erth goth to erth, by short co{n}clusion.                36
+
+  10  Who so rekyn also of Will{iam} Conquerowr{e}[4],
+      Kyng Harry þe first, þ{a}t was of knyghthode flowr{e}[4];
+      Erth hath closed the{m} ful streytly i{n} his bowr{e}[4];
+      Loo, the ende of worthynes! here is no more socowr{e}[4].       40
+
+  11  Now thei þ{a}t leve vpon erth, both yong & old,
+      Thynk how ye shall to erth, be ye neu{er} so bold;
+      Ye be vnsiker, wheþ{er} it be i{n} hete or cold,
+      Like as yo{u}r brether[5] did beffore, as I haue told.          44
+
+  12  Now ye folk þ{a}t be here, ye may not long endure,
+      But þ{a}t ye shall torn to erth, I do you ensure;
+      & yf ye lyst of þe trewth to se a playn fugure,
+      Go to seynt Powlis, & see þ{er} the portratowr{e}[4].           48
+
+  13  All ys erth, & shall be erth, as it shew{i}t{h} ther,
+      [6]Þ{er}-for, or dredfull deth w{i}t{h} his dart you dere,
+      & for to torn i{n} to erth, no ma{n} shall it forbere,
+      Wisely pu{r}vey you beffore, & þ{er}-of haue no fere.           52
+
+  14  Now, sith by deth we shal al pas, it is to vs c{er}teyn,
+      For of þe erth we co{m} all, & to þe erth shall torn agayn;
+      Þ{er}-for to strive of grucche it were but i{n} vayn,
+      For all is erth, & shall be erth, no thyng more c{er}tayn.      56
+
+  15  Now erth vppon erth, co{n}sydre thow may,
+      How erth co{m}meth to erth nakyd all way.
+      Why shuld erth vpon erth go stowt or gay,
+      Sith erth owt of erth shall passe in pore a-ray?                60
+
+  16  I co{n}saill you vpon erth þ{a}t wikkidly haue wrowght,
+      Whill þ{a}t erth is on erth, torn vp yo{u}r thowght,
+      & pray to God vppon erth, þ{a}t all þe erth hath wrowght,
+      Þ{a}t erth owt of erth to blis may be browght.                  64
+
+                        Amen.
+
+    [Footnote: Cf. Roman Dyboski, E.E.T.S. extra ser. ci _(1907),
+    p. 90_.]
+
+    [Footnote 1: D. erron. _hat[h]_.]
+
+    [Footnote 2: D. reads _rentes_, _castlles_.]
+
+    [Footnote 3: MS. _worder_.]
+
+    [Footnote 4: D. reads _-owr_ throughout.]
+
+    [Footnote 5: D. erron. _brother_.]
+
+    [Footnote 6: Line 50 would be better placed after l. 51.]
+
+
+16.
+
+MS. HARLEIAN 984. 16th century.                          [fol. 72, r^o.]
+
+  6   [1]How schuld{e} erthe vpon erthe be prud & gay
+      Whe{n} erthe schal to erthe in so por{e} aray?
+
+  7   I consell erthe vpon erthe þ{a}t wikyd hade wro[gh]t,
+      Whyle erthe ys apon erthe to tu{r}ne al his þo[gh]t,             4
+      And{e} p{r}ay to God þ{a}t al þe world wro[gh]t[2]
+      Þ{a}t erthe out of erthe to blesse may be bro[gh]t.
+
+    [Footnote 1: The previous leaf of the MS., which evidently
+    contained the beginning of the poem, has been torn out.]
+
+    [Footnote 2: MS. _wo[gh]t_.]
+
+
+17.
+
+THE MAITLAND MS. (PEPYSIAN MS. 2553, p. 338.) c. 1555-1585.
+
+  1   [1]Eyrd vpone eird wondirfallie is wrocht,
+      Eird hes gottin vpone eird ane dignite for nocht,
+      Eird apone eird hes set all his thocht
+      How þat[2] eird vpone eird till hicht may be brocht.             4
+
+  2   Eird apone eird wald fayne be a king,
+      And how þat eird gois to eird thinkis he no thing.
+      Quhone eird bydd{is} eird his rentis hame to bring,
+      Than sall eird haue to eird herd depairting.                     8
+
+  3   Eird apon eird wy{n}nis castellis and towris,
+      Than sayis eird vntill eird: 'All þir ar owris'.
+      Quhone eird apone eird hes biggit all his bowris,
+      Than sall eird vpone eird suffir scharp schowris.               12
+
+  4   Eyrd apone eird and mold vpone mold,
+      Lyke as eird vnto eird never go sold.
+      Eird gois apone eird glitterand as gold,
+      [Gh]it sall eird go to eird sonar nor he wold.                  16
+
+  5   How þat eird luiffis eird grit wondir I think,
+      Or quhy þat eird will for eird owþir swet or swynk.
+      Quhone þat eird w{i}t{h}in eird is closit vndir bynk,
+      Than sall eird w{i}t{h}in eird haue ane ewill stynk.            20
+
+  6   Lo eird vpone eird considdir þow may,
+      How eird vnto[3] eird gois nakit away,
+      Quhy sould eird apone eird go ow{er} proud or gay,
+      Sen eird vntill eird sall wend in pure array?                   24
+
+  7   I counsall eird vpone eird þat wondirlie is wrocht,
+      Q{uhi}ll[4] eird is apone eird to turne all his thocht,
+      And pray to God apone eird þat maid all of nocht,
+      That eird vpone eird to blys may be brocht.                     28
+                            Q{uo}d marsar.
+
+    [Footnote 1: Printed by kind permission of the authorities of
+    Magdalene College, Cambridge.]
+
+    [Footnote 2: MS. _yat_; _þ_ regularly written as _y_.]
+
+    [Footnote 3: MS. _apone_ crossed out, _vnto_ written above.]
+
+    [Footnote 4: MS. _q^ll_.]
+
+
+18.
+
+JOHN REIDPETH'S MS. CAMBR. UNIV. LIBR. Ll. 5. 10.        [fol. 43, v^o.]
+
+  (Transcribed from the Maitland MS. 1622-3.)
+
+  1   Eird vpoun eird wonderfull is wrocht,
+      Eird hes gottin vpoun eird ane dignitie for nocht,
+      Eird vpoun eird hes sett all his thocht
+      How þat[1] eird vpoun eird till hicht may be brocht.             4
+
+  2   Eird vpoun Eird wold fane be ane king,             [fol. 44, r^o.]
+      And how þat eird gois to eird thinkis he nothing.
+      Quhen eird bidd{is} eird his rentis hame to bring,
+      Than sall eird haue to eird herd depairting.                     8
+
+  3   Eird vpoun Eird wins castell{is} and towris;
+      Than sayis eird vnto eird: 'All now ar ouris'.
+      Quhen eird vpoun eird hes biggit all his towris,
+      Than sall eird vpoun eird suffer grit showris.                  12
+
+  4   Eird vpoun eird and mold vpoun mold,
+      Lyk as eird vnto eird neuer go sold,
+      Eird gois vpoun eird glitterand as gold,
+      [Gh]itt sall eird go to eird sonear nor he wald.                16
+
+  5   How þat eird luiffis eird grit wonder I think,
+      Or quhy þat eird will for eird owther sweit or swink,
+      Quhen þat eird w{i}t{h}in eird is closit vnder bink,
+      Than sall eird w{i}t{h} eird haue ane evill stink.              20
+
+  6   Lo eird vpoun eird considder thow may
+      How eird vnto eird gois nakit away,
+      Quhy sould eird vpoun eird go o{u}r[2] proud or gay,
+      Sen eird vntill eird sall wend in pure aray?                    24
+
+  7   I counsall eird vpoun eird þat wondirlie is wrocht,
+      Q{uhi}ll eird is vpoun eird to turne all his thocht,
+      And pray to God vponn eird þat maid all of nocht,
+      That eird vpoun eird to blis may be brocht.                     28
+                                        Quod dumbar.
+
+    [Footnote 1: MS. _yat_; _þ_ regularly written as _y_.]
+
+    [Footnote 2: _over_, MS. _o^r_.]
+
+
+
+
+  III.
+
+  THE CAMBRIDGE TEXT.
+
+
+CAMBRIDGE UNIV. LIBR. Ii. 4. 9. 15th century.            [fol. 67, r^o.]
+
+  1   Erthe vpon erth is waxi{n} and wrought,
+      Erthe takys on erth a nobylay of nought;
+      Now erthe vpon erthe layes all his þought
+      How erthe vpon erthe sattys all at noght.                        4
+
+  2   Erthe vpon erth has hallys & towr{is}[1];
+      Erthe says to erth: 'This is alle owr{is}'.
+      But q{ua}n erth vpon erth has byg{g}yd his bowr{is},
+      Than xal erth for the erth haue scharpe schowr{is}.              8
+
+  3   Erthe vpon erth wolde be a kyng,
+      But hove[2] erth xal to erth thynkyth he no thyng.
+
+  4   And of the same erthe mad God ma{n},
+      And sethe he made that erth & callyd it Ad{a}m,                 12
+      For loue of erthe, the wych was woman,
+      That erth in this erthe fyrst be-gan.
+
+  5   Erthe goos on erth & tyllys w{i}t{h} hys plowe,
+      Erthe a-geyn erth holdys it full toght[3],                      16
+      Erthe vpon [erth] stelis hym a slogh[4],
+      Erthe on this erth thynkys he has neu{er} i-nowe[5].
+
+  6   Erth vpon erthe gos in the weye,
+      Prykys and prankys on a palfreye;                               20
+      When erth has gotyn erth alle that he maye,
+      He schal haue but seven fote at his last daye.
+
+  7   Than xal not be lyky{n}g vn-to hy{m}
+      Bu[t][6] an olde sely cloth to wynde erthe in,                  24
+      When erthe is in erth for wormys wyn,
+      The rof of his hows xal ly on his chyn.
+
+                                                         [fol. 67, v^o.]
+  8   [7]When erthe says to erth: 'My rent þ{o}u me bryng',
+      Then has erth fro erthe a dolfull p{ar}tyng.                    28
+
+  9   How erthe louys erth wondyr me thynke,
+      How erth for erth wyll swete and swynke.
+      When erth is in erthe broght w{i}t{h}-in the brynke,
+      What as herth than of erthe but a fowle sty{n}ke?               32
+
+  10  Erthe wrotys in erth as molys don in molde,
+      Erthe vp-on erth glydys as golde,
+      As erthe leve in erthe eu{er} mor{e} schulde.
+
+  11  Erthe vp-on erth mynd eu{er} mor{e} þ{o}u make                  36
+      How erthe xal to erth when deth wyll hy{m} take.
+
+  12  Be war{e}, erth, for erthe, for sake of thi sowle,
+      Erthe may of erth at þe last take a fowle,
+      When erth is in erthe her{e} so long in his slogh.              40
+
+  13  Ffor erth gos in erth walkand in vede,
+      And erthe rydys on erth on a fayr stede,
+      When he was[8] goty{n} in erth erth to his mede,
+      Than is erth layde in erthe wormys to fede.                     44
+      Whylke ar the wormys the flesch brede?
+      God wote the wormys for to ryght rede.
+
+  14  Erthe a-geyn erthe I holde it on-kynde,
+      Erthe is as sone wroth as is the wynde,                         48
+      Swyche fowle erth mekyl may we fynde,
+      That wyl speke fayr{e} befor{e} vs & falsly be-hy{n}de.
+
+  15  When erth vp-on erth be-gy{n}nys to be wroth,      [fol. 68, r^o.]
+      Erth vpon erth swerys many a gret othe,                         52
+      Erth berys p{r}ide in herte & i{n} cloth,
+      When erth is layde i{n} erth þan xal it be loth.
+
+  16  Erthly coveytous makyth erth to be schent,
+      Erth for this erth yeld{is} a gret rent,                        56
+      If erth in thys erth levyd in good entent
+      Than dar{e} erthe nevyr recke wher{e} that he went.
+
+  17  Erth vp-on erth is stronge as a mast,
+      And erth wyth is erth fyghtys ful fast,                         60
+      Ther{e} is non so stowte that in erth may hy{m} cast,
+      And alle xal we be erth at the last.
+
+  18  Erthe bygyth hallys & erth bygith towres,
+      When erth is layd in erth, blayke is his bo{ur}s;               64
+      If erth haue welth, he dwellyth in flowr{es}[9],
+      And if erth haue mys don, he getyth scharpe sho{ur}s.
+
+  19  If erth wyste in erth q{ua}t that erth is,
+      Ther wolde neu{er} erth in erth do a-mys.                       68
+      God mad erth of erth, & namyd it for his,
+      Adam of erth in erthly paradys.
+
+  20  God walkyd in erth as longe as he wolde,
+      He had not in this erth but hong{er} & colde,                   72
+      And in this erth also his body was solde,
+      Her{e} in this erth, whan þ{a}t he was xxx^ti [gh]er{e} olde.
+
+  21  God lytyd in erth, blyssed be that stou{n}de!      [fol. 68, v^o.]
+      He sauyd hijs herth w{i}t{h} many a scharpe wou{n}de,           76
+      Ffor to sawe erth owght of hell grou{n}de,
+      He deyd in erth vpon þe rode w{i}t{h} many a blody vou{n}de[10].
+
+  22  And God ros ovght of the est[11] this erth for to spede,
+      And went into hell as was gret nede,                            80
+      And toke erth from sorowe þ{us}[12] erth for to spede,
+      The ryght wey to heuen blys Iesus Cryst vs lede!
+                                                       fine.
+
+  (_The rest of the page is occupied by a coloured picture of a knight
+  and a skeleton with Latin mottoes, v. Introduction, p. xiv._)
+
+    [Footnote 1: or _towr{es}_, _owr{es}_, &c.]
+
+    [Footnote 2: MS. _hove_ for _howe_.]
+
+    [Footnote 3: ? error for _togh_.]
+
+    [Footnote 4: Heuser _flogh_, but MS. appears to be _slogh_ as in
+    l. 40.]
+
+    [Footnote 5: MS. _was neuer non_ crossed out, _has neu{er} I nowe_
+    written above.]
+
+    [Footnote 6: MS. _bu_, the last letter of the word has been
+    erased.]
+
+    [Footnote 7: These two lines form the missing half of v. 3, and
+    are perhaps inserted here with the idea of forming a six-lined
+    stanza.]
+
+    [Footnote 8: better _has_.]
+
+    [Footnote 9: or _flowr{is}_.]
+
+    [Footnote 10: _wounde_.]
+
+    [Footnote 11: MS. clearly _est_, perh. error for _erth_.]
+
+    [Footnote 12: MS. _y^9_ = _þus_, perh. for _þis_.]
+
+
+
+
+NOTES.
+
+
+#Page 1.# #MS. Harl. 2253.# These four lines were apparently regarded by
+Wanley, together with the preceding French strophe, as forming part of
+the poem on the Death of Simon de Montfort, and are not noted by him in
+the British Museum Catalogue. Böddeker also omitted them from his
+_Altenglische Dichtungen des MS. Harl. 2253_ (Berlin 1878). They were,
+however, already noted by Pinkerton in 1786, see _Ancient Scottish Poems
+never before in print . . . from the MS. Collections of Sir Richard
+Maitland_, ii, Note on p. 466: 'In the same (i.e. Harleian) library, No.
+2253, is another of the same kind, beginning,
+
+  Erthe toc of erthe erthe wyth wote.
+
+It is only one stanza; and another piece of one stanza preceding it,
+both are put by Mr. Wanley, in the Catalogue, as part of a French song
+on Sir Simon de Montfort, which they follow: but such mistakes
+frequently arise from the crowded manner of old MSS.' The facsimile
+opposite the title-page shows the lines as they occur in the MS.
+
+#Page 5.# #William Billyng's MS.# The 'finely written and illuminated
+parchment roll' described by William Bateman in his preface to Billyng's
+_Five Wounds of Christ_, of which forty copies were privately printed by
+him at Manchester in 1814, contained the following poems:--
+
+1. The Five Wounds of Christ (fifteen stanzas in rime royal).
+
+2. At hygh none whan the belle dothe tylle (eighteen lines).
+
+3. Erth owte of Erth (six stanzas).
+
+4. Pes maketh plente (five lines).
+
+The whole is signed #Will[~m] Billyng#. It has been frequently suggested
+that Billyng was the author of these poems, but it is evident that he
+was not the author of _Erthe upon Erthe_, though his may be one of the
+earliest transcripts of the B version, and the lines _Pes maketh plente_
+also occur elsewhere, cf. MS. Digby 230 (fifteenth century). He may have
+been the author of _The Five Wounds of Christ_, but it is more probable,
+considering the usual origin of other fifteenth-century collections of
+the kind, that he was merely the collector and transcriber of the texts.
+Cf. F. J. Furnivall, _Notes and Queries_, IV. iii. 103. It is possible
+that this may be the William Billyng who, in 1474, became rector of Toft
+Monks in Norfolk on the presentation of the Provost and Scholars of
+King's College, Cambridge, and who appears to have held the benefice
+until 1506 (see _Notes and Queries_, III. iv. 173; Blomefield,
+_Norfolk_, viii. 63).[1] The parchment roll was formerly preserved in
+Bateman's collection of antiquities at Lomberdale House, Derbyshire.
+This collection was broken up and sold after Bateman's death, the
+archaeological remains being purchased by the Sheffield Museum, and the
+books and MSS. sold at Messrs. Sotheby, Wilkinson, and Hodge's rooms in
+1893, but all attempts to trace Billyng's MS. after the breaking up of
+the collection have been unsuccessful. A copy of the printed text is in
+the British Museum.
+
+Montgomery's reprint of the poem in 1827 was taken from Bateman's
+version, and differs from it only in some very slight corrections in
+spelling. It has been suggested that this reprint was the source of the
+_Earth upon Earth_ Epitaphs which occur, but these were current from the
+sixteenth century on, and, as has been already pointed out (see
+Introduction, pp. xxxvi ff.), the usual form of the Epitaph, even in the
+latest versions, differed from that of the actual poem.
+
+#Page 7.# #MS. Selden Supra 53.# This text omits verse 5, and inverts
+the normal order of verses 4 and 6 (see Table on p. xvii of
+Introduction). The text is written in a neat hand in the left-hand
+column on the back of a spare leaf (fol. 159) at the end of the MS.,
+after Lydgate's _Dance of Macabre_. The right-hand column contains Latin
+scribblings, perhaps by the scribe who re-wrote small portions of _Erthe
+upon Erthe_ (see p. 7, footnotes). A few lines are scribbled in another
+hand upon the front side of the leaf, which is otherwise blank. The back
+of the leaf was evidently unprotected, and is much rubbed and worn. The
+space below Lydgate's last verse and colophon on fol. 158 v^o contains
+two odd stanzas in English in the same metre as Lydgate's poem,
+beginning 'Let se your hand my ladi, dam emperys', in a hand of the late
+fifteenth century, and a French stanza of four lines ('Qui met son cuer
+tout en Deu, Il a son cuer et si a Deu', &c.) in a French hand, perhaps
+as late as 1500. Both of these were quite possibly inserted in the MS.
+later than _Erthe upon Erthe_, the exact date of which is indeterminate,
+but it was probably copied in between 1450 and 1500.
+
+#Page 8.# #MS. Egerton 1995.# This MS. was evidently a Commonplace book.
+Its contents are described by Gairdner, _Collections of a London
+Citizen_ (Camden Society, 1876). The MS. is written throughout in
+fifteenth-century hand, and appears to be the work of one scribe.
+Gairdner thinks the whole collection may be ascribed to William Gregory
+of the Skinners' Company, who was Mayor of London in 1451, and who seems
+to have been the author of part, at least, of the Chronicle of London at
+the end of the MS.
+
+#Page 10.# #MS. Brighton.# Fiedler's account of this MS. is as
+follows:-- 'Noch eine andre Fassung des Gedichtes habe ich mir vor
+einigen Jahren aus einer Handschrift abgeschrieben, die damals im
+Besitze eines Antiquars in Brighton war, über deren weiteren Verbleib
+ich aber nichts ermitteln könnte. Es war eine Pergamenthandschrift,
+folio, von 90 Blättern. Sie enthielt eine lateinische Abhandlung über
+die sieben Sacramente "Oculi Sacerdotis", und auf der ursprünglich frei
+gebliebenen Rückseite des letzten Blattes war von einer Hand des
+fünfzehnten Jahrhunderts das englische Gedicht eingetragen.' (_Mod.
+Lang. Review_, III. iii. 219.)
+
+#Page 11.# #Stratford-on-Avon Inscription.# A full account of this
+inscription has been given in the Introduction, p. xii. The lines
+'Whosoo hym be thowghte', there mentioned as being inscribed beneath
+_Erthe upon Erthe_, are given by Fisher as follows:--
+
+  Whosoo hym be thowght   Inwardly and ofte
+    How hard hyt ys to flett
+  From bede to peyt   From peyt to peyne that neu{er}
+    Schall seys Certen
+  He wold not doo no syn   all þ{is} world to wynne.
+
+The same lines are found on other monumental inscriptions. Weever
+(_Ancient Funeral Monuments_, p. 425) mentions them as occurring in
+sixteenth-century inscriptions in Churches at Saffron Walden and
+Faversham respectively, and Rogers (_Monuments and Monumental
+Inscriptions in Scotland_, ii. 210) quotes them from a tombstone in the
+parish of Dun. The following version is from Bodl. MS. Tanner 407, fol.
+36, v^o (sixteenth century):--
+
+  He that hath thoughte
+  ful in-wardly and ofte
+  how hard it is to flyt
+  fro bedde on to pyt
+  fro pytte on to pyne
+  whiche neuyr schal haue fyne
+  for alle thys world to wynne
+  wold not do a synne.
+
+#Page 16.# #MS. Laud Misc. 23.# This is the only text which is not
+written in metrical lines. The MS. being small, it was not as a rule
+possible to fit one line of the poem into a single line of the page,
+and the run-on lines involved waste of space. The scribe wrote verse 1
+in metrical lines, verses 2 and 3 as if in two long lines, and the
+remainder of the poem in paragraphs, each paragraph coinciding with a
+verse. Each new line or paragraph is indicated by a red capital, and the
+metrical lines are distinguished by pause-marks ([V.], ·, [V], |), and
+by touching up the first letter of the line in red. In vv. 6, 7, and 8,
+the scribe appears to have lost count of the lines, as the three verses
+are written in two paragraphs, and letters in the middle of a line are
+often marked in red. At the top of the first leaf a later hand has
+scribbled the words _haue made me_. A few other such scribbles occur
+elsewhere in the MS.
+
+  [[The first and third "pause-marks" are root sign with and without
+  under-dot.]]
+
+l. 26 (p. 17). _Thi body that was rank and louyd of alle men, is hatyd._
+The reading is inferior to MS. Lambeth, l. 27:
+
+  þan þi bodi þat was rank & undeuout of alle men is bihatid--
+
+and the change led to the placing of the pause (indicated in the MS.)
+after men.
+
+l. 27. _Out of the erthe cam to this erthe his wantyng garnement._ This
+line seems to be a compromise between the readings of MSS. Lamb. and
+Rawl. P.
+
+(_MS. Lamb. 28_)
+
+  Out of þis erþe cam to þis erþe þis wrecchid garnement.
+
+(_MS. Rawl. P. 37_)
+
+  Oute of the erthe cam the erthe wantynge his garnament.
+
+But the rest of the verse follows Lamb, rather than Rawl. P., cf. _ruly,
+raggid and rent_, _hidous turment_, beside Rawl. P. _disgesily ragged
+and to-rent_, _ful grete turment_.
+
+l. 34 has the correct reading _stinke_, as in MSS. Harl. 4486 and Rawl.
+P.; Lamb. repeats _swynk_.
+
+l. 39 (p. 18). _Wolde therfore this erthe on this erthe on this hertly
+thinke_, is superior to the exaggeratedly long line in Lamb. 40, but
+both are inferior to MS. Rawl. P., ll. 53, 54, where the correct rime is
+preserved:
+
+  thinkynge : risynge : rekenynge : kynge.
+
+l. 47. _Lord God that erthe madist & for the erthe suffredist peynys
+ille._ It is difficult to determine what was the original form of this
+line. The readings of the other texts which have the verse are as
+follows:--
+
+(_Harl. 4486, 33_)
+
+  Now Lorde that madyst for erthe & sufferdyst paynes ille.
+
+(_Lamb. 48_)
+
+  O þou Lord that madist þis erþe for þis erþe
+          & suffridist heere peynes ille.
+
+(_Rawl. P. 125-6_).
+
+  Lord God that erthe tokist in erthe And suffredist paynes ful stille.
+
+Possibly MS. Laud has transposed the _and_, and the correct reading
+should be _that erthe madist for the erthe & suffredist paynes ille_, in
+which case Harl. 4486 has merely omitted the first _erthe_, while the
+other two texts have modified the older version.
+
+#Page 24.# #MS. Porkington 10.# _Erthe upon Erthe_ is preceded by the
+two following stanzas:--
+
+  Lo wordly folk{es} thou[gh] þ{is} p{ro}cese of dethe
+  Be not swete, ne synke not i{n} your mynde.
+  Whe{n} age co{m}myþ & schorteth is her brethe,
+  And dethe co{m}myþ, he is not far behynde;
+  The{n} her dyscressio{n} schal wel knov & fynde
+  That to have mynd of deþ it is ful nesseserry,
+  Ffor deth wyl co{m}e; dovtl{es} he wyl not long tarry.
+
+  Of what estate [gh]e be, [gh]ovng or wold,
+  That redyth vppon þ{is} dredful storrye,
+  As in a myrrovr her [gh]e may be-holde
+  The ferful ende of al your joy & glorie;
+  Therfor þ{is} mat{er} redvs vs to yovr memory:--
+  [Gh]e þ{at} syttyþ nowe hye vppon þe whele,
+  Thynke vppo{n} yovr end, & alle schal be we[le].
+
+The MS. is in Lord Harlech's library at Brogyntyn (formerly Porkington)
+near Oswestry, Salop.
+
+#Page 28.# #MS. Balliol 354.# l. 48. _Go to seynt Poulis, & see þer the
+portratowre._ Cf. Stow, _Survey of London_, 1598: 'There was also one
+great cloister on the north side of this church (St. Paul's), environing
+a plot of ground, of old time called Pardon churchyard . . . About this
+cloister was artificially and richly painted the Dance of Machabray, or
+Dance of Death, commonly called the Dance of Paul's; the like whereof
+was painted about St. Innocent's cloister at Paris, in France. The
+metres or poesy of this dance were translated out of French into English
+by John Lidgate, monk of Bury, and with the picture of death leading all
+estates, painted about the cloister, at the special request and in the
+dispence of Jenken Carpenter, in the reign of Henry V.'
+
+_Ibid._ 'John Carpenter, townclerk of London, in the reign of Henry V,
+caused with great expense to be curiously painted upon board, about the
+north cloister of Paule's, a monument of Death leading all estates, with
+the speeches of Death, and answer of every state. This cloister was
+pulled down 1549.'
+
+Cf. Sir T. More, _Works_ (ed. 1557, folio), p. 77: 'We wer never so
+gretly moved by the beholding of the Daunce of Deth pictured in
+Paule's.'
+
+#Page 30.# #Maitland MS.# Omitted by Pinkerton from his printed text of
+the Maitland MS. as 'a silly jingling piece, shewing the vanity of man,
+who is but earth, building upon earth: priding himself in gold which is
+but earth', &c. Pinkerton also knew of 'several pieces of the same kind
+in MSS. of Old English poetry', see Note on MS. Harl. 2253, p. 36. He
+had strong views against the indiscriminate printing of old MSS., and
+was unwilling to sacrifice 'the character of a man of taste to that of
+an antiquary; as of all characters he should the least chuse that of an
+hoarder of ancient dirt'.
+
+#Page 32.# #MS. Cambridge# (Univ. Libr. I. 1. iv. 9). l. 17. The reading
+_slogh_ is supported by Professor Skeat. It is difficult to see what
+meaning could be attached to _flogh_, as in Heuser's text.
+
+#Page 33.# l. 48. _As wroth as the wynde_ was a favourite mediaeval
+proverb. Cf. _Sir Gawayne and the Grene Knight_, l. 319: he wex as wroth
+as wynde; _Piers Plowman_, C. iv. 486: As wroth as the wynd wex Mede
+ther-after; _Richard the Redeles_, iii. 153: thei woll be wroth as the
+wynde.
+
+
+ANALOGUES.
+
+It may be of interest to note here some other instances of the use of
+the theme _Earth upon Earth_, not immediately connected with the poem
+under discussion.
+
+An early instance of the phrase occurs in a Poem on the Death of Edward
+IV, written by Skelton probably soon after the event (9th April, 1483),
+beginning _Miseremini mei ye that ben my ffryndys_. Verse 2 runs as
+follows:--
+
+  I slepe now in molde, as it is naturall
+    That erth vnto erth hath his reuerture:
+  What ordeyned God to be terestyall,
+    Without recours to the erth of nature?
+    Who to lyue euer may himselfe assure?
+  What is it to trust on mutabilyte,
+    Sith that in this world nothing may indure?
+  For now am I gone, that late was in prosperyte:
+  To presume thervppon, it is but a vanyte,
+    Not certayne, but as a chery fayre full of wo:
+  Reygned not I of late in greate felycite?
+    _Et, ecce, nunc in pulvere dormio!_
+
+  (_Poetical Works of Skelton_, ed. Dyce, I. i; London, 1843).
+
+The poem was inserted amongst the imprinted works of Lydgate, who could
+not have been alive in 1483, cf. MS. Harl. 4011, fol. 169, v^o, where it
+occurs among Lydgate's works.
+
+In John Taylor's _Trauels of Twelve-Pence_, 1630 folio (Spenser Soc.
+reprint, p. 82), this verse occurs:--
+
+  Far[2] though from _Earth_ man hath originall,
+  And to the _Earth_, from whence he came doth fall,
+  Though he be Earth, & can claime nought but earth,
+  (As the fraile portion due vnto his birth)
+  Yet many thousands that the earth doth breed,
+  Haue no place (certain) where to lodge or feed.
+
+The following lines occur in a small volume called _The Compleat
+Bell-Man, being a Pattern for all sorts of People to take notice of the
+most remarkable Times and Dayes in the Year_, by H. Crouch (seventeenth
+century). The book contains thirty-nine verses, for Saint-Days and
+Anniversaries chiefly, a few being on more general subjects. The last
+verse, No. 39, _Upon the day of Doom_, runs as follows:--
+
+  When Earth of Earth shall turn to Earth
+  That was but Earth even from its Birth,
+  Then Earth from Earth shall rise again
+  To endlesse joy, or endlesse pain,
+  Let Earth then serve and please his Maker
+  That Earth of Heaven may be pertaker.
+
+The following is an Epitaph on Roger Earth of Dinton, Wilts, died 1634
+(see E. R. Suffling, _Epitaphia_, p. 81):--
+
+  From Earth wee came, to Earth wee must returne,
+  Witness this EARTH that Lyes within this VRNE.
+  Begott by EARTH: Borne also of Earth's WOMBE,
+  74 yeares lived EARTH, now Earth's his TOMBE.
+  In Earth EARTH'S Body Lyes Vnder this STONE,
+  But from this Earth to Heauen EARTH'S soule is gone.
+
+Another later epitaph is quoted by Suffling, p. 339, from Loughter,
+Glamorganshire, without name or date:--
+
+  O Earth! O Earth observe this well,
+    That Earth to Earth must go to dwell,
+  That Earth to Earth must close remain
+    Till Earth for Earth shall come again.
+
+    [Footnote 1: But this is not in agreement with Bateman's opinion
+    as to the age of the original parchment roll (1400-1430), see
+    Introduction, p. xi.]
+
+    [Footnote 2: ? for.]
+
+
+
+
+APPENDIX I.
+
+
+The three following _Erthe_ poems, in Latin, French, and English
+respectively, were discovered too late for inclusion in the text. They
+represent renderings of the same poem in the three languages, and are
+preserved on the back of a Roll[1] in the Public Record Office,
+containing a copy of the Ordinances of the fifth year of Edward II
+(of which other copies exist in the British Museum, the Record Office,
+and the Treasury at Canterbury). The poems in question are written on
+the back of the Roll, towards the end, the Latin and French in parallel
+columns, and the English below, five verses under the Latin, and four
+under the French. They are preceded by a number of Latin recipes in
+another hand, and a few in French follow. The handwriting of the poems
+is smaller and neater than that of the Ordinances, or the Latin recipes,
+but was ascribed by Hunter[2] to the time of Edward II, and may perhaps
+be assigned to the fourteenth century. The French is fourteenth-century
+Anglo-French, and the texts probably belong to that century, though this
+copy of them may not have been made until after 1400.
+
+A nineteenth-century transcript of the poems exists in the British
+Museum, Addit. MS. 25478 (fol. 1-3), described in the Catalogue as
+containing 'Transcripts of miscellaneous English poetry, with a few
+Latin pieces, chiefly derived from MS. sources: xivth to xixth century'.
+The binding is marked 'Collectanea Hunteriana', and the MS. was acquired
+with various others of the Hunter collection in 1863. The handwriting
+varies, and these three poems are not in Hunter's own hand. The
+transcript is headed 'Copy of a Poem in Latin, French, and English,
+which is written in a hand of the reign of Edward II, on the dorse of a
+Roll which contains a copy of the ordinances of the fifth year of Edward
+II, which are printed in the Statutes of the Realm I. 157-168'. The text
+given below has been collated with this transcript, and variant readings
+in the latter given in the footnotes under the name Hunter (H.).
+
+The British Museum transcript was discovered by Miss Helen Sandison of
+Bryn Mawr, U.S.A., who kindly acquainted me with her discovery, and was
+of great assistance in the search for the original Roll, which was
+eventually found in a bundle awaiting rearrangement at the Record
+Office. A large stain on the original text has rendered a considerable
+portion of the Latin and a few words in the French almost illegible, and
+Hunter's transcript has left blanks at these points. Mr. S. C. Ratcliff,
+of the Record Office, has given me much kind and courteous assistance in
+deciphering the missing words, thanks to which I have been able to fill
+up all the gaps, except that in verse 8, l. 3 of the Latin. Hunter's
+text at this point runs as follows:--
+
+  4. l. 4.  Sic t'ra put^{e}dinis . . . t're venas.
+
+  6. l. 4.  Terra t'rã faciat flere ieu . . . . .
+
+  7.        De t'ra resurg'e t'ra deb . . . . . . . .
+            Et quod t'ra meruit . . . . . . . .
+            Hic dum terra vix'it . . . . . . .
+            Ut in t'ra valeat . . . . . dere
+
+  8.        Adu'sus t'rigenas . . . . terra stabit
+            Et t'ra int'roga . . . . . . . . abit
+            Terra finem cap . . . . . . . gabit
+            Quod terra promiserat t'ra . . . urgabit.
+
+and in the French:--
+
+  9. l. 2.  Sayt cydaunt a la tere qe tere soit sauve
+            . . . . . . . eyne de tere ou tere est benure.
+
+
+RECORD OFFICE ROLL (Ex^r. K. R. Parl. Proc., Bdle. 1).
