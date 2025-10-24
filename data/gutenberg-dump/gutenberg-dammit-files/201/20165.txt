@@ -1,0 +1,3984 @@
+Henry Frowde, M.A.
+Publisher to the University of Oxford
+London, Edinburgh, New York
+Toronto and Melbourne
+
+THE THEORY AND PRACTICE OF PERSPECTIVE
+
+by
+
+G. A. STOREY, A.R.A.
+
+Teacher of Perspective at the Royal Academy
+
+
+
+
+
+
+
+[Illustration: 'QUÎ FIT?']
+
+
+Oxford
+At the Clarendon Press
+1910
+
+Oxford
+Printed at the Clarendon Press
+by Horace Hart, M.A.
+Printer to the University
+
+
+
+
+
+                   DEDICATED
+                      to
+
+             SIR EDWARD J. POYNTER
+                    Baronet
+
+         President of the Royal Academy
+
+             in Token of Friendship
+                   and Regard
+
+
+
+
+PREFACE
+
+
+It is much easier to understand and remember a thing when a reason is
+given for it, than when we are merely shown how to do it without being
+told why it is so done; for in the latter case, instead of being
+assisted by reason, our real help in all study, we have to rely upon
+memory or our power of imitation, and to do simply as we are told
+without thinking about it. The consequence is that at the very first
+difficulty we are left to flounder about in the dark, or to remain
+inactive till the master comes to our assistance.
+
+Now in this book it is proposed to enlist the reasoning faculty from the
+very first: to let one problem grow out of another and to be dependent
+on the foregoing, as in geometry, and so to explain each thing we do
+that there shall be no doubt in the mind as to the correctness of the
+proceeding. The student will thus gain the power of finding out any new
+problem for himself, and will therefore acquire a true knowledge of
+perspective.
+
+
+
+
+CONTENTS
+
+
+BOOK I
+                                                            Page
+THE NECESSITY OF THE STUDY OF PERSPECTIVE TO PAINTERS,
+    SCULPTORS, AND ARCHITECTS                                  1
+WHAT IS PERSPECTIVE?                                           6
+THE THEORY OF PERSPECTIVE:
+       I. Definitions                                         13
+      II. The Point of Sight, the Horizon, and the Point
+           of Distance.                                       15
+     III. Point of Distance                                   16
+      IV. Perspective of a Point, Visual Rays, &c.            20
+       V. Trace and Projection                                21
+      VI. Scientific Definition of Perspective                22
+RULES:
+     VII. The Rules and Conditions of Perspective             24
+    VIII. A Table or Index of the Rules of Perspective        40
+
+BOOK II
+
+THE PRACTICE OF PERSPECTIVE:
+      IX. The Square in Parallel Perspective                  42
+       X. The Diagonal                                        43
+      XI. The Square                                          43
+     XII. Geometrical and Perspective Figures Contrasted      46
+    XIII. Of Certain Terms made use of in Perspective         48
+     XIV. How to Measure Vanishing or Receding Lines          49
+      XV. How to Place Squares in Given Positions             50
+     XVI. How to Draw Pavements, &c.                          51
+    XVII. Of Squares placed Vertically and at Different
+              Heights, or the Cube in Parallel Perspective    53
+   XVIII. The Transposed Distance                             53
+     XIX. The Front View of the Square and of the
+              Proportions of Figures at Different Heights     54
+      XX. Of Pictures that are Painted according to the
+              Position they are to Occupy                     59
+     XXI. Interiors                                           62
+    XXII. The Square at an Angle of 45°                       64
+   XXIII. The Cube at an Angle of 45°                         65
+    XXIV. Pavements Drawn by Means of Squares at 45°          66
+     XXV. The Perspective Vanishing Scale                     68
+    XXVI. The Vanishing Scale can be Drawn to any Point
+              on the Horizon                                  69
+   XXVII. Application of Vanishing Scales to Drawing Figures  71
+  XXVIII. How to Determine the Heights of Figures
+              on a Level Plane                                71
+    XXIX. The Horizon above the Figures                       72
+     XXX. Landscape Perspective                               74
+    XXXI. Figures of Different Heights. The Chessboard        74
+   XXXII. Application of the Vanishing Scale to Drawing
+              Figures at an Angle when their Vanishing
+              Points are Inaccessible or Outside the Picture  77
+  XXXIII. The Reduced Distance. How to Proceed when the
+              Point of Distance is Inaccessible               77
+   XXXIV. How to Draw a Long Passage or Cloister by Means
+              of the Reduced Distance                         78
+    XXXV. How to Form a Vanishing Scale that shall give
+              the Height, Depth, and Distance of any Object
+              in the Picture                                  79
+   XXXVI. Measuring Scale on Ground                           81
+  XXXVII. Application of the Reduced Distance and the
+              Vanishing Scale to Drawing a Lighthouse, &c.    84
+ XXXVIII. How to Measure Long Distances such as a Mile
+              or Upwards                                      85
+   XXXIX. Further Illustration of Long Distances and
+              Extended Views.                                 87
+      XL. How to Ascertain the Relative Heights of Figures
+              on an Inclined Plane                            88
+     XLI. How to Find the Distance of a Given Figure
+              or Point from the Base Line                     89
+    XLII. How to Measure the Height of Figures
+              on Uneven Ground                                90
+   XLIII. Further Illustration of the Size of Figures
+              at Different Distances and on Uneven Ground     91
+    XLIV. Figures on a Descending Plane                       92
+     XLV. Further Illustration of the Descending Plane        95
+    XLVI. Further Illustration of Uneven Ground               95
+   XLVII. The Picture Standing on the Ground                  96
+  XLVIII. The Picture on a Height                             97
+
+BOOK III
+
+    XLIX. Angular Perspective                                 98
+       L. How to put a Given Point into Perspective           99
+      LI. A Perspective Point being given, Find its
+              Position on the Geometrical Plane              100
+     LII. How to put a Given Line into Perspective           101
+    LIII. To Find the Length of a Given Perspective Line     102
+     LIV. To Find these Points when the Distance-Point
+              is Inaccessible                                103
+      LV. How to put a Given Triangle or other
+              Rectilineal Figure into Perspective            104
+     LVI. How to put a Given Square into Angular
+              Perspective                                    105
+    LVII. Of Measuring Points                                106
+   LVIII. How to Divide any Given Straight Line into Equal
+              or Proportionate Parts                         107
+     LIX. How to Divide a Diagonal Vanishing Line into any
+              Number of Equal or Proportional Parts          107
+      LX. Further Use of the Measuring Point O               110
+     LXI. Further Use of the Measuring Point O               110
+    LXII. Another Method of Angular Perspective, being that
+              Adopted in our Art Schools                     112
+   LXIII. Two Methods of Angular Perspective in one Figure   115
+    LXIV. To Draw a Cube, the Points being Given             115
+     LXV. Amplification of the Cube Applied to Drawing
+              a Cottage                                      116
+    LXVI. How to Draw an Interior at an Angle                117
+   LXVII. How to Correct Distorted Perspective by Doubling
+              the Line of Distance                           118
+  LXVIII. How to Draw a Cube on a Given Square, using only
+              One Vanishing Point                            119
+    LXIX. A Courtyard or Cloister Drawn with One Vanishing
+              Point                                          120
+     LXX. How to Draw Lines which shall Meet at a Distant
+              Point, by Means of Diagonals                   121
+    LXXI. How to Divide a Square Placed at an Angle into
+              a Given Number of Small Squares                122
+   LXXII. Further Example of how to Divide a Given Oblique
+              Square into a Given Number of Equal Squares,
+              say Twenty-five                                122
+  LXXIII. Of Parallels and Diagonals                         124
+   LXXIV. The Square, the Oblong, and their Diagonals        125
+    LXXV. Showing the Use of the Square and Diagonals
+              in Drawing Doorways, Windows, and other
+              Architectural Features                         126
+   LXXVI. How to Measure Depths by Diagonals                 127
+  LXXVII. How to Measure Distances by the Square
+              and Diagonal                                   128
+ LXXVIII. How by Means of the Square and Diagonal we can
+              Determine the Position of Points in Space      129
+   LXXIX. Perspective of a Point Placed in any Position
+              within the Square                              131
+    LXXX. Perspective of a Square Placed at an Angle.
+              New Method                                     133
+   LXXXI. On a Given Line Placed at an Angle to the Base
+              Draw a Square in Angular Perspective, the
+              Point of Sight, and Distance, being given      134
+  LXXXII. How to Draw Solid Figures at any Angle
+              by the New Method                              135
+ LXXXIII. Points in Space                                    137
+  LXXXIV. The Square and Diagonal Applied to Cubes
+              and Solids Drawn Therein                       138
+   LXXXV. To Draw an Oblique Square in Another Oblique
+              Square without Using Vanishing-points          139
+  LXXXVI. Showing how a Pedestal can be Drawn
+              by the New Method                              141
+ LXXXVII. Scale on Each Side of the Picture                  143
+LXXXVIII. The Circle                                         145
+  LXXXIX. The Circle in Perspective a True Ellipse           145
+      XC. Further Illustration of the Ellipse                146
+     XCI. How to Draw a Circle in Perspective
+              Without a Geometrical Plan                     148
+    XCII. How to Draw a Circle in Angular Perspective        151
+   XCIII. How to Draw a Circle in Perspective more
+              Correctly, by Using Sixteen Guiding Points     152
+    XCIV. How to Divide a Perspective Circle
+              into any Number of Equal Parts                 153
+     XCV. How to Draw Concentric Circles                     154
+    XCVI. The Angle of the Diameter of the Circle
+              in Angular and Parallel Perspective            156
+   XCVII. How to Correct Disproportion in the Width
+              of Columns                                     157
+  XCVIII. How to Draw a Circle over a Circle or a Cylinder   158
+    XCIX. To Draw a Circle Below a Given Circle              159
+       C. Application of Previous Problem                    160
+      CI. Doric Columns                                      161
+     CII. To Draw Semicircles Standing upon a Circle
+              at any Angle                                   162
+    CIII. A Dome Standing on a Cylinder                      163
+     CIV. Section of a Dome or Niche                         164
+      CV. A Dome                                             167
+     CVI. How to Draw Columns Standing in a Circle           169
+    CVII. Columns and Capitals                               170
+   CVIII. Method of Perspective Employed by Architects       170
+     CIX. The Octagon                                        172
+      CX. How to Draw the Octagon in Angular Perspective     173
+     CXI. How to Draw an Octagonal Figure in Angular
+              Perspective                                    174
+    CXII. How to Draw Concentric Octagons, with
+              Illustration of a Well                         174
+   CXIII. A Pavement Composed of Octagons and Small Squares  176
+    CXIV. The Hexagon                                        177
+     CXV. A Pavement Composed of Hexagonal Tiles             178
+    CXVI. A Pavement of Hexagonal Tiles in Angular
+              Perspective                                    181
+   CXVII. Further Illustration of the Hexagon                182
+  CXVIII. Another View of the Hexagon in Angular
+              Perspective                                    183
+    CXIX. Application of the Hexagon to Drawing
+              a Kiosk                                        185
+     CXX. The Pentagon                                       186
+    CXXI. The Pyramid                                        189
+   CXXII. The Great Pyramid                                  191
+  CXXIII. The Pyramid in Angular Perspective                 193
+   CXXIV. To Divide the Sides of the Pyramid Horizontally    193
+    CXXV. Of Roofs                                           195
+   CXXVI. Of Arches, Arcades, Bridges, &c.                   198
+  CXXVII. Outline of an Arcade with Semicircular Arches      200
+ CXXVIII. Semicircular Arches on a Retreating Plane          201
+   CXXIX. An Arcade in Angular Perspective                   202
+    CXXX. A Vaulted Ceiling                                  203
+   CXXXI. A Cloister, from a Photograph                      206
+  CXXXII. The Low or Elliptical Arch                         207
+ CXXXIII. Opening or Arched Window in a Vault                208
+  CXXXIV. Stairs, Steps, &c.                                 209
+   CXXXV. Steps, Front View                                  210
+  CXXXVI. Square Steps                                       211
+ CXXXVII. To Divide an Inclined Plane into Equal
+              Parts--such as a Ladder Placed against a Wall  212
+CXXXVIII. Steps and the Inclined Plane                       213
+  CXXXIX. Steps in Angular Perspective                       214
+     CXL. A Step Ladder at an Angle                          216
+    CXLI. Square Steps Placed over each other                217
+   CXLII. Steps and a Double Cross Drawn by Means of
+              Diagonals and one Vanishing Point              218
+  CXLIII. A Staircase Leading to a Gallery                   221
+   CXLIV. Winding Stairs in a Square Shaft                   222
+    CXLV. Winding Stairs in a Cylindrical Shaft              225
+   CXLVI. Of the Cylindrical Picture or Diorama              227
+
+BOOK IV
+
+  CXLVII. The Perspective of Cast Shadows                    229
+ CXLVIII. The Two Kinds of Shadows                           230
+   CXLIX. Shadows Cast by the Sun                            232
+      CL. The Sun in the Same Plane as the Picture           233
+     CLI. The Sun Behind the Picture                         234
+    CLII. Sun Behind the Picture, Shadows Thrown on a Wall   238
+   CLIII. Sun Behind the Picture Throwing Shadow on
+              an Inclined Plane                              240
+    CLIV. The Sun in Front of the Picture                    241
+     CLV. The Shadow of an Inclined Plane                    244
+    CLVI. Shadow on a Roof or Inclined Plane                 245
+   CLVII. To Find the Shadow of a Projection or Balcony
+              on a Wall                                      246
+  CLVIII. Shadow on a Retreating Wall, Sun in Front          247
+    CLIX. Shadow of an Arch, Sun in Front                    249
+     CLX. Shadow in a Niche or Recess                        250
+    CLXI. Shadow in an Arched Doorway                        251
+   CLXII. Shadows Produced by Artificial Light               252
+  CLXIII. Some Observations on Real Light and Shade          253
+   CLXIV. Reflection                                         257
+    CLXV. Angles of Reflection                               259
+   CLXVI. Reflections of Objects at Different Distances      260
+  CLXVII. Reflection in a Looking-glass                      262
+ CLXVIII. The Mirror at an Angle                             264
+   CLXIX. The Upright Mirror at an Angle of 45° to the Wall  266
+    CLXX. Mental Perspective                                 269
+
+
+
+
+BOOK FIRST
+
+THE NECESSITY OF THE STUDY OF PERSPECTIVE
+TO PAINTERS, SCULPTORS, AND ARCHITECTS
+
+
+Leonardo da Vinci tells us in his celebrated _Treatise on Painting_ that
+the young artist should first of all learn perspective, that is to say,
+he should first of all learn that he has to depict on a flat surface
+objects which are in relief or distant one from the other; for this is
+the simple art of painting. Objects appear smaller at a distance than
+near to us, so by drawing them thus we give depth to our canvas. The
+outline of a ball is a mere flat circle, but with proper shading we make
+it appear round, and this is the perspective of light and shade.
+
+'The next thing to be considered is the effect of the atmosphere and
+light. If two figures are in the same coloured dress, and are standing
+one behind the other, then they should be of slightly different tone,
+so as to separate them. And in like manner, according to the distance of
+the mountains in a landscape and the greater or less density of the air,
+so do we depict space between them, not only making them smaller in
+outline, but less distinct.'[1]
+
+  [Footnote 1: Leonardo da Vinci's _Treatise on Painting_.]
+
+Sir Edwin Landseer used to say that in looking at a figure in a picture
+he liked to feel that he could walk round it, and this exactly expresses
+the impression that the true art of painting should make upon the
+spectator.
+
+There is another observation of Leonardo's that it is well I should here
+transcribe; he says: 'Many are desirous of learning to draw, and are
+very fond of it, who are notwithstanding void of a proper disposition
+for it. This may be known by their want of perseverance; like boys who
+draw everything in a hurry, never finishing or shadowing.' This shows
+they do not care for their work, and all instruction is thrown away upon
+them. At the present time there is too much of this 'everything in a
+hurry', and beginning in this way leads only to failure and
+disappointment. These observations apply equally to perspective as to
+drawing and painting.
+
+Unfortunately, this study is too often neglected by our painters, some
+of them even complacently confessing their ignorance of it; while the
+ordinary student either turns from it with distaste, or only endures
+going through it with a view to passing an examination, little thinking
+of what value it will be to him in working out his pictures. Whether the
+manner of teaching perspective is the cause of this dislike for it,
+I cannot say; but certainly most of our English books on the subject are
+anything but attractive.
+
+All the great masters of painting have also been masters of perspective,
+for they knew that without it, it would be impossible to carry out their
+grand compositions. In many cases they were even inspired by it in
+choosing their subjects. When one looks at those sunny interiors, those
+corridors and courtyards by De Hooghe, with their figures far off and
+near, one feels that their charm consists greatly in their perspective,
+as well as in their light and tone and colour. Or if we study those
+Venetian masterpieces by Paul Veronese, Titian, Tintoretto, and others,
+we become convinced that it was through their knowledge of perspective
+that they gave such space and grandeur to their canvases.
+
+I need not name all the great artists who have shown their interest and
+delight in this study, both by writing about it and practising it, such
+as Albert Dürer and others, but I cannot leave out our own Turner, who
+was one of the greatest masters in this respect that ever lived; though
+in his case we can only judge of the results of his knowledge as shown
+in his pictures, for although he was Professor of Perspective at the
+Royal Academy in 1807--over a hundred years ago--and took great pains
+with the diagrams he prepared to illustrate his lectures, they seemed to
+the students to be full of confusion and obscurity; nor am I aware that
+any record of them remains, although they must have contained some
+valuable teaching, had their author possessed the art of conveying it.
+
+However, we are here chiefly concerned with the necessity of this study,
+and of the necessity of starting our work with it.
+
+Before undertaking a large composition of figures, such as the
+'Wedding-feast at Cana', by Paul Veronese, or 'The School of Athens',
+by Raphael, the artist should set out his floors, his walls, his
+colonnades, his balconies, his steps, &c., so that he may know where to
+place his personages, and to measure their different sizes according to
+their distances; indeed, he must make his stage and his scenery before
+he introduces his actors. He can then proceed with his composition,
+arrange his groups and the accessories with ease, and above all with
+correctness. But I have noticed that some of our cleverest painters will
+arrange their figures to please the eye, and when fairly advanced with
+their work will call in an expert, to (as they call it) put in their
+perspective for them, but as it does not form part of their original
+composition, it involves all sorts of difficulties and vexatious
+alterings and rubbings out, and even then is not always satisfactory.
+For the expert may not be an artist, nor in sympathy with the picture,
+hence there will be a want of unity in it; whereas the whole thing, to
+be in harmony, should be the conception of one mind, and the perspective
+as much a part of the composition as the figures.
+
+If a ceiling has to be painted with figures floating or flying in the
+air, or sitting high above us, then our perspective must take a
+different form, and the point of sight will be above our heads instead
+of on the horizon; nor can these difficulties be overcome without an
+adequate knowledge of the science, which will enable us to work out for
+ourselves any new problems of this kind that we may have to solve.
+
+Then again, with a view to giving different effects or impressions in
+this decorative work, we must know where to place the horizon and the
+points of sight, for several of the latter are sometimes required when
+dealing with large surfaces such as the painting of walls, or stage
+scenery, or panoramas depicted on a cylindrical canvas and viewed from
+the centre thereof, where a fresh point of sight is required at every
+twelve or sixteen feet.
+
+Without a true knowledge of perspective, none of these things can be
+done. The artist should study them in the great compositions of the
+masters, by analysing their pictures and seeing how and for what reasons
+they applied their knowledge. Rubens put low horizons to most of his
+large figure-subjects, as in 'The Descent from the Cross', which not
+only gave grandeur to his designs, but, seeing they were to be placed
+above the eye, gave a more natural appearance to his figures. The
+Venetians often put the horizon almost on a level with the base of the
+picture or edge of the frame, and sometimes even below it; as in 'The
+Family of Darius at the Feet of Alexander', by Paul Veronese, and 'The
+Origin of the "Via Lactea"', by Tintoretto, both in our National
+Gallery. But in order to do all these things, the artist in designing
+his work must have the knowledge of perspective at his fingers' ends,
+and only the details, which are often tedious, should he leave to an
+assistant to work out for him.
+
+We must remember that the line of the horizon should be as nearly as
+possible on a level with the eye, as it is in nature; and yet one of the
+commonest mistakes in our exhibitions is the bad placing of this line.
+We see dozens of examples of it, where in full-length portraits and
+other large pictures intended to be seen from below, the horizon is
+placed high up in the canvas instead of low down; the consequence is
+that compositions so treated not only lose in grandeur and truth, but
+appear to be toppling over, or give the impression of smallness rather
+than bigness. Indeed, they look like small pictures enlarged, which is a
+very different thing from a large design. So that, in order to see them
+properly, we should mount a ladder to get upon a level with their
+horizon line (see Fig. 66, double-page illustration).
+
+We have here spoken in a general way of the importance of this study to
+painters, but we shall see that it is of almost equal importance to the
+sculptor and the architect.
+
+A sculptor student at the Academy, who was making his drawings rather
+carelessly, asked me of what use perspective was to a sculptor. 'In the
+first place,' I said, 'to reason out apparently difficult problems, and
+to find how easy they become, will improve your mind; and in the second,
+if you have to do monumental work, it will teach you the exact size to
+make your figures according to the height they are to be placed, and
+also the boldness with which they should be treated to give them their
+full effect.' He at once acknowledged that I was right, proved himself
+an efficient pupil, and took much interest in his work.
+
+I cannot help thinking that the reason our public monuments so often
+fail to impress us with any sense of grandeur is in a great measure
+owing to the neglect of the scientific study of perspective. As an
+illustration of what I mean, let the student look at a good engraving or
+photograph of the Arch of Constantine at Rome, or the Tombs of the
+Medici, by Michelangelo, in the sacristy of San Lorenzo at Florence. And
+then, for an example of a mistake in the placing of a colossal figure,
+let him turn to the Tomb of Julius II in San Pietro in Vinculis, Rome,
+and he will see that the figure of Moses, so grand in itself, not only
+loses much of its dignity by being placed on the ground instead of in
+the niche above it, but throws all the other figures out of proportion
+or harmony, and was quite contrary to Michelangelo's intention. Indeed,
+this tomb, which was to have been the finest thing of its kind ever
+done, was really the tragedy of the great sculptor's life.
+
+The same remarks apply in a great measure to the architect as to the
+sculptor. The old builders knew the value of a knowledge of perspective,
+and, as in the case of Serlio, Vignola, and others, prefaced their
+treatises on architecture with chapters on geometry and perspective. For
+it showed them how to give proper proportions to their buildings and the
+details thereof; how to give height and importance both to the interior
+and exterior; also to give the right sizes of windows, doorways,
+columns, vaults, and other parts, and the various heights they should
+make their towers, walls, arches, roofs, and so forth. One of the most
+beautiful examples of the application of this knowledge to architecture
+is the Campanile of the Cathedral, at Florence, built by Giotto and
+Taddeo Gaddi, who were painters as well as architects. Here it will be
+seen that the height of the windows is increased as they are placed
+higher up in the building, and the top windows or openings into the
+belfry are about six times the size of those in the lower story.
+
+
+
+
+WHAT IS PERSPECTIVE?
+
+
+  [Illustration: Fig. 1.]
+
+Perspective is a subtle form of geometry; it represents figures and
+objects not as they are but as we see them in space, whereas geometry
+represents figures not as we see them but as they are. When we have a
+front view of a figure such as a square, its perspective and geometrical
+appearance is the same, and we see it as it really is, that is, with all
+its sides equal and all its angles right angles, the perspective only
+varying in size according to the distance we are from it; but if we
+place that square flat on the table and look at it sideways or at an
+angle, then we become conscious of certain changes in its form--the side
+farthest from us appears shorter than that near to us, and all the
+angles are different. Thus A (Fig. 2) is a geometrical square and B is
+the same square seen in perspective.
+
+  [Illustration: Fig. 2.]
+
+  [Illustration: Fig. 3.]
+
+The science of perspective gives the dimensions of objects seen in space
+as they appear to the eye of the spectator, just as a perfect tracing of
+those objects on a sheet of glass placed vertically between him and them
+would do; indeed its very name is derived from _perspicere_, to see
+through. But as no tracing done by hand could possibly be mathematically
+correct, the mathematician teaches us how by certain points and
+measurements we may yet give a perfect image of them. These images are
+called projections, but the artist calls them pictures. In this sketch
+_K_ is the vertical transparent plane or picture, _O_ is a cube placed
+on one side of it. The young student is the spectator on the other side
+of it, the dotted lines drawn from the corners of the cube to the eye of
+the spectator are the visual rays, and the points on the transparent
+picture plane where these visual rays pass through it indicate the
+perspective position of those points on the picture. To find these
+points is the main object or duty of linear perspective.
+
+Perspective up to a certain point is a pure science, not depending upon
+the accidents of vision, but upon the exact laws of reasoning. Nor is it
+to be considered as only pertaining to the craft of the painter and
+draughtsman. It has an intimate connexion with our mental perceptions
+and with the ideas that are impressed upon the brain by the appearance
+of all that surrounds us. If we saw everything as depicted by plane
+geometry, that is, as a map, we should have no difference of view, no
+variety of ideas, and we should live in a world of unbearable monotony;
+but as we see everything in perspective, which is infinite in its
+variety of aspect, our minds are subjected to countless phases of
+thought, making the world around us constantly interesting, so it is
+devised that we shall see the infinite wherever we turn, and marvel at
+it, and delight in it, although perhaps in many cases unconsciously.
+
+  [Illustration: Fig. 4.]
+
+  [Illustration: Fig. 5.]
+
+In perspective, as in geometry, we deal with parallels, squares,
+triangles, cubes, circles, &c.; but in perspective the same figure takes
+an endless variety of forms, whereas in geometry it has but one. Here
+are three equal geometrical squares: they are all alike. Here are three
+equal perspective squares, but all varied in form; and the same figure
+changes in aspect as often as we view it from a different position.
+A walk round the dining-room table will exemplify this.
+
+It is in proving that, notwithstanding this difference of appearance,
+the figures do represent the same form, that much of our work consists;
+and for those who care to exercise their reasoning powers it becomes not
+only a sure means of knowledge, but a study of the greatest interest.
+
+Perspective is said to have been formed into a science about the
+fifteenth century. Among the names mentioned by the unknown but pleasant
+author of _The Practice of Perspective_, written by a Jesuit of Paris in
+the eighteenth century, we find Albert Dürer, who has left us some rules
+and principles in the fourth book of his _Geometry_; Jean Cousin, who
+has an express treatise on the art wherein are many valuable things;
+also Vignola, who altered the plans of St. Peter's left by Michelangelo;
+Serlio, whose treatise is one of the best I have seen of these early
+writers; Du Cerceau, Serigati, Solomon de Cause, Marolois, Vredemont;
+Guidus Ubaldus, who first introduced foreshortening; the Sieur de
+Vaulizard, the Sieur Dufarges, Joshua Kirby, for whose _Method of
+Perspective made Easy_ (?) Hogarth drew the well-known frontispiece; and
+lastly, the above-named _Practice of Perspective_ by a Jesuit of Paris,
+which is very clear and excellent as far as it goes, and was the book
+used by Sir Joshua Reynolds.[2] But nearly all these authors treat
+chiefly of parallel perspective, which they do with clearness and
+simplicity, and also mathematically, as shown in the short treatise
+in Latin by Christian Wolff, but they scarcely touch upon the more
+difficult problems of angular and oblique perspective. Of modern
+books, those to which I am most indebted are the _Traité Pratique
+de Perspective_ of M. A. Cassagne (Paris, 1873), which is thoroughly
+artistic, and full of pictorial examples admirably done; and to
+M. Henriet's _Cours Rational de Dessin_. There are many other foreign
+books of excellence, notably M. Thibault's _Perspective_, and some
+German and Swiss books, and yet, notwithstanding this imposing array of
+authors, I venture to say that many new features and original problems
+are presented in this book, whilst the old ones are not neglected. As,
+for instance, How to draw figures at an angle without vanishing points
+(see p. 141, Fig. 162, &c.), a new method of angular perspective which
+dispenses with the cumbersome setting out usually adopted, and enables
+us to draw figures at any angle without vanishing lines, &c., and is
+almost, if not quite, as simple as parallel perspective (see p. 133,
+Fig. 150, &c.). How to measure distances by the square and diagonal, and
+to draw interiors thereby (p. 128, Fig. 144). How to explain the theory
+of perspective by ocular demonstration, using a vertical sheet of glass
+with strings, placed on a drawing-board, which I have found of the
+greatest use (see p. 29, Fig. 29). Then again, I show how all our
+perspective can be done inside the picture; that we can measure any
+distance into the picture from a foot to a mile or twenty miles (see p.
+86, Fig. 94); how we can draw the Great Pyramid, which stands on
+thirteen acres of ground, by putting it 1,600 feet off (Fig. 224), &c.,
+&c. And while preserving the mathematical science, so that all our
+operations can be proved to be correct, my chief aim has been to make it
+easy of application to our work and consequently useful to the artist.
+
+  [Footnote 2: There is another book called _The Jesuit's Perspective_
+  which I have not yet seen, but which I hear is a fine work.]
+
+The Egyptians do not appear to have made any use of linear perspective.
+Perhaps it was considered out of character with their particular kind of
+decoration, which is to be looked upon as picture writing rather than
+pictorial art; a table, for instance, would be represented like a
+ground-plan and the objects upon it in elevation or standing up. A row
+of chariots with their horses and drivers side by side were placed one
+over the other, and although the Egyptians had no doubt a reason for
+this kind of representation, for they were grand artists, it seems to us
+very primitive; and indeed quite young beginners who have never drawn
+from real objects have a tendency to do very much the same thing as this
+ancient people did, or even to emulate the mathematician and represent
+things not as they appear but as they are, and will make the top of a
+table an almost upright square and the objects upon it as if they would
+fall off.
+
+No doubt the Greeks had correct notions of perspective, for the
+paintings on vases, and at Pompeii and Herculaneum, which were either by
+Greek artists or copied from Greek pictures, show some knowledge, though
+not complete knowledge, of this science. Indeed, it is difficult to
+conceive of any great artist making his perspective very wrong, for if
+he can draw the human figure as the Greeks did, surely he can draw an
+angle.
+
+The Japanese, who are great observers of nature, seem to have got at
+their perspective by copying what they saw, and, although they are not
+quite correct in a few things, they convey the idea of distance and make
+their horizontal planes look level, which are two important things in
+perspective. Some of their landscapes are beautiful; their trees,
+flowers, and foliage exquisitely drawn and arranged with the greatest
+taste; whilst there is a character and go about their figures and birds,
+&c., that can hardly be surpassed. All their pictures are lively and
+intelligent and appear to be executed with ease, which shows their
+authors to be complete masters of their craft.
+
+The same may be said of the Chinese, although their perspective is more
+decorative than true, and whilst their taste is exquisite their whole
+art is much more conventional and traditional, and does not remind us of
+nature like that of the Japanese.
+
+We may see defects in the perspective of the ancients, in the mediaeval
+painters, in the Japanese and Chinese, but are we always right
+ourselves? Even in celebrated pictures by old and modern masters there
+are occasionally errors that might easily have been avoided, if a ready
+means of settling the difficulty were at hand. We should endeavour then
+to make this study as simple, as easy, and as complete as possible, to
+show clear evidence of its correctness (according to its conditions),
+and at the same time to serve as a guide on any and all occasions that
+we may require it.
+
+To illustrate what is perspective, and as an experiment that any one can
+make, whether artist or not, let us stand at a window that looks out on
+to a courtyard or a street or a garden, &c., and trace with a
+paint-brush charged with Indian ink or water-colour the outline of
+whatever view there happens to be outside, being careful to keep the eye
+always in the same place by means of a rest; when this is dry, place a
+piece of drawing-paper over it and trace through with a pencil. Now we
+will rub out the tracing on the glass, which is sure to be rather
+clumsy, and, fixing our paper down on a board, proceed to draw the scene
+before us, using the main lines of our tracing as our guiding lines.
+
+If we take pains over our work, we shall find that, without troubling
+ourselves much about rules, we have produced a perfect perspective of
+perhaps a very difficult subject. After practising for some little time
+in this way we shall get accustomed to what are called perspective
+deformations, and soon be able to dispense with the glass and the
+tracing altogether and to sketch straight from nature, taking little
+note of perspective beyond fixing the point of sight and the
+horizontal-line; in fact, doing what every artist does when he goes out
+sketching.
+
+  [Illustration: Fig. 6.
+  This is a much reduced reproduction of a drawing made on my studio
+  window in this way some twenty years ago, when the builder started
+  covering the fields at the back with rows and rows of houses.]
+
+
+
+
+THE THEORY OF PERSPECTIVE
+
+DEFINITIONS
+
+I
+
+
+Fig. 7. In this figure, _AKB_ represents the picture or transparent
+vertical plane through which the objects to be represented can be seen,
+or on which they can be traced, such as the cube _C_.
+
+  [Illustration: Fig. 7.]
+
+The line _HD_ is the +Horizontal-line+ or +Horizon+, the chief line in
+perspective, as upon it are placed the principal points to which our
+perspective lines are drawn. First, the +Point of Sight+ and next _D_,
+the +Point of Distance+. The chief vanishing points and measuring points
+are also placed on this line.
+
+Another important line is _AB_, the +Base+ or +Ground line+, as it is on
+this that we measure the width of any object to be represented, such as
+_ef_, the base of the square _efgh_, on which the cube _C_ is raised.
+_E_ is the position of the eye of the spectator, being drawn in
+perspective, and is called the +Station-point+.
+
+Note that the perspective of the board, and the line _SE_, is not the
+same as that of the cube in the picture _AKB_, and also that so much of
+the board which is behind the picture plane partially represents the
++Perspective-plane+, supposed to be perfectly level and to extend from
+the base line to the horizon. Of this we shall speak further on. In
+nature it is not really level, but partakes in extended views of the
+rotundity of the earth, though in small areas such as ponds the
+roundness is infinitesimal.
+
+  [Illustration: Fig. 8.]
+
+Fig. 8. This is a side view of the previous figure, the picture plane
+_K_ being represented edgeways, and the line _SE_ its full length.
+It also shows the position of the eye in front of the point of sight
+_S_. The horizontal-line _HD_ and the base or ground-line _AB_ are
+represented as receding from us, and in that case are called vanishing
+lines, a not quite satisfactory term.
+
+It is to be noted that the cube _C_ is placed close to the transparent
+picture plane, indeed touches it, and that the square _fj_ faces the
+spectator _E_, and although here drawn in perspective it appears to him
+as in the other figure. Also, it is at the same time a perspective and a
+geometrical figure, and can therefore be measured with the compasses.
+Or in other words, we can touch the square _fj_, because it is on the
+surface of the picture, but we cannot touch the square _ghmb_ at the
+other end of the cube and can only measure it by the rules of
+perspective.
+
+
+II
+
+THE POINT OF SIGHT, THE HORIZON, AND THE POINT OF DISTANCE
+
+
+There are three things to be considered and understood before we can
+begin a perspective drawing. First, the position of the eye in front of
+the picture, which is called the +Station-point+, and of course is not
+in the picture itself, but its position is indicated by a point on the
+picture which is exactly opposite the eye of the spectator, and is
+called the +Point of Sight+, or +Principal Point+, or +Centre of
+Vision+, but we will keep to the first of these.
+
+  [Illustration: Fig. 9.]
+
+  [Illustration: Fig. 10.]
+
+If our picture plane is a sheet of glass, and is so placed that we can
+see the landscape behind it or a sea-view, we shall find that the
+distant line of the horizon passes through that point of sight, and we
+therefore draw a line on our picture which exactly corresponds with it,
+and which we call the +Horizontal-line+ or +Horizon+.[3] The height of
+the horizon then depends entirely upon the position of the eye of the
+spectator: if he rises, so does the horizon; if he stoops or descends to
+lower ground, so does the horizon follow his movements. You may sit in a
+boat on a calm sea, and the horizon will be as low down as you are, or
+you may go to the top of a high cliff, and still the horizon will be on
+the same level as your eye.
+
+  [Footnote 3: In a sea-view, owing to the rotundity of the earth, the
+  real horizontal line is slightly below the sea line, which is noted
+  in Chapter I.]
+
+This is an important line for the draughtsman to consider, for the
+effect of his picture greatly depends upon the position of the horizon.
+If you wish to give height and dignity to a mountain or a building, the
+horizon should be low down, so that these things may appear to tower
+above you. If you wish to show a wide expanse of landscape, then you
+must survey it from a height. In a composition of figures, you select
+your horizon according to the subject, and with a view to help the
+grouping. Again, in portraits and decorative work to be placed high up,
+a low horizon is desirable, but I have already spoken of this subject in
+the chapter on the necessity of the study of perspective.
+
+
+III
+
+POINT OF DISTANCE
+
+Fig. 11. The distance of the spectator from the picture is of great
+importance; as the distortions and disproportions arising from too near
+a view are to be avoided, the object of drawing being to make things
+look natural; thus, the floor should look level, and not as if it were
+running up hill--the top of a table flat, and not on a slant, as if cups
+and what not, placed upon it, would fall off.
+
+In this figure we have a geometrical or ground plan of two squares at
+different distances from the picture, which is represented by the line
+_KK_. The spectator is first at _A_, the corner of the near square
+_Acd_. If from _A_ we draw a diagonal of that square and produce it to
+the line _KK_ (which may represent the horizontal-line in the picture),
+where it intersects that line at _A·_ marks the distance that the
+spectator is from the point of sight _S_. For it will be seen that line
+_SA_ equals line _SA·_. In like manner, if the spectator is at _B_, his
+distance from the point _S_ is also found on the horizon by means of the
+diagonal _BB´_, so that all lines or diagonals at 45° are drawn to the
+point of distance (see Rule 6).
+
+Figs. 12 and 13. In these two figures the difference is shown between
+the effect of the short-distance point _A·_ and the long-distance point
+_B·_; the first, _Acd_, does not appear to lie so flat on the ground as
+the second square, _Bef_.
+
+From this it will be seen how important it is to choose the right point
+of distance: if we take it too near the point of sight, as in Fig. 12,
+the square looks unnatural and distorted. This, I may note, is a common
+fault with photographs taken with a wide-angle lens, which throws
+everything out of proportion, and will make the east end of a church or
+a cathedral appear higher than the steeple or tower; but as soon as we
+make our line of distance sufficiently long, as at Fig. 13, objects take
+their right proportions and no distortion is noticeable.
+
+  [Illustration: Fig. 11.]
+
+  [Illustration: Fig. 12.]
+
+  [Illustration: Fig. 13.]
+
+In some books on perspective we are told to make the angle of vision
+60°, so that the distance _SD_ (Fig. 14) is to be rather less than the
+length or height of the picture, as at _A_. The French recommend an
+angle of 28°, and to make the distance about double the length of the
+picture, as at _B_ (Fig. 15), which is far more agreeable. For we must
+remember that the distance-point is not only the point from which we are
+supposed to make our tracing on the vertical transparent plane, or a
+point transferred to the horizon to make our measurements by, but it is
+also the point in front of the canvas that we view the picture from,
+called the station-point. It is ridiculous, then, to have it so close
+that we must almost touch the canvas with our noses before we can see
+its perspective properly.
+
+  [Illustration: Fig. 14.]
+
+Now a picture should look right from whatever distance we view it, even
+across the room or gallery, and of course in decorative work and in
+scene-painting a long distance is necessary.
+
+  [Illustration: Fig. 15.]
+
+We need not, however, tie ourselves down to any hard and fast rule, but
+should choose our distance according to the impression of space we wish
+to convey: if we have to represent a domestic scene in a small room, as
+in many Dutch pictures, we must not make our distance-point too far off,
+as it would exaggerate the size of the room.
+
+  [Illustration: Fig. 16. Cattle. By Paul Potter.]
+
+The height of the horizon is also an important consideration in the
+composition of a picture, and so also is the position of the point of
+sight, as we shall see farther on.
+
+In landscape and cattle pictures a low horizon often gives space and
+air, as in this sketch from a picture by Paul Potter--where the
+horizontal-line is placed at one quarter the height of the canvas.
+Indeed, a judicious use of the laws of perspective is a great aid to
+composition, and no picture ever looks right unless these laws are
+attended to. At the present time too little attention is paid to them;
+the consequence is that much of the art of the day reflects in a great
+measure the monotony of the snap-shot camera, with its everyday and
+wearisome commonplace.
+
+
+
+
+IV
+
+PERSPECTIVE OF A POINT, VISUAL RAYS, &C.
+
+
+We perceive objects by means of the visual rays, which are imaginary
+straight lines drawn from the eye to the various points of the thing we
+are looking at. As those rays proceed from the pupil of the eye, which
+is a circular opening, they form themselves into a cone called the
++Optic Cone+, the base of which increases in proportion to its distance
+from the eye, so that the larger the view which we wish to take in, the
+farther must we be removed from it. The diameter of the base of this
+cone, with the visual rays drawn from each of its extremities to the
+eye, form the angle of vision, which is wider or narrower according to
+the distance of this diameter.
+
+Now let us suppose a visual ray _EA_ to be directed to some small object
+on the floor, say the head of a nail, _A_ (Fig. 17). If we interpose
+between this nail and our eye a sheet of glass, _K_, placed vertically
+on the floor, we continue to see the nail through the glass, and it is
+easily understood that its perspective appearance thereon is the point
+_a_, where the visual ray passes through it. If now we trace on the
+floor a line _AB_ from the nail to the spot _B_, just under the eye, and
+from the point _o_, where this line passes through or under the glass,
+we raise a perpendicular _oS_, that perpendicular passes through the
+precise point that the visual ray passes through. The line _AB_ traced
+on the floor is the horizontal trace of the visual ray, and it will be
+seen that the point _a_ is situated on the vertical raised from this
+horizontal trace.
+
+  [Illustration: Fig. 17.]
+
+
+
+
+V
+
+TRACE AND PROJECTION
+
+
+If from any line _A_ or _B_ or _C_ (Fig. 18), &c., we drop
+perpendiculars from different points of those lines on to a horizontal
+plane, the intersections of those verticals with the plane will be on
+a line called the horizontal trace or projection of the original line.
+We may liken these projections to sun-shadows when the sun is in the
+meridian, for it will be remarked that the trace does not represent the
+length of the original line, but only so much of it as would be embraced
+by the verticals dropped from each end of it, and although line _A_ is
+the same length as line _B_ its horizontal trace is longer than that of
+the other; that the projection of a curve (_C_) in this upright position
+is a straight line, that of a horizontal line (_D_) is equal to it, and
+the projection of a perpendicular or vertical (_E_) is a point only.
+The projections of lines or points can likewise be shown on a vertical
+plane, but in that case we draw lines parallel to the horizontal plane,
+and by this means we can get the position of a point in space; and by
+the assistance of perspective, as will be shown farther on, we can carry
+out the most difficult propositions of descriptive geometry and of the
+geometry of planes and solids.
+
+  [Illustration: Fig. 18.]
+
+The position of a point in space is given by its projection on a
+vertical and a horizontal plane--
+
+  [Illustration: Fig. 19.]
+
+Thus _e·_ is the projection of _E_ on the vertical plane _K_, and
+_e··_ is the projection of _E_ on the horizontal plane; _fe··_ is the
+horizontal trace of the plane _fE_, and _e·f_ is the trace of the same
+plane on the vertical plane _K_.
+
+
+
+
+VI
+
+SCIENTIFIC DEFINITION OF PERSPECTIVE
+
+
+The projections of the extremities of a right line which passes through
+a vertical plane being given, one on either side of it, to find the
+intersection of that line with the vertical plane. _AE_ (Fig. 20) is the
+right line. The projection of its extremity _A_ on the vertical plane is
+_a·_, the projection of _E_, the other extremity, is _e·_. _AS_ is the
+horizontal trace of _AE_, and _a·e·_ is its trace on the vertical plane.
+At point _f_, where the horizontal trace intersects the base _Bc_ of the
+vertical plane, raise perpendicular _fP_ till it cuts _a·e·_ at point
+_P_, which is the point required. For it is at the same time on the
+given line _AE_ and the vertical plane _K_.
+
+  [Illustration: Fig. 20.]
+
+This figure is similar to the previous one, except that the extremity
+_A_ of the given line is raised from the ground, but the same
+demonstration applies to it.
+
+  [Illustration: Fig. 21.]
+
+And now let us suppose the vertical plane _K_ to be a sheet of glass,
+and the given line _AE_ to be the visual ray passing from the eye to the
+object _A_ on the other side of the glass. Then if _E_ is the eye of the
+spectator, its projection on the picture is _S_, the point of sight.
+
+If I draw a dotted line from _E_ to little _a_, this represents another
+visual ray, and _o_, the point where it passes through the picture, is
+the perspective of little _a_. I now draw another line from _g_ to _S_,
+and thus form the shaded figure _ga·Po_, which is the perspective of
+_aAa·g_.
+
+Let it be remarked that in the shaded perspective figure the lines _a·P_
+and _go_ are both drawn towards _S_, the point of sight, and that they
+represent parallel lines _Aa·_ and _ag_, which are at right angles to
+the picture plane. This is the most important fact in perspective, and
+will be more fully explained farther on, when we speak of retreating or
+so-called vanishing lines.
+
+
+
+
+RULES
+
+VII
+
+THE RULES AND CONDITIONS OF PERSPECTIVE
+
+
+The conditions of linear perspective are somewhat rigid. In the first
+place, we are supposed to look at objects with one eye only; that is,
+the visual rays are drawn from a single point, and not from two. Of this
+we shall speak later on. Then again, the eye must be placed in a certain
+position, as at _E_ (Fig. 22), at a given height from the ground, _S·E_,
+and at a given distance from the picture, as _SE_. In the next place,
+the picture or picture plane itself must be vertical and perpendicular
+to the ground or horizontal plane, which plane is supposed to be as
+level as a billiard-table, and to extend from the base line, _ef_,
+of the picture to the horizon, that is, to infinity, for it does not
+partake of the rotundity of the earth.
+
+We can only work out our propositions and figures in space with
+mathematical precision by adopting such conditions as the above. But
+afterwards the artist or draughtsman may modify and suit them to a more
+elastic view of things; that is, he can make his figures separate from
+one another, instead of their outlines coming close together as they do
+when we look at them with only one eye. Also he will allow for the
+unevenness of the ground and the roundness of our globe; he may even
+move his head and his eyes, and use both of them, and in fact make
+himself quite at his ease when he is out sketching, for Nature does all
+his perspective for him. At the same time, a knowledge of this rigid
+perspective is the sure and unerring basis of his freehand drawing.
+
+  [Illustration: Fig. 22.]
+
+  [Illustration: Fig. 23. Front view of above figure.]
+
+
+RULE 1
+
+All straight lines remain straight in their perspective appearance.[4]
+
+  [Footnote 4: Some will tell us that Nature abhors a straight line,
+  that all long straight lines in space appear curved, &c., owing to
+  certain optical conditions; but this is not apparent in short straight
+  lines, so if our drawing is small it would be wrong to curve them; if
+  it is large, like a scene or diorama, the same optical condition which
+  applies to the line in space would also apply to the line in the
+  picture.]
+
+
+RULE 2
+
+Vertical lines remain vertical in perspective, and are divided in the
+same proportion as _AB_ (Fig. 24), the original line, and _a·b·_, the
+perspective line, and if the one is divided at _O_ the other is divided
+at _o·_ in the same way.
+
+  [Illustration: Fig. 24.]
+
+It is not an uncommon error to suppose that the vertical lines of a high
+building should converge towards the top; so they would if we stood at
+the foot of that building and looked up, for then we should alter the
+conditions of our perspective, and our point of sight, instead of being
+on the horizon, would be up in the sky. But if we stood sufficiently far
+away, so as to bring the whole of the building within our angle of
+vision, and the point of sight down to the horizon, then these same
+lines would appear perfectly parallel, and the different stories in
+their true proportion.
+
+
+RULE 3
+
+Horizontals parallel to the base of the picture are also parallel to
+that base in the picture. Thus _a·b·_ (Fig. 25) is parallel to _AB_, and
+to _GL_, the base of the picture. Indeed, the same argument may be used
+with regard to horizontal lines as with verticals. If we look at a
+straight wall in front of us, its top and its rows of bricks, &c., are
+parallel and horizontal; but if we look along it sideways, then we alter
+the conditions, and the parallel lines converge to whichever point we
+direct the eye.
+
+  [Illustration: Fig. 25.]
+
+  [Illustration: Fig. 26.]
+
+This rule is important, as we shall see when we come to the
+consideration of the perspective vanishing scale. Its use may be
+illustrated by this sketch, where the houses, walls, &c., are parallel
+to the base of the picture. When that is the case, then objects exactly
+facing us, such as windows, doors, rows of boards, or of bricks or
+palings, &c., are drawn with their horizontal lines parallel to the
+base; hence it is called parallel perspective.
+
+
+RULE 4
+
+All lines situated in a plane that is parallel to the picture plane
+diminish in proportion as they become more distant, but do not undergo
+any perspective deformation; and remain in the same relation and
+proportion each to each as the original lines. This is called the front
+view.
+
+  [Illustration: Fig. 27.]
+
+
+RULE 5
+
+All horizontals which are at right angles to the picture plane are drawn
+to the point of sight.
+
+Thus the lines _AB_ and _CD_ (Fig. 28) are horizontal or parallel to the
+ground plane, and are also at right angles to the picture plane _K_. It
+will be seen that the perspective lines _Ba·_, _Dc·_, must, according to
+the laws of projection, be drawn to the point of sight.
+
+This is the most important rule in perspective (see Fig. 7 at beginning
+of Definitions).
+
+An arrangement such as there indicated is the best means of illustrating
+this rule. But instead of tracing the outline of the square or cube on
+the glass, as there shown, I have a hole drilled through at the point
+_S_ (Fig. 29), which I select for the point of sight, and through which
+I pass two loose strings _A_ and _B_, fixing their ends at _S_.
+
+  [Illustration: Fig. 28.]
+
+  [Illustration: Fig. 29.]
+
+As _SD_ represents the distance the spectator is from the glass or
+picture, I make string _SA_ equal in length to _SD_. Now if the pupil
+takes this string in one hand and holds it at right angles to the glass,
+that is, exactly in front of _S_, and then places one eye at the end _A_
+(of course with the string extended), he will be at the proper distance
+from the picture. Let him then take the other string, _SB_, in the other
+hand, and apply it to point _b´_ where the square touches the glass, and
+he will find that it exactly tallies with the side _b´f_ of the square
+_a·b´fe_. If he applies the same string to _a·_, the other corner of the
+square, his string will exactly tally or cover the side _a·e_, and he
+will thus have ocular demonstration of this important rule.
+
+In this little picture (Fig. 30) in parallel perspective it will be seen
+that the lines which retreat from us at right angles to the picture
+plane are directed to the point of sight _S_.
+
+  [Illustration: Fig. 30.]
+
+
+RULE 6
+
+All horizontals which are at 45°, or half a right angle to the picture
+plane, are drawn to the point of distance.
+
+We have already seen that the diagonal of the perspective square, if
+produced to meet the horizon on the picture, will mark on that horizon
+the distance that the spectator is from the point of sight (see
+definition, p. 16). This point of distance becomes then the measuring
+point for all horizontals at right angles to the picture plane.
+
+Thus in Fig. 31 lines _AS_ and _BS_ are drawn to the point of sight _S_,
+and are therefore at right angles to the base _AB_. _AD_ being drawn to
+_D_ (the distance-point), is at an angle of 45° to the base _AB_, and
+_AC_ is therefore the diagonal of a square. The line 1C is made
+parallel to _AB_, consequently A1CB is a square in perspective. The
+line _BC_, therefore, being one side of that square, is equal to _AB_,
+another side of it. So that to measure a length on a line drawn to the
+point of sight, such as _BS_, we set out the length required, say _BA_,
+on the base-line, then from _A_ draw a line to the point of distance,
+and where it cuts _BS_ at _C_ is the length required. This can be
+repeated any number of times, say five, so that in this figure _BE_
+is five times the length of _AB_.
+
+  [Illustration: Fig. 31.]
+
+
+RULE 7
+
+All horizontals forming any other angles but the above are drawn to some
+other points on the horizontal line. If the angle is greater than half a
+right angle (Fig. 32), as _EBG_, the point is within the point of
+distance, as at _V´_. If it is less, as _ABV´´_, then it is beyond the
+point of distance, and consequently farther from the point of sight.
+
+  [Illustration: Fig. 32.]
+
+In Fig. 32, the dotted line _BD_, drawn to the point of distance _D_, is
+at an angle of 45° to the base _AG_. It will be seen that the line _BV´_
+is at a greater angle to the base than _BD_; it is therefore drawn to a
+point _V´_, within the point of distance and nearer to the point of
+sight _S_. On the other hand, the line _BV´´_ is at a more acute angle,
+and is therefore drawn to a point some way beyond the other distance
+point.
+
+_Note._--When this vanishing point is a long way outside the picture,
+the architects make use of a centrolinead, and the painters fix a long
+string at the required point, and get their perspective lines by that
+means, which is very inconvenient. But I will show you later on how you
+can dispense with this trouble by a very simple means, with equally
+correct results.
+
+
+RULE 8
+
+Lines which incline upwards have their vanishing points above the
+horizontal line, and those which incline downwards, below it. In both
+cases they are on the vertical which passes through the vanishing point
+(_S_) of their horizontal projections.
+
+  [Illustration: Fig. 33.]
+
+This rule is useful in drawing steps, or roads going uphill and
+downhill.
+
+  [Illustration: Fig. 34.]
+
+
+RULE 9
+
+The farther a point is removed from the picture plane the nearer does
+its perspective appearance approach the horizontal line so long as it is
+viewed from the same position. On the contrary, if the spectator
+retreats from the picture plane _K_ (which we suppose to be
+transparent), the point remaining at the same place, the perspective
+appearance of this point will approach the ground-line in proportion to
+the distance of the spectator.
+
+  [Illustrations:
+  Fig. 35.
+  Fig. 36.
+  The spectator at two different distances from the picture.]
+
+Therefore the position of a given point in perspective above the
+ground-line or below the horizon is in proportion to the distance of the
+spectator from the picture, or the picture from the point.
+
+  [Illustration: Fig. 37.]
+
+  [Illustrations:
+  The picture at two different distances from the point.
+  Fig. 38.
+  Fig. 39.]
+
+Figures 38 and 39 are two views of the same gallery from different
+distances. In Fig. 38, where the distance is too short, there is a want
+of proportion between the near and far objects, which is corrected in
+Fig. 39 by taking a much longer distance.
+
+
+RULE 10
+
+Horizontals in the same plane which are drawn to the same point on the
+horizon are parallel to each other.
+
+  [Illustration: Fig. 40.]
+
+This is a very important rule, for all our perspective drawing depends
+upon it. When we say that parallels are drawn to the same point on the
+horizon it does not imply that they meet at that point, which would be a
+contradiction; perspective parallels never reach that point, although
+they appear to do so. Fig. 40 will explain this.
+
+Suppose _S_ to be the spectator, _AB_ a transparent vertical plane which
+represents the picture seen edgeways, and _HS_ and _DC_ two parallel
+lines, mark off spaces between these parallels equal to _SC_, the height
+of the eye of the spectator, and raise verticals 2, 3, 4, 5, &c.,
+forming so many squares. Vertical line 2 viewed from _S_ will appear on
+_AB_ but half its length, vertical 3 will be only a third, vertical 4 a
+fourth, and so on, and if we multiplied these spaces _ad infinitum_ we
+must keep on dividing the line _AB_ by the same number. So if we suppose
+_AB_ to be a yard high and the distance from one vertical to another to
+be also a yard, then if one of these were a thousand yards away its
+representation at _AB_ would be the thousandth part of a yard, or ten
+thousand yards away, its representation at _AB_ would be the
+ten-thousandth part, and whatever the distance it must always be
+something; and therefore _HS_ and _DC_, however far they may be produced
+and however close they may appear to get, can never meet.
+
+  [Illustration: Fig. 41.]
+
+Fig. 41 is a perspective view of the same figure--but more extended. It
+will be seen that a line drawn from the tenth upright _K_ to _S_ cuts
+off a tenth of _AB_. We look then upon these two lines _SP_, _OP_, as
+the sides of a long parallelogram of which _SK_ is the diagonal, as
+_cefd_, the figure on the ground, is also a parallelogram.
+
+The student can obtain for himself a further illustration of this rule
+by placing a looking-glass on one of the walls of his studio and then
+sketching himself and his surroundings as seen therein. He will find
+that all the horizontals at right angles to the glass will converge to
+his own eye. This rule applies equally to lines which are at an angle to
+the picture plane as to those that are at right angles or perpendicular
+to it, as in Rule 7. It also applies to those on an inclined plane, as
+in Rule 8.
+
+  [Illustration: Fig. 42. Sketch of artist in studio.]
+
+With the above rules and a clear notion of the definitions and
+conditions of perspective, we should be able to work out any proposition
+or any new figure that may present itself. At any rate, a thorough
+understanding of these few pages will make the labour now before us
+simple and easy. I hope, too, it may be found interesting. There is
+always a certain pleasure in deceiving and being deceived by the senses,
+and in optical and other illusions, such as making things appear far off
+that are quite near, in making a picture of an object on a flat surface
+to look as if it stood out and in relief by a kind of magic. But there
+is, I think, a still greater pleasure than this, namely, in invention
+and in overcoming difficulties--in finding out how to do things for
+ourselves by our reasoning faculties, in originating or being original,
+as it were. Let us now see how far we can go in this respect.
+
+
+VIII
+
+A TABLE OR INDEX OF THE RULES OF PERSPECTIVE
+
+The rules here set down have been fully explained in the previous pages,
+and this table is simply for the student's ready reference.
+
+
+RULE 1
+
+All straight lines remain straight in their perspective appearance.
+
+
+RULE 2
+
+Vertical lines remain vertical in perspective.
+
+
+RULE 3
+
+Horizontals parallel to the base of the picture are also parallel to
+that base in the picture.
+
+
+RULE 4
+
+All lines situated in a plane that is parallel to the picture plane
+diminish in proportion as they become more distant, but do not undergo
+any perspective deformation. This is called the front view.
+
+
+RULE 5
+
+All horizontal lines which are at right angles to the picture plane are
+drawn to the point of sight.
+
+
+RULE 6
+
+All horizontals which are at 45° to the picture plane are drawn to the
+point of distance.
+
+
+RULE 7
+
+All horizontals forming any other angles but the above are drawn to some
+other points on the horizontal line.
+
+
+RULE 8
+
+Lines which incline upwards have their vanishing points above the
+horizon, and those which incline downwards, below it. In both cases they
+are on the vertical which passes through the vanishing point of their
+ground-plan or horizontal projections.
+
+
+RULE 9
+
+The farther a point is removed from the picture plane the nearer does it
+appear to approach the horizon, so long as it is viewed from the same
+position.
+
+
+RULE 10
+
+Horizontals in the same plane which are drawn to the same point on the
+horizon are perspectively parallel to each other.
+
+
+
+
+BOOK SECOND
+
+THE PRACTICE OF PERSPECTIVE
+
+
+In the foregoing book we have explained the theory or science of
+perspective; we now have to make use of our knowledge and to apply it to
+the drawing of figures and the various objects that we wish to depict.
+
+The first of these will be a square with two of its sides parallel to
+the picture plane and the other two at right angles to it, and which we
+call
+
+
+IX
+
+THE SQUARE IN PARALLEL PERSPECTIVE
+
+From a given point on the base line of the picture draw a line at right
+angles to that base. Let _P_ be the given point on the base line _AB_,
+and _S_ the point of sight. We simply draw a line along the ground to
+the point of sight _S_, and this line will be at right angles to the
+base, as explained in Rule 5, and consequently angle _APS_ will be equal
+to angle _SPB_, although it does not look so here. This is our first
+difficulty, but one that we shall soon get over.
+
+  [Illustration: Fig. 43.]
+
+In like manner we can draw any number of lines at right angles to the
+base, or we may suppose the point _P_ to be placed at so many different
+positions, our only difficulty being to conceive these lines to be
+parallel to each other. See Rule 10.
+
+  [Illustration: Fig. 44.]
+
+
+X
+
+THE DIAGONAL
+
+From a given point on the base line draw a line at 45°, or half a right
+angle, to that base. Let _P_ be the given point. Draw a line from _P_ to
+the point of distance _D_ and this line _PD_ will be at an angle of 45°,
+or at the same angle as the diagonal of a square. See definitions.
+
+  [Illustration: Fig. 45.]
+
+
+XI
+
+THE SQUARE
+
+Draw a square in parallel perspective on a given length on the base
+line. Let _ab_ be the given length. From its two extremities _a_ and _b_
+draw _aS_ and _bS_ to the point of sight _S_. These two lines will be at
+right angles to the base (see Fig. 43). From _a_ draw diagonal _aD_ to
+point of distance _D_; this line will be 45° to base. At point _c_,
+where it cuts _bS_, draw _dc_ parallel to _ab_ and _abcd_ is the square
+required.
+
+  [Illustration: Fig. 46.]
+
+We have here proceeded in much the same way as in drawing a geometrical
+square (Fig. 47), by drawing two lines _AE_ and _BC_ at right angles to
+a given line, _AB_, and from _A_, drawing the diagonal _AC_ at 45° till
+it cuts _BC_ at _C_, and then through _C_ drawing _EC_ parallel to _AB_.
+Let it be remarked that because the two perspective lines (Fig. 48) _AS_
+and _BS_ are at right angles to the base, they must consequently be
+parallel to each other, and therefore are perspectively equidistant, so
+that all lines parallel to _AB_ and lying between them, such as _ad_,
+_cf_, &c., must be equal.
+
+  [Illustration: Fig. 47.]
+
+So likewise all diagonals drawn to the point of distance, which are
+contained between these parallels, such as _Ad_, _af_, &c., must be
+equal. For all straight lines which meet at any point on the horizon are
+perspectively parallel to each other, just as two geometrical parallels
+crossing two others at any angle, as at Fig. 49. Note also (Fig. 48)
+that all squares formed between the two vanishing lines _AS_, _BS_, and
+by the aid of these diagonals, are also equal, and further, that any
+number of squares such as are shown in this figure (Fig. 50), formed in
+the same way and having equal bases, are also equal; and the nine
+squares contained in the square _abcd_ being equal, they divide each
+side of the larger square into three equal parts.
+
+  [Illustration: Fig. 48.]
+
+  [Illustration: Fig. 49.]
+
+From this we learn how we can measure any number of given lengths,
+either equal or unequal, on a vanishing or retreating line which is at
+right angles to the base; and also how we can measure any width or
+number of widths on a line such as _dc_, that is, parallel to the base
+of the picture, however remote it may be from that base.
+
+  [Illustration: Fig. 50.]
+
+
+
+
+XII
+
+GEOMETRICAL AND PERSPECTIVE FIGURES CONTRASTED
+
+
+As at first there may be a little difficulty in realizing the
+resemblance between geometrical and perspective figures, and also about
+certain expressions we make use of, such as horizontals, perpendiculars,
+parallels, &c., which look quite different in perspective, I will here
+make a note of them and also place side by side the two views of the
+same figures.
+
+  [Illustration: Fig. 51 A. The geometrical view.]
+
+  [Illustration: Fig. 51 B. The perspective view.]
+
+  [Illustration: Fig. 51 C. A geometrical square.]
+
+  [Illustration: Fig. 51 D. A perspective square.]
+
+  [Illustration: Fig. 51 E. Geometrical parallels.]
+
+  [Illustration: Fig. 51 F. Perspective parallels.]
+
+  [Illustration: Fig. 51 G. Geometrical perpendicular.]
+
+  [Illustration: Fig. 51 H. Perspective perpendicular.]
+
+  [Illustration: Fig. 51 I. Geometrical equal lines.]
+
+  [Illustration: Fig. 51 J. Perspective equal lines.]
+
+  [Illustration: Fig. 51 K. A geometrical circle.]
+
+  [Illustration: Fig. 51 L. A perspective circle.]
+
+
+
+
+XIII
+
+OF CERTAIN TERMS MADE USE OF IN PERSPECTIVE
+
+
+Of course when we speak of +Perpendiculars+ we do not mean verticals
+only, but straight lines at right angles to other lines in any position.
+Also in speaking of +lines+ a right or +straight line+ is to be
+understood; or when we speak of +horizontals+ we mean all straight lines
+that are parallel to the perspective plane, such as those on Fig. 52, no
+matter what direction they take so long as they are level. They are not
+to be confused with the horizon or horizontal-line.
+
+  [Illustration: Fig. 52. Horizontals.]
+
+There are one or two other terms used in perspective which are not
+satisfactory because they are confusing, such as vanishing lines and
+vanishing points. The French term, _fuyante_ or _lignes fuyantes_, or
+going-away lines, is more expressive; and _point de fuite_, instead of
+vanishing point, is much better. I have occasionally called the former
+retreating lines, but the simple meaning is, lines that are not parallel
+to the picture plane; but a vanishing line implies a line that
+disappears, and a vanishing point implies a point that gradually goes
+out of sight. Still, it is difficult to alter terms that custom has
+endorsed. All we can do is to use as few of them as possible.
+
+
+
+
+XIV
+
+HOW TO MEASURE VANISHING OR RECEDING LINES
+
+
+Divide a vanishing line which is at right angles to the picture plane
+into any number of given measurements. Let _SA_ be the given line. From
+_A_ measure off on the base line the divisions required, say five of
+1 foot each; from each division draw diagonals to point of distance _D_,
+and where these intersect the line _AC_ the corresponding divisions will
+be found. Note that as lines _AB_ and _AC_ are two sides of the same
+square they are necessarily equal, and so also are the divisions on _AC_
+equal to those on _AB_.
+
+  [Illustration: Fig. 53.]
+
+The line _AB_ being the base of the picture, it is at the same time a
+perspective line and a geometrical one, so that we can use it as a scale
+for measuring given lengths thereon, but should there not be enough room
+on it to measure the required number we draw a second line, _DC_, which
+we divide in the same proportion and proceed to divide _cf_. This
+geometrical figure gives, as it were, a bird's-eye view or ground-plan
+of the above.
+
+  [Illustration: Fig. 54.]
+
+
+
+
+XV
+
+HOW TO PLACE SQUARES IN GIVEN POSITIONS
+
+
+Draw squares of given dimensions at given distances from the base line
+to the right or left of the vertical line, which passes through the
+point of sight.
+
+  [Illustration: Fig. 55.]
+
+Let _ab_ (Fig. 55) represent the base line of the picture divided into a
+certain number of feet; _HD_ the horizon, _VO_ the vertical. It is
+required to draw a square 3 feet wide, 2 feet to the right of the
+vertical, and 1 foot from the base.
+
+First measure from _V_, 2 feet to _e_, which gives the distance from the
+vertical. Second, from _e_ measure 3 feet to _b_, which gives the width
+of the square; from _e_ and _b_ draw _eS_, _bS_, to point of sight. From
+either _e_ or _b_ measure 1 foot to the left, to _f_ or _f·_. Draw _fD_
+to point of distance, which intersects _eS_ at _P_, and gives the
+required distance from base. Draw _Pg_ and _B_ parallel to the base, and
+we have the required square.
+
+Square _A_ to the left of the vertical is 2½ feet wide, 1 foot from the
+vertical and 2 feet from the base, and is worked out in the same way.
+
+_Note._--It is necessary to know how to work to scale, especially in
+architectural drawing, where it is indispensable, but in working out our
+propositions and figures it is not always desirable. A given length
+indicated by a line is generally sufficient for our requirements. To
+work out every problem to scale is not only tedious and mechanical, but
+wastes time, and also takes the mind of the student away from the
+reasoning out of the subject.
+
+
+
+
+XVI
+
+HOW TO DRAW PAVEMENTS, &C.
+
+
+Divide a vanishing line into parts varying in length. Let _BS·_ be the
+vanishing line: divide it into 4 long and 3 short spaces; then proceed
+as in the previous figure. If we draw horizontals through the points
+thus obtained and from these raise verticals, we form, as it were, the
+interior of a building in which we can place pillars and other objects.
+
+  [Illustration: Fig. 56.]
+
+Or we can simply draw the plan of the pavement as in this figure.
+
+  [Illustration: Fig. 57.]
+
+  [Illustration: Fig. 58.]
+
+And then put it into perspective.
+
+
+
+
+XVII
+
+OF SQUARES PLACED VERTICALLY AND AT DIFFERENT HEIGHTS,
+OR THE CUBE IN PARALLEL PERSPECTIVE
+
+
+On a given square raise a cube.
+
+  [Illustration: Fig. 59.]
+
+_ABCD_ is the given square; from _A_ and _B_ raise verticals _AE_, _BF_,
+equal to _AB_; join _EF_. Draw _ES_, _FS_, to point of sight; from _C_
+and _D_ raise verticals _CG_, _DH_, till they meet vanishing lines _ES_,
+_FS_, in _G_ and _H_, and the cube is complete.
+
+
+
+
+XVIII
+
+THE TRANSPOSED DISTANCE
+
+
+The transposed distance is a point _D·_ on the vertical _VD·_, at
+exactly the same distance from the point of sight as is the point of
+distance on the horizontal line.
+
+It will be seen by examining this figure that the diagonals of the
+squares in a vertical position are drawn to this vertical
+distance-point, thus saving the necessity of taking the measurements
+first on the base line, as at _CB_, which in the case of distant
+objects, such as the farthest window, would be very inconvenient. Note
+that the windows at _K_ are twice as high as they are wide. Of course
+these or any other objects could be made of any proportion.
+
+  [Illustration: Fig. 60.]
+
+
+
+
+XIX
+
+THE FRONT VIEW OF THE SQUARE AND OF THE PROPORTIONS OF FIGURES
+AT DIFFERENT HEIGHTS
+
+
+According to Rule 4, all lines situated in a plane parallel to the
+picture plane diminish in length as they become more distant, but remain
+in the same proportions each to each as the original lines; as squares
+or any other figures retain the same form. Take the two squares _ABCD_,
+_abcd_ (Fig. 61), one inside the other; although moved back from square
+_EFGH_ they retain the same form. So in dealing with figures of
+different heights, such as statuary or ornament in a building, if
+actually equal in size, so must we represent them.
+
+  [Illustration: Fig. 61.]
+
+  [Illustration: Fig. 62.]
+
+In this square _K_, with the checker pattern, we should not think of
+making the top squares smaller than the bottom ones; so it is with
+figures.
+
+This subject requires careful study, for, as pointed out in our opening
+chapter, there are certain conditions under which we have to modify and
+greatly alter this rule in large decorative work.
+
+  [Illustration: Fig. 63.]
+
+In Fig. 63 the two statues _A_ and _B_ are the same size. So if traced
+through a vertical sheet of glass, _K_, as at _c_ and _d_, they would
+also be equal; but as the angle _b_ at which the upper one is seen is
+smaller than angle _a_, at which the lower figure or statue is seen, it
+will appear smaller to the spectator (_S_) both in reality and in the
+picture.
+
+  [Illustration: Fig. 64.]
+
+But if we wish them to appear the same size to the spectator who is
+viewing them from below, we must make the angles _a_ and _b_ (Fig. 64),
+at which they are viewed, both equal. Then draw lines through equal
+arcs, as at _c_ and _d_, till they cut the vertical _NO_ (representing
+the side of the building where the figures are to be placed). We shall
+then obtain the exact size of the figure at that height, which will make
+it look the same size as the lower one, _N_. The same rule applies to
+the picture _K_, when it is of large proportions. As an example in
+painting, take Michelangelo's large altar-piece in the Sistine Chapel,
+'The Last Judgement'; here the figures forming the upper group, with our
+Lord in judgement surrounded by saints, are about four times the size,
+that is, about twice the height, of those at the lower part of the
+fresco. The figures on the ceiling of the same chapel are studied not
+only according to their height from the pavement, which is 60 ft., but
+to suit the arched form of it. For instance, the head of the figure of
+Jonah at the end over the altar is thrown back in the design, but owing
+to the curvature in the architecture is actually more forward than the
+feet. Then again, the prophets and sybils seated round the ceiling,
+which are perhaps the grandest figures in the whole range of art, would
+be 18 ft. high if they stood up; these, too, are not on a flat surface,
+so that it required great knowledge to give them their right effect.
+
+  [Illustration: Fig. 65.]
+
+Of course, much depends upon the distance we view these statues or
+paintings from. In interiors, such as churches, halls, galleries, &c.,
+we can make a fair calculation, such as the length of the nave, if the
+picture is an altar-piece--or say, half the length; so also with
+statuary in niches, friezes, and other architectural ornaments. The
+nearer we are to them, and the more we have to look up, the larger will
+the upper figures have to be; but if these are on the outside of a
+building that can be looked at from a long distance, then it is better
+not to have too great a difference.
+
+
+
+
+  [Illustration: Fig. 66. 1909.]
+
+
+
+These remarks apply also to architecture in a great measure. Buildings
+that can only be seen from the street below, as pictures in a narrow
+gallery, require a different treatment from those out in the open, that
+are to be looked at from a distance. In the former case the same
+treatment as the Campanile at Florence is in some cases desirable, but
+all must depend upon the taste and judgement of the architect in such
+matters. All I venture to do here is to call attention to the subject,
+which seems as a rule to be ignored, or not to be considered of
+importance. Hence the many mistakes in our buildings, and the
+unsatisfactory and mean look of some of our public monuments.
+
+
+
+
+XX
+
+OF PICTURES THAT ARE PAINTED ACCORDING TO THE POSITION
+THEY ARE TO OCCUPY
+
+
+In this double-page illustration of the wall of a picture-gallery,
+I have, as it were, hung the pictures in accordance with the style in
+which they are painted and the perspective adopted by their painters. It
+will be seen that those placed on the line level with the eye have their
+horizon lines fairly high up, and are not suited to be placed any
+higher. The Giorgione in the centre, the Monna Lisa to the right, and
+the Velasquez and Watteau to the left, are all pictures that fit that
+position; whereas the grander compositions above them are so designed,
+and are so large in conception, that we gain in looking up to them.
+
+Note how grandly the young prince on his pony, by Velasquez, tells out
+against the sky, with its low horizon and strong contrast of light and
+dark; nor does it lose a bit by being placed where it is, over the
+smaller pictures.
+
+The Rembrandt, on the opposite side, with its burgomasters in black hats
+and coats and white collars, is evidently intended and painted for a
+raised position, and to be looked up to, which is evident from the
+perspective of the table. The grand Titian in the centre, an altar-piece
+in one of the churches in Venice (here reversed), is also painted to
+suit its elevated position, with low horizon and figures telling boldly
+against the sky. Those placed low down are modern French pictures, with
+the horizon high up and almost above their frames, but placed on the
+ground they fit into the general harmony of the arrangement.
+
+It seems to me it is well, both for those who paint and for those who
+hang pictures, that this subject should be taken into consideration. For
+it must be seen by this illustration that a bigger style is adopted by
+the artists who paint for high places in palaces or churches than by
+those who produce smaller easel-pictures intended to be seen close.
+Unfortunately, at our picture exhibitions, we see too often that nearly
+all the works, whether on large or small canvases, are painted for the
+line, and that those which happen to get high up look as if they were
+toppling over, because they have such a high horizontal line; and
+instead of the figures telling against the sky, as in this picture of
+the 'Infant' by Velasquez, the Reynolds, and the fat man treading on a
+flag, we have fields or sea or distant landscape almost to the top of
+the frame, and all, so methinks, because the perspective is not
+sufficiently considered.
+
+
+_Note._--Whilst on this subject, I may note that the painter in his
+large decorative work often had difficulties to contend with, which
+arose from the form of the building or the shape of the wall on which he
+had to place his frescoes. Painting on the ceiling was no easy task, and
+Michelangelo, in a humorous sonnet addressed to Giovanni da Pistoya,
+gives a burlesque portrait of himself while he was painting the Sistine
+Chapel:--
+
+  _"I'ho già fatto un gozzo in questo stento."_
+
+  Now have I such a goitre 'neath my chin
+  That I am like to some Lombardic cat,
+  My beard is in the air, my head i' my back,
+  My chest like any harpy's, and my face
+  Patched like a carpet by my dripping brush.
+  Nor can I see, nor can I budge a step;
+  My skin though loose in front is tight behind,
+  And I am even as a Syrian bow.
+  Alas! methinks a bent tube shoots not well;
+  So give me now thine aid, my Giovanni.
+
+At present that difficulty is got over by using large strong canvas, on
+which the picture can be painted in the studio and afterwards placed on
+the wall.
+
+However, the other difficulty of form has to be got over also. A great
+portion of the ceiling of the Sistine Chapel, and notably the prophets
+and sibyls, are painted on a curved surface, in which case a similar
+method to that explained by Leonardo da Vinci has to be adopted.
+
+In Chapter CCCI he shows us how to draw a figure twenty-four braccia
+high upon a wall twelve braccia high. (The braccia is 1 ft. 10-7/8 in.).
+He first draws the figure upright, then from the various points draws
+lines to a point _F_ on the floor of the building, marking their
+intersections on the profile of the wall somewhat in the manner we have
+indicated, which serve as guides in making the outline to be traced.
+
+  [Illustration: Fig. 67.
+
+'Draw upon part of wall _MN_ half the figure you mean to represent, and
+the other half upon the cove above (_MR_).' Leonardo da Vinci's
+_Treatise on Painting_.]
+
+
+
+
+XXI
+
+INTERIORS
+
+
+  [Illustration: Fig. 68. Interior by de Hoogh.]
+
+To draw the interior of a cube we must suppose the side facing us to be
+removed or transparent. Indeed, in all our figures which represent
+solids we suppose that we can see through them, and in most cases we
+mark the hidden portions with dotted lines. So also with all those
+imaginary lines which conduct the eye to the various vanishing points,
+and which the old writers called 'occult'.
+
+  [Illustration: Fig. 69.]
+
+When the cube is placed below the horizon (as in Fig. 59), we see the
+top of it; when on the horizon, as in the above (Fig. 69), if the side
+facing us is removed we see both top and bottom of it, or if a room, we
+see floor and ceiling, but otherwise we should see but one side (that
+facing us), or at most two sides. When the cube is above the horizon we
+see underneath it.
+
+We shall find this simple cube of great use to us in architectural
+subjects, such as towers, houses, roofs, interiors of rooms, &c.
+
+In this little picture by de Hoogh we have the application of the
+perspective of the cube and other foregoing problems.
+
+
+
+
+XXII
+
+THE SQUARE AT AN ANGLE OF 45°
+
+
+When the square is at an angle of 45° to the base line, then its sides
+are drawn respectively to the points of distance, _DD_, and one of its
+diagonals which is at right angles to the base is drawn to the point of
+sight _S_, and the other _ab_, is parallel to that base or ground line.
+
+  [Illustration: Fig. 70.]
+
+To draw a pavement with its squares at this angle is but an
+amplification of the above figure. Mark off on base equal distances, 1,
+2, 3, &c., representing the diagonals of required squares, and from each
+of these points draw lines to points of distance _DD´_. These lines will
+intersect each other, and so form the squares of the pavement; to ensure
+correctness, lines should also be drawn from these points 1, 2, 3, to
+the point of sight _S_, and also horizontals parallel to the base, as
+_ab_.
+
+  [Illustration: Fig. 71.]
+
+
+
+
+XXIII
+
+THE CUBE AT AN ANGLE OF 45°
+
+
+Having drawn the square at an angle of 45°, as shown in the previous
+figure, we find the length of one of its sides, _dh_, by drawing a line,
+_SK_, through _h_, one of its extremities, till it cuts the base line at
+_K_. Then, with the other extremity _d_ for centre and _dK_ for radius,
+describe a quarter of a circle _Km_; the chord thereof _mK_ will be the
+geometrical length of _dh_. At _d_ raise vertical _dC_ equal to _mK_,
+which gives us the height of the cube, then raise verticals at _a_, _h_,
+&c., their height being found by drawing _CD_ and _CD´_ to the two
+points of distance, and so completing the figure.
+
+  [Illustration: Fig. 72.]
+
+
+
+
+XXIV
+
+PAVEMENTS DRAWN BY MEANS OF SQUARES AT 45°
+
+
+  [Illustration: Fig. 73.]
+
+  [Illustration: Fig. 74.]
+
+The square at 45° will be found of great use in drawing pavements,
+roofs, ceilings, &c. In Figs. 73, 74 it is shown how having set out one
+square it can be divided into four or more equal squares, and any figure
+or tile drawn therein. Begin by making a geometrical or ground plan of
+the required design, as at Figs. 73 and 74, where we have bricks placed
+at right angles to each other in rows, a common arrangement in brick
+floors, or tiles of an octagonal form as at Fig. 75.
+
+  [Illustration: Fig. 75.]
+
+
+
+
+XXV
+
+THE PERSPECTIVE VANISHING SCALE
+
+
+The vanishing scale, which we shall find of infinite use in our
+perspective, is founded on the facts explained in Rule 10. We there find
+that all horizontals in the same plane, which are drawn to the same
+point on the horizon, are perspectively parallel to each other, so that
+if we measure a certain height or width on the picture plane, and then
+from each extremity draw lines to any convenient point on the horizon,
+then all the perpendiculars drawn between these lines will be
+perspectively equal, however much they may appear to vary in length.
+
+  [Illustration: Fig. 76.]
+
+Let us suppose that in this figure (76) _AB_ and _A·B·_ each represent
+5 feet. Then in the first case all the verticals, as _e_, _f_, _g_, _h_,
+drawn between _AO_ and _BO_ represent 5 feet, and in the second case all
+the horizontals _e_, _f_, _g_, _h_, drawn between _A·O_ and _B·O_ also
+represent 5 feet each. So that by the aid of this scale we can give the
+exact perspective height and width of any object in the picture, however
+far it may be from the base line, for of course we can increase or
+diminish our measurements at _AB_ and _A·B·_ to whatever length we
+require.
+
+As it may not be quite evident at first that the points _O_ may be taken
+at random, the following figure will prove it.
+
+
+
+
+XXVI
+
+THE VANISHING SCALE CAN BE DRAWN TO ANY POINT ON THE HORIZON
+
+
+From _AB_ (Fig. 77) draw _AO_, _BO_, thus forming the scale, raise
+vertical _C_. Now form a second scale from _AB_ by drawing _AO· BO·_,
+and therein raise vertical _D_ at an equal distance from the base.
+First, then, vertical _C_ equals _AB_, and secondly vertical _D_ equals
+_AB_, therefore _C_ equals _D_, so that either of these scales will
+measure a given height at a given distance.
+
+  [Illustration: Fig. 77.]
+
+(See axioms of geometry.)
+
+  [Illustration: Fig. 79. Schoolgirls.]
+
+  [Illustration: Fig. 80. Cavaliers.]
+
+
+
+
+XXVII
+
+APPLICATION OF VANISHING SCALES TO DRAWING FIGURES
+
+
+In this figure we have marked off on a level plain three or four points
+_a_, _b_, _c_, _d_, to indicate the places where we wish to stand our
+figures. _AB_ represents their average height, so we have made our scale
+_AO_, _BO_, accordingly. From each point marked we draw a line parallel
+to the base till it reaches the scale. From the point where it touches
+the line _AO_, raise perpendicular as _a_, which gives the height
+required at that distance, and must be referred back to the figure
+itself.
+
+  [Illustration: Fig. 78.]
+
+
+
+
+XXVIII
+
+HOW TO DETERMINE THE HEIGHTS OF FIGURES ON A LEVEL PLANE
+
+_First Case._
+
+
+This is but a repetition of the previous figure, excepting that we have
+substituted these schoolgirls for the vertical lines. If we wish to make
+some taller than the others, and some shorter, we can easily do so, as
+must be evident (see Fig. 79).
+
+Note that in this first case the scale is below the horizon, so that we
+see over the heads of the figures, those nearest to us being the lowest
+down. That is to say, we are looking on this scene from a slightly
+raised platform.
+
+
+_Second Case._
+
+To draw figures at different distances when their heads are above the
+horizon, or as they would appear to a person sitting on a low seat. The
+height of the heads varies according to the distance of the figures
+(Fig. 80).
+
+
+_Third Case._
+
+How to draw figures when their heads are about the height of the
+horizon, or as they appear to a person standing on the same level or
+walking among them.
+
+In this case the heads or the eyes are on a level with the horizon, and
+we have little necessity for a scale at the side unless it is for the
+purpose of ascertaining or marking their distances from the base line,
+and their respective heights, which of course vary; so in all cases
+allowance must be made for some being taller and some shorter than the
+scale measurement.
+
+  [Illustration: Fig. 81.]
+
+
+
+
+XXIX
+
+THE HORIZON ABOVE THE FIGURES
+
+
+In this example from De Hoogh the doorway to the left is higher up than
+the figure of the lady, and the effect seems to me more pleasing and
+natural for this kind of domestic subject. This delightful painter was
+not only a master of colour, of sunlight effect, and perfect
+composition, but also of perspective, and thoroughly understood the
+charm it gives to a picture, when cunningly introduced, for he makes the
+spectator feel that he can walk along his passages and courtyards. Note
+that he frequently puts the point of sight quite at the side of his
+canvas, as at _S_, which gives almost the effect of angular perspective
+whilst it preserves the flatness and simplicity of parallel or
+horizontal perspective.
+
+  [Illustration: Fig. 82. Courtyard by De Hoogh.]
+
+
+
+
+XXX
+
+LANDSCAPE PERSPECTIVE
+
+
+In an extended view or landscape seen from a height, we have to consider
+the perspective plane as in a great measure lying above it, reaching
+from the base of the picture to the horizon; but of course pierced here
+and there by trees, mountains, buildings, &c. As a rule in such cases,
+we copy our perspective from nature, and do not trouble ourselves much
+about mathematical rules. It is as well, however, to know them, so that
+we may feel sure we are right, as this gives certainty to our touch and
+enables us to work with freedom. Nor must we, when painting from nature,
+forget to take into account the effects of atmosphere and the various
+tones of the different planes of distance, for this makes much of the
+difference between a good picture and a bad one; being a more subtle
+quality, it requires a keener artistic sense to discover and depict it.
+(See Figs. 95 and 103.)
+
+If the landscape painter wishes to test his knowledge of perspective,
+let him dissect and work out one of Turner's pictures, or better still,
+put his own sketch from nature to the same test.
+
+
+
+
+XXXI
+
+FIGURES OF DIFFERENT HEIGHTS
+
+THE CHESSBOARD
+
+
+In this figure the same principle is applied as in the previous one, but
+the chessmen being of different heights we have to arrange the scale
+accordingly. First ascertain the exact height of each piece, as _Q_,
+_K_, _B_, which represent the queen, king, bishop, &c. Refer these
+dimensions to the scale, as shown at _QKB_, which will give us the
+perspective measurement of each piece according to the square on which
+it is placed.
+
+  [Illustration: Fig. 83. Chessboard and Men.]
+
+This is shown in the above drawing (Fig. 83) in the case of the white
+queen and the black queen, &c. The castle, the knight, and the pawn
+being about the same height are measured from the fourth line of the
+scale marked _C_.
+
+  [Illustration: Fig. 84.]
+
+
+
+
+XXXII
+
+APPLICATION OF THE VANISHING SCALE TO DRAWING FIGURES AT AN ANGLE
+WHEN THEIR VANISHING POINTS ARE INACCESSIBLE OR OUTSIDE THE PICTURE
+
+
+This is exemplified in the drawing of a fence (Fig. 84). Form scale
+_aS_, _bS_, in accordance with the height of the fence or wall to be
+depicted. Let _ao_ represent the direction or angle at which it is
+placed, draw _od_ to meet the scale at _d_, at _d_ raise vertical _dc_,
+which gives the height of the fence at _oo·_. Draw lines _bo·_, _eo_,
+_ao_, &c., and it will be found that all these lines if produced will
+meet at the same point on the horizon. To divide the fence into spaces,
+divide base line _af_ as required and proceed as already shown.
+
+
+
+
+XXXIII
+
+THE REDUCED DISTANCE. HOW TO PROCEED WHEN THE POINT OF DISTANCE
+IS INACCESSIBLE
+
+
+It has already been shown that too near a point of distance is
+objectionable on account of the distortion and disproportion resulting
+from it. At the same time, the long distance-point must be some way out
+of the picture and therefore inconvenient. The object of the reduced
+distance is to bring that point within the picture.
+
+  [Illustration: Fig. 85.]
+
+In Fig. 85 we have made the distance nearly twice the length of the base
+of the picture, and consequently a long way out of it. Draw _Sa_, _Sb_,
+and from _a_ draw _aD_ to point of distance, which cuts _Sb_ at _o_, and
+determines the depth of the square _acob_. But we can find that same
+point if we take half the base and draw a line from ½ base to ½
+distance. But even this ½ distance-point does not come inside the
+picture, so we take a fourth of the base and a fourth of the distance
+and draw a line from ¼ base to ¼ distance. We shall find that it passes
+precisely through the same point _o_ as the other lines _aD_, &c. We
+are thus able to find the required point _o_ without going outside the
+picture.
+
+Of course we could in the same way take an 8th or even a 16th distance,
+but the great use of this reduced distance, in addition to the above,
+is that it enables us to measure any depth into the picture with the
+greatest ease.
+
+It will be seen in the next figure that without having to extend the
+base, as is usually done, we can multiply that base to any amount by
+making use of these reduced distances on the horizontal line. This is
+quite a new method of proceeding, and it will be seen is mathematically
+correct.
+
+
+
+
+XXXIV
+
+HOW TO DRAW A LONG PASSAGE OR CLOISTER BY MEANS OF THE REDUCED DISTANCE
+
+
+  [Illustration: Fig. 86.]
+
+In Fig. 86 we have divided the base of the first square into four equal
+parts, which may represent so many feet, so that A4 and _Bd_ being the
+retreating sides of the square each represents 4 feet. But we found
+point ¼D by drawing 3D from ¼ base to ¼ distance, and by proceeding
+in the same way from each division, _A_, 1, 2, 3, we mark off on _SB_
+four spaces each equal to 4 feet, in all 16 feet, so that by taking the
+whole base and the ¼ distance we find point _O_, which is distant four
+times the length of the base _AB_. We can multiply this distance to any
+amount by drawing other diagonals to 8th distance, &c. The same rule
+applies to this corridor (Fig. 87 and Fig. 88).
+
+  [Illustration: Fig. 87.]
+
+  [Illustration: Fig. 88.]
+
+
+
+
+XXXV
+
+HOW TO FORM A VANISHING SCALE THAT SHALL GIVE THE HEIGHT, DEPTH,
+AND DISTANCE OF ANY OBJECT IN THE PICTURE
+
+
+If we make our scale to vanish to the point of sight, as in Fig. 89, we
+can make _SB_, the lower line thereof, a measuring line for distances.
+Let us first of all divide the base _AB_ into eight parts, each part
+representing 5 feet. From each division draw lines to 8th distance; by
+their intersections with _SB_ we obtain measurements of 40, 80, 120,
+160, &c., feet. Now divide the side of the picture _BE_ in the same
+manner as the base, which gives us the height of 40 feet. From the
+side _BE_ draw lines 5S, 15S, &c., to point of sight, and from each
+division on the base line also draw lines 5S, 10S, 15S, &c., to
+point of sight, and from each division on _SB_, such as 40, 80, &c.,
+draw horizontals parallel to base. We thus obtain squares 40 feet wide,
+beginning at base _AB_ and reaching as far as required. Note how the
+height of the flagstaff, which is 140 feet high and 280 feet distant, is
+obtained. So also any buildings or other objects can be measured, such
+as those shown on the left of the picture.
+
+  [Illustration: Fig. 89.]
+
+
+
+
+XXXVI
+
+MEASURING SCALE ON GROUND
+
+
+A simple and very old method of drawing buildings, &c., and giving them
+their right width and height is by means of squares of a given size,
+drawn on the ground.
+
+  [Illustration: Fig. 90.]
+
+In the above sketch (Fig. 90) the squares on the ground represent 3 feet
+each way, or one square yard. Taking this as our standard measure, we
+find the door on the left is 10 feet high, that the archway at the end
+is 21 feet high and 12 feet wide, and so on.
+
+  [Illustration: Fig. 91. Natural Perspective.]
+
+  [Illustration: Fig. 92. Honfleur.]
+
+Fig. 91 is a sketch made at Sandwich, Kent, and shows a somewhat similar
+subject to Fig. 84, but the irregularity and freedom of the perspective
+gives it a charm far beyond the rigid precision of the other, while it
+conforms to its main laws. This sketch, however, is the real artist's
+perspective, or what we might term natural perspective.
+
+
+
+
+XXXVII
+
+APPLICATION OF THE REDUCED DISTANCE AND THE VANISHING SCALE
+TO DRAWING A LIGHTHOUSE, &C.
+
+
+[Above illustration:
+Perspective of a lighthouse 135 feet high at 800 feet distance.]
+
+  [Illustration: Fig. 93. Key to Fig. 92, Honfleur.]
+
+In the drawing of Honfleur (Fig. 92) we divide the base _AB_ as in the
+previous figure, but the spaces measure 5 feet instead of 3 feet: so
+that taking the 8th distance, the divisions on the vanishing line _BS_
+measure 40 feet each, and at point _O_ we have 400 feet of distance, but
+we require 800. So we again reduce the distance to a 16th. We thus
+multiply the base by 16. Now let us take a base of 50 feet at _f_ and
+draw line _fD_ to 16th distance; if we multiply 50 feet by 16 we obtain
+the 800 feet required.
+
+The height of the lighthouse is found by means of the vanishing scale,
+which is 15 feet below and 15 feet above the horizon, or 30 feet from
+the sea-level. At _L_ we raise a vertical _LM_, which shows the position
+of the lighthouse. Then on that vertical measure the height required as
+shown in the figure.
+
+The 800 feet could be obtained at once by drawing line _fD_, or 50 feet,
+to 16th distance. The other measurements obtained by 8th distance serve
+for nearer buildings.
+
+
+
+
+XXXVIII
+
+HOW TO MEASURE LONG DISTANCES SUCH AS A MILE OR UPWARDS
+
+
+The wonderful effect of distance in Turner's pictures is not to be
+achieved by mere measurement, and indeed can only be properly done by
+studying Nature and drawing her perspective as she presents it to us. At
+the same time it is useful to be able to test and to set out distances
+in arranging a composition. This latter, if neglected, often leads to
+great difficulties and sometimes to repainting.
+
+To show the method of measuring very long distances we have to work with
+a very small scale to the foot, and in Fig. 94 I have divided the base
+_AB_ into eleven parts, each part representing 10 feet. First draw _AS_
+and _BS_ to point of sight. From _A_ draw _AD_ to ¼ distance, and we
+obtain at 440 on line _BS_ four times the length of _AB_, or 110 feet
+× 4 = 440 feet. Again, taking the whole base and drawing a line from _S_
+to 8th distance we obtain eight times 110 feet or 880 feet. If now we
+use the 16th distance we get sixteen times 110 feet, or 1,760 feet,
+one-third of a mile; by repeating this process, but by using the base at
+1,760, which is the same length in perspective as _AB_, we obtain 3,520
+feet, and then again using the base at 3,520 and proceeding in the same
+way we obtain 5,280 feet, or one mile to the archway. The flags show
+their heights at their respective distances from the base. By the scale
+at the side of the picture, _BO_, we can measure any height above or any
+depth below the perspective plane.
+
+  [Illustration: Fig. 94.]
+
+_Note_.--This figure (here much reduced) should be drawn large by the
+student, so that the numbering, &c., may be made more distinct. Indeed,
+many of the other figures should be copied large, and worked out with
+care, as lessons in perspective.
+
+
+
+
+XXXIX
+
+FURTHER ILLUSTRATION OF LONG DISTANCES AND EXTENDED VIEWS
+
+
+An extended view is generally taken from an elevated position, so that
+the principal part of the landscape lies beneath the perspective plane,
+as already noted, and we shall presently treat of objects and figures on
+uneven ground. In the previous figure is shown how we can measure
+heights and depths to any extent. But when we turn to a drawing by
+Turner, such as the 'View from Richmond Hill', we feel that the only way
+to accomplish such perspective as this, is to go and draw it from
+nature, and even then to use our judgement, as he did, as to how much we
+may emphasize or even exaggerate certain features.
+
+  [Illustration: Fig. 95. Turner's View from Richmond Hill.]
+
+Note in this view the foreground on which the principal figures stand is
+on a level with the perspective plane, while the river and surrounding
+park and woods are hundreds of feet below us and stretch away for miles
+into the distance. The contrasts obtained by this arrangement increase
+the illusion of space, and the figures in the foreground give as it were
+a standard of measurement, and by their contrast to the size of the
+trees show us how far away those trees are.
+
+
+
+
+XL
+
+HOW TO ASCERTAIN THE RELATIVE HEIGHTS OF FIGURES ON AN INCLINED PLANE
+
+
+  [Illustration: Fig. 96.]
+
+The three figures to the right marked _f_, _g_, _b_ (Fig. 96) are on
+level ground, and we measure them by the vanishing scale _aS_, _bS_.
+Those to the left, which are repetitions of them, are on an inclined
+plane, the vanishing point of which is _S·_; by the side of this plane
+we have placed another vanishing scale _a·S·_, _b·S·_, by which we
+measure the figures on that incline in the same way as on the level
+plane. It will be seen that if a horizontal line is drawn from the foot
+of one of these figures, say _G_, to point _O_ on the edge of the
+incline, then dropped vertically to _o·_, then again carried on to _o··_
+where the other figure _g_ is, we find it is the same height and also
+that the other vanishing scale is the same width at that distance, so
+that we can work from either one or the other. In the event of the
+rising ground being uneven we can make use of the scale on the level
+plane.
+
+
+
+
+XLI
+
+HOW TO FIND THE DISTANCE OF A GIVEN FIGURE OR POINT FROM THE BASE LINE
+
+
+  [Illustration: Fig. 97.]
+
+Let _P_ be the given figure. Form scale _ACS_, _S_ being the point of
+sight and _D_ the distance. Draw horizontal _do_ through _P_. From _A_
+draw diagonal _AD_ to distance point, cutting _do_ in _o_, through _o_
+draw _SB_ to base, and we now have a square _AdoB_ on the perspective
+plane; and as figure _P_ is standing on the far side of that square it
+must be the distance _AB_, which is one side of it, from the base
+line--or picture plane. For figures very far away it might be necessary
+to make use of half-distance.
+
+
+
+
+XLII
+
+HOW TO MEASURE THE HEIGHT OF FIGURES ON UNEVEN GROUND
+
+
+In previous problems we have drawn figures on level planes, which is
+easy enough. We have now to represent some above and some below the
+perspective plane.
+
+  [Illustration: Fig. 98.]
+
+Form scale _bS_, _cS_; mark off distances 20 feet, 40 feet, &c. Suppose
+figure _K_ to be 60 feet off. From point at his feet draw horizontal to
+meet vertical _On_, which is 60 feet distant. At the point _m_ where
+this line meets the vertical, measure height _mn_ equal to width of
+scale at that distance, transfer this to _K_, and you have the required
+height of the figure in black.
+
+For the figures under the cliff 20 feet below the perspective plane,
+form scale _FS_, _GS_, making it the same width as the other, namely
+5 feet, and proceed in the usual way to find the height of the figures
+on the sands, which are here supposed to be nearly on a level with the
+sea, of course making allowance for different heights and various other
+things.
+
+
+
+
+XLIII
+
+FURTHER ILLUSTRATION OF THE SIZE OF FIGURES AT DIFFERENT DISTANCES
+AND ON UNEVEN GROUND
+
+
+  [Illustration: Fig. 99.]
+
+Let _ab_ be the height of a figure, say 6 feet. First form scale _aS_,
+_bS_, the lower line of which, _aS_, is on a level with the base or on
+the perspective plane. The figure marked _C_ is close to base, the group
+of three is farther off (24 feet), and 6 feet higher up, so we measure
+the height on the vanishing scale and also above it. The two girls
+carrying fish are still farther off, and about 12 feet below. To tell
+how far a figure is away, refer its measurements to the vanishing scale
+(see Fig. 96).
+
+
+
+
+XLIV
+
+FIGURES ON A DESCENDING PLANE
+
+
+In this case (Fig. 100) the same rule applies as in the previous
+problem, but as the road on the left is going down hill, the vanishing
+point of the inclined plane is below the horizon at point _S·_; _AS_,
+_BS_ is the vanishing scale on the level plane; and _A·S·_, _B·S·_, that
+on the incline.
+
+Fig. 101. This is an outline of above figure to show the working more
+plainly.
+
+Note the wall to the left marked _W_ and the manner in which it appears
+to drop at certain intervals, its base corresponding with the inclined
+plane, but the upper lines of each division being made level are drawn
+to the point of sight, or to their vanishing point on the horizon; it is
+important to observe this, as it aids greatly in drawing a road going
+down hill.
+
+  [Illustration: Fig. 100.]
+
+  [Illustration: Fig. 101.]
+
+  [Illustration: Fig. 102.]
+
+
+
+
+XLV
+
+FURTHER ILLUSTRATION OF THE DESCENDING PLANE
+
+
+In the centre of this picture (Fig. 102) we suppose the road to be
+descending till it reaches a tunnel which goes under a road or leads to
+a river (like one leading out of the Strand near Somerset House). It is
+drawn on the same principle as the foregoing figure. Of course to see
+the road the spectator must get pretty near to it, otherwise it will be
+out of sight. Also a level plane must be shown, as by its contrast to
+the other we perceive that the latter is going down hill.
+
+
+
+
+XLVI
+
+FURTHER ILLUSTRATION OF UNEVEN GROUND
+
+An extended view drawn from a height of about 30 feet from a road that
+descends about 45 feet.
+
+  [Illustration: Fig. 103. Farningham.]
+
+In drawing a landscape such as Fig. 103 we have to bear in mind the
+height of the horizon, which being exactly opposite the eye, shows us at
+once which objects are below and which are above us, and to draw them
+accordingly, especially roofs, buildings, walls, hedges, &c.; also it
+is well to sketch in the different fields figures of men and cattle,
+as from the size of these we can judge of the rest.
+
+
+
+
+XLVII
+
+THE PICTURE STANDING ON THE GROUND
+
+
+Let _K_ represent a frame placed vertically and at a given distance in
+front of us. If stood on the ground our foreground will touch the base
+line of the picture, and we can fix up a standard of measurement both on
+the base and on the side as in this sketch, taking 6 feet as about the
+height of the figures.
+
+  [Illustration: Fig. 104. Toledo.]
+
+
+
+
+XLVIII
+
+THE PICTURE ON A HEIGHT
+
+
+If we are looking at a scene from a height, that is from a terrace, or a
+window, or a cliff, then the near foreground, unless it be the terrace,
+window-sill, &c., would not come into the picture, and we could not see
+the near figures at _A_, and the nearest to come into view would be
+those at _B_, so that a view from a window, &c., would be as it were
+without a foreground. Note that the figures at _B_ would be (according
+to this sketch) 30 feet from the picture plane and about 18 feet below
+the base line.
+
+  [Illustration: Fig. 105.]
+
+
+
+
+BOOK THIRD
+
+XLIX
+
+ANGULAR PERSPECTIVE
+
+
+Hitherto we have spoken only of parallel perspective, which is
+comparatively easy, and in our first figure we placed the cube with
+one of its sides either touching or parallel to the transparent plane.
+We now place it so that one angle only (_ab_), touches the picture.
+
+  [Illustration: Fig. 106.]
+
+Its sides are no longer drawn to the point of sight as in Fig. 7, nor
+its diagonal to the point of distance, but to some other points on the
+horizon, although the same rule holds good as regards their parallelism;
+as for instance, in the case of _bc_ and _ad_, which, if produced, would
+meet at _V_, a point on the horizon called a vanishing point. In this
+figure only one vanishing point is seen, which is to the right of the
+point of sight _S_, whilst the other is some distance to the left, and
+outside the picture. If the cube is correctly drawn, it will be found
+that the lines _ae_, _bg_, &c., if produced, will meet on the horizon at
+this other vanishing point. This far-away vanishing point is one of the
+inconveniences of oblique or angular perspective, and therefore it will
+be a considerable gain to the draughtsman if we can dispense with it.
+This can be easily done, as in the above figure, and here our geometry
+will come to our assistance, as I shall show presently.
+
+
+
+
+L
+
+HOW TO PUT A GIVEN POINT INTO PERSPECTIVE
+
+
+Let us place the given point _P_ on a geometrical plane, to show how far
+it is from the base line, and indeed in the exact position we wish it to
+be in the picture. The geometrical plane is supposed to face us, to hang
+down, as it were, from the base line _AB_, like the side of a table, the
+top of which represents the perspective plane. It is to that perspective
+plane that we now have to transfer the point _P_.
+
+  [Illustration: Fig. 107.]
+
+From _P_ raise perpendicular _Pm_ till it touches the base line at _m_.
+With centre _m_ and radius _mP_ describe arc _Pn_ so that _mn_ is now
+the same length as _mP_. As point _P_ is opposite point _m_, so must it
+be in the perspective, therefore we draw a line at right angles to the
+base, that is to the point of sight, and somewhere on this line will be
+found the required point _P·_. We now have to find how far from _m_ must
+that point be. It must be the length of _mn_, which is the same as _mP_.
+We therefore from _n_ draw _nD_ to the point of distance, which being at
+an angle of 45°, or half a right angle, makes _mP_· the perspective
+length of _mn_ by its intersection with _mS_, and thus gives us the
+point _P·_, which is the perspective of the original point.
+
+
+
+
+LI
+
+A PERSPECTIVE POINT BEING GIVEN, FIND ITS POSITION
+ON THE GEOMETRICAL PLANE
+
+
+To do this we simply reverse the foregoing problem. Thus let _P_ be the
+given perspective point. From point of sight _S_ draw a line through _P_
+till it cuts _AB_ at _m_. From distance _D_ draw another line through
+_P_ till it cuts the base at _n_. From _m_ drop perpendicular, and then
+with centre _m_ and radius _mn_ describe arc, and where it cuts that
+perpendicular is the required point _P·_. We often have to make use of
+this problem.
+
+  [Illustration: Fig. 108.]
+
+
+
+
+LII
+
+HOW TO PUT A GIVEN LINE INTO PERSPECTIVE
+
+
+This is simply a question of putting two points into perspective,
+instead of one, or like doing the previous problem twice over, for the
+two points represent the two extremities of the line. Thus we have to
+find the perspective of _A_ and _B_, namely _a·b·_. Join those points,
+and we have the line required.
+
+  [Illustration: Fig. 109.]
+
+  [Illustration: Fig. 110.]
+
+If one end touches the base, as at _A_ (Fig. 110), then we have but to
+find one point, namely _b_. We also find the perspective of the angle
+_mAB_, namely the shaded triangle mAb. Note also that the perspective
+triangle equals the geometrical triangle.
+
+  [Illustration: Fig. 111.]
+
+When the line required is parallel to the base line of the picture, then
+the perspective of it is also parallel to that base (see Rule 3).
+
+
+
+
+LIII
+
+TO FIND THE LENGTH OF A GIVEN PERSPECTIVE LINE
+
+
+A perspective line _AB_ being given, find its actual length and the
+angle at which it is placed.
+
+This is simply the reverse of the previous problem. Let _AB_ be the
+given line. From distance _D_ through _A_ draw _DC_, and from _S_, point
+of sight, through _A_ draw _SO_. Drop _OP_ at right angles to base,
+making it equal to _OC_. Join _PB_, and line _PB_ is the actual length
+of _AB_.
+
+This problem is useful in finding the position of any given line or
+point on the perspective plane.
+
+  [Illustration: Fig. 112.]
+
+
+
+
+LIV
+
+TO FIND THESE POINTS WHEN THE DISTANCE-POINT IS INACCESSIBLE
+
+
+  [Illustration: Fig. 113.]
+
+If the distance-point is a long way out of the picture, then the same
+result can be obtained by using the half distance and half base, as
+already shown.
+
+From _a_, half of _mP_·, draw quadrant _ab_, from _b_ (half base), draw
+line from _b_ to half Dist., which intersects _Sm_ at _P_, precisely the
+same point as would be obtained by using the whole distance.
+
+
+
+
+LV
+
+HOW TO PUT A GIVEN TRIANGLE OR OTHER RECTILINEAL FIGURE INTO PERSPECTIVE
+
+
+Here we simply put three points into perspective to obtain the given
+triangle _A_, or five points to obtain the five-sided figure at _B_.
+So can we deal with any number of figures placed at any angle.
+
+  [Illustration: Fig. 114.]
+
+Both the above figures are placed in the same diagram, showing how any
+number can be drawn by means of the same point of sight and the same
+point of distance, which makes them belong to the same picture.
+
+It is to be noted that the figures appear reversed in the perspective.
+That is, in the geometrical triangle the base at _ab_ is uppermost,
+whereas in the perspective _ab_ is lowermost, yet both are nearest to
+the ground line.
+
+
+
+
+LVI
+
+HOW TO PUT A GIVEN SQUARE INTO ANGULAR PERSPECTIVE
+
+
+Let _ABCD_ (Fig. 115) be the given square on the geometrical plane,
+where we can place it as near or as far from the base and at any angle
+that we wish. We then proceed to find its perspective on the picture by
+finding the perspective of the four points _ABCD_ as already shown. Note
+that the two sides of the perspective square _dc_ and _ab_ being
+produced, meet at point _V_ on the horizon, which is their vanishing
+point, but to find the point on the horizon where sides _bc_ and _ad_
+meet, we should have to go a long way to the left of the figure, which
+by this method is not necessary.
+
+  [Illustration: Fig. 115.]
+
+
+
+
+LVII
+
+OF MEASURING POINTS
+
+
+We now have to find certain points by which to measure those vanishing
+or retreating lines which are no longer at right angles to the picture
+plane, as in parallel perspective, and have to be measured in a
+different way, and here geometry comes to our assistance.
+
+  [Illustration: Fig. 116.]
+
+Note that the perspective square _P_ equals the geometrical square _K_,
+so that side _AB_ of the one equals side _ab_ of the other. With centre
+_A_ and radius _AB_ describe arc _Bm·_ till it cuts the base line at
+_m·_. Now _AB_ = _Am·_, and if we join _bm·_ then triangle _BAm·_ is an
+isosceles triangle. So likewise if we join _m·b_ in the perspective
+figure will m·Ab be the same isosceles triangle in perspective. Continue
+line _m·b_ till it cuts the horizon in _m_, which point will be the
+measuring point for the vanishing line _AbV_. For if in an isosceles
+triangle we draw lines across it, parallel to its base from one side to
+the other, we divide both sides in exactly the same quantities and
+proportions, so that if we measure on the base line of the picture the
+spaces we require, such as 1, 2, 3, on the length _Am·_, and then
+from these divisions draw lines to the measuring point, these lines
+will intersect the vanishing line _AbV_ in the lengths and proportions
+required. To find a measuring point for the lines that go to the other
+vanishing point, we proceed in the same way. Of course great accuracy
+is necessary.
+
+Note that the dotted lines 1,1, 2,2, &c., are parallel in the
+perspective, as in the geometrical figure. In the former the lines are
+drawn to the same point _m_ on the horizon.
+
+
+
+
+LVIII
+
+HOW TO DIVIDE ANY GIVEN STRAIGHT LINE INTO EQUAL OR PROPORTIONATE PARTS
+
+
+  [Illustration: Fig. 117.]
+
+Let _AB_ (Fig. 117) be the given straight line that we wish to divide
+into five equal parts. Draw _AC_ at any convenient angle, and measure
+off five equal parts with the compasses thereon, as 1, 2, 3, 4, 5. From
+5C draw line to 5B. Now from each division on _AC_ draw lines 4,4, 3,3,
+&c., parallel to 5,5. Then _AB_ will be divided into the required number
+of equal parts.
+
+
+
+
+LIX
+
+HOW TO DIVIDE A DIAGONAL VANISHING LINE INTO ANY NUMBER
+OF EQUAL OR PROPORTIONAL PARTS
+
+
+In a previous figure (Fig. 116) we have shown how to find a measuring
+point when the exact measure of a vanishing line is required, but if it
+suffices merely to divide a line into a given number of equal parts,
+then the following simple method can be adopted.
+
+We wish to divide _ab_ into five equal parts. From _a_, measure off on
+the ground line the five equal spaces required. From 5, the point to
+which these measures extend (as they are taken at random), draw a line
+through _b_ till it cuts the horizon at _O_. Then proceed to draw lines
+from each division on the base to point _O_, and they will intersect and
+divide _ab_ into the required number of equal parts.
+
+  [Illustration: Fig. 118.]
+
+  [Illustration: Fig. 119.]
+
+The same method applies to a given line to be divided into various
+proportions, as shown in this lower figure.
+
+  [Illustration: Fig. 120.]
+
+  [Illustration: Fig. 121.]
+
+
+
+
+LX
+
+FURTHER USE OF THE MEASURING POINT O
+
+
+One square in oblique or angular perspective being given, draw any
+number of other squares equal to it by means of this point _O_ and the
+diagonals.
+
+Let _ABCD_ (Fig. 120) be the given square; produce its sides _AB_, _DC_
+till they meet at point _V_. From _D_ measure off on base any number of
+equal spaces of any convenient length, as 1, 2, 3, &c.; from 1, through
+corner of square _C_, draw a line to meet the horizon at _O_, and from
+_O_ draw lines to the several divisions on base line. These lines will
+divide the vanishing line _DV_ into the required number of parts equal
+to _DC_, the side of the square. Produce the diagonal of the square _DB_
+till it cuts the horizon at _G_. From the divisions on line _DV_ draw
+diagonals to point _G_: their intersections with the other vanishing
+line _AV_ will determine the direction of the cross-lines which form the
+bases of other squares without the necessity of drawing them to the
+other vanishing point, which in this case is some distance to the left
+of the picture. If we produce these cross-lines to the horizon we shall
+find that they all meet at the other vanishing point, to which of course
+it is easy to draw them when that point is accessible, as in Fig. 121;
+but if it is too far out of the picture, then this method enables us to
+do without it.
+
+Figure 121 corroborates the above by showing the two vanishing points
+and additional squares. Note the working of the diagonals drawn to point
+_G_, in both figures.
+
+
+
+
+LXI
+
+FURTHER USE OF THE MEASURING POINT O
+
+
+Suppose we wish to divide the side of a building, as in Fig. 123, or to
+draw a balcony, a series of windows, or columns, or what not, or, in
+other words, any line above the horizon, as _AB_. Then from _A_ we draw
+_AC_ parallel to the horizon, and mark thereon the required divisions 5,
+10, 15, &c.: in this case twenty-five (Fig. 122). From _C_ draw a line
+through _B_ till it cuts the horizon at _O_. Then proceed to draw the
+other lines from each division to _O_, and thus divide the vanishing
+line _AB_ as required.
+
+  [Illustration: Fig. 122 is a front view of the portico, Fig. 123.]
+
+  [Illustration: Fig. 123.]
+
+In this portico there are thirteen triglyphs with twelve spaces between
+them, making twenty-five divisions. The required number of parts to draw
+the columns can be obtained in the same way.
+
+
+
+
+LXII
+
+ANOTHER METHOD OF ANGULAR PERSPECTIVE, BEING THAT ADOPTED
+IN OUR ART SCHOOLS
+
+
+In the previous method we have drawn our squares by means of a
+geometrical plan, putting each point into perspective as required, and
+then by means of the perspective drawing thus obtained, finding our
+vanishing and measuring points. In this method we proceed in exactly the
+opposite way, setting out our points first, and drawing the square (or
+other figure) afterwards.
+
+  [Illustration: Fig. 124.]
+
+Having drawn the horizontal and base lines, and fixed upon the position
+of the point of sight, we next mark the position of the spectator by
+dropping a perpendicular, _S ST_, from that point of sight, making it
+the same length as the distance we suppose the spectator to be from the
+picture, and thus we make _ST_ the station-point.
+
+To understand this figure we must first look upon it as a ground-plan or
+bird's-eye view, the line V2V1 or horizon line representing the picture
+seen edgeways, because of course the station-point cannot be in the
+picture itself, but a certain distance in front of it. The angle at
+_ST_, that is the angle which decides the positions of the two vanishing
+points V1, V2, is always a right angle, and the two remaining angles
+on that side of the line, called the directing line, are together equal
+to a right angle or 90°. So that in fixing upon the angle at which the
+square or other figure is to be placed, we say 'let it be 60° and 30°,
+or 70° and 20°', &c. Having decided upon the station-point and the angle
+at which the square is to be placed, draw TV1 and TV2, till they cut
+the horizon at V1 and V2. These are the two vanishing points to
+which the sides of the figure are respectively drawn. But we still want
+the measuring points for these two vanishing lines. We therefore take
+first, V1 as centre and V1T as radius, and describe arc of circle till
+it cuts the horizon in M1, which is the measuring point for all lines
+drawn to V1. Then with radius V2T describe arc from centre V2 till
+it cuts the horizon in M2, which is the measuring point for all
+vanishing lines drawn to V2. We have now set out our points. Let us
+proceed to draw the square _Abcd_. From _A_, the nearest angle (in this
+instance touching the base line), measure on each side of it the equal
+lengths _AB_ and _AE_, which represent the width or side of the square.
+Draw EM2 and BM1 from the two measuring points, which give us, by
+their intersections with the vanishing lines AV1 and AV2, the
+perspective lengths of the sides of the square _Abcd_. Join _b_ and V1
+and dV2, which intersect each other at _C_, then _Adcb_ is the square
+required.
+
+This method, which is easy when you know it, has certain drawbacks, the
+chief one being that if we require a long-distance point, and a small
+angle, such as 10° on one side, and 80° on the other, then the size of
+the diagram becomes so large that it has to be carried out on the floor
+of the studio with long strings, &c., which is a very clumsy and
+unscientific way of setting to work. The architects in such cases make
+use of the centrolinead, a clever mechanical contrivance for getting
+over the difficulty of the far-off vanishing point, but by the method I
+have shown you, and shall further illustrate, you will find that you can
+dispense with all this trouble, and do all your perspective either
+inside the picture or on a very small margin outside it.
+
+Perhaps another drawback to this method is that it is not self-evident,
+as in the former one, and being rather difficult to explain, the student
+is apt to take it on trust, and not to trouble about the reasons for its
+construction: but to show that it is equally correct, I will draw the
+two methods in one figure.
+
+
+
+
+LXIII
+
+TWO METHODS OF ANGULAR PERSPECTIVE IN ONE FIGURE
+
+
+  [Illustration: Fig. 125.]
+
+It matters little whether the station-point is placed above or below the
+horizon, as the result is the same. In Fig. 125 it is placed above, as
+the lower part of the figure is occupied with the geometrical plan of
+the other method.
+
+In each case we make the square _K_ the same size and at the same angle,
+its near corner being at _A_. It must be seen that by whichever method
+we work out this perspective, the result is the same, so that both are
+correct: the great advantage of the first or geometrical system being,
+that we can place the square at any angle, as it is drawn without
+reference to vanishing points.
+
+We will, however, work out a few figures by the second method.
+
+
+
+
+LXIV
+
+TO DRAW A CUBE, THE POINTS BEING GIVEN
+
+
+As in a previous figure (124) we found the various working points of
+angular perspective, we need now merely transfer them to the horizontal
+line in this figure, as in this case they will answer our purpose
+perfectly well.
+
+  [Illustration: Fig. 126.]
+
+Let _A_ be the nearest angle touching the base. Draw AV1, AV2. From
+_A_, raise vertical _Ae_, the height of the cube. From _e_ draw eV1,
+eV2, from the other angles raise verticals _bf_, _dh_, _cg_, to meet
+eV1, eV2, fV2, &c., and the cube is complete.
+
+
+
+
+LXV
+
+AMPLIFICATION OF THE CUBE APPLIED TO DRAWING A COTTAGE
+
+
+  [Illustration: Fig. 127.]
+
+Note that we have started this figure with the cube _Adhefb_. We have
+taken three times _AB_, its width, for the front of our house, and twice
+_AB_ for the side, and have made it two cubes high, not counting the
+roof. Note also the use of the measuring-points in connexion with the
+measurements on the base line, and the upper measuring line _TPK_.
+
+
+
+
+LXVI
+
+HOW TO DRAW AN INTERIOR AT AN ANGLE
+
+
+Here we make use of the same points as in a previous figure, with the
+addition of the point _G_, which is the vanishing point of the diagonals
+of the squares on the floor.
+
+  [Illustration: Fig. 128.]
+
+From _A_ draw square _Abcd_, and produce its sides in all directions;
+again from _A_, through the opposite angle of the square _C_, draw a
+diagonal till it cuts the horizon at _G_. From _G_ draw diagonals
+through _b_ and _d_, cutting the base at _o_, _o_, make spaces _o_, _o_,
+equal to _Ao_ all along the base, and from them draw diagonals to _G_;
+through the points where these diagonals intersect the vanishing lines
+drawn in the direction of _Ab_, _dc_ and _Ad_, _bc_, draw lines to the
+other vanishing point V1, thus completing the squares, and so cover
+the floor with them; they will then serve to measure width of door,
+windows, &c. Of course horizontal lines on wall 1 are drawn to V1, and
+those on wall 2 to V2.
+
+In order to see this drawing properly, the eye should be placed about
+3 inches from it, and opposite the point of sight; it will then stand
+out like a stereoscopic picture, and appear as actual space, but
+otherwise the perspective seems deformed, and the angles exaggerated.
+To make this drawing look right from a reasonable distance, the point of
+distance should be at least twice as far off as it is here, and this
+would mean altering all the other points and sending them a long way out
+of the picture; this is why artists use those long strings referred to
+above. I would however, advise them to make their perspective drawing on
+a small scale, and then square it up to the size of the canvas.
+
+
+
+
+LXVII
+
+HOW TO CORRECT DISTORTED PERSPECTIVE BY DOUBLING THE LINE OF DISTANCE
+
+
+Here we have the same interior as the foregoing, but drawn with double
+the distance, so that the perspective is not so violent and the objects
+are truer in proportion to each other.
+
+  [Illustration: Fig. 129.]
+
+To redraw the whole figure double the size, including the station-point,
+would require a very large diagram, that we could not get into this book
+without a folding plate, but it comes to the same thing if we double the
+distances between the various points. Thus, if from _S_ to _G_ in the
+small diagram is 1 inch, in the larger one make it 2 inches. If from _S_
+to M2 is 2 inches, in the larger make it 4, and so on.
+
+Or this form may be used: make _AB_ twice the length of _AC_ (Fig. 130),
+or in any other proportion required. On _AC_ mark the points as in the
+drawing you wish to enlarge. Make _AB_ the length that you wish to
+enlarge to, draw _CB_, and then from each division on _AC_ draw lines
+parallel to _CB_, and _AB_ will be divided in the same proportions, as I
+have already shown (Fig. 117).
+
+There is no doubt that it is easier to work direct from the vanishing
+points themselves, especially in complicated architectural work, but at
+the same time I will now show you how we can dispense with, at all
+events, one of them, and that the farthest away.
+
+  [Illustration: Fig. 130.]
+
+
+
+
+LXVIII
+
+HOW TO DRAW A CUBE ON A GIVEN SQUARE, USING ONLY ONE VANISHING POINT
+
+
+_ABCD_ is the given square (Fig. 131). At _A_ raise vertical _Aa_ equal
+to side of square _AB·_, from _a_ draw _ab_ to the vanishing point.
+Raise _Bb_. Produce _VD_ to _E_ to touch the base line. From _E_ raise
+vertical _EF_, making it equal to _Aa_. From _F_ draw _FV_. Raise _Dd_
+and _Cc_, their heights being determined by the line _FV_. Join _da_ and
+the cube is complete. It will be seen that the verticals raised at each
+corner of the square are equal perspectively, as they are drawn between
+parallels which start from equal heights, namely, from _EF_ and _Aa_ to
+the same point _V_, the vanishing point. Any other line, such as _OO·_,
+can be directed to the inaccessible vanishing point in the same way as
+_ad_, &c.
+
+_Note._ This is only one of many original figures and problems in this
+book which have been called up by the wish to facilitate the work of the
+artist, and as it were by necessity.
+
+  [Illustration: Fig. 131.]
+
+
+
+
+LXIX
+
+A COURTYARD OR CLOISTER DRAWN WITH ONE VANISHING POINT
+
+
+  [Illustration: Fig. 132.]
+
+In this figure I have first drawn the pavement by means of the diagonals
+_GA_, _Go_, _Go_, &c., and the vanishing point _V_, the square at _A_
+being given. From _A_ draw diagonal through opposite corner till it cuts
+the horizon at _G_. From this same point _G_ draw lines through the
+other corners of the square till they cut the ground line at _o_, _o_.
+Take this measurement _Ao_ and mark it along the base right and left of
+_A_, and the lines drawn from these points _o_ to point _G_ will give
+the diagonals of all the squares on the pavement. Produce sides of
+square _A_, and where these lines are intersected by the diagonals _Go_
+draw lines from the vanishing point _V_ to base. These will give us the
+outlines of the squares lying between them and also guiding points that
+will enable us to draw as many more as we please. These again will give
+us our measurements for the widths of the arches, &c., or between the
+columns. Having fixed the height of wall or dado, we make use of _V_
+point to draw the sides of the building, and by means of proportionate
+measurement complete the rest, as in Fig. 128.
+
+
+
+
+LXX
+
+HOW TO DRAW LINES WHICH SHALL MEET AT A DISTANT POINT,
+BY MEANS OF DIAGONALS
+
+
+This is in a great measure a repetition of the foregoing figure, and
+therefore needs no further explanation.
+
+  [Illustration: Fig. 133.]
+
+I must, however, point out the importance of the point _G_. In angular
+perspective it in a measure takes the place of the point of distance in
+parallel perspective, since it is the vanishing point of diagonals at
+45° drawn between parallels such as _AV_, _DV_, drawn to a vanishing
+point _V_. The method of dividing line _AV_ into a number of parts equal
+to _AB_, the side of the square, is also shown in a previous figure
+(Fig. 120).
+
+
+
+
+LXXI
+
+HOW TO DIVIDE A SQUARE PLACED AT AN ANGLE INTO A GIVEN NUMBER
+OF SMALL SQUARES
+
+
+_ABCD_ is the given square, and only one vanishing point is accessible.
+Let us divide it into sixteen small squares. Produce side _CD_ to base
+at _E_. Divide _EA_ into four equal parts. From each division draw lines
+to vanishing point _V_. Draw diagonals _BD_ and _AC_, and produce the
+latter till it cuts the horizon in _G_. Draw the three cross-lines
+through the intersections made by the diagonals and the lines drawn to
+_V_, and thus divide the square into sixteen.
+
+  [Illustration: Fig. 134.]
+
+This is to some extent the reverse of the previous problem. It also
+shows how the long vanishing point can be dispensed with, and the
+perspective drawing brought within the picture.
+
+
+
+
+LXXII
+
+FURTHER EXAMPLE OF HOW TO DIVIDE A GIVEN OBLIQUE SQUARE INTO
+A GIVEN NUMBER OF EQUAL SQUARES, SAY TWENTY-FIVE
+
+
+Having drawn the square _ABCD_, which is enclosed, as will be seen, in a
+dotted square in parallel perspective, I divide the line _EA_ into five
+equal parts instead of four (Fig. 135), and have made use of the device
+for that purpose by measuring off the required number on line _EF_, &c.
+Fig. 136 is introduced here simply to show that the square can be
+divided into any number of smaller squares. Nor need the figure be
+necessarily a square; it is just as easy to make it an oblong, as _ABEF_
+(Fig. 136); for although we begin with a square we can extend it in any
+direction we please, as here shown.
+
+  [Illustration: Fig. 135.]
+
+  [Illustration: Fig. 136.]
+
+
+
+
+LXXIII
+
+OF PARALLELS AND DIAGONALS
+
+
+  [Illustration: Fig. 137 A.]
+
+  [Illustration: Fig. 137 B.]
+
+  [Illustration: Fig. 137 C.]
+
+To find the centre of a square or other rectangular figure we have but
+to draw its two diagonals, and their intersection will give us the
+centre of the figure (see 137 A). We do the same with perspective
+figures, as at B. In Fig. C is shown how a diagonal, drawn from one
+angle of a square _B_ through the centre _O_ of the opposite side of the
+square, will enable us to find a second square lying between the same
+parallels, then a third, a fourth, and so on. At figure _K_ lying on
+the ground, I have divided the farther side of the square _mn_ into ¼,
+1/3, ½. If I draw a diagonal from _G_ (at the base) through the half
+of this line I cut off on _FS_ the lengths or sides of two squares;
+if through the quarter I cut off the length of four squares on the
+vanishing line _FS_, and so on. In Fig. 137 D is shown how easily any
+number of objects at any equal distances apart, such as posts, trees,
+columns, &c., can be drawn by means of diagonals between parallels,
+guided by a central line _GS_.
+
+  [Illustration: Fig. 137 D.]
+
+
+
+
+LXXIV
+
+THE SQUARE, THE OBLONG, AND THEIR DIAGONALS
+
+
+  [Illustration: Fig. 138.]
+
+  [Illustration: Fig. 139.]
+
+Having found the centre of a square or oblong, such as Figs. 138 and
+139, if we draw a third line through that centre at a given angle and
+then at each of its extremities draw perpendiculars _AB_, _DC_, we
+divide that square or oblong into three parts, the two outer portions
+being equal to each other, and the centre one either larger or smaller
+as desired; as, for instance, in the triumphal arch we make the centre
+portion larger than the two outer sides. When certain architectural
+details and spaces are to be put into perspective, a scale such as that
+in Fig. 123 will be found of great convenience; but if only a ready
+division of the principal proportions is required, then these diagonals
+will be found of the greatest use.
+
+
+
+
+LXXV
+
+SHOWING THE USE OF THE SQUARE AND DIAGONALS IN DRAWING DOORWAYS,
+WINDOWS, AND OTHER ARCHITECTURAL FEATURES
+
+
+This example is from Serlio's _Architecture_ (1663), showing what
+excellent proportion can be obtained by the square and diagonals. The
+width of the door is one-third of the base of square, the height
+two-thirds. As a further illustration we have drawn the same figure in
+perspective.
+
+  [Illustration: Fig. 140.]
+
+  [Illustration: Fig. 141.]
+
+
+
+
+LXXVI
+
+HOW TO MEASURE DEPTHS BY DIAGONALS
+
+
+If we take any length on the base of a square, say from _A_ to _g_, and
+from _g_ raise a perpendicular till it cuts the diagonal _AB_ in _O_,
+then from _O_ draw horizontal _Og·_, we form a square AgOg·, and thus
+measure on one side of the square the distance or depth _Ag·_. So can we
+measure any other length, such as _fg_, in like manner.
+
+  [Illustration: Fig. 142.]
+
+  [Illustration: Fig. 143.]
+
+To do this in perspective we pursue precisely the same method, as shown
+in this figure (143).
+
+To measure a length _Ag_ on the side of square _AC_, we draw a line from
+_g_ to the point of sight _S_, and where it crosses diagonal _AB_ at _O_
+we draw horizontal _Og_, and thus find the required depth _Ag_ in the
+picture.
+
+
+
+
+LXXVII
+
+HOW TO MEASURE DISTANCES BY THE SQUARE AND DIAGONAL
+
+
+It may sometimes be convenient to have a ready method by which to
+measure the width and length of objects standing against the wall of a
+gallery, without referring to distance-points, &c.
+
+  [Illustration: Fig. 144.]
+
+In Fig. 144 the floor is divided into two large squares with their
+diagonals. Suppose we wish to draw a fireplace or a piece of furniture
+_K_, we measure its base _ef_ on _AB_, as far from _B_ as we wish it to
+be in the picture; draw _eo_ and _fo_ to point of sight, and proceed as
+in the previous figure by drawing parallels from _Oo_, &c.
+
+Let it be observed that the great advantage of this method is, that we
+can use it to measure such distant objects as _XY_ just as easily as
+those near to us.
+
+There is, however, a still further advantage arising from it, and that
+is that it introduces us to a new and simpler method of perspective, to
+which I have already referred, and it will, I hope, be found of infinite
+use to the artist.
+
+_Note._--As we have founded many of these figures on a given square in
+angular perspective, it is as well to have a ready and certain means of
+drawing that square without the elaborate setting out of a geometrical
+plan, as in the first method, or the more cumbersome and extended system
+of the second method. I shall therefore show you another method equally
+correct, but much simpler than either, which I have invented for our
+use, and which indeed forms one of the chief features of this book.
+
+
+
+
+LXXVIII
+
+HOW BY MEANS OF THE SQUARE AND DIAGONAL WE CAN DETERMINE
+THE POSITION OF POINTS IN SPACE
+
+
+Apart from the aid that perspective affords the draughtsman, there is a
+further value in it, in that it teaches us almost a new science, which
+we might call the mystery of aspect, and how it is that the objects
+around us take so many different forms, or rather appearances, although
+they themselves remain the same. And also that it enables us, with,
+I think, great pleasure to ourselves, to fathom space, to work out
+difficult problems by simple reasoning, and to exercise those inventive
+and critical faculties which give strength and enjoyment to mental life.
+
+And now, after this brief excursion into philosophy, let us come down to
+the simple question of the perspective of a point.
+
+  [Illustration: Fig. 145.]
+
+  [Illustration: Fig. 146.]
+
+Here, for instance, are two aspects of the same thing: the geometrical
+square _A_, which is facing us, and the perspective square _B_, which we
+suppose to lie flat on the table, or rather on the perspective plane.
+Line _A·C·_ is the perspective of line _AC_. On the geometrical square
+we can make what measurements we please with the compasses, but on the
+perspective square _B·_ the only line we can actually measure is the
+base line. In both figures this base line is the same length. Suppose we
+want to find the perspective of point _P_ (Fig. 146), we make use of the
+diagonal _CA_. From _P_ in the geometrical square draw _PO_ to meet the
+diagonal in _O_; through _O_ draw perpendicular _fe_; transfer length
+_fB_, so found, to the base of the perspective square; from _f_ draw
+_fS_ to point of sight; where it cuts the diagonal in _O_, draw
+horizontal _OP·_, which gives us the point required. In the same way we
+can find the perspective of any number of points on any side of the
+square.
+
+
+
+
+LXXIX
+
+PERSPECTIVE OF A POINT PLACED IN ANY POSITION WITHIN THE SQUARE
+
+
+Let the point _P_ be the one we wish to put into perspective. We have
+but to repeat the process of the previous problem, making use of our
+measurements on the base, the diagonals, &c.
+
+  [Illustration: Fig. 147.]
+
+Indeed these figures are so plain and evident that further description
+of them is hardly necessary, so I will here give two drawings of
+triangles which explain themselves. To put a triangle into perspective
+we have but to find three points, such as _fEP_, Fig. 148 A, and then
+transfer these points to the perspective square 148 B, as there shown,
+and form the perspective triangle; but these figures explain themselves.
+Any other triangle or rectilineal figure can be worked out in the same
+way, which is not only the simplest method, but it carries its
+mathematical proof with it.
+
+  [Illustration: Fig. 148 A.]
+
+  [Illustration: Fig. 148 B.]
+
+  [Illustration: Fig. 149 A.]
+
+  [Illustration: Fig. 149 B.]
+
+
+
+
+LXXX
+
+PERSPECTIVE OF A SQUARE PLACED AT AN ANGLE NEW METHOD
+
+
+As we have drawn a triangle in a square so can we draw an oblique square
+in a parallel square. In Figure 150 A we have drawn the oblique square
+_GEPn_. We find the points on the base _Am_, as in the previous figures,
+which enable us to construct the oblique perspective square _n·G·E·P·_
+in the parallel perspective square Fig. 150 B. But it is not necessary
+to construct the geometrical figure, as I will show presently. It is
+here introduced to explain the method.
+
+  [Illustration: Fig. 150 A.]
+
+  [Illustration: Fig. 150 B.]
+
+Fig. 150 B. To test the accuracy of the above, produce sides _G·E·_ and
+_n·P·_ of perspective square till they touch the horizon, where they
+will meet at _V_, their vanishing point, and again produce the other
+sides _n·G·_ and _P·E·_ till they meet on the horizon at the other
+vanishing point, which they must do if the figure is correctly drawn.
+
+In any parallel square construct an oblique square from a given
+point--given the parallel square at Fig. 150 B, and given point _n·_ on
+base. Make _A·f·_ equal to _n·m·_, draw _f·S_ and _n·S_ to point of
+sight. Where these lines cut the diagonal _AC_ draw horizontals to _P·_
+and _G·_, and so find the four points _G·E·P·n·_ through which to draw
+the square.
+
+
+
+
+LXXXI
+
+ON A GIVEN LINE PLACED AT AN ANGLE TO THE BASE DRAW A SQUARE IN ANGULAR
+PERSPECTIVE, THE POINT OF SIGHT, AND DISTANCE, BEING GIVEN.
+
+
+  [Illustration: Fig. 151.]
+
+Let _AB_ be the given line, _S_ the point of sight, and _D_ the distance
+(Fig. 151, 1). Through _A_ draw _SC_ from point of sight to base (Fig.
+151, 2 and 3). From _C_ draw _CD_ to point of distance. Draw _Ao_
+parallel to base till it cuts _CD_ at _o_, through _O_ draw _SP_, from
+_B_ mark off _BE_ equal to _CP_. From _E_ draw _ES_ intersecting _CD_ at
+_K_, from _K_ draw _KM_, thus completing the outer parallel square.
+Through _F_, where _PS_ intersects _MK_, draw _AV_ till it cuts the
+horizon in _V_, its vanishing point. From _V_ draw _VB_ cutting side
+_KE_ of outer square in _G_, and we have the four points _AFGB_, which
+are the four angles of the square required. Join _FG_, and the figure is
+complete.
+
+Any other side of the square might be given, such as _AF_. First through
+_A_ and _F_ draw _SC_, _SP_, then draw _Ao_, then through _o_ draw _CD_.
+From _C_ draw base of parallel square _CE_, and at _M_ through _F_ draw
+_MK_ cutting diagonal at _K_, which gives top of square. Now through _K_
+draw _SE_, giving _KE_ the remaining side thereof, produce _AF_ to _V_,
+from _V_ draw _VB_. Join _FG_, _GB_, and _BA_, and the square required
+is complete.
+
+The student can try the remaining two sides, and he will find they work
+out in a similar way.
+
+
+
+
+LXXXII
+
+HOW TO DRAW SOLID FIGURES AT ANY ANGLE BY THE NEW METHOD
+
+
+As we can draw planes by this method so can we draw solids, as shown in
+these figures. The heights of the corners of the triangles are obtained
+by means of the vanishing scales _AS_, _OS_, which have already been
+explained.
+
+  [Illustration: Fig. 152.]
+
+  [Illustration: Fig. 153.]
+
+In the same manner we can draw a cubic figure (Fig. 154)--a box, for
+instance--at any required angle. In this case, besides the scale _AS_,
+_OS_, we have made use of the vanishing lines _DV_, _BV_, to corroborate
+the scale, but they can be dispensed with in these simple objects, or we
+can use a scale on each side of the figure as _a·o·S_, should both
+vanishing points be inaccessible. Let it be noted that in the scale
+_AOS_, _AO_ is made equal to _BC_, the height of the box.
+
+  [Illustration: Fig. 154.]
+
+By a similar process we draw these two figures, one on the square, the
+other on the circle.
+
+  [Illustration: Fig. 155.]
+
+  [Illustration: Fig. 156.]
+
+
+
+
+LXXXIII
+
+POINTS IN SPACE
+
+
+The chief use of these figures is to show how by means of diagonals,
+horizontals, and perpendiculars almost any figure in space can be set
+down. Lines at any slope and at any angle can be drawn by this
+descriptive geometry.
+
+The student can examine these figures for himself, and will understand
+their working from what has gone before. Here (Fig. 157) in the
+geometrical square we have a vertical plane _AabB_ standing on its base
+_AB_. We wish to place a projection of this figure at a certain distance
+and at a given angle in space. First of all we transfer it to the side
+of the cube, where it is seen in perspective, whilst at its side is
+another perspective square lying flat, on which we have to stand our
+figure. By means of the diagonal of this flat square, horizontals from
+figure on side of cube, and lines drawn from point of sight (as already
+explained), we obtain the direction of base line _AB_, and also by means
+of lines _aa·_ and _bb·_ we obtain the two points in space _a·b·_. Join
+_Aa·_, _a·b·_ and _Bb·_, and we have the projection required, and which
+may be said to possess the third dimension.
+
+  [Illustration: Fig. 157.]
+
+In this other case (Fig. 158) we have a wedge-shaped figure standing on
+a triangle placed on the ground, as in the previous figure, its three
+corners being the same height. In the vertical geometrical square we
+have a ground-plan of the figure, from which we draw lines to diagonal
+and to base, and notify by numerals 1, 3, 2, 1, 3; these we transfer to
+base of the horizontal perspective square, and then construct shaded
+triangle 1, 2, 3, and raise to the height required as shown at
+1·, 2·, 3·. Although we may not want to make use of these special
+figures, they show us how we could work out almost any form or object
+suspended in space.
+
+  [Illustration: Fig. 158.]
+
+
+
+
+LXXXIV
+
+THE SQUARE AND DIAGONAL APPLIED TO CUBES AND SOLIDS DRAWN THEREIN
+
+
+  [Illustration: Fig. 159.]
+
+As we have made use of the square and diagonal to draw figures at
+various angles so can we make use of cubes either in parallel or angular
+perspective to draw other solid figures within them, as shown in these
+drawings, for this is simply an amplification of that method. Indeed we
+might invent many more such things. But subjects for perspective
+treatment will constantly present themselves to the artist or
+draughtsman in the course of his experience, and while I endeavour to
+show him how to grapple with any new difficulty or subject that may
+arise, it is impossible to set down all of them in this book.
+
+  [Illustration: Fig. 160.]
+
+
+
+
+LXXXV
+
+TO DRAW AN OBLIQUE SQUARE IN ANOTHER OBLIQUE SQUARE
+WITHOUT USING VANISHING POINTS
+
+
+It is not often that both vanishing points are inaccessible, still it is
+well to know how to proceed when this is the case. We first draw the
+square _ABCD_ inside the parallel square, as in previous figures. To
+draw the smaller square _K_ we simply draw a smaller parallel square _h
+h h h_, and within that, guided by the intersections of the diagonals
+therewith, we obtain the four points through which to draw square _K_.
+To raise a solid figure on these squares we can make use of the
+vanishing scales as shown on each side of the figure, thus obtaining the
+upper square 1 2 3 4, then by means of the diagonal 1 3 and 2 4 and
+verticals raised from each corner of square _K_ to meet them we obtain
+the smaller upper square corresponding to _K_.
+
+It might be said that all this can be done by using the two vanishing
+points in the usual way. In the first place, if they were as far off as
+required for this figure we could not get them into a page unless it
+were three or four times the width of this one, and to use shorter
+distances results in distortion, so that the real use of this system is
+that we can make our figures look quite natural and with much less
+trouble than by the other method.
+
+  [Illustration: Fig. 161.]
+
+
+
+
+LXXXVI
+
+SHOWING HOW A PEDESTAL CAN BE DRAWN BY THE NEW METHOD
+
+
+This is a repetition of the previous problem, or rather the application
+of it to architecture, although when there are many details it may be
+more convenient to use vanishing points or the centrolinead.
+
+  [Illustration: Fig. 162.]
+
+  [Illustration: Fig. 163. Honfleur.]
+
+
+
+
+LXXXVII
+
+SCALE ON EACH SIDE OF THE PICTURE
+
+
+As one of my objects in writing this book is to facilitate the working
+of our perspective, partly for the comfort of the artist, and partly
+that he may have no excuse for neglecting it, I will here show you how
+you may, by a very simple means, secure the general correctness of your
+perspective when sketching or painting out of doors.
+
+Let us take this example from a sketch made at Honfleur (Fig. 163), and
+in which my eye was my only guide, but it stands the test of the rule.
+First of all note that line _HH_, drawn from one side of the picture to
+the other, is the horizontal line; below that is a wall and a pavement
+marked _aV_, also going from one side of the picture to the other, and
+being lower down at _a_ than at _V_ it runs up as it were to meet the
+horizon at some distant point. In order to form our scale I take first
+the length of _Ha_, and measure it above and below the horizon, along
+the side to our left as many times as required, in this case four or
+five. I now take the length _HV_ on the right side of the picture and
+measure it above and below the horizon, as in the other case; and then
+from these divisions obtain dotted lines crossing the picture from one
+side to the other which must all meet at some distant point on the
+horizon. These act as guiding lines, and are sufficient to give us the
+direction of any vanishing lines going to the same point. For those that
+go in the opposite direction we proceed in the same way, as from _b_ on
+the right to _V·_ on the left. They are here put in faintly, so as not
+to interfere with the drawing. In the sketch of Toledo (Fig. 164) the
+same thing is shown by double lines on each side to separate the two
+sets of lines, and to make the principle more evident.
+
+  [Illustration: Fig. 164. Toledo.]
+
+
+
+
+LXXXVIII
+
+THE CIRCLE
+
+
+If we inscribe a circle in a square we find that it touches that square
+at four points which are in the middle of each side, as at _a b c d_. It
+will also intersect the two diagonals at the four points _o_ (Fig. 165).
+If, then, we put this square and its diagonals, &c., into perspective we
+shall have eight guiding points through which to trace the required
+circle, as shown in Fig. 166, which has the same base as Fig. 165.
+
+  [Illustration: Fig. 165.]
+
+  [Illustration: Fig. 166.]
+
+
+
+
+LXXXIX
+
+THE CIRCLE IN PERSPECTIVE A TRUE ELLIPSE
+
+
+Although the circle drawn through certain points must be a freehand
+drawing, which requires a little practice to make it true, it is
+sufficient for ordinary purposes and on a small scale, but to be
+mathematically true it must be an ellipse. We will first draw an ellipse
+(Fig. 167). Let _ee_ be its long, or transverse, diameter, and _db_ its
+short or conjugate diameter. Now take half of the long diameter _eE_,
+and from point _d_ with _cE_ for radius mark on _ee_ the two points
+_ff_, which are the foci of the ellipse. At each focus fix a pin, then
+make a loop of fine string that does not stretch and of such a length
+that when drawn out the double thread will reach from _f_ to _e_. Now
+place this double thread round the two pins at the foci _ff·_ and
+distend it with the pencil point until it forms triangle _fdf·_, then
+push the pencil along and right round the two foci, which being guided
+by the thread will draw the curve, which is a true ellipse, and will
+pass through the eight points indicated in our first figure. This will
+be a sufficient proof that the circle in perspective and the ellipse are
+identical curves. We must also remember that the ellipse is an oblique
+projection of a circle, or an oblique section of a cone. The difference
+between the two figures consists in their centres not being in the same
+place, that of the perspective circle being at _c_, higher up than _e_
+the centre of the ellipse. The latter being a geometrical figure, its
+long diameter is exactly in the centre of the figure, whereas the centre
+_c_ and the diameter of the perspective are at the intersection of the
+diagonals of the perspective square in which it is inscribed.
+
+  [Illustration: Fig. 167.]
+
+
+
+
+XC
+
+FURTHER ILLUSTRATION OF THE ELLIPSE
+
+
+In order to show that the ellipse drawn by a loop as in the previous
+figure is also a circle in perspective we must reconstruct around it the
+square and its eight points by means of which it was drawn in the first
+instance. We start with nothing but the ellipse itself. We have to find
+the points of sight and distance, the base, &c. Let us start with base
+_AB_, a horizontal tangent to the curve extending beyond it on either
+side. From _A_ and _B_ draw two other tangents so that they shall touch
+the curve at points such as _TT·_ a little above the transverse diameter
+and on a level with each other. Produce these tangents till they meet at
+point _S_, which will be the point of sight. Through this point draw
+horizontal line _H_. Now draw tangent _CD_ parallel to _AB_. Draw
+diagonal _AD_ till it cuts the horizon at the point of distance, this
+will cut through diameter of circle at its centre, and so proceed to
+find the eight points through which the perspective circle passes, when
+it will be found that they all lie on the ellipse we have drawn with the
+loop, showing that the two curves are identical although their centres
+are distinct.
+
+  [Illustration: Fig. 168.]
+
+
+
+
+XCI
+
+HOW TO DRAW A CIRCLE IN PERSPECTIVE WITHOUT A GEOMETRICAL PLAN
+
+
+Divide base _AB_ into four equal parts. At _B_ drop perpendicular _Bn_,
+making _Bn_ equal to _Bm_, or one-fourth of base. Join _mn_ and transfer
+this measurement to each side of _d_ on base line; that is, make _df_
+and _df·_ equal to _mn_. Draw _fS_ and _f·S_, and the intersections of
+these lines with the diagonals of square will give us the four points _o
+o o o_.
+
+  [Illustration: Fig. 169.]
+
+The reason of this is that _ff·_ is the measurement on the base _AB_ of
+another square _o o o o_ which is exactly half of the outer square. For
+if we inscribe a circle in a square and then inscribe a second square in
+that circle, this second square will be exactly half the area of the
+larger one; for its side will be equal to half the diagonal of the
+larger square, as can be seen by studying the following figures. In Fig.
+170, for instance, the side of small square _K_ is half the diagonal of
+large square _o_.
+
+  [Illustration: Fig. 170.]
+
+  [Illustration: Fig. 171.]
+
+In Fig. 171, _CB_ represents half of diagonal _EB_ of the outer square
+in which the circle is inscribed. By taking a fourth of the base _mB_
+and drawing perpendicular _mh_ we cut _CB_ at _h_ in two equal parts,
+_Ch_, _hB_. It will be seen that _hB_ is equal to _mn_, one-quarter of
+the diagonal, so if we measure _mn_ on each side of _D_ we get _ff·_
+equal to _CB_, or half the diagonal. By drawing _ff_, _f·f_ passing
+through the diagonals we get the four points _o o o o_ through which to
+draw the smaller square. Without referring to geometry we can see at a
+glance by Fig. 172, where we have simply turned the square _o o o o_ on
+its centre so that its angles touch the sides of the outer square, that
+it is exactly half of square _ABEF_, since each quarter of it, such as
+EoCo, is bisected by its diagonal _oo_.
+
+  [Illustration: Fig. 172.]
+
+  [Illustration: Fig. 173.]
+
+
+
+
+XCII
+
+HOW TO DRAW A CIRCLE IN ANGULAR PERSPECTIVE
+
+
+Let _ABCD_ be the oblique square. Produce _VA_ till it cuts the base
+line at _G_.
+
+  [Illustration: Fig. 174.]
+
+Take _mD_, the fourth of the base. Find _mn_ as in Fig. 171, measure it
+on each side of _E_, and so obtain _Ef_ and _Ef·_, and proceed to draw
+_fV_, _EV_, _f·V_ and the diagonals, whose intersections with these
+lines will give us the eight points through which to draw the circle. In
+fact the process is the same as in parallel perspective, only instead of
+making our divisions on the actual base _AD_ of the square, we make them
+on _GD_, the base line.
+
+To obtain the central line _hh_ passing through _O_, we can make use of
+diagonals of the half squares; that is, if the other vanishing point is
+inaccessible, as in this case.
+
+
+
+
+XCIII
+
+HOW TO DRAW A CIRCLE IN PERSPECTIVE MORE CORRECTLY,
+BY USING SIXTEEN GUIDING POINTS
+
+
+First draw square _ABCD_. From _O_, the middle of the base, draw
+semicircle _AKB_, and divide it into eight equal parts. From each
+division raise perpendiculars to the base, such as _2 O_, _3 O_, _5 O_,
+&c., and from divisions _O_, _O_, _O_ draw lines to point of sight,
+and where these lines cut the diagonals _AC_, _DB_, draw horizontals
+parallel to base _AB_. Then through the points thus obtained draw the
+circle as shown in this figure, which also shows us how the
+circumference of a circle in perspective may be divided into any
+number of equal parts.
+
+  [Illustration: Fig. 175.]
+
+
+
+
+XCIV
+
+HOW TO DIVIDE A PERSPECTIVE CIRCLE INTO ANY NUMBER OF EQUAL PARTS
+
+
+This is simply a repetition of the previous figure as far as its
+construction is concerned, only in this case we have divided the
+semicircle into twelve parts and the perspective into twenty-four.
+
+  [Illustration: Fig. 176.]
+
+  [Illustration: Fig. 177.] We have raised perpendiculars from the
+divisions on the semicircle, and proceeded as before to draw lines to
+the point of sight, and have thus by their intersections with the
+circumference already drawn in perspective divided it into the required
+number of equal parts, to which from the centre we have drawn the radii.
+This will show us how to draw traceries in Gothic windows, columns in a
+circle, cart-wheels, &c.
+
+The geometrical figure (177) will explain the construction of the
+perspective one by showing how the divisions are obtained on the line
+_AB_, which represents base of square, from the divisions on the
+semicircle _AKB_.
+
+
+
+
+XCV
+
+HOW TO DRAW CONCENTRIC CIRCLES
+
+
+  [Illustration: Fig. 178.]
+
+First draw a square with its diagonals (Fig. 178), and from its centre
+_O_ inscribe a circle; in this circle inscribe a square, and in this
+again inscribe a second circle, and so on. Through their intersections
+with the diagonals draw lines to base, and number them 1, 2, 3, 4, &c.;
+transfer these measurements to the base of the perspective square (Fig.
+179), and proceed to construct the circles as before, drawing lines from
+each point on the base to the point of sight, and drawing the curves
+through the inter-sections of these lines with the diagonals.
+
+  [Illustration: Fig. 179.]
+
+Should it be required to make the circles at equal distances, as for
+steps for instance, then the geometrical plan should be made
+accordingly.
+
+Or we may adopt the method shown at Fig. 180, by taking quarter base of
+both outer and inner square, and finding the measurement _mn_ on each
+side of _C_, &c.
+
+  [Illustration: Fig. 180.]
+
+
+
+
+XCVI
+
+THE ANGLE OF THE DIAMETER OF THE CIRCLE IN ANGULAR
+AND PARALLEL PERSPECTIVE
+
+
+The circle, whether in angular or parallel perspective, is always an
+ellipse. In angular perspective the angle of the circle's diameter
+varies in accordance with the angle of the square in which it is placed,
+as in Fig. 181, _cc_ is the diameter of the circle and _ee_ the diameter
+of the ellipse. In parallel perspective the diameter of the circle
+always remains horizontal, although the long diameter of the ellipse
+varies in inclination according to the distance it is from the point of
+sight, as shown in Fig. 182, in which the third circle is much elongated
+and distorted, owing to its being outside the angle of vision.
+
+  [Illustration: Fig. 181.]
+
+  [Illustration: Fig. 182.]
+
+
+
+
+XCVII
+
+HOW TO CORRECT DISPROPORTION IN THE WIDTH OF COLUMNS
