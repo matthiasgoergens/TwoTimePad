@@ -1,0 +1,901 @@
+_The Growth of a Crystal_
+
+                               BEING THE
+
+                    EIGHTEENTH ROBERT BOYLE LECTURE
+
+                            DELIVERED BEFORE
+
+             _THE OXFORD UNIVERSITY JUNIOR SCIENTIFIC CLUB_
+
+                       _On the 20th of May, 1911_
+
+                                   BY
+
+              HENRY A. MIERS, M.A., D.SC. (OXON.), F.R.S.
+
+                     PRINCIPAL OF LONDON UNIVERSITY
+
+                LONDON: HENRY FROWDE, AMEN CORNER, E.C.
+
+    EDINBURGH: 12 FREDERICK STREET. GLASGOW: 104 WEST GEORGE STREET
+                        OXFORD: 116 HIGH STREET
+                    NEW YORK: 29-35 WEST 32ND STREET
+                  TORONTO: 25-27 RICHMOND STREET WEST
+           MELBOURNE: CATHEDRAL BUILDINGS, 205 FLINDERS LANE
+
+                                  1911
+
+
+
+
+
+
+
+                          OXFORD: HORACE HART
+                       PRINTER TO THE UNIVERSITY
+
+
+
+
+
+
+
+                        THE GROWTH OF A CRYSTAL
+
+
+When this date was fixed by your Secretary for the delivery of the BOYLE
+Lecture, I discovered that it happened to be the fifteenth anniversary
+of the very day on which I was first called upon to address a general
+audience in Oxford. On May 20, 1896, I delivered an inaugural lecture as
+Waynflete Professor of Mineralogy; when I look back upon the happy years
+spent here in teaching and studying a science which is dear to me, I
+feel that the present lecture should be an opportunity for expressing
+gratitude for those peaceful years, not unmingled with regret that they
+led to no such worthy achievement on my part as might have brought great
+credit to the University and so have repaid something of the debt which
+I owe to her.
+
+Looking back from the busier world of London, it is easy to see how
+ideal are the conditions under which an Oxford Professor conducts his
+work; especially if his subject be one which does not overwhelm him with
+students who pursue it only for the purpose of passing an examination.
+Those who are attracted to his Laboratory probably come because they
+have some natural taste for the subject; he finds it a pleasure to
+devote his time to them; while his vacations and the conditions of
+Oxford life give him unique opportunities for his own researches.
+
+It is true that those who have most leisure not infrequently waste most
+time. It is true also that the custom of Oxford is to burden her
+students and scholars in addition to their teaching, with the conduct of
+affairs which could be managed as well by persons specially appointed
+for the purpose. Still it is also certain that to those who enter into
+the genius of the place, and are animated by the spirit of Learning,
+Oxford is prodigal of opportunity, and enables them to live the Academic
+Life in a way which is scarcely possible elsewhere.
+
+I know that the doors of the University are being opened to all the
+newer studies, and that many a student spends most of his time in
+acquiring the useful knowledge that is to equip him for his profession
+and for the direct purpose of that profession; knowledge which is to fit
+him to become lawyer, doctor, minister, engineer, or teacher; yet an
+Oxford Professor may always maintain the pursuit of Learning for its own
+sake and keep this purpose before his students even in their most
+technical work.
+
+Now Mineralogy is one of those sciences whose practical applications are
+clear; it is necessary to the miner and the engineer; indeed, it sprang
+from their needs; even Crystallography (that is, the study of Crystals),
+which has always hitherto, though with little reason, been treated for
+University purposes as a branch of Mineralogy, has also become part of
+the necessary equipment of the practical chemist and geologist; but both
+Sciences are, in their general aspects, very far removed from the
+turmoil of practical life; it is with these aspects that I would fain
+deal, and especially in relation to the study of crystals.
+
+In this connexion, a passage which I quoted from GOETHE fifteen years
+ago will bear repetition: ‘_There is a flavour_,’ he says, ‘_of the Monk
+or of the old Bachelor about Crystallography and therefore it is
+self-sufficient. Practical application in life it has none; its rarest
+objects, the crystallized precious stones, have to be cut and polished
+before we can adorn our ladies with them._’
+
+In fact, this lecture, which I was constrained to prepare during a brief
+holiday in Italy, was written in the midst of surroundings where it was
+easier to think of Science as cultivated in the quiet of the Laboratory,
+rather than in the restless scenes of its practical applications,
+although I am familiar with both. Writing at a window overlooking the
+mediaeval town and ancient walls of Perugia, with the view of peaceful
+Assisi and the snowy cap of Monte Subasio across the plain, it was
+easier to recall the hours of quiet toil and reflection spent in one’s
+Laboratory at Oxford than visits to Mining Camp, or Metallurgical Works.
+
+Accordingly when, under these circumstances, I set about choosing a
+subject for the present occasion, it occurred to me that I might be
+allowed to take up my discourse where I laid it down in 1896 and in some
+sense to continue and conclude the remarks which I then made to the
+University; and, considering how recently I have left you, I might
+regard this as my farewell address corresponding to the opening lecture
+which I then delivered.
+
+In that address, I recollect, I began with an inquiry into the
+resemblances and differences between minerals and other objects of
+nature in respect of their beauty, especially as regards the beauty of
+form which is so specially characteristic of minerals. Some minerals,
+indeed, are found in delicate fronds and leaflets, and in mossy tufts,
+which, in their form and texture, in their sheen and lustre, so closely
+resemble plants that they are often mistaken for them. [Those who heard
+RUSKIN’S lectures will remember the delight with which he described
+these beauties of the mineral kingdom and the affection which he felt
+for them.] I pointed out, I remember, that these delicate forms are,
+like the frost patterns on a window-pane, really expressions of the
+crystalline shape and symmetry of the mineral; each mineral consists of
+crystals, and therefore has its own peculiar crystalline shape which is
+one of its inherent properties; moreover, this persists unchanging
+through the ages, and under all conditions, and is in no way dependent
+upon the environment in which the mineral is situated.
+
+The shape of a crystal does not depend like that of the animal or the
+plant upon the life which its forefathers have led or the conditions
+under which they have grown.
+
+There are indeed other features in which a mineral or any crystal may
+resemble a living thing in a way even more surprising than in its form.
+Two of the most remarkable are these: it grows out of a solution as
+though it were alive; and, if it is wounded or broken, it heals itself
+and replaces the missing part just as a living organism may do. But, as
+I pointed out, there is this radical difference. The crystal is not
+responsive to the change of its surroundings; its form is not the result
+of external forces; it does not adapt itself to its environment; it is
+not undergoing any progressive evolution; but remains fixed and
+unchanging. Its form is the expression of its permanent composition, and
+so far as we know has always been the same. Indeed, until it has been
+converted into its constituent elements and destroyed, it is in a sense
+not only unchanging, but imperishable. For, take a crystal and break or
+dissolve it away until only the tiniest fragment remains; that fragment
+(e. g. sugar), though it may be only an invisible speck, will, if
+immersed in the appropriate solution, continue to grow again and will
+once more assume the form of a perfect crystal. Neither does it make any
+difference if the crystal fragment has been kept for years or even
+centuries; it will, when supplied with nourishment from the appropriate
+solution, heal itself and continue to grow as though the process had
+never been suspended. In a sense it is immortal, for, if not destroyed,
+it never loses the mysterious power of growth, and is therefore more
+imperishable than any seed or germ of life.
+
+The main conclusion of my lecture was that, having been led by analogy
+to compare the growing crystal with the growing plant, one finds the
+growth and life of the crystal to be totally unlike the growth and life
+of any organism. Its life is only an unchanging persistence without the
+display of any struggle for existence, any movement, any adaptation, or
+response to environment; its growth is only the addition of new material
+on the surface of the old, without assimilation, so that the crystal
+remains uniform and increases in size; there is no distinction of any
+one part from any other; the crystal grows, therefore, without the
+development of any organs.
+
+One appears to be left with the conclusion that the crystal should be
+regarded rather as a type of death than of immortality.
+
+SCHOPENHAUER expressed this idea when he said: ‘_The crystal has only
+one manifestation of life, crystallization, which afterwards has its
+fully adequate and exhaustive expression in the rigid form—the corpse of
+that momentary life._’
+
+This, however, is not the conclusion which I would have you draw from
+the facts; and I shall ask you on the present occasion to accompany me
+in pursuing a little further the inquiry into what we may call the
+vitality of a crystal and the manner in which it is displayed; although
+this vitality is not to be confounded in any way with that of a living
+plant or creature.
+
+It is, I hope, not unfitting that the subject of crystal growth should
+be dealt with in a BOYLE Lecture, for ROBERT BOYLE was himself one of
+the first to treat it in a scientific spirit. He was the exact
+contemporary of NICOLAS STENO, the famous Danish physician who laid the
+foundation of modern crystallography; and BOYLE, in his treatise on the
+origin and virtues of gems, was the first to express the conviction
+which was almost simultaneously expressed by STENO—that gems must have
+solidified from the liquid state. One of his reasons for thinking so was
+their crystalline form, which resembles that of salts which crystallize
+from solutions. Let me quote his exact words: ‘_The origin assigned to
+gems may be countenanced by the external figuration of divers of them.
+For we plainly see that the corpuscles of nitre, alum, vitriol, and even
+common salt, being suffered to coagulate in the liquors they swam in
+before, will convene into crystals of curious and determinate shapes._’
+And then he points out that when a salt such as nitre crystallizes in a
+vessel it is only where it is free to grow in the liquid, and away from
+contact with the sides of the vessel, that it can acquire this shape.
+These crystals (he says), ‘_having a fluid ambient to shoot in, will
+have those parts of their bodies that are contiguous to the liquor
+curiously formed into such prismatical shapes as are proper to nitre._’
+
+When BOYLE wrote these words he had not seen the work of STENO, which
+had just been published.
+
+I may, therefore, claim that he was the first person to deal in a
+scientific spirit with the subject which I have chosen for this lecture,
+the ‘Growth of a Crystal.’
+
+Three years before I came back to Oxford—on May 16th, 1893, the subject
+of crystal structure had been treated in the second BOYLE Lecture in a
+most original and masterly manner by no less a person than LORD KELVIN.
+I well remember that Lecture, at which I had the good fortune to be
+present; and to one who was already interested in crystals it was a
+wonderfully illuminating and inspiring address.
+
+On that occasion my venerable predecessor and teacher, Professor STORY
+MASKELYNE, conducted LORD KELVIN to the lecture table.[1]
+
+
+[Footnote 1: It is with the deepest regret that I add that my old friend
+and revered teacher died on the very day on which these words were
+spoken.—H. A. M.]
+
+
+At that time, however, there was no laboratory in Oxford for
+mineralogical and crystallographical research; the Professor only had a
+lecture-room, he did not reside in Oxford, and his scientific work was
+necessarily carried on elsewhere. To-day I am more fortunate in being
+able to draw upon the resources of the well-equipped laboratory of my
+successor, and former pupil, Professor BOWMAN, and upon his still more
+valuable personal assistance and that of Mr. BARKER; so that, though I
+only have to deal with ideas that are simple compared with those which
+issued with fiery vigour from the fertile brain of the BOYLE Lecturer of
+1893, I have a better opportunity of showing to an Oxford audience
+to-day the actual things of which I am speaking, and may help to make my
+meaning clear to those who cannot know much from personal experience
+concerning the growth of crystals.[2] When I delivered my own inaugural
+lecture I had no means of making visible to an audience the astonishing
+features of crystal growth. Beautiful effects may easily be witnessed by
+anyone with a few drops of common solution and a magnifying glass, yet I
+believe that they are witnessed by comparatively few persons.
+
+
+[Footnote 2: This lecture was beautifully illustrated by excellent
+slides showing the actual _growth_ of crystals.—ED.]
+
+
+I have alluded to laws of crystalline structure, to which LORD KELVIN
+had directed attention: these are the laws of geometrical arrangement
+which prove crystals to be constructed in an entirely different manner
+from the living plants which they may so closely resemble; these laws,
+however, were not established by observations or experiments upon the
+growth of crystals. They were the result of a century of patient
+measurements of the external shape of countless crystals; more than a
+century of accurate determinations of what happens when heat and light
+are transmitted through them and of numberless other experiments made by
+physicists; and, added to this, the labours of mathematicians who
+studied the manner in which solid particles could be arranged so as to
+correspond to the geometrical and physical proportions thus determined
+by experiment.
+
+But all these were experiments and reasoning upon matter which appears
+to be as nearly as possible inert; they entirely ignore the power of
+growth possessed by crystals; indeed, no such power is contemplated by
+the ordinary theories of crystal structure or could be predicted from
+them.
+
+So far, then, we may regard the comparison of crystals with plants and
+all the fanciful ideas concerning their connexion with the origin of
+life which were suggested by that comparison as only one more example of
+the dangers of reasoning from analogy. The recollections that I retain
+of the allusions to that process—in text-books of logic and treatises on
+Science alike—give me the impression that examples of reasoning from
+analogy are generally quoted only as instances of its danger and
+futility. That, indeed, might seem to be the conclusion of my own
+inaugural lecture; for, when we come to examine the growth and structure
+of crystals, so far from finding that there is any real likeness to the
+life and structure of the plants which they resemble, we find nothing
+but a profound difference.
+
+That, however, is not my real opinion, and was not my opinion fifteen
+years ago. On the contrary, I have the greatest belief in analogy as one
+of the most useful guides to discovery, and as the means by which in
+practice new lines of investigation are most frequently opened and new
+hypotheses suggested. In fact, I think that most of the advances which
+are made in science, and especially in scientific theory, have been made
+with the help of analogies.
+
+If an explanation of any fact in Nature consists in correlating it with
+some apparently distinct fact, and showing that the two have a common
+cause, or are connected in a definite manner, how often has the
+explanation of a new occurrence been suggested by the analogy of some
+other known occurrence which is brought to mind by the memory; not by a
+conscious effort of the reason, but by the recollection of a
+resemblance. Do not some of the standard methods which are familiar in
+the descriptions or criticisms of scientific discovery, such as
+‘_reasoning from the known to the unknown_’, ‘_the adoption of a working
+hypothesis_’, ‘_the scientific use of the imagination_’, often resolve
+themselves on analysis into the simple process of being struck by an
+analogy and being led by it to adopt an explanation or to try an
+experiment suggested by it?
+
+I daresay that scientific discoverers are ashamed to confess that they
+may have been led to a theory by a superficial analogy just as they are
+ashamed to confess that they have hit upon a discovery or an invention
+by chance, and have found one thing when they were looking for another.
+But there is no need to be ashamed, for the discoveries only come to
+those who have the eyes to see, or the knowledge which enables them to
+remember a resemblance, and who have further the intellectual power to
+make use of it. Science grows on the acquisition of new knowledge and we
+must not hesitate to grasp it where we can. There is a danger lest the
+formulation of the methods of science may deter the inquisitive student
+from seeking knowledge wherever it is to be found, and make him believe
+that it is only by the orthodox processes of reasoning based upon a
+lifetime of training that he is to discover anything new. Rather let him
+be encouraged to seek any resemblance or analogy that may point a way in
+the gloom.
+
+It is true that in the past the argument from analogy has often proved
+dangerous when, because the things possess certain attributes in common,
+it was inferred that they are alike in other respects. Yet even here it
+may prove useful. NEWTON only asserted that the diamond is inflammable
+because it resembles other inflammable substances in possessing a high
+refractive power; and yet he turned out to be right, although his
+analogy was wrong. Moreover, it was the analogy which prompted the
+experiment. To detect an analogy, to test it, and to find that it cannot
+be maintained, may be as useful an addition to knowledge as the
+establishment of a real causal relationship: it has had the effect of
+setting the worker on to new experiments or observations, and every such
+step is necessarily an advance. The conscientious search for one thing
+almost invariably leads to the discovery of another; and, even if it
+does not, who shall say that it may not be as important and useful, say,
+to establish a difference as to prove the resemblance which has been
+suspected?
+
+If, however, reasoning from an analogy may be fallacious when inferences
+are drawn from the fact that two things possess the same attributes in
+common, it is, I think, a safer guide when it is used to suggest a new
+hypothesis; a corpuscular theory of light may be suggested by the
+analogy between the reflexion of light and the rebounding of elastic
+bodies; an undulatory theory by the analogy of a wave propagated along a
+string or on the surface of water. The one theory may be found to fit
+the facts and the other may be condemned; but without some analogy as a
+guide how are such theories to be devised? What we require in science
+are continual stimuli to start us on new experiments, new observations,
+and new ideas, and prevent us, especially those who are teachers, from
+constantly repeating the old ones.
+
+I shall be satisfied if the present lecture is regarded as a plea for
+the use of reasoning from analogy, and as an illustration of its value.
+
+Let me, then, after this exhortation, return to my problem of the growth
+of crystals, and show how I still think that we may be guided by analogy
+in seeking to understand it.
+
+So far from regarding the growth of a crystal as of no further
+importance after it has been proved to be quite different from the
+growth of a plant, we must still think of it as one of the most
+interesting and mysterious events, and the one through which we may hope
+to get the clearest insight into the nature of the crystal itself.
+
+For, after all, when after making physical experiments upon the solid
+crystal and studying its action upon heat and light we are led to
+speculate upon the manner in which it is constructed, we must not forget
+that it grew, and that the material was laid down under conditions which
+we can only understand by studying what happens on the surface as it
+grows.
+
+LORD CURZON devoted his ROMANES Lecture to the consideration of
+Frontiers, and explained their interest and importance in the growth of
+nations. In the study of Science also nothing is more interesting and
+important than frontier problems. In two senses is this true. The
+problems which lie on the borderland between two sciences are the most
+fruitful of all, because they throw light upon each science, and, by
+bringing into harmony things that were previously distinct and separate,
+lead to an immediate extension of knowledge.
+
+And also in a more restricted sense. You will find, I think, that the
+scenes of the most interesting events in Nature are generally those
+places where different things come into contact and where there is
+consequently stir and action; where two substances meet to form a new
+chemical compound; where two bodies touch and react upon each other; at
+the surface of a solid or a liquid; these are the regions in which
+events are taking place that we can study and measure with the prospect
+of discovery.
+
+Impressed by the analogy between the growth of crystals and of living
+things, I have always felt that, for a proper understanding of the
+things themselves, the study of their growth is as important for the one
+as for the other; that to obtain this understanding it is necessary to
+study what is happening on the surface of the growing crystal where the
+advancing solid is in actual contact with the solidifying liquid. If you
+wish to understand a plant or an animal it is not enough to study dried
+specimens or specimens in spirits, but to watch the living organisms
+growing under natural conditions; and in the same way it is surely worth
+while to study the growing crystal surrounded by the solution which
+feeds it, and even to make under these conditions the measurements and
+observations which are usually made upon crystals only after they have
+been taken out of the solution and have ceased to grow.
+
+In the case of living things, we know that growth takes place by
+internal processes and not only by new material added on the surface.
+How much easier, then, should it be to study the growth of a crystal
+when we have found that it is only a surface activity, and does not
+involve internal changes?
+
+As I have already said, when I came to Oxford there was no laboratory of
+Mineralogy nor any apparatus for research, but I brought with me a piece
+of apparatus which I had constructed a few years previously for this
+exact purpose; to measure the angles of crystals while they are growing
+in the solution and to ascertain whether any changes take place in those
+angles, in the hope of getting some insight into the nature of the
+surface and what I have called the frontier problem. Many days and also
+nights had I spent with this apparatus in the absorbing pursuit of
+measuring growing crystals, watching the curious changes that take place
+in the position of their facets, excited by the knowledge that I was
+looking at things that had certainly not been seen before, and by the
+expectation of what they might disclose.
+
+I need not weary this audience with any description of these
+experiments, which doubtless seem more interesting and important to
+their author than to anyone else. But I wish to draw your attention to
+the result that came out of them. I found that it was possible with the
+same apparatus to measure the refractive power of the liquid in absolute
+contact with the growing crystal and from this to calculate the exact
+strength of the solution at that spot. It was thus possible to prove
+that the solution in contact with the crystal is rather stronger than at
+a very short distance from it, and to know exactly how much stronger. In
+other words, while a crystal of, say, alum is growing, the liquid in
+contact with it contains more particles of alum and less particles of
+water, or is richer in alum, than the liquid at a short distance from
+it. I will ask you to bear this in mind in what follows. There is
+another curious fact connected with this subject. Crystals of nitrate of
+soda have almost exactly the same shape and almost the same physical
+properties as crystals of the common mineral calcite, which, in its
+purest and most perfect form of transparent glassy crystals, is known as
+Iceland spar. Now, when a perfectly clean crystal of Iceland spar is
+immersed in a strong solution of nitrate of soda, although it is not
+dissolved by the liquid itself and therefore cannot crystallize out of
+it, the Iceland spar actually continues to grow, and becomes enveloped
+by the nitrate of soda so as to form what is apparently a single
+crystal.
+
+It appears, therefore, highly probable that a crystal of nitrate of soda
+and a crystal of Iceland spar behave alike in this respect when placed
+in a strong solution of the nitrate; each draws to itself the liquid
+nitrate in the solution, then draws it out of the solution in the solid
+state, and further arranges the particles upon its own surface in a
+perfectly regular manner, so that the arrangement of the particles in
+the shell of nitrate is the same as the arrangement of the particles in
+the spar which it surrounds; just as a bricklayer sets upon the rising
+wall new bricks arranged in the same way as those which he has already
+laid. I remember that on LORD KELVIN’S last visit to Oxford, shortly
+before his death, mindful of his BOYLE Lecture, I showed him, in company
+with my pupil, Mr. BARKER, this beautiful experiment, with which he was
+at that time not familiar, and I shall never forget the interest and
+enthusiasm with which he witnessed the beautifully regular and
+instantaneous growth of the nitrate crystals. He always was as
+enthusiastic and inquiring as a boy, and these characteristics were
+exhibited on that occasion in his old age. It is an experiment which
+sets one thinking, and I have no doubt that, if LORD KELVIN, even at
+that advanced age, had set his mind to consider it, he would have been
+able to deduce far more than it has yet suggested to those who have
+witnessed it.[3]
+
+
+[Footnote 3: The experiment was then shown, exactly as it was shown to
+Lord Kelvin.—ED.]
+
+
+Some two years or so before the time of which I am speaking, Mr. BARKER
+had at my suggestion made an exhaustive study of a great number of
+different substances in order to ascertain which of them behave towards
+one another like nitrate of soda and calcite, and why they do so, and he
+has really discovered the secret. When two substances like nitrate of
+soda and calcite have nearly the same shape and resemble one another
+closely in their physical properties, the geometrical laws of
+crystalline structure of which I have already spoken make it certain
+that they consist of particles arranged in the same way. We do not know
+what these particles are or what is their shape or size, but we may be
+sure that they are arranged in the same way. I am perhaps using the word
+particles in a loose sense, for they might be hollow cells or they might
+be the space occupied by moving particles, or anything else, but
+whatever they may be it is pretty certain that they are arranged in the
+same way.
+
+Well, Mr. BARKER has proved that, if two crystals grow together like
+nitrate of soda and calcite, their particles are not only arranged in
+the same way, but they must be of the same size, or at any rate occupy
+the same space. In more scientific language, the two crystals not only
+have the same molecular structure, but the same molecular volume. It is,
+therefore, mainly a question of fitting together, and, if the two
+structures do not fit, they cannot grow together, like nitrate of soda
+and Iceland spar, as a continuous crystal.
+
+Let me illustrate by a suggestive comparison. The bee’s cell is one of
+the most remarkable and symmetrical structures in nature. Its regularity
+is probably due to the fact that bees of the same size are, in making
+it, so closely crowded together; there is one bee’s head in each cell,
+and therefore you may say that the arrangement of the bees is the same
+as that of the cells. For example, if you place in each cell a ball
+which exactly fits it and then take away the cells, you have an
+arrangement of balls which is the same as that of the cells, each being
+in contact with six neighbours. It may be called a hexagonal
+arrangement. You have only to push together a number of balls on a
+table, and they will fall into this arrangement. It was a contemporary
+and associate of BOYLE, and an Oxford man, Dr. ROBERT HOOKE, who pointed
+out that with balls piled together in this way you can build up the
+shapes of crystals, and that, for example, a pyramid of cannon-balls
+stacked together in the manner that I have just shown, has the shape and
+angles of an alum crystal. Now, if two such arrangements are to fit
+together, they must be of the same size, whether they consist of bees,
+or cells, or balls, or molecules. In the same way Mr. BARKER has proved
+that Iceland spar and nitrate of soda must consist of materials which
+are not only arranged in the same way, but are of the same size,
+although we do not know in the least what that material is, nor what its
+actual size may be.
+
+But this, of course, is not the end of the whole mystery: for not only
+do two such structures fit together, as might be expected, but each has
+the remarkable property of making the other crystallize and grow, and
+that means, as I have just explained, that it draws the other out of the
+solution where it is liquid into the crystal where it becomes part of a
+solid structure and lays it down in the exact position in which it fits,
+just as one bee’s cell is added to another in the growth of the comb. We
+have advanced a step, but only one step, towards the better
+understanding of the mystery, and I would beg you to note how we are
+continually led on by analogies which may be quite false, but which are
+at any rate fruitful.
+
+Now let me pass to another series of researches which were conducted by
+Miss ISAAC and myself for a few years before I left Oxford and have
+since been carried on by her with conspicuous success. Still
+experimenting with the same apparatus, and endeavouring to trace how a
+solution changes in strength while it is crystallizing, we came across
+some curious and unexpected results. It is, of course, well known that
+if a crystal, say of alum, is placed in a weak solution of alum it is
+dissolved, and only has the effect of making the solution stronger, but
+that at last a stage is reached at which the solution becomes
+‘saturated’ and can dissolve no more, just as a stage is reached at
+which a soaking sponge will hold no more water. At this point a crystal,
+if put into it, remains unchanged. But it is quite easy to make the
+solution still stronger, not by adding alum to it, but by taking water
+away from it by evaporation: it then becomes oversaturated or
+‘supersaturated’, and now a crystal of alum dipped into the liquid will
+at once begin to grow and to make the solution weaker. In fact, this is
+an unfailing test by which we can tell whether a solution is saturated
+or supersaturated; and, more than this, until a bit of solid crystal
+gets into it the liquid does not crystallize. Keep it in a closed vessel
+so that no speck of alum can fall into it, and it will remain liquid for
+weeks or years or as long as you please. But let the smallest possible
+grain of an alum crystal fall into it, and crystallization will be
+started; inoculate it with an invisible germ of alum dust, such as must
+be flying about in the air of any room where dry alum is or has been
+kept, and you will see the life and growth of a crystal begin when that
+germ is introduced. This is the most extraordinarily sensitive test, and
+one that can easily be applied.
+
+In many of our experiments we found that during the first day when we
+were working with some new substance it would not crystallize from an
+exposed solution; but on the second day, when the air of the laboratory
+had become impregnated with crystal germs, an exposed solution would
+begin to crystallize at once.
+
+Dr. TUTTON, one of the most accomplished investigators of crystals,
+whose refined and beautiful researches were for many years carried on in
+Oxford, has fully described these effects in his two books on crystals
+just published, and confirms them from his own experience.
+
+Now, Miss ISAAC and I have found in the course of our researches that,
+as the solution becomes stronger and stronger—say, by the evaporation of
+some of its water, it continues to be in the ordinary state of
+supersaturation in which it does not crystallize save by inoculation
+with a germ of solid alum crystal, but at last it suddenly reaches a
+condition in which it can crystallize spontaneously, and at this moment
+it is enough to stir or shake the solution, and you will at once witness
+the birth of thousands of tiny crystals which appear as a cloud in the
+liquid and begin to grow rapidly.
+
+A very easy way in which to make this experiment is to dip a clean
+needle into a drop of evaporating solution on a glass plate and to
+scratch the glass on which the drop lies: for a time nothing happens,
+and then suddenly, as the liquid passes into the new condition, a chain
+of tiny crystals appears along the line of scratch.
+
+That this suspended crystallization has a fixed limit was suspected, and
+had been predicted by the German chemist OSTWALD, but could never be
+proved until we made our experiments, and it was Mr. HARTLEY who first
+helped us to interpret our results. He has subsequently, with his
+pupils, made a number of investigations on the same subject.
+
+I can show you the two conditions in one and the same drop by using a
+solution of common potassium bichromate. Crystals begin to grow at the
+edge of the drop where the liquid first becomes sufficiently strong, and
+continue to grow slowly in the evaporating liquid which is only slightly
+supersaturated. But in a few moments other parts of the drop which are
+thinner become so strongly supersaturated that they begin to crystallize
+spontaneously; and there you can witness the birth of new crystals which
+grow rapidly in all directions, because they are growing in a solution
+which is much stronger than that in which the first crystals are growing
+slowly.
+
+Does not all this set one thinking? What is taking place we cannot tell,
+but we can only think of it as in some way analogous to the birth of a
+cloud; and in both instances we have to picture to ourselves minute
+invisible particles, of whose shape and size we know nothing, coming
+together and coalescing till they grow into a drop or a crystal that we
+can see. But why they do not begin to coalesce as soon as the liquid is
+supersaturated it is difficult to say. We have to conceive the alum
+solution as made up of moving particles of alum and of water, and it may
+be that the particles are constantly coalescing into minute groups, but
+as rapidly being broken up again, until a moment arrives at which the
+alum particles are sufficiently dense to cohere permanently; but how
+they attract one another and arrange themselves into the wonderful
+structure which makes a crystal, of this we are entirely ignorant. The
+question brings us back again to our initial mystery, how does the
+crystal actually grow?
+
+But this is not all. I have said that all solutions seem to behave in
+the same way, and among them nitrate of soda, which we have already seen
+growing in perfect regularity on Iceland spar. It appears, however, from
+experiments made by Mr. BARKER, Miss ISAAC, M. CHEVALIER (who was
+another of my pupils), and myself, that Iceland spar behaves in this
+respect also exactly like nitrate of soda. In a solution which is
+supersaturated, but is not strong enough to crystallize spontaneously,
+not only will inoculation with a crystal of nitrate produce instant
+crystallization; but inoculation with a crystal of Iceland spar produces
+the same result. So we have a still more convincing proof of what I
+suggested a short time ago, that two crystals, which have structures so
+nearly identical that they can fit together, possess also the power of
+drawing each other from the liquid state into the solid form of a
+crystal. Whatever it is which conditions the fitting together of two
+structures must then also confer upon them this extraordinary power of
+making each other grow.
+
+If I had more time, I should like to give an account of some of the more
+important discoveries that have been made about crystals during the last
+fifteen years, for they would make it easier to understand the present
+state of our knowledge concerning them. I will only refer to two: one is
+an experimental fact, and the other is a theoretical speculation, and
+both are connected with the subject that I have been discussing.
+
+It was discovered shortly before that time, and has been found by many
+experiments since, that there are certain substances which are in a real
+sense crystals, although they are liquid; that is to say, they affect
+light in its passage through them just as solid crystals do.
+
+These extraordinary substances, which had been investigated by Professor
+LEHMANN, were first shown in England by Mr. BOWMAN and Mr. HARTLEY, who
+were then working in my laboratory, at a conversazione at the Royal
+Society, not long after their discovery, and I can well remember the
+interest with which they were witnessed by Sir GEORGE STOKES and others.
+We can only picture these liquids as consisting of particles which,
+while they are free to move in all directions, always continue to face
+the same way, like a group of dancers who in all their evolutions
+continue to face the audience, instead of turning as they move. When the
+mechanism which renders possible this remarkable behaviour is better
+understood, we may be sure that it will bring about a better
+understanding of the manner in which a solid crystal is constructed. The
+interesting thing about it is that here at any rate the particles are in
+violent movement instead of being comparatively stationary, as they are
+in a solid crystal.
+
+One is naturally led to imagine that before any solution begins to
+crystallize in the solid form it passes into this liquid state, and that
+the particles have begun to set themselves and all to face the same way
+before they begin to cohere and to build themselves into a solid. But so
+far as I know there is no evidence in favour of this suggestion—a
+solution before solid crystals begin to appear does not behave like a
+liquid crystal, but remains an ordinary solution up to the last moment
+when new crystals are born in it or are started by inoculation with a
+crystal germ.
+
+The other discovery, which is in the nature of a speculation, is that of
+another person whom I am proud to reckon among my former pupils, namely,
+Professor POPE of Cambridge, working in conjunction with Mr. BARLOW. Mr.
+BARLOW had already been referred to by LORD KELVIN in his BOYLE Lecture
+as the author of ingenious researches upon the various ways in which
+materials can be packed together, and the different arrangements and
+structures which result from this packing.
+
+These two workers have now propounded a theory according to which, if
+the various atoms which constitute a substance are represented by
+spheres whose sizes represent the valency of the atoms, and if these
+spheres are packed together as closely as they will go, the resulting
+structure will represent very nearly the structure of the crystal; and
+so it may be possible for the first time from a knowledge of the
+chemical constitution of a substance to predict the structure of its
+crystals and therefore the form in which it will crystallize. You
+remember the bee’s cell arrangement and the similar arrangement of balls
+got by placing a ball in each cell and then removing the cells. Another
+way of getting the same arrangement is to place a number of equal balls
+on a table and to squeeze them together until they are packed as closely
+as possible. This arrangement of closest packing, the arrangement of a
+pyramid of cannon-balls, is precisely the same as before, the one in
+which each ball on the table is in contact with six others. According to
+POPE and BARLOW the atoms in a crystal simply pack themselves together
+as closely as possible, but instead of being equal in size they have
+generally to be represented as of different sizes according to their
+valencies. If we imagine the coalescence of atoms to form a crystal to
+be due to their mutual attraction, it is very reasonable to suppose that
+they will get as close together as is possible, and therefore that the
+ways of close packing are the ways of crystal structure. The theory
+therefore suggests a reason for the growth as well as for the shape of a
+crystal. I may remind you that the bee’s cell itself, which is in the
+world of life the thing that most nearly resembles crystalline
+structure, is due to this same principle of close packing; for in their
+efforts to get as closely together as possible the bees are constrained
+to get into the hexagonal arrangement. The bees crowd their heads
+together and to each bee’s head corresponds one cell.
+
+On the other hand, Professor SOLLAS has brought forward some most
+suggestive and convincing speculations concerning certain crystals which
+are based upon the principle of open, and not close, packing. His model
+of silver iodide, for example, is well known in Oxford.
+
+I have mentioned these recent contributions to science, not only with
+the object of indicating that our knowledge of crystals is steadily
+increasing, but also in order to point out that little has yet been done
+to explain the mysteries of their growth. All that has been effected up
+to the present is an attempt to explain how they are constructed, not
+the process by which the construction takes place. It is as though we
+were to analyse the form and structure of animals and plants and never
+to watch them as they grow, but only to study them from fossils or from
+museum specimens. And I believe the reason to be this. All the
+speculations concerning crystals persist in regarding the particles of
+which they consist as fixed and immovable: the theories are all
+statical. And yet we know that the particles of matter, whatever they
+may be, are really in lively movement. Is it not possible that in order
+to get a correct understanding of the growth of a crystal we should take
+account not only of the positions, but of the movements, of its
+particles? Without some knowledge of these we are not able to approach
+the problem, or to ascertain how a crystal either of nitrate of soda or
+of Iceland spar draws the nitrate of soda out of the solution and makes
+it grow into a solid.
+
+Remember that when we say we know how the particles of a crystal are
+arranged we really know nothing about their nature, and can only
+represent them by spheres, or solid figures, or cells, or even points,
+in order to get a representation of their arrangement. But we might
+arrange in the same way a number of bodies each of which is whirling in
+a fixed orbit, like a planet, about the corresponding point, or
+vibrating about it like the prong of a tuning-fork, or pulsating like a
+breathing animal; and so far from the arrangement being independent of
+the movements it may be due to them.
+
+If I may seek another analogy, let me take a group of figure skaters;
+their centre remains fixed at the orange, maybe, about which their
+figures are executed, but the group of skaters is at one moment extended
+when they circle out to their furthest sweep, and at another moment
+concentrated when they converge to the centre; and this alternating
+expansion and compression occurs in a regular rhythm.
+
+Imagine a pond covered by a number of such groups of skaters; the manner
+in which they will fit in, and have to arrange themselves, will depend
+both upon the dimensions and the rhythm of their curves, and they may
+even interlace and become part of one great figure system covering the
+whole pond. May not the growth of a crystal be something of this sort?
+
+All the devices which I have quoted for picturing to ourselves the
+architecture of a crystal I would regard as merely models representing
+something that may be really quite different. But I venture to suggest
+that the time has come when we should make use of moving and not
+stationary models.
+
+One need not go further than a spinning top for an illustration of
+stability due to movement, and there is nothing unreasonable in the
+suggestion that the rigidity of a crystal structure may be due to the
+motion of its parts.
+
+One curious observation which I have made is suggestive. I have many
+times noticed that when the appropriate crystal is introduced into a
+supersaturated solution, which is not strong enough to crystallize
+spontaneously, it may cause crystals to grow not only in actual contact
+with itself, but at some little distance in its neighbourhood. If this
+be so, then the crystallizing force, the power of propagating crystal
+growth, is not merely a frontier problem, but can be exercised through
+the liquid to a distance. If I try to picture to myself what is
+happening, I must again have recourse to analogy; I can only think of
+the manner in which a string or a tuning-fork is set in vibration and
+responds to a similar string or tuning-fork which is giving out its note
+at the other end of the room; and so is it not possible that the
+movements, whatever they are, vibrations or pulsations or regular
+oscillations of some sort, which constitute crystalline growth may be
+communicated through the almost crystallizing liquid, and culminate at
+some point where they set similar material vibrating, that is to say,
+crystallizing, in the same way?
+
+I remember, when I first began to be interested in crystals in
+undergraduate days, reading in _Nature_ an account of two papers which
+seemed to have a possible bearing on the subject. One is an example of a
+stationary arrangement of rigid bodies. The other illustrates the
+principle which I am now suggesting, and is an arrangement of pulsating
+bodies whose positions are due to their movements. The first was a
+description of MAYER’S experiment on floating magnets which was, if I
+remember right, shown here in a BOYLE Lecture by Sir JOSEPH THOMSON a
+few years ago; an experiment in which magnets suspended in water by
+corks and with their North poles projecting so that they repel one
+another, are brought together by the attraction of a large magnet held,
+with its South pole downwards, above the surface of the water; under the
+joint influence of this attraction and their own mutual repulsions, they
+group themselves into a number of interesting geometrical figures very
+suggestive of the geometrical regularity of crystal structure. Indeed,
+attempts have been made by LEHMANN to explain the architecture of a
+crystal by a grouping of magnetic systems. And the other was the
+experiment of BJERKNES in 1876 (described in _Nature_ in 1881), in which
+a number of hollow elastic balls were made to expand and contract by
+means of air tubes attached to them. These pulsating balls, when placed
+in water, attracted and repelled one another like magnets, and arranged
+themselves in a regular manner; thus suggesting that there may be many
+unexpected ways in which rhythmical motion can exercise an attractive
+and directive action such as is required to produce a crystal.
+
+Let me illustrate what I mean by another crude analogy. Take a room full
+of dancers; if they are all dancing to different times and in different
+ways there will be no order or arrangement in the crowd, and it will
+remain an incoherent jostling assembly of independent persons. But if
+there are among them those who are moving to the same step and in the
+same manner, and if they come together, they can become partners and can
+continue to dance together; and if the room be filled with such dancers,
+then the whole assembly can grow together into an orderly movement, and
+only those whose step does not fit into the dance will be ejected and
+left out. Or take another example: soldiers marching together have not
+ceased to be individual men, but when they fell into step they became in
+addition an organized body with a structure and a coherence that does
+not belong to a miscellaneous crowd. Even so may the particles of
+dissolved salt be endowed with a movement which enables them to enter
+into partnership and cohere, and so to build themselves into the orderly
+structure which makes up a crystal. And even so do crystals grow out of
+a mixed solution as a pure and homogeneous substance and reject the
+other materials which are dissolved in the liquid.
+
+One other suggestion. If the growth of a crystal is really the coming
+together of vibrating particles which cohere because they are in tune
+with one another and so enter into a partnership like that of the
+dancers or the figure skaters, then is it not possible that we may be
+able to communicate these vibrations to a supersaturated solution, which
+is so densely crowded that it is ready to crystallize, by some other
+means than by inoculating it with the appropriate crystal? I think that
+the time has come when we may be able to get some knowledge of the
+manner of these movements by experimental methods; perhaps by studying
+the sort of shock or movement, if there be any such, which starts
+crystallization in a supersaturated solution; perhaps by finding other
+substances, whose movements we understand, which are able to start the
+crystallization when they are introduced into certain solutions.
+
+I have said that the frontier problems in science are interesting; and
+that this is true not only of the events that take place when different
+bodies meet, but in another and more general sense. The most interesting
+and fruitful problems are those which deal with the borderland between
+two sciences, when the difficulties of the one are enlightened by the
+experience of the other, or when the same problem is looked at from two
+different sides. Let me only quote as an illustration the work connected
+with osmosis, which attracted first the botanists and then the physical
+chemists, and remind you of the enormous importance which it has assumed
+by their combined efforts. I think it will be found that these problems
+of crystal growth are of this borderland nature. And such problems can
+only be satisfactorily attacked by those who are more than mere
+specialists and can be led by the experience or the analogies of other
+sciences.
+
+I said that I should like to regard this lecture as an attempt to
+justify the value of analogy. We poor specialists grope within the
+confines of our own science, and what little advance we make is made in
+part by the light we borrow from the other sciences. In these days of
+increasing specialization what we need is to interest in our own
+problems, not only those who are tilling the same fields with ourselves,
+but even more, those who live on the other side of the fence which
+surrounds us: to call to them across the frontier, to seek their advice
+and assistance and the benefit of their experience.
+
+This is one of the great advantages of a University, that workers and
+thinkers in different subjects are brought together and can make their
+difficulties known to each other. The connecting links between them are
+the analogies which they perceive and which excite an interest that they
+would not otherwise feel in each other’s work.
+
+This is the reason why I have endeavoured to set before you a very
+special problem in a very elementary way and as far as possible without
+using technical terms. It is with the hope of attracting the interest of
+workers in other subjects to this fascinating problem of crystal growth
+which, from the time of BOYLE to that of RUSKIN, and more especially, as
+I have shown you, in recent years, has engaged the attention of Oxford
+students of crystals.
+
+
+
+                          Transcriber’s note:
+
+Page 8, ‘allum’ changed to ‘alum,’ “corpuscles of nitre, alum, vitriol,”
