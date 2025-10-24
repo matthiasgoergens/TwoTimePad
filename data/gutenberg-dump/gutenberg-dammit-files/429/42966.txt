@@ -1,0 +1,4977 @@
+KUINKA ÄKÄPUSSI KESYTETÄÄN
+
+Kirj.
+
+William Shakespeare
+
+
+
+Paavo Cajanderin suomennos ilmestyi v. 1912.
+
+
+
+
+Näytelmän henkilöt:
+
+ Eräs loordi.
+ RISTO SUKKI, päihtynyt kattilanpaikkuri, emäntä,
+   paashi, näyttelijöitä, metsämiehiä ja loordin
+   palvelijoita (johdannossa esiintyvi).
+ BAPTISTA, rikas padualainen ylimys.
+ VINCENTIO, vanha pisalainen kauppias.
+ LUCENTIO, Vincention poika, Biancan rakastaja.
+ PETRUCHIO, veronalainen ylimys, Katariinan kosija.
+ GREMIO,     | Biancan kosijoita.
+ HORTENSIO,  |
+ TRANIO,    | Lucention palvelijoita.
+ BIONDELLO, |
+ GRUMIO,  | Petruchion palvelijoita.
+ CURTIS   |
+ Majisteri.
+ KATARIINA, äkäpussi,     | Baptistan tyttäret.
+ BIANCA, hänen sisarensa, |
+ Eräs leskivaimo.
+ Räätäli, korukauppias, Baptistan ja Petruchion palvelijoita y.m.
+
+Tapahtumapaikkana milloin Padua, milloin Petruchion maahovi.
+
+
+
+
+JOHDANTO.
+
+
+Ensimmäinen kohtaus.
+
+    Nummi. Kapakan edusta.
+
+    (Kapakan-emäntä ja Sukki tulevat.)
+
+SUKKI.
+Kyllä minä teidät kynin, totta totisesti!
+
+EMÄNTÄ.
+Jalkapuuhun, senkin kulkuri!
+
+SUKKI.
+Senkin luuska! Sukit eivät ole mitään kulkureita. Silmäilkää
+aikakirjoja: me tulimme maahan Richard[1] valloittajan kanssa. Siis,
+_paucas pallabris_:[2] antaa maailman pyöriä. Hih! Hei!
+
+EMÄNTÄ.
+Ettekö tahdo maksaa laseja, jotka särjitte?
+
+SUKKI.
+En, en penniäkään. Pidä paikkas, Jeronimo![3] Mene kylmään sänkyysi
+lämmittelemään.
+
+    (Menee syrjään.)
+
+EMÄNTÄ.
+Kyllä minä keinon tiedän: menen hakemaan neljännysmiestä.
+
+    (Menee.)
+
+SUKKI.
+Neijännys-, viidennys- tai kuudennusmiestä: kyllä minä hänelle vastaan
+lain jälkeen. Minä en väisty tuumaakaan, poikaseni; tulkoon vain,
+ja hyvällä.
+
+    (Kaatuu maahan ja nukkuu.)
+
+    (Torventoitotusta. Muuan loordi palaa metsältä seurueineen.)
+
+LOORDI.
+Mies sinä, hoida hyvin koiriani:
+Ajosta pilalla on Hula-parka;
+Sa kytke Turkka yhteen Jorman kanssa.
+Mies, näitkös kuinka Teppo suoriutui,
+Kun aitauksen kolkkaan jäljet hukkui?
+Ma sit' en koiraa vaihtais sataan puntaan.
+
+1 METSÄSTÄJÄ.
+Hoo, yhtä hyvä koira Kaaro on:
+Ei hellittänyt, vaikka jäljet hukkas,
+Vaan kahdesti jo tänään vainun sai.
+Se koira parempi on, sen ma takaan.
+
+LOORDI.
+Vait, hölmö! Jos ois Kaikku yhtä liukas,
+Niin kymmentä se vastais mokomaa.
+Nyt hyvin niitä ruoki vain ja hoida:
+Taas huomenna ma lähden metsälle.
+
+1 METSÄSTÄJÄ.
+Kyll', arvon herra.
+
+LOORDI.
+                    Kuka tuossa? Kuollut
+Vai päihtynytkö? Katso, onko henki?
+
+2 METSÄSTÄJÄ.
+On henki; jos ei lämmittäis hänt' olut,
+Niin vuoteess' ei noin kylmäss' uni maistuis.
+
+LOORDI.
+Se senkin eläin! Makaa niinkuin sika!
+Kamala kuolo, kuink' on kuvas inha!
+Ois mieli tehdä juomarille metkut.
+Mitä, jos pantais hänet hienoon sänkyyn,
+Uus puku ylle, joka sormeen sormus,
+Makeimmat herkkupalat vuoteen ääreen
+Ja sirot paashit viereen, kun hän herää:
+Tuost' itsens' unhottaisko kerjäläinen?
+
+1 METSÄSTÄJÄ.
+Unohtais varmaan, siit' ei epäilystä.
+
+2 METSÄSTÄJÄ.
+Ja kummaltapa tuntuis herätessä.
+
+LOORDI.
+Kuin maire uni taikka harhahurmos.
+Siis taiten juoneen käykää, varoin hänet
+Paraaseen huoneeseeni kantakaa,
+Kuvia haureliaita seiniin pankaa,
+Pää herjan hajuvesin voidelkaa
+Ja sulostakaa ilma suitsutteilla;
+Tilatkaa soittajia soittamaan
+Säveltä taivaallista heräävälle;
+Ja jos hän puhuu, olkaa heti valmiit
+Ja alhaisin ja nöyrin kumarruksin
+Kysykää: "mitä, armo, käskette?"
+Yks hopeaisen, kukitetun maljan
+Taritkoon hälle, täynnä ruusuvettä,
+Ja toinen tuokoon kannun, kolmas pyyhkeen:
+"Täss', armo, käsillenne vilvoketta!"
+Komeita pukimia tuokoon toinen,
+Kysyen, minkä suvaitsee; taas toinen
+Puhukoon koirista ja hevosista,
+Ja kuinka rouvaa tauti surettaa.
+Hänt' uskotelkaa, ett' on ollut hullu;
+Jos sanoo, että on[4] -- niin sanokaa.
+Ett' uneksii, ja ett' on ylhä loordi.
+Se tehkää, miehet, ja se taiten tehkää;
+Siit' ajanviete tulee verraton,
+Jos liioittelematta juoneen käytte.
+
+I METSÄSTÄJÄ.
+Osamme näyttelemme niin, sen lupaan,
+Ett' innostamme päättäen hän uskoo
+Se olevansa, miksi sanotaan.
+
+LOORDI.
+Varoen nostakaa ja sänkyyn viekää;
+Ja kukin tehtäväänsä, kun hän herää.
+
+    (Sukki kannetaan pois. Torventoitauksia.)
+
+Käy, poika, tiedustamaan, kenen torvi.
+
+    (Palvelija menee.)
+
+Lie joku ylhä loordi, joka täällä
+Levähtää aikoo matkallaan.
+
+    (Palvelija palaa.)
+
+Ken on se?
+
+PALVELIJA.
+Jos suvaitsette, näyttelijäkunta,
+Mi tarjoo palvelustaan.
+
+LOORDI.
+                        Käske tänne.
+
+    (Näyttelijöitä tulee.)
+
+Olette tervetulleet.
+
+1 NÄYTTELIJÄ.
+                     Nöyrin kiitos!
+
+LOORDI.
+Teill' aikomusko olla meillä yötä?
+
+1 NÄYTTELIJÄ.
+Jos armo tahtoo meidän palvelusta
+Hyväkseen käyttää.
+
+LOORDI.
+                   Vallan mielelläni. --
+Tuon miehen muistan kerran näytelleen
+Arentimiehen vanhimpata poikaa:
+Niin, sievästi sa neittä siinä kosit.
+En muista nimeäs, mut luontevasti
+Sen osan suoritit; se sulle sopi.
+
+1 NÄYTTELIJÄ.
+Sotoa varmaan tarkoitatte, armo.
+Loordi. Niin oikein: esitykses oli oivaa.
+Tulette juuri otolliseen aikaan:
+Ma pientä kujett' olen aatellut,
+Miss' auttaa mua voitte taidollanne.
+Tääll' eräs loordi tahtois teidät nähdä,
+Mut kovin pelkään että hämmennytte,
+Kun näette hänen hassut elkeensä --
+Hän koskaan näytelmää ei ole nähnyt --
+Ja remahdatte ääneen nauramaan,
+Ja hänet suututatte; sillä tietkääs,
+Jos nauratte, hän joutuu ihan vimmaan.
+
+1 NÄYTTELIJÄ.
+Ei vaaraa; mielemme me malttaa voimme,
+Vaikk' ois hän mitä naurettavin hölmö.
+
+LOORDI.
+Mies, saata heidät ruokakamariin
+Ja laita heille kelpo tuliaiset,
+Taloni tavaroita älä säästä. --
+
+    (Palvelija ja näyttelijät menevät.)
+
+    (Toiselle palvelijalle.)
+
+Tuo tänne passarini Pertteli,
+Ja pue hänet naiseks päästä jalkaan;
+Vie sitten hänet juopon huoneeseen,
+Kumarra häntä, armon rouvaks kutsu,
+Ja sano, suosini jos tahtoo voittaa,
+Ett' olkoon käytöksessään säädykäs,
+Niinkuin on nähnyt ylhäisien rouvain
+Aviomiehiänsä kohtelevan:
+Niin olkoon hänkin nöyrä juomarille;
+Syvästi niiaten ja lempein äänin
+Sanokoon: "Mitä, armo, käskette,
+Jott' alamainen puolisonne saisi
+Osoittaa lempeään ja palvelustaan?"
+Ja sitten halaillen ja suukostellen
+Ja juopon rintaan päätään kallistain
+Ilosta kyyneliä vuodattakoon,
+Kun terve taas on ylhä puoliso,
+Mi neljätoist' on vuotta kuvitellut
+Vain olevansa kurja kerjäläinen.
+Ja jos ei pojall' ole naisen lahjaa
+Komentaa esiin kyynelvirtoja,
+Niin hyväks avuksi on sipuli:
+Se, kätkettynä salaa nenäliinaan,
+Saa pakostakin silmät vettymään.
+Tee kaikki tää niin nopeaan kuin voit,
+Ma heti sulle lisää ohjeit' annan.
+
+    (Palvelija menee.)
+
+Se poika vallasnaisen suloutta
+Ja tapaa, käytöst', ääntä hyvin matkii.
+On hauska kuulla, juoppoa kun kutsuu
+Hän miehekseen, ja nähdä, kuinka toiset
+Pidättää vaivoin voivat nauruaan,
+Kun tuota halpaa moukkaa palvelevat.
+Opastan heitä: läsnäolollani
+Voin liikaa hilpeyttä ehkäistä,
+Jok' ehkä muuten ylettömäks yltyis.
+
+                         (Menevät.)
+
+
+Toinen kohtaus.
+
+    Loordin makuuhuone.
+
+    (Sukki kalliissa yönutussa, palvelijain ympäröimänä; toiset
+    tuovat vaatteita, toiset pesuvadin, kannun y.m. astioita;
+    loordi palvelijaksi puettuna.)
+
+SUKKI.
+Jumalan tähden, potullinen sahtia!
+
+1 PALVELIJA.
+Halaatte, armo, ehkä sektiä?
+
+2 PALVELIJA.
+Tai mielinette, loordi, hillahuuppaa?
+
+3 PALVELIJA.
+Minlaiset vaatteet armo ylleen tahtoo?
+
+SUKKI.
+Minä olen Risto Sukki, en mikään armo enkä loordi. Sektiä en ole
+ikänäni maistanut, ja jos tahdotte antaa minulle jotakin huuppaa,
+niin antakaa sitte perunahuuppaa. Älkää kysykö, mitä vaatteita ylleni
+tahdon: minulla ei ole enemmän nuttuja kuin selkiä, ei enemmän sukkia
+kuin sääriä, ei enemmän kenkiä kuin jalkoja; toisinaan sentään enemmän
+jalkoja kuin kenkiä, tai semmoisia kenkiä, joista varvas pilkistää
+päällisen alta.
+
+LOORDI.
+Pois taivas karkoittakoon moiset houreet!
+Oi, että mahtimies, noin ylhää kantaa,
+Noin varakas ja suuriarvoinen,
+Noin joutuu pahan hengen riivaamaksi!
+
+SUKKI.
+Mitä? Aiotteko saattaa minut hulluksi? Enkö minä ole Risto Sukki,
+vanhan Sukin poika Burtonin nummelta, syntymältä kulkukauppias,
+kasvatukselta karstantekijä, muunnokselta karhunkuljettaja, ja
+nykyiseltä ammatiltani kattilanpaikkuri? Kysykää Maija Pölsältä,
+tuolta Wincotin lihavalta kapakan-emännältä, eikö hän tunne minua!
+Jos sanoo, että en ole häneltä velaksi ottanut puhdasta olutta
+neljäntoista äyrin arvosta, niin arvostelkaa minua valheellisimmaksi
+konnaksi koko kristikunnassa. Mitä! Enhän vain liene noiduttu!
+Tässä on --
+
+1 PALVELIJA.
+Oo, tuotahan se suree rouvanne!
+
+2 PALVELIJA.
+Oo, tuotahan se väkennekin kaihoo!
+
+LOORDI.
+Siks sukunnekin taloanne vieroo:
+Tuo kumma hulluus pois sen karkoittaa.
+Oo, jalo loordi, sukuperääs muista,
+Maanpaost' älys ylhä palauta, ja
+Maanpakoon pois nuo alhat houreet aja!
+Kas, väkesi on palvelemaan valmiit,
+Vain viittaustasi he vartovat.
+Halaatko soitantaa? Apollo soittaa,
+Häkeissään sadat satakielet laulaa.
+Halaatko unta? Hienon teemme sijan
+Ja pehmeämmän kuin se hempivuode,
+Jok' oli laitettu Semiramiille.
+Kävellä tahdot? Tiesi kukitamme.
+Vai ratsastaako? Ratsusi on valmiit,
+Satulat, suitset helmeä ja kultaa.
+Tai haukka-ajoon aiot? Haukkas liitää
+Ylemmä leivosta. Tai metsästellä?
+Sun koirais haukunnasta taivas raikuu
+Ja kumahdellen vastaa ontto maa.
+
+1 PALVELIJA.
+Jos ajojahtiin aiot, niin on hurttas
+Kuin hirvi liukkaat, kiivaammat kuin kauris.
+
+2 PALVELIJA.
+Pidätkö kuvista, niin koht' on täällä
+Adonis puron varrell' uinuvana,
+Ja Venus piilevänä kaislikossa,
+Jok' aaltoo hänen henkäyksistään
+Juur' niin kuin tuulessakin kaisla huojuu.
+
+LOORDI.
+Saat nähdä Ion impenä ja nähdä
+Kuink' yllätettiin hän ja vieteltiin:
+Kuvass' on teko ilmi elävänä.
+
+3 PALVELIJA.
+Tai Daphnen, joka orjantappuroissa
+Repelee jalkans', että veri vuotaa.
+Ja jonka nähdessään Apollo itkee;
+Niin taidokast' on kyyneleet ja veri.
+
+LOORDI.
+Sin' olet loordi, muuta et kuin loordi,
+Ja vaimos kauniimp' on kuin mikään nainen
+Täll' inhall' iällä.
+
+1 PALVELIJA.
+                     Jo ennen kuin
+Ne kyyneleet, joit' itki hän sun tähtes,
+Kuin kade tulva kauniit kasvot kastoi,
+Hän oli luomakunnan viehkein luoma,
+Eik' ole nytkään muita huonompi.
+
+SUKKI.
+Minäkö loordi? Moisen vaimon mieskö?
+Tää untako? Vai entisetkö unta?
+En uness' ole: kuulen, näen ja puhun,
+Ma tuoksun tunnen, hienoon patjaan kosken.
+Niin loordi olen, totta totisesti,
+En mikään paikkuri, en Risto Sukki. --
+No, vaimomme nyt tuokaa nähdäksemme;
+Ja vielä kerran tuoppi sahtia!
+
+2 PALVELIJA.
+Suvaitkaa, armo, pestä kätenne!
+
+    (Palvelijat tuovat pesuastian, kannun ja pyyhkeen.)
+
+Mik' ilo nähdä teidät entisellään!
+Jo taaskin tunnette, ken olette.
+Te viisitoista vuotta näitte unta
+Tai valveill' ollessanne nukuitte.
+
+SUKKI.
+Viistoista vuotta! Olipa se unta!
+Mut enkö koko aikaan puhunut?
+
+I PALVELIJA.
+Kyll', armo, mutta pelkkää hullutusta.
+Vaikk' ylhäishuoneessanne makasitte,
+Sanoitte ulos teidän ajetun
+Ja soimasitte talon emäntää
+Ja uhkasitte hänet lakiin haastaa,
+Kun hän ei käytä kruunattua mittaa;
+Ja väliin Pölsän Liisaa huusitte.
+
+SUKKI.
+Niin, krouvi-emäntäni tyttöstä.
+
+3 PALVELIJA.
+On olematon talo sekä tyttö
+Ja ihmisetkin, joita mainitsitte:
+Tapani Sukki, vanha Naukun Jussi,
+Ja Heikki Kumina ja Pekka Turve
+Ja sata muuta saman-nimellistä,
+Olematonta, joit' ei kukaan tunne.
+
+SUKKI.
+Jumalan kiitos, että parannuin!
+
+KAIKKI.
+Aamen!
+
+SUKKI.
+Suur'kiitos! Tuost' et tule vahinkoon.
+
+    (Paashi, naiseksi puettuna, tulee seuralaisineen.)
+
+PAASHI.
+Kuink' armollisen herrani on laita?
+
+SUKKI.
+He, hyvin vain; ei täällä ruokaa puutu.
+Miss' eukkoni?
+
+PAASHI.
+               Täss', armon herra; mitä käskette?
+
+SUKKI.
+Sa eukkoni? Ja et mua mieheks sano?
+Ma noiden olen herra, sinun ukkos.
+
+PAASHI.
+Mies sekä herra, herra sekä mies,
+Ma kuuliainen olen puolisonne.
+
+SUKKI.
+Se tietty. -- Miksi sanon häntä?
+
+LOORDI.
+                                 Rouvaks.
+
+SUKKI.
+Kuin? Kaisa-rouvaksi, vai Jaana-rouvaks?
+
+LOORDI.
+Vain rouvaksi, se loordien on tapa.
+
+SUKKI.
+No, eukko rouva, sanovat mun maanneen
+Ja nähneen unta viisitoista vuotta.
+
+PAASHI.
+Ne kolmekymment' oli vuotta mulle,
+Kun täytyi olla erin vuoteestanne.
+
+SUKKI.
+On siinä aikaa! Miehet, menkää matkaan! --
+Nyt, rouva, vaatteet pois, ja vuoteeseen!
+
+PAASHI.
+Suur-armollinen herra, pyydän että
+Viel' yhden yön tai pari maltatte,
+Siks ainakin kuin laskenut on päivä.
+Mua lääkärit on suoraan velvoittaneet,
+Pelosta että vanha tauti palaa,
+Pysymään erin teidän vuoteestanne.
+Ma toivon, että tepsii tämä syy.
+
+SUKKI.
+Kylläpä se niin tepsii, että töin tuskin voin niin kauan odottaa.
+Mutta harmillista olisi jälleen vaipua noihin unennäköihinkin;
+tahdon siis odottaa, huolimatta siitä, mitä liha ja veri sanoo.
+
+    (Palvelija tulee.)
+
+PALVELIJA.
+Armonne näyttelijät, kuullen teidän
+Taas parantuneen, hauskan komedian
+Täss' esittävät; lääkärit niin tahtoo;
+Verenne soannut on liika synkkyys,
+Ja raskas mieli hulluuden on siemen.
+Siis hyvää tekee kuulla näytelmää
+Ja mielens' antaa ilon valtaan, joka
+Pidentää elämää ja harmit häätää.
+
+SUKKI.
+Hitto olkoon, se on tapahtuva! Eikö se komelia ole jotakin
+jouluhypitystä tai nuoratanssia?
+
+PAASHI.
+Ei, paljon hupaisempi kappale.
+
+SUKKI.
+Mitä, oikeinko kotitarve-kappale?
+
+PAASHI.
+Ei, tuommoinen vain historia.
+
+SUKKI.
+Hyvä, sitä tahdomme kuulla. Tule, eukko rouva, istu tähän viereeni!
+Antaa maailman pyöriä; me emme tässä enää tule sen nuoremmiksi.
+
+    (Istuutuvat.)
+
+
+
+
+ENSIMMÄINEN NÄYTÖS.
+
+
+Ensimmäinen kohtaus.
+
+    Katu Paduassa.
+
+    (Lucentio ja Tranio tulevat.)
+
+LUCENTIO.
+Sa tiedät, että harras halu nähdä
+Tää kaunis Padua, tää taiteen kehto,
+Mun loistavahan Lombardiaan toi,
+Italian ihanaiseen yrttitarhaan,
+Ja että isän lempisuosiosta
+Sain hänen lupansa ja seuraks sinut,
+Sa uskollinen, taattu palvelija.
+Nyt tänne jääkäämme ja opin tietä
+Ja taiteen uraa onnell' alkakaamme.
+Tuo kunnon porvareistaan kuulu Pisa
+On synnyinpaikkani; siell' isä asui,
+Vincentio, Bentevoglin sukua,
+Mies kauppiaana kuulu kautta maiden.
+Florensin kasvatin, Vincention pojan,
+Tulisi, isän toiveet täyttääkseen,
+Somentaa hyveill' isän rikkautta.
+Siks, Tranio, aion hyvett' opiskella
+Ja sitä tietoviisauden haaraa,
+Jok' opettaa, ett' on vain hyveess' onni.
+Sanohan mieles; Pisan, näet, jätin
+Ja tulin tänne niinkuin mies, mi jättää
+Matalan lammikon ja virtaan syöksyy,
+Näin tyyten sammuttaakseen janoaan.
+
+TRANIO.
+_Mi perdonate_, rakas, nuori herra,
+Ma kaikess' ajattelen niinkuin te,
+Iloiten, ett' on yhä teillä halu
+Suloisen opin suloisuutta maistaa.
+Mut, hyvä herra, hyvett' ihaillessa
+Ja hyveen tieteilyä, älkäämme
+Tok' olko niinkuin stoalaiset pölkyt
+Tai piintyneet niin Aristoteleeseen,
+Ett' ihan pannaan jää Ovidius.
+Logiikkaa tuttavissa jauhakaa
+Ja retoriikkaa arkipuheessanne;
+Runo ja soitto virkistykseks olkoon;
+Matematiikkaan, metafysiikkaan
+Vain ryhtykää, kun vatsa sitä vaatii.
+Ei mikään luonnista, jos halu puuttuu;
+Mik' enin haluttaa, sit' oppikaa.
+
+LUCENTIO.
+Suur' kiitos, Tranio, neuvosi on hyvä.
+Jos Biondello vain jo oisi täällä,
+Niin työhön käydä heti voisimme
+Ja ottaa huoneuston, johon sopis
+Kaikk' ystävät, joit' aion täällä saada.
+Mut varro hiukan: mikä seura tuo?
+
+TRANIO.
+Vain juhlasaatto, meitä tervehtivä.[5]
+
+    (Baptista, Katariina, Bianca, Gremio ja Hortensio tulevat.
+    Lucentio ja Tranio vetäytyvät syrjään.)
+
+BAPTISTA.
+Mua, hyvät herrat, älkää kiusatko.
+On, tiedättehän, luja mulla päätös:
+En tytärtäni nuorint' ennen naita
+Kuin olen miehen saanut vanhemmalle.
+Jos kumpi teistä lempii Katariinaa, --
+Ma teidät tunnen, hyvää teille suon --
+Kosikoon mielin määrin; luvan annan.
+
+GREMIO (syrjään).
+Kosia häntä pitäis: hän on äksy. --
+Tuoss' on, Hortensio! Naida tahdotko?
+
+KATARIINA.
+Oi isä hyvä, mua aiotko
+Näin kaupitella noille kumppaneille?
+
+HORTENSIO.
+Kuin? Kumppaneille? Kumppanist' ei teille,
+Jos ette luontoanne lauhduta.
+
+KATARIINA.
+Ei, hyvä herra, teille siit' ei vaaraa:
+Viel' ette puolitiessä sydämmeensä;
+Ja vaikka oisittekin, kyllä varmaan
+Hän kolmijalkusella päänne sukis
+Ja maalais naamanne ja narriks pukis.
+
+HORTENSIO.
+Piruista moisist' auta meitä, Herra!
+
+GREMIO.
+Minua myöskin, hyvä Jumala!
+
+TRANIO.
+Hst, herra! Tästä tulee hauska hupi;
+Tuo tyttö hassu on tai aika jupi.
+
+LUCENTIO.
+Mut toisen vait'olossa neitseellistä
+On suloa ja nöyryytt' ihmeellistä.
+Vait, hiljaa, Tranio!
+
+TRANIO.
+Hyv' on; hst! Töllistelkää kylliksenne!
+
+BAPTISTA.
+Hyvät herrat, heti vahvistaakseni
+Nuo sanani, -- Bianca, mene sisään!
+Äl' ole pahoillas, Bianca hyvä,
+Sua silti vähemmin en rakasta.
+
+KATARIINA.
+Se pikku lelli! Kylläp' ois hän valmis
+Nyt tillittämään, jos vain tietäis, miksi.
+
+BIANCA.
+Hyvä mieles olkoon mielipahastani. --
+Mukaannun nöyräst', isä, tahtoonne:
+Mun seuranani sitra on ja kirjat,
+Ma lohdukseni soittelen ja luen.
+
+LUCENTIO.
+Haa, kuules, Tranio! Oi, Minerva puhuu!
+
+HORTENSIO.
+Signior Baptista, olettehan tyly!
+Surettaa että meidän lemmestämme
+Saa kärsiä Bianca.
+
+GREMIO.
+                   Kuin, Baptista?
+Tuon lemmon tähden hänet salpaatteko?
+Tuon pahan kielen hänkö maksaa saa?
+
+BAPTISTA.
+Tytykää, herrat; päätökseni pysyy.
+Bianca, mene sisään!
+
+    (Bianca menee.)
+
+Kun tiedän, että paras ilo hälle
+Runous, soitto on ja soittimet,
+Niin nuoruutt' opastamaan hankin hälle
+Ma kotiin opettajan. -- Te, Hortensio,
+Te, Gremio, sopivan jos tiedätte,
+Niin mulle lähettäkää; taitomiestä
+Ma hyvin kohtelen; en mitään säästä,
+Mik' oman lapsen kasvatusta koskee.
+Hyvästi vain! Jää tänne, Katariina!
+Biancan kanss' on mulla puhumista.
+
+    (Menee.)
+
+KATARIINA.
+Haa! Minäkö en myös sais mennä? Mitä?
+Minäkö käskettävä? Niinkuin itse
+En tietäis, mitä tehdä, mitä jättää!
+Haa!
+
+    (Menee.)
+
+GREMIO.
+Niin, mene sinä pirun ämmän häntään! Sinulla on myötäantimet niin
+hyvät, että täällä ei kukaan sinua pidätä. -- Noiden rakkaus ei ole niin
+suuri, Hortensio, ett'emme hyvin voisi malttaa, puhallella kynsiämme
+ja rauhassa odottaa; meidän kakkumme ei ole vielä molemmin puolin
+paistunut. Hyvästi! -- Mutta rakkaudesta suloiseen Biancaani koetan
+kuitenkin saada, jos suinkin voin, sopivan miehen, joka opastaisi häntä
+hänen mieliharrastuksissaan, ja tätä hänen isälleen suositella.
+
+HORTENSIO.
+Niin minäkin, signior Gremio. Mutta sananen vielä, jos suvaitsette.
+Vaikka riitamme luonto ei tähän asti ole sallinut mitään välipuheita,
+niin tietäkää nyt, että, vakaasti miettien, olisi meille kummallekin
+tähdellistä -- jotta jälleen pääsisimme kauniin haltijattaremme puheille
+ja voisimme onnellisesti kilvoitella Biancan rakkaudesta -- eritoten
+ajaa ja panna toimeen yksi asia.
+
+GREMIO.
+Ja mikä se, jos saan kysyä?
+
+HORTENSIO.
+He, että hankimme miehen hänen sisarelleen.
+
+GREMIO.
+Miehenkö? Paholaisen!
+
+HORTENSIO.
+Minä sanon: miehen.
+
+GREMIO.
+Ja minä sanon: paholaisen. Luuletko todellakin, Hortensio, että, vaikka
+hänen isänsä onkin upporikas, kukaan olisi niin hullu, että naisi
+itselleen helvetin?
+
+HORTENSIO.
+Joutavia, Gremio! Vaikka ei meidän kärsivällisyytemme, ei sinun eikä
+minun, riitä kestämään hänen suuriäänistä riehkinäänsä, niin on niitä
+sentään, hyvä ystävä, hiljaisia miehiä maailmassa -- kun vain olisivat
+löydettävissä -- jotka ottaisivat hänen kaikkine vikoineen ja rahat
+kaupan päälliseksi.
+
+GREMIO.
+Enpä tiedä; mutta minä yhtä mielelläni ottaisin hänen myötäjäisensä
+sillä ehdolla, että tulisin joka aamu kaakinpuussa piiskattavaksi.
+
+HORTENSIO.
+Totta, mitä sanoit: ei ole mädissä omenissa valitsemisen varaa. No niin,
+kun nyt tämä laillinen este on tehnyt meistä ystävät, niin pitäkäämme
+edelleenkin ystävinä yhtä, kunnes, auttamalla Baptistan vanhempaa
+tytärtä naimisiin, olemme tehneet nuoremman naimiseen esteettömäksi; ja
+sitte taas reippaasti kilpailuun! -- Ihana Bianca! -- Onni miehen edellä
+käy; nopein juoksija voiton vie. Mitä arvelet, signior Gremio?
+
+GREMIO.
+Siihen suostun; ja mielelläni antaisin vaikka parhaan ratsun Paduassa
+naimahevoseksi sille, joka oikein rajusti häntä kosisi ja hänet saisi ja
+hänet naisi ja talon hänestä pelastaisi. Lähtekäämme!
+
+    (Gremio ja Hortensio menevät.)
+
+TRANIO (astuen esiin).
+Ihanko totta? Onko mahdollista?
+Noin ruttoon voiko lempi tarttua?
+
+LUCENTIO.
+Oi, Tranio, ennenkuin sit' itse ko'in,
+En sit' ois mahdolliseks uskonut.
+Mut näes, kun jouten seisoksin ja katsoin,
+Niin lemmen teho valtas joutilaan;
+Ja nyt, sen suoraan sulle tunnustan, --
+Jok' olet minun kallis uskottuni,
+Kuin Anna Dido-kuningattaren --
+Ma palan, Tranio, riudun; kuolen, Tranio,
+Jos tuota somaa tyttöä en saa.
+Mua neuvo, Tranio! Tiedän, että voit;
+Mua auta, Tranio! Tiedän, että tahdot.
+
+TRANIO.
+Nyt, herra, teit' ei aika nuhdella:
+Toruilla sydämmest' ei lempi lähde.
+Jos lempi voitti, ei voi siihen mitään:
+_Redime te captum, qvam queas minimo_.
+
+LUCENTIO.
+Suur' kiitos, poika; jatka; tuo se lientää;
+On tuumas terveellistä; jatka, jatka!
+
+TRANIO.
+Niin tyttöst' aavehtien katselitte,
+Ett' ehkä tärkein huomaamatta jäi.
+
+LUCENTIO.
+Oo, poskillaan näin sulon samanlaisen
+Kuin ol' Agenorinkin tyttärellä,
+Suur' Zeus kun hänen kättään ihaili
+Ja Kreetan rantaa polvin suuteli.
+
+TRANIO.
+Tuon vainko näitte? Ette, kuinka sisar
+Toraksi löi ja moisen nosti myrskyn,
+Ett' ihmiskorva tuskin melun sieti?
+
+LUCENTIO.
+Korallihuultensa näin liikkuvan
+Ja hänen hengestänsä ilma tuoksui:
+Ihanaa, pyhää kaikki, minkä näin.
+
+TRANIO.
+Nyt aika herättää hänt' unestaan. --
+Herätkää, hoi! Jos neittä rakastatte,
+Niin älyin taidoin hänet voittakaa.
+Niin hurja on ja häijy vanhin sisko,
+Ett' isä, kunnes hänest' irti pääsee,
+Ei päästä nuorempaakaan naimisiin;
+Ja siksi hänet tarkoin sisään salpaa,
+Jott' ei hänt' ahdistaisi kosijat.
+
+LUCENTIO.
+Oi, Tranio, kuinka julma on se isä!
+Mut huomasitko, kuinka oli kärkäs
+Hänelle saamaan hyvää opettajaa?
+
+TRANIO.
+Sen huomasin; ja valmis mull' on juoni.
+
+LUCENTIO.
+Minulla myöskin.
+
+TRANIO.
+                 Vannon, että sama
+On kuje kummallakin.
+
+LUCENTIO.
+                     Mikä sulla?
+
+TRANIO.
+Ett' astutte nyt kouluttajan virkaan
+Ja tytön opetukseen ryhdytte:
+Se juonenne.
+
+LUCENTIO.
+             Niin onkin; eikö kelpaa?
+
+TRANIO.
+Se mahdotonta on. Ken Paduassa
+Vincention poikaa silloin edustaa,
+Hovia pitää, opit käy ja pidot,
+Maanmiehiänsä tervehtii ja kestaa?
+
+LUCENTIO.
+Basta! Ei hätää: juoneni on valmis.
+Ei meitä vielä missään ole nähty,
+Ja palvelijaa herrasta ei kukaan
+Voi kasvoist' erottaa. Siis sinä, Tranio,
+Minua edustat ja olet herra,
+Hovia pidät, komennat ja käsket;
+Min' olen joku toinen: halpa mies
+Pisasta, -- Napolista, -- Florensista.
+Siis päätetty! Nyt joutuin vaattees riisu,
+Mun sulkahattuni ja vaippan' ota;
+Sua Biondello palvelee, kun saapuu;
+Mut ensin noidun hältä kielen lukkoon.
+
+    (Vaihtavat vaatteita.)
+
+TRANIO.
+Se onkin tarpeellista. Olkoon niin:
+Kun tää on, herra, tahtonne, ja minä
+Teit' olen velvollinen kuulemaan --
+Niin lähteissämme käski isänne:
+"Avulias ole pojalleni", sanoi,
+Vaikk' arvatenkin toisin tarkoitti --
+Niin olen mielelläin Lucentio,
+Siks että rakastan Lucentiota.
+
+LUCENTIO.
+Siks että rakastaa Lucentio.
+Käyn orjaks tytön vuoks, jok' äkkipikaa
+Kahlehti haavoitetun silmäni.
+
+    (Biondello tulee.)
+
+Tuoss' on se lurjus. -- Missä olet ollut?
+
+BIONDELLO.
+Miss' ollutko? Miss' itse olette?
+Teilt' onko Tranio varastanut vaatteet?
+Vai hältä te? Vai kumpikinko? Mitä?
+
+LUCENTIO.
+Lähemmä! Nyt ei aika suottailla;
+Siis mukaudu ajan vaatimukseen.
+Pelastaaksensa henkeni on Tranio
+Minulta asun lainannut ja puvun,
+Ja minä hältä, pakoon päästäkseni.
+Kun tänne saavuin, näet, niin riitannuin
+Ja tapoin miehen: pelkään tulla ilmi.
+Sävyllä häntä palvele, se muista,
+Kun minä henkeäni pakoon lähden.
+Mua ymmärrätkö?
+
+BIONDELLO.
+                En tään taivaallista.
+
+LUCENTIO.
+Ja Traniost' et saa sanaa hiiskua:
+On Tranio muuttunut Lucentioksi.
+
+BIONDELLO.
+No, onneks olkoon! Toivois sitä muutkin!
+
+TRANIO.
+Ja minä toivon lisäks, että sekin onni koittais,
+Lucentio että nuorimman Baptistan tytön voittais.
+Mut, poika, -- min' en itseni, vaan herras tähden sois,
+Ett' ihmisissä käytöksesi aina höyli ois.
+Kun ollaan kahdenkesken, min' olen Tranio,
+Mut muuten kaikkialla sun "herrasi Lucentio".
+
+LUCENTIO.
+No, tule, Tranio.
+Yks toimi sull' on tehtävänä vielä:
+Sa liity muihin kosijoihin; älä kysy, miksi;
+Se riittää, että syyni tiedät ylen painaviksi.
+
+    (Menevät.)
+
+1 PALVELIJA.
+Torkutte, herra, kappalt' ette tarkkaa.
+
+SUKKI.
+Tarkkaan, kautta pyhän Annan: hyvä kappale, tosiaankin! Tuleeko
+vielä lisää?
+
+PAASHI.
+Tää vast' on alku, herrani.
+
+SUKKI.
+Se on oikein oivallinen työkappale, eukko rouva; kunhan vain loppuisi!
+
+
+Toinen kohtaus.
+
+    Sama paikka. Hortension talon edusta.
+
+    (Petruchio ja Grumio tulevat.)
+
+PETRUCHIO.
+Verona, jätin hetkeks sun, ja tulin
+Tääll' ystävissä käymään Paduassa,
+Etenkin hyvän, taatun ystäväni
+Hortension luona; tässä kai hän asuu.
+Koputa, Grumio, konna, koputa!
+
+GRUMIO.
+Koputa! Ketä mä koputan? Onko kukaan herjastellut herraa?
+
+PETRUCHIO.
+Koputa häntä oikein jytevästi.
+
+GRUMIO.
+Koputa häntä? Mikä, herra, minä olen, että minä häntä, herra,
+koputtaisin?
+
+PETRUCHIO.
+Koputa, konna, tuossahan näet oven,
+Ja lujast' iske, tai saat kalloos loven.
+
+GRUMIO.
+Hän haastaa riitaa. -- Hyvä, etten minä ensin lyönyt;
+Kyll' olis silloin periltäkin hitto minut syönyt.
+
+PETRUCHIO.
+No, eikö siitä tule mitään?
+Koputa, sanon, nopeaan ja minkä voimas voi,
+Tai pian koko sävelikkö korvissasi soi.
+
+    (Lyö häntä korvalle.)
+
+GRUMIO.
+Avuksi, hyvät ihmiset, mun herrani on hullu!
+
+PETRUCHIO.
+Koputa, kun ma käsken, senkin lurjus!
+
+    (Hortensio tulee.)
+
+HORTENSIO.
+Mitä nyt? Mitä tämä? -- Vanha ystäväni Grumio, ja hyvä ystäväni
+Petruchio! Mitä te Veronassa teette?
+
+PETRUCHIO.
+Hortensio, tuletteko te riitaa ratkomaan?
+_Con tutto il cuore ben trovato_, sanon vaan.
+
+HORTENSIO.
+_Alla nostra casa ben venuto, molto onorato, signor, mio Petruchio_.
+No, nouse, Grumio; riita sovitaan.
+
+GRUMIO.
+Ei, herra, siinä ei ole pontta eikä perää, mitä hän tuossa latinaksi
+selittää. -- Tämä, jos mikään, on minulle laillinen syy luopua hänen
+palveluksestaan. -- Nähkääs, herra, hän käski minun koputtaa häntä,
+iskeä oikein jytevästi; luuletteko, herra, että olisi ollut
+palvelijalle sopivaa näin pidellä herraansa, vallankin kun, mikäli
+minä voin nähdä, hän oli vähän toisella kymmenellä.
+Mut jos vain minä heti oisin lyönyt;
+Niin eip' ois hitto Grumiota syönyt.
+
+PETRUCHIO.
+Typerä nulikka! -- Horatio, katsos,
+Oveesi käskin koputtaa sen konnan,
+Mut siihen hänt' en saanut milläkään.
+
+GRUMIO.
+Vai oveen koputtaa! Oi, hyvä taivas!
+Sanoihan suoraan: koputappa häntä,
+Lujasti iske, iske jytevästi!
+Ja oven koputuksesta nyt puhuu!
+
+PETRUCHIO.
+Vait, lurjus, taikka matkaan, tiedä se!
+
+HORTENSIO.
+Petruchio, malta! Minä Grumion takaan.
+Pois kopu väliltänne, sun ja hänen,
+Tuon vanhan, hauskan, taatun Grumion!
+Nyt sano, ystävä, mik' onnen tuuli
+Sun lietsoi Veronasta Paduaan?
+
+PETRUCHIO.
+Se tuuli, joka nuoret onnenhakuun
+Pois maailmalle ajaa kodista,
+Miss' on niin vähän tarjon kokemusta.
+Hortensio, näin on lyhyesti laita:
+Antonio, mun isäni, on kuollut;
+Ja tässä itse harhailen ja etsin,
+Mist' eukon saisin sekä onnen naisin;
+Kotona konnut, kultaa kukkarossa,
+Ma matkustan ja mailmaa katselen.
+
+HORTENSIO.
+Petruchio, toimitanko empimättä
+Sinulle riitaisan ja häijyn vaimon?
+Et neuvostani suurin kiittäisi,
+Mut lupaan, että rikkaan sulle hankin,
+Hyvinkin rikkaan: -- liiaks sua sentään
+Rakastan, jotta moista toivoisin.
+
+PETRUCHIO.
+Näin vanhain ystävien kesken tarvis
+Ei monta sanaa. Tytön jos sa tunnet
+Niin rikkaan, että vaimokseni kelpaa, --
+Häätanssissani tulee kullan soida --
+Vaikk' ois niin jolsa kuin Florentiuksen
+Oli avio,[6] niin vanha kuin Sibylla
+Ja häijy niinkuin Sokrateen Xanthippa,
+Tai vaikka pahempikin, niin ei vois hän
+Mua kammottaa, ei edes sammuttaa
+Minussa lemmen kiihkaa -- vaikk' ois ärjy
+Kuin Adrian on meren kuohupäät.
+Rikasta tulin naimaan Paduasta;
+Jos rikkaan saan, saan onnen Paduassa.
+
+GRUMIO.
+Niin, nähkääs, herra, hän sanoo ainakin suoraan mitä ajattelee. Niin
+että antakaa hänelle vain kylläksi rahaa ja naittakaa hänet vauvalle,
+tai pelinukelle, tai vanhalle homsulle, jolla ei ole enää hammastakaan
+suussa, vaikka tauteja on yhtä monta kuin kahdellakuudetta hevosella:
+kaikki kelpaa, kun vaan tulee rahaa.
+
+HORTENSIO.
+Petruchio, kun näin pitkälle on tultu,
+Niin jatkan mitä piloill' alotin.
+Petruchio, sulle toimittaa voin vaimon.
+Jok' ylen rikas on ja nuori, kaunis,
+Ja vallasnaisen tapaan kasvatettu;
+Yks vika vain, ja siin' on vikaa kyllin:
+Hän sietämättömän on kiukkuinen
+Ja ynseä ja häijy siihen määrään,
+Ett' itse, vaikka köyhemp' olisin,
+En kultavuoristaan ma häntä naisi.
+
+PETRUCHIO.
+Hortensio, sin et tunne kullan voimaa.
+Isänsä nimi sano vain, se riittää:
+Ma tytön suostutan, vaikk' ääneen pauhais
+Kuin syksyn pilviss' ukko jyrisee.
+
+HORTENSIO.
+Isänsä on Baptista Minola,
+Ylimys ystävällinen ja höyli;
+Ja tyttö Katariina Minola,
+Pahasta suustaan kuulu Paduassa.
+
+PETRUCHIO.
+En häntä tunne, mutta isän tunnen,
+Ja hänkin hyvin tunsi isäni.
+Unt' en saa, ennenkuin sen tytön näen.
+Siis anna anteeksi, jos jätän sun
+Näin heti ensi tapaamisen jälkeen,
+Jos ehk' et sinä mulle seuraa tee.
+
+GRUMIO.
+Kuulkaa, hyvä herra, antakaa hänen mennä niin kauan kuin tuota tuulta
+kestää. Mutta sen sanon, että, jos tyttö tuntisi hänet niin hyvin kuin
+minä, niin tietäisi hän, että torat hyvin vähän siihen mieheen pystyy.
+Hän voi kenties kymmenkunnan kertaa sanoa häntä lurjukseksi tai sen
+semmoiseksi, se ei häntä vähääkään liikuta; mutta kun hän kerran rupee,
+silloin se vasta tosi alkaa. Tietäkääs mitä: jos tyttö vähääkään tekee
+vastarintaa, niin kyllä se mies hänen kasvonsa kuvittaa, tekeepä
+ne niin kuvattomiksi, että hänellä ei ole enemmän näkeviä silmiä kuin
+kissalla. Te ette tunne häntä, herra.
+
+HORTENSIO.
+Petruchio, varro, minä tulen mukaan:
+Baptistan hallussa on aarteeni,
+Hän elämäni kalleutta valvoo,
+Tytärtään nuorint', ihanaa Biancaa,
+Ja minulta ja muilta kosijoilta
+Ja kilpakiehtojilta hänet kätkee,
+Pitäen perin mahdottomana --
+Sen vian vuoks, jonk' äsken mainitsin --
+Ett' ikänään saa Katariina miehen.
+Sen vuoks Baptista niin on laittanut,
+Ett' ei Biancan luokse kukaan pääse,
+Ennenkuin naidaan pois se Kaisa hurja.
+
+GRUMIO.
+Se Kaisa hurja!
+Se tytön nimeksi on perin kurja.
+
+HORTENSIO.
+Tee mulle palvelus, Petruchio hyvä:
+Baptistan luokse valepuvussa
+Nyt minut saata soittotaiturina,
+Jost' opettajan sais Bianca-neiti.
+Ma niillä juonin, näet, saan tilaisuutta
+Tytölle tunteitani ilmaista
+Ja salavihkaa häntä kosia.
+
+    (Gremio ja Lucentio tulevat, jälkimmäinen
+    valepukuisena, kirjat kainalossa.)
+
+GRUMIO.
+Tuo ei ole mitään koirankuria, tuo muka! Kas vain, kuinka ne nuoret
+lyövät päänsä yhteen pettääksensä vanhoja! Herra, herra, katsokaa
+taaksenne! Keitä tuossa tulee? Häh?
+
+HORTENSIO.
+Vait, Grumio! Sehän kilpakosijani.
+Petruchio, mennään syrjään.
+
+GRUMIO.
+Komea poika, oikein naisten hempu!
+
+    (Vetäytyvät syrjään.)
+
+GREMIO.
+Jo luin luettelon; se on hyvä.
+Mut, kuulkaa, kauniiksi ne sidottakaa,
+Ja muistakaa: vain lemmenkirjoja,
+Muut' ette hänellä saa luettaa.
+Mun ymmärrätte. -- Lisäksi ja yli
+Baptistan antimien minä teitä
+Hyvitän auliisti -- Nuo paperinne
+Hyvillä hajuilla ne hajutelkaa:
+Hän, joka saa ne, hyvää hajua
+On suloisempi. Mitä hälle luette?
+
+LUCENTIO.
+Mitä luenkin, niin puolestanne puhun
+Kuin suosijan, niin vakaasti, sen lupaan,
+Kuin jos te itse läsnä oisitte,
+Ja ehkä vielä tehovammin sanoin
+Kuin te, jos ette liene oppimies.
+
+GREMIO.
+Oi, oppi, mikä aarre oletkin!
+
+GRUMIO.
+Oi, hölmö, mikä aasi oletkin!
+
+PETRUCHIO.
+Vait, sinä!
+
+HORTENSIO.
+Vait, Grumio! -- (Astuu esiin.) Herran rauha, signior Gremio!
+
+GREMIO.
+Signior Hortensio, terve! Arvaatteko,
+Mihinkä menen nyt? -- Baptistan luo:
+Lupasin taitavata opettajaa
+Kysellä kauniille Biancalle,
+Ja onneks tapasin tään nuoren miehen,
+Jok' opiltaan ja käytökseltään hälle
+Sopiva on ja tuntee runoniekat
+Ja muutkin kirjat -- hyvät, tietysti.
+
+HORTENSIO.
+Hyv' on; ja minä ylimyksen näin,
+Jok' oivan, hienon soittoniekan lupas
+Opettajaksi laittaa neidellemme.
+Näin mitään en lyö laimin, palvellessa
+Biancaa ihanaa, jot' armastan.
+
+GREMIO.
+Ma häntä armastan, sen työllä näytän.
+
+GRUMIO (syrjään).
+Sen kukkarollaan näyttää.
+
+HORTENSIO.
+                          Gremio,
+Ei lemmestä nyt aikaa rupattaa.
+Jos puhut kauniisti, niin sulle uutta
+Ma kerron, jok' on hyödyks kummallekin.
+Täss' sattumalta herran tapasin,
+Jonk' oma etu meidän etuun liittyy:
+Kosia lupaa hurjaa Katariinaa
+Ja hänet naidakin, jos vain saa rahaa.
+
+GREMIO.
+Haa! Sanottu ja tehty! Kaikki hyvin!
+Mut tunteeko hän tytön kaikki viat?
+
+PETRUCHIO.
+Ett' äreä ja tyly on, sen tiedän;
+Jos siinä kaikki, niin ei tuosta haittaa.
+
+GREMIO.
+Niin vainko, ystäväni? Mistä ollaan?
+
+PETRUCHIO.
+Antonion poika olen Veronasta.
+Isäni kuollut on, mut rahat jäivät;
+Niill' elän kauan, pidän hyvät päivät.
+
+GREMIO.
+Ei päivät hyvät moisen räivän kanssa.
+Mut Herran nimeen vain, jos haluttaa!
+Ma kaikess' olen teille avuksi.
+Siis naida aiotte tuon villikissan?
+
+PETRUCHIO.
+Niin totta kuin ma aion elääkin.
+
+GRUMIO (syrjään).
+Hän naiko tuon? Jos ei, niin tytön hirtän.
+
+PETRUCHIO.
+Siks enkö tänne tullut? Luuletteko,
+Mult' että pieni melu korvat särkee?
+Olenhan kuullut jalopeuran kiljun
+Ja nähnyt myrskyn mylleröimän meren
+Kuin villikarjun vaahdoss' ärjyvän,
+Ja tuliputken tanterella soivan
+Ja taivaan tykkein pilviss' ulvovan,
+Ja taiston hälinässä räikän kuullut
+Ja ratsun hirnunnan ja torven rämyn.
+Siis naisen kielest' älkää haastelko,
+Jok' isompaa ei anna paukausta,
+Kuin jos sa takkaan heität kastanjan.
+Möröjä lapsille!
+
+GRUMIO (syrjään).
+                 Hän niit' ei pelkää!
+
+GREMIO.
+Hortensio, kuules, onnelliseen aikaan
+Tää herra tullut on, sit' aavistan,
+Niin omaksi kuin meidän hyödyksemme.
+
+HORTENSIO.
+Lupasin että häntä auttaisimme
+Ja korvaisimme kosikulungit.
+
+GREMIO.
+Sen teemmekin, jos hän vain saa sen neidon.
+
+GRUMIO (syrjään).
+Josp' yhtä varmaan minä hyvän keiton!
+
+    (Tranio, komeaksi puettuna, ja Biondello tulevat.)
+
+TRANIO.
+Jumalan rauha, herrat! Rohkeneisin
+Kysyä teiltä, mikä suorin tie
+Signior Baptista Minolan on taloon.
+
+GREMIO.
+Sen, joll' on kaksi somaa tytärtäkö?
+Sen taloonko?
+
+TRANIO.
+Sen saman. -- Biondello!
+
+GREMIO.
+Mut ettehän vain aio niiden luo?
+
+TRANIO.
+Hänen tai niiden; mitä teihin tuo?
+
+PETRUCHIO.
+Mut äksyn luo ei vain, ma sit' en sois.
+
+TRANIO.
+Ei äksyistä! -- Biondello, tule pois!
+
+LUCENTIO (syrjään).
+Hyv' alku, Tranio!
+
+HORTENSIO.
+                   Sana teille ennen lähtöänne:
+Te neitokaista kosioimaan liette tullut tänne?
+
+TRANIO.
+Jos oisinkin, ei lie se rikosta?
+
+GREMIO.
+Ei, jos vain menette ja ette kikosta.
+
+TRANIO.
+Mut katu lienee vapaa, tiedänhän,
+Niin minulle kuin teille.
+
+GREMIO.
+                          Mut ei hän.
+
+TRANIO.
+Miks? Saanko tietää?
+
+GREMIO.
+                     Siihen vastaus on:
+Siks että on hän signior Gremion.
+
+HORTENSIO.
+Siks ett' on hän signior Hortension.
+
+TRANIO.
+Seis, herrat! Ylimyksinä te suokaa
+Minulle oikeus; tyynesti mua kuulkaa.
+Baptista arvoisa on ylimys,
+Eik' isänäkään vallan outo hälle.
+Ja vaikka tytär kauniimp' ois kuin onkaan,
+Yks monist' olen kosijoistaan minä.
+Niit' oli tuhat Ledan tyttärellä,
+Bianca saakoon yhden lisää siis,
+Ja saakin sen. Lucentio hänet veisi,
+Vaikk' itse Paris häntä pyyteleisi.
+
+GREMIO.
+Tuo herra puhuu kumoon meidät kaikki!
+
+LUCENTIO.
+No, antaa laukata, hän onkin koni.
+
+PETRUCHIO.
+Hortensio, mitä nämä pitkät puheet?
+
+HORTENSIO.
+Suvaitkaa minun vielä kysyä:
+Baptistan tytärt' oletteko nähnyt?
+
+TRANIO.
+En, mutta kuulin ett' on hällä kaksi:
+Pahasta kielestään on toinen kuulu
+Ja toinen kainost' ihanuudestaan.
+
+PETRUCHIO.
+Mun on se vanhin, siit' en hellitä.
+
+GREMIO.
+Se työ te Herkuleelle jättäkää,
+Se raskaamp' on kuin kaikki kaksitoista.
+
+PETRUCHIO.
+Se, hitto vieköön, selittää siis täytyy:
+Sen toisen tyttärensä, johon teillä
+On mieli, isä kätkee kosijoilta
+Eik' ennen päästä häntä naimisiin,
+Kuin vanhempi on tytär saanut miehen;
+On silloin vapaa nuorempi, ei ennen.
+
+TRANIO.
+Jos niin on, että te se mies, jolt' avun
+Me saamme kaikki, muun muassa minä,
+Niin jää siis murtakaa ja toimiin käykää,
+Pois viekää vanhin, tehkää vapaaks nuorin;
+Ja kuka tämän saaneekin, ei lie
+Niin hävytön hän, ettei kiittäis teitä.
+
+HORTENSIO.
+Puhutte hyvin, sangen älykkäästi;
+Ja kun nyt kosijana esiinnytte,
+Niin teidän, niinkuin meidän, tulee kiittää
+Tät' ylimystä hyväst' avustaan.
+
+TRANIO.
+Sit' en lyö laimin. Siitä todisteeksi
+Humussa viettäkäämme tämä ilta
+Ja neitostemme malja juokaamme.
+Kuin juttuherrat laissa, riitelemme,
+Mut ystävinä syömme sekä juomme.
+
+GRUMIO ja BIONDELLO.
+Sep' oiva ehdotus! No, tulkaa, pojat!
+
+HORTENSIO.
+Niin, ehdotus on hyvä, tosiaan! --
+Petruchio, _ben venuto_ sanon vaan.
+
+
+
+
+TOINEN NÄYTÖS.
+
+
+Ensimmäinen kohtaus.
+
+    Huone Baptistan talossa.
+
+    (Katariina ja Bianca tulevat.)
+
+BIANCA.
+Teet väärin, sisko, itselles ja mulle,
+Kun näin mua pitelet kuin palkkaorjaa;
+Mua loukkaa se. Kun käteni vaan päästät,
+Niin itse viskaan nämä korut pois
+Ja kaikki vaatteet, vaikka hameenikin.
+Jos mitä käsket, kaikki minä teen,
+Mit' olen velvollinen vanhemmalle.
+
+KATARIINA.
+Ma vaadin, sano, kuka sulle rakkain
+On kosijoistasi? Mut puhu totta.
+
+BIANCA.
+Oi, sisko, kellään miehellä en vielä
+Niin kauniit' ole nähnyt kasvoja,
+Jotk' ennen muita ois mua hurmanneet.
+
+KATARIINA.
+Valetta, vauva! Eikö vain Hortension?
+
+BIANCA.
+Jos hän sua miellyttää, niin häntä lupaan
+Kosia puolestas, ja hänet saat.
+
+KATARIINA.
+Ahaa! Sa havittelet rikkautta
+Ja suurest' elää mielit Gremion kanssa.
+
+BIANCA.
+Sa häntä minultako kadehdit?
+Oo, lasket leikkiä? Nyt ymmärrän:
+Pilanas vain mua pidit koko ajan.
+Oi, Kaisu sisko, päästä käteni!
+
+KATARIINA.
+Jos tää on pilaa, oli muukin pilaa.
+
+    (Lyö häntä.)
+
+    (Baptista tulee.)
+
+BAPTISTA.
+Seis, mamsellini! Mistä tämä julkeus? --
+Bianca, mene! -- Itkee, lapsi-parka! --
+Käy neulokseesi, hänest' älä piittaa. --
+Hyi, sinä lemmon vesa, loukkaat häntä,
+Jok' ei sua koskaan ole loukannut!
+Sanonut onko sulle pahaa sanaa?
+
+KATARIINA.
+Vait'olollaan mua härnää; tahdon kostaa.
+
+    (Karkaa Biancan päälle.)
+
+BAPTISTA.
+Mun nähtenikö? Mitä? -- Mene, Bianca!
+
+    (Bianca menee.)
+
+KATARIINA.
+Haa, sitäkään ei sallita! Nyt näen sen:
+Hän aarteenne on, hänet pitää naittaa;
+Saan häissään avojaloin tanssia
+Ja, siksi että häntä rakastatte,
+Manalass' apinoita taluttaa.[7]
+Ei sanaa enää: itkemään nyt istun,
+Siks kunnes tilaisuutta kostaa saan.
+
+    (Menee.)
+
+BAPTISTA.
+Näin kiusattua onko perheen-isää? --
+Mut keitä tuossa?
+
+    (Gremio tulee Lucention kanssa, joka on halvassa puvussa.
+    Petruchio Hortension kanssa, joka on soiton-opettajaksi
+    puettuna, ja Tranio Biondellon kanssa, joka kantaa luuttua
+    ja kirjoja.)
+
+GREMIO.
+Hyvää huomenta, naapuri Baptista!
+
+BAPTISTA.
+Huomenta, huomenta, naapuri Gremio! Jumalan rauha, hyvät herrat!
+
+PETRUCHIO.
+Samaten teille! Onhan teillä tytär,
+Siveä, kaunis, nimeltä Katriina?
+
+BAPTISTA.
+On tytär mulla nimeltä Katriina.
+
+GREMIO.
+Olette liian töykkä; hienommasti!
+
+PETRUCHIO.
+Pois loukkaukset! Antakaa mun olla. --
+Veronast' olen ylimys; kun kuulin
+Ma hänen älystään ja kauneudestaan,
+Ujosta olennostaan, nöyryydestään,
+Suloudestaan ja ihme-avuistaan,
+Niin rohkenin ma omin luvin tulla
+Taloonne vieraaks, jotta todistaa
+Vois silmä, mitä kertonut on maine.
+Ja vieras-ystävyyden johdannoksi
+Esitän miehen,
+    (esittää Hortension)
+               joka taitavana
+Matematiikassa ja musiikissa,
+Hänt' opastaa voi näissä tieteissä,
+Joiss' ei hän liekään vallan kokematon.
+Jos hänet hylkäätte, ma loukkaannun;
+Hän Mantuast' on, Licio nimeltään.
+
+BAPTISTA.
+Olette tervetullut; samoin hänkin.
+Mut Katariina-tyttöni, sen tiedän.
+Ei teille sovi, valitettavasti.
+
+PETRUCHIO.
+Eritä, näemmä, hänest' ette tahdo,
+Tai kenties min' en mieleisenne lie.
+
+BAPTISTA.
+Siin' erehdytte; sanon mitä luulen.
+Mist' olette? Ja mikä nimenne?
+
+PETRUCHIO.
+Petruchio nimeni, Antonion poika:
+Sen miehen koko Italia tuntee.
+
+BAPTISTA.
+Hänet hyvin tunnen; tervetullut siis!
+
+GREMIO.
+Petruchio, anteeks: suokaa meillekin
+Kosio-pahaisille sananvuoro.
+Hiis olkoon, kylläpä on teillä hätä!
+
+PETRUCHIO.
+Oi, anteeks, signior; mutta työt' ei kesken heittää saa.
+
+GREMIO.
+Niin, niin; mut vielä kironnette tätä kosintaa. -- Naapuriseni, tämä
+on hyvin tervetullut lahja, siitä olen varma. Osoittaakseni samanlaista
+kohteliaisuutta minäkin, joka olen saanut teiltä osakseni suurempaa
+kohteliaisuutta kuin keneltäkään muulta, rohkenen tarjota teille
+tämän nuoren miehen, (Esittää Lucention) joka on kauan Rheimsissä
+opiskellut ja on yhtä taitava kreikassa, latinassa ja muissa kielissä
+kuin tuo toinen musiikissa ja matematiikassa. Hänen nimensä on Cambio;
+pyydän, ottakaa hänet suosioonne.
+
+BAPTISTA.
+Monet tuhannet kiitokset, signior Gremio! Tervetuloa, rakas Cambio! --
+(Traniolle) Mutta, arvoisa herra, te näytätte täällä niin vieraalta;
+rohkenisin kysyä syytä teidän tänne-tuloonne.
+
+TRANIO.
+Anteeksi, herra, suokaa rohkeuteni,
+Ett', tässä kaupungissa outona,
+Kosimaan tulen teidän tytärtänne,
+Tuot' ihanaa ja siveää Biancaa;
+Myös tunnen lujan päätöksenne antaa
+Etuisuus vanhemmalle sisarelle.
+En muuta pyydäkkään kuin että suotte --
+Jahk' ensin tietää saatte sukuni --
+Sen mulle, minkä muille kosijoille:
+Vain suosinne ja vapaan luokse-pääsyn.
+Ja tytärtenne kasvatusta varten
+Täss' annan tämän soitin-pahaisen
+Ja nämä latinan ja kreikan kirjat:[8]
+Ne vastaan ottakaa, niin arvon saavat.
+
+BAPTISTA.
+Lucentio nimennekö? Mistä kaukaa?
+
+TRANIO.
+Pisasta, herrani; Vincention poika.
+
+BAPTISTA.
+Hän Pisan mahtimies on; hyvin tunnen
+Nimeltä hänet. Varsin tervetullut! --
+(Hortensiolle) Te luuttu ottakaa, -- (Lucentiolle) ja te nuo kirjat.
+Te heti saatte nähdä oppilaanne. --
+Hoi, tänne!
+
+    (Palvelija tulee.)
+
+            Saata nämä ylimykset
+Mun tytärteni luo, ja käske heidän
+Pidellä höylist' opettajiaan.
+
+    (Palvelija, Hortensio, Lucentio ja Biondello menevät.)
+
+Nyt kävelemme hetken puistossani,
+Ja sitten atrialle. Tervetulleet
+Olette kaikki, sen ma vakuutan.
+
+PETRUCHIO.
+Signior Baptista, asiall' on kiire,
+En jouda joka päivä kosimaan.
+Isäni tunnette ja näin myös minut.
+Hält' aimot perin rikkaudet, joit' olen
+Pikemmin lisännyt kuin vähentänyt.
+Siis sanokaa: jos tyttärenne myöntyy,
+Ma mitä silloin myötäjäisiks saan?
+
+BAPTISTA.
+Mun kuoltuani puolet maistani,
+Ja heti käteen kaksituhat puntaa.
+
+PETRUCHIO.
+Ja palkaks siitä lupaan, jos hän eloon
+Minusta jää, kaikk' irtaimeni hälle
+Ja kiinteimeni leskeneläkkeeksi.
+Lähimmät kohdat pannaan välikirjaan
+Molemmin puolin noudatettaviksi.
+
+BAPTISTA.
+Niin, kun on tärkein sovittu, kun hältä
+Vain myönnön saatte: siitä riippuu kaikki.
+
+PETRUCHIO.
+Oo, se ei mitään; minä, nähkääs, isä,
+Yht' olen kiinteä kuin hän on ynsy;
+Ja kaks kun hurjaa lieskaa toisiins' yhtyy,
+Niin vihanvireensä he kuluttavat;
+Vähästä puuskast' yltyy pieni liekki,
+Mut myrsky koko tulen sammuttaa.
+Niin minä hänen teen, ja niin hän taipuu:
+Min' olen jyrkkä, kosin niinkuin mies.
+
+BAPTISTA.
+No, kosi sitten; onneks olkoon vain!
+Mut kestätkö sä kaikki häijyt sanat?
+
+PETRUCHIO.
+Kyll', yhtä varmasti kuin vuoret tuulta:
+Ne eivät horju, vaikka tuulkoon aina.
+
+    (Hortensio palaa, haava päässä.)
+
+Kah, mitä, ystäväni? Miks noin kalvas?
+
+HORTENSIO.
+Pelosta varmaankin, jos kalvas olen.
+
+BAPTISTA.
+No, soitoss' edistyykö tyttäreni?
+
+HORTENSIO.
+Paremmin edistyisi sodassa:
+Vois rauta hällä kestää, mut ei luuttu.
+
+BAPTISTA.
+No, eikö luutull' opi näppäämään?
+
+HORTENSIO.
+Kyll' aivan: luutulla mua kalloon näppäs.
+Kun sanoin, ett' on otteet hällä väärät
+Ja sormens' asentoon kun asetin,
+Niin pirullisen kärtynä hän huusi:
+"Vai otteita! Kyll' otteet teille näytän!"
+Ja näillä sanoin päähän mua löi,
+Niin että luutun läpi meni pääni.
+Siin' ällistyen, luuttu kaulassa,
+Nyt seisoin tirkistäin kuin kaakinpuusta,
+Kun hän mua viulunvinguttajaks sätti
+Ja porosorkaks ja jos joksikin,
+Kuin näit' ois vartavasten opetellut.
+
+PETRUCHIO.
+Mut sepä hauska tyttö, tosiaan!
+Nyt kymmenesti rakkaamp' on hän mulle.
+Oo, jutella jos saisin hänen kanssaan!
+
+BAPTISTA (Hortensiolle).
+Pois tulkaa; moisest' älkää nolostuko,
+Vaan nuorint' opettakaa tytärtäni:
+Hän opinharras on ja kiitollinen. --
+Signior Petruchio, tuletteko mukaan,
+Vai lähetänkö Katrin luoksenne?
+
+PETRUCHIO.
+Se tehkää, minä täällä häntä varron.
+
+    (Baptista, Gremio, Tranio ja Hortensio menevät.)
+
+Ja rohkeasti kosin, kun hän saapuu.
+Jos sättii mua, niin sanon, että laulaa
+Niin ihanasti hän kuin satakieli;
+Jos yrmyilee, niin sanon, että katseens'
+On kirkas niinkuin kasteess' aamun ruusu;
+Jos vaiti on hän eikä mitään puhu,
+Ylistän hänen liukaskielisyyttään
+Ja puhelahjaans' ihanaksi kehun;
+Jos hiiteen minut käskee, kiitän häntä,
+Ikäänkuin käskis viikoks minut jäämään;
+Jos antaa rukkaset, niin kysyn, milloin
+On kuuliaiset meillä, milloin häät. --
+Hän tuossa tulee; nyt, Petruchio, puhu!
+
+    (Katariina tulee.)
+
+Huomenta, Kati, se lie nimenne.
+
+KATARIINA.
+Niin oikein lie, mut sentään hieman väärin:
+Katariinaks sanotaan, kun puhutellaan.
+
+PETRUCHIO.
+Valetta! Nimenne on pelkkä Kati,
+Hupainen Kati, joskus paha Kati,
+Mut Kati, kaunein Kati maailmassa,
+Katien kati, kallis Kati-kulta, --
+Ei sentään katinkulta; siis nyt, Kati,
+Mua kuule, Kati, sydämmeni lohtu:
+Kun koko mailma lempeyttäsi kiitti,
+Avuistas puhui, kauneuttasi kehui,
+Ei kuitenkaan niin suuresti kuin pitäis,
+Niin tuo mua liikutti, ja nyt sua kosin.
+
+KATARIINA.
+Vai liikutti! Siis liikuttakoon teidät
+Myös täältä pois. Näin koht', ett' olettekin
+Te liikkuva.
+
+PETRUCHIO.
+             Niin mikä liikkuva?
+
+KATARIINA.
+Sarana-tuoli.
+
+PETRUCHIO.
+              Oikein! Istu siihen!
+
+KATARIINA.
+On aasit luotu kantamaan, niin tekin.
+
+PETRUCHIO.
+On vaimot luotu kantamaan, niin tekin.
+
+KATARIINA.
+Minä ainakaan en moista narria.
+
+PETRUCHIO.
+En, Kati hyvä, kuormittaa sua aio:
+Sin' olet vielä nuori sekä kevyt.
+
+KATARIINA.
+Niin kevyt, ettei tuommoinen mua sieppaa,
+Ja paino mull' on se kuin pitääkin.
+
+PETRUCHIO.
+Vai pitää paino?
+
+KATARIINA.
+                 Pidä kyntes, haukka!
+
+PETRUCHIO.
+Oi, mettis-parka, viekö sinut haukka?
+
+KATARIINA.
+Ei, varokoon vain haukka itseään.
+
+PETRUCHIO.
+Seis, vaapsain, sinä! Liiaks olet häijy.
+
+KATARIINA.
+Jos vaapsain olen, varo pistintä!
+
+PETRUCHIO.
+Siis paras pois ne nyhtää.
+
+KATARIINA.
+                           Jospa, narri,
+Vain tietäisit, miss' on se.
+
+PETRUCHIO.
+                             Ken ei tietäis,
+Miss' ota vaapsahaisen? Hännässä.
+
+KATARIINA.
+Eipäs kuin suussa.
+
+PETRUCHIO.
+                   Kenen suussa?
+
+KATARIINA.
+                                 Sinun,
+Kun hännästä sä puhut. -- Hyvästi!
+
+PETRUCHIO.
+Mun suuni sunko hännässäs? Ei, Kati,
+Min' olen aatelia.
+
+KATARIINA.
+                   Sepä nähdään!
+
+    (Lyö häntä.)
+
+PETRUCHIO.
+Jos vielä mua lyöt, niin sua tyrkkään.
+
+KATARIINA.
+Näin aatelisen kilpes menetät:
+Jos mua lyöt, et ole aatelia,
+Ja aatelittomana kilvetön.
+
+PETRUCHIO.
+Vai heraldiikkaa! Pane minut kirjaan.
+
+KATARIINA.
+Mikä vaakunaksi? Kukonharja?[9]
+
+PETRUCHIO.
+                                Kukko
+Ei harjaa kaipaa, kanani jos Kati.
+
+KATARIINA.
+Ei kelpaa mulle; kurjasti sa laulat.
+
+PETRUCHIO.
+Noin, Kati, älä mulle muikistele.
+
+KATARIINA.
+Se tapani, kun näen raakilan.
+
+PETRUCHIO.
+Ei täällä raakilaa; siis muikeus pois!
+
+KATARIINA.
+Tääll' on se.
+
+PETRUCHIO.
+              Näytä se!
+
+KATARIINA.
+                        Josp' olis peili!
+
+PETRUCHIO.
+Siis kasvojani tähtäät?
+
+KATARIINA.
+                        Pilkkaan osui
+Noin nuorelta!
+
+PETRUCHIO.
+               Haa, kautta pyhän Yrjön,
+Vai liian nuori sulle!
+
+KATARIINA.
+                       Kuihtunutkin
+Jo olet.
+
+PETRUCHIO.
+         Surusta.
+
+KATARIINA.
+                  Sit' en ma sure.
+
+PETRUCHIO.
+Et, Kati, noin et pääse minusta.
+
+KATARIINA.
+Jos jään, niin kiihdyt; anna minun mennä.
+
+PETRUCHIO.
+En niinkään! Olet oikein sievän sievä.
+Sua tylyks, ynsyks, suulaaks sanottiin,
+Nyt huomaan huhun valehtelijaksi:
+Iloinen olet, hauska, vallan höyli,
+Sanaton, vaan kuin kevään kukka vieno,
+Et osaa muikistaa, et karsastaa.
+Et purra huulta niinkuin häijyt naiset;
+Ei mieleen sulle tiuskinat ja torat;
+Sulolla kosijoitas kohtelet,
+Puhellen vienosti ja lempeästi.
+Miks juorutaan siis, että Kati liikkaa?
+Paha on mailma: Kati suora, sorja
+Kuin pähkinän on vitsa, ruskea
+Kuin itse pähkinä, ja makeampi
+Kuin pähkinän on sydän. Annahan,
+Kun katson käyntiäsi! -- Ethän liikkaa.
+
+KATARIINA.
+Vait, hölmö! Käske renkiäsi.
+
+PETRUCHIO.
+                             Metsää
+Ei somista Diana niin kuin Katin
+Kuninkaallinen käynti tätä majaa.
+Diana ollos sä, hän olkoon Kati,
+Diana hauska olkoon, Kati kaino.
+
+KATARIINA.
+Mist' on nuo kauniit puheet kotoisin?
+
+PETRUCHIO.
+Omasta päästä: tulen äitiini.
+
+KATARIINA.
+Älykäs äit'! Ois poika tyhmä muuten.
+
+PETRUCHIO.
+Niin, enkö viisas?
+
+KATARIINA.
+                   Kyllä lämpimäkses.
+
+PETRUCHIO.
+Kyll' lämpiän, kun sänkyys pääsen, Kati.
+Mut leikki sikseen, sanon sulle suoraan:
+Isäsi mulle sinut luvannut
+On vaimoks; määrätty on myötäjäiset;
+Nain sinut, Kati, tahdot taikka et.
+Ma sulle mieheks olen omani.
+Kautt' auringon, jok' ihas mulle näyttää, --
+Nuo ihat, jotka mun on hurmanneet, --
+Sa muut' et miestä ottaa saa kuin minut:
+Min' olen luotu sua kesyttämään,
+Tekemään Villi-Katist' oivan Katin
+Ja säisyn niinkuin muutkin kotikatit.
+Tuoss' isäsi; ei auta kielto nyt;
+Ma tahdon ja mun täytyy Kati saada.
+
+    (Baptista, Gremio ja Tranio palaavat.)
+
+BAPTISTA.
+Petruchio, kuinka teidän onnistaa
+Katariinaan nähden?
+
+PETRUCHIO.
+                    Hyvin; kuinkas muuten?
+On mahdotont', ettei mua onnistaisi.
+
+BAPTISTA.
+No, tytär Katariina? Taasko juro?
+
+KATARIINA.
+Vai olen tyttärenne? Toden totta,
+Kyll' oivaa isänrakkautt' osoitatte,
+Kun naitatte mun puolihassulle,
+Hullulle huimapäälle, kiroojalle,
+Jok' aikoo kaikki voittaa vannomalla.
+
+PETRUCHIO.
+Niin, nähkääs, isä: -- te ja koko mailma,
+Ken hänestä vain puhui, puhui pahaa.
+Jos hän on tuima, on se politiikkaa:
+Ei ärjö hän, vaan kaino niinkuin kyyhky,
+Ei tulinen, vaan vilvas niinkuin aamu,
+Lucretian vertainen on kainoudessa,
+Ja kuin Griseldis kärsivällinen.
+Lyhykäisesti: niin hyvä meill' on sopu,
+Ett' ensi pyhänä on meidän häät.
+
+KATARIINA.
+Ens pyhänä sun ennen hirteen soisin.
+
+GREMIO.
+Petruchio, kuulkaas: hirteen teitä toivoo!
+
+TRANIO.
+Siin' onnenneko? Sitt' on hukka meidän!
+
+PETRUCHIO.
+Ei hätää, hyvät herrat; itselleni
+Ma hänet valikoin; jos hän ja minä
+Vain tyydymme, niin mitä teidän siihen?
+On meillä välipuhe, että hänen
+Äkäinen tulee aina seurass' olla.
+On uskomatont' aivan, kuinka paljo
+Hän mua rakastaa. Sa, kulta-Kati!
+Hän kaulassani riippui; toisiaan
+Niin taajaan seuras suutelot ja valat,
+Ett' tuokiossa sydämmeni vei.
+Vast'alkajia te! On kumma nähdä,
+Kun mies ja nainen ovat kahden, kuinka
+Kesyttää lallukin voi kiukkupussin. --
+Kätesi, Kati! Nyt Venetiaan lähden
+Hääpäiväkseni vaatteit' ostamaan.
+Häät toimittakaa, vieraat kutsukaa;
+Katista sievä tulee, sen ma takaan.
+
+BAPTISTA.
+Mitä sanoisinkaan? Tänne kätenne:
+Petruchio, onneks olkoon! Kauppa tehty.
+
+GREMIO ja TRANIO.
+Sanomme: aamen, todistajina.
+
+PETRUCHIO.
+Hyvästi, isä, vaimo, ystävät!
+Nyt pois Venetiaan! On kohta pyhä;
+Hilut, helyt, kalut kalliit sieltä tuomme.
+Nyt suukko! Pyhänä me häitä juomme.
+
+    (Petruchio ja Katariina menevät, kumpikin eri taholle.)
+
+GREMIO.
+Noin kiirein onko koskaan naista naitu?
+
+BAPTISTA.
+Nyt olen niinkuin kauppamies, jok' onnen
+Varalle heittää elämänsä ponnen.
+
+TRANIO.
+Olikin vanhennutta tavaraa;
+Nyt tuottaa korkoa, tai mereen hukkuu.
+
+BAPTISTA.
+Aviosopu paras korko kai.
+
+GREMIO.
+Mies kyllä sovust' osansa jo sai. --
+Nyt nuoremman on tyttärenne vuoro.
+Tää on se kauan ikävöitty päivä;
+Min' olen naapuri ja kosin ensin.
+
+TRANIO.
+Mut minä enemmän Biancaa lemmin
+Kuin aatos aavistaa tai kieli kertoo.
+
+GREMIO.
+Nulikkain lempi maidikkaalta maistuu.
+
+TRANIO.
+Sun lempes hyytyy, harmaapää.
+
+GREMIO.
+                              Sun paistuu.
+Hotikko, väisty! Vanhuudest' on turvaa.
+
+TRANIO.
+Mut nuoruus neitosien silmät hurmaa.
+
+BAPTISTA.
+Pois torat! Minä tämän riidan ratkon:
+Teoilla voitto voitetaan. Ken lupaa
+Paraimman huomenlahjan tytölleni,
+Se saa Biancan lemmen. --
+Siis, signior Gremio, mitä tarjoatte?
+
+GREMIO.
+Mull' ensinnäkin kaupungiss' on talo
+Hopeella, kullall' ylen varustettu,
+Vadit ja kannut, missä kädet pestä,
+Tapetit, verhot kaikki Tyruksesta,
+Rahoja täynn' on norsunluiset lippaat,
+Sypressikirstuissa on silkit, peitot,
+Upeat kankaat, verhot, baldakiinit,
+Lakanat hienot, Turkin helmityynyt,
+Venetiasta kulta-uutimet,
+Kuparit, tinat, kaikki, mit' on tarpeen
+Taloudessa. Talossani maalla
+On mulla satakunta lypsävää
+Ja toista sataa lihavata härkää
+Ja kaikki raavastarpeetkin sen mukaan.
+Kyll' itse olen vanha, myönnän sen,
+Mut huomenna jos kuolen, saa hän kaikki,
+Jos eläissäni tulee mulle vain.
+
+TRANIO.
+Se "vain" se sopi hyvin. -- Nyt mua kuulkaa.
+Isäni ainut olen perillinen:
+Jos tyttärenne vaimokseni saan,
+Niin kolme neljä taloa hän rikkaass'
+Saa Pisan kaupungissa, yhtä hyvää
+Kuin ykskään, mit' on täällä Gremiolla;
+Kakstuhatt' tukaattia lisäks vuosin
+Paraista tiloistani eläkkeeksi.
+No, Gremio, joko pulaan jouduitte?
+
+GREMIO.
+Kakstuhatt' tukaattia vuosin maista!
+Mun kaikki maani ei sen arvoiset;
+Mut ne hän saa, ja lisäks kauppalaivan,
+Jok' ankkuriss' on nyt Marseillessa.
+No, joko kauppalaivaan kompastuitte?
+
+TRANIO.
+Isälläin kolme suurt' on kauppalaivaa --
+Se tiedetään -- kaks kaljaasia lisäks
+Ja kaksitoista jaalaa; ne ma lupaan,
+Ja kaks sen vertaa kuin sa konsanaan.
+
+GREMIO.
+Lupasin kaikki, mull' ei enempää:
+Ei muuta antaa voi kuin mit' on omaa;
+Jos minä kelpaan, mun hän saa ja kaikki.
+
+TRANIO.
+Siis tyttö ennen kaikkia on minun,
+Sananne mukaan; Gremio on pietti.
+
+BAPTISTA.
+Te parhaan teitte tarjon, myönnän sen,
+Ja isänne jos takuun tuo, niin tyttö
+On teidän; sillä -- anteeks -- ennen isää
+Jos kuolisitte, kuink' on huomenlahjan?
+
+TRANIO.
+Kujeita! Hän on vanha, minä nuori.
+
+GREMIO.
+Mut nuoret voivat kuolla niin kuin vanhat.
+
+BAPTISTA.
+No, hyvä! Tää on päätökseni, herrat:
+Ens' sunnuntaina, niinkuin tiedätte,
+On tyttäreni Katariinan häät;
+Biancan seuraavana sunnuntaina
+Te saatte vaimoksi, jos takuun tuotte;
+Saa muuten Gremio hänet. Kiitän teitä,
+Ja nyt vain suosioonne sulkeudun.
+
+    (Menee.)
+
+GREMIO.
+Hyvästi, naapuri! -- Nyt en sua pelkää:
+Niin, keikka-Heikki, isäs olis hupsu,
+Jos kaikki antais pois ja vanhoillaan
+Sun pöydässäsi söisi. Hitto vie,
+Se vanha kettu ei niin houkka lie!
+
+    (Menee.)
+
+TRANIO.
+Sun rutto syököön, vanha kurttunaama!
+Sun pistin korkeimmalla valtilla.
+Nyt tiedän, kuinka autan isäntääni: --
+Niin, teeskelty Lucentio itselleen
+Vois isän laittaa, teeskellyn Vincention;
+Siit' ihme syntyis: isäinhän se työtä
+On laittaa lapsia; mut tässä siittää
+Laps isän, jos vain mulla juonta riittää.
+
+                                (Menee.)
+
+
+
+
+KOLMAS NÄYTÖS.
+
+
+Ensimmäinen kohtaus.
+
+    Huone Baptistan talossa.
+
+    (Lucentio, Hortensio ja Bianca tulevat.)
+
+LUCENTIO.
+Seis, vinguttaja! Liian röyhkäks käytte.
+Jo unohduksiss' onko tervehdys,
+Jonk' antoi teille Katariina-neiti?
+
+HORTENSIO.
+Toraisa kirjatoukka! Tämä neiti
+On taivaallisen soiton haltija:
+Siis väistykää ja etuus mulle suokaa;
+Kun täss' on yksi tunti soiteltu,
+Te saatte toisen käyttää lukemiseen.
+
+LUCENTIO.
+Typerä hölmö, oppia ei sulla,
+Ett' ymmärtäisit soiton tarkoituksen:
+Sen tulee ihmismieltä virkistää
+Vakavan työn ja opinnoiden jälkeen.
+Siis salli meidän filosofioida;
+Kun väsymme, niin antaa soiton soida.
+
+HORTENSIO.
+Mies, tuot' en uhmailuas minä siedä.
+
+BIANCA.
+Te loukkaatte mua kaksin kerroin, herrat,
+Kun siitä kinaatte, mink' itse määrään.
+En ole vitsottava koululainen,
+En kytkettynä määräaikoihin,
+Vaan otan opetusta milloin tahdon.
+Niin, riidan päätteeksi nyt istukaamme: --
+Te luuttuun tarttukaa ja soitelkaa;
+Se tuskin vireiss' on, kun luku päättyy.
+
+HORTENSIO.
+Siis lopetatteko, kun vireiss' olen?
+
+    (Vetäytyy syrjään.)
+
+LUCENTIO.
+Yritys turha! -- Viritelkää vain!
+
+BIANCA.
+Mihinkä viimeks jäimme?
+
+LUCENTIO.
+                        Tähän, neiti: --
+_Hic ibat Simois; hic est Sigeia tellus,
+Hic steterat Priami regia celsa senis_.
+
+BIANCA.
+Kääntäkää tämä.
+
+LUCENTIO.
+_Hic ibat_, niinkuin jo teille sanoin; -- _Simois_, olen Lucentio; --
+_hic est_, Vincention poika Pisasta; -- _Sigeia tellus_, näin
+valepukuisena, voittaakseni lempenne; -- _hic steterat_, ja se Lucentio,
+joka tulee kosimaan; -- _Priami_, on palvelijani Tranio; -- _regia_,
+minun asussani; -- _celsa senis_, jotta pettäisimme sen vanhan
+lemmenlöyhkön.
+
+HORTENSIO (lähestyen).
+Nyt, neiti, soittimeni vireiss' on.
+
+BIANCA.
+No, antaa kuulua!
+
+    (Hortensio soittaa.)
+
+                  Hyi, kvintti pärrää!
+
+LUCENTIO.
+Vain tappiin sylkekää, ja uusi koitos!
+
+BIANCA.
+Nyt katsokaamme voinko kääntää tuon: _Hic ibat Simois_, en tunne teitä;
+-- _hic est Sigeia tellus_, en usko teitä; -- _hic steterat Priami_,
+varokaa, ettei hän kuule; -- _regia_, älkää liiaksi rohkeilko; --
+_celsa senis_, älkää epäilkö.
+
+HORTENSIO.
+Nyt vireiss' on se.
+
+LUCENTIO.
+                    Paasi pärrää.
+
+HORTENSIO.
+                                  Paasiss'
+Ei vikaa, vaan tuo pärrä tässä paasaa.
+(Syrjään.) Se kirjaksi on ropi-rohkea!
+Hiis olkoon, kultaani se lurjus kyöhää!
+Mut paremmin sua tarkkaan, kirjatoukka.
+
+BIANCA.
+Ehk' uskon vasta, vaan nyt epäilen.
+
+LUCENTIO.
+Pois epäilykset! Aeacidein juurta
+Ol' Ajax, nimens' sai hän vaariltaan.
+
+BIANCA.
+Pitänee opettajaa uskoa,
+Ma muuten, tietkääs, kovin epäilisin.
+Mut jääköön tää. -- Nyt teihin, Licio!
+Hyvät opettajat, älkää pahastuko,
+Näin kanssanne vaikk' olen suottaillut.
+
+HORTENSIO (Lucentiolle).
+Pois nyt, ja minut rauhaan jättäkää:
+Ei täällä tersettiä soiteta.
+
+LUCENTIO.
+Noin turhan tarkka! (Syrjään.) Valvoa mun täytyy
+Ja vaaniskella: jos en erehdy,
+On soma soittajamme rakastunut.
+
+HORTENSIO.
+Ennenkuin, neiti, luuttuun tartutte
+Ja sormittelu-taitoon perehdytte,
+Mun täytyy taiteen alkeist' alottaa;
+Lyhemmän teille neuvon askelman,
+Huvemman, mehukkaamman, tehoisamman,
+Kuin mitä koskaan muut on neuvoneet;
+Se täss' on siroon muotoon puettuna.
+
+BIANCA.
+Jo aikaa askelmani suoritin.
+
+HORTENSIO.
+Mut lukekaa Hortension kuitenkin.
+
+BIANCA (lukee).
+"C. Olen sointu, joka ilmi tuo,
+D. E. Kuink' on Hortension lempi lämmin;
+F. G. Bianca, hälle kätes suo.
+A. Hän sua lempii muita kiihkeämmin.
+H. Yks mull' avain kahteen nuottiin on:
+C. Armahda, tai sorrun kuolohon."
+Tää onko askelmanne? Se ei kelpaa:
+Parempi vanha on; niin, outoon oikkuun
+En taattuja ma vaihda ohjeita.
+
+    (Palvelija tulee.)
+
+PALVELIJA.
+Teit' isä käskee kirjat jättämään
+Ja käymään siskon majaa koristamaan:
+Häät huomenna on, niinkuin tiedätte.
+
+BIANCA.
+Hyvästi, herrat; minun täytyy mennä.
+
+    (Bianca ja palvelija menevät.)
+
+LUCENTIO.
+Siis mull' ei syytä jäädä.
+
+    (Menee.)
+
+HORTENSIO.
+                           Mutta mulla
+Syyt' urkkia on tuota kirjatoukkaa:
+Näen katseesta jo, ett' on rakastunut.
+Bianca, jos niin halpa sull' on mieli,
+Ett' isket silmää joka kuihkojalle,
+Niin mene muille! Noin jos liehut vaan,
+Niin minä otan toisen mistä saan.
+
+                         (Menee.)
+
+
+Toinen kohtaus.
+
+    Baptistan talon edusta.
+
+    (Baptista, Gremio, Tranio, Katariina, Bianca,
+    Lucentio ja palvelijoita tulee.)
+
+BAPTISTA.
+Petruchion ja Katariinan häät
+On täksi päivää määrätty, Lucentio,
+Ja viel' ei mitään ylkää kuuluvissa.
+Nyt sitä juorutaan! Mik' ilkku syntyy,
+Kun poiss' on ylkämies, ja pappi vartoo
+Vain pyhää vihkitointa-alkaakseen!
+Mit' arvelette tästä häpeästä?
+
+KATARIINA.
+Mun vain on häpeä; niin, vasten mieltä
+Mua pakotettiin mieheks ottamaan
+Mokoma juro, puolihupsu kolho,
+Jok' äkin kosii, vitkaan häitä viettää.
+Sanoinhan, että hän on houkkio
+Ja moukan tavoist' ilki-iva pilkkii.
+Vain ollaksensa oikein hauska mies,
+Hän tuhansia kosii, määrää häät,
+Ja kuulututtaa, ystäviä kutsuu,
+Mut naida sit' ei aio, jota kosi.
+Nyt mailma Katariina-parkaa näyttää,
+"Tuoss'" sanoo, "houkan on Petruchion vaimo,
+Jos mies vain suvaitsisi naida hänet!"
+
+TRANIO.
+Baptista, Katariina, malttukaa:
+Petruchio, toden totta, hyvää aikoo,
+Mik' estäneekin häntä saapumasta.
+Vaikk' onkin töykeä, on toki viisas,
+Vaikk' ilveileekin, taattu mies tok' on.
+
+KATARIINA.
+Oi, etten olis koskaan häntä nähnyt!
+
+    (Menee itkien pois, Bianca ja palvelijat jäljessä.)
+
+BAPTISTA.
+Niin, mene, laps! En soimaa, että itket:
+Mokoma solvaus pyhimystä loukkais,
+Saatikka sinunlaistas äkämystä.
+
+    (Biondello tulee.)
+
+BIONDELLO.
+Herra, herra! Uutta, vanhaa uutta, semmoista, jota ette koskaan ennen
+ole kuullut!
+
+BAPTISTA.
+Vanhaa ja uutta yhtä haavaa! Kuinka se on ymmärrettävä?
+
+BIONDELLO.
+No, eikö ole uutta kuulla, että Petruchio on tulossa?
+
+BAPTISTA.
+Onko hän tullut?
+
+BIONDELLO.
+Ei, ei toki.
+
+BAPTISTA.
+Mitä sitte?
+
+BIONDELLO.
+Hän on tulossa.
+
+BAPTISTA.
+Milloin on hän täällä?
+
+BIONDELLO.
+Silloin kuin hän seisoo tässä, missä minä nyt seison, ja näkee teidät
+siinä.
+
+TRANIO.
+Kerro nyt sitte ne vanhat uutisesi!
+
+BIONDELLO.
+No niin, Petruchio on tulossa, yllä uusi hattu ja vanha takki;
+vanhat housut, kolmasti käännetyt; saappaat, joita jo on käytetty
+kynttiläsäiliönä, toisessa solki ja toisessa paula; vanha, ruostunut
+miekka, kaupungin asehuoneesta saatu, kahva halki, tupenhokki poissa ja
+kannikkeet hajalla; hepo nilkku, selässä vanha, koinsyömä satula, ja
+jalustimet kumpikin eri lajia; lisäksi se on yskäinen ja kuivatautinen,
+ikenet turvoksissa, kauttaaltaan kapinen, pahkapolvinen, pattijalkainen,
+sappi vialla, parantumaton ajos kaulassa, pahasti pyörretautinen,
+suolimatojen vaivaama, selkä rampa, lapa lyöttynyt ja etujalat kankeat,
+kuolaimet puoleksi koukistuneet, ja lampaannahkaiset päitset
+kompastuksen takia niin kireälle pingoitetut, että monasti ovat
+katkenneet ja sitten solmimalla paikatut; satulavyö kuudesti parsittu,
+ja samettinen naissatulan häntähihna, johon omistajan nimimerkiksi on
+kaksi kirjainta sirosti nastoilla kiinnitetty, sieltä täältä
+käärelangalla paikattu.
+
+BAPTISTA.
+Kuka hänen kanssaan tulee?
+
+BIONDELLO.
+Ah, herra, hänen passarinsa, päästä jalkaan sonnustettuna samaan tapaan
+kuin hevonenkin: toisessa jalassa palttinasukka, toisessa karkea
+villasäärystin, sukkanauhoina punainen ja sininen verkakaistale; vanha
+hattu, jossa töyhtönä häilyy "neljäkymmentä uutta lemmenlaulua"; hirviö,
+oikea hirviö pukimeltaan, ei vähääkään kristityn juoksupojan eikä
+ylimyksen passarin näköinen.
+
+TRANIO.
+Ties, mikä kumma oikku häntä riivaa!
+Tok' usein häll' on halpa puku yllä.
+
+BAPTISTA.
+Hyvä vain, että tulee, tulkoon millaisena tahansa.
+
+BIONDELLO.
+Ei herra, hän ei tule.
+
+BAPTISTA.
+Sanoithan, että hän tulee.
+
+BIONDELLO.
+Kuka? Petruchioko?
+
+BAPTISTA.
+Niin, että Petruchio tulee.
+
+BIONDELLO.
+Ei, herra, sanoin että hänen hevosensa tulee ja hän sen selässä.
+
+BAPTISTA.
+No niin, sehän on yhtä.
+
+BIONDELLO.
+Ei, kautta Nikolaan!
+Jo hölmökin sen ties,
+Että hevonen ja mies
+Ei ole yhtä vaan,
+Mut ei myös montakaan.
+
+    (Petruchio ja Grumio tulevat.)
+
+PETRUCHIO.
+No, miss' on vieraat? Kuka kotona?
+
+BAPTISTA.
+Hyv' että tulitte.
+
+PETRUCHIO.
+Ei niinkään hyvä --
+
+BAPTISTA.
+Mut ettehän tok' onnu.
+
+TRANIO.
+                       Pukunne
+Niin hyvä ei, kuin pitäisi.
+
+PETRUCHIO.
+                            Jos oisi
+Se parempikin, näin ma ryntäisin.
+Mut miss' on Kati, armas morsioni? --
+Kuink', isä, voitte? -- Mikä seuraa vaivaa?
+Miks, hyvät ihmiset, mua tölläilette,
+Ikäänkuin näkisitte kumman aaveen
+Tai pyrstötähden tai muun hirviön?
+
+BAPTISTA.
+Hääpäivännehän tää, sen tiedätte;
+Pahoimme ensin, että ette tulis;
+Nyt pahoilemme, että tulette
+Noin pukemattomana. Pois nuo rääsyt!
+Ne arvollenne ovat häpeäksi
+Ja juhlassamme silmän vaivana.
+
+TRANIO.
+Mik' arvon toimi teit' on pidättänyt
+Näin kauan vaimostanne erillään
+Ja tänne laittanut noin muuttuneena?
+
+PETRUCHIO.
+Ikävä kertoa ja paha kuulla:
+Niin, lupaukseni tulin täyttämään,
+Vaikk' kaikin puolin sit' en täyttää voikaan.
+Mut, kun saan aikaa, syyni selvitän,
+Niin että kaikki ovat tyytyväiset.
+Mut miss' on Kati? Viivyin liian kauan;
+Jo aamu kuluu, kiire kirkkoon on.
+
+TRANIO.
+Noin ette morsionne luo saa mennä;
+Sisähän käykää, vaatteet teille lainaan.
+
+PETRUCHIO.
+Ei, hitto vie! Näin juuri minä menen.
+
+BAPTISTA.
+Vihille noinhan ette aio mennä?
+
+PETRUCHIO.
+Näin juuri; siis tuo puhe jättäkää.
+Hän minuun vihitään, ei vaatteisiini.
+Jos, mitä minusta hän kuluttaa,
+Niin voisin uudistaa kuin nämä rievut,
+Niin hyvä Katin ois ja paras minun.
+Mut mitä, narri, tässä rupatan,
+Kun morsiantan' tervehtää mun pitää
+Ja muiskull' uusi arvo vahvistaa!
+
+    (Petruchio, Grumio ja Biondello menevät.)
+
+TRANIO.
+Tuo hassu puku tahallist' on varmaan.
+Jos koittaisimme, ehkä suostuisi
+Parempiin pukeumaan, kun lähtee kirkkoon.
+
+BAPTISTA.
+Käyn katsomahan, mitä tästä koituu.
+
+    (Menee.)
+
+TRANIO.
+Biancan lempeen lisätä nyt tulee
+Vain isän suostumus; ja sitä varten --
+Niinkuin jo sanoin teidän armollenne --
+Ma hankin miehen, kenen hyvänsä,
+Jot' aikeeseemme voimme opastaa:
+Hän olla saa Vincentio Pisalainen
+Ja täällä Paduassa taata summan
+Mun lupaamaani vielä suuremman.
+Näin saatte rauhass' elää onnessanne
+Ja luvalla Bianca-neidin naida.
+
+LUCENTIO.
+Jos ei vain kumppanini, kirjatoukka,
+Niin tarkkaan vaanis hänen askeleitaan,
+Sopisi salaa mennä vihille;
+Ja sitten, vaikka epäis koko mailma,
+Ma pidän mailman uhall' omani.
+
+TRANIO.
+Tät' oikein tulee meidän punnita,
+Pitäen tarkoin silmäll' etuamme;
+Näin peijaamme tuon harmaan Gremion,
+Tuon turhan tarkan isän, Minolan,
+Ja soittajan, tuon mielaan Licion,
+Kaikk' isäntäni vuoks, Lucention.
+
+    (Gremio palaa.)
+
+No, Gremio, kirkostako tulette?
+
+GREMIO.
+Niin ilolla, kuin koskaan koulusta.
+
+TRANIO.
+Ovatko tulleet morsian ja sulho?
+
+GREMIO.
+Sanotte: sulho; kolho, sanokaa:
+Hän kyllä naistaan kolhii että tuntuu.
+
+TRANIO.
+Hän naistaan pahempiko? Mahdotonta!
+
+GREMIO.
+Se mies on piru, piru, ilmi piru.
+
+TRANIO.
+Se nainen piru on, piru, pirun mummo.
+
+GREMIO.
+Hui, hai! Laps, lammas, kyyhky miehen suhteen!
+Lucentio, tietäkääs, kun pappi kysyi,
+Tahtoiko vaimokseen hän Katariinan,
+Hän huusi: "tahdon, hitto vie!" ja noitui
+Niin että pappi aivan kauhuissaan
+Pudotti kirjansa, ja kun hän sitä
+Kumartui ottamaan, niin moisen puustin
+Sai ylkä-houkkiolta, että siinä
+Makasi maassa papit sekä kirjat.
+"Ne nostakoon", hän huus', "ken haluaa."
+
+TRANIO.
+Ja kun hän nousi, mitä sanoi nainen?
+
+GREMIO.
+Vapisi; mies, näet, jalkaa löi ja noitui,
+Ikäänkuin aikois pappi häntä pettää.
+Kun lopussa on kaikki vihkimenot,
+Hän huutaa viiniä:[10] "saas tästä!" sanoo,
+Kuin laivall' ois ja myrskyn tauottua
+Matruusein kanssa mässäis; kaataa viinin
+Ja leivät heittää naamaan lukkarin
+Vain siitä syystä, että tämän parta
+Niin näytti laihalta ja nälkäiseltä,
+Kuin pyytänyt ois palaa ryypyn päälle.
+Sen tehtyään hän naistaan kaulaan tarttuu
+Ja painaa suulle moisen moiskauksen,
+Ett' ihan koko kirkko kajahtaa.
+Kun tämän näin, niin häpeissäni poistuin,
+Ja perästä kai tulee koko seura.
+Näin hassuja en häitä ole nähnyt.
+Vait, vait! Jo kuulen pelimannin soiton.
+
+    (Soittoa.)
+
+    (Petruchio, Katariina, Bianca, Baptista,
+    Hortensio, Grumio ja koko hääjoukko tulee.)
+
+PETRUCHIO.
+Suur' kiitos vaivoistanne, ystävät!
+Hääpöytä tääll' on uljas valmistettu,
+Ja ruoalle mua varrotte, sen tiedän:
+Mut, paha kyllä, kiire mull' on lähtö,
+Ja sanon sen vuoks nyt jäähyväiset.
+
+BAPTISTA.
+Tän' iltanako matka täältä? Mitä?
+
+PETRUCHIO.
+Niin, vielä päiväsaikaan, ennen iltaa.
+Sit' älkää ihmetelkö; asiani
+Jos tietäisitte, ennen käskisitte
+Mua menemään kuin jäämään. -- Arvon seura,
+Suur' kiitos teille, että katselitte,
+Pois itseni kun annoin tämän hurskaan
+Ja herttaisen ja hellän vaimon omaks.
+Hääpöytään käykää, juokaa maljani!
+Mun täytyy mennä. Herran haltuun kaikki!
+
+TRANIO.
+Oi, suokaa meidän pyytää teitä jäämään.
+
+PETRUCHIO.
+Se ei käy päinsä.
+
+GREMIO.
+                  Suokaa minun pyytää.
+
+PETRUCHIO.
+On mahdotonta.
+
+KATARIINA.
+              Suokaa minun pyytää.
+
+PETRUCHIO.
+Nyt tyydyn.
+
+KATARIINA.
+            Tyydyttekö jäämään siis?
+
+PETRUCHIO.
+Ma tyydyn, sinä kun mua pyydät jäämään;
+En toki jää, jos kuinka pyytäisit.
+
+KATARIINA.
+Jos rakas olen, jääkää!
+
+PETRUCHIO.
+                        Hevoseni!
+
+GRUMIO.
+Valmiit ovat, herra: kaurat ovat syöneet hevoset.
+
+KATARIINA.
+No, hyvä!
+Tee niinkuin tahdot, min' en lähde tänään,
+En huomennakaan; tulen milloin mielin.
+Ovi on auki, herra, tuoss' on tie;
+No, rasvo kenkäsi ja marssi matkaas;
+Mut minä lähden kun mua haluttaa.
+Sinusta tullee aika torikko,
+Kun heti aluss' yrmit noin ja pauhaat.
+
+PETRUCHIO.
+Oi, malta, Kati hyvä, älä suutu!
+
+KATARIINA.
+Suutunpa vainkin. Mikä kiire sulla? --
+Oi, isä, tyyntykää; hän kyllä taipuu.
+
+GREMIO.
+Kas niin vain, ystävä; nyt alkaa leikki.
+
+KATARIINA.
+Hääpöytään siitä joutuin, hyvät herrat!
+Pitävät naista narrinaan, ma huomaan,
+Jos häll' ei rohkeutta vastustaa.
+
+PETRUCHIO.
+Niin, joutuin menkööt, kun sa käsket, Kati. --
+Totelkaa morsianta, nuodemiehet,
+Remutkaa, juhlikaa ja mässätkää
+Ja Katin neitsyysmalja pohjaan juokaa,
+Humussa hurjailkaa -- tai menkää hirteen!
+Mut kiltti Kati seuraa minua.
+Pois kiukut, töminät ja muikistukset!
+Ma tahdon hallita mik' omaani:
+Hän kontuni on, maani, taloni,
+Latoni, peltoni ja hevoseni,
+Ja härkäni, ja aasini, ja kaikki.
+Tuoss' seisoo hän; ken tohtii, koskekoon!
+Ma uhmaan rohkeintakin, joka multa
+Tien sulkee Paduaan. -- Hoi, Grumio,
+Esille pamppus! Meitä kiertää rosvot;
+Pelasta emäntäs, jos olet mies. --
+Tipuni, tyynny, ei sua kukaan koske,
+Sua minä suojaan miljoonia vastaan.
+
+    (Petruchio, Katariina ja Grumio menevät.)
+
+BAPTISTA.
+No, menköön vain, se hellä pariskunta!
+
+GREMIO.
+Paraiksi, muuten nauruun kuolisin.
+
+TRANIO.
+Tää hulluista on avioista hulluin.
+
+LUCENTIO.
+Mitä aattelette, neiti, siskostanne?
+
+BIANCA.
+Ett' itse hupsu on, ja hupsun nai.
+
+GREMIO.
+Topakan katin vain Petruchio sai.
+
+BAPTISTA.
+Vaikk' ylkää on ja morsiota vailla
+Hääpöytämme, niin, hyvät naapurit,
+Pitomme siltä herkkuja ei vailla. --
+Lucentio, te yljän paikkaan käykää;
+Bianca, sinä ota siskon sija.
+
+TRANIO.
+Bianca siiskö morsianta leikkii?
+
+BAPTISTA.
+Niin, niin, Lucentio. -- Sisään, hyvät herrat!
+
+                                    (Menevät.)
+
+
+
+
+NELJÄS NÄYTÖS.
+
+
+Ensimmäinen kohtaus.
+
+    (Grumio tulee.)
+
+GRUMIO.
+Hittoon, kaikki uupuneet hevoskaakit, kaikki hupsut herrat ja kaikki
+huonot tiet! Onko ihmistä koskaan näin piesty? Onko ihmistä koskaan näin
+ryvetetty? Onko koskaan ollut ihmistä näin väsynyttä? Lähettivät minut
+ennalta tekemään tulta, ja tulevat itse perässä lämmittelemään. Jos en
+olisi tämmöinen pikkuinen toppu ja kuumiamaan hoppu, niin huuleni
+jäätyisivät kiinni hampaisiini, kieli kitalakeen ja sydän kylkiluihin,
+ennenkuin joudun tulen sulatettavaksi; mutta aion tulta puhumalla
+lämmittää itseäni, sillä, mitä ilmaan tulee, voi sitä minua isompikin
+mies kylmettyä. Hoilaa! Hoi, Curtis!
+
+    (Curtis tulee.)
+
+CURTIS.
+Kuka se niin viluisesti huutaa?
+
+GRUMIO.
+Jäämöhkäle. Jos et usko, niin voit laskea luikua hartioistani
+kantapäihin yhtä vikkelästi kuin päästä niskaan. Tule, hyvä Curtis!
+
+CURTIS.
+Onko herrani rouvineen tulossa, Grumio?
+
+GRUMIO.
+Ovat, Curtis, ovat. Siis, tulta, tulta! Vettä vain älä siihen vala.[11]
+
+CURTIS.
+Onko hän semmoinen tulinen torapussi kuin sanotaan?
+
+GRUMIO.
+Oli, hyvä Curtis, ennen tätä kylmyyttä; mutta tiedäthän, että talvi
+taltuttaa miehet, vaimot ja elukat, sillä se on kesyttänyt minun vanhan
+herrani ja minun nuoren rouvani ja minut itseni, Curtis kamraati.
+
+CURTIS.
+Mene siitä, senkin kolmituumainen narri! Minä en ole mikään elukka.
+
+GRUMIO.
+Olenko minä sitten vain kolmituumainen? Sinun sarvesi on jalan
+mittainen, ja minä olen vähintään yhtä pitkä. Mutta tahdotko nyt laittaa
+tulta, taikka kantelen sinusta rouvallemme, jonka kättä -- hän on jo
+kohta käsillä -- tuossa paikassa saat tuntea kylmäksi lohdutukseksi
+siitä, että olet tulisessa toimessasi vitkastellut?
+
+CURTIS.
+Mutta, hyvä Grumio, sanohan, mitä maailmalta kuuluu.
+
+GRUMIO.
+Pelkkää kylmyyttä, Curtis, kaikessa muussa paitse sinun virassasi; siis,
+tulta! Tee mitä sinun tulee, ja ota vastaan mitä sinun tulee, sillä
+herrani ja rouvani ovat melkein kuoliaaksi paleltuneet.
+
+CURTIS.
+Nyt on valkea tehty; kerro nyt, Grumio hyvä, jotakin uutta.
+
+GRUMIO.
+No niin: (Laulaa.) "Hih, Hannu, hei, Hannu!" ja niin paljon uutta
+kuin tahdot..
+
+CURTIS.
+Niin, sinulla on ne ainaiset kolineesi.
+
+GRUMIO.
+Laita siis tulta, sillä kylmä minua hirveästi kolii. Missä on kokki?
+Onko illallinen valmis, onko talo siistitty, onko kaislat lattialla,[12]
+onko hämähäkin verkot poistettu, onko palvelijoilla uudet parkkumit ja
+valkeat sukat ja kaikilla käskyläisillä häävaatteet yllä? Onko tuopit
+pesty ja jumprut puhtaat, verhot paikoillaan ja kaikki kunnossa?
+
+CURTIS.
+Kaikki reilassa; siis, sano nyt jotakin uutta.
+
+GRUMIO.
+Ensiksikin tiedä, että hevoseni on väsynyt; ja että herrani ja rouvani
+ovat lentäneet toinen toisensa niskaan.
+
+CURTIS.
+Mitä?
+
+GRUMIO.
+Niin, satulasta nurinniskoin rapakkoon; ja siihen liittyy eräs tarina.
+
+CURTIS.
+Mikä? Sano, hyvä Grumio.
+
+GRUMIO.
+Tänne korvasi!
+
+CURTIS.
+Tässä on!
+
+GRUMIO.
+Tuossa on!
+
+    (Lyö häntä korvalle.)
+
+CURTIS.
+Tämähän on jo tarinan tuntemista, eikä vain kuulemista.
+
+GRUMIO.
+Sen vuoksi sitä sanotaankin tunnolliseksi tarinaksi; ja tämä puusti oli
+vain koputus korvallesi, että suvaitsisit kuulla. Nyt alotan: _Imprimis_,
+ajoimme alas lokaista mäkeä, herrani ratsastaen rouvani takana, --
+
+CURTIS.
+Molemmatko yhdessä hevosessa?
+
+GRUMIO.
+Mitä sillä tarkoitat?
+
+CURTIS.
+He, hevosta vain.
+
+GRUMIO.
+Kerro siis itse se tarina. Mutta jos sinä et olisi minua keskeyttänyt,
+niin olisit saanut kuulla, kuinka rouvan hevonen kaatui, ja hän hevosen
+alle; olisit saanut kuulla, kuinka ruokottomaan paikkaan, ja kuinka
+tahratuksi hän tuli; kuinka herra jätti hänet siihen hevosen alle;
+kuinka hän minua pieksi siitä, että rouvan hevonen kompastui; kuinka
+rouva kahlasi liassa raastaakseen minut irti hänestä; kuinka herra
+kiroili, kuinka rouva rukoili, hän, joka ei milloinkaan ennen ollut
+rukoillut; kuinka minä huusin; kuinka hevoset karkasivat tiehensä;
+kuinka rouvan suitset katkesivat; kuinka minä menetin häntävyöni, -- ja
+monta muuta muistettavaa seikkaa, jotka nyt saavat unhotukseen kuolla,
+ja sinäkin kokemusta vailla palata hautaasi.
+
+CURTIS.
+Tästä päättäen on herra äkäisempi kuin rouva.
+
+GRUMIO.
+Niin onkin; ja sen saat sinä ja teistä kaikista julkeimmat tuntea, jahka
+hän tulee kotiin. Vaan mitä tässä joutavia höpisen! -- Huuda tänne Natu,
+Jooseppi, Niku, Vilppu, Valteri, Oluvinen ja kaikki muut; laita että
+kampaavat sileäksi päänsä, harjaavat siniset nuttunsa ja sitovat
+kunnollisesti sukkanauhansa; katso että kumartaessaan raapaisevat
+vasemmalla jalalla ja etteivät millään muotoa koske herrani hevosen
+häntäkarvaankaan, ennenkuin ovat kättään suudelleet. Ovatko he kaikki
+valmiit?
+
+CURTIS.
+Ovat.
+
+GRUMIO.
+Kutsu ne tänne.
+
+CURTIS.
+Kuuletteko? Hoi! -- Teidän pitää mennä herraamme vastaan, antaaksenne
+arvoa rouvalle.
+
+GRUMIO.
+Oo, kylläpä hän ilmankin on arvollinen.
+
+CURTIS.
+Kukapa ei sitä tietäisi?
+
+GRUMIO.
+Sinä, näen mä, kun kutsut kokoon väkeä antamaan hänelle arvoa.
+
+CURTIS.
+Kutsun heitä häntä arvioimaan.
+
+GRUMIO.
+Hän ei varmaankaan tule heidän kaupiteltavakseen.
+
+    (Useita palvelijoita tulee.)
+
+NATU.
+Tervetuloa kotiin, Grumio!
+
+VILPPU.
+Mitä kuuluu, Grumio?
+
+JOOSEPPI.
+Kas, Grumio!
+
+NIKU.
+Grumio toveri!
+
+NATU.
+Mitä kuuluu, vanha poika?
+
+GRUMIO.
+Tervetuloa, sinä! -- Kuinka voit, sinä? -- Kas, sinäkö? -- Sinäkin,
+kamraati! -- Tämä olkoon tervehdykseksi. No, te nästit pojat, onko
+kaikki valmista, kaikki siistiä?
+
+NATU.
+Kaikki on valmista. Kuinka lähellä on herra?
+
+GRUMIO.
+Heti käsillä, parahiksi ratsailta astunut; siis älkää -- Tuhat
+tulimmaista, vait, hiljaa! Kuulen herrani jo tulevan.
+
+    (Petruchio ja Katariina tulevat.)
+
+PETRUCHIO.
+Miss' on ne koirat? Ovell' eikö ketään,
+Ken pitäis jalustinta, ratsun korjais?
+Miss' ovat Natu, Reko, Jooseppi?
+
+KAIKKI PALVELIJAT.
+Tässä, tässä, herra! tässä, herra!
+
+PETRUCHIO.
+Niin, tässä, herra! tässä, herra! tässä, herra!
+Te tomppelit ja säädyttömät pöllöt!
+Ei järjestystä, tapaa, huutia! --
+Miss' on se hölmö, jonka eeltä laitoin?
+
+GRUMIO.
+Täss', yhtä hölmönä kuin laittaissanne.
+
+PETRUCHIO.
+Maamoukka! Senkin ajojuhta-kaakki!
+Sun tuli puistossa mua kohdata,
+Nää laiskat jortit kaikki mukanasi.
+
+GRUMIO.
+Ei Natun takki ollut vallan valmis,
+Ja nyörit puuttui Kaapon kengistä,
+Ei sorttaa Pekan hatun mustukkeeksi,
+Ja kesken oli Vilpun miekantuppi;
+Vain Reku, Aatu, Rappu ovat siistit,
+Muut kaikki vanhoiss' ovat ryysyissään;
+Mut näinkin vastass' ovat kaikki tässä.
+
+PETRUCHIO.
+Pois, konnat! Tuokaa sisään illallinen.
+
+    (Palvelijat menevät.)
+
+(Laulaa.) "Miss' eloni on entinen --
+Miss' ovat" -- Istu, Kati, tervetullut!
+Ho, ho, ho, hoo!
+
+    (Palvelijat tuovat illallisen.)
+
+No, joutuin! -- Pidä hauskaa, Katiseni! --
+Pois saappaat jalastani, mölhöt, joutuin!
+(Laulaa.) "Oli kerran munkki, harmaaveli,
+Ja pitkin tietä hän astuskeli;" --
+Seis, konna! Nyrjähytät jalkani.
+Kas, tuossa! Riisu toinen varovammin. --
+
+    (Lyö häntä.)
+
+Pidä hauskaa, Katri! -- Vettä tänne! Pian! --
+Miss' Into-hurttani? -- Mies, sinä tänne
+Mun nouda orpanani Ferdinand.
+
+    (Palvelija menee.)
+
+Hyväile tuota, Kati, suuta suikkaa. --
+Miss' ovat tohvelini? -- Entä vesi?
+
+    (Palvelija tuo vesikannun ja vadin.)
+
+Peseydy, Katiseni![13] Tervetullut! --
+
+    (Palvelija pudottaa kannun.)
+
+Kirottu konna! Miks sen pudotit!
+
+KATARIINA.
+Oi, rauhoitu! Se meni vahingossa.
+
+PETRUCHIO.
+Äpärä, aasinkorva, pölkkypää!
+Käy, Kati, istumaan; sun on kai nälkä.
+Sinäkö siunaat ruoan, vaiko minä?
+Mitä? Oinastako?
+
+1 PALVELIJA.
+                 Niin.
+
+PETRUCHIO.
+                       Ken toi sen?
+
+1 PALVELIJA.
+                                    Minä.
+
+PETRUCHIO.
+Se palanutt' on; palanutt' on kaikki. --
+Ne vintiöt! -- Miss' on se kokki-lurjus?
+Kuink' uskallatte, konnat, moista laittaa
+Ja ruokaa tarjota, jot' en voi syödä.
+Pois viekää kaikki, lasit, lautaset.
+
+    (Viskaa maahan ruoat ja astiat.)
+
+Typerät pässit, säädyttömät lortit!
+Haa! Myhkäättekö? Kyllä kohta näytän!
+
+KATARIINA.
+Noin, rakas puolisoni, älä ärjy;
+Hyväähän ruoka oli, kelpais syödä.
+
+PETRUCHIO.
+Ei, Kati, kuivaa vain ja palanutta,
+Ja mult' on moinen jyrkkään kielletty:
+Se kiihtää sappea ja siittää äkää.
+Parempi meidän kahden paastota --
+Kun sapellinen kummankin on luonto --
+Kuin syödä moista lihaa taudiksemme.
+Siis tyynny, huomenna se korvataan,
+Ja tän yön miehissä nyt paastoamme.
+Pois tule, morsiuskammariin sun saatan.
+
+    (Petruchio, Katariina ja Curtis menevät.)
+
+NATU.
+Oletko, Pekka, koskaan moista nähnyt?
+
+PEKKA.
+Hän tappaa hänet omill' oikuillaan.
+
+    (Curtis palaa.)
+
+GRUMIO.
+Miss' on hän nyt?
+
+CURTIS.
+                  He, hänen kammarissaan,
+Ja saarnaa hälle kieltäytymistä;
+Kiroilee, noituu, eikä vaimo-raukka
+Puhua tohdi, seistä, päätään nostaa,
+Vaan istuu niinkuin unen torroksissa.
+Pois, pois! Hän tuossa tulee tänne taas.
+
+    (Menevät.)
+
+    (Petruchio palaa.)
+
+PETRUCHIO.
+Näin hallintaani viisaast' alotan,
+Ja toivon että tulee loppu hyvä.
+Havukka nälissään on, vatsa tyhjä,
+Eik' ennen ruokaa saa kuin kesyttyy,
+Se muuten herrans' äänt' ei koskaan kuule.
+Viel' yks on keino sitä taltuttaa,
+Niin että lähestyy ja kutsun tuntee:
+Valvottaa täytyy, niinkuin haukan tehdään,
+Jok' äänt' ei kuule, viuhtoo vain ja riuhtoo.
+Ei ruokaa tänään saanut, eikä saakkaan,
+Ei viime yönä unt', eik' ensi yönä.
+Kuin äsken ruoassa, niin vuoteessakin
+Jos jonkinlaista vikaa koitan löytää;
+Ma sinne tänne patjat, tyynyt viskaan
+Ja huiskin haiskin peitot, lakanat,
+Ja kesken rymäkkätä vannon, että
+Sulasta hellyydestä kaikki teen.
+Näin koko yön ma häntä valvotan;
+Jos torkahtaa, niin riitelen ja pauhaan
+Ja huudollani pidän valveill' yhä.
+Näin vaimon tappaa hellyydellä voi;[14]
+Näin tylyn, tyrmän luontons' aion suistaa.
+Ken paremmin voi äksyn taltuttaa,
+Sanokoon pois, niin laupeutt' osoittaa.
+
+                               (Menee.)
+
+
+Toinen kohtaus.
+
+    Padua. Baptistan talon edusta.
+
+    (Tranio ja Hortensio tulevat.)
+
+TRANIO.
+Mut, Licio, voisiko Bianca-neiti
+Rakastaa toista kuin Lucentiota?
+Mua tyhjäll' uskottelee, luulemma.
+
+HORTENSIO.
+Niin, nähdäksenne että puhun totta,
+Vain hänen opetustaan tarkatkaa.
+
+    (Vetäytyvät syrjään.)
+
+    (Bianca ja Lucentio tulevat.)
+
+LUCENTIO.
+No, neiti, hyödyttääkö opetus?
+
+BIANCA.
+Mit' opetatte? Neuvokaa se ensin.
+
+LUCENTIO.
+Mit' itse taidan: lemmen taitoa.
+
+BIANCA.
+Sen taidon taituriksi tulkaa pian.
+
+LUCENTIO.
+Kun sydämmessänne ma vain saan sijan.
+
+    (Astuvat pois.)
+
+HORTENSIO (tulee esiin).
+Nopea edistys! Mut vannoittehan,
+Ett' ei Bianca ketään maailmassa
+Niin paljon lemmi kuin Lucentiota.
+
+TRANIO.
+Kirottu lempi! Kiero vaimoväki! --
+Sen sanon, Licio, tää on kummallista.
+
+HORTENSIO.
+Mua oikein tuntekaa: en ole Licio,
+En soittoniekka, vaikka siltä näytän,
+Vaan mies, ken inhoo valepuvuss' olla
+Mokoman vuoks, jok' ylimyksen hylkää
+Ja moista retkaletta jumaloi;
+Hortensio on, tietkää, nimeni.
+
+TRANIO.
+Signior Hortensio, usein olen kuullut,
+Kuink' intoisesti lemmitte Biancaa.
+Kun nyt näen itse, mikä lehko on hän,
+Niin kanssanne, jos siihen tyydytte,
+Biancan lemmest' iäksi ma luovun.
+
+HORTENSIO.
+Kas, kuinka halaavat ja suutelevat!
+Lucentio, tuossa käteni: ma lupaan
+Ett' enää hänt' en kosi; hylkään hänet:
+Hän sit' ei hellyytt' ole ansainnut,
+Mill' olen, hupsu, häntä mairitellut.
+
+TRANIO.
+Vakaasti vannon minäi, etten häntä
+Ikänä nai, en, vaikka rukoilisi.
+Hyi, kuinka julkeasti tuota liehii!
+
+HORTENSIO.
+Muut kaikki hänet heittäkööt, pait tuo!
+Ja minä, jotta vala vahva oisi,
+Nain vielä huomenissa rikkaan lesken,
+Jok' on mua yhtä paljon lempinyt
+Kuin minä tuota hävytöntä haaskaa.
+Hyvästi vain, signior Lucentio! --
+Mun sydämmeni naisen hyvyys voittaa,
+Ei kauniit silmät. Jääkää hyvästi,
+Lujana pysyn siinä, minkä vannoin.
+
+    (Hortensio menee. Lucentio ja Bianca palaavat.)
+
+TRANIO.
+Bianca-neiti, onni suotakoon,
+Ja siunaus poluillenne vuotakoon! --
+Niin, rakkahani, teidät yllätin;
+Hylkäämme teidät, minä ja Hortensio.
+
+BIANCA.
+Pois pila! Molemmat mun hylkäättekö?
+
+TRANIO.
+Molemmat.
+
+LUCENTIO.
+          Siis on päästy Liciosta.
+
+TRANIO.
+Niin, hän nyt aikoo ottaa hauskan lesken
+Ja yksin päivin kihlata ja naida.
+
+BIANCA.
+Jumala hälle suokoon iloa!
+
+TRANIO.
+Hän siitä kesyn tekee.
+
+BIANCA.
+                       Niin hän sanoo!
+
+TRANIO.
+Kesytyskouluunkin jo mennyt on.
+
+BIANCA.
+Kesytyskouluun? Onko semmoinenkin?
+
+TRANIO.
+On, on, ja ohjaajana on Petruchio:
+Hän opettaa sen seitsemätkin temput,
+Mill' äkäpussit kesyttää ja hemput.
+
+    (Biondello tulee juoksujalassa.)
+
+BIONDELLO.
+Oi, herra, herra! Väijyin niin, ett' olen
+Kuin koira uupunut; mut vihdoin tuli
+Mäkeä alas vanha enkeli;
+Hän sopii meille.
+
+TRANIO.
+                  Kuka, Biondello?
+
+BIONDELLO.
+Majisteri tai mikä jupisteri,
+En tiedä oikein; puku vain on jäykkä,
+Ja käynti, ryhti niinkuin minkä taaton.
+
+LUCENTIO.
+Mut, Tranio, mitä meidän tulee häneen?
+
+TRANIO.
+Jos herkkä uskomaan on tarinaani,
+Niin riemulla Vincention osaa näyttää
+Ja takuun herra Baptistalle suo,
+Ikäänkuin oisi hän Vincentio itse. --
+Pois armainenne! Minut jättäkää.
+
+    (Lucentio ja Bianca menevät.)
+
+    (Majisteri tulee.)
+
+MAJISTERI.
+Jumalan rauha!
+
+TRANIO.
+               Rauha! Tervetullut!
+Tähänkö päättyy vaiko jatkuu matka?
+
+MAJISTERI.
+Pariksi viikoksi se tähän päättyy,
+Vaan sitten jatkuu, jatkuu Roomaan asti,
+Ja sieltä Tripoliin, jos eletään.
+
+TRANIO.
+Tulette mistä kaukaa?
+
+MAJISTERI.
+                      Mantuasta.
+
+TRANIO.
+Vai Mantuasta? -- Herra varjele!
+Paduaan tuletteko hengen kaupan?
+
+MAJISTERI.
+Kuin? Hengen kaupan? Pahojapa kuuluu.
+
+TRANIO.
+Ken Mantuasta tulee Paduaan,
+On kuolon oma. Syykö outo teille?
+Venetia laivanne on pidättänyt,
+Ja doogi -- riidoin herttuanne kanssa, --
+Sen julkisesti julistanut on.
+On kummaa -- Vaan kun tulitte vast' ikään,
+Niin ette liene kuullut julistusta.
+
+MAJISTERI.
+Ah, herra, pahaa pahempi se mulle:
+On vekseleitä mulla Florensista,
+Jotk' olis tänne jätettävät.
+
+TRANIO.
+                             Hyvä!
+Ma tehdäkseni teille palveluksen
+Näin teitä neuvon: -- sanokaa tok' ensin,
+Pisassa oletteko koskaan ollut?
+
+MAJISTERI.
+Useinkin Pisass' ollut, Pisassa,
+Tuoss' arvon porvareistaan kuuluisassa.
+
+TRANIO.
+Siis tuntenette myös Vincention?
+
+MAJISTERI.
+En tunne, mutta hänest' olen kuullut:
+On summattoman rikas kauppias.
+
+TRANIO.
+Mun isäni hän on; ja, totta puhein,
+Näkönne paljon häneen vivahtaa.
+
+BIONDELLO (syrjään).
+Juur' niinkuin osterihin omena!
+
+TRANIO.
+Pulasta auttaakseni henkenne
+Teen hänen vuokseen teille tämän hyvän;
+Se vähin onnenne ei ole suinkaan,
+Ett' olette Vincention näköinen;
+Nimeään saatte käyttää, luottoaan
+Ja talossani olla mielivieras.
+Niin käyttäytykää vain kuin teidän tulee,
+Niin -- ymmärrättehän -- siell' olla saatte
+Siks kuin on toimitettu toimenne.
+Jos hyvää tää, niin ottakaa se vastaan.
+
+MAJISTERI.
+Sen teen, ja pidän teitä iäti
+Eloni, vapauteni turvaajana.
+
+TRANIO.
+Siis tulkaa mukaan, heti käymme toimeen.
+Tään ohimennen teille sanon vain:
+Isääni tänne joka päivä varron
+Takaamaan myötäjäiset, kun, näet, aion
+Erään Baptistan tyttären ma naida.
+Lähemmät ohjeet annan teille pian;
+Nyt tulkaa säälliseksi pukeumaan.
+
+                       (Menevät.)
+
+
+Kolmas kohtaus.
+
+    Huone Petruchion maatalossa.
+
+    (Katariina ja Grumio tulevat.)
+
+GRUMIO.
+En, totta, kuolemakseni en tohdi!
+
+KATARIINA.
+Sit' ilkkuvampi, mitä loukkaavampi!
+Hän naiko minut nälkään tappaakseen?
+Isäni taloon kerjääjä kun tulee,
+Saa pyytäessään heti apua,
+Tai ainakin saa laupeutt' osaksensa.
+Mut minä, joka kerjätä en osaa
+Ja jonk' ei koskaan tarvis kerjätä,
+Näin nälkään kuolen, unen puutteest' uuvun,
+Torat ruokana ja kirot valvatteena;
+Ja -- mikä enemmän kuin puute vihloo --
+Tuon sulan lemmen varjolla hän tekee,
+Ikäänkuin ravinto ja uni mulle
+Tois kuolintaudin taikka äkki-surman.
+Siis ole hyvä, hanki vähän ruokaa,
+Mit' olkoonkin, kun vain on syötävää.
+
+GRUMIO.
+Vasikansorkkaa ehkä haluatte?
+
+KATARIINA.
+Ooh, se on hyvää, sitä mulle tuo.
+
+GRUMIO.
+Se, varon ma, on liian kiihoittavaa.
+Mut ehkä voissa paistettua suolta?
+
+KATARIINA.
+Se mainiota; sitä hanki vain.
+
+GRUMIO.
+En tiedä, vaan lie sekin kiihoittavaa.
+Mut pihvipaistia ja sinappia?
+
+KATARIINA.
+No, sehän onkin mieliruokaani.
+
+GRUMIO.
+Niin, mutta sinappi on vähän tuimaa.
+
+KATARIINA.
+Tuo pihvi vain ja jätä sinappi.
+
+GRUMIO.
+Se ei käy, sinappia olla pitää,
+Mult' ette muuten pihviäkään saa.
+
+KATARIINA.
+Siis jompaakumpaa, taikka molempia.
+
+GRUMIO.
+Siis sinappia ilman pihviä.
+
+KATARIINA.
+Pois tiehes, senkin viekas vilkkuri!
+
+    (Lyö häntä.)
+
+Vain ruokain nimillä mua ravitset,
+Kirottu sinä joukkokuntinesi,
+Jotk' iloitsette kurjuudestani!
+Pois tiehesi, ma sanon!
+
+    (Petruchio, ruokavati kädessä, ja Hortensio tulevat.)
+
+PETRUCHIO.
+Kuink' on sun, Kati? Rakas, allapäinkö?
+
+HORTENSIO.
+Miten on mieli?
+
+KATARIINA.
+                Synkkä, varsin synkkä.
+
+PETRUCHIO.
+Ilostu; minuun riemukatse luo!
+Täss', armas, näet huoleni, kun itse
+Ma ruokas laitan ja sen sulle tuon.
+
+    (Asettaa vadin pöydälle.)
+
+Tää hyvyys, Kati, kiitost' ansainnee.
+Mitä? Eikö sanaakaan? Siis täst' et pidä,
+Ja kaikki vaivani on turhaa ollut. --
+Pois viekää ruoka!
+
+KATARIINA.
+                   Ei, ei, jättäkää!
+
+PETRUCHIO.
+On halvastakin työstä tapa kiittää:
+Siis kiitä, ennenkuin sa ruokaan kosket.
+
+HORTENSIO.
+Petruchio, hyi, nyt moitett' ansaitsette! --
+Teen seuraa teille, Katri rouva, tulkaa!
+
+PETRUCHIO (syrjään).
+Jos ystäv' olet, kaikki syö, Hortensio! --
+No, käpyseni, ruoka maistukoon!
+Syö joutuin, Kati! -- Ja nyt, kultaseni,
+Isäsi taloon taaskin palaamme,
+Ja siellä liehumme ja komeilemme,
+Kapotit yllä, pönkät, tönkät, puuhkat,
+Sametit, kullat, silkit, muutkin ruuhkat,
+Vyöt, viuhkat, renkaat, helmet, koristeet
+Ja pitsit, litsit, helyt, hetaleet.
+Jo kyllin söitkö? Tässä ompelija
+Koruja tuo ja silkkipukimia. --
+
+    (Räätäli tulee.)
+
+Tulehan, räätäli, ja helus näytä.
+Esille kangas! --
+
+    (Korukauppias tulee.)
+
+                  Mit' on sulla, mies?
+
+KORUKAUPPIAS.
+Se tanu, jonka armo tilasi.
+
+PETRUCHIO.
+Sehän on muodoltaan kuin liemikuppi!
+Samettikulppo! Ruma, hyi, ja rivo!
+Kuin karinkaukalo tai pähkinä,
+Mitätön, turha lelu, vauvan myssy!
+Pois mokoma, ja hanki suurempi!
+
+KATARIINA.
+En tahdo suurempaa: tää muodiss' on,
+Ja tällainen on lakki hienostolla.
+
+PETRUCHIO.
+Saat sellaisen, kun ensin hienostut,
+Mut ennen et.
+
+HORTENSIO (syrjään).
+              Ja hopuss' ei se käy.
+
+KATARIINA.
+Mitä, herra? Lie mun lupa puhua,
+Ja puhua ma tahdon: laps en ole;
+Mua paremmatkin kuulleet on; jos teitä
+Puheeni vaivaa, korvat tukkikaa.
+Sydämmen haikeudesta puhuu suuni;
+Jos vaikenen, niin sydän halkeaa,
+Ja ennen kuin sen sallin, viimetinkaan
+Vapaasti tahdon käyttää kieltäni.
+
+PETRUCHIO.
+Totuuden lausuit: hattu tuo on rivo,
+Putinkivormu, pata, silkkitorttu.
+Sinusta pidän, kun et siihen mielly.
+
+KATARIINA.
+Pidä tai älä pidä, siihen miellyn,
+Ja tämän tahdon, tai en mitään tahdo.
+
+    (Korukauppias poistuu.)
+
+PETRUCHIO.
+Hametta etkö? -- Tänne, räätäli!
+Hyväinen aika, mikä kouko tämä?
+Tämäkö hiha? Sehän on kuin tykki:
+Noin ristiin, rastiin leikelty kuin torttu!
+Pykälät, renkut, venkut, raot, vaot
+Kuin parturilan suitsumaljoissa!
+Haa! Mitä, pirun nimessä, on tämä?
+
+HORTENSIO (syrjään).
+Hän ei saa hamett' eikä hattua.
+
+RÄÄTÄLI.
+Sen käskitte mun tehdä täsmälleen
+Niin kuin se nykyajan muoti vaatii.
+
+PETRUCHIO.
+Niin tein; mut muista, etten käskenyt
+Sua sitä muodin mukaan turmelemaan.
+Pois täältä, juokse kotiin päätäpahkaa!
+Minusta et saa kauppatuttavaa.
+Pois, pois! ja käytä tuota miten tahdot.
+
+KATARIINA.
+Noin muodikast' en hamett' ole nähnyt,
+Noin sievää, siroa ja sopivaa.
+Te ilvenuken minustako teette?
+
+PETRUCHIO.
+Tuo tuossa sinust' ilvenuken tekee.
+
+RÄÄTÄLI.
+Hän sanoo, että teidän armonne tekee hänestä ilvenuken.
+
+PETRUCHIO.
+Hävytön röykkiö! Sen valehtelet,
+Sa neule, vinkerpori, kyynärä,
+Puolkyynärä sa, kortteli, sa tuuma,
+Täinmuna, saivar, kirppu! Näinkö uhmaa
+Mua kodiss' omassani neuleenrihma?
+Pois, senkin paikka, tilkku, kankaanpää,
+Tai omalla sua kyynärälläs mittaan,
+Niin että elinaikasi sen muistat!
+Sen sanon minä: pilattu on hame.
+
+RÄÄTÄLI.
+Petytte, armo hyvä; hame tehty
+On niinkuin mestarille neuvottiin.
+Sen kuosist' antoi Grumio määräyksen.
+
+GRUMIO.
+En määräyst' antanut, vaan kankaan annoin.
+
+RÄÄTÄLI.
+Mut kuinka tahdoitte sen tehdyksi?
+
+GRUMIO.
+He, hitto, neulalla ja langalla!
+
+RÄÄTÄLI.
+Mut kuinka tahdoitte sen leikatuksi?
+
+GRUMIO.
+Olethan sinä leikellyt jos mitä.
+
+RÄÄTÄLI.
+Niin olenkin.
+
+GRUMIO.
+Älä vain kunniaani leikkaa. Monta miestä olet piukentanut; minua vain
+älä piukenna: minä en tahdo tulla leikatuksi enkä piukennetuksi. Sen
+minä sinulle sanon: minä pyysin mestariasi leikkaamaan kankaan, vaan
+en pyytänyt häntä leikkaamaan sitä kappaleiksi; ergo, sinä valehtelet.
+
+RÄÄTÄLI.
+Tässä on tilauslista todistukseksi.
+
+PETRUCHIO.
+Lue se.
+
+GRUMIO.
+Se lista valehtelee hänen omaan kurkkuunsa, jos hän sanoo, että minä
+niin sanoin.
+
+RÄÄTÄLI.
+"_Imprimis_, löyhä hame."
+
+GRUMIO.
+Herra, jos minä koskaan olen puhunut löyhästä hameesta, niin neulokaa
+minut sen laahukseen ja lyökää kuoliaaksi ruskealla lankakerällä.
+Sanoin vain: hame.
+
+PETRUCHIO.
+Jatka!
+
+RÄÄTÄLI.
+"Pieni, pyöreä kaulus."
+
+GRUMIO.
+Kauluksen tunnustan.
+
+RÄÄTÄLI.
+"Puuhka-hiha."
+
+GRUMIO.
+Kaksi hihaa tunnustan.
+
+RÄÄTÄLI.
+"Hihat siroksi leikatut."
+
+PETRUCHIO.
+Niin, siinä se koiruus piilee.
+
+GRUMIO.
+Laskuvirhe, hyvä herra, laskuvirhe! Sanoin että hihat oli auki
+leikattavat ja taas kiinni neulottavat, ja sen tahdon sinussa toteen
+näyttää, vaikka pikkusormesi onkin sormustimella pansaroitu.
+
+RÄÄTÄLI.
+Totta on, mitä sanoin; ja jos missä sinut käsiini saan, niin kyllä
+sulle näytän.
+
+GRUMIO.
+Olen paikalla valmis; ota sinä lasku ja anna minulle mittapuu, äläkä
+minua säästä.
+
+HORTENSIO.
+Herra varjelkoon, Grumio, silloin hän pian joutuu laskusta pois!
+
+PETRUCHIO.
+Niin, herra, hame tuo ei kuulu mulle.
+
+GRUMIO.
+Niin, aivan niin, se kuuluu rouvalle.
+
+PETRUCHIO.
+Vie mestarisi käyttövaraksi.
+
+GRUMIO.
+Älä, konna, henkesi tähden! Vai rouvani hame sinun mestarisi
+käyttövaraksi!
+
+PETRUCHIO.
+Mitä tuolla tarkoitat, mies?
+
+GRUMIO.
+Ah, herra, tarkoitus on syvällisempi kuin luulette: rouvaniko hame
+hänen mestarinsa käyttövaraksi? Hyi, hyi, hyi!
+
+PETRUCHIO (syrjään).
+Hortensio, sano, että maksat hameen. --
+(Ääneen.) Pois vie se! Mene; sanaakaan ei enää!
+
+HORTENSIO.
+Minulta huomenna saat hameen hinnan.
+Tuot' äkkinäisyytt' älä pahastu.
+Nyt mene; terveisiä mestarille!
+
+    (Räätäli menee.)
+
+PETRUCHIO.
+Tule, Kati! Isäs luo nyt lähtekäämme
+Näiss' alhaisissa arkivaatteissa;
+Komea kukkaro, mut puku halpa:
+Näet, henki se on ruumiin rikkaus.
+Kuin mustan pilven alta aurinko,
+Niin halvan puvun alta arvo loistaa.
+Vai onko närhi leivost' ylevämpi,
+Siks ett' on sillä sulat kauniimmat?
+Tai kyykö parempi on airokalaa,
+Siks että viehättää sen kirjonahka?
+Ei, Kati; suakaan ei huonommaksi
+Tuo halpa puku tee ja arkiasu.
+Jos se sua hävettää, niin syytä mua.
+Siis rohjennu; me heti lähdemme
+Isäsi taloon juhlimaan ja syömään.
+Väkeni tänne! Matkustamme heti;
+Hevoset viekää lehtikujan suuhun:
+Sielt' ajamme, mut sinne kävelemme.
+Nyt, luulemma, on kello seitsemän,
+Perillä voimme olla puoliseksi.
+
+KATARIINA.
+Vakuutan että kello on jo kaksi;
+Te sinne tuskin illaks ehditte.
+
+PETRUCHIO.
+Sen pitää olla seitsemän, kun lähden.
+Jos mitä sanon, teen tai aion tehdä,
+Sin' aina jankkaat vastaan. Matka jää:
+En lähde minä tänään; kun sen teen,
+Niin pitää kellon olla mitä sanoin.
+
+HORTENSIO.
+Niin, päivääkin se herra komentaa!
+
+    (Menevät.)
+
+LOORDI.
+Hoi tänne!
+
+    (Palvelijoita tulee.)
+
+Hän nukkuu. Hiljaa hänet nostakaa
+Ja omiin vaatteisiinsa pukekaa;
+Mut varokaa, ettei hän herää.
+
+1 PALVELIJA.
+                              Kyllä.
+Avuksi tulkaa häntä kantamaan.
+
+    (Kantavat pois Sukin.)
+
+
+Neljäs kohtaus.
+
+    Padua. Baptistan talon edusta.
+
+    (Tranio ja majisteri, Vincentioksi puettuna, tulevat.)
+
+TRANIO.
+Täss' on se talo; huudanko ma, herra?
+
+MAJISTERI.
+No, tietystikin. Mutta, jos en pety,
+Signior Baptistan pitäis muistaa minut:
+Kakskymment' ajastaikaa sitten yhdess'
+Asuimme Genuassa Pegasossa.
+
+TRANIO.
+Hyv' on; vain tehtävänne muistakaa,
+Ja tuima olkaa, niinkuin isän tulee.
+
+    (Biondello tulee.)
+
+MAJISTERI.
+Sen lupaan. Mutta tuossa tulee poika:
+Pitänee häntäkin kai neuvoa.
+
+TRANIO.
+Hänestä huolet' olkaa. -- Biondello,
+Tee tyyten tehtäväsi; paina mieleen,
+Ett' tämä herra on Vincentio.
+
+BIONDELLO.
+Ei siitä pelkoa.
+
+TRANIO.
+Sanoitko asian Baptistalle?
+
+BIONDELLO.
+Isänne on Venetiassa, sanoin,
+Ja tänään häntä tänne varrotte.
+
+TRANIO.
+Sin' olet kelpo poika; tuossa sulle!
+
+    (Antaa hänelle juomarahaa.)
+
+Baptista tulee. -- Käykää juoneen, herra! --
+
+    (Baptista ja Lucentio tulevat.)
+
+Paraiksi tulette, Signior Baptista. --
+Täss', isä, on se herra, josta puhuin.
+Nyt pyydän, tehkää isän työ ja suokaa
+Bianca mulle isänperinnöstä.
+
+MAJISTERI.
+Soh, hiljaa, poika! -- Luvallanne, herra:
+Kun tänne Paduaan ma saatavia
+Perimään tulin, kuulin pojaltani
+Sen tähdellisen uutisen, ett' oli
+Hän tyttäreenne lemmensuhteessa.
+Nyt mainehenne vuoks ja senkin vuoksi,
+Ett' on hän tyttäreenne kiintynyt
+Ja tämä häneen, viivyttää en tahdo,
+Vaan, niinkuin hellä isä, jouduttaa
+Vain naimistaan. Jos sama teilläkin
+On hyvä tahto, pitäkäämme neuvot,
+Niin näette, että halukas ja valmis
+Min' olen naimakauppaan suostumaan;
+Sill' epäillä en teitä voi, Baptista,
+Kun maineestanne hyvää kuulin vain.
+
+BAPTISTA.
+Sanani anteeks suokaatte, signior:
+Mua miellyttää tuo lyhyt suoruutenne.
+Niin, oikein, poikanne Lucentio lempii
+Mun tytärtäin, ja tämä lempii häntä,
+Jos molemmat ei perin teeskentele.
+Siis, jos ei teillä muuta sanomista,
+Kuin että hän saa isän-sydämmenne
+Ja tyttäreni hyvät myötäjäiset,
+Niin kauppa tehty on, ja poikanne
+On luvallani saapa tyttäreni.
+
+TRANIO.
+Suur' kiitos, herra! Missä teist' on paras
+Julaista kihlaus ja kirjat tehdä
+Molempain meidän tyydytykseksi?
+
+BAPTISTA.
+Ei vainkaan minun talossani: seinill'
+On korvat, mull' on monta palvelijaa.
+Lisäksi vanha Gremio yhä vaanii:
+Vois sattumalta meidät yllättää.
+
+TRANIO.
+Siis minun luonani, jos suvaitsette:
+Siell' asuu isäni, ja vielä tänään
+Asian voimme salavihkaa päättää.
+Tää palvelija tuokoon tyttärenne,
+Notaarin heti hankkii poikani.
+Pahinta vain: kun hätäiset on laitteet,
+Tytyä saatte halpaan hätäruokaan.
+
+BAPTISTA.
+Vähätpä siitä! -- Cambio, juokse kotiin,
+Biancaa käske heti pukeumaan.
+Jos kysyy, kerro mit' on tapahtunut:
+Lucention isä ett' on Paduassa,
+Ja ett' on kohta hän Lucention vaimo.
+
+LUCENTIO.
+Oi, sitä jumalilta rukoilen!
+
+TRANIO.
+Jumalat jätä rauhaan; nyt vain mene. --
+
+    (Lucentio menee.)[15]
+
+Signior Baptista, tietä näytänkö?
+Siis tervetullut! Yhdet vain on ruoat;
+Pisassa sitten parataan.
+
+BAPTISTA.
+                         Ma tulen.
+
+    (Tranio, majisteri ja Baptista menevät.)
+
+BIONDELLO.
+Cambio!
+
+LUCENTIO.
+Mitä nyt, Biondello?
+
+BIONDELLO.
+Näitte kai, kuinka herrani iski teille silmää ja hymähteli?
+
+LUCENTIO.
+Mitä se tietää, Biondello?
+
+BIONDELLO.
+Oo, ei mitään; mutta hän jätti minut tänne jälkeensä selittämään
+teille hänen viittojensa ja merkkiensä mielen ja tarkoituksen.
+
+LUCENTIO.
+No, selitä ne sitten.
+
+BIONDELLO.
+Näin ikään siis: Baptistasta ei vaaraa, hän pakisee nyt petollisen
+pojan petollisen isän kanssa.
+
+LUCENTIO.
+No, ja mitä sitte?
+
+BIONDELLO.
+Teidän on määrä viedä hänen tytärtään illallispöytään.
+
+LUCENTIO.
+Entä sitte?
+
+BIONDELLO.
+Pyhän Luukas-kirkon vanha pastori on teille apuna milloin hyvänsä.
+
+LUCENTIO.
+Ja mitä tietää tämä kaikki?
+
+BIONDELLO.
+Sitä en minä tiedä; sen vain tiedän, että he puuhaavat väärää
+tallekirjaa; Ottakaa te hänet talteen _cum privilegio ad imprimendum
+solum_. Kirkkoon pois! -- ottakaa mukaan pappi, lukkari ja pari
+pätevää, kunniallista todistajaa.
+
+Jos tää ei keino auta, niin en minä muuta keksi:
+Biancan saatte mielestänne heittää ainaiseksi.
+
+LUCENTIO.
+Kuules sinä, Biondello, --
+
+BIONDELLO.
+Ei ole aikaa. Tunnen tytön, joka tuli naiduksi eräänä iltapäivänä,
+kun meni puutarhaan poimimaan persiljaa kanin täytteeksi; ja niin
+voitte tekin tehdä, herra, ja sillä hyvästi! Herrani käski minun
+mennä Sant Luukaaseen pyytämään pappia olemaan saapuvilla, kun te
+tulette sivullisenne kanssa.
+
+    (Menee.)
+
+LUCENTIO.
+Ma voin ja tahdon, jos hän siihen suostuu;
+Ja sen hän tekee; miks siis epäilen?
+Käy kuinka käy, ma tahdon liehakoita;
+Kovalle ottaa, jos ei Cambio voita.
+
+                           (Menee.)
+
+
+Viides kohtaus.
+
+    Maantie.
+
+    (Petruchio, Katariina ja Hortensio tulevat.)
+
+PETRUCHIO.
+Hiis olkoon, joudu! Isän luo on matka.
+Hyväinen aika, kuinka paistaa kuu!
+
+KATARIINA.
+Kuu? Aurinkohan! Ei nyt kuutamaa.
+
+PETRUCHIO.
+Se kuu on, joka paistaa, sanon minä.
+
+KATARIINA.
+Ei, aurinkohan paistaa, tiedän minä.
+
+PETRUCHIO.
+Kautt' emoni pojan, joka olen minä,
+Se kuu on, tähti, taikka mitä tahdon,
+Ennenkuin tästä isäs taloon lähden. --
+Mene ja laita kotiin hevoset. --
+Teet aina tenää, aina, aina tenää!
+
+HORTENSIO.
+Mukautukaa, tai paikalt' emme pääse.
+
+KATARIINA.
+Eteenpäin, oi, kun näin jo pitkäll' ollaan;
+Kuu olkoon, aurinko, tai mitä mielit,
+Niin, vaikka päresoitto, jos niin tahdot;
+Vast'edes vannon, että se se on.
+
+PETRUCHIO.
+Se kuu on, sanon minä.
+
+KATARIINA.
+                       Kuu, niin aivan.
+
+PETRUCHIO.
+Valetta! Se on Herran aurinko.
+
+KATARIINA.
+Niin, Herran aurinko, sen Herra tietköön,
+Mut aurinkokaan ei, jos sin' et tahdo;
+Ja kuukin vaihtuu, niinkuin mielesi.
+Jos miksi nimität sen, se se on
+Ja Katariinast' oleva on aina.
+
+HORTENSIO.
+Petruchio, eteenpäin! Jo voiton sait.
+
+PETRUCHIO.
+Eteenpäin siis! Noin pallon tulee vierrä
+Eik' aina ristiin rastiin poikin rataa. --
+Mut hiljaa! Mikä seura tulee tuossa?
+
+    (Vincentio tulee matkapuvussa.)
+
+(Vincentiolle) Huomenta, kaunis neiti! Mistä matka? --
+Sanoppa, Kati, suoraan, oletko
+Noin pulskaa vallasnaista koskaan nähnyt?
+Sasuillaan valko taistelee ja puna;
+Ei taivaall' loista tähdet niin kuin silmät
+Kasvoissa noissa taivahallisissa. --
+Soma neiti, hyvää päivää vielä kerran! --
+Syleile, Kati, tuota kaunotarta.
+
+HORTENSIO (syrjään).
+Hän miehen hulluks saa, kun naiseks sanoo.
+
+KATARIINA.
+Ihana, soma, raitis immen umppu,
+Mihinkä matka, miss' on kotisi?
+Miekkoinen isä, joll' on laps noin kaunis,
+Mut miekkoisempi mies, jonk' avioksi
+Sun suopeat on tähdet määränneet!
+
+PETRUCHIO.
+Mit' aiot, Kati? Ethän liene hullu?
+Se mies on, rypistynyt ukko-räivä,
+Ei tyttö, joksi sinä häntä sanot.
+
+KATARIINA.
+Anteeksi, vanha isä, silmän harha:
+Näköni aurinko on häikäissyt,
+Niin että kaikki näyttää vihannalta.
+Nyt näen, ett' olet arvollinen vanhus,
+Siis anteeks anna tyhmä erheeni.
+
+PETRUCHIO.
+Se, hyvä vanhus, tee, ja sano meille,
+Mihinkä matka; jos meill' yks on tie,
+Niin seurasi on meille iloksi.
+
+VINCENTIO.
+Te, arvon herra, ja te, hauska neiti,
+Jonk' outo tervehdys mua peljätti,
+Nimeni on Vincentio, Pisass' asun,
+Ja matka Paduaan on poikaani
+Tapaamaan, jot' en ammoin ole nähnyt.
+
+PETRUCHIO.
+Ken nimeltään?
+
+VINCENTIO.
+               Lucentio, hyvä herra.
+
+PETRUCHIO.
+Hyväpä tuo, ja paras pojallesi.
+Ei yksin ikään, heimouteenkin nähden
+Sanoa minun suonet: rakas isä.
+Mun puolisoni, tämän rouvan, siskon
+Sun poikas äsken nai. Äl' ihmettele,
+Äläkä suutu: häll' on kelpo maine
+Ja suku suuri, myötäjäiset runsaat,
+Lisäksi kaikki ominaisuudet,
+Jotk' ylimyksen vaimoll' olla tulee.
+Mun suo sua syleillä, Vincentio-vanhus.
+Nyt käymme katsomaan sun kelpo poikaas,
+Jot' ilahuttaa varmaan tulosi.
+
+VINCENTIO.
+Tää tottako? Vai matkamiesten lailla
+Pilana pidättekö huviksenne
+Vain muukalaista, jonka tapaatte?
+
+HORTENSIO.
+Se totta, isä, on; sen vakuutan.
+
+PETRUCHIO.
+No, tule pois, niin näet totuuden;
+Ens' ilveemme sun teki luulokkaaksi.
+
+    (Petruchio, Katariina ja Vincentio menevät.)
+
+HORTENSIO.
+Bravo, Petruchio! Miehuutt' annoit mulle.
+Nyt lesken luo! Jos aikoo suutaan soittaa,
+Niin keinon tiedän, millä suulaat voittaa.
+
+                                  (Menee.)
+
+
+
+
+VIIDES NÄYTÖS.
+
+
+Ensimmäinen kohtaus.
+
+    Padua. Lucention asunnon edusta.
+
+    (Biondello, Lucentio ja Bianca tulevat;
+    Gremio kävelee edestakaisin.)
+
+BIONDELLO.
+Hiljaa ja joutuin, herra: pappi vartoo.
+
+LUCENTIO.
+Lennän, Biondello; mutta sinua kenties tarvitaan talossa; mene siis!
+
+BIONDELLO.
+Enpä vainkaan; ensin tahdon nähdä kirkon selkänne takana; sitten
+menen takaisin herrani tykö niin pian kuin saatan.
+
+    (Lucentio, Bianca ja Biondello menevät.)
+
+GREMIO.
+Mua ihmetyttää, missä Cambio viipyy.
+
+    (Petruchio, Katariina, Vincentio ja palvelijoita tulee.)
+
+PETRUCHIO.
+Täss' ovi on, Lucentio asuu tässä.
+Isäni talo toriin päin on hiukan,
+Mun täytyy rientää sinne; hyvästi!
+
+VINCENTIO.
+Sit' ennen ei tee pieni naukku pahaa.
+Tääll' olen vähän niinkuin isäntä,
+Ja taloss' on kai jotain tarjottavaa.
+
+    (Koputtaa ovea.)
+
+GREMIO.
+Siellä sisällä askaroidaan; parasta koputtaa kovemmin.
+
+    (Majisteri katsoo ulos ikkunasta.)
+
+MAJISTERI.
+Kuka se siellä niin kolkuttaa kuin tahtoisi särkeä oven?
+
+VINCENTIO.
+Onko signior Lucentio kotona, herra?
+
+MAJISTERI.
+On, kotona on, mutta häntä ei saa puhutella.
+
+VINCENTO.
+Mutta jos joku toisi hänelle sata tai parisataa puntaa ajanratoksi?
+
+MAJISTERI.
+Pitäkää sadat puntanne itse; hän ei niitä tarvitse niin kauan kuin
+minä elän.
+
+PETRUCHIO.
+Mitä sanoin teille? Poikaanne pidetään hyvänä Paduassa. -- Kuulkaahan,
+herra, turhitta mutkitta: olkaa hyvä, sanokaa signior Lucentiolle,
+että hänen isänsä on tullut Pisasta ja seisoo tässä ovella saadakseen
+häntä puhutella.
+
+MAJISTERI.
+Valehtelet: hänen isänsä on tullut Pisasta ja katsoo tässä ulos
+ikkunasta.
+
+VINCENTIO.
+Oletko sinä hänen isänsä?
+
+MAJISTERI.
+Olen, herra; niin sanoo hänen äitinsä, jos saan häntä uskoa.
+
+PETRUCHIO (Vincentiolle).
+Mitä tämä on, herraseni? Suoraa konnuutta, ottaa omakseen toisen
+miehen nimi!
+
+MAJISTERI.
+Kiinni se konna! Aikoo ehkä tässä kaupungissa jotakuta pettää minun
+nimessäni.
+
+    (Biondello palaa.)
+
+BIONDELLO.
+Olen nähnyt heidät kirkossa yhdessä. Jumala suokoon heille hyvää
+laivamatkaa! -- Vaan kuka täällä? Vanha herrani Vincentio! Nyt olemme
+hukassa, perin hukassa!
+
+VINCENTIO (huomaa Biondellon).
+Tule tänne, sinä pyövelin ruoka!
+
+BIONDELLO.
+Tahtoisin sentään saada pitää oman pääni.
+
+VINCENTIO.
+Tänne, sinä konna! Mitä, oletko sinä unohtanut minut?
+
+BIONDELLO.
+Unohtanut teidät? En, herra, en ole voinut teitä unohtaa, kun en
+ikipäivinäni ole teitä koskaan nähnytkään.
+
+VINCENTIO.
+Mitä, senkin paatunut lurjus, vai et koskaan ole nähnyt herrasi isää,
+Vincentiota?
+
+BIONDELLO.
+Mitä? Vanhaa, arvoisaa vanhaa herraaniko? Olen maarinkin: nähkääs,
+tuossa hän katsoo ulos ikkunasta.
+
+VINCENTIO.
+Niinkö todellakin?
+
+    (Lyö häntä korvalle.)
+
+BIONDELLO.
+Apua, apua, apua! Täällä hullu mies aikoo tappaa minut.
+
+    (Juoksee tiehensä.)
+
+MAJISTERI.
+Apuun, poikani! -- Apuun, signior Baptista!
+
+PETRUCHIO.
+Tule, Katiseni! Käykäämme tästä syrjään nähdäksemme, kuinka tämä
+riita päättyy.
+
+    (Vetäytyvät syrjään.)
+
+    (Majisteri, Baptista, Tranio ja palvelijoita tulee.)
+
+TRANIO.
+Kuka te olette, herra, kun uskallatte lyödä minun palvelijaani?
+
+VINCENTIO.
+Kukako minä olen? Kuka te sitten olette, herrani? -- Oo, te
+kuolemattomat jumalat! Senkin koreiltu lurjus! Silkkitakki!
+Samettihousut! Heleänpunainen viitta! Suippuhattu! -- Olen hukassa!
+Olen hukassa! Sillaikaa kuin minä istun kotona ja säästän, niin
+poikani ja palvelijani tuhlaavat kaikki yliopistossa.
+
+TRANIO.
+Mitä? Mikä nyt sitte on?
+
+BAPTISTA.
+Mitä? Onko mies hullu?
+
+TRANIO.
+Hyvä herra, puvustanne päättäen näytätte olevan vanha, hiljainen
+herrasmies, mutta sanoistanne luulisi teidät hulluksi. Hyvä herra,
+mitä se teitä koskee, jos minä kuljen helmissä ja kullassa? Minulla
+on siihen varaa, kiitos hyvän isäni.
+
+VINCENTIO.
+Isäsi, senkin konna! Hän on purjeenneuloja Bergamossa.
+
+BAPTISTA.
+Erehdytte, herraseni, erehdytte! Sanokaa kuitenkin, minkä luulette
+hänen nimensä olevan.
+
+VINCENTIO.
+Hänen nimensäkö? Niinkuin minä en tietäisi hänen nimeään! Minä olen
+hänet kolmivuotiaasta kasvattanut, ja hänen nimensä on Tranio.
+
+MAJISTERI.
+Mene tiehesi, senkin hupsu aasi! Hänen nimensä on Lucentio; ja hän on
+minun ainoa poikani ja tilojeni perijä, minun, signior Vincention.
+
+VINCENTIO.
+Lucentio? Ah, hän on herransa murhannut! -- Vangitkaa hänet, vaadin
+sitä herttuan nimessä! -- Oi, poikani, poikani! -- Sano minulle,
+senkin konna, missä on poikani Lucentio?
+
+TRANIO.
+Kutsukaa tänne oikeudenpalvelija.
+
+    (Muuan palvelijoista menee ja tuo oikeudenpalvelijan.)
+
+Vie tyrmään tuo houkkio! -- Isä Baptista, katsokaa, että hän joutuu
+oikeuden eteen.
+
+VINCENTIO.
+Minutko tyrmään?
+
+GREMIO.
+Seis, mies, häntä ei pidä tyrmään viedä!
+
+BAPTISTA.
+Suu kiinni, signior Gremio! Minä sanon, että hänet pitää viedä tyrmään.
+
+GREMIO.
+Varokaa, signior Baptista, ettei teitä peijata tässä jutussa. Minä
+tohdin vannoa, että tämä on se oikea Vincentio.
+
+MAJISTERI.
+Vanno, jos tohdit.
+
+GREMIO.
+En, vannoa minä en tohdi.
+
+TRANIO.
+Voisit yhtä hyvin sanoa, että minä en ole Lucentio.
+
+GREMIO.
+Niin, tiedänhän että sinä olet signior Lucentio.
+
+BAPTISTA.
+Pois tuo vanha narri! Putkaan pois!
+
+VINCENTIO.
+Näin vierast' uhata ja rääkätä!
+Oo, suunnatonta häpeemättömyyttä!
+
+    (Biondello palaa, mukanaan Lucentio ja Bianca.)
+
+BIONDELLO.
+Oo, olemme hukassa! Ja tuossa hän on: kieltäkää hänet, luopukaa
+hänestä, muuten olemme kaikki perikadossa!
+
+LUCENTIO (polvistuen).
+Anteeksi, isä!
+
+VINCENTIO.
+               Rakas poika, elät?
+
+BIANCA (polvistuen).
+Anteeksi, isä!
+
+BAPTISTA.
+               Mitä sinä rikoit?
+Miss' on Lucentio?
+
+LUCENTIO.
+                   Tässä on Lucentio.
+Tuoss' isäni, se oikea Vincentio.
+Mun avioni tyttäres on nyt,
+Sun silmäs vain on varjo pettänyt.
+
+GREMIO.
+Ovelaa juonta! Pettää meidät kaikki!
+
+VINCENTIO.
+Miss' on se Tranio, se konnan luuta,
+Jok' uhmaten mua ilkkui vasten suuta?
+
+BAPTISTA.
+Tää eikö Cambio siis olekaan?
+
+BIANCA.
+On muuttunut Lucentioksi vaan.
+
+LUCENTIO.
+Nää lemmen ihmeit' on. Biancan lempi
+Mun vaihtamaan sai osaa Tranion kanssa:
+Minuna esiintyi hän kaupungissa;
+Ja minä onnelllsest' olen vihdoin
+Haluttuun päässyt onnen satamaan.
+Pakosta teki Tranio, minkä teki;
+Mun tähten', isä, hälle anteeks suo.
+
+VINCENTIO.
+Minä silvon nenän siltä lurjukselta, joka tahtoi lähettää minut tyrmään.
+
+BAPTISTA (Lucentiolle).
+Mutta kuulkaas, herraseni: oletteko nainut tyttäreni, kysymättä
+minulta lupaa?
+
+VINCENTIO.
+Huoleti, Baptista; me kyllä teidät tyydytämme; huoleti vain!
+Nyt menen tuonne sisään kostamaan tämän konnuuden.
+
+    (Menee.)
+
+BAPTISTA.
+Ja minä tutkimaan tämän koiruuden syvyyttä.
+
+    (Menee.)
+
+LUCENTIO.
+Älä kalpene, Bianca; ei isäsi tästä suutu.
+
+    (Lucentio ja Bianca menevät.)
+
+GREMIO.
+Ma mukaan menen pitoihin; en huoliani huokaa:
+Jos muu on toivo mennytkin, niin saanen toki ruokaa.
+
+    (Menee.)
+
+    (Petruchio ja Katariina tulevat esiin.)
+
+KATARIINA.
+Nyt mennään katsomaan, mit' alkaa tuosta.
+
+PETRUCHIO.
+No, mennään vain, mut ensin suutelo!
+
+KATARIINA.
+Mitä? Keskelläkö katua?
+
+PETRUCHIO.
+Mua häpeätkö suudella?
+
+KATARIINA.
+En, Herran tieten, mut en tässä kehtaa.
+
+PETRUCHIO.
+No, mennään sitte kotiin taas. -- Hoi, ratsut! Poika, hoi!
+
+KATARIINA.
+No, tuossa saat sen muiskusi! Nyt etkö jäädä voi?
+
+PETRUCHIO.
+Näin hyvä on; nyt tule, Kati! Parempi on kerta
+Kuin ettei koskaan; myöhä ain' on myöhän verta.
+
+                                     (Menevät.)
+
+
+Toinen kohtaus.
+
+    Huone Lucention talossa.
+
+    (Pöytä on katettu. Baptista, Vincentio, Gremio, Majisteri,
+    Lucentio, Bianca, Petruchio, Katariina, Hortensio ja
+    leskivaimo tulevat; Tranio, Biondello, Grumio ja muita
+    passareina.)
+
+LUCENTIO.
+Jo lopultakin soraäänet sointui.
+Nyt sopii, kun on hurja sota käyty,
+Sen vaaroja ja vastuksia nauraa. --
+Isääni tervehdi, Bianca soma,
+Niin kuin sun isääs minä tervehdin. --
+Veli Petruchio, -- sisar Katariina, --
+Hortensio, sinä, kauniin leskes kanssa, --
+Pitäkää hyvänänne talon tarjot:
+Nää kemut vain on vatsan tulppana
+Pitojen päälle. Pyydän: istukaa!
+Jutella voimme samassa ja syödä.
+
+PETRUCHIO.
+Ain' yhä: istu, istu, syö ja syö!
+
+BAPTISTA.
+Näin hyvää Paduass' on, poikani.
+
+PETRUCHIO.
+Ei Padussa mitään, mik' ei hyvää.
+
+HORTENSIO.
+Sen meihin nähden todeksi ma soisin.
+
+PETRUCHIO.
+Ha, haa! Hortensio pelkää vaimoaan.
+
+LESKI.
+En min' oo mikään pelko, tietkää se!
+
+PETRUCHIO.
+Älykäs liette, vaan nyt äly petti:
+Hänellä, tarkoitin, on pelko teistä.
+
+LESKI.
+Kun pää on pyörä, pyörii koko mailma.
+
+PETRUCHIO.
+Pyörykkä vastaus!
+
+KATARIINA.
+                  Mitä tarkoititte?
+
+LESKI.
+Sen siitä saa, kun pisti.
+
+PETRUCHIO.
+                          Pisti? Mitä? --
+Hortensio, mitä siitä arvelet?
+
+HORTENSIO.
+Sanalla-pistämistä tarkoittaa.
+
+PETRUCHIO.
+Selitys oiva! Siit' on saapa muiskun.
+
+KATARIINA.
+"Kun pää on pyörä, pyörii koko mailma:"
+Sanokaa, mitä sillä aattelitte?
+
+LESKI.
+Miehenne, joka äkäpussin nai,
+Mun miehelleni soisi samaa kai:
+Sit' arvon aattelin.
+
+KATARIINA.
+                     Se arvoton
+Ol' ajatus.
+
+LESKI.
+Niin, aattelinkin teitä.
+
+KATARIINA.
+Teit' arvostella olis arvotonta.
+
+PETRUCHIO.
+Us, kiinni, Kati!
+
+HORTENSIO.
+Us, kiinni, leski!
+
+PETRUCHIO.
+Satanen pöytään: tuon lyö Kati alleen!
+
+HORTENSIO.
+Se mun on virkani.
+
+PETRUCHIO.
+Kuin virkamiehen suusta! Maljas, poika!
+
+    (Juo Hortension maljan.)
+
+BAPTISTA (Gremiolle).
+Kuink' on tää sutka seura teille mieleen?
+
+GREMIO.
+Hyvinpä päänsä yhteen puskevat.
+
+BIANCA.
+Kuin? Päänsä yhteen? Koiranleuka voisi
+Sanoa: sarvens' yhteen puskevat.
+
+VINCENTIO.
+Kas, sekö morsiamen herätti?
+
+BIANCA.
+Niin, vaan ei säikyttänyt; nukun jälleen.
+
+PETRUCHIO.
+Ei, älkää toki: näin kun alun teitte,
+Niin saatte pari pistostakin kestää.
+
+BIANCA.
+Olenko lintunne? Pois heti lennän,
+Mua jousi vireessä nyt seuratkaa. --
+Olette tervetulleet kaikkityynni.
+
+    (Bianca, Katariina ja leski menevät.)
+
+PETRUCHIO.
+Pääs' pakoon. -- Signior Tranio, tätä kurppaa
+Te tähtäsitte, mut ei osunut:
+Siis kaikkein honkaan-ampujien malja!
+
+TRANIO.
+Lucentio susikoiranaan mua käytti:
+Se ajaa vain ja pyytää herralleen.
+
+PETRUCHIO.
+Osuva vertaus, vaikka koiramainen!
+
+TRANIO.
+Hyv' että itse ajoon ryhdyitte;
+Tevana teille tenän tekee varmaan.
+
+BAPTISTA.
+Ohoo! Petruchio, se nuoli sattui.
+
+LUCENTIO.
+Suur' kiitos, Tranio, siitä letkauksesta!
+
+HORTENSIO.
+Se isku sattui. Tunnustakaa pois.
+
+PETRUCHIO.
+Se vähän liipaisi, sen tunnustan,
+Mut minust' ohi lensi sutka teihin
+Ja rammaks teki kummankin, sen takaan.
+
+BAPTISTA.
+Mut, toden tiestä, poikani Petruchio,
+Pahimman torapussin sait kai sinä.
+
+PETRUCHIO.
+En, sanon minä. Vakuudeksi siitä
+Jokainen pankoon sanan vaimolleen;
+Se, jonka vaimo kuuliaisin on
+Ja tulee heti, kun on sanan saanut,
+Se voittaa vedon, jonka määräämme.
+
+HORTENSIO.
+Hyvä! Ja mitä pannaan vedoksi?
+
+LUCENTIO.
+Kakskymmen-kruununen.
+
+PETRUCHIO.
+                      Kakskymmenkö?
+Sen panen haukasta ja koirastani,
+Mut vaimostani kymmenkertaisen.
+
+LUCENTIO.
+No, sata sitten!
+
+HORTENSIO.
+                 Hyvä!
+
+PETRUCHIO.
+                       Päätetty!
+
+HORTENSIO.
+Ken alkaa?
+
+LUCENTIO.
+           Minä. -- Mene, Biondello,
+Ja kutsu tänne vaimoani.
+
+BIONDELLO.
+Heti.
+
+    (Menee.)
+
+BAPTISTA.
+Vetosi tasaamme: Bianca tulee.
+
+LUCENTIO.
+En tasan pane; kaikest' yksin vastaan.
+
+    (Biondello palaa.)
+
+No, mitä?
+
+BIONDELLO.
+Rouva käskee sanomaan,
+Ett' työssä on hän eikä nyt voi tulla.
+
+PETRUCHIO.
+Vai työssä; ei voi tulla! Sepä vastaus!
+
+GREMIO.
+Niin, varsin nöyrä. Suokoon Jumal', ettei
+Pahempaa anna teidän vaimonne!
+
+PETRUCHIO.
+Parempaa toivon.
+
+HORTENSIO.
+                 Mene, Biondello,
+Ja pyydä heti vaimoani tänne.
+
+    (Biondello menee.)
+
+PETRUCHIO.
+Ohoo, vai pyydä! Silloin varmaan tulee.
+
+HORTENSIO.
+Mut teidän vaimonne ei tule, pelkään,
+Ei pyytämälläkään.
+
+    (Biondello palaa.)
+
+                   No, miss' on rouva?
+
+BIONDELLO.
+Hän sanoo, että suottailette vain;
+Ei mieli tulla, käskee teitä luokseen.
+
+PETRUCHIO.
+Pahempaa vain ja pahempaa! Ei mieli!
+Oo, kurjaa, suututtavaa, inhottavaa! --
+Sa, Grumio, mene puolisoni luo
+Ja sano, että vaadin häntä tänne.
+
+    (Grumio menee.)
+
+HORTENSIO.
+Ma tiedän, mitä vastaa.
+
+PETRUCHIO.
+                        No?
+
+HORTENSIO.
+                             Ei tule.
+
+PETRUCHIO.
+Sen pahempi se mulle; sillä hyvä.
+
+    (Katariina tulee.)
+
+BAPTISTA.
+Mik' ihme! Tuossa tulee Katariina!
+
+KATARIINA.
+Mua haetitte; mitä halaatte?
+
+PETRUCHIO.
+Miss' sisaresi, ja Hortension vaimo?
+
+KATARIINA.
+Lekolla istuvat ja tarinoivat.
+
+PETRUCHIO.
+Tuo heidät tänne; ja jos eivät mieli,
+Niin piiskall' aja miehiensä luo.
+No, mene, laita heti heidät tänne!
+
+    (Katariina menee.)
+
+LUCENTIO.
+Tää ihme on, jos ihmeit' ollenkaan.
+
+HORTENSIO.
+Niin kyllä; mitä sitte tietäneekään!
+
+PETRUCHIO.
+Se tyyntä tietää, rauhaa, rakkautta,
+Isännän arvoa ja käskyvaltaa,
+Niin, kaikkea, mik' auvon tuo ja onnen.
+
+BAPTISTA.
+Petruchio hyvä, onnekses siis olkoon!
+Sa vedon voitit; siihen lisään vielä
+Kakskymmentuhantisen kruunua:
+Uus tytär uudet saakoon myötäjäiset;
+Ei sama ole hän, mik' oli ennen.
+
+PETRUCHIO.
+Paremmin vielä tahdon vedon voittaa:
+Viel' antakoon hän näytteit' alttiudestaan,
+Tuost' äsken voittamastaan alttiudesta.
+
+    (Katariina palaa, mukanaan Bianca ja leskivaimo.)
+
+Tuoss' ynseät hän puolisonne tuo:
+Ne vanginnut on naisen puhelahja. --
+Tuo tanusi ei sulle sovi, Katri;
+Pois viskaa romu tuo ja jaloin polje!
+
+    (Katariina tekee niin.)
+
+LESKI.
+Oi, ettei huokailla mun ennen tarvis,
+Kuin syypääks joudun moiseen hupsuuteen!
+
+BIANCA.
+Hyi! Mitä tyhmää nöyryyttä on tää?
+
+LUCENTIO.
+Josp' ois sun nöyryytesi yhtä tyhmää!
+Sun nöyryytesi viisaus, Bianca,
+Mult' äsken kiemas sata kruunua.
+
+BIANCA.
+Sin' olit narri, kun löit siitä veikkaa.
+
+PETRUCHIO.
+Katariina, minä vaadin, että kerrot
+Tylyille noille naisille, mit' ovat
+He velkaa herroilleen ja miehilleen.
+
+LESKI.
+Te pilkkaatte. Sen sinnekin ne saarnat!
+
+PETRUCHIO.
+Tee niinkuin sanon; hänest' alota.
+
+LESKI.
+Sit' ei hän tehdä saa.
+
+PETRUCHIO.
+Saa, sanon minä; -- hänest' alota!
+
+KATARIINA.
+Hyi! Uhan rypyist' otsas silitä,
+Äläkä silmäis vihan salamoilla
+Sä loukkaa herraasi ja kuningastas.
+Se ihanuutes syö kuin halla heinän,
+Nimesi pilloo niinkuin myrsky kukan,
+Eik' ole kaunist' eikä sopivaa.
+Äkäinen vaimo on kuin riehka lähde,
+Samea, ruma, synkkä, suloton;
+Ei kukaan, vaikka janost' ihan kuivuis,
+Halua siitä maistaa tilkkaakaan.
+Mies vaimonsa on herra, elo, turva,
+Pää, hallitsija; häntä huoltelee
+Ja hänen elatustaan; antautuu
+Tukalaan vaivaan merellä ja maalla,
+Vilussa päivät valvoo, myrskyss' yöt,
+Hän lämpimän kun kodin turvaa nauttii;
+Ja muuta siit' ei pyydä palkakseen
+Kuin hellyytt', auliutta, lemmekkyyttä, --
+Niin suuren velan eteen turha maksu!
+Mit' alamainen hallitsijalleen
+On vaimo velvollinen puolisolleen:
+Jos tyly on hän, ynsä, äksy, nuiva,
+Ja miehen kohtu-vaatimust' ei nouda,
+Hän eikö ole kapinoitsija
+Ja rakkaan herrans' inha kavaltaja?
+Häpeän rouvain tyhmyyttä: he sotaa
+Vain tarjoovat, kun tulis rauhaa pyytää,
+Ja valtaa tavoittavat, mahtia,
+Kun pitäis totella ja palvella.
+Niin hento miks on ruumiimme ja vieno,
+Niin mailman telmännässä tarmoton?
+Siks tieten, että moisell' olennolla
+Sydänkin pitää vieno, hento olla.
+Niin, niin, te ynseät ja heikot madot,
+Mull' oli sydän jäykkä niinkuin teillä,
+Miel' yhtä ylväs, suuremp' ehkä syy
+Sanasta sana antaa, uhast' uhka;
+Nyt näen, ett' aseemme on ruoko vain,
+Ja mekin yhtä heikot; halu lähin
+On sitä näyttää, mit' on meissä vähin.
+Pois uhka, se ei auta milloinkaan!
+Herranne jalan alle käsi vaan!
+Ja näytteeks, herrani jos käskee vielä,
+Mun käteni ei palvelustaan kiellä.
+
+PETRUCHIO.
+Kas siinä vaimo! -- Kati, anna suuta!
+
+LUCENTIO.
+Niin, vanha poika, ei nyt enää muuta.
+
+VINCENTIO.
+On hauska nähdä lasta taipuvaa.
+
+LUCENTIO.
+Mut paha nähdä naista raivoisaa.
+
+PETRUCHIO.
+Nyt maata, Katri! -- Kolme meitä tässä
+On sulhoa, mut kaks on melkeässä.
+Hyv' yötä, herrat! (Lucentiolle) Valkeaiseen sinä
+Kyll' osasit,[16] mut vedon voitin minä.
+
+    (Petruchio ja Katariina menevät.)
+
+HORTENSIO.
+Kesytti äkäpussin, toden totta!
+
+LUCENTIO.
+Mut ihme, että meni vauriotta.
+
+    (Menevät.)
+
+    (Näyttämö muuttuu ja kuvaa samaa kapakkaa, missä Sukki alussa
+    esiintyi. Kaksi palvelijaa tulee kantaen Sukkia, jolla nyt
+    on omat vaatteet yllä. He laskevat hänet maahan. Kapakoitsija
+    tulee.)
+
+SUKKI (herää).
+Simon! Lisää viiniä!... Mitä? Kaikkiko komeljantit tiessään? Enkö siis
+olekaan mikään loordi?
+
+KAPAKAN-EMÄNTÄ.
+Vai loordi! Lempo sinut periköön! -- Aina sinä olet päissäsi, Sukki.
+
+SUKKI.
+Kuka se? Krouvariko? Ah, minä olen nähnyt niin ihanaa unta, ettet sinä
+koskaan eläissäsi ole kuullut semmoisesta puhuttavankaan!
+
+KAPAKAN-EMÄNTÄ.
+Hyvin mahdollista. Mutta parasta että korjaat luusi kotiin, sillä
+vaimosi sinua varmaankin nyt pelmuuttaa, kun olet täällä koko yön
+unia nähnyt.
+
+SUKKI.
+Niinkö luulet? Nyt tiedän, kuinka äkäpussin kesytän. Siitä olen koko
+yön uneksinut, ja sinä olet minut herättänyt paraasta unesta, mitä
+ikänäni olen nähnyt. Mutta nyt menen kotiin vaimoni tykö, ja kesytän
+minäkin hänet, jos hän minua suututtaa.
+
+    (Menevät.)
+
+
+
+
+SELITYKSIÄ:
+
+
+[1] _Richard valloittajan kanssa_. Sukki tarkoittaa tietysti Wilhelm
+valloittajaa.
+
+[2] _Paucas pallabris_. Väännetty espanjankielisestä lauseparresta:
+"pocas palabras" s.o. vähin sanoin.
+
+[3] _Pidä paikkas, Jeronimo!_ Leikillinen viittaus muutamaan
+sananparreksi tulleeseen kohtaan eräässä senaikuisessa näytelmässä.
+
+[4] _Jos sanoo, että on_ -- Loordi ei voi häntä nimeltä nimittää, kun ei
+hänen nimeään tunne.
+
+[5] _Vain juhlasaatto, meitä tervehtivä_. Leikillinen viittaus niihin
+juhlamenoihin, joilla tervehdittiin kaupunkien läpi matkustavia ylhäisiä
+vieraita.
+
+[6] _Niin jolsa kuin Florentiuksen
+Oli avio_.
+
+Ritari Florentius oli luvannut naida inhoittavan noidan, jos tämä
+auttaisi häntä selittämään erästä arvoitusta, josta hänen henkensä
+riippui.
+
+[7] _Manalasi apinoita taluttaa_. Tämän rangaistuksen saivat,
+kansantarun mukaan, kuoltuaan vanhat piiat, jotka lapsia inhosivat.
+
+[8] _Nämä latinan ja kreikan kirjat_. Kuningatar Elisabetin aikana
+naisetkin Englannissa lukivat latinaa ja kreikkaa.
+
+[9] _Kukonharja_. Tarkoittaa narrinlakkia, jonka töyhtönä oli
+kukonharja.
+
+[10] _Hän huutaa viiniä_. Oli vanha tapa Englannissa tarjota
+kirkossa heti vihkimisen jälkeen leipää ja viiniä. Tavallista
+oli myöskin, että vihkiäisten jälkeen ylkä suuteli morsianta.
+
+[11] _Vettä vain älä siihen vala_. Viittaus vanhaan kansanlauluun,
+jossa sanotaan:
+
+    Skotland palaa, Skotland palaa.
+    Tulta, tulta, tulta, tulta!
+    Lisää täytyy vettä valaa.
+
+[12] _Onko kaislat lattialla_. Sh:n aikana ylhäistenkin kodeissa
+levitettiin kaisloja permannolle.
+
+[13] _Peseydy, Katiseni_. Ennen syöntiä oli kädet pestävä, koska
+siihen aikaan käytettiin sormia kahvelin asemesta.
+
+[14] _Näin vaimon tappaa hellyydellä voi_. Viittaus Heywoodin näytelmään:
+"A woman killed with kindness."
+
+[15] _Lucentio menee_, mutta Tranion viittauksesta piiloutuu, kunnes
+toiset ovat poistuneet, ja tulee sitte jälleen esiin jatkamaan
+keskustelua Biondellon kanssa.
+
+[16] _Valkeaiseen sinä
+Kyll' osasit_.
+
+Viittaus Biancan nimeen. Englannissa on ampumataulun keskus valkea.
