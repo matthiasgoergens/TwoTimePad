@@ -1,0 +1,2395 @@
+The Augustan Reprint Society
+
+                 EDMOND MALONE
+
+                    CURSORY
+                  OBSERVATIONS
+
+                     on the
+                     POEMS
+
+                Attributed To
+                 THOMAS ROWLEY
+
+                     (1782)
+
+               _Introduction by_
+                 JAMES M. KUIST
+
+
+  Publication Number 123
+  William Andrews Clark Memorial Library
+  University of California, Los Angeles
+  1966
+
+
+
+
+GENERAL EDITORS
+
+  George Robert Guffey, _University of California, Los Angeles_
+  Earl Miner, _University of California, Los Angeles_
+  Maximillian E. Novak, _University of California, Los Angeles_
+  Robert Vosper, _William Andrews Clark Memorial Library_
+
+ADVISORY EDITORS
+
+  Richard C. Boys, _University of Michigan_
+  James L. Clifford, _Columbia University_
+  Ralph Cohen, _University of California, Los Angeles_
+  Vinton A. Dearing, _University of California, Los Angeles_
+  Arthur Friedman, _University of Chicago_
+  Louis A. Landa, _Princeton University_
+  Samuel H. Monk, _University of Minnesota_
+  Everett T. Moore, _University of California, Los Angeles_
+  Lawrence Clark Powell, _William Andrews Clark Memorial Library_
+  James Sutherland, _University College, London_
+  H. T. Swedenberg, Jr., _University of California, Los Angeles_
+
+CORRESPONDING SECRETARY
+
+  Edna C. Davis, _William Andrews Clark Memorial Library_
+
+
+
+
+INTRODUCTION
+
+
+Edmond Malone’s _Cursory Observations_ was the most timely publication
+in the Rowley controversy. His work appeared just as the debate over the
+authenticity of the poems attributed to a fifteenth-century priest was,
+after twelve years, entering its most crucial phase.[1] These curious
+poems had come to the attention of the reading public in 1769, when
+Thomas Chatterton sent several fragments to the _Town and Country
+Magazine_. The suicide of the young poet in 1770 made his story of
+discovering ancient manuscripts all the more intriguing. When Thomas
+Tyrwhitt published the first collected edition in March of 1777,[2]
+speculation about whether the poems were the work of Rowley or
+Chatterton began in earnest. Malone arrived in London two months later
+to take up permanent residence, and very likely he soon became in
+private “a professed anti-Rowleian.”[3] But during the late 1770’s,
+although anonymous writers filled the periodicals with pronouncements on
+both sides of the question, there was no urgent need to demonstrate that
+the poems were spurious. The essay which Tyrwhitt appended to the third
+edition of Rowley poems in 1778[4] and Thomas Warton’s chapter in his
+_History of English Poetry_[5] seemed to show with sufficient authority
+that the poems could not have been written in the fifteenth century. The
+Rowleians, however, were diligently preparing their arguments,[6] and
+late in 1781 they at last came forward with massive scholarly support
+for the Rowley story.
+
+On the first of December, Jacob Bryant published his voluminous
+_Observations upon the Poems of Thomas Rowley: in which the authenticity
+of those poems is ascertained_.[7] Some ten days later, Jeremiah Milles,
+Dean of Exeter and President of the Society of Antiquaries, brought out
+his own “edition” of the poems, with a commentary providing extensive
+historical proof of what Bryant “ascertained.”[8] The remarks of Warton
+and Tyrwhitt suddenly seemed hasty and superficial. Warton had clearly
+outlined his reasons for skepticism, but he offered to show “the
+greatest deference to decisions of much higher authority.”[9] Tyrwhitt
+had also hesitated to be dogmatic. He saw fit to suggest that, since
+Chatterton had always been equivocal, the authenticity of the poems
+could be judged only on internal grounds. Merely to show what might be
+gleaned from the poems themselves, he examined “_part_ of the internal
+evidence,” the language, and specifically “a _part_ only of this _part_,
+viz. ... _words_, considered with respect to their _significations_ and
+_inflexions_.”[10] Thus, when the apparently exhaustive work of Bryant
+and Milles was published, the Rowleians could well feel that the burden
+of proof now rested with the other side. Tyrwhitt and Warton had command
+of the proof they needed, and eventually they won over all but the
+fanatics.[11] But for the moment any answers they could make to Bryant
+and Milles would seem to be merely defensive. At this hour, the position
+which they represented needed new support from someone who could bring a
+fresh perspective into the debate and, if possible, throw the confident
+Rowleians into confusion. Edmond Malone’s observations served precisely
+these ends.
+
+Malone must have set to work as soon as the books of Bryant and Milles
+appeared.[12] At any rate, he rushed his essay into print. His friend
+John Nichols published it, over the signature “Misopiclerus,” in the
+December issue and yearly Supplement of the _Gentleman’s Magazine_,
+which went into circulation early in January.[13] To appear in these
+numbers, Malone’s essay had to be in Nichols’ hands not long after the
+middle of December, for copy was already going to press by then.[14]
+Doubtless he now put to use many ideas which had occurred to him as the
+controversy developed. But the origin of the essay was clearly his
+response, not simply to the poems and the controversy surrounding them,
+but specifically to what Milles and Bryant had written. His questioning
+of their competence to settle literary questions is his most basic
+justification of his own analysis. His refutations of their arguments
+give substance to every stage of his reasoning. And even though in the
+_Gentleman’s Magazine_ the essay is divided into two installments, its
+continuity and stylistic cohesiveness indicate that Malone wrote it
+purposefully at a time when his thoughts were unified by a clear
+provocation.
+
+A letter which Malone wrote to Lord Charlemont in Ireland on 8 January
+1782 reveals something of the seriousness with which, beneath their
+merriment, Malone and others regarded the Rowleian manifesto:
+
+  The Rowley controversy, about which you enquire, is going on
+  ding-dong. Dr. Milles’s quarto and Mr. Bryant’s octavos are on
+  my table, ready to be packed in your parcel. They have said
+  everything that could be said on their side of the question, and
+  have staggered some. Warton is preparing an answer, which will be
+  out soon; only a shilling pamphlet. The cautious Tyrwhitt is
+  slower in his operations. He means, I belive, to enter deeply into
+  the business, and it will therefore be some time before we shall
+  see his vindication. I am, you know, a professed anti-Rowleian,
+  and have just sent a little brat into the world to seek his
+  fortune. As I did not choose to sign my name, I preferred, for the
+  sake of a more general perusal, to give my cursory remarks to a
+  magazine, in consequence of which they appear rather awkwardly,
+  one half in that for December and the other in the supplement,
+  which is to be published in a few days. When I can get a perfect
+  copy, I will send it to you, for I flatter myself your partiality
+  to me will incline you to run your eye over it, notwithstanding
+  your leaning to the other side of the question. Tyrwhitt wants me
+  still to make a pamphlet of it, in order to bind up with all the
+  other pieces which that most wonderful youth, Chatterton, has
+  given occasion to.[15]
+
+While his little brat was diverting the wide audience of the
+_Gentleman’s Magazine_, Malone was busy arranging for it to make a more
+damaging sally. Tyrwhitt may have asked for a more convenient text; what
+Malone gave him was a better essay. He seems to have spent the entire
+month revising his work, for the pamphlet was not ready until early in
+February. As late as 7 February, writers commenting on the essay
+referred to and even quoted from the _Gentleman’s Magazine_.[16] On 4
+February, Horace Walpole, writing to thank Malone for sending him a copy
+of _Cursory Observations_, said that he had been “earnestly wishing”
+for such a present because Malone’s remarks were “far too good to be
+committed only to the few hours of life of a newspaper.”[17]
+
+The pamphlet was first advertised in the _St. James’s Chronicle_, in
+which developments in the Rowley controversy were usually announced
+promptly, until No. 3266 (9-12 Feb.). This and all other advertisements
+of the pamphlet were for the version of Malone’s essay which the author
+sent to Walpole some days earlier: “the second edition, revised and
+augmented.”[18] This phrase on the title-page has led scholars to miss
+the significance which Malone himself found in the pamphlet. The phrase
+does not indicate, as bibliographies have heretofore stated, that the
+pamphlet achieved a second printing. It emphasizes that in the pamphlet
+Malone revised and expanded considerably the essay which made its first
+appearance in the _Gentleman’s Magazine_.
+
+Every page in the pamphlet bears evidence of Malone’s revision.[19] It
+was necessary, of course, to re-orient the essay, which after the
+formula of the _Gentleman’s Magazine_ was addressed to Mr. Urban. At
+least one passage, which carried a slur upon publishers, may have been
+changed to suit Mr. Nichols.[20] But more indicative of his carefulness
+are his revisions of words and phrases. “The whole fabrick” of
+Chatterton’s poems became “the beautiful fabrick” (p. 12). The “practice
+of knitting,” which Malone wished to show had not developed as early as
+the fifteenth century, he now called “the art of knitting” (p. 24). When
+he found that he had not questioned emphatically enough “the antiquity
+of these MSS,” he added the phrase “not of one, but of all” (p. 31).
+Malone attended to the more general stylistic aspects of his essay as
+well as to minute details. If he paused to recompute the number of
+parchments which could fit into the famous Bristol chests (p. 59),
+he also changed the simple declarative “I shall” to the more forceful
+“I will” throughout the essay. Although his verbal revisions cannot be
+called drastic, they are numerous and are frequently strategic.
+
+Malone’s expansion of his essay, however, was in itself ample reason to
+call the pamphlet a “new edition.” The reviewer for the _Gentleman’s
+Magazine_ might assure readers that “great part of this pamphlet” had
+already appeared there,[21] but there were also “great” additions. What
+Malone came to consider Bryant’s “most plausible argument” (“that every
+author must know his own meaning--that Chatterton did not know the
+meaning of many words and lines in his book, and therefore was not the
+author”), he answered in an entirely new passage (pp. 41-45). He
+observed later that “almost every writer on the subject” subsequently
+“adopted” this rebuttal.[22] Another crucial section (pp. 45-49), in
+which Malone compares a modernized passage from “Rowley” with a passage
+from Chatterton’s acknowledged poetry translated into Rowleian verse,
+was also new. This critical technique, which Malone perfected, became a
+standard one thereafter.[23] Malone added six other passages, none of
+which is less than half a page in length, as well as five footnotes
+documenting or elaborating points which he had made in the magazine.[24]
+The most heavily augmented part of the essay is that containing
+miscellaneous proofs, but Malone bolstered his initial arguments as
+well. In his comparison of “Rowley’s” smooth versification with the work
+of authentic late-medieval poets--the passage which, as we shall see,
+Tyrwhitt thought so effective--Malone introduced two further quotations
+and substituted the first lines from Bradshaw’s _Holy Life_ for those he
+had quoted in the magazine.[25] Malone’s additions to his essay, which
+taken together amount to some twenty pages (in a pamphlet of sixty-two
+pages), represent a careful effort to support with an irresistable
+battery of arguments the main line of attack which he had thrown against
+the Rowleians.
+
+As his second paragraph and his appeals to “poetical readers” indicate,
+Malone’s fundamental message was that the Rowley poems must be judged as
+literature and not as historical documents. The poems had, of course,
+found many appreciative readers. A correspondent in the _Gentleman’s
+Magazine_ in 1777 (XLVII, 361-365), for instance, discussed with frank
+admiration the imagery, pathetic sentiment, accommodation of sound to
+sense and other aspects of the poems. It was Malone, however, who got to
+the heart of the matter in showing that poetry inevitably bears the
+hallmark of the era in which it is written. Even to appreciate the
+importance of this fact, he insisted, one must have read the early
+English poets with perception and taste. In establishing this criterion,
+Malone delivered his most devastating blow against the Rowleians: all
+their learned arguments were irrelevant.
+
+Malone’s essay helped to awaken some very witty attacks on the
+Rowleians. Malone himself made use of wit in occasional passages, such
+as his abuse of Milles for relying on Shakespeare’s historical accuracy
+(pp. 22-24). The cure for Rowleiomania which he prescribed in the
+concluding passage aroused a good deal of comment. Not all readers were
+happy that he chose to ridicule respectable scholars,[26] and the
+effectiveness of his humor did not go unquestioned. Burnaby Greene,
+whose _Strictures_ were the only major attempt to discredit Malone, was
+anxious to show that, although Malone seemed to promise humor, he did
+not prove to be “a writer abounding in exertions of the risible
+muscles.”[27] Among the replies to Greene were some jovial verses in the
+_St. James’s Chronicle_ very likely contributed by Malone:
+
+  Says Bryant to Burnaby, what do you mean?
+  The Cause of old Rowley you’ve ruin’d quite clean.
+  I had taught Folk to think, by my learned _Farrago_,
+  That Drydens and Popes wrote three Centuries ago;
+  Though they stared at my Comments, and sometimes might slumber,
+  Yet the Truth they might fancy beneath all my Lumber:
+  But _your_ stupid Jargon is seen through _instanter_,
+  And your Works give the Wits new Subjects for Banter.
+  Such _cler_-obscure Aid may I meet again never!
+  For now Milles and I will be laugh’d at for ever.[28]
+
+Greene’s criticisms are frequently absurd, but probably even Malone was
+ready to acknowledge that humor was not the outstanding feature of the
+_Cursory Observations_. His purpose was not to satirize but to refute.
+
+Other writers in 1782, however, exerted their risible muscles much more
+vigorously than Malone did. William Julius Mickle wrote _The Prophecy of
+Queen Emma; An Ancient Ballad lately discovered, written by Johannes
+Turgotus, Prior of Durham, in the Reign of William Rufus_, to which he
+added a long satirical postscript about the discovery of the poem.
+George Hardinge’s _Rowley and Chatterton in the Shades_ brilliantly
+depicts various scenes in the other world after news of the Rowley
+controversy is carried there. The most hilarious performance of the
+year--indeed, of the entire controversy--was the _Archaeological Epistle
+to Dean Milles_, published by John Nichols at the end of March,[29]
+which turned the language of the Rowley poems ingeniously against the
+two fumbling historians. Such pieces would have appeared whether or not
+Malone had written the _Cursory Observations_. The general reader was
+likely to find ridiculous the sober effort to document Rowley’s
+existence. As a contributor to the _St. James’s Chronicle_ said,
+“To mistake the Apprentice of a modern Attorney for an ancient Priest,
+too nearly resembles an Incident in the new Pantomime at Covent-Garden,
+where a Bailiff, intent on arresting an old Beau, is imposed on by a
+Monkey dressed in his Clothes, and employed in an awkward Imitation of
+his Manners.”[30] But ridicule could hurt the Rowleians only if their
+confidence had been penetrated already. Malone delivered his strokes two
+months before any of the others, and the strength of his diversified
+attack made it possible for the wits to strike home.
+
+Throughout 1782, the _Cursory Observations_ remained at the forefront of
+the reaction to Milles and Bryant. In March, William Mason wrote Walpole
+that he understood “a Mr. Malone” was “the proto-antagonist” of the
+Rowleians.[31] As late as the August issue of the _Gentleman’s Magazine_
+appeared an “Ode, Addressed to Edmond Malone, Esq. on his presuming to
+examine the learned and unanswerable Arguments urged by Jacob Bryant,
+Esq. and the Rev. Dr. Milles....”[32] Perhaps the fairest contemporary
+appraisal of Malone’s work was given in the June issue of the _Critical
+Review_. Although the reviewer felt that some of Malone’s proofs, such
+as the anachronism of “knitting white hosen,”[33] were as elusive as
+those of the antiquaries, he found the method of comparing “Rowley”
+and other poets illuminating, and the “miscellaneous observations” he
+considered “frequently important, and often decisive.” On the whole, the
+reviewer said, “Mr. Malone deserves much praise for his very clear and
+comprehensive view” of the controversy.[34]
+
+In their replies to Bryant and Milles, both Warton and Tyrwhitt referred
+appreciatively to the _Cursory Observations_. Warton found that he had
+duplicated Malone’s method of rewriting Chatterton’s acknowledged
+poetry. In a footnote, he said: “The ingenious author of _Cursory
+Observations on the Poems of Rowley_, has been beforehand with me in
+this sort of tryal. But mine was made, before I had seen his very
+sensible and conclusive performance.”[35] Tyrwhitt went so far as to let
+Malone speak for him: “From the _Language_, I might go on to examine the
+_Versification_ of these Poems; but I think it sufficient to refer the
+reader, who may have any doubts upon this point, to the specimens of
+really ancient poetry, with which the verses of the pretended _Rowley_
+have lately been very judiciously contrasted. Whoever reads those
+specimens, if he has an ear, must be convinced, that the authors of them
+and of the Poems did not live within the same period.”[36] A century
+after Tyrwhitt, in a re-examination of the Rowley poems which is in many
+ways the final word on the subject, W. W. Skeat recommended Tyrwhitt’s
+_Vindication_, the chapter in Warton’s _History_, and the _Cursory
+Observations_ as the three contemporary analyses of the poems which a
+reader should consult.[37] The pamphlet is now offered to
+twentieth-century readers as an illustration of the mature and versatile
+critical powers of one of the eighteenth-century’s great scholars.
+
+
+
+
+NOTES TO THE INTRODUCTION
+
+
+1. A good general account of the controversy can be found in
+  E. H. W. Meyerstein’s _A Life of Thomas Chatterton_ (London, 1930).
+  I wish to thank the University of Western Ontario for the grant
+  enabling me to work at the British Museum and Bodleian Library. I am
+  indebted to my colleague Herbert Berry for his useful suggestions.
+
+2. _Poems, supposed to have been written at Bristol, by Thomas
+  Rowley and Others, in the Fifteenth Century; the greatest part now
+  first published from the most authentic copies, with an engraved
+  specimen of one of the MSS...._ The earliest advertisement that I
+  have seen for this edition is in the _London Chronicle_, No. 3158
+  (1-4 March 1777).
+
+3. Until Professor James M. Osborn’s biography of Malone is ready,
+  Sir James Prior’s _Life_ (London, 1860) remains standard. Concerning
+  Malone’s private opinions about Rowley, see his letter to Charlemont
+  quoted below.
+
+4. A convenient reprinting of this edition is _The Rowley Poems by
+  Thomas Chatterton_, ed. M. E. Hare (Oxford, 1911).
+
+5. II (London, 1778), 139-164--perhaps more accessible in Richard
+  Price’s edition of the _History_, II (London, 1840), 338-360.
+
+6. Letters from Francis Woodward to Lord Charlemont on 21 July 1778
+  and 8 April 1779 give brief accounts of the progress of Milles’
+  research. See the Twelfth Report of the Historical MSS Commission,
+  Appendix X: _The Manuscripts and Correspondence of James, First Earl
+  of Charlemont_ (London, 1891), I, 340-341 and 345.
+
+7. An advertisement in the _St. James’s Chronicle_, No. 3233 (24-27
+  Nov.) says that the _Observations_ will be published “Saturday
+  next.” An advertisement in No. 3235 (29 Nov.-1 Dec.) says that the
+  _Observations_ “this day were published.” The latter phrase was
+  often used in consecutive advertisements of a work during this
+  period, but in view of the announcement in No. 3233, it would seem
+  that Bryant’s work did appear on 1 Dec.
+
+8. Milles reprinted Tyrwhitt’s edition (except for the “Appendix,”
+  Tyrwhitt’s essay against the authenticity of the poems), correcting
+  the errata and adding a few new pieces. His commentary includes a
+  long answer to Tyrwhitt, a “Preliminary Dissertation,” introductions
+  to various poems, and footnotes throughout the text. Since 1782 is
+  the year imprinted on the title-page, bibliographies have always
+  given this as the year of publication. But No. 3239 of the _St.
+  James’s Chronicle_ (8-11 Dec. 1781) advertises the work as
+  published. A MS note by Joseph Haslewood in a pamphlet at the
+  British Museum (shelf-mark C.39.f.16) mentions his having seen a
+  copy of Milles’ work which Richard Gough obtained on 12 Dec. 1781.
+
+9. _History_, ed. Price, II, 340.
+
+10. _Rowley Poems_, ed. Hare, p. 311.
+
+11. See Meyerstein, _Life_, pp. 472-474. Warton’s reply, advertised
+  in the _St. James’s Chronicle_ in No. 3280 (14-16 March 1782) to be
+  published “in a few Days,” was _An Enquiry into the Authenticity of
+  the Poems attributed to Thomas Rowley. In which the arguments of the
+  Dean of Exeter, and Mr. Bryant are examined_. Tyrwhitt’s reply,
+  first advertised in the _St. James_ in No. 3342 (6-8 Aug. 1782), was
+  _A Vindication of the Appendix to the Poems, called Rowley’s...._
+
+12. The only earlier replies were obscure squibs in the newspapers.
+  See the _St. James’s Chronicle_, Nos. 3238 (6-8 Dec., against
+  Bryant), 3240 (11-13 Dec., against Bryant), and 3245 (22-25 Dec.,
+  against both).
+
+13. LI (1781), 555-559, 609-615. On its publishing schedule during
+  the 18th century, see the _Gentleman’s Magazine_, N.S.,
+  I (July-Dec., 1856), 9. Neither the magazine nor the pamphlet
+  mentioned Malone’s authorship, but his hand in “the new Pamphlet,”
+  at least, was soon recognized (see the _St. James’s Chronicle_, No.
+  3268, 14-16 Feb. 1782). One can only speculate whether Malone and
+  Nichols were fellow plotters from the beginning. They seem to have
+  taken interest in each other’s work as early as 1779, when Nichols
+  printed for Malone special copies of some early analogues to
+  Shakespeare’s plays. See Albert H. Smith, “John Nichols, Printer and
+  Publisher,” _The Library_, 5th Ser., XVIII (1963), 182-183. And
+  evidently Nichols had an eye out for anti-Rowleian materials. At his
+  solicitation, Horace Walpole allowed the _Letter to the Editor of
+  the [Chatterton] Miscellanies_ (Strawberry Hill, 1779) to be
+  reprinted in the _Gentleman’s Magazine_ in 1782 (LII, 189-195,
+  247-250, 300, and 347-348).
+
+14. Nichols’ printing operations are described in a pamphlet by
+  David Bond, _Friendship Strikingly exhibited in a New Light_
+  (London, 1781).
+
+15. Charlemont Correspondence, I, 393-394. I wish to thank Professor
+  Osborn for calling my attention to this letter.
+
+16. See the _Gentleman’s Magazine_, LII (1782), 14-15, and the _St.
+  James’s Chronicle_, Nos. 3257 (19-22 Jan.) and 3264 (5-7 Feb.).
+
+17. _The Letters of Horace Walpole_, ed. Paget Toynbee, XII (Oxford,
+  1904), 152.
+
+18. Concerning Walpole’s copy, see _Horace Walpole’s Correspondence_,
+  Yale Ed., ed. W. S. Lewis _et al._, XVI (New Haven, 1952), 363.
+  I have found no trace of any other version of the pamphlet, and it
+  is doubtful that there was time for one to be published between
+  8 Jan., when Malone wrote to Charlemont, and 31 Jan., the date of
+  the “Advertisement” printed in the “revised and augmented”
+  edition. We may presume that as editor of the magazine Nichols
+  would not be anxious for another printing of the essay during Jan.
+  to compete with two numbers in which the essay was a principal
+  feature. All copies of the pamphlet which I have been able to
+  locate specify “the second edition, revised and augmented.” In my
+  examination of six copies (at the Library of Congress, the
+  Bodleian, and the British Museum), I found variation only in the
+  catchword on p. 32. Although the first word on p. 33 is “comprise”
+  in all copies, the catchword in three copies (Bodleian, and
+  British Museum shelf-marks 687.g.33 and 78.i.9) is “contain,” the
+  word Malone used in the magazine. Since the copies are otherwise
+  identical, repeating distinctive flaws and errors (note, for
+  instance, “written,” p. 19), I judge that this discrepancy was
+  seen and corrected at press, and that all copies are of one
+  printing.
+
+  [[In this edition, the catchword is “comprise”.]]
+  [[P. 19: “undoubtedly writtten [_sic_] by one person”.]]
+
+19. Besides the added paragraphs and footnotes, I have noted 235
+  separate textual changes. Undoubtedly some deviations in spelling
+  and punctuation were the printer’s work. But the number of changes
+  in quoted passages (see especially pp. 16 and 60) and the regularity
+  of changes (like those noted above) which evidently serve a
+  stylistic purpose suggest the author’s meticulous revision.
+
+    [[Page 16: “My love is dead...” and following.]]
+    [[Page 60: Footnote X.]]
+
+20. In reference to Bryant’s _Observations_ (advertised at 8s.),
+  Malone had said, “by an unwarrentable artifice of the bookseller, it
+  is divided into two, to furnish a pretence for demanding an uncommon
+  price.” Compare with this the statement on p. 2.
+
+    [[P. 2: “Many persons, no doubt, will be deterred by the size of
+    these works...”]]
+
+21. LII (1782), 128.
+
+22. See Malone’s letter of 19 Nov. 1782 in _Charlemont
+  Correspondence_, I, 422.
+
+23. See Meyerstein, _Life_, p. 474, and Warton’s comment (n. 35).
+
+24. The other passages are on pp. 19-22, 23, 25, 49-50, 51-57, and
+  57-58. The new footnotes are on pp. 10, 24-25, 29, 33, and 50.
+
+    [[Footnotes A, D, F, G, Q.]]
+
+25. That he had quoted out of Warton’s _History_ the passages from
+  Hoccleve and Bradshaw, not having other texts readily at hand,
+  indicates Malone’s haste to publish the essay originally. He
+  retained the Hoccleve passage (p. 6); his point about Warton’s basis
+  of selection is effective. But, perhaps feeling that two such
+  citations weakened the point, he took the trouble to bring the
+  quotation from Bradshaw into conformity with the other examples.
+
+    [[“Aristotle, most famous philosofre...”]]
+
+26. The reviewer for the _Gentleman’s Magazine_ commented that
+  Malone’s “levity” and his ridicule of “respectable characters” could
+  “only reflect on himself”--LII (1782), 128. According to Joseph
+  Haslewood (see n. 8), the magazine’s reviewer at this time was
+  Richard Gough, who devoted much of his life to antiquarian studies.
+  For the opposite reaction to Malone’s “cure,” see the _St. James’s
+  Chronicle_, No. 3289 (4-6 April 1782), and the _Critical Review_,
+  LIII (1782), 418.
+
+27. _Strictures Upon a Pamphlet entitled, Cursory Observations on
+  the Poems attributed to Rowley, A Priest of the Fifteenth Century_
+  (London, 1782), p. 3.
+
+28. No. 3311 (25-28 May). In a vol. of clippings at the British
+  Museum relating to the controversy (shelf-mark C.39.h.20), Joseph
+  Haslewood wrote “E. Malone” beneath this poem. Haslewood attributed
+  certain other items in the _St. James_ at this time to “G. Steevens”
+  and appears to have been reporting first-hand information.
+
+29. Today scholars attribute the _Epistle_ to William Mason, whose
+  letters to Walpole certainly imply that he wrote it but was zealous
+  to conceal the fact. See _Walpole’s Correspondence_, ed. W. S.
+  Lewis, XXIX (New Haven, 1955), 168-169, 175, 182, 189-190, 199-200;
+  and Philip Gaskell, _The First Editions of William Mason_
+  (Cambridge, 1951), p. 26. The man who published the _Epistle_,
+  however, says confidently, “this admirable Poem, very generally
+  ascribed at the time to Mr. Mason, was written by John Baynes, Esq.
+  and handed to the press by his intimate friend John Watson Reed,
+  Esq.” Mason’s furtiveness may, of course, have fooled even the
+  publisher. The periodicals of the day bear out at least Nichols’
+  word (contrary to what Gaskell says) that the work was immediately
+  received as Mason’s. Besides this pamphlet and Malone’s, Nichols
+  printed Tyrwhitt’s _Vindication_ (for the publishers T. Payne and
+  Son). In a letter to Nichols on 18 March 1782, George Steevens
+  commented, “Your house seems to be the forge from which
+  Anti-Rowleian thunders of every kind are to be issued.” For all of
+  the above information, see Nichols’ _Literary Anecdotes_, VIII
+  (London, 1815), 113.
+
+30. No. 3257 (19-22 Jan. 1782).
+
+31. _Walpole’s Correspondence_, ed. Lewis, XXIX, 195.
+
+32. LII (1782), 379-381.
+
+33. A series of articles on this very topic in Malone’s article
+  illustrates how elusive such proofs were. See the _Gentleman’s
+  Magazine_, LI (1781), 609; LII (1782), 76, 168, 229, 434, 471; LIII
+  (1783), 38-39, 127.
+
+34. _Critical Review_, LIII (1782), 418-419.
+
+35. _Enquiry_, pp. 92-93.
+
+36. _Vindication_, p. 82. A footnote refers the reader to the
+  _Cursory Observations_.
+
+37. _The Poetical Works of Thomas Chatterton_, II (London, 1890), xlv.
+
+
+
+
+BIBLIOGRAPHICAL NOTE
+
+
+Edmond Malone’s _Cursory Observations on the Poems Attributed to
+Thomas Rowley_ is reproduced from a copy at the Beinecke Library of
+Yale University.
+
+
+
+
+              CURSORY OBSERVATIONS
+
+                     On The
+
+                   P O E M S
+
+                 Attributed To
+
+                 THOMAS ROWLEY,
+
+       A PRIEST of the Fifteenth Century:
+
+                      with
+
+                  SOME REMARKS
+
+    On the COMMENTARIES on those Poems,
+      by the Rev. Dr. JEREMIAH MILLES, Dean of
+      Exeter, and JACOB BRYANT, Esq;
+
+                      and
+
+              A SALUTARY PROPOSAL
+
+  Addressed to the Friends of those Gentlemen.
+
+  The Second Edition, Revised And Augmented.
+
+
+           ---- _Ridentem dicere verum
+       Quid vetat?_      HOR.
+
+
+                  L O N D O N
+
+  Printed for J. NICHOLS, and sold by J. WALTER, Charing
+    Cross; R. FAULDER, New Bond street; J. SEWELL, Cornhill;
+    and E. NEWBERY, Ludgate street.
+
+                 M.DCC.LXXXII.
+
+       [Price One Shilling and Six-Pence]
+
+
+
+
+ADVERTISEMENT.
+
+
+The following Observations having met with a more favourable reception
+than so hasty an Essay had any title to claim, I have endeavoured to
+render them less imperfect by a revisal, and by adding such new remarks
+as a more attentive examination of a very copious subject has suggested.
+
+In the discussion of any other question, I should have treated the
+gentlemen whose arguments I have endeavoured to confute, with that
+ceremonious respect to which Literature is entitled from all her sons.
+“A commentator (as the most judicious critick of the present age has
+observed) should be grave;” but the cause of Rowley, and the mode in
+which it has been supported, are “too risible for any common power of
+face.”
+
+_January 31, 1782._
+
+
+
+
+  CURSORY OBSERVATIONS
+  on the
+  P O E M S
+  attributed to
+  THOMAS ROWLEY.
+
+
+Never surely was the course marked out by our great Satirist-- _And
+write about it, Goddess, and about it_-- more strictly followed, than in
+the compositions which the present _Rowleiomania_ has produced. Mercy
+upon us! Two octavo volumes and a huge quarto, to prove the forgeries of
+an attorney’s clerk at Bristol in 1769, the productions of a priest in
+the fifteenth century! ----Fortunate Chatterton! What the warmest wishes
+of the admirers of the greatest Genius that England ever produced have
+not yet effected, a magnificent and accurate edition of his works, with
+notes and engravings, the product of thy fertile brain has now obtained.
+--It is almost needless to say, that I allude to two new publications by
+Mr. Bryant, and the Dean of Exeter; in the _modest_ title of one of
+which, _the authenticity_ of the poems attributed to Thomas Rowley is
+said to be _ascertained_; the other gentleman indeed does not go so
+far-- he only _considers and defends their antiquity_. --Many persons,
+no doubt, will be deterred by the size of these works from reading them.
+It is not, however, so great as they may imagine; for Mr. Bryant’s book
+is in fact only a moderate octavo, though by dextrous management it has
+been divided into two volumes, to furnish an excuse (as it should seem)
+for demanding an uncommon price. Bulky, however, as these works are,
+I have just perused them, and entreat the indulgence of those who think
+the discussion of a much controverted literary point worth attention,
+while I lay before them some observations on this inexhaustible subject.
+
+And, first, I beg leave to lay it down as a fixed principle, that the
+authenticity or spuriousness of the poems attributed to Rowley cannot be
+decided by any person who has not a _taste_ for English poetry, and a
+moderate, at least, if not a critical, knowledge of the compositions of
+most of our poets from the time of Chaucer to that of Pope. Such a one
+alone is, in my opinion, a competent judge of this matter; and were a
+jury of twelve such persons empaneled to try the question, I have not
+the smallest doubt what would be their almost instantaneous decision.
+Without this critical knowledge and taste, all the Saxon literature that
+can be employed on this subject (though these learned gentlemen should
+pour out waggon instead of cart-loads of it,) will only puzzle and
+perplex, instead of illustrating, the point in dispute. Whether they are
+furnished with any portion of this critical taste, I shall now examine.
+But that I may not bewilder either my readers or myself, I will confine
+my observation to these four points. 1. The verification of the poems
+attributed to Rowley. 2. The imitations of modern authours that are
+found in them. 3. The anachronisms with which they abound. 4. The
+hand-writing of the Mss.-- the parchments, &c.
+
+
+I. It is very obvious, that the first and principal objection to the
+antiquity of these poems is the smoothness of the versification.
+A series of more than three thousand lines, however disfigured by old
+spelling, flowing for the most part as smoothly as any of Pope’s-- is a
+difficult matter to be got over. Accordingly the learned Mythologist,
+Mr. Bryant, has laboured hard to prove, either, that other poets of the
+fifteenth century have written as smoothly, or, if you will not allow
+him this, that Rowley was a prodigy, and wrote better than all his
+contemporaries; and that this is not at all incredible, it happening
+very frequently. And how, think you, gentle reader, he proves his first
+point? He produces some verses from Spenser, written about the year
+1571; some from Sir John Cheke, written in 1553; and others from Sir H.
+Lea, master of the Armoury to queen Elizabeth. These having not the
+smallest relation to the present question, I shall take no notice of
+them. He then cites some verses of blind Harry, (who knows not blind
+Harry?) written in the time of King Edward IV.; and some from _the
+Pilgrimage of the Soul_, printed by Caxton in 1483. I will not encumber
+my page by transcribing them; and will only observe, that they do not at
+all prove the point for which they are adduced, being by no means
+harmonious. But were these few verses ever so smooth, they would not
+serve to decide the matter in controversy. The question is not, whether
+in Chaucer, or any other ancient English poet, we can find a _dozen_
+lines as smooth as
+
+  “Wincing she was, as is a jolly colt,
+  “Long as a mast, and upright as a bolt--”
+
+but whether we can find _three thousand_ lines as smooth as these;
+containing the same rythm, the very collocation and combination of words
+used in the eighteenth century.
+
+Let us bring this matter to a very fair test. Any quotation from
+particular parts of old poetry is liable to suspicion, and may be
+thought to be selected by the advocates on one side as remarkably
+harmonious, or by those on the other as uncommonly rugged and uncouth.
+I will therefore transcribe the first four lines of as many ancient
+poems as are now lying before me; and I request that they may be
+compared with the opening of _the Battle of Hastings_, No. 1, the piece
+which happens to stand first in the new quarto edition of Chatterton’s
+works.
+
+Divested of its old spelling, which is only calculated to mislead the
+reader, and to assist the intended imposition, it begins thus:
+
+  “O Christ, it is a grief for me to tell
+  “How many a noble earl and val’rous knight
+  “In fighting for king Harold nobly fell,
+  “All slain in Hastings’ field, in bloody fight.”
+
+Or, as Chatterton himself acknowledged this to be a forgery, perhaps it
+will be more proper to quote the beginning of _the Battle of Hastings_,
+No. 2, which he asserted to be a genuine, ancient composition:
+
+  “O Truth! immortal daughter of the skies,
+  “Too little known to writers of these days,
+  “Teach me, fair saint, thy passing worth to prize,
+  “To blame a friend, and give a foeman praise.”
+
+The first four lines of _the Vision of Pierce Plowman_, by William
+(or Robert) Langland, who flourished about the year 1350, are as
+follows: [I quote from the edition printed in 1561.]
+
+  “In a summer season, when set was the sunne,
+  “I shope me into shroubs, as I a shepe were,
+  “In habit as an hermet, unholye of werkes,
+  “Went wide in the werlde, wonders to here.”
+
+Chaucer, who died in 1400, opens thus: [Tyrwhitt’s edit. 1775.]
+
+  “Whanne that April with his shoures sote
+  “The droughte of March hath perced to the rote,
+  “And bathed every veine in swiche licour,
+  “Of whiche vertue engendred is the flour--.”
+
+The _Confessio Amantis_ of Gower, who died in 1402, begins thus:
+[Berthelette’s edit. 1532.]
+
+  “I maye not stretche uppe to the heven
+  “Myn honde, ne set al in even
+  “This worlde, whiche ever is in balaunce,
+  “It stant not in my suffisaunce----.”
+
+Of Occleve’s translation of Egidius _de Regimine principum_, not having
+it before me, I cannot transcribe the first lines. But here are the
+first that Mr. Warton has quoted from that poet, and he probably did not
+choose the worst. I should add, that Occleve wrote in the reign of King
+Henry V., about the year 1420:
+
+  “Aristotle, most famous philosofre,
+  “His epistles to Alisaunder sent,
+  “Whos sentence is wel bet then golde in cofre,
+  “And more holsum, grounded in trewe entent----.”
+
+The following is the first stanza of _the Letter of Cupide_, written by
+the same authour, and printed in Thynne’s edition of Chaucer, 1561:
+
+  “Cupide, unto whose commaundement
+  “The gentill kinrede of goddes on hie
+  “And people infernall ben obedient,
+  “And al mortal folke serven busely,
+  “Of the goddesse sonne Cythera onely,
+  “To al tho that to our deite
+  “Ben subjectes, hertely greting sende we.”
+
+Of John Lydgate’s _Historie of Troye_, which was finished about the year
+1420, this is the beginning: [edit. 1555.]
+
+  “O myghty Mars, that with thy sterne lyght
+  “In armys hast the power and the myght,
+  “And named arte from easte tyl occident
+  “The myghty lorde, the god armipotent,
+  “That with the shininge of thy stremes rede
+  “By influence dost the brydell lede
+  “Of chivalrie, as soveraygne and patron--.”
+
+_The Hystorie of King Boccus and Sydracke_, &c. printed in 1510, and
+written by Hugh Campeden in the reign of Henry VI. i.e. some time
+between the year 1423 and 1461, begins thus:
+
+  “Men may finde in olde bookes,
+  “Who soo yat in them lookes,
+  “That men may mooche here,
+  “And yerefore yff yat yee wolle lere----.”
+
+Of Thomas Chestre’s poems, entitled _Sir Launfale_, written about the
+same time, these are the first lines:
+
+  “Le douzty Artours dawes
+  “That held Engelond in good lawe,
+  “Ther fell a wondyr cas
+  “Of a ley that was ysette----.”
+
+The first lines that I have met with of Hardynge’s _Chronicle of England
+unto the reigne of king Edward the Fourth, in verse_, [composed about
+the year 1470, and printed in 1543, 4to] are as follows:
+
+  “Truly I heard Robert Ireliffeè say,
+  “Clarke of the Greené Cloth, and that to the houshold
+  “Came every daye, forth most part alway,
+  “Ten thousand folke, by his messes told--.”
+
+The following is the only specimen that I have seen of _The Ordinal_,
+a poem written by Thomas Norton, a native of Bristol, in the reign of
+King Edward IV.
+
+  “Wherefore he would set up in higth
+  “That bridge, for a wonderful sight,
+  “With pinnacles guilt, shinynge as goulde,
+  “A glorious thing for men to behoulde.”
+
+The poem on _Hawking, Hunting, and Armoury_, written by Julian Barnes in
+the reign of the same monarch, (about 1481,) begins thus:
+
+  “My dere sones, where ye fare, by frith, or by fell,
+  “Take good hede in this tyme, how Tristram woll tell,
+  “How many maner bestes of venery there were,
+  “Listenes now to our dame, and ye shullen here.”
+
+The only extract that I have met with from William of Naffyngton’s
+_Treatise on the Trinitie_, translated from John of Waldenby, about the
+year 1480, runs thus:
+
+  “I warne you first at the begynnynge,
+  “That I will make no vaine carpynge,
+  “Of dedes of armes, ne of amours,
+  “As does Mynstrellis and Gestours----.”
+
+I cannot adhere to the method that I have in general observed, by
+quoting the first lines of _the Moral Proverbes of Christyne_ of Pyse,
+translated in metre by earl Rivers, and printed by Caxton in the
+seventeenth year of Edward IV. (1478), not having a copy of that scarce
+book. However, as this is the era of the pretended Rowley, I cannot
+forbear to transcribe the last stanza of that poem, as I find it cited
+in an account of this accomplished nobleman’s works:
+
+  “Of these sayynges Christyne was the aucturesse,
+  “Which in makyn had such intelligence,
+  “That thereof she was mireur and maistresse;
+  “Her werkes testifie thexperience;
+  “In Frensh languaige was written this sentence;
+  “And thus englished doth hit reherse
+  “Antoin Widevylle therle Ryvers.”
+
+The first stanza of _the Holy Lyfe of Saynt Werburge_, written by Henry
+Bradshaw, about the year 1500, and printed in 1521, is this:
+
+  “When Phebus had ronne his cours in sagittari,
+  “And Capricorne entred a sygne retrograt,
+  “Amyddes Decembre, the ayre colde and frosty,
+  “And pale Lucyna the erthe dyd illuminat,
+  “I rose up shortly fro my cubycle preparat,
+  “Aboute mydnyght, and cast in myne intent
+  “How I myght spende the tyme convenyent.”
+
+Stephen Hawes’s celebrated poem, entitled _the Passetyme of pleasure,
+or the Historie of Graunde Amour and La bell Pucell_, &c. (written about
+the year 1506, and printed by Wynkyn de Worde in 1517,) being now before
+me, I am enabled to transcribe the first lines:
+
+  “When Phebus entred was in Geminy,
+  “Shinyng above, in his fayre golden sphere,
+  “And horned Dyane, then but one degre
+  “In the crabbe had entred, fayre and cleare----.”
+
+Of the _Example of Virtue_[A], written by the same authour, and printed
+by Wynkyn de Worde in 1530, this is the first stanza:
+
+  “In September, in fallynge of the lefe,
+  “Whan Phebus made his inclynacyon,
+  “And all the whete gadred was in the shefe,
+  “By radyaunt hete and operacyon,
+  “When the vyrgyn had full dominacyon,
+  “And Dyane entred was one degre
+  “Into the sygne of Gemyne----”
+
+    [Footnote A: This very rare poem escaped the researches of the
+    learned and ingenious Mr. Warton, who doubted whether it had ever
+    been printed. See his _Hist. of Eng. Poetry_, vol. II. p. 211.]
+
+The first piece of Skelton, most of whose poems were written between
+1509 and 1529, begins thus:
+
+  “Arrestynge my sight towarde the zodiake
+  “The signes xii for to beholde a farre,
+  “When Mars retrogaunt reversed his backe,
+  “Lorde of the yere in his orbicular----.”
+
+The reader has now before him specimens of ancient poetry, during a
+period of near two hundred years; that is, for a century before the
+pretended Thomas Rowley is said to have written, and for near a century
+afterwards. They are for the most part taken from the commencement of
+the works of the several authours; so that there can be no suspicion of
+their having been selected, on account of their uncouthness, to prove a
+particular point. I know not whether I flatter myself; but by making
+these short extracts, I imagine that I have thrown more light upon the
+subject now under consideration, than if I had transcribed twenty pages
+of Junius, and as many of Skinner’s _Etymologicon_, or Doomsday-book.
+Poetical readers may now decide the question for themselves; and I
+believe they will very speedily determine, that the lines which have
+been quoted from Chatterton’s poems were not written at any one of the
+eras abovementioned, and will be clearly of opinion with Mr. Walpole,
+(whose unpublished pamphlet on this subject, printed at Strawberry Hill,
+shows him to be as amiable as he is lively and ingenious,) that this
+wonderful youth has indeed “copied ancient language, but ancient style
+he has never been able to imitate:” not for want of genius, for he was
+perhaps the second poetical genius that England has produced, but
+because he attempted something too arduous for human abilities to
+perform. My objection is not to single words, to lines or half-lines of
+these compositions (for here the advocates for their authenticity always
+shift their ground, and plead, that any particular exceptionable word or
+passage was the interpolation of Chatterton); but it is to their whole
+structure, style, and rythm. Many of the stones which this ingenious boy
+employed in his building, it must be acknowledged, are as old as those
+at Stone-henge; but the beautiful fabrick that he has raised is tied
+together by modern cement, and is covered with a stucco of no older date
+than that of Mess. Wyat and Adams.
+
+To be more particular: In what poet of the time of Edward IV., or for a
+century afterwards, will the Dean of Exeter find what we frequently meet
+with in the _Battle of Hastings_, No. 1, and No. 2, at the conclusion of
+speeches-- “_Thus he_;”-- “_Thus Leofwine_;”-- “_He said_; and as,” &c?
+In none I am confident. This latter is a form of expression in heroick
+poetry, that Pope has frequently made use of in his Homer (from whence
+Chatterton undoubtedly copied it), and was sometimes employed by Dryden
+and Cowley; but I believe it will not be easy to trace it to Harrington
+or Spenser; most assuredly it cannot be traced up to the fifteenth
+century. ----In what English poem of that age will he find similies
+dressed in the modern garb with which Chatterton has clothed them
+throughout these pieces?-- “_As when_ a flight of cranes, &c.-- _So_
+prone,” &c.-- “_As when_ a drove of wolves, &c. _So_ fought,” &c. &c.--
+If the reverend Antiquarian can find this kind of phraseology in any one
+poet of the time of King Edward IV., or even for fifty years afterwards,
+I will acknowledge the antiquity of every line contained in his quarto
+volume. Most assuredly neither he nor his colleague can produce any such
+instance. Even in the latter end of the _sixteenth_ century, (a large
+bound from 1460,) poetical comparisons, of the kind here alluded to,
+were _generally_ expressed either thus-- “_Look how_ the crown that
+Ariadne wore, &c. _So_,” &c. “_Look how_ a comet at the first appearing,
+&c. _So_ did the blazing of my blush,” &c. “_Look how_ the world’s poor
+people are amazed, &c. _So_,” &c.-- Or thus: “_Even as_ an empty eagle
+sharpe by fast, &c.-- _Even so_,” &c.-- “_Like as_ a taper burning in
+the darke, &c. _So_,” &c.-- Such is the general style of the latter end
+of the sixteenth century; though sometimes (but very rarely) the form
+that Chatterton has used was also employed by Spenser and others. In the
+preceding century, if I am not much mistaken, it was wholly unknown.
+
+But I have perhaps dwelled too long on this point. Every poetical reader
+will find instances of modern phraseology in almost every page of these
+spurious productions. I will only add, before I quit the subject of
+style, that it is observable, that throughout these poems we never find
+a noun in the plural number joined with a verb in the singular; an
+offence against grammar which every ancient poet, from the time of
+Chaucer to that of Shakespeare, has frequently committed, and from which
+Rowley, if such a poet had existed, would certainly not have been
+exempted.
+
+With respect to the stanza that Chatterton has employed in his two poems
+on the _Battle of Hastings_, Mr. Bryant and the Dean of Exeter seem to
+think that they stand on sure ground, and confidently quote Gascoigne,
+to prove that such a stanza was known to our old English poets. “The
+greatest part of Chaucer’s Canterbury Tales (says the latter gentleman,
+p. 30), and his Legend of Good Women, are in the decasyllabick couplet;
+but _in general_ Lidgate’s, Occleve’s, _Rowley’s_, Spenser’s, and a
+great part of Chaucer’s poetry, is written in stanzas of _seven_,
+_eight_, or _nine_ decasyllabick lines; _to which Rowley _generally_
+adds a tenth, and closes it with an Alexandrine_. All these may be
+ranked under the title of RITHME ROYAL; of which Gascoigne, in his
+INSTRUCTIONS FOR ENGLISH VERSE, has given the following description:
+“Rithme Royal is a verse of ten syllables, and _seven_ such verses make
+a staffe, whereof the first and third do answer acrosse in the
+terminations and rime; the second, fourth, and fifth, do likewise answer
+eche other in terminations; and the two last combine and shut up the
+sentence: this hath been called Rithme Royal, and surely it is a royal
+kind of verse, serving best for grave discourses.” I leave it to the
+reverend Antiquarian to reconcile the contradictory assertions with
+which the passage I have now quoted sets out; and shall only observe,
+that we have here a great parade of authority, but nothing like a proof
+of the existence of such a stanza as Chatterton has used, in the time of
+K. Edward IV.; and at last the Commentator is obliged to have recourse
+to this flimzy kind of reasoning: “The different number of lines
+contained in the stanza makes no material alteration in the structure of
+this verse, the stanza always concluding with a couplet: in that of six
+lines, the four first rime alternately; in that of nine, wherein Spenser
+has composed his Fairy Queen, the sixth line rimes to the final couplet,
+and the seventh to the fifth: _Rowley having added another line to the
+stanza, the eighth rimes with the sixth._” --The upshot of the whole is,
+that Rowley himself, or rather Chatterton, is at last the only authority
+to show that such a stanza was employed at the time mentioned. And it is
+just with this kind of circular proof that we are amused, when any very
+singular fact is mentioned in Chatterton’s verses: “This fact, say the
+learned Commentators, is also minutely described by Rowley in the YELLOW
+ROLL, which wonderfully confirms the authenticity of these poems;”
+i.e. one forgery of Chatterton in prose, wonderfully supports and
+authenticates another forgery of his in rhyme. --To prevent the Dean
+from giving himself any farther trouble in searching for authorities to
+prove that the stanza of the _Battle of Hastings_ (consisting of two
+quatrains rhyming alternately, and a couplet,) was known to our early
+writers, I beg leave to inform him, that it was not used till near three
+centuries after the time of the supposed Rowley; having been, if I
+remember right, first employed by Prior, who considered it as an
+improvement on that of Spenser.
+
+
+II. The second point that I proposed to consider is, the imitations of
+Pope’s Homer, Shakspeare, Dryden, Rowe, &c. with which these pieces
+abound. And here the cautious conduct of Chatterton’s new commentator is
+very remarkable. All the similies that poor Chatterton borrowed from
+Pope’s or Chapman’s Homer, to embellish his _Battle of Hastings_,
+are exhibited boldly; but then “they were all clearly copied from the
+original of the Grecian Bard,” in whom we are taught, that Rowley was
+better read than any other man, during the preceding or subsequent
+century: but in the tragedy of _Ella_, and other pieces, where we in
+almost every page meet with lines and half-lines of Shakspeare, Dryden,
+&c. the reverend Antiquarian is less liberal of his illustrations.
+Indeed when the fraud is so manifest as not to be concealed, the passage
+is produced. Thus in _Ella_ we meet
+
+  “My love is dead,
+  “Gone to her death-bed,
+  “All under the willow tree----”
+
+and here we are told, “the burthen of this roundelay very much resembles
+that in Hamlet:”
+
+  “And will he not come again?
+  “And will he not come again?
+  “No, no, he is dead;
+  “Go to thy death-bed,
+  “He never will come again.”
+
+But when we meet-- “Why thou art all that pointelle can bewreen”--
+evidently from Rowe-- “Is she not more than painting can express?”--
+the editor is very prudently silent.
+
+So also in the _Battle of Hastings_ we find
+
+  “In agonies and pain he then did lie,
+  “While life and death strove for the mastery----”
+
+clearly from Shakspeare:
+
+  “That Death and Nature do contend about them,
+  “Whether they live or die.”
+
+So also in _Ella_:
+
+  “Fen-vapours blast thy every manly power!”
+
+taken from the same author:
+
+  “As wicked _dew_ as e’er my mother brushed
+  “With raven’s feather from unwholesome _fen_,
+  “Light on you both!”  [_Tempest._]
+
+  “Ye _fen-suck’d fogs_, drawn by the powerful sun,
+  “To fall and _blast_ &c.”  [_King Lear._]
+
+Thus again in _Ella_:
+
+  “O thou, whate’er thy name, or Zabalus or Queede,
+  “Come steel my sable spright, for fremde and doleful deed--”
+
+from the _Dunciad_:
+
+  “O thou, whatever title please thine ear,
+  “Dean, Drapier, &c.”
+
+But in all these, and twenty other places, not a word is said by the
+editor. --I am ashamed of taking up the time of my readers in discussing
+such points as these. Such plain and direct imitations as Chatterton’s,
+could scarcely impose on a boy of fifteen at Westminster School.
+
+In the _Battle of Hastings_ we meet
+
+  “His noble soul came rushing from the wound--”
+
+from Dryden’s Virgil--
+
+  “And the disdainful soul came rushing through the wound--[B]”
+
+and in Sir Charles Bawdin,
+
+  “And tears began to flow;”
+
+Dryden’s very words in _Alexander’s Feast_. But it was hardly possible,
+says the learned Commentator, for these thoughts to be expressed in any
+other words. Indeed! I suppose five or six different modes of expressing
+the latter thought will occur to every reader.
+
+    [Footnote B: It is observable, that this is the last line of the
+    translation of the Æneid.]
+
+Can it be believed, that every one of the lines I have now quoted, this
+gentleman maintains to have been written by a poet of the fifteenth
+century (for all that Chatterton ever did, according to his system, was
+supplying lacunæ, if there were any in the Mss., or modernizing a few
+antiquated phrases)? He argues indeed very rightly, that the _whole_ of
+these poems must have been written by _one_ person. “Two poets,
+(he observes, p. 81,) so distant in their æra [as Rowley and
+Chatterton], so different from each other in their age and disposition,
+could not have united their labours [he _means_, their labours could not
+unite or coalesce] in the same poem to any effect, without such apparent
+difference in their style, language, and sentiments, as would have
+defeated Chatterton’s intent of imposing his works on the public, as the
+original and entire composition of Rowley.” --Most readers, I suppose,
+will more readily agree with his premises than his conclusion. Every
+part of these poems was undoubtedly written by one person; but that
+person was not Rowley, but Chatterton.
+
+What reason have we to doubt, that he who imitated all the English poets
+with whom he was acquainted, likewise borrowed his Homerick images from
+the versions of Chapman and Pope; in the latter of which he found these
+allusions dressed out in all the splendid ornaments of the eighteenth
+century?
+
+In the new commentary, indeed, on the _Battle of Hastings_, we are told
+again and again, that many of the similies which the poet has copied
+from Homer, contain circumstances that are found in the Greek, but
+omitted in Mr. Pope’s translation. “Here therefore we have a certain
+proof that the authour of these poems could read Homer in the
+original[C].” But the youngest gownsman at Oxford or Cambridge will
+inform the reverend critick, that this is a _non sequitur_; for the poet
+might have had the assistance of _other_ translations, besides those of
+Pope; the English prose version from that of Madame Dacier, the
+translations by Chapman and by Hobbes. Nor yet will it follow from his
+having _occasionally_ consulted _these_ versions, that he was _not at
+all indebted to Pope_; as this gentleman endeavours to persuade us in
+p. 82. and 106. He availed himself, without doubt, of them all. Whenever
+the Commentator can show a single thought in these imitations of the
+Grecian Bard, that is found in the original, and not in _any_ of those
+translations, I will readily acknowledge that _the Battle of Hastings_,
+and all the other pieces contained in his quarto volume, were written by
+Rowley, or Turgot, or Alfred the Great, or Merlin, or whatever other
+existent or non-existent ancient he or Mr. Bryant shall choose to
+ascribe them to. Most assuredly no such instance can be pointed out.
+
+    [Footnote C: To show how very weak and inconclusive the arguments
+    of Chatterton’s new Editor are on this head, I shall cite but one
+    passage, from which the reader may form a judgment of all the
+    other illustrations with which he has decorated the _Battle of
+    Hastings_:
+
+      ----“Siere de Broque an arrowe longe lett _flie_,
+      Intending Herewaldus to have sleyne;
+      It _miss’d_, but hytte Edardus on the eye,
+      And at his pole came out with horrid payne.”
+
+    So Homer (says the Commentator):
+
+      ------ὀϊστὸν ἀπὸ νευρῆφιν ἴαλλεν
+      Ἕκτορος ἀντικρὺ, βαλέειν δὲ ἑ ἵετο θυμός·
+      Καὶ τοῦ μέν ῥ’ ἀφάμαρθ’ ὁ δ’ ἀμύμονα Γοργυθίωνα
+      Υἱὸν ἐῢν Πριάμοιο, κατὰ στῆθος βάλεν ἰῷ.
+
+        Il. Θ. v. 300.
+
+      “He said, and twang’d the string, the weapon _flies_
+      “At _Hector_’s breast, and sings along the skies;
+      “He _miss’d_ the mark, but pierc’d Gorgythio’s heart.”
+
+        POPE, B. viii. v. 365.
+
+    “The imitation here seems to be very apparent, but it is the
+    imitation of Homer, and not of Pope; both Homer and Rowley express
+    the intention of the archer, which is dropped by the translator of
+    the Greek poet.” Chatterton’s _Poems_, quarto, p. 83. Edit.
+    Milles.
+
+    To my apprehension, the intention of the archer is very clearly
+    expressed in Pope’s lines; but it is unnecessary to contest that
+    point, for lo! thus has old Chapman translated the same passage:
+
+      “This said, another arrow forth from his stiffe string he sent
+      “At Hector, _whom he long’d to wound_; but still amisse it went;
+      “His shaft smit faire Gorgythion.”
+
+    Of such reasoning is the new Commentary on Chatterton’s poems
+    composed.]
+
+I do not however rest the matter here. What are we to conclude, if in
+Chatterton’s imitations of Homer, we discover some circumstances that
+exist in Pope’s translation, of which but very faint traces appear in
+the original Greek? Such, I believe, may be found. It is observable,
+that in all the similies we meet with many of the very rhymes that Pope
+has used. Will this Commentator contend, that the learned Rowley not
+only understood Homer, at a time when his contemporaries had scarcely
+heard of his name, but also foresaw in the reign of Edward IV. those
+additional graces with which Mr. Pope would embellish him three hundred
+years afterwards?
+
+
+III. The Anachronisms come next under our consideration. Of these also
+the modern-antique compositions which we are now examining, afford a
+very plentiful supply; and not a little has been the labour of the
+reverend Commentator to do away their force. The first that I have
+happened to light upon is in the tragedy of _Ella_, p. 212:
+
+  “She said, as her white hands white hosen were knitting.
+  “What pleasure it is to be married!”
+
+It is certain that the art of knitting stockings was unknown in the time
+of king Edward IV., the era of the pretended Rowley. This difficulty,
+therefore, was by all means to be gotten over. And whom of all men,
+think you, courteous reader, this sagacious editor has chosen as an
+authority to ascertain the high antiquity of this practice? No other
+than our great poet Shakspeare; who was born in 1564, and died in 1616.
+Poor Shakspeare, who gave to all the countries in the world, and to all
+preceding eras, the customs of his own age and country, he is the
+authour that is chosen for this purpose! “If this Scotch art (says the
+Commentator) was so far advanced in a foreign country in the beginning
+of the sixteenth century, can there be a doubt of its being known in
+England half a century earlier? At least the art of knitting, and
+weaving bone-lace, was _more ancient_ than queen Elizabeth’s time;
+for Shakspeare speaks of _old_ and _antick_ songs, which
+
+  “The spinsters and the _knitters_ in the sun,
+  “And the free maids that _weave their thread with bone_,
+  “Did use to chaunt.”
+
+    _Twelfth Night_, Act II. Sc. 4.
+
+It might be sufficient to observe, that the old songs which were
+chaunted by the spinsters and knitters of Shakspeare’s days, do not very
+clearly ascertain the antiquity of the _operation_ on which they were
+employed; for I apprehend, though the art of knitting had not been
+invented till 1564, when the poet was born, the practisers of it might
+yet the very next day after it was known, sing ballads that were written
+a hundred years before. --In order, however, to give some colour to the
+forced inference that the commentator has endeavoured to extract from
+this passage, he has misquoted it; for Shakspeare does not say, as he
+has been represented, that the spinsters of old time _did_ use to chaunt
+these songs: his words are,
+
+  “O fellow, come, the song we had last night;
+  “Mark it, Cesario, it is old and plain:
+  “The spinsters and the knitters in the sun,
+  “And the free maids that weave their thread with bones,
+  “_Do_ use to chaunt it.”
+
+These lines, it must be acknowledged, prove that the art was _as_ old as
+the time of Shakspeare, but not one hour _more_ ancient; nor would they
+answer the Commentator’s purpose, even if they had been uttered by
+Portia in _Julius Cæsar_, by the Egyptian queen in _Antony and
+Cleopatra_, or by Nestor in _Troilus_ and _Cressida_; for, as I have
+already observed, our great poet gave to all preceding times the customs
+of his own age. --If the learned editor should hereafter have occasion
+to prove, that _Dick_ and _Hob_ were common names at Rome, and that it
+was an usual practice of the populace there, two thousand years ago, to
+throw up their caps in the air, when they were merry, or wished to do
+honour to their leaders, I recommend the play of _Coriolanus_ to his
+notice, where he will find proofs to this purpose, all equally
+satisfactory with that which he has produced from _Twelfth Night_,
+to show the antiquity of the art of knitting stockings in England.
+
+Many of the poems and prose works attributed to Rowley, exhibit
+anachronisms similar to that now mentioned. Bristol is called a city,
+though it was not one till long after the death of king Edward IV.
+Cannynge is spoken of as possessing a _Cabinet_ of coins and other
+curiosities[D], a century at least before any Englishman ever thought of
+forming such a collection. _Drawings_, in the modern and technical sense
+of delineations on paper or vellum, with chalks or Indian ink, are
+mentioned a hundred and fifty years before the word was ever used with
+that signification. _Manuscripts_ are noticed as rarities, with the idea
+at present annexed to them; and eagerly sought after and purchased by
+Rowley, at a time when printed books were not known, and when all the
+literature of the times was to be found in manuscripts alone. All these
+anachronisms _decisively_ prove the spuriousness of these compositions.
+Other anachronisms may be traced in the poems before us, but they are of
+less weight, being more properly poetical deviations from _costume_.
+However I will briefly mention them. Tilts and tournaments are mentioned
+at a period when they were unknown. _God and my Right_ is the word used
+by duke William in _the Battle of Hastings_, though it was first used by
+king Richard I. after the victory at Grizors; and hatchments and
+armorial bearings, which were first seen at the time of the Croisades,
+are introduced in other places with equal impropriety.
+
+    [Footnote D: Chatterton in his description of Cannynge’s love of
+    the arts, &c. seems often to have had Mr. Walpole in his eye;
+    which was very natural, that gentleman being probably the first
+    person who was at once a man of literature and rank, of whose
+    character he had any knowledge. --Thus, Mr. W. having a very
+    curious collection of pictures, prints, &c. Cannynge too must be
+    furnished with a cabinet of coins and other rarities; and there
+    being a private printing-press at Strawberry-Hill, (the only one
+    perhaps in England,) the Bristol Mayor must likewise have one.
+    It is in one of his letters that has not yet been printed, that
+    Chatterton mentions his having read an account in the Rowley Mss.
+    of Cannynge’s intention to set up a _printing-press_ at Westbury!
+    This merchant died in 1474; during the greater part of his life
+    printing was unknown; and even at the time of his death there was
+    but one printing-press in this kingdom, namely, that set up by
+    Caxton, in the Almonry of Westminster Abbey, about the year 1471.]
+
+One of Chatterton’s earliest fictions was an ode or short poem of two or
+three stanzas in _alternate rhyme_, on the death of that monarch, which
+he sent to Mr. Walpole, informing him at the same time, that it had been
+found at Bristol with many other ancient poems. This, however, either C.
+or his friends thought proper afterwards to suppress. It is not,
+I believe, generally known, that this is the era which was originally
+fixed upon by this wonderful youth for his forgeries, though afterwards,
+as appears from Mr. Walpole’s pamphlet already mentioned, having been
+informed that no such metres as he exhibited as ancient, were known in
+the age of Richard I., he thought proper to shift the era of his
+productions. It is remarkable, that one line yet remains in these poems,
+evidently written on the first idea:
+
+  “Richard of lion’s heart to fight _is_ gone.”
+
+“It is very improbable, as the same gentleman observes, that Rowley,
+writing in the reign of Henry VI., or Edward IV., as is now pretended,
+or in that of Henry IV., as was assigned by the credulous, before they
+had digested their system, should incidentally, in a poem on another
+subject, say, _now_ is Richard &c.” Chatterton, having stored his mind
+with images and customs suited to the times he meant originally for the
+era of his fictitious ancient, introduced them as well as he could in
+subsequent compositions. One other singular circumstance, which I learn
+from the same very respectable authority, I cannot omit mentioning.
+Among the Mss. that Chatterton pretended to have discovered in the
+celebrated chest at Bristol was a painter’s bill[E], of which, like the
+rest, he produced only a copy. Great was the triumph of his advocates.
+Here was an undoubted relick of antiquity! And so indeed it was; for it
+was faithfully copied from the first volume of the _Anecdotes of
+Painting_, printed some years before; and had been originally
+transcribed by Vertue from some old parchments in the church of St. Mary
+Redcliffe at Bristol (a person, by the by, who was indefatigable in the
+pursuit of every thing that related to our ancient poets, and who
+certainly at the same time would have discovered some traces of the
+pretended Rowley, if any of his poetry had been lodged in that
+repository). Can there be a doubt, that he who was convicted of having
+forged this paper, and owned that he wrote the first _Battle of
+Hastings_, and the _Account of the ceremonies observed at the opening of
+the Old Bridge_, was the authour of all the rest also? Were he charged
+in a court of justice with having forged various notes, and clear
+evidence given of the fact, corroborated by the additional testimony of
+his having on a former occasion fabricated a Will of a very ancient
+date, would a jury hesitate to find him guilty, because two purblind old
+women should be brought into court, and swear that the Will urged
+against him had such an ancient appearance, the hand-writing and
+language by which the bequests were made was so old, and the parchment
+so yellow, that they could not but believe it to be a genuine deed of a
+preceding century? --But I have insensibly wandered from the subject of
+Anachronisms. So much, however, has been already said by others on this
+point, that I will now hasten to the last matter which I meant to
+consider, _viz._ the Mss. themselves, which are said to have contained
+these wonderful curiosities.
+
+    [Footnote E: This fraud having been detected, we hear no more of
+    it; but in the room of it has been substituted _A List of skyllde
+    Payncterrs and Carvellers_, which is now said to have been found
+    along with the other Mss. and to be in the possession of Mr.
+    Barret, of Bristol.]
+
+
+IV. And on this head we are told by Mr. B. that the hand-writing,
+indeed, is not that of any particular age, but that it is very difficult
+to know precisely the era of a Ms., especially when of great antiquity;
+that our kings wrote very different hands, and many of them such, that
+it is impossible to distinguish one from the other; and that the
+diminutive size of the parchments on which these poems were written,
+(of which, I think, the largest that these Commentators talk of is eight
+inches and a half long, and four and a half broad[F],) was owing to the
+great scarcity of parchment in former times, on which account the lines
+often appear in continuation, without regard to the termination of the
+verse.
+
+    [Footnote F: At the bottom of each sheet of old deeds (of which
+    there were many in the Bristol chest) there is usually a blank
+    space of about four or five inches in breadth. C. therefore found
+    these slips of discoloured parchment at hand.]
+
+Most of these assertions are mere _gratis dicta_, without any foundation
+in truth. I am not very well acquainted with the ancient Mss. of the
+fourteenth or fifteenth century: but I have now before me a very fair
+Ms. of the latter end of the sixteenth century, in which the characters
+are as regular and uniform as possible. If twenty Mss. were produced to
+me, some of that era, and others of eras prior and subsequent to it,
+I would undertake to point out the hand-writing of the age of queen
+Elizabeth, which is that of the Ms. I speak of, from all the rest; and I
+make no doubt that persons who are conversant with the hand-writing of
+preceding centuries, could with equal precision ascertain the age of
+more ancient Mss. than any that I am possessed of. But the truth is,
+(as any one may see, who accurately examines the _fac simile_ exhibited
+originally by Mr. Tyrwhitt in his edition of these poems, and now again
+by the Dean of Exeter in the new edition of them,) that Chatterton could
+not, accurately and for any continuance, copy the hand-writing of the
+fifteenth century; nor do the Mss. that he produced exhibit the
+hand-writing of _any_ century whatever. He had a turn for drawing and
+emblazoning; and he found, without doubt, some ancient deeds in his
+father’s old chest. These he copied to the best of his power; but the
+hand-writing usually found in deeds is very different from the current
+hand-writing of the same age, and from that employed in transcribing
+poems. To copy even these deeds to any great extent, would have been
+dangerous, and have subjected him to detection. Hence it was, that he
+never produced any parchment so large as a leaf of common folio.
+--What we are told of the great scarcity of parchment formerly, is too
+ridiculous to be answered. Who has not seen the various beautiful Mss.
+of the works of Gower and Chaucer, in several publick and private
+libraries, on parchment and on vellum, a small part of any one of which
+would have been sufficient to contain all the poems of Rowley, in the
+manner in which they are pretended to have been written? --But any
+speculation on this point is but waste of time. If such a man as Rowley
+had existed, who could troul off whole verses of Shakspeare, Dryden, and
+Pope, in the middle of the fifteenth century, he would have had half the
+parchment in the kingdom at his command; statues would have been erected
+to him as the greatest prodigy that the world had ever seen; and in a
+few years afterwards, when printing came to be practised, the presses of
+Caxton and Wynkyn de Worde would have groaned with his productions.
+
+Much stress is laid upon Chatterton’s having been seen frequently
+writing, with old crumpled parchments before him. No doubt of the fact.
+How else could he have imitated old hands in _any_ manner, or have been
+able to form even the few pretended originals that he did produce? But
+to whom did he ever show these old Mss. when he was transcribing them?
+To whom did he ever say-- “Such and such characters denote such letters,
+and the verse that I now show you in this old parchment is of this
+import?” Whom did he call upon, knowing in ancient hands, (and such
+undoubtedly he might have found,) to establish, by the testimony of his
+own eyes, the antiquity, not of one, but of all these Mss? If an
+ingenuous youth (as Mr. W. justly observes), “enamoured of poetry, had
+really found a large quantity of old poems, what would he have done?
+Produced them cautiously, and one by one, studied them, and copied their
+style, and exhibited sometimes a genuine, and sometimes a fictitious
+piece? or blazed the discovery abroad, and called in every lover of
+poetry and antiquity to participation of the treasure? The characters of
+imposture are on every part of the story; and were it true, it would
+still remain one of those improbable wonders, which we have no reason
+for believing.”
+
+What has been said already concerning forged compositions, cannot be too
+often repeated. If these Mss. or any part of them exist, why are they
+not deposited in the British Museum, or some publick library, for the
+examination of the curious? Till they are produced, we have a right to
+use the language that Voltaire tells us was used to the Abbé Nodot.
+“Show us your Ms. of Petronius, which you say was found at Belgrade, or
+consent that nobody shall believe you. It is as false that you have the
+genuine satire of Petronius in your hands, as it is false that that
+ancient satire was the work of a consul, and a picture of Nero’s
+conduct. Desist from attempting to deceive the learned; you can only
+deceive the vulgar.”
+
+Beside the marks of forgery already pointed out, these poems bear yet
+another badge of fraud, which has not, I believe, been noticed by any
+critick. Chatterton’s verses have been shown to be too smooth and
+harmonious to be genuine compositions of antiquity: they are liable at
+the same time to the very opposite objection; they are too old for the
+era to which they are ascribed. This sounds like a paradox; yet it will
+be found to be true. The versification is too modern; the language often
+too ancient. It is not the language of any particular period of
+antiquity, but of _two entire_ centuries. --This is easily accounted
+for. Chatterton had no other means of writing old language, but by
+applying to glossaries and dictionaries, and these comprise all the
+antiquated words of preceding times; many provincial words used perhaps
+by a northern poet, and entirely unknown to a southern inhabitant; many
+words also, used in a singular sense by our ancient bards, and perhaps
+by them only once. Chatterton drawing his stores from such a copious
+source, his verses must necessarily contain words of various and
+widely-distant periods. It is highly probable, for this reason, that
+many of his lines would not have been understood by one who lived in
+the fifteenth century. --That the diction of these poems is often too
+obsolete for the era to which they are allotted[G], appears clearly from
+hence; many of them are much more difficult to a reader of this day,
+without a glossary, than any one of the metrical compositions of the age
+of Edward IV. Let any person, who is not very profoundly skilled in the
+language of our elder poets, read a few pages of any of the poems of
+the age of that king, from whence I have already given short extracts,
+without any glossary or assistance whatsoever; he will doubtless meet
+sometimes with words he does not understand, but he will find much
+fewer difficulties of this kind, than while he is perusing the poems
+attributed to Rowley. The language of the latter, without a perpetual
+comment, would in most places be unintelligible to a common reader. He
+might, indeed, from the context, _guess_ at something like the meaning;
+but the lines, I am confident, will be found, on examination, to contain
+twenty times more obsolete and obscure words than any one poem of the
+age of king Edward IV, now extant.
+
+    [Footnote G: Mr. Bryant seems to have been aware of this
+    objection, and thus endeavours to obviate it. “Indeed in some
+    places the language seems more obsolete than could be expected for
+    the time of king Edward the Fourth; and the reason is, that some
+    of the poems, however new modelled, were prior to that æra. For
+    _Rowley himself_ [i.e. Chatterton] tells us that he borrowed from
+    Turgot; and we have reason to think that _he_ likewise copied from
+    Chedder.” This same Chedder, he acquaints us in a note, was
+    “a poet mentioned in _the_ Mss., [that is, in Chatterton’s Mss.,
+    for I believe his name is not to be found elsewhere.] who is
+    supposed to have flourished about the year 1330. He is said [by
+    Chatterton] to have had some _maumeries_ at the _comitating_ the
+    city.” _Observations_, p. 553. I wonder the learned commentator
+    did not likewise inform us, from the same _unquestionable
+    authority_, what wight _Maistre_ Chedder copied.]
+
+Before I conclude, I cannot omit to take notice of two or three
+particulars on which the Dean of Exeter and Mr. Bryant much rely. The
+former, in his Dissertation on _Ella_, says, “Whatever claim might have
+been made in favour of Chatterton as the author [of _the Battle of
+Hastings_], founded either on his own unsupported and improbable
+assertion, or on the supposed possibility of his writing these two
+poems, assisted by Mr. Pope’s translation [of Homer], no plea of this
+kind can be urged with regard to any other poem in the collection, and
+least of all to the dramatick works, or the tragedy of _Ella_; which
+required not only an elevation of poetic genius far superior to that
+possessed by Chatterton, but also such moral and mental qualifications
+as never entered into any part of his character or conduct, and which
+could not possibly be acquired by a youth of his age and inexperience.”
+“Where (we are triumphantly asked) could he learn the nice rules of the
+Interlude, by the introduction of a chorus, and the application of their
+songs to the moral and virtuous object of the performance?”-- Where?--
+from Mr. Mason’s _Elfrida_ and _Caractacus_, in which he found a perfect
+model of the Greek drama, and which doubtless he had read. But ELLA
+“_inculcates the precepts of morality_;” and Chatterton, it is urged,
+was idle and dissolute, and therefore could not have been the authour of
+it. Has then the reverend editor never heard of instances of the purest
+system of morality being powerfully enforced from the pulpit by those
+who in their own lives have not been always found to adhere rigidly to
+the rules that they laid down for the conduct of others? Perhaps not;
+but I suppose many instances of this kind will occur to every reader.
+The world would be pure indeed, if speculative and practical morality
+were one and the same thing. “That knowledge of times, of men, and
+manners,” without which, it is said, _Ella_ could not have been written,
+I find no difficulty in believing to have been possessed by this very
+extraordinary youth. Did he not, when he came to London, instead of
+being dazzled and confounded by the various new objects that surrounded
+him, become in a short time, by that almost intuitive faculty which
+accompanies genius, so well acquainted with all the reigning topicks of
+discourse, with the manners and different pursuits of various classes of
+men, with the state of parties, &c. as to pour out from the press a
+multitude of compositions on almost every subject that could exercise
+the pen of the oldest and most experienced writer[H]? He who could do
+this, could compose the tragedy of ELLA[I]: (a name, by the by, that he
+probably found in Dr. Percy’s _Reliques of Ancient Poetry_, Vol. I.
+p. xxiv.)
+
+    [Footnote H: The following notices, which Mr. Walpole has
+    preserved, are too curious to be omitted. They will give the
+    reader a full idea of the professed authorship of Chatterton. In a
+    list of pieces written by him, but never published, are the
+    following:
+
+    5. “TO LORD NORTH. A Letter signed the MODERATOR, and dated May
+    26, 1770, beginning thus: “My Lord-- It gives me a painful
+    pleasure, &c.-- This (says Mr. W.) is an encomium on administration
+    for rejecting the Lord Mayor Beckford’s Remonstrance.
+
+    6. _A Letter to Lord Mayor Beckford_, signed PROBUS, dated May 26,
+    1770. --This is a violent abuse of Government for rejecting the
+    Remonstrance, and begins thus: “When the endeavours of a spirited
+    people to free themselves from an insupportable slavery”----. On
+    the back of this essay, which is directed to Chatterton’s friend,
+    Cary, is this indorsement:
+
+    “Accepted by Bingley-- set for and thrown out of _The North
+    Briton_, 21 June, on account of the Lord Mayor’s death.
+
+      Lost by his death on this Essay  1 11 6
+      Gained in Elegies                2  2 0
+      ------ in Essays                 3  3 0
+      Am glad he is dead by            3 13 6”]
+
+    [Footnote I: Chatterton wrote also “a _Monks_ Tragedy,” which, if
+    his forgeries had met with a more favourable reception than they
+    did, he would doubtless have produced as an ancient composition.
+    With the ardour of true genius, he wandered to the untrodden paths
+    of the little Isle of Man for a subject, and aspired
+
+                      _petere inde coronam,_
+      _Unde prius nulli velarint tempora Musæ._]
+
+Almost every part of the Dissertation on this tragedy is as open to
+observation as that now mentioned. It is not true, as is asserted,
+(p. 175.) that the _rythmical tales_, before called _tragedies_, first
+assumed a regular dramatick form in the time of king Edward IV. These
+melancholy tales went under the name of tragedies for above a century
+afterwards. Many of the pieces of Drayton were called _tragedies_ in the
+time of Queen Elizabeth, though he is not known to have ever written a
+single drama. But without staying to point out all the mistakes of the
+reverend critick on this subject, I recommend to those readers who wish
+to form a decided opinion on these poems, the same test for the tragedy
+of _Ella_ that I have already suggested for the _Battle of Hastings_. If
+they are not furnished with any of our dramatick pieces in the original
+editions, let them only cast their eyes on those ancient interludes
+which take up the greater part of Mr. Hawkins’s first volume of _The
+Origin of the English Drama_ (the earliest of them composed in 1512);
+and I believe they will not hesitate to pronounce _Ella_ a modern
+composition. The dramas which are yet extant (if they can deserve that
+name), composed between the years 1540 and 1570, are such wretched
+stuff, that nothing but antiquarian curiosity can endure to read a page
+of them. Yet the period I speak of is near a century after the era of
+the pretended Rowley.
+
+The argument of Mr. B. on this subject is too curious to be omitted:
+“I am sensible (says he, in his _Observations_, p. 166,) that the plays
+mentioned above [the Chester Mysteries] seem to have been confined to
+religious subjects. --But though the monks of the times confined
+themselves to these subjects, it does not follow that people of more
+learning and genius were limited in the same manner. As plays certainly
+existed, the plan might sometimes be varied; and the transition from
+sacred history to profane, was very natural and easy. Many generous
+attempts may have been made towards the improvement of the rude drama,
+and the introduction of compositions on a better model: but the
+ignorance of the monks, and the depraved taste of the times, may have
+prevented such writings being either countenanced or preserved. It may
+be said, that we have no examples of any compositions of this sort. But
+this is begging the question; _while we have the plays of _Ælla_ and
+_Godwin_ before us. The former is particularly transmitted to us as
+_Rowley’s_[K]._” I believe no reader will be at a loss to determine,
+who it is that in this case _begs the question_. Here we have another
+remarkable instance of that kind of circular proof of which I have
+already taken notice.
+
+    [Footnote K: In the same manner argues the learned pewterer of
+    Bristol, Mr. George Catcott. These poems are certainly genuine,
+    “for Rowley himself mentions them in the YELLOW ROLL.” See his
+    letter in the Gentleman’s Magazine, vol. XLVIII. p. 348.]
+
+In the multitude of topicks agitated by these commentators, I had almost
+forgot one, much relied upon by the last-mentioned gentleman. It is the
+name of _Widdeville_, which, we are informed, (p. 317.) is written in
+all the old chronicles _Woodville_; and the question is triumphantly
+asked, “how could Chatterton, in his _Memoirs of Cannynge_, [_Miscell._
+p. 119.] vary from all these chronicles? --Where could he have found the
+name of _Widdeville_ except in one of those manuscripts to which we are
+so much beholden?” If the learned commentator’s book should arrive at a
+second edition, I recommend it to him to cancel this page (as well as a
+former, in which he appears not to have known that “_happy_ man _be his
+dole_!” is a common expression in Shakspeare, and for his ignorance of
+which he is forced to make an awkward apology in his Appendix); and beg
+leave to inform him, that Chatterton found the name of _Widdeville_ in a
+very modern, though now scarce, book, the _Catalogue of the Royal and
+Noble Authors of England_[L], by Mr. Walpole, every one of whose works
+most assuredly Chatterton had read.
+
+    [Footnote L: See the first volume of that entertaining work,
+    p. 67; art. _Antony_ Widwille, _Earl Rivers_.]
+
+The names of the combatants in _the Battle of Hastings_, an enumeration
+of which takes up one third of this commentator’s work, and which,
+he tells us, are only to be found in Doomsday-book and other ancient
+records that Chatterton could not have seen, have been already shown by
+others to be almost all mentioned in Fox’s _Book of Martyrs_, and the
+_Chronicles_ of Holinshed and Stowe. And what difficulty is there in
+supposing that the names not mentioned in any printed work (if any such
+there are) were found in the old deeds that he undoubtedly examined, and
+which were more likely to furnish him with a catalogue of names than any
+other ancient muniment whatsoever? It is highly probable also, that in
+the same chest which contained these deeds, he found some old Diary of
+events relating to Bristol, written by a mayor or alderman of the
+fifteenth century, that furnished him with some account of Rowley and
+Cannynge, and with those circumstances which the commentators say are
+only to traced in William de Wircester. The practice of keeping diaries
+was at that time very general, and continued to be much in use to the
+middle of the last century. This, it must be owned, is a mere
+hypothesis, but by no means an improbable one.
+
+I cannot dismiss this gentleman without taking notice of a position
+which he has laid down, and is indeed the basis of almost all the
+arguments that he has urged to prove the authenticity of the Bristol
+Mss. It is this; that as every authour must know his own meaning, and as
+Chatterton has sometimes given wrong interpretations of words that are
+found in the poems attributed to Rowley, he could not be the authour of
+those poems.
+
+If Chatterton had originally written these poems, in the form in which
+they now appear, this argument might in a doubtful question have some
+weight. But although I have as high an opinion of his abilities as
+perhaps any person whatsoever, and do indeed believe him to have been
+the greatest genius that England has produced since the days of
+Shakspeare, I am not ready to acknowledge that he was endued with any
+miraculous powers. Devoted as he was from his infancy to the study of
+antiquities, he could not have been so conversant with ancient language,
+or have had all the words necessary to be used so present to his mind,
+as to write antiquated poetry of any considerable length, off hand.
+He, without doubt, wrote his verses in plain English, and afterwards
+embroidered them with such old words as would suit the sense and metre.
+With these he furnished himself, sometimes probably from memory, and
+sometimes from glossaries; and annexed such interpretations as he found
+or made. When he could not readily find a word that would suit his
+metre, he invented one[M]. If then his old words afford some sense, and
+yet are sometimes interpreted wrong, nothing more follows than that his
+glossaries were imperfect, or his knowledge inaccurate; (still however
+he might have had a confused, though not complete, idea of their
+import:) if, as the commentator asserts, the words that he has explained
+not only suit the places in which they stand, but are often more
+apposite than he imagined, and have a latent and significant meaning,
+that never occurred to him, this will only show, that a man’s book is
+sometimes wiser than himself; a truth of which we have every day so many
+striking instances, that it was scarcely necessary for this learned
+antiquarian to have exhibited a new proof of it.
+
+    [Footnote M: In Chatterton’s poems many words occur, that were
+    undoubtedly coined by him; as _mole_, _dolce_, _droke_, _glytted_,
+    _aluste_, &c. All these his new editor has inserted in a very
+    curious performance which he is pleased to call a Glossary, _with
+    such interpretations at the context supplied_, without even
+    attempting to support them either by analogy or the authority of
+    our ancient writers.]
+
+Let it be considered too, that the glossary and the text were not always
+written at the same time; that Chatterton might not always remember the
+precise sense in which he had used antiquated words; and from a confused
+recollection, or from the want of the very same books that he had
+consulted while he was writing his poems, might add sometimes a false,
+and sometimes an imperfect, interpretation. --This is not a mere
+hypothesis; for in one instance we know that the comment was written at
+some interval of time after the text. “The glossary of the poem entitled
+_the Englysh Metamorposis_ (Mr. Tyrwhitt informs us) was written down by
+C. extemporally, without the assistance of any book, at the desire and
+in the presence of Mr. Barrett.”
+
+I have here given this objection all the force that it can claim, and
+more perhaps than it deserves; for I doubt much whether in Chatterton’s
+whole volume six instances can be pointed out, where he has annexed
+false interpretations to words that appear when rightly understood to
+suit the context, and to convey a clear meaning: and these mistakes, if
+even there are so many as have been mentioned, are very easily accounted
+for from the causes now assigned.
+
+Perhaps it may be urged, that when I talk of the manner in which these
+poems were composed, I am myself guilty of the fault with which I have
+charged others, that of assuming the very point in controversy; and the
+observation would be just, if there were not many collateral and
+decisive circumstances, by which Chatterton is clearly proved to have
+written them. All these concurring to show that he forged these pieces,
+an investigation of the _manner_ in which he forged them, cannot by any
+fair reasoning be construed into an assumption of the question in
+dispute.
+
+Great stress is also laid by this commentator on some variations being
+found in the copies of these poems that were produced by Chatterton at
+different times; or, to use his own words, “there is often a material
+variation between the copy and the original, which never could have
+happened if he had been the author of both[N]. He must have known his
+own writing, and would not have deviated from his own purpose.” ----Thus
+in one copy of _the Song to Ella_, which C. gave to Mr. Barrett, these
+lines were found:
+
+  “Or seest the hatched steed,
+  “_Ifrayning_ o’er the mead.”
+
+    [Footnote N: So that an authour cannot revise or correct his
+    works without forfeiting his title to them! --According to this
+    doctrine, Garth was the authour of only the _first_ copy of _the
+    Dispensary_, and all the subsequent editions published in his
+    life-time, in every one of which there were material variations,
+    must be attributed to some other hand.]
+
+Being called upon for the original, he the next day produced a
+parchment, containing the same poem, in which he had written
+_yprauncing_, instead of _ifrayning_; but by some artifice he had
+obscured the Ms. so much, to give it an ancient appearance, that Mr. B.
+could not make out the word without the use of galls. --What follows
+from all this, but that C. found on examination that there was no such
+word as _ifrayning_, and that he substituted another in its place? In
+the same poem he at one time wrote _locks_-- _burlie_-- _brasting_-- and
+_kennest_; at another, _hairs_-- _valiant_-- _bursting_-- and _hearest_.
+Variations of this kind he could have produced without end. --These
+commentators deceive themselves, and use a language that for a moment
+may deceive others, by talking of one reading being found in the _copy_,
+and another in the _original_, when in fact all the Mss. that C.
+produced were equally originals. What he called originals indeed, were
+probably in general more perfect than what he called copies; because the
+former were always produced after the other, and were in truth nothing
+more than second editions of the same pieces[O].
+
+    [Footnote O: “_Bie_,” which he wrote inadvertently in the tragedy
+    of ELLA, instead of “_mie_,” (on which Mr. B. has given us a
+    learned dissertation)---- “_Bie_ thankes I ever onne you wylle
+    bestowe”---- is such a mistake as every man in the hurry of writing
+    is subject to. _By_ had probably occurred just before, or was to
+    begin some subsequent line that he was then forming in his mind.
+    Even the slow and laborious Mr. Capel, who was employed near forty
+    years in preparing and printing an edition of Shakspeare, in a
+    Catalogue which he presented to a publick library at Cambridge,
+    and which he probably had revised for many months before he gave
+    it out of his hands, has written “_Bloody_ Bloody,” as the title
+    of one of Fletcher’s Plays, instead of “_Bloody_ Brother.”]
+
+The inequality of the poems which Chatterton owned as his own
+compositions, when compared with those ascribed to Rowley, has been much
+insisted upon. But this matter has been greatly exaggerated. Some of the
+worst lines in Chatterton’s _Miscellanies_ have been selected by Mr.
+Bryant to prove the point contended for; but in fact they contain the
+same even and flowing versification as the others, and _in general_
+display the some premature abilities[P]. --The truth is, the readers of
+these pieces are deceived insensibly on this subject. While they are
+perusing the poems of the fictitious Rowley, they constantly compare
+them with the poetry of the fifteenth century; and are ready every
+moment to exclaim, how much he surpasses all his contemporaries. While
+the verses that Chatterton acknowledged as his own, are passing under
+their eyes, they still recollect that they are the productions of a boy
+of seventeen; and are slow to allow them even that merit which they
+undoubtedly possess. “They are ingenious, but puerile; flowing, but not
+sufficiently correct.” ----The best way of convincing the antiquarian
+reader of the merit of these compositions, would be to disfigure them
+with old spelling; as perhaps the most complete confutation of the
+advocates for the authenticity of what are called Rowley’s poems would
+be to exhibit an edition of them in modern orthography. --Let us only
+apply this very simple test,-- “handy-dandy let them change places,”
+and I believe it would puzzle even the President of the Society of
+Antiquaries himself to determine, “which is the justice, and which is
+the thief;” which is the pretended ancient, and which the acknowledged
+modern.
+
+    [Footnote P: The observations on this subject, of the ingenious
+    authour of the accurate account of Chatterton, in a book entituled
+    _Love and Madness_, are too pertinent to be here omitted. “It may
+    be asked why Chatterton’s own Miscellanies are inferior to Rowley?
+    Let me ask another question: _Are_ they inferior? Genius,
+    abilities, we may bring into the world with us; these rare
+    ingredients may be mixed up in our compositions by the hand of
+    Nature. But Nature herself cannot create a human being possessed
+    of a complete knowledge of our world almost the moment he is born
+    into it. Is the knowledge of the world which his Miscellanies
+    contain, no proof of his astonishing quickness in seizing every
+    thing he chose? Is it remembered when, and at what age, Chatterton
+    for the first time quitted Bristol, and how few weeks he lived
+    afterwards? Chatterton’s Letters and Miscellanies, and every thing
+    which the warmest advocate for Rowley will not deny to have been
+    Chatterton’s, exhibit an insight into men, manners, and things,
+    for the want of which, in their writings, authors who have died
+    old men, with more opportunities to know the world, (who could
+    have less than Chatterton?) have been thought to make amends by
+    other merits.”-- “In London (as the same writer observes) was to
+    be learned that which even genius cannot teach, the knowledge of
+    life. Extemporaneous bread was to be earned more suddenly than
+    even Chatterton could write poems for Rowley; and, in consequence
+    of his employments, as he tells his mother, publick places were to
+    be visited, and mankind to be frequented.” --Hence, after “he left
+    Bristol, we see but one more of Rowley’s poems, _The Ballad of
+    Charitie_, and that a very short one.”]
+
+Of this double transformation I subjoin a short specimen; which is not
+selected on account of any extraordinary spirit in the lines that
+precede, or uncommon harmony in those that follow, but chosen (agreeably
+to the rule that has been observed in all the former quotations) merely
+because the _African Eclogue_ happens to be the _first_ poetical piece
+inserted in Chatterton’s acknowledged _Miscellanies_.
+
+
+I. _CHATTERTON in Masquerade._
+
+NARVA AND MORED: AN AFRICAN ECLOGUE.
+
+[From Chatterton’s _Miscellanies_, p. 56.]
+
+  “Recyte the loves of Narva and Mored,
+  “The preeste of Chalmas trypell ydolle sayde.
+  “Hie fro the grounde the youthful heretogs[a] sprunge,
+  “Loude on the concave shelle the launces runge:
+  “In al the mysterke[b] maizes of the daunce
+  “The youths of Bannies brennynge[c] sandes advaunce;
+  “Whiles the mole[d] vyrgin brokkyng[e] lookes behinde,
+  “And rydes uponne the penyons of the winde;
+  “Astighes[f] the mountaines borne[g], and measures rounde
+  “The steepie clifftes of Chalmas hallie[h] grounde.”
+
+    [Text Notes:
+    a: _Warriors_.
+    b: _mystick_.
+    c: _burning_.
+    d: used by Chatterton for _soft_ or _tender_.
+    e: _panting_.
+    f: _ascends_.
+    g: _brow_, or _summit_.
+    h: _holy_.]
+
+
+II. _CHATTERTON Unmasked._
+
+ECLOGUE THE FIRST.
+
+[From Rowley’s Poems, quarto, p. 391.]
+
+  “When England smoking from her deadly wound,
+  “From her gall’d neck did twitch the chain away,
+  “Seeing her lawful sons fall all around,
+  “(Mighty they fell, ’twas Honour led the fray,)
+  “Then in a dale, by eve’s dark surcoat gray,
+  “Two lonely shepherds did abruptly fly,
+  “(The rustling leaf does their white hearts affray,)
+  “And with the owlet trembled and did cry:
+  “First Robert Neatherd his sore bosom struck,
+  “Then fell upon the ground, and thus he spoke.”
+
+If however, after all, a little inferiority should be found in
+Chatterton’s acknowledged productions, it may be easily accounted for.
+Enjoin a young poet to write verses on any subject, and after he has
+finished his exercise, show him how Shakspeare, Dryden, and Pope, have
+treated the same subject. Let him then write a second copy of verses,
+still on the same theme. This latter will probably be a _Cento_ from the
+works of the authours that he has just perused. The one will have the
+merit of originality; the other a finer polish and more glowing imagery.
+This is exactly Chatterton’s case. The verses that he wrote for Rowley
+are _perhaps_ better than his others, because they contain the thoughts
+of our best poets often in their own words. The versification is equally
+good in both. Let it be remembered too, that the former were composed at
+his leisure in a period of near a year and a half; the latter in about
+four months, and many of them to gain bread for the day that was passing
+over him.
+
+After his arrival in London, if his forgeries had met with any success,
+he would undoubtedly have produced ancient poetry without end; but
+perceiving that the gentleman in whom he expected to find at once a dupe
+and a patron, was too clear-sighted to be deceived by such evident
+fictions, and that he could earn a livelihood by his talents, without
+fabricating old Mss. in order to gain a few shillings from Mess. Barrett
+and Catcott, he deserted his original plan, and we hear little more of
+Rowley’s verses.
+
+With regard to the time in which the poems attributed to this priest
+were produced, which it is urged was much too short for Chatterton to
+have been the inventor of them, it is indeed astonishing that this youth
+should have been able to compose, in about eighteen months, three
+thousand seven hundred verses, on various subjects; but it would have
+been still more astonishing, if he had transcribed in that time the same
+number of lines, written on parchment, in a very ancient hand, in the
+close and indistinct manner, in which these poems are pretended to have
+been written, and defaced and obliterated in many places[Q]:-- unless he
+had been endued with the faculty of a celebrated solicitor, who being
+desired a few years ago in the House of Lords to read an old deed,
+excused himself by saying that it was _illegible_, informing their
+lordships at the same time that he would make out a fair _copy_ of it
+against the next day. Chatterton, I believe, understood better how to
+make fair copies of illegible parchments, than to read any ancient
+manuscript whatsoever.
+
+    [Footnote Q: Let those who may be surprised at this assertion,
+    recollect the wonderful inventive faculties of Chatterton, and the
+    various compositions, both in prose and verse, which he produced
+    after his arrival in London, in the short space of four months;
+    not to mention the numerous pieces, which he is known to have
+    written in the same period, and which have not yet been
+    collected-- Let them likewise examine any one of the defaced Mss.
+    of the fifteenth century, in the Cotton Library, and see in what
+    time they can transcribe a dozen lines from it.]
+
+It is amusing enough to observe the miserable shifts to which his new
+editor is forced to have recourse, when he is obliged to run full tilt
+against matters of fact. --Thus Chatterton, we find, owned that he was
+the authour of the first _Battle of Hastings_; but we are not to believe
+his declaration, says Mr. Thistlethwaite, whose doctrine on this subject
+the reverend commentator has adopted. “Chatterton thought himself not
+sufficiently rewarded by his Bristol patrons, in proportion to what his
+communications deserved.” He pretended, therefore, “on Mr. Barrett’s
+repeated solicitations for the original [_of the Battle of Hastings_],
+that he himself wrote that poem for a friend; thinking, _perhaps_, that
+if he parted with the original poem, he might not be properly rewarded
+for the loss of it,[R]” --As if there was no other way for him to avoid
+being deprived of a valuable ancient Ms. but by saying that it was a
+forgery, and that he wrote it himself! --What, however, did he do
+immediately afterwards? No doubt, he avoided getting into the same
+difficulty a second time, and subjecting himself again to the same
+importunity from his ungenerous Bristol patrons, by showing them no more
+of these rarities? Nothing less. The very same day that he acknowledged
+this forgery, he informed Mr. Barrett that he had another poem, the copy
+of an original by Rowley; and at a _considerable interval of time_
+(which indeed was requisite for writing his new piece) he produced
+_another_ BATTLE OF HASTINGS, much longer than the former; a fair copy
+from an undoubted original. --He was again, without doubt, pressed by
+Mr. B. to show the original Ms. of this also; and, according to Mr.
+Thistlethwaite’s system, he ought again to have asserted that _this_
+poem likewise was a forgery; and so afterwards of every copy that he
+produced. --Can any person that considers this transaction for a moment
+entertain a doubt that all these poems were his own invention?
+
+    [Footnote R: Chatterton’s Poems, quarto, edit. Milles, p. 458.
+
+    It was not without good reason that the editor was solicitous to
+    disprove Chatterton’s frank confession, respecting this poem; for
+    he perceived clearly that the style, the colouring, and images,
+    are nearly the same in this, and the second poem with the same
+    title, and that every reader of any discernment must see at the
+    first glance, that he who wrote the first _Battle of Hastings_ was
+    the authour of all the other poems ascribed to Rowley. --It is
+    observable that Chatterton in _the Battle of Hastings_, No. 2,
+    frequently imitates himself, or repeats the same images a second
+    time. Thus in the first poem with this title we meet
+
+      ----“he dying gryp’d the recer’s limbe;
+      “The recer then beganne to flynge and kicke,
+      “And toste the erlie farr off to the grounde:
+      “The erlie’s squier then a swerde did sticke
+      “Into his harte, a dedlie ghastlie wounde;
+      “And downe he felle upon the crymson pleine,
+      “Upon Chatillion’s soulless corse of claie.”
+
+    In the second _Battle of Hastings_ are these lines:
+
+      “But as he drewe his bowe devoid of arte,
+      “So it came down upon Troyvillain’s horse;
+      “Deep thro hys hatchments wente the pointed floe;
+      “Now here, now there, with rage bleedinge he rounde doth goe.
+      “Nor does he hede his mastres known commands,
+      “Tyll, growen furiouse by his bloudie wounde,
+      “Erect upon his hynder feete he staundes,
+      “And throwes hys mastre far off to the grounde.”
+
+    Can any one for a moment doubt that these verses were all written
+    by the same person? ----The circumstance of the wounded horse’s
+    falling on his rider, in the _first_ of these similies, is taken
+    directly from Dryden’s Virgil, Æn. X. v. 1283. --Chatterton’s new
+    editor has artfully contrasted this passage of Dryden with the
+    _second_ simile, where that circumstance is _not_ mentioned.]
+
+Again:-- We have the positive testimony of Mr. John Ruddall, a native
+and inhabitant of Bristol, who was well acquainted with Chatterton, when
+he was a clerk to Mr. Lambert, that _the Account of the ceremonies
+observed at the opening of the Old Bridge_, published in Farley’s
+Journal, Oct. 1. 1768, and said to be _taken from an ancient Ms._, was a
+forgery of Chatterton’s, and acknowledged by him to be such. Mr.
+Ruddall’s account of this transaction is so material, that I will
+transcribe it from the Dean of Exeter’s new work, which perhaps many of
+my readers may not have seen:-- “During that time, [while C. was clerk
+to Mr. L.] Chatterton frequently called upon him at his master’s house,
+and soon after he had printed the account of the bridge in the Bristol
+paper, told Mr. Ruddall, that he was the author of it; but _it occurring
+to him afterwards_, that he might be called upon to produce the
+original, he brought to him one day a piece of parchment about the size
+of a half-sheet of fool’s-cap paper: Mr. Ruddall does not think that any
+thing was written on it when produced by Chatterton, but he saw him
+write several words, if not lines, in a character which Mr. Ruddall did
+not understand, which he says was totally unlike English, and as he
+apprehends was meant by Chatterton to imitate or represent the original
+from which this account was printed. He cannot determine precisely how
+much Chatterton wrote in this manner, but says, that the time he spent
+in that visit did not exceed three quarters of an hour: the size of the
+parchment, however, (even supposing it to have been filled with writing)
+will in some measure ascertain the quantity which it contained. He says
+also, that when Chatterton had written on the parchment, he held it over
+the candle, to give it the appearance of antiquity, which changed the
+colour of the ink, and made the parchment appear black and a little
+contracted[S].”
+
+    [Footnote S: See the new edition of Chatterton’s poems, quarto,
+    p. 436, 437.]
+
+Such is the account of one of Chatterton’s intimate friends. And how is
+this decisive proof of his abilities to imitate ancient English
+handwriting, and his exercise of those abilities, evaded? Why truly, we
+are told, “the _contraction of the parchment_ is no discriminating mark
+of antiquity; the _blackness_ given by smoke appears upon trial to be
+very different from the _yellow_ tinge which parchment acquires by age;
+and _the ink does not change its colour_, as Mr. Ruddall seems to
+apprehend.” So, because these arts are not always _completely
+successfull_, and would not deceive a very skilful antiquary, we are to
+conclude, that Chatterton did not forge a paper which he acknowledged to
+have forged, and did not in the presence of Mr. Ruddall cover a piece of
+parchment with ancient characters for the purpose of imposition, though
+the fact is clearly ascertained by the testimony of that gentleman!
+--The reverend commentator argues on this occasion much in the same
+manner, as a well-known versifier of the present century, the facetious
+Ned Ward (and he too published a quarto volume of poems). Some
+biographer, in an account of the lives of the English poets, had said
+that “he was an ingenious writer, considering his low birth and mode of
+life, he having for some time kept a publick house in the City.” “Never
+was a greater or more impudent calumny (replied the provoked rhymer); it
+is very well known to every body, that my publick house is not in the
+City, but in _Moorfields_.” --In the name of common sense, of what
+consequence is it, whether in fact _all_ ancient parchments are
+_shrivelled_; whether smoke will give ink a _yellow_ appearance or not.
+It is sufficient, that Chatterton _thought_ this was the case; that he
+made the _attempt_ in the presence of a credible witness, to whom he
+_acknowledged_ the purpose for which the manœuvre was done. We are asked
+indeed, why he did not prepare his pretended original before he
+published the copy. To this another question is the best answer. Why is
+not fraud always uniform and consistent, and armed at all points?
+Happily for mankind it scarcely ever is. Perhaps (as Mr. Ruddall’s
+account seems to state the matter) he did not think at first that he
+should be called upon for the original: perhaps he was limited in a
+point of time, and could not fabricate it by the day that the new bridge
+was opened at Bristol. --But there is no end of such speculations. Facts
+are clear and incontrovertible. Whatever might have been the cause of
+his delay, it is not denied that he acknowledged this forgery to his
+friend Mr. Ruddall; conjuring him at the same time not to reveal the
+secret imparted to him. If this had been a mere frolick, what need of
+this earnest injunction of secrecy? --His friend scrupulously kept his
+word till the year 1779, when, as the Dean of Exeter informs us, “on the
+prospect of procuring a gratuity of ten pounds for Chatterton’s mother,
+from a gentleman who sought for information concerning her son’s
+history, he thought so material a benefit to the family would fully
+justify him for divulging a secret, by which no person living could be a
+sufferer.”
+
+I will not stay to take notice of the impotent attempts that
+Chatterton’s new commentators have made to overturn the very
+satisfactory and conclusive reasoning of Mr. Tyrwhitt’s Appendix to the
+former edition of the fictitious Rowley’s Poems. That most learned and
+judicious critick wants not the assistance of my feeble pen: _Non tali
+auxilio, nec defensoribus istis----._ If he should come into the field
+himself (as I hope he will), he will soon silence the Anglo-Saxon
+batteries of his opponents.
+
+The principal arguments that have been urged in support of the antiquity
+of the poems attributed to Rowley, have now, if I mistake not, been
+fairly stated and examined[T]. On a review of the whole, I trust the
+reader will agree with me in opinion, that there is not the smallest
+reason for believing a single line of them to have been written by any
+other person than Thomas Chatterton; and that, instead of the towering
+motto which has been affixed to the new and splendid edition of the
+works of that most ingenious youth---- _Renascentur quæ jam cecidere_--
+the words of Claudian would have been more “germane to the matter:”
+
+      --------_tolluntur in altum,_
+  _Ut lapsu graviore ruant._
+
+    [Footnote T: I take this opportunity of acknowledging an error
+    into which I have fallen in a former page (13), where it is said,
+    that no instances are found in these poems of a noun in the plural
+    number being joined to a verb in the singular. On a more careful
+    examination I observe that C. was aware of this mark of antiquity,
+    and that his works exhibit a _few_ examples of this disregard to
+    grammar. He has however sprinkled them too sparingly. Had these
+    poems been written in the fifteenth century, Priscian’s head would
+    have been broken in almost every page, and I should not have
+    searched for these grammatical inaccuracies in vain.]
+
+Having, I fear, trespassed too long on the patience of my readers,
+in the discussion of a question that to many may appear of no great
+importance, I will only add the following serious and well-intended
+proposal. I do humbly recommend, that a committee of the friends of the
+reverend antiquarian, Dr. Jeremiah Milles, Dean of Exeter, and the
+learned mythologist, Jacob Bryant, Esq., may immediately meet; --that
+they may, as soon as possible, convey the said Dr. M. and Mr. B.
+together with Mr. George Catcott, pewterer, and Mr. William Barrett,
+surgeon, of Bristol, and Dr. Glynn of Cambridge, to the room over the
+north porch of Redcliffe church, and that on the door of the said room
+_six_ padlocks may be fixed:-- that in order to wean these gentlemen by
+degrees from the delusion under which they labour, and to furnish them
+with some amusement, they may be supplied with proper instruments to
+measure the length, breadth, and depth, of the empty chests now in the
+said room, and thereby to ascertain how many thousand diminutive pieces
+of parchment, all eight inches and a half by four and a half, might have
+been contained in those chests; [according to my calculation,
+1,464,578; --but I cannot pretend to be exact:] that for the sustenance
+of these gentlemen, a large peck loaf may be placed in a _maund_ basket
+in the said room, having been previously prepared and left in a damp
+place, so as to become mouldy, and the words and figures _Thomas Flour,
+Bristol_, 1769, being first impressed in common letters on the upper
+crust of the said loaf, and on the under side thereof, in Gothick
+Characters, _Thomas Wheateley_, 1464 (which Thomas Wheateley Mr.
+Barrett, if he carefully examines Rowley’s PURPLE ROLL[V], will find was
+an _auncyent_ baker, and “_did use to bake daiely for Maister Canynge
+twelve manchettes of chete breade, and foure douzenne of marchpanes_;”
+and which custom of impressing the names of bakers upon bread, I can
+prove to be as ancient as the time of king Edward IV., from
+Doomsday-book, William de Wircestre, Shakspeare, and other good
+antiquarians, as also from the Green and Yellow Rolls, now in Mr. B’s
+custody)[X]:-- that a proper quantity of water may be conveyed into the
+forementioned room in one of Mr. Catcott’s deepest and most ancient
+pewter plates, together with an ewer of Wedgwood’s ware, made after the
+oldest and most uncouth pattern that has yet been discovered at
+Herculaneum;-- that Dr. Glynn, if he shall be thought to be sufficiently
+composed (of which great doubts are entertained), be appointed to cut a
+certain portion of the said bread for the daily food of these gentlemen
+and himself; and that, in order to sooth in some measure their unhappy
+fancies, he may be requested, in cutting the said loaf, to use the
+valuable knife of Mr. Shiercliffe (now in the custody of the said
+Dr. G), the history[Y] of which has so much illustrated, and so clearly
+evinced the antiquity of the poems attributed to Thomas Rowley. And if
+in a fortnight after these gentlemen have been so confined, they shall
+be found to be entirely re-established in their health, and perfectly
+composed, I recommend that the six locks may be struck off, and that
+they all may be suffered to return again to their usual employments.
+
+    [Footnote V: ROWLEY’s _Purple Roll_, Mr. Bryant very gravely tells
+    us, it yet extant in manuscript in his _own hand-writing_. “It is
+    (he adds) in _two_ parts; _one_ of the said parts written by
+    Thomas Rowley, and _the other by Thomas Chatterton_.”]
+
+    [Footnote X: A learned friend, who, by the favour of Mr. Barrett,
+    has perused the YELLOW ROLL, informs me, that Rowley, in
+    a treatise dated 1451, and addressed “to the dygne Maister
+    Canynge,” with the quaint title, DE RE FRUMENTARIA, (chap. XIII.
+    _Concernynge Horse-hoeing Husbandrie, and the Dryll-Ploughe_) has
+    this remarkable passage: “Me thynketh ytt were a prettie devyce
+    yffe this practyce of oure bakerres were extended further.
+    I mervaile moche, our _scriveynes_ and _amanuenses_ doe not gette
+    lytel letters cutt in wood, or caste in yron, and thanne
+    followynge by the eye, or with a fescue, everyche letter of the
+    boke thei meane to copie, fix the sayde wooden or yron letters
+    meetelie disposed in a frame or chase; thanne daube the frame over
+    with somme atramentous stuffe, and layinge a thynne piece of
+    moistened parchment or paper on these letters, presse it doune
+    with somme smoothe stone or other heavie weight: by the whiche
+    goodlye devyce a manie hundreth copies of eche boke might be
+    wroughte off in a few daies, insteade of employing the eyen and
+    hondes of poore clerkes for several monthes with greate attentyon
+    and travaile.”
+
+    This great man, we have already seen, had an idea of many of the
+    useful arts of life some years before they were practised. Here he
+    appears to have had a confused notion of that noble invention,
+    the printing-press. To prevent misconstruction, I should add, that
+    _boke_ in the above passage means _manuscript_, no other books
+    being then known; In other parts of his works, _as represented by
+    Chatterton_, he speaks of Mss. as contradistinguished from books;
+    but in all those places it is reasonable to suppose some
+    interpolation by Chatterton, and _those who choose it_, may read
+    _book_ instead of _manuscript_; by which this trivial objection to
+    the authenticity of these pieces will be removed, and these
+    otherwise discordant passages rendered perfectly uniform and
+    consistent.
+
+    This valuable relick shows with how little reason the late Mr.
+    Tull claimed the merit of inventing that useful instrument of
+    husbandry, the drill-plough.
+
+    I make no apology for anticipating Mr. Barret on this subject; as
+    in fact these short extracts will only make the publick still more
+    desirous to see his long-expected _History of Bristol_, which I am
+    happy to hear is in great forwardness, and will, I am told,
+    contain a full account of the YELLOW ROLL, and an exact inventory
+    of _Maistre William Cannynge’s_ Cabinet of coins, medals, and
+    drawings, (among the latter of which are enumerated many, highly
+    finished, by Apelles, Raphael, Rowley, Rembrant, and Vandyck)
+    together with several other matters equally curious. --It is hoped
+    that this gentleman will gratify the publick with an accurate
+    engraving from a drawing by Rowley, representing the ancient
+    Castle of Bristol, together with the square tower ycleped the
+    DONGEON, which cannot fail to afford great satisfaction to the
+    purchasers of his book, as it will exhibit a species of
+    architecture hitherto unknown in this country; this tower (as we
+    learn from unquestionable authority, that of the Dean of Exeter
+    himself,) “being remarkably decorated [on paper] with images,
+    ornaments, tracery work, and crosses within circles, _in a style
+    net usually seen in these buildings_.” --Chatterton, _as soon as
+    ever he heard that Mr. Barrett was engaged in writing a History of
+    Bristol_, very obligingly searched among the Rowley papers, and a
+    few days afterwards furnished him with a neat _copy_ of this
+    ancient drawing.]
+
+    [Footnote Y: This very curious and interesting history may be
+    found in Mr. Bryant’s _Observations_, &c. p. 512. The learned
+    commentator seems to have had the great father of poetry in his
+    eye, who is equally minute in his account of the sceptre of
+    Achilles. See _Il._ Α. v. 234. He cannot, however, on this account
+    be justly charged with plagiarism; these co-incidences frequently
+    happening. Thus Rowley in the 15th century, and Dryden in the
+    17th, having each occasion to say that a man wept, use the same
+    four identical words-- “_Tears began to flow._”]
+
+
+F I N I S.
+
+
+           *       *       *       *
+
+  _NEW BOOKS published by J. NICHOLS,
+  PRINTER to the SOCIETY of ANTIQUARIES,
+  at _Cicero’s Head, Red-Lion-Passage, Fleet-Street_;
+  and sold by ALL the Booksellers in _Great Britain_ and _Ireland_._
+
+
+_In a handsome Quarto, adorned with a Variety of elegant Plates._
+
+
+BIBLIOTHECA TOPOGRAPHICA BRITANNICA.
+
+No. I. containing, 1. QUERIES for illustrating the Antiquities and
+Natural History of GREAT BRITAIN and IRELAND: 2. The History of TUNSTALL
+in KENT, by the late Rev. EDWARD-ROWE MORES. Price 5s. sewed.
+
+No. II. Part I. containing RELIQUIÆ GALEANÆ, or, Miscellaneous Pieces
+by the late learned Brothers ROGER and SAMUEL GALE; with Biographical
+Memoirs, and a Pedigree of their Family. Price 2s. 6d. stitched.
+
+No. II. Part II. A Continuation of the RELIQUIÆ GALEANÆ; containing
+the Epistolary Correspondence of the GALES with their learned
+Contemporaries. Price 5s. sewed.--To the Third Part, which will contain
+a Continuation of their Correspondence, will be prefixed an Account of
+the LITERARY SOCIETY at SPALDING.
+
+No. III. A Description of the Chanonry in OLD ABERDEEN, in the Years
+1724 and 1725, together with many curious, entertaining, and pleasant
+Remarks on the said Town, &c. by WILLIAM OREM, Town Clerk of Aberdeen.
+Illustrated by a large and accurate Survey of Old and New Aberdeen, with
+the adjacent Country between the Rivers Dee and Don. Price 5s. sewed.
+
+  ⁂ The SURVEY may be had separately, Price 1s.
+
+No. IV. Memoirs of Sir JOHN HAWKWOOD, Price 2s. stitched.
+
+⁂ The Histories of HINCKLEY in Leicestershire, of CROYDON in Surrey, of
+the Hospital of St. KATHARINE by the Tower, and many other Articles, are
+getting forward, and will soon be published as subsequent Numbers of the
+BIBLIOTHECA.
+
+V. Biographical Anecdotes of WILLIAM HOGARTH; and a Catalogue of his
+Works chronologically arranged; with occasional Remarks. By J. NICHOLS.
+Octavo, Price 3s. sewed.
+
+VI. A Select Collection of Poems; with Notes Biographical and
+Historical, by J. NICHOLS. In Four Volumes, small Octavo, Price 10s. 6d.
+in Boards.
+
+[->] The Four concluding Volumes, which will contain many original
+Poems, and a General Poetical Index, are nearly finished, and will very
+soon be published.
+
+VII. LETTERS on several Subjects; GENIUS, WIT, TASTE, DELICACY, LONDON,
+MUSIC, SHAKSPEARE, THE FRENCH, FOREIGN TRAVEL, &c. &c. By the Rev.
+MARTIN SHERLOCK, M.A. Domestic Chaplain to the Earl of BRISTOL, and
+Vicar of Castleconnor and Killglass in Ireland. In Two Volumes, small
+Octavo, Price 5s. sewed.--Either Volume may be had separately.
+
+VIII. Letters of an ENGLISH TRAVELLER [MARTIN SHERLOCK, M.A.] In Two
+Volumes, Crown Octavo, Price 5s. sewed; or either Volume, singly,
+2s. 6d.
+
+IX. Four New Editions of the Supplement to SWIFT’S Works; with
+explanatory Notes on All the former Volumes, and a complete General
+Index, by J. NICHOLS.
+
+  1. In One Volume, Quarto, Price One Guinea, sewed.
+  2. In Two Volumes, large Octavo, Price Twelve Shillings, sewed.
+  3. In Three Volumes, small Octavo, Price Twelve Shillings, sewed.
+  4. In Three Volumes XVIIIo. Price Six Shillings, sewed.
+
+⁂ The latter Volumes of EITHER Edition may be had separately, to
+complete Sets.
+
+X. SWIFT’S Works, COMPLETE, in XXVII Volumes, in a small Pocket Size,
+Price _Two Guineas_ sewed; the cheapest Edition of SWIFT hitherto
+published.
+
+XI. PROPERTII ΜΟΝΟΒΙΒΛΟΣ: or that Book of the Elegies of PROPERTIUS
+intituled CYNTHIA; translated into English Verse; with Classical Notes.
+Pr. 2s. 6d.
+
+XII. HARDYKNUTE, AN HEROIC BALLAD. Now first published complete; with
+the other more approved SCOTTISH BALLADS, and some not hitherto made
+Public, in the TRAGIC STYLE.
+
+  To which are prefixed,
+
+Two Dissertations, I. On the Oral Tradition of Poetry. II. On the Tragic
+Ballad.
+
+⁂ This Volume is printed in the same Size as Dean PERCY’s “Reliques,”
+Price 2s. 6d. sewed.
+
+XIII. A Repertory of the Endowments of Vicarages in the Dioceses of
+Canterbury and Rochester. By Dr. DUCAREL, F.R. and A.S.S. Commissary of
+the City and Diocese of Canterbury. Octavo, Price 3s. 6d.
+
+XIV. Biographical Memoirs of WILLIAM GED; including a particular Account
+of his Progress in the Art of Block-Printing. Printed for the Benefit of
+his Daughter. Octavo. Price 1s.
+
+XV. _In the Press, and speedily to be published in Two Volumes, Octavo_,
+
+The CORRESPONDENCE (LITERARY and POLITICAL) of Dr. ATTERBURY, Bishop of
+ROCHESTER; in which will be included many Original Letters.
+
+
+           *       *       *       *
+
+  WILLIAM ANDREWS CLARK MEMORIAL LIBRARY
+
+  University of California, Los Angeles
+  The Augustan Reprint Society
+  Publications in Print
+
+
+
+
+The Augustan Reprint Society
+
+WILLIAM ANDREWS CLARK MEMORIAL LIBRARY
+
+University of California, Los Angeles
+
+Publications in Print
