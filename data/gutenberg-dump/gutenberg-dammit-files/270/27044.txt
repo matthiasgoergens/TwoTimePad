@@ -1,0 +1,736 @@
+J’ai déjà rapporté dans un article paru dans le Bulletin des bibliothèques de
+France (1997, n° 3, ndlr) ainsi que dans le Bulletin de l’ABF (Association des
+bibliothécaires français) (n° 174, 1997, ndlr), comment l’envie de créer une
+bibliothèque virtuelle avait rapidement fait son chemin depuis ma découverte de
+l’informatique en 1994: création d’un bulletin électronique d’informations
+bibliographiques locales (Les Affiches de Lisieux) en 1994 dont la diffusion
+locale ne rencontre qu’un très faible écho, puis en 1995 début de la
+numérisation de nos collections de cartes postales en vue de constituer une
+photothèque numérique, saisie de nouvelles d’auteurs d’origine normande courant
+1995 en imitation (modeste) du projet de l’ABU (Association des bibliophiles
+universels) avec diffusion sur un BBS spécialisé.
+
+L’idée du site internet vient d’Hervé Le Crosnier, enseignant à l’Université de
+Caen et modérateur de la liste de diffusion Biblio-fr, qui monta sur le serveur
+de l’université la maquette d’un site possible pour la Bibliothèque municipale
+de Lisieux, afin que je puisse en faire la démonstration à mes élus. La suite
+logique en a été le vote au budget primitif de 1996 d’un crédit pour l’ouverture
+d’une petite salle multimédia avec accès public au réseau pour les Lexoviens
+(habitants de Lisieux, ndlr). Depuis cette date un crédit d’entretien pour la
+mise à niveau des matériels informatiques est alloué au budget de la
+bibliothèque qui permettra cette année la montée en puissance des machines,
+l’achat d’un graveur de cédéroms et la mise à disposition d’une machine
+bureautique pour les lecteurs de l’établissement.... ainsi que la création en ce
+début d’année d’un emploi jeune pour le développement des nouvelles
+technologies.»
+
+En juillet 1999, 370 oeuvres sont disponibles en ligne. A la même date, Olivier
+Bogros explique: «Les oeuvres à diffuser sont choisies à partir d’exemplaires
+conservés à la Bibliothèque municipale de Lisieux ou dans des collections
+particulières mises à disposition. Les textes sont saisis au clavier et relus
+par du personnel de la bibliothèque, puis mis en ligne après encodage. La mise à
+jour est mensuelle (3 à 6 textes nouveaux). Par goût, mais aussi contraints par
+le mode de production, nous sélectionnons plutôt des textes courts (nouvelles,
+brochures, tirés à part de revues, articles de journaux...). De même nous
+laissons à d’autres (bibliothèques ou éditeurs) le soin de mettre en ligne les
+grands classiques de la littérature française, préférant consacrer le peu de
+temps et de moyens dont nous disposons à mettre en ligne des textes excentriques
+et improbables. (...) Nous réfléchissons aussi, dans le domaine patrimonial, à
+un prolongement du site actuel vers les arts du livre - illustration,
+typographie... - toujours à partir de notre fonds. Sinon, pour ce qui est des
+textes, nous allons vers un élargissement de la part réservée au fonds normand.»
+
+L’année 2000 marque le début du partenariat de la Bibliothèque électronique de
+Lisieux avec l’Université de Toronto. Lancé officiellement en août 2000, LexoTor
+est une base de données utilisant le logiciel TACTweb (TACT: text analysis
+computing tools) et permettant l’interrogation en ligne des oeuvres de la
+bibliothèque, ainsi que des analyses et des comparaisons textuelles. Le projet
+est issu de la rencontre d’Olivier Bogros avec Russon Wooldridge, professeur au
+département d’études françaises de l’Université de Toronto, lors d'un colloque
+organisé par ce dernier en mai 2000 à Toronto («colloque international sur les
+études françaises valorisées par les nouvelles technologies d’information et de
+communication»). Deux ans après, en mai 2002, un deuxième colloque international
+sur le même sujet est organisé cette fois par Olivier Bogros à Lisieux.
+
+En septembre 2003, la bibliothèque électronique approche les 600 textes. En
+décembre 2006, les collections comprennent 930 oeuvres et 20 galeries d'images,
+le tout représentant 327,1 Mo  (mégaoctets) sur une capacité de stockage de 600
+Mo.
+
+= Gallica
+
+Secteur numérique de la Bibliothèque nationale de France (BnF), Gallica est
+inauguré en 1997 avec des images et textes du 19e siècle francophone, «siècle de
+l’édition et de la presse moderne, siècle du roman mais aussi des grandes
+synthèses historiques et philosophiques, siècle scientifique et technique». A
+l’époque, le serveur stocke 2.500 livres numérisés en mode image complétés par
+les 250 volumes numérisés en mode texte de la base Frantext de l’INaLF (Institut
+national de la langue française). Classées par discipline, ces ressources sont
+complétées par une chronologie du 19e siècle et des synthèses sur les grands
+courants en histoire, sciences politiques, droit, économie, littérature,
+philosophie, sciences et histoire des sciences. Le site propose aussi un
+échantillon de la future iconothèque numérique, à savoir le fonds du photographe
+Eugène Atget, une sélection de documents sur l’écrivain Pierre Loti, une
+collection d’images de l’Ecole nationale des ponts et chaussées sur les grands
+travaux liés à la révolution industrielle en France, et enfin un choix de livres
+illustrés de la Bibliothèque du Musée de l’homme.
+
+Fin 1997, Gallica se considère moins comme une banque de données numérisées que
+comme un «laboratoire dont l’objet est d’évaluer les conditions d’accès et de
+consultation à distance des documents numériques». Le but est d’expérimenter la
+navigation dans ces collections, en permettant aussi bien le libre parcours du
+chercheur ou du curieux que des recherches textuelles pointues.
+
+Début 1998, Gallica annonce 100.000 volumes et 300.000 images pour la fin 1999,
+avec un accroissement rapide des collections ensuite. Ces collections numériques
+pourront également être consultées sur place à la BnF au moyen de 3.000 postes
+multimédias, dont quelques centaines fonctionnent déjà début 1998. Sur les
+100.000 volumes prévus, qui représenteront 30 millions de pages numérisées, plus
+du tiers concerne le 19e siècle. Quant aux 300.000 images fixes, la moitié
+appartient aux départements spécialisés de la BnF (Estampes et photographie,
+Manuscrits, Arts du spectacle, Monnaies et médailles, etc.). L’autre moitié
+provient de collections d’établissements publics (musées et bibliothèques,
+Documentation française, Ecole nationale des ponts et chaussées, Institut
+Pasteur, Observatoire de Paris, etc.) ou privés (agences de presse dont Magnum,
+l’Agence France-Presse, Sygma, Rapho, etc.).
+
+Par ailleurs, à la même date, le site bilingue français-anglais de la BnF est à
+la fois solidement ancré dans le passé et résolument ouvert sur l’avenir, comme
+en témoigne le menu principal de la page d’accueil avec ses neuf rubriques:
+nouveau (à savoir les nouvelles manifestations culturelles), connaître la BnF,
+les actualités culturelles, les expositions virtuelles (quatre expositions en
+septembre 1998: les splendeurs persanes, le roi Charles V et son temps,
+naissance de la culture française, tous les savoirs du monde), des informations
+pratiques, l’accès aux catalogues de la BnF, l’information professionnelle
+(conservation, dépôt légal, produits bibliographiques, etc.), la bibliothèque en
+réseau (Francophonie, coopération nationale, coopération internationale, etc.),
+et les autres serveurs (bibliothèques nationales, bibliothèques françaises,
+universités, etc.). Enfin, bien en vue sur la page d’accueil, un logo permet
+d’accéder à Gallica.
+
+En mai 1998, la BnF revoit ses espérances à la baisse et modifie quelque peu ses
+orientations premières. Jérôme Strazzulla, journaliste, écrit dans Le Figaro du
+3 juin 1998 que la BnF est «passée d’une espérance universaliste,
+encyclopédique, à la nécessité de choix éditoriaux pointus». Dans le même
+article, le président de la BnF, Jean-Pierre Angremy, rapporte la décision du
+comité éditorial de Gallica: «Nous avons décidé d’abandonner l’idée d’un vaste
+corpus encyclopédique de cent mille livres, auquel on pourrait sans cesse
+reprocher des trous. Nous nous orientons aujourd’hui vers des corpus
+thématiques, aussi complets que possibles, mais plus restreints. (...) Nous
+cherchons à répondre, en priorité, aux demandes des chercheurs et des lecteurs.»
+Le premier corpus aura trait aux voyages en France, avec mise en ligne prévue en
+2000. Ce corpus rassemblera des textes, estampes et photographies du 16e siècle
+à 1920. Les corpus envisagés ensuite sont : Paris, les voyages en Afrique des
+origines à 1920, les utopies, et les mémoires des Académies des sciences de
+province.
+
+En 2003, Gallica donne accès à tous les documents libres de droit du fonds
+numérisé de la BnF, à savoir 70.000 ouvrages et 80.000 images allant du
+Moyen-Age au début du 20e siècle. Mais, de l’avis de nombreux usagers, les
+fichiers sont très lourds puisque les livres sont numérisés en mode image, et
+l’accès en est très long. Chose tout aussi problématique, la numérisation en
+mode image n’autorise pas la recherche textuelle alors que Gallica se trouve
+être la plus grande bibliothèque numérique francophone du réseau en nombre de
+titres disponibles en ligne. Seule une petite collection de livres (1.117 titres
+en février 2004) est numérisée en mode texte.
+
+En février 2005, Gallica compte 76.000 ouvrages. A la même date, la BnF annonce
+la mise en ligne prochaine (entre 2006 et 2009) de la presse française parue
+entre 1826 et 1944, à savoir 22 titres représentant 3,5 millions de pages. Début
+2006, les premiers journaux disponibles en ligne sont Le Figaro (fondé en 1826),
+La Croix (fondée en 1883), L'Humanité (fondée en 1904) et Le Temps (fondé en
+1861 et disparu en 1942). En décembre 2006, les collections comprennent 90.000
+ouvrages numérisés (fascicules de presse compris), 80.000 images et des dizaines
+d'heures de ressources sonores. Gallica débute la conversion en mode texte des
+livres numérisés en mode image pour pour favoriser l'accès à leur contenu.
+
+= Online Books Page
+
+Certains se donnent pour tâche non pas de numériser des oeuvres mais, tout aussi
+utile, de répertorier celles qui sont en accès libre sur le web, en offrant au
+lecteur un point d’accès commun. C’est le cas de John Mark Ockerbloom, doctorant
+à l’Université Carnegie Mellon (Pittsburgh, Pennsylvanie, Etats-Unis), qui crée
+l’Online Books Page pour recenser les oeuvres anglophones.
+
+Cinq ans plus tard, en septembre 1998, il relate: «J’étais webmestre ici pour la
+section informatique de la CMU (Carnegie Mellon University), et j’ai débuté
+notre site local en 1993. Il comprenait des pages avec des liens vers des
+ressources disponibles localement, et à l’origine l’Online Books Page était
+l’une de ces pages, avec des liens vers des livres mis en ligne par des
+collègues de notre département (par exemple Robert Stockton, qui a fait des
+versions web de certains textes du Projet Gutenberg). Ensuite les gens ont
+commencé à demander des liens vers des livres disponibles sur d’autres sites.
+J’ai remarqué que de nombreux sites (et pas seulement le Projet Gutenberg ou
+Wiretap) proposaient des livres en ligne, et qu’il serait utile d’en avoir une
+liste complète qui permette de télécharger ou de lire des livres où qu’ils
+soient sur l’internet. C’est ainsi que mon index a débuté. J’ai quitté mes
+fonctions de webmestre en 1996, mais j’ai gardé la gestion de l’Online Books
+Page, parce qu’entre temps je m’étais passionné pour l’énorme potentiel qu’a
+l’internet de rendre la littérature accessible au plus grand nombre. Maintenant
+il y a tant de livres mis en ligne que j’ai du mal à rester à jour. Je pense
+pourtant poursuivre cette activité d’une manière ou d’une autre. Je suis très
+intéressé par le développement de l’internet en tant que médium de communication
+de masse dans les prochaines années. J’aimerais aussi rester impliqué dans la
+mise à disposition gratuite de livres sur l’internet, que ceci fasse partie
+intégrante de mon activité professionnelle, ou que ceci soit une activité
+bénévole menée sur mon temps libre.»
+
+Fin 1998, John Mark Ockerbloom obtient son doctorat en informatique. En 1999, il
+rejoint l’Université de Pennsylvanie, où il travaille à la R&D (recherche et
+développement) de la bibliothèque numérique de l'université. A la même époque,
+il y transfère l’Online Books Page, tout en gardant la même présentation, très
+sobre, et il poursuit son travail d’inventaire dans le même esprit. Ce
+répertoire recense 20.000 textes électroniques en septembre 2003 et 25.000
+textes électroniques en décembre 2006.
+
+Une autre initiative est celle de l’Internet Public Library (IPL). Créée en mars
+1995 par l’Université du Michigan (Etats-Unis) dans le cadre de la School of
+Information and Library Studies, l’IPL se définit comme la première bibliothèque
+publique de l’internet sur l’internet, à savoir une bibliothèque sélectionnant,
+organisant et cataloguant les ressources disponibles sur l’internet, et
+n’existant elle-même que sur celui-ci. Cette bibliothèque publique d’un genre
+nouveau devient vite une référence. L’IPL recense de manière pratiquement
+exhaustive les livres (Online Texts, avec 22.500 titres en 2006), les journaux
+(Newspapers) et les magazines (Magazines) disponibles sur le web. Les livres
+sont essentiellement des oeuvres du domaine public.
+
+
+7.2. Bibliothèques traditionnelles
+
+
+Qu’en est-il de l’internet dans les bibliothèques traditionnelles? La première
+bibliothèque présente sur le web est la Bibliothèque municipale d’Helsinki
+(Finlande), qui inaugure son site en février 1994. Des bibliothèques mettent sur
+pied des «cyberespaces» à destination de leurs lecteurs. D’autres bibliothèques
+font connaître les joyaux de leurs collections par le biais du web. Des
+bibliothèques nationales unissent leurs efforts pour créer un portail commun.
+Voici un récit succint de quelques réalisations très différentes.
+
+= ARPALS, en milieu rural
+
+Lancé en 1996, le site web de l’ARPALS a pour sous-titre: «Internet et
+multimédia aux champs, ou comment amener la culture en milieu rural». L’ARPALS
+(Amicale du regroupement pédagogique Armillac Labretonie Saint-Barthélémy)
+regroupe les 950 habitants de quatre villages (Armillac, Labretonie, Laperche et
+Saint-Barthélémy) sis dans le département du Lot-et-Garonne, dans le sud-ouest
+de la France. Le regroupement pédagogique intercommunal (RPI) permet aux quatre
+villages de faire école commune afin d’éviter la fermeture de classes
+malheureusement fréquente en zone rurale.
+
+L’ARPALS met sur pied d’une part des animations (repas, kermesse, bal masqué),
+d’autre part une bibliothèque intercommunale de 1.300 livres en partenariat avec
+la Bibliothèque départementale de prêt (BDP) de Villeneuve-sur-Lot. Le site web
+présente une sélection de livres avec un résumé pour chacun d’eux. L’association
+crée aussi une médiathèque ouverte 22 heures par semaine pour un public allant
+de 3 à 76 ans. Quatre ordinateurs multimédias - complétés par deux imprimantes
+couleur et un scanner à plat  - permettent la consultation de CD-Rom, le libre
+accès à l’internet et l’utilisation de logiciels bureautiques tels que Works,
+Dbase for Windows, Corel Draw, Publisher, PhotoPaint, etc.
+
+En juin 1998, Jean-Baptiste Rey, webmestre de l’ARPALS, précise: «Le but de
+notre site internet est de faire connaître l’existence de la médiathèque
+intercommunale de Saint-Barthélémy et ce que nous y faisons. C’est un moyen pour
+nous de démontrer l’utilité et l’intérêt de ce type de structure et la
+simplicité de l’usage des nouvelles technologies dans le cadre d’une
+bibliothèque. » C’est aussi un moyen de « pallier la faiblesse de notre fonds
+documentaire. Internet et le multimédia nous permettent d’offrir beaucoup plus
+de ressources et d’informations à nos usagers.»
+
+= Cyberespace des Nations Unies
+
+L’internet peut aussi relancer les bibliothèques traditionnelles. C’est le cas
+de la Bibliothèque de l’Organisation des Nations Unies à Genève (ONUG), sise
+dans l’imposant Palais des Nations, entre le Lac Léman et le quartier des
+organisations internationales.
+
+En juillet 1997, à l’initiative de Pierre Pelou, son directeur, la bibliothèque
+ouvre un cyberespace de 24 postes informatiques en libre accès avec plusieurs
+dizaines de CD-Rom en réseau et connexion à l’internet. Aménagé au premier étage
+de la bibliothèque par Antonio Bustamante, architecte au Palais des Nations, ce
+cyberespace est mis gratuitement à la disposition des représentants des missions
+permanentes, délégués de conférences, fonctionnaires internationaux, chercheurs,
+étudiants, journalistes, membres des professions libérales, ingénieurs et
+techniciens, sans sélection par le rang, chose assez rare dans ce milieu. Le
+premier arrivé est le premier servi.
+
+Les 24 stations du cyberespace comprennent chacune un ordinateur multimédia, un
+lecteur de CD-Rom et un casque individuel. Chaque groupe de trois ordinateurs
+est relié à une imprimante laser. Chaque station permet de consulter l’internet
+et sa messagerie électronique et d’utiliser le traitement de texte WordPerfect.
+Sont disponibles aussi les services suivants: 1) le système optique des Nations
+Unies; 2) un serveur regroupant une cinquantaine de CD-Rom en réseau; 3) la
+banque de données UNBIS (United Nations Bibliographic Information System),
+coproduite par les deux bibliothèques des Nations Unies à New York et à Genève;
+4) le catalogue de la Bibliothèque de l’Office des Nations Unies à Genève; 5)
+Profound, un ensemble de banques de données économiques et commerciales; 6)
+RERO, le catalogue du Réseau romand des bibliothèques suisses (qui comprend le
+catalogue de la Bibliothèque des Nations Unies de Genève à titre de bibliothèque
+associée); 7) plusieurs CD-Rom multimédia (Encarta 97, L’Etat du monde, Elysée
+2, Nuklear, etc.); 8) des vidéocassettes multistandards et des DVD présentant
+des programmes, films et documentaires sur l’action internationale et l’action
+humanitaire.
+
+Très rapidement, de l’avis du personnel, «la consultation électronique induit
+une plus grande consultation imprimée et un renforcement de toutes les formes de
+recherche». Dépassant les prévisions les plus optimistes, ce cyberespace joue le
+rôle de catalyseur, amenant un public nouveau, jeune, varié et enthousiaste à
+consulter les collections de la bibliothèque et à utiliser ses autres services.
+Suite au succès du premier cyberespace, un deuxième cyberespace ouvre en avril
+1998, deux étages plus haut, avec six postes informatiques et une vue imprenable
+sur le lac Léman et la chaîne des Alpes.
+
+= Enluminures de la Bibliothèque de Lyon
+
+Nombre de bibliothèques recèlent des joyaux que l’internet permet de faire
+connaître. C'est le cas de la Bibliothèque municipale de Lyon qui, en 1998,
+décide de diffuser en ligne sa collection d’enluminures, en débutant par une
+collection numérique de 3.000 images, le but à terme étant une collection de
+10.000 images émanant de 200 manuscrits et incunables s’échelonnant du 5e siècle
+à la Renaissance. Le système utilisé est le SGBI (Système de gestion de banques
+d’images) créé par la Maison de l’Orient à Lyon, sous l’égide du CNRS (Centre
+national de la recherche scientifique) et de l’Université Lyon 2.
+
+«Chaque document, signalé par son auteur, son titre et son siècle de
+réalisation, représente une entité, est-il expliqué sur le site web. Par un
+double clic sur l’entité choisie, on accède à un écran qui permet de feuilleter
+les images du document. Chaque écran peut comporter neuf imagettes,
+correspondant à des objets-images. Lorsque le document comporte davantage
+d’objets-images, des flèches permettent d’accéder aux objets-images suivants.
+Chaque objet-image peut comprendre plusieurs images, leur nombre étant indiqué
+sous chaque objet-image. Un double-clic sur une imagette permet de voir l’image
+agrandie. Dans une seconde étape, une interrogation multicritères sera
+possible.»
+
+Deux ans plus tard, en décembre 2000, le site web donne accès à la plus
+importante collection française d’enluminures médiévales, soit 12.000 images
+scannées dans 457 ouvrages précieux. Certains manuscrits et incunables sont à
+dominante religieuse: bibles, missels, bréviaires, pontificaux, livres d’heures,
+droit canon. D’autres, à dominante profane, traitent de philosophie, d’histoire,
+de littérature, de sciences, etc. Les images numérisées sont les peintures en
+pleine page et les miniatures, ainsi que les initiales ornées et les décors des
+marges.
+
+La bibliothèque poursuit ensuite la numérisation de ses collections
+iconographiques. Début 2003, plusieurs fonds spécialisés sont en accès libre sur
+le web: manuscrits, livres imprimés anciens, manuscrits autographes, collections
+locales (Lyon) et régionales (Rhône-Alpes), ésotérisme et franc-maçonnerie,
+fonds de la première guerre mondiale (1914-1918), estampes, affiches, livres
+d’artistes, photographies, fonds Lacassagne (père de l’Ecole lyonnaise
+d’anthropologie criminelle), fonds chinois, arts du spectacle, et enfin
+collection jésuite des Fontaines.
+
+= Gabriel, serveur européen
+
+Lancé en 1997, Gabriel - acronyme de: Gateway and Bridge to Europe’s National
+Libraries - est le serveur des bibliothèques nationales européennes, créé pour
+offrir un point d’accès unique à leurs services et collections. Le choix de ce
+nom «rappelle également les travaux de Gabriel Naudé, dont l’Advis pour dresser
+une bibliothèque (Paris, 1627) est le premier travail théorique en Europe sur
+les bibliothèques et qui constitue ainsi un point de départ sur les
+bibliothèques de recherche modernes. Le nom Gabriel est aussi employé dans de
+nombreuses langues européennes et vient de l’Ancien Testament, Gabriel étant
+l’un des archanges, ou messager céleste. Il est également présent dans le
+Nouveau Testament et dans le Coran.»
+
+Plus prosaïquement, le site trilingue (anglais, français, allemand) propose des
+liens hypertextes vers les services en ligne d’un certain nombre de
+bibliothèques nationales (Allemagne, Autriche, Belgique, Bulgarie, Danemark,
+Espagne, Estonie, Finlande, France, Grèce, Hongrie, Irlande, Islande, Italie,
+Lettonie, Liechtenstein, Lituanie, Luxembourg, Macédoine, Malte, Norvège,
+Pays-Bas, Pologne, Portugal, République slovaque, République tchèque, Roumanie,
+Royaume-Uni, San Marino, Suède, Suisse, Turquie et Vatican). Une rubrique
+informe des projets communs à plusieurs pays. La recherche sur Gabriel est
+possible par pays ou par type de services: OPAC (online public access
+catalogue), bibliographies nationales, catalogues collectifs nationaux, index de
+périodiques, serveurs web, gophers (à savoir des systèmes d’information à base
+de menus textuels à plusieurs niveaux), liste complète des services en ligne par
+bibliothèque.
+
+Comment Gabriel voit-il le jour? L’idée d’un site web commun aux bibliothèques
+nationales européennes naît en 1994 à Oslo (Norvège) lors de la réunion annuelle
+de la CENL (Conference of European National Librarians). En mars 1995, une
+nouvelle réunion rassemble les représentants de la Koninklijke Bibliotheek
+(Pays-Bas), de la British Library (Royaume-Uni) et de l’Helsinki University
+Library (Finlande). Après s’être mises d’accord sur un projet pilote, ces trois
+bibliothèques sont rejointes par trois autres bibliothèques nationales: Die
+Deusche Bibliothek (Allemagne), la Bibliothèque nationale de France et la
+Biblioteka Narodowa (Pologne).
+
+Le projet Gabriel est approuvé en septembre 1995 lors de la réunion annuelle de
+la CENL à Berne (Suisse). Un serveur pilote est lancé sur l’internet par la
+British Library, qui s’occupe ensuite de sa maintenance éditoriale avec la
+collaboration des Bibliothèques nationales de Finlande et des Pays-Bas. La
+seconde étape se déroule entre octobre 1995 et septembre 1996. Les bibliothèques
+nationales n’ayant pas participé à la phase pilote sont invitées à se joindre au
+projet. Entre-temps, nombre de bibliothèques nationales débutent leur propre
+site web. Lors de sa réunion à Lisbonne (Portugal) en septembre 1996, la CENL
+décide de lancer officiellement Gabriel à compter du 1er janvier 1997, la
+maintenance éditoriale étant assurée par la Bibliothèque nationale des Pays-Bas.
+
+En été 2005, Gabriel est intégré à la Bibliothèque européenne. Lancée dix-huit
+mois plus tôt, en janvier 2004, la Bibliothèque européenne est issue du projet
+TEL (Telematics & Electronic Libraries), un projet subventionné par la
+Commission européenne pendant trois ans, entre 2001 et 2003, pour étudier la
+faisabilité d’un service pan-européen donnant accès aux ressources disséminées
+dans toutes les bibliothèques nationales d’Europe. Ce portail commun est mis en
+ligne par la CENL et hébergé par la Bibliothèque nationale des Pays-Bas. Il
+offre un point d’accès unique aux catalogues de 18 bibliothèques nationales
+(Allemagne, Autriche, Croatie, Danemark, Estonie, Finlande, France, Italie,
+Hongrie, Lettonie, Pays-Bas, Portugal, République tchèque, Royaume-Uni, Serbie,
+Slovaquie, Slovénie et Suisse), avec accès (gratuit ou payant) aux documents
+électroniques de ces bibliothèques. S’y ajoutent les catalogues de la CENL et de
+l’ICCU (Instituto Centrale per il Catalogo Unico delle Bibliothece Italiane).
+Les collections des 25 autres bibliothèques nationales seront intégrées dans une
+phase ultérieure. La Bibliothèque européenne devrait également accueillir en son
+sein la future Bibliothèque numérique européenne, nouveau projet officiellement
+lancé en mars 2006.
+
+= De la conservation à la communication
+
+Face à un web encyclopédique et des bibliothèques numériques de plus en plus
+nombreuses, les jours des bibliothèques traditionnelles sont-ils comptés? La
+bibliothèque numérique menace-t-elle vraiment l’existence de la bibliothèque
+traditionnelle? En 1997 et 1998, plusieurs grandes bibliothèques expliquent sur
+leur site que, à côté d’un secteur numérique en pleine expansion, la
+communication physique des documents reste essentielle. Ces commentaires ont
+depuis disparu. La bibliothèque numérique rend enfin compatibles deux objectifs
+qui ne l’étaient guère, à savoir la conservation des documents et leur
+communication. Le document est numérisé une bonne fois pour toutes, et le grand
+public y a facilement accès. Au début des années 2000, toute bibliothèque
+traditionnelle quelque peu dynamique dispose de collections numériques, soit à
+usage interne, soit en accès libre sur le web.
+
+Les problèmes de bande passante s’estompent aussi. Après avoir proposé avec
+enthousiasme des images en pleine page très agréables à l’oeil mais
+excessivement longues à apparaître à l’écran, nombreux sont les sites qui optent
+ensuite pour des images de format réduit, avec possibilité de cliquer ou non sur
+ces images pour obtenir un format plus grand. Cette présentation est souvent
+restée la norme, même avec la généralisation de l’internet à débit rapide. Le
+passage du petit format ou grand format est désormais rapide sinon immédiat, à
+la grande satisfaction des iconographes, photographes et autres amateurs
+d’images.
+
+La raison d’être des bibliothèques nationales est de préserver un patrimoine
+accumulé au fil des siècles : manuscrits, incunables, livres imprimés, journaux,
+périodiques, gravures, affiches, partitions musicales, images, photos, films,
+etc. Ceci n’est pas près de changer. Si le fait de disposer de supports
+numériques favorise la communication, il faut bien un endroit pour stocker les
+documents physiques originaux, à commencer par les Bibles de Gutenberg.
+
+Les bibliothèques nationales archivent d’ailleurs aussi les documents
+électroniques et les pages web. A la Bibliothèque nationale de France (BnF) par
+exemple, il a été décidé de collecter et d’archiver les sites dont le nom de
+domaine se termine en .fr, ou encore les sites dédiés aux campagnes électorales,
+d’abord pour les présidentielles de 2002, puis pour les législatives de 2004, et
+enfin pour les présidentielles et les législatives de 2007, en archivant et
+collectant les sites institutionnels, les sites et blogs officiels des
+candidats, les sites d’analyses, les sites des médias traditionnels, les sites
+d’associations et de syndicats, etc.
+
+Les bibliothèques publiques ne semblent pas près de disparaître non plus. Malgré
+la curiosité suscitée par le livre numérique, les lecteurs assurent le plus
+souvent qu’ils ne sont pas prêts à lire Zola ou Proust à l’écran. Question de
+génération peut-être. Les enfants ayant appris à lire directement à l’écran ne
+verront peut-être aucun problème à lire des livres en ligne sur des supports
+électroniques en tous genres.
+
+Si les bibliothèques nationales et les bibliothèques publiques restent toujours
+utiles, la situation est différente pour les bibliothèques spécialisées. Dans
+nombre de domaines où l’information la plus récente est primordiale, on
+s’interroge maintenant sur la nécessité d’aligner des documents imprimés sur des
+rayonnages, alors qu’il est tellement plus pratique de rassembler, stocker,
+archiver, organiser, cataloguer et diffuser des documents électroniques, et de
+les imprimer seulement à la demande.
+
+
+7.3. Du bibliothécaire au cyberthécaire
+
+
+En trois décennies, le bibliothécaire-documentaliste a vu son activité
+professionnelle frappée de plein fouet par l’informatique puis par l’internet.
+Comment la transition s’est-elle passée ?
+
+= Bibliothécaires et internet
+
+Selon Olivier Bogros, directeur de la Bibliothèque municipale de Lisieux
+(Normandie), interviewé en juin 1998, l’internet est «un outil formidable
+d’échange entre professionnels (tout ce qui passe par le courrier électronique,
+les listes de diffusion et les forums) (...). C’est aussi pour les bibliothèques
+la possibilité d’élargir leur public en direction de toute la Francophonie. Cela
+passe par la mise en ligne d’un contenu qui n’est pas seulement la mise en ligne
+du catalogue, mais aussi et surtout la constitution de véritables bibliothèques
+virtuelles.»
+
+L’internet est un outil de communication sans précédent. La liste de diffusion
+Biblio-fr est créée en 1993 par Hervé Le Crosnier, professeur à l’Université de
+Caen (Normandie) à l’intention des «bibliothécaires et documentalistes
+francophones et [de] toute personne intéressée par la diffusion électronique de
+l’information documentaire». La liste se veut le regard francophone des
+documentalistes sur les questions soulevées par le développement de l’internet,
+par exemple «la diffusion de la connaissance, l’organisation de collections de
+documents électroniques, la maintenance et l’archivage de l’écrit électronique».
+Biblio-fr compte 3.329 abonnés le 20 décembre 1998 et 15.136 abonnés le 20 avril
+2007. Une autre liste de diffusion est ADBS-info, gérée par l’Association des
+professionnels de l’information et de la documentation (ADBS), avec 7.699
+abonnés le 20 avril 2007.
+
+Des portails sont créés à l’intention des bibliothèques, par exemple Biblio On
+Line. Jean-Baptiste Rey, son rédacteur et webmestre, relate en juin 1998: «Le
+site dans sa première version a été lancé en juin 1996. Une nouvelle version
+(l’actuelle) a été mise en place à partir du mois de septembre 1997. Le but de
+ce site est d’aider les bibliothèques à intégrer internet dans leur
+fonctionnement et dans les services qu’elles offrent à leur public. Le service
+est décomposé en deux parties: a) une partie "professionnelle" où les
+bibliothécaires peuvent retrouver des informations professionnelles et des liens
+vers les organismes, les institutions, et les projets et réalisations ayant
+trait à leur activité; b) une partie comprenant annuaire, mode d’emploi de
+l’internet, villes et provinces, etc... permet au public des bibliothèques
+d’utiliser le service Biblio On Line comme un point d’entrée vers internet.»
+
+Le site de l’ENSSIB (Ecole nationale supérieure des sciences de l’information et
+des bibliothèques) héberge la version électronique du Bulletin des bibliothèques
+de France (BBF), une revue professionnelle bimensuelle dans laquelle
+«professionnels et spécialistes de l’information discutent de toutes les
+questions concernant la politique et le développement des bibliothèques et des
+centres de documentation: évolution par secteur, grands projets,
+informatisation, technologies de l’information, écrits électroniques, réseaux,
+coopération, formation, gestion, patrimoine, usagers et publics, livre et
+lecture...» Annie Le Saux, rédactrice de la revue, relate en juillet 1998:
+«C’est en 1996 que le BBF a commencé à paraître sur internet (les numéros de
+1995). (...) Nous nous servons beaucoup du courrier électronique pour prendre
+contact avec nos auteurs et pour recevoir leurs articles. Cela diminue
+grandement les délais. Nous avons aussi recours au web pour prendre connaissance
+des sites mentionnés lors de colloques, vérifier les adresses, retrouver des
+indications bibliographiques dans les catalogues des bibliothèques...»
+
+Avec cette manne documentaire qu’offre désormais l’internet, que vont devenir
+les bibliothécaires-documentalistes? Vont-ils devenir des cyberthécaires, ou
+bien vont-ils progressivement disparaître parce que les usagers n’auront tout
+simplement plus besoin d’eux?
+Le métier de bibliothécaire n'en est pas à sa première transformation.
+L’apparition de l'informatique permet au bibliothécaire de remplacer des
+catalogues de fiches sur bristol par des catalogues consultables à l’écran, avec
+un classement alphabétique ou systématique effectué non plus par lui-même mais
+par la machine. L'informatisation du prêt et de la gestion des commandes fait
+disparaître l’impressionnant stock de fiches et bordereaux nécessaires lors des
+opérations manuelles. L’informatique en réseau permet ensuite la gestion de
+catalogues collectifs regroupant dans une même base de données les catalogues
+des bibliothèques de la même région, du même pays ou de la même spécialité,
+entraînant du même coup des services très facilités pour le prêt
+inter-bibliothèques et le regroupement des commandes auprès des fournisseurs.
+Puis les bibliothèques ouvrent un serveur minitel pour la consultation de leur
+catalogue, désormais disponible au domicile du lecteur. Ces catalogues sont
+progressivement transférés sur l’internet, avec une consultation plus souple et
+plus attractive que sur minitel. Outre un catalogue, les sites web des
+bibliothèques offrent un ensemble de documents numérisés ou encore un choix de
+liens hypertextes vers d’autres sites, évitant ainsi aux usagers de se perdre
+sur la toile.
+
+= Quelques expériences
+
+Il ne semble donc pas que la profession soit en danger, au contraire. Piloter
+les usagers sur l’internet, filtrer et organiser l’information à leur intention,
+créer et gérer un site web, rechercher des documents dans des bases de données
+spécialisées, telles sont désormais les tâches de nombreux bibliothécaires. Le
+bibliothécaire devient cyberthécaire, comme en témoignent diverses expériences
+relatées au fil des ans, par Peter Raggett en 1998, Bruno Didier en 1999,
+Bakayoko Bourahima et Emmanuel Barthe en 2000, et Anissa Rachef en 2001.
+
+Peter Raggett est directeur du centre de documentation et d’information (CDI) de
+l’OCDE. Située à Paris, l’OCDE (Organisation de coopération et de développement
+économiques) regroupe trente pays membres. Au noyau d’origine, constitué des
+pays d’Europe de l’Ouest et d’Amérique du Nord, viennent s’ajouter le Japon,
+l’Australie, la Nouvelle-Zélande, la Finlande, le Mexique, la République
+tchèque, la Hongrie, la Pologne et la Corée. Réservé aux fonctionnaires de
+l’organisation, le centre de documentation permet la consultation de quelque
+60.000 monographies et 2.500 périodiques imprimés. En ligne depuis 1996, les
+pages intranet du CDI deviennent une source d’information essentielle pour le
+personnel.
+
+«Je dois filtrer l’information pour les usagers de la bibliothèque, ce qui
+signifie que je dois bien connaître les sites et les liens qu’ils proposent,
+explique Peter Raggett en juin 1998. J’ai sélectionné plusieurs centaines de
+sites pour en favoriser l’accès à partir de l’intranet de l’OCDE. Cette
+sélection fait partie du bureau de référence virtuel proposé par la bibliothèque
+à l’ensemble du personnel. Outre de nombreux liens, ce bureau de référence
+contient des pages recensant les articles, monographies et sites web
+correspondant aux différents projets de recherche en cours à l’OCDE, l’accès en
+réseau aux CD-Rom et une liste mensuelle des nouveaux titres.»
+
+Comment voit-il l’avenir de la profession? «L’internet offre aux chercheurs un
+stock d’informations considérable. Le problème pour eux est de trouver ce qu’ils
+cherchent. Jamais auparavant on n’avait senti une telle surcharge
+d’informations, comme on la sent maintenant quand on tente de trouver un
+renseignement sur un sujet précis en utilisant les moteurs de recherche
+disponibles sur l’internet. A mon avis, les bibliothécaires auront un rôle
+important à jouer pour améliorer la recherche et l’organisation de l’information
+sur le réseau. Je prévois aussi une forte expansion de l’internet pour
+l’enseignement et la recherche. Les bibliothèques seront amenées à créer des
+bibliothèques numériques permettant à un étudiant de suivre un cours proposé par
+une institution à l’autre bout du monde. La tâche du bibliothécaire sera de
+filtrer les informations pour le public. Personnellement, je me vois de plus en
+plus devenir un bibliothécaire virtuel. Je n’aurai pas l’occasion de rencontrer
+les usagers, ils me contacteront plutôt par courriel, par téléphone ou par fax,
+j’effectuerai la recherche et je leur enverrai les résultats par voie
+électronique.»
+
+En 1999, Bruno Didier est bibliothécaire à l’Institut Pasteur (Paris), une
+fondation privée dont le but est la prévention et le traitement des maladies
+infectieuses par la recherche, l’enseignement et des actions de santé publique.
+Séduit par les perspectives qu’offre le réseau pour la recherche documentaire,
+Bruno Didier crée le site web de la bibliothèque en 1996 et devient son
+webmestre. «Le site web de la bibliothèque a pour vocation principale de servir
+la communauté pasteurienne, relate-t-il en août 1999. Il est le support
+d’applications devenues indispensables à la fonction documentaire dans un
+organisme de cette taille: bases de données bibliographiques, catalogue,
+commande de documents et bien entendu accès à des périodiques en ligne. C’est
+également une vitrine pour nos différents services, en interne mais aussi dans
+toute la France et à l’étranger. Il tient notamment une place importante dans la
+coopération documentaire avec les instituts du réseau Pasteur à travers le
+monde. Enfin j’essaie d’en faire une passerelle adaptée à nos besoins pour la
+découverte et l’utilisation d’internet. (...) Je développe et maintiens les
+pages du serveur, ce qui s’accompagne d’une activité de veille régulière. Par
+ailleurs je suis responsable de la formation des usagers, ce qui se ressent dans
+mes pages. Le web est un excellent support pour la formation, et la plupart des
+réflexions actuelles sur la formation des usagers intègrent cet outil.»
+
+Son activité professionnelle a changé de manière radicale, tout comme celle de
+ses collègues. «C’est à la fois dans nos rapports avec l’information et avec les
+usagers que les changements ont eu lieu, explique-t-il. Nous devenons de plus en
+plus des médiateurs, et peut-être un peu moins des conservateurs. Mon activité
+actuelle est typique de cette nouvelle situation: d’une part dégager des chemins
+d’accès rapides à l’information et mettre en place des moyens de communication
+efficaces, d’autre part former les utilisateurs à ces nouveaux outils. Je crois
+que l’avenir de notre métier passe par la coopération et l’exploitation des
+ressources communes. C’est un vieux projet certainement, mais finalement c’est
+la première fois qu’on dispose enfin des moyens de le mettre en place.»
+
+En 2000, Bakayoko Bourahima est responsable de la bibliothèque de l’ENSEA (Ecole
+nationale supérieure de statistique et d’économie appliquée) d’Abidjan, un
+établissement qui assure la formation de statisticiens pour les pays africains
+d’expression française. Le site web de l’ENSEA est mis en ligne en avril 1999
+dans le cadre du réseau REFER, mis sur pied par l’Agence universitaire de la
+Francophonie (AUF) pour desservir la communauté scientifique et technique en
+Europe de l’Est, en Asie et en Afrique (24 pays participants en 2002).
+
+Bakayoko Bourahima s’occupe de la gestion de l’information scientifique et
+technique et de la diffusion des travaux publiés par l’Ecole. En ce qui concerne
+l’internet, «mon service a eu récemment des séances de travail avec l’équipe
+informatique pour discuter de l’implication de la bibliothèque dans l’animation
+du site, relate-t-il en juillet 2000. Le service de la bibliothèque travaille
+aussi à deux projets d’intégration du web pour améliorer ses prestations. (...)
+J’espère bientôt pouvoir mettre à la disposition de mes usagers un accès
+internet pour l’interrogation de bases de données. Par ailleurs, j’ai en projet
+de réaliser et de mettre sur l’intranet et sur le web un certain nombre de
+services documentaires (base de données thématique, informations
+bibliographiques, service de références bibliographiques, bulletin analytique
+des meilleurs travaux d’étudiants...). Il s’agit donc pour la bibliothèque, si
+j’obtiens les financements nécessaires pour ces projets, d’utiliser pleinement
+l’internet pour donner à notre école un plus grand rayonnement et de renforcer
+sa plateforme de communication avec tous les partenaires possibles. En intégrant
+cet outil au plan de développement de la bibliothèque, j’espère améliorer la
+qualité et élargir la gamme de l’information scientifique et technique mise à la
+disposition des étudiants, des enseignants et des chercheurs, tout en étendant
+considérablement l’offre des services de la bibliothèque.»
+
+En 2000, Emmanuel Barthe est documentaliste juridique et responsable
+informatique de Coutrelis & Associés, un cabinet d’avocats parisien. «Les
+principaux domaines de travail du cabinet sont le droit communautaire, le droit
+de l’alimentation, le droit de la concurrence et le droit douanier, écrit-il en
+octobre 2000. Je fais de la saisie indexation, et je conçois et gère les bases
+de données internes. Pour des recherches documentaires difficiles, je les fais
+moi-même ou bien je conseille le juriste. Je suis aussi responsable informatique
+et télécoms du cabinet : conseils pour les achats, assistance et formation des
+utilisateurs. De plus, j’assure la veille, la sélection et le catalogage de
+sites web juridiques: titre, auteur et bref descriptif. Je suis également
+formateur internet juridique aussi bien à l’intérieur de mon entreprise qu’à
+l’extérieur lors de stages de formation.»
+
+Emmanuel Barthe est aussi le modérateur de Juriconnexion, une liste de
+discussion créée par l’association du même nom. «L’association Juriconnexion a
+pour but la promotion de l’électronique juridique, c’est-à-dire la documentation
+juridique sur support électronique et la diffusion des données publiques
+juridiques. Elle organise des rencontres entre les utilisateurs et les éditeurs
+juridiques (et de bases de données), ainsi qu’une journée annuelle sur un thème.
+Vis-à-vis des autorités publiques, Juriconnexion a un rôle de médiateur et de
+lobbying à la fois. L’association, notamment, est favorable à la diffusion
+gratuite sur internet des données juridiques produites par le Journal officiel
+et les tribunaux. Les bibliothécaires-documentalistes juridiques représentent la
+majorité des membres de l’association, suivis par certains représentants des
+éditeurs et des juristes.»
+
+En 2001, Anissa Rachef est bibliothécaire et professeur à l’Institut français de
+Londres. Présents dans nombre de pays, les instituts français sont des
+organismes officiels proposant des cours et manifestations culturelles. A
+Londres, 5.000 étudiants environ s'inscrivent aux cours chaque année. Inaugurée
+en mai 1996, la médiathèque utilise l’internet dès sa création.
+
+«L’objectif de la médiathèque est double, explique Anissa Rachef en avril 2001.
+Servir un public s’intéressant à la culture et la langue françaises et
+"recruter" un public allophone en mettant à disposition des produits d’appel
+tels que vidéos documentaires, livres audio, CD-Rom. La mise en place récente
+d’un espace multimédia sert aussi à fidéliser les usagers. L’installation d’un
+service d’information rapide a pour fonction de répondre dans un temps minimum à
+toutes sortes de questions posées via le courrier électronique, ou par fax. Ce
+service exploite les nouvelles technologies pour des recherches très
+spécialisées. Nous élaborons également des dossiers de presse destinés aux
+étudiants et professeurs préparant des examens de niveau secondaire. Je m’occupe
+essentiellement de catalogage, d’indexation et de cotation. (...) J’utilise
+internet pour des besoins de base. Recherches bibliographiques, commande de
+livres, courrier professionnel, prêt inter-bibliothèques. C’est grâce à internet
+que la consultation de catalogues collectifs, tels SUDOC (Système universitaire
+de documentation) et OCLC (Online Computer Library Center), a été possible.
+C’est ainsi que j’ai pu mettre en place un service de fourniture de documents
+extérieurs à la médiathèque. Des ouvrages peuvent désormais être acheminés vers
+la médiathèque pour des usagers ou bien à destination des bibliothèques
+anglaises.»
+
+
+7.4. Dans la lignée de Handicapzéro
+
+
+L’existence de bibliothèques numériques représente un tournant important pour
+l’accès des personnes handicapées au livre, par exemple les personnes ayant un
+problème visuel, à savoir 10% de la population, ou encore les personnes à
+motricité réduite, par exemple celles qui ne peuvent tenir un livre dans les
+mains ou bien tourner les pages. Pour la première fois, elles peuvent accéder à
+de nombreux titres du patrimoine scientifique et littéraire, et non plus
+seulement à un pourcentage infime, et elles peuvent accéder aux nouveautés sans
+devoir attendre des mois sinon des années.
+
+= Premiers pas
+
+Un département de la Library of Congress, le NLS (National Library Service for
+the Blind and Physically Handicapped), lance en août 1999 un serveur permettant
+aux personnes handicapées visuelles de télécharger des livres, soit au format
+BRF (braille format) pour une lecture sur plage braille ou une impression sur
+imprimante braille, soit au format DAISY (digital accessible information system)
+pour une écoute sur synthèse vocale. A l’ouverture du service, 3.000 livres sont
+disponibles pour téléchargement ou consultables en ligne. Ce service fournit
+aussi un synthétiseur de parole, qui est un logiciel permettant de désagréger le
+texte pour lecture sur synthèse vocale. Les collections du NLS comptent 4.700
+titres en septembre 2003.
+
+De son côté, l’association Recording For the Blind & Dyslexic (RFB&D) enregistre
+4.000 titres par an avec l’aide de 5.000 volontaires officiant dans 32 studios
+d’enregistrement répartis dans tout le pays. Elle est la plus grande association
+de ce type aux Etats-Unis.  En 2002, la RFB&D débute la numérisation de ses
+collections au format DAISY. 6.000 livres audionumériques sont disponibles sur
+CD-Rom en septembre 2002, et 37.500 livres cinq ans plus tard, en septembre
+2007.
+
+Les transcriptions en braille peuvent être rapides quand existent à la fois la
+motivation et les moyens. Le quatrième volet de la série best-seller de Joanne
+K. Rowling, Harry Potter and the Goblet of Fire, est publié par la National
+Braille Press (NBP) en juillet 2000, vingt jours seulement après sa sortie en
+librairie, avec un premier tirage de 500 exemplaires. Si les 734 pages du livre
+«standard» publié par Scholastic donnent 1.184 pages en braille, le prix du
+livre braille n’est pas plus élevé, souligne la NBP. Ce court délai est dû à
+deux facteurs. D’une part, Scholastic fournit le fichier électronique, une
+initiative dont d’autres éditeurs feraient bien de s’inspirer. D’autre part, les
+31 membres de l’équipe de la NBP travaillent sans relâche pendant quinze jours.
+Comme pour les autres titres de la NBP, le livre est également disponible au
+format PortaBook, à savoir un fichier en braille informatique abrégé stocké sur
+disquette, pour lecture sur un lecteur braille portable ou au moyen d’un
+logiciel braille. Sept ans plus tard, en juillet 2007, le septième et dernier
+opus de la série, Harry Potter and the Deathly Hallows, est disponible chez
