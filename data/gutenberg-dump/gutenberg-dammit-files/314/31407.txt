@@ -1,0 +1,878 @@
+In the list on pages 10 and 11 of Delco Radio Owner's Manual Model 633,
+  the second station line for Tulsa (which is CFRB 690) has been removed,
+  as it is believed to be an accidental reprinting of the following station
+  line. Redundant headers and (foot)notes on these pages have also been
+  removed.]
+
+
+
+
+ DELCO RADIO
+ OWNER'S MANUAL
+
+ MODEL 633
+
+
+
+
+INSTALLATION AND OPERATING INSTRUCTIONS
+
+
+This model of the Delco Radio is a six-tube super-heterodyne receiver
+designed for operation with a HEADER type speaker. It comprises the best
+in automotive radio engineering, featuring Syncro-Tuning--the newest,
+most efficient antenna circuit yet developed, and Sensitivity Control.
+
+The speaker and remote control unit are supplied in separate packages
+and are available in a wide variety of types and styles, depending upon
+the make and model of car the unit is to be used on.
+
+The package contains:
+
+
+                                                            _Part No._
+
+ 1 Receiver Unit, complete with tubes
+
+ 1 Speaker Unit (less Adapter)                                 1210934
+
+ 1 Combined Drilling Template and Radio--Dash Spacer
+
+ 2 Chassis Mounting studs, 1/4--20 x 2-1/2                     1207562
+
+ 2 Chassis Mounting Shakeproof Washers                         1208565
+
+ 2 Chassis Mounting Nuts, 1/4--20                               120375
+
+ 1 Antenna Lead                                                1209622
+
+ 1 Distributor Suppressor                                      1207818
+
+ 1 Generator Condenser                                         1849014
+
+ 1 Ammeter Condenser                                           1209333
+
+
+
+
+INSTALLATION
+
+
+=Antenna--=
+
+See Instructions in antenna package.
+
+
+=Chassis--=
+
+This receiver may be installed on any car with Positive or Negative
+ground without any changes of wiring.
+
+When possible, locate the chassis on the driver's side of the dash, over
+the steering column, with the removable cover plate facing the floor.
+This position places the control shafts on the end of the case facing
+the center of the car.
+
+Locate the position of the mounting holes by means of the template
+included in the package. Drill the holes, using a 3/8" drill, and scrape
+the paint from around the holes on the engine side of the dash to insure
+a good ground connection as there is no other ground connection for this
+receiver.
+
+Make sure that all tubes and the vibrator are pushed well down in their
+sockets and that all the grid clips are properly in place on the top
+caps of their respective tubes.
+
+If a six-volt storage battery is available, check the receiver for
+normal operation before permanently installing it on the car. The
+antenna lead and control unit may be temporarily connected for this
+test.
+
+Insert the two receiver mounting studs in the back of the receiver case
+with the "burred" threads nearest the receiver to make sure that these
+studs do not enter the case far enough to cause damage to the receiver
+parts.
+
+Install the receiver, using the drilling template as a spacer between
+the dash and the receiver case. Install the two shakeproof washers over
+the chassis mounting studs. Then tighten the mounting nuts to insure
+that the receiver case shall be thoroughly grounded to the dash.
+
+
+=Antenna Lead--=
+
+Attach the black antenna lead to the car antenna and plug the connector
+on the antenna lead into the receiver chassis as shown in the
+Installation Diagrams. Ground the pigtail of the antenna lead shield to
+a convenient body bolt. Keep antenna lead out of engine compartment to
+avoid possibility of ignition interference being picked up by the
+lead-in.
+
+
+=Speaker--=
+
+See Instructions in speaker package.
+
+
+=Remote Control Unit--=
+
+See Instructions in remote control package.
+
+
+CONTROL UNIT ADJUSTMENT
+
+The volume control and station selector shafts are AUTOMATICALLY
+adjusted as follows:
+
+1. Insert control cables in their respective bushings on the case
+(volume control is upper bushing when receiver is installed in the car),
+until they seat themselves and then tighten the set screws.
+
+2. Turn the station selector knob to the right (clockwise) until it
+stops--then turn the knob counter-clockwise until it stops. The dial is
+now logged.
+
+3. Turn the volume control knob clockwise until the knob turns hard. The
+volume control is now on full.
+
+
+=Eliminating Motor Interference--=
+
+Connect the ammeter condenser to the spring clip at the end of the wire
+containing the fuse holder by means of the self-threading screw on the
+side of the spring clip. Ground the other terminal of the condenser at
+any convenient point.
+
+Install the generator condenser on the generator side of the generator
+cut-out as shown in the Diagram of Connections. DO NOT connect the
+flexible lead to the field terminal of the generator.
+
+Remove the center distributor lead and insert the distributor suppressor
+in its place. Then plug the distributor lead into the suppressor.
+
+
+=Adjusting Delco Syncro-Tuning--=
+
+Turn the receiver on.
+
+Tune-in a radio station which logs between 55 and 65 on the dial and
+gives the radio a signal BARELY AUDIBLE in the speaker WITH the VOLUME
+control FULL ON. A small snap button cap is located in the end of the
+receiver case beside the antenna lead connection. Remove the snap button
+cap by prying with a small screw driver.
+
+By means of a small screw driver inserted in the hole which was covered
+by the small cap, adjust the Delco Syncro-Tuning condenser unit for
+maximum output in the speaker. Remaining on same station, readjust
+station selector for maximum volume and readjust the Delco Syncro-Tuning
+Condenser unit for maximum output. No further adjustment of this unit
+will be necessary as the receiver is now adjusted for best operation
+with your car antenna. Replace the snap button cap.
+
+
+
+
+OPERATION
+
+
+=To Turn On Receiver--=
+
+Some control units have a small knob located below the center of the
+dial. If your receiver is equipped with this type of control push this
+small knob in as far as it will go. Other control units have a
+combination on-off switch and volume control knob. To turn on this type
+of control turn the knob clockwise until the switch clicks and the dial
+is illuminated.
+
+
+=Volume Control--=
+
+Turning the volume control knob toward the right increases the output of
+the receiver and turning it toward the left reduces the output.
+
+
+=How To Tune The Receiver--=
+
+Turn the volume control knob approximately half way to the right. Rotate
+the station selector knob slowly until a station is heard. Tune this
+station in until the minimum amount of background noise is heard.
+Increase or decrease the volume to the desired level by adjusting the
+volume control knob. Careful tuning will result in better tone quality
+from all stations.
+
+If the program being received is from a powerful local station local
+interference may be practically eliminated by turning the sensitivity
+control to the LOCAL position. You then will get the best possible
+reproduction of that station's program.
+
+
+[Illustration: =INSTALLATION DIAGRAMS=
+
+GROUND TO DASH
+
+CASE SPACER AND DRILLING TEMPLATE
+
+DASH
+
+AMMETER CLIP
+
+AMMETER CONDENSER NO. 1209333
+
+ANTENNA LEAD (BLACK)
+
+VOLUME CONTROL BUSHING
+
+FUSE
+
+TO COIL
+
+REMOVE SNAP BUTTON CAP TO ADJUST ANTENNA COMPENSATING CONDENSER
+
+STATION SELECTOR BUSHING
+
+DISTRIBUTOR SUPPRESSOR NO. 1207818
+
+GROUND TO CAR
+
+POWER LEAD
+
+SENSITIVITY CONTROL
+
+TONE CONTROL
+
+ARMATURE TERMINAL
+
+DO NOT CONNECT TO FIELD TERMINAL
+
+VOLUME CONTROL
+
+STATION SELECTOR
+
+GENERATOR CONDENSER 1849014
+
+SUGGESTED GENERATOR CONDENSER CONNECTIONS
+
+ON-OFF SWITCH]
+
+
+=Sensitivity Control--=
+
+The sensitivity control is located on the lower, left front corner of
+the receiver case and when turned to the LOCAL position it decreases the
+sensitivity of the receiver sufficiently to greatly reduce interference
+from street cars, electric signs, X-Ray machines, electrical machinery,
+power lines, etc. It will also eliminate interference from weak
+stations.
+
+When the control is turned to the DISTANCE position the receiver is
+allowed to operate at maximum sensitivity.
+
+
+=Tone Control--=
+
+The tone control is located on the lower, right front corner of the
+receiver case. This control is to be adjusted at the operator's will.
+However, most experienced operators prefer to set it for maximum treble
+response when the car is operated at high speeds.
+
+
+=To Turn Off The Receiver--=
+
+If the control head has a key knob in the center pull the knob out until
+it clicks into the off position and the receiver ceases to operate. If
+you wish to lock the receiver, pull the knob all the way out of the
+control unit and carry it with you.
+
+If you are using the type of control unit which has a combination on-off
+switch and volume control knob turn the knob to the left until the
+receiver ceases to operate.
+
+
+
+
+SERVICE
+
+
+Should your receiver fail to operate, first check the fuse located in
+the fuse holder in the ammeter cable. If you wish to remove your tubes
+and vibrator for test purposes, their location is indicated below.
+
+[Illustration: _Tube Complement_
+
+2 Type 6D6
+1 Type 6A7
+1 Type 6B7
+1 Type 6B5
+1 Type 84]
+
+Any further service work on your receiver should be referred to a
+competent radio service station.
+
+When at home call your local
+
+ DEALER.................................
+
+ AT.....................................
+
+ TELEPHONE..............................
+
+ DATE RADIO INSTALLED...................
+
+
+
+
+PRINCIPAL BROADCAST STATIONS[A]
+
+ARRANGED ALPHABETICALLY BY CITIES
+
+
+ =Abilene, Kans.=
+   KFBI                1050
+
+ =Albuquerque, N. M.=
+   KOB                 1180
+
+ =Alexandria, Va.=
+   WJSV                1460
+
+ =Amarillo, Tex.=
+   KGRS                1410
+   WDAG                1410
+
+ =Ames, Iowa=
+   WOI                  640
+
+ =Asheville, N. C.=
+   WWNC                 570
+
+ =Atlanta, Ga.=
+   WSB                  740
+
+ =Atlantic City, N. J.=
+   WPG                 1100
+
+ =Baltimore, Md.=
+   WBAL                1060
+
+ =Belle Plaine (Moose Jaw), Sask.=
+   CJRM                 540
+
+ =Billings, Mont.=
+   KGHL                 950
+
+ =Birmingham, Ala.=
+   WAPI                1140
+
+ =Bismarck, N. D.=
+   KFYR                 550
+
+ =Boise, Idaho=
+   KIDO                1350
+
+ =Boston, Mass.=
+   WBZ                  990
+   WBZA                 990
+   WEEI                 590
+   WHDH                 830
+   WNAC                1230
+
+ =Brookings, S. D.=
+   KFDY                 550
+
+ =Brooklyn, N. Y.=
+   WBBR                1300
+
+ =Buffalo, N. Y.=
+   WBEN                 900
+   WGR                  550
+   WKWB                1480
+
+ =Chattanooga, Tenn.=
+   WDOD               1280
+
+ =Chicago, Ill.=
+   WBBM                770
+   WCFL                970
+   WENR                870
+   WGN                 720
+   WJJD               1130
+   WLS                 870
+   WMAQ                670
+   WMBI               1080
+   KYW                1020
+
+ =Charlotte, N. C.=
+   WBT                1080
+
+ =Cincinnati, Ohio=
+   WLW                 700
+
+ =Clay Center, Nebr.=
+   KMMJ                740
+
+ =Cleveland, Ohio=
+   WHK                1390
+   WTAM               1070
+
+ =Colorado Springs, Col.=
+   KVOR               1270
+
+ =Council Bluffs, Ia.=
+   KOIL               1260
+
+ =Covington, Ky.=
+   WCKY               1490
+
+ =Dallas, Tex.=
+   KRLD               1040
+   WFAA                800
+
+ =Denver, Colo.=
+   KLZ                 560
+   KOA                 830
+
+ =Des Moines, Ia.=
+   WOC                1000
+
+ =Detroit, Mich.=
+   WWJ                 920
+   WJR                 750
+   WXYZ               1240
+
+ =Eau Claire, Wis.=
+   WTAQ               1330
+
+ =Edmonton, Alta.=
+   CJCA                730
+
+ =Elmira, N. Y.=
+   WESG               1040
+
+ =Fargo, N. D.=
+   WDAY                940
+
+ =Fayetteville, Ark.=
+   KUOA               1260
+
+ =Fort Wayne, Ind.=
+   WOWO               1160
+
+ =Fort Worth, Tex.=
+   KTAT               1240
+   WBAP                800
+
+ =Gainesville, Fla.=
+   WRUF                830
+
+ =Gary, Ind.=
+   WIND                560
+
+ =Great Falls, Mont.=
+   KFBB               1280
+
+ =Harrisburg, Pa.=
+   WBAK              1430
+
+ =Hartford, Conn.=
+   WDRC              1330
+   WTIC              1060
+
+ =Havana, Cuba=
+   CMCQ               780
+   CMK                730
+   CMW                590
+   CMX                890
+
+ =Hollywood, Cal.=
+   KFWB               950
+
+ =Honolulu, Hawaii=
+   KGU                750
+
+ =Hot Springs National Park, Ark.=
+   KTHS              1040
+
+ =Houston, Tex.=
+   KPRC               920
+
+ =Indianapolis, Ind.=
+   WFBM              1230
+
+ =Jackson, Miss.=
+   WJDX              1270
+
+ =Jacksonville, Fla.=
+   WJAX               900
+
+ =Kalamazoo, Mich.=
+   WKZO               590
+
+ =Kansas City, Mo.=
+   KMBC               950
+   WDAF               610
+   WOQ                1300
+
+ =Knoxville, Tenn.=
+   WNOX                560
+
+ =La Crosse, Wis.=
+   WKBH               1380
+
+ =La Prairie (Montreal), Que.=
+   CRCM                910
+
+ =Lawrence, Kans.=
+   WREN               1220
+
+ =Lansing, Mich.=
+   WKAR               1040
+
+ =Lincoln, Nebr.=
+   KFAB                770
+
+ =Little Rock, Ark.=
+   KLRA               1390
+
+ =Long Beach, Cal.=
+   KFOX               1250
+   KGER               1360
+
+ =Los Angeles, Cal.=
+   KECA               1430
+   KFAC               1300
+   KFI                 640
+   KHJ                 900
+   KNX                1050
+
+ =Louisville, Ky.=
+   WAVE                940
+   WHAS                820
+
+ =Lulu Island (Vancouver Island), B. C.=
+   CRCV               1100
+
+ =Madison, Wis.=
+   WHA                 940
+
+ =Mexico City, Mexico=
+   XEB                1030
+   XEN                 711
+   XEW                 910
+   XFG                 638
+   XFI                 818
+   XEFO                940
+   XETR                610
+
+ =Miami Beach, Fla.=
+   WMBF               1300
+
+ =Miami, Fla.=
+   WIOD               1300
+   WQAM                560
+
+ =Milwaukee, Wis.=
+   WTMJ                620
+
+ =Minneapolis, Minn.=
+   WCCO                810
+   WDGY               1180
+   WLB                1250
+   WRHM               1250
+
+ =Montreal, Que.=
+   CKAC                730
+
+ =Nashville, Tenn.=
+   WLAC               1470
+   WSM                 650
+
+ =Newark, N. J.=
+   WAAM               1250
+   WNEW               1250
+   WOR                 710
+
+ =New Orleans, La.=
+   WDSU               1250
+   WWL                 850
+
+ =New York, N. Y.=
+   WABC                860
+   WEAF                660
+   WFAB               1300
+   WJZ                 760
+   WLWL               1100
+   WOV                1130
+
+ =Norfolk, Nebr.=
+   WJAG               1060
+
+ =Northfield, Minn.=
+   WCAL               1250
+
+ =Oakland, Cal.=
+   KLX                 880
+
+ =Oklahoma, Okla.=
+   WKY                 900
+   KOMA               1480
+
+ =Omaha, Nebr.=
+   WOW                 590
+
+ =Ottawa, Ont.=
+   CRCO                880
+
+ =Philadelphia, Pa.=
+   WCAU               1170
+
+ =Piedras Negras, Coahuila=
+   XEPN                585
+
+ =Pittsburgh, Pa.=
+   KDKA                980
+   WCAE               1220
+   WJAS               1290
+
+ =Portland, Me.=
+   WCSH                940
+
+ =Portland, Ore.=
+   KEX                1180
+   KGW                 620
+   KOIN                940
+
+ =Pullman, Wash.=
+   KWSC               1220
+
+ =Raleigh, N. C.=
+   WFTF                680
+
+ =Reading, Pa.=
+   WEEU                830
+
+ =Reynosa, Tamaulipas=
+   XEAW                956
+
+ =Richmond, Va.=
+   WRVA               1110
+
+ =Rochester, N. Y.=
+   WHAM               1150
+
+ =Salt Lake City, Utah=
+   KDYL               1290
+   KSL                1130
+
+ =San Antonio, Tex.=
+   KTSA               1290
+   WOAI               1190
+
+ =San Diego, Cal.=
+   KFSD                600
+   KGB                1330
+
+ =San Francisco, Cal.=
+   KFRC                610
+   KGO                 790
+   KPO                 680
+   KTAB                560
+   KYA                1230
+
+ =San Juan, Puerto Rico=
+   WKAQ               1240
+
+ =Schenectady, N. Y.=
+   WGY                 790
+
+ =Seattle, Wash.=
+   KJR                 970
+   KOL                1270
+   KOMO                920
+   KTW                1220
+
+ =Shreveport, La.=
+   KTBS               1450
+   KWKH                850
+
+ =Sioux City, Iowa=
+   KSCJ               1330
+
+ =Sioux Falls, S. D.=
+   KSOO               1110
+
+ =Spokane, Wash.=
+   KFPY               1340
+   KGA                1470
+   KHQ                 590
+
+ =Stevens Point, Wis.=
+   WLBL                900
+
+ =St. Joseph, Mo.=
+   KFEQ                680
+
+ =St. Louis, Mo.=
+   KMOX               1090
+   KWK                1350
+   WEW                 760
+
+ =St. Paul, Minn.=
+   KSTP               1460
+
+ =Strathmore (Calgary), Alta.=
+   CFCN               1030
+
+ =Superior, Wis.=
+   WEBC               1290
+
+ =Syracuse, N. Y.=
+   WFBL               1360
+
+ =Tallmadge, Ohio=
+   WADC               1320
+
+ =Tampa, Fla.=
+   WDAE               1220
+
+ =Toledo, Ohio=
+   WSPD               1340
+
+ =Topeka, Kans.=
+   WIBW                580
+
+ =Toronto, Ont.=
+   CRCT                960
+
+ =Tulsa, Okla.=
+   KVOO               1140
+
+ =Twp. of Kingston (Toronto), Ont.=
+   CFRB                690
+
+ =Villa Acuna, Coahuila=
+   XER                 735
+
+ =Wheeling, W. Va.=
+   WWVA               1160
+
+ =Wichita, Kans.=
+   KFH                1300
+
+ =Windsor, Ont.=
+   CKLW                840
+
+ =Winnipeg, Man.=
+   CKY                 910
+
+ =Yankton, S. D.=
+   WNAX                570
+
+ =York, Pa.=
+   WORK               1000
+
+ =Zion, Ill.=
+   WCBD               1080
+
+
+[A] Stations listed include only those of 1000 watts power (or
+higher).
+
+NOTE: Numbers following call letters indicate approximate dial setting.
+
+
+
+
+WARRANTY
+
+(_This Warranty not applicable outside U.S.A._)
+
+Your Delco Radio Carries the Same Guarantee As Your Car
+
+
+"The manufacturer warrants each new radio receiving set manufactured by
+it to be free from defects in material and workmanship under normal use
+and service, its obligation under this warranty being limited to making
+good at its factory or designated Branches any part or parts thereof
+which shall within ninety (90) days or 4,000 miles whichever expires
+first, after installation of such auto radio receiving set for the
+original purchaser, be returned to it with transportation charges
+prepaid and which its examination shall disclose to its satisfaction to
+have been thus defective; this warranty being expressly in lieu of all
+other warranties expressed or implied and of all other obligations or
+liabilities on its part, and the manufacturer neither assumes nor
+authorizes any other person to assume for it any other liability in
+connection with the sale of its products."
+
+"This warranty shall not apply to any radio receiving set which shall
+have been repaired or altered outside manufacturer's authorized Service
+Stations in any way so as in the judgment of the manufacturer to affect
+its stability, or on parts not made or authorized by the manufacturer
+have been used for replacement or other purposes, nor which has been
+subject to misuse, negligence, or accident."
+
+
+ UNITED MOTORS SERVICE, INC.
+
+ DETROIT, MICH.
+
+
+ Form No. 2095                          Printed in U. S. A.
+
+
+
+
+===========================================================================
+===========================================================================
+
+
+
+
+ Delco
+
+
+ Rebuilt                                            1 55-D
+ Delcotron Generator                               1845985
+
+
+ Rebuilt by Delco-Remy. Division of General Motors, Anderson, Indiana,
+ 46011
+ Made in U.S.A.              275829                  Printed in U.S.A.
+
+
+
+
+12-17-71                        DR-7086
+
+
+INSTALLING SERVICE DELCOTRON(R) GENERATOR
+
+1. DISCONNECT GROUNDED CABLE FROM BATTERY.
+
+2. If it is necessary to rotate the slip ring end frame to match the
+unit being replaced, remove the thru bolts, separate frames just far
+enough to rotate to desired position and replace thru bolts.
+
+CAUTION: Separating the end frame too far causes the brushes to drop on
+to the greased shaft. If this happens, remove end frame completely,
+clean brushes with clean cloth, reassemble springs and brushes retaining
+them in position with a pin (toothpick). Remove pin after frames are
+reassembled.
+
+
+WHEN INSTALLING DELCOTRON(R) GENERATOR WITH INTEGRAL REGULATOR, THE SLIP
+RING END FRAME MOUNTING BRACKET IS NOT NEEDED.
+
+3. When reusing the original fan, pulley and collar, tighten shaft nut
+to 40 to 60 lb. ft. If torque wrench is not available, insert a 5/16"
+hex wrench in end of shaft and tighten nut until the spring washer is
+just flattened.
+
+4. Install Delcotron(R) Generator and check belt tension, mounting bolt
+tightness and make sure all electrical connections are clean and secure.
+
+IMPORTANT: Never operate the Delcotron(R) Generator without being
+connected to the battery. Never attempt to polarize the Delcotron(R)
+Generator.
+
+
+DELCO-REMY Division of General Motors Anderson, Indiana              BPI

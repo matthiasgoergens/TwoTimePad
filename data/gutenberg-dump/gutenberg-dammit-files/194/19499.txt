@@ -1,0 +1,1636 @@
+_Serenade, serenata_--an evening song.
+
+_Sextet_--a composition for six voices or instruments.
+
+_Sextuplet_--a group of six notes to be performed in the time ordinarily
+given to four of the same value. The sextuplet differs from a pair of
+_triplets_ in having but one accent.
+
+_Simile, similiter_--the same; indicating that the same general effect
+is to be continued.
+
+_Solfeggio, solfège_--a vocal exercise sung either on simple vowels or
+on arbitrary syllables containing these simple vowel sounds. Its purpose
+is to develop tone quality and flexibility. These terms are also often
+applied to classes in sight-singing which use the sol-fa syllables.
+
+_Sopra_--above.
+
+_Soprano_--the highest female voice. Range approximately b--c'''.
+
+_Sostenuto_--sustained or connected; the opposite of _staccato_.
+
+_Sotto_--under. _E.g._, _sotto voce_--under the voice, _i.e._, with
+subdued tone.
+
+_Solmization_--sight-singing by syllable.
+
+_Staccato_--detached; the opposite of _legato_.
+
+_Subito_--suddenly.
+
+_Tenor_--the highest male voice. Range approximately d--c''.
+
+_Tenuto_--(from _teneo_, to hold)--a direction signifying that the tones
+are to be prolonged to the full value indicated by the notes.
+
+_Toccata_--a brilliant composition for piano or organ, usually
+characterized by much rapid staccato playing.
+
+_Triplet_--a group of three tones, to be performed in the time
+ordinarily given to two of the same value. The first tone of the triplet
+is always slightly accented.
+
+_Tutti_--(derived from _totus_, _toti_, Latin--all)--a direction
+signifying that all performers are to take part. Also used occasionally
+to refer to a passage where all performers do take part.
+
+
+
+
+APPENDIX A
+
+THE HISTORY OF MUSIC NOTATION
+
+
+Many conflicting statements have been made regarding the history and
+development of music writing, and the student who is seeking light on
+this subject is often at a loss to determine what actually did happen in
+the rise of our modern system of writing music. We have one writer for
+example asserting that staff notation was begun by drawing a single red
+line across the page, this line representing the pitch _f_ (fourth line,
+bass staff), the _neumae_ (the predecessors of our modern _notes_)
+standing either for this pitch _f_, or for a higher or lower pitch,
+according to their position _on_ the line, or _above_ or _below_ it.
+"Another line," continues this writer, "this time of yellow color, was
+soon added above the red one, and this line was to represent c' (middle
+C). Soon the colors of these lines were omitted and the _letters_ F and
+C were placed at the beginning of each of them. From this arose our F
+and C clefs, which preceded the G clef by some centuries."[37]
+
+[Footnote 37: Elson--Music Dictionary, article, "Notation."]
+
+Another writer[38] gives a somewhat different explanation, stating that
+the staff system with the use of clefs came about through writing a
+letter (C or F) in the margin of the manuscript and drawing a line from
+this letter to the neume which was to represent the tone for which this
+particular letter stood.
+
+[Footnote 38: Goddard--The Rise of Music, p. 177.]
+
+A third writer[39] asserts that because the alphabetical notation was
+not suitable for recording melodies because of its inconvenience in
+sight-singing "points were placed at definite distances above the words
+and above and below one another." "In this system ... everything
+depended on the accuracy with which the points were interspersed, and
+the scribes, as a guide to the eye, began to scratch a straight line
+across the page to indicate the position of one particular scale degree
+from which all the others could be shown by the relative distances of
+their points. But this was not found sufficiently definite and the
+scratched line was therefore colored red and a second line was added,
+colored yellow, indicating the interval of a fifth above the first."
+
+[Footnote 39: Williams in Grove's Dictionary, article, "Notation."]
+
+It will be noted that all three writers agree that a certain thing
+happened, but as in the case of the four Gospels in the New Testament,
+not all the writers agree on details and it is difficult to determine
+which account is most nearly accurate in detail as well as in general
+statement. Communication was much slower a thousand years ago than now
+and ideas about new methods of doing things did not spread rapidly,
+consequently it is entirely possible that various men or groups of men
+in various places worked out a system of notation differing somewhat in
+details of origin and development but alike in final result. The point
+is that the development of musical knowledge (rise of part-writing,
+increased interest in instrumental music, etc.), demanded a more exact
+system of notation than had previously existed, just as the development
+of science in the nineteenth century necessitated a more accurate
+scientific nomenclature, and in both cases the need gave rise to the
+result as we have it to-day.
+
+Out of the chaos of conflicting statements regarding the development of
+music notation, the student may glean an outline-knowledge of three
+fairly distinct periods or stages, each of these stages being intimately
+bound up with the development of _music_ itself in that period. These
+three stages are:
+
+     (1) The Greek system, which used the letters of the alphabet
+     for representing fixed pitches.
+
+     (2) The period of the neumae.
+
+     (3) The period of staff notation.
+
+Of the Greek system little is known beyond the fact that the letters of
+the alphabet were used to represent pitches. This method was probably
+accurate enough, but it was cumbersome, and did not afford any means of
+writing "measured music" nor did it give the eye any opportunity of
+grasping the general outline of the melody in its progression upward and
+downward, as staff notation does. The Greek system seems to have been
+abandoned at some time preceding the fifth century. At any rate it was
+about this time that certain _accent marks_ began to be written above
+the text of the Latin hymns of the church, these marks serving to
+indicate in a general way the progress of the melody. E.g., an upward
+stroke of the pen indicated a rise of the melody, a downward stroke a
+fall, etc. In the course of two or three centuries these marks were
+added to and modified quite considerably, and the system of notation
+which thus grew up was called "neume notation," the word _neume_
+(sometimes spelled _neuma_, or _pneuma_) being of Greek origin and
+meaning a _nod_ or _sign_.
+
+This system of neumes was in some ways a retrogression from the Greek
+letter system, for the neumes indicated neither definite pitches nor
+definite tone-lengths. But it had this advantage over the Greek system,
+that the position of the signs on the page indicated graphically to the
+eye the general direction of the melody, as well as giving at least a
+hint concerning the relative highness or lowness of each individual tone
+(the so-called _diastematic system_), and this was a great aid to the
+eye in singing, just as the relative highness and lowness of notes on
+the modern staff is of great value in reading music at the present time.
+Thus although the neumae did not enable one to sing a new melody at
+sight as our modern staff notation does, yet they served very well to
+recall to the eye the general outline of a melody previously learned by
+ear and therefore enabled the singer (the system was used for vocal
+music only) to differentiate between that particular melody and the
+dozens of others which he probably knew. Neume notation was used mostly
+in connection with the "plain-song melodies" of the Church, and since
+the words of these chants were sung as they would be pronounced in
+reading, the deficiency of the neume system in not expressing definite
+duration values was not felt. But later on with the rise of so-called
+"measured music" (cf. invention of opera, development of independent
+instrumental music, etc.), this lack was seen to be one of the chief
+disadvantages of the system.
+
+The elements of neume-writing as given by Riemann in his Dictionary of
+Music are:
+
+"(1) The signs for a single note: Virga (Virgula) and Punctus (Punctum).
+(2) The sign for a rising interval: Pes (Podatus). (3) The sign for a
+falling interval: Clinis (Flexa). (4) Some signs for special manners of
+performance: Tremula (Bebung), Quilisma (shake), Plica (turn), etc. The
+others were either synonyms of the above-named or combinations of
+them...."
+
+Since music in the middle ages was always copied by hand, it will
+readily be understood that these neumae were not uniform either in shape
+or size, and that each writer made use of certain peculiarities of
+writing, which, although perfectly intelligible to himself, could not
+readily be interpreted by others (cf. writing shorthand). Here then we
+observe the greatest weakness of the neume system--its lack of
+uniformity and its consequent inability accurately to express musical
+ideas for universal interpretation.
+
+     Examples of several neumes are given merely in order to give
+     the beginner a general idea of their appearance.
+
+     Virga [virga symbol] or [virga symbol]. Punctus [punctus
+     symbol] or [punctus symbol]. Pes [pes symbol] or [pes symbol].
+     Clinis [clinis symbol] or [clinis symbol].
+
+As music grew more and more complex, and especially as writing in
+several parts came into use (cf. rise of organum, descant, and
+counterpoint), it became increasingly difficult to express musical ideas
+on the basis of the old notation, and numerous attempts were made to
+invent a more accurate and usable system. Among these one of the most
+interesting was that in which the words of the text were written in the
+spaces between long, parallel lines, placing the initial letters of the
+words _tone_ and _semi-tone_ at the beginning of the line to indicate
+the scale interval. An example will make this clear.
+
+[Illustration]
+
+This indicated the precise melodic interval but did not give any idea of
+the rhythm, and the natural accents of the text were the only guide the
+singer had in this direction, as was the case in neume-notation and in
+early staff-notation also. Various other attempts to invent a more
+definite notation were made, but all were sporadic, and it was not until
+the idea of using the lines (later lines and spaces) to represent
+definite pitches, and writing notes of various shapes (derived from the
+neumae) to indicate relative duration-values--it was only when this
+combination of two elements was devised that any one system began to be
+universally used.
+
+Just how the transition from _neume_ to _staff_ notation was made no one
+knows: it was not done in a day nor in a year but was the result of a
+gradual process of evolution and improvement. Nor is it probable that
+any one man deserves the entire credit for the invention of staff
+notation, although this feat is commonly attributed to an Italian monk
+named Guido d'Arezzo (approximate dates 995-1050). To this same monk we
+are indebted, however, for the invention of the syllables (UT, RE, MI,
+etc.) which (in a somewhat modified form) are so widely used for
+sight-singing purposes. (For a more detailed account of the transition
+to staff notation, see Grove, op. cit. article _notation_.) It will now
+be readily seen that our modern notation is the result of a combination
+of two preceding methods (the Greek letters, and the neumes) together
+with a new element--the staff, emphasizing the idea that _higher tones_
+are written _higher_ on the staff than lower ones. The development of
+the neumes into notes of various shapes indicating relative time values
+and the division of the staff into measures with a definite measure
+signature at the beginning are natural developments of the earlier
+primitive idea. In the system of "musica mensurabilis" or _measured
+music_ which was inaugurated a little later, the _virga_ (which had
+meanwhile developed into a square-headed neume) was adopted as the
+_longa_ or long note, and the punctus in two of its forms as _breve_ and
+_semi-breve_ (short and half-short). The longa is now extinct, but the
+modern form of the breve is still used as the double-whole-note, and the
+semi-breve is our modern whole-note.
+
+Red-colored notes were sometimes used to indicate changes in value and
+before long outline notes (called _empty notes_) came into use, these
+being easier to make than the solid ones. The transition from square-
+and diamond-shaped notes to round and oval ones also came about because
+of the greater facility with which the latter could be written, and for
+the same reason notes of small denomination were later "tied together"
+or _stroked_. This latter usage began about 1700 A.D.
+
+It is interesting to find that when "measured music" was finally
+inaugurated there were at first but two measure-signatures, viz.--the
+circle, standing for three-beat measure (the so-called _perfect
+measure_) and the semi-circle (or broken circle) which indicated
+two-beat measure. Occasionally three-beat measure was indicated by three
+vertical strokes at the beginning of the melody, while two-beat measure
+was shown by two such strokes. Upon the basis of these two varieties of
+measure, primitive in conception though they may have been, has been
+built nevertheless the whole system now employed, and in the last
+analysis all forms of measure now in use will be found to be of either
+the two-beat or the three-beat variety. The circle has disappeared
+entirely as a measure-sign, but the broken circle still survives, and
+from it are derived the familiar signs [common-time symbol] and
+[cut-time symbol], which are sometimes erroneously referred to as being
+the initial letter of our word _common_ (as used in the expression
+"common time"). The transition from the older style of measure-signature
+to the present one seems to have occurred during the century following
+the invention of opera, _i.e._, from about 1600 to about 1700 A.D.
+
+The rest came into use very soon after "measured music" began to be
+composed and we soon find rests corresponding with the various
+denominations of notes in use, viz.:
+
+[Illustration]
+
+The terms applied to these rests vary in different authorities, but it
+will be noted that the _pausa_, _semi-pausa_, and _suspirum_ correspond
+respectively to the double-whole-rest, whole-rest, and half-rest in use
+at present.
+
+The bar and double bar may be developments of the _maxima rest_ (as some
+writers suggest) but are probably also derived from the practice of
+drawing a line vertically through the various parts of a score to show
+which notes belonged together, thus facilitating score reading. The bar
+may occasionally be found as early as 1500, but was not employed
+universally until 1650 or later.
+
+The number of lines used in the staff has varied greatly since the time
+of Guido, there having been all the way from four to fifteen at various
+times and in various places, (_four_ being the standard number for a
+long time). These lines (when there were quite a number in the staff)
+were often divided into _groups of four_ by _red_ lines, which were not
+themselves used for notes. These red lines were gradually omitted and
+the staff divided into sections by a space, as in modern usage. The
+number of lines in each section was changed to five (in some cases six)
+for the sake of having a larger available range in each section.
+
+The clefs at the beginning of the staffs are of course simply altered
+forms of the letters F, C, and G, which were written at first by Guido
+and others to make the old neume notation more definite.
+
+The staccato sign seems not to have appeared until about the time of
+Bach, the legato sign being also invented at about the same time. The
+fermata was first used in imitative part-writing to show where each part
+was to stop, but with the development of harmonic writing the present
+practice was inaugurated. Leger lines came into use in the seventeenth
+century.
+
+Sharps and flats were invented because composers found it necessary to
+use other tones than those that could be represented by the staff
+degrees in their natural condition. The history of their origin and
+development is somewhat complicated and cannot be given here, but it
+should be noted once more that it was the need of expressing more than
+could be expressed by the older symbols that called forth the newer and
+more comprehensive method. The use of sharps and flats in key signatures
+grew up early in the seventeenth century. In the earlier signatures it
+was customary to duplicate sharps or flats on staff degrees having the
+same pitch-name, thus: [Illustration] [Illustration]. (The use of the G
+clef as here shown did not of course exist at that time.)
+
+The double-sharp and double-flat became necessary when "equal
+temperament" (making possible the use of the complete cycle of keys) was
+adopted. This was in the time of Bach (1685-1750).
+
+Signs of expression (relating to tempo and dynamics) date back at least
+as far as the year 1000 A.D., but the modern terms used for this purpose
+did not appear until some years after the invention of opera, the date
+given by C.F.A. Williams in Grove's Dictionary being 1638. These words
+and signs of expression were at first used only in connection with
+instrumental music, but were gradually applied to vocal music also.
+
+Other systems of notation have been invented from time to time in the
+course of the last two or three centuries, but in most cases they have
+died with their inventors, and in no case has any such system been
+accepted with anything even approaching unanimity. The tonic-sol-fa
+system[40] is used quite extensively in England for vocal music, but
+has gained little ground anywhere else and the chances are that the
+present system of notation, with possibly slight additions and
+modifications, will remain the standard notation for some time to come
+in spite of the attacks that are periodically made upon it on the ground
+of cumbersomeness, difficulty in teaching children, etc. The main
+characteristics of staff notation may be summed up as follows:
+
+[Footnote 40: The _tonic-sol-fa system_ represents an attempt to invent
+a simpler notation to be used by beginners, (especially in the lower
+grades of the public schools) and by singers in choral societies who
+have never learned to interpret staff notation and who therefore find
+some simpler scheme of notation necessary if they are to read music at
+all.
+
+In this system the syllables _do_, _re_, _mi_, etc., (in phonetic
+spelling) are used, the tone being arrived at in each case, first by
+means of a firmly established sense of tonality, and second by
+associating each diatonic tone with some universally felt emotional
+feeling: thus _do_ is referred to as the _strong_ tone, _mi_ as the
+_calm_ one, and _la_ as the _sad_ tone, great emphasis being placed upon
+_do_ as the center of the major tonality, and upon _la_ as the center of
+the minor. The system is thus seen to have one advantage over staff
+notation, viz.: that in presenting it _the teacher is compelled to begin
+with a presentation of actual tones_, while in many cases the teacher of
+staff notation begins by presenting facts regarding the staff and other
+symbols before the pupil knows anything about tone and rhythm as such.
+
+The symbol for each diatonic tone is the initial letter of the syllable
+(_i.e._, d for _do_, r for _re_, etc.), the key being indicated by a
+letter at the beginning of the composition. The duration-value of tones
+is indicated by a system of bars, dots, and spaces, the bar being used
+to indicate the strongest pulse of each measure (as in staff notation)
+the beats being shown by the mark: a dash indicating the continuation of
+the same tone through another beat. If a beat has two tones this is
+indicated by writing the two initial letters representing them with a .
+between them. A modulation is indicated by giving the new key letter and
+by printing the syllable-initials from the standpoint of both the old
+and the new _do_-position. The figure ' above and to the right of the
+letter indicates the tone in the octave above, while the same figure
+below and to the right indicates the octave below. A blank space
+indicates a rest. The tune of My Country, 'Tis of Thee, as printed in
+tonic sol-fa notation below will make these points clear.
+
+Key F
+
+|d  :d :r |t_1 :-.d :r  |m :m :f |m :-.r :d |r :d   :t_1 |d :--  :-- |
+|s  :s :s |s   :-.f :m  |f :f :f |f :-.m :r |m :f.m :r.d |m :-.f :s  |
+|l.f:m :r |d   :--  :-- |
+
+The advantages of the system are (1) the strong sense of key-feeling
+aroused and the ease with which modulations are felt; and (2) the fact
+that it is necessary to learn to sing in but one key, thus making
+sight-singing a much simpler matter, and transposition the easiest
+process imaginable. But these are advantages from the standpoint of the
+vocalist (producing but one tone at a time) only, and do not apply to
+instrumental music. The scheme will therefore probably be always
+restricted to vocal music and will hardly come into very extensive use
+even in this field, for the teacher of music is finding it perfectly
+possible to improve methods of presentation to such an extent that
+learning to sing from the staff becomes a very simple matter even to the
+young child. And even though this were not true, the tonic-sol-fa will
+always be hampered by the fact that since all letters are printed in a
+straight horizontal line the ear does not have the assistance of the eye
+in appreciating the rise and fall of melody, as is the case in staff
+notation.]
+
+     1. Pitches represented by lines and spaces of a staff, the
+     higher the line, the higher the pitch represented, signs
+     called clefs at the beginning of each staff making clear the
+     pitch names of the lines and spaces.
+
+     2. Duration values shown by _shapes_ of notes.
+
+     3. Accents shown by position of notes on the staff with regard
+     to bars, _i.e._, the strongest accent always falls just after
+     the bar, and the beat relatively least accented is found just
+     before the bar.
+
+     4. Extent and description of beat-groups shown by
+     measure-signs.
+
+     5. Key shown by key signature placed at the beginning of each
+     staff.
+
+     6. Rate of speed, dynamic changes, etc., shown by certain
+     Italian words (_allegro_, _andante_, etc.), whose meaning is
+     as universally understood as staff notation itself.
+
+
+
+
+APPENDIX B
+
+MUSICAL INSTRUMENTS
+
+
+1. Broadly speaking, musical instruments may be divided into two
+classes, viz.: (1) those that have a keyboard and are therefore capable
+of sounding several tones simultaneously; (2) those that (as a rule)
+sound only one tone at a time, as the violin and trumpet. The piano is
+of course the most familiar example of the first class, and a brief
+description is therefore given.
+
+     The _piano_ was invented about two hundred years ago by
+     Cristofori (1651-1731), an Italian. It was an enormous
+     improvement over the types of keyboard instrument that were in
+     use at that time (clavichord, harpsichord, spinet, virginal)
+     and has resulted in an entirely different style of
+     composition. See note on embellishments, p. 26.
+
+2. The most characteristic things about the _piano_ as contrasted with
+its immediate predecessors are: (1) that on it the loudness and softness
+of the tone can be regulated by the force with which the keys are struck
+(hence the name _pianoforte_ meaning literally the _soft-loud_); (2) the
+fact that the piano is capable of sustaining tone to a much greater
+extent than its predecessors. In other words the tone continues sounding
+for some little time after the key is struck, while on the earlier
+instruments it stopped almost instantly after being sounded.
+
+The essentials of the piano mechanism are:
+
+     1. Felt hammers controlled by keys, each hammer striking two
+     or three strings (which are tuned in unison) and immediately
+     rebounding from these strings, allowing them to vibrate as
+     long as the key is held down. The mechanism that allows the
+     hammers to rebound from the strings and fall into position for
+     another blow is called the _escapement_.
+
+     2. A damper (made of softer felt) pressing against each string
+     and preventing it from vibrating until it is wanted.
+
+     3. A keyboard action that controls both hammers and dampers,
+     causing the damper to leave the string at the same instant
+     that the hammer strikes it.
+
+     4. A pedal (damper pedal) controlling all of the dampers, so
+     that at any moment all the strings may be released so as to be
+     free to vibrate.
+
+Other interesting details are:
+
+     1. The strings are stretched over a thin sheet of wood called
+     the sound-board. This aids greatly in intensifying the tone.
+
+     2. The soft pedal (the one at the left) in an _upright piano_
+     causes the hammers to move up nearer the strings, and the
+     shorter swing thus afforded causes a less violent blow and
+     consequently a softer tone. In the _grand piano_ this same
+     pedal shifts the mechanism to one side so that the hammers
+     strike only one or two of the strings, this resulting in a
+     softer tone of somewhat modified quality.
+
+These details regarding the mechanism of the piano can easily be
+verified by removing the front of any ordinary upright piano and
+observing what takes place when the keys are struck or the pedals
+depressed.
+
+3. There are two familiar types of _organ_ in use at the present time,
+(1) the reed organ, (2) the pipe-organ.
+
+The _reed organ_ is very simple in construction, the tone being produced
+by the vibration of metal reeds (fixed in little cells), through which
+air is forced (or sucked) from the bellows, the latter being usually
+worked by the feet of the player. More power may be secured either by
+drawing additional stops, thus throwing on more sets of reeds, or by
+opening the knee swells which either throw on more reeds (sometimes
+octave couplers) or else open a _swell box_ in which some of the reeds
+are enclosed, the tone being louder when the box is open than when
+closed. More tone may also be secured by pumping harder.
+
+4. The essential characteristic of the _pipe-organ_ is a number of sets
+or registers of pipes called _stops_, each set being capable (usually)
+of sounding the entire chromatic scale through a range of five or six
+octaves. Thus for example when the stop _melodia_ is drawn (by pulling
+out a stop-knob or tilting a tablet), one set of pipes only, sounds when
+the keyboard is played on: but if the stop _flute_ is drawn with
+_melodia_, two pipes speak every time a key is depressed. Thus if an
+organ has forty _speaking stops_, all running through the entire
+keyboard, then each time one key is depressed forty pipes will speak,
+and if a chord of five tones is played, two hundred pipes will speak.
+The object of having so many pipes is not merely to make possible a very
+powerful tone, but, rather, to give greater variety of tone-color.
+
+The pipe-organ usually has a pedal keyboard on which the feet of the
+performer play a bass part, this part often sounding an octave (or more)
+lower than the notes indicate.
+
+An _eight-foot stop_ on the organ produces tones of the same pitches as
+the piano when corresponding keys are struck: A _four-foot stop_ sounds
+tones an octave higher and a _two-foot stop_ tones two octaves higher. A
+_sixteen-foot stop_ sounds tones an octave lower than the piano, and a
+_thirty-two foot_ stop, tones two octaves lower, while some organs have
+also a _sixty-four foot_ stop which sounds three octaves lower. This
+gives the organ an exceedingly wide range, its compass being greater
+than that of any other single instrument, and comparable in both range
+of pitches and variety of color only with the modern orchestra.
+
+Modern pipe-organs always have a number of _combination pedals_ or
+_pistons_ (usually both), by means of which the organist is enabled to
+throw on a number of stops with one movement. The selection and use of
+suitable stops, couplers, combinations, etc., is called _registration_.
+
+5. The instruments mentioned at the beginning of this appendix as
+belonging to the second class are more familiar in connection with
+ensemble playing, being commonly associated with either band or
+orchestra.
+
+6. A _band_ is a company of musicians all of whom play upon either wind
+or percussion instruments, the main body of tone being produced by the
+brass and wood-wind divisions.
+
+     Sousa's band is usually made up in somewhat the following
+     manner: 4 flutes and piccolos, 12 B[flat] clarinets, 1 E[flat]
+     clarinet, 1 alto clarinet, 1 bass clarinet, 2 oboes, 2
+     bassoons, 2 sarrusophones, 4 saxophones, 4 cornets, 2
+     trumpets, 1 soprano saxhorn (fluegelhorn), 4 French horns, 4
+     trombones, 2 contra-bass tubas, 4 tubas, 1 snare drum, 1 bass
+     drum, 2 kettle drums, cymbals, triangle, bells, castanets,
+     xylophone, etc.
+
+7. An _orchestra_ is a company of musicians performing upon stringed
+instruments as well as upon wind and percussion. It is differentiated
+from the band by the fact that the main body of tone is produced by the
+strings.
+
+There are _four classes of instruments_ in the orchestra, viz.,
+_strings_, _wood-wind_, _brass_ (_wind_) and _percussion_. In addition
+to these four classes, there is the _harp_, which although a stringed
+instrument, does not belong in the same group as the other strings
+because the manner of producing the tone is altogether different.
+
+8. In the first group (the _strings_) are found the first and second
+violins, viola, violoncello (usually spelled _cello_), and double-bass.
+The first and second violins are identical in every way (but play
+different parts), while the other members of the family merely represent
+larger examples of the same type of instrument.
+
+9. In the second group (the _wood-wind_) are found the flute, piccolo,
+oboe, bassoon, English horn, double-bassoon, clarinet, and bass
+clarinet. The English horn, double-bassoon, bass clarinet, and piccolo
+are not called for in the older compositions, hence are not always
+present in the orchestra.
+
+10. In the third group (the _brass choir_) are found the French horn,
+(usually referred to as _the horn_), trumpet (sometimes replaced by the
+cornet) trombone, and tuba.
+
+11. The fourth group (_percussion_) consists of kettle drums, bass drum,
+cymbals, snare drum, triangle, bells, etc.
+
+12. In an orchestra of about 100 players the proportion of instruments
+is as about as follows, although it varies somewhat according to the
+taste of the conductor, the style of composition to be performed, etc.:
+
+18 first violins, 16 second violins, 14 violas, 12 cellos, 10 basses, 1
+harp, 3 flutes, 1 piccolo, 3 oboes, 1 English horn, 3 clarinets, 1 bass
+clarinet, 3 bassoons, 1 contra (or double) bassoon, 4 horns, 2 trumpets,
+3 trombones, 1 tuba, 3 kettle drums, 1 bass drum, 1 snare drum, 1 each
+of triangle, cymbals, bells, and other instruments of percussion,
+several of which are often manipulated by one performer.
+
+13. The cuts and brief descriptions here added will give at least a
+rudimentary idea of the appearance and possibilities of the instruments
+most commonly used in bands and orchestras. For fuller descriptions and
+particulars regarding range, quality, etc., the student is referred to
+Mason's "The Orchestral Instruments and What They Do," Lavignac's "Music
+and Musicians," and to the various articles which describe each
+instrument under its own name in Grove's Dictionary or in any good
+encyclopaedia. For still fuller details some work on orchestration will
+have to be consulted.
+
+14. The _violin_ has four strings, tuned thus [Illustration: g d' a'
+e''], these making available a range of about three and one-half octaves
+(g--c''''). This range[41] may be extended upward somewhat further by
+means of _harmonics_, these being produced by lightly touching the
+string at certain points (while the bow is moving across it) instead of
+holding it down against the finger-board. The highest string of the
+_violin_ (viola and cello also) is often called the _chanterelle_
+because it is most often used for playing the melody. The _violin_
+ordinarily produces but one tone at a time, but by _stopping_ two
+strings simultaneously and so drawing the bow as to set both in
+vibration, two tones may be produced at the same time, while three and
+four tones can be sounded _almost_ simultaneously.
+
+[Footnote 41: The ranges noted in connection with these descriptions of
+instruments are ordinarily the _practical orchestral or band_ ranges
+rather than those which are possible in solo performance.]
+
+[Illustration: VIOLIN. Length, 23-1/2 inches. Length of bow, 29-1/2
+inches.]
+
+The _mute_ (or _sordino_) is a small clamp made of metal, wood, or
+ivory, which when clipped to the top of the bridge causes the vibrations
+to be transmitted less freely to the body of the violin, giving rise to
+a tone modified in quality, and decreased in power.
+
+For certain special effects the player is directed to pluck the string
+(_pizzicato_), this method of playing giving rise to a dry, detached
+tone instead of the smooth, flowing one that is so characteristic of the
+_violin_ as commonly played.
+
+_Violins_ in the orchestra are divided into firsts and seconds, the
+_first violins_ being always seated at the left of the audience and the
+_seconds_ at the right.
+
+[Illustration: VIOLA. Length, 26 in. Length of bow, 28.]
+
+15. The _viola_ has four strings, also tuned in fifths, thus
+[Illustration: c g d' a']. The _viola_ looks exactly like the violin at
+a little distance, and is really only a larger sized violin, having a
+range a fifth lower. Its tone is not so incisive as that of the violin,
+being rather heavier--"more gloomy," as it is often described. The
+_viola_ is not so useful as the violin as a solo instrument because it
+is not capable of producing so many varieties of color, nevertheless it
+is invaluable for certain effects. In orchestral music it is of course
+one of the most valuable instruments for filling in the harmony. The
+_viola_ players are usually seated behind the second violin players in
+the orchestra.
+
+[Illustration: VIOLONCELLO. Length, 3 ft. 10 in. Length of bow, 28 in.]
+
+16. The _violoncello_ or _cello_ (sometimes called _bass viol_) has four
+strings, tuned thus: [Illustration: C G d a]. Its range is about three
+and one-half octaves (from C to e'' or f''), but in solo work this range
+is sometimes extended much higher. The _cello_ is much more universally
+used as a solo instrument than the viola and its tone is capable of a
+much greater degree of variation. In the orchestra it plays the bass of
+the string quartet (reinforced by the double-bass), but is also often
+used for solo passages. _Con sordino_ and _pizzicato_ passages occur as
+often for the _cello_ as for the violin.
+
+17. The _double bass_ differs from the other members of the string
+family in that it is tuned in _fourths_ instead of in _fifths_. Its four
+strings are tuned as follows [Illustration: EE AA D G] the entire range
+of the instrument being from EE to a. In music written for double-bass
+the notes are always printed an octave higher than the tones are to
+sound: that is, when the bass-player sees the note [Illustration: c] he
+plays [Illustration: C] this being done to avoid leger lines. The tone
+of the _bass_ is much heavier and the instrument itself is much more
+clumsy to handle than the other members of the group, hence it is almost
+never used as a solo instrument but it is invaluable for reinforcing the
+bass part in orchestral music. The mute is rarely used on the
+_double-bass_, but the _pizzicato_ effect is very common and the bass
+pizzicato tone is much fuller and richer than that of any other stringed
+instrument.
+
+[Illustration: DOUBLE-BASS. Length, 6 ft. 6 in. Length of bow, 23-1/2
+in.]
+
+18. The _flute_ has a range of three octaves. [Illustration: c' c'''']
+It is used in both solo and orchestral playing as well as in bands. The
+flute was formerly always made of wood, but is at present often made of
+metal.
+
+19. The _piccolo_ is a flute playing an octave higher than the one
+described above. The notes are printed as for the flute, but the player
+understands that the tone is to sound an octave higher. The _piccolo_ is
+used widely in band music and quite often in orchestral music also, but
+since the tone is so brilliant and penetrating and is incapable of any
+great variation, it is not suitable for solo performance.
+
+[Illustration: OBOE. (hautboy.) Length, 24-1/2 in. Range b e'''.
+
+CONTRA BASSOON. (Double bassoon.) Length 6 ft. Range about an octave
+lower than bassoon, but not all tones in this range are practicable.
+
+ENGLISH HORN. (Cor. Anglais.) Length, 2 ft. 11-1/2 in. Range e a''.
+
+PICCOLO. Length, 13 in. (Note that this is approximately half the length
+of the flute.)
+
+FLUTE. Length, 26-1/2 in.
+
+BASSOON. (fagotto.) Length, 4 ft. 3-1/2 in. Range BB-flat b-flat'.]
+
+20. The next four instruments to be described (_oboe_, _bassoon_,
+_English horn_, and _contra bassoon_) are often referred to as the _oboe
+family_ since the principle of tone production and general manipulation
+is the same in all four. The tone in these instruments is produced by
+the vibration of two very thin pieces of cane, which are called together
+a _double-reed_.
+
+The _oboe_ is especially valuable in the orchestra as a solo instrument,
+and its thin, nasal tones are suggestive of rustic, pastoral simplicity,
+both _oboe_ and _English horn_ being often used by orchestral composers
+in passages intended to express the idea of rural out-of-door life. The
+_English horn_ is also often used in passages where the idea of
+melancholy and suffering is to be conveyed to the audience. In a
+military band the oboe corresponds to the first violin of the orchestra.
+
+The _bassoon_ and _contra-bassoon_ are used mostly to provide a bass
+part for the harmony of the wood-wind group, but they are also sometimes
+employed (especially the _bassoon_) to depict comic or grotesque
+effects.
+
+[Illustration: BASS CLARINET. Length, 3 ft. 3 in. Range D to b-flat']
+
+[Illustration: CLARINET. Length 28 in.]
+
+21. The next two types of instruments to be described (_clarinet_ and
+_saxophone_) are alike in that the tone is produced by the vibration of
+a _single_ strip of cane (called _single reed_) which is held against
+the lower lip of the player. The _clarinet_ and _bass clarinet_ are made
+of wood and are used in both bands and orchestras, but the _saxophone_
+is usually made of metal, and, the tone being more strident and
+penetrating, the instrument is ordinarily used only in combination with
+other wind instruments, _i.e._, in bands.
+
+Since the fingering of the _clarinet_ is excessively difficult the
+performer can play in only certain keys on the same instrument, hence to
+play in different keys _clarinets_ in several keys must be provided,
+there being usually three in all. The music is written as though it were
+to be played in the key of C, but the tones produced are actually in
+other keys. For this reason the _clarinet_ is called a _transposing
+instrument_. The range of the _clarinet_ is the greatest possessed by
+any of the wind instruments, that of the clarinet in C being from
+[Illustration: e] to [Illustration: g'''].
+
+[Illustration: SAXOPHONES.
+
+SOPRANO. ALTO. Length, 15-3/4 in.
+
+TENOR. Length, 2 ft. 7-1/2 in.
+
+BASS. Length, 3 ft. 9 in.
+
+Combined range AA to g-flat''']
+
+[Illustration: SARRUSOPHONE.]
+
+The _sarrusophone_ is an instrument with a double-reed. It is made of
+brass and exists in several sizes, the only one ever used in the
+orchestra being the double-bass _sarrusophone_, which has approximately
+the same range as the double-bassoon and is sometimes (but rarely) made
+use of in the orchestra instead of the latter instrument. The tone of
+the _sarrusophone_ is something like that of the bassoon.
+
+[Illustration: FRENCH HORN. Length, 22-3/4 in.]
+
+22. The _French horn_ (often called _valve horn_ or simply _horn_)
+really consists of a long tube (about 16 feet) which is bent into
+circular form for convenience in handling. Its range is from
+[Illustration: BB] to [Illustration: f'']. In the orchestra _French
+horns_ are used in pairs, two of the players taking the higher tones,
+and two the lower. The tone is intensely mellow but incapable of any
+extensive variation, but in spite of this lack of variety the tone
+itself is so wonderfully beautiful that the instrument is one of the
+most useful in the orchestra both in solo passages and to fill in the
+harmony. The _horn_ (as well as the trumpet and trombone) differs from
+most of the wood-wind instruments in that its mouthpiece contains no
+reed, the lips of the player constituting the vibrating body as they are
+stretched across the mouthpiece and air is forced against them. The
+_horn_ is used in bands as well as in orchestras.
+
+[Illustration: TRUMPET. Length, 22-1/2 in.]
+
+23. The range of the _trumpet_ is [Illustration: g b''], the typical
+tone being brilliant and ringing. It is used in both band and orchestra,
+playing the highest parts assigned to the brass choir. The _trumpet_ is
+often replaced in both band and orchestra by its less refined cousin the
+_cornet_ because of the ease with which the latter can be played as
+compared with the trumpet, and the larger number of players that are
+available in consequence of this ease of execution.
+
+24. The _cornet_ looks something like the trumpet, but is not so slim
+and graceful in appearance. Its tube is only four and one-half feet
+long, as compared with a length of about eight feet in the trumpet, and
+sixteen feet in the French horn.
+
+The range of the _cornet_ in B[flat] is from [Illustration: e] to
+[Illustration: b-flat'']. The tone is somewhat commonplace as compared
+with the trumpet, but because of its great agility in the rendition of
+trills, repeated tones, etc., it is universally used in all sorts of
+combinations, even (as noted above) taking the place of the trumpet in
+many small orchestras.
+
+[Illustration: CORNET. Length, 13-3/4 in.]
+
+[Illustration: SLIDE TROMBONE. Length, 3 ft. 9 in. Range of tenor
+trombone (the size ordinarily used) E to b-flat']
+
+25. The pitch sounded by the _trombone_ is altered by lengthening or
+shortening the tube of which the instrument is constructed, this being
+possible because the lower part slides into the upper and can be pulled
+out to increase the total length of the tube through which the air
+passes. There are usually three _trombones_ in the orchestra, each
+playing a separate part, and the combination of this trio (with the
+_tuba_ reinforcing the bass part) is majestic and thrilling, being
+powerful enough to dominate the entire orchestra in _Fortissimo_
+passages. But the _trombones_ are useful in soft passages also, and
+their tone when playing pianissimo is rich, serene, and sonorous.
+
+26. The _bass tuba_ is a member of the saxhorn family[42] and supplies
+the lowest part of the brass choir, as the double-bass does in the
+string choir. It is used in both orchestra and band, being often
+supported in the larger bands by a still lower-toned member of the same
+family--the _contra-bass tuba_. The range of the _tuba_ is from
+[Illustration: GG] to [Illustration: g'].
+
+[Footnote 42: The _saxhorn_ was invented about 1840 by Adolphe Sax, a
+Frenchman. The _saxophone_ is the invention of the same man.]
+
+[Illustration: BASS TUBA. Length, 3 ft. 3 in.]
+
+[Illustration: BASS DRUM. Diameter about 2-1/2 ft.]
+
+[Illustration: CYMBALS. Diameter, 13-1/4 in.]
+
+27. The _kettle-drum_ is the most important member of the percussion
+family and is always used either in pairs or in threes. The size of
+these instruments varies somewhat with the make, but when two drums are
+used the diameter is approximately that given under the illustration.
+The range of a pair of _drums_ is _one octave_ [Illustration: F f] and
+when but two drums are used the larger one takes the tones from F to
+about C of this range, and the smaller takes those from about B[flat]
+to F. The most common usage is to tune one drum to the _tonic_, and the
+other to _the dominant_ of the key in which the composition is written.
+The pitch of the _kettle-drum_ can be varied by increasing or lessening
+the tension of the head by means of thumb-screws which act on a metal
+ring.
+
+[Illustration: KETTLE-DRUMS. Diameter of Head, 24-1/2 in. and 27-1/2
+in.]
+
+The other important members of the percussion family are shown on this
+and the following page, their use being so obvious as to require no
+detailed explanation.
+
+[Illustration: TAMBOURINE. Diameter, 10 to 12 in.]
+
+[Illustration: BELLS. (Fr. carillon; Ger. Glockenspiel.)]
+
+[Illustration: SIDE DRUM. Diameter, about 15-1/2 in.]
+
+[Illustration: TRIANGLE. Height, about 8 in.]
+
+28. The _harp_ is one of the oldest of instruments (dating back over
+6000 years), but it is only in comparatively recent years that it has
+been used in the symphony orchestra. Its range is from [Illustration:
+CC-flat] to [Illustration: f-flat'''].
+
+[Illustration: HARP. Height, 5 ft. 8 in.]
+
+The modern _double-action harp_ has forty-six strings, which are tuned
+in half-steps and whole-steps so as to sound the scale of C[flat] major.
+It has a series of seven pedals around its base, each pedal having two
+_notches_ below it, into either of which the pedal may be lowered and
+held fast. The first pedal shortens the F[flat] string so that it now
+sounds F, (giving the key of G[flat]); the second one shortens the
+C[flat] string so that it sounds C (giving the key of D[flat]); the
+third pedal shortens the G[flat] string so that it sounds G (giving the
+key of A[flat]); the fourth changes D[flat] to D (giving the key of
+E[flat]), and so on until, when all the pedals are fixed in their first
+notches, the scale of C is sounded instead of C[flat] as was the case
+before any of the pedals were depressed. But if the first pedal is now
+pushed down into the second notch the original F[flat] string is still
+further shortened and now sounds the pitch F[sharp] (giving us the key
+of G), and if all the other pedals are likewise successively lowered to
+the second notch we get in turn all the _sharp keys_--D, A, E, B,
+F[sharp] and C[sharp], the last-named key being obtained as the result
+of having all the pedals fixed in their second notches, thus making all
+the tones of the original C[flat] scale a whole-step higher so that they
+now sound the C[sharp] scale.
+
+Chords of not more than four tones for each hand may be played
+simultaneously on the harp, but arpeggio and scale passages are the
+rule, and are more successful than simultaneous chords. The notation of
+harp music is essentially like that of piano music.
+
+
+
+
+APPENDIX C
+
+ACOUSTICS
+
+
+     NOTE:--It is usually taken for granted that the student of
+     music is familiar with the significance of such terms as
+     _over-tone_, _equal temperament_, etc., and with principles
+     such as that relating to the relation between vibration rates
+     and pitches: the writer has in his own experience found,
+     however, that most students are not at all familiar with such
+     data, and this appendix is therefore added in the hope that a
+     few facts at least regarding the laws of sound may be brought
+     to the attention of some who would otherwise remain in entire
+     ignorance of the subject.
+
+1. _Acoustics_ is the science which deals with sound and the laws of its
+production and transmission. Since all sound is caused by vibration,
+_acoustics_ may be defined as the science which treats of the phenomena
+of sound-producing vibration.
+
+2. All sound (as stated above) is produced by vibration of some sort:
+strike a tuning-fork against the top of a table and _see_ the vibrations
+which cause the tone, or, if the fork is a small one and the vibrations
+cannot be seen, hold it against the edge of a sheet of paper and hear
+the blows it strikes; or, watch one of the lowest strings of the piano
+after striking the key a sharp blow; or, look closely at the heavier
+strings of the violin (or better still, the cello) and watch them
+oscillate rapidly to and fro as the bow moves across them.
+
+The vibrating body may be a string, a thin piece of wood, a piece of
+metal, a membrane (cf. drum), the lips (cf. playing the cornet), the
+vocal cords, etc. Often it is a column of air whose vibrations give rise
+to the tone, the reed or other medium merely serving to set the air in
+vibration.
+
+3. Sound is _transmitted_ through the air in somewhat this fashion: the
+vibrating body (a string for example) strikes the air-particles in its
+immediate vicinity, and they, being in contact with other such
+air-particles, strike these others, the latter in turn striking yet
+others, and so on, both a forward and backward movement being set up
+(oscillation). These particles lie so close together that no movement at
+all can be detected, and it is only when the disturbance finally reaches
+the air-particles that are in contact with the ear-drum that any effect
+is evident.
+
+This phenomenon of sound-transmission may perhaps be made more clear by
+the old illustration of a series of eight billiard balls in a row on a
+table: if the first ball is tapped lightly, striking gently against ball
+number 2, the latter (as well as numbers 3, 4, 5, 6, and 7) will not
+apparently move at all, but ball number 8 at the other end will roll
+away. The air-particles act upon each other in much this same fashion,
+the difference being that when they are set in motion by a vibrating
+body a complete vibration backward and forward causes a similar
+_backward and forward_ movement of the particles (oscillation) instead
+of simply a _forward jerk_ as in the case of the billiard balls.
+
+Another way of describing the same process is this: the vibration of
+some body produces waves in the air (cf. waves in the ocean, which carry
+water forward but do not themselves move on continuously), these waves
+spread out spherically (i.e. in all directions) and finally reach the
+ear, where they set the ear-drum in vibration, thus sending certain
+sound-stimuli to the nerves of hearing in the inner ear, and thus to the
+brain.
+
+An important thing to be noted in connection with sound-transmission is
+that sound will not travel in a vacuum: some kind of a medium is
+essential for its transmission. This medium may be air, water, a bar of
+iron or steel, the earth, etc.
+
+4. The _rate_ at which sound travels through the air is about 1100 feet
+per second, the rapidity varying somewhat with fluctuations in
+temperature and humidity. In water the rate is much higher than in air
+(about four times as great) while the velocity of sound through other
+mediums (as _e.g._, steel) is sometimes as much as sixteen times as
+great as through air.
+
+5. Sound, like light, may be _intensified_ by a suitable reflecting
+surface directly back of the vibrating body (cf. sounding board); it may
+also be reflected by some surface at a distance from its source in such
+a way that at a certain point (the focus) the sound may be very clearly
+heard, but at other places, even those _nearer_ the source of sound, it
+can scarcely be heard at all. If there is such a surface in an
+auditorium (as often occurs) there will be a certain point where
+everything can be heard very easily, but in the rest of the room it may
+be very difficult to understand what is being said or sung.
+
+_Echoes_ are caused by sound-reflection, the distance of the reflecting
+surface from the vibrating body determining the number of syllables that
+will be echoed.
+
+The _acoustics_ of an auditorium (_i.e._, its hearing properties) depend
+upon the position and nature of the reflecting surfaces and also upon
+the length of time a sound persists after the vibrating body has
+stopped. If it persists longer than 2-1/4 or 2-1/3 seconds the room will
+not be suitable for musical performances because of the mixture of
+persisting tones with following ones, this causing a blurred effect
+somewhat like that obtained by playing a series of unrelated chords on
+the piano while the damper-pedal is held down. The duration of the
+reverberation depends upon the size and height of the room, material of
+floor and walls, furniture, size of audience, etc.
+
+6. Sound may be classified roughly into _tones_ and _noises_ although
+the line of cleavage is not always sharply drawn. If I throw stones at
+the side of a barn, sounds are produced, but they are caused by
+irregular vibrations of an irregularly constructed surface and are
+referred to as _noise_. But if I tap the head of a kettle-drum, a
+regular series of vibrations is set up and the resulting sound is
+referred to as _tone_. In general the material of music consists of
+tones, but for special effects certain noises are also utilized (cf.
+castanets, etc.).
+
+7. Musical tones have three properties, viz.:
+
+     1. Pitch.
+
+     2. Intensity.
+
+     3. Quality (timbre).
+
+By _pitch_ is meant the highness or lowness of tone. It depends upon
+rate of vibration. If a body vibrates only 8 or 10 times per second no
+tone is heard at all: but if it vibrates regularly at the rate of 16 or
+18 per second a tone of very low pitch is heard. If it vibrates at the
+rate of 24 the pitch is higher, at 30 higher still, at 200 yet higher,
+and when a rate of about 38,000 per second has been reached the pitch is
+so high that most ears cannot perceive it at all. The highest tone that
+can ordinarily be heard is the E[flat] four octaves higher than the
+highest E[flat] of the piano. The entire range of sound humanly audible
+is therefore about eleven octaves (rates 16-38,000), but only about
+_eight_ of these octaves are utilized for musical purposes. The tones of
+the piano (with a range of 7-1/3 octaves) are produced by vibration
+rates approximately between 27 and 4224. In the orchestra the range is
+slightly more extended, the rates being from 33 to 4752.
+
+Certain interesting facts regarding the relation between vibration-rates
+and pitches have been worked out: it has been discovered for instance
+that if the number of vibrations is doubled, the pitch of the resulting
+tone is an octave higher; _i.e._, if a string vibrating at the rate of
+261 per second gives rise to the pitch c', then a string one-half as
+long and vibrating twice as rapidly (522) will give rise to the pitch
+c'', _i.e._, an octave higher than c'. In the same way it has been found
+that if the rate is multiplied by 5/4 the pitch of the tone will be a
+_major third_ higher; if multiplied by 3/2, a _perfect fifth_ higher,
+etc. These laws are often stated thus: the ratio of the octave to the
+fundamental is as two is to one; that of the major third as five is to
+four; that of the perfect fifth as three is to two, and so on through
+the entire series of pitches embraced within the octave, the _ratio_
+being of course the same for all octaves.
+
+9. The _intensity_ (loudness or softness) of tones depends upon the
+amplitude (width) of the vibrations, a louder tone being the result of
+vibrations of greater amplitude, and vice versa. This may be verified by
+plucking a long string (on cello or double-bass) and noting that when
+plucked gently vibrations of small amplitude are set up, while a
+vigorous pluck results in much wider vibrations, and, consequently, in a
+louder tone. It should be noted that the _pitch_ of the tone is not
+affected by the change in amplitude of vibration.
+
+The intensity of tones varies with the medium conveying them, being
+usually louder at night because the air is then more elastic. Tone
+intensity is also affected by _sympathetic vibrations_ set up in other
+bodies. If two strings of the same length are stretched side by side and
+one set in vibration so as to produce tone the other will soon begin to
+vibrate also and the combined tone will be louder than if only one
+string produced it. This phenomenon is the basis of what is known as
+resonance (cf. body of violin, resonance cavities of nose and mouth,
+sounding board of piano, etc.).
+
+10. _Quality_ depends upon the shape (or form) of the vibrations which
+give rise to the tone. A series of simple vibrations will cause a simple
+(or colorless) tone, while complex vibrations (giving rise to overtones
+of various kinds and in a variety of proportions) cause more
+individualistic peculiarities of quality. Quality is affected also by
+the shape and size of the resonance body. (Cf. last part of sec. 9
+above.)
+
+11. Practically every musical tone really consists of a combination of
+several tones sounding simultaneously, the combined effect upon the ear
+giving the impression of a single tone. The most important tone of the
+series is the _fundamental_, which dominates the combination and gives
+the pitch, but this fundamental is practically always combined with a
+greater or less number of faint and elusive attending tones called
+_overtones_ or _harmonics_. The first of these overtones is the octave
+above the fundamental; the second is the fifth above this octave; the
+third, two octaves above the fundamental, and so on through the series
+as shown in the figure below. The presence of these _overtones_ is
+accounted for by the fact that the string (or other vibrating body) does
+not merely vibrate in its entirety but has in addition to the principal
+oscillation a number of sectional movements also. Thus it is easily
+proved that a string vibrates in halves, thirds, etc., in addition to
+the principal vibration of the entire string, and it is the vibration of
+these halves, thirds, etc., which gives rise to the _harmonics_, or
+_upper partials_ as they are often called. The figure shows _Great C_
+and its first eight overtones. A similar series might be worked out from
+any other fundamental.
+
+[Illustration: (NOTE:--The B[flat] in this series is approximate only.)]
+
+It will be recalled that in the section (10) dealing with _quality_ the
+statement was made that _quality_ depends upon the shape of the
+vibrations; it should now be noted that it is the form of these
+vibrations that determines the nature and proportion of the overtones
+and hence the quality. Thus _e.g._, a tone that has too large a
+proportion of the fourth upper partial (_i.e._, the _third_ of the
+chord) will be _reedy_ and somewhat unpleasant. This is the case with
+many voices that are referred to as _nasal_. Too great a proportion of
+overtones is what causes certain pianos to sound "tin-panny." The tone
+produced by a good tuning-fork is almost entirely free from overtones:
+it has therefore no distinctive quality and is said to be a _simple_
+tone. The characteristic tone of the oboe on the other hand has many
+overtones and is therefore highly individualistic: this enables us to
+recognize the tone of the instrument even though we cannot see the
+player. Such a tone is said to be _complex_.
+
+12. The mathematical ratio referred to on page 134, if strictly carried
+out in tuning a keyboard instrument would cause the half-steps to vary
+slightly in size, and playing in certain keys (especially those having a
+number of sharps or flats in the signature) would therefore sound out of
+tune. There would be many other disadvantages in such a system, notably
+the inability to modulate freely to other keys, and since modulation is
+one of the predominant and most striking characteristics of modern
+music, this would constitute a serious barrier to advances in
+composition. To obviate these disadvantages a system of _equal
+temperament_ was invented and has been in universal use since the time
+of Bach (1685-1750) who was the first prominent composer to use it
+extensively. _Equal temperament_ means simply dividing the octave into
+twelve equal parts, thus causing all scales (as played on keyboard
+instruments at least) to sound exactly alike.
+
+     To show the practicability of equal temperament Bach wrote a
+     series of 48 _preludes and fugues_, two in each major and two
+     in each minor key. He called the collection "The Well-tempered
+     Clavichord."
+
+13. Various _standards of pitch_ have existed at different times in the
+last two centuries, and even now there is no absolute uniformity
+although conditions are much better than they were even twenty-five
+years ago. Scientists use what is known as the "scientific standard"
+(sometimes called the "philosophic standard"), viz., 256 double
+vibrations for "middle C." This pitch is not in actual use for musical
+purposes, but is retained for theoretical purposes because of its
+convenience of computation (being a power of 2). In 1885 a conference of
+musicians at Vienna ratified the pitch giving Middle C 261 vibrations,
+this having been adopted by the French as their official pitch some 26
+years before. In 1891 a convention of piano manufacturers at
+Philadelphia adopted this same pitch for the United States, and it has
+been in practically universal use ever since. This pitch (giving Middle
+C 261 vibrations) is known as "International Pitch."
+
+_Concert pitch_ is slightly higher than _International_, the difference
+between the two varying somewhat, but being almost always less than
+one-half step. This higher pitch is still often used by bands and
+sometimes by orchestras to give greater brilliancy to the wind
+instruments.
+
+     REFERENCES
+
+     Lavignac--Music and Musicians, pp. 1-66.
+
+     Broadhouse--The Student's Helmholz.
+
+     Helmholtz--Sensations of Tone.
+
+     Hamilton--Sound and its Relation to Music.
+
+     NOTE:--For a simple and illuminating treatment of the subject
+     from the standpoint of the music student, the books by
+     Lavignac and Hamilton are especially recommended.
+
+
+
+
+APPENDIX D
+
+TERMINOLOGY REFORM
+
+
+A recent writer[43] on _vocal terminology_ makes the following statement
+as an introduction to certain remarks advocating a more definite use of
+terms relating to tone production by the human voice:--"The correct use
+of words is the most potent factor in the development of the thinker."
+If this statement has any basis of fact whatsoever to support it then it
+must be evident to the merest novice in musical work that the popular
+use of many common terms by musicians is keeping a good many people from
+clear and logical thought in a field that needs accurate thinkers very
+badly! However this may be, it must be patent to all that our present
+terminology is in many respects neither correct nor logical, and the
+movement inaugurated by the Music Section of the National Education
+Association some years ago to secure greater uniformity in the use and
+definition of certain expressions should therefore not only command the
+respect and commendation, but the active support of all progressive
+teachers of music.
+
+[Footnote 43: Floyd S. Muckey--"Vocal Terminology," _The Musician_, May,
+1912, p. 337.]
+
+Let it be noted at the outset that such reforms as are advocated by the
+committee will never come into general use while the rank and file of
+teachers throughout the country merely _approve_ the reports so
+carefully compiled and submitted each year: these reforms will become
+effective only as individual teachers make up their minds that the end
+to be attained is worth the trouble of being careful to use only
+correct terminology every day for a month, or three months, or a
+year--whatever length of time may be necessary in order to get the new
+habits fixed in mind and muscle.
+
+The Terminology Committee was appointed by the Department of Music of
+the N.E.A. in 1906 and made its first report at Los Angeles in 1907.
+Since then the indefatigable chairman of the committee (Mr. Chas. I.
+Rice, of Worcester, Mass.) has contributed generously of both time and
+strength, and has by his annual reports to the Department set many of us
+to thinking along certain new lines, and has caused some of us at any
+rate to adopt in our own teaching certain changes of terminology which
+have enabled us to make our work more effective.
+
+In his first report Mr. Rice says:
+
+"Any one who has observed the teaching of school music in any
+considerable number of places in this country cannot fail to have
+remarked the great diversity of statement employed by different teachers
+regarding the facts which we are engaged in teaching, and the equal
+diversity of terminology used in teaching the symbols by which musicians
+seek to record these facts. To the teacher of exact sciences our
+picturesque use of the same term to describe two or more entirely
+different things never ceases to be a marvel.... Thoughtful men and
+women will become impressed with the untruthfulness of certain
+statements and little by little change their practice. Others will
+follow, influenced by example. The revolutionists will deride us for not
+moving faster while the conservatives will be suspicious of any change."
+
+At this meeting in Los Angeles a list of thirteen points was recommended
+by the committee and adopted by the Music Department. These points are
+given in the N.E.A. Volume of Proceedings for 1907, p. 875.
+
+Since 1907 the committee (consisting of Chas. I. Rice, P.C. Hayden, W.B.
+Kinnear, Leo R. Lewis, and Constance Barlow-Smith) have each year
+selected a number of topics for discussion, and have submitted valuable
+reports recommending the adoption of certain reforms. Some of the points
+recommended have usually been rejected by the Department, but many of
+them have been adopted and the reports of the committee have set many
+teachers thinking and have made us all more careful in the use and
+definition of common terms. A complete list of all points adopted by the
+Department since 1907 has been made by Mr. Rice for _School Music_, and
+this list is here reprinted from the January, 1913, number of that
+magazine.
+
+     TERMINOLOGY ADOPTIONS, 1907-1910
+
+     1. _Tone:_ Specific name for a musical sound of definite
+     pitch. Use neither _sound_, a general term, nor _note_, a term
+     of notation.
+
+     2. _Interval:_ The pitch relation between _two_ tones. Not
+     properly applicable to a single tone or scale degree. Example:
+     "Sing the fifth tone of the scale." Not "sing the fifth
+     interval of the scale."
+
+     3. _Key:_ Tones in relation to a tonic. Example: In the key of
+     G. _Not_ in the scale of G. Scales, major and minor are
+     composed of a definite selection from the many tones of the
+     key, and all scales extend through at least one octave of
+     pitch. The chromatic scale utilizes all the tones of a key
+     within the octave.
+
+     4. _Natural:_ Not a suitable compound to use in naming
+     pitches. Pitch names are either _simple_: B, or _compound_: B
+     sharp, B double-sharp, B flat or B double-flat, and there is
+     no pitch named "B natural." Example: Pitch B, _not_ "B
+     natural."
+
+     NOTE:--L.R.L. thinks that B natural should be the name when
+     the notation suggests it.
+
+     5. _Step, Half-step:_ Terms of interval _measurement_. Avoid
+     _tone_, _semi-tone_ or _half-tone_. Major second and minor
+     second are interval _names_. Example: How large are the
+     following intervals? (1) Major second, (2) minor second, (3)
+     augmented prime. Answer: (1) a step, (2) a half-step, (3) a
+     half-step.
+
+     6. _Chromatic:_ A tone of the key which is not a member of its
+     diatonic scale. (N.B.) An accidental (a notation sign) is not
+     a chromatic sign _unless_ it makes a staff-degree represent a
+     chromatic tone.
+
+     7. _Major; Minor:_ Major and Minor keys having the same
+     signature should be called relative major and minor. Major and
+     minor keys having the same tonic, but different signatures,
+     should be called tonic major and minor. Not "parallel" major
+     or minor in either case.
+
+     8. _Staff:_ Five horizontal lines and their spaces. Staff
+     _lines_ are named (numbered) upward in order, first to fifth.
+     _Spaces:_ Space below, first-second-third-fourth-space, and
+     space above[44]. (Six in all.) Additional short lines and
+     their short spaces numbered outward both ways from the main
+     staff, viz: line below, second space below. The boundary of
+     the staff is always a space.
+
+     [Footnote 44: NOTE:--Not "space below the staff" or "space
+     above the staff."]
+
+     9. _G Clef, F Clef, C Clef:_ These clefs when placed upon the
+     staff, give its degrees their first, or primary pitch meaning.
+     Each makes the degree it occupies represent a pitch of its
+     respective name. Example: The G clef makes the second line
+     represent the pitch G. Avoid "_fixes G on_." The staff with
+     clef in position represents only pitches having _simple_ or
+     _one-word_ names, A, B, C, etc.
+
+     10. _Sharps, Flats:_ Given a staff with clef in position as in
+     example above, sharps and flats make staff degrees upon which
+     they are placed represent pitches a half-step higher or lower.
+     These pitches have compound or two-word names. Example: The
+     second line stands for the pitch G (simple name). Sharp the
+     second line and it will stand for the pitch G sharp. (Compound
+     name.) The third line stands for the pitch B. (Simple name.)
+     Flat it, and the line will stand for the pitch B flat.
+     (Compound name.) N.B. These signs do not "_raise_" or
+     "_lower_" notes, tones, pitches, letters or staff degrees.
+
+     11. _Double-sharp, Double-flat:_ Given a staff with three or
+     more degrees sharped in the signature, double-sharps are used
+     (subject to the rules governing composition) to make certain
+     of these degrees, already sharped, represent pitches one
+     half-step higher yet. Similarly, when three or more degrees
+     are flatted in the signature, double-flats are used to make
+     certain degrees already flatted, represent pitches one
+     half-step lower yet. Examples: To represent sharp 2 in the key
+     of B major, double-sharp the C degree, or (equally good)
+     double-sharp the third space (G clef). To represent flat 6 in
+     the key of D flat major, double-flat the B degree, or (equally
+     good) double flat the third line (G clef). _Do not say_: "Put
+     a double-sharp on 6" or "put a double-sharp on C," or
+     "_indicate"_ a higher or lower pitch "_on_" a sharped or
+     flatted degree.
+
+     12. _Signature:_ Sharps or flats used as signatures affect the
+     staff degrees they occupy and all octaves of the same.
+     Example: With signature of four sharps, the first one affects
+     the fifth line and the first space; the second, the third
+     space; the third, the space above and the second line; the
+     fourth, the fourth line and the space below. _Do not say_: "F
+     and C are sharped," "ti is sharped," "B is flatted," "fa is
+     flatted." "Sharpened" or "flattened" are undesirable.
+
+     13. _Brace:_ The two or more staffs containing parts to be
+     sounded together; also the vertical line or bracket connecting
+     such staffs. _Not_ "line" or "score." "Staff" is better than
+     "line" for a single staff, and "score" is used meaning the
+     book containing an entire work, as "vocal score," "orchestral
+     score," "full score."
+
+     14. _Notes:_ Notes are characters designed to represent
+     relative duration. When placed on staff-degrees they
+     _indicate_ pitch. (Note the difference between "represent" and
+     "indicate.") "Sing what the note calls for" means, sing a tone
+     of the pitch represented by the staff degree occupied by the
+     note-head. The answer to the question: "What is that note?"
+     would be "half-note," "eighth-note" according to the
+     denomination of the note in question, whether it was on or off
+     the staff.
+
+     15. _Measure-sign:_ 4-4, 2-4, 6-8, are _measure-signs_. Avoid
+     "time signatures," "meter-signatures," "the fraction,"
+     "time-marks." Example: What is the measure-sign? (C) Ans. A
+     broken circle. What is its meaning? Ans. Four-quarter measure.
+     (Not four-four time, four-four rhythm, four-four meter.)
+
+     16. _Note Placing:_ Place a quarter note on the fourth line.
+     Not "put a quarter note on D."
+
+     17. _Beat-Pulse:_ A tone or rest occurs on a certain beat or
+     pulse of a measure. Not on a certain _count_.
+
+     18. _Signature Terminology:_ The right hand sharp in the
+     signature is on the staff degree that represents seven of the
+     major scale. Not "always on 7 or ti."
+
+     19. _Signature Terminology:_ The right hand flat in the
+     signature is on the staff degree that represents four of the
+     major scale. Not "always on fa."
+
+     20. _Rote, Note, Syllable:_ Singing by rote means that the
+     singer sings something learned by ear without regard to notes.
+     Singing by note means that the singer is guided to the correct
+     pitch by visible notes. Singing by syllable means that the
+     singer sings the tones of a song or part to the sol-fa
+     syllables instead of to words, neutral vowels or the hum.
+     "Sing by note" is not correct if the direction means simply to
+     sing the sol-fa syllables, whether in sight reading, rote
+     singing, or memory work. "Sing by syllable" would be correct
+     in each case.
+
+
+     ADOPTIONS OF THE 1911 MEETING AT SAN FRANCISCO
+
+     Arabic numerals, either 2, 3, 4, 5, 6, 9, or 12, placed on the
+     staff directly after the signature and above the third line,
+     show the number of beats in a measure.
+
+     A note, either a quarter or a dotted quarter, placed in
+     parenthesis under the numeral, represents the length of one
+     beat and is called the beat-note.
+
+     The numeral and the beat-note thus grouped constitute the
+     measure-sign.
+
+     Illustrative statements covering proper terminology: the tune
+     "America" is written in three-quarter measure. The chorus:
+     "How lovely are the Messengers" is written in two-dotted
+     quarter measure.
+
+     The above forms of statement were adopted at Denver in 1909,
+     and are recommended for general use when speaking of music
+     written with the conventional measure-signs, etc.
+
+     In place of: "two-two time, three-eight time, four-four time,"
+     say as above: "This piece is written in two-half measure,
+     three-eighth measure, four-quarter measure."
+
+
+     MINOR SCALES
+
+     _Primitive Minor (ascending)_
+
+     The minor scale form having minor sixth and minor seventh
+     above tonic to be called Primitive Minor.
+
+     Illustrative examples. A minor: a, b, c, d, e, f, g, a; C
+     minor: c, d, e flat, f, g, a flat, b flat, c. [Transcriber's
+     Note: Supplied b flat missing from original.]
+
+     _Primitive Minor (descending)_
+
+     Same pitches in reverse order.
+
+     _Harmonic Minor (ascending)_
+
+     The minor scale form having minor sixth and major seventh
+     above tonic to be called Harmonic Minor.
+
+     Illustrative examples. A minor: a, b, c, d, e, f, g sharp, a;
+     C minor: c, d, e flat, f, g, a flat, b, c.
+
+     _Harmonic Minor (descending_)
+
+     Same pitches in reverse order.
+
+     _Melodic Minor (ascending)_
+
+     The minor scale form having major sixth and major seventh
+     above tonic to be called Melodic Minor.
+
+     Illustrative examples. A minor: a, b, c, d, e, f sharp, g
+     sharp, a; C minor: c, d, e flat, f, g, a, b, c.
+
+     _Melodic Minor (descending)_
+
+     Same as the Primitive.
+
+
+     ADOPTIONS OF THE 1912 MEETING AT CHICAGO
+
+     _Pulse and Beat_
+
+     The Committee finds that the words: Pulse and Beat are in
+     general use as synonymous terms, meaning one of the succession
+     of throbs or impulses of which we are conscious when listening
+     to music. Each of these pulses or beats has an exact point of
+     beginning, a duration, and an exact point of ending, the
+     latter coincident with the beginning of the next pulse or
+     beat. When thus used, both words are terms of ear.
+
+     _Beat_
+
+     One of these words, Beat, is also in universal use, meaning
+     one of a series of physical motions by means of which a
+     conductor holds his group of performers to a uniform movement.
+
+     When thus used it becomes a term of eye.
+
+     The conductor's baton, if it is to be authoritative, cannot
+     wander about through the whole duration of the pulse but must
+     move quickly to a point of comparative repose, remaining until
+     just before the arrival of the next pulse when it again makes
+     a rapid swing, finishing coincidently with the initial tone
+     (or silence) of the new pulse.
+
+     Thus it is practically the end of the conductor's beat that
+     marks the beginning of the pulse.
+
+     The Committee is of opinion that Beat might preferably be used
+     as indicating the outward sign.
+
+     _Beat-Note_
+
+     This term "beat-note" is already in use in another important
+     connection (see Terminology Report, 1911) and the Committee
+     recommends that those using the above terms shall say: "This
+     note is an on-the-beat note; this one is an after-the-beat
+     note; this one a before-the-beat note."
+
+
+     DEFINITIONS
+
+     _Matters of Ear_
+
+     Pulse: The unit of movement in music, one of a series of
+     regularly recurring throbs or impulses.
+
+     Measure: A group of pulses.
+
+     Pulse-Group: Two or more tones grouped within the pulse.
+
+     _Matters of Eye_
+
+     Beat: One of a series of conventional movements made by the
+     conductor. This might include any unconventional motion which
+     served to mark the movement of the music, whether made by
+     conductor, performer or auditor.
+
+     Beat-Note: A note of the denomination indicated by the
+     measure-sign as the unit of note-value in a given measure.
+
+     _Example_
+
+     Given the following measure-signs: 2-4, 2-2, 2-8, quarter,
+     half, or eighth notes, respectively, are beat-notes.
+
+     Beat-Group: A group of notes or notes and rests, of smaller
+     denomination than the beat-note which represents a full beat
+     from beginning to end and is equal in value to the beat-note.
+     (A beat-group may begin with a rest.)
+
+     On-the-Beat Note (or rest): Any note (or rest) ranging in
+     value from a full beat down, which calls for musical action
+     (or inaction) synchronously with the conductor's beat.
+
+     After-the-Beat Note: Any note in a beat-group which indicates
+     that a tone is to be sounded after the beginning, and before
+     or at the middle of the pulse.
+
+     Before-the-Beat Note: Any note in a beat-group which indicates
+     that a tone is to be sounded after the middle of the pulse.
+
+     To illustrate terminology and to differentiate between Pulse
+     and Beat as terms, respectively of ear and eye, the following
+     is submitted:
+
+     Whenever a brief tone involves the musical idea of
+     syncopation, it may be regarded as an after-the-pulse tone and
+     the note that calls for it as an after-the-beat note; when it
+     involves the idea of anticipation or preparation it may be
+     regarded as a before-the-pulse tone, and the note that calls
+     for it, as a before-the-beat note.
+
+     _Measure and Meter_
+
+     "What is the measure-sign?"
+
+     "What is the meter-signature?"
+
+     These two words are used synonymously, and one of them is
+     unnecessary. The Committee recommends that Measure be retained
+     and used. Meter has its use in connection with hymns.
+
+
+
+The author does not find it possible at present to agree with all the
+recommendations made in the above report, but the summary is printed in
+full for the sake of completeness.
+
+The Music Teacher's National Association has also interested itself
+mildly in the subject of terminology reform, and at its meeting in
+Washington, D.C., in 1908, Professor Waldo S. Pratt gave his address as
+president of the Association on the subject "System and Precision in
+Musical Speech." This address interested the members of the Association
+to such an extent that Professor Pratt was asked to act as a committee
+whose purpose it should be to look into the matter of reforms necessary
+in music terminology and report at a later session. In 1910 Professor
+Pratt read a report in which he advocated the idea of making some
+changes in music nomenclature, but took the ground that the subject is
+too comprehensive to be mastered in the short time that can be given to
+it by a committee, and that it is therefore impossible to recommend
+specific changes. He also took occasion to remark that one difficulty in
+the whole matter of terminology is that many terms and expressions are
+used _colloquially_ and that such use although usually not scientific,
+is often not distinctly harmful and is not of sufficient importance to
+cause undue excitement on the part of reformers. Quoting from the report
+at this point:--"A great deal of confusion is more apparent than real
+between _note_ and _tone_, between _step_ and _degree_, between _key_
+and _tonality_. No practical harm is done by speaking of the _first
+note_ of a piece when really _first tone_ would be more accurate. To
+say that a piece is written _in the key of B[flat]_ is more convenient
+than to say that it is written in the _tonality of which B[flat] is the
+tonic_. The truth is that some of the niceties of expression upon which
+insistence is occasionally laid are merely fussy, not because they have
+not some sort of reason, but because they fail to take into account the
+practical difference between colloquial or off-hand speech and the
+diction of a scientific treatise. This is said without forgetting that
+colloquialism always needs watching and that some people form the habit
+of being careless or positively uncouth as if it were a mark of high
+artistic genius."
+
+Professor Pratt's report is thus seen to be philosophic rather than
+constructive, and terminology reform will undoubtedly make more
+immediate progress through the efforts of the N.E.A. Committee with its
+specific recommendations (even though these are sometimes admittedly
+_fussy_) than through the policy of the M.T.N.A. of waiting for some one
+to get time to take up the subject in a scholarly way. Nevertheless the
+philosophic view is sometimes badly needed, especially when the spirit
+of reform becomes too rabid and attaches too great importance to
+trifles. A judicious intermingling of the two committees in a series of
+joint meetings would undoubtedly result in mutual helpfulness, and
+possibly also in a more tangible and convincing statement of principles
+than has yet been formulated by either.
+
+
+
+
+APPENDIX E
+
+Sonata Op. 31, No. 3 by Beethoven
+
+Analysis by ARTHUR E. HEACOX,
+Oberlin Conservatory of Music
+
+
+     First Subject 17 measures, E[flat] major, as follows: 8 meas.
+     presentation, one meas. link, 8 meas. repetition oct. higher.
+     Rhythmic elements are A, B, C, all presented in first 8 meas.
