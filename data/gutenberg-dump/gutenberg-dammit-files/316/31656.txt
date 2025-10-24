@@ -1,0 +1,2982 @@
+*Nota de editor:* Devido à quantidade de erros tipográficos
+     existentes neste texto, foram tomadas várias decisões quanto à
+     versão final. Em caso de dúvida, a grafia foi mantida de acordo com
+     o original. No final deste livro encontrará a lista de erros
+     corrigidos.
+
+                                             Rita Farinha (Mar. 2010)
+
+
+
+
+OS FACTOS
+
+POR
+
+J. G. DE BARROS E CUNHA
+
+DEPUTADO, PELO CIRCULO DE VILLA FRANCA, ÁS CORTES
+DA NAÇÃO PORTUGUEZA
+
+
+
+LISBOA
+
+TYPOGRAPHIA UNIVERSAL
+DE THOMAZ QUINTINO ANTUNES, IMPRESSOR DA CASA REAL
+Rua dos Calafates, 110
+
+1870
+
+
+
+
+     Vox in Rama audita est, ploratus; et ululatus multus; Rachel
+     plorans filios suos, et noluit consolari, quia non sund.
+
+                                       Evan. Sec. Matth. Cap. II.
+
+
+Custou a liberdade muitos sacrificios para se estabelecer em Portugal.
+
+A luta contra a influencia feudal, contra o dominio do clero, do poder
+absoluto dos reis, não se manteve senão a preço de muito dinheiro e de
+muito sangue.
+
+De 1820 a 1851 a fortuna publica foi sacrificada para se tratar
+exclusivamente da conquista das garantias politicas.
+
+A transacção entre os partidarios da constituição popular, e os
+advogados da concessão autocratica dos direitos civis e politicos
+outorgados em 1826, tentada em 1838, só poude realisar-se em 1852.
+
+De então até ao dia fatal de 19 de maio de 1870 ninguem tratou mais do
+que de reparar os damnos, produzidos pelo embate das paixões, e de
+apressar a marcha do paiz na senda do trabalho, do progresso e da
+civilisação.
+
+Bem ou mal, á tyrannia e á força, tinha succedido a luta generosa das
+paixões, e á luta das paixões o governo da opinião.
+
+Acceitámos a Carta, que a realesa nos impozera como garantia para os
+reis, pelo acto addicional, que votámos em côrtes e, acceitamol-a,
+porque nos era sufficiente a collaboração do parlamento na ractificação
+de uma alliança sincera entre o povo e a monarchia.
+
+Fez-se n'este intervallo uma grande reforma economica, financeira e
+politica; a maior depois da queda da inquisição, a mais util depois da
+extincção dos frades e dos dizimos.
+
+Desvinculou-se a terra!
+
+O que seria annos antes uma revolução sanguinolenta, fel-o a luz pura da
+liberdade, radiando sobre a imprensa, e o parlamento no campo neutro e
+legal da discussão.
+
+Aboliram-se privilegios numerosos:
+
+A reclamação do povo ácerca da reducção das despezas passou, á força de
+ser advogada e discutida, a constituir principio invariavel de
+administração.
+
+A grande base de mais sinceras reformas administrativas, e de educação
+constitucional tinha já sido acceitada pelos governos dos ultimos tempos
+na reforma dos serviços pela descentralisação.
+
+A forma do imposto debatia-se.
+
+Elementos de toda a ordem se agrupavam e os estudos mais conscienciosos
+eram a base de todos os trabalhos, que se apresentavam á representação
+nacional para ella votar leis, que tornassem os sacrificios de todos
+mais faceis por uma divisão mais justa e mais productiva.
+
+Alargou-se a instrucção.
+
+Tratava-se de abrir consumo ao principal artigo, que o continente
+produz--_o vinho_.
+
+A sorte de Portugal principiava a interessar a Europa, que vira admirada
+de que maneira luctavamos para salvar a nossa terra da ruina, a que as
+nossas luctas politicas, os erros administrativos e (duro é dizel-o) a
+temeridade financeira dos seus ultimos ministros a tinham aproximado.
+
+Só a quem sinceramente se dedicava a esta obra, pode em todo o rigor
+revellar-se a magnitude e difficuldade d'ella; e a anciedade pelos seus
+resultados, só podia augmentar-se, pela mais louca e pela mais criminosa
+de todas as violencias.
+
+Direi ao paiz, na linguagem em que estas verdades se dizem, qual era o
+seu deploravel estado no momento em que fui mandado advogar e defender
+os seus interesses.
+
+Tomando o periodo de 30 de junho de 1855 até 30 de outubro de 1869, data
+do ultimo emprestimo, conhecerá o povo de que modo successivos
+emprestimos, auctorisados e não auctorisados, teem levantado a divida
+fundada de 20 milhões de £ a perto de 60, que tanto é o que demonstra o
+mappa junto.
+
+Tambem se verá de como os seus encargos ascenderam de £ 622:000, que
+tanto era em 1855, a £ 1.801:000, que ficou sendo em 30 de outubro de
+1869.
+
+O mesmo mappa lhe diz de que modo esses encargos subiram anno por anno,
+sendo o ultimo para resgatar a divida fluctuante de £ 360:000, mais de
+metade da dotação total da divida publica em 1855.
+
+
+De como tem augmentado a divida publica
+
+
++--------------------+-------------+-----------+-------------+
+|                    |   Capital   |    Juros  |             |
+|                    +-------------+-----------+-------------|
+|   Junho 30--1855   | £ 20.736:000|    622:000|             |
+|       »     1856   |   20.974:000|    629:000| £     7:000 |
+|       »     1857   |   22.215:000|    666:000|      37:000 |
+|       »     1858   |   24.165:000|    725:000|      59:000 |
+|       »     1859   |   25.588:000|    767:000|      42:000 |
+|       »     1860   |   27.834:000|    835:000|      68:000 |
+|       »     1861   |   29.117:000|    875:000|      40:000 |
+|       »     1862   |   33.300:000|    999:000|     124:000 |
+|       »     1863   |   38.928:000|  1.168:000|     169:000 |
+|       »     1864   |   41.207:000|  1.236:000|      68:000 |
+|       »     1865   |   42.454:000|  1.262:000|      26:000 |
+|       »     1866   |   43.255:000|  1.297:000|      35:000 |
+|       »     1867   |   47.333:000|  1.441:000|     144:080 |
+|  Outub. 30--1869   |   59.333:000|  1.801:000|     360:000 |
+|                    |             |           |-------------|
+|      13 annos         Augmentou o encargo    | £ 1.089:000 |
++----------------------------------------------+-------------+
+
+
+Comparando ainda, no mesmo periodo, a receita e despeza, em concorrencia
+com a divida publica fundada de Portugal comparada com as de todas as
+nações da Europa, demonstra-se, que as dividas de Inglaterra, da Grecia
+e da Netherlands são eguaes a dez vezes a receita publica, tendo a
+Inglaterra saldo positivo muito importante e as outras, receita egual á
+despeza, emquanto Portugal tem uma divida egual a quinze vezes a sua
+receita, com um _deficit_ egual á terça parte da receita cobravel, o que
+se demonstra no seguinte mappa.
+
+
+
+Receita, despeza e divida publica dos principaes estados da Europa
+
+1869
+
+
++--------------+------------+------------+------------+---------------+
+|              |            |            |            | Quantos annos |
+|              |  Receita   |  Despeza   |   Divida   |   de receita  |
+|              |            |            |   publica  | representa a  |
+|              |            |            |            |     divida    |
+|--------------+------------+------------+------------+---------------|
+|Austria,      |            |            |            |               |
+|Cisleithania  |£ 29.628:417|£ 29.932:667|£210.686:290|	        7     |
+|Austria,      |            |            |            |               |
+|Transleithania|  12.924:059|  15.403:859|  96.294:823|         5     |
+|Belgica       |   7.061:000|   7.059:127|  27.360:960|         4     |
+|Dinamarca     |   2.554:126|   2.533:630|  13.239:872|         5     |
+|França        |  85.148:872|  85.133:626| 553.268:928|         6-1/2 |
+|Prussia       |  25.130:477|  25.130:477|  65.186:368|         2-1/2 |
+|Saxonia       |   2.005:659|   2.005:659|  11.289:609|         5-1/2 |
+|Bavaria       |   4.875:715|   4.875:715|  29.669:267|         6     |
+|Wurtemberg    |   1.790:151|   1.790:151|  10.571:706|         6     |
+|Inglaterra    |  72.591:991|  75.497:816| 749.314:132|        10     |
+|Grecia        |   1.196:714|   1.619:575|  12.035:000|        10     |
+|Italia        |  31.155:521|  39.918:618| 251.000:000|         8     |
+|Netherlands   |   8.069:719|   8.060:585|  80.642:409|        10     |
+|Portugal      |   3.757:808|   5.120:836|  59.330:000|        15     |
+|Russia        |  66.038:278|  66.038:278| 240.110:000|         4     |
+|Hespanha      |  25.846:747|  26.564:768| 225.093:091|         9     |
+|Suecia        |   2.311:682|   2.427:722|   6.063:791|         2-1/2 |
+|Norwega       |   1.116:220|   1.116:220|     674:900|           1/2 |
+|Switzerland   |     854:505|     813:743|     611:797|           1/2 |
+|Turquia       |  14.500:000|  17.000:000|  88.413:363|         6     |
++--------------+------------+------------+------------+---------------+
+
+
+Se esta eloquente voz dos dados estatisticos faz impressão dolorosa no
+animo menos previdente, essa impressão seria sem duvida modificada vendo
+crescer ao lado de encargos tam pesados a fonte de nova riqueza,
+fomentada pelo emprego das sommas que, dos emprestimos, deviam
+applicar-se, e se applicaram, aos melhoramentos de que devia approveitar
+a fortuna publica.
+
+Não succede porém assim e a somma da nossa exportação é quasi
+estacionaria, senão decrescente, emquanto as outras nações
+constantemente addicionam á sua fortuna milhões e milhões de libras,
+producto da boa applicação do seu credito e do juizo com que se prestam
+a fazerem sacrificios para o sustentarem.
+
+Tambem os mappas officiaes nacionaes e estrangeiros nos revelam qual é o
+estado do nosso commercio.
+
+Eis como elles fallam:
+
+
+Total da exportação
+
+1854             Réis   10.469:983$000
+1855               »     9.763:390$500
+1856               »    12.066:133$100
+1861               »    10.540:746$200
+1865               »    12.061:614$500
+1866               »    12.816:264$200
+1867               »    11.806:754$900
+1868               »    12.140:761$800
+
+
+Se ainda quizermos comparar o progresso do nosso commercio, com a nação
+com a qual a natureza tornou mais necessarias as trocas dos nossos
+productos, achamos a mesma revelação melancolica de um estado morbido em
+uma d'ellas, e não é de certo a Inglaterra que accusa essa morbidez, no
+largo desinvolvimento que a sua riqueza tem tido, nem no phrenesi com
+que tem libertado de direitos todos os artigos necessarios á vida do
+povo inglez.
+
+Eis o que diz o mappa da nossa importação e exportação com o Reino
+Unido.
+
+
++----------------------------+----------------+-------------+
+|         Continente         |Açores e Madeira|    Total    |
++----------------------------+----------------+-------------+
+|    {Importação  £ 1.519:600|   £ 128:855    | £ 1.648:455 |
+|1854{                       |                |             |
+|    {Exportação    2.101:126|     373:707    |   2.474:833 |
+|                            |                |             |
+|    {Importação    1.533:371|     132:588    |   1.665:959 |
+|1855{                       |                |             |
+|    {Exportação    1.962:044|     331:449    |   2.293:493 |
+|                            |                |             |
+|    {Importação    1.889:224|      94:654    |   1.983:878 |
+|1856{                       |                |             |
+|    {Exportação    2.164:090|     266:228    |   2.430:318 |
+|                            |                |             |
+|    {Importação    1.779:861|     123:034    |   1.902:895 |
+|1857{                       |                |             |
+|    {Exportação    2.148:723|     289:487    |   2.438:210 |
+|                            |                |             |
+|    {Importação    1.669:910|     134:541    |   1.804:451 |
+|1858{                       |                |             |
+|    {Exportação    1.079:775|     337:237    |   1.417:012 |
+|                            |                |             |
+|    {Importação    1.671:072|     106:100    |   1.777:172 |
+|1859{                       |                |             |
+|    {Exportação    1.510:740|     285:457    |   1.796:197 |
+|                            |                |             |
+|    {Importação    2.041:236|     167:387    |   2.208:623 |
+|1860{                       |                |             |
+|    {Exportação    1.880:149|     398:633    |   2.278:782 |
+|                            |                |             |
+|    {Importação    2.356:105|     164:623    |   2.520:728 |
+|1861{                       |                |             |
+|    {Exportação    1.962:899|     434:524    |   2.397:423 |
+|                            |                |             |
+|    {Importação    1.888:225|     159:887    |   2.048:112 |
+|1862{                       |                |             |
+|    {Exportação    2.040:396|     363:816    |   2.404:212 |
+|                            |                |             |
+|    {Importação  £ 2.658:268|   £ 169:467    |  £2.827:735 |
+|1863{                       |                |             |
+|    {Exportação    2.333:809|     338:923    |   2.672:732 |
+|                            |                |             |
+|    {Importação    2.475:354|     205:941    |   2.681:295 |
+|1864{                       |                |             |
+|    {Exportação    2.202:506|     359:313    |   2.561:819 |
+|                            |                |             |
+|    {Importação    2.550:853|     163:248    |   2.714:091 |
+|1865{                       |                |             |
+|    {Exportação    2.471:801|     378:483    |   2.850:234 |
+|                            |                |             |
+|    {Importação    2.369:600|     226:929    |   2.595:529 |
+|1866{                       |                |             |
+|    {Exportação    2.517:828|     400:601    |   2.918:429 |
+|                            |                |             |
+|    {Importação    2.119:875|     196:473    |   2.316:348 |
+|1867{                       |                |             |
+|    {Exportação    2.324:241|     375:647    |   2.699:888 |
+|                            |                |             |
+|    {Importação    2.317:007|     296:436    |   2.613:443 |
+|1868{                       |                |             |
+|    {Exportação    2.252:858|     458:161    |   2.711:019 |
++----------------------------+----------------+-------------+
+
+
+Postas assim as causas geraes de uma grande crise financeira, revelado
+um perigo imminente para todos quantos hoje dependem da manutenção do
+credito publico; ameaçada a nacionalidade pelas causas que imperam na
+geral inquietação da Europa, a attenção do povo era chamada para a
+resolução d'este problema de que pendia o seu futuro.
+
+A divida fluctuante externa foi o primeiro ponto para o qual a
+solicitude do ministro da fazenda se dirigiu.
+
+Eis qual era o seu estado.
+
+
+Mappa da divida fluctuante em 30 de abril de 1869
+
+(_Diario da camara_, sessão de 3 de junho, pag. 238)
+
+
+*Société générale de Paris*
+
+
+Capital                               900:000$000
+Juros, 6 mezes (5 de maio a 5 de
+ novembro                              27:000$000
+Commissão (6% por renovação,
+ supp.^{do} só uma                     54:000$000
+                                   --------------   981:000$000
+                                                               15%
+
+
+
+*J. J. Macksensie*
+
+
+Capital                                90:000$000
+Juro 18% (6 mezes)                      8:100$000
+Commissão                                   -$-
+                                    -------------    98:100$000
+                                                               18%
+
+
+*Fruhling & Goschen*
+
+
+Capital                                81:000$000
+Juro 10%, 5 mezes (31 de maio
+ a 31 de outubro)                       3:361$500
+Corretagem (1/4 por mez                 1:012$500
+                                    -------------    85:374$000
+                                                               12-1/4%
+
+
+*C. de Murrieta & C.^a*
+
+
+Capital                                90:000$000
+Juro 8%, 5 mezes (1 de junho a
+ 1 de novembro)                         2:970$000
+Commissão                                   -$-
+                                     ------------    92:970$000
+                                                                8%
+
+
+
+*Crédit Lyonnais de Paris*
+
+
+Capital                               450:000$000
+Juros 6%, 5 mezes (2 de junho
+ a 2 de novembro)                      11:250$000
+Commissão 8% (450:000$000
+ x 8% supp.^{do} só 1 reforma)         36:000$000
+                                     ------------   497:250$000
+
+
+
+*G. & A. Worms*
+
+
+Capital                                45:000$000
+Juros 8% 5 mezes (3 de junho a
+ 3 de novembro)                         1:485$000
+Commissão                                   -$-
+                                    -------------    46:485$000
+                                                                8%
+
+
+
+*Pinto Leite & Sobrinhos*
+
+
+Capital                                45:000$000
+Juros 8%, 5 mezes (3 de junho a
+ 3 de novembro)                         1:485$000
+Commissão                                   -$-
+                                   --------------    46:485$000
+                                                                8%
+
+
+*C. de Murrieta & C.^a*
+
+
+Capital                                45:000$000
+Juros 8%, 5 mezes (4 de junho a
+ 4 de novembro)                         1:485$000
+Commissão                                   -$-
+                                   --------------    46:485$000
+                                                                8%
+
+
+
+*Société générale de Paris*
+
+
+Capital                               900:000$000
+Juros 6%, 5 mezes (4 de junho
+ a 4 de novembro)                      22:500$000
+Commissão (6% = 900:000$000
+ x 6%) =                               54:000$000
+                                   --------------   976:500$000
+                                                               22-2/5
+
+
+
+*J. F. Hillel*
+
+
+Capital                               360:000$000
+Juros 9%, 5 mezes (6 de junho
+ a 6 de novembro)                      13:500$000
+Commissão                                   -$-
+                                   --------------   373:500$000
+                                                                7%
+
+
+*Stern Brothers*
+
+
+Capital                               472:500$000
+Juros 12-1/2%, 5 mezes (9 de junho
+ a 9 de novembro)                      24:570$000
+Commissão                                   -$-
+                                   --------------   497:070$000
+                                                               12-1/2%
+
+
+
+*Société générale de Paris*
+
+
+Capital                               180:000$000
+Juros 6%, 5 mezes (10 de junho
+ a 10 de novembro)                      4:500$000
+Commissão 6% (180:000$000 x
+ 6%) =                                 10:800$000
+                                   --------------   185:300$000
+                                                               22-2/5
+
+
+*Beer & C.^a*
+
+
+Capital                                45:000$000
+Juros 17%, 5 mezes (13 de junho
+ a 13 de novembro)                      3:150$000
+Commissão                                   -$-
+                                   --------------    48:150$000
+                                                               17%
+
+
+*Fruhling & C.^a*
+
+
+Capital                             2.327:580$000
+Juros 10%, 3-1/2 mezes (15 de junho
+ a 1 de outubro)                       67:499$820
+Commissão                                   -$-
+                                   -------------- 2.395:079$820
+                                                               10%
+
+
+*E. Erlanger e Th. da Chambre & C.^{ie}*
+
+
+Capital                               450:000$000
+Juros 15%, 4 mezes (17 de junho
+ a 17 de outubro)                      22:500$000
+Commissão                                   -$-
+                                   --------------   472:500$000
+                                                               15%
+
+
+*Beer & C.^a*
+
+
+Capital                                72:000$000
+Juros 17 %, 4 mezes (18 de junho
+ a 18 de outubro)                       4:032$000
+Commissão                                   -$-
+                                   --------------    76:032$000
+                                                               17%
+
+
+
+*Stern Brothers*
+
+
+Capital                               351:000$000
+Juros 12-1/2%, 4 mezes (30 de
+ junho a 30 de outubro                 14:601$600
+Commissão                                   -$-
+                                   --------------   365:601$600
+                                                               12-1/2%
+
+
+*Charles Morrison*
+
+
+Capital                               112:500$000
+Juros 12-1/2%, 4 mezes (2 de julho
+ a 2 de novembro)                       4:680$000
+Commissão                                   -$-
+                                   --------------   117:180$000
+                                                               12-1/2%
+
+
+*J. F. Hillel*
+
+
+Capital                                45:000$000
+Juros 12-1/2%, 4 mezes (5 de julho
+ a 5 de novembro)                       1:872$000
+Commissão                                   -$-
+                                   --------------    46:872$000
+                                                               12-1/2%
+
+
+*Fruhling & Goschen*
+
+
+Capital                               193:500$000
+Juros 10%, 2-1/2 mezes (17 de
+ agosto a 1 de novembro)                4:005$450
+Commissão                                   -$-
+                                   --------------   197:505$450
+                                                               10%
+
+
+*Charles Morrison*
+
+
+Capital                               112:500$000
+Juros 12-1/2%, 1 mez (2 de outubro
+ a 2 de novembro)                       1:170$000
+Commissão                                   -$-
+                                   --------------   113:670$000
+                                                               12-1/2%
+
+
+*Operações de saques sobre a agencia*
+
+
+Saque em 4 de maio                    110:400$000
+Juros 10%, 6 mezes (4 de maio
+ a 4 de novembro                        5:520$000
+Commissão                                   -$-
+                                   --------------   115:920$000
+Saque em 13 de maio                    75:800$000
+Juros 10%, 5-1/2 mezes (13 de maio
+ a 1 de novembro                        3:456$480
+Commissão                                   -$-
+                                   --------------    79:256$480
+Saque em 13 de julho                   27:941$405
+Juros 10%, 3-1/2 mezes (13 de julho
+ a 1 de novembro                          810$300
+Commissão                                   -$-
+                                   --------------    28:751$705
+Saque em 2 de junho                    50:000$000
+Juros                                       -$-
+Commissão                                   -$-
+                                   --------------    50:000$000
+
+                                                  8.043:035$055
+
+
+
+Os juros d'ella que eram de 8 a 22-1/2% com toda a qualidade de extorsão
+feita por uma banda negra de abutres, arvorados em agentes do governo
+portuguez, achava-se concentrada hoje em mãos de pessoas honradas e os
+seus encargos, successivamente reduzidos, desciam com a perspectiva de
+elevação das receitas, e com a esperança de que os mercados da Europa,
+não seriam innundados de novos titulos de futuros emprestimos.
+
+Eis qual era o estado da divida fluctuante interna e externa em 20 de
+maio de 1870.
+
+
+*No paiz*
+
+EMPRESTIMOS POR INTERVENÇÃO DO BANCO DE PORTUGAL
+
+
+                                              Juro   Commissão
+
+Para outubro e novembro 1870   590:600$000    7-1/8      1/2
+Banco de Portugal               80:000$000    6         ---
+   »        »                  320:000$000    7-1/2     ---
+Diversos                     2.559:565$000    7-1/2      1/2
+J. G. Franco                   150:000$000    7-1/2    2
+Banco Alliança                 100:000$000    7-1/2    2
+J. C. Franco                   150:000$000    7-1/2    2-1/2
+Ministerio da guerra           302:531$676    5         ---
+
+                             4.252:696$676
+
+
+
+*No estrangeiro*
+
+                                             Juro   Commissão
+
+Crédit Lyonnais                450:000$000    6        8
+   »      »                    450:000$000    6        4
+   »      »                    450:000$000    6        6
+Norddeustchi Bank            1.360:000$000   13        0
+Murrieta                       225:000$000    9-1/2    ---
+Société générale               171:000$000   10        ---
+Stern Brothers                 999:000$000   12        ---
+Saques sobre a agencia         373:914$182    ---      ---
+   »      »       »            702:475$395    9        ---
+
+                             5.171:389$577    ---      ---
+
+
+
+
+Cumpre advertir que, dos saques do thesouro sobre a agencia financial na
+importancia de 702.475:395 (operação realisada com o encargo total de 9%
+ao anno) 100:000 £, ou 450:000$000 foram applicados á amortisação da
+divida de Stern Brothers que vencia 12%, e que o resto da mesma divida
+foi reformada por iniciativa dos mesmos banqueiros a 10% ao anno, e bem
+assim, que o restante dos mesmos saques £ 56.354,9,7 ou 252:475$395 réis
+estavam á disposição da agencia, para satisfazer aos encargos que se
+fossem vencendo. Deve portanto abater-se estas duas quantias da somma
+total da divida fluctuante externa que assim
+fica reduzida a                                4.469:914$182
+era a divida externa em fevereiro 28           6.179:449$660
+
+Amortisou-se portanto                          1.709:535$478
+
+A divida que, em 11 de agosto de 1869, era de  7.853:243$845
+Reduzida como acima a                          4.469:914$182
+
+Dá uma diminuição total de                     3.383:329$663
+
+
+Todas as vendas de fundos realisadas posteriormente á emissão de 2 de
+novembro, bem como as prestações recebidas em Londres, foram
+integralmente applicadas á amortisação da divida e, comquanto não se
+possa fixar a importancia das vendas feitas depois da ultima conta,
+junta ao relatorio apresentado ás côrtes, e pela qual, era o saldo por
+collocar de £ 4.750:000, é certo que ellas não excederam a somma de
+300:000 £, ficando pois em ser £ 4.250:000.
+
+Esta somma a 34, que era o preço por que se estavam vendendo (e com
+probabilidade de augmento), produziriam
+
+4:250$000 £ a 34%                                  1.445:000
+Abatendo commissão Stern 1-3/4                        74:375
+
+                           Resto liquido           1.370:695
+A divida é de                                     £  993:430
+
+                           Saldo                  £  377:195
+
+
+
+Quantia a que accresce qualquer prestação, que houvesse por cobrar sobre
+os bonds emittidos ou vendidos.
+
+O juro da divida externa em 11 de agosto ascendia a réis 1.048:614$000,
+em 20 de maio era de 475:785$000 réis.
+
+A divida interna em agosto de 1869             4.854:121$676
+        »        em maio de 1870               4.242:696$676
+
+                       Diminuição                601:425$000
+
+
+
+Para esclarecimento completo do publico devo declarar, que se achava
+contractado com Mr. Stern Brothers a remissão da divida de £ 300:000, em
+poder do Norddenstake Bank a juro de 13%, e que, como deve constar da
+correspondencia dos mesmos banqueiros ficaria pagando, até se resgatar,
+o juro liquido de 10%.
+
+Tinha-se approvado a contribuição industrial, e com ella offertas se
+fizeram logo ao governo para reduzir os juros da divida fluctuante
+interna e externa; com ella se principiava a levantar no horisonte do
+nosso credito uma lisongeira esperança de collocar o resto do emprestimo
+e de resgatar os penhores das operações mais ruinosas que nação alguma
+tenha jámais feito, ainda nos actos de maior desesperação.
+
+Acha-se o meu nome entre os dos que regeitaram aquella proposta de lei.
+Nenhum merecimento me cabe nos resultados que ella produziu lá fora; mas
+eu como que tinha um presentimento de que me era necessario a todo o
+custo manter na sua mais genuina integridade os direitos foros e
+immunidades do parlamento.
+
+Eu offereci o dinheiro, que se calculava dever provir da auctorisação,
+que o governo pedia, mas neguei ao poder legislativo, delegado do povo,
+legitimidade para transferir os seus poderes de legislar!
+
+Era um principio que o sr. Vicente Ferrer, professor da universidade,
+tinha ensinado a duas gerações, e com a sua grande voz tinha confirmado
+na tribuna
+
+
+_Delegatus non potest delegare._
+
+A camara nem sequer admittiu á discussão a minha proposta!
+
+É que ella tinha confiança em si, que eu invejava, ou que o peccado dos
+parlamentos, que succederam á situação caída em 1865 se tinha inoculado
+no espirito dos seus representantes, que sustentavam a situação
+derribada!
+
+Votava-se a contribuição pessoal. Estava distribuida a parte mais
+difficil para a regeneração das finanças, a contribuição predial.
+
+Para que o povo comprehenda bem a difficuldade d'esta grande questão,
+dar-lhe-hei o mappa de todo o reino, por districtos e por concelhos,
+afim de que, cada um, na sua localidade, possa avaliar que de
+iniquidades existem no systema pelo qual esta contribuição se distribue!
+
+Sem este estudo era impossivel conceber a grandeza do mal, nem cogitar a
+possibilidade do remedio.
+
+Esta obra é a dos louvados; das camaras municipaes; das juntas geraes;
+dos governos e dos parlamentos.
+
+Confesso que excedeu tudo quanto eu podia imaginar e que, d'ella, tirei
+argumentos, razões e convicção que me levavam, como na contribuição
+industrial, a regeitar os projectos de lei que o governo apresentava
+para obviar a este mal, mudando para a quota o systema de repartição.
+
+Vejamos porém o que existia no reino, em casa de cada um sobre as
+avaliações do rendimento collectavel, e distribuição da contribuição
+predial.
+
+
+*Nota do rendimento collectavel das matrizes prediaes no continente*
+
+
++---------------+-------+--------+--------------+---------------+
+|               |       |        |              |               |
+|  Districtos   | Fogos | Almas  | Rendimento   |  Contingente  |
+|               |       |        | collectavel  |sem addicionaes|
++---------------+-------+--------+--------------+---------------+
+|Aveiro         | 65.638| 254.715|   853:038$592|    64:621$000 |
+|Beja           | 34.151| 134.332| 1.036:176$812|    64:807$000 |
+|Braga          | 79.974| 328.355| 1.026:874$949|   107:861$000 |
+|Bragança       | 37.923| 151.552|   815:192$925|    53:488$000 |
+|Castello Branco| 39.494| 157.212|   563:334$629|    49:313$000 |
+|Coimbra        | 70.560| 275.609| 1.349:642$966|    79:559$000 |
+|Evora          | 24.532|  93.954|   997:466$780|    86:038$000 |
+|Faro           | 43.394| 164.381| 1.073:890$713|    61:202$000 |
+|Guarda         | 54.383| 219.887|   852:635$002|    55:485$000 |
+|Leiria         | 40.870| 169.687|   681:250$680|    49:645$000 |
+|Lisboa         |117.912| 438.183| 5.132:603$361|   405:400$470 |
+|Portalegre     | 25.168|  91.788|   943:597$897|    75:901$000 |
+|Porto          |110.528| 408.116| 2.153:957$683|   152:330$000 |
+|Santarem       | 49.383| 186.733| 1.322:013$653|   119:734$530 |
+|Vianna         | 51.248| 201.823|   749:099$052|    67:227$000 |
+|Villa Real     | 50.713| 208.247|   824:378$228|    65:243$000 |
+|Vizeu          | 88.002| 360.130| 1.788:500$957|    91:156$000 |
+|               |       |        |--------------|---------------|
+|               |       |        |22.163:654$879|  1649:211$000 |
++---------------+-------+--------+--------------+---------------+
+
+
+
+
+1868
+
+
+RENDIMENTO COLLECTAVEL
+
+E
+
+CONTINGENTES DA CONTRIBUIÇÃO PREDIAL
+
+
+
+
+Districto de Aveiro
+
+
++--------------------------+----------+-------+--------+-------------+
+|                          |          |       |        | Rendimento  |
+|        Concelhos         |Freguezias| Fogos |  Almas |             |
+|                          |          |       |        | collectavel |
++--------------------------+----------+-------+--------+-------------+
+|Agueda                    |    18    |  4:656|  17:330|   44:621$949|
+|Albergaria a Velha        |     8    |  3:224|  11:570|   22:014$110|
+|Anadia                    |    12    |  3:914|  13:475|   69:262$325|
+|Arouca                    |    20    |  3:604|  16:182|   60:252$590|
+|Aveiro                    |     9    |  4:707|  17:988|  105:233$196|
+|Castello de Paiva         |     9    |  1:901|   8:278|   17:714$791|
+|Estarreja                 |     9    |  8:815|  29:309|  142:191$310|
+|Feira                     |    37    | 10:833|  43:160|  109:113$862|
+|Ilhavo                    |     1    |  2:070|  10:728|   29:841$160|
+|Macieira de Cambra        |     9    |  2:156|  10:804|   19:495$350|
+|Mealhada                  |     6    |  1:803|   7:319|   38:220$956|
+|Oliveira de Azemeis       |    20    |  6:317|  24:934|   52:750$176|
+|Oliveira de Barro         |     7    |  2:996|   9:046|   46:065$018|
+|Ovar                      |     4    |  4:527|  17:229|   48:047$049|
+|Sever                     |     8    |  1:657|   7:493|   14:020$000|
+|Vagos                     |     3    |  2:458|   9:861|   34:221$750|
+|                          +----------+-------+--------+-------------+
+|       Somma              |   180    | 65:638| 254:706|  853:038$592|
++--------------------------+----------+-------+--------+-------------+
+
+
++--------------------------+-------------+---------------------------+
+|                          |             |        Percentagem        |
+|                          | Contingente +-------------+-------------+
+|        Concelhos         |     sem     |     Sem     |     Com     |
+|                          | addicionaes | addicionaes | addicionaes |
+|                          |             |     [1]     |     [2]     |
++--------------------------+-------------+-------------+-------------+
+|Agueda                    |   3:376$613 |     7,828   |    11,178   |
+|Albergaria a Velha        |   1:665$842 |     8,094   |    11,559   |
+|Anadia                    |   5:249$661 |     7,743   |    11,058   |
+|Arouca                    |   4:557$182 |     7,758   |    11,079   |
+|Aveiro                    |   7:967$988 |     7,783   |    11,114   |
+|Castello de Paiva         |   1:340$173 |     8,236   |    11,761   |
+|Estarreja                 |  10:802$982 |     7,763   |    11,085   |
+|Feira                     |   8:263$534 |     7,786   |    11,119   |
+|Ilhavo                    |   2:259$554 |     7,959   |    11,365   |
+|Macieira de Cambra        |   1:475$244 |     8,175   |    11,673   |
+|Mealhada                  |   2:892$240 |     7,870   |    11,238   |
+|Oliveira de Azemeis       |   3:991$689 |     7,779   |    11,108   |
+|Oliveira de Barro         |   3:485$812 |     7,823   |    11,172   |
+|Ovar                      |   3:641$960 |     7,808   |    11,150   |
+|Sever                     |   1:060$915 |     8,415   |    12,016   |
+|Vagos                     |   2:589$611 |     7,914   |    11,311   |
+|                          +-------------+             |             |
+|          Somma           |  64$621$000 |             |             |
++--------------------------+-------------+-------------+-------------+
+
+
+
+
+*Districto de Beja*
+
+
++--------------------------+----------+-------+--------+-------------+
+|                          |          |       |        | Rendimento  |
+|        Concelhos         |Freguezias| Fogos |  Almas |             |
+|                          |          |       |        | collectavel |
++--------------------------+----------+-------+--------+-------------+
+|Aljustrel                 |     5    |  1:755|   6:953|   92:777$052|
+|Almodovar                 |     8    |  2:367|  10:337|   52:495$065|
+|Alvito                    |     4    |  1:230|   4:585|   82:862$549|
+|Barrancos                 |     1    |    491|   1:903|    7:554$199|
+|Beja                      |    17    |  5:004|  17:630|  214:708$747|
+|Castro Verde              |     5    |  1:893|   5:977|   41:606$068|
+|Cuba                      |     5    |  1:486|   5:869|   51:558$819|
+|Ferreira                  |     5    |  1:374|   5:597|   44:777$631|
+|Mertola                   |     9    |  3:166|  12:579|   57:505$950|
+|Moura                     |    11    |  3:867|  15:893|   97:960$824|
+|Odemira                   |    13    |  4:790|  20:623|  100:347$190|
+|Ourique                   |     5    |  1:837|   7:093|   48:823$560|
+|Serpa                     |     9    |  2:749|  10:949|   83:936$295|
+|Vidigueira                |     5    |  2:152|   7:398|   59:262$863|
+|                          +----------+-------+--------+-------------+
+|          Somma           |   102    | 34:161| 134:332|1.036:176$812|
++--------------------------+----------+-------+--------+-------------+
+
+
++--------------------------+-------------+---------------------------+
+|                          |             |        Percentagem        |
+|                          | Contingente +-------------+-------------+
+|        Concelhos         |     sem     |     Sem     |     Com     |
+|                          | addicionaes | addicionaes | addicionaes |
+|                          |             |     [1]     |     [2]     |
++--------------------------+-------------+-------------+-------------+
+|Aljustrel                 |   3:513$600 |     3,911   |     5,586   |
+|Almodovar                 |   3:932$300 |     7,711   |    11,001   |
+|Alvito                    |   4:148$600 |     5,146   |     7,348   |
+|Barrancos                 |     477$800 |     7,857   |    11,221   |
+|Beja                      |  13:237$000 |     6,274   |     8,960   |
+|Castro Verde              |   2:827$900 |     7,075   |    10,103   |
+|Cuba                      |   2:604$400 |     5,279   |     7,540   |
+|Ferreira                  |   3:629$600 |     8,364   |    11,944   |
+|Mertola                   |   2:971$400 |     5,368   |     7,666   |
+|Moura                     |   8:421$700 |     8,845   |    12,631   |
+|Odemira                   |   5:057$900 |     5,155   |     7,362   |
+|Ourique                   |   2:768$900 |     5,908   |     8,438   |
+|Serpa                     |   7:131$600 |     8,634   |    12,329   |
+|Vidigueira                |   4:084$300 |     7,087   |    10,120   |
+|                          +-------------+             |             |
+|          Somma           |  64:807$000 |             |             |
++--------------------------+-------------+-------------+-------------+
+
+
+
+
+*Districto de Braga*
+
+
++--------------------------+----------+-------+--------+-------------+
+|                          |          |       |        | Rendimento  |
+|        Concelhos         |Freguezias| Fogos |  Almas |             |
+|                          |          |       |        | collectavel |
++--------------------------+----------+-------+--------+-------------+
+|Amares                    |    24    |  2:487|  11:909|   25:189$753|
+|Barcellos                 |    87    | 11:459|  47:856|  131:504$912|
+|Braga                     |    59    | 11:337|  46:904|  222:567$467|
+|Cabeceiras de Basto       |    16    |  3:519|  15:563|   37:077$105|
+|Celorico de Basto         |    22    |  5:165|  21:246|   48:651$319|
+|Espozende                 |    15    |  3:229|  14:151|   38:322$803|
+|Fafe                      |    35    |  6:078|  27:413|   66:127$866|
+|Guimarães                 |    81    | 11:716|  43:477|  178:040$494|
+|Povoa de Lanhoso          |    27    |  4:131|  17:924|   64:253$819|
+|Terras do Bouro           |    17    |  1:797|   7:642|   12:953$157|
+|Vieira                    |    20    |  3:279|  14:690|   33:153$129|
+|Villa Nova de Familicão   |    47    |  7:307|  28:101|   97:538$324|
+|Villa Verde               |    58    |  8:112|  31:479|   71:394$801|
+|                          +----------+-------+--------+-------------+
+|          Somma           |   508    | 78:497| 328:355|1.026:874$949|
++--------------------------+----------+-------+--------+-------------+
+
+
++--------------------------+-------------+---------------------------+
+|                          |             |        Percentagem        |
+|                          | Contingente +-------------+-------------+
+|        Concelhos         |     sem     |     Sem     |     Com     |
+|                          | addicionaes | addicionaes | addicionaes |
+|                          |             |     [1]     |     [2]     |
++--------------------------+-------------+-------------+-------------+
+|Amares                    |   4:072$045 |    16,619   |    23,732   |
+|Barcellos                 |  14:834$205 |    11,472   |    16,382   |
+|Braga                     |  18:186$345 |     8,435   |    12,045   |
+|Cabeceiras de Basto       |   4:636$795 |    12,814   |    18,298   |
+|Celorico de Basto         |   6:098$855 |    12,271   |    18,236   |
+|Espozende                 |   3:654$605 |     9,847   |    14,061   |
+|Fafe                      |   7:107$200 |    10,893   |    15,556   |
+|Guimarães                 |  18:322$745 |    10,438   |    14,905   |
+|Povoa de Lanhoso          |   5:846$190 |     9,276   |    13,247   |
+|Terras do Bouro           |   2:633$025 |    21,209   |    30,286   |
+|Vieira                    |   4:345$700 |    13,452   |    19,210   |
+|Villa Nova de Famalicão   |   8:633$975 |     9,094   |    12,986   |
+|Villa Verde               |   9:489$315 |    13,611   |    19,437   |
+|                          +-------------+             |             |
+|           Somma          | 107:861$000 |             |             |
++--------------------------+-------------+-------------+-------------+
+
+
+
+
+*Districto de Bragança*
+
+
++--------------------------+----------+-------+--------+-------------+
+|                          |          |       |        | Rendimento  |
+|        Concelhos         |Freguezias| Fogos |  Almas |             |
+|                          |          |       |        | collectavel |
++--------------------------+----------+-------+--------+-------------+
+|Alfandega da Fé           |    21    |  1:695|   7:701|   50:000$530|
+|Bragança                  |    50    |  5:699|  24:440|  167:137$130|
+|Carrazeda de Anciães      |    21    |  2:832|  10:894|   57:218$210|
+|Freixo de Espada á Cinta  |     5    |  1:478|   7:003|   26:864$402|
+|Macedo de Cavalleiros     |    39    |  4:886|  16:920|   78:921$665|
+|Miranda                   |    15    |  2:120|   8:645|   51:781$115|
+|Mirandella                |    37    |  3:636|  15:697|  100:217$131|
+|Mogadouro                 |    34    |  3:497|  13:424|   85:379$640|
+|Moncorvo                  |    21    |  3:346|  12:830|   61:148$905|
+|Villa Flor                |    19    |  2:733|   8:123|   43:720$620|
+|Vimioso                   |    13    |  2:310|   9:428|   39:388$800|
+|Vinhaes                   |    35    |  4:021|  15:347|   53:414$777|
+|                          +----------+-------+--------+-------------+
+|           Somma          |   310    | 37:923| 151:552|  815:192$925|
++--------------------------+----------+-------+--------+-------------+
+
+
++--------------------------+-------------+---------------------------+
+|                          |             |        Percentagem        |
+|                          | Contingente +-------------+-------------+
+|        Concelhos         |     sem     |     Sem     |     Com     |
+|                          | addicionaes | addicionaes | addicionaes |
+|                          |             |     [1]     |     [2]     |
++--------------------------+-------------+-------------+-------------+
+|Alfandega da Fé           |   2:746$000 |     5,728   |     8,179   |
+|Bragança                  |   7:648$000 |     4,717   |     6,736   |
+|Carrazeda de Anciães      |   4:183$000 |     7,516   |    10,734   |
+|Freixo de Espada á Cinta  |   2:150$000 |     8,442   |    12,056   |
+|Macedo de Cavalleiros     |   6:212$000 |     8,170   |    11,667   |
+|Miranda                   |   2:661$000 |     5,366   |     7,664   |
+|Mirandella                |   6:715$000 |     6,936   |     9,904   |
+|Mogadouro                 |   4:200$000 |     5,057   |     7,222   |
+|Moncorvo                  |   5:411$500 |     9,042   |    12,913   |
+|Villa Flor                |   3:800$000 |     8,961   |    12,797   |
+|Vimioso                   |   2:760$500 |     7,308   |    10,436   |
+|Vinhaes                   |   5:201$000 |     9,905   |    14,145   |
+|                          +-------------+             |             |
+|           Somma          |  53:688$000 |             |             |
++--------------------------+-------------+-------------+-------------+
+
+
+
+
+*Districto de Castello Branco*
+
+
++--------------------------+----------+-------+--------+-------------+
+|                          |          |       |        | Rendimento  |
+|        Concelhos         |Freguezias| Fogos |  Almas |             |
+|                          |          |       |        | collectavel |
++--------------------------+----------+-------+--------+-------------+
+|Belmonte                  |     4    |  1:171|   4:372|   14:004$222|
+|Castello Branco           |    14    |  5:783|  23:519|   94:114$470|
+|Certã                     |    14    |  3:543|  15:502|   37:826$856|
+|Covilhã                   |    26    |  7:293|  27:082|   86:323$528|
+|Fundão                    |    31    |  6:650|  25:505|  113:556$994|
+|Idanha a Nova             |    15    |  3:985|  16:436|   71:358$950|
+|Oleiros                   |    11    |  1:876|   7:981|   21:570$711|
+|Penamacor                 |    12    |  2:394|   9:259|   32:887$735|
+|Proença a Nova            |     4    |  1:719|   7:803|   28:840$504|
+|S. Vicente da Beira       |     8    |  1:843|   7:127|   25:377$390|
+|Villa de Rei              |     5    |  2:034|   8:332|   17:518$469|
+|Villa Velha de Rodão      |     4    |  1:203|   4:292|   19:954$800|
+|                          +----------+-------+--------+-------------+
+|           Somma          |   148    | 39:494| 157:212|  563:334$629|
++--------------------------+----------+-------+--------+-------------+
+
+
++--------------------------+-------------+---------------------------+
+|                          |             |        Percentagem        |
+|                          | Contingente +-------------+-------------+
+|        Concelhos         |     sem     |     Sem     |     Com     |
+|                          | addicionaes | addicionaes | addicionaes |
+|                          |             |     [1]     |     [2]     |
++--------------------------+-------------+-------------+-------------+
+|Belmonte                  |   1:437$475 |    11,121   |    15,881   |
+|Castello Branco           |   7:742$207 |     8,426   |    12,118   |
+|Certã                     |   7:350$243 |    19,748   |    28,200   |
+|Covilhã                   |   7:391$410 |     8,846   |    12,624   |
+|Fundão                    |   8:500$275 |     7,696   |    10,991   |
+|Idanha a Nova             |   5:446$944 |     7,801   |    11,140   |
+|Oleiros                   |   1:186$805 |     6,058   |     8,651   |
+|Penamacor                 |   3:187$315 |    10,056   |    14,036   |
+|Proença a Nova            |   1:625$095 |     6,049   |     8,638   |
+|S. Vicente da Beira       |   2:888$814 |    11,856   |    16,931   |
+|Villa de Rei              |   1:318$437 |     8,021   |    11,725   |
+|Villa Velha de Rodão      |   1:237$980 |     6,800   |     9,717   |
+|                          +-------------+             |             |
+|           Somma          |  49:313$000 |             |             |
++--------------------------+-------------+-------------+-------------+
+
+
+
+
+*Districto de Coimbra*
+
+
++--------------------------+----------+-------+--------+-------------+
+|                          |          |       |        | Rendimento  |
+|        Concelhos         |Freguezias| Fogos |  Almas |             |
+|                          |          |       |        | collectavel |
++--------------------------+----------+-------+--------+-------------+
+|Arganil                   |    17    |  4:392|  18:317|   80:286$470|
+|Cantanhede                |    14    |  6:171|  24:691|  106:796$000|
+|Coimbra                   |    29    | 10:502|  40:563|  265:726$480|
+|Condeixa a Nova           |     9    |  2:554|   9:791|   55:915$702|
+|Figueira da Foz           |    11    |  7:722|  33:330|  170:452$515|
+|Goes                      |     5    |  2:529|  10:449|   28:240$070|
+|Lousã                     |     5    |  4:348|   9:485|   37:550$000|
+|Mira                      |     1    |  1:803|   5:159|   28:277$500|
+|Miranda do Corvo          |     4    |  2:794|  10:217|   36:025$097|
+|Montemór o Velho          |    14    |  5:244|  19:816|  143:234$000|
+|Oliveira do Hospital      |    19    |  5:119|  23:449|   90:886$713|
+|Pampilhosa                |    10    |  1:878|   6:077|   23:932$057|
+|Penacova                  |     9    |  3:291|  13:969|   35:294$000|
+|Penella                   |     6    |  2:323|   9:438|   33:539$377|
+|Poyares                   |     4    |  1:496|   6:425|   16:809$000|
+|Soure                     |    11    |  4:294|  17:143|  120:753$125|
+|Tabua                     |    16    |  4:100|  17:240|   75:924$860|
+|                          +----------+-------+--------+-------------+
+|           Somma          |   184    | 70:560| 275:609|1.349:642$966|
++--------------------------+----------+-------+--------+-------------+
+
+
++--------------------------+-------------+---------------------------+
+|                          |             |        Percentagem        |
+|                          | Contingente +-------------+-------------+
+|        Concelhos         |     sem     |     Sem     |     Com     |
+|                          | addicionaes | addicionaes | addicionaes |
+|                          |             |     [1]     |     [2]     |
++--------------------------+-------------+-------------+-------------+
+|Arganil                   |   3:750$000 |     4,811   |     6,870   |
+|Cantanhede                |   5:400$000 |     5,268   |     7,523   |
+|Coimbra                   |  18:950$000 |     7,261   |    10,369   |
+|Condeixa a Nova           |   3:850$000 |     7,088   |    10,122   |
+|Figueira da Foz           |   9:650$000 |     5,796   |     8,276   |
+|Goes                      |   1:450$000 |     5,544   |     7,917   |
+|Lousã                     |   2:300$000 |     6,436   |     9,191   |
+|Mira                      |   1:850$000 |     6,959   |     9,937   |
+|Miranda do Corvo          |   2:100$000 |     6,158   |     8,749   |
+|Montemór o Velho          |   8:250$000 |     5,919   |     8,452   |
+|Oliveira do Hospital      |   5:250$000 |     5,903   |     8,429   |
+|Pampilhosa                |   1:050$000 |     5,788   |     8,266   |
+|Penacova                  |   1:802$000 |     5,438   |     7,766   |
+|Penella                   |   2:948$000 |     9,137   |    13,048   |
+|Poyares                   |     834$000 |     5,662   |     8,085   |
+|Soure                     |   5:850$000 |     5,034   |     7,189   |
+|Tabua                     |   4:275$000 |     5,781   |     8,256   |
+|                          +-------------+             |             |
+|           Somma          |  79:559$000 |             |             |
++--------------------------+-------------+-------------+-------------+
+
+
+
+
+*Districto de Evora*
+
+
++--------------------------+----------+-------+--------+-------------+
+|                          |          |       |        | Rendimento  |
+|        Concelhos         |Freguezias| Fogos |  Almas |             |
+|                          |          |       |        | collectavel |
++--------------------------+----------+-------+--------+-------------+
+|Alandroal                 |     7    |  1:261|   5:255|   60:171$968|
+|Arraiollos                |     8    |  1:770|   7:433|   77:816$877|
+|Borba                     |     5    |  1:410|   5:423|   41:802$385|
+|Evora                     |    18    |  5:072|  18:388|  263:170$631|
+|Extremoz                  |    12    |  2:909|  12:028|  139:170$667|
+|Montemór o Novo           |    16    |  2:977|  10:281|  120:812$545|
+|Móra                      |     4    |    913|   3:358|   19:211$850|
+|Mourão                    |     3    |    858|   3:008|   26:041$373|
+|Portel                    |     8    |  1:596|   6:070|   59:867$171|
+|Redondo                   |     7    |  1:464|   6:072|   51:002$994|
+|Reguengos de Monsarás     |     5    |  1:862|   6:835|   47:549$737|
+|Vianna                    |     3    |    941|   3:899|   35:759$591|
+|Villa Viçosa              |     6    |  1:499|   5:494|   55:088$991|
+|                          +----------+-------+--------+-------------+
+|           Somma          |   102    | 24:532|  93:954|  997:466$780|
++--------------------------+----------+-------+--------+-------------+
+
+
++--------------------------+-------------+---------------------------+
+|                          |             |        Percentagem        |
+|                          | Contingente +-------------+-------------+
+|        Concelhos         |     sem     |     Sem     |     Com     |
+|                          | addicionaes | addicionaes | addicionaes |
+|                          |             |     [1]     |     [2]     |
++--------------------------+-------------+-------------+-------------+
+|Alandroal                 |   5:190$225 |     8,810   |    12,585   |
+|Arraiollos                |   6:712$211 |     8,770   |    12,524   |
+|Borba                     |   3:605$730 |     8,890   |    12,702   |
+|Evora                     |  22:700$180 |     8,720   |    12,465   |
+|Extremoz                  |  12:004$375 |     8,810   |    12,585   |
+|Montemór o Novo           |  10:420$868 |     8,810   |    12,584   |
+|Móra                      |   1:657$147 |     9,210   |    13,155   |
+|Mourão                    |   2:246$237 |     9,050   |    12,935   |
+|Portel                    |   5:163$933 |     8,810   |    12,586   |
+|Redondo                   |   4:399$340 |     8,840   |    12,633   |
+|Reguengos de Monsarás     |   4:101$474 |     8,860   |    12,656   |
+|Vianna                    |   3:084$497 |     8,940   |    12,767   |
+|Villa Viçosa              |   4:751$783 |     8,830   |    12,617   |
+|                          +-------------+             |             |
+|           Somma          |  86:038$000 |             |             |
++--------------------------+-------------+-------------+-------------+
+
+
+
+
+*Districto de Faro*
+
+
++--------------------------+----------+-------+--------+-------------+
+|                          |          |       |        | Rendimento  |
+|        Concelhos         |Freguezias| Fogos |  Almas |             |
+|                          |          |       |        | collectavel |
++--------------------------+----------+-------+--------+-------------+
+|Albufeira                 |     3    |  1:801|   6:610|   49:934$533|
+|Alcoutim                  |     5    |  2:061|   7:496|   21:522$030|
+|Aljesur                   |     3    |    947|   3:554|   29:579$115|
+|Castro Marim              |     3    |  1:728|   7:024|   27:363$513|
+|Faro                      |     6    |  5:609|  19:934|  167:603$170|
+|Lagôa                     |     4    |  2:334|   8:562|   90:419$965|
+|Lagos                     |     5    |  2:647|  10:217|   79:714$263|
+|Loulé                     |     7    |  7:084|  25:358|  134:061$758|
+|Monchique                 |     3    |  1:671|   7:562|   24:353$682|
+|Olhão                     |     4    |  3:654|  15:603|   94:231$095|
+|Silves                    |     6    |  4:573|  17:415|   96:667$517|
+|Tavira                    |     8    |  4:977|  18:114|  137:598$770|
+|Villa do Bispo            |     4    |    784|   2:822|   42:671$221|
+|Villa Nova de Portimão    |     3    |  2:368|   9:430|   54:900$217|
+|Villa Real de Santo       |          |       |        |             |
+|  Antonio                 |     2    |  1:156|   4:680|   23:269$864|
+|                          +----------+-------+--------+-------------+
+|         Somma            |    66    | 43:394| 164:381|1.073:890$713|
++--------------------------+----------+-------+--------+-------------+
+
+
++--------------------------+-------------+---------------------------+
+|                          |             |        Percentagem        |
+|                          | Contingente +-------------+-------------+
+|        Concelhos         |     sem     |     Sem     |     Com     |
+|                          | addicionaes | addicionaes | addicionaes |
+|                          |             |     [1]     |     [2]     |
++--------------------------+-------------+-------------+-------------+
+|Albufeira                 |   2:855$000 |     5,950   |     8,497   |
+|Alcoutim                  |   1:653$100 |     8,218   |    11,735   |
+|Aljesur                   |   1:379$490 |     5,066   |     7,234   |
+|Castro Marim              |   1:935$650 |     7,508   |    10,721   |
+|Faro                      |   8:045$800 |     4,934   |     7,046   |
+|Lagôa                     |   4:012$300 |     4,566   |     6,521   |
+|Lagos                     |   5:185$000 |     6,644   |     9,488   |
+|Loulé                     |   8:195$200 |     6,283   |     8,972   |
+|Monchique                 |   2:141$200 |     9,269   |    13,237   |
+|Olhão                     |   3:748$900 |     4,091   |     5,842   |
+|Silves                    |   6:703$800 |     7,176   |    10,248   |
+|Tavira                    |   7:829$500 |     5,847   |     8,350   |
+|Villa do Bispo            |   1:780$760 |     4,451   |     6,356   |
+|Villa Nova de Portimão    |   4:095$300 |     7,665   |    10,946   |
+|Villa Real de Santo       |             |             |             |
+|  Antonio                 |   1:641$000 |     7,520   |    10,734   |
+|                          +-------------+             |             |
+|         Somma            |  61:202$000 |             |             |
++--------------------------+-------------+-------------+-------------+
+
+
+
+
+*Districto da Guarda*
+
+
++--------------------------+----------+-------+--------+-------------+
+|                          |          |       |        | Rendimento  |
+|        Concelhos         |Freguezias| Fogos |  Almas |             |
+|                          |          |       |        | collectavel |
++--------------------------+----------+-------+--------+-------------+
+|Aguiar da Beira           |    13    |  1:818|   6:898|   12:421$165|
+|Almeida                   |    12    |  1:551|   6:320|   37:149$134|
+|Ceia                      |    29    |  6:775|  30:044|   92:232$145|
+|Celorico da Beira         |    22    |  5:165|  21:246|   60:383$848|
+|Figueira de Castello      |          |       |        |             |
+|  Rodrigo                 |    14    |  2:659|  10:621|   66:711$881|
+|Fornos de Algodres        |    13    |  1:675|   7:014|   27:940$775|
+|Gouveia                   |    23    |  4:903|  20:390|   76:159$579|
+|Guarda                    |    56    |  8:200|  32:370|  120:973$082|
+|Manteigas                 |     3    |    705|   2:784|    7:544$168|
+|Meda                      |     9    |  1:551|   6:019|   24:362$454|
+|Pinhel                    |    27    |  3:690|  14:176|   81:631$720|
+|Sabugal                   |    57    |  7:727|  31:773|  110:133$813|
+|Trancoso                  |    36    |  4:197|  15:808|   72:121$749|
+|Villa Nova de Foscôa      |    25    |  3:767|  14:224|   62:869$789|
+|                          +----------+-------+--------+-------------+
+|         Somma            |   339    | 54:383| 219:887|  852:635$302|
++--------------------------+----------+-------+--------+-------------+
+
+
++--------------------------+-------------+---------------------------+
+|                          |             |        Percentagem        |
+|                          | Contingente +-------------+-------------+
+|        Concelhos         |     sem     |     Sem     |     Com     |
+|                          | addicionaes | addicionaes | addicionaes |
+|                          |             |     [1]     |     [2]     |
++--------------------------+-------------+-------------+-------------+
+|Aguiar da Beira           |   1:890$579 |    16,134   |    23,039   |
+|Almeida                   |   2:178$468 |     6,169   |     8,810   |
+|Ceia                      |   5:140$877 |     5,700   |     8,135   |
+|Celorico da Beira         |   3:924$335 |     6,686   |     9,548   |
+|Figueira de Castello      |             |             |             |
+|  Rodrigo                 |   4:074$412 |     6,277   |     8,964   |
+|Fornos de Algodres        |   2:116$316 |     7,980   |    11,396   |
+|Gouveia                   |   5:110$545 |     6,859   |     9,796   |
+|Guarda                    |   8:143$164 |     6,918   |     9,880   |
+|Manteigas                 |     611$538 |     9,610   |    13,723   |
+|Meda                      |   1:503$525 |     6,637   |     9,478   |
+|Pinhel                    |   4:853$877 |     6,085   |     8,689   |
+|Sabugal                   |   6:400$312 |     6,017   |     8,592   |
+|Trancoso                  |   4:400$000 |     6,258   |     8,936   |
+|Villa Nova de Foscôa      |   5:137$052 |     8,351   |    11,925   |
+|                          +-------------+             |             |
+|         Somma            |  55:485$000 |             |             |
++--------------------------+-------------+-------------+-------------+
+
+
+
+
+*Districto de Leiria*
+
+
++--------------------------+----------+-------+--------+-------------+
+|                          |          |       |        | Rendimento  |
+|        Concelhos         |Freguezias| Fogos |  Almas |             |
+|                          |          |       |        | collectavel |
++--------------------------+----------+-------+--------+-------------+
+|Alcobaça                  |    18    |  5:946|  25:045|   86:140$266|
+|Alvaiazere                |     6    |  1:631|   7:063|   13:291$188|
+|Ancião                    |     5    |  1:861|   7:454|   24:789$091|
+|Batalha                   |     2    |  1:187|   4:843|   32:935$860|
+|Caldas da Rainha          |    10    |  2:575|  10:784|   54:767$373|
+|Figueiró dos Vinhos[3]    |     8    |  3:360|  13:960|   27:726$398|
+|Leiria                    |    23    |  8:754|  35:839|  180:916$257|
+|Obidos                    |    12    |  2:840|  12:845|   57:638$905|
+|Pedrogão Grande           |     5    |  2:234|   9:644|   30:844$110|
+|Peniche                   |     5    |  1:535|   5:934|   33:950$143|
+|Pombal                    |    12    |  6:139|  25:864|   95:721$404|
+|Porto de Moz              |    11    |  2:808|  10:402|   42:529$685|
+|                          +----------+-------+--------+-------------+
+|         Somma            |   117    | 40:870| 169:687|  681:250$680|
++--------------------------+----------+-------+--------+-------------+
+
+
++--------------------------+-------------+---------------------------+
+|                          |             |        Percentagem        |
+|                          | Contingente +-------------+-------------+
+|        Concelhos         |     sem     |     Sem     |     Com     |
+|                          | addicionaes | addicionaes | addicionaes |
+|                          |             |     [1]     |     [2]     |
++--------------------------+-------------+-------------+-------------+
+|Alcobaça                  |   7:996$046 |     9,573   |    13,670   |
+|Alvaiazere                |   1:871$067 |    14,905   |    21,284   |
+|Ancião                    |   2:230$680 |     9,445   |    13,487   |
+|Batalha                   |   1:572$642 |     5,129   |     7,324   |
+|Caldas da Rainha          |   3:976$139 |     7,460   |    10,654   |
+|Figueiró dos Vinhos[3]    |   3:129$640 |    11,070   |    15,809   |
+|Leiria                    |   9:225$233 |     5,224   |     7,460   |
+|Obidos                    |   4:751$358 |     8,434   |    12,043   |
+|Pedrogão Grande           |   2:171$659 |     7,399   |    10,567   |
+|Peniche                   |   2:349$762 |     7,245   |    10,346   |
+|Pombal                    |   6:513$245 |     6,920   |     9,882   |
+|Porto de Moz              |   3:857$522 |     9,336   |    13,332   |
+|                          +-------------+             |             |
+|         Somma            |  49:645$000 |             |             |
++--------------------------+-------------+-------------+-------------+
+
+
+
+
+*LISBOA*
+
+
+
+
+*Districto de Lisboa*
+
+
++--------------------------+----------+-------+--------+-------------+
+|                          |          |       |        | Rendimento  |
+|        Concelhos         |Freguezias| Fogos |  Almas |             |
+|                          |          |       |        | collectavel |
++--------------------------+----------+-------+--------+-------------+
+|Alcacer do Sal            |     8    |  1:787|   6:675|  123:712$793|
+|Alcochete                 |     2    |  1:110|   4:195|   63:443$565|
+|Aldeia Gallega do Ribatejo|     3    |  1:487|   6:017|   53:299$811|
+|Alemquer                  |    14    |  4:082|  16:920|  217:653$109|
+|Almada                    |     2    |  3:476|  10:333|  113:195$756|
+|Arruda                    |     7    |  2:393|   9:854|   88:516$556|
+|Azambuja                  |     6    |  3:429|  12:794|  119:650$403|
+|Barreiro                  |     3    |  1:314|   4:419|   37:024$007|
+|Belem                     |     5    |  4:742|  16:620|  276:744$904|
+|Cadaval                   |     9    |  1:558|   6:781|   63:356$763|
+|Cascaes                   |     3    |  1:603|   6:284|   57:448$536|
+|Cezimbra                  |     2    |  1:347|   5:413|   26:051$838|
+|Cintra                    |    10    |  5:864|  21:933|  242:801$356|
+|Grandola                  |     4    |  1:488|   4:985|   31:964$087|
+|      {Bairro de Alcantara|     6    | 15:349|  53:352}             |
+|      {Bairro Alfama      |    13    | 12:908|  48:912}             |
+|Lisboa{                   |          |       |        }2.227:230$970|
+|      {Bairro Alto        |     7    | 10:851|  34:103}             |
+|      {Bairro do Rocio    |     8    |  8:222|  33:095}             |
+|Lourinhã                  |     7    |  1:876|   7:336|   44:187$944|
+|Mafra                     |    14    |  5:576|  22:028|   94:845$031|
+|Moita                     |     2    |  1:051|   4:107|   51:403$965|
+|Oeiras                    |     5    |  1:767|   7:635|   90:088$048|
+|Olivaes                   |    20    |  6:036|  23:561|  385:954$608|
+|Seixal                    |     4    |  1:456|   4:674|   51:696$272|
+|Setubal                   |     8    |  5:639|  22:257|  201:659$295|
+|S. Thiago do Cacem        |     8    |  2:617|   9:916|   52:545$620|
+|Torres Vedras             |    16    |  5:616|  22:329|  170:303$636|
+|Villa Franca de Xira      |     9    |  3:177|  11:655|  244:824$488|
+|                          +----------+-------+--------+-------------+
+|         Somma            |   205    |117:912| 438:183|5.132:603$361|
++--------------------------+----------+-------+--------+-------------+
+
+
++--------------------------+-------------+---------------------------+
+|                          |             |        Percentagem        |
+|                          | Contingente +-------------+-------------+
+|        Concelhos         |     sem     |     Sem     |     Com     |
+|                          | addicionaes | addicionaes | addicionaes |
+|                          |             |     [1]     |     [2]     |
++--------------------------+-------------+-------------+-------------+
+|Alcacer do Sal            |   8:573$700 |     7,083   |    10,114   |
+|Alcochete                 |   4:454$107 |     7,467   |    10,659   |
+|Aldeia Gallega do Ribatejo|   3:796$453 |     7,373   |    10,530   |
+|Alemquer                  |  15:084$070 |     7,029   |    10,037   |
+|Almada                    |   7:805$931 |     7,182   |    10,266   |
+|Arruda                    |   6:130$432 |     7,044   |    10,058   |
+|Azambuja                  |   8:314$518 |     7,036   |    10,048   |
+|Barreiro                  |   2:542$820 |     7,253   |    10,357   |
+|Belem                     |  18:997$610 |     7,162   |    10,226   |
+|Cadaval                   |   4:389$042 |     7,092   |    10,128   |
+|Cascaes                   |   3:981$371 |     7,127   |    10,177   |
+|Cezimbra                  |   1:792$809 |     7,283   |    10,399   |
+|Cintra                    |  16:824$191 |     7,074   |    10,101   |
+|Grandola                  |   2:212$545 |     7,246   |    10,346   |
+|      {Bairro de Alcantara}             |             |             |
+|      {Bairro de Alfama   }             |             |             |
+|Lisboa{                   } 199:765$507 |     9,203   |    13,142   |
+|      {Bairro Alto        }             |             |             |
+|      {Bairro do Rocio    }             |             |             |
+|Lourinhã                  |   3:270$174 |     7,151   |    10,212   |
+|Mafra                     |   6:559$619 |     7,028   |    10,036   |
+|Moita                     |   3:550$097 |     7,111   |    10,154   |
+|Oeiras                    |   6:227$121 |     7,134   |    10,187   |
+|Olivaes                   |  26:467$260 |     6,992   |     9,985   |
+|Seixal                    |   3:538$410 |     7,047   |    10,062   |
+|Setubal                   |  13:947$628 |     7,115   |    10,161   |
+|S. Thiago do Cacem        |   3:631$676 |     7,110   |    10,153   |
+|Torres Vedras             |  16:573$747 |     9,855   |    14,072   |
+|Villa Franca de Xira      |  16:970$632 |     7,031   |    10,052   |
+|                          +-------------+             |             |
+|         Somma            | 405:400$470 |             |             |
++--------------------------+-------------+-------------+-------------+
+
+
+
+
+*Districto de Portalegre*
+
+
++--------------------------+----------+-------+--------+-------------+
+|                          |          |       |        | Rendimento  |
+|        Concelhos         |Freguezias| Fogos |  Almas |             |
+|                          |          |       |        | collectavel |
++--------------------------+----------+-------+--------+-------------+
+|Alter do Chão             |     5    |  1:786|   7:095|   46:657$331|
+|Arronches                 |     6    |    865|   3:235|   49:587$817|
+|Aviz                      |     8    |  1:589|   6:096|   90:783$895|
+|Campo Maior               |     3    |  1:343|   4:814|   60:318$870|
+|Castello de Vide          |     4    |  1:689|   5:931|   46:765$684|
+|Crato                     |     7    |  1:194|   4:311|   45:723$716|
+|Elvas                     |    16    |  4:462|  16:007|  193:157$626|
+|Fronteira                 |    10    |  2:706|   9:131|   79:479$676|
+|Gavião                    |     6    |  1:023|   3:799|   16:920$285|
+|Marvão                    |     3    |  1:096|   4:605|   31:769$964|
+|Monforte                  |     5    |    794|   2:848|   41:615$407|
+|Nisa                      |     8    |  2:419|   8:919|   61:476$791|
+|Ponte de Soure            |     2    |    925|   3:431|   26:403$150|
+|Portalegre                |    10    |  3:277|  11:516|   94:544$840|
+|Souzel                    |     6    |  1:407|   4:607|   58:420$845|
+|                          +----------+-------+--------+-------------+
+|          Somma           |    99    | 26:575|  96:375|  943:597$897|
++--------------------------+----------+-------+--------+-------------+
+
+
++--------------------------+-------------+---------------------------+
+|                          |             |        Percentagem        |
+|                          | Contingente +-------------+-------------+
+|        Concelhos         |     sem     |     Sem     |     Com     |
+|                          | addicionaes | addicionaes | addicionaes |
+|                          |             |     [1]     |     [2]     |
++--------------------------+-------------+-------------+-------------+
+|Alter do Chão             |   3:763$985 |     8,309   |    11,866   |
+|Arronches                 |   3:994$700 |     8,295   |    11,846   |
+|Aviz                      |   7:307$580 |     8,177   |    11,678   |
+|Campo Maior               |   4:840$435 |     8,223   |    11,743   |
+|Castello de Vide          |   3:696$765 |     8,149   |    11,638   |
+|Crato                     |   3:582$940 |     8,090   |    11,552   |
+|Elvas                     |  15:550$455 |     8,168   |    11,665   |
+|Fronteira                 |   6:398$220 |     8,347   |    11,920   |
+|Gavião                    |   1:353$655 |     8,700   |    12,424   |
+|Marvão                    |   2:567$235 |     8,446   |    12,061   |
+|Monforte                  |   3:353$475 |     8,338   |    11,907   |
+|Nisa                      |   5:070$255 |     8,436   |    12,048   |
+|Ponte de Soure            |   2:135$710 |     8,519   |    12,165   |
+|Portalegre                |   7:587$195 |     8,249   |    11,780   |
+|Souzel                    |   4:698$395 |     8,240   |    11,767   |
+|                          +-------------+             |             |
+|          Somma           |  75:900$000 |             |             |
++--------------------------+-------------+-------------+-------------+
+
+
+
+
+*Districto de Porto*
+
+
++--------------------------+----------+-------+--------+-------------+
+|                          |          |       |        | Rendimento  |
+|        Concelhos         |Freguezias| Fogos |  Almas |             |
+|                          |          |       |        | collectavel |
++--------------------------+----------+-------+--------+-------------+
+|Amarante                  |    39    |  7:290|  26:964|   64:745$071|
+|Baião                     |    19    |  5:046|  19:017|   35:497$125|
+|Bouças                    |    13    |  4:624|  17:365|  101:816$045|
+|Felgueiras                |    33    |  6:026|  21:854|   56:019$114|
+|Gondomar                  |    11    |  5:863|  22:111|   83:810$193|
+|Lousada                   |    27    |  4:028|  15:172|   32:961$263|
+|Maia                      |    20    |  4:578|  16:915|   96:998$046|
+|Marco de Canavezes        |    31    |  6:519|  24:758|   72:412$892|
+|Passos de Ferreira        |    15    |  2:620|   9:415|   23:110$441|
+|Paredes                   |    22    |  5:185|  17:414|   59:257$307|
+|Penafiel                  |    36    |  6:843|  27:533|  109:048$877|
+|     {1.^o bairro         |     3    |  6:690|  23:364}             |
+|Porto{2.^o bairro         |     3    |  6:535|  25:642}  943:802$222|
+|     {3.^o bairro         |     6    |  6:858|  26:929}             |
+|Povoa de Varzim           |    10    |  5:387|  27:056|   54:701$280|
+|Santo Thyrso              |    31    |  5:836|  21:324|   65:979$813|
+|Vallongo                  |     5    |  2:180|   8:444|   33:940$540|
+|Villa do Conde            |    27    |  5:236|  18:148|   86:961$523|
+|Villa Nova de Gaia        |    23    | 13:184|  44:391|  232:895$931|
+|                          |----------+-------+--------+-------------+
+|          Somma           |   374    |110:528| 408:116|2.153:957$683|
++--------------------------+----------+-------+--------+-------------+
+
+
++--------------------------+-------------+---------------------------+
+|                          |             |        Percentagem        |
+|                          | Contingente +-------------+-------------+
+|        Concelhos         |     sem     |     Sem     |     Com     |
+|                          | addicionaes | addicionaes | addicionaes |
+|                          |             |     [1]     |     [2]     |
++--------------------------+-------------+-------------+-------------+
+|Amarante                  |   5:378$000 |     8,460   |    12,081   |
+|Baião                     |   3:211$000 |     9,326   |    13,318   |
+|Bouças                    |   4:828$000 |     4,853   |     6,930   |
+|Felgueiras                |   5:440$000 |     9,888   |    14,121   |
+|Gondomar                  |   3:712$000 |     4,547   |     6,494   |
+|Lousada                   |   2:963$000 |     9,291   |    13,268   |
+|Maia                      |   4:123$000 |     4,353   |     6,216   |
+|Marco de Canavezes        |   4:968$000 |     6,998   |     9,993   |
+|Passos de Ferreira        |   1:900$000 |     8,652   |    12,350   |
+|Paredes                   |   3:909$000 |     6,764   |     9,660   |
+|Penafiel                  |   8:120$000 |     7,637   |    10,906   |
+|     {1.^o bairro         }             |             |             |
+|Porto{2.^o bairro         }  67:988$000 |     7,466   |    10,662   |
+|     {3.^o bairro         }             |             |             |
+|Povoa de Varzim           |   3:625$000 |     6,816   |     9,733   |
+|Santo Thyrso              |   5:381$000 |     8,307   |    11,863   |
+|Vallongo                  |   1:534$000 |     4,813   |     6,873   |
+|Villa do Conde            |   5:665$000 |     6,629   |     9,466   |
+|Villa Nova de Gaia        |  19:585$000 |     8,763   |    12,514   |
+|                          +-------------+             |             |
+|          Somma           | 152:330$000 |             |             |
++--------------------------+-------------+-------------+-------------+
+
+
+
+
+*Districto de Santarem*
+
+
++--------------------------+----------+-------+--------+-------------+
+|                          |          |       |        | Rendimento  |
+|        Concelhos         |Freguezias| Fogos |  Almas |             |
+|                          |          |       |        | collectavel |
++--------------------------+----------+-------+--------+-------------+
+|Abrantes                  |   18     |  5:805|  20:704|  100:807$624|
+|Almeirim                  |    4     |  1:849|   6:803|   82:739$499|
+|Barquinha                 |    4     |    952|   3:740|   11:026$393|
+|Benavente                 |    6     |  2:574|   8:964|  119:790$160|
+|Cartaxo                   |    5     |  2:408|   9:126|   85:107$655|
+|Chamusca                  |    5     |  2:010|   7:643|   72:189$037|
+|Constancia                |    3     |    793|   2:832|   20:411$520|
+|Coruche                   |    6     |  1:510|   5:729|   85:619$243|
+|Ferreira do Zezere        |    9     |  2:648|  10:568|   25:519$194|
+|Gollegã                   |    1     |    855|   3:451|   67:953$363|
+|Mação                     |    4     |  1:905|   7:279|   17:787$234|
+|Rio Maior                 |    7     |  2:136|   8:401|   37:954$961|
+|Salvaterra                |    4     |  2:100|  10:150|   45:618$485|
+|Santarem                  |   28     |  7:394|  27:837|  283:162$577|
+|Sardoal                   |    2     |  1:269|   4:241|   14:986$976|
+|Thomar                    |   13     |  5:573|  21:027|   78:812$854|
+|Torres Novas[4]           |   18     |  5:547|  21:916|  101:667$307|
+|Villa Nova de Ourem       |    9     |  4:155|  16:472|   70:679$571|
+|                          +----------+-------+--------+-------------+
+|          Somma           |  144     | 51:483| 196:883|1.321:833$653|
++--------------------------+----------+-------+--------+-------------+
+
+
++--------------------------+-------------+---------------------------+
+|                          |             |        Percentagem        |
+|                          | Contingente +-------------+-------------+
+|        Concelhos         |     sem     |     Sem     |     Com     |
+|                          | addicionaes | addicionaes | addicionaes |
+|                          |             |     [1]     |     [2]     |
++--------------------------+-------------+-------------+-------------+
+|Abrantes                  |   9:075$511 |     9,272   |    13,240   |
+|Almeirim                  |   7:629$549 |     9,358   |    13,363   |
+|Barquinha                 |   1:005$224 |    10,144   |    14,486   |
+|Benavente                 |  10:853$797 |     9,164   |    13,087   |
+|Cartaxo                   |   7:716$064 |     9,212   |    13,155   |
+|Chamusca                  |   6:545$042 |     9,267   |    13,234   |
+|Constancia                |   1:849$236 |     9,638   |    13,763   |
+|Coruche                   |   7:731$420 |     9,162   |    13,083   |
+|Ferreira do Zezere        |   2:257$558 |     9,290   |    13,267   |
+|Gollegã                   |   6:139$124 |     9,201   |    13,139   |
+|Mação                     |   1:618$816 |     9,738   |    13,906   |
+|Rio Maior                 |   3:445$095 |     9,375   |    13,388   |
+|Salvaterra                |   4:136$033 |     9,374   |    13,386   |
+|Santarem                  |  25:654$677 |     9,169   |    13,094   |
+|Sardoal                   |   1:356$089 |     9,805   |    14,001   |
+|Thomar                    |   7:138$992 |     9,216   |    13,160   |
+|Torres Novas[4]           |   9:230$990 |     9,299   |    13,279   |
+|Villa Nova de Ourem       |   6:351$313 |     9,146   |    13,061   |
+|                          +-------------+             |             |
+|          Somma           | 119:734$530 |             |             |
++--------------------------+-------------+-------------+-------------+
+
+
+
+
+*Districto de Vianna*
+
+
++--------------------------+----------+-------+--------+-------------+
+|                          |          |       |        | Rendimento  |
+|        Concelhos         |Freguezias| Fogos |  Almas |             |
+|                          |          |       |        | collectavel |
++--------------------------+----------+-------+--------+-------------+
+|Arcos de Valle de Vez     |    49    |  8:390|  30:339|  100:079$020|
+|Caminha                   |    19    |  2:938|  12:940|   45:119$121|
+|Coura                     |    21    |  3:253|  12:184|   65:075$000|
+|Melgaço                   |    18    |  3.960|  15:063|   45:699$410|
+|Monção                    |    32    |  6:066|  22:988|   72:923$282|
+|Ponte de Barca            |    25    |  3:227|  12:081|   38:765$198|
+|Ponte de Lima             |    51    |  7:817|  32:512|   99:612$040|
+|Valença                   |    15    |  4:167|  13:856|   64:386$608|
+|Vianna do Castello        |    40    |  8.848|  40:143|  183:579$403|
+|Villa Nova de Cerveira    |    15    |  2:581|   9:717|   33:859$970|
+|                          +----------+-------+--------+-------------+
+|          Somma           |   285    | 51:248| 201:823|  749:099$052|
++--------------------------+----------+-------+--------+-------------+
+
+
++--------------------------+-------------+---------------------------+
+|                          |             |        Percentagem        |
+|                          | Contingente +-------------+-------------+
+|        Concelhos         |     sem     |     Sem     |     Com     |
+|                          | addicionaes | addicionaes | addicionaes |
+|                          |             |     [1]     |     [2]     |
++--------------------------+-------------+-------------+-------------+
+|Arcos de Valle de Vez     |  11:483$948 |    11,706   |    16,717   |
+|Caminha                   |   3:000$061 |     6,906   |     9,862   |
+|Coura                     |   2:940$480 |     4,696   |     6,707   |
+|Melgaço                   |   4:248$101 |     9,549   |    13,637   |
+|Monção                    |   6:025$617 |     8,422   |    12,026   |
+|Ponte de Barca            |   4:371$244 |    11,602   |    16,567   |
+|Ponte de Lima             |  11:358$986 |    11,636   |    16,616   |
+|Valença                   |   4:604$185 |     7,331   |    10,468   |
+|Vianna do Castello        |  16:412$348 |     9,033   |    12,986   |
+|Villa Nova de Cerveira    |   2:782$030 |     8,569   |    12,222   |
+|                          +-------------+             |             |
+|          Somma           |  67:227$000 |             |             |
++--------------------------+-------------+-------------+-------------+
+
+
+
+
+*Districto de Villa Real*
+
+
++--------------------------+----------+-------+--------+-------------+
+|                          |          |       |        | Rendimento  |
+|        Concelhos         |Freguezias| Fogos |  Almas |             |
+|                          |          |       |        | collectavel |
++--------------------------+----------+-------+--------+-------------+
+|Alijó                     |    18    |  4:205|  15:744|   93:096$757|
+|Boticas                   |    16    |  2:145|  10:076|   33:867$283|
+|Chaves                    |    45    |  7:534|  29:524|  153:676$825|
+|Santa Martha de Penaguião |    10    |  2:637|   9:991|   56:930$000|
+|Mesão Frio                |     7    |  1:716|   5:868|   15:475$445|
+|Mondim de Basto           |     9    |  1:841|   7:803|   25:389$761|
+|Montalegre                |    35    |  3:639|  17:177|   37:251$986|
+|Murça                     |     9    |  1:434|   5:966|   13:313$490|
+|Peso da Regua             |    10    |  3:795|  17:043|   71:159$512|
+|Ribeira de Pena           |     6    |  1:694|   7:636|   17:386$460|
+|Sabrosa                   |    14    |  3:060|  13:908|   40:495$410|
+|Valle Passos              |    33    |  6:265|  23:064|  123:563$849|
+|Villa Pouca de Aguiar     |    16    |  3:309|  14:029|   45:884$454|
+|Villa Real                |    27    |  7:439|  30:518|   96:880$986|
+|                          +----------+-------+--------+-------------+
+|          Somma           |   255    | 50:713| 208:347|  824:378$228|
++--------------------------+----------+-------+--------+-------------+
+
+
++--------------------------+-------------+---------------------------+
+|                          |             |        Percentagem        |
+|                          | Contingente +-------------+-------------+
+|        Concelhos         |     sem     |     Sem     |     Com     |
+|                          | addicionaes | addicionaes | addicionaes |
+|                          |             |     [1]     |     [2]     |
++--------------------------+-------------+-------------+-------------+
+|Alijó                     |   6:439$015 |     7,045   |    10,060   |
+|Boticas                   |   2:337$730 |     7,255   |    10,361   |
+|Chaves                    |   9:072$305 |     6,059   |     8,652   |
+|Santa Martha de Penaguião |   4:250$095 |     7,675   |    10,960   |
+|Mesão Frio                |   1:840$405 |    12,665   |    18,086   |
+|Mondim de Basto           |   1:339$530 |     5,747   |     8,206   |
+|Montalegre                |   3:341$230 |     9,288   |    13,264   |
+|Murça                     |   1:856$740 |    14,845   |    21,198   |
+|Peso da Regua             |   6:750$130 |     9,857   |    14,076   |
+|Ribeira de Pena           |   1:265$745 |     7,968   |    11,378   |
+|Sabrosa                   |   5:537$610 |    13,978   |    19,961   |
+|Valle Passos              |   7:619$645 |     6,360   |     9,082   |
+|Villa Pouca de Aguiar     |   3:371$050 |     7,607   |    10,863   |
+|Villa Real                |  10:221$770 |    10,799   |    15,422   |
+|                          +-------------+             |             |
+|          Somma           |  65:243$000 |             |             |
++--------------------------+-------------+-------------+-------------+
+
+
+
+
+*VIZEU*
+
+
+
+
+*Districto de Vizeu*
+
+
++--------------------------+----------+-------+--------+-------------+
+|                          |          |       |        | Rendimento  |
+|        Concelhos         |Freguezias| Fogos |  Almas |             |
+|                          |          |       |        | collectavel |
++--------------------------+----------+-------+--------+-------------+
+|Armamar                   |    16    |  2:688|   9:741|   66:230$000|
+|Carregal                  |     6    |  2:706|  10:929|   56:452$485|
+|Castro Daire              |    20    |  4:521|  18:081|   53:128$989|
+|Santa Combadão            |     7    |  1:723|   6:855|   30:840$869|
+|Fragoas                   |     7    |  1:493|   6:090|   23:586$365|
+|S. João de Areias         |     3    |  1:163|   4:975|   19:989$189|
+|S. João da Pesqueira      |    20    |  3:442|  14:508|  134:861$865|
+|Lamego                    |    20    |  5:751|  22:983|  208:905$567|
+|Mangualde                 |    18    |  4:501|  17:995|   85:520$289|
+|Moimenta da Beira         |    19    |  2:960|  12:681|  100:176$504|
+|Mondim                    |     8    |  1:525|   6:011|   35:964$663|
+|Mortagoa                  |    10    |  1:980|   8:143|   31:461$767|
+|Nellas                    |     6    |  2:678|  11:301|   45:372$884|
+|Oliveira de Frades        |    16    |  3:079|  14:763|   58:143$393|
+|S. Pedro do Sul           |    20    |  4:225|  21:023|   76:102$929|
+|Penalva do Castello       |    12    |  2:844|  11:767|   29:246$516|
+|Penedono                  |     9    |  1:695|   6:350|   41:544$029|
+|Rezende                   |    15    |  4:501|  17:157|   58:921$232|
+|Satão                     |    12    |  2:734|  11:609|   50:406$350|
+|Sernancelhe               |    21    |  2:880|  11:167|   52:935$290|
+|Sinfães                   |    17    |  5:918|  21:348|   53:894$489|
+|Tabuaço                   |    13    |  1:974|   7:660|   44:127$625|
+|Tarouca                   |     7    |  1:571|   5:939|   33:082$494|
+|Tondella                  |    24    |  6:652|  27:666|  135:875$230|
+|Vizeu                     |    30    | 10:310|  43:564|  231:099$124|
+|Vouzella                  |     9    |  2:488|   9:824|   30:630$820|
+|                          +----------+-------+--------+-------------+
+|          Somma           |   365    | 88:002| 360:130|1.788:500$957|
++--------------------------+----------+-------+--------+-------------+
+
+
++--------------------------+-------------+---------------------------+
+|                          |             |        Percentagem        |
+|                          | Contingente +-------------+-------------+
+|        Concelhos         |     sem     |     Sem     |     Com     |
+|                          | addicionaes | addicionaes | addicionaes |
+|                          |             |     [1]     |     [2]     |
++--------------------------+-------------+-------------+-------------+
+|Armamar                   |   3:837$365 |     5,965   |     8,518   |
+|Carregal                  |   2:977$700 |     5,476   |     7,819   |
+|Castro Daire              |   2:658$100 |     5,217   |     7,449   |
+|Santa Combadão            |   1:528$405 |     5,324   |     7,603   |
+|Fragoas                   |     766$810 |     3,733   |     5,330   |
+|S. João de Areias         |   1:024$210 |     5,692   |     8,128   |
+|S. João da Pesqueira      |   6:901$560 |     5,286   |     7,548   |
+|Lamego                    |  12:196$680 |     5,947   |     8,492   |
+|Mangualde                 |   3:774$075 |     4,546   |     6,491   |
+|Moimenta da Beira         |   2:830$030 |     2,938   |     4,196   |
+|Mondim                    |   1:524$190 |     4,554   |     6,503   |
+|Mortagoa                  |   1:475$665 |     5,051   |     7,213   |
+|Nellas                    |   2:265$710 |     5,244   |     7,488   |
+|Oliveira de Frades        |   2:254$110 |     4,072   |     5,815   |
+|S. Pedro do Sul           |   3:035$715 |     4,138   |     5,909   |
+|Penalva do Castello       |   2:417$605 |     8,655   |    12,359   |
+|Penedono                  |   1:581$145 |     4,079   |     5,825   |
+|Rezende                   |   3:278$320 |     5,756   |     8,220   |
+|Satão                     |   1:870$160 |     3,935   |     5,620   |
+|Sernancelhe               |   3:469$240 |     6,768   |     9,665   |
+|Sinfães                   |   4:739$220 |     9,004   |    12,858   |
+|Tabuaço                   |   2:187$655 |     5,215   |     7,447   |
+|Tarouca                   |   1:721$435 |     5,547   |     7,921   |
+|Tondella                  |   6:425$845 |     4,896   |     6,992   |
+|Vizeu                     |  12:341$310 |     5,438   |     7,766   |
+|Vouzella                  |   2:073$740 |     7,141   |    10,197   |
+|                          +-------------+             |             |
+|          Somma           |  91:156$000 |             |             |
++--------------------------+-------------+-------------+-------------+
+
+
+
+
+*AVEIRO*
+
+Agueda                         }
+Anadia                         }
+Arouca                         }
+Aveiro                         }
+Estarreja                      }
+Feira                          } pagam de 7 para 8%
+Ilhavo                         }
+Mealhada                       }
+Oliveira de Azemeis            }
+Oliveira do Bairro             }
+Ovar e Vagos                   }
+
+Albergaria a Velha             }
+Castello de Paiva              }
+                               } de 8 para 9
+Macieira de Cambra             }
+Sever                          }
+
+
+*BEJA*
+
+Aljustrel                        de 3 para 4
+
+Alvito                         }
+Cuba                           }
+Mertola                        } de 5 para 6
+Odemira                        }
+Ourique                        }
+
+Beja                             6,274
+
+Almodovar                      }
+Barrancos                      }
+                               } de 7 para 8
+Castro Verde                   }
+Vidigueira                     }
+
+Ferreira                       }
+Moura                          } de 8 para 9
+Serpa                          }
+
+
+*BRAGA*
+
+Braga                             8,435
+
+Espozende                      }
+Povoa de Lanhoso               } de 9 para 10
+Villa Nova de Famalicão        }
+
+Fafe e Guimarães                 de 10 para 11
+
+Barcellos                        11,472
+
+Cabeceiras de Basto            }
+                               } de 12 para 13
+Celorico                       }
+
+Vieira e Villa Verde             de 13 para 14
+
+Amares                           16,619
+
+Terras do Bouro                  21,209
+
+
+*BRAGANÇA*
+
+Bragança                         4,717
+Mogadouro                      }
+Miranda                        } de 5 para 6
+Alfandega da Fé                }
+
+Mirandella                       6,936
+
+Vimiozo                        }
+                               } de 7 para 7-1/2
+Carrazeda                      }
+
+Macedo de Cavalleiros          }
+Freixo d'Espada á Cinta        } de 8 para 9
+Villa Flor                     }
+
+Vinhaes e Moncorvo               de 9 para 10
+
+
+*CASTELLO BRANCO*
+
+Oleiros                        }
+Proença a Nova                 } de 6 para 7
+Villa Velha                    }
+
+Fundão                         }
+                               } de 7 para 8
+Idanha a Nova                  }
+
+Castello Branco                }
+Covilhã                        } de 8 para 9
+Villa do Reino                 }
+
+Penamacor                        10
+
+Belmonte                       }
+                               } de 11 para 12
+S. Vicente da Beira            }
+
+Certã                            19
+
+
+*COIMBRA*
+
+Arganil                          4,811
+
+Cantanhede                     }
+Figueira                       }
+Goes                           }
+Monte-mór                      }
+Oliveira do Hospital           }
+                               } de 5 para 6
+Pampilhosa                     }
+Penacova                       }
+Poyares                        }
+Soure                          }
+Tabua                          }
+
+Louzã                          }
+Mira                           } de 6 para 7
+Miranda do Corvo               }
+
+Coimbra                        }
+                               } de 7 para 8
+Condeixa                       }
+
+Penella                          9,137
+
+
+*GUARDA*
+
+Ceia                             5,700
+
+Manteigas                        9,610
+
+Aguiar da Beira                  16,134
+
+
+*LEIRIA*
+
+Batalha e Leiria                 5,129
+
+Pombal                           6,920
+
+Caldas                         }
+Pedrogão Grande                } de 7 para 8
+Peniche                        }
+
+Obidos                          8,434
+
+Alcobaça                       }
+Ancião                         } de 9 para 10
+Porto de Moz                   }
+
+Figueiró dos Vinhos              11,070
+
+Alvaiazere                       14,905
+
+No districto de Lisboa a percentagem é egual a 7 e 1/4% em todos os
+concelhos.
+
+Exceptua-se:
+
+Os bairros de Lisboa onde ella é de 9,203.
+
+O concelho de Torres Vedras onde sobe a 9,855.
+
+Eu tenho a felicidade de pertencer a este ultimo concelho.
+
+No districto de Portalegre a percentagem é toda de 8 a 8-1/2%.
+
+
+*PORTO*
+
+Aqui temos os concelhos de
+
+Bouças, Gondomar, Maia e Vallongo, pagando      4 para 5
+Marco de Canavezes, Paredes, Povoa
+  de Varzim e Villa do Conde          »         6  »   7
+Penafiel e Porto                      »         7  »   8
+Amarante, Passos de Ferreira, Santo
+  Thyrso, Villa Nova de Gaia          »         8  »   9
+Baião e Louzada                       »         9  »  10
+
+No districto de Santarem é a percentagem egual de 9 para 10.
+
+
+*VIANNA*
+
+Os concelhos de
+
+Coura                                      paga    4,696
+Caminha                                      »     6,906
+Valença                                      »     7,331
+Monção e Villa Nova da Cerveira              »     8 para 9
+Melgaço e Vianna                             »     9 para 10
+Arcos, Ponte da Barca e Ponte de Lima        »    11 para 12
+
+
+*VILLA REAL*
+
+Mondim de Basto                            paga    5,747
+Chaves e Valle Passos                        »     6 para 7
+Alijô, Boticas, Penaguião, Ribeira de Pena,
+  Villa Pouca d'Aguiar                       »     7 para 8
+Monte Alegre e Pezo da Regoa               paga    9 para 10
+Villa Real                                   »     10,799
+Mesão Frio                                   »     12,665
+Sabrosa                                      »     13,978
+Murça                                        »     14,845
+
+
+*VIZEU*
+
+Moimenta da Beira                          paga    2,938
+Fragoas Satão                                »     3 para 4
+Mangualde, Mondim, Oliveira de Frades,
+  Penedono, S. Pedro do Sul e Tondella     paga    4 para 5
+Armancar, Carregal, Castro Daire, Santa
+  Combadão, S. João de Areias, Pesqueira,
+  Lamego, Mortagua, Nellas, Rezende,
+  Tabuaço, Tarouca e Vizeu                   »     5 para 6
+Sernancelhe                                  »     6,768
+Vouzella                                     »     7,141
+Penalva do Castello                          »     8,655
+Sinfães                                      »     9,004
+
+Comparando depois a população com o rendimento collectavel, e o
+rendimento collectavel com a distribuição dos contingentes pelos
+districtos, e, nos districtos pelos concelhos, acha-se uma demonstração
+frisante de que todos n'esta terra teem estado á profia para a perderem,
+e que a indole do povo portuguez é tão docil e tão generosa, que tem
+resistido a todas estas malfeitorias.
+
+Do que se passa de districto para districto, e, nos districtos, de
+concelho para concelho, pode julgar-se do que será nas parochias entre
+propriedade e propriedade!
+
+Eram estas as armas com que me preparava, no meu posto de membro do
+parlamento, para entrar na discussão das reformas que ninguem, depois
+dos algarismos que acabo de pôr em acção pode negar que fossem a mais
+urgente necessidade do credito, da justiça, da vida do povo portuguez.
+
+Foi esse o momento escolhido pelo sr. duque de Saldanha para mudar o
+curso das idéas e lançar no meio da discussão dos interesses geraes, a
+que o reino era convocado, o brandão de novo acceso das antigas lutas
+politicas, e o facho de uma implacavel guerra civil, e talvez, o
+rastilho de uma guerra estrangeira.
+
+Como o fez elle?
+
+Ás sete horas da noite do dia 18 de maio de 1870 deitou-se o duque de
+Saldanha, que conta oitenta annos de idade, dizendo que queria ir no dia
+seguinte para Cintra.
+
+Ás dez horas fardou-se.
+
+Ás onze montou a cavallo, e, dando a voz de marche marche a 400 soldados
+amotinados, dirigiu-se ao paço, onde el-rei, depositario da chave de
+toda a organisação politica, pelo titulo V, capitulo I, artigo 71.^o da
+constituição, guardava a independencia, equilibrio e harmonia dos demais
+poderes.
+
+O duque era mordomo mór, e, como tal, entrou áquellas horas no paço.
+
+O duque era marechal do exercito e ajudante de campo do sr. D. Fernando
+II.
+
+O duque era conselheiro de estado, responsavel pelos conselhos que désse
+ao rei.
+
+Entrado em casa de seu amo, e quando lhe encarecia e exaggerava as
+forças que o seguiam, os companheiros do marechal do exercito, para
+apoiarem as razões que elle dava ao monarcha ás duas horas da noite,
+crivavam de balas a sala da conferencia, mettendo-as pelas janellas do
+paço.
+
+Sua magestade mandou buscar o sr. duque de Loulé, presidente do conselho
+de ministros, para lhe participar que desejava entregar os sêllos do
+estado ao seu leal conselheiro, fidelissimo marechal e dedicadissimo
+criado, o sr. duque de Saldanha.
+
+O sr. duque de Loulé saiu do paço demittido, e o sr. duque de Saldanha
+nomeado ministro do reino, da guerra e presidente do conselho, e, em
+seguida, de todas as outras pastas.
+
+Accusaram alguns aos ministros caidos por não terem defendido o rei.
+
+Que seja licito, ao menos docil dos membros da maioria, a quem não tomou
+parte nas glorias da situação, considerar-se agora solidario em tudo na
+queda e nos desastres d'ella.
+
+Se se reduzir esta importante questão ás regras do xadrez, que na
+antiguidade era escola dos grandes capitães, eu digo que, n'esse ponto,
+menos se deve condemnar o sr. Lobo d'Avila, para mais admirar a lisura
+com que o sr. duque de Saldanha lhe deu «_cheque mate de pastor_.»
+
+Mas a sciencia do direito publico constitucional, diz-nos: que não basta
+para garantir as liberdades publicas saber dar cheque ao rei.
+
+Antigamente era assim; agora não é. Se o sr. duque de Saldanha pode
+servir de exemplo aos ultimos heroes de Marathona para aperfeiçoarem as
+suas partidas; aqui... temos de saber, se, mesmo com o rei em cheque e
+as instituições a resgate, o povo sabe, pode e quer vingar a
+constituição.
+
+Foi assim que a Europa liberal, á noticia do glorioso feito do sr. duque
+de Saldanha, poz diante do mundo o problema que contém as suas
+consequencias.
+
+O _Times_, primeiro diario da Europa, fulminou-o n'um artigo de fundo, e
+attribuiu á idade do marechal o crime, para que só acha parallelo na
+_grutesca_ indifferença do povo.
+
+O _Daily News_ do dia 28 de maio, mez do seu crime, recommenda-o ao sr.
+Edmond About para servir de heroe á segunda serie da sua Grecia
+contemporanea.
+
+Elle diz que o «Rei das Montanhas» é nada, comparado com o marechal
+Saldanha nas façanhas com que se preparou para pagar dividas antigas
+(_to pay old debts_.)
+
+O _Globe_, diz: que espera vel-o de novo em Londres, visitando a casa do
+parlamento, tão abatida, diz elle, desde que Canning electrificou o seu
+auditorio com a noticia de que a esquadra ingleza estava em caminho para
+o Tejo em 1826.
+
+Volta de novo o _Times_ do dia 30 a dizer-nos que, apezar da negativa do
+marechal Saldanha, ninguem na Europa ignora que elle veiu a Portugal
+para realisar o projecto de sujeitar a sua patria á Hespanha.
+
+O _Saturday review_, o primeiro semanario de litteratura da Inglaterra,
+retalha o acto do sr. duque de Saldanha com aquella ironia, que ninguem
+melhor do que o proprio duque pode apreciar.
+
+A imprensa franceza, a belga, italiana, alemã não são mais complacentes
+na apreciação dos actos do marechal, do mordomo mór e do cidadão.
+
+Até na Russia foi o marechal suppliciado pelo knut litterario do
+authocrata!
+
+A sua condemnação é unanime, para se lhe juntarem culpas, que a
+indiscreta impaciencia de alguns jornaes hespanhoes revelou mais como
+aspiração, e como anhelo de uma paixão devorante, do que como facto
+fundado em accordo realisavel.
+
+Sem duvida foi para mitigar esta condemnação da Europa illustrada, que o
+sr. duque de Saldanha dirigiu aos nossos chefes de missão a circular que
+o _Diario_ deu á luz.
+
+Será por ella que julgaremos o marechal insubordinado e sedicioso.
+
+Se elle não teve para dissolver o parlamento, nem para comparecer
+perante elle, a coragem que lhe sobrou para amedrontar e escravisar o
+rei, nem por isso lhe será negado direito de se defender. Possa essa
+defeza tornar menos grave e menos negro o attentado atroz com que
+maculou as cãs da sua longa edade, e a gloria da sua temeraria espada.
+
+Eis o que elle diz:
+
+
+     CIRCULAR AOS CHEFES DAS MISSÕES PORTUGUEZAS
+
+
+     O procedimento anti-constitucional e violento da passada
+     administração havia produzido geral descontentamento e inquietação
+     em todo o reino.
+
+     Qualquer circumstancia inesperada, ainda de pequena monta, poderia
+     dar logar a uma conflagração geral, cujas consequencias ninguem
+     poderia prever, o que se não limitaria a uma simples mudança de
+     gabinete.
+
+     Por muitas vezes tive a honra de ponderar ao nosso augusto
+     soberano, os inconvenientes da conservação d'aquelle ministerio,
+     para os interesses publicos e para as proprias instituições.
+
+     Levei mesmo a minha franqueza ao ponto de significar-lhe que uma
+     revolução estava imminente no paiz, se elle continuasse a conservar
+     uma administração tão odiada, e que eu não sabia se teria força
+     para evitar-lhe as consequencias, como tive em 1851.
+
+     Acrescentei que não era a ambição do poder que me levava a
+     aconselhar assim Sua Magestade, porque onze vezes, sendo já uma no
+     seu reinado, me tinha recusado a ser chefe da administração, e que,
+     pelo contrario, eu prestaria franco e leal apoio a qualquer
+     ministerio que evitasse a revolução.
+
+     Respondia-me Sua Magestade, com a sua costumada benevolencia,
+     allegando rasões para não tomar de prompto o meu conselho, as quaes
+     me abstenho agora desenvolver, mas nas quaes revelava sempre o mais
+     entranhado amor pelo interesse do paiz.
+
+     Na manhã de quarta feira, 18 do corrente, expuz de novo a Sua
+     Magestade a muito perigosa situação em que nos achavamos, a
+     imminente revolução que nos ameaçava: ainda outra vez pedi a
+     nomeação de um novo ministerio qualquer. El-rei repetiu o que
+     tantas vezes me tinha dito, e eu resolvi expor a vida, e mesmo a
+     reputação, para salvar o paiz dos males que o ameaçavam.
+
+     Do paço fui para minha casa, e ás tres horas da madrugada, os
+     regimentos n.^o 2 de lanceiros, n.^o 3, de artilheria, caçadores
+     n.^o 5, e infanteria n.^o 1 e n.^o 7 occupavam o largo da Ajuda, ao
+     mesmo tempo que um grande numero de populares occupavam o castello
+     de S. Jorge, d'onde sairam ás sete horas da manhã, sem que tivessem
+     apparecido nas ruas de Lisboa. A cidade continuou nas suas
+     ordinarias occupações sem ter tido outro incommodo que o que lhe
+     podia resultar pelas repetidas salvas de artilheria com que os
+     populares, desde o romper do dia, festejavam nosso triumpho.
+
+     A noticia da mudança de ministerio foi recebida em toda a parte com
+     as maiores manifestações de alegria. As tropas, espalhadas pelas
+     provincias do norte, regressaram aos seus quarteis ordinarios.
+     Reina perfeito socego e contentamento em todas as provincias, e eu,
+     dando, humilde, graças á Divina Providencia, tenho a intima
+     convicção de haver evitado a guerra civil, que estava imminente, e
+     de haver ainda, no ultimo quartel da vida, mais uma vez contribuido
+     para a consolidação do throno do sr. D. Luiz, da sua dynastia, das
+     instituições que sempre tenho defendido, e da autonomia e
+     independencia nacional, que uma guerra civil poderia pôr em perigo.
+
+     No mesmo dia 19 fui á noite ao paço, e tive a honra de dizer a
+     el-rei: «Senhor, vossa magestade fez-me esta manhã a honra de me
+     encarregar da formação do ministerio, mas então o largo d'este paço
+     estava cheio de soldados; agora, que é vazio, venho depôr nas mãos
+     de vossa magestade aquelle encargo e pedir a vossa magestade se
+     digne encarregar outra pessoa de formar o gabinete, assegurando a
+     vossa magestade, pela minha honra, que a unica condição que eu
+     exijo para dar á nova administração o meu sincero apoio, é «que os
+     novos ministros não sejam inimigos dos meus amigos.» Sua magestade,
+     do modo mais gracioso, dignou-se dizer-me que repetia o que me
+     tinha dito pela manhã.
+
+     No principio d'esta communicação accuso a passada administração de
+     anti-constitucional e violenta. Não costumo fazer accusações sem
+     provas; muitas poderia apresentar, limitar-me-hei a duas.
+
+     Pelo artigo 74.^o, § 4.^o, da carta constitucional tem o poder
+     moderador auctoridade para dissolver a camara quando o bem do
+     estado o exigir.
+
+     No dia 2 de janeiro ultimo abriu el-rei o parlamento, e no discurso
+     do throno se acham os dois seguintes periodos:
+
+     «Solemne é sempre o momento em que se reunem os mandatarios
+     legitimos da nação, e sempre com satisfação nova os saudo,
+     exercendo um dos mais graves actos da realeza constitucional.
+
+     «Ao desempenho da ardua, mas nobre e elevada missão que hoje vos
+     incumbe, applicareis todo o vosso cuidado, illustração, esforços e
+     consciencia, tendo eu por seguro, que em tudo, com o divino
+     auxilio, correspondereis ao que de vós espera a patria para honra
+     d'ella, credito, utilidade e gloria do nome e do povo portuguez.»
+
+     Passados dezoito dias; sem a menor causa ou motivo que podesse
+     fazer acreditar que o bem do paiz o exigia, sem mesmo as camaras
+     terem dado a menor prova de opposição, o ministerio dissolveu a
+     camara.
+
+     O sangue correu em differentes pontos. Na egreja de Machico os
+     eleitores, que sabiam que a urna seria roubada durante a noite,
+     quizeram ficar na egreja para a guardar, ficando tambem os
+     eleitores ministeriaes. Nada mais innocente. Foram postos fóra a
+     tiro, causando mortes e ferimentos, profanando assim o templo do
+     Senhor.
+
+     Repito, que muitos e muitos factos podia adduzir para provar que a
+     passada administração foi anti-constitucional e violenta.
+
+     Religião, justiça, moralidade, throno, independencia nacional,
+     economia e liberdade são os sete vocabulos que em si encerram o
+     programma ministerial.
+
+     Cumpre-me finalmente acrescentar que o novo gabinete tem
+     essencialmente em vista a organisação da fazenda publica. Como
+     primeira base do melhoramento d'esta, o governo ha de manter
+     integralmente os compromissos celebrados pelos seus antecessores,
+     desempenhar-se religiosamente de todas as obrigações contrahidas, e
+     tratar com a maior lealdade a todos os que fornecerem os seus
+     capitaes ao thesouro portuguez.
+
+     O melhoramento da fazenda publica ha de conseguir-se por meio de
+     reformas economicas bem pensadas, e sobre tudo pelo augmento de
+     receita, e de ambas as coisas vae cuidar seriamente o gabinete.
+
+     O ministerio a que presido tem a confiança publica, e todos
+     reconhecem a necessidade de uma situação forte para vencer as
+     difficuldades do thesouro. O perfeito socego que reina no paiz, e
+     que por certo não será alterado, é mais uma garantia de que o
+     governo não encontrará grandes resistencias na execução do seu
+     plano.
+
+     Inteirado portanto v. ex.^a dos motivos que deram logar nos
+     acontecimentos do dia 19 e do programma do governo, convirá que por
+     todos os meios ao seu alcance procure esclarecer sobre este
+     assumpto tanto esse governo como as pessoas mais influentes d'esse
+     paiz.
+
+     Deus guarde a v. ex.^a Secretaria d'estado dos negocios
+     estrangeiros, em 30 de maio de 1870.--_Duque de Saldanha_.
+
+
+O marechal Saldanha expõe.
+
+1.^o Que a administração passada teve um procedimento
+anti-constitucional e violento.
+
+2.^o Que por muitas vezes ponderou a el-rei os inconvenientes de
+conservar aquelle ministerio.
+
+3.^o Que ponderou a el-rei a possibilidade de uma revolução.
+
+4.^o Que offereceu o seu apoio a qualquer ministerio que evitasse a
+revolução.
+
+5.^o Que no dia 18 de maio de 1870 foi novamente annunciar a el-rei a
+eminencia da revolução e pedir mudança de governo.
+
+6.^o Que do paço foi para sua casa.
+
+7.^o Que ás tres horas da madrugada (elle não diz mas é) do dia 19, os
+regimentos n.^o 2 de lanceiros, n.^o 3 de artilheria, caçadores n.^o 5,
+e infanteria n.^o 1 e 7, occupavam o largo d'Ajuda.
+
+8.^o Que um grande numero de populares occupava ao mesmo tempo o
+castello de S. Jorge.
+
+9.^o Que ás sete horas os populares foram para suas casas tambem, sem
+apparecerem nas ruas de Lisboa.
+
+10.^o Que a cidade continuou nas occupações ordinarias, ao ecco das
+salvas, com que os populares festejavam o triumpho commum.
+
+11.^o Que a noticia da mudança do ministerio foi recebida em toda a
+parte com as maiores manifestações de alegria.
+
+12.^o Que dá graças á Providencia por ter salvado o throno, a dynastia,
+as instituições e a independencia nacional.
+
+13.^o Que o ministerio caído dissolvera as côrtes em janeiro d'este anno
+sem motivo sufficiente.
+
+14.^o Que correu sangue nas eleições da Madeira.
+
+15.^o Que muitos e muitos factos poderia adduzir para provar que a
+administração passada foi anti-constitucional e violenta.
+
+Depois d'esta exposição com que fundamenta o seu feito, vem o programma
+do gabinete, que diz:
+
+Religião,
+Justiça,
+Moralidade,
+Throno,
+Independencia nacional,
+Economia,
+Liberdade.
+
+Além do programma que é este, acrescenta o sr. duque de Saldanha o
+seguinte:
+
+Organisará a fazenda _publica_.
+
+_E como base para essa organização tratará com a maior lealdade os que
+fornecerem os seus capitaes ao thesouro portuguez._
+
+Que o melhoramento da fazenda publica se ha de conseguir por meio _de
+reformas economicas bem pensadas e sobre tudo pelo augmento da receita_.
+
+Que o ministerio tem a confiança publica.
+
+Que ha perfeito socego no reino, que elle não será alterado, e que isso
+e uma garantia de que o governo não encontrará grandes resistencias na
+execução _do seu plano_.
+
+(Qual plano?)
+
+Religião,
+Justiça,
+Moralidade,
+Throno,
+Economia,
+E liberdade!
+
+D'este plano e programma devem os agentes diplomaticos dar conhecimento
+aos seus governos e ás pessoas influentes de cada paiz.
+
+A não ser da chancellaria do pachá de Janina, nunca se expediu documento
+tão abstruzo e esquipatico.
+
+Vamos pois a elle.
+
+Avaliemol-o em relação a si proprio; entremos no seu contexto,
+despedacemos-lhe o involucro e ponhamos-lhe as entranhas á luz do sol.
+
+Dos quinze artigos, que formam a sua primeira parte, parece-me util
+deslindar a confusão que reina no 7.^o o qual mais exacto é assim.
+
+O marechal saiu do pateo dos Geraldes com parte de caçadores 5 puchados
+por um capitão e varios officiaes inferiores e de parte do 7 de
+infanteria conduzida por outro capitão, e alguma artilheria n.^o 3
+levada por outro capitão, que não estava em serviço do regimento.
+
+No largo d'Ajuda estava é verdade, lanceiros n.^o 2, infanteria n.^o 1 e
+a bateria de artilheria n.^o 3, commandada pelo bravo e leal capitão
+Mendonça.
+
+Mas essas forças estavam lá para defender o paço e, se obedeceram ao sr.
+duque de Saldanha, foi porque receberam ordem de el-rei para o
+reconhecerem como ministro da guerra, cargo em que sua magestade o
+investiu ou elle se disse investido, quando prendeu o capitão Mendonça,
+antes da chegada do sr. duque de Loulé, no momento em que os soldados do
+sr. duque de Saldanha atiravam ás janellas do paço onde dormia a rainha!
+
+Se aquelles corpos estivessem, como deviam estar, não no paço, mas entre
+o marechal e o paço, talvez que o sr. marechal do exercito, não tivesse
+opportunidade de dar á Europa a deploravel noção de que o exercito
+portuguez é composto de traidores, e que só por excepção houve n'elle um
+official honrado, que está no desterro expiando a culpa da má qualidade
+das espoletas, que fabríca o nosso arsenal!
+
+Todos os outros argumentos em que o marechal funda o seu feito são de
+tal ordem, tão boçaes, que me parece impossivel, que similhante papel
+seja offerecido por qualquer diplomata, que se respeite, aos governos
+junto dos quaes esteja acreditado.
+
+O programma esse é divino. É dividido em sete partes, representando os
+sete dias, em que o sr. duque de Saldanha foi ministro das sete pastas.
+
+Sómente me admira que tambem se não lembrasse de declarar á Europa, por
+intermedio do corpo diplomatico que, n'aquelle tempo da sua
+omnipotencia, tinha creado Adão segundo, ao qual poz o nome de Sampaio,
+e que, apesar de não existirem no ministerio, nem Eva nem maçans,
+tinha-se arrependido, por causa da serpente, de o ter creado, e que o
+expulsára do paraiso ministerial.
+
+Em compensação porém se não esqueceu o sr. duque de Saldanha, de mandar
+dizer que _elle tratará com a maior lealdade os que fornecerem os seus
+capitaes ao thesouro portuguez_.
+
+É aqui que está a suprema obra.
+
+_Que quererá dizer esta lealdade e este fornecimento de capitaes ao
+thesouro portuguez?_
+
+Quem auctorisou o sr. duque de Saldanha a contrair emprestimos, a
+convidar capitaes para supprir o thesouro portuguez?
+
+Ora aqui está já o crime do sr. duque de Saldanha a levantar-se contra
+elle.
+
+Ir ao palacio do rei ás duas ou tres horas da noite, arrancar-lhe com a
+espada aos peitos a investidura de ministro, não era facil com D. João
+II, mas não pode ninguem duvidar, que é facillimo agora n'esta terra.
+Arranjar meios porém com que satisfazer os encargos publicos, isso tem
+outras difficuldades.
+
+O sr. duque de Saldanha pode mandar vedar a porta das côrtes por um cabo
+d'esquadra aos representantes do povo; mas o que não pode é dar em
+garantia, de que o povo ha de pagar o que elle pedir emprestado, as
+barbas d'esse cabo d'esquadra, aos capitalistas estrangeiros, e menos
+ainda aos nacionaes.
+
+Todo o dinheiro, que se emprestar ao thesouro, sem lei das côrtes não é
+o povo obrigado a pagal-o.
+
+Os deputados não podem reconhecer a legitimidade de taes dividas, e o
+povo está no seu direito em resistir a todo o pagamento d'impostos, que
+as côrtes não auctorisarem e a negar-se a reconhecer emprestimos, que
+uma sedição militar contrair.
+
+As côrtes só auctorisam governos legaes.
+
+Pois o sr. duque de Saldanha rebellou-se contra a lei para evitar a
+revolução; atacou o throno para o salvar; poz os soldados em sedição
+para crear um governo forte; tem a confiança publica; e a primeira
+palavra das suas reformas financeiras é appelar para os emprestimos
+estrangeiros, que arruinaram completamente a fazenda e o credito
+nacional?
+
+Que é isto?
+
+Que reformas economicas tão bem pensadas são essas, que se voltam outra
+vez para a divida fluctuante externa dos 25%; das multas, dos processos
+na _Court of Chancery_?
+
+Recuaremos nós outra vez a esses tristes dias em que os intitulados
+agentes do governo de Portugal entravam em casa dos banqueiros das
+principaes casas da Europa, gritando:
+
+«Dinheiro para Portugal!
+
+«Por todo o preço!
+
+«A minha commissão é tanto»...! Teremos de assistir de novo ás scenas do
+famoso Hillel, fazendo venda dos titulos de que era depositario para se
+pagar das suppostas commissões?!
+
+Será novamente hypothecado o voto parlamentar por 250 contos, como já o
+foi pelo sr. conde de Samodães, e pelo resgate da qual hypotheca pagâmos
+aquelle dinheiro?!
+
+Digam; digam ao paiz e á Europa, que felicidades são essas que reservam
+a este desgraçado povo, com a mais cruel avareza e com tão indiscreta
+loquacidade?!
+
+O socego do paiz é uma garantia _de que o plano se poderá executar_?
+
+Qual plano?
+
+O de chamar os corvos para se cevarem sobre o que julgam já cadaver?!
+
+E julgam o povo cadaver por que não bole, não estrebucha?
+
+Fatalissimo erro!
+
+A espada do vencedor d'Argel--na phrase dos seus adoradores--ha de achar
+no seu caminho outra espada, de que o sr. duque tambem não falou á
+Europa, mas da qual é tempo para se lhe falar.
+
+É a espada da constituição.
+
+A Constituição diz:
+
+
+     TITULO III
+
+     _Dos Poderes e Representação Nacional_
+
+
+     Art. 10.^o A divisão e harmonia dos Poderes Politicos é o principio
+     conservador dos direitos dos Cidadãos, e o mais seguro meio de
+     fazer effectivas as garantias, que a Constituição offerece.
+
+     Art. 11.^o Os Poderes Publicos reconhecidos pela Constituição do
+     Reino de Portugal, são quatro: o Poder Legislativo, o Poder
+     Moderador, o Poder Executivo, e o Poder Judicial.
+
+     Art. 12.^o Os Representantes da Nação Portugueza são o Rei, e as
+     Côrtes Geraes.
+
+
+Era parte d'um dos poderes, que a Constituição reconhece, o sr. duque de
+Saldanha.
+
+Elle era legislador e representante legitimo da nação portugueza, como
+membro das côrtes geraes.
+
+Era n'esse logar e n'essa qualidade, que lhe cumpria accusar o governo
+deposto por todos os ataques á constituição, pelos crimes d'arbitrio e
+violencia, que o sr. duque denuncia á Europa na circular ao corpo
+diplomatico.
+
+É o sr. duque do Saldanha homem de grande talento e de variada
+instrucção. Orador facil, escriptor elegante. Conhecedor de varias
+linguas. Fallando, e escrevendo inglez, italiano e francez, como se
+fosse nascido em qualquer d'esses paizes; tendo clientes na camara onde
+tem assento e, nada o desculpa do silencio que ahi guardou.
+
+No seu logar de representante da nação portugueza, se os factos, que o
+digno par o sr. duque de Saldanha attribue aos seus antecessores, são
+taes quaes os pinta, a carta lhe incumbia de combater alli contra elles;
+e no
+
+
+     TITULO IV
+
+     _Do Poder Legislativo_
+
+
+     CAPITULO I
+
+     Das suas attribuições
+
+
+diz:
+
+
+     Art. 15.^o É da attribuição das Côrtes:
+
+     § 6.^o Fazer Leis, interpretal-as, suspendel-as, e revogal-as.
+
+     § 7.^o Velar na guarda da Constituição, e promover o bem geral da
+     Nação.
+
+     § 8.^o Fixar annualmente as despezas publicas, e repartir a
+     contribuição directa.
+
+     § 11.^o Auctorisar o Governo para contrahir emprestimos.
+
+     § 12.^o Estabelecer meios convenientes para pagamento da divida
+     Publica.
+
+     § 14.^o Crear ou supprimir empregos publicos, e estabelecer-lhes
+     ordenados.
+
+
+A circular do digno par do reino diz-nos, que elle não usou d'estes
+meios; mas tratou de persuadir o rei clandestinamente de perigos, que só
+elle tinha poder de crear, como creou, e perfida e discretamente guarda
+as razões pelas quaes o poder moderador não accedeu ás instancias, que a
+constituição lhe mandava fazer á luz do dia na camara dos pares.
+
+É expressa a letra do § 8.^o do artigo 15.^o da constituição ácerca da
+competencia do poder legislativo para repartir a contribuição directa.
+
+É expresso o § 11.^o sobre a indispensabilidade da auctorisação do mesmo
+poder para contrahir emprestimos.
+
+Portanto o povo deve negar-se a pagar a contribuição, que lhe fôr
+imposta sem voto do parlamento, e não deve reconhecer nenhum emprestimo
+ou negociação, que o mesmo parlamento não auctorise. A resistencia a
+esse pagamento é justa, é legal, é meritoria, é acto d'uma dedicação e
+patriotismo que eleva e ennobrece o povo que a emprega.
+
+E tanto mais legal e meritoria é, e será, a resistencia tanto ao
+pagamento dos impostos, como ao reconhecimento dos emprestimos ou
+antecipação que o parlamento não votar, que a carta, querendo evitar a
+menor subtileza ou sophisma; querendo garantir ao povo a fiscalisação da
+sua fortuna, restringiu a um dos ramos do poder legislativo essas
+attribuições, e confiou-as sómente á camara popular e electiva, e diz no
+seu mesmo
+
+
+     TITULO IV
+
+     CAPITULO II
+
+     Da camara dos deputados
+
+
+     Art. 35.^o É privativa da camara dos deputados a iniciativa:
+
+     § 1.^o Sobre impostos.
+
+     § 2.^o Sobre recrutamentos.
+
+     Art. 37.^o É da privativa attribuição da mesma camara decretar que
+     tem logar a accusação dos ministros de estado e conselheiros de
+     estado.
+
+
+De como os _taes planos_ do digno par o sr. duque de Saldanha _possam
+realisar-se_ no meio da tranquillidade e da indifferença publica, quando
+a carta, conferindo as attribuições da iniciativa sobre impostos á
+camara popular e electiva, só teve por fim acordar essa tranquillidade e
+indifferença!
+
+De como possa convir o silencio dos tumulos aos planos do sr. duque de
+Saldanha, quando o pacto social procurou as garantias na agitação do
+paiz; não posso eu dizel-o, que nada sei dos planos do sr. duque de
+Saldanha, tendo-me parecido até 19 de maio, que me bastava conhecer os
+planos da constituição.
+
+Não é menos honrosa nem menos legal a fórma porque o sr. duque de
+Saldanha, conselheiro de estado, salvou o throno e a dynastia.
+
+Levou ao paço os soldados amotinados, e ás tres horas da noite, como
+elle confessa, debaixo d'um chuveiro de balas, que entravam pelas
+janellas, foi encarregado de formar novo ministerio.
+
+A carta diz:
+
+
+     TITULO V
+
+     Do rei
+
+     CAPITULO I
+
+     Do poder moderador
+
+
+     Art. 71.^o O poder moderador é a chave de toda a organisação
+     politica, e compete privativamente ao rei como chefe supremo da
+     nação, para que incessantemente vele sobre a manutenção da
+     independencia, equilibrio, e harmonia dos mais poderes politicos.
+
+     Art. 72.^o A pessoa do rei é inviolavel e sagrada: Elle não está
+     sujeito a responsabilidade alguma.
+
+     Art. 74.^o O rei exerce o poder moderador:
+
+     § 5.^o _Nomeando e demittindo livremente os ministros de estado._
+
+
+Foi para que o rei mantivesse a independencia, equilibrio e harmonia dos
+poderes politicos; para que se mostrasse inviolavel, sagrado e
+irresponsavel;
+
+Para que exercesse o poder moderador, nomeando e demittindo _livremente_
+os ministros, que o sr. duque de Saldanha, tribuno dos soldados, mandou
+metralhar a sala regia, quando ás tres horas da noite recebia do chefe
+do estado a investidura de ministro de todas as pastas.
+
+Foi para garantir a liberdade d'esse acto que elle alli levou, sem os
+seus coroneis e officiaes, os regimentos insubordinados. Foi ainda para
+tornar o rei mais livre que metteu no castello a plebe, e, como se tudo
+isto não bastasse, confessa agora á Europa, que duvidou da liberdade do
+monarcha, e por isso voltou lá á noite, quando já era ministro do reino
+e da guerra, senhor do exercito, do castello e da policia, para
+perguntar a el-rei se elle tinha sido coagido a nomeal-o de manhã seu
+presidente de conselho!
+
+Como será recebida pela Europa esta prova de ingenuidade do sr. duque de
+Saldanha?
+
+Se se podesse duvidar da traição, deslealdade e violencia d'elle,
+teriamos de acreditar de duas coisas uma:
+
+Ou a incompatibilidade do rei com a liberdade do povo;
+
+Ou a sua cumplicidade na violação das instituições!
+
+Se podesse dar-se credito ao embuste diplomatico do sr. duque de
+Saldanha, teriamos necessariamente de acceitar a criminalidade de
+el-rei, o Senhor D. Luiz I.
+
+Se o rei tivesse cedido diante d'outro argumento, que não fosse o
+derramamento de sangue ás portas do paço, dos poderes que a carta lhe
+confiou para garantia das liberdades publicas, a sua coexistencia com a
+constituição viria a ser impossivel.
+
+Nem a segurança externa do reino, nem a magestade da corôa poderiam
+conservar-se em mãos tão pouco proprias para as fazerem respeitar.
+
+El-rei estava assaltado, constrangido e coacto. Esta é que é a verdade.
+
+Dizem-o os factos e as palavras do sr. duque de Saldanha, desculpando-se
+com trivialidades banaes.
+
+Dil-o mesmo essa indifferença, que o sr. duque de Saldanha cita como
+augurio de publica satisfação; dil-o a opinião da Europa intelligente,
+dil-o a propria consciencia do sr. duque, que de certo não ignora estes
+versos de Juvenal:
+
+Summum crede nefas vitam præferre pudori,
+Et propter vitam vivendi perdere causas.
+
+Não é menos importante, depois de ter examinado o sr. duque de Saldanha,
+membro d'um dos poderes do estado, como par do reino; confrontal-o com
+os artigos da Constituição no seu cargo de conselheiro de Estado--diz a
+carta, no mesmo Titulo:
+
+
+     CAPITULO VII
+
+     Do Conselho de Estado
+
+
+     Art. 107.^o Haverá um Conselho de Estado, composto de Conselheiros
+     vitalicios, nomeados pelo Rei.
+
+     Art. 109.^o Os Conselheiros de Estado, antes de tomarem posse,
+     prestarão juramento nas mãos do Rei, de manter a Religião Catholica
+     Apostolica Romana; observar a Constituição e as Leis; serem fieis
+     ao Rei; aconselhal-o segundo suas consciencias, _attendendo sómente
+     ao bem da Nação_.
+
+     Art. 110.^o Os Conselheiros serão ouvidos em todos os negocios
+     graves, e medidas geraes de publica administração, principalmente
+     sobre a declaração da guerra, ajustes de paz, negociações com as
+     Nações estrangeiras; assim como em todas as occasiões, em que o Rei
+     se proponha exercer qualquer das attribuições proprias do Poder
+     Moderador, indicadas no art. 74.^o, _á excepção do § 5.^o_
+
+     Art. 111.^o São responsaveis os Conselheiros de Estado pelos
+     conselhos que derem oppostos ás Leis, e ao interesse do Estado,
+     manifestamente dolosos.
+
+Ora o sr. duque de Saldanha não podia, na sua qualidade de conselheiro
+de estado, dar ao rei nenhum conselho ácerca da demissão ou nomeação do
+ministerio; por que lh'o veda o artigo 110.^o da Constituição.
+
+Mas o que fez elle? Para não infringir a lei fundamental, fez-se
+acompanhar pelos soldados amotinados para não coagir a corôa, e emquanto
+provava a seu amo que era violentado pela força armada a ir alli
+pedir-lhe as pastas; essa força, garantia a liberdade do chefe do
+estado, corôando-o d'uma aureola de balas atravez das janellas do paço.
+
+A Carta querendo pôr a prerogativa real a salvo mesmo da influencia do
+conselho de estado, não previo este caso de lhe garantir tão
+completamente a liberdade, para deixar a gloria da descoberta ao leal
+conselheiro o sr. duque de Saldanha.
+
+Vimos o par do reino;
+
+Vimos o conselheiro de estado;
+
+Vamos agora ver o marechal do exercito.
+
+Eu sinto muito ter de comparar todos os actos do sr. duque de Saldanha
+com os artigos da Constituição; mas, quando nasci já a Constituição
+tinha sido proclamada.
+
+Foi o sr. duque de Saldanha um dos seus defensores, e foi elle ainda
+quem a restaurou e quem referendou em 5 de julho de 1852 o acto
+addicional que a confirmava.
+
+Tanto em 1826, como em 1834, como em 1852, se teve por acceite, como a
+mais segura de todas as garantias para todas as liberdades publicas, a
+doutrina, que no mesmo titulo se encerra, que é a seguinte.
+
+
+     CAPITULO VIII
+
+     Da força militar
+
+
+     Art. 113.^o Todos os Portuguezes são obrigados a pegar em armas
+     para sustentar a independencia e integridade do Reino, e defendel-o
+     de seus inimigos, externos e internos.
+
+     Art. 115.^o A força militar é essencialmente obediente; jámais se
+     poderá reunir, sem que lhe seja ordenado pela Auctoridade legitima.
+
+     Art. 116.^o Ao Poder Executivo compete privativamente empregar a
+     força armada de mar e terra, como bem lhe parecer conveniente á
+     segurança e defeza do Reino.
+
+
+Se esta não é a doutrina conveniente, porque a não revogaram no acto
+addicional?
+
+Se o é para que censuram aquelles que propugnam por ella?
+
+Não é, ou não deve ser egual para todos a lei?
+
+Ha n'ella alguma isempção para o marechal do exercito?
+
+Era elle auctoridade legitima para reunir os soldados?
+
+Era ou não era elle obrigado a ser essencialmente obediente?
+
+E vae o marechal do exercito dizer á face do mundo, que violou as leis,
+acompanhado pelas bayonetas, para salvar a liberdade e as instituições?!
+
+Ou effectivamente este paiz está morto, ou elle ha de erguer-se para
+punir este despreso e escarneo com que o octogenario Catilina abusa da
+paciencia popular!
+
+Do official mór da casa real nada direi.
+
+Ahi os deveres e obrigações moraes, se não existem no coração, se não
+são interpretadas pela delicadeza do sentimento, a constituição fica
+incolume.
+
+O deputado e o cidadão:     «_guarda e passa_.»
+
+Está violada a constituição.
+
+Confiscados todos os poderes do estado.
+
+Suspenso o parlamento.
+
+Arbitro supremo dos destinos d'este reino, o sr. duque de Saldanha julga
+ser bastante a sua infallibilidade para reparar todos os males, que o
+levaram a assumir os inauferiveis direitos que a lei tinha attribuido ás
+altas corporações politicas do estado.
+
+Como, depois do sr. duque de Saldanha, as pessoas mais infalliveis são
+os seus parentes, temos esses parentes partilhando o governo
+conjuntamente com s. ex.^a
+
+Para dar mais unidade á acção benefica d'esse despotismo domestico vem
+para Madrid um sobrinho do sr. duque para representar alli Portugal; vae
+para Paris um irmão do mesmo sr. duque, e para as outras côrtes da
+Europa irão outros parentes egualmente scientes da infallibilidade de s.
+ex.^a e obedientes a todas as suas idéas e planos.
+
+O sr. duque de Saldanha fica dispensado egualmente de dar contas a
+ninguém dos seus actos.
+
+A quem lhe pedir contas dirá como Gonzalo de Cordoba: _Pás e alviões,
+trinta milhões_. Ou como Scipião: No dia 19 de maio tomei Carthago!
+Sobrinhos e parentes, dae graças aos deuses!
+
+A constituição, por desnecessaria e inutil, fica revogada e, em logar
+d'ella, ficará vigorando o sr. duque de Saldanha e a sua familia.
+
+Aqui tem o povo portuguez o estado em que o paiz estava antes da revolta
+de 19 de maio de 1870, e como está depois d'ella.
+
+Agora, reconhecendo que estes factos existem, vejamos qual é o meio de
+os aniquillar.
+
+É minha opinião que, emquanto o arbitrio de um homem audacioso se
+levantar acima das leis; não pode nem deve haver paz.
+
+Sejam quaes forem as reformas e os beneficios que elle prometta; o povo
+tem, no exercicio da sua soberania, o direito e o poder de se dotar com
+as reformas, beneficios e melhoramentos que julgar convenientes.
+
+Resistir portanto, a este usurpador hypocrita é o dever de todos os
+cidadãos, que não quizerem tornar-se cumplices na usurpação, ou
+confessarem-se escravos d'ella.
+
+Resistencia legal é toda a que se fizer.
+
+A Carta diz no artigo 113.^o, capitulo VIII, que todos os cidadãos são
+obrigados a pegar em armas para defender o reino contra os inimigos
+_internos_.
+
+E o sr. duque de Saldanha é o peior inimigo _interno_ que podemos ter.
+
+Tenhamos porém a prudencia que os interesses geraes reclamam, e que deve
+ser base do uso util da nossa immensa força, porque é a força da
+legalidade.
+
+Neguemos primeiro obediencia aos usurpadores por um manifesto publico.
+
+Não paguemos tributo algum emquanto a constituição não fôr posta em
+vigor.
+
+Se estes meios não forem bastantes para obrigar o rebelde soldado a
+prestar homenagem á opinião, recorramos ás armas.
+
+Mas tudo e todos ás armas, para que a revolta seja debellada sem
+corrermos o risco de uma guerra civil, a titulo da qual o revoltoso
+chamaria sem duvida mais uma vez o exercito hespanhol, para desarmar a
+nação e algemar a liberdade.
+
+Eis o meu voto como representante do povo, como cidadão e como liberal.
+
+
+
+
+Notas:
+
+
+[1] Artigo 86.^o das Instrucções de 7 de agosto de 1860.
+
+[2] Artigo 89.^o idem.
+
+[3] É do anno de 1867 por não haverem os dados estatisticos com respeito
+a 1868.
+
+[4] Vae com respeito a 1867, por se haverem queimado os dados
+respectivos a 1868.
+
+
+
+
+Lista de erros corrigidos
+
+Aqui encontram-se listados todos os erros encontrados e corrigidos:
+
+
+  +----------+---------------------+----------------------+
+  |          |      Original       |      Correcção       |
+  +----------+---------------------+----------------------+
+  |#pág.   11| 10-1/2              | 10%                  |
+  |#pág.   21| Viila               | Villa                |
+  |#pág.   23| Pensmacor           | Penamacor            |
+  |#pág.   24| [2]                 | [1]                  |
+  |#pág.   42| Barra               | Barca                |
+  |#pág.   42| Bibeira             | Ribeira              |
+  |#pág.   45| PORTUGEZAS          | PORTUGUEZAS          |
+  |#pág.   49| n'quelle            | n'aquelle            |
+  +----------+---------------------+----------------------+
+
+Deixámos os parênteses em aberto, quando estes não foram fechados,
+respeitando o original.

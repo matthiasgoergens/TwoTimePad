@@ -1,0 +1,444 @@
+but the problem is that you must know the list exists in the
+ first place.  It is suggested that, if you are interested,
+ you read the mail from one list (like NSFNET) and you will
+ probably become familiar with the existence of others.
+ A registration service for mail reflectors is provided by
+ the NIC in the files NETINFO:INTEREST-GROUPS-1.TXT,
+ NETINFO:INTEREST-GROUPS-2.TXT, and NETINFO:INTEREST-GROUPS-
+ 3.TXT.
+
+ The NSFNET mail reflector is targeted at those people who
+ have a day to day interest in the news of the NSFnet (the
+ backbone, regional network, and Internet inter-connection
+ site workers).  The messages are reflected by a central
+ location and are sent as separate messages to each subscriber.
+ This creates hundreds of messages on the wide area networks
+ where bandwidth is the scarcest.
+
+ There are two ways in which a campus could spread the news
+ and not cause these messages to inundate the wide area
+ networks.  One is to re-reflect the message on the campus.
+ That is, set up a reflector on a local machine which forwards
+ the message to a campus distribution list.  The other is
+ to create an alias on a campus machine which places the
+ messages into a notesfile on the topic.  Campus users who
+ want the information could access the notesfile and see the
+ messages that have been sent since their last access.  One
+ might also elect to have the campus wide area network
+ liaison screen the messages in either case and only forward
+ those which are considered of merit.  Either of these
+ schemes allows one message to be sent to the campus, while
+ allowing wide distribution within.
+
+
+ Address Allocation
+
+ Before a local network can be connected to the Internet it
+ must be allocated a unique IP address.  These addresses are
+ allocated by ISI.  The allocation process consists of getting
+ an application form received from ISI.  (Send a message
+ to hostmaster@sri-nic.arpa and ask for the template for a
+ connected address).  This template is filled out and mailed
+ back to hostmaster.  An address is allocated and e-mailed back
+ to you.  This can also be done by postal mail (Appendix B).
+
+ IP addresses are 32 bits long.  It is usually written as
+ four decimal numbers separated by periods (e.g., 192.17.5.100).
+ Each number is the value of an octet of the 32 bits.  It was
+ seen from the beginning that some networks might choose to
+ organize themselves as very flat (one net with a lot of nodes)
+ and some might organize hierarchically
+
+                             -6-
+
+ (many interconnected nets with fewer nodes each and a backbone).
+ To provide for these cases, addresses were differentiated into
+ class A, B, and C networks.  This classification had to with the
+ interpretation of the octets.  Class A networks have the first
+ octet as a network address and the remaining three as a host
+ address on that network.  Class C addresses have three octets of
+ network address and one of host.  Class B is split two and two.
+ Therefore, there is an address space for a few large nets, a
+ reasonable number of medium nets and a large number of small nets.
+ The top two bits in the first octet are coded to tell the address
+ format.  All of the class A nets have been allocated.  So one
+ has to choose between Class B and Class C when placing an order.
+ (There are also class D (Multicast) and E (Experimental) formats.
+ Multicast addresses will likely come into greater use in the near
+ future, but are not frequently used now).
+
+ In the past sites requiring multiple network addresses
+ requested multiple discrete addresses (usually Class C).
+ This was done because much of the software available
+ (not ably 4.2BSD) could not deal with subnetted addresses.
+ Information on how to reach a particular network (routing
+ information) must be stored in Internet gateways and packet
+ switches.  Some of these nodes have a limited capability to
+ store and exchange routing information (limited to about 300
+ networks).  Therefore, it is suggested that any campus
+ announce (make known to the Internet) no more than two
+ discrete network numbers.
+
+ If a campus expects to be constrained by this, it should
+ consider subnetting.  Subnetting (RFC-932) allows one to
+ announce one address to the Internet and use a  set of
+ addresses on the campus.  Basically, one defines a mask
+ which allows the network to differentiate between the
+ network portion and host portion of the address.  By using a
+ different mask on the Internet and the campus, the address
+ can be interpreted in multiple ways.  For example, if a
+ campus requires two networks internally and has the 32,000
+ addresses beginning 128.174.X.X (a Class B address) allocated
+ to it,  the campus could allocate 128.174.5.X to one part
+ of campus and 128.174.10.X to another.  By advertising
+ 128.174 to the Internet with a subnet mask of FF.FF.00.00,
+ the Internet would treat these two addresses as one. Within
+ the campus a mask of FF.FF.FF.00 would be used, allowing the
+ campus to treat the addresses as separate entities. (In reality
+ you don't pass the subnet mask of FF.FF.00.00 to the Internet,
+ the octet meaning is implicit in its being a class B address).
+ A word of warning is necessary.  Not all systems know how to
+ do subnetting.  Some 4.2BSD systems require additional
+ software.  4.3BSD systems subnet as released.  Other devices
+
+                             -7-
+
+ and operating systems vary in the problems they have dealing
+ with subnets.  Frequently these machines can be used as a
+ leaf on a network but not as a gateway within the subnetted
+ portion of the network.  As time passes and more systems
+ become 4.3BSD based, these problems should disappear.
+
+ There has been some confusion in the past over the format of
+ an IP broadcast address.  Some machines used an address of
+ all zeros to mean broadcast and some all ones.  This was
+ confusing when machines of both type were connected to the
+ same network. The broadcast address of all ones has been
+ adopted to end the grief.  Some systems (e.g. 4.2 BSD) allow
+ one to choose the format of the broadcast address.  If a
+ system does allow this choice, care should be taken that the
+ all ones format is chosen.  (This is explained in RFC-1009
+ and RFC-1010).
+
+
+ Internet Problems
+
+ There are a number of problems with the Internet.  Solutions
+ to the problems range from software changes to long term
+ research projects. Some of the major ones are detailed
+ below:
+
+ Number of Networks
+
+      When the Internet was designed it was to have about 50
+      connected networks.  With the explosion of networking,
+      the number is now approaching 300.  The software in a
+      group of critical gateways (called the core gateways of
+      the ARPAnet) are not able to pass or store much more
+      than that number.  In the short term, core reallocation
+      and recoding has raised the number slightly.  By the
+      summer of '88 the current PDP-11 core gateways will be
+      replaced with BBN Butterfly gateways which will solve
+      the problem.
+
+ Routing Issues
+
+      Along with sheer mass of the data necessary to route
+      packets to a large number of networks, there are many
+      problems with the updating, stability, and optimality
+      of the routing algorithms.  Much research is being done
+      in the area, but the optimal solution to these routing
+      problems is still years away.  In most cases the the
+      routing we have today works, but sub-optimally and
+      sometimes unpredictably.
+
+                             -8-
+
+
+ Trust Issues
+
+      Gateways exchange network routing information.
+      Currently, most gateways accept on faith that the
+      information provided about the state of the network is
+      correct.  In the past this was not a big problem since
+      most of the gateways belonged to a single administrative
+      entity (DARPA).  Now with multiple wide area networks
+      under different administrations, a rogue gateway
+      somewhere in the net could cripple the Internet.
+      There is design work going on to solve both the problem of
+      a gateway doing unreasonable things and providing enough
+      information to reasonably route data between multiply
+      connected networks (multi-homed networks).
+
+ Capacity & Congestion
+
+      Many portions of the ARPAnet are very congested during
+      the busy part of the day.  Additional links are planned
+      to alleviate this congestion, but the implementation
+      will take a few months.
+
+
+ These problems and the future direction of the Internet are
+ determined by the Internet Architect (Dave Clark of MIT)
+ being advised by the Internet Activities Board (IAB).  This
+ board is composed of chairmen of a number of committees with
+ responsibility for various specialized areas of the Internet.
+ The committees composing the IAB and their chairmen are:
+
+         Committee                            Chair
+      Autonomous Networks                  Deborah Estrin
+      End-to-End Services                  Bob Braden
+      Internet Architecture                Dave Mills
+      Internet Engineering                 Phil Gross
+           EGP2                            Mike Petry
+           Name Domain Planning            Doug Kingston
+           Gateway Monitoring              Craig Partridge
+           Internic                        Jake Feinler
+           Performance & Congestion ControlRobert Stine
+           NSF Routing                     Chuck Hedrick
+           Misc. MilSup Issues             Mike St. Johns
+      Privacy                              Steve Kent
+      IRINET Requirements                  Vint Cerf
+      Robustness & Survivability           Jim Mathis
+      Scientific Requirements              Barry Leiner
+
+ Note that under Internet Engineering, there are a set of
+ task forces and chairs to look at short term concerns.  The
+ chairs of these task forces are not part of the IAB.
+
+                             -9-
+ Routing
+
+
+ Routing is the algorithm by which a network directs a packet
+ from its source to its destination.  To appreciate the problem,
+ watch a small child trying to find a table in a restaurant.
+ From the adult point of view the structure of the dining room
+ is seen and an optimal route easily chosen.  The child, however,
+ is presented with a set of paths between tables where a good path,
+ let alone the optimal one to the goal is not discernible.***
+
+ A little more background might be appropriate.  IP gateways
+ (more correctly routers) are boxes which have connections to
+ multiple networks and pass traffic  between these nets.  They
+ decide how the packet is to be sent based on the information
+ in the IP header of the packet and the state of the network.
+ Each interface on a router has an unique address appropriate
+ to the network to which it is connected.  The information in
+ the IP header which is used is primarily the destination address.
+ Other information (e.g. type of service) is largely ignored at this
+ time.  The state of the network is determined by the routers passing
+ information among themselves.  The distribution of the database
+ (what each node knows), the form of the updates, and metrics used
+ to measure the value of a connection, are the parameters
+ which determine the characteristics of a routing protocol.
+
+ Under some algorithms each node in the network has complete
+ knowledge of the state of the network (the adult algorithm).
+ This implies the nodes must have larger amounts of local
+ storage and enough CPU to search the large tables in a short
+ enough time (remember this must be done for each packet).
+ Also, routing updates usually contain only changes to the
+ existing information (or you spend a large amount of the
+ network capacity passing around megabyte routing updates).
+ This type of algorithm has several problems.  Since the only
+ way the routing information can be passed around is across
+ the network and the propagation time is non-trivial, the
+ view of the network at each node is a correct historical
+ view of the network at varying times in the past.  (The
+ adult algorithm, but rather than looking directly at the
+ dining area, looking at a photograph of the dining room.
+ One is likely to pick the optimal route and find a bus-cart
+ has moved in to block the path after the photo was taken).
+ These inconsistencies can cause circular routes (called
+ routing loops) where once a packet enters it is routed in a
+ closed path until its time to live (TTL) field expires and
+ it is discarded.
+
+ Other algorithms may know about only a subset of the network.
+ To prevent loops in these protocols, they are usually used in
+ a hierarchical network.  They know completely about their
+ own area, but to leave that area they go to one particular
+ place (the default gateway).  Typically these are used in
+ smaller networks (campus, regional...).
+
+                             -10-
+
+ Routing protocols in current use:
+
+ Static (no protocol-table/default routing)
+
+      Don't laugh.  It is probably the most reliable, easiest
+      to implement, and least likely to get one into trouble
+      for a small network or a leaf on the Internet.  This is,
+      also, the only method available on some CPU-operating
+      system combinations. If a host is connected to an Ethernet
+      which has only one gateway off of it, one should make that
+      the default gateway for the host and do no other routing.
+      (Of course that gateway may pass the reachablity
+      information somehow on the other side of itself).
+
+      One word of warning, it is only with extreme caution that
+      one should use static routes in the middle of a network
+      which is also using dynamic routing.  The routers passing
+      dynamic information are sometimes confused by conflicting
+      dynamic and static routes.  If your host is on an ethernet
+      with multiple routers to other networks on it and the
+      routers are doing dynamic routing among themselves,
+      it is usually better to take part in the dynamic routing
+      than to use static routes.
+
+
+ RIP
+
+      RIP is a routing protocol based on XNS (Xerox Network
+      System) adapted for IP networks.  It is used by many
+      routers (Proteon, cisco, UB...) and many BSD Unix systems 
+      BSD systems typically run a program called "routed" to
+      exchange information with other systems running
+      RIP.  RIP works best for nets of small diameter
+      where the links are of equal speed.  The reason for
+      this is that the metric used to determine which path is
+      best is the hop-count.  A hop is a traversal across a
+      gateway.  So, all machines on the same Ethernet are
+      zero hops away.  If a router connects connects two net-
+      works directly, a machine on the other side of the
+      router is one hop away....  As the routing information
+      is passed through a gateway, the gateway adds one to
+      the hop counts to keep them consistent across the net-
+      work.  The diameter of a network is defined as the
+      largest hop-count possible within a network.  Unfor-
+      tunately, a hop count of 16 is defined as infinity in
+      RIP meaning the link is down. Therefore, RIP will not
+      allow hosts separated by more than 15 gateways in the
+      RIP space to communicate.
+
+      The other problem with hop-count metrics is that if
+      links have different speeds, that difference is not
+
+                             -11-
+
+      reflected in the hop-count. So a one hop satellite link
+      (with a .5 sec delay) at 56kb would be used instead of
+      a two hop T1 connection. Congestion can be viewed as a
+      decrease in the efficacy of a link. So, as a link gets
+      more congested, RIP will still know it is the best
+      hop-count route and congest it even more by throwing
+      more packets on the queue for that link.
+
+      The protocol is not well documented.  A group of people
+      are working on producing an RFC to both define the
+      current RIP and to do some extensions to it to allow it
+      to better cope with larger networks.  Currently, the
+      best documentation for RIP appears to be the code to
+      BSD "routed".
+
+
+ Routed
+
+      The ROUTED program, which does RIP for 4.2BSD systems,
+      has many options. One of the most frequently used is:
+      "routed -q" (quiet mode) which means listen to RIP infor-
+      mation but never broadcast it.  This would be used by a
+      machine on a network with multiple RIP speaking gate-
+      ways.  It allows the host to determine which gateway is
+      best (hopwise) to use to reach a distant network.  (Of
+      course you might want to have a default gateway to
+      prevent having to pass all the addresses known to the
+      Internet around with RIP).
+
+      There are two ways to insert static routes into "routed",
+      the "/etc/gateways" file and the "route add" command.
+      Static routes are useful if you know how to reach a
+      distant network, but you are not receiving that route
+      using RIP.  For the most part the "route add" command is
+      preferable to use.  The reason for this is that the
+      command adds the route to that machine's routing table
+      but does not export it through RIP.  The "/etc/gateways"
+      file takes precedence over any routing information
+      received through a RIP update.  It is also broadcast as
+      fact in RIP updates produced by the host without question,
+      so if a mistake is made in the "/etc/gateways" file,
+      that mistake will soon permeate the RIP space and
+      may bring the network to its knees.
+
+      One of the problems with "routed" is that you have very
+      little control over what gets broadcast and what
+      doesn't.  Many times in larger networks where various
+      parts of the network are under different administrative
+      controls, you would like to pass on through RIP only nets
+      which you receive from RIP and you know are reasonable.
+      This prevents people from adding IP addresses to
+      the network which may be illegal and you being
+      responsible for passing them on to the Internet.  This
+
+                             -12-
+
+      type of reasonability checks are not available with "routed"
+      and leave it usable, but inadequate for large networks.
+
+
+ Hello (RFC-891)
+
+      Hello is a routing protocol which was designed and
+      implemented in a experimental software router called a
+      "Fuzzball" which runs on a PDP-11. It does not have
+      wide usage, but is the routing protocol currently used
+      on the NSFnet backbone.  The data transferred between
+      nodes is similar to RIP (a list of networks and their
+      metrics).  The metric, however, is milliseconds of delay.
+      This allows Hello to be used over nets of various link
+      speeds and performs better in congestive situations.
+
+      One of the most interesting side effects of Hello based
+      networks is their great timekeeping ability.  If you
+      consider the problem of measuring delay on a link for
+      the metric, you find that it is not an easy thing to
+      do.  You cannot measure round trip time since the
+      return link may be more congested, of a different
+      speed, or even not there.  It is not really feasible
+      for each node on the network to have a builtin WWV
+      (nationwide radio time standard) receiver.  So, you
+      must design an algorithm to pass around time between
+      nodes over the network links where the delay in
+      transmission can only be approximated.  Hello routers
+      do this and in a nationwide network maintain synchronized
+      time within milliseconds.
+
+
+ Exterior Gateway Protocol (EGP RFC-904)
+
+      EGP is not strictly a routing protocol, it is a reacha-
+      bility protocol. It tells only if nets can be reached
+      through a particular gateway, not how good the connec-
+      tion is.  It is the standard by which gateways to local
+      nets inform the ARPAnet of the nets they can reach.
+      There is a metric passed around by EGP but its usage is
+      not standardized formally.  Its typical value is value
+      is 1 to 8 which are arbitrary goodness of link values
+      understood by the internal DDN gateways. The smaller
+      the value the better and a value of 8 being unreach-
+      able.  A quirk of the protocol prevents distinguishing
+      between 1 and 2, 3 and 4..., so the usablity of this as
+      a metric is as three values and unreachable.  Within
+      NSFnet the values used are 1, 3, and unreachable.  Many
+      routers talk EGP so they can be used for ARPAnet gateways.
+
+                             -13-
+
+ Gated
+
+      So we have regional and campus networks talking RIP
+      among   themselves,  the  NSFnet  backbone  talking
+      Hello, and the DDN speaking EGP.
+      How do they interoperate?  In the beginning there was
+      static routing, assembled into the Fuzzball software
+      configured for each site.  The problem with doing
+      static routing in the middle of the network is that it
+      is broadcast to the Internet whether it is usable or
+      not.  Therefore, if a net becomes unreachable and you
+      try to get there, dynamic routing will immediately
+      issue a net unreachable to you.  Under static routing
+      the routers would think the net could be reached and
+      would continue trying until the application gave up (in
+      2 or more minutes).  Mark Fedor of Cornell
