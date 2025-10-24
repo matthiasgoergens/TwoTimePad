@@ -1,0 +1,2922 @@
+Transcriber Note
+
+Italic text is denoted by _underscores_ and bold text by =equal signs=.
+
+
+
+  VOLUME SIX                                                 NUMBER FOUR
+  ======================================================================
+
+                                JOURNAL
+
+                                  OF
+
+                              ENTOMOLOGY
+                                  AND
+                                ZOOLOGY
+
+
+                            DECEMBER, 1914
+
+
+                        PUBLISHED QUARTERLY BY
+              POMONA COLLEGE DEPARTMENT _of_ ZOOLOGY
+                    CLAREMONT, CALIFORNIA, U. S. A.
+  ======================================================================
+
+
+
+CONTENTS
+
+
+  Pseudoscorpions in the Claremont-Laguna Region--_Margaret M. Moles_  187
+
+  Some Points in the Nervous System of a Large Deep Water Crab--_Wm.
+    A. Hilton_                                                         198
+
+  A New Pseudoscorpion From California--_Nathan Banks_                 203
+
+  A Nebalia From Laguna Beach--_R. La Follette_                        204
+
+  Starfish of Laguna Beach                                             209
+
+  Barnacles of Laguna Beach                                            212
+
+  Notes on the Eggs of Some Laguna Beach Invertebrates--_P.A. Lichti_  215
+
+  Preliminary Notes on Some Marine Worms Taken at Laguna Beach--_W. F.
+    Hamilton_                                                          217
+
+  Studies in the Comparative Size of the Red Blood Corpuscles of
+    Birds--_Chi Tsau Wang_                                             221
+
+  Caprellidæ From Laguna Beach--_R. La Follette_                       222
+
+  Short Notes                                                          233
+
+  Additional Notes on the Birds of Laguna Beach--_Leon L. Gardner_     235
+
+  A New Dipterous Gall on Stanleya--_T. D. A. Cockerell_               240
+
+  Hydroids of Laguna Beach--_Prof. A. M. Bean_                         242
+
+  Summer School at Laguna Beach                                        245
+
+Entered at Claremont, Cal., Post-Office Oct. 1, 1910, as second-class
+matter, under Act of Congress of March 3, 1879
+
+
+
+
+Journal of Entomology and Zoology
+
+EDITED BY POMONA COLLEGE, DEPARTMENT OF ZOOLOGY
+
+
+_Subscription_ $1.00 to domestic, $1.25 to foreign countries.
+
+This journal is especially offered in exchange for zoological and
+entomological journals, proceedings, transactions, reports of
+societies, museums, laboratories and expeditions.
+
+The pages of the journal are especially open to western entomologists
+and zoologists. Notes and papers relating to western and Californian
+forms and conditions are particularly desired, but short morphological,
+systematic or economic studies from any locality will be considered for
+publication.
+
+Manuscripts submitted should be typewritten on one side of paper about
+8 by 11 inches. Foot notes, tables, explanations of figures, etc.,
+should be written on separate sheets. Foot notes and figures should be
+numbered consecutively throughout. The desired position of foot notes
+and figures should be clearly indicated in the manuscript.
+
+Figures should be drawn so that they may be reproduced as line cuts so
+far as possible. An unusually large number of half tones must be paid
+for in part by the author. Other more expensive illustrations will be
+furnished at cost. Figures for cuts should be made to conform to the
+size of the page when reduced, that is, 5 by 7½ inches or less. The
+lettering should be by means of printed numbers and letters pasted on
+the drawings, in most cases.
+
+Authors of articles longer than a thousand words will receive fifty
+reprints of their publications free of cost. If more than this are
+desired, the order should be given with the return of the proof sheets.
+Extra copies and special covers or special paper will be furnished at
+cost. Authors of short contributions will receive a few extra copies of
+the number containing their articles.
+
+Manuscripts should be sent by express or registered mail.
+
+Address all communications to
+
+  The Journal of Entomology and Zoology
+
+  William A. Hilton, Editor
+
+  Claremont, California, U. S. A.
+
+
+
+
+  JOURNAL OF
+  ENTOMOLOGY AND
+  ZOOLOGY
+
+  VOLUME VI, 1914
+
+  PUBLISHED QUARTERLY BY THE
+  DEPARTMENT OF ZOOLOGY OF POMONA COLLEGE
+  CLAREMONT, CALIFORNIA, U. S. A.
+
+
+
+
+Contents of Volume VI
+
+
+Volume VI, Number 1
+
+=Kuwana, S. I.=
+
+  Coccidæ of Japan, 1.
+
+=Alexander, C. P., and Lloyd, J. T.=
+
+  The Biology of the North American Crane-Flies (Tipulidæ Diptera), 12.
+
+=Hilton, William A.=
+
+  The Central Ganglia of Xenylla, 38.
+
+=Moles, Margaret Lyons=
+
+  A New Species of Pseudoscorpion from Laguna Beach, Cal., 42.
+
+=Bacon, Gertrude=
+
+  Neanura Gigantea Tull in Southern California, 45.
+
+Shorter articles, 48.
+
+  Wants and Exchanges, 52.
+
+
+Volume VI, Number 2
+
+=Banks, Nathan=
+
+  New Acarina, 55.
+
+=Funkhouser, W. D.=
+
+  Some Philippine Membracidæ, 67.
+
+=Essig, E. O.=
+
+  The Second Protodiaspis, 76.
+
+=Moles, Margaret Lyons=
+
+  A Pseudoscorpion from Poplar Trees, 81.
+
+=Bacon, Gertrude A.=
+
+  A New Species of Tullbergia, 84.
+
+=Gardner, Ray Earl=
+
+  Some Notes on the Distribution of Cinura in the Vicinity of
+      Claremont, with Description of a New Species, 86.
+
+=Felt, E. P.=
+
+  Aplonyx Sarcobati N. Sp., 93.
+
+=Hilton, William A.=
+
+  The Nervous System of Neanura Gigantea Tull, 95.
+
+  Shorter Articles, 98.
+
+  Wants and Exchanges, 102.
+
+
+Volume VI, Number 3
+
+=Alexander, Charles Paul=
+
+  Biology of the North American Crane-Flies (Tipulidæ Diptera), 105.
+
+=Ewing, H. E.=
+
+  The Geographical Distribution of Our Common Red Spider, Tetranychus
+      Telarius Linn., 121.
+
+=King, Geo. B.=
+
+  The Eleventh Kermes (Coccidæ) from California, 133.
+
+=Hilton, William A.=
+
+  The Central Nervous System of the Pycnogonid Lecythorhynchus, 134.
+
+=Bacon, Gertrude Auld=
+
+  The Distribution of Collembola in the Claremont-Laguna Region of
+      California, 137.
+
+  Wants and Exchanges, 185.
+
+
+Volume VI, Number 4
+
+=Moles, Margaret M.=
+
+  Pseudoscorpions in the Claremont-Laguna Region, 187.
+
+=Hilton, Wm. A.=
+
+  Some Points in the Nervous System of a Large Deep Water Crab, 198.
+
+=Banks, Nathan=
+
+  A New Pseudoscorpion from California, 203.
+
+=La Follette, R.=
+
+  A Nebalia from Laguna Beach, 204.
+
+  Starfish of Laguna Beach, 209.
+
+=Hughes, Miss S. P.=
+
+  Barnacles of Laguna Beach, 212.
+
+=Lichti, P. A.=
+
+  Notes on the Eggs of Some Laguna Beach Invertebrates, 215.
+
+=Hamilton, W. F.=
+
+  Preliminary Notes on Some Marine Worms Taken at Laguna Beach, 217.
+
+=Wang, Chi Tsau=
+
+  Studies in the Comparative Size of the Red Blood Corpuscles of Birds,
+      221.
+
+=La Follette, R.=
+
+  Caprellidæ from Laguna Beach, 222.
+
+  Short Notes, 233.
+
+=Gardner, Leon L.=
+
+  Additional Notes on the Birds of Laguna Beach, 235.
+
+=Cockerell, T. D. A.=
+
+  A New Dipterous Gall on Stanleya, 240.
+
+=Bean, Prof. A. M.=
+
+  Hydroids of Laguna Beach, 242.
+
+  Summer School at Laguna Beach, 245.
+
+
+
+
+Index to Volume VI
+
+
+    Acarina, 55.
+    Achorutes, 165.
+      californica, 165.
+      citri, 166.
+    Actitis macularius, 237.
+    Ægialitis novisa, 237.
+      semipalmata, 237.
+    Aglaophenia inconspictus, 243.
+    Aglaophenia struthionides, 243.
+    Alexander, C. P., 12, 105.
+    Ammodramus savannarum bimaculatus, 238.
+    Anisomera longicornis, 21.
+    Antenella avalonia, 243.
+    Aplonyx sarcobati, 93.
+    Aphoruridæ, 168.
+    Aphorura, 170.
+      lutea, 170.
+      montis, 171.
+    Arrhenica spinosa, 27.
+    Asterina miniata, 211.
+    Astroglinus tristis salicamans, 238.
+    Asteropecten erinoceus, 211.
+    Atemnus hirsutus, 203, 195.
+
+  Bacon, G. A., 45, 84, 137.
+  Balanus nubilus, 213.
+    tintinnabulum californicus, 212.
+  Banks, Nathan, 55.
+  Barnacles, 212.
+  Bdellidæ, 55.
+  Bdella utilis, 55.
+  Bean, A. M., 242.
+  Birds, Laguna Beach, 235.
+  Buteo borealis colurus, 237.
+
+  Caligonus terminalis, 57.
+  Canestrinidæ, 61.
+  Canestrinia blattophaga, 61.
+  Campanulariidæ, 244.
+  Campodea montis, 86.
+    kelloggi, 91.
+    folsomi, 91.
+  Caprellidæ, 222.
+    æquilibra, 224.
+    geometrica, 222.
+    septentrionalis, 223.
+  Catoptrophorus semipalmatus inornatus, 237.
+  Centrochares horrificus, 69.
+  Centrotoscelus, 72.
+    typus, 73.
+  Ceryle alcyon, 238.
+  Chelanops acuminatus, 193.
+    lagunæ, 42, 193.
+    paludis, 81, 193.
+    pallipes, 193.
+    serratus, 193.
+  Chelifer cancroides, 187.
+    fuscipes, 188.
+    scabrisulus, 192.
+  Cheyletidæ, 56.
+  Cheyletus cocciphilus, 56.
+  Chloræmidæ, 219.
+  Cinura, 86.
+  Cirratulidæ, 219.
+  Cirratulus robustus, 219.
+    spirobranchus, 219.
+  Clymenella rubrocincta, 219.
+  Coccidæ of Japan, 1, 48, 133.
+  Cockerell, T. D. A., 240.
+  Collembola, 137.
+  Corpuscles, birds, 221.
+  Corvus corax sinuatus, 238.
+  Crane flies, 12, 105.
+  Cryptaspidia pubera, 69.
+    tagalica, 69.
+  Cunaxa aramata, 55.
+  Cyphodeirus, 162.
+    albinus, 162.
+
+  Diptera, 12, 105.
+  Disparipes apicola, 61.
+  Drepanura, 154.
+    californica, 155.
+
+  Eggs, invertebrates, 215.
+  Entomobrya, 155.
+    binoculata, 157.
+    chitellaria, 158.
+    laguna, 160.
+    multifasciata, 158.
+    sexoculata, 156.
+  Entomobryidæ.
+  Entrychocampa wilsoni, 92.
+  Eriocera, 12.
+    fultonensis, 30.
+    longicornis, 21.
+    macquart, 12.
+    spinosa, 27.
+  Eriococcus festucæ, 2.
+  Essig, E. O., 76.
+  Eunicidæ, 218.
+  Euphrosyne aurantiaca, 218.
+  Euphrosynidæ, 218.
+  Eusmatura pamoicensis, 236.
+  Evalljapyx propinquus, 92.
+  Ewing, H. E., 121.
+
+  Felt, E. P., 93.
+  Fish, Laguna Beach, 233.
+  Funkhouser, W. D., 67.
+
+  Gardner, L. L., 235.
+  Gardner, R. E., 86.
+  Gargara, 69.
+    luteipennis, 71.
+    nigro-fasciata, 70.
+    nitidipennis, 71.
+    pulchripennis, 70.
+    tuberculata, 70.
+    varicolor, 69.
+  Gavia, 235.
+    immer, 235.
+    pacifica, 236.
+  Glyceridæ, 219.
+
+  Haliætus leucocephalus leucocephalus, 237.
+  Halosydna, 217.
+    californica, 217.
+    insignis, 217.
+  Hamilton, W. F., 217.
+  Harmothoe hirsuta, 218.
+  Hemipodia borealis, 219.
+  Hermellidæ, 219.
+  Heteractitis incanus, 237.
+  Hilton, W. A., 38, 95, 134, 198.
+  Himantopus mexicanus, 236.
+  Hirundo erythrogastra, 238.
+  Hughes, S. P., 212.
+  Hydroids, 242.
+
+  Ideobisium threveneti, 196.
+  Ideoroncus obscurus, 196.
+  Isotoma, 145.
+    aquæ, 147.
+    aspera, 149.
+    besselsii, 148.
+    bidenticula, 147.
+    catena, 152.
+    minima, 149.
+    palustris, 153.
+    viridis, 150.
+
+  Japan, Coccidæ of, 1.
+  Japygidæ, 92.
+
+  Kermes branigani, 100.
+    mirabilis, 133.
+    sasseri, 48.
+  King, Geo. B., 48, 100, 133.
+  Kuwana, S. I., 1.
+
+  La Follette, R., 204, 222.
+  Laguna Beach, 245.
+  Larus heermanni, 236.
+  Lecanium pseudomagnoliarum, 7.
+  Lecanium magnoliarum, 7.
+  Lecythorhynchus, 134.
+  Lepas anatifera, 214.
+    fasciculatus, 214.
+  Lepidasthenia gigas, 217.
+  Lepismidæ, 92.
+  Leptrocentrus reponens, 69.
+  Lichti, P. A., 215.
+  Linckia columbiæ, 209.
+  Liogma nodicornis, 105.
+  Lloyd, J. T., 12.
+  Lumbriconereidæ, 218.
+  Lumbriconereis erecta, 218.
+
+  McFadden, E. T., 50.
+  Macrorhamphus griseus scolopaceus, 236.
+  Macrocheles sublaevis, 59.
+  Map--Claremont-Laguna, 144.
+  Melanerpes formicivorus bairdi, 238.
+  Membracidæ, 57.
+  Mergus serrator, 236.
+  Mitella polymerus, 213.
+  Mola mola, 233.
+  Moldanidæ, 219.
+  Moles, M. L., 42, 81, 187.
+  Mycochanes richardsoni richardsoni, 238.
+  Neanura, 168.
+    gigantea, 45, 95.
+  Nebalia, 204.
+  Nematoda, 220.
+  Nemertinea, 220.
+  Nereidæ, 218.
+  Nereis agassizi, 218.
+    virens, 218.
+  Nervous system, 38, 95, 134, 198.
+
+  Obisium macilentum, 195.
+  Ordemia deglandi, 236.
+    perspicillata, 236.
+  Ophiomegistus, 58.
+    luzonensis, 58.
+  Orthasterias gonolena, 209.
+  Otus asio bendirei, 237.
+
+  Pandion haliætus carolinensis, 237.
+  Pennariidæ, 242.
+  Parasitidæ, 58.
+  Parasitus inaegualis, 59.
+  Perrisia stanleyæ, 241.
+  Phenacoccus azaleæ, 1.
+  Phyllodocidæ, 218.
+  Pisaster capitatus, 209.
+  Pisaster ochraceus, 209.
+  Pionosyllis elongatus, 217.
+  Plumulariidæ, 243.
+  Plumularia lagenifera, 243.
+    setacea, 243.
+  Poduridæ, 164.
+  Polyaspis lamellipes, 58.
+  Polychaeta, 217.
+  Polynoidæ, 217.
+  Popirius, 144.
+  Porichthys notatus, 233.
+  Protodiaspis, 76.
+    agrifolia, 76.
+  Pseudoscorpion, 42, 81, 187.
+  Pseudosira, 164.
+    domestica, 164.
+  Pulvinaria, 3.
+    citricola, 3.
+    idesiæ, 6.
+    okilsuensis, 5.
+    photiniac, 4.
+  Pycnogonida, 134.
+  Pyrgonota bifoliata, 67.
+
+  Rivers, J. J., 98.
+  Rhyncholophidæ, 56.
+  Rhyncholophus moestus, 56.
+
+  Sabellidæ, 219.
+  Sabellaria californica, 220.
+  Schmardanella californica, 219.
+  Sea urchins, 234.
+  Serpulidæ, 219.
+  Sertularia fuscata, 243.
+    tricuspidata, 243.
+  Sertulariidæ, 243.
+  Sinella, 145.
+    curviseta, 145.
+  Sipylus nodipennis, 72.
+  Smynthuridæ, 143.
+  Smynthurus, 144.
+  Spider, 121.
+  Starfish, 209.
+  Syllidæ, 217.
+
+  Tarsonemidæ, 60.
+  Tarsonemus approximatus, 60.
+    assimilis, 60.
+  Terrebellidæ, 219.
+  Tetranychidæ, 57.
+  Tetranychus simplex, 57.
+    telarius, 121.
+  Tipulidæ, 12, 105.
+  Tomocerus, 161.
+    bidentatus, 162.
+    vulgaris, 161.
+  Tricentrus, 67.
+    convergens, 68.
+    fairmairei, 67.
+    pilinervosus, 68.
+  Tubularia, 242.
+  Tullbergia, 84, 171.
+    collis, 172.
+  Turbellaria, 220.
+
+  Wang, Chi Tsau, 221.
+  Worms, 217.
+
+  Xenylla, 38, 166.
+    collis, 167.
+    paludis, 168.
+  Xylococcus napiformis, 1.
+
+
+
+
+Pseudoscorpions in the Claremont-Laguna Region
+
+MARGARET M. MOLES
+
+
+Many individuals may be found in a certain vicinity. In the valleys
+where oak and sycamore trees grow abundantly there can be found as many
+as seventy-five on the lower trunk of one tree. They are all of one or
+two species. In all the student collections that have been carried on
+here in college for the last ten years there have never been more than
+four or five species collected. It was only through special collection
+that the other species were found. Very few were found under stones,
+where they are so often spoken of as living, and few were found among
+fallen leaves. Some were collected in rotten poplar and pine logs. In
+the marshy ground at Chino they were found under leaves and stones and
+were very abundant on the poplar trees.
+
+The distribution of the pseudoscorpions extends from an altitude of
+5000 down to within ten feet of the ocean.
+
+Concerning their habits of living little can be found. Many small
+spiders were found in their claws, also the small mites that live
+underneath the bark of trees. Several experiments were tried with some
+that were brought into the laboratory. The results were:
+
+1. The pseudoscorpions would not go into Eucalyptus bark.
+
+2. They could not live in a glass dish if water was not placed in it
+somewhere. If water was left out, they would dry up within twenty-four
+hours.
+
+3. They avoided the sunlight and would go under cover.
+
+4. They would remain in one spot without moving for a day at a time.
+
+_Chelifer cancroides_ Linn
+
+_Description_: Length--including mandibles, 3 mm.; pedipalps, 4 mm.;
+claw, 1.5 mm. Color--Pedipalps, dark reddish brown; cephalothorax, dark
+reddish brown; abdomen, lighter than the palps and cephalothorax; legs,
+light yellow brown.
+
+_Cephalothorax_: Evenly rounded in front; one distinct median suture,
+two distinct eye spots.
+
+_Abdomen_: Twice as long as it is broad and divided into eleven
+distinct sutures. All of the scuta about the same size except the last
+one, which is a great deal shorter and broader than the rest. Each
+scutum is provided with two strong, spiny hairs on the outer edge.
+
+The whole body is heavily granulated, the cephalothorax having
+knob-like protuberances all along the edges.
+
+_Pedipalps_: Larger than the whole animal. Coxa, smooth; trochanter
+with large protuberance ending in a heavy spine on the outer edge.
+Femur longer than cephalothorax, pedicellate. Tibia, concave on inner
+edge, pedicellate, shorter than femur. Trochanter, femur and tibia
+strongly granulated and sparsely covered with almost clavate hairs.
+Claw of good size, finger a little shorter than the hand. Hand evenly
+convex on outer and inner edges. Finger slightly curved, smooth, with
+many long simple tactile hairs.
+
+_Mandibles_: Small, fixed finger provided with many small teeth.
+Serrula attached throughout length of moveable finger. Spinnerets long
+and transparent. Mandibles are provided with five or more heavy long
+hairs.
+
+_Flagellum_: Divided into four separate parts.
+
+_Legs_: First two with trochantins, claws simple, legs covered with
+almost clavate hairs.
+
+_Habitat_: Barns or buildings of this community; also found in some
+of the common trees, such as the oak and sycamore. This was collected
+in Whittier, Claremont, Lytle Creek and San Antonio canyons, and the
+smaller canyons near Claremont.
+
+
+_Chelifer fuscipes_ Banks. Figs. 1 and 2
+
+_Description_: Length of animal, including mandibles, 4 mm.; pedipalps,
+5.5 mm.; claw, 2 mm. Color--Pedipalps, reddish brown; cephalothorax,
+reddish brown; abdomen and legs, light brown.
+
+[Illustration: Figure 1. _Chelifer fuscipes_ Banks. From below and
+above. ×25.]
+
+[Illustration: Figure 2. _Chelifer fuscipes_, third leg and mandible
+much enlarged.]
+
+_Cephalothorax_: As long as it is broad. Upper edge almost truncate,
+yet rounded; sides evenly convex, lower edge almost straight.
+Cephalothorax finely granulate and heavy, simple spine-like hairs
+placed in a definite order. One distinct median suture. Two eye spots.
+
+_Abdomen_: Half as broad as it is long and divided into twelve scuta.
+The outer edges of each scutum are prolonged into curved hooked spines.
+The first scutum is the shortest and broadest, and has the heavier
+spine or hook, while the last two segments often lack the hook. The
+abdomen is finely granulate and at the lower edge of each scutum there
+are eight heavy, short, simple hairs.
+
+_Pedipalps_: Longer than body, coxa smooth, trochanter with large
+protuberance ending in a strong spine on outer side; femur longer than
+cephalothorax, slightly concave on inner edge, convex on outer edge.
+Tibia pedicellate, shorter than femur. The trochanter, femur and tibia
+are all granulate and sparsely covered with short, simple hairs. Claw
+large, hand broad, smoothly convex on both sides; finger as long as the
+hand and slightly curved. It is also provided with long, tactile hairs.
+
+[Illustration: Figure 3. Pedipalp of _Chelanops serratus_ n. sp. ×50.]
+
+_Mandibles_: Small for size of animal; fixed finger provided with small
+teeth. Serrula attached throughout the length of moveable finger.
+Flagellum divided into small parts. Spinnerets small and transparent.
+
+_Legs_: First three legs with trochantins, claws simple, legs covered
+with simple hairs.
+
+_Habitat_: Sycamore canyons, Laguna Beach, Whittier Hills, Cucamonga
+canyon, Arrowhead canyon, Lytle Creek canyon, Evey's canyon, San
+Antonio canyon, and from oak and sycamore trees around the college
+campus.
+
+
+_Chelifer scabrisulis_ Simon
+
+I will not describe the details of this species, because it is so much
+like the last described, differing from _C. fuscipes_ by not having
+the prolonged hooks like spines, on the outer edges of each abdominal
+scutum. The color differs from the other two. The abdomen and legs are
+light brown. The cephalothorax and palps are a little darker yellowish
+brown.
+
+The habitat of this species was the same as that of _C. fuscipes_. When
+collecting, they were generally found together.
+
+
+_Chelanops oblongus_ Say
+
+_Description:_ Length of body, including mandibles, 5 mm; abdomen,
+4 mm.; pedipalps, 4.5 mm.; claw, 2 mm. Color--Cephalothorax, light
+reddish brown, pedipalps darker, abdomen yellow with dark brown spots,
+legs pale yellow.
+
+_Cephalothorax:_ Very short for length of body. Front margin truncate,
+sides almost straight, lower margin slightly convex, smooth and shiny
+and provided with many short hairs.
+
+_Abdomen:_ Four times as long as it is wide; sub-parallel sides. Each
+scutum with a dark spot on each side and each dark spot surrounded by
+long, simple hairs arranged in a definite order.
+
+_Pedipalps:_ Nearly as long as the body, coxa smooth, trochanter stout
+and short; femur pedicellate, broadest part being near base, as long
+as the cephalothorax, inner edge slightly concave, outer edge strongly
+convex; tibia shorter than femur, pedicellate, strongly convex on inner
+edge, on outer edge slightly concave near base, but strongly convex
+beyond.
+
+_Claw:_ Large, finger very stout and curved, shorter than the hand.
+Hand very broad, very convex on outer edge, only slightly so on inner
+edge. The trochanter, femur and tibia are covered with stout simple
+hairs of varying length.
+
+_Mandibles:_ Small and short, serrula attached throughout length of
+finger, spinnerets small and transparent.
+
+_Legs:_ Short and stout, covered with short, stout, simple hairs.
+
+_Habitat_: This has been reported from Palm Springs, but one specimen
+was found within our area at Brown's Flats, at about four thousand feet
+elevation, in an old pine log.
+
+
+_Chelanops pallipes_ Banks
+
+Similar to _C. dorsalis_, but fingers longer than hand and very
+slender; tibia also slender, less convex on the inner side, hard parts
+with clavate hairs. Three millimeters long. (From Banks.)
+
+_Habitat_: Los Angeles and vicinity, but has not yet been found in our
+immediate region.
+
+
+_Chelanops acuminatus_ Simon
+
+Cephalothorax and palpi reddish brown, with short but not clavate
+hairs; no eye spots; pedipalps rather short, hand evenly convex on
+inner side at base, fingers much shorter than the hand and quite stout.
+3 mm. long. (From Banks.)
+
+_Habitat_: Claremont and Los Angeles.
+
+
+_Chelanops lagunæ_ Moles
+
+This species was described in the March number of this Journal, 1914.
+
+It differs chiefly from _C. dorsalis_ Banks by having two eye spots. It
+is a smaller species. This small species was found in Sycamore canyon,
+near Laguna Beach.
+
+
+_Chelanops paludis_ Moles
+
+This species was described in the June, 1914, number of this Journal.
+
+The very broad form of the abdomen is characteristic.
+
+This was found on poplar trees and in poplar logs in the Chino swamp.
+
+
+_Chelanops serratus_ n. sp. Fig. 3
+
+_Description_: Length--Pedipalps, 3 mm. Impossible to take measurements
+of other parts, for slide was so poorly made, but the body was small.
+Color--Cephalothorax and pedipalps, strong yellow brown; legs and
+abdomen, light yellow.
+
+_Cephalothorax_: As long as it is broad, sides evenly convex, upper
+margin straight, one distinct median suture; no eye spots; surface of
+cephalothorax very granular.
+
+[Illustration: Figure 4. _Ideoroncus obscurus_ Banks. Forward part of
+the animal from above. ×25.]
+
+_Abdomen_: Badly curled up; scuta entirely covered with short almost
+clavate hairs.
+
+The naming of this species is based on the short "saw-like" hairs that
+are all over the body. They are not globular on the end, as the clavate
+hairs, but have "saw-like" edge.
+
+_Palps_: Short and stout, coxa smooth, trochanter as usual, femur
+shorter than cephalothorax; pedicellate, inner margin almost straight
+at base, then suddenly concave to tip, outer margin evenly but not
+strongly convex; tibia broad, pedicellate, suddenly enlarging on inner
+side near base, outer margin evenly convex. Trochanter, femur, tibia
+strongly granulate and sparsely covered with these "saw-like" hairs.
+
+_Hand_: Broad as it is long, greatly swollen on inner margin near base;
+fingers slightly curved and as long as the hand.
+
+_Mandibles_: Small; spinnerets small and transparent; serrula attached
+throughout the length of the moveable finger.
+
+_Legs_: The two anterior legs with trochantins; legs covered with many
+hairs.
+
+This specimen was found on the window pane of the Pomona College
+greenhouse. A fly (_Musca domestica_) lit on the pane and the
+pseudoscorpion caught its legs and clung while the fly crawled about.
+This is the only one of its kind that has been found.
+
+
+_Atemnus hirsutus_ Banks
+
+Described by Banks in this number of the Journal. Only one specimen of
+this species was taken. This is the species found nearest the ocean.
+The broad hand is quite evident. Found ten feet from the ocean, among
+stones, at Laguna Beach.
+
+
+_Obisium macilentum_ Simon
+
+_Description_: Pale yellowish brown, legs paler; hard part shining;
+cephalothorax one-fourth longer than broad. Sides parallel; mandibles
+about one-half the length of the cephalothorax; pedipalps very long
+and slender, with long, fine, scattered hairs. Femur as long as the
+cephalothorax. Fingers longer than hand.
+
+_Habitat_: Claremont.
+
+_Ideobisium threveneti_ Simon
+
+_Description_: Length of animal, including mandibles, 4 mm.; length
+of palps, 3.5 mm.; length of abdomen, 3 mm.; length of claw, 1.5 mm.
+Color--Cephalothorax and palps, dark reddish brown; abdomen, lighter
+than cephalothorax; legs, pale yellow.
+
+_Cephalothorax_: As long as it is broad, upper margin truncate, sides
+nearly straight, lower margin straight; no suture; four distinct eye
+spots; eyes on each side almost touch each other.
+
+_Abdomen_: Elongate, three times as long as it is broad; scuta entire.
+
+_Palps_: Coxa smooth; trochanter small; femur long, outer edge
+almost straight, inner edge slightly convex; tibia short and stout,
+pedicellate, convex on inner and outer surface.
+
+_Claw_: Not large; finger as long as hand and not curved very much;
+hand, broad, evenly convex on inner and outer edges.
+
+_Legs_: Lack trochantins, III and IV stouter than I and II; mandibles
+large; serrula not attached throughout length of moveable finger;
+spinnerets long and transparent.
+
+_Habitat_: Claremont, Ice House Canyon, under leaves.
+
+
+_Ideoroncus obscurus_ Banks
+
+_Description_: Length of animal, including mandibles, 3 mm.; length of
+pedipalps, 3 mm. Color--Cephalothorax and pedipalps dark yellow brown;
+abdomen and legs very light yellow.
+
+_Cephalothorax_: A little longer than broad; front margin slightly
+truncate, rounded; sides so slightly convex as to be almost straight;
+lower margin slightly recurved; no transverse sutures; one pair of eyes.
+
+_Abdomen_: Elongate and slender; scuta entire; both abdomen and
+cephalothorax with a few simple scattered hairs.
+
+_Palps_: Long and slender; coxa smooth; trochanter lacks large
+protuberance of many of the Cheliferidæ; femur hardly as long as
+cephalothorax, very slender and not pedicellate; tibia shorter and
+broader than femur, pedicellate, convex on inner edge, only slightly so
+on outer edge; trochanter, femur, and tibia covered with short, stout
+simple hairs; claw long and slender; finger little longer than hand,
+and only slightly curved; hand twice as long as broad; hand and claw
+covered with long, simple hairs; mandibles large, serrula attached only
+at base; spinnerets long and transparent.
+
+_Legs_: The femur and tibia of the first two pairs of legs rather
+stout; no trochantins; covered with simple hairs.
+
+_Habitat_: Found in oak trees in the wash around Claremont.
+
+This differs slightly from that described by Banks in that:
+
+1. The upper margin of the cephalothorax is not rounded, but truncate.
+
+2. The fingers of the claw are not shorter than the hand.
+
+3. The femur and tibia of the first two pairs of legs are not stout.
+
+(_Contribution from the Zoological Laboratory of Pomona College_)
+
+
+
+
+Some Points in the Nervous System of a Large Deep Water Crab
+
+WILLIAM A. HILTON
+
+
+During the summer of 1914 several living specimens of the large crab
+_Loxorhynchus grandis_ Stimp. were obtained at Laguna Beach. One of
+these was kept for some time in a tank of sea water, and its general
+movements were observed as it walked about on the bottom or attacked
+the sharks or other fish in the aquarium. Its movements were slow and
+its senses seemed not very acute in this situation.
+
+A gross and microscopical examination of the nervous system gave much
+the appearance of these organs in other decapods, but the remarkably
+small size of the brain or head ganglion was especially noticeable. The
+nerves connected with this ganglion were long and slender. The optic
+was large, the tegmental a little smaller and the first antennal about
+as large as this last. Closely associated with the optic was the small
+oculomotor, and near the connectives the small second antennal. Other
+small nerves were connected with the brain, whose courses were not
+traced, including a pair of small frontal nerves.
+
+The connectives with the thoracic-abdominal ganglion were long and
+slender, with each its small ganglion a short distance from the brain.
+A cross connection between these connectives was not seen. It may have
+been broken in the dissection.
+
+The thoracic-abdominal ganglion has many nerves connected with it, as
+shown in the figure; the largest of these were traced to the legs and
+upper thoracic appendages. The legs are large and heavy and the nerve
+trunks in them are large; their combined bulk would probably be many
+times that of the ventral ganglion.
+
+So far as studied, the internal arrangement of tracts and cells does
+not differ materially from the classic descriptions of Bethe in another
+species. One thing especially noteworthy is the fact that the nerve
+cells do not seem especially large, nor are the large ones numerous.
+
+[Illustration: Figure 1]
+
+The nerve cells and fibers were studied in preparations fixed in
+Flemming's fluid and stained with iron hematoxylin. As in forms
+previously studied, the general structure of the ganglion in a way
+duplicates the structure of the nerve cells, in that a general
+reticulum forms a framework for the other structures in both. It is
+hard in individual cases to distinguish the supportive structures from
+the conductive, but the fibers and fibrils in or outside of the nerve
+cells run in longer straight lines--that is, they do not form so much
+of a meshwork, although they may branch and intertwine to some degree
+both within and outside the nerve cells. Large strands or fibers from
+nerve cells run as fibers, then divide into smaller masses of fibrils,
+and at last break up into numerous fibrils. The usual demonstration
+of nerve cells with their branches as shown by the Golgi or methylene
+blue methods, I believe, shows only the _larger_ and _smaller_ branches
+from nerve cells, and the smallest branches where the fibers break into
+fibrils are not shown at all.
+
+[Illustration]
+
+In this and other arthropods which I have studied, it seems to me to
+be quite characteristic of the nervous system that many parts show
+fine fibrillæ more clearly than they are seen in vertebrates. This
+may in part be due to the nature of the insulating and supportive
+apparatus. As in _Carcinus_, described by Bethe, the optic tract
+enters the mesal side of the globulus and splits up into smaller and
+smaller parts, and is at last lost in the minute network of fibrils
+and supporting substance. Large bundles from the outside may be seen
+as dark masses here and there. These last are held in place in the
+section by many connecting strands which join the fibers from all
+sides. Some may be conducting fibrils, but it is hard to distinguish
+these from supportive. Probably most of the conducting fibrils leave at
+or near the termination of the thicker part of the fiber. The denser
+parts of the nervous system of this and other arthropods, such, for
+instance, as the material of the globulus, are composed for the most
+part of ultimate fibrillæ whose relationships at these points can only
+be conjectured at present because of their minuteness, their great
+abundance, and because of the intermingling of supportive or other
+materials of several little understood sorts. An extensive comparative
+study of these denser masses with various reagents should yield some
+interesting results.
+
+Tigroid substance, mostly in the form of dots and flakes, was
+recognized, but not studied by special stains. The cells are surrounded
+by a dense capsule of connective substance, and in some cases the
+peripheral zone of the cell next the capsule is light. In some, this
+light zone is speckled with dark dots or lines. Some of these may be
+the ends of fibrillæ--in fact, some fibrils were traced--others may be
+tigroid substance, or possibly the bodies recognized by Poluszynski in
+some Crustacea, although his are stained by other methods.
+
+
+PAPERS MENTIONED
+
+  _Bethe, A._                   1898
+
+Das Nervensystem von Carcinus maenas. Arch. f. Mic. Anat. Bd. 51.
+
+  _Poluszynski, G._                 1911
+
+Untersuchungen über den Golgi-Kopsch'schen apparat und einige andere
+Strukturen in dem Ganglionzellen der Crustaceen. Bull. Acad. Sc.
+Cracovie.
+
+  Figure 1. Outline of the cephalothorax of _Loxorhynchus_, showing
+            the position and size of the nervous system. One-half
+            natural size.
+
+  Figure 2. Brain of _Loxorhynchus_ from above. ×10. o, Ocular
+            nerve; m, oculomotor; t, tegmental nerve; a, first antennal
+            nerve; b, second antennal; c, connective.
+
+  Figure 3. Nerve cell with fibrils from the brain. ×900.
+
+  Figures 4 and 5. Nerve cells near each other in the brain fibrils
+            are shown. ×900.
+
+  Figure 6. Neuroblast from a doso-median mass of the brain. ×900.
+
+  Figure 7. Neuroglia cell with branches from the brain. ×900.
+
+  Figure 8. Two fibres breaking into fibrils. From the brain. ×900.
+
+(_Contribution from the Zoological Laboratory of Pomona College._)
+
+
+
+
+A New Pseudoscorpion from California
+
+NATHAN BANKS
+
+
+Professor Hilton recently sent me a pseudoscorpion taken on the beach
+near water, which proves to belong to the genus _Atemnus_. Our common
+Florida _Atemnus_ also occurs on the sea beach. The Californian species
+differs from the Florida form in having a larger hand and more hairy
+body.
+
+
+_Atemnus hirsutus_ n. sp.
+
+[Illustration]
+
+Pale yellowish; cephalothorax a little longer than broad behind,
+narrowed in front, sides slightly sinuate, clothed with short, simple
+bristles; mandibles not one-third the length of the cephalothorax,
+with a short stylet; abdomen elongate, cylindrical, the segments with
+apical and preapical rows of simple bristles; legs rather large,
+with many simple bristles, all showing trochantins. Pedipalpi large,
+clothed with many fine simple hairs and bristles; the trochanters
+bituberculate behind near tip; the femur about as long as the width of
+the cephalothorax, of nearly equal width throughout; the tibia about
+as long as femur, a little broader beyond the middle, about equally
+convex on each side; hand extremely broad at base, barely shorter than
+the tibia; fingers as long as the hand, much curved, each with some
+tooth-like granules and a fine toothed ridge on the apposed sides.
+
+From Laguna Beach, California, ten feet from the ocean. (Hilton.)
+
+
+
+
+A Nebalia from Laguna Beach
+
+R. LA FOLLETTE
+
+
+Among the many marine forms collected and studied at Laguna Beach
+this summer were several Nebalia, which were taken by Mr. Lichti from
+a holdfast cast up on the beach. A specimen was sent to the National
+Museum at Washington, where it was classified as _Nebalia bipes_ O.
+Fab. A brief description of the animal will be given in this paper.
+
+_Nebalia bipes_ O. Fab. (Plate I, Fig. 1) belongs to the order
+Phyllocarida, which is the linking order between the Branchiopoda
+and Copepoda on one hand and the Schizopoda and Decapoda on the
+other. There are only three genera, and the commonest of these is
+_Nebalia_. So far as I know this form has never before been reported
+from this region. The specimen here described was 9 mm. in length and
+a whitish flesh color. It was transparent in the living animal. The
+body is divided into a head, thorax and abdomen, having the normal
+malacostracan number of segments, except the abdomen, which is made up
+of eight, the last bearing caudal styles. There is a bivalved cephalic
+carapace extending back to the fourth abdominal segment and terminating
+in front in a movable rostrum. The eyes are large, round and raised on
+movable stalks.
+
+There are two pairs of antennæ (Plate II, Fig. 2), the first pair
+being four-jointed, the last joint rather broad and armed with many
+hairs along the outer margin. The other joints have a few hairs on
+the articulating margin. The flagellum rises from the fourth joint,
+behind the fifth and has fourteen joints, each one armed with several
+hairs on the outer margin of the articulation. The second antennæ are
+slightly larger than the first and made up of three joints with a brush
+of plume hairs at the caudal end of the second joint. The flagellum is
+fourteen jointed. The mandible has a two-jointed palp (Fig. 3), with
+numerous hairs along the outer margin. The second maxilla also has a
+palp extending back under the carapace with the function of keeping the
+carapace free from foreign bodies.
+
+The thoracic feet (Fig. 3) are about 1.5 mm. in length, eight in number
+and biramous. The outer margins are heavily covered with hair, while
+the inner margins are comparatively smooth. The first four abdominal
+appendages (Figs. 5, 6) are much larger than the thoracic feet,
+being 2.5 mm. in length, and are used for swimming, like those of
+the copepods. They are also biramous, the back margin and tip having
+numerous hairs along the edge, while the inner margins are lined with
+many plumous hairs. The first appendage (Fig. 5) is somewhat heavier
+than the fourth (Fig 6), but the hairs and spines are arranged in the
+same relative position. The fifth appendage (Fig. 7) is two-jointed
+uniramous and small, .9 mm. long. The sixth is one jointed and smaller
+yet.
+
+The eight abdominal segments taper off in size and the last bears a
+pair of caudal styles (Fig. 8) which are lined with sharp spines along
+their outer margins. The ends of the styles are armed with two long,
+sharp spines.
+
+(_Contribution from the Zoological Laboratory of Pomona College._)
+
+
+EXPLANATION OF PLATE I
+
+Magnification 25 Times
+
+Figure 1. _Nebalia bipes_.
+
+
+EXPLANATION OF PLATE II
+
+Magnification 25 Times
+
+  Figure 2. Antennæ.
+  Figure 3. Mandibular palp.
+  Figure 4. Thoracic appendage.
+  Figure 5. First abdominal appendage.
+  Figure 6. Fourth abdominal appendage.
+  Figure 7. Fifth abdominal appendage.
+  Figure 8. Caudal styles.
+
+[Illustration: Plate I, Figure 1]
+
+[Illustration: Plate II]
+
+
+
+
+Starfish of Laguna Beach
+
+
+The following is a fairly complete list of shore forms of starfish at
+Laguna. All but the last one mentioned were photographed by Miss Clency
+at Laguna Beach.
+
+
+_Linckia columbiæ_ Gray. Fig. 1
+
+A large number of these were collected under stones and in tide pools
+near shore. A number were found with six arms, and often the arms were
+very irregularly developed. The power of regeneration is very marked,
+as may be determined from the appearance of even a small number of
+individuals.
+
+
+_Orthasterias gonolena_ Verrill. Fig. 2
+
+This is the "soft starfish." Clark has called it _Asterias forreri_.
+Fisher (in first Laguna report) called it _A. sertulifera_. Verrill
+considers it different from either of these last two. We must thank Dr.
+Clark for this information, as well as for the identification of the
+remaining species of starfish.
+
+This form is fairly common in the tide pools and under stones not far
+from shore.
+
+
+_Pisaster capitatus_ Stimpson. Fig. 3
+
+This is our most beautiful species, but is not as common as the next
+species with which it is often found. On the points and especially
+among the mussel beds this species may be found. Its colors during life
+are beautiful with their delicate shades.
+
+
+_Pisaster ochraceus_ Brandt. Fig. 4
+
+This is our most common species on the rocky points and among the
+barnacles and mussels, where they may be found by the dozen. The color
+variations are quite marked, some being a light red brown, others a
+darker shade. Some specimens of large size were obtained.
+
+[Illustration]
+
+
+_Astropecten erinaceus_ Gray. Fig. 5
+
+This beautiful starfish, with its pearl gray shades, is a deeper water
+form than the others. A few were found in the living condition cast up
+on the shore, and some were obtained from the fishermen, but they were
+not often found.
+
+
+_Asterina miniata_ Brandt. Fig. 6
+
+These broad armed starfish were found quite often in the tide pools
+near shore; usually of a deep orange color, they were sometimes much
+lighter than this.
+
+  W. A. H.
+
+(_Contribution from the Zoological Laboratory of Pomona College_)
+
+
+
+
+Barnacles of Laguna Beach
+
+MISS S. P. HUGHES
+
+PACIFIC UNIVERSITY, FOREST GROVE, OREGON
+
+
+Five species of barnacles were found last summer at Laguna Beach. For
+the identification of the first two of these, we must thank Dr. H. A.
+Pilsbry of the Academy of Natural Sciences, Philadelphia.
+
+[Illustration: Figure 1]
+
+
+_Balanus tintinnabulum californicus_ Pils. Fig. 1
+
+The most common of the acorn barnacles; found abundantly on rocks,
+mussels, etc. There are six valves or plates; the rostrum, carina, and
+two latera on each side. These plates are delicately marked with pink
+stripes. The connecting pieces are often transversely lined. This is
+the largest of the common acorn barnacles; the average height is about
+an inch.
+
+[Illustration: Figure 2]
+
+
+_Balanus nubilus_ Darwin. Fig. 2
+
+This is one of the small acorn barnacles, also very numerous on the
+rocks at tide level. Here the plates, usually six in number, although
+in some the lateral plates are divided, are closely joined to each
+other without connecting pieces.
+
+[Illustration: Figure 3]
+
+[Illustration: Figure 4]
+
+
+_Mitella polymerus_ Sowerby. Fig. 3
+
+This is a very abundant species, and is found in great masses on
+the rocks near the tide level. It is readily known by the numerous
+irregularly arranged scales at the base of the capitulum. The valves
+are usually much worn, and many cases of regeneration have been noted.
+The peduncle is covered with fine scales.
+
+
+_Lepas anatifera_ Linnæus. Fig. 4
+
+This is a fairly abundant goose barnacle, found in holdfasts of kelp
+and occasionally on driftwood and floating objects. The size varies
+from a few millimeters to almost an inch in length. The distinguishing
+characters are the very fine striations on the valves, the presence of
+an umbonal tooth on the right scutum, and the proximity of the base of
+the carina to the scutum. The valves are a delicate pale blue color and
+the peduncle a deep purplish brown.
+
+[Illustration: Figure 5]
+
+
+_Lepas fasciculatus_ Elis and Solander. Fig. 5
+
+Two specimens were found by Mr. Lichti upon the beach at Green Bay,
+Laguna Beach, in September of this year. Others have been collected
+from the Laguna region.
+
+It is a light pelagic form, with paper-like plates and angularly bent
+carina, with a prominent umbo.
+
+
+
+
+Notes on the Eggs of Some Laguna Beach Invertebrates
+
+P. A. LICHTI
+
+
+During the past summer a large number of species and individuals were
+examined for eggs. Some of these fragmentary notes may be of use to
+others who may carry the study further.
+
+The serpent stars were not especially studied for the eggs, but
+during July several hundred were collected from various places. These
+were mostly of one species. About one-third of these contained well
+developed ova. On July 14th and 20th, six individuals of the genus
+_Ophiothrix_ deposited eggs in the aquarium jars. During August three
+out of twenty specimens had ova well developed, many may have been
+young.
+
+Comparatively few female sea urchins were found. Out of 50 individuals
+opened, 36 were males, six females, and the rest young. Miss Wang also
+found that the males were more numerous than the females as they were
+collected, four to one. Miss Wang was able to keep the sperm alive for
+96 hours in the laboratory before we had running salt water.
+
+In the common shore goose-neck barnacle _Mitella_, ova and segmentation
+stages were found during the summer.
+
+The common rock crab, _Pachygrapsus_, was examined many times during
+July and very few adult females were without eggs. During the same day
+mature ova and advanced embryos were found. August 10th, about half
+the females were without eggs. On September 4th, about two-thirds were
+without eggs. The early summer seems the more active spawning season.
+
+A live female deeper sea crab, _Loporhynchus_, was caught on June 25th.
+The enormous mass of eggs was unsegmented and failed to segment in the
+laboratory, although the animal was kept alive for some time. On July
+20th, another female was caught, the embryos were well advanced and it
+was possible to see the heart beat under the microscope. They lived
+only a few hours.
+
+The sand crabs of the genus _Eremita_ were found laying their eggs
+all summer. Some hundreds were examined, and it was found that up
+to September egg masses were nearly always found with the females.
+In the whole season, out of 236 examined, only 11 in September were
+without eggs. It was found that while the eggs on the swimmeretts were
+developing into crabs another egg mass was being formed in the ovaries,
+this last reached maturity about the same time that the young crabs on
+the swimmeretts hatch.
+
+A species of _Cypris_ was found in a pool about 1½ miles up Laguna
+canyon. These had many eggs on July 1; by July 17 no eggs were found.
+
+A number of species of isopods and amphipods were found to have eggs
+during the summer, and during September it was very easy to obtain
+_Ligyda_ with eggs or young, although the proportion of young stages
+was becoming less.
+
+Members of the genus _Caprella_ were found with eggs at different times
+during the summer and up into the fall.
+
+Of the pycnogonids, the following genera were found with eggs during
+the summer: _Lecythorhynchus_, _Ammothella_ of two species; _Halosoma_,
+_Pycnogonium_, _Palene_, _Tanystylum_ of two species.
+
+A number of chitons were examined, but with negative results. Probably
+many were young.
+
+Some of the bivalved forms were examined, but the character of the
+period of reproduction is not yet determined.
+
+The sea hare, _Aplysia_, laid its eggs in the aquarium jars during the
+middle and late summer.
+
+Many of the species of nudibranchs collected during the summer were
+found to deposit eggs in the laboratory. One species, a light brown
+form, was found abundantly in kelp holdfasts. They laid coiled
+ribbon-like masses of eggs.
+
+Eight different individuals of the genus _Doris_ deposited eggs in the
+laboratory.
+
+On July 28, two of the genus _Hermissenda_ and one _Spurilla_ (?)
+deposited eggs.
+
+_Laila_ and several unknown forms deposited eggs in the laboratory
+during the first part of September.
+
+(_Contribution from the Zoological Laboratory of Pomona College_)
+
+
+
+
+Preliminary Notes on Some Marine Worms Taken at Laguna Beach
+
+W. F. HAMILTON
+
+
+During the summer of 1914 I made a collection of some 230 bottles of
+annelids. It was thought best that I should publish a list of the
+families and of such species as I have succeeded in identifying.
+
+
+Polychaeta
+
+Syllidæ
+
+  Are quite abundant among the finer sea mosses.
+
+  _Pionosyllis elongata_ Johnson.
+
+  Found among goose-neck barnacles west of the Laboratory and in
+  seaweed tangles. White with bright red eggs coloring posterior end.
+  Taken June 26, 1914.
+
+  Two other forms are common in the finer sea moss.
+
+
+Polynoidæ
+
+  Are of frequent occurrence on rocks and in seaweed tangles. I have
+  identified four species.
+
+  _Halosydna insignis_ Baird.
+
+  The most common and variable polynoid at Laguna. Color of elytra
+  yellowish gray to bright red. Length from 18 to as much as 47 mm.
+  (contracted).
+
+  _Halosydna californica_ Johnson.
+
+  Less abundant. Similar in distribution. More slender and of a lighter
+  pigmentation.
+
+  _Lepidasthenia gigas_ Johnson.
+
+  This interesting form was taken from a large mass of the tubes of
+  _Vermetus_ (_squamigerus?_) (gasteropod). Heretofore, as far as I
+  know, it has only been recorded as a tube commensal with a large
+  _Amphitrite_. My specimen was not commensal, but was hidden among
+  the mollusc tubes. The color was recorded as a "light, unsaturated
+  yellow, elytra darker yellow, body irridescent below." The setæ
+  project only their tips beyond the parapodia, differing only in this
+  respect from Johnson's figures. I could not find any asymmetrical
+  somites, judging from the elytrophores. The elytra were all gone and
+  the specimen was poorly preserved.
+
+  _Harmothoe hirsuta_ Johnson.
+
+  A single specimen 25 mm. long, badly mutilated and in a poor state
+  of preservation was taken in seaweed between tide-marks. Two other
+  species were taken from a similar location, but I have not identified
+  them yet.
+
+
+Phyllodocidæ
+
+  Three unidentified kinds inhabiting seaweed tangles and holdfasts are
+  in the collection.
+
+
+Euphrosynidæ
+
+  _Euphrosyne aurantiaca_ Johnson.
+
+
+Nereidæ
+
+  Are common in the atokous state, and one "heteronereid" was brought
+  in from an unknown location.
+
+  _Nereis agassizi_ Ehlers.
+
+  Specimens which agree closely with figures by Johnson are found very
+  abundantly in seaweed tangles.
+
+  _Nereis virens_ Sars.
+
+  A single specimen was taken in wave-washed sand three miles south of
+  the Laboratory.
+
+  There is another species, resembling _Nereis procera_ which I have
+  not yet identified.
+
+  Two specimens of this beautifully brilliant orange annelid were taken
+  on holdfasts.
+
+
+Eunicidæ
+
+  I found few of these, but such as I did find were in burrows in a
+  soft shale ledge or in sand under large stones.
+
+
+Lumbriconereidæ
+
+  _Lumbriconereis erecta_ (?) Moore.
+
+  I am not sure of this determination. The setæ are identical, but the
+  parapodia are not quite the same as those figured by Moore. The worm
+  is very abundant in the sand under large stones. One or two similar
+  species are common in seaweed and under mussels.
+
+
+Glyceridæ
+
+  Two species of this family were found in the sand under large stones.
+
+  _Hemipodia borealis_ Johnson.
+
+  Found under a large rock, buried in the sand. One very large and
+  active glycerid was found in the same locality. I have not identified
+  it.
+
+
+Cirratulidæ
+
+  Found in the roots of eel-grass, in holes in a soft shale ledge or in
+  the sand under large stones.
+
+  _Cirratulus robustus_ Johnson.
+
+  _Cirratulus spirabranchus_ Moore.
+
+  Found in abundance in the above places.
+
+
+Terrebellidæ
+
+  Found with the _Cirratulidæ_.
+
+  _Schmardanella californica_ Moore.
+
+  Is very abundant in the matted roots of "eel-grass."
+
+  Two other forms are quite abundant wherever _Cirratulus_ is found.
+
+
+Maldanidæ
+
+  Found on holdfasts.
+
+  _Clymenella rubrocincta_ Johnson.
+
+  Fairly common.
+
+
+Chlorhæmidæ
+
+  I have a half dozen of these from holdfasts.
+
+
+Sabellidæ
+
+  Small sabellids are common in holdfasts and seaweed masses.
+
+
+Serpulidæ
+
+  The calcareous tubes of these animals are seen everywhere below half
+  tide, on rocks, in holdfasts and on kelp (spirobis). I have six
+  different serpulids.
+
+
+Hermellidæ
+
+  There are probably two species of this family common at Laguna.
+
+  _Sabellaria californica_ Fewkes.
+
+  This form was found in large colonies in the protected crevasses of
+  cliffs west of the laboratory. The colonies are some twenty feet
+  long, two feet wide and ten inches thick. The tubes are of loosely
+  agglutinated sand and are crowded very closely together with their
+  mouths evenly disposed over the surface of the colony.
+
+  Another species lives singly in very hard, thick sand tubes. Some
+  specimens have algæ growing on their opercula.
+
+
+Turbellaria
+
+I have three kinds of these "flat worms" in my collection. They are
+found under partly submerged stones.
+
+
+Nemertinea
+
+There are seven different nemertines in the collection. They are
+recorded from holdfasts, seaweed tangles and from among vermetus tubes.
+
+
+Nematoda
+
+There are two or three different marine nematodes in the collection.
+They are most common in the finer moss.
+
+
+Sipunculoidea
+
+There are two kinds of sipunculids, which seem quite distinct. Taken
+from eel-grass roots, from under rocks and mussels.
+
+The specimens were identified from the following papers:
+
+  _Fewkes, J. W._                    1899
+
+  New Invertebrata from the Coast of California. Bull. Essex inst. xxi,
+  99-146, pls. 1-7 (2) figs. in text.
+
+  _Johnson, H. P._                     1897
+
+  A Preliminary Account of the Marine Annelids of the Pacific Coast,
+  with Descriptions of New Species. Proc. Cal. ac. sc. (3), i, 153-198,
+  pls. 5-10.
+
+  --------                     1901
+
+  The Polychætæ of the Puget Sound Region. Proc. Bost. soc. nat. hist.,
+  xxix, 381-437, pls. 1-19.
+
+  _Moore, J. P._                      1904
+
+  New Polychætæ from California. Proc. acad. nat. sci., Philadelphia,
+  56-484-503, pls. 37-38.
+
+(_Contribution from the Zoological Laboratory of Pomona College._)
+
+
+
+
+Studies in the Comparative Size of the Red Blood Corpuscles of Birds
+
+CHI TSAU WANG
+
+
+The blood corpuscles of a large number of vertebrates were studied at
+Laguna Beach during the past summer. Some of the sizes of cell and
+nucleus are given below. The blood was obtained as fresh as possible;
+in no case was the blood obtained longer than twenty-four hours after
+death. The corpuscles were measured by the ocular micrometer and
+checked by the aid of a camera lucida.
+
+                                          Average Size of   Average Size of
+                                         Corpuscle Microns  Nucleus Microns
+  Common Name
+        Scientific Name                   Length  Breadth   Length  Breadth
+
+  Western Gull
+        Larus occidentalis                 14.70    8.82      6.53    3.27
+  Heermann Gull
+        Larus heermanni                    14.05    7.84      6.21    2.77
+  Great Blue Heron
+        Ardea herodias                     13.72    8.82      6.53    3.27
+  Red-breasted Merganser
+        Mergus serrator                    13.07    7.51      6.86    2.77
+  Arkansas Kingbird
+        Tyrannus verticalis                12.77    9.47      5.55    3.10
+  California Road Runner
+        Geococcyx californianus            12.09    9.15      5.27    3.27
+  Long-billed Dowitcher
+        Macrorhamphus griseus scolopaceus  12.41    8.49      5.24    2.46
+  Least Tern
+        Sterna antillarum                  11.76    8.46      6.21    2.94
+  Semipalmated Plover
+        Ægialitis semipalmata              11.43    6.21      5.24    2.77
+  Arizona Hooded Oriole
+        Icterus cucullatus nelsoni         11.27    8.49      4.41    2.94
+  San Diego Song Sparrow
+        Melospiza melodia cooperi          10.94    8.33      5.27    2.53
+  Least Vireo
+        Vireo pusillus pusillus            10.45    9.47      5.55    2.77
+  California Woodpecker
+        Melanerpes formicivorus bairdi     10.45    6.53      5.24    2.77
+  Belding Marsh Sparrow
+        Passerculus beldingi               10.08    6.86      4.90    2.77
+  Willow Gold Finch
+        Astragalinus tristis salicamans     9.80    6.79      6.04    2.94
+  California Horned Lark
+        Otocoris alpestris actia            9.47    6.21      4.25    2.12
+  Western Lark Sparrow
+        Chondestes grammacus strigatus      8.49    5.55      5.24    3.10
+
+_(Contribution from the Zoological Laboratory of Pomona College)_
+
+
+
+
+Caprellidæ from Laguna Beach
+
+R. LA FOLLETTE
+
+
+This paper is a preliminary article on the Caprellidæ of Laguna Beach,
+and deals with species that have so far been identified. Because
+of great variation, due to age, it is very difficult to place the
+different forms.
+
+
+_Caprella geometrica_ Say
+
+Mayer places _C. geometrica_ as one of eighteen or twenty varieties
+of the species _acutifrons_, but I have thought it best to follow
+some of the other writers and use _geometrica_ as the species name,
+as my specimen closely resembles the species which seems to be _C.
+geometrica_ in several accounts.
+
+The specimen here described is an adult male. The peræon (Plate I, Fig.
+1) is robust and covered with many blunt tubercles. In this respect it
+varies from the specimens described by others who say the peræon is
+smooth. The young are comparatively smooth and develop tubercles on
+the caudal segments first. Cephalon furnished with a sharp anteriorly
+directed dorsal tooth. First segment shorter than the second, which is
+triangular in shape; third and fourth broad and a little shorter than
+the second; fifth, sixth and seventh each growing smaller respectively
+and truncate at the tip. Antennæ, stout; superior pair not half as long
+as the body, first joint short and twice as thick as the second but
+only half as long, third joint shorter than first; flagellum as long as
+the peduncle and composed of 15 or 16 joints, inferior pair extending
+to about the middle of the flagellum of the superior, joints long and
+narrow.
+
+First gnathopod (Fig. 2), attached far forward, convex in shape and
+tapering slightly toward the finger, which was long as the palm and
+narrow; palm armed with tooth-like spine at the base and many hairs.
+Second gnathopod (Fig. 3), attached just posterior to the middle of
+the second pereiod, basal joint short and thick, not half as long as
+the palm; inner margin of the hand concave, armed with a tooth on the
+dorsal lobe and a broad, truncate tooth near the base of the finger, as
+well as numerous hairs; finger sharply concave on the inner margin for
+about half its length. Branchia nearly round. Third, fourth and fifth
+peræopods (Fig. 4) similar in structure, short, stout, and armed with
+stiff hairs; hand nearly as long as rest of the extremity; palm broad
+and armed with numerous hairs, inner margin slightly concave, with two
+serrate teeth at the base.
+
+Length of specimen, 13 mm.
+
+Color varying from a bright red to white.
+
+Several specimens taken at Laguna Beach the latter part of July, from
+the Rhodophyceæ on the rocks.
+
+The young of this species were very abundant at Laguna Beach, and I
+will give a short description of one because of the great variation
+from the adult. Plate II shows a young male with the antennæ inverted
+showing the setæ on the ventral side. The first five segments are of
+nearly equal length; peræon smooth; superior antennæ nearly half as
+long as the body, with inferior nearly as long as superior; flagellum
+with six to nine joints. Maxillipeds (Plate III, Fig. 5) with inner
+plate reaching apex of first joint of palp, armed with two teeth and
+spines; outer plate reaching apex of second joint of palp and armed
+with three small teeth. Upper lip (Fig. 6) bilobed, finely ciliated.
+First maxillæ (Fig. 7) two-jointed, palp and second joint armed with
+spines. Second maxillæ (Fig. 8) armed with a few hairs on the tip.
+Mandible (Fig. 9) has cutting plate made of five strong, unequal teeth;
+teeth of secondary plate nearly equal. First gnathopod attached far
+forward, triangular in shape and fringed with hairs. Second gnathopod
+(Fig. 11) attached the same as in adult, palm convex on inner margin,
+instead of concave as in adult, and armed with two small teeth near
+inner margin at the base; finger is concave and uniform in outline.
+
+
+_Caprella septentrionalis_ Kroyer
+
+The specimen here described differs slightly from those described by
+Mayer, Holmes, Sars and others, yet I do not think the differences
+great enough to demand the naming of a new species.
+
+The peræon (Plate IV, Fig. 12) is comparatively smooth, first two
+segments long, as long as the rest of the body; cephalon angularly
+produced in front into a very short, blunt spine. Figure 13 shows a
+specimen with a body somewhat broader. The superior antennæ are about
+half as long as the body, first joint broader than second, but shorter;
+second joint longest of all; third longer than first, and narrower
+than second; flagellum shorter than the peduncle and made up of about
+twelve joints. Inferior antennæ slightly shorter than the peduncle of
+the superior. Mandible (Fig. 14) cutting edge denticulate, with five
+irregular teeth, spine row having three large, feathery spines; molar
+tubercle strong and prominent. First gnathopod attached far forward,
+against the maxillipeds; hand triangular, fringed with hairs on the
+inner margin and one spine tooth near the base. Second gnathopod (Figs.
+15, 16) attached near the posterior extremity of the second pereiod,
+basal joint nearly as long as the hand, inner margin of hand lying in
+a straight line and armed with two teeth near the base of the palm,
+one on the lobe and the other to one side. Another long tooth is near
+the base of the finger and is separated from a large, broad tooth by a
+deep suture; inner margin of the finger irregular. Third, fourth and
+fifth peræopods are similar in structure and not as stout as those of
+_C. geometrica_; hands powerful and armed with three clumps of spines
+on small prominences; differing in this respect from those described by
+Mayer, Sars and others in that they lack the pair of serrated spines at
+the base of the palm. Finger stout and half as long as the palm.
+
+Length of specimen, 12 mm.
+
+Color white or flesh color.
+
+The specimens were collected during the latter part of July at Laguna
+Beach, from the seaweed in the inner tide pools.
+
+
+_Caprella æquilibra_ Say
+
+The peræon (Plate IV, Fig. 12) is comparatively smooth, with the
+cephalon devoid of a horizontal spine; the first three segments are
+long and narrow, of nearly equal length, the fourth a little longer
+than the third, the fifth twice as long as the sixth and seventh
+combined. The branchia are ovate in shape and moderate in size. Between
+the bases of the second gnathopods is a sharp projection (Fig. 13), and
+on each side another spiniform process pointing anteriorly. Superior
+antennæ slightly over half as long as the body, first joint about half
+as long as the second, but broader; second twice as long as the first,
+and third a little longer than the first, but narrower; flagellum
+with sixteen or seventeen joints and about as long as the peduncle.
+Inferior antennæ reaching just beyond the peduncle of the superior.
+First gnathopod small, attached far forward, palm triangular in shape,
+tapering toward the finger, which reaches back entirely over the inner
+margin of the palm, armed with two sharp spine-like teeth at the base
+of the palm, and scattered hairs. Second gnathopod (Fig. 14), attached
+at the posterior end of the segment, basal joint quite short; other
+joints have their lobes ending in spine-like processes; palm slightly
+convex on the inner margin, with a spined lobe about a third of the way
+along, and a blunt tooth two-thirds of the way along separated from a
+broad tooth by a deep sinus; claw regularly concave; whole gnathopod
+with but few hairs. Third, fourth and fifth peræopods (Fig. 15) similar
+in size and structure; palm thick, with two serrate teeth a third of
+the distance from the base.
+
+Length of specimen, 12 mm.
+
+Color a dark brown to flesh color.
+
+Two specimens taken on a holdfast that was thrown up on the beach at
+Laguna Beach during July, 1914.
+
+
+
+
+BIBLIOGRAPHY
+
+  _Bate, C. S._                                                   1862
+      Catalogue of Amphipodous Crustacea, pp. 357, 362.
+
+  _Holmes, S. J._                                                 1903
+      Synopses of North American Invertebrates, xviii, The
+        Amphipoda. The American Naturalist, vol xxxvii,
+        No. 436, p. 291.
+      Bulletin of Bureau of Fisheries, vol. xxiv, Amphipoda of
+        Southern New England, p. 526.
+
+  _Mayer, P._                                                     1882
+      Fauna und Flora des Golfes von Neaples, vi, Monographie,
+        pp. 45-50.
+
+  _Mayer, P._                                                     1890
+      Fauna und Flora des Golfes von Neaples, xvii, Monographie,
+        pp. 48-57.
+
+  _Mayer, P._                                                     1903
+      Siboga-Expeditie, xxxiv, Monographie, pp. 79-92.
+
+  _Sars, G. O._                                                   1895
+      An account of the Crustacea of Norway, vol. i, Amphipoda,
+        p. 663.
+
+  _Say_                                                           1817
+      Journal of the Academy of Natural Science, Philadelphia,
+        pp. 390-391.
+
+(_Contribution from the Zoological Laboratory of Pomona College_)
+
+
+
+
+EXPLANATION OF PLATES
+
+
+Plate I
+
+_C. geometrica_ (adult). ×25
+
+  Figure 1. Body showing length of segments
+  Figure 2. First gnathopod.
+  Figure 3. Second gnathopod.
+  Figure 4. Fifth peræopod.
+
+
+Plate II
+
+_C. geometrica_ (young male). ×40
+
+
+Plate III
+
+_C. geometrica_ (young male)
+
+  Figure 5. Maxillipeds. ×300.
+  Figure 6. Lip. ×300.
+  Figure 7. First maxillæ. ×300.
+  Figure 8. Second maxillæ. ×300.
+  Figure 9. Mandible. ×300.
+  Figure 10. First gnathopod. ×175.
+  Figure 11. Second gnathopod. ×175.
+
+
+Plate IV
+
+_C. septentrionalis_
+
+  Figures 12, 13. Bodies, showing length of segments. ×25.
+  Figure 14. Mandible. ×110.
+  Figures 15, 16. Second gnathopods. ×25.
+
+
+Plate V
+
+_C. æquilibra_ Say
+
+  Figure 12. Body showing length of segments. ×50.
+  Figure 13. Projection at base of second gnathopod. ×150.
+  Figure 14. Second gnathopod. ×150.
+  Figure 15. Fifth peræopod. ×150.
+
+[Illustration: Plate I]
+
+[Illustration: Plate II]
+
+[Illustration: Plate III]
+
+[Illustration: Plate IV]
+
+[Illustration: Plate V]
+
+
+
+
+Record of Two Fish, Not Before Mentioned, from Laguna
+
+
+During the summer of 1914 no special effort was made to collect fish,
+but the two following species were taken:
+
+
+_Porichthys notatus_ Girard
+
+A specimen of this interesting but rather common Californian fish was
+taken in a tide pool and kept for some time alive in the aquarium. This
+is sometimes called "Midshipman," because of the bright metallic spots
+over the head and body, like the buttons on a midshipman's uniform of
+years ago. These spots are provided with a lens, connective tissue
+capsule and a reflector, and are supposed to be luminous.
+
+
+_Mola mola_ Linnæus
+
+A small specimen of this head-fish, or sunfish, was brought to us by
+the fisherman.
+
+  W. A. H.
+
+
+
+
+Note on the Sea Urchins of Laguna Beach
+
+
+Due to the kindness of Dr. H. L. Clark of Harvard, we are able now to
+have some clearer idea about the number of species of sea urchins found
+at Laguna.
+
+
+_Strongylocentrotus purpuratus_ Stimp
+
+This is our most common species. It occurs by the hundreds in some of
+the larger tide pools, such as those near Seal Rocks. Judging from the
+specimens sent to Dr. Clark, the rather common greenish form, which
+we supposed to be distinct at first, is simply a younger form of the
+same species. This greenish form is more often found nearer shore under
+stones, where quite small individuals are abundant.
+
+[Illustration:
+
+  Figure 1. _Strongylocentrotus purpuratus_ Stimp. Photo by Miss Clency.
+  Figure 2. _Strongylocentrotus franciscanus_ A. Agassiz. Photo
+              by Hamilton.
+]
+
+
+_S. franciscanus_ A. Agassiz
+
+These larger urchins are not so common as they may have been. Larger
+specimens may be obtained under rock ledges in deep water. Smaller
+forms of the same species, which seem to have long reddish spines, may
+be found in the tide pools, but are not common.
+
+  W. A. H.
+
+
+
+
+Additional Notes on the Birds of Laguna Beach
+
+LEON L. GARDNER
+
+
+In accordance with the general plan of the Laguna Marine Laboratory, a
+part of the work was with the birds of the locality.
+
+As mentioned in the First Annual Report of the Laboratory, Laguna
+Lakes, about four miles up Laguna Canyon; Balboa, eight miles up the
+coast, and the surrounding rocky wild hills of Laguna, afford rich and
+varied collecting. Perhaps the richest area of bird life lies between
+Laguna and Balboa, in the Irvine Ranch. This is a large tract of land
+comprising many thousands of acres, extending about seven miles up the
+coast from Laguna and eleven miles inland. The canyons here are steep
+and, in some localities, very wooded in contrast to the more open
+canyons farther down the coast. For years this land has been given
+over to cattle grazing, and the Irvine company, in order to safeguard
+the stock, have allowed no one, except their own range riders, to
+enter the property. In the years 1911 and 1912 this was a state game
+preserve, and there is considerable rumor among local residents that it
+was stocked with some kind of pheasants. However, I have neither seen
+nor heard of a specimen taken. In all events, the protection afforded
+the birds has been taken advantage of, and quail, road-runners, many
+species of hawks and all of the smaller birds thrive in abundance and
+safety.
+
+The fifteen days of collecting were spent largely in covering as large
+an area as possible, to obtain the widest range of representative
+species, with field notes, etc., to be placed in the Laboratory
+building, as a nucleus for greater collections and for the benefit of
+the local residents or summer visitors who are interested in the work
+of the College.
+
+The additions to the first list, published in the First Annual Report,
+as mentioned before, are as follows:
+
+
+_Gavia immer_ (Brünnich) Common Loon
+
+A specimen taken in Balboa Bay, July 6, 1914. This is rather an unusual
+record, as the Loon is only a winter visitant; however, some are known
+to remain throughout the summer. Mr. Swarth tells me that this specimen
+had lost the power of flight during its molt. He thinks this seems to
+indicate that Loons lose the ability to fly during molting, as do the
+Anseres.
+
+
+_Gavia pacifica_ (Lawrence.) Pacific Loon
+
+June 27, I found a dead Pacific Loon cast up on the beach. The specimen
+was in very worn and oddly colored plumage. On examination Mr. Swarth
+said it was a partial albino and had skipped a regular molt.
+
+
+_Larus heermanni_ Cassin. Heermann Gull
+
+Abundant about the Bay at Balboa.
+
+
+_Mergus serrator_ Linn. Red-breasted Merganser
+
+A female taken July 6, 1914. This is a very late record for this bird,
+since it leaves mostly in April. It was found resting on a sand spit in
+Balboa Bay.
+
+
+_Oidemia perspicillata_ (Linn.) Surf Scoter
+
+Common along the coast from Laguna to Balboa.
+
+
+_Oidemia deglandi_ Bonaparte. White-winged Scoter
+
+Occurring with the preceding species.
+
+
+_Erismatura jamaicensis_ (Gmelin). Ruddy Duck
+
+Occurring at the tule lake in Laguna Canyon.
+
+
+_Himantopus mexicanus_ (Müller). Black-necked Stilt
+
+One taken at Laguna Lakes, now mounted and in possession of J. N. Isch,
+Laguna Beach.
+
+
+_Macrorhamphus griseus scolopaceus_ (Say)
+
+Long-billed Dowitcher
+
+A specimen taken on the sand spits in Balboa Bay, July 6, 1914. This
+appears to be an early fall migration record.
+
+
+_Catoptrophorus semipalmatus inornatus_ (Brewster)
+
+Western Willet.
+
+Abundant in August, less common in July. Often in company with
+Hudsonian curlews (_Numenius hudsonicus_) along the coast. One taken as
+early as July 6.
+
+
+_Heteractitis incanus_ (Gmelin). Wandering Tattler
+
+Found in August along the rocky coast by Arch Beach (down the coast
+from Laguna).
+
+
+_Actitis macularius_ (Linn). Spotted Sandpiper
+
+Common along the beach in August.
+
+
+_Ægialitis semipalmata_ (Bonaparte). Semipalmated Plover
+
+A small flock found at Balboa July 13.
+
+
+_Ægialitis novisa_ Cassin. Snowy Plover
+
+One taken between Laguna and Balboa.
+
+
+_Buteo borealis calurus_ Cassin. Western Red-tail
+
+Fairly common in the hills. There seemed to be several different
+species of hawks at Laguna, but as they were very shy and most of them
+took refuge in the forbidden territory of the Irvine Ranch, none of the
+larger ones were obtained.
+
+
+_Haliætus leucocephalus leucocephalus_ (Linn.) Bald Eagle.
+
+There are five Bald Eagles that are commonly seen along the beach near
+Laguna. When followed, they are always found to come to rest on the
+high, rocky west slope of Aliso Canyon (down the coast from Laguna).
+The owner of the canyon, Mr. Joe Thurston, tells me that for years a
+pair has bred there, and these other three are young that did not leave
+the vicinity. He is very jealous of their safety, and it is to be hoped
+they may always be kept there as a natural attraction. This is one of
+the few breeding points along the coast from which the Bald Eagle has
+not been driven. In March, 1895, Mr. E. Davis took two fresh eggs of
+the Bald Eagle near Laguna Beach. It would be very interesting to know
+whether or not he obtained them from the same canyon; if so, this must
+be a very old breeding place.
+
+
+_Pandion haliætus carolinensis_ (Gmelin). Osprey
+
+One shot from a flagstaff in the center of town. The date is uncertain,
+but appears to be about 1905. The specimen is now mounted and in the
+possession of Mr. J. N. Isch of Laguna.
+
+
+_Otus asio bendirei_ (Brewster). California Screech Owl
+
+Fairly common in the timbered canyons.
+
+
+_Speotyto cunicularia hypogaea_ (Bonaparte). Burrowing Owl
+
+Common in upper Aliso Canyon, which is more open and very hot and arid.
+
+
+_Ceryle alcyon_ (Linn.) Belted Kingfisher
+
+I noted two birds which were undoubtedly of this species along a rocky
+stretch of the coast, but was unable to collect one.
+
+
+_Melanerpes formicivorus bairdi_ Ridgway. California Woodpecker
+
+I obtained two specimens of this species from a flock in Nigger Canyon.
+This seems to be a very low altitude at which to find these birds.
+
+
+_Myiochanes richardsoni richardsoni_ (Swainson).
+
+Western Wood Pewee
+
+I collected two of this species in the willow bottoms July 25, 1912,
+which seems to be an indication that they are summer residents.
+
+
+_Corvus corax sinuatus_ Wagler. Raven
+
+Irregular along the coast. One collected July 19.
+
+
+_Astraglinus tristis salicamans_ (Grinnell). Willow Goldfinch
+
+Common in the willow bottoms.
+
+
+_Ammodramus savannarum bimaculatus_ Swainson
+
+Western Grasshopper Sparrow
+
+Very common in one particular grassy glade at the top of the ridge
+around Laguna, also at the tule lakes. I took a young bird June 27,
+which seems to indicate the birds were breeding there. This is one of
+the few breeding records for Southern California.
+
+
+_Hirundo erythrogastra_ Boddaert. Barn Swallow
+
+Common along the rocky cliffs; some breeding in July.
+
+This concludes the additional list. There is one other breeding record
+worthy of note. In Nigger Canyon (Irvine Ranch) there is a Great Blue
+Heron nesting colony. Although such colonies were at one time common
+along the coast, they are now becoming rare. The colony is situated
+in a large clump of sycamore trees, in the bottom of the canyon, some
+half mile or more inland. There are about thirty nests, quite white
+with bird lime; the trees and ground also are well covered, showing
+the permanency of the site. On June 26, 1914, I visited the colony
+and found very young birds, but no eggs. The whole place was filled
+with a peculiar stench, while the croakings of the old birds, coupled
+with the frightened squawks of the young, and the invisible, choking
+powder down, made the place quite undesirable. The old birds were very
+bold, but not pugnacious, and while the examination of the nests went
+on retired to nearby trees to watch the proceedings, while the young
+crowded out to the uttermost branches, keeping up a continual racket.
+
+Owing to the protection afforded by the Irvine ranch, the colony has
+thrived and probably will for an indefinite period.
+
+(_Contribution from the Zoological Laboratory of Pomona College._)
+
+
+
+
+A New Dipterous Gall on Stanleya
+
+T. D. A. COCKERELL
+
+
+[Illustration: Figure 1. A, Apical part of wing. B, Male genitalia. C,
+Segment of male antenna.]
+
+[Illustration: Figure 2. A, Breastbone of larva. B, Spines at caudal
+end of larva. C, Skin of larva. D, Gall.]
+
+On June 18, 1914, my wife and I found a hitherto undescribed gall on
+_Stanleya glauca_ Rydberg, a remarkable cruciferous plant growing about
+four miles north of Boulder, Colorado. Thinking to rear the adults,
+the galls were placed in a bottle with some earth and watched for a
+long time, but nothing appeared. Supposing the effort to have been
+unsuccessful, I set the bottle aside; but long after discovered that
+adults had eventually emerged, but had died and were covered with mold.
+I was able to rescue sufficient fragments to make the drawings given
+herewith, which, together with the larval characters, serve very well
+to indicate the genus, with enough of the specific characters for ready
+recognition. The species may be called
+
+
+_Perrisia Stanleyae_ n. sp. (Cecidomyiidæ)
+
+_Gall_: A swollen flower of _Stanleya glauca_, containing many pallid
+larvæ. The sepals are thickened and enlarged.
+
+_Larva_: With the skin strongly verrucose; breastbone of the same
+general type as that of _P. fructicola_ Kieffer; caudal end with strong
+spines.
+
+_Male_: The characteristic genitalia and antennal joint are figured.
+
+
+
+
+Hydroids of Laguna Beach
+
+PROF. A. M. BEAN
+
+PACIFIC UNIVERSITY, FOREST GROVE, OREGON
+
+
+The identification of the hydroids included in this list was undertaken
+while making a general collection of the marine forms of the Laguna
+Beach region. The specimens were taken mostly from the miscellaneous
+shore collections, and there is no claim to exhaustiveness. They were,
+however, examined as fresh material, and nearly always with the living
+polyp still present. There was abundant promise of opportunity for the
+study of ecological and developmental problems, of which I was unable
+at that time to take advantage.
+
+The region covered included a strip of shore line of about two miles
+in extent. Part of this is sandy beach which after a heavy tide would
+often be covered by the laminæ and holdfasts of _Macrocystis_ and other
+kelps, to which hydroids were generally attached. The remainder of the
+shore was rocky and of a remarkably varied conformation, including tide
+pools, deep channels, rock tables, mussel beds, and short stretches of
+sand and pebbly beach. Scarcely any attempt was made at dredging, and
+the shore itself was by no means completely searched.
+
+
+GYMNOBLASTEA
+
+Family PENNARIIDÆ
+
+_Tubularia_ sp.
+
+This single representative of the Gymnoblastea more nearly corresponds
+to the _T. marina_ described by Torrey, '02. It is, however, much
+smaller, the erect branches being scarcely ever as much as 15 mm. in
+length, instead of 30-50 mm. The proximal tentacles are 28 and 29 in
+number, instead of 22-26, described for _T. marina_. There is very
+little appearance of annulation of the stem, and no evidence of the
+"stem increasing in diameter distally." The habitat is also different.
+_T. marina_ is given as growing "between tides on the lee side of rocks
+exposed to the breakers of the open sea." The tubularian in question,
+however, was found only clustered in among the rootlike holdfasts
+of the _Macrocystis_ at a depth of four to six fathoms. Moreover _T.
+marina_ is not reported as occurring farther south than Pacific Grove.
+There seems to be some reason for considering this a new species, but
+further investigation, and perhaps a study of comparative material,
+will be necessary to determine its systematic position.
+
+
+CALYPTOBLASTEA
+
+Family SERTULARIIDÆ
+
+_Sertularella tricuspidata_ (Alder)
+
+_Sertularia furcata_ (Trask)
+
+Both of the above forms were found on the washed-up holdfasts of
+_Macrocystis_.
+
+
+Family PLUMULARIIDÆ
+
+_Aglaophenia inconspicua_ (Torrey '02)
+
+Torrey's description gives "hydrocladia 3-4 mm. long." Out of a large
+number examined, however, I found none with hydrocladia more than 1.5
+mm.
+
+
+_Aglaophenia struthionides_ (Murray)
+
+Both _A. inconspicua_ and _A. struthionides_ were taken from the red
+algæ brought in by the tides.
+
+
+_Plumularia setacea_ (Ellis)
+
+This form appears to have a wide variation in its bathymetric
+distribution. Specimens were collected from the mussels which are
+uncovered at mid-tide, and from the carapace of _Loxorhynchus grandis_,
+a deep-sea crab that is only rarely brought to shore by the highest
+tides.
+
+
+_Plumularia lagenifera_ (Allman)
+
+Found on kelp holdfasts.
+
+
+_Antenella avalonia_ (Torrey)
+
+Taken in tow-net from floating red algæ.
+
+
+Family CAMPANULARIIDÆ
+
+Mention may be made here of one of the Campanulariidæ recently sent me
+by Professor Hilton of Pomona College, to whom thanks are due for many
+courtesies. It does not appear to be any species yet reported from this
+coast. Its identification, or at least an adequate description, must,
+however, be postponed for a future paper.
+
+
+
+
+Summer School at Laguna Beach
+
+
+[Illustration: LAGUNA LABORATORY]
+
+During the six weeks of summer school of the past season (1914) there
+were in attendance about thirty students and investigators, some of
+whom remained until the middle of September. In addition to these there
+were several hundred visitors to the aquarium and laboratory, in spite
+of the bad condition of the roads. After the middle of the summer
+running salt water was piped to the laboratories and aquaria, so that
+it was much easier to keep specimens alive. Yet even before this many
+interesting forms were on exhibition. At all times there were numerous
+marine animals for study, as well as many living land species, such
+as tarantulas, lizards, frogs, a large turtle and a number of snakes.
+Several rattlesnakes were kept in a box in the front of the building
+until the end of the summer. Several of the largest rattlesnakes were
+an unending source of interest. One day several people were able to
+observe a king snake swallow a slightly smaller rattler.
+
+[Illustration: IN LAGUNA CANYON]
+
+[Illustration: SHORE NEAR SEAL ROCKS]
+
+From day to day a varied display of marine forms was to be found in
+the aquarium; at different times rare and curious fish, starfish, sea
+urchins and devilfish, while now and then some of the larger specimens,
+such as sharks and rays, were brought in. Some of these were kept
+alive in the large cement floor tank or in the larger jars. Great
+quantities of smaller specimens were no less interesting, such as sea
+spiders, serpent stars of many beautiful colors and markings, brilliant
+nudibranchs, large abalones, curious small crabs and, in fact, all the
+interesting or beautiful specimens that could be found.
+
+[Illustration: A COVE ABOVE LAGUNA]
+
+[Illustration: A VIEW FROM ONE OF THE SHORE CAVES]
+
+[Illustration: SEAL ROCKS IN THE DISTANCE]
+
+Each week, until September, the public was also invited to attend the
+evening lectures. These were usually of a general nature relating to
+the life of the sea, but some told of land forms as well, and one was
+on the Hopi Indian Snake Dance.
+
+[Illustration: SHORE NEAR EMERALD BAY]
+
+The chief work of the laboratory during the first six weeks was in
+connection with the Summer School. There was a class of nine in General
+Biology, twelve in General Zoology, and five in General Entomology.
+There were, in addition, from six to twelve doing special work for a
+longer or shorter period. Students from three Pacific coast colleges
+were in attendance, although most of the students and advanced workers
+were from Pomona College. Two or three studied special Histological or
+Embryological topics, but the majority were interested in faunal and
+distributional problems. As announced at an earlier time, the Laguna
+station is but an extension of the Biological part of Pomona College,
+and the plan for special work includes a survey of the whole region
+from the mountains to the sea. With this in mind, many explorations
+have been begun, and the aid of specialists in various fields is
+sought, so that we may first of all know the living forms that inhabit
+this varied and interesting section of California. We hope that a
+better knowledge of the species in the different groups here may lead
+to more extensive observations both by advanced students from the
+College and by others.
+
+[Illustration: THREE ARCHES BELOW LAGUNA]
+
+Together with the special and general work of the students, collections
+of marine and land animals were obtained all through the summer. Some
+of these were for the local collection, others to aid in the work of
+the survey. Among the collections made were many species of sponges,
+hydroids, polyzoans, pycnogonids, marine worms, Crustacea of several
+groups and, in fact, nearly all the shore forms that could be obtained
+between tides or a short distance from shore with a small boat. There
+were also extensive collections of insects and spiders from the hills
+and from up and down the coast.
+
+[Illustration: SAN JUAN CAPISTRANO]
+
+For the study of marine and land animals Laguna has proved itself
+once more well adapted to our uses. The high hills come down near
+the ocean at several points, and there are miles of interesting and
+varied coast line in both directions from the laboratory. All summer,
+students in small or larger parties tramped over the hills and through
+the many interesting canyons to the lakes, to the Mission of San Juan
+Capistrano, or to Balboa and the mud flats. Saturday was the regular
+field day, and the longer tramping trips were then taken, but very
+often of an evening groups of students enjoyed beach suppers or picnics
+in some canyon or up in the hills.
+
+That Laguna and its surroundings is a region of great interest and
+beauty is evinced by the fact that a number of artists make it their
+home, while it is visited by many others. The trail to Balboa, along
+the beach or the cliffs, is wonderfully varied and beautiful, while
+the drive from Laguna to San Juan Capistrano, except for the lack of
+villages and ruins, might well be considered a part of the famous
+Amalfi Sorrento drive in Italy.
+
+During the summer of 1915 courses in general as well as special zoology
+will be given. General entomology may also be studied with advantage.
+For those who are just beginning biological work there may be special
+exercises arranged, as last summer.
+
+There are eight private rooms in the laboratory for special workers.
+Some of these will be available for investigators who may wish to
+follow out problems of their own or those suggested by the work of the
+station. Write
+
+                                             W. A. Hilton, _Director_,
+                                Pomona College, Claremont, California.
+
+
+
+
+Wants and Exchanges
+
+
+Subscribers and others are urged to use these columns to make their
+wants known. As the Journal goes to all parts of the world we hope to
+make this a very useful feature of the publication. Exchange notes are
+free to subscribers.
+
+Wanted--Myriopods from all parts of the world. Will name, exchange
+or purchase. R. V. Chamberlin, Mu. Comp. Zoology, Harvard Univ.,
+Cambridge, Mass.
+
+Will exchange insects of any order from Southern California, for
+Microlepidoptera from any part of North America, preferably pinned,
+with complete data concerning capture. Fordyce Grinnell, Jr., Pasadena,
+Cal.
+
+Coccidæ--California Coccidæ exchanged for specimens from all parts of
+the world. E. O. Essig, Secretary State Commission of Horticulture,
+Sacramento, Cal.
+
+Wanted--Cephalopods (in alcohol); Chitons (in alcohol or dry); shells
+of West American Mollusca; zoological literature. Offered: West
+American and other molluscan shells; zoological pamphlets, mainly on
+the Mollusca. S. S. Berry, 502 Cajon St., Redlands, California.
+
+California Syrphidæ, Aphididæ to exchange for non-California Syrphidæ.
+W. M. Davidson, Walnut Creek, Cal.
+
+Wanted--For exchange, papers on marine and fresh-water Protozoa. Albert
+L. Barrows, Department of Zoology, University of California, Berkeley,
+Cal.
+
+Wanted--Information on any mite-papers for sale or exchange that have
+an economic bearing. H. V. M. Hall, Room 8, Court House, San Diego, Cal.
+
+Wanted--Specimens and separates relating to the pseudoscorpions, in
+exchange for local species. M. Moles, Claremont, Cal.
+
+Wanted--Literature and determined specimens of Collembola, in exchange
+for local forms and literature. G. Bacon, Claremont, Cal.
+
+Wanted--Determined specimens of Thysanura in exchange for local
+species. R. Gardner, Claremont, Cal.
+
+Wanted--Separates relating to the nervous system and sense organs of
+the invertebrates in exchange for reprints by a number of authors on
+this and other topics relating to the anatomy of invertebrate animals.
+W. A. Hilton, Claremont, Cal.
+
+Tabanidæ from all parts of North America to exchange for Tabanidæ from
+the Western United States and Mexico and Central America. Jas. G. Hine,
+Ohio State University, Columbus, Ohio.
+
+Sarcophagidæ from all parts of the world bought or exchanged, according
+to arrangement. North American material determined. R. R. Parker, Ent.
+Lab., Mass. Agri. College, Amherst, Mass.
+
+
+         ====================================================
+
+       Journal of Entomology and Zoology--_Advertising Section_
+
+         ====================================================
+
+                 Ward's Natural Science Establishment
+
+  Founded 1862                                    Incorporated 1890
+
+
+Natural Science Supplies
+
+  =Mineralogy=: Prepared collections; Blowpipe and Laboratory material;
+  Museum specimens, etc.
+
+  =Geology=: Fossils and Rocks in collections, and Museum specimens;
+  Casts, Models, Charts, etc.
+
+  =Biology=: Systematic collections; Laboratory material for
+  dissection; Museum specimens; Models, Charts, Microscope slides, etc.
+
+  =Birds=: =Mammals=: (Skins and skeletons.)
+
+  =Entomology=: Supplies; Systematic and Economic collections; Museum
+  specimens, etc.
+
+  =Anatomical Models=; =Sponges=; =Corals= and other invertebrates.
+
+  =Catalogues and Price Lists in all departments sent free on request.=
+
+Recent Catalogues and Circulars:
+
+  P. 29.  Microscope Slides.
+  P. 26.  Comparative Osteology.
+  P. 125. Life Histories of Insects.
+  P. 115. Collections of Fossils.
+  P. 116. Museum Cases.
+  P. 127. Histology.
+  P. 137. Botanical Mounts.
+  P. 134. Complete Trilobites.
+  P. 106. Lull Restorations and Models.
+
+We have the largest and most complete stock of any dealer in the world.
+
+
+Fifty Years of Service.
+
+
+Address: =Ward's Natural Science Establishment=, 84-102 College Ave.,
+Rochester, N. Y.
+
+         ====================================================
+
+                      Journal of Economic Biology
+
+      _Edited by Walter E. Collinge, M. Sc., F. L. S., F. E. S._
+
+
+    Contains articles treating of all branches of Economic Biology,
+     Entomology, Parasitology, Mycology, etc. Fully illustrated by
+       lithographic plates and text figures. A few sets of Vols.
+           1-8 still remain, price $5 each. Volume 9, now in
+              course of publication, will consist of four
+                           parts, price $5.
+
+
+
+    _All editorial communications should be addressed to Walter E.
+  Collinge, 8, Newhall Street, Birmingham, and all subscriptions to_
+
+
+
+                       Messrs. Dulau & Co., Ltd.
+
+                  37 Soho Square, London, W., England
+
+         ====================================================
+
+                               GRIFFITH
+
+                              Incubators
+
+                            [Illustration]
+
+         A simple, well constructed bacteriological incubator
+
+         ====================================================
+
+                    Butterfly-Hunting in Many Lands
+
+                      Notes of a Field Naturalist
+
+             By George B. Longstaff, M. A., M. D. (Oxon.),
+
+              late Vice-President Entomological Society,
+                London. To which are added Translations
+                   of Papers by Fritz Müller on the
+                      Scent-Organs of Butterflies
+                       and Moths; with a Note by
+                    E. B. Poulton, D. Sc., F. R. S.
+                      With 16 Plates (7 colored).
+                     8vo, pp. xx+1+728. $7.00 net.
+                          (Postage 22 cents.)
+
+"Interesting descriptions of the general features of the countries
+visited, their history, geography, flora and inhabitants ... will
+appeal as much to those interested in travel as to the naturalist,
+as it is delightful reading.... It is the kind of book that helps
+make naturalists and we can't have too many of them.... The Appendix
+consists of translations of valuable papers by Fritz Müller, and is
+very useful and indispensable for those not understanding the original
+language. There is much to praise and nothing to condemn in the work,
+and it is a valuable addition to the popular works on natural history
+and travel."--Entomological News.
+
+                        =LONGMANS, GREEN & CO.=
+  443 Fourth Ave.                                     New York
+
+         ====================================================
+
+_Gage_----The Microscope
+
+An Introduction to Microscopic Methods and to Histology
+
+  By SIMON HENRY GAGE, Professor of Histology and Embryology Emeritus,
+  Cornell University. Eleventh Edition, 375 pages; 265 Illustrations.
+  Postpaid $2.00.
+
+This work aims to give help to everyone who uses the microscope,
+whether he is a beginner or an advanced worker.
+
+
+_Comstock_----A Manual for the Study of Insects
+
+  By JOHN HENRY COMSTOCK, Professor of Entomology in Cornell
+  University, and ANNA BOTSFORD COMSTOCK, member of the Society of
+  American Wood-Engravers. 8vo. cloth, IX.+701 pages, 797 figures in
+  the text, and six full page plates. Nearly all of the figures were
+  engraved especially for this work. Postpaid $4.07; net $3.75.
+
+This handbook is designed to meet the needs of teachers in the public
+schools and of students in high schools and colleges.
+
+
+_Needham_----General Biology
+
+A book of outlines and practical studies for the general student
+
+  By JAMES G. NEEDHAM, Professor of Limnology and General Biology in
+  Cornell University. Cloth 8vo. XIV.+542 pages; 288 figures, mostly
+  original. Postpaid $2.00.
+
+This book is expressly designed to help the general student obtain a
+comprehensive grasp of the principles of biology.
+
+
+_Comstock_----Handbook of Nature-Study
+
+  By ANNA BOTSFORD COMSTOCK, Lecturer in Nature-Study in Cornell
+  University. Cloth 8vo. XVIII.+938 pages, more than 1,000
+  illustrations. Prices, postpaid: Bound in one volume, $3.65; bound in
+  two volumes, $4.50; Volume I., including Animal Life, $2.25; Volume
+  II., including Plant Life, $2.25. Sample pages sent on application.
+
+A handbook of Nature-Study for teachers and parents, based on the
+Cornell Nature-Study Leaflets, with much additional material and many
+new illustrations.
+
+
+  The Comstock Publishing Company
+  Cornell Heights, Ithaca, N. Y.
+
+         ====================================================
+
+                       Bausch & Lomb Optical Co.
+
+                           154 Sutter Street
+
+                       San Francisco, California
+
+        Factories: Rochester, N. Y. and Frankfort, a/M, Germany
+
+Use a =PROJECTION LANTERN= in your home. Our Model B Balopticon is
+plugged into an ordinary electric circuit, =without= special wiring.
+The Opaque Balopticons actually project, successfully, photos, pages of
+books, diagrams, without needing lantern slides.
+
+We are also the headquarters for Microscopes, Laboratory Apparatus,
+Prism Field Glasses, Biological and Entomological Supplies and
+Engineering Instruments.
+
+Write for catalogs.
+
+         ====================================================
+
+New No. 65 Spencer Microscope
+
+ADVANTAGES
+
+  EXTRA LARGE STAGE, 112 × 108mm.
+  ARM 75mm FROM OPTICAL AXIS.
+  LOW COMPACT CONSTRUCTION.
+  BLACK LACQUERED BODY TUBE.
+  GENUINE VULCANITE COVERED STAGE.
+  IRIS DIAPHRAGM OPERATED BY A KNURLED
+  RING EASY TO REACH.
+  AUTOMATICALLY LUBRICATED FINE ADJUSTMENT
+  BEARINGS.
+  NEW TYPE HANDLE ARM.
+  SYMMETRY OF OUTLINE.
+  BEAUTY OF FINISH.
+  SUPERIOR OPTICS.
+
+IDEAL FOR LABORATORY WORK
+
+Send for Revised Price List for 1914
+
+  Spencer Lens Co.
+  BUFFALO, N. Y.
+
+[Illustration: =No. 65B=
+
+  16mm and 4mm objectives
+  Double nosepiece
+  One eyepiece
+  Cabinet
+
+Discount to schools =$31.50=]
+
+         ====================================================
+
+                          CLASS WORK MATERIAL
+
+             CAN BE PROCURED AT ANY TIME OF THE YEAR FROM
+
+                       C. S. BRIMLEY, Zoologist
+
+                         1135 Newberne Avenue
+
+                       RALEIGH, N. C., U. S. A.
+
+  Twenty-one years' experience      Price List on Application
+
+         ====================================================
+
+                          Entomological News
+
+   A forty-eight page illustrated magazine, published monthly except
+      August and September, devoted to the study of INSECT LIFE.
+            It contains a list of the titles of the current
+            Entomological Literature, and also articles by
+            the leading Entomologists in the United States
+               and Canada. Valuable information for the
+                beginner, the economic entomologist and
+                           the systematist.
+
+    To new subscribers, $1.90; Renewals, $2.00; payable in advance.
+                    Single copies 25 cents. Address
+
+                          ENTOMOLOGICAL NEWS
+                  1900 Race Street, Philadelphia, Pa.
+
+         ====================================================
+
+                   Reichert's Scopes are Good Scopes
+
+                         IS YOUR'S A REICHERT?
+
+         HAVE YOU HEARD OF REICHERT'S FLUORESCENT MICROSCOPE?
+
+                     CIRCULAR ON REQUEST. ADDRESS
+
+                       McCALLA-REICHERT COMPANY
+
+                      REICHERT'S AMERICAN AGENTS
+
+                      623 S. WABASH AVE., CHICAGO
+
+   "_It is better to have BOUGHT Reichert's than to WISH you had._"
+
+         ====================================================
+
+                         THE KNY-SCHEERER CO.
+
+SCIENTIFIC APPARATUS, INSTRUMENTS AND PREPARATIONS, CHEMICALS,
+ANATOMICAL AND BIOLOGICAL MODELS, NATURAL HISTORY SPECIMENS AND
+PREPARATIONS, MUSEUM AND NATURALISTS' SUPPLIES, GLASS JARS, WALL
+CHARTS, LABORATORY SUPPLIES.
+
+                _Illustrated Catalogues on Application_
+
+                     DEPARTMENT OF NATURAL SCIENCE
+
+                           G. LAGAI, Ph. D.
+
+                    404-410 West 27th St., New York
+
+         ====================================================
+
+                       Laguna Marine Laboratory
+
+                          SUMMER SCHOOL 1915
+
+               _The following Courses will be offered_:
+
+  GENERAL BIOLOGY, an introductory course.
+
+  GENERAL ZOOLOGY, a study of the chief animal groups, with special
+  reference to marine forms.
+
+  ENTOMOLOGY, a special study of insects, their structure, life
+  histories and relationships.
+
+In addition to these, special work in microscopic technique,
+embryology, or special zoology may be given to those who are prepared.
+
+Teachers and others are urged to come and spend the Summer with us.
+
+A limited number of private laboratories will be available for special
+investigators.
+
+  For further information address W. A. HILTON, Department of Zoology
+                 Pomona College, Claremont, California
+
+         ====================================================
+
+Pomona College
+
+Located in one of the most healthful and beautiful parts of the west
+coast. The mountains reach an elevation of ten thousand feet within a
+few miles of the college and these with the nearby ocean afford many
+special advantages for the study of things not in books. The college is
+a small one of the New England type with high standards of scholarship.
+A large proportion of the graduates go on with advanced work in the
+large universities. In addition, well-manned departments of music and
+art afford exceptional advantages.
+
+For further information, address
+
+  Secretary of Pomona College
+  Claremont, California
+
+
+
+
+
+Transcriber Note
+
+
+The "Index to Volume VI", lists Entomobryidæ without a page reference.
+This Family may be in a different Number than the current text.
+
+On page 222, the word "pereiod" may be a typo for "pereiopod".
