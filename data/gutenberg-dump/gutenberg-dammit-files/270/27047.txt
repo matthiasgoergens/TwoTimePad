@@ -1,0 +1,548 @@
+[En détail]
+
+Fondé en 1979 à Modène (Italie) par Rodrigo Vergara, Logos est une
+société de traduction offrant des services dans 35 langues en 1997,
+avec 300 traducteurs travaillant sur place et un réseau mondial de
+2.500 traducteurs travaillant en free-lance. Logos traduit en moyenne
+200 textes par jour.
+
+Initiative peu courante à l’époque, Logos décide de mettre tous ses
+outils professionnels en accès libre sur le web. Dans un entretien
+publié dans le quotidien Le Monde du 7 décembre 1997, Rodrigo Vergara
+relate: "Nous voulions que nos traducteurs aient tous accès aux mêmes
+outils de traduction. Nous les avons donc mis à leur disposition sur
+internet, et tant qu’à faire nous avons ouvert le site au public. Cela
+nous a rendus très populaires, nous a fait beaucoup de publicité.
+L’opération a drainé vers nous de nombreux clients, mais aussi nous a
+permis d’étoffer notre réseau de traducteurs grâce aux contacts établis
+à la suite de cette initiative."
+
+Les outils de traduction disponibles sur le web comprennent un
+dictionnaire multilingue de 7,5 millions d’entrées (Logos Dictionary),
+une base de données de 553 glossaires (Linguistic Resources), des
+tables de conjugaison en 17 langues (Conjugation of Verbs), et enfin la
+Wordtheque, une base de données multilingue de 328 millions de termes
+issus de traductions de romans et documents techniques. La recherche
+dans la Wordtheque est possible par langue, mot, auteur ou titre. En
+2007, la Wordtheque, devenue la Logos Library, comprend 710 millions de
+termes, Conjugation of Verbs, devenu l’Universal Conjugator, propose
+des tableaux de conjugaison dans 36 langues, et Linguistic Resources
+offre un point d’accès unique pour 1.215 glossaires.
+
+Quand Logos met ses outils en accès libre en 1997, il ouvre la voie à
+d'autres initiatives.
+
+Le premier dictionnaire de langue française en accès libre est le
+Dictionnaire universel francophone en ligne, qui répertorie 45.000 mots
+et 116.000 définitions tout en présentant "sur un pied d’égalité, le
+français dit "standard" et les mots et expressions en français tel
+qu’on le parle sur les cinq continents". Issu de la collaboration entre
+Hachette et l’AUPELF-UREF (devenu depuis l’AUF - Agence universitaire
+de la francophonie), il correspond à la partie "noms communs" du
+dictionnaire imprimé disponible chez Hachette. L’équivalent pour la
+langue anglaise est le site Merriam-Webster OnLine, qui donne librement
+accès au Collegiate Dictionary et au Collegiate Thesaurus.
+
+En mars 2000, les 20 volumes de l’Oxford English Dictionary sont mis en
+ligne par l’Oxford University Press (OUP). La consultation du site est
+payante. Le dictionnaire bénéficie d’une mise à jour trimestrielle
+d’environ 1.000 entrées nouvelles ou révisées. Deux ans après cette
+première expérience, en mars 2002, l’Oxford University Press met en
+ligne l’Oxford Reference Online, une vaste encyclopédie conçue
+directement pour le web et consultable elle aussi sur abonnement
+payant. Avec 60.000 pages et un million d’entrées, elle représente
+l’équivalent d’une centaine d’ouvrages de référence.
+
+En septembre 2000, l’Office québécois de la langue française (OQLF)
+lance le Grand dictionnaire terminologique (GDT), mis en ligne en
+septembre 2000. Le GDT comprend 3 millions de termes français et
+anglais du vocabulaire industriel, scientifique et commercial, dans 200
+domaines d’activité. Il représente l'équivalent de 3.000 ouvrages de
+référence imprimés. Cette mise en ligne est le résultat d'un
+partenariat entre l'Office québécois de la langue française (OQLF),
+auteur du dictionnaire, et Semantix, société spécialisée dans les
+solutions logicielles linguistiques. Evénement célébré par de nombreux
+linguistes, cette mise en ligne est un succès sans précédent pour un
+dictionnaire. Dès le premier mois, le GDT est consulté par 1,3 million
+de personnes, avec des pointes de 60.000 requêtes quotidiennes. La
+gestion de la base est ensuite assurée par Convera Canada. En février
+2003, les requêtes sont au nombre de 3,5 millions par mois. Une
+nouvelle version du GDT est mise en ligne en mars 2003. Sa gestion est
+désormais assurée par l'OQLF lui-même, et non plus par une société
+prestataire.
+
+Géré par le service de traduction de la Commission européenne,
+Eurodicautom est un dictionnaire multilingue de termes économiques,
+scientifiques, techniques et juridiques, avec une moyenne de 120.000
+consultations quotidiennes. Il permet de combiner entre elles les onze
+langues officielles de l’Union européenne (allemand, anglais, danois,
+espagnol, finnois, français, grec, hollandais, italien, portugais,
+suédois), ainsi que le latin. Fin 2003, Eurodicautom annonce son
+intégration dans une base terminologique plus vaste regroupant les
+bases de plusieurs institutions de l’Union européenne. Cette nouvelle
+base traite non plus douze langues, mais une vingtaine, puisque l’Union
+européenne s’élargit à l’Est et passe de 15 à 25 membres en mai 2004,
+pour atteindre 27 membres en janvier 2007. Cette base terminologique
+voit le jour en mars 2007, sous le nom de IATE (Inter-Active
+Terminology for Europe), avec 1,4 million d’entrées dans 24 langues.
+
+
+
+1997: CONVERGENCE MULTIMEDIA
+
+
+[Résumé]
+
+La convergence multimédia peut être définie comme la convergence des
+secteurs de l’informatique, du téléphone et de la radiotélévision dans
+une industrie de la communication et de la distribution utilisant les
+mêmes autoroutes de l’information. Cette convergence entraîne
+l’unification progressive des secteurs liés à l’information
+(imprimerie, édition, presse, conception graphique, enregistrements
+sonores, films, etc.) suite à l’utilisation des techniques de
+numérisation. La convergence multimédia amène-t-elle des emplois
+nouveaux, comme l’assurent les employeurs, ou bien est-elle source de
+chômage, comme l’affirment les syndicats? Ce sujet est débattu dès 1997
+lors du Colloque sur la convergence multimédia organisé par le Bureau
+international du travail (BIT) à Genève. Si, dans certains secteurs, ce
+phénomène entraîne de nouveaux emplois, par exemple ceux liés à la
+production audiovisuelle, d’autres secteurs sont soumis à
+d’inquiétantes restructurations. La convergence multimédia a de
+nombreux revers, par exemple des contrats précaires pour les salariés,
+l’absence de syndicats pour les télétravailleurs ou le droit d’auteur
+mis à mal pour les auteurs.
+
+
+[En détail]
+
+La numérisation permet de créer, d’enregistrer, de combiner, de
+stocker, de rechercher et de transmettre des textes, des sons et des
+images par des moyens simples et rapides. Des procédés similaires
+permettent le traitement de l’écriture, de la musique et du cinéma
+alors que, par le passé, ce traitement était assuré par des procédés
+différents sur des supports différents (papier pour l’écriture, bande
+magnétique pour la musique, celluloïd pour le cinéma). De plus, des
+secteurs distincts comme l’édition (qui produit des livres) et
+l’industrie musicale (qui produit des disques) travaillent de concert
+pour produire des CD-ROM.
+
+La numérisation accélère considérablement le processus matériel de
+production. Dans la presse, alors qu’auparavant le personnel de
+production devait dactylographier les textes du personnel de rédaction,
+les journalistes envoient désormais directement leurs textes pour mise
+en page. Dans l’édition, le rédacteur, le concepteur artistique et
+l'infographiste travaillent souvent simultanément sur le même ouvrage.
+On assiste progressivement à la convergence de tous les secteurs liés à
+l’information: imprimerie, édition, presse, conception graphique,
+enregistrements sonores, films, radiodiffusion, etc. C'est ce qu'on
+appelle la convergence multimédia. On peut aussi la définir comme la
+convergence de l’informatique, du téléphone, de la radio et de la
+télévision dans une industrie de la communication et de la distribution
+utilisant les mêmes inforoutes.
+
+Si certains secteurs voient l’apparition de nouveaux emplois, par
+exemple ceux liés à la production audiovisuelle, d’autres secteurs sont
+soumis à d’inquiétantes restructurations. La convergence multimédia a
+de nombreux revers, à savoir des contrats occasionnels et précaires
+pour les salariés, l’absence de syndicats pour les télétravailleurs, le
+droit d’auteur souvent mis à mal pour les auteurs, etc. Et, à
+l’exception du droit d’auteur, vu l’enjeu financier qu’il représente,
+il est rare que ces problèmes fassent la Une des journaux.
+
+La convergence multimédia amène-t-elle des emplois nouveaux, comme
+l’assurent les employeurs, ou bien est-elle source de chômage, comme
+l’affirment les syndicats? Ce sujet est débattu dès janvier 1997 lors
+du Colloque sur la convergence multimédia organisé par le Bureau
+international du travail (BIT) à Genève.
+
+Si elle accélère le processus de production, l’automatisation des
+méthodes de travail entraîne une diminution de l’intervention humaine
+et donc un accroissement du chômage. Dans la presse comme dans
+l'édition, la mise en page automatique permet de combiner rédaction et
+composition. Dans les services publicitaires aussi, la conception
+graphique et les tâches commerciales sont maintenant intégrées.
+L’informatique permet à certains professionnels de s’installer à leur
+compte, une solution choisie par 30% des salariés ayant perdu leur
+emploi.
+
+Au Royaume-Uni, les fonctions de correction d'épreuves et de rédaction
+s'effectuent désormais à domicile, le plus souvent par des travailleurs
+qui ont pris le statut d'indépendants par suite de fusions
+d'entreprises, délocalisations ou licenciements. "Or cette forme
+d'emploi tient plus du travail précaire que du travail indépendant, car
+ces personnes n'ont que peu d'autonomie et sont généralement
+tributaires d'une seule maison d'édition", analyse Peter Leisink,
+professeur associé d'études sociales à l'Université d'Utrecht
+(Pays-Bas).
+
+A part quelques cas mis en avant par les organisations d’employeurs, la
+convergence multimédia entraîne des suppressions massives d’emplois.
+Selon Michel Muller, secrétaire général de la FILPAC (Fédération des
+industries du livre, du papier et de la communication), les industries
+graphiques françaises ont perdu 20.000 emplois en dix ans. Entre 1987
+et 1996, les effectifs passent de de 110.000 à 90.000 salariés. Les
+entreprises doivent mettre sur pied des plans sociaux coûteux pour
+favoriser le reclassement des personnes licenciées, en créant des
+emplois souvent artificiels, alors qu’il aurait été préférable de
+financer des études fiables sur la manière d’équilibrer créations et
+suppressions d’emplois quand il était encore temps.
+
+Partout dans le monde, de nombreux postes à faible qualification
+technique sont remplacés par des postes exigeant des qualifications
+techniques élevées. Les personnes peu qualifiées sont licenciées.
+D’autres suivent une formation professionnelle complémentaire, parfois
+auto-financée et prise sur leur temps libre, et cette formation
+professionnelle ne garantit pas pour autant le réemploi.
+
+Directeur du géant des télécommunications AT&T aux Etats-Unis, Walter
+Durling insiste sur le fait que les nouvelles technologies ne
+changeront pas fondamentalement la situation des salariés au sein de
+l'entreprise. L’invention du film n’a pas tué le théâtre et celle de la
+télévision n’a pas fait disparaître le cinéma. Les entreprises
+devraient créer des emplois liés aux nouvelles technologies et les
+proposer à ceux qui sont obligés de quitter d’autres postes devenus
+obsolètes. Des arguments bien théoriques alors que le problème est
+plutôt celui du pourcentage. Combien de créations de postes pour
+combien de licenciements?
+
+De leur côté, les syndicats préconisent la création d’emplois par
+l’investissement, l’innovation, la formation professionnelle aux
+nouvelles technologies, la reconversion des travailleurs dont les
+emplois sont supprimés, des conditions équitables pour les contrats et
+les conventions collectives, la défense du droit d’auteur, une
+meilleure protection des travailleurs dans le secteur artistique et
+enfin la défense des télétravailleurs en tant que travailleurs à part
+entière.
+
+Malgré tous les efforts des syndicats, la situation deviendra-elle
+aussi dramatique que celle décrite dans une note du rapport de ce
+colloque, demandant si "les individus seront forcés de lutter pour
+survivre dans une jungle électronique avec les mécanismes de survie qui
+ont été mis au point au cours des précédentes décennies?"
+
+
+
+1998: GALLICA
+
+
+[Résumé]
+
+Gallica est le secteur numérique de la Bibliothèque nationale de France
+(BnF), mis en ligne en octobre 1997. En 1998, le serveur stocke
+2.500 livres numérisés en mode image complétés par les 250 volumes
+numérisés en mode texte de la base Frantext de l’INaLF (Institut
+national de la langue française). Gallica devient rapidement la plus
+grande bibliothèque numérique francophone du réseau. Pour des raisons
+de coût, les documents sont essentiellement numérisés en mode image. En
+décembre 2006, Gallica propose tous les documents libres de droits du
+fonds numérisé de la BnF, à savoir 90.000 ouvrages numérisés
+(fascicules de presse compris) et 80.000 images couvrant une période
+allant du Moyen-Age au début du 20e siècle, avec plus d'un million de
+consultations par mois. En 2007, Gallica débute la conversion en mode
+texte des livres numérisés en mode image pour favoriser l'accès à leur
+contenu.
+
+
+[En détail]
+
+Secteur numérique de la Bibliothèque nationale de France (BnF), Gallica
+est inauguré en octobre 1997 avec des textes et images du 19e siècle
+francophone, le 19e siècle étant le "siècle de l’édition et de la
+presse moderne, siècle du roman mais aussi des grandes synthèses
+historiques et philosophiques, siècle scientifique et technique"
+(extrait du site web). A l’époque, le serveur stocke 2.500 livres
+numérisés en mode image complétés par les 250 volumes numérisés en mode
+texte de la base Frantext de l’INaLF (Institut national de la langue
+française). Classées par discipline, ces ressources sont complétées par
+une chronologie du 19e siècle et une synthèse sur les grands courants
+en histoire, sciences politiques, droit, économie, littérature,
+philosophie, sciences et histoire des sciences. Le site propose aussi
+un échantillon de la future iconothèque numérique, à savoir le fonds du
+photographe Eugène Atget, une sélection de documents sur l’écrivain
+Pierre Loti, une collection d’images de l’Ecole nationale des ponts et
+chaussées sur les grands travaux liés à la révolution industrielle en
+France, et enfin un choix de livres illustrés de la Bibliothèque du
+Musée de l’Homme.
+
+Gallica se considère moins comme une banque de données numérisées que
+comme un "laboratoire dont l’objet est d’évaluer les conditions d’accès
+et de consultation à distance des documents numériques", lit-on sur le
+site web à la fin de 1997. Le but est d’expérimenter la navigation dans
+ces collections, en permettant aussi bien le libre parcours du
+chercheur ou du curieux que des recherches pointues.
+
+Début 1998, Gallica annonce 100.000 volumes et 300.000 images pour la
+fin 1999, avec un accroissement rapide des collections ensuite. Sur les
+100.000 volumes prévus, qui représenteront 30 millions de pages
+numérisées, plus du tiers concerne le 19e siècle. Quant aux 300.000
+images fixes, la moitié appartient aux départements spécialisés de la
+BnF (Estampes et photographie, Manuscrits, Arts du spectacle, Monnaies
+et médailles, etc.). L’autre moitié provient de collections
+d’établissements publics (musées et bibliothèques, Documentation
+française, Ecole nationale des ponts et chaussées, Institut Pasteur,
+Observatoire de Paris, etc.) ou privés (agences de presse dont Magnum,
+l’Agence France-Presse, Sygma, Rapho, etc.).
+
+En mai 1998, Gallica revoit ses espérances à la baisse et modifie
+quelque peu ses orientations premières. Dans un article du quotidien Le
+Figaro du 3 juin 1998, Jérôme Strazzulla, journaliste, écrit que la BnF
+est "passée d’une espérance universaliste, encyclopédique, à la
+nécessité de choix éditoriaux pointus". Dans le même article, il
+interviewe le président de la BnF, Jean-Pierre Angremy, qui rapporte la
+décision du comité éditorial de Gallica: "Nous avons décidé
+d’abandonner l’idée d’un vaste corpus encyclopédique de cent mille
+livres, auquel on pourrait sans cesse reprocher des trous. Nous nous
+orientons aujourd’hui vers des corpus thématiques, aussi complets que
+possibles, mais plus restreints. (...) Nous cherchons à répondre, en
+priorité, aux demandes des chercheurs et des lecteurs." Le premier
+corpus aurait trait aux voyages en France, avec mise en ligne prévue en
+2000. Ce corpus rassemblerait des textes, estampes et photographies du
+16e siècle à 1920. Les corpus envisagés ensuite auront les thèmes
+suivants: Paris, les voyages en Afrique des origines à 1920, les
+utopies, et les mémoires des Académies des sciences de province.
+
+En 2003, Gallica donne accès à tous les documents libres de droit du
+fonds numérisé de la BnF, à savoir 70.000 ouvrages et 80.000 images
+allant du Moyen-Age au début du 20e siècle. Mais, de l’avis de nombreux
+usagers, les fichiers sont très lourds puisque les livres sont
+numérisés en mode image, et l’accès en est très long. Chose tout aussi
+problématique, la numérisation en mode image n’autorise pas la
+recherche textuelle alors que Gallica se trouve être la plus grande
+bibliothèque numérique francophone en nombre de titres disponibles en
+ligne. Seule une petite collection de livres (1.117 titres en février
+2004) est numérisée en mode texte, celle de la base Frantext de l'ATILF
+(Analyse et traitement informatique de la langue française, le
+laboratoire ayant succédé à l'INaLF), intégrée dans Gallica.
+
+En février 2005, Gallica compte 76.000 ouvrages. A la même date, la BnF
+annonce la mise en ligne prochaine (entre 2006 et 2009) de la presse
+française parue entre 1826 et 1944, à savoir 22 titres représentant 3,5
+millions de pages. Début 2006, les premiers journaux disponibles en
+ligne sont Le Figaro (fondé en 1826), La Croix (fondée en 1883),
+L'Humanité (fondée en 1904) et Le Temps (fondé en 1861 et disparu en
+1942). En décembre 2006, les collections comprennent 90.000 ouvrages
+numérisés (fascicules de presse compris), 80.000 images et des dizaines
+d'heures de ressources sonores. Gallica débute aussi la conversion en
+mode texte des livres numérisés en mode image pour pour favoriser
+l'accès à leur contenu.
+
+
+
+1998: BIBLIOTHECAIRES NUMERIQUES
+
+
+[Résumé]
+
+En 1998, Peter Raggett est sous-directeur (puis directeur) de la
+Bibliothèque centrale de l'OCDE (Organisation de coopération et de
+développement économiques). Il explique en juin 1998: "L’internet offre
+aux chercheurs un stock d’informations considérable. (...) A mon avis,
+les bibliothécaires auront un rôle important à jouer pour améliorer la
+recherche et l’organisation de l’information sur le réseau. Je prévois
+aussi une forte expansion de l’internet pour l’enseignement et la
+recherche. Les bibliothèques seront amenées à créer des bibliothèques
+numériques permettant à un étudiant de suivre un cours proposé par une
+institution à l’autre bout du monde. La tâche du bibliothécaire sera de
+filtrer les informations pour le public. Personnellement, je me vois de
+plus en plus devenir un bibliothécaire virtuel. Je n’aurai pas
+l’occasion de rencontrer les usagers, ils me contacteront plutôt par
+courriel, par téléphone ou par fax, j’effectuerai la recherche et je
+leur enverrai les résultats par voie électronique."
+
+
+[En détail]
+
+Voici deux expériences, relatées par Peter Raggett, sous-directeur de
+la Bibliothèque centrale de l'OCDE, et par Bruno Didier, webmestre de
+la Bibliothèque de l'Institut Pasteur.
+
+
+= Bibliothèque centrale de l'OCDE
+
+Située à Paris, l’OCDE (Organisation de coopération et de développement
+économiques) regroupe trente pays membres. Au noyau d’origine,
+constitué des pays d’Europe de l’Ouest et d’Amérique du Nord, viennent
+s’ajouter le Japon, l’Australie, la Nouvelle-Zélande, la Finlande, le
+Mexique, la République tchèque, la Hongrie, la Pologne et la Corée.
+Réservé aux fonctionnaires de l’organisation, la bibliothèque centrale
+permet la consultation de quelque 60.000 monographies et 2.500
+périodiques imprimés. En ligne depuis 1996, les pages intranet du CDI
+deviennent une source d’information indispensable pour le personnel.
+
+Peter Raggett est sous-directeur (puis directeur) du centre de
+documentation et d’information (CDI) de l’OCDE. "Je dois filtrer
+l’information pour les usagers de la bibliothèque, ce qui signifie que
+je dois bien connaître les sites et les liens qu’ils proposent,
+explique-t-il en juin 1998. J’ai sélectionné plusieurs centaines de
+sites pour en favoriser l’accès à partir de l’intranet de l’OCDE. Cette
+sélection fait partie du bureau de référence virtuel proposé par la
+bibliothèque à l’ensemble du personnel. Outre de nombreux liens, ce
+bureau de référence contient des pages recensant les articles,
+monographies et sites web correspondant aux différents projets de
+recherche en cours à l’OCDE, l’accès en réseau aux CD-ROM et une liste
+mensuelle des nouveaux titres."
+
+Comment voit-il l’avenir de la profession? "L’internet offre aux
+chercheurs un stock d’informations considérable. Le problème pour eux
+est de trouver ce qu’ils cherchent. Jamais auparavant on n’avait senti
+une telle surcharge d’informations, comme on la sent maintenant quand
+on tente de trouver un renseignement sur un sujet précis en utilisant
+les moteurs de recherche disponibles sur l’internet. A mon avis, les
+bibliothécaires auront un rôle important à jouer pour améliorer la
+recherche et l’organisation de l’information sur le réseau. Je prévois
+aussi une forte expansion de l’internet pour l’enseignement et la
+recherche. Les bibliothèques seront amenées à créer des bibliothèques
+numériques permettant à un étudiant de suivre un cours proposé par une
+institution à l’autre bout du monde. La tâche du bibliothécaire sera de
+filtrer les informations pour le public. Personnellement, je me vois de
+plus en plus devenir un bibliothécaire virtuel. Je n’aurai pas
+l’occasion de rencontrer les usagers, ils me contacteront plutôt par
+courriel, par téléphone ou par fax, j’effectuerai la recherche et je
+leur enverrai les résultats par voie électronique."
+
+
+= Bibliothèque de l'Institut Pasteur
+
+En 1999, Bruno Didier est bibliothécaire à l’Institut Pasteur (Paris),
+une fondation privée dont le but est la prévention et le traitement des
+maladies infectieuses par la recherche, l’enseignement et des actions
+de santé publique. Séduit par les perspectives qu’offre le réseau pour
+la recherche documentaire, Bruno Didier crée le site web de la
+bibliothèque en 1996 et devient son webmestre.
+
+"Le site web de la bibliothèque a pour vocation principale de servir la
+communauté pasteurienne, relate-t-il en août 1999. Il est le support
+d’applications devenues indispensables à la fonction documentaire dans
+un organisme de cette taille: bases de données bibliographiques,
+catalogue, commande de documents et bien entendu accès à des
+périodiques en ligne. C’est également une vitrine pour nos différents
+services, en interne mais aussi dans toute la France et à l’étranger.
+Il tient notamment une place importante dans la coopération
+documentaire avec les instituts du réseau Pasteur à travers le monde.
+Enfin j’essaie d’en faire une passerelle adaptée à nos besoins pour la
+découverte et l’utilisation d’internet. (...) Je développe et maintiens
+les pages du serveur, ce qui s’accompagne d’une activité de veille
+régulière. Par ailleurs je suis responsable de la formation des
+usagers, ce qui se ressent dans mes pages. Le web est un excellent
+support pour la formation, et la plupart des réflexions actuelles sur
+la formation des usagers intègrent cet outil."
+
+Son activité professionnelle a changé de manière assez radicale, tout
+comme celle de ses collègues. "C’est à la fois dans nos rapports avec
+l’information et avec les usagers que les changements ont eu lieu,
+explique-t-il. Nous devenons de plus en plus des médiateurs, et
+peut-être un peu moins des conservateurs. Mon activité actuelle est
+typique de cette nouvelle situation: d’une part dégager des chemins
+d’accès rapides à l’information et mettre en place des moyens de
+communication efficaces, d’autre part former les utilisateurs à ces
+nouveaux outils. Je crois que l’avenir de notre métier passe par la
+coopération et l’exploitation des ressources communes. C’est un vieux
+projet certainement, mais finalement c’est la première fois qu’on
+dispose enfin des moyens de le mettre en place."
+
+
+
+1998: WEB MULTILINGUE
+
+
+[Résumé]
+
+De pratiquement anglophone à ses débuts, le web devient multilingue.
+Consultant en marketing internet de produits et services de traduction,
+Randy Hobler écrit en septembre 1998: "Comme l’internet n’a pas de
+frontières nationales, les internautes s’organisent selon d’autres
+critères propres au médium. En termes de multilinguisme, vous avez des
+communautés virtuelles, par exemple ce que j’appelle les "nations des
+langues", tous ces internautes qu’on peut regrouper selon leur langue
+maternelle quel que soit leur lieu géographique. Ainsi la nation de la
+langue espagnole inclut non seulement les internautes d’Espagne et
+d’Amérique latine, mais aussi tous les Hispanophones vivant aux
+Etats-Unis, ou encore ceux qui parlent espagnol au Maroc." Professeur
+d’espagnol en entreprise et traductrice, Maria Victoria Marinetti
+ajoute en août 1999: «Il est très important de pouvoir communiquer en
+différentes langues. Je dirais même que c’est obligatoire, car
+l’information donnée sur le net est à destination du monde entier,
+alors pourquoi ne l’aurions-nous pas dans notre propre langue ou dans
+la langue que nous souhaitons lire? Information mondiale, mais pas de
+vaste choix dans les langues, ce serait contradictoire, pas vrai?»
+
+
+[En détail]
+
+De pratiquement anglophone à ses débuts, le web devient multilingue.
+
+Consultant en marketing internet de produits et services de traduction,
+Randy Hobler écrit en septembre 1998: "Comme l’internet n’a pas de
+frontières nationales, les internautes s’organisent selon d’autres
+critères propres au médium. En termes de multilinguisme, vous avez des
+communautés virtuelles, par exemple ce que j’appelle les "nations des
+langues", tous ces internautes qu’on peut regrouper selon leur langue
+maternelle quel que soit leur lieu géographique. Ainsi la nation de la
+langue espagnole inclut non seulement les internautes d’Espagne et
+d’Amérique latine, mais aussi tous les Hispanophones vivant aux
+Etats-Unis, ou encore ceux qui parlent espagnol au Maroc."
+
+Bruno Didier, webmestre de la Bibliothèque de l’Institut Pasteur, écrit
+en août 1999: "Internet n’est une propriété ni nationale, ni
+linguistique. C’est un vecteur de culture, et le premier support de la
+culture, c’est la langue. Plus il y a de langues représentées dans leur
+diversité, plus il y aura de cultures sur internet. Je ne pense pas
+qu’il faille justement céder à la tentation systématique de traduire
+ses pages dans une langue plus ou moins universelle. Les échanges
+culturels passent par la volonté de se mettre à la portée de celui vers
+qui on souhaite aller. Et cet effort passe par l’appréhension de sa
+langue. Bien entendu c’est très utopique comme propos. Concrètement,
+lorsque je fais de la veille, je peste dès que je rencontre des sites
+norvégiens ou brésiliens sans un minimum d’anglais."
+
+L’anglais reste en effet prépondérant et ceci n’est pas près de
+disparaître. Comme indiqué en janvier 1999 par Marcel Grangier,
+responsable de la section française des services linguistiques centraux
+de l’Administration fédérale suisse, "cette suprématie n’est pas un mal
+en soi, dans la mesure où elle résulte de réalités essentiellement
+statistiques (plus de PC par habitant, plus de locuteurs de cette
+langue, etc.). La riposte n’est pas de "lutter contre l’anglais" et
+encore moins de s’en tenir à des jérémiades, mais de multiplier les
+sites en d’autres langues. Notons qu’en qualité de service de
+traduction, nous préconisons également le multilinguisme des sites
+eux-mêmes. La multiplication des langues présentes sur internet est
+inévitable, et ne peut que bénéficier aux échanges multiculturels."
+
+C'est aussi l'avis de Maria Victoria Marinetti, professeur d’espagnol
+en entreprise et traductrice, qui écrit en août 1999: "Il est très
+important de pouvoir communiquer en différentes langues. Je dirais même
+que c’est obligatoire, car l’information donnée sur le net est à
+destination du monde entier, alors pourquoi ne l’aurions-nous pas dans
+notre propre langue ou dans la langue que nous souhaitons lire?
+Information mondiale, mais pas de vaste choix dans les langues, ce
+serait contradictoire, pas vrai?"
+
+Professeur en technologies de la communication à la Webster University
+de Genève, Henri Slettenhaar insiste également sur la nécessité de
+sites bilingues, dans la langue originale et en anglais. "Les
+communautés locales présentes sur le web devraient en tout premier lieu
+utiliser leur langue pour diffuser des informations, écrit-il en
+décembre 1998. Si elles veulent également présenter ces informations à
+la communauté mondiale, celles-ci doivent être aussi disponibles en
+anglais. Je pense qu’il existe un réel besoin de sites bilingues. (...)
+Mais je suis enchanté qu’il existe maintenant tant de documents
+disponibles dans leur langue originale. Je préfère de beaucoup lire
+l’original avec difficulté plutôt qu’une traduction médiocre."
+
+En août 1999, il ajoute: "A mon avis, il existe deux types de
+recherches sur le web. La première est la recherche globale dans le
+domaine des affaires et de l’information. Pour cela, la langue est
+d’abord l’anglais, avec des versions locales si nécessaire. La seconde,
+ce sont les informations locales de tous ordres dans les endroits les
+plus reculés. Si l’information est à destination d’une ethnie ou d’un
+groupe linguistique, elle doit d’abord être dans la langue de l’ethnie
+ou du groupe, avec peut-être un résumé en anglais."
+
+En été 2000, les usagers non anglophones atteignent puis dépassent la
+barre des 50%. Ce pourcentage continue ensuite d'augmenter, comme le
+montrent les statistiques de la société Global Reach, mises à jour à
+intervalles réguliers. Le nombre d’usagers non anglophones est de 52,5%
+en été 2001, 57% en décembre 2001, 59,8% en avril 2002, 64,4% en
+septembre 2003 (dont 34,9% d’Européens non anglophones et 29,4%
+d’Asiatiques) et 64,2% en mars 2004 (dont 37,9% d’Européens non
+anglophones et 33% d’Asiatiques).
