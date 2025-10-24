@@ -1,0 +1,600 @@
+NEW APPLES
+
+                            IN THE GARDEN
+
+
+                          Some problems are
+                    perfectly predictable--yet not
+                      in the sense that allows a
+                preprogrammed machine to handle them--
+
+
+                           BY KRIS NEVILLE
+
+
+                   Illustrated by George Schelling
+
+
+
+
+
+
+Eddie Hibbs reported for work and was almost immediately called out on
+an emergency. It was the third morning in succession for emergencies.
+
+This time a section of distribution cable had blown in West Los
+Angeles. Blown cable was routine, but each instance merited the
+attention of an assistant underground supervisor.
+
+Eddie climbed down the manhole with the foreman of the maintenance
+crew. There were deep pull marks on the lead sheath above where the
+cable had blown.
+
+"Where'd they get it?" he asked.
+
+"It came in from a job on the East Side."
+
+"Sloppy work," Eddie said. "Water got in the splice?"
+
+"These new guys...." the foreman said.
+
+Eddie fingered the pull marks. "I think she's about shot anyway. How
+much is like this?"
+
+"A couple of hundred feet."
+
+"All this bad?"
+
+"Yep."
+
+Eddie whistled. "About fifteen thousand dollars worth. Well. Cut her
+back to here and make splices. Stand over them while they do it."
+
+"I'll need two men for a week."
+
+"I'll try to find them for you. Send through the paper."
+
+"I can probably find maybe another thousand miles or so that's about
+this bad."
+
+"Don't bother," Eddie said.
+
+That was Eddie's productive work during the morning. With traffic and
+two sections of street torn up by the water people, he did not get
+back to his office until just before lunch. He listened to the Stock
+Market reports while he drove.
+
+He learned that spiraling costs had retarded the modernization program
+of General Electronics and much of their present equipment was
+obsolete in terms of current price factors. He was also told to
+anticipate that declining sales would lead to declining production,
+thereby perpetuating an unfortunate cycle. And finally he was warned
+that General Electronics was an example of the pitfalls involved in
+investing in the so-called High Growth stocks.
+
+Eddie turned off the radio in the parking lot as the closing
+Dow-Jones' report was starting.
+
+During lunch, he succeeded in reading two articles in a six-week-old
+issue of _Electrical World_, the only one of the dozen technical
+journals he found time for now.
+
+At 12:35 word filtered into the department that one of the maintenance
+crew, Ramon Lopez, had been killed. A forty-foot ladder broke while
+atop it Lopez was hosing down a pothead, and he was driven backward
+into the concrete pavement by the high-pressure water.
+
+Eddie tried to identify the man. The name was distantly familiar but
+there was no face to go with it. Finally the face came. He smoked two
+cigarettes in succession. He stubbed the last one out angrily.
+
+"That was a tough one," his supervisor, Forester, said, sitting on the
+side of Eddie's desk. Normally exuberant, he was left melancholy and
+distracted by the accident. "You know the guy?"
+
+"To speak to."
+
+"Good man."
+
+"After I thought about it a little bit," Eddie said, "I remembered he
+was transferring tomorrow. Something like this brings a man up short,
+doesn't it?"
+
+"A hell of a shame. Just a hell of a shame."
+
+They were silent for a minute.
+
+"How was the market this morning?" Forester asked.
+
+"Up again. I didn't catch the closing averages."
+
+"I guess that makes a new high."
+
+"Third straight day," Eddie said.
+
+"Hell of a shame," Forester said.
+
+"Yeah, Lopez was a nice guy."
+
+"Well...." Forester's voice trailed off in embarrassment.
+
+"Yeah, well...."
+
+"I wanted to remind you about the budget meeting."
+
+Eddie glanced at his watch. "Hour and a half?"
+
+"Yeah. You know, I feel like ... never mind. What about the burial
+transformers, you get on it yet?"
+
+"The ones we're running in the water mains for cooling? They're out of
+warranty. None of the local shops can rewind them until the
+manufacturer sends out a field engineer to set them up for the
+encapsulation process."
+
+"How long is that going to take?" Forester asked.
+
+"They tell me several months. Still doesn't leave us with anything.
+The plant says they've fixed the trouble, but between them and the
+rewind shop, they can buck it back and forth forever."
+
+"I guess we'll have to go back to the pad-mounted type."
+
+"People with the Gold Medallion Homes aren't going to like the pads by
+their barbecues."
+
+Forester uncoiled a leg. "Draw up a memorandum on it, will you,
+Eddie?" He stood up. "That thing sure got me today. There's just
+entirely too many of these accidents. A ladder breaking. I don't
+know."
+
+Eddie tried to find something intelligent to say. Finally he said, "It
+was a rough one, all right."
+
+
+
+After Forester left, Eddie picked up, listlessly from the top of the
+stack one of the preliminary reports submitted for his approval.
+
+The report dealt with three thousand capacitors purchased last year
+from an Eastern firm, now bankrupt. The capacitors were beginning to
+leak. Eddie called the electrical laboratory to see what progress was
+being made on the problem.
+
+The supervisor refreshed his memory from the records. He reported: "I
+don't have any adhesive man to work on it. Purchasing has half a dozen
+suppliers lined up--but none have any test data. I don't know when
+we'll get the time. We're on a priority program checking out these
+new, low-cost terminations."
+
+"Can't we certify the adhesive to some AIEE spec or something?" Eddie
+asked.
+
+"I don't know of any for sealing capacitors, Eddie. Not on the
+maintenance end, at least."
+
+"Maybe Purchasing can get a guarantee from one of the suppliers?"
+
+"For the hundred dollars of compound that's involved? What good would
+that do us?"
+
+Eddie thanked him and hung up. He signed the preliminary report.
+
+He turned to the next one.
+
+At 2:30 Forester came by and the two of them made their way between
+the jig-saw projections of maple and mahogany to the Conference Room.
+
+Fourteen men were involved in the conference, all from operating
+departments. They shuffled in over a five minute period, found seats,
+lit cigarettes, talked and joked with one another.
+
+When one of the assistants to the manager came in, they fell silent.
+
+"Gentlemen," he said, "I think I'd better get right to the point
+today. The Construction Program in the Valley has now used up two bond
+issues. The voters aren't going to approve a third one."
+
+He paused for effect then continued briskly:
+
+"I see by the morning's _Times_ that the mayor is appointing a
+watch-dog commission. I guess you all saw it, too. The Department of
+Water and Power of the City of Los Angeles is going to be badly--and I
+mean badly--in the red at the end of the fiscal year.
+
+"We're in hot water.
+
+"We do not seem to be getting through to the operating departments
+regarding the necessity for cost reduction. I have here last month's
+breakdown on the Bunker Hill substation 115 KV installation. Most of
+you have seen it already, I think. I had it sent around. Now--"
+
+The analysis continued for some ten minutes to conclude with an
+explosion:
+
+"We've got to impose a ten per cent across the board cut on operating
+expenses."
+
+One of the listeners, more alert than the rest, asked, "That go for
+salaries?"
+
+"For personnel making more than eight hundred dollars a month it
+does."
+
+There was a moment of shocked silence.
+
+"You can't make that stick," one of the supervisors said. "Half my
+best men will be out tomorrow looking for better offers--and finding
+them, too."
+
+"I'm just passing on what I was told."
+
+The men in the room shuffled and muttered under their breaths.
+
+"O.K., that's the way they want it," one of the supervisors said.
+
+"I've brought along the notices for the affected personnel. Please see
+they're distributed when you leave."
+
+After the meeting, Forester walked with Eddie back to his desk.
+
+"You be in tomorrow, Eddie?"
+
+"I guess I will, Les. I really don't know, yet."
+
+"I'd hate to lose you."
+
+"It's going to make it pretty rough. A man's fixed expenses don't come
+down."
+
+"I'll see what I can do for you, maybe upgrade the classification--"
+
+"Thanks, Les."
+
+Back at his desk, Eddie looked at his watch. Nearly time for the
+Safety Meeting. Lost-time injuries had been climbing for the last four
+months.
+
+While waiting, he signed a sixty-three page preliminary report
+recommending a program for the orderly replacement of all transmission
+and distribution cable installed prior to 1946. It was estimated that
+the savings, in the long run, would total some quarter of a billion
+dollars. The initial expense, however, was astronomical.
+
+After the Safety Meeting, Eddie prepared another memorandum indicating
+the acute need for a better training program and an increase in
+maintenance personnel. Shortage of qualified technicians was chronic.
+
+At four twenty-five, the night supervisor phoned in to say he was
+having engine trouble with his new car and would be delayed until
+about six o'clock. Eddie agreed to wait for him.
+
+Eddie dialed home to let his wife, Lois, know he would be late again.
+A modulated low-frequency note told him the home phone was out of
+order.
+
+Ray Morely, one of the night-shift engineers, came in with coffee.
+"You still here, Eddie?"
+
+"Yeah, until Wheeler makes it. His car's down."
+
+"Market hit a new high."
+
+"Yeah. I guess you heard about the meeting today?"
+
+Ray sipped coffee. "Budget again? I missed the day crew. I got hung up
+in traffic and was a little late."
+
+"A pay cut goes with it, this time."
+
+"You're kidding?"
+
+"Been by your desk yet?"
+
+"No."
+
+"I'm not kidding. Ten per cent for those making above eight hundred."
+
+"Nobody's going to put up with that," Ray said. "We're in an engineering
+shortage. We've got ICBMs rusting in their silos all over the country
+because we can't afford the engineering maintenance--that's how bad it is.
+Everybody'll quit."
+
+"I don't think they'll make it stick. Ramon Lopez, one of the truck
+crew, was killed today hosing down a high-voltage pothead."
+
+"No kidding?"
+
+Eddie told him about the accident.
+
+"That was a rough one to lose, wasn't it?"
+
+The phone rang.
+
+Ray said, "I'll get it."
+
+He listened for a minute and hung up. "There's an outage in the Silver
+Lake Area. The brakes on a bus failed and took out an overhead
+section."
+
+Eddie sat back. "No sense in you going. With work traffic on the
+surface streets until the freeway gets fixed, they won't get the truck
+there until 6:30 or so."
+
+"Right." Ray drank coffee reflectively. "You going looking?"
+
+"I'm an old-timer. I got a lot of seniority. How about you?"
+
+"I got bills. It's going to cost me near a hundred a month--that's a
+steep bite."
+
+"I still think they'll back off."
+
+"They'll have to," Ray said. "If not right now, when the pressure gets
+on. You ask me, we've got them by the short hair." He settled into the
+chair. "I see it as an organic phenomenon. When society gets as
+complex as ours, it has to grow more and more engineers. But there's a
+feedback circuit in effect. The more engineers we grow, the more
+complex society becomes. Each new one creates the need for two more.
+I get a sort of feeling of--I don't know--vitality, I guess, when I
+walk into, say, an automated factory. All that machinery and all that
+electronic gear is like a single cell in a living organism--an
+organism that's growing every day, multiplying like bacteria. And it's
+always sick, and we're the doctors. That's job security. We're riding
+the wave of the future. I don't think they'll make a salary cut
+stick."
+
+"I hope you're right," Eddie said.
+
+
+
+Eddie checked out at 7:15, when the night supervisor finally arrived.
+As he left the building, he noted that a burglar alarm down the street
+had gone off; probably because of a short circuit. The clanking set
+his nerves on edge. Apprehensively he felt a rising wind against his
+cheeks.
+
+At home, he was greeted with a perfunctory kiss at the door.
+
+"Honey," Lois told him, "you took the check book, and I didn't have
+any money."
+
+"Something come up? I'm sorry."
+
+"We're all out of milk. The milk man didn't come today. Their
+homogenizing machinery broke down. I phoned the dairy about nine; and
+then, of course, the phone has been on the blink since about eleven or
+a little before, so I couldn't ask you to bring some home."
+
+"I kept trying to get you."
+
+"I figured you had to work late again, when you weren't here at six,
+and I knew you'd be here when you got here."
+
+Eddie sat down and she sat on the chair arm beside him. "How did it go
+today?"
+
+He started to tell her about the wage cut and Ramon Lopez; but then he
+didn't want to talk about it. "So-so," he said. "There was an outage
+over in the Silver Lake Area just before I left."
+
+"Fixed yet?"
+
+"I doubt it," he said. "Probably a couple of more hours."
+
+"Gee," she said, "when I think of all that meat in the deep
+freezer...."
+
+"I wouldn't stock so much," he said. "I really wouldn't."
+
+She twisted away from him. "Honey. I'm jittery. Something's ... I
+don't know. In the air, I guess."
+
+The wind rattled the windows.
+
+
+
+While Lois was warming dinner, his son came in.
+
+"Hi, Eddie."
+
+"Hi, Larry."
+
+"Eddie, when we gonna get the TV fixed?"
+
+Eddie put down the newspaper. "We just don't have a hundred dollars or
+so right now." He searched for matches on the table by the chair.
+"Lois, oh, Lois, where're the matches?"
+
+She came in. "They were all out Friday at the store, and I keep
+forgetting to lay in a supply. Use my lighter over there."
+
+"About the TV--"
+
+Lois was wiping her hands on the paper towel she had brought with her.
+"Replacement parts are hard to find for the older sets," she said.
+"Anyway. I read today Channel Three finally went off the air. That
+leaves only Two and Seven. And the programs aren't any good, now, are
+they? All those commercials and all?"
+
+"They do use a lot of old stuff I've already seen," the son admitted,
+"but every once in a while there's something new."
+
+"Let's talk about it some other time, Larry, O.K.?" Eddie said. "How's
+that? It's almost your bed-time. Studies done?"
+
+"All but the Library report."
+
+"Well, finish it, and--"
+
+"I got to read the book down there. Two classes assigned it and they
+don't have the copies to let us check out. And I want to ask you about
+something, Eddie."
+
+"Daddy's tired. His dinner's on. Come on, Eddie. I'll set it right
+now. And Larry, you've already eaten...."
+
+
+
+After dinner, Eddie got back to the paper, the evening _Times_. It was
+down to eight pages, mostly advertising. There was a front-page
+editorial reluctantly announcing a price increase.
+
+"They raise the price once more, and we'll just quit taking it," Lois
+said. "You read about the airplane crash in Florida? Wasn't that
+terrible? What do you think caused it?"
+
+"Metal fatigue, probably," Eddie said. "It was a twenty-year-old jet."
+
+"The company said it wasn't that at all."
+
+"They always do," Eddie said.
+
+"I don't guess the payroll check came today or you'd have mentioned
+it."
+
+"Payroll's still all balled up. Somebody pressed a wrong button on the
+new machine and some fifty thousand uncoded cards got scattered all
+over the office."
+
+"Oh, no! What do the poor people, who don't have bank accounts, do?"
+
+"Just wait, like we wait."
+
+"You had a bad day," Lois said. "I can tell."
+
+"No...." Eddie said. "Not really, I guess."
+
+"Still working on Saturday?"
+
+"I guess so. Nothing was said. Maybe it'll get easier after the end of
+the month."
+
+"You said it was all that new construction work in the Valley that's
+making you so shorthanded."
+
+"That's part of it."
+
+"They're not scheduled to finish until ... when, sometime next year,
+isn't it?"
+
+"The end of '81 right now."
+
+"Eddie! Listen to me! I hardly ever see you any more. You're not going
+to have to put in all this overtime for the next two years!"
+
+"Of course not," Eddie said. "Maybe after this month, that's all, and
+the work load will level off."
+
+
+
+Larry, dressed for bed, came in. "Eddie?"
+
+"Your father's tired."
+
+"I want to ask him something."
+
+"What is it, Larry?" Eddie asked.
+
+"Eddie, you know the little culture I was running for science class?
+Something's wrong. Will you look at it?"
+
+"Daddy's...."
+
+"I'll look at it, Lois." Eddie accompanied his son to his son's room.
+
+"What do you think is wrong, Dad?"
+
+"Well, let's see...."
+
+"What is it?" Larry asked. "What made it stop growing?"
+
+Eddie did not answer for a minute. Then: "You start with one or two ...
+well, it's like this, Larry. I'm afraid it's dead. They grow
+exponentially. Figure out how much money you'd have at the end of a month
+if you started with just a penny and doubled your money every day. In just
+a little while, you'd have all the money in the world. Figure it out
+sometime. Things that grow exponentially, they just don't know when to
+quit. And your culture, here, it grew until the environment could no
+longer support it and all at once the food was eaten up and it died."
+
+"I ... see.... Something like that could just grow until it took over
+the whole world, couldn't it?"
+
+Again Eddie was silent for a moment. Then he rumpled his son's hair.
+"That's science fiction, Larry."
+
+
+
+Later, while they were listening to FM, there was a news break
+reporting a fire out of control in South Los Angeles.
+
+"That's near Becky's, I'll bet," she said. "I better phone."
+
+The phone was still out of order.
+
+"I sure feel cut off without a phone."
+
+After an interlude of music, Lois said, "Larry wants to be an
+engineer, now. I guess after what you said, maybe that's a pretty good
+thing."
+
+Eddie looked up from his cigarette. "Why this all of a sudden?"
+
+"One of his teachers told him what you said--there's a growing
+engineering shortage."
+
+"I thought he wanted to be an astronaut."
+
+"You know Larry. That was last week. His teacher said we're not going
+to start up the space program again. It's too expensive. We just don't
+have the technical man-power and materials to spare."
+
+"We are in.... But these kids, young kids they're turning out--they
+aren't getting the education today. And if anything, I sometimes think
+it almost makes our jobs even worse, correcting their mistakes. I
+sometimes wonder where it's all going to stop."
+
+There was more news from the fire front.
+
+Fire fighters were having a very difficult time. Two water mains had
+broken and the pressure was dropping. The fire was reported to have
+been caused by the explosion of a gas main. Rising winds did not
+promise to abate until dawn.
+
+[Illustration]
+
+"I sure wish I could get through to Beck," Lois said. "Oh, I guess I
+told you, did I? Her sister has hypoglycemia, they found out. That's
+why she's been tired all the time."
+
+"Never heard of it."
+
+"Low blood sugar. It's caused by an overactive gland on the pancreas.
+And treatment is just the opposite of what you'd think, too. I'll bet
+you'd never guess. If you increase the amount of sugar in the diet,
+the gland becomes just that much more active to get rid of it and the
+hypoglycemia gets worse. It's what I'll bet you engineers call a
+feedback. Isn't that what you call it? Well ... the way doctors treat
+it is to _reduce_ the amount of sugar you eat. And after a little bit,
+the pancreas gets back its normal function, and the patient gets well.
+I told you you'd never guess!"
+
+After a long time, Eddie said, very softly, "Oh."
+
+
+
+Just after midnight, they went to bed.
+
+"I've been ..." Lois began and then stopped. "I don't know. Jumpy. The
+market was up again today. Another all-time high. Do you think
+there'll be another Crash? Like 'way back in 1929."
+
+She could feel him lying tense beside her in the darkness. "No," he
+said slowly, "I don't think so. I don't think there'll be a Crash."
+
+In spite of the warmth of the room, she could not suppress an
+involuntary shudder whose cause was nameless. Suddenly, she did not
+want to ask any more questions.
+
+The wind was rattling the windows.
