@@ -1,0 +1,2271 @@
+Transcriber Notes
+
+Text emphasis is displayed as _Italics_ and =Bold=. Whole and fractional
+parts of numbers are displayed as 2-1/2.
+
+
+
+
+
+
+                   U. S. DEPARTMENT OF AGRICULTURE.
+
+                       FARMERS' BULLETIN No. 59.
+
+
+
+
+                             BEE KEEPING.
+
+
+                                  BY
+
+
+                         FRANK BENTON, M. S.,
+
+               IN CHARGE OF APICULTURAL INVESTIGATIONS.
+
+
+                     =[Revised, March 1905.]=
+
+
+                            [Illustration]
+
+                              WASHINGTON:
+
+                      GOVERNMENT PRINTING OFFICE.
+
+                                 1905.
+
+
+
+
+                        LETTER OF TRANSMITTAL.
+
+
+
+                   U. S. Department of Agriculture,
+
+                                                  Bureau of Entomology,
+
+                                      _Washington, D. O., March 1905._
+
+Sir: Frequent inquiries from correspondents of the Department
+of Agriculture for information on matters pertaining to the culture
+of bees, and particularly as to the conditions under which one may
+reasonably expect to meet with success in this pursuit, led to the
+preparation of this bulletin in July, 1897. Though designed by the
+author primarily to answer a few of the specific questions which are
+most likely to present themselves to the mind of the inquirer wholly
+unfamiliar with the subject, the aim has been also to introduce in the
+treatment of the various topics information which it is hoped will lead
+many of longer experience into more successful methods than they have
+yet practiced. The stereotype plates of the earlier editions having
+become much worn, necessitating the resetting of the type of the entire
+bulletin, the opportunity has been afforded of inserting several new
+paragraphs and making a few slight changes in the text as heretofore
+published.
+
+                             Respectfully,
+
+                                                          L. O. Howard,
+
+                                                        _Entomologist,_
+
+Hon. James Wilson,
+
+_Secretary of Agriculture,_
+
+
+
+
+                               CONTENTS.
+
+                                                                 Page.
+
+  Locations suited to the keeping of bees                            9
+  The returns to be expected from an apiary                         11
+  Anyone who desires to do so can learn to manipulate bees          13
+  How to avoid stings                                               14
+  What race of bees to choose                                       16
+    Caucasians                                                      16
+    Carniolans                                                      17
+    Italians                                                        17
+    Cyprians                                                        17
+    Cyprio-Carniolans and Cyprio-Caucasians                         18
+    Syrian and Palestine or "Holy-Land" bees                        18
+    German, common black, or brown bees                             18
+  What hive to adopt                                                19
+  Management in swarming                                            21
+    Natural swarming                                                21
+    Artificial swarming                                             22
+      Dividing                                                      22
+      Nucleus system                                                22
+      Shaken or brushed swarms                                      23
+    Prevention of swarming                                          23
+      Dequeening                                                    24
+      Requeening                                                    24
+      Space near entrances                                          25
+      Selection in breeding                                         25
+  Special crops for honey alone not profitable                      26
+    Economic plants and trees for cultivation for honey and pollen  27
+  How to obtain surplus honey and wax                               29
+    Extracted honey                                                 30
+    Comb honey                                                      31
+      Grading and shipping comb honey                               33
+    Production of wax                                               34
+  The wintering of bees                                             35
+    General considerations                                          37
+    Indoor wintering                                                38
+    Outdoor wintering                                               38
+  The risk of loss through disease and enemies                      41
+    Foul brood or bacillus of the hive                              41
+    Bee paralysis                                                   44
+    Insect and other enemies                                        45
+    Robber bees                                                     46
+  Legislation affecting apiarian interests                          47
+  Journals treating of apiculture                                   47
+
+
+
+
+                            ILLUSTRATIONS.
+
+                                                                 Page.
+
+  Fig.  1. The Bingham bee smoker                                   14
+        2. Bee veil                                                 15
+        3. The Porter spring bee escape                             16
+        4. Langstroth hive with two half-depth supers for surplus
+              honey                                                 19
+        5. The Langstroth hive--Dadant-Quinby form--cross section
+              showing construction                                  20
+        6. Quinby closed-end frames                                 20
+        7. The Simmins nonswarming system--single-story hive with
+              supers                                                24
+        8. The Simmins nonswarming system--double-story hive with
+              supers                                                25
+        9. Quinby uncapping knife                                   30
+       10. The automatic reversible honey extractor                 31
+       11. Langstroth hive--super above, holding 28 sections for
+              comb honey                                            32
+       12. Comb honey stored in pound section                       32
+       13. Perforated zinc queen excluder                           33
+       14. Shipping cases for comb honey                            34
+       15. Solar wax-extractor                                      35
+       16. Steam wax-extractor                                      35
+       17. Double-walled hive adapted to outdoor wintering, as
+              well as summer use                                    39
+       18. The American straw hive (Langstroth principle) of
+              Hayek Brothers                                        40
+       19. Colony of bees with newspapers packed between inner and
+              outer cases and brood frames on end for the winter    41
+
+
+
+
+                             BEE KEEPING.
+
+
+
+
+LOCATIONS SUITED TO THE KEEPING OF BEES.
+
+
+It may be safely said that any place where farming, gardening, or fruit
+raising can be successfully followed is adapted to the profitable
+keeping of bees--in a limited way at least, if not extensively. Many
+of these localities will support extensive apiaries. In addition to
+this there are, within the borders of the United States, thousands of
+good locations for the apiarist--forest, prairie, swamp, and mountain
+regions--where agriculture has as yet not gained a foothold, either
+because of remoteness from markets or the uninviting character of soil
+or climate. This pursuit may also be followed in or near towns and, to
+a limited extent, in large cities. It even happens in some instances
+that bees in cities or towns find more abundant pasturage than in
+country locations which are considered fair.
+
+The city of Washington is an example of this, bees located here
+doing better during the spring and summer months than those in the
+surrounding country, owing to the bee pasturage found in the numerous
+gardens and parks and the nectar-yielding shade trees along the
+streets. This is due mainly to the fact that the linden, or basswood,
+which is rarely seen in the country about Washington, has been planted
+extensively in the parks and for miles on both sides of many of the
+streets and avenues of the city.[A] Another source in the city not
+found extensively in the country adjacent is melilot, Bokhara or
+sweet clover (_Melilotus alba_), which has crept into vacant lots and
+neglected corners, and diffuses its agreeable perfume to the delight of
+all city dwellers, whether human or insect. The writer has practiced
+with profit the transportation of nearly a hundred colonies from a
+country apiary 10 miles distant to Washington for the linden and sweet
+clover yield. He has also seen a prosperous apiary kept on the roof
+of a business house in the heart of New York City, and on several
+occasions has visited another apiary of 30 to 40 colonies, which a
+skillful apiarist had located on the roof of his store in the business
+portion of Cincinnati, Ohio, and from which 30 to 40 pounds of honey
+per colony were usually obtained each year.
+
+[A] Several species of lindens are included in these plantings, but
+none yields more than our common American linden, or basswood (_Tilia
+americana_).
+
+Another apiary personally inspected was located directly on the sand
+banks forming the eastern shore of Lake Michigan. These bees were, of
+course, unable to forage westward from the apiary, hence had but half
+"a field." The soil of the area over which the bees ranged was a light
+sand, unproductive for most crops, and the region was little developed
+agriculturally, most of the honey coming from forest trees and from
+shrubs and wild plants growing in old burnings and windfalls, yet 25 to
+30 pounds of excellent honey per colony was the usual surplus obtained.
+At one time the writer had an apiary in the city of Detroit, Mich.,
+where the wide river on one side cut off nearly half of the pasturage,
+yet the bees did will. And again for several years he had an apiary
+containing from 100 to 200 colonies of bees on a very sterile coast
+of the Island of Cyprus, and another nearly as large located but a
+few rods from the seashore on a rocky point of Syria. Both of these
+apiaries were devoted in the main to queen rearing, yet the yield of
+honey was not an unimportant item, especially in the Syrian apiary,
+while in the Cyprus apiary some honey was frequently taken, and it was
+rarely necessary to feed the bees for stores. In the latter case about
+one-fourth of the range was out off by the sea, the bees being located
+at the head of an open bay and a short distance from the shore, while
+the location of the Syrian apiary prevented the bees from securing
+half of the usual range, hence their greater prosperity was due to the
+nature and quantity of the pasturage of their limited range.
+
+It is evident, therefore, that no one similarly located need be
+deterred from keeping bees, provided the nectar-yielding trees and
+plants of the half range are of the right sort and abundant. Moreover,
+regions so rough and sterile or so swampy as to give no encouragement
+to the agriculturist, or even to the stock raiser, will often yield a
+good income to the bee keeper, insignificant and apparently worthless
+herbs and shrubs furnishing forage for the bees. The ability of the
+bees to range over areas inaccessible to other farm stock and to draw
+their sustenance from dense forests when the timber is of the right
+kind, and the freedom which, because of their nature, must be accorded
+them to pasture on whatever natural sources are within their range of 3
+or 4 miles, must be taken into account in estimating the possibilities
+of a locality. It will be found that very few localities exist in our
+country where at least a few colonies of bees may not be kept. Whether
+a large number might be profitably kept in a given locality can be
+decided only by a careful examination as to the honey-producing flora
+within range of the apiary (see pp. 12 and 26-29).
+
+The danger of overstocking a given locality is very frequently
+exaggerated. Each range, it is self-evident, has a limit. The writer
+is, however, fully convinced, after long experience in numerous
+localities and under the most varied circumstances, that three or four
+times as many colonies as are commonly considered sufficient to stock
+a given range may usually be kept with a relative degree of profit.
+But to secure such results sufficient care and close observation have
+too frequently not been given in the selection of bees adapted to the
+locality and conditions. A more frequent failure has been lack of
+proper attention to the individual colonies, particularly as to the
+age and character of the queens in each. The space given for brood
+rearing is often too small, and frequently no care is given to secure
+the proper amount of brood in time to insure a population ready for
+each harvest. Attention to these points would enable great numbers of
+bee keepers who now regard 50 to 100 colonies as fully stocking their
+range to reach several hundreds in a single apiary, with slight or no
+diminution in the average yield per colony.
+
+
+
+
+THE RETURNS TO BE EXPECTED FROM AN APIARY.
+
+
+Although apiculture is extremely fascinating to most people who have a
+taste for the study of nature, requiring, as it does, out-of-door life,
+with enough exercise to be of benefit to one whose main occupation is
+sedentary, the income to be derived from it when rightly followed is a
+consideration which generally has some weight and is often the chief
+factor in leading one to undertake the care of bees. Certainly, where
+large apiaries are planned, the prime object is the material profit,
+for they require much hard labor and great watchfulness, and the
+performance of the work at stated times is imperative, so that in this
+case there is less opportunity than where but a few colonies are kept
+to make a leisurely study of the natural history and habits of these
+interesting insects, because--unless the keeper is willing to forego
+a considerable portion of his profits--his time must necessarily be
+almost wholly taken up in attending to the most apparent wants of his
+charges.
+
+One very naturally supposes that the return from a single hive, or
+several of them, in a given locality, may be taken as a fair index
+of what may be expected each season. Such return, if considered
+average, may serve as a basis on which to reckon, but as so many
+conditions influence it, great differences in actual results-will
+be found to occur in successive seasons. Apiculture, like all other
+branches of agriculture, depends largely upon the natural resources
+of the location, and the favorableness or unfavorableness of any
+particular season, no matter how skillful the management, may make
+great differences in the year's return. The knowledge, skill, industry,
+and promptness of the one who undertakes the care of the apiary have
+likewise much to do with the return. Furthermore, profits are of course
+largely affected by the nature and proximity of the markets.
+
+A moderate estimate for a fairly good locality would be 35 to 40
+pounds of extracted honey or 25 pounds of comb honey per colony. This
+presupposes good wintering and an average season. When two or more of
+the important honey-yielding plants are present in abundance and are
+fairly supplemented by minor miscellaneous honey plants the locality
+may be considered excellent, and an expectation of realizing more than
+the yield mentioned above may be entertained. With extracted honey of
+good quality at its present wholesale price of 6 to 8 cents per pound
+and comb honey at 12 to 14 cents, each hive should under favorable
+circumstances give a gross annual return of $2.50 to $3. From this
+about one-third is to be deducted to cover expenses other than the
+item of labor. These will include the purchase of comb foundation and
+sections, repairs, eventual replacing of hives and implements, and
+the interest on the capital invested. By locating in some section
+particularly favorable to apiculture--that is, near large linden
+forests, with clover fields within range, supplemented by buckwheat;
+or in a section where alfalfa is raised for seed; where mesquite,
+California sages, and wild buckwheat abound; where mangrove, palmettos,
+and titi, or where sourwood, tulip tree, and asters are plentiful--the
+net profits here indicated may frequently be doubled or trebled.
+
+But these favored locations, like all others, are also subject to
+reverses--the result of droughts, great wet, freezes which kill back
+the bee pasturage, etc., and though some years the profits are so much
+larger than those named above as to lend a very roseate hue to the
+outlook for the accumulation of wealth on the part of anyone who can
+possess himself of a hundred or two colonies of bees, the beginner will
+do well to proceed cautiously, bearing in mind that much experience
+is necessary to enable him to turn to the best account seasons below
+the average, while during poor seasons it will take considerable under
+standing of the subject, energetic action, and some sacrifice to tide
+over, without disaster, or at least without such great discouragement
+as to cause neglect and loss of faith in the business. On the whole,
+there should be expected from the raising of bees for any purpose
+whatever only fair pay for one's time, good interest on the money
+invested, and a sufficient margin to cover contingencies. With no
+greater expectations from it than this, and where intelligence directs
+the work, apiculture will be found, in the long run, to rank among the
+best and safest of rural industries.
+
+The value of bees in the pollination of various fruit and seed crops
+is often sufficient reason to warrant the keeping of a small apiary,
+even if circumstances do not favor its management in such a manner
+as to secure the largest possible crops of honey or to insure the
+saving of all swarms. The quality and quantity of many varieties of
+apples, pears, plums, and small fruits depend absolutely upon complete
+cross-pollination. The most active agents in this work are honey bees.
+
+
+
+
+ANYONE WHO DESIRES TO DO SO CAN LEARN TO MANIPULATE BEES.
+
+
+Any person with fairly steady nerves and some patience and courage
+can easily learn to control and manipulate bees. There are, it is
+true, a few exceptional individuals whose systems are particularly
+susceptible to the poison injected by the bee, so much so that serious
+effects follow a single sting. Such cases are, however, very rare. In
+most instances where care is not taken to avoid all stings the system
+eventually becomes accustomed to the poison, so that beyond momentary
+pain a sting causes no inconvenience.
+
+To a certain extent the belief exists that bees have, without apparent
+cause, a violent dislike for some people, while others, without
+any effort, are received into their favor. The latter part of this
+proposition has a better foundation than the first part, for it is the
+actions, rather than any peculiarity of the individual himself, that
+anger the bees.
+
+Bees prefer, of course, not to be disturbed; hence they usually keep
+guards on the lookout for intruders. When visitors approach the hives
+these guards are very apt to fly toward them as if to inquire whether
+harm is intended or not, and should the visitor not inspire them
+with fear by using smoke or some similar means, but should himself
+show fear and nervousness, he will be very likely to arouse their
+suspicions still further, or even to anger them should he strike at
+them or endeavor to dodge their approach. Indeed, one not accustomed
+to the notes of bees is very likely, unconsciously, to dodge his head
+about when a worker buzzes uncomfortably close to his face. It may be
+a movement of but an inch or two, but perhaps a quick jerk, and being
+noticed by the suspicious guard is resented; a sting follows, and yet
+the recipient declares that he did nothing to cause the attack, but
+that bees merely hate him and always sting him when he approaches them.
+On the other hand, an equally unprotected person who moves about with
+deliberation may generally, under the same circumstances, be let off
+without receiving a sting. It is in this case not so much what he does
+as what he does not do.
+
+It is not to be understood that bees will always refrain from stinging
+if one remains somewhat passive in the vicinity of their hives, for the
+fact is that at some seasons common black bees and crosses having blood
+of this race fly some distance to attack passers-by, or even, without
+just provocation and with but slight warning, to plant a sting in the
+face of one who is standing near the apiary. But as the avoidance of
+such unpleasant occurrences depends largely upon the kind of bees kept,
+and, to a certain extent, upon an acquaintance with a few facts with
+which anyone of intelligence may easily familiarize himself, and the
+observance of certain precautions which are quite simple and after a
+little practice will become easy, and as the opening and manipulation
+of hives in securing honey, etc., is equally simple and attended with
+no greater risks, it is safe to say that almost anyone can, with
+perseverance and the exercise of due caution, learn to manipulate bees
+with perfect freedom and without serious risk of being stung.
+
+
+
+
+HOW TO AVOID STINGS.
+
+
+Stings can be avoided, first, by having gentle bees. If no other
+point of superiority over the common brown or black bee than that of
+gentleness could be fairly claimed for some of the races introduced and
+some of the strains developed in recent years, it would still be worth
+while to get them on this account alone. When the fact of superiority
+in several other important points is considered also, there should
+be no further question as to the advisability of procuring them in
+preference to the common variety. The beginner is advised never to
+think of doing otherwise. No one likes stings, and even the veteran
+who affects insensibility to the wrath of his charges will find his
+interest and pleasure in them much increased by replacing blacks and
+their crosses with better varieties. Nor is this merely to gratify a
+fancy or for convenience alone. If, by reason of the stinging qualities
+of the bees kept, an examination for the purpose of ascertaining the
+condition of a colony of bees becomes a disagreeable task to the one
+who cares for the apiary, little things necessary to the welfare of the
+colonies will be postponed or omitted altogether and the apiary will
+soon present a neglected appearance, and the actual profits will be
+affected.
+
+[Illustration: Fig. 1.--The Bingham bee smoker.]
+
+Of the races already in general cultivation, Carniolans are the
+gentlest, although Caucasians, more recently introduced from
+south-eastern Russia and only now being put on sale, are by far the
+least inclined to sting of any bees, and may be handled at all times
+without resorting to the protection of a bee veil, and generally
+without smoke, or at most a very slight application of smoke. Some
+strains of Italians equal in gentleness average Carniolans, but in
+general the race native to Italy is by no means as gentle as that found
+in Carniola, Austria, and the Caucasians are much to be preferred for
+the beginner. In case these gentler races are not easily procurable
+he need not hesitate, however, to undertake, after adopting due
+precautions, the manipulation of pure Italians.
+
+In crossing well-established breeds the males of a gentle race should
+be used, otherwise the workers of the cross may vary greatly in temper,
+especially in the first few generations. Only careful selection
+continued for some time will so fix the desirable traits as to result
+in their reproduction with a fair degree of certainty in the offspring.
+Bees having the blood of blacks and Italians are nearly always quite
+vicious in the case of the first cross, and are even harder to subdue
+with smoke than are pure blacks. Other races need not be considered
+here, as they are adapted to special purposes; and the skill of the
+bee-master, the conditions of climate, flora, etc., and the particular
+line of production to be followed, should decide whether their
+introduction is advisable or not.[B]
+
+[B] For a fuller discussion of this subject, see "The Honey Bee: A
+Manual of Instruction in Apiculture," by Frank Benton, M. S., Bulletin
+No. 1, new series, Bureau of Entomology, U. S. Dept. of Agriculture,
+third edition, 1899, Chap. I, pp. 11-18.
+
+The second essential to enable one to avoid stings is to have a good
+smoker at hand whenever the bees are to be handled. Any way of getting
+smoke of any kind into the hive and about it may answer the purpose,
+but for ease and effectiveness in keeping bees under control nothing
+will take the place of the modern bellows smoker (fig. 1). A good one
+lasts years, and its cost is so slight ($1 to $1.25 for the medium
+sizes) that the expenditure may be considered one of the wisest that
+can be made in fitting up an apiary.
+
+[Illustration: Fig. 2.--Bee veil.]
+
+A veil (fig. 2), made of black bobinet or Brussels net, to draw over
+the hat, and a pair of gloves, preferably of rubber, may be used at
+first. But whoever has fairly peaceable bees and learns even a little
+about their ways will soon discard the gloves, unless, indeed, he
+be exceedingly timid, or one of those to whom a bee sting would be
+a dreadful affliction. The veil can be safely dispensed with if the
+gentlest bees are kept.
+
+Simple and convenient hives, employing the Langstroth principle, and
+with stories and frames interchangeable and so constructed as to reduce
+propolization to a minimum and to insure straight combs, will much
+facilitate the avoidance of stings.
+
+The use of the bee escape (fig. 3) in removing surplus honey greatly
+reduces the risk of being stung during this operation, for it saves
+much manipulation of combs and shaking and brushing of bees. This
+useful device is fitted into a slot made in a board the same size as
+the top of the hive, and the whole, when slipped in between the brood
+apartment and an upper story or super, will permit all of the workers
+above to go down into the lower story but not to return to the top
+above to go down into the lower story, but not to return to the top
+one, so that in one night it is possible to free entirely a set of
+combs from bees without any manipulation of the combs, and without
+smoking, shaking, or brushing the bees.
+
+[Illustration: Fig. 3.--The Porter spring bee escape.]
+
+Lastly, reasonable care in manipulation and a suitable system of
+management, which, of course, implies the doing of work in proper
+season, will, with the observance of the foregoing points, make the
+risk of stings exceedingly slight. Indeed, intelligent attention to the
+most important of the points mentioned above, with extra gentleness and
+moderation in manipulation, will enable anyone who so desires to avoid
+all stings.
+
+
+
+
+WHAT RACE OF BEES TO CHOOSE.
+
+
+Reference has already been made to the relative gentleness of the
+various races, and since the gentler types are themselves excellent
+honey gatherers, and the particular advantages to be derived from
+some of the more energetic races which do not happen to be so mild
+in temperament are not likely to be secured by the beginner who is
+unfamiliar with the most approved methods of manipulation of such
+bees, it is strongly recommended that only the gentle ones be at first
+adopted--either Caucasians, Carniolans, or Italians. Should full
+colonies of these not be obtainable near home, colonies of ordinary
+bees may be changed by replacing their queens with queens of the
+desired race, the latter having been procured in small boxes by mail.
+If possible the introduction had better be made by an expert, although
+in general, by following the instructions which accompany the new
+queen, success will also be attained by the beginner.
+
+A brief summary of the leading traits of the various races now in this
+country will be of use in guiding the purchaser, as well as instructive
+to him for reference.
+
+=Caucasians= are natives of that portion of Russia lying between
+the Black and Caspian seas, are exceedingly gentle, good workers, good
+defenders of their hives, prolific, build many queen cells, and swarm
+often if confined to small hives. The workers are dark leaden gray in
+their general color, and present quite a ringed appearance because
+of the alternation of this dark color with the lighter fuzz which
+edges the segments of the abdomen. They also show frequently one to
+two yellow or leather-colored bands, are somewhat smaller bodied than
+Italians or Carniolans, have good wing-expanse, and hence are nimble
+flyers. The drones are rather small and quite dark in color; queens not
+large, and vary in color from a coppery-yellow to a dark bronze.
+
+=Carniolans= are much larger bodied and somewhat lighter gray in
+color than the Caucasians, but show likewise in many instances one
+or two rusty or dark-red bands. Their great hardiness and excellent
+wing-power enable them to fly freely in much cooler weather than some
+other races stand, and to regain their hive entrances under adverse
+conditions. They are prolific, active, and good honey gatherers,
+producing combs of snowy whiteness. As in the case of the Caucasians,
+their prolificness causes them to fill small hives to overflowing with
+bees, and this naturally results in numerous swarms. It is therefore
+advisable to use hives containing ten to twelve frames in the brood
+chamber. The nature of the Carniolans is essentially a quiet one, so
+that upon the approach of cold weather they settle down in a very
+compact and extremely quiet cluster, a condition which contributes in
+no small degree to their excellent wintering qualities. The drones are
+the largest of all drones of this species, and are covered with a thick
+coat of gray fuzz. The queens vary from a light color to a very dark
+leather color, the typical queen being, however, dark bronze, large,
+well rounded, strong, and active.
+
+=Italians=, the first of the foreign races to be introduced into
+this country, are much more widely known, and have with reason found
+great favor, since they are industrious, good defenders of their hives,
+and excellent honey gatherers, as well as handsome in appearance, being
+usually evenly marked with three yellow bands across the anterior
+portion of the abdomen. The blood has become so disseminated through
+the apiaries of the country that many hybrid bees having but one to
+two yellow bands are counted as Italians, and their cross disposition,
+derived through the males of the common race, is charged to the
+Italians. Strains of Italians pure in blood have been bred by selection
+in this country until the three yellow bands have become so wide as
+to be nearly or quite joined, and in some instances nearly the whole
+abdomen is yellow. In general, however, as regards gathering powers it
+does not seem that any improvement has been made by this selection, the
+dark or leather-colored Italians proving, all in all, more vigorous,
+gentle, and better honey gatherers, while as regards wintering they are
+also superior. It must be acknowledged, however, that the Italian race
+is slightly inferior in wintering qualities to all of the others which
+have been generally introduced into America.
+
+=Cyprians=, from the island of Cyprus, may be taken as a general
+type with which to compare other eastern races. They are small bodied,
+more slender, in fact, than any of the European races of bees. The
+abdomen is more pointed and shows, when the bees are purely bred, three
+light-colored bands on the upper surface, and considerable yellow on
+the under side. Between the wing attachments on the thorax is a little
+prominence, shaped like a half moon, which is usually quite plainly
+yellow in color. The queens are small bodied, yellow in color, with
+more or less black at the tip of the abdomen. The drones have a heavy
+coat of fuzz on the thorax, and the abdomen presents a mottled yellow
+appearance, being often highly yellow. Cyprians possess longer tongues
+and greater wing-power than other races. This, combined with great
+prolificness and most remarkable activity, renders them the best of
+honey gatherers. In temper, however, they may be regarded as rather
+aggressive, rendering their management by any who are not experts
+extremely difficult. This feature may, however, be largely overcome
+by crossing the queens of this race with the drones of very gentle
+types. In this manner bees are produced that are readily amenable to
+smoke and ordinary methods in manipulation, combined with the excellent
+honey-gathering powers and prolificness of the eastern races.
+
+=Cyprio-Carniolans and Cyprio-Caucasians.=--The author conceived
+the idea in the early eighties that by crossing the Cyprian and
+Carniolan races a type might be developed which would combine the
+excellent traits of both of these. The first matings of Cyprians and
+Carniolans were made by him in 1883 in Carniola itself, thus insuring
+positively the fecundation of the Cyprian queens by Carniolan drones.
+Bees combining the blood of the two races in various proportions have
+since been tested for years in comparison with all other known races,
+with the result that the cross mentioned above has been found to exceed
+all of the pure races in honey-gathering powers, owing undoubtedly
+to the combination of great energy, hardiness, prolificness, and
+wing-power, as well as greater length of tongue--a fact established by
+actual measurements. Similar results, with even greater gentleness,
+may be expected from the cross obtained between Cyprian queens and
+Caucasian drones.
+
+=Syrian and Palestine or "Holy-Land" bees.=--What has been
+said of Cyprians may be taken to apply in a general sense to Syrian
+and Palestine bees, except that in these the good qualities are
+slightly less prominent, while some of the bad ones of the Cyprians
+are accentuated. No separate description of these is, therefore,
+particularly necessary in this place.
+
+=German, Common Black, or Brown bees.=--The bees commonly found
+wild, and cultivated to a greater or less extent, in this country,
+and known under the above name, are probably derived from early
+introductions from the Old World. In comparison with the races above
+enumerated, they may be said to be inferior, since they possess the
+least energy in honey collecting, are less prolific, and not as good
+defenders of their hives. Under favorable conditions, however, as
+regards pasturage they may be relied upon for excellent results. They
+are, however, spiteful under manipulation, and have the disagreeable
+habit of running from the combs and dropping in bunches on the ground,
+likewise of flying from the hive entrance and attacking passers-by.
+They are more easily discouraged than other bees during slack times as
+regards honey production, and this is doubtless the main reason for
+their generally inferior economic value.
+
+
+
+
+WHAT HIVE TO ADOPT.
+
+
+The suspended Langstroth frame is used more than any other frame among
+English-speaking bee keepers. It is safe to say that in the United
+States 500 hives are made and used which are essentially Langstroth in
+principle to one frame hive of any other kind whatever. In the British
+Islands, Australia, and New Zealand the proportion of frames on the
+Langstroth principle in use is probably even greater, scarcely any
+other frame hives being employed.
+
+The success of American bee culture in the last twenty years was first
+attributed by European bee keepers to the honey-producing power of
+the country; but the most intelligent apiarists who have tried the
+American methods with the Langstroth hive now recognize that success is
+principally due to the manipulations that it permits. ("The Hive and
+Honey Bee," revised, 1888, page 145.)
+
+We can predict, and without any fear of mistake, that the principles on
+which the Langstroth hive is based will be admitted sooner or later by
+the most progressive bee keepers of the world. ("Revue Internationale
+d'Apiculture" (Switzerland), September, 1885, edited by Edouard
+Bertrand.)
+
+[Illustration: Fig. 4.--Langstroth hive with two half-depth
+supers for surplus honey.]
+
+There being no patent on the Langstroth hive, and accurately made hives
+being obtainable at moderate prices from hive factories in various
+parts of the country, it is taken for granted that the enterprising
+beginner will adopt a simple form embodying this principle--the
+loose-fitting, suspended comb frame--as its main feature. The hive
+should not only be substantially built, but should have accurate
+bee-spaces and a close-fitting, rain-proof cover or roof. Factory-made
+hives, as a rule, best meet these requirements, as both lock joints
+and halved corners can only be made to advantage by machinery, and the
+expert hive builder understands, of course, the absolute necessity of
+great accuracy in bee-spaces, as well as the great desirability of good
+material and workmanship (figs. 4, 5, and 11). Provision should also
+be made for winter protection. (See pages 39-41.)
+
+[Illustration: Fig. 5.--The Langstroth hive--Dadant-Quinby
+form--cross section showing construction.]
+
+For comb honey, hives permitting the insertion in the brood apartment
+of any number of frames up to eight, or frequently up to ten, are most
+in use. In securing extracted honey, those with ten to twelve frames in
+each story are preferable, and as many stories, one above the other,
+are employed as the strength of the colony and a given harvest may
+require. A construction, therefore, which readily admits of expansion
+and of contraction, as occasion demands, is desirable.
+
+Mention should be made of a hive of quite different construction, a
+prominent feature of which is this ease of contraction and expansion.
+It is the last hive which the late M. Quinby gave to the public--the
+Quinby closed-end frame hive (fig. 6). This hive is used with great
+success by certain American bee keepers of long experience and whose
+apiaries are among the largest in the world.
+
+[Illustration: Fig. 6.--Quinby closed-end frames.]
+
+
+
+
+MANAGEMENT IN SWARMING.
+
+
+NATURAL SWARMING.
+
+When a swarm is seen issuing or in the air, the best thing to do is, in
+general, simply to wait a bit. The weather is usually rather warm then,
+and rushing about to get tin pans, dinner gongs, spraying outfits,
+etc., aside from its disagreeableness, may get one so excited and into
+such a perspiration as to unfit him to do with the bees that which is
+likely to be necessary a few minutes later. The bees will probably
+gather in a clump on a tree or bush near the apiary, and however
+formidable getting them into the hive may at first seem, nothing will
+be simpler than shaking them into their new hive, or into a basket or
+box, from which they may be poured in front of the hive, just as one
+would pour out a measure of wheat or beans. If any stick to the basket
+or box, invert it and give a sharp thump with one edge against the
+ground. If the hive has been standing in the shade so that the boards
+composing it are not heated, and if it be now well shaded and plenty of
+ventilation be given above and below, the bees are almost certain to
+take possession at once and begin work actively.
+
+The securing of swarms can be made, however, even simpler than this
+by having the colonies placed several feet apart on a smooth lawn or
+dooryard and clipping one wing of each laying queen so as to prevent
+her flying. The prime or first swarm from each hive is accompanied by
+the old queen, and if she be clipped she will of course fall from the
+alighting board to the ground and may be secured in a cage. The bees
+will circle about a few times and return. Meanwhile the only thing for
+the attendant to do is to replace the parent colony by an empty hive.
+The returning bees will enter the latter and the queen may be allowed
+to go in with them, the cage being placed with its open end directly
+against the entrance to insure this. The swarm is thus made to hive
+itself.
+
+The parent colony removed to a new stand a rod or more away will rarely
+give a second swarm. But to make certain all queen cells except one may
+be cut out four or five days after the issuance of the first swarm.
+At the same time one-third to one-half of the remaining bee's of the
+removed colony may be shaken at the entrance of the hive containing the
+swarm. This reduces the population of the parent colony greatly, but
+the loss is soon made good by the young workers emerging daily, and
+the new queen which will issue from the single queen cell, spared when
+cutting out cells, will soon restock the hive with brood. The shaking
+out of additional bees, coupled with the removal of all queen cells
+but one, will prevent for the time all further swarming from the given
+hive, and in most instances end it for the season. The bees thus added
+to the newly hived swarm, even though too young to enter the field at
+once as honey gatherers, will nevertheless release from inside work an
+equal number of older bees, enabling the latter to go out as field bees.
+
+Each after-swarm (second, third, etc.), it should be borne in mind, is
+accompanied by one or more unimpregnated queens, and these must not be
+clipped until they have flown out and mated. The regular deposition of
+eggs in worker cells may nearly always be regarded as a safe sign that
+mating has taken place. Eggs will usually be found in such cells within
+the first ten days of the queen's life. After-swarms may remain in the
+air, circling about for some time, and they frequently cluster high--a
+good reason, in addition to the more important fact that their issuance
+is not consistent with the production of the most surplus honey, for
+the prevention of all after-swarming.
+
+
+ARTIFICIAL SWARMING.
+
+Where an increase of colonies is desired, and in case no one can
+be near the apiary to care for natural swarms with clipped queens,
+some one of the artificial methods of forming new colonies may be
+advantageously employed. Natural swarming is, however, to be preferred
+to a poor system of artificial increase. And no matter which of the
+artificial methods be adopted, it should be cautiously followed, lest,
+should unfavorable weather appear suddenly, considerable labor and
+expense be incurred to prevent disastrous results. It is also of prime
+importance not to weaken materially the gathering powers of strong
+colonies just at the opening of the harvest or during its progress;
+hence, whatever division takes place then must leave the field
+force--the gatherers--in one mass and in normal condition for work,
+that is, not discouraged by being queenless, and not overburdened by
+having brood without a sufficient number of nurse bees to care for it.
+
+=Dividing.=--A plan which fulfills these conditions is the
+following: From a populous colony a comb or two with adhering bees and
+the queen may be taken and placed in a new hive, which, when other
+frames with starters have been added, is then to be put on the stand of
+the populous colony from which the combs were taken. The removed colony
+is to be taken a rod or more from its old stand, so that the flight
+bees returning from the field will enter the newly established colony.
+The old colony may be given a laying queen or a mature queen cell a day
+or two later This finishes the work in a short time.
+
+=Nucleus system.=--A better plan, though not so quickly completed,
+is to take from the populous colony only enough bees and combs to make
+a fair nucleus on a new stand. A queen is easily and safely introduced
+into this nucleus, or a queen cell is readily accepted a day or two
+later. As soon as the young queen has begun egg laying, combs of
+emerging brood may be added from time to time. These may be obtained
+from any populous colonies whose tendency to swarm it is desirable to
+check, the bees adhering to them when they are removed being in all
+instances brushed back into their own hive. With fair pasturage the
+nucleus will soon be able to build combs and may be given frames of
+comb foundation, or, if the queen be of the current year's raising,
+frames with narrow strips of foundation as guides may be inserted,
+since all combs constructed by the nucleus will be composed of worker
+cells.
+
+=Shaken or brushed swarms.=--The practice of shaking or brushing
+bees from the combs of populous colonies into new hives to form
+artificial or forced swarms has been practiced for many years, to a
+limited extent in this country and more largely abroad. As early,
+at least, as 1872 the late C. J. H. Gravenhorst, the editor of Die
+Illustrierte Bienenzeitung, author of Der Praktische Imker, and
+inventor of the Bogenstuelper hive, made artificial swarms in this
+manner. His articles led the author to experiment in this line and
+finally to settle upon the plan of placing colonies designed for honey
+production in pairs in the apiary and, after having brought them up to
+a suitable strength, shaking or brushing most of the bees of the two
+into a third hive at the approach of the main honey flow, one queen
+being allowed to enter the new hive with the shaken swarm. The latter
+is to be placed on the old stand midway in position between the spots
+previously occupied by the parent colonies, these having been removed
+some distance, to be managed thereafter as colonies that have swarmed.
+The newly shaken swarm is to receive comb foundation starters in the
+frames and within a day or two surplus receptacles for honey. In case,
+however, drawn combs be used in the super, there had better be one or
+two frames in the brood apartment partly filled with completed comb
+to hold the first pollen collected. The shaking or brushing should
+be done toward the latter part of the day and during a time when new
+honey is coming in, or in the absence of the latter liberal feeding
+should precede the shaking and be kept up until the start of the honey
+flow. The shaken swarm is thus brought into quite the same condition
+as usually obtains in the case of a natural swarm. It is able to send
+out a strong gathering force at once and will store honey rapidly. The
+increase of 50 per cent is as large as is consistent with the securing
+of the best honey yield.
+
+
+PREVENTION OF SWARMING.
+
+Under the conditions most frequently occurring, however--that is, where
+it is not practicable to be present at all times during the swarming
+season, or where the desired number of colonies has been attained--a
+system of management is advisable which in general contemplates the
+prevention, in so far as possible, of the issuance of swarms without at
+the same time interfering with honey storing. The paragraphs following
+on this subject are taken from the Department publication "The Honey
+Bee," cited on page 15, footnote:
+
+  The most commonly practiced and easily applied preventive measure
+  is that of giving abundant room for storage of honey. This to be
+  effective should be given early in the season, before the bees get
+  fairly into the swarming notion, and the honey should be removed
+  frequently, unless additional empty combs can be given in the case
+  of colonies managed for extracted honey, while those storing in
+  sections should be given additional supers before those already on
+  are completed. With colonies run for comb honey it is not so easy
+  to keep down swarming as in those run for extracted honey and kept
+  supplied with empty comb. Free ventilation and shading of the hives as
+  soon as warm days come will also tend toward prevention. Opening the
+  hives once or twice weekly and destroying all queen cells that have
+  been commenced will check swarming for a time in many instances, and
+  is a plan which seems very thorough and the most plausible of any to
+  beginners. But sometimes swarms issue without waiting to form cells;
+  it is also very difficult to find all cells without shaking the bees
+  from each comb in succession, an operation which, besides consuming
+  much time, is very laborious when supers have to be removed, and
+  greatly disturbs the labors of the bees. If but one cell is overlooked
+  the colony will still swarm. The plan therefore leaves at best much to
+  be desired, and is in general not worth the effort it costs and can
+  not be depended on.
+
+[Illustration: Fig. 7.--The Simmins nonswarming
+system--single-story hive with supers: _bc_, brood chamber; _sc_,
+supers; _st_, starters of foundation; _e_, entrance.]
+
+  =Dequeening.=--The removal of a queen at the opening of a
+  swarming season interferes, of course, with the plans of the bees,
+  and they will then delay swarming until they get a young queen. Then,
+  if the bee keeper destroys all queen cells before the tenth day,
+  swarming will again be checked. But to prevent swarming by keeping
+  colonies queenless longer than a few days at most is to attain a
+  certain desired result at a disproportionate cost, for the bees will
+  not store diligently when first made queenless, and the whole yield
+  of honey, especially if the flow is extended over some time, or other
+  yields come later in the season, is likely or even nearly sure to
+  be less from such colonies, while the interruption to brood roaring
+  may decimate the colony and prove very disastrous to it. The plan is
+  therefore not to be commended.
+
+  =Requeening.=--Quite the opposite of this, and more efficacious
+  in the prevention of swarming, is the practice of replacing the old
+  queen early in the season with a young one of the same season's
+  raising, produced, perhaps, in the South before it is possible to
+  rear queens in the North. Such queens are not likely to swarm during
+  the first season, and, as they are vigorous layers, the hive will
+  be well populated at all times and thus ready for any harvest. This
+  is important, inasmuch as a flow of honey may come unexpectedly
+  from some plant ordinarily not counted upon; and also, since the
+  conditions essential to the development of the various honey-yielding
+  plants differ greatly, their time and succession of honey yield
+  will also differ with the season the same as the quantity may vary.
+  Young queens are also safest to head the colonies for the winter.
+  The plan is conducive to the highest prosperity of the colonies,
+  and is consistent with the securing of the largest average yield of
+  honey, since, besides giving them vigorous layers, it generally keeps
+  the population together in powerful colonies. It is therefore to be
+  commended on all accounts as being in line with the most progressive
+  management, without at the same time interfering with the application
+  of other preventive measures.
+
+  =Space near entrances.=--Arranging frames with starters, or combs
+  merely begun, between the brood nest and the flight hole of the hive,
+  while the bees are given storing space above or back of the brood nest
+  (figs. 7 and 8), is a plan strongly recommended by Mr. Samuel Simmins,
+  of England, and which has come to be known as "the Simmins nonswarming
+  method," some features of it and the combination into a well-defined
+  method having been original with him. It is an excellent preventive
+  measure, though not invariably successful, even when the distinctive
+  features brought forward prominently by Mr. Simmins--empty space
+  between the brood combs and entrance, together with the employment of
+  drawn combs in the supers--are supplemented by other measures already
+  mentioned; but when, in addition to the space between the brood and
+  the flight hole, the precaution be taken to get supers on in time, to
+  ventilate the hive well, and to keep queens not over two years old,
+  swarming will be very limited. If to these precautions be added that
+  of substituting for the old queens young ones of the current season's
+  raising, before swarming has begun, practical immunity from swarming
+  is generally insured.
+
+  =Selection in breeding.=--Some races of bees show greater
+  inclination than others toward swarming, and the same difference can
+  be noted between individual colonies of a given race; therefore,
+  whatever methods be adopted to prevent or limit increase, no doubt
+  the constant selection of those queens to breed from whose workers
+  show the least tendency toward swarming would in time greatly reduce
+  this disposition. Indeed, it is perfectly consistent to believe that
+  persistent effort, coupled with rigid and intelligent selection, will
+  eventually result in a strain of bees quite as much entitled to be
+  termed nonswarming as certain breeds of fowls which have been produced
+  by artificial selection are to be called nonsitters. These terms are
+  of course only relative, being merely indicative of the possession
+  of a certain disposition in a less degree than that shown by others
+  of the same species. It might never be possible to change the nature
+  of our honeybees so completely that they would never swarm under any
+  circumstances, and even if possible it would take a long period, so
+  strongly implanted seems this instinct. But to modify it is within
+  the reach of any intelligent breeder who will persistently make the
+  effort. Such work should be undertaken in experimental apiaries where
+  its continuance when a single point has been gained will not be
+  affected by the changes of individual fortunes.
+
+[Illustration: Fig. 8.--The Simmins nonswarming
+system--double-story hive with supers: _bc_, brood chamber; _sc_,
+supers; _st_, chamber with starters of comb foundation; _e_, entrance.]
+
+
+
+
+SPECIAL CROPS FOR HONEY ALONE NOT PROFITABLE.
+
+
+With a small apiary, planting for honey alone certainly can not be made
+profitable. Small plats of honey-producing plants are valuable mainly
+because they afford an opportunity of observing when and under what
+circumstances the bees work on certain blossoms, and for the purpose
+of determining what might be depended upon to fill a gap in the honey
+resources of a given locality whenever the size of the apiary might
+make this a consideration of some importance. Even with a large apiary
+probably no case exists in which, in the present condition of the
+subject, planting for honey alone would prove profitable. But when
+selecting crops for cultivation for other purposes, or shrubs and trees
+for planting, the bee keeper should of course choose such as will also
+furnish honey at a time when pasturage for his bees would otherwise be
+wanting.
+
+As complete a list as possible should be made of the plants and
+trees visited by honeybees, and notes should be added as to period
+of blossoming, importance of yield, whether honey or pollen or both
+of these are collected, quality of the product, etc. If gaps occur
+during which no natural forage abounds for the bees, some crop can
+usually be selected which will fill the interval, and, while supplying
+a continuous succession of honey-yielding blossoms for the bees, will
+give in addition a yield of fruit, grain, or forage from the same
+land. The novice is warned, however, not to expect too much from a
+small area. He must remember that as the bees commonly go 2-1/2 to 3
+miles in all directions from the apiary, they thus range over an area
+of 12,000 to 18,000 acres, and if but 1 square foot in 100 produces a
+honey-yielding plant they still have 120 to 180 acres of pasturage, and
+quite likely the equivalent of 30 to 40 acres may be in bloom at one
+time within range of the bees. A few acres more or less at such a time
+will therefore not make a great deal of difference.
+
+But if coming between the principal crops--especially if the bees, as
+is often the case, would otherwise have no pasturage at all--the area
+provided for them may be of greater relative importance than the larger
+area of natural pasturage; for it frequently occurs that the smaller
+part only of the honey produced by the field over which the bees of an
+apiary range can be collected by them before it is washed out by rains,
+or the liquid portion is evaporated and the blossoms withered, while
+a smaller area may be more assiduously visited, and, the nectar being
+gathered as fast as secreted, a greater yield per acre may result.
+
+It is further of some importance to fill in such a gap with something
+to keep the bees busy, instead of letting them spend their time trying
+to rob one another; and, what is probably even more important, the
+pasturage thus furnished will keep up brood rearing and comb building
+and assist materially in preparing the colonies for the succeeding
+honey flow.
+
+There are many plants and trees of economic value, in addition to their
+production of honey, which may be utilized in one portion or another of
+the United States in the manner indicated. Adaptability to climate and
+soil, the periods of honey dearth to be filled in, markets for the crop
+produced, etc., must all come in to influence the choice. The following
+list includes the more important plants of economic value in this
+country which are good honey and pollen yielders. Most of those named
+are adapted to a considerable portion of the Union. Except in the case
+of plants restricted to the South, the dates given are applicable, in
+the main, to middle latitudes.
+
+
+ECONOMIC PLANTS AND TREES FOR CULTIVATION FOR HONEY AND POLLEN.
+
+=Filbert bushes=, useful for wind-breaks and for their nuts, yield
+pollen in February and March.
+
+=Rape= can be grown successfully in the North for pasturage, for
+green manuring, or for seed, and when permitted to blossom yields
+considerable pollen and honey. Winter varieties are sown late in the
+summer or early in the autumn, and blossom in April or May following.
+This early yield forms an excellent stimulus to brood rearing. Summer
+or bird rape, grown chiefly for its seed, blossoms about a month after
+sowing. It does best during the cooler months of the growing season.
+
+=Russian or hairy vetch= is a hardy leguminous plant of great
+value for forage and use in green manuring. The blossoms appear early
+in the season, and, where there is any lack in early pollen, especially
+in northern and cool regions, this vetch will be found of great value
+to the bees.
+
+=Fruit blossoms=--apricot, peach, pear, plum, cherry, apple,
+currant, and gooseberry--yield pollen and honey in abundance during
+April or May; strawberry and blackberry are sometimes visited freely by
+bees, but are generally far less important than the others mentioned.
+Colonies that have wintered well often gather during apple bloom 12 to
+15 pounds of surplus honey of fine quality. The raspberry secretes a
+large amount of nectar of superb quality, and coming in May or June,
+thus later than the other fruit blossoms and when the colonies are
+stronger and the weather is more settled, full advantage can nearly
+always be taken of this yield. Grape and persimmon blossom also in
+June; the latter is an excellent source. In subtropical portions of the
+country orange and lemon trees yield fine honey in March and April, and
+the cultivation of the banana has added a profuse honey yielder which
+puts forth successive blossoms all through the summer months.
+
+=Locust=, =tulip tree= ("poplar," or whitewood), and
+=horse-chestnut=, useful for shade, ornament, and timber, are all
+fine honey producers in May. The locust yields light-colored, clear
+honey of fine quality, the others amber-colored honey of good body and
+fair flavor.
+
+=Clovers.=--Crimson, blossoming in April or May, yields fine,
+light-colored honey; white, alsike, and mammoth or medium, blossoming
+in May, June, and July, give honey of excellent quality and rich yellow
+color.
+
+=Mustard= grown for seed flowers from June to August. The honey is
+somewhat acrid and crystallizes soon, yet the plant, where abundant, is
+of much importance to the bees and the bee keeper in case other forage
+is scant at the time.
+
+=Asparagus= blossoms are much visited by bees in June and July.
+
+=Esparcet=, or =sainfoin=, yields in May and June fine honey,
+almost as clear as spring water. It is a perennial leguminous plant,
+rather hardy, an excellent forage crop, and particularly valuable for
+milch cows. It succeeds best on a limestone soil or when lime is used
+as a fertilizer, and is itself an excellent green manure for soils
+deficient in nitrogen and phosphoric acid.
+
+=Sulla, or sulla clover=, a perennial plant, closely related to
+esparcet or sainfoin, succeeds, like the latter, best upon limestone
+soil or when fertilized with lime. It yields a splendid quality of
+honey from beautiful pink blossoms, which continue during May and
+June. The plant is an excellent soil fertilizer and of great value in
+connection with the feeding of stock, particularly dairy animals. It
+is, however, much less hardy than esparcet, and success with it can
+therefore hardly be looked for above the latitude of North Carolina
+and Arkansas. When the qualities and requirements of this plant
+were brought by the writer to the notice of a prominent scientific
+agriculturist of the South, this gentleman suggested as very probable
+that the black belt of Alabama, Mississippi, Louisiana, and Texas would
+be well adapted to it, the lands of this region being exceedingly
+strong in lime. In portions of southern Europe sulla clover is a most
+important forage crop for farm stock as well as for honey bees.
+
+=Serradella= is an annual leguminous plant which will grow on
+sandy land, and which yields, besides good forage, clear honey of good
+quality in June and July.
+
+=Chestnut=, valuable for timber, ornament, shade, and nuts, yields
+honey and pollen in June or July.
+
+=Linden=, =sourwood=, and =catalpa=, fine shade,
+ornamental, and timber trees, yield great quantities of first quality
+honey in June and July.
+
+=Cotton.=--In the South cotton blossoms, appearing as they do in
+succession during the whole summer, often yield considerable honey. It
+would appear, however, that when the plants are very rank in growth the
+blossoms--being correspondingly large--are too deep for the bees to
+reach the nectar.
+
+=Chicory=, raised for salad and for its roots, is, whenever
+permitted to blossom, eagerly visited for honey in July and August.
+
+=Sweet, medicinal, and pot herbs=, such as marjoram, savory,
+lavender, catnip, balm, sage, thyme, etc., when allowed to blossom,
+nearly all yield honey in June, July, or August. Where fields of them
+are grown for the seed the honey yield may be considerable from this
+source.
+
+=Alfalfa= furnishes in the West a large amount of very fine honey
+during June and July. Its importance there as a forage crop is well
+known, but how far eastward its cultivation may be profitably extended
+is still a question, and even should it prove of value in the East as
+a forage plant, its honey-producing qualities there would be still
+uncertain.
+
+=Parsnips=, when left for seed, blossom freely from June to
+August, inclusive, and are much frequented by honey bees.
+
+=Peppermint=, raised for its foliage, from which oil is distilled,
+is most frequently cut before the bees derive much benefit from it, but
+whenever allowed to blossom it is eagerly sought after by them, and
+yields honey freely during July and August.
+
+=Bokhara=, or =sweet clover=, is in some sections of the
+country considered a valuable forage crop. Animals can be taught to
+like it, and it is very valuable as a restorer of exhausted lime soils,
+while in regions lacking in bee pasturage during the summer months it
+is a very important addition. It withstands drought remarkably well and
+yields a large quantity of fine honey.
+
+=Cucumber=, =squash=, =pumpkin=, and =melon=
+blossoms furnish honey and some pollen to the bees in July and August.
+
+=Eucalypti=, valuable for their timber and as ornaments to lawn
+and roadside, are quick-growing trees adapted to the southern portions
+of the United States. They yield much honey between July and October.
+
+The =carob tree=, whose cultivation has been commenced in the
+Southwest, is an excellent honey yielder in late summer. It is an
+ornamental tree and gives, in addition to honey, another valuable
+product--the carob bean of commerce.
+
+=Sacaline=, a forage and ornamental plant of recent introduction,
+is a great favorite with bees. It blossoms profusely during August,
+is a hardy perennial, and thrives in wet and also fairly in dry
+situations, withstanding the ordinary summer drought of the Eastern
+States because of its deeply penetrating roots.
+
+=Buckwheat= is an important honey and pollen producer. Its
+blossoms appear about four weeks after the seed is sown, hence it may
+be made to fill in a summer dearth of honey plants.
+
+
+
+
+HOW TO OBTAIN SURPLUS HONEY AND WAX.
+
+
+Good wintering, followed by careful conservation of the natural warmth
+of the colony, the presence of a prolific queen--preferably a young
+one--with abundant stores for brood rearing, are, together with the
+prevention, in so far as possible, of swarming, the prime conditions
+necessary to bring a colony of bees to the chief honey flow in shape
+to enable it to take full advantage of the harvest. In addition it is
+only necessary to adjust the surplus honey receptacles in time, making
+the space given proportionate to the strength of the colony, and, while
+continuing to prevent as far as possible the issuance of swarms, to
+remove the accumulated honey fast enough to give abundant storage room.
+
+
+EXTRACTED HONEY.
+
+To secure extracted honey, the requisite number of combs may be in
+one long hive, or in stories one above another. Preference is most
+generally given to the latter plan. The brood apartment is made in
+this case to hold eight to twelve Langstroth frames, and a second, and
+sometimes a third or even a fourth story, may be added temporarily.
+These added stories may be for full-depth frames, or, for convenience
+in handling and in order to be able to control more closely the
+amount of space given, they may be half the usual depth, and but one
+of the half-depth stories added at a time. If numerous sets of combs
+are at hand, or if it is desirable to have others built, additional
+stories are put on as fast as the combs already occupied by the bees
+are filled. Before removing the filled combs time should be allowed
+the bees to ripen and cap the honey; hence enough combs are necessary
+to give the bees storage room while they are capping others, the
+honey in combs that are quite or nearly sealed over may be considered
+sufficiently ripened to be removed from the hive.
+
+[Illustration: Fig. 9.--Quinby uncapping knife.]
+
+It should also be taken promptly, in order to keep the various grades
+or kinds separate. However, when the combs of a given super are
+completely filled and sealed it may be marked and left on the hive if
+more convenient to be extracted later.
+
+The cells are uncapped by means of a sharp knife, made especially for
+this purpose (fig. 9), and the combs are then made to revolve rapidly
+in the honey extractor (fig. 10). The centrifugal force exerted on the
+honey throws it out, leaving the comb cells uninjured, or so slightly
+injured that they are wholly repaired within an hour or so after the
+return of the comb to the hive. The chief advantages of this method
+of harvesting over that of crushing the combs are at once apparent
+when it is known that each pound of comb saved represents several
+pounds of honey (consumed in its construction), and may, with care be
+used over almost indefinitely in securing surplus honey. Furthermore,
+extracted honey is of much finer quality than that obtained by crushing
+the combs and straining out the liquid part, since it is free from
+crushed bees, larvæ, pollen or "bee bread," etc., which not only render
+strained honey dark and strong in flavor, but also make it liable to
+fermentation and souring.
+
+The extracted honey is run into open buckets or tanks and left,
+covered with cheese cloth, to stand a week or so in a dry, warm room
+not frequented by ants. It should be skimmed each day until perfectly
+clear, and is then ready to be put into cans or barrels for marketing,
+or to be stored in a dry place. Square tin cans, each made to hold 60
+pounds of extracted honey, are sold by dealers in apiarian supplies.
+This style of package is a convenient one to transport, and is also
+acceptable to dealers. Wooden shipping cases are usually constructed so
+as to hold two of these cans. Barrels and kegs may be used, especially
+for the cheaper grades of honey used chiefly in the manufacture of
+other articles. They should be dry, made of well-seasoned, sound wood,
+and the hoops driven tight and secured, as well-ripened honey readily
+absorbs moisture from wood, causing shrinkage and leakage. They should
+also be coated inside with bees-wax or paraffin. This is easily done by
+warming the barrels and then pouring in a gallon or two of hot wax or
+paraffin, and, after having driven in the bungs tightly, rolling the
+barrels about a few times and turning them on end. The work should be
+done quickly and the liquid not adhering to the inner surfaces poured
+out at once, in order to leave but a thin coating inside.
+
+The surplus combs are to be removed at the close of the season and
+hung an inch or so apart on racks placed in a dry, airy room, where
+no artificial heat is felt. Mice, if permitted to reach them, will do
+considerable damage by gnawing away the cells containing pollen or
+those in which bees have been bred, and which therefore contain larval
+and pupal skins. Moth larvæ are not likely to trouble them until the
+following spring, but upon the appearance of milder weather their
+ravages will begin, and if the combs can not be placed under the care
+of the bees at once they must be fumigated with burning sulphur or with
+bisulphide of carbon.
+
+
+COMB HONEY.
+
+The main difference to be observed in preparing colonies for the
+production of comb honey, instead of extracted, is in the adjustment of
+the brood apartment at the time the supers are added. After the colony
+has been bred up to the greatest possible strength, the brood apartment
+should be so regulated in size, when the honey flow begins and the
+supers are added, as to crowd many of the bees out and into the supers
+placed above.
+
+[Illustration: Fig. 10.--Automatic reversible honey
+extractor.]
+
+On each hive a super is placed (fig. 11) holding 24 to 48 sections,
+each section supplied with a strip or a full sheet of very thin
+foundation. It is best not to give too much space at once, as
+considerable warmth is necessary to enable the bees to draw out
+foundation or to build comb. A single set of sections is usually
+sufficient at a time. When the honey is designed for home use or for a
+local market, half-depth frames are sometimes used, the same as those
+often used above the brood nests when colonies are run for extracted
+honey, but for the general market pound sections (fig. 12) are better
+adapted.
+
+It is the practice of many to have nice white comb partially drawn out
+before the main honey flow begins, or even the season before, feeding
+the colonies, if necessary, to secure this; and, when the honey yield
+begins, to supply sets of sections with these combs having cells
+deep enough for the bees to begin storing in as soon as any honey is
+collected. Earlier work in the sections is thus secured, and this, as
+is well known, is an important point in the prevention of swarming.
+Mr. Samuel Simmins, of England, has long contended for this use of
+partially drawn combs, and though it forms a feature of his system
+for the prevention of swarming it has been too often overlooked. Comb
+foundation is now manufactured with extra thin septum or base and with
+the beginnings of the cells marked out by somewhat thicker walls which
+the bees immediately thin down, using the extra wax in deepening the
+cells. This is not artificial comb, but a thin sheet of wax having
+the bases of the cells outlined on it. Complete artificial combs have
+never been used in a commercial way, although there exists a widespread
+belief to this effect, which is founded on extravagant claims that have
+appeared from time to time in newspaper articles.
+
+[Illustration: Fig. 11.--Langstroth hive--super above holding
+28 sections for comb honey.]
+
+[Illustration: Fig. 12.--Comb honey stored in pound
+section--size 4-1/4 by 4-1/4 inches.]
+
+If the brood apartment has been much contracted when the supers were
+added, the queen may go into the sections and deposit eggs unless
+prevented by the insertion of a queen excluder (fig. 13). This, merely
+a sheet of zinc with perforations which permit workers, but not the
+queen, to pass, is placed between the brood apartment and the supers.
+The great inconvenience of having brood in some of the sections is
+thereby prevented. When the honey in the sections has been nearly
+capped over, the super may be lifted up and another added between it
+and the brood apartment. Or, should the strength of the colony not be
+sufficient, or the harvest not abundant enough to warrant the giving
+of so much space, the sections which are completely finished may
+be removed and the partly finished ones used as "bait sections" to
+encourage work in another set of sections on this hive or in new supers
+elsewhere. The objections to the removal of sections one by one, and
+brushing the bees from them, are (1) the time it takes, and (2) the
+danger that the bees when disturbed, and especially if smoked, will
+bite open the capping and begin the removal of the honey, thus injuring
+the appearance of the completed sections.
+
+A recent valuable invention, the bee escape (fig. 3), the use of which
+is explained on pages 15 and 16, when placed between the super and the
+brood nest, permits the bees then above the escape to go down into
+the brood apartment, but does not permit their reentering the super.
+If inserted twelve to twenty-four hours before the sections are to
+be removed, the latter will be found free from bees at the time of
+removal, provided all brood has been kept out of the supers.
+
+=Grading and shipping comb honey.=--Before marketing the honey it
+should be carefully graded, and all propolis ("bee-glue"), if there
+be any, scraped from the edges of the sections. In grading for the
+city markets the following rules are, in the main, observed. They
+were adopted by the North American Bee-Keepers' Association at its
+twenty-third annual convention, held in Washington, D. C, in December,
+1892, and are copied from the official report of that meeting:
+
+  =Fancy.=--All sections to be well filled; combs straight, of even
+  thickness, and firmly attached to all four sides; both wood and comb
+  unsoiled by travel stain or otherwise; all cells sealed except the row
+  of cells next to the wood.
+
+  =No. 1.=--All sections well filled, but with combs crooked or
+  uneven, detached at the bottom, or with but few cells unsealed; both
+  wood and comb unsoiled by travel stain or otherwise.
+
+  In addition to the above, honey is to be classified, according to
+  color, into light, amber, and dark. For instance, there will be "fancy
+  light," "fancy amber," and "fancy dark," "No. 1 light," "No. 1 amber,"
+  and "No. 1 dark."
+
+[Illustration: Fig. 13.--Perforated zinc queen excluder.]
+
+The sections, after grading and scraping, are to be placed in clean
+shipping cases having glass in one or both ends (fig. 14). Several of
+these may be placed in a single crate for shipment. To prevent breaking
+down of the combs it is best to put straw in the bottom of the crate
+for the shipping cases to rest on, and the crates should be so placed
+as to keep the combs in a perpendicular position. The crates are also
+likely to be kept right side up if convenient handles are attached
+to the sides--preferably strips with the ends projecting beyond the
+corners. Care in handling will generally be given if the glass in the
+shipping cases shows.
+
+[Illustration: Fig. 14.--Shipping cases for comb honey.]
+
+Owing to the appearance of statements of a sensational character to
+the effect that complete honey combs are manufactured by machinery and
+filled with sweets lower in price than honey (glucose, cane sugar, or
+mixtures of these), then sealed over and sold in the market as genuine
+honey, a strong suspicion exists regarding the comb honey commonly
+offered for sale. Wide circulation has been given to these wild stories
+by sensational newspaper writers, and even monthly periodicals, usually
+far more discriminating and accurate, have repeated them. Some writers
+have even tried to locate the "comb honey factories" in given cities,
+but investigation has always shown that the locations were mythical.
+The forfeit of $1,000 which a reputable firm has had standing for
+fifteen years past for a pound of manufactured comb honey of a nature
+to deceive the buyer still remains unclaimed.
+
+The National Bee-Keepers' Association, at its annual convention held
+in St. Louis in 1904, offered also a like forfeit of $1,000 for
+satisfactory proof of the existence of such a thing as manufactured
+comb honey. But no claimant has come forward, notwithstanding the
+$2,000 which awaits his proof. The fact is, there is no truth in the
+"yarn," and no one has thus far shown the thing possible. The comb
+honey in the markets is pure and wholesome--a healthful and nourishing
+sweet, easier to digest than cane sugar or any of the sirups so
+commonly sold. It is worth a place on the tables of all who can afford
+to use it.
+
+
+PRODUCTION OF WAX.
+
+No method has yet been brought forward which will enable one, at the
+present relative prices of honey and wax, to turn the whole working
+force of the bees, or even the greater part of it, into the production
+of wax instead of honey; in fact, the small amount of wax produced
+incidentally in apiaries managed for extracted or for section honey
+is usually turned into honey the following season; that is, it is
+made into comb foundation, which is then employed in the same hives
+to increase their yield of marketable honey. It is even the case that
+in most apiaries managed on approved modern methods more pounds of
+foundation are employed than wax produced; hence less progressive
+bee keepers--those who adhere to the use of box hives and who can
+not therefore utilize comb foundation--are called upon for their wax
+product. As each pound of wax represents several pounds of honey, all
+cappings removed when preparing combs for the extractor, all scrapings
+and trimmings and bits of drone comb, are to be saved and rendered
+into wax. This is best done in the solar wax-extractor (fig. 15), the
+essential parts of which are a metal tank with wire-cloth strainer and
+a glass cover, the latter generally made double. The bottom of the
+metal tank is strewn with pieces of comb, the glass cover adjusted, and
+the whole exposed to the direct rays of the sun. A superior quality of
+wax filters through the strainer.
+
+[Illustration: Fig. 15.--Solar wax-extractor.]
+
+[Illustration: Fig. 16.--Steam wax-extractor.]
+
+Another method is to inclose the cappings or combs to be rendered in
+a coarse sack and weight this down in a tin boiler partly filled with
+rain water or soft spring water and boil slowly until little or no more
+wax can be pressed out of the material in the sack. Melting in an iron
+receptacle makes the wax dark colored. A special utensil made of tin,
+for use as a wax-extractor (fig. 16) over boiling water, can also be
+had. The bits of comb are placed in this, in an inside can having fine
+perforations, through which the steam from below enters and melts out
+the wax, which drips from a spout into another receptacle partly filled
+with water, from the surface of which the cake of wax may be removed
+when cold.
+
+
+
+
+THE WINTERING OF BEES.
+
+
+How to bring bees successfully through the winter in the colder
+portions of the United States is a problem which gives anxiety to all
+who are about to attempt it for the first time in those sections, and
+even many who have kept bees for years still find it their greatest
+difficulty. It may happen occasionally that a queen, apparently young
+and vigorous in the autumn, will die during the winter, when a young
+one can not be reared, and as a result the colony will dwindle away.
+Such losses are, however, rare, and, aside from the possible results
+of fire, flood, or violent storms, are about the only ones which can
+not be avoided by careful attention to right methods in wintering.
+Insufficient or poor winter stores, hives faulty in construction,
+lack of protection from cold and dampness, too much or too little
+ventilation, too great a proportion of old bees or too great a
+proportion of young ones, overmanipulation late in the season, etc.,
+are the most important and most easily detected causes of loss in
+wintering bees. In some instances colonies supposed to have been placed
+in the same condition under which others have wintered well become
+diseased and die or dwindle away without prominent signs of disease.
+It is evident, however, that some condition existed in one case which
+was not present in the other, or that, in spite of some unfavorable
+condition, the favorable ones combined, in the first instance, to
+render the wintering successful.
+
+In the South wintering in the open air on the summer stands is the
+only method followed, while in the colder portions of the country,
+although with proper precautions bees may be wintered successfully in
+the open air, many prefer to house them in special repositories built
+with double walls, or to place them in darkened cellars, or in clamps.
+Indoor wintering should be confined to regions where there are several
+weeks, at least, of continued severe weather. When all conditions are
+right, consumption of honey will be less indoors and loss of bee life
+less than with the methods usually practiced in outdoor wintering.
+Under proper conditions, however, especially when abundant protection
+has been given, colonies out of doors will consume no more food nor
+meet with greater losses in numbers than those wintered under favorable
+conditions indoors. In wintering indoors certain essential conditions
+are, in a measure, beyond the control of the bee keeper, hence must be
+left to chance, and certain other conditions and emergencies liable to
+arise, though easily understood and met by the man of experience in
+this direction, are yet very likely to be overlooked by the novice or
+to be puzzling and disastrous to him. For these reasons it is safer
+for him to keep closer to the natural method at first and try outdoor
+wintering.
+
+In wintering out of doors the conditions within the control of the
+bee keeper are more readily perceived and easier to meet, and though
+the original work of preparation for good wintering out of doors is
+greater per colony, yet the work during the winter itself and the
+following spring is likely to be less; moreover, the feeling of greater
+security, as well as the greater certainty of finding the colonies in
+good condition to begin gathering in the spring, are points well worthy
+of consideration. In other words, indoor wintering should be left to
+such experienced bee keepers as may prefer it and are located in cold
+climates, while novices, wherever located, should first endeavor to
+meet the requirements of successful outdoor wintering; that is, to
+prepare the colonies so that Nature, whatever her mood as regards the
+weather, will bring her tiny charges safely through the perils and
+vicissitudes of the winter months.
+
+
+GENERAL CONSIDERATIONS.
+
+Whatever method be followed in wintering, certain conditions regarding
+the colony itself are plainly essential: First, it should have a good
+queen; second, a fair-sized cluster of healthy bees, neither too old
+nor too young; third, a plentiful supply of good food. The first of
+these conditions may be counted as fulfilled if the queen at the head
+of the colony is not more than two years old, is still active, and
+has always kept her colony populous; yet a younger queen--even one
+of the current season's rearing, and thus but a few weeks or months
+old--is if raised under favorable conditions, much to be preferred.
+The second point is met if brood rearing has been continued without
+serious interruption during the latter part of the summer and the
+cluster of bees occupies, on a cool day in autumn, six to eight or more
+spaces between the combs, or forms a compact cluster 8 or 10 inches
+in diameter. Young bees, if not weir protected by older ones, succumb
+readily to the cold, while quite old bees die early in the spring,
+and others, which emerged late in the summer or autumn preceding, are
+needed to replace them. The third essential--good food--is secured if
+the hive is liberally supplied with well-ripened honey from any source
+whatever, or with fairly thick sirup, made from white cane sugar,
+which was fed early enough to enable the bees to seal it over before
+they ceased flying. The sirup is prepared by dissolving 3 pounds of
+granulated sugar in 1 quart of boiling water and adding to this 1 pound
+of pure extracted honey. Twenty to 26 pounds for outdoor wintering
+in the South, up to 30 or 40 pounds in the North, when wintered
+outside with but slight protection--or, if wintered indoors, about
+20 pounds--may be considered a fair supply of winter food. A smaller
+amount should not be trusted except in case much greater protection be
+furnished against the effects of severe weather than is usually given.
+A greater amount of stores will do no harm if properly arranged over
+and about the center of the cluster, or, in case the combs are narrow,
+wholly above the cluster. In many instances it will be a benefit by
+equalizing in a measure the temperature in the hive, as well as by
+giving to the bees greater confidence in extending the brood nest in
+early spring.
+
+
+INDOOR WINTERING.
+
+A dry, dark cellar or special repository built in a sidehill or with
+double, filled walls, like those of an ice house, may be utilized for
+wintering bees in extremely cold climates. It should be so built that a
+temperature of 42° to 45° F. (the air being fairly dry in the cellar)
+can be maintained during the greater part of the winter. To this end
+it should be well drained, furnished with adjustable ventilators, and
+covered all over with earth, except the entrance, where close-fitting
+doors, preferably three of them, should open in succession, so as to
+separate the main room from the outside by a double entry way. The
+colonies, supplied with good queens, plenty of bees, 20 to 25 pounds
+of stores each, and with chaff cushions placed over the frames, are
+carried in shortly before snow and severe freezing weather come.
+
+Any repository which is damp or one whose temperature falls below
+freezing or remains long below 38° F. is not a suitable place in which
+to winter bees. When in repositories, the bees have no opportunity for
+a cleansing flight, nor do they, when the temperature rises outside,
+always warm up sufficiently to enable the cluster to move from combs
+from which the stores have been exhausted to full ones; hence in a cold
+repository they may possibly starve with plenty of food in the hive.
+As a rule, colonies would be better off out of doors on their summer
+stands than in such places.
+
+
+OUTDOOR WINTERING.
+
+Cold and dampness are the great winter enemies of bee life. A single
+bee can withstand very little cold, but a good cluster, if all other
+conditions are favorable, can defy the most rigorous winters of our
+coldest States. But if not thoroughly dry, even a moderate degree of
+cold is always injurious, if not absolutely fatal. Dampness in winter
+is therefore the most dangerous element with which the bee keeper has
+to contend. The matter would, of course, be quite simple if only that
+dampness which might come from the outside were to be considered, but
+when the air of the hive, somewhat warmed by the bees and more or
+less charged with the moisture of respiration, comes in contact with
+hive walls or comb surfaces made cold by outside air, condensation
+takes place, and the moisture trickles over the cold surfaces and
+cluster of bees, saturating the air about them or even drenching them,
+unless by forming a very compact cluster they are able to prevent it
+from penetrating, or by greater activity to raise the temperature
+sufficiently to evaporate the surplus moisture, or at least that
+portion near them. But this greater activity is, of course, at the
+expense of muscular power and requires the consumption of nitrogenous
+as well as carbonaceous food. Increased cold or its long continuance
+greatly aggravates conditions.
+
+Nature has provided that the accumulation of waste products in the body
+of the bee during its winter confinement should be small under normal
+conditions, but unusual consumption of food, especially of a highly
+nitrogenous nature like pollen, necessitates a cleansing flight, or
+diarrheal difficulties ensue, combs and hives are soiled, the air of
+the hive becomes polluted, and at last the individual bees become too
+weak to generate proper warmth or drive off the surplus moisture which
+then invades the cluster and brings death to the colony; or, what is
+more frequently the case, a cold snap destroys the last remnant of the
+colony, which has been reduced by constant loss of bees impelled by
+disease to leave the cluster or even to venture out for a cleansing
+flight when snows and great cold prevail.
+
+The problem then is: _To retain the warmth generated by the bees, which
+is necessary to their well-being, and at the same time to prevent
+the accumulation of moisture in the hive._ A simple opening at the
+top of the hive would permit much of the moisture to pass off, but
+of course heat would escape with it and a draft would be produced.
+Absorbent material about the cluster creates, without free ventilation,
+damp surroundings, and again the temperature is lowered. It is only
+necessary, however, to surround the bees with sufficient material to
+protect them fully against the greatest cold likely to occur, and
+to take care also that this enveloping material is of such a nature
+and so disposed as to permit the free passage of the moisture which
+would otherwise collect in the interior of the hive, and to permit the
+escape into the surrounding atmosphere of such moisture as enters this
+material from within. This packing should also be fully protected from
+outside moisture.
+
+[Illustration: Fig. 17.--Double-walled hive adapted to outdoor
+wintering as well as summer use below 40° north latitude in the United
+States. Thickness of each wall, 3/8 inch, space between walls, 2
+inches, packed with dry chaff or ground cork.]
+
+South of Virginia, Kentucky, and Kansas single-walled hives may be
+employed in most localities with good success in outdoor wintering.
+On the approach of the cool or the rainy season a close-fitting quilt
+should be laid over the frames and several folded newspapers pressed
+down on this, or a cushion filled with dry chaff or some other soft
+material may be used instead of paper. The cover or roof should be
+absolutely rain-proof, yet between this cover and the cushion or
+papers should be several inches of space with free circulation of air.
+In order to permit this ventilation above the top packing, the cover
+should not rest upon the cap or upper story all of the way around, or
+if it does, an auger hole in each end, protected by wire-cloth against
+the entrance of mice, should give free passage to the air. In the more
+northern portion of the section referred to some further protection is
+advisable (fig. 17), and is really necessary in the mountainous parts
+of the same territory if the best results are to be obtained. Farther
+north, and especially in the cold Northwest, much greater protection
+becomes an absolute necessity. Quilts with newspapers or thin packing
+above do not alone suffice. The side walls of the hive may be made of
+pressed straw (fig. 18). These, with top packing, if kept dry outside,
+are excellent for outdoor wintering, even in climates so cold that
+ordinary wooden hives do not afford sufficient protection.
+
+In the severest climates, however, still greater protection on all
+sides of the colony is needed, and packing with chaff or other soft
+material is decidedly the best plan. The thickness of this surrounding
+packing should be from 2 inches to 8 or 10 inches for single colonies,
+according to the severity of the climate, but if four or more colonies
+are grouped for the winter, so as to make the natural warmth generated
+mutually advantageous, somewhat less packing will be sufficient. A most
+important point is to have the soft warmth-retaining packing come in
+close contact with the edges of the combs, and above all _not to have a
+hive wall, either thick or thin, between this material and the bees_. A
+good plan is to construct an open framework or skeleton hive of laths,
+cover it with sacking, or, preferably, some less fuzzy cloth which the
+bees will not gnaw, and after placing it in an outer wooden case large
+enough every way to admit of the necessary packing about the colony,
+to fill in on all sides with some dry, porous material (fig. 19). If
+the frames are shallow, like the Langstroth, it is better to construct
+the inner case so as to place them on end, and thus give a deeper comb
+for the winter. Layers of newspapers may come next outside the cloth
+covering of the framework. Wheat chaff answers well to complete the
+packing. Wool is to be preferred, but is of course too expensive unless
+a waste product. Ground cork, waste flax, hemp, sawdust, etc., in fact,
+any fine porous material, if thoroughly dry, may be used.
+
+[Illustration: Fig. 18.--The American straw hive (Langstroth
+principle) of Hayek Brothers.]
+
+A board passageway 3 or 4 inches wide and three-eighths of an inch high
+should connect this inner apartment and the flight hole of the outer
+case, thus affording an exit for the bees whenever the weather may
+permit them to fly. When these preparations have been completed, the
+hive is ready for the combs, which, with adhering bees, are taken from
+the summer hive and inserted in the winter hive. A quilt is then laid
+on the frames and the top packing put on. This, for convenience, may
+be held in a cloth-bottomed tray. It is quite important, as already
+mentioned, that air be allowed to circulate freely above the packing.
+The outside case must be quite rain-proof or else wholly protected from
+the rain by a roof.
+
+All other necessary conditions having been complied with shortly after
+the gathering season closed, the combs may be lifted from the summer
+hives and placed in these specially arranged winter cases before cold
+weather wholly stops the bees from flying out. Thus prepared for the
+winter the colonies will need but slight attention from October until
+March, or, in the North, even later, and the losses will be limited to
+the small percentage of cases due to failure of apparently good queens.
+
+[Illustration: Fig. 19.--Colony of bees with newspapers packed
+between inner and outer cases and brood frames on end for the winter.]
+
+
+
+
+THE RISK OF LOSS THROUGH DISEASE AND ENEMIES.
+
+
+Winter losses through disease superinduced by unfavorable surroundings
+which it is within the power of the bee keeper to avoid have already
+been considered. But one other very serious disease has been widespread.
+
+
+FOUL BROOD OR BACILLUS OF THE HIVE.
+
+This is a highly contagious affection which, as it mainly affects the
+developing brood in the cells, is commonly known as "foul brood." It is
+due to a microbe (_Bacillus alvei_) whose spores are easily transported
+from hive to hive by the bees themselves, by the operator, in honey,
+or in combs changed from one hive to another. Once established in an
+apiary, it usually spreads, unless speedily and energetically checked,
+until all of the colonies in the neighborhood are ruined and even
+exterminated. The most apparent symptoms are the turning black of
+larvæ in open cells, many sealed cells with sunken caps, frequently
+broken in and containing dead larvæ or pupæ in a putrid condition,
+brown or coffee-colored, jelly-like or ropy in consistency, and giving
+off an offensive odor. The disease, though known to exist in nearly
+all countries, can hardly be said to be common. The writer, in an
+experience of over thirty years in bee keeping in several States of
+the Union, as well as in a number of foreign countries, has met the
+disease but rarely, and has had but one experience with it in his own
+apiary, it having been in this instance brought in by a neighbor who
+purchased bees at a distance. It was easily cured, without great loss.
+Thus the beginner's risks of disaster in this direction are, if he be
+forewarned, comparatively small. He may, furthermore, gain assurance
+from the fact that, should the disease invade his apiary, prompt and
+intelligent action will prevent serious loss.
+
+The following is the treatment for a colony which still has sufficient
+strength of numbers to be worth saving: The bees are to be shaken from
+their combs just at nightfall into an empty box, which is to be removed
+at once to a cool, dark place. They are to be confined to the box, but
+it must be well ventilated through openings covered with wire cloth.
+During the first forty-eight hours no food should be given to them, and
+during the second forty-eight hours only a small amount of medicated
+sirup--a half pint daily for a small colony to a pint for a strong
+one. This food is prepared by adding one part of pure carbolic acid or
+phenol to 600 or 700 parts of sugar sirup or honey. At the end of the
+fourth day the bees are to be shaken into a clean hive supplied with
+starters of comb foundation. This hive is to be placed outside on a
+stand some distance from all other colonies, and moderate feeding with
+medicated sirup or honey should be continued for a few days thereafter.
+
+The combs of diseased colonies which contain brood may be assembled
+over a single one of these colonies, or, if the amount of brood be too
+great for one colony to care for, over several such diseased colonies,
+until the young bees have emerged. All of the honey is then to be
+extracted. While it is wholesome as food, it should not be offered
+for sale, lest some of it be used in feeding bees or be inadvertently
+exposed where foraging bees might find it and carry to their hives the
+germs of this disease, harmless to other creatures but so fatal to bee
+life. A good use for this honey is to employ it in making vinegar. One
+and one-third pounds added to each gallon of rain water or soft spring
+water and allowed to ferment for three months in a warm place makes a
+quality of vinegar quite equal to the best cider vinegar. Provision for
+the free circulation of air through the cask should be made. This is
+easily secured by placing the cask, not completely filled, on its side
+and boring an auger hole in each end near the upper side, the holes to
+be covered with cheese cloth or fine gauze, to keep out insects.
+
+If the honey containing the germs is to be used for feeding bees, it is
+to be diluted with half its own quantity, by measure, of water and kept
+at the boiling point for three hours in a water bath--a vessel within
+another containing water.
+
+The combs from which the honey has been extracted, as well as all of
+the pieces built by the bees during their four days' confinement, may
+be melted into wax, by thorough boiling in soft water. This wax should
+be kept liquid for 48 hours or longer, to allow all impurities to
+settle. These will include the foul brood spores, which may then be
+removed with, the impure wax by scraping or cutting away the bottom of
+the cake. These scrapings should be burned. The same disposition had
+better be made of the frames from which the combs containing germs were
+removed.
+
+In all of this work the utmost care should be exercised to avoid the
+dripping of honey about the apiary or the exposure of implements,
+receptacles, or combs smeared with or containing honey from the
+diseased colonies. It may even be better, in order to save time and
+possible risk, where but few combs and a comparatively small amount
+of honey are involved, to destroy all of these immediately after
+their removal from the hive. The old hive and all utensils used about
+the diseased colony should be disinfected by washing in a solution
+of corrosive sublimate--one-eighth ounce in one gallon of water--and
+should afterwards be exposed to the air and sun for some time. If
+healthy colonies are to be manipulated immediately after handling
+diseased ones the hands of the operator must also be disinfected by
+washing in the solution just mentioned.
+
+Those who care to try and save combs and brood should employ the
+remedial method developed by the late Professor Cheshire. This is
+explained in full in his work on bee keeping,[C] and a brief statement
+of it may also be found in "The Honey Bee," Bulletin No. 1, new series,
+of the Bureau of Entomology, United States Department of Agriculture.
+Notwithstanding these remedies, some will prefer, where healthy
+colonies of bees can be bought at moderate prices, to burn diseased
+bees, combs, and frames rather than spend time to effect a cure, and
+risk, as they fear they may, the further spread of the pest. To kill
+the bees thus is, however, neither profitable, humane, nor necessary,
+for if confined as described above and separated at once from the other
+colonies, this work being done at nightfall, when all of the bees are
+in their hives, the risk of spreading the disease will not thereby be
+increased, nor is the labor much greater than that involved in the
+removal of combs and bees for burning. And if it be found that the
+diseased colonies are weak in numbers and seem, therefore, individually
+hardly worth saving, this need not be taken as an excuse for the death
+sentence, as several colonies may be smoked and shaken together into
+the same box to make a single strong colony, the best queen of the
+lot having been selected and caged in the box in such a way that the
+workers can release her within a few hours by eating through candy.
+
+[C] "Bees and Bee keeping," by Frank K. Cheshire, F. L. S., F. E. M.
+S., London, 1888, Vol. II, pages 554-575.
+
+
+BEE PARALYSIS.
+
+Among other diseases of a bacterial nature paralysis is most
+noticeable, although not to be dreaded as foul brood. It affects the
+adult bees only, producing a paralyzed condition of their members and
+a swelling up of their bodies. The diseased bees, often set upon by
+other workers, lose the hairy covering of their bodies, and, black
+and shiny in appearance, may often be seen wriggling away from their
+hives to die. In such cases the working force of the affected colony
+frequently becomes so greatly reduced as to preclude any return in
+the form of honey or swarms during the given season. The source from
+which the bees obtain the original infection is unknown, but, once in
+the apiary, it is spread mainly by the entrance of affected workers
+into healthy colonies, and probably also by the visits which bees from
+healthy colonies make to the diseased ones, the latter often being
+so weakened in numbers as to be unable to protect their stores from
+healthy bees out on robbing expeditions.
+
+Ordinary paralysis may generally be cured by strewing powdered sulphur
+over the combs, bees, and along the top bars of the frames, the
+precaution first having been taken of removing all unsealed brood. This
+brood would be killed by the application of sulphur, but as there is no
+danger whatever of spreading the disease by the transfer of brood or
+honey from one hive to another, provided absolutely every one of the
+adult bees has first been shaken or brushed from the combs, the latter
+may be given to healthy colonies which need strengthening.
+
+Another simple plan for getting rid of the disease and yet utilizing
+the available strength of the affected colonies is to close their hives
+at night and move them a mile or more, locating them, if possible,
+outside of the range of other bees. As the brood in these colonies
+remains healthy all that is sealed or even well advanced in the larval
+stage may have the bees shaken from it and be distributed among the
+remaining colonies of the apiary. The bees of the diseased colonies
+thus become rapidly reduced in numbers, and several of the colonies
+themselves may soon be combined, the best queen being selected to
+continue egg deposition. Eventually the diseased apiary becomes, by the
+removal of the developing brood and the death of the old bees, reduced
+to nothing. None of the queens should be saved nor should any of the
+adult workers be returned to the healthy apiary.
+
+A combination of the sulphur cure with the last plan mentioned--that
+of getting rid of the disease through the removal of brood combs from
+affected colonies--is really, all in all, the best procedure. When a
+fairly strong colony has been made up by shaking the adult bees of
+two or more together and this removed to an isolated locality, the
+application of sulphur may be made before any brood has been started.
+It is well, also, to replace the queen with a vigorous one from stock
+entirely unrelated to the diseased bees. Should any signs of the
+disease reappear, constant removal of the brood should be followed, as
+mentioned in the preceding paragraph.
+
+Other bacterial diseases, though existing, have developed only very
+locally or have been too limited in the amount of injury inflicted to
+require special mention here.
+
+
+INSECT AND OTHER ENEMIES.
+
+The bee or wax-moth (_Galleria mellonella_ Linn.) is regarded by those
+unfamiliar with modern methods in bee keeping as a very serious enemy
+to success in this work. It was frequently such when only the common
+black bee was kept and the old way of managing, or rather of trusting
+to luck, was followed. But with the better races now introduced and
+with improved hives and methods, and especially with the care that is
+now given to have no colonies queenless long at a time, the wax-moth
+larvæ are no longer regarded with great concern.
+
+Some species of wasps take a little honey at times--more particularly
+when hives are opened--and they annoy the bees; others capture and
+eat workers, as do also the large ant-like "cow-killers" (Mutillidæ),
+and certain predaceous flies (Asilidæ), true bugs (Phymatidæ), and
+neuropterous and orthopterous insects (Libellulidæ and Mantidæ). The
+larvæ of certain beetles (Dermestidæ and Tenebrio) feed upon pollen
+and the cast-off skins of developing larvæ and pupæ, and certain of
+the Meloid larvæ attach themselves to the bodies of bees as parasites.
+Ants (Formicidæ) and cockroaches (Blattidæ), which gather above the
+quilts and between the quilts and the tops of the frames in order
+to be benefited by the warmth of the cluster of bees, sometimes
+help themselves to honey, and their presence annoys the bees more
+or less. Some of the insects here mentioned are only found locally,
+the predaceous ones being confined mainly to the South, while it may
+be said that the general welfare of strong colonies is not often
+materially affected nor the return noticeably reduced through the
+attacks of any of them.
+
+Spiders, toads, and lizards destroy, in addition to many injurious
+insects, also some bees, and should be tolerated in the vegetable
+garden rather than in the apiary.
+
+Swallows, kingbirds or bee martins, mice, skunks, and bears only
+occasionally commit depredations in the apiary.
+
+Properly constructed hives enable the bees to limit in a great measure
+the injury which these various enemies might inflict, and the avoidance
+of overswarming, with care to insure the constant presence of a
+prolific queen and a supply of food suited to the needs of the colony
+at the time, will keep it populous and therefore in shape to repel
+attacks or to make good most of the unavoidable losses.
+
+
+ROBBER BEES.
+
+Robbing is sometimes a more serious matter, although it very rarely
+happens that a little careful attention just at the right time on the
+part of the bee keeper would not avoid all serious trouble on this
+score. When bees find nothing to gather during weather when they can
+still fly out they are easily tempted to appropriate the stores of
+weaker colonies. Exposure of combs of honey at such times may even
+occasion a combined attack upon a good colony otherwise quite able to
+take care of itself. It is then that the greatest destruction ensues,
+for such a colony will defend itself vigorously, and a pitched battle,
+with perhaps fifty or sixty thousand Amazons on either side, leaves the
+ground literally strewn with dead and dying.
+
+If the invaders conquer, every drop of honey is taken from the
+few vanquished that are likely to be still alive; and in turn the
+despoilers invariably fight among themselves as to the possession of
+the booty. When the robbing takes place during the absence of the
+owner, the condition of the robbed colony may not attract immediate
+attention, and during warm weather moth larvæ gain full possession of
+the combs within a few days. When this condition is observed, the whole
+damage is very likely to be attributed to the moth larvæ. Colonies that
+have been left queenless for some time, and those weakened by disease
+or by overswarming, are especial marks for such attacks. Of course
+these defects should be remedied whenever observed, but meanwhile, if
+legitimate field work is likely to be interrupted, every colony should
+be assisted in protecting itself against assault by having its hive
+made secure and the entrance such a narrow pass as to enable a few
+workers to repel attack there.
+
+Should robbers get well started before being observed, the entrance
+of the hive should be narrowed at once, and wet grass or weeds may be
+thrown loosely over it, or a pane of glass may be stood against the
+front of the hive in a slanting manner to confuse the intruders. In
+extreme cases the attacked colonies may be removed to a cellar for a
+few days, plenty of ventilation being given during confinement, and a
+new location, apart from other colonies, selected, on which they are to
+be placed just at nightfall; or, instead of putting them in the cellar,
+they may be taken a mile or more away and returned only when the danger
+has passed. With these precautions, little loss is to be feared on this
+score.
+
+In general, the intelligent owner who gives careful attention to
+certain important points in bee management finds that he very rarely
+has disease to contend with, and that the reduction of profits through
+the depredations of bee enemies is not, in most parts of the Union,
+a serious discouragement. Altogether it seems to the writer that the
+risks in these directions are even less in bee keeping than those
+usually met in the keeping of other animals, which, like bees, are
+legitimately made to contribute to the wealth of the individual and of
+the nation.
+
+
+
+
+LEGISLATION AFFECTING APIARIAN INTERESTS.
+
+
+Many States have in recent years passed laws having for their purpose
+the eradication or suppression of contagious diseases among bees. State
+and county inspectors have been appointed under these laws, whose duty
+it is to go about and ascertain where diseased colonies of bees are
+located, and recommend the treatment to be given, or in some cases to
+carry out this treatment, even to the complete destruction of colonies
+or apiaries where the virulence of the attack seems to warrant it.
+Where these laws have been conscientiously and energetically executed,
+much has been accomplished toward freeing the apiaries of the given
+State from disease.
+
+Some States have passed laws making it a misdemeanor to spray fruit
+trees during the time of blossoming, since thereby bees are poisoned,
+and besides the injury to the apiarist the pollination of the fruit
+blossoms is seriously interfered with.
+
+Laws against the sale of adulterated goods as genuine, known commonly
+as pure-food laws, are in operation in some of the States, and where
+bee inspectors or bee keepers have taken the pains to have these
+laws applied to the marketing of honey, a check has been put upon
+the selling of adulterated honey in the liquid form, which has been
+practiced to a greater or less extent and still occurs in some of the
+city markets.
+
+In general, the rights of bee keepers to own and cultivate bees, either
+within the limits of cities or on farms adjoining those devoted to
+grazing and general stock raising, are becoming more clearly defined
+through decisions of supreme and county courts. In this connection the
+work of the National Bee-Keepers' Association should receive mention.
+
+This organization is in no sense a trades union, but has for its
+purpose the defense of its members against unjust attacks upon their
+legal rights, the suppression, in so far as possible, of the sale of
+adulterated honey, the securing of legislation for the protection of
+its members and favorable to the general advance of the industry,
+as well as the dissemination among its members of advanced ideas in
+bee management and information regarding the marketing of apiarian
+products. The membership fee of one dollar per annum entitles every
+honey producer to membership and participation in all of the benefits
+enumerated, as well as to the published report of the annual convention
+held by the association. The membership numbers nearly 2,000 at the
+present time, and the influence of this large body of intelligent
+beemasters is already being appreciably felt in the general advance of
+the industry in this country.
+
+
+
+
+JOURNALS TREATING OF APICULTURE.
+
+
+As a matter of general information, the following list of journals
+relating to apiculture is given. It comprises all those published in
+this country at the present time.
+
+  The American Bee Journal, Chicago, Ill.
+  Gleanings in Bee Culture, Medina, Ohio.
+  The Bee Keepers' Review, Flint, Mich.
+  The American Bee Keeper, Falconer, N. Y.
+  The Progressive Bee Keeper, Higginsville, Mo.
+  Western Bee Journal, Kingsburg, Cal.
+  The Rural Bee Keeper, River Falls, Wis.
+
+
+
+
+FARMERS' BULLETINS.
+
+
+The following is a list of the Farmers' Bulletins available for
+distribution, showing the number and title of each. Copies will be
+sent to any address on application to any Senator, Representative, or
+Delegate in Congress, or to the Secretary of Agriculture, Washington,
+D. C. The missing numbers have been discontinued, being superseded by
+later bulletins:
+
+  No.  16. Leguminous Plants.
+  No.  22. The Feeding of Farm Animals.
+  No.  24. Hog Cholera and Swine Plague.
+  No.  25. Peanuts: Culture and Uses.
+  No.  27. Flax for Seed and Fiber.
+  No.  28. Weeds: And How to Kill Them.
+  No.  29. Souring and Other Changes in Milk.
+  No.  30. Grape Diseases on the Pacific Coast.
+  No.  31. Alfalfa, or Lucern.
+  No.  32. Silos and Silage.
+  No.  33. Peach Growing for Market.
+  No.  34. Moats: Composition and Cooking.
+  No.  36. Potato Culture.
+  No.  36. Cotton Seed and Its Products.
+  No.  37. Kafir Com: Culture and Uses.
+  No.  38. Spraying for Fruit Diseases.
+  No.  39. Onion Culture.
+  No.  41. Fowls: Care and Feeding.
+  No.  42. Facts About Milk.
+  No.  43. Sewage Disposal on the Farm.
+  No.  44. Commercial Fertilizers.
+  No.  45. Insects Injurious to Stored Grain.
+  No.  46. Irrigation in Humid Climates.
+  No.  47. Insects Affecting the Cotton Plant.
+  No.  48. The Manuring of Cotton.
+  No.  49. Sheep Feeding.
+  No.  50. Sorghum as a Forage Crop.
+  No.  51. Standard Varieties of Chickens.
+  No.  52. The Sugar Beet.
+  No.  54. Some Common Birds.
+  No.  55. The Dairy Herd.
+  No.  56. Experiment Station Work--I.
+  No.  67. Butter Making on the Farm.
+  No.  68. The Soy Bean as a Forage Crop.
+  No.  69. Bee Keeping.
+  No.  60. Methods of Curing Tobacco.
+  No.  61. Asparagus Culture.
+  No.  62. Marketing Farm Produce.
+  No.  63. Care of Milk on the Farm.
+  No.  64. Ducks and Geese.
+  No.  65. Experiment Station Work--II.
+  No.  66. Meadows and Pastures.
+  No.  68. The Black Rot of the Cabbage.
+  No.  69. Experiment Station Work--III.
+  No.  70. Insect Enemies of the Grape.
+  No.  71. Essentials in Beef Production.
+  No.  72. Cattle Ranges of the Southwest.
+  No.  73. Experiment Station Work--IV.
+  No.  74. Milk as Food.
+  No.  76. The Grain Smuts.
+  No.  77. The Liming of Soils.
+  No.  78. Experiment Station Work--V.
+  No.  79. Experiment Station Work--VI.
+  No.  80. The Peach Twig-borer.
+  No.  81. Com Culture in the South.
+  No.  82. The Culture of Tobacco.
+  No.  83. Tobacco Soils.
+  No.  84. Experiment Station Work--VII.
+  No.  85. Fish as Food.
+  No.  86. Thirty Poisonous Plants.
+  No.  87. Experiment Station Work--VIII.
+  No.  88. Alkali Lands.
+  No.  89. Cowpeas.
+  No.  91. Potato Diseases and Treatment.
+  No.  92. Experiment Station Work--IX.
+  No.  93. Sugar as Food.
+  No.  94. The Vegetable Garden.
+  No.  95. Good Roads for Farmers.
+  No.  96. Raising Sheep for Mutton.
+  No.  97. Experiment Station Work--X.
+  No.  98. Suggestions to Southern Farmers.
+  No.  99. Insect Enemies of Shade Trees.
+  No. 100. Hog Raising in the South.
+  No. 101. Millets.
+  No. 102. Southern Forage Plants.
+  No. 103. Experiment Station Work--XI.
+  No. 104. Notes on Frost.
+  No. 105. Experiment Station Work--XII.
+  No. 106. Breeds of Dairy Cattle.
+  No. 107. Experiment Station Work--XIII.
+  No. 108. Saltbushes.
+  No. 109. Farmers' Reading Courses.
+  No. 110. Rice Culture in the United States.
+  No. 111. Farmers' Interest in Good Seed.
+  No. 112. Bread and Bread Making.
+  No. 113. The Apple and How to Grow It.
+  No. 114. Experiment Station Work--XIV.
+  No. 115. Hop Culture in California.
+  No. 110. Irrigation in Fruit Growing.
+  No. 118. Grape Growing in the South.
+  No. 119. Experiment Station Work--XV.
+  No. 120. Insects Afflicting Tobacco.
+  No. 121. Beans, Peas, and other Legumes as Food.
+  No. 122. Experiment Station Work--XVI.
+  No. 123. Red Clover Seed: Information for Purchasers.
+  No. 124. Experiment Station Work--XVII.
+  No. 125. Protection of Food Products from Injurious Temperatures.
+  No. 126. Practical Suggestions for Farm Buildings.
+  No. 127. Important Insecticides.
+  No. 128. Eggs and Their Uses as Food.
+  No. 129. Sweet Potatoes.
+  No. 131. Household Tests for Detection of Oleomargarine and Renovated
+             Butter.
+  No. 132. Insect Enemies of Growing Wheat.
+  No. 133. Experiment Station Work--XVIII.
+  No. 134. Tree Planting in Rural School Grounds.
+  No. 135. Sorghum Sirup Manufacture.
+  No. 136. Earth Roads.
+  No. 137. The Angora Goat.
+  No. 138. Irrigation in Field and Garden.
+  No. 139. Emmer: A Grain for the Semiarid Regions.
+  No. 140. Pineapple Growing.
+  No. 141. Poultry Raising on the Farm.
+  No. 142. Principles of Nutrition and Nutritive Value of Food.
+  No. 143. The Conformation of Beef and Dairy Cattle.
+  No. 144. Experiment Station Work--XIX.
+  No. 145. Carbon Bisulphid as an Insecticide.
+  No. 146. Insecticides and Fungicides.
+  No. 147. Winter Forage Crops for the South.
+  No. 148. Celery Culture.
+  No. 149. Experiment Station Work--XX.
+  No. 160. Clearing New Land.
+  No. 161. Dairying in the South.
+  No. 152. Scabies in Cattle.
+  No. 133. Orchard Enemies in the Pacific Northwest.
+  No. 154. The Home Fruit Garden: Preparation and Care.
+  No. 155. How Insects Affect Health in Rural Districts.
+  No. 156. The Home Vineyard.
+  No. 157. The Propagation of Plants.
+  No. 168. How to Build Small Irrigation Ditches.
+  No. 169. Scab in Sheep.
+  No. 161. Practical Suggestions for Fruit Growers.
+  No. 162. Experiment Station Work--XXI.
+  No. 164. Rape as a Forage Crop.
+  No. 166. Culture of the Silkworm.
+  No. 166. Cheese Making on the Farm.
+  No. 167. Cassava.
+  No. 168. Pearl Millet.
+  No. 169. Experiment Station Work--XXII.
+  No. 170. Principles of Horse Feeding.
+  No. 171. The Control of the Codling Moth.
+  No. 172. Scale Insects and Mites on Citrus Trees.
+  No. 173. Primer of Forestry.
+  No. 174. Broom Com.
+  No. 175. Home Manufacture and Use of Unfermented Grape Juice.
+  No. 176. Cranberry Culture.
+  No. 177. Squab Raising.
+  No. 178. Insects Injurious in Cranberry Culture.
+  No. 179. Horseshoeing.
+  No. 181. Pruning.
+  No. 182. Poultry as Food.
+  No. 183. Meat on the Farm.--Butchering, Curing, etc.
+  No. 184. Marketing Live Stock.
+  No. 186. Beautifying the Home Grounds.
+  No. 186. Experiment Station Work--XXIII.
+  No. 187. Drainage of Farm Lands.
+  No. 188. Weeds Used in Medicine.
+  No. 189. Information Concerning the Mexican Cotton Boll Weevil.
+  No. 190. Experiment Station Work--XXIV.
+  No. 191. The Cotton Bollworm--1903.
+  No. 192. Barnyard Manure.
+  No. 193. Experiment Station Work--XXV.
+  No. 194. Alfalfa Seed.
+  No. 195. Annual Flowering Plants.
+  No. 196. Usefulness of the American Toad.
+  No. 197. Importation of Game Birds and Eggs for Propagation.
+  No. 198. Strawberries.
+  No. 199. Corn Growing.
+  No. 200. Turkeys.
+  No. 201. Cream Separator on Western Farms.
+  No. 202. Experiment Station Work--XXVI.
+  No. 203. Canned Fruits, Preserves, and Jellies.
+  No. 204. The Cultivation of Mushrooms.
+  No. 206. Pig Management.
+  No. 206. Milk Fever and Its Treatment.
+  No. 207. Game Laws for 1904.
+  No. 208. Varieties of Fruits Recommended for Planting.
+  No. 209. Controlling the Boll Weevil in Cotton Seed and at Ginneries.
+  No. 210. Experiment Station Work--XXVII.
+  No. 211. The Use of Paris Green in Controlling the Cotton Boll Weevil.
+  No. 212. The Cotton Bollworm--1904.
+  No. 213. Raspberries.
+  No. 214. Beneficial Bacteria for Leguminous Crops.
+  No. 215. Alfalfa in the Eastern States.
+  No. 216. Control of the Cotton Boll Weevil.
+  No. 217. Essential Steps in Securing an Early Crop of Cotton.
+  No. 218. The School Garden.
+  No. 219. Lessons Taught by the Grain Rust Epidemic of 1904.
+  No, 220. Tomatoes.
+  No. 221. Fungous Diseases of the Cranberry.
+
+
+
+
+
+Transcribers Note
+
+Illustrations moved so as not to split paragraphs. The listing of
+publications was reformatted to enhance readability.
