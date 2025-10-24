@@ -1,0 +1,671 @@
+Every effort has been made to replicate this text as faithfully as
+    possible, including inconsistencies in spelling and hyphenation;
+    changes (corrections of spelling and punctuation) made to the
+    original text are listed at the end of this file.
+
+    Italic text has been marked with _underscores_.
+    Letter-spaced text has been marked with ~tildes~.
+    Greek letters theta and phi have been reproduced as [theta] and [phi].
+  ]
+
+
+
+
+DE LATINO SINE FLEXIONE
+
+LINGUA AUXILIARE INTERNATIONALE
+
+
+Lingua latina fuit internationalis in omni scientia, ab imperio Romano,
+usque ad finem saeculi XVIII. Hodie multi reputant illam nimis
+difficilem esse, iam in scientia, magis in commercio.
+
+Sed non tota lingua latina est necessaria; parva pars sufficit ad
+exprimendam quamlibet ideam.
+
+
+§ 1.--Casus.
+
+    «Nominum casus semper eliminari possunt substitutis in eorum locum
+    particulis quibusdam».
+
+    LEIBNIZ. Ed. Couturat a. 1901, p. 67.
+
+Lingua latina exprimit nominum casus cum praepositionibus «_de_, _ad_,
+_ab_, _ex_, ...» et cum postpositionibus vel desinentiis. Prima methodus
+sufficit; ipsa sola invenitur in latino populare, a quo derivant linguae
+neolatinae, ut italica, franca, hispanica, etc.
+
+Sumimus nomen inflexibile sub forma simpliciore, quae est ablativus, vel
+nominativus, vel alia.
+
+Indicamus genitivo cum _de_, dativo cum _ad_, ablativo cum _ab_,
+_ex_, ... Accusativo indicatur cum constructione, ut in linguis
+neolatinis, scilicet cum serie: nominativo--verbo--accusativo, vel cum
+serie: _qui_-accusativo--nominativo--verbo.
+
+Vocabulario latino commune continet nominativo et genitivo de nomen.
+Regula commoda haec est:
+
+«Sumimus nomen inflexibile
+
+  a) aut identico ad nominativo,
+
+  b) aut nominativo, mutata desinentia _-us_, _-um_, _-u_, _-es_
+                                    in  _-o_,  _-o_, _-o_,  _-e_,
+
+  c) aut genitivo, mutata desinentia _-i_ in _-o_, _-is_ in _-e_.
+
+  d) ad nominativo   _ego_, _tu_, _aliquis_,
+  responde (ablativo) _me_, _te_, _aliquo_.»
+
+Regula a) producit nulla ambiguitate, quae iam non sit in latino.
+
+Regulae b) c) d) brevi exprimunt formatione de ablativo, cum reductione
+de 4-a declinatione ad 2-a, et cum reductione ad forma unica de 3-a
+declinatione.
+
+
+§ 2.--Genere masculino, feminino et neutro.
+
+    «Discrimen generis nihil pertinet ad grammaticam rationalem».
+
+    LEIBNIZ.
+
+Nomen isolato non habet genere. Quum volumus indicare ille, scribemus
+explicite "mas, femina".
+
+Ita "mater est _bona_" fit "mater est femina bono"; sed idea de femina
+iam continetur in mater; igitur post simplificatione(1): "mater est
+bono".
+
+  (1) Juxta _Formulaire de Mathématiques_ a. 1902, p. 7, Prop. 3·1 et
+  5·3.
+
+Indicatione de genere evanescit saepe in lingua scientifica.
+
+In lingua familiare sufficit conservare genere in uno pronomen "is, ea,
+id", vel in antiquo "hi, hae, ho".
+
+
+§ 3.--Numero singulare et plurale.
+
+    «Videtur pluralis inutilis in lingua rationali».
+
+    LEIBNIZ.
+
+Nomen isolato non habet numero. Ad indicando ille scribemus explicite
+"uno, plure".
+
+  Ex.        "unum os habemus et duas aures"
+  fit        "habemus uno uno ore, et duo plure aure",
+
+et post simplificatione logico "uno uno" = "uno", et "duo plure" =
+"duo", nam "duo" continet idea de "plure", propositio
+
+  fit:       "habemus uno ore et duo aure".
+
+Ex. "Omne homo est mortale, aliquo homo est nigro, multo homo est
+pauper, pauco homo est divite, plure homo est sapiens".
+
+  Propositione: "Romani eligebant duo consules"
+  fit           "Populo Romano eligebat duo consule".
+
+
+§ 4.--Conjugatione de verbo.
+
+    «Personae verborum possunt esse invariabiles, sufficit variari
+    _ego_, _tu_, _ille_, etc.».
+
+    LEIBNIZ.
+
+Lingua latino habet discurso directo, ut:
+
+    "Amicitia inter malos esse non potest"
+
+et discurso indirecto:
+
+    "(Verum est) amicitiam inter malos esse non posse".
+
+Si nos utimur semper de discurso indirecto, in verbo evanescit
+desinentia de persona, de modo, et saepe de tempore.
+
+Sumimus ergo nomen inflexibile, per persona modo et tempore, sub forma
+magis simplice, qui es imperativo, activo et passivo. Regula es:
+
+  «a) Ad forma inflexibile "es,  pote,  vol,   fi"
+  responde infinito       "esse, posse, velle, fieri".
+
+  b) Ad forma inflexibile de alio verbo adde _-re_, et te habe
+  infinito, ut es in vocabulario latino.
+
+  c) Ad verbo activo adde _-re_, et te habe passivo.
+
+  d) Nos transforma verbo deponente in activo».
+
+(Verbo "vol, dice, duce, face", et regula d) non es exacto latino
+classico).
+
+Nos indica persona cum "me, te, nos ...", modo cum "si, ut, quod, ...",
+tempore cum "heri, jam, in passato, nunc, cras, in futuro, vol,
+debe, ...".
+
+Ex. "Me scribe.--Vos lege.--Cras me i ad Roma.--Cras me, postquam veni
+ad Roma, scribe ad te.--Heri me lege dum te scribe et antequam Petro
+veni.--Si te narra, nos audi.--Ut te vale."
+
+
+§ 5.--Altero reductione de desinentia de verbo.
+
+Exsta aequalitate logico:
+
+  lauda-nte = qui lauda
+  lauda-ndo = dum lauda
+  lauda-to  = qui aliquo lauda
+
+(hoc es: "quem aliquis laudat", juxta regula de § 1)
+
+  lauda-turo = qui lauda in futuro
+  Petro lauda-re ab Paulo = Paulo lauda Petro.
+
+Si in loco de primo membro de uno ex hic aequalitate nos scribe secundo,
+omne desinentia evanesce.
+
+Sed aliquo desinentia, et non necessario, pote es utile, ut "-nte, -to",
+desinentia "-vi, -bi" de passato et de futuro, et forma neolatino: "habe
+ama-to, es ama-to, ...".
+
+
+§ 6.--Vocabulario.
+
+Vocabulario latino commune suffice ut nos traduce hic lingua. Sed si
+plure auctore adopta "latino sine flexione", tunc es utile publicatione
+de proprio vocabulario, qui:
+
+1) Contine nomen et verbo, solo sub forma inflexibile.
+
+2) Contine vocabulo internationale, ut "metro, dyne, ...".
+
+3) Elige suo voce ex toto latinitate, etiam ex latino populare. Igitur
+nos posse sume regula:
+
+«Omne voce qui pertine ad duo lingua neolatino, p. ex. italo et franco,
+es latino».
+
+4) Simplifica derivatione et compositione de vocabulo.
+
+De ultimo subiecto me hic breviter dice.
+
+a) Substantivo diminutivo: "hortulo = parvo horto", etc.
+
+b) Substantivo abstracto ex adiectivo vale adiectivo. Ex. "bonitas =
+bono", "altitudo = alto".
+
+c) Adiectivo qui deriva ab sustantivo vale genitivo: "aureo = de auro",
+"vitulino = de vitulo", "Romano = de Roma", "chartaceo = ex charta",
+"animoso = cum animo".
+
+d) Substantivo abstracto ex verbo vale verbo.
+
+"Laudatio" = italico "il lodare" = anglo "to laud", vel simpliciter
+"laud".
+
+"Vita est cogitatio" fi "vivere est cogitare", in discurso indirecto (§
+4) "vivere esse cogitare", post reductione ad radice: "vive es cogita".
+
+Ita "amor = ama", "gaudio = gaude", ...
+
+e) "Lauda-tore = qui lauda", vel "qui sole lauda".
+
+f) Adiectivo verbale: "erra-bundo = qui saepe erra", "tim-ido = qui sole
+time", "mord-ace = qui sole morde", "ama-bile = qui aliquo pote ama".
+
+g) Adverbio extracto ex adiectivo vale adiectivo. Ita in latino classico
+"brevi, raro, ..." es adiectivo et adverbio.
+
+h) In modo simile ad "ne-sci, ne-fasto, n-ullo" nos forma: "ne-facile =
+difficile" "ne-digno = indigno" "ne-normale = abnormale" "ne-es = de-es"
+"ne-multo = pauco", etc.
+
+i) Alio praefixo, p. ex. "ab", indica oppositione.
+
+j) In modo simile ad "agricola = agro-colente" "homicidio = homo-caede",
+lice scribe: "auro-corona = corona de auro", "me-patre = meo patre",
+etc.
+
+Lingua sinense habe omne hic simplificatione, et alio.
+
+
+§ 7.--Pronuntia de latino.
+
+Pronuntia de latino non es uniforme in diverso populo. Forma meliore es
+antiquo:
+
+  _ce_, _ci_ ut italo _che_, _chi_, franco _que_, _qui_, germano _ke_,
+        _ki_.
+  _ge_, _gi_      »   _ghe_, _ghi_,    »   _gue_, _gui_,     »    _ge_,
+        _gi_.
+  _ti_            »   _ti_, non _zi_.
+  _y_ ut franco _u_, germano _ü_.
+  _ae_ ut _e_ aperto, franco _è_, germano _ä_.
+  _oe_ ut franco _eu_, germano _ö_ (hoc es conventione).
+  _th_ ut anglo _th_, graeco moderno [theta].
+  _ph_, sono producto quando nos suffla flamma. (Deriva ex graeco antiquo
+        [phi]; graeco moderno pronuntia _f_).
+  _ch_, ut germano _ch_, etrusco _c_.
+  _h_, aspirato, ut germano.
+  _rh_, ut franco _r_.
+  _qu_ sona ut _cu_ in neolatino; hic duo syllaba es differente et in
+      positione, et in pronuntiatione antiquo(5).
+
+  (2) Vide A. ~Meillet~, _Introduction à l'étude comparative des langues
+  indo-européennes_, Paris a. 1903 pag. 56.
+
+Omne alio litera ut in italo.
+
+
+HISTORIA
+
+Quum plure populo es in reciproco contacto, per ratione de politica,
+scientia et commercio, semper se manifesta necessitate de inter-lingua.
+
+Diverso populo, sub imperio Romano, adopta latino populare, qui es
+latino cum simplificatione de caso (§ 1).
+
+Populo Saxone, in contacto cum Anglo, forma lingua anglo moderno, qui
+contine simplificatione de caso (§ 1), de genere (§ 2), et in parte
+simplificatione de persona et de modo (§ 4). Lingua anglo tende ad
+perdita de omne flexione et ad monosyllabismo.
+
+Ita, in tempore historico, ori "Lingua franca" in porto de Mediterraneo,
+"Pidgin" in Sina, "Urdu" in India, etc.
+
+Hodie omne homo de Europa et de America, qui habe plure relatione cum
+extero, clama lingua internationale. Nam suffice lingua nationale ad qui
+habe solo relatione nationale. Conoscentia de tres aut quatuor lingua
+principale suffice ut nos lege, in originale aut in versione omne libro
+jam celebre. Sed hodie Russo, Polacco, Rumeno, Japonico, ... publica in
+suo lingua libro originale, et non solo libro scholastico.
+
+Adoptio, ut inter-lingua, de lingua vive-nte, non es possibile, per
+causa de politica.
+
+Plure homo propone latino classico. Vide:
+
+Prof. A. VALDARNINI de universitate de Bologna, _Necessità d'una lingua
+internazionale e lo studio del latino_, in "Primo congresso
+internazionale latino", Roma a. 1903.
+
+Hic congresso exopta:
+
+«ut sermo latinus inter gentes universas communis habeatur, et
+adhibeatur ad humanitatis commercium fovendum, augendum, tenendum».
+
+Ibi congressista loque neolatino, ut italico, franco, provenzale, rumeno
+et castellano, raro latino classico.
+
+Et periodico "Phenix" in London, "Praeco latinus" in Philadelphia, "Vox
+urbis" in Roma sustine idem idea; sed primo mori in anno 1892, et
+secundo in 1902. Ergo adoptio de latino fi semper minus probabile.
+
+Multo auctore, in vario tempo, propone lingua plus vel minus
+artificiale.
+
+Vir doctissimo, L. COUTURAT professore in Universitate de Toulouse, in
+libro _La Logique de Leibniz_, Paris a. 1901 p. 608, expone:
+
+_Ars magna_ de R. LULLE a. 1234-1315,
+
+_Ars magna sciendi_ de KIRCHER a. 1669,
+
+_Ars signorum_ de DALGARNO a. 1661,
+
+_Philosophical language_ de WILKINS a. 1668.
+
+Postea Leibniz diffuse et profunde stude hic subjecto; sed nihil
+publica. Suo studio mane sepulto in bibliotheca de Hannover, usque ad
+nostro die; primo Dr Vacca in RdM., postea Couturat in libro citato
+detege et publica parte de hic manuscripto. Suo importantia magis pate,
+et denique L. COUTURAT publica «Opuscules et fragments inédits de
+Leibniz», Paris a. 1903, p. XVI-682, qui contine studio de Leibniz,
+summe praetioso per constructione de Vocabulario philosophico.
+
+Libro, nunc edito, L. COUTURAT et L. LEAU _Histoire de la langue
+universelle_, Paris a. 1903 p. XXI+571, expone 56 projecto de lingua
+artificiale.
+
+Me hic breve loque de magis noto.
+
+
+
+SCHLEYER, parrocho, in anno 1881 publica «Volapük», qui es
+transformatione de lingua anglo, ut ipse dice.
+
+Hic lingua regularisa declinatione de nomen, et conjugatione de verbo;
+sed introduce nullo simplificatione rationale, qui Leibniz propone. Ille
+contine immenso numero de conventione. Volapük sume in principio multo
+diffusione. In anno 1888 habe 283 club, et 25 periodico, in omne parte
+de terra. Plure conventione produce discordia inter sectatore, et post
+congresso de Paris, in anno 1889, hic lingua decade et mori.
+
+
+
+ZAMENOF, doctore in medicina, in anno 1887, publica «Esperanto», qui
+contine simplificatione de genere (§ 2), de persona (§ 4). Sed non
+contine simplificatione de caso (§ 1), de numero (§ 3) et de modo (§ 5).
+Esperanto reduce toto grammatica ad 16 regula, de qui nullo es
+necessario.
+
+Et Esperanto contine magno numero de conventione, etsi minus quam
+Volapük, et in grammatica, et in vocabulario.
+
+Esperanto habe hodie 9 periodico; jam plure sectatore propone
+simplificatione; ille seque via de Volapük.
+
+
+
+Et notato-digno es «Langue bleue» de L. BOLLACK. Ibi, ex numero de
+littera, nos vide si voce es vacuo, vel pleno, ut in sinense.
+
+
+
+Nunc me loque de projecto cum pauco novo conventione.
+
+
+
+«Lingua» de HENDERSON, a. 1888, es vocabulario latino, cum grammatica de
+typo Anglo.
+
+
+
+Dr Daniel ROSA simplifica idea de Henderson, et publica «Le
+nov-latin»(2). Ille dice:
+
+  (3) _Bollettino dei Musei di Zoologia e Anatomia comparata della Regia
+  Università di Torino_, a. 1890.
+
+«Le nov-latin non requirer pro le sui adoption aliq congress. Omnes
+poter, cum les praecedént regulas, scriber statim ist lingua. ... Sic
+faciént ils vol valide cooperar ad le universal adoption de ist
+international lingua et simul ils vol poter star legé ab un mult major
+numer de doctes quam si ils haber scribé in quilibet alter vivént
+lingua».
+
+Ex hoc resulta quod Novlatin conserva pauco flexione (plurale in _-s_, 2
+participio, ...), et es quam proximo ad "lingua rationale" de Leibniz et
+ad "latino sine flexione".
+
+Domino George J. HENDERSON, in periodico, «The lingua franca of the
+future», qui ille dirige, a. 1901, perfectiona suo projecto, et dice:
+
+«Quare debe-nos non facere ex i Latine Lingue i Internationale Lingue?
+
+«I Latine Lingue esse nimis difficile. Post decem annes de studere,
+pauce discipules pote, legere facile, vel scribere accurate, vel loquere
+aliquantulum i Latine Lingue.»
+
+(_I_ articulo, plurale in _-s_, desinentia _-e_, ...)
+
+
+
+Societate, qui habe nomen "Akademi internasional de lingu universal"
+adopta vocabulo magis internationale, et post multo studio et
+discussione, in a. 1902, publica "Idiom neutral".
+
+«Idiom neutral es usabl no sole pro scribasion, ma et pro parlation.»
+
+Ergo, principio de maximo internationalitate duce ad vocabulo latino.
+
+
+
+"The American Philosophical Society" in an. 1887, pro formatione de
+inter-lingua, propone abolitione de articulo (ut in latino et in russo),
+de flexione de adjectivo, de caso de nomen, de persona et modo de verbo,
+et, in modo dubitativo, abolitione de plurale de nomen, et tempo de
+verbo.
+
+
+
+Quaestio de inter-lingua nihil habe hodie commune cum ideographia, qui
+nos adopta in «Formulario mathematico».
+
+Ideographia es synthese; cum auxilio de pauco idea primitivo, circa
+decem, ille compone idea complexo; ita _hodie_ cum ideographia nos pote
+scribe toto mathematica, sed mathematica solo.
+
+Lingua artificiale es analyse. Ille decompone idea de lingua commune in
+alio idea plus simplice.
+
+Si in futuro analyse et synthese invicem conveni, ut duo exercito de
+minatore, qui labora tunnel ex duo extremitate, tunc «Lingua rationale»
+et «Characteristica universale» de Leibniz fore idem.
+
+
+
+Vide quoque:
+
+H. DIELS, _Ueber LEIBNIZ und das Problem der Universalsprache_, Berlin
+Sitzungsberichte d. Akademie, a. 1899 p. 579.
+
+Prof. G. BELLAVITIS, _Pensieri sopra una lingua universale e su alcuni
+argomenti analoghi_, Mem. dell'Ist. Veneto; vol. XI a. 1862, pag. 33-74.
+
+
+
+_Délégation pour l'adoption d'une langue auxiliaire internationale_, qui
+porta firma de numeroso scientiato de plure universitate, academia,
+repraesentante de societate philosophico, de commercio et de sport. Ipse
+delegatione declara:
+
+«Lingua auxiliaria internationale
+
+«1. posse servi ad relatione de vita sociale, de commercio, et de
+scientia et philosophia.
+
+«2. Omne homo, qui habe instructione elementare medio, facile disce hic
+lingua.
+
+«3. Hic lingua es proprio ad nullo natione.»
+
+Prof. L. COUTURAT explica hic idea in opusculo: «_Pour la langue
+internationale_» a. 1901. Periodico _Revue des questions scientifiques_,
+Bruxelles a. 1902, t. 1, p. 547-586 reproduce scripto de Couturat, cum
+observatione de P. P. PEETERS. Couturat responde in t. 2, pag. 213-230.
+Nullo objectione de PEETERS vale per "Latino sine flexione".
+
+
+CONCLUSIONE
+
+Articulo, qui praecede, proba quod flexione de nomen et de verbo non es
+necessario.
+
+«Se, invece di dizionario latino, noi cercare ogni parola in dizionario
+italiano, noi scrivere in italiano senza flessione.»
+
+Articulo, qui seque, contine versione litterale de plure propositione
+Germano et Anglo. Ille proba, quod suppressio de omne flexio non redde
+discurso magis longo.
+
+    G. PEANO.
+
+
+
+
+PRINCIPIO DE PERMANENTIA
+
+Exercitio de Latino recto
+
+
+[Omne vocabulo es inflexibile.
+
+Vocabulario latino commune, qui contine nominativo et genitivo de nomen,
+infinito de verbo, contine omne vocabulo de hic Nota, aut identico, aut
+cum abbreviatione:
+
+  a) Si termina in _-a_, muta _-a_ in _-are_, vel in _-ari_, et es
+     infinito de verbo.
+
+  b) Si termina in _-e_, muta _-e_ in _-ere_, vel _-i_, et es infinito de
+     verbo;
+  vel muta _-e_ in _-is_ et es genitivo de nomen,
+   »    »        » _-es_ et es nominativo de nomen.
+
+  In loco de _me_, _te_, _aliquo_, quaere _ego_, _tu_, _aliquis_.
+
+  c) Si termina in _-i_, muta _-i_ in _-ire_, vel _-iri_, et es infinito
+     de verbo.
+
+  d) Si termina in _-o_, muta _-o_ in _-us_ _-um_ _-u_, et est nominativo
+     de nomen, vel muta _-o_ in _-i_ et es genitivo de nomen.
+
+  e) _es_ quaere _sum_, _esse_.]
+
+Aliquo auctore introduce numero negativo, fracto et imaginario, ut
+applicatione de regula, qui ille dice "principio de permanentia". Hic
+principio varia aliquanto prope diverso auctore.
+
+Prof. SCHUBERT, in _Encyclopädie der Mathematischen Wissenschaften_,
+t. 1, p. 11, expone hic principio sub forma claro sed erroneo. Ille
+dice:
+
+«_Princip der Permanenz_ in viererlei besteht:
+
+«erstens darin, jeder Zeichen-Verknüpfung, die keine der bis dahin
+definierten Zahlen darstellt, einen solchen Sinn zu erteilen, dass die
+Verknüpfung nach denselben Regeln behandelt werden darf, als stellte sie
+eine der bis dahin definierten Zahlen dar;
+
+«zweitens darin, eine solche Verknüpfung als Zahl im erweiterten Sinne
+des Wortes zu definieren und dadurch den Begriff der Zahl zu erweitern;
+
+«drittens darin, zu beweisen, dass für die Zahlen im erweiterten Sinne
+dieselben Sätze gelten, wie für die Zahlen im noch nicht erweiterten
+Sinne;
+
+«viertens darin, zu definieren, was im erweiterten Zahlengebiet gleich,
+grösser und kleiner heisst».
+
+Versione:
+
+«Principio de permanentia ex quatuor articulo consta:
+
+«1. ad omne signo-reunione(3) qui non repraesenta numero qui nos ante
+defini, nos tribue tale senso, ut nos posse tracta reunione juxta idem
+regula, velut si hic reunione repraesenta numero, qui nos ante defini;
+
+«2. nos defini hic reunione ut numero, in lato senso de vocabulo, et ita
+nos extende idea de numero;
+
+«3. nos demonstra quod per numero in lato senso omne theorema vale, ut
+per numero in non lato senso;
+
+«4. nos defini, quod in campo de numero lato nos voca aequale, maiore et
+minore».
+
+  (4) Vide «Latino sine flexione» § 6 j).
+
+Si omne regula et omne theorema super numero in senso non lato subsiste
+super numero in senso lato, necesse es ut numero in senso lato es
+identico ad numero in senso non lato. Nam duo ente es inter se aequale,
+si omne proprietate de uno es quoque proprietate de alio. Hoc es ipse
+definitione de aequalitate:
+
+«Eadem sunt quorum unum in alterius locum substitui potest, salva
+veritate» (Leibniz, vide Formulario § 2, P4·3) quod me traduce: «Plure
+ente es idem, si nos posse substitue uno de ille in loco de altero, et
+veritate (de propositione) es salvo».
+
+Quum nos trans-i ab uno specie de numero ad specie magis lato, semper
+debe omitte aliquo proprietate.
+
+Relatione a + b > a es vero per numero absoluto, falso per numero cum
+signo.
+
+Si nos trans-i ab numero imaginario simplice ad quaternione, nos omitte
+proprietate commutativo de producto.
+
+Ergo definitione, qui nostro auctore da de 0, de numero negativo, de
+fracto, etc. basa super principio absurdo. Hic definitione non es
+legitimo.
+
+
+
+Nos repete idem critica ad _Elementare Arithmetik und Algebra_ de ipse
+Prof. SCHUBERT (Leipzig a. 1899, pag. 33) qui enuntia ipse principio cum
+primo et secundo articulo.
+
+
+
+HANKEL, _Theorie der Complexen Zahlensysteme_, Leipzig, a. 1867, quum
+nancisce «principio de permanentia de lege formale», dice in pagina 5:
+
+«Wenn b > c ist, ... die Subtraction ist ... unmöglich. Nichts hindert
+uns jedoch, dass wir in diesem Falle die Differenz (c - b) als ein
+Zeichen ansehen, welches die Aufgabe [(c - b) + b = c] löst und mit
+welchem genau so zu operiren ist, als wenn es eine numerische Zahl aus
+der Reihe 1, 2, 3 ... wäre».
+
+Versione: «Si b > c es, subtractione es ne-possibile. Nihil obsta tamen,
+quod nos in hic caso considera differentia (c - b) ut signo, qui resolve
+quaestio, et cum qui exacte nos debe opera, ut si ille numero ex serie
+1, 2, 3, ... es».
+
+Contra hic modo de ratiocinio Gauss antea dice:
+
+«Quodsi quis dicat, triangulum rectilineum aequilaterum rectangulum
+impossibile esse, nemo erit qui neget. At si tale triangulum impossibile
+tanquam novum triangulorum genus contemplari, aliasque triangulorum
+proprietates ad illud applicare voluerit, ecquis risum teneat? Hoc esset
+verbis ludere seu potius abuti». (Formul. pag. 219). Versione:
+
+«Si aliquo dice quod triangulo rectilineo aequilatero rectangulo
+impossibile es, nemo tunc es qui nega. Sed si aliquo velle contempla
+tale triangulo impossibile tanquam novo genere de triangulo, et applica
+ad illo omne alio proprietate de triangulo, an qui tene riso? Hoc es
+lude cum verbo, vel potius abute».
+
+
+
+Prof. CHRISTAL, _Algebra_, Edinburgh a. 1889, p. 6, re-dice idea de
+Hankel:
+
+«Assuming that the quantity +a - b always exists, we may show that the
+laws of commutation and association hold».
+
+Versione:
+
+«Si nos assume quod quantitas +a - b semper existe, posse monstra quod
+lege de commutatio et associatio mane».(4)
+
+  (5) Nota analogia grammaticale de «show» cum «monstra».
+
+Hoc es, si nos assume absurdo, non solo nos posse deduce lege de
+commutatione, sed omne lege qui nos velle, nam ex absurdo omne
+consequentia deriva.
+
+Non sub forma de principio absoluto, sed sub forma de consilio, lice
+quod nos dice:
+
+«Quum nos introduce novo calculo, es multo utile quod nos sume
+nomenclatura et notatione ita ut novo calculo fie quam maxime simile ad
+calculo antiquo».
+
+Me dice «quam maxime simile»; «identico» es absurdo.
+
+Ita Algebra, qui indica cum idem signo +, ×, = ... operatione non solo
+inter numero integro, sed etiam inter fracto, es magno progresso super
+longo methodo de antiquo graeco; Algebra reduce toto libro X de Euclide,
+noto per magnitudine et difficultate, ad uno pagina, qui professore sole
+doce in uno lectione in Instituto tecnico (Vide Formul. p. 111).
+
+In saeculo ultimo plure auctore indica cum idem signo +, sive summa de
+algebra, sive resultante de vectore, et ita construe Calculo geometrico,
+qui in respecto ad Geometria, es idem progresso quam Algebra in respecto
+de Arithmetica graeco.
+
+Tunc principio de permanentia idem es ac principio generale de
+oeconomia, qui subsiste in linguistica, didactica et politica, ut
+demonstra E. MACH, in capitulo de «natura oeconomico de progresso
+physico» de _Populär-wissenschaftliche Vorlesungen_, Leipzig a. 1903.
+
+    G. PEANO.
