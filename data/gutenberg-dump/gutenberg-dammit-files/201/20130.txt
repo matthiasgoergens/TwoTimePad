@@ -1,0 +1,1248 @@
+THE AUGUSTAN REPRINT SOCIETY
+
+                     G. W.
+
+                  MAGAZINE, or
+
+             Animadversions on the
+               English Spelling
+
+                    (1703)
+
+
+               Introduction by
+               David Abercrombie
+
+             Publication Number 70
+
+                 Los Angeles
+     William Andrews Clark Memorial Library
+           University of California
+
+                     1958
+
+
+
+GENERAL EDITORS
+
+RICHARD C. BOYS, University of Michigan
+RALPH COHEN, University of California, Los Angeles
+VINTON A. DEARING, University of California, Los Angeles
+LAWRENCE CLARK POWELL, Clark Memorial Library
+
+ASSISTANT EDITOR
+
+W. EARL BRITTON, University of Michigan
+
+ADVISORY EDITORS
+
+EMMETT L. AVERY, State College of Washington
+BENJAMIN BOYCE, Duke University
+LOUIS BREDVOLD, University of Michigan
+JOHN BUTT, King’s College, University of Durham
+JAMES L. CLIFFORD, Columbia University
+ARTHUR FRIEDMAN, University of Chicago
+LOUIS A. LANDA, Princeton University
+SAMUEL H. MONK, University of Minnesota
+ERNEST C. MOSSNER, University of Texas
+JAMES SUTHERLAND, University College, London
+H. T. SWEDENBERG, JR., University of California, Los Angeles
+
+CORRESPONDING SECRETARY
+
+EDNA C. DAVIS, Clark Memorial Library
+
+
+
+INTRODUCTION
+
+
+I first came across what is, as far as I know, the unique copy of
+_Magazine_, by G. W., when working in the library formed by the late Sir
+Isaac Pitman.[1] It is bound up as the last item in a volume which
+contains several nineteenth-century pamphlets on language and spelling,
+and also the first numbers of the periodical _The Phonetic Friend_. (The
+volume was for a time in the possession of the Bath City Free Library,
+to which it was presented by Isaac Pitman; it must subsequently have
+been returned to him.) I drew attention to the existence of _Magazine_
+in an article published in 1937;[2] to the best of my knowledge it had
+not been noticed in print before that, though it is of considerable
+interest in a number of respects. I am indebted to Sir Isaac Pitman &
+Sons Ltd., London, for permission to reproduce the pamphlet herewith in
+the Augustan Reprints.
+
+G. W. was a spelling reformer, one of the many writers who, from early
+Elizabethan times onwards, have been critical of traditional English
+orthography and have made proposals for improving it. Although nothing
+that could be called a spelling-reform “movement” existed until the
+nineteenth century, there were earlier periods when the subject was much
+in the air, when a number of people were writing about it and reading
+and discussing each other's ideas. The publication of _Magazine_ does
+not fall at one of these times; it comes, in fact, in the very middle
+of a recession of interest in spelling reform which lasted almost
+a hundred years. From about 1650 to 1750 there were few critics of
+our orthography, and they were usually neither very strong in their
+criticisms nor radical in their proposals for amendment. G. W. is thus a
+somewhat isolated figure, and his scheme for reform would appear, in its
+details at least, to be fairly original.
+
+The greater part of the pamphlet is given over to expounding the
+illogicalities and inconsistencies of the established spelling, and here
+G. W.'s style of writing, which is colloquial, racy and allusive, is
+effective enough. It is not so well suited, however, to orderly and
+clear exposition of his proposed amendment--unfortunately, since this
+is what is likely to be of most interest to us today (and numerous
+misprints increase the difficulties of grasping his proposals). Perhaps
+there was, or was to have been, a sequel which would have stated his
+reforms more systematically; that this may have been the case appears
+from the statement on p. 25 that the alphabet “is preparing,” and
+from the mention, on the last page, of “the ensuing Batl-dur” (i.e.
+battledore or hornbook). His remedy, briefly, is to replace digraphs by
+new symbols: “more Letters would do well in the Alfabet, but fewer in
+most words” (p. 25); and, like John Hart before him (whose works perhaps
+he knew) and Bernard Shaw after, he draws attention to the economies to
+be gained from this: “if fewer Letters will serve the turn, 'twill save
+Paper and Ink, and 'tis strange, if not labour too” (p. 5).
+
+On p. 32 is exhibited “a compleat Alfebet” of 34 symbols (it is not
+complete, for L has, apparently inadvertently, been omitted). Although
+there is no indication there of the value each symbol should have, that
+of most of them can be worked out, with some labor, from the rest of the
+pamphlet (though a few must probably remain mysteries). I have commented
+elsewhere[3] on this scheme of reformed spelling; it appears to us today
+to be theoretically quite creditable, at least as far as the consonants
+are concerned. The traditional alphabet is enlarged by providing a
+separate symbol for the italicized sounds in each of the following
+words: {th}in {th}en {ch}urch {j}udge {sh}all mea{s}ure {wh}en si{ng};
+these symbols are obtained partly by creating new ones, partly by
+redefining existing letters. In two cases existing letters are redefined
+in accordance with a rather odd principle--that the traditional _name_
+of a letter must decide its value. Hence _h_ is used to spell _church_
+(which becomes “hurh”), and _g_ is used to spell _judge_ (which becomes
+“gug”). This of course makes it necessary for G. W. to include among his
+new symbols one for /h/ and one for /g/. The new symbols as used in the
+pamphlet are produced by inverting or reversing existing letters; but
+these may possibly be makeshifts, used in place of more ambitious shapes
+which were beyond the reach of his printer; he suggests, for instance
+(p. 20) “the sign Taurus with a Foot-Ball between his horns” as one
+of his vowel symbols. On the whole, we find the vowels much less
+systematically tackled than the consonants, and it is proposed that
+accents (“cambrils”) should for the most part be used to provide extra
+symbols; the pamphlet, however, only exemplifies this sporadically.
+
+_Magazine_ contains a considerable number of words, and a few
+consecutive texts, transcribed partly or wholly in the new system of
+spelling, and these necessarily will have to be assessed as evidence of
+contemporary English pronunciation by students of the subject. It is not
+easy to be sure how accurate a phonetic observer and transcriber G. W.
+was, but if we make some allowance for misprints, we find a certain
+consistency in his transcriptions, and an apparent freedom from any bias
+given by the traditional spelling, which make one think he was
+moderately reliable. In this connexion it is of some importance to find
+out, if possible, where he came from. He shows familiarity both with
+northern and western types of speech; but although he seems to imply, on
+p. 7, that he is not a North-countryman, E. J. Dobson has found, on the
+basis of certain forms which appear in the pamphlet, that there is a
+strong suggestion that he spoke a northern dialect.[4]
+
+Until recently I had been able to form no idea of the identity of G. W.
+However, it new seems to be very possible that he was John White, a
+Devon schoolmaster, and author of _The Country-Man's Conductor in
+Reading and Writing True English_, which was published in Exeter in
+1701.[5] The name John, in G. W.'s reformed spelling, would of course
+begin with G (it is indeed so spelled on p. 15). White was interested in
+spelling reform, as we know from various remarks in his book; and if he
+was G. W., it would explain the familiarity shown in _Magazine_ with
+western dialect. What is particularly striking, moreover, is the
+similarity of White's style to G. W.'s, as the following quotations from
+_The Country-Man's Conductor_ will show: of certain grammarians, “you
+shall seldom hear them speak Latin but in Ale-Houses, or when they are
+well oil'd”; of specimens of early English, “some may laugh at it, and
+thereby expose their rusty Teeth that will look as old as the English”;
+of using an accent to show long vowels, “this would look strange 'till
+it come in fashion, but in time would set as tite as Topknots do now.”
+
+  [Transcriber’s Note:
+  A more recent candidate for “G. W.” is John Wild. His 1710 broadsheet,
+  “Nottingham Printing Perfected,” is in the “images” directory
+  associated with the html version of this file.]
+
+One final resemblance must be mentioned. Whether or not White was G. W.,
+there can hardly be any doubt that _Magazine_ was printed by Samuel
+Farley of Exeter, the printer of White's book. The typographical
+similarity between _Magazine_ and _The Country-Man's Conductor_ (and
+other works printed by Farley) is too complete to be coincidental. Not
+only are the identical fonts used, but there are numerous other points
+where the general manner of printing is the same.
+
+Further research may confirm White's authorship, but there is certainly
+no other obvious candidate among the writers of the time.
+
+  David Abercrombie
+
+  University of Edinburgh
+
+
+NOTES TO THE INTRODUCTION
+
+[Footnote 1: This library is now housed in the offices of Sir Isaac
+Pitman & Sons, Ltd., Parker Street, London, W.C. 2.]
+
+[Footnote 2: _Le Maitre Phonetique_, No. 59, p. 34. Some of the verses
+on p. 22 of the pamphlet are reproduced there.]
+
+[Footnote 3: In the _Transactions of the Philological Society_, 1948,
+pp. 11 ff.; _Lingua_, Vol. 2, 1949, p. 60.]
+
+[Footnote 4: _English Pronunciation 1500-1700_, Vol. 1, p. 267. In Vol.
+II, p. 977, Dobson says “G. W. was certainly a Northerner.”]
+
+[Footnote 5: A “second edition” called _The Conductor in Spelling,
+Reading & Writing, True English_, dated 1712, is identical with the
+first except for the title-page.]
+
+
+
+                   MAGAZINE,
+
+                      or,
+
+                Animadversions
+
+                     on the
+
+               English Spelling;
+
+OBSERVING
+
+The Contradictions of the English Letters Warring themselves against
+themselves, and one with another, by Intrusions and Usurpations; with
+Amendment offer’d.
+
+For the Benefit of all Teachers and Learners, Writers and Readers,
+Composers and Scriveners, whether Strangers or Natives, who are
+concern’d with our English Tongue.
+
+  _Nunquam sera est ad bonos mores via._ Syntax.
+
+By G. W.
+
+  _LONDON_: Printed for the Author. 1703.
+    Price Sixpence.
+
+
+
+
+_Magazine, that is low Learning, too high for the Capacity of the
+Vulgar; Or the Schooler School’d. _viz_, _Babel_ pull’d down, and
+Confusion Confounded. The latter Survey of the English Letters, and ways
+of Amendment, where things are too much amiss to be excus’d, only
+referring all to the good will of those that are willing to amend their
+perceiv’d mistakes and unwilling to fall into their former Errors
+again._
+
+Q. Horatij Flacci, Epistolarum Liber secundus. Ad Augustum Epist. I.
+Paulo post initium.
+
+  Si meliora dies, ut vina poemata reddit
+  Scire velim: Pretium chartis quotus arrogat annus.
+  Scriptor abhinc annos centum qui decidit, inter
+  Perfectos veteresque, referri debet, an inter
+  Viles atque novos? Excludat jurgia finis.
+  Est vetus atque probus centum qui perficit annos.
+  Quid? Qui deperiit minor uno mense vel anno.
+  Inter quos referendvs erit veteresne poetas.
+  An quos & præsens & postera respuat ætas?
+  Iste quidem veteres, inter ponetur honeste.
+  Qui vel mense brevi vel toto est junior anno.
+  Utor permisso; caudaque pilos ut equina
+  Paulatim vello, & demo unum, demo etiam unum.
+  Dum cadat.----
+
+
+_The Second Book of Epistles of _Quintus, Horatius, Flaccus_. The First
+Epistle unto the Emperour _Augustus Cæsar_, in whose days our Saviour
+Christ was Born._
+
+Thus English’d.
+
+  There is a thing I fain would know,
+    As Age doth make Wines better;
+  Whether to Papers it doth so,
+    And what’s Writ on’t with Letter,
+  And what Age gives a Reverence
+    To Papers, I would know:
+  If Authors Credits got by Tense
+    Of Hundred Years or mo?
+  An Ancient currant Author then,
+    And Hundred Years is Old?
+  Or is he of the Slight Gown men,
+    That Writ then as ’tis told?
+  Set down the time that strife may cease:
+    And hundred Years is good,
+  If one Month short, or Year he bears,
+    Doth he slick in the Mud?
+  No, for one Month or Year, we grant,
+    And very honestly too;
+  He shall be counted Ancient
+    Without so much ado.
+  What you do grant, I’m very free
+    To use now at my pleasure:
+  Another Month, or Year, d’ ye see
+    I’ll bate, as I have leasure;
+  So Hair by Hair, from the Mare’s Tail
+    I’ll pull, as well I may.
+  So what is good, is quickly stale,
+    Though Writ but t’ other day.
+
+That we make something to discourse upon further, I’ll take an Example
+or two from the two Tables, wherein one Sound is Spell’d diverse ways,
+and again the same Letters make diverse Sounds.
+
+
+First then, âz, dayes, praise, phrase, gaze.
+
+A. Asia, day, fair, wear, heir.
+
+E. Phebe, key, the, sea, yea, weigh, either, holy.
+
+I. Why, I, high, try, tie, buy.
+
+O. Who, know, bow, toe, tow, dough.
+
+U. True, dew, Hugh, neuter, give, you, gaol, jaylor, goal, John, gives
+_dat_; gives _compedes_, gill of fishes, gill of water, ague, plague,
+anger, and danger, guard, reguard, spring, a well, spring of steele,
+jet, and ginger, and finger, ghost, god, and Ghurmes, and age, ages,
+cares.
+
+Our Children are not Witches, that they should guess to Read right by
+the Letter, such stuff as this, and the Masters are no very great
+Conjurers, to perceive nothing; what contradictions they make ’em
+swallow.
+
+First then dayes, that is da--yes, why should not yes spell yes at the
+end, as well as at the beginning of a word: Again, why might we not
+spell dayes thus, daise as well as praise, and spell praises, prayes,
+da--i--se: I see day, why not se, see, as well as he, h--? And why not
+dase, dayes, and phrayes, phrase, or phraise, phrase, and daze, dayes;
+and why not daze, or dase, daisey, or daisy, hei, daisy: how can Ladies
+be blam’d for Writing bad English, when Scholars spell no better?
+
+A, as Asia, why not da; fare and ware; how can one Vowel have another,
+at command to make it long; a circumflex might do it. But you answer it
+is our custom, and Books would not be read if we change the spelling;
+but is there not a right spelling as Ancient as wrong? Is not the as
+ancient as weigh, yea, sea, holy, key. Then ’tis wit to use the proper
+spelling, and leave off impertinencies; and if fewer Letters will serve
+the turn, ’twill save Paper and Ink, and ’tis strange, if not labour
+too, for Writers; no doubt for Teachers it will.
+
+And how many ways do we pronounce you? yo, yau, yeu, yiu, you, yuu, yet
+every dialect praise their own Speech, nay in Towns near together, nay
+in the same Town, nay in the same House, persons born in other places,
+differ in pronounciation, and many delight to hear different dialects
+(as the Grecians did) so they did but understand one another, though
+some precise Females do condemn all but their own finical pronunciation.
+
+But why should phrase be spell’d with ph and s, and not f and z? Because
+you say its Original is a Greek word: But it hath been long enough
+freely us’d amongst us, that it may claim prescription for a Licence to
+put on the English garb, and suits pretty well with the Original φραζω
+and hath it not a single f in Greek? So might be frâz, and take with it
+the Greek Precispomene, its right.
+
+But if we spell praise thus, prayes we alter the sense. Why the Eyes are
+as much in the dark to distinguish sound, as the Ears are put to silence
+at the shape of Letters, and which of these is the fitter judge in this
+Controversy, to bring knowledge to the Understanding? That is to be
+observ’d well: But what’s Learnt in Childhood is uncontroulable, as good
+as prescription of an hundred years, and a School-Dames authority is
+irrefragable, as the Proverb says, _Early crookes the Tree, that will
+good Cambrill be_: That to unlearn a Youthful Error, is more than to
+serve an Apprentiseship, or take the Degree of a Doctor or Serjeant. For
+these are deaf and dumb to Learn the contrary, as the dead Letters they
+have Learn’d, though I am loath to compare them to the English Doctor
+_Burnet_’s _Antidiluvian People_ pettrify’d in the Alps, which he saw in
+his Travails:
+
+But in some parts they speak as we spell: Though the Countryman of the
+_North_ in Apron and Iron, pronounce o after r, and we before it: Why
+should we keep their spelling, having lost their speech, and why should
+they not still keep their spelling of old, who still keep the speech?
+’Tis this thought by some of the Learned, that English is the hardest
+Language in the World; for that Foreigners coming over, being past
+Children, never have our speech right, but may be discern’d to be no
+English born, whereas we after a short abode in out-Lands, speak their
+Tongue as well as Natives: Our folk being a mixture of many Nations, is
+so of Languages: But ’tis a wonder, so free as we are to take in their
+words, we take not in their Letters also. The Latines have but Twelve
+Consonants, and Five Vowels, and h, but the Greek and Hebrew may furnish
+us with Letters. The Neighbouring Countries are at a loss for them as
+well as we. If our credit be good, we want to borrow Two letters of the
+Greek, _Gama_, and _Theta_, and Four of the Hebrew, _Thaleth_, _He_,
+_Aim_, and _Shin_, and we should be set up, and with what shift we can
+make of our own.
+
+In the first place what is the English of _Quotus_? But now my Pen is
+silenc’d, except I borrow the Two Greek Letters, and _Thaleth_ of the
+Hebrew, and the _Acute_, and Greek _Circumflex_, to tell how Gótham,
+Gotherd, or gather, is to be red, and which is ment of the 24.
+
+Gôtham, [G]ôtham, Gótham, [G]ótham, Gô[t]am, [G]ó[t]am, Gó[t]am,
+[G]ó[t]am, Gô[c]am, [G]ô[c]am, Gó[c]am, [G]ó[c]am, Gothâm, [G]othâm,
+Gothâm, [G]othâm, Go[t]âm, [G]o[t]âm, Go[t]ám, [G]o[t]ám, Go[c]âm,
+[G]o[c]âm, Gothâm, Go[c]âm.
+
+[G] is _Gama_, [T] is _Theta_, [D] _Thaleth_; ’tis strange my Tongue
+should be longer than my Arms, without eking. ’Tis hard for Dunces to
+understand this as all willful Fools are. Humble humility is better than
+the miserable wisdom of the merciless knowledge of error. Cunning
+fooleries and vanities unlock’d for, to spell the same sound diverse
+ways, and when you have all done, you are but where you was, as prayes,
+praise, prasy. For why may not y stand for nothing after s, as well as
+after a, as may: But where no reason there is for custom, custom is no
+reason. Dasye, and dayes is all one. As the fool thinks, so the Bell
+chinks, for our Letters are like _Wimondes-woles_ Bells. Sure if we have
+these tricks, we have more. Why if y doth no good, it doth nothing. But
+I have a mind it shall stand an out-side there out of the way, as daisy,
+is dayes. Doth (GO{D}) spell the Creator, it spells an Hebrew Letter as
+well. If you hold your book the wrong end upward. I’ve nothing to say
+against it, for ’tis your own, and you may hold it as you please.
+
+But to go on according to Prescript.
+
+2. Whether or no are our 24 Letters sufficient to spell all the words of
+our English Tongue.
+
+3. Whether or no if they be sufficient to spell all words us’d for
+English in our books, they be not sufficient to spell all Languages; if
+_England_ be like _Rome_, Conquering all Nations, took in the Idola[t]ry
+of all Laws, so _England_ being Conquer’d by all, hath not got the
+rubish of all Languages.
+
+4. Whether or no we make good and proper use of those Letters we have.
+
+5. Whether the old use and custom of the Letters for an hundred Years or
+more, be sufficient for justifying the mispelling most words, us’d to
+this day, or whether we had not better mend late than never.
+
+Hereupon we argue. First, It is granted that we have not yet proper
+English for all words in other Languages, nor Letters sufficient to
+express our own; as Authors from time to time do justifie, who have bin
+so little taken notice of by the publick (though there is some small
+amendment made, that can scarce be perceiv’d). The latter Authors
+mentioning the former, all Men of no small Note.
+
+Secondly, There was as good reason for amendment an Hundred Years ago,
+as there is now, and will be as good reason an Hundred years hence to
+delay the amendment, as their is now; not altering a tittle of the known
+Pronounciation of the words, but only of the spelling. That the Letters
+may be of good use, and we need not to Read all by authority, as the
+very Learned Men are forc’d to do in yet unknown words still; so little
+assistance do the Letters yield them, that they the more might pitty
+young beginners. Which thing hath made a many Foreigners (and no marvel
+at all) of all the Neighbouring Nations to throw away their Books and
+Study of English, as their English Grammars, as well as our own, do
+sufficiently declare.
+
+Thus to maintain a thing always unreasonable, will always be (as it hath
+bin) a thing unreasonable and after this rate an error everlasting.
+
+But it is answer’d, that many words be thus Spell’d to shew their
+derivations. That need not be objected, when Scholars can find out the
+Etymologyes, when scarce one Letter remains of their Original, more than
+James from Jacob, Thaddæus and Lebbæus, from Jude the honest, or Judas,
+not Iscareat, and Didymus from Thomas, Giles, Ægidius. As for changing
+the Letters, I shall hope they will put the devines in; I fear not that
+they can put the Lawyers out.
+
+What advantage or disadvantage it may be to Booksellers or Printers, as
+none of my business, I leave to their consideration.
+
+But now to strike at the root of so many errors begotten by false
+Letters, besides a false finical speech according to the Letters, being
+illeterately litterate, as calf, haut, goust.
+
+
+
+
+_The Second Part of low Learning high._
+
+
+The Order.
+
+1. Vowels, 2. Diphthongs, 3. Consonants.
+
+  A is us’d 7 ways, and other Vowels so;
+  When thus, or so, it doth amaze, we have no mark to know.
+
+First, A long in Chamber changed danger commanded. Secondly, Short in
+Amber hang’d Anger, Understanding.
+
+Now suppose Rennard the Fox, or the like old book, was Reprinted, and â
+long Cambril’d, (which the Greeks call _Perispomene_) and a short not,
+would not that be a good guide for reading old Rennard unreprinted, with
+a right pronounciation, though there be no difference in a long or
+short.
+
+Next, if it would please the wisdom of foolish custom (in whose errors
+of this kind (though in nothing else) all Religions meet) being long
+enough advis’d in time, to think fit to amend in the Copy, or at least
+in the Margin, where words are far otherwise spell’d, than they are
+pronounc’d (which the Hebrews call Kery and Kethiu; the Copy as written,
+but Kery the Margin as read, mark’d with Asterisk, one to the other) I
+believe our Printers could as easily Cambril our English Vowels, as
+Circumflex the Latin, which would be a sure guide for reading.
+
+  [Transcriber’s Note:
+  The Hebrew terms are usually written קרי (Keri) and כתיב (Kethiv).]
+
+3dly and 4thly, A short without either rule or reason before a Consonant
+or two, with e after, as ace, acre, able, unstable, father, with A long,
+and solace, massacre, constable, gather, with A short.
+
+5thly, A put for A Cambril to make e or o long, as bear, greater, broad,
+board. 6thly, Put like a Cambril, and is not a Cambril, neither, as
+Beatrice, create, creatour: So is i a false Cambril to a, as foraigners.
+When a person is in Commission, he should wear the livery of his Office;
+but when he signifies nothing, he should not put it on, nay rather, he
+had better keep at home.
+
+7thly, A standing for just nothing, but as the shadow of a Cambril, as
+heaven, earth, bread, head, realm, meadow, read in the Preterperfect
+Tense.
+
+In a Rail of Pales, if one be out to let in one Hog, ’tis enough to let
+in the whole Herd into the Close, is an observation applicable to the
+premisses.
+
+E long and short, and we can see no cause for’t in equally and equity,
+in cement, regard, torment, rebell, register, long and short in the same
+words being Acute when Verbs, and penacute when Nounes. But any Child or
+Foreigner, that never heard the words spoken, might uneasily guess at
+the true pronunciation by the sense, That an Acute would be a great ease
+and comfort to the Reader and Teacher, and no great trouble to the
+Printer.
+
+3dly, and 4thly, E long and short before 2 Cambrils to bear up its
+train, _viz._ e before, and e after a Consonant, also g and e, or i and
+gh, 3 Cambrils, as eare, beare, with a and e; but here with but one
+Cambril; weigh with 2 or 3: In east, bread, stead, it makes no use of
+the Cambrils, only for state A must dance attendance, as in many
+hundreds more.
+
+5thly, and 6thly, e long and short before a consonant or 2, and another
+e, as steple, people, treble and indeleble.
+
+7thly, Syllables are long without e for a Cambril, as dost, most, ghost,
+bright, right, sign, design, and short, notwithstanding e Cambril as
+hence, since, prince, possible, facile, but Prince and Simple proper
+Names be spoken, with i long, that an unknown Reader mistake not the
+persons names.
+
+But how nonsensically e is us’d in the end of syllables short in live,
+love, gives, but long, alive, and gives (fetters) and is pronounc’d and
+unpronounc’d before s, as rages, wages, cages, horses, asses, churches,
+and porches, and not in cares, fears, hopes, robes, bones, and making i
+long and not, as writer, fighter, mitre, hither and thither: In whether,
+e short, and weather, in neither e long; likewise e is pronounc’d and
+unpronounc’d in the middle, as commandements, righteous, covetous,
+stupefie, not in careful, careless, grateful, feareful; not in
+wednesday, and is pronounc’d after a diphthong or double consonant, very
+needlesly, as in inne, Anne, asse, poore, roome, joye, cause, laws,
+coife, choice, juice, and as badly after syllables made long by a or i,
+as feares, roads, theire, veine, veile, either. In Beresford the latter
+e is mispronounced by Scholarship, mistaken to make it trissylable.
+
+8thly, E is pronounc’d sometimes singly in the end of words, as in
+Phebe, Cyrene, Penelope, Euterpe. But these be Greek words, but so is
+not the and be. But what an Husteron proteran is this to teach the Greek
+Grammar before the Battledore.
+
+9thly, E put for a in they, their, and for i in ever, never, evil,
+wevil, devil.
+
+10th, E put for ee, as Peter, Steven, even, he, she, me, we. And
+sometimes ie for the same, as yield, believe, friend, and otherwise in
+fiend, friend, diet, quiet, but not alike neither, but let that run upon
+th’ tongue, made long in people by o, also infeoffe, heofness. _viz._
+Heavens, (f pronounc’d as v) left out in George, biere, friend, leave
+out i, sieve, e; diet; and quiet, take in both.
+
+11th, EE for e long, as beere, drink, deere, venison.
+
+12th, Sometimes ee for twice, e, as Beersheba, overseer.
+
+13th, Y and e, both for one Cambril, because one was perhaps to weak.
+Though one Cambril seems enough for one small veile, as dayes, wayes;
+also i and e, as haires, praise, and w and e, as showes, knows, crowes,
+not in lose. But why may not w serve after a and e, and y after o, I
+know not. Methinks the dead Letters should not be coye on what Cambril
+they’re hang’d on; but I must ask the Butchers, and what doth e after
+Ile, for I will.
+
+14th, E defective in seest, fleeth, freeest, agreed; that prodigal as e
+is of its company, should ever be wanting is a wonder; where there ought
+to be 3 ease, or ez, or thrice e, two for a diphthong, if it may be one
+for the syllable, that the distiction may seeme not heard between seeth,
+beholdeth, and see the boile, e is added.
+
+But alas it is objected lately within this Seven years by _G. B._ that
+Compositors leav out E in days and ways, and such like; Garamercy for
+that! But why do they not leav out y also, which signifies not more, but
+les than e: And why is not i and e cast out of praise and raise, and e
+from wife and strife, which adorn the words no more than Beauty-spots do
+a Whore’s Face: And why is not w for a black Patch, cast awa from know
+and blow, as well as da, and wa hav cast awa their Pock arr-y; and why
+is not w to do, where there’s need; that ’ton need no mock ’tuthr wi’
+the los, and wi’ the load of w: Now indeed we have cast awa ugh from
+though, and although, when som sound is of them, and not left gh out in
+bright, light, thought, where they signify no more than a chip, or herb
+Gohn in poredg: Ha! Ha! He! Yet in floweth and knoweth w sounds well,
+having an influence in the following vowel.
+
+  [Transcriber’s Note:
+  The “herb Gohn” is probably St. John’s Wort, which can be made into a
+  mash or “porridge”.]
+
+15th, Other verieties to make a syllable long without e, as a in boast,
+board, coasts, coales, not holes.
+
+Also Short i, as veil, either, neither, and somtimes ’tis a diphthong,
+as neighbour, eight. Also o, as people, enfeoff, heofness. And u, as
+foure, foul, not in honour, neighbour, where o, and u, stand for as good
+as nothing.
+
+And all Vowels be us’d supervacaneously before l, n, or r; as in
+brethren, coffen, children, open, navill, wevill; not in cavill, Sybill,
+and civill; apron, button, mutton, iron, reason, bacon, treason; and in
+proper names, as Gackson, Gohnson, Wilson, Tomson, Rependon, Repton,
+Donnington; not in God-Son, Common, but in Cousin.
+
+All vowels be us’d in vain before r, as pillar, cellar, winter, summer,
+dinner, curfir, (as it were cover, fire,) honour, donour, neighbour,
+pleasure, measure, nature, feature, scripture, martyr. I is us’d
+severally.
+
+1st and 2dly, I Long and short in the same circumstances, as blind,
+find, mind, with i long, kindred, limb, shrimp, pinch, with i short; gh
+makes i long, as bright, might, plight, &c. and i is long without ’em,
+as bite, kite, write.
+
+3dly and 4thly, I short with a consonant, and e after it, as lives,
+gives, nouns and verbs: Bible, possible, triple, tribled, idle fidle,
+Prince, prince. 5thly, and 6thly, makeing e long, and not as before.
+
+7thly, Used in vain, as gainful, _&c._ as before; also e and a put
+for i, as borage, savage, knowledge, colledge, not in hedge and nonage;
+also y was us’d formerly for i.
+
+But most abominably i is us’d for g, which is unpardonable, when g being
+a letter of a double meaning can do without, as gaol, or goal; why
+should it infect i with its own distemper, to be double minded.
+
+Lastly, W[h]y g[h] ma not make all vowels long as well as i, and w[h]y
+ma not ye and we make vowels long, as well as a, e, and o; we must ask
+t[h]e natural P[h]ilosop[h]ers w[h]at sympat[h]y or antipat[h]y is in
+t[h]e Lettrz; and w[h]et[h]er an occult quality; or t[h]e divines, if
+t[h]ere be not a mystery in it above nature before we adventure to teah
+and cong the batl-dur; and w[h]y I ma not supply t[h]e place of y
+rat[h]er t[h]an g, as in yate, yell, yule, younger, (as Italians).
+
+T[h]is [h]ad bin very excuseable, and not wit[h]out antient president.
+As likewise w[h]y some consonants take exception at some vowels; or some
+vowels at t[h]em, t[h]at t[h]ey change t[h]eir meaning? as c and g,
+sometimes before e and i, and t before ion sometimes.
+
+8thly, W[h]y not always wit[h]out exeption: If t[h]ere be a supernatural
+cause (for we are sure t[h]eir is no natural one) for t[h]ese t[h]ings,
+t[h]ey will declare it, if not; t[h]ere must needs be a preternatural
+won.
+
+O, is us’d accordingly, as most, dost, lost, tost.
+
+3dly and 4thly, As some, come, [h]ome, done, gone; short a in Joan,
+Joanne, Joakim, a and o part.
+
+Also l makes o long, as roll, poll, not extoll, and w[h]y not ot[h]er
+vowels too.
+
+O, for oe, as mot[h]er, among, from.
+
+O, for u, as brot[h]er, come, some, word, world, wont, t[h]e verb;
+anot[h]er, good, blood, not yonder.
+
+O, for a, nort[h]erly, as paredg, [h]arses, carn, amang.
+
+U is us’d promiscuously, as appears in the vowels afore going, but not
+so frequently as the rest, as [h]ugh long, hug short; [h]uge, voluble,
+superfluous after b and g, as build, guard, not regard, q being call’d
+cu, needs it not; guide, not gilbert.
+
+But v consonant not call’d ev, with a different caracter, is no less
+absur’d than j consonant, not call’d ij, with a different figure, as
+mejer for measure, as the French also use it, as je vou remercy. So
+osier, [h]osier, easier, azure, _&c._
+
+F us’d for v anciently, as d for th, as fader; but spokn as we do now:
+ev is us’d for f in the _West_, as vire, vield, for fire, field, and we
+put p for v in upper: The Hebrews put veth for it, beth for b, the
+Spaniards make v, b, but to let other Languages alone, we pass to
+
+The Diphthongs.
+
+Whereof 3 be very absurd, ee for which the Latins us’d ij, as ijdem
+oculi lucent, eadem feritatis imago est, _Ov._ met. The Greeks made Eta
+a doble e, as also oo OMEGA.
+
+2. Oo, for which the Latins us’d uu, as uva, uuula, and the British and
+Hebrews double u.
+
+3. Aw, all, au, as augre, maugre, awe, law, all, calf, (se the rest
+in l.) and ao properly, as graot, gaol, gaot.
+
+Ai, as straight, again, not, wait, ei as eight, not neither.
+
+Oi, as boile, not the noun.
+
+Uu is serv’d by oo, and so forth. No thanks for it.
+
+Ui, as juice. Ou, as ought, not, out.
+
+Au is put for ao, ou for au, as sauce, souce.
+
+Eu or ew, ewe, neuter, is right.
+
+Iu, as view, might be mended thus, viu.
+
+Ou is common, as could, cow, but there is difference between o long and
+short.
+
+O is often us’d for a triphthong (y in British). O u u, as hone, stone,
+doore, through, wo, whore, fore, more.
+
+In ou o is oft left out, as double, trouble.
+
+L is us’d for o, as Ralph, [h]alf, calf, malt, [h]alt, salt and scalp,
+not in [h]ealth and wealth, and dealt: L is so us’d after e, as elf, not
+self, whelm, Gulielm, not elme.
+
+Lastly, L is for u, as old, cold, gold, fold, bold, colt, bolt, not in
+dolt.
+
+If ae, eo, ie, and ea be diphthongs, and lawfully marry’d by Banes, or
+Licens, I’m sure it is but an [h]alf char-marriage, for they (for a just
+impediment) never bed together.
+
+
+_Amendment offer’d._
+
+Make a Cambril over the vowels to make ’em long; and this will cure
+innumerabl errors, and there will be no more mistakes or abuse of the
+vowels, and this will save a world of truble.
+
+But because the titl of i stands in the way, give a dash for I long, and
+let a low Apostrophe, as high as the bodies of he letters, stand for i
+short, and i with a tittle for double i or ee. So
+
+  Mal, mel, mil, mol, mul.
+  Mâl, mêl, mıl, môl, mûl.
+
+  [Transcriber’s Note:
+  Text shown as printed, although preceding paragraph implies “m'l” or
+  “mıl” (dotless i, or i without “tittle”) in first line, “m--l” in
+  second.]
+
+Then ask the Printer whether a Cambril set over the vowels, be not as
+good, and cheap as an e, a, o, or gh at the end.
+
+But w[h]at difference can we make in figures, between ou, long o, and
+short o? Thus like the sign Taurus after the Greek fashion is short ou,
+or (speak Tongue) ou at lengt[h], is long o wit[h] u; and again the sign
+Taurus wit[h] a Foot-Ball between [h]is [h]orns, is t[h]e Trift[h]ong;
+t[h]e reason belongs to Grammar.
+
+For to lay sound upon sound wit[h]out sig[h]t, is as field upon field,
+false Heraldry.
+
+But as for suc[h] as [h]ave t[h]eir for[h]eads no broader t[h]an t[h]eir
+Battledore, they must stic in the old nooke at q in the corner, not
+seven years, but seventy times seven.
+
+’Tis not a sin sait[h] a P[h]ilosop[h]er t[h]at I cannot spel wel, but
+t[h]at I cannot live well. If we [h]ave t[h]is error from the Lawyers we
+[h]ope ’tis lawful; for to put in letters in a word or words in a deed,
+more t[h]an enoug[h] often. But the Lawyers English may be no better
+t[h]an [h]is Latin, t[h]e one as [h]ard to be spell’d, as t[h]e ot[h]er
+to be parsd.
+
+Next we come to the Consonants.
+
+
+
+
+_Third Part of Babling _Babel_ undermin’d; the Eyes submitting to the
+Ears._
+
+
+  Consonants do sometimes stand for noug[h]t,
+    Sometimes for one anot[h]er;
+  But w[h]en stands eah one as it oug[h]t?
+    W[h]en stands it for its brot[h]er?
+
+B is a Consonant [h]at[h] no name-sake, as none oug[h]t to have. For put
+a vowel before or after it, its all one for the name and value, for
+every value of a letter is according to its name, or oug[h]t to be, for
+the name is proper to the figure as call, de or ed, ’tis all one, as
+r o ed, rod. Call b be, or eb; but use custom, ’tis [h]elpful w[h]en
+proper; [h]urtful w[h]en improper. B is overplus in Lamb, t[h]umb, debt,
+doubt; and w[h]at need is t[h]ere of t[h]ese unnecessary bees; scarce
+one in a Parish besides the Parson t[h]inks t[h]e two last come of Latin
+words, debitum and dubito, w[h]ere t[h]ey are pronounc’d.
+
+B is a letter of t[h]e lips, shutting t[h]e lips before t[h]e vowel,
+w[h]en it begins a syllable, and after a vowel when it ends: So do the
+rest in BUMaF _viz._ ev, we, m, f, p.
+
+
+_A Rule useful for School-Teachers, for short Tongu’d Children, for easy
+Utterance use the upper Letters for the neather._
+
+B  [G]  D   V   G   J   Z  [C] [Y] [R]
+
+  For
+
+P   C  [T]  F   H  [J]  S  [T]  K   R
+
+_Probatum est._
+
+By one I had a Scholar, could speak none of the neather Letters, till he
+[h]ad learn’d (after the _West_ [G]untry fashion, and the Rules of the
+Learn’d Grammars) to pronounce the upper first.
+
+We are not awar [h]au muh our deseitful lettrz [h]indr uthr Learning,
+and refining Inglish, and [h]au tru letrz would furthr it.
+
+  Mad C w’[c] s spelz sound [c]e sàm, _Stilo novo_.
+    Betráz q h and k.
+  Desetfule deniz its nam,
+    And s do[c] it betra.
+  Dissembli[v] C wi[c] nidles vot,
+    Ov ridi[v] brex [c]e nec.
+  Unles it [h]av a proper nam,
+    And spelli[v] suits wi[c] C.
+  C [g]ivz an il exampl,
+    And iz a tripl tnav: CCC ERAS. Ad.
+  On gustis it do[c] trampl,
+    Scab’d for aol [h]er aolz brav.
+  Ov sierz [c]e blind ledr iz:
+    [D]e ded [c]e livi[v] rul. ARISTOF.
+  And [wot] a tirsum tasc iz [c]is
+    To wat upon a Fuul?
+  Larg [h]ausn [h]av wi in larg taunz,
+    And largr hevnle buux:
+  Larg Cots and Tlox [h]av wi and [G]aunz,
+    Aur fit in letr stox.
+  It nivr iz tuu lat to [t]riv,
+    Nor to inven[j]onz ad:
+  For Silvr auns wi ra[c]r striv,
+    [D]un mane paundz ov Led.
+  Nau [c]at I ma u trule si,
+    Sertante to mi sa:
+  If lic u sim and no frend be,
+    Non ledz mi wursr wa.
+  In cruuced waz [c]is aol iz il,
+     Men tno not [c]at [c]a er.
+  And [c]at men luv darcnes stil,
+    No faot in endless fir.
+
+As c t and h do fuul our erz ovr and ovr in hatch and catch, _&c._ so
+dodh D (non without desert) in Wednesday, Hedg, Judg, spring, grudg,
+badg, where g may do well without its false [h]elp or cumber-place.
+
+F is unpronounc’d in mastiff and t is spoken instead of f, in handful,
+armful, sackful. But it hath manifest wrong done it, by his convertible
+p, and its unconvertible h, against their own names too, as Philip.
+Whereas ph help no more for spelling Filip, than it doth Alexander. Now
+if you had said HURH spells Church, and GUG spells Judge, I could easily
+believe it.
+
+But heap, God, thy, thigh, hang, shame, which are none of the seven
+spell’d by the Letters we intend should spell them: neither can any
+Englishman for his ears, eyes and wits, spell any of these words, and
+MILLIONS more like ’em, more by his 24 English Letters, make what shift
+he can, while _Ingland_ is _Ingland_, and have both Universities,
+_CAMBRIGE_ and _Oxford_ to help him, and all the Universities beyond the
+Seas to help them.
+
+_Viz._ [Y]èp, [G]od, [C]i, [T]i, [Y]a[v], [J]à[v], [W]ih; also [F]aun,
+[R]ûm; and Hif, Ked, Plejr. For
+
+  Turpe est doctore cum culpa redarguit ipsum.
+
+According to _Cato_:
+
+  Unto the Teacher its a shame,
+  In others his own Faults to blame.
+
+Thus you percieve the whole World is but in the Battle-dore, and Lerning
+is in the Cradle, and the sayings of this Book, as Macroons to invite
+her to the taking her Letters to keep up old custom. As _Horas_ [h]ath
+it in his first Sermon.
+
+  ----Pueris dant crustula blandi
+  Doctores elementa velint ut discere prima.
+
+  Kind Teachers give Boys Bun and Cake,
+  Their Letters for to Learn them make.
+
+G is deaf in sign, not signifie, and g[h] in boug[h]t, broug[h]t, not in
+coug[h], throug[h], enoug[h], w[h]ih is strangly spoken, stuff,
+enoug[h], boug[h]s, enoug[h], (corn enoug[h]) and sig[h]ed, and g[h]ed
+spells [h]ead, if ec be not cast away; let k be g[h]a, else k (unless
+for g[h]) as in back, stack, crack, would be a vain impertinent Letter,
+and deserves (as suh) in an orderly Family to be cic’d out o’ th’ doors.
+For our Battle-dore is a well-[g]overn’d SITY, w[h]ih shuts out all idle
+impertinent persnz, as vagrants wit[h] t[h]eir extravagancies out o’
+t[h]’ Gates.
+
+H is vain, in Ghost, Sc[h]olar, not in Churh, but c is, t[h]erefore it
+deserves to be turn’d out of doors, for loosing its good name, [h]aving
+work enoug[h] to live of its trade, and is an Interlooper, sounding one
+t[h]ing by its self, anot[h]er in word-spelling, that she ma not be
+[h]onest by [h]er self, and a knave in company.
+
+L in will, bell, mall, full, and t[h]ousands more.
+
+M in gemm, stem, _&c_.
+
+N in Henry and proper names, as Normanton, Rependon, Donington. T[h]e
+former n is un[h]eard.
+
+P in receipt, not except, and mig[h]t as well be left out, as in deceit,
+conceit, of t[h]e same sin, so empty temptation.
+
+S in isle, island, ass, as is uz, s single is as
+
+T in whitsunday, and watch, catch, clutch.
+
+U is turn’d into EV, Coventry, Daventry, Oven for Couentry, Dauntry,
+Ouen, an eut; see Mr. _Dugdal_.
+
+So our Letters rat[h]er marr than mend our Language, w[h]en wrong
+spell’d: but more Letters would do well in the Alfabet, (w[h]ih is
+preparing) but fewer in most words to spell properly.
+
+We is us’d t[h]ree ways, as a vowel, as now, [h]ow, as a consonant in
+we, went, as nothing, in know, show, and bo.
+
+Ye is us’d four ways, as a consonant, as yea, yes, as a long and short
+vowel, as w[h]y, [h]oly and doubtful, as my, t[h]y, and as not[h]ing in
+may day.
+
+W[h]en each Letter [h]at[h] but one meaning 1; the Reading is certain as
+two and twenty one, one wants w, and two ma spare it.
+
+Z is scarce us’d in vain, but as many consonants are double to make a
+short vowel, as Buzze, but is most us’d for s after all Letters but p,
+c, t, for plurals and t[h]e like, s and z seem to cross one another, as
+raze and raise, and x for z, as beaux.
+
+Since renoun’d Aut[h]ors of late [h]ave left out ugh, as t[h]oug[h] and
+the like, writing t[h]o’, if they [h]ad left out w and y superfluous, as
+know, row, da, t[h]are, and put out all vain letters, and cambril the
+vowels, the idle Letters would never [h]ave come in again.
+
+Now if Books were begun to be all printed by t[h]ese directions, t[h]ey
+would make all other old books easier read, and more truly pronounced,
+t[h]e false spelling being discover’d and amended.
+
+But Letters are neither here nor there, for all this, in every circuit
+there is something of a particular dialect, differing from the common
+English, though the Western and Northern differ most.
+
+Now when we speak of altering the Letters, we alter not, but establish
+and settle the known speech, which is no more but to alter or remove the
+sign when it directedh to the wrong [h]ouse, but the Inn all the while
+is the same. If one be in the North or West, he had best speak as they
+do, that he may be readily understood, which is the end of speech.
+
+We have corruptions enough in our Letters to corrupt all Languages writ
+with them.
+
+If our Letters were thus Corrected, a stranger, or home-bred, might
+learn as much English in a day, as otherwise in a month or more.
+
+Put nature in arts Cradle, and its fet in the stox.
+
+There have been many changes of [G]overnment this hundred years, yet the
+same errors rule, that we are, and no body for promisiz better.
+
+But what ails you to be so bitter against the Letters? Why I look at
+them as the dark-house to lodge all our errors in, and a feather-bed,
+where all, both errors and unknown sins may be lodg’d, therefore I pull
+out the Straws out of your bolster, that I may let light into the house,
+that you ma see you lodge in a thorn-bush instead of a feather-bed. But
+I find, (God [h]elp us both) that at all final errors are friends of the
+greater, that neither am I able by these letters to speak, nor you to
+understand me by Writing. Nay no man is by old Letters able so much as
+to hint what he would have the new ones call’d, but the old will
+insinuate their sufficiency.
+
+
+
+
+_The Fourth Part, of Instructions Instructed, or Light out of Darkness._
+
+_The first Table, wherein the self-same sounds are Spell’d by different
+Letters, first Right, and then Wrong._
+
+
+A as a, Manna, Joshua, Asia, Judah, Hannah; why ma we not cast awa the
+Hebrew He out of words, as well as the Latins and Greeks have done? Day,
+say, their, they, fair. These Letters that be, not pronounc’d are very
+wellcome to be gone, the door stands wide open.
+
+E, as be, the, Phebe, yea, weigh, key, holy. If propagating Error be
+lawful, ’tis lawful to teach wrong.
+
+I, as Ivi; lie, lye, thy, why, thigh, buy, for the first might as
+lawfully be spell’d like the last, as UYe I, as the last is wrong
+spell’d, but more lawfully ma the last be spell’d as your first.
+
+O, do, no, so, to, right, tow, dough, Bowes, beau, sloe, slow. (If u be
+pronounc’d in flow, ’tis a diphthong, let u take its place) wrong.
+
+U, as tru, blue, Hugh, new, a singl u might stand for you (if it please
+u) but not for your, beauty.
+
+Ao, gaol, gaot, graot, goal, law, sauce, calf, scalp, caug[h]t,
+taug[h]t.
+
+Al, as ale, fail, but, fayl in old Books.
+
+El, as kele, meale, seale, veil, and veal.
+
+Il, mile, isle, island, boile, pyle.
+
+Ol, mole, soul, coal, roll, poll.
+
+Ul, deul, the straig[h]test road, the shortest rule.
+
+  _Sore against shins it goes to go about,
+  Where you’ve but one road, you cannot go out._
+
+So âm, em, im, om, um, and an, en, in, on, un, as claim, p[h]legm,
+rooms, [h]olmes, tombs, soveraign, foreigners, sign, groan, hewn.
+
+  Hav two strait lines from point to point you shall,
+  * Pseudografy ageometrical. * Bz.
+
+So a, e, and sofort[h], before, before, r, s, t, z, bier, [h]ig[h]er,
+bore, soar, four, lower, case, ace, raze, bass, peace, cease, rise,
+price, justice, prose, sloce, prize, wise, eyes, lies, rise verb, sighs,
+use, noun, truce, nose, foes, blows, use verb; suit, an event: but s is
+us’d for z too oft, the more intollerable; but z should be us’d when it
+makes a distinction between noun and verb, as use, rise, abuse:
+
+Conceit wit[h]out receit, is mere deceit.
+
+Jams, gaol, Jo[h]n, goal, magistrate, majesty, geese, fleece, sig[h]ed,
+[h]ead, sadled, glad, titled, clad, battled, know, frenh, wensh, good,
+blood, wort[h], [h]unt, gentl, jear, rih, wit[h], city, sit, scituate,
+year, be[h]aviour, Joshua, wa, now, noug[h]t.
+
+S, as factious, precious, anctious, conscience, sho, fashion,
+Je[h]oschua, these wi the help ov the Frenh, as quelque hose, and old
+Authors ma be quadrupled all wrong.
+
+So x for ckes, as flax, stackes, sex, necks, six, stickes, fox, rokes,
+flux, bucks.
+
+What spells g u g, q i c, [w] i h, R e p n, s c o l r; if wrong (w [h]as
+no business there) be plesant, rite, (gh [h]at[h] not[h]ing to do
+t[h]ere) is plezantr, unless to please t[h]ose t[h]at [h]ave t[h]eir
+wits wit[h]out ’em, will [h]ave t[h]e ears misled by t[h]e eys, and
+t[h]e soul by t[h]e body, t[h]erefore (suppose t[h]at t[h]ere are
+fashions for t[h]e soul as well as the body) in t[h]e old Church
+Bible ov _K. J._ its [h]ye, now [h]ig[h]; so formerly forainers, now
+foreigners, Rawley, Rawleigh, [h]ere’s wit with a witness: But these
+are no more besides their wits, t[h]an t[h]ey are wit[h]out their wits,
+t[h]at [h]ave t[h]eir wits wit[h]in t[h]em. These that can, paint the
+vois, can limb out souls too. No doubt very Learn’d men!
+
+You t[h]at understand t[h]e frets on t[h]e great Fidle, and wit[h]out
+Gammut, can pric down proper sounds to words in visible shapes,
+according to t[h]e nu fashion; pra take not awa the falals the old
+Fat[h]ers put to t[h]eir words, lest posterity serve you no better, as
+Hierom, Hierusalem, ripe, snite, knight, as haucer.
+
+  _The time shall come that Doctors and Knights
+      Shall be as common as Woodcox and Snites,
+  With Crambo’s or Books ful many a score,
+      As good as these you find, I’ll ad no more._
+
+  Fpsti. _Difficilia quæ pulchra._
+    _Hard to be dun, a dute iz sur dhe gratest bute._
+
+
+
+
+_A Table of the self-same Leters, Spelling words ov a far different
+sound._
+
+
+As with, with, bath, bathe, sith, sithe, both, both, loath, loath, oath,
+oathes, smith, smithy, breath, of, off, then, yet, liveth or liveth,
+joth or joth, mouth, mouth, path or path, wrath, wreath, faith or faith,
+thy, thigh, this, thistle, thou, thousand, thank, they, them, theame,
+thus, thunder, thine, thin, goal or goal, as afore, motion, crimson,
+action, Acteon, singed, hanged, changed, shepherd, Shaphat, dishonour,
+asham’d, bishop, mishap, character, charity, duckherd, blockhead,
+Dutchess, gather, success, suggest, or suggest, or suggest, or suggest,
+haov, rij, [w]heg and who, come, on, you know what I mean, as well as
+[h]orses. War rod: scepter, sceptic, syllables, bless, access, axes,
+oxen, Christ-cross, beaux, beauty, ancre, kernel, acres, craz’d,
+threatned, knead, bootes, Bootes, winged, gnaw’d: th is cut of from
+with, _cum_, after another of the same, at wi’ them.
+
+To Read English after the names ov the Letters, which is blameless, max
+English as strang as to read after the French fashion; what would become
+of Gire-eagle, wither, league, thing, Jehosaphat.
+
+Put an Apostrophe (call’d Swa in Hebru) between every two consonants
+(_viz._ a short i) the spelling is discern’d as well as with a
+touch-stone, that you may perseve easily that falsehood is not in good
+earnest.
+
+So george, gorge, Gomorrha, Esau, Hus or uz, Nubes, Ragau, Joshua, where
+([V] [v]) is the first letter in the four first, middlemost in fist, a
+in the last all wrong. That no wonder if the Bible Translators took up
+the blanket, and left the Child behind ’em, when St. Hierom says, the
+Hebrew Letters are not to be exprest by the Western figures (I think
+truly) And for want of axents Church-Readers wickedly miscall
+Bible-words, as Theobulus, Jericho, Goliah, Cæsarea, a Decapolis,
+Penacutes or Prepenacutes, also Haggi four ways.
+
+A duble Letter in Hebrew of the same sort, being dageshed, prevents all
+mistakes, as הגּי. So ’[G]od”es” for the Goddesses.
+
+But for example sake, as far as any thing can really be exprest by
+English Letters, without bodging patching, or bungling balderdash or
+barbarous gallimofry of our Romantic Letters, obscurer than the Egiptian
+Hieroglifix. I will subscribe an old saing in English, as easy as any
+thing, if custom and fashion tnu it:
+
+  _An As an Mul carrid Runlets ov Wine,
+      But d’ Ass did gron undr er burdn gret:
+  Qo’d’ Mul, Modr, wat al u dus to win?
+      And under your lijt lod so sor to swet?
+  Ist dubl ber if I tac won ov din.
+      Wijst ber a lic if dau tac won ov min.
+    Pride cind Gometer do us dis fet._
+
+_Doctrina non habet inimicum præter ignorantem._
+
+  _Of erudition dher’s no sircumstans
+  Hadh ani enimi but ignorans._
+
+
+  _But ’premisses rightly understood desier the exhibition of a
+  compleat Alfebet, to read English as easily as [G]reek; therefore I
+  shall end this Book wi’ the first Letter ov the ensuing Batl-dur._
+
+  [A] [a]  A a  B b  [D] d  D [c]  E e  F f  G g  [G] [g]  H h
+  [Y] [h]  I i J j  C c  K k  [F] [f]  M m  N n  [V] [v]  O o  P p
+  Q q  R r  S s  [J] [j]   T t  [T] [t]  U u  V v  W w  [W] [w]  X x
+  Y y  z &. †
+
+
+FINIS.
+
+
+
+
+William Andrews Clark Memorial Library: University of California
+
+THE AUGUSTAN REPRINT SOCIETY
+
+_General Editors_
+
+R. C. BOYS
+University of Michigan
+
+RALPH COHEN
+University of California, Los Angeles
+
+VINTON A. DEARING
+University of California, Los Angeles
+
+LAWRENCE CLARK POWELL
+Wm. Andrews Clark Memorial Library
+
+_Corresponding Secretary_
+
+Mrs. EDNA C. DAVIS, Wm. Andrews Clark Memorial Library
+
+The Society exists to make available inexpensive reprints (usually
+facsimile reproductions) of rare seventeenth and eighteenth century
+works. The editorial policy of the Society remains unchanged. As in the
+past, the editors welcome suggestions concerning publications. All
+income of the Society is devoted to defraying cost of publication and
+mailing.
+
+All correspondence concerning subscriptions in the United States and
+Canada should be addressed to the William Andrews Clark Memorial
+Library, 2205 West Adams Boulevard, Los Angeles 18, California.
+Correspondence concerning editorial matters may be addressed to any of
+the general editors. The membership fee is $3.00 a year for subscribers
+in the United States and Canada and 15/- for subscribers in Great
+Britain and Europe. British and European subscribers should address
+B. H. Blackwell, Broad Street, Oxford, England.
+
+
+Publications for the twelfth year [1957-58]
+
+(At least six items, most of them from the following list, will be
+reprinted.)
+
+Henry Fielding, _The Voyages of Mr. Job Vinegar_ (1740).
+  Introduction by Sam Sackett.
+
+William Herbert, Third Earl of Pembroke, _Poems_ (1660).
+  Introduction by Gaby Onderwyzer.
+
+_An Historical View of the Political Writers of Great Britain_ (1740).
+  Introduction by Robert L. Haig.
+
+Francis Hutcheson, _Essays on Laughter_ (1729).
+
+Samuel Johnson, _Notes to Shakespeare, Vol. III, Tragedies_.
+  Edited by Arthur Sherbo.
+
+Richard Savage, _An Author to be Let_ (1732).
+  Introduction by James Sutherland.
+
+Elkanah Settle, _The Notorious Impostor_ (1692).
+  Introduction by Spiro Peterson.
+
+_Seventeenth Century Tales of the Supernatural_.
+  Selected, with an Introduction, by Isabel M. Westcott.
+
+
+Publications for the first eleven years (with the exception of Nos. 1-6,
+which are out of print) are available at the rate of $3.00 a year.
+Prices for individual numbers may be obtained by writing to the Society.
+
+
+THE AUGUSTAN REPRINT SOCIETY
+_WILLIAM ANDREWS CLARK MEMORIAL LIBRARY_
+2205 West Adams Boulevard, Los Angeles 18, California
+Make check or money order payable to
+THE REGENTS OF THE UNIVERSITY OF CALIFORNIA.
+
+
+PUBLICATIONS OF THE AUGUSTAN REPRINT SOCIETY
+
+  [Transcriber’s Note:
