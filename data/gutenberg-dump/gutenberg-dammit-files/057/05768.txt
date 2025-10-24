@@ -1,0 +1,1026 @@
+Although it meant courting more run-ins at school,
+Lippman decided to indulge her son's passion. By age
+12, Richard was attending science camps during the
+summer and private school during the school year. When
+a teacher recommended her son enroll in the Columbia
+Science Honors Program, a post-Sputnik program designed
+for gifted middle- and high-school students in New York
+City, Stallman added to his extracurriculars and was
+soon commuting uptown to the Columbia University campus
+on Saturdays.
+
+Dan Chess, a fellow classmate in the Columbia Science
+Honors Program, recalls Richard Stallman seeming a bit
+weird even among the students who shared a similar lust
+for math and science. "We were all geeks and nerds, but
+he was unusually poorly adjusted," recalls Chess, now a
+mathematics professor at Hunter College. "He was also
+smart as shit. I've known a lot of smart people, but I
+think he was the smartest person I've ever known."
+
+Seth Breidbart, a fellow Columbia Science Honors
+Program alumnus, offers bolstering testimony. A
+computer programmer who has kept in touch with Stallman
+thanks to a shared passion for science fiction and
+science-fiction conventions, he recalls the
+15-year-old, buzz-cut-wearing Stallman as "scary,"
+especially to a fellow 15-year-old.
+
+"It's hard to describe," Breidbart says. "It wasn't
+like he was unapproachable. He was just very intense.
+[He was] very knowledgeable but also very hardheaded in
+some ways."
+
+Such descriptions give rise to speculation: are
+judgment-laden adjectives like "intense" and
+"hardheaded" simply a way to describe traits that today
+might be categorized under juvenile behavioral
+disorder? A December, 2001, Wired magazine article
+titled "The Geek Syndrome" paints the portrait of
+several scientifically gifted children diagnosed with
+high-functioning autism or Asperger Syndrome. In many
+ways, the parental recollections recorded in the Wired
+article are eerily similar to the ones offered by
+Lippman. Even Stallman has indulged in psychiatric
+revisionism from time to time. During a 2000 profile
+for the Toronto Star, Stallman described himself to an
+interviewer as "borderline autistic,"See Judy Steed, Toronto Star, BUSINESS,
+(October 9,
+2000): C03. His vision of free software and social
+cooperation stands in stark contrast to the isolated
+nature of his private life. A Glenn Gould-like
+eccentric, the Canadian pianist was similarly
+brilliant, articulate, and lonely. Stallman considers
+himself afflicted, to some degree, by autism: a
+condition that, he says, makes it difficult for him to
+interact with people.
+ a description that goes a long way toward explaining a
+lifelong tendency toward social and emotional isolation
+and the equally lifelong effort to overcome it.
+
+Such speculation benefits from the fast and loose
+nature of most so-called " behavioral disorders"
+nowadays, of course. As Steve Silberman, author of "
+The Geek Syndrome," notes, American psychiatrists have
+only recently come to accept Asperger Syndrome as a
+valid umbrella term covering a wide set of behavioral
+traits. The traits range from poor motor skills and
+poor socialization to high intelligence and an almost
+obsessive affinity for numbers, computers, and ordered systems.See Steve
+Silberman, "The Geek Syndrome," Wired
+(December, 2001).
+ Reflecting on the broad nature of this umbrella,
+Stallman says its possible that, if born 40 years
+later, he might have merited just such a diagnosis.
+Then again, so would many of his computer-world colleagues.
+
+"It's possible I could have had something like that,"
+he says. "On the other hand, one of the aspects of that
+syndrome is difficulty following rhythms. I can dance.
+In fact, I love following the most complicated rhythms.
+It's not clear cut enough to know."
+
+Chess, for one, rejects such attempts at
+back-diagnosis. "I never thought of him [as] having
+that sort of thing," he says. "He was just very
+unsocialized, but then, we all were."
+
+Lippman, on the other hand, entertains the possibility.
+She recalls a few stories from her son's infancy,
+however, that provide fodder for speculation. A
+prominent symptom of autism is an oversensitivity to
+noises and colors, and Lippman recalls two anecdotes
+that stand out in this regard. "When Richard was an
+infant, we'd take him to the beach," she says. "He
+would start screaming two or three blocks before we
+reached the surf. It wasn't until the third time that
+we figured out what was going on: the sound of the surf
+was hurting his ears." She also recalls a similar
+screaming reaction in relation to color: "My mother had
+bright red hair, and every time she'd stoop down to
+pick him up, he'd let out a wail."
+
+In recent years, Lippman says she has taken to reading
+books about autism and believes that such episodes were
+more than coincidental. "I do feel that Richard had
+some of the qualities of an autistic child," she says.
+"I regret that so little was known about autism back then."
+
+Over time, however, Lippman says her son learned to
+adjust. By age seven, she says, her son had become fond
+of standing at the front window of subway trains,
+mapping out and memorizing the labyrinthian system of
+railroad tracks underneath the city. It was a hobby
+that relied on an ability to accommodate the loud
+noises that accompanied each train ride. "Only the
+initial noise seemed to bother him," says Lippman. "It
+was as if he got shocked by the sound but his nerves
+learned how to make the adjustment."
+
+For the most part, Lippman recalls her son exhibiting
+the excitement, energy, and social skills of any normal
+boy. It wasn't until after a series of traumatic events
+battered the Stallman household, she says, that her son
+became introverted and emotionally distant.
+
+The first traumatic event was the divorce of Alice and
+Daniel Stallman, Richard's father. Although Lippman
+says both she and her ex-husband tried to prepare their
+son for the blow, she says the blow was devastating
+nonetheless. "He sort of didn't pay attention when we
+first told him what was happening," Lippman recalls.
+"But the reality smacked him in the face when he and I
+moved into a new apartment. The first thing he said
+was, `Where's Dad's furniture?'"
+
+For the next decade, Stallman would spend his weekdays
+at his mother's apartment in Manhattan and his weekends
+at his father's home in Queens. The shuttling back and
+forth gave him a chance to study a pair of contrasting
+parenting styles that, to this day, leaves Stallman
+firmly opposed to the idea of raising children himself.
+Speaking about his father, a World War II vet who
+passed away in early 2001, Stallman balances respect
+with anger. On one hand, there is the man whose moral
+commitment led him to learn French just so he could be
+more helpful to Allies when they'd finally come. On the
+other hand, there was the parent who always knew how to
+craft a put-down for cruel effect.Regrettably, I did not get a chance to
+interview Daniel
+Stallman for this book. During the early research for
+this book, Stallman informed me that his father
+suffered from Alzheimer's. When I resumed research in
+late 2001, I learned, sadly, that Daniel Stallman had
+died earlier in the year.
+
+"My father had a horrible temper," Stallman says. "He
+never screamed, but he always found a way to criticize
+you in a cold, designed-to-crush way."
+
+As for life in his mother's apartment, Stallman is less
+equivocal. "That was war," he says. "I used to say in
+my misery, `I want to go home,' meaning to the
+nonexistent place that I'll never have."
+
+For the first few years after the divorce, Stallman
+found the tranquility that eluded him in the home of
+his paternal grandparents. Then, around age 10 his
+grandparents passed away in short succession. For
+Stallman, the loss was devastating. "I used to go and
+visit and feel I was in a loving, gentle environment,"
+Stallman recalls. "It was the only place I ever found
+one, until I went away to college."
+
+Lippman lists the death of Richard's paternal
+grandparents as the second traumatic event. "It really
+upset him," she says. He was very close to both his
+grandparents. Before they died, he was very outgoing,
+almost a leader-of-the-pack type with the other kids.
+After they died, he became much more emotionally withdrawn."
+
+From Stallman's perspective, the emotional withdrawal
+was merely an attempt to deal with the agony of
+adolescence. Labeling his teenage years a "pure
+horror," Stallman says he often felt like a deaf person
+amid a crowd of chattering music listeners.
+
+"I often had the feeling that I couldn't understand
+what other people were saying," says Stallman,
+recalling the emotional bubble that insulated him from
+the rest of the adolescent and adult world. "I could
+understand the words, but something was going on
+underneath the conversations that I didn't understand.
+I couldn't understand why people were interested in the
+things other people said."
+
+For all the agony it produced, adolescence would have a
+encouraging effect on Stallman's sense of
+individuality. At a time when most of his classmates
+were growing their hair out, Stallman preferred to keep
+his short. At a time when the whole teenage world was
+listening to rock and roll, Stallman preferred
+classical music. A devoted fan of science fiction, Mad
+magazine, and late-night TV, Stallman cultivated a
+distinctly off-the-wall personality that fed off the
+incomprehension of parents and peers alike.
+
+"Oh, the puns," says Lippman, still exasperated by the
+memory of her son's teenage personality. "There wasn't
+a thing you could say at the dinner table that he
+couldn't throw back at you as a pun."
+
+Outside the home, Stallman saved the jokes for the
+adults who tended to indulge his gifted nature. One of
+the first was a summer-camp counselor who handed
+Stallman a print-out manual for the IBM 7094 computer
+during his 12th year. To a preteenager fascinated with
+numbers and science, the gift was a godsend.Stallman, an atheist, would
+probably quibble with this
+description. Suffice it to say, it was something
+Stallman welcomed. See previous note 1: "As soon as I
+heard about computers, I wanted to see one and play
+with one."
+ By the end of summer, Stallman was writing out paper
+programs according to the 7094's internal
+specifications, anxiously anticipating getting a chance
+to try them out on a real machine.
+
+With the first personal computer still a decade away,
+Stallman would be forced to wait a few years before
+getting access to his first computer. His first chance
+finally came during his junior year of high school.
+Hired on at the IBM New York Scientific Center, a
+now-defunct research facility in downtown Manhattan,
+Stallman spent the summer after high-school graduation
+writing his first program, a pre-processor for the 7094
+written in the programming language PL/I. "I first
+wrote it in PL/I, then started over in assembler
+language when the PL/I program was too big to fit in
+the computer," he recalls.
+
+After that job at the IBM Scientific Center, Stallman
+had held a laboratory-assistant position in the biology
+department at Rockefeller University. Although he was
+already moving toward a career in math or physics,
+Stallman's analytical mind impressed the lab director
+enough that a few years after Stallman departed for
+college, Lippman received an unexpected phone call. "It
+was the professor at Rockefeller," Lippman says. "He
+wanted to know how Richard was doing. He was surprised
+to learn that he was working in computers. He'd always
+thought Richard had a great future ahead of him as a biologist."
+
+Stallman's analytical skills impressed faculty members
+at Columbia as well, even when Stallman himself became
+a target of their ire. "Typically once or twice an hour
+[Stallman] would catch some mistake in the lecture,"
+says Breidbart. "And he was not shy about letting the
+professors know it immediately. It got him a lot of
+respect but not much popularity."
+
+Hearing Breidbart's anecdote retold elicits a wry smile
+from Stallman. "I may have been a bit of a jerk
+sometimes," he admits. "But I found kindred spirits
+among the teachers, because they, too, liked to learn.
+Kids, for the most part, didn't. At least not in the
+same way."
+
+Hanging out with the advanced kids on Saturday
+nevertheless encouraged Stallman to think more about
+the merits of increased socialization. With college
+fast approaching, Stallman, like many in his Columbia
+Science Honors Program, had narrowed his list of
+desired schools down to two choices: Harvard and MIT.
+Hearing of her son's desire to move on to the Ivy
+League, Lippman became concerned. As a 15-year-old
+high-school junior, Stallman was still having run-ins
+with teachers and administrators. Only the year before,
+he had pulled straight A's in American History,
+Chemistry, French, and Algebra, but a glaring F in
+English reflected the ongoing boycott of writing
+assignments. Such miscues might draw a knowing chuckle
+at MIT, but at Harvard, they were a red flag.
+
+During her son's junior year, Lippman says she
+scheduled an appointment with a therapist. The
+therapist expressed instant concern over Stallman's
+unwillingness to write papers and his run-ins with
+teachers. Her son certainly had the intellectual
+wherewithal to succeed at Harvard, but did he have the
+patience to sit through college classes that required a
+term paper? The therapist suggested a trial run. If
+Stallman could make it through a full year in New York
+City public schools, including an English class that
+required term papers, he could probably make it at
+Harvard. Following the completion of his junior year,
+Stallman promptly enrolled in summer school at Louis D.
+Brandeis High School, a public school located on 84th
+Street, and began making up the mandatory art classes
+he had shunned earlier in his high-school career.
+
+By fall, Stallman was back within the mainstream
+population of New York City high-school students. It
+wasn't easy sitting through classes that seemed
+remedial in comparison with his Saturday studies at
+Columbia, but Lippman recalls proudly her son's ability
+to toe the line.
+
+"He was forced to kowtow to a certain degree, but he
+did it," Lippman says. "I only got called in once,
+which was a bit of a miracle. It was the calculus
+teacher complaining that Richard was interrupting his
+lesson. I asked how he was interrupting. He said
+Richard was always accusing the teacher of using a
+false proof. I said, `Well, is he right?' The teacher
+said, `Yeah, but I can't tell that to the class. They
+wouldn't understand.'"
+
+By the end of his first semester at Brandeis, things
+were falling into place. A 96 in English wiped away
+much of the stigma of the 60 earned 2 years before. For
+good measure, Stallman backed it up with top marks in
+American History, Advanced Placement Calculus, and
+Microbiology. The crowning touch was a perfect 100 in
+Physics. Though still a social outcast, Stallman
+finished his 11 months at Brandeis as the fourth-ranked
+student in a class of 789.
+
+<Graphic file:/home/craigm/books/free_0306.png>
+
+
+Stallman's senior-year transcript at Louis D. Brandeis
+H.S., November, 1969. Note turnaround in English class
+performance. "He was forced to kowtow to a certain
+degree," says his mother, "but he did it."
+
+Outside the classroom, Stallman pursued his studies
+with even more diligence, rushing off to fulfill his
+laboratory-assistant duties at Rockefeller University
+during the week and dodging the Vietnam protesters on
+his way to Saturday school at Columbia. It was there,
+while the rest of the Science Honors Program students
+sat around discussing their college choices, that
+Stallman finally took a moment to participate in the
+preclass bull session.
+
+Recalls Breidbart, "Most of the students were going to
+Harvard and MIT, of course, but you had a few going to
+other Ivy League schools. As the conversation circled
+the room, it became apparent that Richard hadn't said
+anything yet. I don't know who it was, but somebody got
+up the courage to ask him what he planned to do."
+
+Thirty years later, Breidbart remembers the moment
+clearly. As soon as Stallman broke the news that he,
+too, would be attending Harvard University in the fall,
+an awkward silence filled the room. Almost as if on
+cue, the corners of Stallman's mouth slowly turned
+upward into a self-satisfied smile.
+
+Says Breidbart, "It was his silent way of saying,
+`That's right. You haven't got rid of me yet.'"
+
+Impeach God
+
+Although their relationship was fraught with tension,
+Richard Stallman would inherit one noteworthy trait
+from his mother: a passion for progressive politics.
+
+It was an inherited trait that would take several
+decades to emerge, however. For the first few years of
+his life, Stallman lived in what he now admits was a
+"political vacuum."See Michael Gross, "Richard Stallman: High School
+Misfit, Symbol of Free Software, MacArthur-certified
+Genius" (1999).
+ Like most Americans during the Eisenhower age, the
+Stallman family spent the 50s trying to recapture the
+normalcy lost during the wartime years of the 1940s.
+
+"Richard's father and I were Democrats but happy enough
+to leave it at that," says Lippman, recalling the
+family's years in Queens. "We didn't get involved much
+in local or national politics."
+
+That all began to change, however, in the late 1950s
+when Alice divorced Daniel Stallman. The move back to
+Manhattan represented more than a change of address; it
+represented a new, independent identity and a jarring
+loss of tranquility.
+
+"I think my first taste of political activism came when
+I went to the Queens public library and discovered
+there was only a single book on divorce in the whole
+library," recalls Lippman. "It was very controlled by
+the Catholic church, at least in Elmhurst, where we
+lived. I think that was the first inkling I had of the
+forces that quietly control our lives."
+
+Returning to her childhood neighborhood, Manhattan's
+Upper West Side, Lippman was shocked by the changes
+that had taken place since her departure to Hunter
+College a decade and a half before. The skyrocketing
+demand for postwar housing had turned the neighborhood
+into a political battleground. On one side stood the
+pro-development city-hall politicians and businessmen
+hoping to rebuild many of the neighborhood's blocks to
+accommodate the growing number of white-collar workers
+moving into the city. On the other side stood the poor
+Irish and Puerto Rican tenants who had found an
+affordable haven in the neighborhood.
+
+At first, Lippman didn't know which side to choose. As
+a new resident, she felt the need for new housing. As a
+single mother with minimal income, however, she shared
+the poorer tenants' concern over the growing number of
+development projects catering mainly to wealthy
+residents. Indignant, Lippman began looking for ways to
+combat the political machine that was attempting to
+turn her neighborhood into a clone of the Upper East Side.
+
+Lippman says her first visit to the local Democratic
+party headquarters came in 1958. Looking for a day-care
+center to take care of her son while she worked, she
+had been appalled by the conditions encountered at one
+of the city-owned centers that catered to low-income
+residents. "All I remember is the stench of rotten
+milk, the dark hallways, the paucity of supplies. I had
+been a teacher in private nursery schools. The contrast
+was so great. We took one look at that room and left.
+That stirred me up."
+
+The visit to the party headquarters proved
+disappointing, however. Describing it as "the
+proverbial smoke-filled room," Lippman says she became
+aware for the first time that corruption within the
+party might actually be the reason behind the city's
+thinly disguised hostility toward poor residents.
+Instead of going back to the headquarters, Lippman
+decided to join up with one of the many clubs aimed at
+reforming the Democratic party and ousting the last
+vestiges of the Tammany Hall machine. Dubbed the
+Woodrow Wilson/FDR Reform Democratic Club, Lippman and
+her club began showing up at planning and city-council
+meetings, demanding a greater say.
+
+"Our primary goal was to fight Tammany Hall, Carmine
+DeSapio and his henchman,"Carmine DeSapio holds the dubious distinction of
+being
+the first Italian-American boss of Tammany Hall, the
+New York City political machine. For more information
+on DeSapio and the politics of post-war New York, see
+John Davenport, "Skinning the Tiger: Carmine DeSapio
+and the End of the Tammany Era," New York Affairs
+(1975): 3:1.
+ says Lippman. "I was the representative to the city
+council and was very much involved in creating a viable
+urban-renewal plan that went beyond simply adding more
+luxury housing to the neighborhood."
+
+Such involvement would blossom into greater political
+activity during the 1960s. By 1965, Lippman had become
+an "outspoken" supporter for political candidates like
+William Fitts Ryan, a Democratic elected to Congress
+with the help of reform clubs and one of the first U.S.
+representatives to speak out against the Vietnam War.
+
+It wasn't long before Lippman, too, was an outspoken
+opponent of U.S. involvement in Indochina. "I was
+against the Vietnam war from the time Kennedy sent
+troops," she says. "I had read the stories by reporters
+and journalists sent to cover the early stages of the
+conflict. I really believed their forecast that it
+would become a quagmire."
+
+Such opposition permeated the Stallman-Lippman
+household. In 1967, Lippman remarried. Her new husband,
+Maurice Lippman, a major in the Air National Guard,
+resigned his commission to demonstrate his opposition
+to the war. Lippman's stepson, Andrew Lippman, was at
+MIT and temporarily eligible for a student deferment.
+Still, the threat of induction should that deferment
+disappear, as it eventually did, made the risk of U.S.
+escalation all the more immediate. Finally, there was
+Richard who, though younger, faced the prospect of
+choosing between Vietnam or Canada when the war lasted
+into the 1970s.
+
+"Vietnam was a major issue in our household," says
+Lippman. "We talked about it constantly: what would we
+do if the war continued, what steps Richard or his
+stepbrother would take if they got drafted. We were all
+opposed to the war and the draft. We really thought it
+was immoral."
+
+For Stallman, the Vietnam War elicited a complex
+mixture of emotions: confusion, horror, and,
+ultimately, a profound sense of political impotence. As
+a kid who could barely cope in the mild authoritarian
+universe of private school, Stallman experienced a
+shiver whenever the thought of Army boot camp presented itself.
+
+"I was devastated by the fear, but I couldn't imagine
+what to do and didn't have the guts to go demonstrate,"
+recalls Stallman, whose March 18th birthday earned him
+a dreaded low number in the draft lottery when the
+federal government finally eliminated college
+deferments in 1971. "I couldn't envision moving to
+Canada or Sweden. The idea of getting up by myself and
+moving somewhere. How could I do that? I didn't know
+how to live by myself. I wasn't the kind of person who
+felt confident in approaching things like that."
+
+Stallman says he was both impressed and shamed by the
+family members who did speak out. Recalling a bumper
+sticker on his father's car likening the My Lai
+massacre to similar Nazi atrocities in World War II, he
+says he was "excited" by his father's gesture of
+outrage. "I admired him for doing it," Stallman says.
+"But I didn't imagine that I could do anything. I was
+afraid that the juggernaut of the draft was going to
+destroy me."
+
+Although descriptions of his own unwillingness to speak
+out carry a tinge of nostalgic regret, Stallman says he
+was ultimately turned off by the tone and direction of
+the anti-war movement. Like other members of the
+Science Honors Program, he saw the weekend
+demonstrations at Columbia as little more than a
+distracting spectacle.Chess, another Columbia Science Honors Program alum,
+describes the protests as "background noise." "We were
+all political," he says, "but the SHP was imporant. We
+would never have skipped it for a demonstration."
+ Ultimately, Stallman says, the irrational forces
+driving the anti-war movement became indistinguishable
+from the irrational forces driving the rest of youth
+culture. Instead of worshiping the Beatles, girls in
+Stallman's age group were suddenly worshiping
+firebrands like Abbie Hoffman and Jerry Rubin. To a kid
+already struggling to comprehend his teenage peers,
+escapist slogans like "make love not war" had a
+taunting quality. Not only was it a reminder that
+Stallman, the short-haired outsider who hated rock 'n'
+roll, detested drugs, and didn't participate in campus
+demonstrations, wasn't getting it politically; he
+wasn't "getting it" sexually either.
+
+"I didn't like the counter culture much," Stallman
+admits. "I didn't like the music. I didn't like the
+drugs. I was scared of the drugs. I especially didn't
+like the anti-intellectualism, and I didn't like the
+prejudice against technology. After all, I loved a
+computer. And I didn't like the mindless
+anti-Americanism that I often encountered. There were
+people whose thinking was so simplistic that if they
+disapproved of the conduct of the U.S. in the Vietnam
+War, they had to support the North Vietnamese. They
+couldn't imagine a more complicated position, I guess."
+
+Such comments alleviate feelings of timidity. They also
+underline a trait that would become the key to
+Stallman's own political maturation. For Stallman,
+political confidence was directly proportionate to
+personal confidence. By 1970, Stallman had become
+confident in few things outside the realm of math and
+science. Nevertheless, confidence in math gave him
+enough of a foundation to examine the anti-war movement
+in purely logical terms. In the process of doing so,
+Stallman had found the logic wanting. Although opposed
+to the war in Vietnam, Stallman saw no reason to
+disavow war as a means for defending liberty or
+correcting injustice. Rather than widen the breach
+between himself and his peers, however, Stallman
+elected to keep the analysis to himself.
+
+In 1970, Stallman left behind the nightly dinnertime
+conversations about politics and the Vietnam War as he
+departed for Harvard. Looking back, Stallman describes
+the transition from his mother's Manhattan apartment to
+life in a Cambridge dorm as an "escape." Peers who
+watched Stallman make the transition, however, saw
+little to suggest a liberating experience.
+
+"He seemed pretty miserable for the first while at
+Harvard," recalls Dan Chess, a classmate in the Science
+Honors Program who also matriculated at Harvard. "You
+could tell that human interaction was really difficult
+for him, and there was no way of avoiding it at
+Harvard. Harvard was an intensely social kind of place."
+
+To ease the transition, Stallman fell back on his
+strengths: math and science. Like most members of the
+Science Honors Program, Stallman breezed through the
+qualifying exam for Math 55, the legendary "boot camp"
+class for freshman mathematics "concentrators" at
+Harvard. Within the class, members of the Science
+Honors Program formed a durable unit. "We were the math
+mafia," says Chess with a laugh. "Harvard was nothing,
+at least compared with the SHP."
+
+To earn the right to boast, however, Stallman, Chess,
+and the other SHP alumni had to get through Math 55.
+Promising four years worth of math in two semesters,
+the course favored only the truly devout. "It was an
+amazing class," says David Harbater, a former "math
+mafia" member and now a professor of mathematics at the
+University of Pennsylvania. "It's probably safe to say
+there has never been a class for beginning college
+students that was that intense and that advanced. The
+phrase I say to people just to get it across is that,
+among other things, by the second semester we were
+discussing the differential geometry of Banach
+manifolds. That's usually when their eyes bug out,
+because most people don't start talking about Banach
+manifolds until their second year of graduate school."
+
+Starting with 75 students, the class quickly melted
+down to 20 by the end of the second semester. Of that
+20, says Harbater, "only 10 really knew what they were
+doing." Of that 10, 8 would go on to become future
+mathematics professors, 1 would go on to teach physics.
+
+"The other one," emphasizes Harbater, "was Richard Stallman."
+
+Seth Breidbart, a fellow Math 55 classmate, remembers
+Stallman distinguishing himself from his peers even then.
+
+"He was a stickler in some very strange ways," says
+Breidbart. There is a standard technique in math which
+everybody does wrong. It's an abuse of notation where
+you have to define a function for something and what
+you do is you define a function and then you prove that
+it's well defined. Except the first time he did and
+presented it, he defined a relation and proved that
+it's a function. It's the exact same proof, but he used
+the correct terminology, which no one else did. That's
+just the way he was."
+
+It was in Math 55 that Richard Stallman began to
+cultivate a reputation for brilliance. Breidbart
+agrees, but Chess, whose competitive streak refused to
+yield, says the realization that Stallman might be the
+best mathematician in the class didn't set in until the
+next year. "It was during a class on Real Analysis,
+which I took with Richard the next year," says Chess,
+now a math professor at Hunter College. "I actually
+remember in a proof about complex valued measures that
+Richard came up with an idea that was basically a
+metaphor from the calculus of variations. It was the
+first time I ever saw somebody solve a problem in a
+brilliantly original way."
+
+Chess makes no bones about it: watching Stallman's
+solution unfold on the chalkboard was a devastating
+blow. As a kid who'd always taken pride in being the
+smartest mathematician the room, it was like catching a
+glimpse of his own mortality. Years later, as Chess
+slowly came to accept the professional rank of a
+good-but-not-great mathematician, he had Stallman's
+sophomore-year proof to look back on as a taunting
+early indicator.
+
+"That's the thing about mathematics," says Chess. "You
+don't have to be a first-rank mathematician to
+recognize first-rate mathematical talent. I could tell
+I was up there, but I could also tell I wasn't at the
+first rank. If Richard had chosen to be a
+mathematician, he would have been a first-rank mathematician."
+
+For Stallman, success in the classroom was balanced by
+the same lack of success in the social arena. Even as
+other members of the math mafia gathered to take on the
+Math 55 problem sets, Stallman preferred to work alone.
+The same went for living arrangements. On the housing
+application for Harvard, Stallman clearly spelled out
+his preferences. "I said I preferred an invisible,
+inaudible, intangible roommate," he says. In a rare
+stroke of bureaucratic foresight, Harvard's housing
+office accepted the request, giving Stallman a one-room
+single for his freshman year.
+
+Breidbart, the only math-mafia member to share a dorm
+with Stallman that freshman year, says Stallman slowly
+but surely learned how to interact with other students.
+He recalls how other dorm mates, impressed by
+Stallman's logical acumen, began welcoming his input
+whenever an intellectual debate broke out in the dining
+club or dorm commons.
+
+"We had the usual bull sessions about solving the
+world's problems or what would be the result of
+something," recalls Breidbart. "Say somebody discovers
+an immortality serum. What do you do? What are the
+political results? If you give it to everybody, the
+world gets overcrowded and everybody dies. If you limit
+it, if you say everyone who's alive now can have it but
+their children can't, then you end up with an
+underclass of people without it. Richard was just
+better able than most to see the unforeseen
+circumstances of any decision."
+
+Stallman remembers the discussions vividly. "I was
+always in favor of immortality," he says. "I was
+shocked that most people regarded immortality as a bad
+thing. How else would we be able to see what the world
+is like 200 years from now?"
+
+Although a first-rank mathematician and first-rate
+debater, Stallman shied away from clear-cut competitive
+events that might have sealed his brilliant reputation.
+Near the end of freshman year at Harvard, Breidbart
+recalls how Stallman conspicuously ducked the Putnam
+exam, a prestigious test open to math students
+throughout the U.S. and Canada. In addition to giving
+students a chance to measure their knowledge in
+relation to their peers, the Putnam served as a chief
+recruiting tool for academic math departments.
+According to campus legend, the top scorer
+automatically qualified for a graduate fellowship at
+any school of his choice, including Harvard.
+
+Like Math 55, the Putnam was a brutal test of merit. A
+six-hour exam in two parts, it seemed explicitly
+designed to separate the wheat from the chaff.
+Breidbart, a veteran of both the Science Honors Program
+and Math 55, describes it as easily the most difficult
+test he ever took. "Just to give you an idea of how
+difficult it was," says Breidbart, "the top score was a
+120, and my score the first year was in the 30s. That
+score was still good enough to place me 101st in the country."
+
+Surprised that Stallman, the best student in the class,
+had passed on the test, Breidbart says he and a fellow
+classmate cornered him in the dining common and
+demanded an explanation. "He said he was afraid of not
+doing well," Breidbart recalls.
+
+Breidbart and the friend quickly wrote down a few
+problems from memory and gave them to Stallman. "He
+solved all of them," Breidbart says, "leading me to
+conclude that by not doing well, he either meant coming
+in second or getting something wrong."
+
+Stallman remembers the episode a bit differently. "I
+remember that they did bring me the questions and it's
+possible that I solved one of them, but I'm pretty sure
+I didn't solve them all," he says. Nevertheless,
+Stallman agrees with Breidbart's recollection that fear
+was the primary reason for not taking the test. Despite
+a demonstrated willingness to point out the
+intellectual weaknesses of his peers and professors in
+the classroom, Stallman hated the notion of
+head-to-head competition.
+
+"It's the same reason I never liked chess," says
+Stallman. "Whenever I'd play, I would become so
+consumed by the fear of making a single mistake that I
+would start making stupid mistakes very early in the
+game. The fear became a self-fulfilling prophecy."
+
+Whether such fears ultimately prompted Stallman to shy
+away from a mathematical career is a moot issue. By the
+end of his freshman year at Harvard, Stallman had other
+interests pulling him away from the field. Computer
+programming, a latent fascination throughout Stallman's
+high-school years, was becoming a full-fledged passion.
+Where other math students sought occasional refuge in
+art and history classes, Stallman sought it in the
+computer-science laboratory.
+
+For Stallman, the first taste of real computer
+programming at the IBM New York Scientific Center had
+triggered a desire to learn more. "Toward the end of my
+first year at Harvard school, I started to have enough
+courage to go visit computer labs and see what they
+had. I'd ask them if they had extra copies of any
+manuals that I could read."
+
+Taking the manuals home, Stallman would examine machine
+specifications, compare them with other machines he
+already knew, and concoct a trial program, which he
+would then bring back to the lab along with the
+borrowed manual. Although some labs balked at the
+notion of a strange kid coming off the street and
+working on the lab machinery, most recognized
+competence when they saw it and let Stallman run the
+programs he had created.
+
+One day, near the end of freshman year, Stallman heard
+about a special laboratory near MIT. The laboratory was
+located on the ninth floor an off-campus building in
+Tech Square, the newly built facility dedicated to
+advanced research. According to the rumors, the lab
+itself was dedicated to the cutting-edge science of
+artificial intelligence and boasted the cutting-edge
+machines and software programs to match.
+
+Intrigued, Stallman decided to pay a visit.
+
+The trip was short, about 2 miles on foot, 10 minutes
+by train, but as Stallman would soon find out, MIT and
+Harvard can feel like opposite poles of the same
+planet. With its maze-like tangle of interconnected
+office buildings, the Institute's campus offered an
+aesthetic yin to Harvard's spacious colonial-village
+yang. The same could be said for the student body, a
+geeky collection of ex-high school misfits known more
+for its predilection for pranks than its politically
+powerful alumni.
+
+The yin-yang relationship extended to the AI Lab as
+well. Unlike Harvard computer labs, there was no
+grad-student gatekeeper, no clipboard waiting list for
+terminal access, no explicit atmosphere of "look but
+don't touch." Instead, Stallman found only a collection
+of open terminals and robotic arms, presumably the
+artifacts of some A.I. experiment.
+
+Although the rumors said anybody could sit down at the
+terminals, Stallman decided to stick with the original
+plan. When he encountered a lab employee, he asked if
+the lab had any spare manuals it could loan to an
+inquisitive student. "They had some, but a lot of
+things weren't documented," Stallman recalls. "They
+were hackers after all."
+
+Stallman left with something even better than a manual:
+a job. Although he doesn't remember what the first
+project was, he does remember coming back to the AI Lab
+the next week, grabbing an open terminal and writing
+software code.
+
+Looking back, Stallman sees nothing unusual in the AI
+Lab's willingness to accept an unproven outsider at
+first glance. "That's the way it was back then," he
+says. "That's the way it still is now. I'll hire
+somebody when I meet him if I see he's good. Why wait?
+Stuffy people who insist on putting bureaucracy into
+everything really miss the point. If a person is good,
+he shouldn't have to go through a long, detailed hiring
+process; he should be sitting at a computer writing code."
+
+To get a taste of "bureaucratic and stuffy," Stallman
+need only visit the computer labs at Harvard. There,
+access to the terminals was doled out according to
+academic rank. As an undergrad, Stallman usually had to
+sign up or wait until midnight, about the time most
+professors and grad students finished their daily work
+assignments. The waiting wasn't difficult, but it was
+frustrating. Waiting for a public terminal, knowing all
+the while that a half dozen equally usable machines
+were sitting idle inside professors' locked offices,
+seemed the height of illogic. Although Stallman paid
+the occasional visit to the Harvard computer labs, he
+preferred the more egalitarian policies of the AI Lab.
+"It was a breath of fresh air," he says. "At the AI
+Lab, people seemed more concerned about work than status."
+
+Stallman quickly learned that the AI Lab's first-come,
+first-served policy owed much to the efforts of a
+vigilant few. Many were holdovers from the days of
+Project MAC, the Department of Defense-funded research
+program that had given birth to the first time-share
+operating systems. A few were already legends in the
+computing world. There was Richard Greenblatt, the
+lab's in-house Lisp expert and author of MacHack, the
+computer chess program that had once humbled A.I.
+critic Hubert Dreyfus. There was Gerald Sussman,
+original author of the robotic block-stacking program
+HACKER. And there was Bill Gosper, the in-house math
+whiz already in the midst of an 18-month hacking bender
+triggered by the philosophical implications of the
+computer game LIFE.See Steven Levy, Hackers (Penguin USA [paperback],
+1984): 144. Levy devotes about five pages to describing
+Gosper's fascination with LIFE, a math-based software
+game first created by British mathematician John
+Conway. I heartily recommend this book as a supplement,
+perhaps even a prerequisite, to this one.
+
+Members of the tight-knit group called themselves "
+hackers." Over time, they extended the "hacker"
+description to Stallman as well. In the process of
+doing so, they inculcated Stallman in the ethical
+traditions of the "hacker ethic ." To be a hacker meant
+more than just writing programs, Stallman learned. It
+meant writing the best possible programs. It meant
+sitting at a terminal for 36 hours straight if that's
+what it took to write the best possible programs. Most
+importantly, it meant having access to the best
+possible machines and the most useful information at
+all times. Hackers spoke openly about changing the
+world through software, and Stallman learned the
+instinctual hacker disdain for any obstacle that
+prevented a hacker from fulfilling this noble cause.
+Chief among these obstacles were poor software,
+academic bureaucracy, and selfish behavior.
+
+Stallman also learned the lore, stories of how hackers,
+when presented with an obstacle, had circumvented it in
+creative ways. Stallman learned about " lock hacking,"
+the art of breaking into professors' offices to
+"liberate" sequestered terminals. Unlike their pampered
+Harvard counterparts, MIT faculty members knew better
+than to treat the AI Lab's terminal as private
+property. If a faculty member made the mistake of
+locking away a terminal for the night, hackers were
+quick to correct the error. Hackers were equally quick
+to send a message if the mistake repeated itself. "I
+was actually shown a cart with a heavy cylinder of
+metal on it that had been used to break down the door
+of one professor's office,"Gerald Sussman, an MIT faculty member and hacker
+whose
+work at the AI Lab predates Stallman's, disputes this
+memory. According to Sussman, the hackers never broke
+any doors to retrieve terminals.
+ Stallman says.
+
+Such methods, while lacking in subtlety, served a
+purpose. Although professors and administrators
+outnumbered hackers two-to-one inside the AI Lab, the
+hacker ethic prevailed. Indeed, by the time of
+Stallman's arrival at the AI Lab, hackers and the AI
+Lab administration had coevolved into something of a
+symbiotic relationship. In exchange for fixing the
+machines and keeping the software up and running,
+hackers earned the right to work on favorite pet
+projects. Often, the pet projects revolved around
+improving the machines and software programs even
+further. Like teenage hot-rodders, most hackers viewed
+tinkering with machines as its own form of entertainment.
+
+Nowhere was this tinkering impulse better reflected
+than in the operating system that powered the lab's
+central PDP-6 mini-computer. Dubbed ITS, short for the
+Incompatible Time Sharing system, the operating system
+incorporated the hacking ethic into its very design.
+Hackers had built it as a protest to Project MAC's
+original operating system, the Compatible Time Sharing
+System, CTSS, and named it accordingly. At the time,
+hackers felt the CTSS design too restrictive, limiting
+programmers' power to modify and improve the program's
+own internal architecture if needed. According to one
+legend passed down by hackers, the decision to build
+ITS had political overtones as well. Unlike CTSS, which
+had been designed for the IBM 7094, ITS was built
+specifically for the PDP-6. In letting hackers write
+the systems themselves, AI Lab administrators
+guaranteed that only hackers would feel comfortable
+using the PDP-6. In the feudal world of academic
+research, the gambit worked. Although the PDP-6 was
+co-owned in conjunction with other departments, A.I.
+researchers soon had it to themselves.
+
+ITS boasted features most commercial operating systems
+wouldn't offer for years, features such as
+multitasking, debugging, and full-screen editing
+capability. Using it and the PDP-6 as a foundation, the
+Lab had been able to declare independence from Project
+MAC shortly before Stallman's arrival.I apologize for the whirlwind summary of
+ITS' genesis,
+an operating system many hackers still regard as the
+epitome of the hacker ethos. For more information on
+the program's political significance, see Simson
+Garfinkel, Architects of the Information Society:
+Thirty-Five Years of the Laboratory for Computer
+Science at MIT (MIT Press, 1999).
+
+As an apprentice hacker, Stallman quickly became
+enamored with ITS. Although forbidding to most
+newcomers, the program contained many built-in features
+that provided a lesson in software development to
+hacker apprentices such as himself.
+
+"ITS had a very elegant internal mechanism for one
+program to examine another," says Stallman, recalling
+the program. "You could examine all sorts of status
+about another program in a very clean, well-specified way."
+
+Using this feature, Stallman was able to watch how
+programs written by hackers processed instructions as
+they ran. Another favorite feature would allow the
+monitoring program to freeze the monitored program's
+job between instructions. In other operating systems,
+such a command would have resulted in half-computed
+gibberish or an automatic systems crash. In ITS, it
+provided yet another way to monitor the step-by-step performance.
+
+"If you said, `Stop the job,' it would always be
+stopped in user mode. It would be stopped between two
+user-mode instructions, and everything about the job
+would be consistent for that point," Stallman says. "If
+you said, `Resume the job,' it would continue properly.
+Not only that, but if you were to change the status of
+the job and then change it back, everything would be
+consistent. There was no hidden status anywhere."
+
+By the end of 1970, hacking at the AI Lab had become a
+regular part of Stallman's weekly schedule. From Monday
+to Thursday, Stallman devoted his waking hours to his
+Harvard classes. As soon as Friday afternoon arrived,
+however, he was on the T, heading down to MIT for the
+weekend. Stallman usually timed his arrival to coincide
+with the ritual food run. Joining five or six other
+hackers in their nightly quest for Chinese food, he
+would jump inside a beat-up car and head across the
+Harvard Bridge into nearby Boston. For the next two
+hours, he and his hacker colleagues would discuss
+everything from ITS to the internal logic of the
+Chinese language and pictograph system. Following
+dinner, the group would return to MIT and hack code
+until dawn.
+
+For the geeky outcast who rarely associated with his
+high-school peers, it was a heady experience, suddenly
+hanging out with people who shared the same
+predilection for computers, science fiction, and
+Chinese food. "I remember many sunrises seen from a car
+coming back from Chinatown," Stallman would recall
+nostalgically, 15 years after the fact in a speech at
+the Swedish Royal Technical Institute. "It was actually
+a very beautiful thing to see a sunrise, 'cause that's
+such a calm time of day. It's a wonderful time of day
+to get ready to go to bed. It's so nice to walk home
+with the light just brightening and the birds starting
+to chirp; you can get a real feeling of gentle
+satisfaction, of tranquility about the work that you
+have done that night."See Richard Stallman, "RMS lecture at KTH (Sweden),"
+(October 30, 1986).
