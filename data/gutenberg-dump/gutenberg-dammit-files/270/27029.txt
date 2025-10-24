@@ -1,0 +1,876 @@
+TABLE
+
+
+1. Introduction
+
+2. Le multilinguisme
+
+3. Ressources linguistiques
+
+4. Traduction
+
+5. Recherche
+
+6. Sélection de sites
+
+7. Index des sites et pages web
+
+8. Index des personnes citées
+
+
+1. INTRODUCTION
+
+
+On déclare souvent qu'Internet abolit le temps, les distances et les frontières,
+mais qu'en est-il des langues?
+
+Dès ses débuts, la principale langue d'Internet a été l'anglais. Même si
+l'anglais est toujours prédominant en 1998-99, d'autres langues sont maintenant
+présentes, et leur progression est constante. Il reste à souhaiter que, tôt ou
+tard, la répartition des langues sur Internet corresponde à la répartition des
+langues dans le monde, et que des logiciels de traduction soient disponibles
+gratuitement sur le Web pour traduire instantanément une page dont on ne
+comprend pas la langue. Ceci dit, il reste beaucoup à faire pour que ce rêve
+devienne réalité.
+
+Cette étude s'articule autour de quatre grands thèmes: le multilinguisme, les
+ressources linguistiques, la traduction et la recherche.
+
+Dans le chapitre concernant le multilinguisme, on étudiera le développement des
+langues non anglophones sur le Web, en prenant le français à titre d'exemple. On
+évoquera aussi la diversité des langues dans l'Union européenne.
+
+Dans le chapitre relatif aux ressources linguistiques, on donnera quelques
+exemples des ressources disponibles sur le Web: sites répertoriant les
+ressources linguistiques, répertoires de langues, dictionnaires et glossaires,
+bases textuelles et terminologiques.
+
+Dans le chapitre ayant trait à la traduction, on explorera les perspectives
+apportées par la traduction automatique et la traduction assistée par
+ordinateur.
+
+Dans le dernier chapitre consacré à la recherche, on présentera plusieurs
+projets de recherche dans les domaines suivants: traduction automatique,
+linguistique computationnelle, ingénierie du langage, internationalisation et
+localisation.
+
+En août puis en décembre 1998, j'ai envoyé une enquête basée sur trois questions
+à un certain nombre d'organisations et de sociétés dont j'avais découvert les
+sites sur le Web. Les trois questions étaient les suivantes:
+
+a) Comment voyez-vous le multilinguisme sur le Web?
+
+b) Quel a été le bénéfice de l'utilisation d'Internet dans votre vie
+professionnelle ou dans l'activité de votre organisme ou société?
+
+c) Comment voyez-vous l'évolution vers un Internet multilingue, dans le cadre de
+votre avenir professionnel ou en général?
+
+Les réponses reçues sont inclues dans les pages qui suivent. Mes remerciements
+les plus vifs vont à tous ceux qui ont contribué à cette étude.
+
+En tant que traductrice-éditrice (travaillant essentiellement pour le Bureau
+international du Travail (BIT), situé à Genève), je suis fascinée par les
+langues, et je souhaitais donc en savoir plus sur le multilinguisme sur le Web.
+Durant le deuxième semestre 1998, j'ai passé un certain nombre d'heures à
+explorer le Web dans cette intention. Datée de février 1999, cette étude est le
+résultat de ces recherches. Bien que très proche de la version anglaise, elle
+n'est pas la traduction littérale de celle-ci. Cette étude ne cherche pas non
+plus à être exhaustive. Elle vise seulement à diffuser mes propres recherches
+dans les domaines qui m'intéressent particulièrement. Je m'intéresse également
+aux relations entre l'imprimé et Internet, objet d'une autre étude.
+
+
+2. LE MULTILINGUISME
+
+
+[Dans ce chapitre:]
+
+[2.1. Le Web: d'abord anglais, ensuite multilingue / 2.2. Le français face au
+géant anglais / 2.3. Diversité des langues dans l'Union européenne]
+
+
+2.1. Le Web: d'abord anglais, ensuite multilingue
+
+
+A ses débuts, Internet était anglophone à pratiquement 100%, ce qui s'explique
+par le fait qu'il a été créé aux Etats-Unis en tant que réseau mis en place dès
+1969 par le Pentagone avant de se développer dans les organismes gouvernementaux
+et les universités.
+
+Après la création du World Wide Web en 1989-90 par Tim Berners-Lee au
+Laboratoire européen pour la physique des particules (CERN) (Genève, Suisse) et
+la diffusion en novembre 1993 du premier navigateur (Mosaic, ancêtre de
+Netscape), lnternet s'est développé de manière foudroyante, d'abord aux
+Etats-Unis grâce aux investissements considérables réalisés par le gouvernement,
+puis au Canada et dans le reste du monde.
+
+En 1997, Babel, une initative conjointe d'Alis Technologies et de l'Internet
+Society, a mené la première étude d'ensemble sur la répartition réelle des
+langues sur Internet. Les résultats sont publiés dans le Palmarès des langues de
+la Toile, daté de juin 1997 et qui devrait être réactualisé prochainement. Les
+pourcentages étaient de 82,3% pour l'anglais, 4% pour l'allemand, 1,6% pour le
+japonais, 1,5% pour le français, 1,1% pour l'espagnol, 1,1% pour le suédois et
+1% pour l'italien.
+
+Le fait que l'anglais soit toujours représenté par un très fort pourcentage
+s'explique par les trois facteurs suivants: 1) l'anglais est la principale
+langue d'échange internationale, 2) les premières années ont vu la création d'un
+grand nombre de sites web émanant des Etats-Unis, du Canada ou du Royaume-Uni,
+3) la proportion de cybernautes est encore particulièrement forte en Amérique du
+Nord par rapport au reste du monde, pour les raisons suivantes: a) jusque très
+récemment, le matériel informatique et les logiciels étaient bien meilleur
+marché qu'ailleurs, b) on ne paie qu'un forfait mensuel pour les communications
+téléphoniques locales, ce qui rend l'utilisation d'Internet très économique par
+rapport à l'Europe, où les communications locales sont tarifiées à la durée.
+
+Dans La Francophonie en quête d'identité sur le Web, un article de Hugues Henry
+publié par le cyberquotidien Multimédium, Jean-Pierre Cloutier, auteur des
+Chroniques de Cybérie, expliquait:
+
+"Au Québec, je passe environ 120 heures par mois en ligne. Mon accès Internet me
+coûte 30 $ [canadiens], si j'ajoute mon forfait téléphonique d'environ 40 $
+(avec les divers services facultatifs dont je dispose), le coût total de mon
+branchement s'établit donc à 70 $ par mois. Je vous laisse deviner ce qu'il m'en
+coûterait en France, en Belgique ou en Suisse, où les communications locales
+sont facturées à la minute, pour le même nombre d'heures en ligne."
+
+Il s'ensuit que de nombreux cybernautes européens passent beaucoup moins de
+temps sur le Web qu'ils ne le souhaiteraient, ou choisissent de "surfer" la nuit
+pour éviter les factures trop élevées. Fin 1998 et début 1999, des mouvements de
+grève ont eu lieu dans plusieurs pays d'Europe pour faire pression sur les
+sociétés prestataires de services téléphoniques afin qu'elles baissent leur prix
+et qu'elles proposent des forfaits.
+
+Dans un article daté du 21 juillet 1998 et publié dans ZDNN (ZD Network News),
+Martha L. Stone précisait:
+
+"Cette année, le nombre de nouveaux sites non anglophones va probablement
+dépasser celui de nouveaux sites anglophones, et le monde cyber est en train de
+véritablement devenir une toile à l'échelle mondiale. [...] Selon Global Reach,
+les groupes de nouveaux sites web qui se développent le plus vite sont les
+groupes non anglophones: on note une progression de 22,4% pour les sites
+espagnols, 12,3% pour les sites japonais, 14% pour les sites allemands et 10%
+pour les sites francophones. On estime à 55,7 millions le nombre de personnes
+non anglophones ayant accès au Web. [...] Alors que 6% seulement de la
+population mondiale est de langue maternelle anglaise (et 16% d'hispanophones),
+80% des pages web sont en anglais."
+
+En contrepartie, même si l'anglais est encore prédominant, il faut cependant
+noter que de plus en plus de sociétés et d'organismes anglophones prennent
+conscience du fait que tout le monde ne comprend pas l'anglais. Les sites
+bilingues ou multilingues sont de plus en plus nombreux, ce pour des raisons
+aussi bien commerciales que culturelles.
+
+Sensible à ce problème, AltaVista, moteur de recherche utilisé par douze
+millions d'internautes, mettait en place en décembre 1997 AltaVista Translation,
+un service de traduction automatisée de l'anglais vers cinq autres langues
+(allemand, espagnol, français, italien et portuguais), et vice versa. Alimenté
+par des dictionnaires multilingues contenant plus de 2,5 millions de termes, ce
+service, gratuit et instantané, a été créé par Systran, société
+franco-américaine pionnière dans le domaine de la traduction automatique.
+
+La traduction étant entièrement automatisée, elle est évidemment approximative.
+Le texte à traduire doit être de trois pages maximum, et la page originale et la
+traduction apparaissent en vis-à-vis sur l'écran. Cet outil a évidemment ses
+limites, mais il a le mérite d'exister et il préfigure ceux de demain.
+
+De par sa vocation internationale, Internet doit être multilingue. On dispose
+enfin d'un instrument qui peut abolir les frontières au lieu d'en créer
+d'autres. De plus en plus de sites offrent des présentations bilingues ou
+trilingues, voire multilingues, pour toucher un public le plus large possible.
+Le site du quotidien belge Le Soir, par exemple, offre une présentation du
+journal en six langues: français, allemand, anglais, espagnol, italien et
+néerlandais. Le Club des poètes, lui, présente son site en anglais, en espagnol
+et en portugais.
+
+Robert Ware est le créateur de OneLook Dictionaries, qui permet une recherche
+rapide dans 2.058.544 mots appartenant à 425 dictionnaires couvrant plusieurs
+domaines: affaires, informatique et Internet, médecine, religion, sciences et
+techniques, sports, généralités et argot. Dans son courrier électronique du 2
+septembre 1998, il écrivait:
+
+"Un fait intéressant s'est produit dans le passé qui a été très instructif pour
+moi.
+
+En 1994, je travaillais pour un établissement scolaire et j'essayais d'installer
+un logiciel sur un modèle d'ordinateur particulier. J'ai trouvé une personne qui
+était en train de travailler sur le même problème, et nous avons commencé à
+échanger des courriers électroniques. Soudain, cela m'a frappé... Le logiciel
+avait été écrit à 40 km de là, mais c'était une personne située de l'autre côté
+de la planète qui m'aidait. Les distances et les considérations géographiques
+n'importaient plus!
+
+Et bien, ceci est formidable, mais à quoi cela nous mène-t-il? Je ne puis
+communiquer qu'en anglais mais, heureusement, mon correspondant pouvait utiliser
+aussi bien l'anglais que l'allemand qui était sa langue maternelle. Internet a
+supprimé une barrière, celle de la distance, mais il subsiste la barrière de la
+langue, bien réelle.
+
+Il semble qu'Internet propulse simultanément les gens dans deux directions
+différentes. Internet, anglophone à l'origine, relie les gens dans le monde
+entier. Par là même il favorise une langue commune pour communiquer. Mais il
+crée aussi des contacts entre des personnes de langue différente et permet ainsi
+le développement d'un intérêt plus grand pour le multilinguisme. Si une langue
+commune est appréciable, elle ne remplace en aucun cas cette nécessité.
+
+Internet favorise ainsi à la fois une langue commune et le multilinguisme, et
+ceci est un facteur qui aide à trouver des solutions. L'intérêt croissant pour
+les langues et le besoin qu'on en a stimulent de par le monde la création de
+cours de langues et d'instruments d'aide linguistique, et Internet fournit la
+possibilité de les rendre disponibles rapidement et à bon marché."
+
+
+2.2. Le français face au géant anglais
+
+
+Comme on l'a vu plus haut, le fort pourcentage de l'anglais - 100% à l'origine,
+environ 80% maintenant - est à la baisse. Comme il s'étend progressivement à
+tous les continents et à de nombreux pays non anglophones, Internet devient peu
+à peu multilingue. Le français est pris ici comme "exemple de langue non
+anglophone".
+
+Les sites francophones ont enregistré une forte expansion depuis 1996. Au début
+de 1998, les Québécois attendaient de pied ferme l'arrivée en masse de sites
+français, surtout dans le domaine du commerce électronique. Le 10 février 1998 ,
+lors d'un entretien avec le cyberquotidien Multimédium, Louise Beaudouin,
+ministre de la Culture et des Communications du Québec, déclarait: "J'attendais
+depuis deux ans que la France se réveille. Aujourd'hui, je ne m'en plaindrai
+pas. A cette date, le Québec (6 millions d'habitants) proposait plus de sites
+web que la France (60 millions d'habitants). La ministre attribuait le retard de
+la France à deux facteurs: d'une part les tarifs élevés du téléphone et du
+Minitel, d'autre part les transactions commerciales possibles sur le Minitel
+depuis plusieurs années, ce qui a ralenti l'expansion du commerce électronique
+sur Internet.
+
+"En voulant trop en faire une affaire nationale, qui exprimerait aussi par
+ailleurs l'antipathie qu'ils ont envers les Anglais, les Français ont tendance à
+freiner la propagation de leur culture. Cela est très regrettable, lit-on le 7
+novembre 1996 dans Yomiyuri Shimbun, le plus grand quotidien japonais avec ses
+dix millions d'exemplaires (cité dans un article de Pierre Perroud, créateur de
+la cyberbibliothèque Athena). Ce cliché a-t-il jamais été vrai, si ce n'est
+pendant la Guerre de cent ans?
+
+Plus optimiste, Tim Berners-Lee, créateur du World Wide Web, déclarait cependant
+en décembre 1997 à Pierre Ruetschi dans la Tribune de Genève: "Pourquoi les
+francophones ne mettent-ils pas davantage d'informations sur le Web ? Est-ce
+qu'ils pensent que personne ne veut la lire, que la culture française n'a rien à
+offrir? C'est de la folie, l'offre est évidemment énorme." Ces remarques
+sont-elles une critique, un encouragement, ou les deux ? On aurait pu les
+comprendre il y a deux ou trois ans, mais il n'est pas sûr qu'elles soient
+encore de mise aujourd'hui, il suffit de naviguer sur le Web francophone pour
+s'en rendre compte.
+
+Le français n'est pas seulement la langue de la France, du Québec et d'une
+partie de la Belgique et de la Suisse. Il est la langue officielle de 49 états,
+dont un certain nombre de pays africains, ce qui représente 500 millions de
+personnes. Un exemple parmi d'autres de la coopération francophone est l'Agence
+de la francophonie. Créée en 1970 pour regrouper 21 états francophones, elle en
+comptait 47 en 1997. "Instrument de coopération multilatérale née d'un idéal,
+celui de créer une communauté qui fasse entendre sa voix dans le concert des
+nations, [elle] participe aujourd'hui à l'avènement d'un Secrétariat général de
+la Francophonie."
+
+S'il est la langue des pays francophones, le français est aussi la deuxième
+langue utilisée dans les organisations internationales. Malgré la pression
+anglophone, réelle ou supposée selon les cas, des francophones veillent à ce que
+leur langue ait sa place en Europe et dans le monde, au même titre que les
+autres grandes langues de communication que sont l'anglais, l'arabe, le chinois
+et l'espagnol. Là aussi, l'optique est aussi bien la défense d'une langue que le
+respect du multilinguisme et de la diversité des peuples.
+
+C'est l'Annuaire de l'UREC (UREC: Unité réseaux du CNRS - Centre national de la
+recherche scientifique) qui, en France, a été le premier annuaire de sites web
+en langue française. Travail de pionnier, il a permis aux cybernautes
+francophones d'une part de se familiariser avec le Web sans se noyer dans la
+masse d'informations mondiale, d'autre part de connaître les sites qui petit à
+petit fleurissaient dans le monde francophone. Créé au début de 1994, il a
+d'abord recensé les sites académiques, puis son contenu est devenu plus
+généraliste.
+
+Comme l'expliquait Claude Gross sur le site à l'automne 1997, la gestion de
+l'annuaire est ensuite devenue très difficile du fait de l'accroissement
+constant du nombre de sites web, et notamment de sites commerciaux. Par la
+suite, d'autres annuaires ont vu le jour, dont certains débutés avec l'aide de
+l'UREC. En juillet 1997, considérant que la mission qu'elle s'était donnée était
+accomplie, l'UREC a donc arrêté la mise à jour de cet annuaire généraliste. Il
+est maintenant remplacé par un annuaire spécialisé consacré à l'enseignement
+supérieur et à la recherche.
+
+Nombreux sont ceux qui travaillent à une meilleure représentation du français
+sur le Web, en prônant un Web francophone intégré dans un Web international et
+multilingue tenant compte de la diversité des langues en Europe et dans le
+monde.
+
+La Délégation générale à la langue française (DGLF) s'est donnée plusieurs
+missions: veiller à la promotion et à l'emploi du français en France, favoriser
+son utilisation comme langue de communication internationale, et développer le
+plurilinguisme, garant de la diversité culturelle. La rubrique: "France langue"
+propose trois listes de diffusion consacrées à la langue française: "France
+langue", "France langue assistance" et "France langue technologies". Gérée et
+modérée par la DGLF, France langue se veut "un lieu convivial d'échanges
+d'informations et d'idées (manifestations, colloques, publications, etc.), ainsi
+qu'un lieu de discussion sur les thèmes liés à la langue française, à la
+diversité linguistique, à la dynamique des langues, à la politique
+linguistique", et elle accueille toutes les questions d'ordre linguistique
+(grammaire, orthographe, usage, etc.).
+
+La DGLF a également mené plusieurs actions pour assurer la place du français sur
+les nouveaux réseaux, notamment l'édition de guides techniques sur l'utilisation
+dans les logiciels des caractères typographiques et des accents propres à la
+langue française, ce en liaison avec l'AFNOR (Association française de
+normalisation), ou la francisation de ceux qui sont commercialisés en France.
+
+Le site de la Maison de la Francité, association belge sans but lucratif
+subventionnée depuis 1976 par la Commission communautaire française, souhaite
+présenter la réalité socio-linguistique de Bruxelles, seconde capitale
+internationale de langue française après Paris, tout en agissant pour la défense
+et la promotion de la langue française à Bruxelles et au sein de la Communauté
+française Wallonie-Bruxelles.
+
+Au Québec, l'Office de la langue française (OLF),organisme gouvernemental chargé
+d'assurer la promotion du français, veille à l'implantation et au maintien du
+français dans les milieux de travail et des affaires et dans l'administration.
+Il définit et conduit la politique québécoise en matière de linguistique et de
+terminologie.
+
+Les instances politiques ont également contribué à favoriser l'accès des
+autoroutes de l'information aux francophones. En application de la Résolution
+sur la société de l'information adoptée par les chefs d'Etat et de gouvernement
+à Cotonou (Bénin) en décembre 1995, la Conférence des ministres francophones
+chargés des inforoutes s'est déroulée à Montréal (Québec) du 19 au 21 mai 1997.
+Datée du 21 mai 1997, la Déclaration de Montréal proposait de "développer une
+aire francophone d'éducation, de formation et de recherche; soutenir la création
+et la circulation de contenus francophones et contribuer à la sauvegarde et à la
+valorisation des patrimoines; encourager la promotion de l'aire francophone de
+développement économique; mettre en place une vigie francophone (veille active);
+sensibiliser prioritairement la jeunesse ainsi que les utilisateurs, les
+producteurs et les décideurs; assurer la présence et la concertation des
+francophones dans les instances spécialisées."
+
+La propagation d'une langue passe aussi par l'étude dynamique de celle-ci.
+Internet ouvre des horizons sans précédent sur l'utilisation de bases de données
+linguistiques et les possibilités de recherche textuelle, témoin le site de
+l'Institut national de la langue française (INaLF), qui présente ses recherches
+sur la langue française, notamment le discours littéraire des 14e au 20e siècles
+(contenu, sémantique, thématique), la langue courante (langue écrite, langue
+parlée, argot), le discours scientifique et technique et ses ressources
+terminologiques.
+
+Christiane Jadelot, ingénieur d'études à l'INaLF-Nancy, expliquait dans son
+courrier électronique du 8 juin 1998:
+
+"Les premières pages sur l'INaLF ont été mises sur l'Internet au milieu de
+l'année 96, à la demande de Robert Martin, directeur de l'INaLF. Je peux en
+parler, car j'ai participé à la mise sous Internet de ces pages, avec des outils
+qui ne sont pas comparables à ceux que l'on utilise aujourd'hui. J'ai en effet
+travaillé avec des outils sous UNIX, qui n'étaient pas très faciles
+d'utilisation. Nous avions peu d'expérience de la chose, à l'époque, et les
+pages étaient très verbeuses. Mais la direction a senti la nécessité urgente de
+nous faire connaître par l'Internet, que beaucoup d'autres entreprises
+utilisaient déjà pour promouvoir leurs produits. Nous sommes en effet "Unité de
+recherche et de service" et nous avons donc à trouver des clients pour nos
+produits informatisés, le plus connu d'entre eux [étant] la base textuelle
+FRANTEXT. Il me semble que la base FRANTEXT était déja sur Internet [depuis
+début 1995], ainsi qu'une maquette du tome 14 du TLF [Trésor de la langue
+française]. Il était donc nécessaire de faire connaître l'ensemble de l'INaLF
+par ce moyen. Cela correspondait à une demande générale."
+
+Organisme à but non lucratif, le Centre d'expertise et de veille Inforoutes et
+Langues (CEVEIL) existe depuis 1995. Sa création découle du désir du
+gouvernement du Québec de mieux cerner la problématique de l'utilisation et du
+traitement des langues sur les inforoutes - dans une optique plus spécifiquement
+francophone - par le biais d'activités de veille stratégique et la création d'un
+réseau d'échanges et d'expertise.
+
+Le CEVEIL s'est donné les objectifs suivants : sensibiliser les entreprises
+québécoises aux bénéfices associés à une gestion électronique et stratégique de
+leurs savoirs; transférer aux entreprises québécoises les pratiques utiles pour
+assurer cette gestion électronique et stratégique; mettre en évidence le
+plurilinguisme et l'importance des normes et standards, dans un contexte
+d'enjeux technologiques et stratégiques reliés à la gestion des savoirs;
+valoriser l'expertise québécoise et susciter des collaborations entre les
+différents acteurs, au Québec ou ailleurs.
+
+Guy Bertrand, directeur scientifique du CEVEIL, et Cynthia Delisle, consultante,
+ont répondu à mes questions dans leur courrier électronique du 23 août 1998.
+
+ML: "Comment voyez-vous le multilinguisme sur le Web?"
+
+CEVEIL: "Le multilinguisme sur Internet est la conséquence logique et naturelle
+de la diversité des populations humaines. Dans la mesure où le Web a d'abord été
+développé et utilisé aux Etats-Unis, il n'est guère étonnant que ce médium ait
+commencé par être essentiellement anglophone (et le demeure actuellement).
+Toutefois, cette situation commence à se modifier et le mouvement ira en
+s'amplifiant, à la fois parce que la plupart des nouveaux usagers du Réseau
+n'auront pas l'anglais comme langue maternelle et parce que les communautés déjà
+présentes sur le Web accepteront de moins en moins la "dictature" de la langue
+anglaise et voudront exploiter Internet dans leur propre langue, au moins
+partiellement.
+
+On peut prévoir que l'on arrivera sans doute, d'ici quelques années, à une
+situation semblable à ce qui prévaut dans le monde de l'édition en ce qui a
+trait à la répartition des différentes langues. Ceci signifie néanmoins que seul
+un nombre relativement restreint de langues seront représentées (comparativement
+aux quelques milliers d'idiomes qui existent). Dans cette optique, nous croyons
+que le Web devrait chercher, entre autres, à favoriser un renforcement des
+cultures et des langues minoritaires, en particulier pour les communautés
+dispersées.
+
+Enfin, l'arrivée de langues autres que l'anglais sur Internet, si elle constitue
+un juste rééquilibre et un enrichissement indéniable, exaspère évidemment le
+besoin d'outils de traitement linguistique aptes à gérer efficacement cette
+situation, d'où la nécessité de poursuivre les travaux de recherche et les
+activités de veille dans des secteurs comme la traduction automatique, la
+normalisation, le repérage de l'information, la condensation automatique
+(résumés), etc."
+
+ML: "Quel a été le bénéfice de l'utilisation d'Internet pour votre organisme?"
+
+CEVEIL: "Mentionnons, tout d'abord, que l'existence du Web constitue en soi une
+des raisons d'être du CEVEIL, puisque nous concentrons nos activités
+principalement autour de la thématique de l'utilisation et du traitement des
+langues sur Internet.
+
+Par ailleurs, le Web est notre principal terrain de cueillette d'information sur
+les thématiques qui nous préoccupent. Nous procédons notamment à une
+fréquentation assidue des sites abordant nos thématiques de travail - plus
+particulièrement des sites diffusant des nouvelles quotidiennes et/ou
+hebdomadaires. A ce niveau, on peut affirmer sans hésitation que nous exploitons
+davantage Internet que les diverses ressources écrites disponibles pour réaliser
+nos activités.
+
+Dans un ordre d'idées un peu différent, nous utilisons abondamment le courriel
+pour entretenir des relations avec les intervenants du milieu et ainsi obtenir
+des informations et mener à bien divers projets. Le CEVEIL est un
+"structure-réseau" qui survivrait difficilement sans Internet pour relier toutes
+les personnes impliquées.
+
+Enfin, il convient de signaler que le Web constitue également notre plus
+important outil pour la diffusion de nos produits aux clientèles-cibles: envoi
+de bulletins électroniques de nouvelles à nos abonnés, création d'un périodique
+électronique, diffusion d'information et de documents via notre site web, etc."
+
+ML: "Comment voyez-vous l'évolution vers un Internet multilingue?"
+
+CEVEIL: "Internet est là pour demeurer; l'apparition de langues autres que
+l'anglais sur ce médium constitue également un phénomène irréversible. Il sera
+donc nécessaire de tenir compte de ces nouvelles réalités aux points de vue
+économique, social, politique, culturel, etc. Des secteurs comme la publicité,
+la formation professionnelle, le travail en groupes et en réseaux, la gestion
+des connaissances devront évoluer en conséquence. Cela nous ramène, tel que nous
+l'avons mentionné plus haut, à la nécessité de développer des technologies et
+des outils vraiment performants qui faciliteront les échanges dans un Village
+global terriblement plurilingue..."
+
+
+2.3. Diversité des langues dans l'Union européenne
+
+
+Henri Slettenhaar, professeur à la Webster University (Genève, Suisse), est un
+Européen trilingue. Il est hollandais, il enseigne l'informatique en anglais et
+il parle couramment le français puisqu'il vit en France. Dans son courrier
+électronique du 21 décembre 1998, il expliquait:
+
+"Je vois le multilinguisme comme un facteur fondamental. Les communautés locales
+présentes sur le Web devraient en tout premier lieu utiliser leur langue pour
+diffuser des informations. Si elles veulent également présenter ces informations
+à la communauté mondiale, celles-ci doient aussi être disponibles en anglais. Je
+pense qu'il existe un réel besoin de sites bilingues.
+
+[...] Je suis enchanté qu'il existe maintenant tant de documents disponibles
+dans leur langue originale. Je préfère de beaucoup lire l'original avec
+difficulté plutôt qu'une traduction médiocre."
+
+Selon Global Reach, 15% seulement des Européens (qui représentent 500 millions
+d'habitants) sont de langue maternelle anglaise, et 28% seulement parlent
+anglais. Le site mentionne aussi une étude récente démontrant que 32% seulement
+des cybernautes européens consultent le Web anglophone.
+
+Créateur de Euro-Marketing Associates (qui englobe Global Reach), Bill Dunlap,
+qui défend le commerce électronique européen auprès de ses compatriotes
+américains, écrivait dans son courrier électronique du 12 décembre 1998, que
+contrairement à l'Amérique du Nord, "ici en Europe (j'écris de France), les pays
+sont petits, si bien que, depuis des siècles, une perspective internationale est
+nécessaire."
+
+De nombreux organismes traitent de multilinguisme, par exemple l'Association
+européenne pour les ressources linguistiques (ELRA), le European Network in
+Language and Speech (ELSNET) et le programme Multilingual Information Society
+(MLIS) de la Communauté européenne.
+
+Etablie à Luxembourg en Février 1995, l'Association européenne pour les
+ressources linguistiques (ELRA) est une association à but non lucratif qui a
+pour but de fournir une organisation centralisée pour la validation, la gestion
+et la distribution des ressources et outils en parole, texte et terminologie, et
+de promouvoir leur utilisation au sein de la communauté européenne de recherche
+et développement en télématique.
+
+Le European Network in Language and Speech (ELSNET) (Réseau européen pour le
+langage et la parole) regroupe plus d'une centaine d'institutions universitaires
+et industrielles. L'objectif technologique commun aux participants de ELSNET est
+de construire des systèmes multilingues pour la parole et le langage naturel,
+avec couverture illimitée de la langue parlée et écrite.
+
+Dans son courrier électronique du 23 septembre 1998, Steven Krauwer,
+coordinateur d'ELSNET, expliquait:
+
+"En tant que citoyen européen je pense que le multilinguisme sur le Web est
+absolument essentiel. A mon avis, ce n'est pas une situation saine à long terme
+que seuls ceux qui ont une bonne maîtrise de l'anglais puissent pleinement
+exploiter les bénéfices du Web.
+
+En tant que chercheur (spécialisé dans la traduction automatique), je vois le
+multilinguisme comme un défi majeur: pouvoir garantir que l'information sur le
+Web soit accessible à tous, indépendamment des différences de langue.
+
+Internet est l'instrument que j'utilise le plus pour communiquer avec les
+autres, et c'est ma source principale d'information. [...] Je compte passer le
+reste de ma vie professionnelle à utiliser la technologie de l'information pour
+supprimer ou réduire les barrières des langues."
+
+Lancé en novembre 1996, le programme Multilingual Information Society (MLIS)
+(Société d'information multilingue) de la Commission européenne soutient la
+réalisation d'une infrastructure favorisant des ressources linguistiques
+européennes, mobilise et accroît le développement des industries du langage, et
+favorise l'utilisation d'outils linguistiques dans le secteur public européen.
+Les entreprises, les organismes du secteur public, les industries du langage et
+les citoyens peuvent bénéficier de ce programme.
+
+"Afin de promouvoir 'concrètement' une Europe multilingue, dans un contexte
+d'évolution rapide et permanent des nouvelles technologies de communication, et
+d'attirer largement l'intérêt sur ce programme, ce site est accessible dans les
+11 langues officielles de l'Union européenne [allemand, anglais, danois,
+espagnol, finlandais, français, grec, hollandais, italien, portugais et
+suédois]. Nous renvoyons à des références et à des liens encore plus larges...
+Nous essayons de fournir autant d'information que possible dans ces onze
+langues, et nous vous demandons de rester compréhensif pour le retard existant
+parfois entre la publication d'un document officiel dans sa langue initiale et
+sa traduction dans les autres langues de l'UE."
+
+Le multilinguisme est l'affaire de tous, témoin cet Appel du Comité européen
+pour le respect des cultures et des langues en Europe (CERCLE) qui, diffusé dans
+les onze langues officielles de l'Union européenne, défend "une Europe
+humaniste, plurilingue et riche de sa diversité culturelle". Il propose aux
+réviseurs du Traité de l'Union européenne douze amendements prenant en compte le
+respect des cultures et des langues:
+
+"La diversité et le pluralisme linguistiques ne sont pas un obstacle à la
+circulation des hommes, des idées et des marchandises ou services, comme veulent
+le faire croire certains, alliés objectifs, conscients ou non, de la culture et
+de la langue dominantes. C'est l'uniformisation et l'hégémonie qui sont un
+obstacle au libre épanouissement des individus, des sociétés et de l'économie de
+l'immatériel, source principale des emplois de demain. Le respect des langues, à
+l'inverse, est la dernière chance pour l'Europe de se rapprocher des citoyens,
+objectif toujours affiché, presque jamais mis en pratique. L'Union doit donc
+renoncer à privilégier la langue d'un seul groupe."
+
+Dans Language Futures Europe, Paul Treanor propose des liens sur la politique
+linguistique, le multilinguisme, les structures linguistiques globales, et la
+domination de l'anglais. Le site débute par un commentaire sur les structures
+linguistiques. Il offre des textes et des essais, des sections consacrées à la
+politique européenne, aux politiques nationales et aux sites de recherche, et
+des documents sur le "mouvement monolingue" émergeant aux Etats-Unis.
+
+Dans son courrier électronique du 18 août 1998, Paul Treanor exposait ses
+réflexions sur les questions posées:
+
+"Vous parlez du Web au singulier. Comme vous l'avez sans doute lu, je pense que
+"Le Web" est un concept politique, non technologique. Une civilisation est
+possible avec des ordinateurs très sophistiqués mais pas d'interconnexion.
+L'idée qu'il devrait exister "Un Web" est dérivée de la tradition libérale du
+marché unique ouvert, de préférence mondial.
+
+J'ai déjà suggéré qu'Internet devrait être tout simplement découpé, et que
+l'Europe devrait couper ses liens avec les Etats-Unis, et construire un autre
+Net spécifique et incompatible avec le premier. Dès qu'on envisage la
+possibilité de Nets multiples, les thèmes correspondant aux différents chapitres
+de votre étude sont souvent hors de propos. Rappelez-vous qu'il y a quinze ans
+tout le monde pensait qu'il n'y aurait qu'un émetteur de télévision à l'échelle
+mondiale, CNN. Or il existe maintenant des chaînes de télévision nationales
+françaises, allemandes ou espagnoles. La réponse à votre question est donc que
+l'entité "Un Web" sera de toute manière divisée, probablement en quatre parties:
+
+a) un Net interne aux Etats-Unis et au Canada, avec nombre des caractéristiques
+actuelles;
+
+b) des Nets nationaux séparés, avec des liens limités avec l'extérieur;
+
+c) un nouveau Net général pour relier entre eux les Nets de la catégorie 2;
+
+d) et peut-être un Net spécifique à l'Union européenne.
+
+Comme vous voyez, cette structure est parallèle à celle qui existe en
+géopolitique. Toute l'infrastructure des télécommunications a suivi des modèles
+similaires.
+
+Je pense qu'il n'est pas possible d'approcher le Web de la manière neutre et
+apolitique envisagée dans votre étude. La politique actuelle de l'Union
+européenne prétend être neutre, mais elle supporte en fait le développement de
+l'anglais comme langue de contact pour communiquer."
+
+
+3. RESSOURCES LINGUISTIQUES
+
+
+[Dans ce chapitre:]
+
+[3.1. Sites indexant des ressources linguistiques / 3.2. Répertoires
+linguistiques / 3.3. Dictionnaires et glossaires / 3.4. Bases de données
+textuelles / 3.5. Bases de données terminologiques]
+
+
+3.1. Sites indexant des ressources linguistiques
+
+
+Préparé par le programme Télématique pour les bibliothèques de la Commission
+européenne, Multilingual Tools and Services (Outils et services multilingues)
+propose une série de dictionnaires, instruments d'aide multilingues, projets,
+moteurs de recherche par langue, banques de données terminologiques, thésaurus
+et systèmes de traduction.
+
+Créée par Tyler Chambers en mai 1994, The Human-Languages Page (La page des
+langues humaines) est un catalogue détaillé de 1.800 ressources linguistiques
+dans plus de 100 langues différentes. Les différentes sections sont: langues et
+littérature, écoles et institutions, ressources linguistiques, produits et
+services, organismes, emplois et stages, dictionnaires et cours de langues.
+
+Tyler Chambers mène aussi un autre projet relatif aux langues, l'Internet
+Dictionary Project (Projet de dictionnaire Internet). Sur le site web, il
+explique:
+
+"Le but de l'Internet Dictionary Project est de créer des dictionnaires de
+traduction grâce à l'aide des internautes. Ce site permet aux individus du monde
+entier de consulter et de participer à la traduction de termes anglais dans
+d'autres langues. Les listes de termes anglais et leurs correspondants dans
+d'autres langues sont ensuite mis à la disposition de tous sur ce site, sans
+restriction d'aucune sorte. [...]
+
+The Internet Dictionary Project a débuté en 1995 pour combler une lacuune et
+procurer à la communauté d'Internet et à tous ceux qui s'intéressent à
+l'informatique des dictionnaires de traduction gratuits. Non seulement il est
+très utile d'avoir immédiatement accès à des dictionnaires via le World Wide
+Web, mais ceci permet aussi le développement de logiciels pouvant tirer parti de
+tels dictionnaires, que ce soit des programmes de traduction ou des
+vérificateurs d'orthographe ou encore des guides d'apprentissage des langues. En
+facilitant la création de ces dictionnaires en ligne par des milliers de
+volontaires, et en les mettant gratuitement à la disposition de tous, l'Internet
+Dictionary Project espère imprimer sa marque sur Internet et susciter d'autres
+projets qui seront plus bénéfiques que des revenus purement financiers."
+
+Tyler Chambers a répondu à mes questions dans son courrier électronique du 14
+septembre 1998.
+
+ML: "Comment voyez-vous le multilinguisme sur le Web?"
+
+TC: "Le multilinguisme sur le Web était inévitable bien avant que ce médium ne
+se développe vraiment. Mon premier vrai contact avec Internet date de 1994, un
+peu après ses débuts mais bien avant son expansion. 1994 a été aussi l'année où
+j'ai débuté mon premier projet web multilingue, et il existait déjà un nombre
+significatif de ressources linguistiques en ligne. Ceci était antérieur à la
+création de Netscape. Mosaic était le seul navigateur sur le Web, et les pages
+web étaient essentiellement des documents textuels reliés par des hyperliens.
+Suite à l'expérience acquise maintenant par les navigateurs et les cybernautes,
+je ne pense pas qu'il existe une langue vivante qui ne soit pas représentée sur
+le Web, que ce soit la langue des Indiens d'Amérique ou les dialectes
+moyen-orientaux. De même une pléthore de langues mortes peut maintenant trouver
+une audience nouvelle avec des érudits et autres spécialistes en ligne. A ma
+connaissance, très peu de jeux de caractères ne sont pas disponibles en ligne:
+les navigateurs ont maintenant la possibilité de visualiser les caractères
+romains, asiatiques, cyrilliques, grecs, turcs, etc. Accent Software a un
+produit appelé "Internet avec accents" qui prétend être capable de visualiser
+plus de 30 codages différents. S'il existe encore des obstacles à la diffusion
+d'une langue spécifique sur le Web, ceci ne devrait pas durer."
+
+ML: "Quel a été le bénéfice de l'utilisation d'Internet dans votre vie
+professionnelle?"
+
+TC: "Ma vie professionnelle est en ce moment complètement distincte de mon
+activité sur Internet. Je suis un programmeur/technicien informatique, je trouve
+cela stimulant et cela me permet de payer les factures. Mon activité en ligne a
+été de rendre l'information linguistique accessible à davantage de gens par le
+biais de deux de mes projets sur le Web. Bien que je ne sois pas multilingue, ni
+même bilingue moi-même, je suis conscient du fait que très peu de domaines ont
+une importance comparable à celle des langues et du multilinguisme. Internet m'a
+permis de toucher des millions de personnes et de les aider à trouver ce
+qu'elles cherchaient, chose que je suis heureux de faire. Je suis devenu aussi
+une sorte de célébrité, ou au moins quelqu'un de familier dans certains cercles.
+Je viens de découvrir qu'un de mes projets est brièvement mentionné dans les
+éditions asiatique et internationale de Time Magazine. Dans l'ensemble, je pense
+que le Web a été important pour la sensibilisation aux langues et pour les
+questions culturelles. Dans quel autre endroit peut-on chercher au hasard
+pendant vingt minutes et trouver des informations susceptibles de vous
+intéresser dans trois langues différentes sinon plus? Les médias de
+communication rendent le monde plus petit en rapprochant les gens; je pense que
+le Web est le premier médium - bien plus que le courrier, le télégraphe, le
+téléphone, la radio ou la télévision - à réellement permettre à l'usager moyen
+de franchir les frontières nationales et culturelles. Israël n'est plus à des
+milliers de kilomètres, mais seulement à quelques clics de souris. Notre monde
+est maintenant suffisamment petit pour tenir sur un écran d'ordinateur."
+
+ML: "Comment voyez-vous l'évolution vers un Internet multilingue?"
+
+TC: "Comme je l'ai dit plus haut, je pense que l'avenir d'Internet réside dans
+davantage de multilinguisme et d'exploration et de compréhension
+multiculturelles que nous n'en avons jamais vu. Cependant Internet sera
+seulement le médium au travers duquel l'information circule. Comme le papier qui
+sert de support au livre, Internet lui-même augmente très peu le contenu de
+l'information. Par contre il augmente énormément la valeur de celle-ci dans la
+capacité qu'il a à communiquer cette information. Dire qu'Internet aiguillonne
+le multilinguisme est à mon sens une opinion fausse. C'est la communication qui
+aiguillonne le multilinguisme et l'échange multiculturel, Internet est seulement
+le mode de communication le plus récent rendu accessible aux gens plus ou moins
+ordinaires. Internet a un long chemin à parcourir avant d'être omniprésent dans
+le monde entier, mais il est vraissemblable que lui-même ou un médium de la même
+lignée y arrive. Les langues deviendront encore plus importantes qu'elles ne le
+sont quand tout le monde pourra communiquer à l'échelle de la planète (à travers
+le Web, les discussions, les jeux, le courrier électronique, ou toute
+application appartenant encore au domaine de l'avenir), mais je ne sais pas si
+ceci mènera à un renforcement des attaches linguistiques ou à une fusion des
+langues jusqu'à ce qu'il n'en subsite plus que quelques-unes ou même une seule.
+Une chose qui m'apparaît certaine est qu'Internet sera toujours la marque de
+notre diversité, y compris la diversité des langues, même si cette diversité
+diminue. Et c'est une des choses que j'aime au sujet d'Internet, c'est un
+exemple à l'échelle mondiale du dicton: 'Cela n'a pas vraiment disparu tant que
+quelqu'un s'en souvient.' Et les gens se souviennent."
+
+Depuis ses débuts en 1989, le CTI (Computer in Teaching Initiative) Centre for
+Modern Languages (Centre pour l'utilisation des ordinateurs dans l'enseignement
+des langues modernes) est inclus dans l'Institut des langues de l'Université
+d'Hull (Royaume-Uni) et vise à promouvoir l'utilisation des ordinateurs dans
+l'apprentissage et l'enseignement des langues. Le Centre procure des
+informations sur la manière dont l'apprentissage des langues assisté par
+ordinateur peut être effectivement intégré à des cours existants en offrant un
+soutien aux professeurs qui utilisent, ou souhaitent utiliser, l'informatique
+dans l'enseignement qu'ils dispensent.
+
+June Thompson, responsable du Centre, a répondu à mes questions dans son
+courrier électronique du 14 décembre 1998.
+
+ML: "Comment voyez-vous le multilinguisme sur Internet?"
+
+JT: "Avec Internet, on a la possibilité d'accroître l'utilisation des langues
+étrangères, et notre organisation ne soutient absolument pas la suprématie de
+l'anglais en tant que langue d'Internet. Une intéressante conférence sur ce
+sujet a été donnée par Madanmohan Rao à la Conférence WorldCALL de Melbourne en
+juillet 1998. [Voir la présention de l'ouvrage à paraître suite à la
+conférence.]
+
+ML: "Quel a été le bénéfice de l'utilisation d'Internet dans votre activité?"
+
+JT: "L'utilisation d'Internet a apporté une nouvelle dimension à notre tâche qui
+consiste à soutenir les professeurs de langue dans l'utilisation de la
+technologie correspondante."
+
+ML: "Comment voyez-vous l'évolution vers un Internet multilingue?"
+
+JT: "Je pense que dans un avenir proche l'utilisation de supports linguistiques
+sur Internet va continuer à se développer en même temps que d'autres activités
+liées à la technologie (par exemple l'utilisation de CD-ROM - certains
+établissements n'ont pas suffisamment de matériel informatique en réseau). A
+l'avenir il me semble que l'utilisation d'Internet jouera un rôle plus grand,
+mais seulement si ces activités sont à caractère pédagogique. Notre organisme
+travaille étroitement avec le WELL project [Web Enhanced Language Learning -
+Apprentissage des langues grâce au Web], qui se consacre à ces problèmes."
+
+Hébergé par le CTI Centre for Modern Languages et l'Université d'Hull
+(Royaume-Uni), EUROCALL (European Association for Computer Assisted Language
+Learning) (Association européenne pour l'apprentissage des langues assisté par
+ordinateur) regroupe des professionnels de l'enseignement des langues exerçant
+en Europe et dans le monde entier. Ses objectifs sont de favoriser l'utilisation
+des langues étrangères en Europe, ainsi qu'une vision européenne de
+l'utilisation de la technologie pour l'apprentissage des langues et
+l'élaboration et la diffusion d'un matériel de qualité.
+
+EUROCALL soutient aussi deux groupes: CAPITAL (Computer Assisted Pronunciation
+Investigation Teaching and Learning) (Investigation, enseignement et
+apprentissage de la prononciation assistés par ordinateur), qui est un groupe de
+chercheurs et de praticiens souhaitant utiliser l'informatique dans le domaine
+de la prononciation pris dans le sens le plus large du terme, et WELL (Web
+Enhanced Language Learning) (Apprentissage des langues grâce au Web), qui
+procurera l'accès à des ressources web de qualité dans douze langues
+différentes. Sélectionnées et décrites par des experts, ces ressources seront
+complétées par des informations et des exemples sur la manière de les utiliser
+pour l'enseignement et l'apprentissage d'une langue.
+
+Internet Resources for Language Teachers and Learners (Ressources Internet pour
+l'enseignement et l'apprentissage des langues) propose plusieurs catégories de
+liens: ressources linguistiques générales (centres et départements,
+dictionnaires et grammaires, listes de discussion, apprentissage des langues à
+distance, caractères, compte-rendus, linguistique, listes et index, divers,
+journaux et périodiques, organismes, ressources, sites linguistiques
+multilingues, moteurs de recherche et index, sites linguistiques commerciaux
+(audiovisuels, écoles de langue, ressources et répertoires, logiciels).
+
+Géré par l'Institut des sciences phonétiques d'Amsterdam (Pays-Bas), Speech on
+the Web (Parole sur le Web) est un répertoire de liens organisés en différentes
+sections: congrès, réunions et ateliers, liens et listes, phonétique et parole,
+traitement de la langue naturelle, sciences cognitives et intelligence
+artificielle, linguistique computationnelle, dictionnaires, lettres
+d'information électroniques, revues et publications.
+
+Travlang est un site dédié à la fois aux voyages et aux langues. Créé par
+Michael C. Martin en 1994 sur le site de son université alors qu'il était
+étudiant en physique (il est maintenant chercheur au Lawrence Berkeley National
+Laboratory, en Californie), Foreign Languages for Travelers (Langues étrangères
+pour les voyageurs), inclus dans Travlang en 1995, donne la possibilité
+d'apprendre 60 langues différentes sur le Web. Translating Dictionaries
+(Dictionnaires de traduction) donne accès à des dictionnaires gratuits dans
+diverses langues (afrikaans, allemand, danois, espagnol, espéranto, finnois,
+français, frison, hollandais, hongrois, italien, latin, norvégien, portugais et
+tchèque). Le site offre aussi de nombreux liens vers des dictionnaires de
+langue, services de traduction, écoles de langue, librairies multilingues, etc.
+
+Michael C. Martin a répondu à mes questions dans son courrier électronique du 25
+août 1998.
+
+ML: "Comment voyez-vous le multilinguisme sur le Web?"
+
+MCM: "Je pense que le Web est un endroit idéal pour rapprocher les cultures et
+les personnes, et ceci inclut d'être multilingue. Notre site Travlang est très
+populaire pour cette raison, et les gens souhaitent se sentir en contact avec
+d'autres parties du monde."
+
+ML: "Quel a été le bénéfice de l'utilisation d'Internet dans votre activité?"
+
+MCM: "Et bien, nous en avons fait une petite affaire! Internet est vraiment un
+outil important pour communiquer avec des gens avec lesquels vous n'auriez pas
+l'occasion de dialoguer autrement. J'apprécie vraiment la collaboration générale
+qui a rendu possibles les pages de Foreign Languages for Travelers (Langues
+étrangères pour les voyageurs)."
+
+ML: "Comment voyez-vous l'évolution vers un Internet multilingue?"
+
+MCM: "Je pense que les traductions intégrales informatisées vont devenir monnaie
+courante, et qu'elles permettront de communiquer à la base avec davantage de
+gens. Ceci aidera aussi à amener davantage Internet au monde non anglophone."
+
+La LINGUIST List est la section linguistique de la WWW Virtual Library. Elle
+donne une série complète de liens sur les ressources linguistiques: profession
+(conférences, associations linguistiques, programmes, etc.), recherche et
+soutien à la recherche (articles, résumés de mémoires, projets, bibliographies,
+dossiers, textes), publications, pédagogie, ressources linguistiques (langues,
+familles linguistiques, dictionnaires, information régionale), et soutien
+informatique (polices de caractères et logiciels).
+
+Helen Dry, modératrice de la LINGUIST List, expliquait dans son courrier
+électronique du 18 août 1998:
+
+"La LINGUIST List, que je modère, a pour politique d'accepter les informations
+dans toutes les langues, puisque c'est une liste pour linguistes. Nous ne
+souhaitons cependant pas que le message soit publié dans plusieurs langues, tout
+simplement à cause de la charge de travail que cela représenterait pour notre
+personnel de rédaction (nous ne sommes pas une liste fourre-tout, mais une liste
+modérée: avant d'être publié, chaque message est classé par nos
+étudiants-rédacteurs dans une section comprenant des messages du même type).
+Notre expérience nous montre que pratiquement tout le monde choisit de publier
+en anglais. Mais nous relions ces informations à un système de traduction qui
+présente nos pages dans cinq langues différentes. Ainsi un abonné ne lit
+LINGUIST en anglais que s'il le souhaite. Nous essayons aussi d'avoir au moins
+un étudiant-éditeur qui soit réellement multilingue, afin que les lecteurs
+puissent correspondre avec nous dans d'autres langues que l'anglais."
+
+Géré par le Yamada Language Center de l'Université d'Oregon (USA), Yamada WWW
+Language Guides (Guides Yamada de langues sur le WWW) est un répertoire de
+ressources linguistiques par famille géographique et par ordre alphabétique. Il
+comprend des organismes, des écoles de langues, du matériel d'enseignement, des
