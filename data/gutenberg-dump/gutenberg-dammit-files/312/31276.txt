@@ -1,0 +1,2138 @@
+[ Anmerkungen zur Transkription:
+
+  Der Text wurde originalgetreu übertragen. Lediglich einige
+  offensichtliche Fehler wurden korrigiert. Eine Liste sämtlicher
+  vorgenommener Änderungen befindet sich am Ende des Textes.
+
+  Im Original _kursiv_ gesetzter Text wurde mit _ markiert.
+  Im Original ~gesperrt~ gesetzter Text wurde mit ~ markiert.
+  Im Original #fett# gesetzter Text wurde mit # markiert.]
+
+
+
+
+  PHILOSOPHISCHE VORTRÄGE
+  VERÖFFENTLICHT VON DER KANTGESELLSCHAFT.
+
+  UNTER MITWIRKUNG VON HANS VAIHINGER UND MAX FRISCHEISEN-KÖHLER
+  HERAUSGEGEBEN VON ARTHUR LIEBERT.                      Nr. 22.
+
+
+                       Heinrich von Kleist
+                             und die
+                      Kantische Philosophie
+
+                               von
+
+                          Ernst Cassirer
+
+
+
+                              Berlin
+                  Verlag von Reuther & Reichard
+                               1919
+
+
+
+
+                        Kantgesellschaft.
+
+
+  #Vorstand#: #Gottfried Meyer#, Dr. med. (h. c.), Geh. Oberreg.-Rat,
+                 Kurator der Universität Halle a. S., Reilstr. 53.
+
+  #Übrige Mitglieder des Verwaltungs-Ausschusses#:
+
+    #Max Frischeisen-Köhler#, Dr., a. o. Professor an der
+       Universität Halle a. S., Mozartstr. 24.
+
+    #Karl Gerhard#, Dr., Geh. Reg.-Rat, Direktor d. Univ.-Bibliothek
+       Halle a. S., Karlstr. 36.
+
+    #Berthold von Kern#, Exz., Dr. med. et phil. (h. c.), Prof.,
+       Obergeneralarzt, Berlin-Steglitz, Hohenzollernstr. 6.
+
+    #Heinrich Lehmann#, Dr. phil. (h. c.), Dr. med. (h. c.),
+       Geheimer Kommerzienrat, Halle a. S., Burgstr. 46.
+
+    #Paul Menzer#, Dr., o. ö. Professor an der Universität
+       Halle a. S., Fehrbellinstr. 2.
+
+    #Rudolf Stammler#, Dr. jur. et phil. (h. c.), Geh. Reg.-Rat,
+       o. ö. Prof. an der Universität Berlin, Charlottenburg,
+       Knesebeckstr. 20-21.
+
+    #Theodor Ziehen#, Dr., Geh. Med.-Rat, o. ö. Professor an
+       der Universität Halle a. S., Ulestr. 1.
+
+    #Geschäftsführer.#
+
+      #Hans Vaihinger#, Dr., Geh. Reg.-Rat, o. ö. Prof.
+         a. d. Universität Halle a. S., Reichardtstr. 15.
+
+      #Arthur Liebert#, Dr., Dozent a. d. Berl. Handels-Hochschule,
+         Berlin W. 15, Fasanenstr. 48.
+
+
+
+Die Kantgesellschaft ist gelegentlich der hundertsten Wiederkehr des
+Todestages Immanuel Kants (12. Februar 1904) von Prof Dr. ~Hans
+Vaihinger~ begründet worden. Sie verfolgt den Zweck, von der
+Grundlage der Kantischen Philosophie aus die Weiterentwicklung der
+Philosophie überhaupt zu fördern. Ohne ihre Mitglieder irgendwie zur
+Gefolgschaft gegenüber der Kantischen Philosophie zu verpflichten,
+hat die Kantgesellschaft keine andere Tendenz als die von Kant selbst
+ausgesprochene, durch das Studium seiner Philosophie ~philosophieren~
+zu ~lehren~.
+
+Ihren Zweck sucht die Kantgesellschaft in erster Linie zu
+verwirklichen durch die »#Kantstudien#«; die Mitglieder der
+Kantgesellschaft erhalten diese Zeitschrift (jährlich 4 Hefte im
+Umfang von ca. 35 Bogen = 560 Seiten) unentgeltlich zugesandt;
+dasselbe ist der Fall mit den »#Ergänzungsheften#« der »Kantstudien«,
+welche jedesmal eine größere geschlossene Abhandlung enthalten
+(gewöhnlich 3-5 im Jahre im Gesamt-Umfang von ca. 450-550 Seiten).
+Außerdem erhalten die Mitglieder kostenlos jährlich 1-2 Bände der
+»#Neudrucke# seltener philosophischer Werke des 18. und 19. Jahrh.«,
+sowie die von der Gesellschaft veröffentlichten »#Philosophischen
+Vorträge#«, ebenfalls 3-5 in einem Jahre.
+
+Das Geschäftsjahr der Kantgesellschaft ist das Kalenderjahr; der
+~Eintritt kann aber jederzeit erfolgen~. Die bis dahin erschienenen
+Veröffentlichungen des betr. Jahrganges werden den Neueintretenden
+~nachgeliefert~. Satzungen, Mitgliederverzeichnis u. s. w. sind
+unentgeltlich durch den stellv. Geschäftsführer Dr. ~Arthur Liebert~,
+Berlin W. 15, Fasanenstr. 48, zu beziehen, an den auch die
+Beitrittserklärungen sowie der Jahresbeitrag (Mark 20.--) zu richten
+sind.
+
+
+
+
+                               Vortrag,
+
+       gehalten in der Berliner Abteilung der Kantgesellschaft
+                        am 15. November 1918.
+
+     (Für den Zweck der Veröffentlichung sind die Ausführungen um
+                     den 2. Teil ergänzt worden).
+
+
+
+
+1.
+
+
+Goethes Wort, daß »alles Lebendige eine Atmosphäre um sich
+her bilde«, gilt in ganz besonderem Maße auch von den großen
+philosophischen Gedankenbildungen. Sie alle stehen nicht lediglich
+abgelöst im leeren Raume des Begriffs und der Abstraktion, sondern
+sie bewähren sich nach den verschiedensten Seiten hin als lebendige
+geistige Triebkräfte. Ihr wahrhafter Bestand tritt erst in dieser
+Mannigfaltigkeit der Wirkungen, die sie auf ihre Zeit und auf die
+großen Individuen üben, ganz hervor. Aber in dieser Breite der
+Wirkung liegt freilich zugleich für die Schärfe und Bestimmtheit
+ihres Begriffs eine unmittelbare Gefahr. Je mächtiger der Strom
+anschwillt, um so schwerer wird es, in ihm und seinem Laufe die
+Reinheit der ursprünglichen Quelle wieder zu erkennen. So sieht
+sich hier der Historiker der Philosophie und der allgemeinen
+Geistesgeschichte häufig vor ein eigentümliches methodisches Dilemma
+gestellt. Er kann nicht darauf verzichten, einen philosophischen
+Grundgedanken von systematischer Kraft und Bedeutung in seine
+geschichtlichen Verzweigungen und Weiterbildungen zu verfolgen:
+denn erst in dieser Form des Wirkens erfüllt sich sein konkret
+geschichtliches Sein. Aber auf der anderen Seite scheint damit die
+charakteristische Bestimmtheit, die Einheit und Geschlossenheit, die
+der Gedanke im Geiste seines ersten Urhebers besaß, mehr und mehr
+verloren zu gehen. Indem der Gedanke fortzuschreiten scheint, rückt
+er damit leise von Ort zu Ort. Die Fülle der geschichtlichen
+Wirksamkeit scheint er nur auf Kosten seiner logischen Klarheit
+gewinnen zu können; der anfänglich feste Umriß des Begriffs verwischt
+sich mehr und mehr, je weiter wir seinen mittelbaren und abgeleiteten
+historischen Folgen nachgehen.
+
+Nirgends tritt dieser Sachverhalt und dieses Schicksal der großen
+philosophischen Systeme deutlicher als in der Entwicklung der
+Kantischen Philosophie zutage. Die Kantische Lehre hat von ihrem
+ersten Auftreten an ihre innere Lebendigkeit dadurch erwiesen, daß
+sie die verschiedenartigsten geistigen Elemente und Kräfte an sich
+zog und mit ihnen und aus ihnen eine neue eigentümliche Atmosphäre
+um sich herum schuf. Aber immer unkenntlicher scheint durch diesen
+Dunstkreis, der sich um ihn lagert, der eigentliche gedankliche
+Kern des Kantischen Systems zu werden. Die Philosophiegeschichte
+wie die allgemeine Geistesgeschichte zeigen hier die gleiche
+typische Entwicklung. Ebenso heterogen und widerstreitend wie die
+theoretisch-spekulative Auslegung der Kantischen Grundlehren bei
+Fichte und Schelling, bei Schopenhauer, Fries und Herbart gewesen
+ist, ist auch der Eindruck gewesen, den Geister wie Herder und
+Goethe, Schiller und Kleist von ihr empfangen haben. Sie alle suchten
+in ihr nicht in erster Linie eine abstrakt-begriffliche Doktrin,
+sondern sie empfanden sie als unmittelbare Lebensmacht. Aber indem
+sie sie in dieser Weise aufnahmen, teilten sie ihr zugleich das
+eigene charakteristische Lebensgefühl mit. Im positiven und im
+negativen Sinne, in dem Widerstand, den sie der Kantischen Lehre
+leisten und in der Gewalt, mit der sie sich durch sie ergreifen und
+bestimmen lassen, sprechen alle diese Männer zugleich die eigene
+Gesamtanschauung vom Inhalt und Sinn des Daseins aus und bringen sich
+die Grundrichtung ihres Strebens zu subjektiver Bewußtheit und
+Klarheit.
+
+Keiner hat diese Bedeutung der Kantischen Lehre tiefer und
+innerlicher erfahren, als Heinrich von Kleist -- und sie tritt gerade
+deshalb bei ihm um so eindringlicher hervor, als er sich ihr mit der
+ganzen Kraft und Leidenschaft, mit der ganzen persönlichen Energie
+seines Wesens widersetzt hat. Wenn Goethe der Kantischen Philosophie
+von Anfang an mit einer gewissen heiteren Gelassenheit und Sicherheit
+gegenübersteht, um dann doch durch Motive, die in seiner eigenen
+Entwicklung lagen, mehr und mehr in ihren Bannkreis zu geraten,
+wenn Schiller sich ihr, nach der ersten genaueren Kenntnis, mit
+unbedingtem Eifer hingibt und nicht eher ruht, als bis er sie in
+eindringendem methodischen Studium ganz durchdrungen und bewältigt
+hat; -- so scheint Kleist weder zu dem einen noch zum andern die
+Kraft zu besitzen. Er sträubt sich gegen den Gedanken, daß auch er
+eines von den »Opfern der Torheit« werden solle, deren die Kantische
+Philosophie schon so viele auf dem Gewissen habe, aber er fühlt sich
+andererseits ohnmächtig, das dialektische Netz, das sich dichter und
+dichter um ihn legt, mit einem raschen Entschluß zu zerreißen. Er
+unterliegt einer geistigen Gewalt, die er sich nicht zu deuten weiß,
+-- die er seinem eigenen Wesen und seiner Natur als fremd empfindet.
+Und damit ist für ihn das Ganze seines geistigen Seins vernichtet.
+»Mein einziges und höchstes Ziel -- so klagt er -- ist gesunken; ich
+habe keines mehr.« Denn es ist nicht dieses oder jenes ~Resultat~ der
+Weltbetrachtung, das ihm durch Kant geraubt ist, sondern das Ganze
+dessen, was er bisher an rein inneren Forderungen, an logischen und
+ethischen ~Postulaten~ in sich trug. Der Wahrheitsbegriff selbst hat
+seinen Sinn und Gehalt verloren. »Ich hatte schon als Knabe« -- so
+schreibt Kleist in jenem bekannten Brief an Wilhelmine -- »mir den
+Gedanken angeeignet, daß die Vervollkommnung der Zweck der Schöpfung
+wäre. Ich glaubte, daß wir einst nach dem Tode von der Stufe der
+Vervollkommnung, die wir auf diesem Sterne erreichten, auf einem
+andern weiter fortschreiten würden, und daß wir den Schatz von
+Wahrheiten, den wir hier sammelten, auch dort einst brauchen könnten.
+Aus diesem Gedanken bildete sich so nach und nach eine eigene
+Religion und das Bestreben, nie auf einen Augenblick hienieden still
+zu stehen, und immer unaufhörlich einem höhern Grade von Bildung
+entgegenzuschreiten, ward bald das einzige Prinzip meiner Tätigkeit.
+~Bildung~ schien mir das einzige Ziel, das des Bestrebens, ~Wahrheit~
+der einzige Reichtum, der des Besitzes würdig ist.« Nun aber zeigt
+ihm die Kantische Philosophie, wie er sie begreift, wie in diesem
+Ziele sich eine bloße Illusion des Verstandes verbirgt. »Wir können
+nicht entscheiden, ob das, was wir Wahrheit nennen, wahrhaft Wahrheit
+ist, oder ob es uns nur so scheint. Ist das letzte, so ist die
+Wahrheit, die wir hier sammeln, nach dem Tode nicht mehr -- und alles
+Bestreben, ein Eigentum sich zu erwerben, das uns auch in das Grab
+folgt, ist vergeblich ... Seit diese Ueberzeugung, nämlich, daß
+hienieden keine Wahrheit zu finden ist, vor meine Seele trat, habe
+ich nicht wieder ein Buch angerührt. Ich bin untätig in meinem Zimmer
+umhergegangen, ich habe mich an das offene Fenster gesetzt, ich bin
+hinausgelaufen ins Freie, eine innerliche Unruhe trieb mich zuletzt
+in Tabagien und Kaffeehäuser, ich habe Schauspiele und Konzerte
+besucht, um mich zu zerstreuen -- -- -- und dennoch war der einzige
+Gedanke, den meine Seele in diesem äußeren Tumulte mit glühender
+Angst bearbeitete, immer nur dieser: dein ~einziges~, dein ~höchstes~
+Ziel ist gesunken.«
+
+Mit der Gegenständlichkeit und Bestimmtheit, die schon den großen
+Dichter kennzeichnet, ist hier der innere Kampf dargestellt, den die
+Kantische Lehre in Kleist erregt hat. Und doch: wenn man die Briefe
+Kleists an die Braut und an die Schwester aus dieser Zeit wieder
+und wieder liest, wenn man sie früheren brieflichen Aeußerungen
+gegenüberstellt und sie mit der Gesamtheit dessen vergleicht, was uns
+über seine Jugend und Bildungsgeschichte bekannt ist, so knüpfen sich
+hier immer neue Rätsel und Probleme. Zunächst nämlich besteht kein
+Zweifel daran, daß es nicht der überhaupt ~erste~ Eindruck der
+Kantischen Philosophie ist, der in diesen Kleistischen Briefen zum
+Ausdruck kommt. Die Briefe an Wilhelmine und Ulrike sind am 22. und
+23. März 1801 geschrieben; aber schon im August 1800 hatte ein Brief
+an die Schwester eine eigene Schrift Kleists über die Kantische
+Philosophie, die noch in Frankfurt abgefaßt sein muß, erwähnt und um
+ihre Zusendung gebeten. Und er hatte um diese Zeit Kants Lehre nicht
+nur flüchtig kennen gelernt, sondern er hatte ihr bereits in seinem
+eigenen »Lebensplan« -- man weiß, welches Gewicht dieses Wort für
+dem jungen Kleist besitzt, -- eine bestimmte Stelle zugewiesen. Im
+November 1800 spricht er zu Wilhelmine von dem Plan, nach Paris zu
+gehen, um die neueste Philosophie nach Frankreich, wo man bisher von
+ihr noch gar keine Kenntnis habe, zu verpflanzen. Konnte Kleist einen
+solchen Plan fassen, noch ehe er selbst mit den Grundzügen der
+Kantischen Lehre vertraut war? Und in der Tat hatte er sich, wie
+eine genauere Betrachtung des Briefwechsels zeigt, damals mit der
+Kantischen Lehre wenigstens insoweit vertraut gemacht, daß ihm die
+Kantische Begriffssprache und Terminologie in den Hauptzügen geläufig
+geworden war. Eine Stelle in einem Schreiben an Wilhelmine vom Mai
+1800 ordnet eine Frage, die er ihr vorlegt und die er in der bekannten
+pedantischen Umständlichkeit dieser Jugendbriefe entwickelt, den drei
+Gesichtspunkten unter, was der ~Verstand~, was die ~Urteilskraft~
+und was die ~Vernunft~ an ihr zu erfassen vermöge; wobei diese drei
+Funktionen genau nach der Weisung, die eine Stelle der Kantischen
+Anthropologie gibt, gegen einander abgegrenzt und einander
+gegenübergestellt werden. Noch bedeutsamer und charakteristischer
+aber ist es, daß Kleist um diese Zeit in seinen religionsphilosophischen
+Ueberzeugungen völlig auf Kantischem Boden steht. Mit Recht hat man
+auf die vielfachen wörtlichen Anklänge verwiesen, die seine Briefe
+an einzelne Stellen der Kantischen »Religion innerhalb der Grenze
+der bloßen Vernunft« enthalten.[1] Der Gedanke des reinen moralischen
+Vernunftglaubens, wie Kant ihn entwickelt und wie er ihn allem
+religiösen Afterdienst entgegengesetzt hatte, war in Kleist völlig
+lebendig geworden. Auf Grund dieses Gedankens schiebt er auch
+die Frage nach der individuellen Fortdauer des Individuums als
+bloße spekulative Grübelei beiseite. Weder in transzendenten
+Glaubensvorstellungen über einen Gott und ein Jenseits, noch in der
+Erfüllung äußerlicher religiöser Gebräuche -- so erklärt er -- kann
+der eigentliche Kern der Religion bestehen; denn sonst würde die
+Religion selbst zu einem zweideutigen und wandelbaren Dinge, das in
+jedem Augenblick und an allen Orten der Erde verschieden wäre. »Aber
+in uns flammt eine Vorschrift -- und die muß göttlich sein, weil sie
+ewig und allgemein ist, sie heißt: ~erfülle Deine Pflicht~; und
+dieser Satz enthält die Lehren aller Religionen. Alle anderen Sätze
+folgen aus diesem und sind in ihm gegründet, oder sie sind nicht
+darin begriffen, und dann sind sie unfruchtbar und unnütz. Daß ein
+Gott sei, daß es ein ewiges Leben, einen Lohn für die Tugend, eine
+Strafe für das Laster gebe, das alles sind Sätze, die in jenem nicht
+gegründet sind, und die wir also entbehren können. Denn gewiß sollen
+wir sie nach dem Willen der Gottheit selbst entbehren können, weil
+sie es uns selbst unmöglich gemacht hat, es einzusehen und zu
+begreifen. Würdest Du nicht mehr tun, was recht ist, wenn der Gedanke
+an Gott und Unsterblichkeit nur ein Traum wäre? Ich nicht. Daher
+~bedarf~ ich zwar zu meiner Rechtschaffenheit dieser Sätze nicht;
+aber zuweilen, wenn ich meine Pflicht erfüllt habe, erlaube ich mir,
+mit stiller Hoffnung an einen Gott zu denken, der mich sieht und an
+eine frohe Ewigkeit, die meiner wartet ... Aber dieser Glaube sei
+irrig oder nicht -- gleichviel! Es warte auf mich eine Zukunft oder
+nicht -- gleichviel! Ich erfülle für dieses Leben meine Pflicht, und
+wenn Du mich fragst, ~warum?~, so ist die Antwort leicht: eben ~weil~
+es meine Pflicht ist. Ich schränke mich daher mit meiner Tätigkeit
+ganz für dies Erdenleben ein. Ich will mich nicht um meine Bestimmung
+nach dem Tode kümmern, aus Furcht darüber meine Bestimmung für dieses
+Leben zu vernachlässigen ... Dabei bin ich überzeugt, gewiß in den
+großen ewigen Plan der Natur einzugreifen, wenn ich nur den Platz
+ganz erfülle, auf den sie mich in dieser Erde setzte. Nicht umsonst
+hat sie mir diesen ~gegenwärtigen~ Wirkungskreis angewiesen und
+gesetzt, ich verträumte diesen und forschte dem zukünftigen nach --
+ist denn nicht die ~Zukunft~ eine ~kommende Gegenwart~ und will ich
+denn auch ~diese~ Gegenwart wieder verträumen?«
+
+  [1] S. Wilh. Herzog, H. v. Kleist 1911, S. 65.
+
+Wir mußten diese beiden Briefstellen -- die eine aus einem Brief vom
+19. September 1800, die andere aus einem Brief vom 22. März 1801
+-- bestimmt und ausführlich einander gegenüberstellen: denn in dieser
+Entgegensetzung tritt mit voller Schärfe das ~Problem~ hervor, das
+Kleists inneres Verhältnis zur Kantischen Lehre in sich schließt. Was
+vermochte den Schüler Kants, der Kleist schon im September 1800 gewesen
+ist, an der Kantischen Lehre so zu ergreifen, daß er jetzt seine
+gesamte Vergangenheit und all sein bisheriges Streben plötzlich vor
+sich versinken sah? Welches neue Moment ist es gewesen, das in ihm
+diese Erschütterung aller seiner früheren Grundüberzeugungen bewirkte?
+War es der Fortgang von Kants ethischen und religionsphilosophischen
+Schriften zu seinen theoretischen Hauptwerken, war es das intensive
+Studium der »Kritik der reinen Vernunft«, wodurch dieser plötzliche
+Umschwung sich in Kleist vollzog? Man hat es allgemein behauptet,
+ohne daß doch hierfür, soviel ich sehe, ein wirklich bündiger Beweis
+erbracht worden wäre. Denn das traditionelle Schlagwort von dem
+»Alleszermalmer« Kant, dessen Gewalt nun auch Kleist an sich erfahren
+hätte -- ein Schlagwort, das in diesem Zusammenhang regelmäßig
+wiederzukehren pflegt -- besagt und erklärt im Grunde nicht das
+mindeste. Als der »Alleszermalmer« mochte Kant der älteren Generation,
+der Generation Mendelssohns erscheinen, die sich nach und nach daran
+gewöhnt hatte, in den Lehrsätzen des herrschenden Wolffischen
+Schulsystems und in den Dogmen der rationalistischen Metaphysik, nicht
+nur Wahrheit, sondern ~die~ Wahrheit schlechthin zu sehen. Seither aber
+waren zwei Jahrzehnte vergangen, in denen die positive Kraft und der
+positive Gehalt der Kantischen Lehre nach allen Seiten hin unverkennbar
+hervorgetreten war. »Was Kleist im besonderen an der Kantischen Lehre
+abstieß« -- so schreibt Wilhelm Herzog, der das Verhältnis Kleists zu
+Kant von allen Biographen Kleists am eingehendsten behandelt hat --
+»war die fragwürdige Relativität aller Dinge, war die eisige Skepsis,
+die ihm aus jener nüchternen Beschränkung angrinste. Er ersehnte das
+Absolute und Kant lehrte ihn, daß nichts feststeht.« Aber wo und wann
+hätte Kant, hätte die »Kritik der reinen Vernunft« etwas derartiges
+gelehrt? Man mag allenfalls, obwohl äußerst ungenau und irreführend,
+die kritische Philosophie als die Lehre von der Relativität aller
+~Dinge~ bezeichnen: aber eine Relativierung des ~Wahrheitsbegriffs~
+ist offenbar das genaue Gegenteil von dem, was sie geschichtlich und
+systematisch erstrebt hat. Hatte nicht Kant selbst mit wachsendem
+Nachdruck, mit leidenschaftlicher Heftigkeit seinen »transzendentalen«
+Idealismus dem psychologischen Idealismus Berkeleys gegenübergestellt
+und hatte er den Unterschied beider Lehrbegriffe nicht darein gesetzt,
+daß Berkeleys Idealismus die Sinnenwelt und die Erfahrung in lauter
+Schein verwandle, während seine Absicht umgekehrt darauf gehe, die
+~Wahrheit der Erfahrung~ zu begreifen und zu begründen? Oder war es
+eine Wahrheit von anderer Form und Herkunft, als die empirische
+Wahrheit, die Kleist durch Kants Lehre vernichtet fand? Was die
+sogenannte »metaphysische« Wahrheit, was den Versuch betrifft, aus
+reiner theoretischer Vernunft über transzendente Probleme und
+Gegenstände zu urteilen, so war ihm freilich durch Kants Kritik der
+Boden entzogen. Aber auf sie hatte auch Kleist selbst, wie seine
+Beurteilung der religiösen Fragen im Brief vom September 1800 beweist,
+innerlich bereits Verzicht geleistet. Und wie immer er über sie
+urteilen mochte: das eine stand für ihn jedenfalls fest, daß unser
+Urteil über den Sinn und Wert des Lebens selbst von der Entscheidung
+dieser Frage in keiner Weise abhängig sein könne und dürfe. Denn dieser
+Wert -- das hatte Kleist noch eben in echt Kantischen Wendungen betont
+-- kann nicht auf die Annahme dieses oder jenes Lehrsatzes, nicht auf
+ein Wissen gegründet sein, das zu erreichen nicht in unserer Macht
+steht, sondern er muß sich auf den Wert gründen, den die Persönlichkeit
+sich selbst gibt und den nur sie allein, unabhängig von allen fremden
+Stützen und Hilfen, sich zu geben vermag. Und was diesen ethischen
+Selbstwert als solchen und seine Gewißheit betrifft, so war nicht
+der geringste Zweifel daran möglich, daß Kant ihn immer und überall, in
+seinen theoretischen wie in seinen ethischen und religionsphilosophischen
+Schriften, mit der gleichen unerschütterlichen Sicherheit behaupet
+hatte -- daß er ihn als allgemeingültig und notwendig, daß er ihn in
+jedem Sinne als schlechthin »unbedingt«, ja als den eigentlichen Ausdruck
+des Unbedingten überhaupt, ansah. So blieb hier nur die Wahrheit der
+Wissenschaft: die Wahrheit der Mathematik und Physik übrig, die Kleist
+durch die kritische Lehre als bedroht und als vernichtet hätte ansehen
+können. Aber konnte er übersehen, daß die Mathematik in der »Kritik der
+reinen Vernunft« überall als der »Stolz der Vernunft« bezeichnet und
+gerühmt war, und daß gerade der Anteil an ihr es ist, der im kritischen
+System auch den Wahrheits- und Wissenschaftswert aller anderen
+theoretischen Disziplinen begründet? Mußte Kleist, der sich selber
+damals um die Physik und ihr wissenschaftliches Verständnis bemühte,
+nicht die gewaltige theoretische Arbeit begreifen und würdigen, die
+Kant daran gesetzt hatte, die ersten »apriorischen« Gründe dieser
+Wissenschaft zu finden und ihr erst dadurch die Festigkeit eines
+geschlossenen Systems zu geben? Wies nicht eben die Grundfrage der
+»Kritik der reinen Vernunft«: die Frage, wie synthetische Urteile
+apriori möglich seien, immer wieder auf dieses Ziel, auf das Ziel der
+objektiven Begründung des physikalischen Wissens in allgemeinen und
+notwendigen Vernunftsätzen hin? Aber auch wenn man annimmt, daß Kleist,
+der Kant nicht mit kühler sachlicher Kritik, sondern mit der höchsten
+subjektiven Leidenschaft und mit subjektiver Befangenheit las, über
+alle diese feinen methodischen Unterschiede hinwegging und daß er sich
+lediglich dem Gesamteindruck des Lehrbegriffs des transzendentalen
+Idealismus überließ, so sind damit keineswegs alle Schwierigkeiten
+beseitigt. Denn eben dieser Lehrbegriff mußte Kleist seinen allgemeinen
+Grundzügen nach schon vor dem entscheidenden Brief an Wilhelmine
+bekannt sein. Er wird in Kants ethischen und religionsphilosophischen
+Schriften überall vorausgesetzt und er bildet den latenten Mittelpunkt,
+auf den alles andere immer wieder zurückführt. Man kann in Kants
+Schriften, welches Thema sie immer behandeln mögen, keinen Schritt
+vorwärts tun, ohne dieser, die gesamte Gedankenwelt Kants
+beherrschenden Voraussetzung allenthalben zu begegnen. Die Lehre Kants
+vom Intelligiblen, vom »Noumenon« der Freiheit bleibt unverständlich,
+ohne ihr notwendiges, methodisches Korrelat -- ohne die Lehre von der
+Phänomenalität der sinnlich-empirischen Wirklichkeit. Wenn also Kleist
+jetzt durch diese Lehre in einem ganz neuen Sinne ergriffen und wenn er
+durch sie überwältigt wurde, so muß es ein neues gedankliches ~Motiv~
+gewesen sein, das ihm aus ihr entgegentrat; -- so muß es eine völlig
+neue ~Beleuchtung~ gewesen sein, in der er nunmehr das Ganze der
+kritisch-idealistischen Lehren erblickte.
+
+Wir sehen somit: je weniger wir uns mit bloßen allgemeinen Schlagworten
+begnügen, je tiefer wir in den geistigen Prozeß einzudringen suchen,
+der sich in Kleist vollzogen hat, und je konkreter wir die Anschauung
+dieses Prozesses in uns zu gestalten suchen, um so mehr häufen sich
+die Rätsel und Schwierigkeiten. Wie aber, wenn sich ein anderes Werk,
+als die »Kritik der reinen Vernunft« namhaft machen ließe, aus welchem
+Kleist seine neue Ansicht vom Wesen des transzendentalen Idealismus
+geschöpft haben könnte, und aus dem auch die neue Stellungnahme, die
+er jetzt zu ihm einnimmt, unmittelbar verständlich würde? Kleist
+spricht in seinem Bericht an Wilhelmine von »der neueren ~sogenannten~
+Kantischen Philosophie«, mit der er seit kurzem bekannt geworden sei.
+Ein Ausdruck, der gewiß auffallen muß, denn von Kant und seiner Lehre
+wußte damals in Deutschland -- wie ein oft zitierter Vers besagt --
+»jedes Kind« oder glaubte davon etwas zu wissen. Was bedeutete also
+diese merkwürdige Umschreibung? Man würde sie sofort verstehen, wenn
+das Werk, auf das Kleist sich hier bezieht, sich selbst zwar als
+getreuen Ausdruck der Kantischen Lehre bezeichnete und ausgab -- wenn
+aber die Frage, ob dieser Anspruch zu Recht bestand, noch unentschieden
+und strittig war. Nun war im Jahre 1800 -- kaum ein Jahr vor dem Briefe
+Kleists an Wilhelmine -- eine Schrift erschienen, die schon in ihrer
+Vorrede aussprach, daß sie all das, was außerhalb der Schule von der
+»neueren Philosophie« brauchbar sei, vollständig darstellen wolle: --
+»vorgetragen in derjenigen Ordnung, in der es sich dem kunstlosen
+Nachdenken entwickeln müßte«. »Die tieferen Zurüstungen, welche gegen
+Einwürfe und Ausschweifungen des verkünstelten Verstandes gemacht
+werden, das, was nur Grundlage für andere positive Wissenschaften ist,
+endlich, was bloß für die Pädagogik in weitestem Sinne, d. h. für die
+bedachte und willkürliche Erziehung des Menschengeschlechtes gehört,
+sollte von dem Umfange derselben ausgeschlossen bleiben ..... Das Buch
+ist sonach nicht für Philosophen von Profession bestimmt .. Es sollte
+verständlich sein für alle Leser, die überhaupt ein Buch zu verstehen
+vermöchten .. Es sollte anziehen und erwärmen und den Leser kräftig
+von der Sinnlichkeit zum Uebersinnlichen fortreißen ..« Wer mit der
+Denkweise, mit den Bildungsidealen und der inneren Bildungsgeschichte
+des jungen Kleist vertraut ist, der wird sich sagen müssen, wie sehr
+ihn schon die ~Ankündigung~ eines derartigen Zieles ergreifen mußte.
+Und daß sein Interesse auf das Buch, dem sie angehörte, gelenkt wurde,
+dafür mußte, wenn nichts anderes, so schon der bloße ~Titel~ sorgen,
+der über dem Buch stand. Die »~Bestimmung des Menschen~« sollte in
+ihm gelehrt werden. Das aber war das große Thema, das in Kleists
+Jugendbriefen fort und fort wiederkehrte, das ihn selbst unablässig
+beschäftigte und das er mit ermüdender Hartnäckigkeit immer von neuem
+mit den Freunden, mit der Schwester, mit der Braut erörterte. »Laß
+uns beide, liebe Wilhelmine, -- so schrieb er z. B. im Jahre 1800 aus
+Würzburg -- unsere Bestimmung ganz ins Auge fassen, um sie künftig einst
+ganz zu erfüllen. Dahin ~allein~ wollen wir unsere ganze Tätigkeit
+richten. Wir wollen alle unsere Fähigkeiten ausbilden, eben nur um
+diese Bestimmung zu erfüllen .. Urteile selbst, wie können wir
+beschränkte Wesen, die wir von der Ewigkeit nur ein so unendlich
+kleines Stück, unser spannenlanges Erdenleben übersehen, wie können
+wir uns getrauen, den Plan, den die Natur für die Ewigkeit entwarf,
+zu ergründen. Und wenn dies nicht möglich ist, wie kann irgend eine
+gerechte Gottheit von uns verlangen, in diesen ihren ewigen Plan
+einzugreifen, von uns, die wir nicht einmal imstande sind, ihn zu
+denken. Aber die Bestimmung unseres ~irdischen~ Daseins, die können
+wir allerdings unzweifelhaft herausfinden, und diese zu erfüllen, das
+kann daher die Gottheit auch wohl mit Recht von uns fordern.« Nehmen
+wir an, daß Kleist in der intellektuellen Stimmung, die aus diesem
+Brief spricht, einen Monat später in Berlin wieder eintraf: mußte er
+in ihr nicht fast notwendig und mit lebendigstem Anteil nach einem
+Buche greifen, das damals soeben erschienen war und das die Bestimmung
+des Menschen zum Thema und ~Fichte~ zum Verfasser hatte? Fichte stand
+damals -- von allem andern abgesehen -- im Mittelpunkt des allgemeinen,
+des öffentlich-politischen und des öffentlich-literarischen Interesses.
+Der Atheismusstreit, der ihn gezwungen hatte, sein Lehramt in Jena
+aufzugeben, war überall noch in frischer Erinnerung. Berlin war das
+erste Asyl gewesen, das er gegenüber der fortdauernden Verfolgung
+der kursächsischen Regierung gefunden hatte und das Haus Friedrich
+Schlegels und Dorothea Veits bot ihm die erste gastliche Aufnahme.
+Erwägt man weiterhin, daß Kleist, als er von seiner Würzburger Reise
+nach Berlin zurückkehrte, bereits die erste Fühlung mit den dortigen
+literarischen Zirkeln gewann -- ein Brief an Ulrike aus dieser Zeit
+berichtet, daß er wenig in Gesellschaften komme, daß aber von allen
+Kreisen die jüdischen ihm die liebsten sein würden, wenn sie nicht so
+pretiös mit ihrer Bildung täten -- so muß man es von vornherein für
+sehr unwahrscheinlich halten, daß er an einer Erscheinung wie Fichte
+und an einem Werk, auf das er sich so vielfältig hingewiesen sah und
+das sich ihm zudem durch die versprochene populäre Form der Darstellung
+empfahl, achtlos vorübergegangen sein sollte.
+
+Aber freilich besitzen alle diese äußeren Momente für sich allein
+keine Beweiskraft. Zu einer Entscheidung können wir nur aus dem
+sachlichen Inhalt des Fichteschen Werks heraus und aus dem Vergleich
+dieses Inhalts mit den Kleistischen Briefen gelangen. Die »Bestimmung
+des Menschen« ist für Fichtes eigene literarische und philosophische
+Entwicklung von entscheidender Bedeutung: sie bezeichnet genau und
+scharf den Wendepunkt, an welchem die »Wissenschaftslehre« jene
+neue Richtung nimmt, durch welche sie schließlich in die spätere
+~religionsphilosophische~ Fassung des Systems übergeht. Fichte steht
+in dieser Wendung unter dem bestimmenden Einfluß von Fr. Heinr.
+~Jacobis~ Glaubenslehre. Der gesamte dritte positiv-aufbauende Teil
+des Fichteschen Werkes ist der Entwicklung des Glaubensbegriffs und
+dem Nachweis gewidmet, daß alle wahrhafte Realität, die uns zugänglich
+sei, uns nur im Glauben gegeben und durch ihn allein vermittelt werde.
+Jacobis Wort, daß wir alle im Glauben geboren werden, wird hierbei
+ausdrücklich zitiert und verstärkt. Welche Gestalt aber nimmt nun,
+von diesem Punkte aus gesehen, der theoretische Lehrbegriff des
+transzendentalen Idealismus an? Er bildet von jetzt ab nicht mehr
+das endgültige, schlechthin abschließende ~Resultat~, sondern nur
+einen ~Durchgangspunkt~ der Betrachtung, der freilich als solcher
+unentbehrlich ist. Aus dem Standpunkt des ~Zweifels~, wie ihn der
+erste Teil der Schrift, und aus dem Standpunkt des ~Wissens~, wie
+ihn der zweite Teil der Schrift entwickelt, leuchtet erst die
+Notwendigkeit jenes Glaubens hervor, zu dem sie uns als letztes
+Ergebnis der philosophischen Reflexion hinführen will. Der ~Zweifel~
+entsteht und er verschärft sich mehr und mehr, indem wir unsern
+Begriff der »Natur«, mit welchem unsere unbefangene Betrachtung
+notwendig beginnt, mit den sittlichen Postulaten, mit dem Gedanken
+der Freiheit und Selbstverantwortung vergleichen, die wir gleichfalls
+als unabweisliche Forderung in uns tragen. Die Natur kann, sofern sie
+überhaupt gedacht wird, nur als schlechthin lückenloser Zusammenhang
+von Dingen und Kräften, nur als eine in sich geschlossene Abfolge von
+Ereignissen gedacht werden, in der jeder spätere Zustand durch den
+voraufgehenden vollständig und eindeutig bedingt ist. Auch alle
+Erscheinungen des menschlichen Bewußtseins, auch all das, was wir
+Willensentscheidung und Willensäußerung nennen, müssen wir diesem
+Zusammenhang eingeordnet und untergeordnet denken. Der Wille ist
+selbst nur eine spezielle Form der wirkenden Naturkräfte, die mit der
+Gesamtheit ihrer übrigen Formen in genauester Verknüpfung steht und
+von ihnen im strengsten Sinne abhängig bleibt. Nicht ~ich~ wirke,
+sondern jene allgemeine Potenz, jenes System von Kräften, das wir mit
+dem Namen »Natur« bezeichnen, wirkt in mir: und dem Ich bleibt nur das
+Zusehen, nur das abbildliche Bewußtsein dieser Wirksamkeit. Alles was
+da ist, ist durchgängig bestimmt; es ist, was es ist, und schlechthin
+nichts anderes. »In jedem Teil des Seins lebt und wirkt das Ganze,
+weil jeder Teil nur durch das Ganze ist, was er ist; durch dieses
+aber notwendig ~das~ ist.« »Gib der Natur den Lauf eines Muskels, die
+Biegung eines Haares an einem bestimmten Individuum, und sie wird dir,
+wenn sie im Ganzen denken und dir antworten könnte, daraus alle guten
+Taten und alle Untaten seines Lebens von Anbeginn bis an sein Ende
+angeben. Der Tugendhafte ist eine edle, der Lasterhafte eine unedle
+und verwerfliche, jedoch aus dem Zusammenhange des Universums
+notwendig erfolgende Natur.«
+
+Umsonst erhebt gegen dieses festgefügte System des Determinismus das
+sittliche Gefühl und der sittliche Wunsch in uns Einspruch: der
+Determinismus, der nichts anderes als der Ausdruck des Denkens selbst
+und seines obersten Prinzips: des »Satzes vom Grunde« ist, »erklärt«
+zuletzt auch diese ihm scheinbar widerstreitenden Wünsche und vermag
+auch ihre Notwendigkeit einzusehen und zu deduzieren. Auf dem Boden
+des Naturbegriffs ist somit schlechterdings keine andere Lösung
+möglich; hier gibt es kein Ausweichen vor der letzten entscheidenden
+Konsequenz. Wie aber, wenn wir uns gerade über dieses Fundament in
+unserer Reflexion zu erheben vermöchten, wenn wir einsehen, daß es
+keine absolute, sondern nur eine relative Geltung besitzt? Ist denn
+das, was wir Natur, was wir das Sein und die Wirklichkeit der
+Dinge nennen, ein feststehendes, für uns nicht weiter auflösbares
+undurchdringliches ~Faktum~ -- oder ist es nicht vielmehr ein
+~Begriff~, den wir selbst, den unser Intellekt und unser Wissen
+an die Betrachtung der Phänomene heranbringt? Und wenn dem so wäre:
+-- so wären wir freilich mit einem Schlage von dem unentrinnbaren
+Zwange, mit dem die Dinge uns bisher bedrohten, befreit. Man setze
+an die Stelle der Dinge an sich ~die Vorstellung~ von den Dingen,
+man entwickle die Regeln, nach denen diese Welt der Vorstellung aus
+ursprünglichen Elementen, aus den ersten Anfangsdaten der Empfindung
+sich entwickelt und aufbaut: und die ganze Frage nimmt sofort eine
+andere Gestalt an. Der Zwang des Seins zerrinnt und löst sich auf, in
+dem Maße, als wir das Sein selbst als ein bloßes ~Bild~ begreifen,
+das der Gedanke vor sich hinstellt. Und eben in der Vermittlung
+dieser Einsicht besteht die charakteristische Aufgabe des Wissens.
+Das Wissen ist keine Wiedergabe und Repräsentation eines für sich
+bestehenden absoluten Seins: sondern es zeigt umgekehrt, daß dieses
+angeblich absolute Sein ein Trugbild ist, das unsere Reflexion und
+unsere Einbildungskraft vor uns hinstellen. Der Trug ist bewältigt,
+sobald er einmal durchschaut ist; -- sobald wir eingesehen haben, wie
+er entsteht und nach den Gesetzen des denkenden Bewußtseins entstehen
+muß. Jetzt fühlen wir uns der fatalistischen Notwendigkeit der Welt
+und des Weltzusammenhangs entrückt: denn wir begreifen, daß es
+nur die selbständigen und dennoch unwillkürlichen und insofern
+notwendigen Akte der Intelligenz, daß es ihre ursprünglichen
+Setzungen und Tathandlungen sind, auf denen die Möglichkeit jeder
+Vorstellung von einem Dasein der Dinge beruht. Die Freiheit wird uns
+zurückgegeben, indem gleichzeitig die absolute, die dogmatische
+Substantialität der Welt versinkt. --
+
+Kehren wir nunmehr, ehe wir der weiteren Ausführung dieses
+Grundgedankens bei Fichte nachgehen, wieder zu Kleist und zu
+seinem Brief zurück. Es ist bekannt, daß Kleist, um Wilhelmine die
+Grundlehren des transzendentalen Idealismus zu verdeutlichen, von
+einem populären Vergleich und Beispiel ausgeht. »Wenn alle Menschen
+statt der Augen grüne Gläser hätten, so würden sie urteilen müssen,
+die Gegenstände, welche sie dadurch erblicken, ~sind~ grün -- und nie
+würden sie entscheiden können; ob ihr Auge ihnen die Dinge zeigt, wie
+sie sind, oder ob es nicht etwas zu ihnen hinzutut, was nicht ihnen,
+sondern dem Auge gehört. So ist es mit dem Verstande.« Wenn dieser
+Vergleich die Summe der Lehren der »Kritik der reinen Vernunft«
+ziehen wollte, so wäre er seltsam genug; denn gerade Kant hatte
+immer von neuem davor gewarnt, das, was er die »Subjektivität«
+der Anschauungsformen und der Kategorien nannte, durch »ganz
+unzulängliche Beispiele«, die dem Gebiet der Subjektivität der
+Sinnesqualitäten entnommen sind, belegen und verdeutlichen zu wollen.
+Für ihn, als Kritiker der Erkenntnis, besteht hier eine schlechthin
+nicht zu verwischende methodische Grunddifferenz; denn von Farben
+und Tönen lassen sich, wie er prägnant und nachdrücklich betont,
+keine synthetischen Urteile apriori, keine wahrhaft allgemeingültigen
+und notwendigen Erkenntnisse und Wahrheiten gewinnen. So steht
+insbesondere die Raumanschauung für Kant mit der Farbenempfindung
+niemals auf der gleichen Linie, sondern bleibt ihrem Wahrheitscharakter
+nach von ihr durchaus verschieden. Anders aber war das Verhältnis,
+wie es sich nunmehr bei Fichte darstellte. Zwar den Vergleich mit dem
+Sehen durch grüne Gläser werden wir bei ihm nicht anzutreffen glauben;
+denn hier handelt es sich, wie Kleist selbst in einem späteren Briefe
+an Wilhelmine erklärt, um eine eigene Zutat Kleists, die er nur
+vorübergehend zur populären Verdeutlichung des Gedankens benutzte.
+»Ich habe mich« -- So schreibt er -- »nur des Auges in meinem Briefe
+als eines ~erklärenden~ Beispiels bedient, weil ich Dir selbst die
+trockene Sprache der Philosophie nicht vortragen konnte.« Aber was
+nun in dieser Sprache bei Fichte wirklich vorgetragen wurde: das war
+nicht nur die Lehre von der Subjektivität der Farben und Töne, sondern
+von der ebenso unbedingten und ausschließlichen Subjektivität unserer
+gesamten Wahrnehmungs- und Anschauungswelt. »In aller Wahrnehmung«
+-- so belehrt in der »Bestimmung des Menschen« der Fichtesche »Geist«
+das »Ich«, mit dem er seine Zwiesprache hält -- »nimmst du zunächst
+nur dich selbst und deinen eigenen Zustand wahr; und was nicht in
+dieser Wahrnehmung liegt, wird überhaupt nicht wahrgenommen. Ich würde
+nicht müde werden, es in allen Wendungen zu wiederholen, wenn ich
+befürchten müßte, daß du es noch nicht begriffen, dir noch nicht
+unvertilgbar eingeprägt hättest. -- Kannst du sagen: ich bin mir
+äußerer Gegenstände bewußt? -- Keineswegs -- erwidert das Ich -- wenn
+ich es genau nehme; denn das Sehen und Fühlen usw., womit ich die
+Dinge umfasse, ist nicht das Bewußtsein selbst, sondern nur dasjenige,
+dessen ich mir am ersten und unmittelbarsten bewußt bin. Der Strenge
+nach könnte ich nur sagen: ich bin mir ~meines Sehens oder Fühlens
+der Dinge bewußt~ .... Nun so vergiß denn nie wieder, was du jetzt
+klar eingesehen hast. ~In aller Wahrnehmung nimmst du lediglich
+deinen eigenen Zustand wahr.~«
+
+Und an dieser prinzipiellen Entscheidung wird nicht das mindeste
+geändert, wenn wir nun von den sinnlichen Qualitäten zu den
+Gegenständen des mathematisch-physikalischen Wissens, wenn wir
+von der Welt der Tastempfindungen, des Geruchs und des Geschmacks,
+der Gesichts- und Gehörsempfindungen zu der Welt des ~Raumes~
+und der Körper im Raume übergehen. Der Raum ist freilich kein
+Empfindungsinhalt; denn jeder Empfindungsinhalt ist als solcher
+ein schlechthin Unausgedehntes, auf einen bloßen unfehlbaren Punkt
+Bezügliches. Aber daß wir nun über diesen bloßen Punkt hinausgehen
+-- daß wir ihn zur Linie und Fläche und daß wir schließlich die Fläche
+zum Körper erweitern, das ist ebenfalls eine Notwendigkeit, die
+lediglich in den Gesetzen des Bewußtseins, in den Gesetzen unserer
+anschauenden Intelligenz und in nichts anderem gegründet ist. Nicht
+die absolute Existenz einer »äußeren« Sache ergreifen wir hierin,
+sondern nur die Notwendigkeit unserer eigenen Anschauung, der aber
+kraft ihrer Natur diese Kraft des »Hinausgehens« über den bloßen
+punktuellen Empfindungsinhalt innewohnt. Was wir die Gewißheit der
+»Außenwelt« zu nennen pflegen, das ist also auch hier nichts anderes
+als die Gewißheit jener objektivierenden Bedeutung, die der
+Anschauung selber eigen ist. Wir erfassen den Raum und die Körperwelt
+nicht dadurch, daß wir sie passiv in unser Bewußtsein aufnehmen und
+sie als ein für sich Vorhandenes in ihm nur abspiegeln; sondern wir
+schauen in beiden nur unsere eigene Funktion der ~Verknüpfung~ von
+Punkten, Linien und Flächen an. Es handelt sich nicht um eine
+Abbildung des »Aeußern« durch das »Innere«, sondern um eine
+Projektion des Innern zum Aeußern. So gilt es auch hier ohne jede
+Einschränkung: »das Bewußtsein des ~Gegenstandes~ ist nur ein nicht
+dafür erkanntes ~Bewußtsein meiner Erzeugung einer Vorstellung vom
+Gegenstande~«. »Du siehst sonach ein, daß alles Wissen lediglich ein
+Wissen von dir selbst ist, daß dein Bewußtsein nie über dich selbst
+hinausgeht, und daß dasjenige, was du für ein Bewußtsein des
+Gegenstandes hältst, nichts ist als ein Bewußtsein deines ~Setzens
+eines Gegenstandes~, welches du nach einem inneren Gesetze deines
+Denkens mit der Empfindung zugleich notwendig vollziehst.« »Und nun«
+-- so fährt wiederum der »Geist« in seiner Belehrung des »Ich« fort
+-- »nun wird dir vollkommen klar sein, wie etwas, das doch aus dir
+selbst hervorgeht, dir als ein Sein außer dir erscheinen könne, ja
+notwendig erscheinen müsse. Du bist zur wahren Quelle der Vorstellungen
+von Dingen außer dir hindurchgedrungen ... Du selbst bist das Ding;
+du selbst bist durch den innersten Grund deines Wesens, deine
+Endlichkeit vor dich selbst hingestellt, und aus dir selbst
+hinausgeworfen; und alles, was du außer dir erblickst, bist immer
+du selbst. Man hat dieses Bewußtsein sehr passend ~Anschauung~
+genannt ... (Er ist) ein tätiges ~Hin~schauen dessen, was ich
+anschaue, ein Herausschauen meiner selbst aus mir selbst -- -- --.
+Darum ist auch dieses Ding dem Auge deines Geistes durchaus
+durchsichtig, weil es dein Geist selbst ist. Du teilst, du begrenzest,
+du bestimmst die möglichen Formen der Dinge und die Verhältnisse
+dieser Formen vor aller Wahrnehmung vorher .... Es gibt keinen
+äußeren Sinn, denn es gibt keine äußere Wahrnehmung. Wohl aber gibt
+es eine äußere Anschauung -- nicht ~des Dinges~ -- sondern diese
+äußere Anschauung -- dieses, außerhalb des subjektiven und ihm als
+vorschwebend erscheinende ~Wissen~ -- ist selbst das Ding, und es
+gibt kein anderes.«
+
+Das also ist der Kreis, in welchen nach Fichte das Ich und sein
+Wissen gebannt ist; -- und in welchem freilich beide zugleich als
+unumschränkte Herrscher walten. Denn der Gedanke von einem blinden
+Zwange der Natur, der das Ich gefangen hielte, ist jetzt zugleich mit
+dem Gedanken von dem absoluten Dasein einer solchen Natur beseitigt.
+Das Ich ist frei geworden; denn wenn es in der realistischen
+Grundansicht als ein bloßer Teil und als ein Produkt der Natur
+erschien, so erscheint jetzt vielmehr die Natur als sein Werk,
+als das Werk seines Wissens und seines Verstandes. Die Bedingung
+freilich, an welche diese Selbstbefreiung geknüpft bleibt, ist, daß
+der neu errungene Welt- und Wissensbegriff nicht verändert; daß also
+das Wissen nicht als ein Wissen von der Realität selbst, sondern als
+ein Wissen von Vorstellungen, ein Wissen von ~Bildern~ erkannt wird.
+Abermals wird dieses Resultat in Fichtes »Bestimmung des Menschen«
+in unerbittlicher Schroffheit hingestellt. Vergebens lehnt sich das
+Ich noch einmal gegen alle Konsequenzen, die in diesem Gedanken
+liegen, auf: es muß sie hinnehmen und anerkennen. »Es gibt überall
+kein Dauerndes, weder außer mir, noch in mir, sondern nur einen
+unaufhörlichen Wechsel. Ich weiß überall von keinem Sein, und auch
+nicht von meinem eigenen. Es ist kein Sein ... Bilder sind: sie sind
+das Einzige, was da ist, und sie wissen von sich nach Weise der
+Bilder: -- Bilder, die vorüberschweben, ohne daß etwas sei, dem sie
+vorüberschweben, die durch Bilder von den Bildern zusammenhängen,
+Bilder ohne etwas in ihnen Abgebildetes, ohne Bedeutung und Zweck
+.... Alle Realität verwandelt sich in einen wunderbaren Traum.«
+Verzweifelnd sucht das Ich bei dem Geiste, von dem es diese Lehre
+empfangen, irgend eine Hilfe und Rettung gegen dieses völlige
+Versinken ins Nichts: es wird nur um so tiefer und erbarmungsloser in
+dieses Nichts zurückgestoßen. »Du wolltest wissen von deinem Wissen.
+Wunderst du dich, daß du auf deinem Wege auch nichts weiter erfuhrst,
+als -- wovon du wissen wolltest, von deinem Wissen selbst; und
+möchtest du, daß es anders sei? .. Alles Wissen aber ist nur
+Abbildung, und es wird in ihm immer etwas gefordert, das dem Bilde
+entspreche. ~Deine Forderung kann durch kein Wissen befriedigt
+werden, und ein System des Wissens ist notwendig ein System bloßer
+Bilder, ohne alle Realität, Bedeutung und Zweck~ .... Und das ist
+denn das einzige Verdienst, das ich an dem Systeme, das wir soeben
+mit einander gefunden, rühme: es zerstört und vernichtet den Irrtum.
+Wahrheit geben kann es nicht; denn es ist in sich selbst absolut
+leer. Nun suchst du denn doch etwas außer dem bloßen Bilde liegendes
+Reelles -- mit deinem guten Rechte, wie ich wohl weiß -- und eine
+andere Realität, als die soeben vernichtete .... Aber du würdest dich
+vergebens bemühen, sie durch dein Wissen und aus deinem Wissen zu
+erschaffen, und mit deiner Erkenntnis zu umfassen. Hast du kein
+anderes Organ, sie zu ergreifen, so wirst du sie nimmer finden.«
+
+Denken wir uns Kleist als Leser dieser Sätze -- welchen Eindruck
+mußte er von ihnen empfangen! Sein Schmerz, seine Verzweiflung
+und Vernichtung wären jetzt völlig erklärt. In der Vorrede zur
+»Bestimmung des Menschen« hatte sich Fichte einen Leser gewünscht,
+der alles, was in der Schrift gesagt werde, nicht nur historisch
+fasse, sondern der wirklich und in der Tat während des Lesens
+mit sich selbst rede, hin und her überlege, Resultate ziehe,
+Entschließungen fasse und durch eigene Arbeit und Nachdenken, wie
+aus sich selbst, diejenige Denkart entwickle und sie in sich aufbaue,
+deren bloßes Bild ihm im Buche vorgelegt werde. Wenn es irgend einen
+Leser gab, der dazu bestimmt war, diese Forderungen bedingungslos zu
+erfüllen, so war es Heinrich von Kleist. Er hat niemals einen
+Gedanken, der ihm nahe trat, bloß historisch aufgenommen; er lebte in
+den großen gedanklichen Entscheidungen, in die er die ganze Glut und
+die ganze Kraft seiner Seele hineinlegte. Und er drang überall auf
+unbedingte Wahrhaftigkeit: auf ein rücksichtsloses Entweder -- Oder.
+Wenn wirklich das Wissen als solches absolut leer, wenn es ein
+»System bloßer Bilder ohne alle Realität, Bedeutung und Zweck« war,
+so hatte es für ihn jeglichen, auch nur relativen und mittelbaren
+Wert, mit dem sich ein weniger aufs Unbedingte gestellter Geist hätte
+begnügen und trösten können, verloren. »Ich habe mich zwingen wollen
+zur Arbeit« -- so schreibt er an die Schwester -- -- »aber mich ekelt
+vor allem, was Wissen heißt. Ich kann nicht einen Schritt tun, ohne
+mir deutlich bewußt zu sein, wohin ich will?« -- Zwar war die
+Vernichtung des Wissens bei Fichte selbst nicht das letzte Ergebnis,
+mit dem er seine Schrift beschloß; zwar war hier, wie wir gesehen
+haben, auf ein anderes geistiges »Organ« hingedeutet, kraft dessen
+die Welt des Seins, die soeben durch die philosophische Reflexion
+zerstört worden war, auf einer neuen Grundlage und mit neuen Mitteln
+wieder aufgebaut werden sollte. Aber selbst wenn wir annehmen,
+daß Kleist diesen weiteren Entwicklungen noch mit der gleichen
+gedanklichen Intensität und Energie gefolgt ist, so begreifen wir
+doch, daß sie ihm keine wahrhafte Beruhigung und Befriedigung zu
+geben imstande waren. Die besondere Form und Eigenart von Fichtes
+~Glaubensbegriff~, der hier als die letzte Lösung erschien, vermochte
+er zweifellos nicht völlig zu durchschauen. Dieser Begriff ist in den
+Darlegungen des Schlußteils der »Bestimmung des Menschen« noch nicht
+zu wahrhafter Schärfe und Klarheit entwickelt: -- auch der moderne
+Leser würde Mühe haben, ihn nach seiner Eigentümlichkeit zu würdigen,
+wenn er nicht Fichtes spätere religionsphilosophischen Werke zum
+Vergleich und zur Erläuterung heranziehen könnte. So mochte Kleist in
+Fichtes Entscheidung, die die Frage dem Wissen entzog, um sie dem
+»Glauben« zuzuweisen, nur eine Flucht in das religiöse Gefühl sehen,
+die er als bloßes Kompromiß verschmähte und von sich wies. Gewiß:
+sein Wunsch und seine Sehnsucht weisen auch ihn, nachdem er einmal
+den Zusammenbruch des Wissens in sich erfahren hatte, oft genug
+auf einen solchen Ausweg hin. »Ach, Wilhelmine,« so schreibt er
+kurz darauf aus Dresden, indem er von seiner Teilnahme an einem
+katholischen Gottesdienst erzählt -- »~unser~ Gottesdienst ist
+keiner. Er spricht nur zu dem kalten Verstande, aber zu allen Sinnen
+ein katholisches Fest. Mitten vor dem Altar, an seiner untersten
+Stufe, kniete jedesmal, ganz isoliert von den andern, ein gemeiner
+Mensch, das Haupt auf die höheren Stufen gebückt, betend mit
+Inbrunst. Ihn quälte kein Zweifel, er ~glaubt~. -- Ich hatte eine
+unbeschreibliche Sehnsucht mich neben ihm niederzuwerfen und zu
+weinen. -- Ach, nur einen Tropfen Vergessenheit, und mit Wollust
+wollte ich katholisch werden.« Aber der unbedingte Wahrheitssinn
+und der unbedingte Wahrheitsmut, den Kleist bis zur inneren
+Selbstvernichtung festhält, siegt immer wieder über jede derartige
+Stimmung und Anwandlung. Auch als Wilhelmine ihn auf seinen ersten
+Brief hin mit Gefühlsgründen zu trösten versuchte, weist er dies
+ruhig und bestimmt von sich. Er weiß, daß der Konflikt, der auf dem
+Boden des Denkens entstanden ist, auch auf eben diesem Boden gelöst
+und zum Austrag gebracht werden muß. »Ich ehre dein Herz und deine
+Bemühung mich zu beruhigen« -- so erwidert er -- »aber der Irrtum
+liegt nicht im Herzen, er liegt im Verstande und nur der Verstand
+kann ihn heben. -- -- Liebe Wilhelmine, ich bin durch mich selbst in
+einen Irrtum verfallen, ich kann mich auch nur ~durch mich selbst~
+wieder heben.« Und in der Tat: welche innere Beruhigung hätte es
+Kleist gewähren können, wenn die Lösung des Problems einfach vom
+Gebiet des Wissens ins Gebiet des Glaubens verschoben wurde? Das
+Verdikt über die Nichtigkeit des Wissens selbst blieb dem ungeachtet
+in aller Schärfe bestehen. Auf das Wissen aber, auf die rein
+theoretische Erkenntnis war der »Lebensplan« Kleists, wie er ihn
+damals begriff, ausschließlich gestellt. Wenn dieses Wissen für das
+höchste Ziel der menschlichen Bestimmung als unzulänglich erkannt
+war, so hatte, so bedurfte er kein anderes Ziel mehr. Er warf es von
+sich, da ihm sein wesentlicher Gehalt verloren war. Wir stehen hier
+vor einem Prozeß, der nicht nur als ein äußerliches Schicksal Kleists
+zu begreifen und zu beurteilen ist, sondern der tief in seinem
+Charakter und seiner ganzen seelischen Grundrichtung wurzelt. Wir
+finden hier die gleiche typische Form wieder, die allen großen
+innerlichen Krisen im Leben Kleists eigentümlich ist. Wie hier vor
+dem Wissen, so stand er später, als er nach jahrelangem Ringen den
+»Guiscard« endgültig verworfen hatte, vor seinem dichterischen Beruf.
+Und wie später, so kannte er hier keine Schranke, kein Begnügen mit
+einem Mehr oder Weniger. »Ich habe in Paris -- so schreibt er -- mein
+Werk, so weit es fertig war, durchlesen, verworfen und verbrannt; und
+nun ist es aus. Der Himmel versagt mir den Ruhm, das größte der Güter
+der Erde; ich werfe ihm, wie ein eigensinniges Kind, alle übrigen
+hin.« Für eine Natur wie diese gab es im Denken so wenig wie im Leben
+ein bloßes Kompromiß, gab es, wenn er über eine bestimmte Grenze des
+Begreifens vorgedrungen war, kein Zurück mehr, wie zerstörend auch
+die Folgen sein mochten, die er für sich selbst voraussah. --
+
+Noch auf ein äußeres Moment kann hier zuletzt hingewiesen werden,
+das immerhin im Ganzen unserer Betrachtung nicht ohne Bedeutung ist.
+In dem ersten Brief an Wilhelmine berichtet Kleist, daß er sich in
+seiner Verzweiflung über das Ergebnis, zu welchem er sich durch die
+»Kantische Philosophie« hingeführt sah, zuerst seinem Freunde ~Rühle~
+mitgeteilt und anvertraut und daß dieser ihn auf einen vor kurzem
+erschienenen Roman »Der Kettenträger« verwiesen habe. »Es herrscht
+in diesem Buche -- so sagte er ihm -- eine sanfte freundliche
+Philosophie, die Dich gewiß aussöhnen wird mit allem, worüber Du
+zürnst«. »Es ist wahr -- so fährt Kleist in seiner Erzählung fort --
+er selbst hatte aus diesem Buche einige Gedanken geschöpft, die ihn
+sichtbar ruhiger und weiser gemacht hatten. Ich faßte den Mut, diesen
+Roman zu lesen. Die Rede war von Dingen, die meine Seele schon längst
+selber bearbeitet hatte. Was darin gesagt ward, war von mir schon
+längst im voraus widerlegt ... Und das soll die Nahrung sein für
+meinen brennenden Durst?« Der sehr seltene »Kettenträger« ist mir
+bisher leider nicht zugänglich gewesen: aber nach einem Referat, das
+~Minde-Pouet~ in seiner Ausgabe von Kleists Briefen von ihm gegeben
+hat, handelt es sich in ihm um einen »krausen, mit unmöglichen
+Geister-, Zauber- und Liebesgeschichten durchsetzten Roman, der
+dartun will, daß jedes Menschen Bestreben, sein Schicksal zu lenken,
+fruchtlos sei, da wir unfrei und gebunden sind.« Und eine solche
+Schrift konnte Rühle Kleist als Heilung gegen die Wirkung der Lektüre
+der »Kritik der reinen Vernunft« empfehlen? Was in aller Welt hatte
+die »freundliche Philosophie« dieses »Kettenträgers« mit der
+Kantischen Erkenntniskritik, mit der transzendentalen Aesthetik und
+der transzendentalen Analytik zu tun? Nimmt man dagegen an, daß
+Kleist von Fichtes »Bestimmung des Menschen« herkam und daß er den
+Inhalt und Gedankengang dieses Buches in großen Zügen vor Rühle
+entwickelte -- so würde auch dieser Umstand sich klären. Denn wir
+erinnern uns, daß alle Deduktionen Fichtes über Wert und Unwert der
+Erkenntnis vom Problem der Willensfreiheit ihren Ausgang genommen
+hatten. Um die Möglichkeit der menschlichen Freiheit zu retten, mußte
+die Welt der Dinge in eine Welt der Bilder aufgelöst werden, die der
+Verstand nach eigenen Gesetzen selbsttätig entwirft. Wie aber, wenn
+man auf dieses Ziel verzichtete; -- wenn es einen Weg gab, sich mit
+den Gedanken der Willensunfreiheit zu versöhnen und ihn in einem
+milderen und freundlicheren Lichte erscheinen zu lassen? Dann fiel
+-- so schien es -- mit dem Ziel auch das Mittel fort; dann konnte
+die realistische Ansicht behauptet und mit ihr auch dem Wissen die
+Rolle, ein Ausdruck der absoluten Wirklichkeit zu sein, erhalten
+werden. Kleist freilich war bereits zu tief in den Kern des Problems
+eingedrungen, als daß er sich mit einer derartigen Scheinlösung hätte
+begnügen können. Immer tiefer grübelte er gerade in dieser Zeit nicht
+nur der Möglichkeit des Wissens, sondern auch der Möglichkeit des
+Wollens, der freien sittlichen Entscheidung nach. Und auch hier
+sah er sich alsbald vor eine Grenze des Begreifens geführt. Wir
+glauben frei zu sein -- aber ist nicht auch dieser Glaube eine
+leere Illusion? Werden wir nicht hin- und hergetrieben von dem
+unberechenbarsten Zufall, der täglich und stündlich in unser Geschick
+eingreifen und ihm eine völlig neue Wendung geben kann? Als Kleist,
+weil Ulrike ihm halb wider seinen Willen ihre Begleitung nach Paris
+angeboten hat, gezwungen ist, Pässe für sich und die Schwester zu
+fordern; als er, um diese Pässe zu erhalten, wissenschaftliche
+Studien als Zweck der Reise angeben und sie zum Teil wirklich auf
+sich nehmen muß, während er entschlossen war, der Wissenschaft auf
+dieser Reise für immer zu entfliehen, da wird in ihm wieder die
+Empfindung mächtig, wie das blinde Verhängnis mit dem Menschen
+spielt. »Ach Wilhelmine -- so schreibt er -- wir dünken uns frei
+und der Zufall führt uns allgewaltig an tausend feingesponnenen
+Fäden fort. --« Auch in den Briefen von der Reise kehrt fort und fort
+diese Reflexion und die Stimmung, die sie in ihm weckt, wieder. Mit
+Recht hat man hier einen der frühesten wesentlichen Keime zu der
+ersten tragischen Dichtung Kleists, zu der Konzeption der »Familie
+Schroffenstein« gesehen.[2] Und auch weiterhin wurzelt die Tragik bei
+Kleist in diesem seinen Grundgefühl. Was Goethe in seiner Straßburger
+Rede von Shakespeare gesagt hat, daß alle seine Dichtungen sich um
+den »geheimen Punkt« drehen, an dem die Eigentümlichkeit unseres Ich,
+die prätendierte Freiheit unseres Willens, mit dem notwendigen Gang
+des Ganzen zusammenstößt: das gilt auch für die Dichtung Kleists. Von
+diesem »geheimen Punkt« aus lassen sich die Kleistschen Gestalten,
+lassen sich Alkmene und Robert Guiscard, Penthesilea und Käthchen,
+Kohlhaas und die Marquise von O ... erst wahrhaft deuten. Wenn
+wirklich Fichtes Schrift es gewesen ist, die das Problem der
+Willensfreiheit zuerst in seiner ganzen Schärfe und Klarheit
+vor Kleist hingestellt hat, so ließe sich begreifen, daß sie
+für Kleist von Anfang an mehr als eine abstrakte theoretische
+Spekulation bedeuten mußte: denn die abstrakte begriffliche
+Erörterung berührte hier in ihm selbst ein seelisches Motiv, das
+für seine gesamte dichterische Gefühlsauffassung des Welt- und
+Lebenszusammenhangs entscheidend war. --
+
+  [2] S. ~Otto Brahm~, Heinrich v. Kleist, Berlin, 1885,
+      S. 75 f.
+
+
+
+
+2.
+
+
+Wichtiger jedoch als die Frage, aus welcher ~Quelle~ Kleist seine
+Kenntnis vom Lehrbegriff des transzendentalen Idealismus geschöpft
+hat, ist die andere Frage, welche innere Wendung sich, unter dem
+Einfluß dieses Lehrbegriffs, nunmehr in Kleist vollzieht und welche
+Bedeutung die intellektuelle Krise, die er hier durchlebt hat, für
+das Ganze seiner ~Künstlerschaft~ gewinnt. Und hier läßt sich -- so
+paradox es zunächst erscheinen mag -- in der Tat behaupten, daß
+Kleist in dieser Krise nicht nur zu einer neuen theoretischen
+Weltansicht gelangt ist, sondern daß er erst in ihr und durch sie
+seine künstlerische Grundrichtung wahrhaft begriffen hat. Das ist das
+Eigentümliche in Kleists Entwicklung, was in dieser Form vielleicht
+in der Lebensgeschichte keines anderen großen Dichters wiederkehrt,
+daß es ein gedankliches Erlebnis ist, das gleichzeitig die produktiven
+dichterischen Kräfte in ihm gelöst und befreit und das ihm selbst erst
+zum vollen Bewußtsein dieser Kräfte verholfen hat.
+
+Die theoretische und ethische Lebensansicht des jungen Kleist ist
+vor der entscheidenden Einwirkung des transzendentalen Idealismus
+durch die Grundanschauungen des achtzehnten Jahrhunderts, durch die
+Philosophie der deutschen Aufklärung bestimmt. Mit altkluger Weisheit
+entwickelt der erste philosophische Aufsatz, den wir von Kleist
+besitzen, seine Anweisung »den sicheren Weg des Glücks zu finden
+und ungestört, auch unter den größten Drangsalen des Lebens, ihn
+zu genießen,« diese Auffassung. Man hat schon in dieser Abhandlung
+und in den Spekulationen über das Verhältnis von Glück und Tugend,
+die sie enthält, Anklänge an Kant und Spuren einer ersten Lektüre
+Kantischer Schriften zu finden geglaubt: -- aber im Ganzen ist die
+unbedingte und unmittelbare Identität von Glück und Tugend, von
+Glückseligkeit und Glückwürdigkeit, die hier gelehrt wird, den
+ethischen Grundlehren Kants weit eher entgegengesetzt als verwandt.
+Will man hier nach irgend einer literarischen Quelle und Anregung
+suchen, so könnte sie nur in der durch Kant bekämpften und verdrängten
+Popularphilosophie des achtzehnten Jahrhunderts oder aber in antiken,
+insbesondere in stoischen Lehren gefunden werden. Reminiszenzen an
+solche Lehren, an Ciceros oder Senecas moralphilosophische Schriften
+sind in dem Aufsatz unverkennbar -- und auch sein Gesamtergebnis
+fällt mit dem klassischen Resultat der stoischen Ethik, mit dem
+Gemeinspruch, daß das wahre Glück keine ~Folge~ der Tugend, sondern
+daß es vielmehr die Tugend ~selbst~ sei, zusammen. In jedem Fall
+bedeutet dieser Aufsatz des Zweiundzwanzigjährigen kaum mehr als
+eine verspätete Schulübung, die aber noch keinerlei Hinweis auf die
+spätere originale Grundanschauung enthält. Auch die pädagogischen
+Bildungsideale, die Kleist in den ~Briefen~ dieser Zeit entwickelt,
+greifen über diesen Kreis nicht hinaus. Daß auch alle sittliche,
+alle Persönlichkeits- und Charakterbildung im wesentlichen durch die
+Aufklärung des Verstandes bedingt sei, gilt hier überall als feststehend.
+Nur von einer derartigen Ansicht aus erklärt sich die Pedanterie, der
+trockene Ernst und die abstrakte Gründlichkeit, mit denen Kleist in
+seinen Briefen die »Fragen zu Denkübungen« für die Schwester und
+für die Braut formuliert und sie unerbittlich bis zur vollständigen
+befriedigenden Lösung durchnimmt. Ueberall herrscht die Ueberzeugung,
+daß nur durch solche bewußte Arbeit des abstrakten Denkens der Mensch
+zu seinem eigentümlichen, ihm wahrhaft zukommenden Wert emporgehoben
+werden kann. »Welcher andern Herrschaft« -- so apostrophiert Kleist
+die Schwester -- »bist du unterworfen, als allein der Herrschaft der
+Vernunft? Aber dieser sollst du dich auch vollkommen unterwerfen.
+~Etwas~ muß dem Menschen heilig sein. Uns beiden, denen es die
+Zeremonien der Religion und die Vorschriften des konventionellen
+Wohlstandes nicht sind, müssen um so mehr die Gesetze der Vernunft
+heilig sein ... Wer sichert uns .. unser inneres Glück zu, wenn die
+Vernunft es nicht tut?« Nur kraft der fortschreitenden Aufklärung des
+Verstandes und der immer weitergehenden »Verdeutlichung« der Begriffe
+vermag das Ich die Stelle, die ihm im großen Plan der Welt zugewiesen
+ist, zu erkennen und zu erfüllen, -- vermag es weiterhin, sich über
+sich selber zu einer höheren Stufe der Geistigkeit zu erheben.
+»~Dich~, mein geliebtes Mädchen ~ausbilden~« -- so schreibt Kleist an
+Wilhelmine, indem er ihr seinen Entschluß mitteilt, frei von jeder
+äußeren amtlichen oder gesellschaftlichen Bindung zu leben, --
+»ist das nicht etwas Vortreffliches? Und dann, ~mich selbst~ auf
+eine Stufe ~näher~ der Gottheit zu stellen -- -- o laß mich, laß
+mich! Das Ziel ist gewiß hoch genug und erhaben, da gibt es gewiß
+Stoff genug zum handeln -- und wenn ich auch auf dieser Erde nirgends
+meinen Platz finden sollte, so finde ich vielleicht auf einem anderen
+Sterne einen um so besseren.«
+
+In alledem ist nichts enthalten, was nicht Gemeingut der deutschen
+Geistesbildung des achtzehnten Jahrhunderts gewesen wäre. Ueberall
+klingt jene metaphysische Ansicht von der Stellung des Ich zur Welt
+und zur Gottheit hindurch, die ihren vollendeten systematischen
+Ausdruck in der Leibnizischen Monadologie gefunden hatte. Weit über
+den Kreis der philosophischen Schulen hinaus hatte diese Ansicht
+sich als wirksam erwiesen. Sie bildet für Lessings »Erziehung des
+Menschengeschlechts« das eigentliche gedankliche Fundament, wie sie
+andererseits in der dithyrambischen Jugendphilosophie Schillers, in
+den Gedichten der »Anthologie« und in der »Theosophie des Julius«
+fortwirkt. Alles, was wir das Sein, was wir die Wirklichkeit der
+Dinge nennen, löst sich für die Betrachtung der Vernunft in ein
+einziges Geisterreich auf, das nach Stufen intellektueller Klarheit
+und Vollkommenheit geordnet ist. Aus dem Kelch dieses Geisterreiches
+schäumt auch dem höchsten göttlichen Wesen erst seine wahrhafte
+Unendlichkeit: es erkennt und weiß sich selbst, indem es sich in der
+Fülle und Mannigfaltigkeit der »geschaffenen Geister« als ebensoviel
+lebendigen Spiegeln seiner selbst beschaut. Das Universum bildet
+einen einzigen großen ~Zweckzusammenhang~, der sich der menschlichen,
+sinnlich-eingeschränkten und sinnlich-»verworrenen« Ansicht zwar
+nur fragmentarisch und unvollkommen darstellt, der sich aber der
+fortschreitenden Einsicht des Verstandes immer reiner und bestimmter
+offenbart. Was wir von unserem beschränkten Standpunkt aus Mängel
+der ~Welt~ zu nennen pflegen, das sind daher in Wahrheit nur Mängel
+unserer ~Einsicht~ in die Welt und ihre teleologische Gesamteinheit.
+Sie würden verschwinden, wenn wir es vermöchten, unser Auge -- ebenso
+wie es Copernicus für seine Umbildung der gewöhnlichen kosmologischen
+Ansicht gefordert hatte -- ganz in die Sonne, in das Licht der reinen
+Vernunfterkenntnis zu stellen. ~Leibniz~ stellt es einmal als
+Grundsatz dieses intellektualistischen Optimismus auf: daß die Dinge,
+je mehr sie in ihre wahrhaften Grundelemente zerlegt werden, dem
+Verstand um so mehr Genüge bieten. Die gleiche Grundüberzeugung gibt
+auch der frühesten Philosophie des jungen Kleist ihr Gepräge. Die
+wahre Fähigkeit des »Weisen« -- so führt der Aufsatz den sicheren Weg
+des Glücks zu finden aus -- besteht darin, »Honig aus jeder Blume zu
+saugen«; »er kennt den großen Kreislauf der Dinge, und freut sich
+daher der Vernichtung, wie des Segens, weil er weiß, daß in ihr wieder
+der Keim zu neueren und schöneren Bildungen liegt.«
+
+Auch durch den Einfluß ~Rousseaus~, den Kleist offenbar früh erfahren
+hat, ist in seiner Gesamtansicht zunächst keine entscheidende
+Aenderung eingetreten. Mit Berufung auf Rousseau kämpft er jetzt
+gegenüber den einseitigen und konventionellen Forderungen des
+Verstandes für die unveräußerlichen Rechte des Gefühls und des
+Herzens -- aber die geistige Struktur seines Weltbildes und sein
+intellektualistischer Unterbau werden dadurch nicht berührt. Dies
+ist geschichtlich durchaus verständlich: denn Rousseaus Kritik des
+Verstandes ist politisch und sozial, nicht aber erkenntnistheoretisch
+und metaphysisch gerichtet. Sie wendet sich gegen willkürliche
+gesellschaftliche Satzungen; -- aber es ist das Recht der »Natur«,
+es ist das ursprüngliche Recht der »Vernunft« selbst, das sie gegen
+diese Satzungen ins Feld führt. Auf der Grundlage der Vernunft soll
+eine neue soziale Ordnung errichtet werden, wie andererseits die
+innere Welt des Einzelnen von der Gebundenheit durch das religiöse
+Dogma befreit werden und sich aus sich selbst heraus nach eigenem
+Gesetz gestalten soll. Wenn Kleist, in seinem Würzburger Religionsbrief
+an Wilhelmine ausführt, daß die Gottheit zwar das ~Tun~ des Menschen
+in Anspruch nehmen, nicht aber gerechter Weise von ihm einen ~Glauben~
+an Dinge fordern könne, deren Erkenntnis sie selbst ihm ein für allemal
+versagt habe --: so spricht aus der Gesamtheit dieser Betrachtungen
+nicht nur die Kantische Religionsansicht, sondern es ist zugleich
+das »Glaubensbekenntnis des savoyischen Vikars«, das hier ersichtlich
+nachwirkt. Dieses Glaubensbekenntnis ordnet sich der Gesamtheit seiner
+Weltbetrachtung lückenlos ein. Denn der Satz »_Le tout est bien_« gilt
+für Rousseau, wie er für Leibniz gegolten hatte. Auch er glaubt an
+einen durchgängigen teleologischen Grundplan der »Vorsehung«, den
+die Vernunft seinem Bestand und seinen inhaltlichen Hauptzügen nach
+zu erfassen vermag; auch er glaubt an die ursprüngliche, durch keine
+»Erbsünde« befleckte Güte der menschlichen Natur -- und dieser
+doppelte Glaube bildet die Voraussetzung, von der aus er die Enge und
+Beschränktheit der gesellschaftlichen Kultur, der willkürlichen
+menschlichen Satzungen bekämpft.
+
+Der transzendentale Idealismus bildet auch an diesem Punkte die
+Grenzscheide der Zeiten und die Grenzscheide der Geister. Wie er
+in theoretischer Hinsicht eine »Revolution der Denkart« in sich
+schließt, so entzieht er auch dem praktisch-metaphysischen Begriff
+der »Vollkommenheit«, der bisher die gemeinsame Grundlage der
+philosophischen Systeme gebildet hatte, den Boden. Beide Leistungen
+gehören in ihrer allgemeinen geistesgeschichtlichen Tendenz zusammen.
+Der Kritik der theoretischen Erkenntnis entspricht die Kritik der
+theoretischen Gottesbeweise, insbesondere des bekanntesten und
+populärsten unter ihnen: des teleologischen Beweises. Das »Mißlingen
+aller philosophischen Versuche in der Theodizee« ist damit ein für
+allemal festgestellt. Die theoretische Vernunft kann sich mit ihren
+Begriffen nicht mehr vermessen, ein Bild der »besten Welt« zu
+entwerfen und dem Ich seine Stelle in dieser Welt anzuweisen. Diese
+Konsequenz der kritischen Lehre ist Kleist freilich, als er mit den
+Schriften Kants zuerst bekannt wurde, nicht sogleich zu deutlichem
+Bewußtsein gekommen. Er entnimmt aus diesen Schriften -- aus der
+»Anthropologie« und der »Religion innerhalb der Grenzen der bloßen
+Vernunft« -- bezeichnender Weise zunächst diejenigen Lehrstücke,
+in denen Kant eher als der Vollender, wie als der Zerstörer der
+Aufklärungsphilosophie erscheinen konnte. Kants Lehre vom »praktischen
+Vernunftglauben« und seine Abweisung aller transzendenten Begründung
+der sittlichen Gebote schienen in dieser Richtung zu liegen. Aber in
+dem Maße, als Kleist nun weiterhin -- gleichviel von welcher Seite her
+und auf wessen Anregung hin -- zu dem eigentlichen originalen Sinn
+und Gehalt des kritischen Idealismus vordrang, mußte auch die Kluft
+zwischen dieser Lehre und seiner bisherigen Welt- und Lebensansicht
+ihm deutlich werden. Was jetzt von ihm gefordert wurde, war der
+Verzicht auf jene unmittelbare Einheit des Theoretischen und
+Praktischen, des Denkzusammenhangs und des sittlichen Weltzusammenhangs,
+die bisher die naive Voraussetzung all seines Denkens gebildet hatte.
+Man begreift, wie diese Forderung, nachdem er sie einmal in ihrer
+vollen Schärfe erfaßt hatte, Kleist aufs tiefste erschüttern mußte.
+Denn nun war für ihn die moralische Begreiflichkeit der Welt überhaupt
+aufgehoben. Die »Wahrheit«, die wir mit unserem Verstande theoretisch
+einzusehen vermögen, hatte zum mindesten ihren universellen, ihren
+~kosmischen Sinn~ eingebüßt. Die Struktur des Alls, der »Plan der
+Vorsehung« bleibt für uns in undurchdringliches Dunkel gehüllt. Der
+Geist, der über die Welt herrscht -- so schreibt Kleist später einmal
+an Rühle -- kann im tiefsten Grunde seines Wesens kein böser Geist
+sein; aber er ist und bleibt ein unbegriffener Geist. Die Last dieser
+Unbegreiflichkeit hat Kleist von nun ab tiefer und tiefer empfunden.
+Der traditionelle Optimismus seiner Jugendphilosophie wandelt sich
+jetzt in die ihm eigene dichterische, in die eigentlich ~tragische~
+Weltanschauung. In allen seinen Dichtungen, in den Schroffensteinern
+und im Kohlhaas, in der Penthesilea, in der Marquise von O ..., im
+Erdbeben von Chili ist dieser neue Ton vernehmbar. Die Menschen bei
+Kleist, die dichterischen Gestalten, in denen er sein eigenes Wesen
+am tiefsten ausgeprägt hat, streben alle leidenschaftlich nach Klarheit;
+-- sie ~fordern~ diese Klarheit als ihr sittliches Grundrecht. »Gott
+der Gerechtigkeit« -- so ruft Sylvester in den »Schroffensteinern«
+aus -- »Sprich deutlich mit dem Menschen, daß er 's weiß auch, was er
+soll!« Aber dieser Ruf bleibt ungehört, Sylvester muß erfahren, daß
+ein grausiger Zufall, ein sinnlos-tückisches Geschick mit ihm gespielt
+hat: »'s ist abgetan, wenn ihr euch totschlagt, ist es ein Versehen!«
+... Die Welt wird dem Menschen, der Mensch wird sich selbst zum Rätsel,
+weil Gott es ihm geworden ist. Keine Anstrengung des Denkens vermag
+dieses Rätsel zu entwirren: wir können nur versuchen, ins Unbewußte
+hinabzugleiten und in ihm Vergessenheit zu finden, »Sonst waren die
+Augenblicke« -- so schreibt Kleist in der Zeit der intellektuellen
+Krise, im Mai 1801 -- »wo ich mich meiner selbst bewußt ward, meine
+schönsten -- jetzt muß ich sie vermeiden, weil ich mich und meine
+Lage fast nicht ohne Schaudern denken kann.« Aber dieses Bestreben,
+ins Unbewußte unterzutauchen und in ihm vor den unlöslichen Widersprüchen
+des Seins und des Denkens Rettung zu finden, bleibt bei Kleist von den
+eigentlich ~romantischen~ Tendenzen nichtsdestoweniger klar geschieden.
+Auch die Romantik verkündet die Lehre von der Irrationalität des Seins,
+von der Ohnmacht des Denkens, die Wirklichkeit zu erfassen. Aber was
+Kleist als einen harten Verzicht empfand, der ihn im Innersten
+erschütterte: -- das bedeutet für sie nur die Gelegenheit, sich in
+freier Ironie über die Welt der Dinge und ihre angebliche Notwendigkeit
+zu erheben. Sie schwelgt in dem Gefühl der Unbegreiflichkeit des Seins,
+sie sucht es auf und steigert es, -- weil sie darin erst der ganzen
+Macht der künstlerischen Phantasie bewußt zu werden glaubt. Von
+solchem ästhetischen Illusionismus ist Kleist weit entfernt. Was den
+Romantikern nur die willkommene Handhabe zu einem überlegenen Spiel der
+Einbildungskraft war: -- das führt ihn zu einem tragischen Zusammenbruch
+seiner selbst und seiner inneren Welt. Es ist bezeichnend, daß die
+Romantik, trotz aller theoretischen Bemühungen und Spekulationen über
+die Tragödie, kein wahrhaft großes tragisches Kunstwerk geschaffen
+hat. Sie liebte es auf die unergründliche Dialektik des Seins, auf
+die »Lehre vom Gegensatz« hinzuweisen; aber sie hat eben durch diese
+ihre ironisch-skeptische Gesamthaltung dem Gegensatz selbst seine
+Schärfe und seinen tragischen Ernst genommen. Kleist hingegen ist
+ganz erfüllt von diesem Ernst. Er sucht nicht die mystischen Schauer
+des Unbegreiflichen, nicht das Ineinanderspielen und das Verschwimmen
+aller Formen der äußeren und inneren Welt: sondern er stellt beide
+Welten in klarem und scharfen Umriß gegeneinander, um darin freilich
+ihre Unvereinbarkeit und Unversöhnlichkeit um so tiefer und leidvoller
+zu empfinden. In diesem Verhältnis des Innern und Aeußern, in dieser
+Stellung von »Seele« und »Welt«, liegt erst der abschließende Zug von
+Kleists gedanklicher und dichterischer Gesamtansicht. Die romantische
+Phantasie drängt dahin, nicht nur das objektive, sondern auch das
+subjektive Sein aufzulösen; nicht nur die reale Bestimmtheit der Welt,
+sondern auch die Bestimmtheit des Ich preiszugeben. Wie in einer
+schwebenden und traumhaften Dämmerung gehen hier die Gestalten des
+Außen und Innen, die Bilder des Seins und die Bilder des seelischen
+Geschehens ineinander über. Die Bestimmtheit des Tragischen aber
+fordert die volle Bestimmtheit des Ich, fordert die Einheit und
+Geschlossenheit des Charakters und der Persönlichkeit. Diese
+Geschlossenheit ist es, die der Dichtung Kleists ihre Eigenheit
+gibt. Gegenüber aller Verwirrung des Weltlaufs, gegenüber aller
+unbegriffenen und im letzten Grunde unbegreiflichen Gewalt des
+Schicksals behauptet sich hier die ~innere~ Welt in ihrer Klarheit,
+ihrer Reinheit und Sicherheit. In dieser Hinsicht stellen alle
+dichterischen Gestalten Kleists den Kampf dar, den er selbst unablässig
+gegen Welt und Schicksal geführt hat. Von ihnen allen gilt, was er
+einmal von der Penthesilea gesagt hat: daß in ihr sein innerstes Wesen,
+der ganze Schmerz zugleich und der ganze Glanz seiner Seele liege. Die
+unbedingte und unbeirrbare Gewißheit des Gefühls, das sich niemals
+völlig im Wirrsal des äußeren Geschehens verliert, sondern sich aus
+diesem Chaos immer wieder in seinem eigenen unverbrüchlichen Gesetz
+herstellt, gibt die durchgängige und einheitliche Richtung des
+tragischen Grundprozesses bei Kleist. Auch der Erzähler Kleist
+verweilt mit Vorliebe bei dieser Dialektik; bei diesem Gegensatz
+zwischen der Verwirrung der äußeren und der unaufheblichen und
+unzerstörbaren Ordnung der inneren Welt. Als ~Kohlhaas~ die letzte
+Bestätigung des Unrechts, das ihm widerfahren ist, erhalten hat, da
+zuckt in ihm »mitten durch den Schmerz die Welt in einer so ungeheuren
+Unordnung zu erblicken, die innerliche Zufriedenheit empor, seine
+eigene Brust nunmehr in Ordnung zu sehen«. Die tragische Rückwendung
+aber liegt darin, daß er in dem Augenblick, da er dieser inneren
+Ordnung äußere Geltung zu verschaffen sucht, wieder der Gewalt, dem
+Unrecht und der unbegreiflichen Verkettung des Aeußeren verfällt.
+Statt die Welt zu retten und einzurenken, verwirrt und vernichtet er
+das eigene innere Sein. Sein Rechtgefühl, »das einer Goldwage glich«
+wird jetzt zu einer »Schwärmerei krankhaftester und mißgeschaffener
+Art«, die ihn und die Welt um ihn her zerstört.
+
+Von einer anderen Seite her erblicken wir den gleichen tragischen
+Prozeß dort, wo er sich uns nicht im Tun, sondern im Leiden darstellt
+-- wo die innere Welt, statt zu versuchen, ihre Regel dem äußeren
+Sein und Geschehen aufzuprägen, sich rein in sich selbst zurückzieht
+und sich damit in sich selbst herstellt. Wir legen diesen Gegensatz
+nicht bloß durch eine äußerliche begriffliche Reflexion in die
+dichterischen Gestalten Kleists hinein: sondern er selbst hat ihn
+empfunden und mit überraschender Schärfe ausgesprochen. Vom Käthchen
+von Heilbronn sagt er einmal, daß es die »Kehrseite der Penthesilea«
+sei: ein Wesen, das eben so mächtig sei durch gänzliche Hingebung,
+als jene durch Handeln. Und er wiederholt diese Aeußerung und gibt
+ihr eine noch bestimmtere begrifflich-epigrammatische Zuspitzung
+in einem Briefe an Collin: »wer das Käthchen liebt, dem kann die
+Penthesilea nicht ganz unbegreiflich sein; sie gehören ja wie das
++ und - der Algebra zusammen und sind ein und dasselbe Wesen, nur unter
+entgegengesetzten Bezeichnungen gedacht«. Diese Entgegensetzung ist
+keine einmalige und zufällige, sondern sie geht durch die gesamte
+Kleistische Dichtung hindurch. So gewinnt die Marquise von O ... bei
+allem Unbegreiflichen, das sie umgibt, die innere Ruhe und Sicherheit
+wieder, indem ihr Verstand, »stark genug, in ihrer sonderbaren
+Lage nicht zu reißen, sich ganz unter der großen, heiligen und
+unerklärlichen Einrichtung der Welt gefangen gibt«. Hierin erst
+offenbart sich ihr wahrhaftes, rein innerlich gerichtetes Heldentum.
+Und derselbe Zug ist es, der offenbar ein Grundmotiv für Kleists
+Konzeption der Erzählung »der Zweikampf« gebildet hat. Den Stoff für
+diese Novelle hat Kleist aus der Chronik Froissards geschöpft -- und
+er hat ihn in der »Geschichte eines merkwürdigen Zweikampfs«, in
+den »Berliner Abendblättern« in wesentlich unveränderter Gestalt
+nacherzählt. Aber eigentliche dichterische Form gewann für ihn
+dieser Stoff erst durch das neue Moment, das die Kleistische
+Erzählung hinzubringt: durch die Kraft, mit der Littegarde das
+Gefühl, das in ihrer Brust lebt, »wie einen Felsen emportürmt« und
+es gegen Himmel und Erde, gegen den vernichtenden Schuldbeweis des
+göttlichen Urteils selbst behauptet. Auch das Gottesurteil gewährt
+keine zweifellose und sichere Antwort; sondern es wird, als Rekurs
+auf ein äußeres Beweismittel, selbst in die Fragwürdigkeit und
+Zweideutigkeit alles Aeußeren verstrickt. Aber indem, auch dieser
+höchsten Macht und Autorität gegenüber, die innere Welt nicht an sich
+selber irre wird, entdeckt sich ihr damit der wahrhafte Mittelpunkt
+von dem aus sich nun die Klarheit über Inhalt und Sinn des Geschehens
+wiederherstellt. Nicht dem Verstande, nicht der Abwägung der
+»Beweisgründe«, gibt sich der unbegriffene Geist, der in der Welt
+waltet, zu erkennen. »Wo liegt die Verpflichtung der höchsten
+göttlichen Weisheit« -- so sagt Friedrich im >Zweikampf< zu Littegarde
+-- »die Wahrheit, im Augenblick der glaubensvollen Anrufung selbst,
+anzuzeigen und auszusprechen?« Die geheimnisvolle innere Ordnung
+läßt sich durch kein zudringliches Fragen und Forschen enträtseln;
+-- dem Menschen muß es genügen, wenn er, indem er sich unter sie
+gefangen gibt, die Sicherheit des eigenen Selbst bewahrt. Auch
+Alkmenes Gestalt und Alkmenes Geschick stellt sich für Kleist im
+Lichte dieser Gesamtanschauung dar: -- und von ihr aus empfängt seine
+Behandlung des Amphitryon-Stoffes erst ihr unverkennbar eigenes Gepräge,
+gewinnt sie dasjenige, was Kleist von Molière scheidet und was den
+Kleist'schen »Amphitryon« zum Werk eines großen ~tragischen~ Dichters
+macht.
+
+Auch das Verhältnis Kleists zu ~Goethe~ und der Gegensatz zwischen
+beiden läßt sich von diesem Punkt aus genauer verstehen. Wenn
+Nietzsche sagt, daß Goethe sich von Kleist abgewandt habe, weil er an
+ihm das Tragische, die »unheilbare Seite der Natur« empfand, während
+er selbst »konziliant und heilbar« war, so ist in diesem Urteil nur
+der Gegensatz selbst, nicht das geistige Motiv, aus dem er zuletzt
+stammt, bezeichnet. Dieses Motiv liegt vielleicht darin, daß Goethe
+nicht nur in der Zeit des vollendeten Klassizismus, sondern von den
+ersten Anfängen seiner dichterischen Entwicklung an der Welt und der
+»Natur« von einer ganz anderen Seite her naht, als Kleist. Ihm wird
+die Welt im pantheistischen Naturgefühl des Lyrikers lebendig und von
+innen her verständlich: -- und was dieses Gefühl ihm gegeben hat, das
+wird ihm später in der Arbeit der wissenschaftlichen Forschung, in
+der fortschreitenden Vertiefung der »_scientia intuitiva_« die er vom
+Ganzen des Seins und Werdens erringt, Zug für Zug bestätigt. So
+empfindet er alles, was ihm als Dichter oder als Forscher gelingt,
+als die unmittelbare Bewährung jenes ersten Grundgefühls: als eine
+»aus dem Innern am Aeußern sich entwickelnde Offenbarung, die den
+Menschen seine Gottähnlichkeit erahnen läßt. Es ist eine Synthese
+von Welt und Geist, welche von der ewigen Harmonie des Daseins die
+seligste Versicherung gibt«. Und diese Harmonie des Goetheschen
+Weltgefühls wird nun in der klassischen Zeit zu einer Forderung, zu
+einem unbedingten Postulat der ästhetischen Theorie Goethes erhoben.
+Die Kraft und Größe, wie die sachliche Schranke dieser Theorie liegt
+in diesem Zusammenhang begründet. »Suchet in euch« -- so ruft Goethe
+einmal den jungen Künstlern zu -- »so werdet ihr alles finden,
+und erfreut euch, wenn da draußen, wie ihr es immer heißen möget,
+eine Natur liegt, die Ja und Amen zu allem sagt, was ihr in euch
+gefunden habt!« Eine solche Natur, ein »Draußen« zu finden, das
+seiner inneren Forderung wahrhaft entsprochen hätte: dies bleibt
+Kleist versagt. Er sieht, seit er auf die ersten unreifen Versuche
+einer theoretischen Theodizee verzichtet hat, nur die unüberbrückbare
+Kluft zwischen dem Gesetz der inneren und dem der äußeren Welt,
+zwischen dem Gefühl und der »gebrechlichen Einrichtung der Welt«.
+Denn was ihn fesselt, ist nicht das Bild der Natur, zu deren
+Fülle und deren »großartiger Konsequenz« sich Goethe aus aller
+Verworrenheit des menschlichen, des sozialen Seins immer wieder
+geflüchtet hatte; sondern ihn bewegt von Anfang an das menschliche
+Geschick in seiner Unbegreiflichkeit, in seiner Irrationalität und
+seinem Widerspruch. Mit so vollendeter gegenständlicher Deutlichkeit
+Kleist in seinen Briefen und seinen Erzählungen jeden Zug seiner
+Menschen und jeden kleinsten Zug des objektiven Geschehens hervortreten
+läßt, so sparsam, so verschlossen und kärglich ist er mit jedem
+Ausdruck unmittelbarer lyrischer Naturempfindung. Wenn er einmal
+-- wie im Erdbeben von Chili -- ein vollendetes landschaftliches
+Gemälde schafft, so soll auch dies ihm nur einen augenblicklichen
+lichten Hintergrund bilden, von dem sich die tragische Verwirrung
+menschlicher Schicksale um so schärfer abhebt. Aber wenn Goethe sich
+von diesem Kleistischen Bilde des Seins abwandte, -- wenn er in ihm
+nur Hypochondrie und selbstquälerische Störung der »ewigen Harmonie
+des Daseins« sah, so war dieses Urteil freilich einseitig und ungerecht;
+denn es ahnte nichts von dem seelisch-geistigen Gesamtzusammenhange,
+aus welchem die dichterische Welt Kleists herauswuchs und durch den
+sie bestimmt bleibt.
+
+Wir betrachten indes hier diese Grundform der Kleistschen Dichtung
+nur insoweit, als sich in ihr zugleich der fundamentale Wandel in
+seiner theoretischen Grundanschauung widerspiegelt. Man begreift
+jetzt, was die Erschütterung, die Kleist durch die Kantische
+Philosophie erfahren hat, auch für seine dichterische Entwicklung
+bedeuten mußte. Hier erst war er an dem einheitlichen Telos der Welt,
+das seine erste jugendliche Philosophie noch unbekümmert vorausgesetzt
+hatte, irre geworden: hier erst sah er sich, auch von der Seite der
+theoretischen Reflexion her, zu jenem durchgängigen Dualismus geführt,
+der bei ihm das tragische Grundmotiv bildet. Seine Gedankenwelt wird
+erst jetzt zum adäquaten Ausdruck seiner ursprünglichen seelischen
+Stimmungswelt. Auch seine Sprache und sein Stil gewinnen von nun ab
+eine neue Prägung. Noch verwertet er in seinen Briefen, in den Bildern,
+die er braucht, die Aufzeichnungen seines »Ideenmagazins«; aber die
+bewußte verstandesmäßige Absichtlichkeit, mit der er zuvor versucht
+hatte, wissenschaftlich-theoretisches Material in Material der Anschauung
+und der bildenden Phantasie umzumünzen, tritt von jetzt ab mehr und
+mehr zurück. In dem Maße, als das Gefühl sich des eigenen Gesetzes
+und der eigenen Unergründlichkeit bewußt wird, gewinnt es auch seine
+eigene Sprache und Ausdrucksform. Was Kleist erfahren hatte, schien
+den völligen Zusammenbruch seiner intellektuellen Welt zu bedeuten:
+aber aus ihm rang sich nun seine Gefühls- und Phantasiewelt erst
+wahrhaft durch und stellte sich in ihrer Bestimmtheit und individuellen
+Eigentümlichkeit in objektiven künstlerischen Gestalten dar.
+
+
+
+
+3.
+
+
+Ist Kleist nach der Epoche, in der er enttäuscht und verzweifelt
+alles Wissen von sich warf, nochmals zu Kant und seinen Schriften
+zurückgekehrt? Es gibt dafür, soviel ich sehe, keinen unmittelbaren
+und zweifellosen Beweis; aber eine Reihe äußerer und innerer
+Anzeichen deutet in der Tat darauf hin. Die Briefe Kleists werden
+freilich in bezug auf allgemeine theoretische Fragen immer schweigsamer
+und bieten immer geringeren Ertrag. Die breite Diskussion theoretischer
+Einzelprobleme, die den ersten Jugendbriefen Kleists eigentümlich ist,
+verschwindet in dem Maße, als Kleist sich mehr und mehr als Dichter
+erkennt und die neuen künstlerischen Pläne und Aufgaben von ihm Besitz
+nehmen. Immerhin zeigen seine kleineren Prosa-Aufsätze -- von denen
+insbesondere die in Königsberg verfaßte Abhandlung »Ueber die allmähliche
+Verfertigung der Gedanken beim Reden« auch ein wahrhaft theoretisches
+Meister- und Kabinettstück ist, -- daß allgemein-psychologische und
+philosophische Fragen ihn noch vielfach beschäftigen. Eine Stelle
+des letzteren Aufsatzes, in der, unter Berufung auf Kant, auf die
+Sokratische »maieutische« Kunst, auf die »Hebeammenkunst der Gedanken«
+hingewiesen wird, zeigt, daß Kleist damals die kurz zuvor erschienenen,
+von ~Rink~ herausgegebenen Kantischen Vorlesungen über Pädagogik gelesen
+haben muß.[3] Später wird in einer Rezension der »Berliner Abendblätter«
+eine Kantische, angeblich der »Kritik der Urteilskraft« entnommene
+Aeußerung erwähnt, daß der menschliche Verstand und die Hand des
+Menschen zwei auf notwendige Weise zueinander gehörige und aufeinander
+berechnete Dinge seien. Reinhold ~Steig~ hat in seiner Ausgabe von
+Kleists kleinen Schriften, dieser Stelle, die in der »Kritik der
+Urteilskraft« tatsächlich nicht aufzufinden ist, die Kantische
+Herkunft überhaupt absprechen wollen: -- in Wahrheit handelt es sich
+jedoch um eine bekannte Aeußerung Kants in der Anthropologie, die
+Kleist hier in freier Weise wiedergibt.[4] Das Zitat ist daher als
+solches freilich irrig; aber schon dieser Irrtum spricht dafür, daß
+Kleist die »Kritik der Urteilskraft« wirklich gekannt haben muß. Auch
+aus seinem äußeren Lebensgang wird man es für sehr wahrscheinlich
+halten müssen, daß er zur Kantischen Lehre im einzelnen und im ganzen,
+noch oft zurückgeführt wurde. Der Kreis, in den er, im Jahre 1805, in
+Königsberg eintrat, mußte für ihn eine solche Rückkehr fast unvermeidlich
+machen. Kant selbst war im Jahre zuvor gestorben; aber noch lebten
+diejenigen, die bis in sein höchstes Alter hinein, mit ihm in vertrautem
+Verkehr gestanden und die seine Persönlichkeit und Lehre noch aus
+unmittelbarer eigener Anschauung kannten. Mit dem Kriegsrat ~Scheffner~
+trat Kleist, wie in Scheffners Selbstbiographie berichtet wird, kurz
+nach seiner Ankunft in Königsberg in näheren Verkehr; -- und sein
+Studium der Staats- und Kommunalwissenschaften führte ihn dem Manne
+zu, der von allen Freunden Kants das tiefste Verständnis für sein
+geistiges Wesen und für das Ganze seiner Lehre besaß. Christian Jakob
+~Kraus~ war von Kant selbst stets als eines der ersten spekulativen
+Genies geschätzt worden; Kants Biographen berichten, daß er ihn an
+Schärfe und Tiefe des Geistes mit Kepler zu vergleichen liebte. Nur
+Kraus' peinliche Gründlichkeit und die bis zum Hypochondrischen
+gesteigerte Gewissenhaftigkeit, mit der er alle seine Arbeiten immer
+von neuem nachprüfte und umformte, ehe er sich zu ihrer Herausgabe
+entschloß, haben ihn an der Abfassung größerer theoretischer Werke
+gehindert und ihn schließlich ganz ins praktische Feld gedrängt.
+Gewohnt auf intellektuellem Gebiet stets mit den höchsten Maßstäben
+zu messen, war er für sich selbst mehr und mehr jener »Misologie«
+verfallen, die Kant schon frühzeitig an ihm bemerkt und beklagt
+hatte.[5] Immerhin wird man annehmen dürfen, daß Kleist aus den
+Vorlesungen eines solchen Lehrers auch manche tiefere und allgemeinere
+intellektuelle Anregung empfangen hat. Auch zu dem Manne, der jetzt in
+Königsberg den philosophischen Lehrstuhl Kants inne hatte, war Kleist,
+kurz nachdem er dort eingetroffen, in nahe Beziehungen getreten. Durch
+eine eigentümliche Verkettung der Umstände fand er in ~Traugott Wilh.
+Krug~ den Gatten seiner früheren Verlobten, Wilhelminens v. Zenge; --
+und nach Ueberwindung der ersten Befangenheit kam es zwischen ihm
+und dem Krug'schen Hause bald zu einem täglichen vertrauten Verkehr.
+Daß hierbei zwischen Kleist und Krug auch philosophische Fragen zur
+Sprache kamen und daß Kleist dadurch mehr als bisher in die Einzelheiten
+der Kantischen Lehre eingeführt wurde, darf man vielleicht vermuten.
+Denn Krug war zwar in keiner Hinsicht ein selbständiger und schöpferischer
+Denker; aber er war immerhin ein getreuer Hüter des Kantischen geistigen
+Erbguts, das er festzuhalten und als Ganzes gegenüber den Spekulationen
+der Nachfolger zu behaupten suchte.
+
+  [3] Vgl. die Bemerk. von ~Reinhold Steig~ in seiner Ausgabe
+      der Kleistschen Prosaschriften: Kleists Werke, hg. v.
+      Erich Schmidt, Bd. IV, 80 u. 249.
+
+  [4] Kants Anthropologie, Akad.-Ausg., VII, 323 vgl. R.
+      ~Steig~, a. a. O. S. 129 u. 260 f.
+
+  [5] Kant an Marcus Herz, 4. Februar 1779.
+
+Bedeutsamer freilich als alle diese Erwägungen, die sich nur auf
+äußere Beziehungen stützen und die daher lediglich hypothetischen
+Wert besitzen, sind alle jene Momente, die in Kleists ~Schriften~
+auf ein näheres Verhältnis zur Philosophie und insbesondere zur
+idealistischen Lehre hinweisen. Daß er der Entwicklung dieser Lehre
+gefolgt ist, ja daß er in sie mit einer eigenen und originalen
+gedanklichen Wendung eingegriffen hat: dafür enthalten namentlich
+Kleists spätere Abhandlungen aus den »Berliner Abendblättern«
+mancherlei Belege. »Du schreibst mir« -- so heißt es z. B. in dem
+bekannten »Brief eines Malers an seinen Sohn« -- »daß du eine
+Madonna malst und daß dein Gefühl dir, für die Vollendung dieses
+Werkes, so unrein und körperlich dünkt, daß du jedesmal, bevor du
+zum Pinsel greifst, das Abendmahl nehmen möchtest, um es zu heiligen.
+Laß dir von deinem alten Vater sagen, daß dies eine falsche, dir
+von der Schule, aus der du herstammst anklebende Begeisterung ist ...
+Der Mensch, um dir ein Beispiel zu geben, das in die Augen springt,
+gewiß, er ist ein erhabenes Geschöpf; und gleichwohl in dem Augenblick,
+da man ihn macht, ist es nicht nötig, daß man dies mit vieler Heiligkeit
+bedenke. Ja derjenige, der das Abendmahl darauf nähme, und mit dem
+bloßen Vorsatz ans Werk ginge, ~seinen Begriff davon in der Sinnenwelt
+zu konstruieren~, würde unfehlbar ein äußerliches und gebrechliches
+Wesen hervorbringen; dagegen derjenige, der in einer heitern Sommernacht
+ein Mädchen ohne weitere Gedanken küßt, zweifelsohne einen Jungen zur
+Welt bringt, der nachher auf rüstige Weise zwischen Erde und Himmel
+herumklettert und den Philosophen zu schaffen gibt.« Hier ist neben dem
+Spott über eine verfehlte Tendenz in der bildenden Kunst die ironische
+Wendung gegen ~Fichtes~ Philosophie unverkennbar; wie denn in der Abwehr
+des Versuchs »den Begriff vom Menschen in der Sinnenwelt konstruieren«
+zu wollen, sogar die Fichte'sche ~Terminologie~, in parodistischer
+Nachahmung, sich vernehmen läßt. Bestimmter und in einem weit
+positiveren Sinne tritt sodann der Zusammenhang mit der gleichzeitigen
+Philosophie zutage, wenn Kleist, in der gedanklich-tiefsten und
+originellsten Abhandlung, die er geschaffen, in dem Aufsatz »Ueber das
+Marionettentheater« seine eigene ästhetische Grundansicht entwickelt. Es
+sind Motive und Grundzüge der Kantischen und der Fichte-Schellingschen
+Philosophie, die hier überall die latente Voraussetzung bilden und denen
+Kleist freilich in der Anwendung auf das ästhetische Sonderproblem, das
+ihn beschäftigt, eine neue Bedeutung und eine überraschende Konsequenz
+abgewinnt.[6] Kants »Analytik des Schönen«, wie sie sich in der »Kritik
+der Urteilskraft« darstellt, findet ihren letzten Abschluß in der Lehre
+vom Genie. Das »Genie« ist für die transzendentale Kritik der Ausdruck
+der ästhetischen Gesetzlichkeit selbst. In ihm herrscht nicht Willkür,
+sondern die höchste Regel; aber eine Regel, die nicht in der Reflexion
+und im abgezogenen Wissen, sondern nur im Schaffen selbst hervortritt.
+Es waltet unbewußt gleich der Natur selbst -- während das, was es
+hervorbringt, doch ein in jedem kleinsten Teile zweckvolles Ganze ist
+und daher als Werk der höchsten künstlerischen »Absicht« erscheint. Es
+herrscht in ihm eine eigene ~Notwendigkeit~ -- aber diese Notwendigkeit
+wird sofort zerstört, sobald wir versuchen, sie in die Form des
+~Begriffs~ zu bringen und sie in abstrakt-allgemeinen Vorschriften
+auszusprechen. So treten in ihm Individualität und Allgemeingültigkeit,
+Freiheit und Notwendigkeit, Bewußtes und Unbewußtes in ein durchaus
+neues Verhältnis. Die Lehre, die Kant hier in methodischer Absicht
+aufstellt, um die transzendentale Eigengesetzlichkeit des Schönen und
+der Kunst von der Gesetzlichkeit der Erkenntnis und des Willens kritisch
+abzugrenzen, wird für Schelling sodann zum eigentlichen Anfangs- und
+Endpunkt, zum A und O der idealistischen Spekulation. Er verknüpft sie
+mit dem Gedanken der »produktiven Einbildungskraft«, aus dem heraus
+Fichte den Gegensatz von »Ich« und »Nicht-Ich« zu deduzieren und in all
+seiner Bestimmtheit genetisch zu entwickeln versucht hatte. Auch das,
+was wir das Sein, was wir die Welt der Dinge nennen, entsteht uns nach
+Fichte nur in einer unbewußten Schöpfertätigkeit. Diese Tätigkeit ist
+notwendig, sofern sie in unbedingten Gesetzen der Intelligenz gegründet
+ist und jegliche Einmischung der Willkür, die nur im eingeschränkten
+empirischen Ich ihre Stelle hat, schlechterdings ausschließt: -- aber
+sie ist zugleich im höchsten Sinne als frei zu bezeichnen, da es nur
+das eigene ursprüngliche Wesen der Intelligenz ist, das sich in ihr
+ausprägt. In einer gesetzlichen Stufenfolge entsteht auf diese Weise für
+das Ich der Inhalt seiner Empfindungswelt, entstehen die Formen von Raum
+und Zeit, entsteht die Welt der Körper, als der materiellen Objekte und
+die Mannigfaltigkeit der empirisch-psychologischen Subjekte. Fichte
+selbst hatte bereits -- wenngleich nur in einem gelegentlichen Aperçu
+-- von diesem Punkte aus eine Brücke zur ästhetischen Spekulation
+zu schlagen versucht. Die Eigenart der Kunst -- so spricht es eine
+Bemerkung im »System der Sittenlehre« aus --[7] besteht darin, daß sie
+»den transzendentalen Standpunkt zum gemeinen« (d. h. zum natürlichen)
+macht. In der Kunst ist das, was auf dem Gebiete der Theorie und
+der begrifflichen Erkenntnis, auf dem Gebiet der eigentlichen
+Wissenschaftslehre, das eigentliche ~Problem~ bildet, unmittelbar
+aufgedeckt und aufgelöst. Die Eigentümlichkeit des ~theoretischen~ Ich,
+die die Wissenschaftslehre als solche zu begreifen und die sie als
+notwendig einzusehen sucht, besteht darin, daß sich ihm sein unbewußtes
+~Produzieren~ in das fertige ~Produkt~ einer Welt verwandelt: in ein
+Produkt, das uns, so lange die transzendentale Reflexion uns noch nicht
+über seinen Ursprung aufgeklärt hat, als ein absolut selbständiges und
+fremdartiges Sein erscheinen muß. In der Kunst hingegen stellen wir zwar
+gleichfalls eine Welt der Anschauung objektiv vor uns hin: aber dies
+geschieht derart, daß wir sie dabei zugleich als die unsere, als ein
+Werk der produktiven Einbildungskraft wissen. Und von hier führt nun
+unmittelbar der Weg zu jener spekulativen Umgestaltung des Geniebegriffs
+weiter, die wir in Schellings »System des transzendentalen Idealismus«
+vollzogen sehen. Die genetische Methode des Schellingschen Idealismus
+zeigt uns, wie die »Natur« sich stufenweise zum »Geist« entfaltet, wie
+das »Unbewußte« zum »Bewußtsein« sich emporringt. Aber nachdem nun
+dieser Gesamtprozeß durchlaufen ist, stellt sich auf der obersten Stufe
+des Geistes selbst wieder eine eigentümliche Rückwendung ein. Die
+höchste geistige Tätigkeit erhebt sich ebenso hoch über das bloß
+reflektierende Bewußtsein, wie dieses reflektierende Bewußtsein sich
+über die bewußtlose Natur erhob. Das Ende des Prozesses kehrt zum
+Anfang zurück: das Schaffen des Genies steht, als unbewußtes, wieder
+der Natur gleich, während es sich als vollendeter Ausdruck des
+spezifisch-geistigen Tuns von ihr zugleich charakteristisch
+unterscheidet. --
+
+  [6] Die nahen Beziehungen, die zwischen dem spekulativen
+      Grundgedanken des Aufsatzes über das Marionettentheater
+      und der romantisch-idealistischen Philosophie bestehen,
+      sind in der interessanten und gehaltvollen Schrift von
+      ~Hanna Hellmann~ über Kleist (H. v. Kleist, Darstellung
+      des Problems, Heidelberg 1911) eingehend dargelegt worden.
+      Als Vertreter dieser romantischen Philosophie wird jedoch
+      hier im wesentlichen nur ~Schelling~, ~Novalis~ und
+      ~Friedrich Schlegel~ genannt, während ~Fichte~, auf dessen
+      Wissenschaftslehre doch auch Novalis' und Schlegels
+      Spekulationen durchweg basieren, fast völlig übergangen
+      wird. Was den Versuch betrifft, den Grundgedanken des
+      Aufsatzes über das Marionettentheater als das Symbol zu
+      erweisen, aus dem auch die ~Dichtung~ Kleists durchgängig
+      zu verstehen und zu deuten sei, und die »drei Stufen vom
+      Schema des Marionettentheaters« im Amphitryon, in der
+      Penthesilea, im Käthchen und im Prinzen von Homburg
+      wiederzufinden, so gestehe ich freilich, daß ich von ihm
+      nicht überzeugt worden bin. Daß Kleist »Metaphysiker«
+      gewesen ist, wie es nur je ein Dichter war, scheint mir
+      durch Hanna Hellmanns Darstellung nicht erwiesen: zum
+      mindesten handelt es sich hier um eine »Metaphysik«, die
+      selbst so rein künstlerischer Art ist, daß sie sich in
+      die Grundbegriffe und Grundgegensätze der romantischen
+      Philosophie (wie in den Gegensatz des »Ideellen« und
+      »Reellen«) nicht ohne Zwang einfügen läßt.
+
+  [7] ~Fichte~, Sämtl. Werke hg. von J. H. Fichte, IV, 353.
+
+Von diesen allgemeinen Prämissen aus begreift man erst ganz die
+besondere These, die Kleists Aufsatz über das Marionettentheater
+durchführt. Auch Kleist scheidet das Wesen der künstlerischen Tätigkeit
+scharf und bestimmt von allem begrifflichen, allem bloß reflektierenden
+Bewußtsein. Dieses letztere wirkt freilich, so lange wir uns gleichsam
+in der ~Mitte~ des ästhetischen Gebiets halten, so lange wir das
+künstlerische Durchschnittstalent und seine Leistung betrachten, überall
+als Faktor mit. Aber weit entfernt, den eigentlichen Gehalt der
+künstlerischen Leistung zu begründen, greift es in sie vielmehr störend
+und verwirrend ein. Alle echte künstlerische »Grazie« beruht auf der
+Naivität, beruht also auf dem Ausschluß der Reflexion. Wir müssen
+unter oder über ihr stehen, wir müssen die Reflexion entweder noch nicht
+erreicht oder sie wieder hinter uns gelassen haben, um der höchsten
+ästhetischen Forderung zu genügen. Das mechanisch-unbewußte Tun und die
+höchste geistige Spontaneität, -- die Marionette und das Genie, sind in
+dieser Hinsicht für uns Ausprägungen ein und derselben Wahrheit. In dem
+Maße, als in der organischen Welt die Reflexion dunkler und schwächer
+wird, tritt die Grazie darin immer strahlender und herrschender hervor.
+»Doch so wie sich der Durchschnitt zweier Linien, auf der einen Seite
+eines Punkts, nach dem Durchgang durch das Unendliche plötzlich wieder
+auf der andern Seite einfindet, oder das Bild des Hohlspiegels, nachdem
+es sich in das Unendliche entfernt hat, plötzlich wieder dicht vor uns
+tritt: so findet sich auch, wenn die Erkenntnis durch ein Unendliches
+gegangen ist, die Grazie wieder ein; so daß sie zu gleicher Zeit in
+demjenigen menschlichen Körperbau am reinsten erscheint, der entweder
+gar keins oder ein unendliches Bewußtsein hat; d. h. in dem Gliedermann
+oder in dem Gott.« Hier liegt der Punkt, wo die beiden Enden der
+ringförmigen Welt ineinander greifen. Wir müssen vorwärts, wir müssen
+die ganze Bahn der Erkenntnis durchmessen, um zuletzt wieder in den
+Stand der Unschuld zurückzukehren. »Das Paradies ist verriegelt und der
+Cherub hinter uns; wir müssen die Reise um die Welt machen, und sehen,
+ob es vielleicht von hinten irgendwo wieder offen ist«. --
+
+Freilich mußte sich in eben dieser epigrammatischen Wendung für Kleist
+wiederum das Unbefriedigende zeigen, das jeder bloß dialektischen
+Bezeichnung und Lösung der fundamentalen geistigen Probleme anhaftet.
+Die Antithese zur Reflexion, die hier aufgestellt ist, gehört selber
+noch ganz dem Gebiet und den Mitteln der Reflexion an. Ueber dies Gebiet
+scheinen wir uns erst wahrhaft erheben zu können, indem wir die Frage
+vom Denken in das Tun verlegen. Immer bestimmter nimmt Kleist, von dem
+Augenblick an, als die großen politischen Aufgaben der Zeit ihn
+ergreifen, diese Richtung. An die Stelle des Grübelns und Spekulierens,
+an die Stelle der theoretischen Besinnung über allgemeine Ziele und
+Aufgaben, soll das entschlossene, auf das nächste praktische Ziel
+gerichtete Handeln treten. Hier wenn irgendwo muß die eigentliche Lösung
+der Konflikte des Daseins gesucht werden. Immer wieder wird in den
+»Berliner Abendblättern« dieses Thema variiert: es findet sich ebenso
+in den »Betrachtungen über den Weltlauf«, wie in der Paradoxe »von der
+Ueberlegung«, in der parodistischen Aufstellung eines »allerneusten
+Erziehungsplans« wie in der Betrachtung über »Wissen, Schaffen,
+Zerstören, Erhalten« wieder.[8] Im Tun allein liegt die Rettung; das
+Tun aber kann nicht warten, bis das Wissen mit seinen Erwägungen und
+Bedenken zu Ende gelangt ist. Es muß glauben und wagen; es muß in den
+Gang der Dinge eingreifen, unbekümmert darum, ob sich die Wirkung und
+der Erfolg dieses Eingreifens im voraus ~berechnen~ läßt. Das aber ist
+eben das Grundübel der Deutschen, daß sie dieses unmittelbar befreiende
+Tun mehr und mehr verlernt haben. Ihr Verstand hat -- wie es im
+»Katechismus der Deutschen« heißt --, durch einige scharfsinnige Lehrer
+einen Ueberreiz bekommen; sie reflektieren, wo sie empfinden oder
+handeln sollten. Daß auch diese Bemerkung Kleists -- so befremdlich dies
+vielleicht auf den ersten Blick erscheinen mag -- in erster Linie auf
+~Fichte~ zielt, kann kaum zweifelhaft sein; es wird durch die Epigramme,
+die Kleist im »Phoebus« gegen den »Pädagogen« Fichte und seinen Plan
+einer neuen Nationalerziehung gerichtet hat, unmittelbar bestätigt. Alle
+»Pädagogik« erschien Kleist jetzt nur noch wie ein beschwerlicher Umweg.
+Der Mensch braucht nicht erst durch eine ausgeklügelte Erziehung
+»gebildet«, er braucht nicht durch irgendwelches philosophische System,
+das doch stets von fragwürdigem Wert bleibt, künstlich gemodelt zu
+sein: es genügt, ihm die Bahn des entschlossenen Handelns zu weisen
+und ihn alsdann getrost den eigenen Kräften zu überlassen. Auf welch
+schwankender Grundlage stünde auch das Gebäude des menschlichen Glückes
+und die Zukunft des menschlichen Geschlechts, wenn es auf der Wahrheit
+irgendwelcher abstrakter Theorien beruhte! »Wie mißlich würde es mit der
+Sittlichkeit aussehen, wenn sie kein tieferes Fundament hätte, als das
+sogenannte gute Beispiel eines Vaters oder einer Mutter, und die platten
+Ermahnungen eines Hofmeisters oder einer französischen Mamsell. -- Aber
+das Kind ist kein Wachs, das sich in eines Menschen Händen zu einer
+beliebigen Gestalt kneten läßt: es lebt, es ist frei; es trägt ein
+unabhängiges und eigentümliches Vermögen der Entwicklung und ein Muster
+aller innerlichen Gestaltung in sich.« Man sieht, bis zu welchem Grade
+Kleist, der einst selbst ein so fanatischer Pädagoge gewesen war, jetzt
+allen Theorien gram geworden ist, sofern sie beanspruchen, den Vorrang
+vor dem Leben und Tun zu besitzen und beides nach ihrem Muster zu
+bilden. Daher bot ihm auch die so energische und aktive Richtung der
+Fichteschen Lehre kein Genüge. Fichtes System wollte im eigentlichen und
+radikalen Sinne Philosophie der Tat sein, aber es schien eben darum die
+Tat wieder durch die Philosophie zu ersetzen; es schien das Reflektieren
+über das Tun zum Ausgangspunkt und zur Bedingung des Tuns selbst zu
+machen. Der Politiker Kleist war es, der sich jetzt gegen diese
+Forderung des Theoretikers einer nationalen Politik wandte. Nehmen wir
+übrigens an, daß Kleist schon früher mit Fichte bekannt geworden war --
+daß die »Bestimmung des Menschen« es gewesen war, die einst in ihm die
+entscheidende geistige Krise hervorgerufen hatte, so würde dadurch auch
+auf seine spätere Haltung gegen Fichte neues Licht fallen. Er hätte dann
+an sich selbst die zerstörende Kraft erfahren, die der theoretische
+Radikalismus besitzt, wenn er unmittelbar ins Leben eingreift und die
+Gesamtrichtung des Lebens zu bestimmen sucht: -- und aus diesem Erlebnis
+heraus wandte er sich nun immer energischer gegen die bloße Spekulation
+und verwies ihr gegenüber, auf den unmittelbaren praktischen Entschluß
+und die praktische Tat als einziges Heilmittel.
+
+  [8] Vgl. Reinh. ~Steigs~ Ausg. der Kleist'schen Prosaschriften;
+      Werke hg. von Erich Schmidt, IV, S. 163, 180, 182, 210,
+      265, 276.
+
+Aber eben die nationalen und politischen Tendenzen, die Kleist jetzt
+ganz erfüllten, scheinen ihm nun auf der andern Seite ein neues
+Verständnis für die Ethik ~Kants~ und für ihren entscheidenden
+Grundgedanken: für die Gleichsetzung von ~Autonomie und Freiheit~
+eröffnet zu haben. Für diese letzte eingreifende Wandlung, die Kleists
+Verhältnis zu Kant erfahren zu haben scheint, läßt sich freilich aus den
+Briefen Kleists kein unmittelbares Zeugnis anführen. Aber die ~Dichtung~
+Kleists spricht hier eine um so deutlichere und überzeugendere Sprache.
+Nur wer den Stil und Charakter dieser Dichtung völlig verkennt, könnte
+freilich daran denken ihr irgendwelche allgemeine philosophische »Ideen«
+unterlegen und sie aus ihnen »erklären« zu wollen. Aber wie der »Prinz
+von Homburg« verglichen mit Kleists früheren dramatischen Werken, mit
+dem Guiscard und den Schroffensteinern, mit Käthchen und Penthesilea,
+einen völlig eigenen und neuen Stimmungsgehalt besitzt -- so spricht
+sich in ihm unverkennbar auch eine neue ~geistige~ Gesamthaltung aus.
+Die tragische Problematik selbst hat sich hier vertieft und erweitert.
+Auch die Tragik des Prinzen von Homburg geht, wie die aller Kleistischen
+Gestalten, auf die »Verwirrung des Gefühls« zurück, die er in sich
+erlebt. In dem Augenblick, in dem er sich im höchsten Triumphgefühl des
+Sieges und in leidenschaftlicher Liebe und Hingebung dem Kurfürsten
+naht, sieht er sich von diesem zurückgestoßen -- sieht er sich der
+starren und fühllosen Strenge des Gesetzes überantwortet. Vergebens
+versucht er, in der Unterredung mit Hohenzollern, dem Unbegreiflichen
+den Glauben zu versagen, -- versucht er, den Tatsachen zum Trotz, sich
+auf sein innerstes Gefühl vom Kurfürsten zurückzuziehen: im Anblick des
+offenen Grabes bricht die Selbstgewißheit dieses Gefühls zusammen. Und
+nun ist alles andere, was seinem Leben Wert und Gehalt gab, zugleich
+vernichtet. Es ist ein tragisches Paradoxon, aber ein Moment von
+höchster psychologischer Wahrheit und Kraft, daß in diesem Augenblick,
+in welchem er allen ideellen Gehalt des Daseins versinken sieht, das
+Gefühl des Daseins selbst, der bloße Lebenstrieb als solcher in ihm um
+so mächtiger hervorbricht. Er klammert sich an die nackte Existenz, als
+das einzige, was ihm geblieben ist; er begehrt nur noch das Leben, ohne
+Inhalt und Zweck, im Kreis herumzujagen, bis es am Abend niedersinkt und
+stirbt. Denn noch begreift er die Macht, die ihm gegenübersteht, nur
+als eine ~physische~ Macht, der er seinen ungebrochenen und unbedingten
+physischen Lebenswillen entgegenstellt. Der Brief des Kurfürsten erst
+bringt die Peripetie. In dem Moment, da der Prinz sich selber zur
+Entscheidung aufgerufen fühlt, ist diese Entscheidung bereits gefallen.
+Denn jetzt naht ihm sein Geschick nicht mehr als ein dunkler Zwang,
+gegen den er sich mit allen Kräften des individuellen Seins und der
+individuellen Empfindung zur Wehr setzt. Er versteht die Gewalt, der
+er unterliegt; und dieses Verständnis ist mit ihrer freien Anerkennung
+gleichbedeutend. In dem Gegensatz zwischen Ich und Welt, wie er sich
+sonst in der Dichtung Kleists darstellte und entfaltete, ist jetzt ein
+neues Motiv zur Geltung gelangt. Den Kleist'schen Helden war, gleichviel
+ob sie diesen Gegensatz leidend oder tätig auffaßten, ob sie sich gegen
+die »Einrichtung der Welt« leidenschaftlich erhoben oder sich ihr
+unterwarfen, dennoch der eine Zug gemeinsam: daß sie sich der Welt als
+einem durch und durch Rätselvollen und Irrationalen gegenüber fanden.
+Sie konnten sich ihr mit ihrem Verstand gefangen geben und sich ihr in
+schweigender Duldung unterordnen; aber der unbedingten Klarheit und
+Sicherheit des Innern blieb doch stets das Aeußere, blieben Schicksal
+und Welt als dumpfe und unbegriffene Mächte, die den Menschen bestimmen,
+gegenüberstehen. Im Prinzen von Homburg aber stellt sich ein neues
+Verhältnis der Grundmomente her, aus denen der tragische Gegensatz
+und die tragische Entscheidung hervorwachsen. Auch hier steht die
+individuelle Welt des Gefühls gegen eine »objektive« Macht; aber diese
+Macht gehört selbst einer anderen Ordnung, als bisher, an. Es ist nicht
+die Objektivität des Seins und Geschehens, sondern die des Sollens, die
+den einzelnen bestimmt und bindet. Diese Objektivität aber kann nicht
+anders überwunden werden, als indem das Individuum sie frei anerkennt
+und sie damit in ihrem wahrhaft notwendigen Grunde begreift. »Des
+Gesetzes strenge Fessel bindet nur den Sklavensinn, der es verschmäht«:
+wo die Forderung, die an den Willen des Individuums ergeht, in diesen
+Willen selbst aufgenommen wird, da hat sie ihre äußerliche zwingende
+Gewalt verloren.
+
+Und nicht nur im Prinzen von Homburg selbst, sondern auch im
+Kurfürsten vollzieht sich eine analoge, wenngleich entgegengerichtete
+Entwicklung: und aus dem Gegeneinander dieser beiden inneren
+Bewegungen geht erst der eigentliche dramatische Grundprozeß hervor.
+Wie der Kurfürst zuerst dem Prinzen gegenübertritt, -- da ist er
+nichts anderes als der Hüter und der Vollstrecker des objektiven
+Gesetzeswillens. Nur von dem reinen Inhalt des Gesetzes selbst, nur
+von seiner unbedingten und unbeugsamen Forderung ist die Rede; --
+nicht von dem Subjekt, an welches die Forderung ergeht. Nun aber,
+in dem Gespräch mit Natalie, offenbart sich mit einem Male, wie in
+dieser rein-sachlichen Haltung, in diesem Richterspruch, der ohne
+Ansehen der ~Person~ ergeht, auch der Anspruch und das tiefere Recht
+der freien ~Persönlichkeit~ verletzt ist. Und von dieser Einsicht
+erfährt nun auch die so geschlossene und festgefügte Welt des
+Kurfürsten eine innere Erschütterung. »Verwirrt« und »im äußersten
+Erstaunen« hört er den Bericht Nataliens an. In diesem Moment
+begreift und fühlt er, wie die Aufgabe des Rechts erst zur Hälfte
+erfüllt ist, wenn nur die objektiv rechtliche Ordnung als solche
+hergestellt und ihrem Gebot genügt wird. Wie er den Sieg verwarf, den
+Zufall und Willkür ihm errungen haben, so verwirft er jetzt auch eine
+Form des Rechtsspruchs, die auf Willkür gegründet scheint, weil sie
+sich an den passiven Gehorsam, statt an die eigene Einsicht und an
+das subjektive Gefühl des Rechts selbst wendet. Hier erfaßt er die
+neue Aufgabe, die er von jetzt ab sich selbst und dem Prinzen
+gegenüber durchführt. Der eigentlich sittliche, nicht der physische
+Vollzug des Gesetzes liegt nicht in der tatsächlichen Vollstreckung
+des Urteilsspruches; er gehört nicht der Welt des Geschehens und
+Daseins, sondern der Welt des ~Bewußtseins~ an. Sobald im Bewußtsein
+des Prinzen die klare und sichere Entscheidung gefallen ist, bedarf
+es keiner weiteren rechtlichen Zurüstungen mehr: denn nur aus dem
+Mittelpunkt des ~Willens~ und der freien Persönlichkeit geht der
+wahrhafte, der eigentlich gesicherte Bestand der Gesetzesordnung
+selbst hervor.
+
+Zwischen dem Kurfürsten und dem Prinzen aber steht Kottwitz, -- und
+für ihn freilich gilt jene dialektisch-dramatische Entwicklung nicht,
+die sich in beiden vollzieht. Denn er ist ganz aus einem Guß: er
+ist am Anfang, was er am Ende ist. Für ihn gibt es keinen Gegensatz
+zwischen dem, was sein Gefühl, was sein Herz und dem, was das Gesetz
+ihm gebietet: denn was er als seine Pflicht erkennt, das ist zugleich
+der Inhalt seiner Liebe und seiner freien Hingabe. So stellt sich
+hier, in der unmittelbar-konkreten Einheit der Persönlichkeit,
+die wahrhafte Synthese zwischen der objektiven Notwendigkeit des
+Pflichtgebots und dem Recht der freien Subjektivität her. Das Gesetz
+stellt die allgemeine Regel des Handelns auf; aber die Anwendung
+dieser Regel, die letzte Entscheidung darüber, was sie im gegebenen
+einzelnen Fall erheischt, kann nur aus der Kraft und aus der
+Selbstverantwortung des Individuums heraus erfolgen. Kein bloßes
+Schema, keine ein für allemal feststehende Schablone kann das Ich
+dieser ursprünglichen selbstverantwortlichen Entschließung entheben.
+Die Szene, in der Kottwitz vor dem Kurfürsten diese Grundanschauung
+verteidigt, ist ganz individuell, ganz dramatisch gestaltet; --
+sie entspringt aus der konkreten Anschauung der Situation und der
+besonderen Charaktere. Aber nichtsdestoweniger gewinnt diese Szene
+zugleich eine allgemeine ideelle Prägung. Die Rechtfertigung des
+Prinzen und seiner Tat geht wie von selbst in die Darlegung jenes
+»spitzfindigen Lehrbegriffs der Freiheit« über, den Kottwitz nun vor
+dem Kurfürsten entfaltet. Von neuem zeigt sich darin, wie stark und
+einheitlich das dramatische Grundthema des »Prinzen von Homburg« in
+den mannigfachsten Variationen durch alle besonderen Gestalten
+hindurchwirkt:
+
+    »Willst du das Heer, das glühend an dir hängt,
+    Zu einem Werkzeug machen, gleich dem Schwerte
+    Das tot in deinem goldnen Gürtel ruht?
+    Der ärmste Geist, der in den Sternen fremd,
+    Zuerst solch eine Lehre gab! Die schlechte,
+    Kurzsicht'ge Staatskunst, die, um eines Falles,
+    Da die Empfindung sich verderblich zeigt,
+    Zehn andere vergißt, im Lauf der Dinge,
+    Da die Empfindung einzig retten kann!
+    Schütt' ich mein Blut dir, an dem Tag der Schlacht,
+    Für Sold, sei's Geld, sei's Ehre, in den Staub?
+    Behüte Gott, dazu ist es zu gut!
+    Was! meine Lust hab', meine Freude ich,
+    Frei und für mich, im stillen, unabhängig,
+    An deiner Trefflichkeit und Herrlichkeit,
+    Am Ruhm und Wachstum deines großen Namens!
+    Das ist der Lohn, dem sich mein Herz verkauft!«
+
+Worte dieser Art, die ganz aus der unmittelbaren leidenschaftlichen
+Empfindung hervorquellen, wird man gewiß nicht als bloße dramatische
+Umschreibung irgendwelcher abstrakten »philosophischen« Grundüberzeugungen
+deuten wollen. Und doch ist unverkennbar, daß Kleist jetzt, mitten in
+der Reinheit der künstlerischen Gestaltung, zugleich in einer neuen
+~Gedankenwelt~ steht, die ihn bestimmt und bewegt. Der Name Kants drängt
+sich hier unwillkürlich auf. Denn wer außer Kant hatte in dieser Schärfe
+und Klarheit den Gegensatz zwischen »Willen« und »Willkür«, zwischen den
+wechselnden Antrieben des »subjektiven« Affekts und der Objektivität
+und Notwendigkeit des allgemeinen und allgemeingültigen Gesetzes
+verkündet? Es braucht hier kaum der besonderen Hinweise: denn es handelt
+sich hier um das einheitliche immer wiederkehrende intellektuelle Motiv,
+aus dem das Ganze der Kantischen Ethik hervorgegangen ist. »Verstand,
+Witz und Urteilskraft« -- so heißt es in der »Grundlegung zur Metaphysik
+der Sitten« -- »und wie die Talente des Geistes sonst heißen mögen, oder
+Mut, Entschlossenheit, Beharrlichkeit im Vorsatze, als Eigenschaften
+des ~Temperaments~, sind ohne Zweifel in mancher Absicht gut und
+wünschenswert; aber sie können auch äußerst böse und schädlich werden,
+wenn der Wille, der von diesen Naturgesetzen Gebrauch machen soll und
+dessen eigentümliche Beschaffenheit darum ~Charakter~ heißt, nicht
+gut ist.« Dieser sittliche Grundwert des »Charakters« kann nur im
+Widerstreit zu dem Spiel der Affekte und Gefühle gewonnen werden, die,
+so edel, so erhaben sie sich auch dünken mögen, sich doch zuletzt als
+bloße »Anwandlungen« und »Aufwallungen« ohne dauernde und fortwirkende
+Kraft erweisen. Von hier aus nimmt Kant den Kampf gegen die Willkür, den
+Ueberschwang und die Schwärmerei jeder bloßen Gefühlsbestimmung auf,
+durch den er -- wie ~Goethe~ geurteilt hat -- die Moral, die vor ihm
+schlaff und knechtisch geworden war, wieder in ihrer übersinnlichen
+Bedeutung aufrichtete und die Epoche von der Weichlichkeit zurückbrachte,
+in die sie versunken war.[9] »Das ist noch nicht die echte moralische
+Maxime unseres Verhaltens, die unserem Standpunkte unter vernünftigen
+Wesen, als Menschen, angemessen ist, wenn wir uns anmaßen, gleichsam als
+Volontäre, uns mit stolzer Einbildung über den Gedanken von Pflicht
+hinwegzusetzen und als vom Gebote unabhängig bloß aus eigener Lust das
+tun zu wollen, wozu für uns kein Gebot nötig wäre. Wir stehen unter
+einer ~Disziplin~ der Vernunft und müssen in allen unseren Maximen der
+Unterwürfigkeit unter derselben nicht vergessen, ihr nichts zu entziehen
+oder dem Ansehen des Gesetzes (ob es gleich unsere eigene Vernunft
+gibt) durch eigenliebigen Wahn dadurch etwas abkürzen, daß wir den
+Bestimmungsgrund unseres Willens, wenngleich dem Gesetze gemäß, doch
+worin anders, als im Gesetz selbst und in der Achtung für dieses
+Gesetz setzten.« Hier ist das Moment bezeichnet, das für Kant,
+nach der ~psychologischen~ Seite hin, als die eigentliche Lösung der
+grundlegenden Antithese zwischen der Objektivität und Unbedingtheit
+des reinen Gesetzes und den subjektiven, menschlichen Triebfedern des
+Handelns erscheint. Die Achtung vor dem Gesetz gehört selbst der Sphäre
+des Gefühls an: aber sie ist kein »pathologisches« sondern ein rein
+»praktisches« Gefühl. Sie geht nicht aus der sinnlichen Rezeptivität,
+sondern allein und ausschließlich aus der intellektuellen und sittlichen
+Spontaneität hervor. Kraft dieses ihres Ursprungs geht sie niemals auf
+~Sachen~, sondern jederzeit nur auf ~Personen~. Und in diesem ethischen
+Grundbegriff der Person entdeckt Kant nun das neue Korrelat zum reinen
+Gesetzesbegriff: ein Korrelat, kraft dessen dieser selbst erst seinen
+vollen Gehalt und seine spezifische Eigenart gewinnt. Im Prinzip der
+Autonomie des Handelns geht der Gedanke des Selbst mit dem Gedanken des
+Gesetzes in eins zusammen. »Der Mensch und überhaupt jedes vernünftige
+Wesen existiert als Zweck an sich selbst, nicht bloß als Mittel zum
+beliebigen Gebrauche für diesen oder jenen Willen ... Der praktische
+Imperativ wird also folgender sein: handle so, daß du die Menschheit
+sowohl in deiner Person, als in der Person eines jeden anderen jederzeit
+zugleich als Zweck, niemals bloß als Mittel brauchst.«
+
+  [9] Goethe zu Kanzler v. Müller. 29. April 1818.
+
+Vergegenwärtigt man sich diesen allgemeinen gedanklichen Umriß der
+Kantischen Ethik und stellt man ihm die dichterische Anschauungs- und
+Stimmungswelt des »Prinzen von Homburg« gegenüber, so treten die
+feinen und tiefen Beziehungen, die zwischen beiden obwalten, sogleich
+zutage. Es bedarf hier keiner ins einzelne gehenden Parallelisierung:
+ja gerade eine solche würde das wahre geistige Verhältnis nur
+unzureichend und oberflächlich bezeichnen. Denn der »Prinz von
+Homburg« ist ebensowenig als irgend ein anderes Kleistisches Werk,
+ein Thesenstück. Die Dialektik, die in ihm wirksam ist, ist durch und
+durch dramatische Dialektik, die nicht von Tendenzen und Ideen,
+sondern von Gestalten und Charakteren ausgeht. Aber eben in der Art,
+wie Kleist jetzt seine Menschen und ihre inneren Gegensätze sieht,
+prägt sich ein neuer Zug, eine veränderte Stellung zu der Gesamtheit
+der Lebensprobleme und der großen Lebensentscheidungen aus. Wir
+glauben zu erkennen, wie die Kantische Lehre bei dieser inneren
+Wandlung mitgewirkt hat; -- aber freilich hat hierbei ihre eigene
+Grundform eine bezeichnende Umgestaltung erfahren. Auf der Grundlage
+des Kantischen Pflichtbegriffs erwächst bei Kleist, im Zusammenhang
+mit den Antrieben der Zeit und mit seinen eigenen politischen
+Wünschen und Forderungen, eine neue konkrete Form des Allgemeinen:
+die Allgemeinheit eines neuen nationalen und eines neuen Staatsgefühls.
+
+So glauben wir zu sehen, wie das, was Kleist mit Kant verbindet und
+was ihn von Kant trennt, nicht auf einen einzelnen Moment seines
+Lebens beschränkt bleibt, sondern wie dieses Verhältnis der Anziehung
+und Abstoßung in allen Lebensphasen, wenngleich in verschiedener
+Stärke und Deutlichkeit, wiederkehrt. Noch einmal tritt hier deutlich
+hervor, was Kants Philosophie, nicht als schulmäßiges System, sondern
+als unmittelbar lebendige geistige Macht für ihre Zeit bedeutet hat.
+Man hat von Kleist gesagt, daß er sich von den »Klassikern« der
+deutschen Literatur, von Goethe, Schiller, Herder dadurch unterscheide,
+daß diese nicht nur als Künstler, sondern auch als vorbildliche Typen
+gewirkt hätten, die uns auf ein gemeinsames ideales Ziel der Bildung
+hinweisen. »Kleist gehört gar nicht zu den Förderern dieser dauernden
+Renaissance als ein Mann, der nie den Göttern der Vergangenheit oder
+der Gegenwart gedient, der nie eine Erziehungstendenz oder eine
+Humanitätsidee vertreten hat.«[10] In der Tat wird man den eigentlichen
+Maßstab für Kleist, für sein Wesen und seine Dichtung immer nur seiner
+Individualität selbst, nicht der allgemeinen Entwicklung der deutschen
+Geistes- und Bildungsgeschichte entnehmen können. Das Gesetz und die
+innere Norm seiner Künstlerschaft steht dieser großen Entwicklungslinie
+als ein Eigenes und Selbständiges gegenüber. Auch wenn man versucht hat,
+das Ganze von Kleists Dichtung aus dem »metaphysischen« Lebensgefühl,
+das in ihm wirksam war, zu begreifen und abzuleiten, so ist doch das
+Gefühl, auf das man hier hinzielt, so eigener Art und gehört so rein
+und völlig der Sphäre des Künstlers an, daß es sich sofort zu verdunkeln
+und zu verwirren scheint, wenn man versucht, es in die abstrakte
+Begriffssprache, in die Kategorien und Termini der systematischen
+Philosophie zu übersetzen. Aber gerade weil Kleist in dieser Weise
+abseits steht, empfindet man um so stärker die Beziehungen, die
+nichtsdestoweniger zwischen ihm und der großen intellektuellen Bewegung
+der Zeit bestehen. Für die tiefe Wirkung, die insbesondere die Kantische
+Lehre in allen geistigen Lebenskreisen geübt hat, ist gerade die Kraft,
+mit der sie auch in das Leben und Schaffen dieses Einsamen eingegriffen
+hat, der ihr eher zu widerstreben, als sie zu suchen schien, ein
+überzeugender Beweis.
+
+  [10] ~Eloesser~, Kleists Leben, Werke und Briefe
+       (Tempel-Verlag) S. 272.
+
+
+
+
+             VERLAG VON REUTHER & REICHARD IN BERLIN W. 35.
+
+
+                    Von den
+                      #Philosophischen Vorträgen#,
+               veröffentlicht von der #Kantgesellschaft#,
+                       sind bis jetzt erschienen:
+
+
+    Heft 1/2. #Das Realitätsproblem# von Dr. #Max Frischeisen-Köhler#,
+              Prof. a. d. Univ. Halle a. S.                    Mk. 2.--.
+
+    Heft   3. #Denkmittel der Mathematik im Dienste der exakten
+              Darstellung erkenntniskritischer Probleme# von Dr. #Fr.
+              Kuntze#, Priv.-Doz. a. d. Univ. Berlin.          Mk. 1.--.
+
+    Heft   4. #Einleitung in die Grundfragen der Ästhetik# von
+              Ober-Generalarzt Prof. Dr. #Berth. von Kern#.    Mk. 1.--.
+
+    Heft   5. #Über Platos Ideenlehre# von Dr. #Paul Natorp#, ord. Prof.
+              a. d. Univ. Marburg.                             Mk. 1.--.
+
+    Heft   6. #Religion und Kulturwerte# von Dr. #Jonas Cohn#, Prof.
+              a. d. Univ. Freiburg i. Br.                      Mk. 1.--.
+
+    Heft   7. #Zur Logik der Geschichtswissenschaft# von Dr. #Kurt
+              Sternberg#.                                      Mk. 1.20.
+
+    Heft   8. #Über das Eigentümliche des deutschen Geistes# von
+              Dr. #Hermann Cohen#, ord. Prof. a. d. Univ. Marburg.
+              2. und 3. Auflage.                              Mk. --.80.
+
+    Heft   9. #Die religiöse Erfahrung als philosophisches Problem#
+              von Dr. #Konstantin Österreich#, Prof. a. d. Universität
+              Tübingen.                                        Mk. 1.--.
+
+    Heft  10. #Der Geltungswert der Metaphysik# von Dr. #Arthur Liebert#,
+              stellv. Geschäftsführer d. Kantgesellschaft.     Mk. 1.--.
+
+    Heft  11. #Was heisst Hegelianismus?# Von #Georg Lasson#, Pastor in
+              Berlin.                                         Mk. --.80.
+
+    Heft  12. #Das Problem der historischen Zeit# von Dr. #Georg Simmel#,
+              Prof. a. d. Univ. Straßburg.                    Mk. --.80.
+
+    Heft  13. #Machtverhältnis und Machtmoral# von Dr. phil. #Alfred
+              Vierkandt#, Prof. a. d. Univ. Berlin.            Mk. 1.60.
+
+    Heft  14. #Individualismus, Universalismus, Personalismus# von
+              Dr. phil. #Ottmar Dittrich#, Prof. a. d. Univ. Leipzig.
+                                                               Mk. 1.--.
+
+    Heft  15. #Wechselseitige Erhellung der Künste# von Dr. #Oskar
+              Walzel#, Geh. Hofrat, Prof. a. d. Technischen Hochschule
+              in Dresden.                                      Mk. 2.40.
+
+    Heft  16. #Das Verhältnis der Logik zur Mengenlehre# von Geh.
+              Medizinal-Rat Prof. Dr. #Theodor Ziehen#, o. ö. Professor
+              a. d. Universität Halle.                         Mk. 2.--.
+
+    Heft  17. #Die Gegenständlichkeit des Kunstwerks# von Dr. phil.
+              #Emil Utitz#, Prof. a. d. Univ. Rostock.         Mk. 2.--.
+
+    Heft  18. #Über den Zufall# von D. Dr. #Adolf Lasson#, weil.
+              Professor an der Universität Berlin. 2. Auflage.
+                                                               Mk. 2.--.
+
+    Heft  19. #Neubegründung der Ethik aus ihrem Verhältnis zu den
+              besonderen Gemeinschaftswissenschaften# von Professor
+              Dr. #Albert Görland#.                            Mk. 2.--.
+
+    Heft  20. #Grundgedanken der personalistischen Philosophie# von
+              Dr. #William Stern#, Professor am Allgemeinen
+              Vorlesungswesen in Hamburg.                      Mk. 2.--.
+
+    Heft  21. #Hermann Cohens philosophische Leistung unter dem
+              Gesichtspunkte des Systems# von #Paul Natorp#, Professor
+              an der Universität Marburg.                      Mk. 1.40.
+
+    Heft  22. #Heinrich von Kleist und die Kantische Philosophie# von
+              #Ernst Cassirer#, Prof. a. d. Universität Berlin.
+                                                               Mk. 2.--.
+
+
+             Buchdruckerei von Max Dietrich, Berlin W. 50.
+
+
+
+
+[Liste der vorgenommenen Änderungen:
+
+  erbracht worden wäre. Denn das tradionelle Schlagwort von dem
+  erbracht worden wäre. Denn das traditionelle Schlagwort von dem
+
+  war die fragwürdige Relativität aller Dinge, war die eisige Skepsis,
+  »war die fragwürdige Relativität aller Dinge, war die eisige Skepsis,
+
+  gelehrt? Man mag allerfalls, obwohl äußerst ungenau und irreführend,
+  gelehrt? Man mag allenfalls, obwohl äußerst ungenau und irreführend,
+
+  Schriften, mit der gleichen unerschütterlichen Sicherheit behaupet
+  Schriften, mit der gleichen unerschütterlichen Sicherheit behauptet
+
+  Kritik der reinen Vernunft: die Frage, wie synthetische Urteile
+  »Kritik der reinen Vernunft«: die Frage, wie synthetische Urteile
+
+  als die Kritik der reinen Vernunft namhaft machen ließe, aus welchem
+  als die »Kritik der reinen Vernunft« namhaft machen ließe, aus welchem
+
+  das »Ich«, mit dem er seine Zwiesprache hält -- nimmst du zunächst
+  das »Ich«, mit dem er seine Zwiesprache hält -- »nimmst du zunächst
+
+  -- nun wird dir vollkommen klar sein, wie etwas, das doch aus dir
+  -- »nun wird dir vollkommen klar sein, wie etwas, das doch aus dir
+
+  zur Arbeit« -- so schreibt er an die Schwester -- -- aber mich ekelt
+  zur Arbeit« -- so schreibt er an die Schwester -- -- »aber mich ekelt
+
+  von Kleist hingestellt hat, so ließe sich begreifen, daß sie
+  vor Kleist hingestellt hat, so ließe sich begreifen, daß sie
+
+  die Schwester -- bist du unterworfen, als allein der Herrschaft der
+  die Schwester -- »bist du unterworfen, als allein der Herrschaft der
+
+  ist das nicht etwas Vortreffliches? Und dann, ~mich selbst~ auf
+  »ist das nicht etwas Vortreffliches? Und dann, ~mich selbst~ auf
+
+  nur fragmentarisch und unvollkomemn darstellt, der sich aber der
+  nur fragmentarisch und unvollkommen darstellt, der sich aber der
+
+  Die traditionelle Optimismus seiner Jugendphilosophie wandelt sich
+  Der traditionelle Optimismus seiner Jugendphilosophie wandelt sich
+
+  Krise, im Mai 1801 -- wo ich mich meiner selbst bewußt ward, meine
+  Krise, im Mai 1801 -- »wo ich mich meiner selbst bewußt ward, meine
+
+  göttlichen Weisheit -- so sagt Friedrich im >Zweikampf< zu Littegarde
+  göttlichen Weisheit« -- so sagt Friedrich im >Zweikampf< zu Littegarde
+
+  -- die Wahrheit, im Augenblick der glaubensvollen Anrufung selbst,
+  -- »die Wahrheit, im Augenblick der glaubensvollen Anrufung selbst,
+
+  in diesem Zusammenhang begründet. »Suchet in euch -- so ruft Goethe
+  in diesem Zusammenhang begründet. »Suchet in euch« -- so ruft Goethe
+
+  jetzt, was die Erschütterung, die Kleist durch die kantische
+  jetzt, was die Erschütterung, die Kleist durch die Kantische
+
+  der völlige Zusammenbruch seiner intellektuellen Welt zu bedeuten:
+  den völligen Zusammenbruch seiner intellektuellen Welt zu bedeuten:
+
+    [4] Kants AnthropologIe, Akad.-Ausg., VII, 323 vgl. R.
+    [4] Kants Anthropologie, Akad.-Ausg., VII, 323 vgl. R.
+
+  bekannten »Brief eines Malers an seinen Sohn« -- daß du eine
+  bekannten »Brief eines Malers an seinen Sohn« -- »daß du eine
+
+  ihn beschäftigt, eine neue Bedeuutng und eine überraschende Konsequenz
+  ihn beschäftigt, eine neue Bedeutung und eine überraschende Konsequenz
+
+    [7] ~Fichte~, Sämtl. Werke hg. von J, H. Fichte, IV, 353.
+    [7] ~Fichte~, Sämtl. Werke hg. von J. H. Fichte, IV, 353.
+
+  Naivität, beruht also auf den Ausschluß der Reflexion. Wir müssen
+  Naivität, beruht also auf dem Ausschluß der Reflexion. Wir müssen
+
+  oder in dem Gott. Hier liegt der Punkt, wo die beiden Enden der
+  oder in dem Gott.« Hier liegt der Punkt, wo die beiden Enden der
+
+  Witz und Urteilskraft -- so heißt es in der »Grundlegung zur Metaphysik
+  Witz und Urteilskraft« -- so heißt es in der »Grundlegung zur Metaphysik
+
+  der Sitten« -- und wie die Talente des Geistes sonst heißen mögen, oder
+  der Sitten« -- »und wie die Talente des Geistes sonst heißen mögen, oder
+
+                besonderen Gemeinschaftswlssenschaften# von Professor
+                besonderen Gemeinschaftswissenschaften# von Professor
+
+                Dr. #Albert Görland#.                             M. 2.--.
+                Dr. #Albert Görland#.                            Mk. 2.--.
+
+                Vorlesungswesen in Hamburg.                       M. 2.--.
+                Vorlesungswesen in Hamburg.                      Mk. 2.--.
+
+                an der Universität Marburg.                       M. 1.40.
+                an der Universität Marburg.                      Mk. 1.40.
+
+                                                                  M. 2.--.
+                                                                 Mk. 2.--.
+]
