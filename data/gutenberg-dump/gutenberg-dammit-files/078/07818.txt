@@ -1,0 +1,1710 @@
+NIELS HENRIK ABEL
+
+PAR
+G. MITTAG-LEFFLER
+
+
+
+
+Extrait de la _Revue du Mois_ numéros 19-20, 10 juillet, 10 août 1907, t.
+IV, pp. 5-25, 207-229.
+
+
+
+
+NIELS HENRIK ABEL
+[Note: _Niels Henrik Abel. En Skildring af hans liv og videnskabelig
+virksomhed_, par C. A. Bjerknes. Nordisk Tidskrift, 1880. Traduit en un
+vol. in 8°, Paris, Gauthier-Villars, 1855. --_Festskrift ved hundredaars
+jubilaeet for Niels Henrik Abels foedsel_, Kristiania, 1902. Traduit par
+P. G. la Chesnais, sous le titre: _Mémorial de Niels Henrik Abel, publié à
+l'occasion du centenaire de la naissance_, un vol. gr. in-8° chez
+Gauthier-Villars. --_Abel, den store matématikers slaegt_, par H. Finne-
+Groenn, Kristiania, 1899.]
+
+
+  Où il a été,
+  On ne pense pas sans lui.
+    BJOERNSTJERNE BJOERNSON.
+
+
+La science du nombre, la mathématique, qui est à la fois la plus ancienne
+et la plus développée de toutes les sciences, renferme en son histoire
+beaucoup de noms, qui sont des pierres miliaires sur le parcours de la
+pensée humaine. Les noms d'Archimède, de Galilée, de Descartes, de
+Leibnitz et de Newton, d'Euler, de Laplace, de Gauss et de Cauchy, d'Abel,
+de Riemann et de Weierstrass, évoquent chacun l'image de toute une époque.
+Ceux qui les portèrent, en dehors de la puissance incisive de la pensée,
+se sont distingués par d'autres dispositions et particularités
+personnelles qui saisissent vivement l'imagination. D'aucun d'eux ceci
+n'est plus vrai que de Niels Henrik Abel, l'étudiant norvégien qui jamais
+ne prit nul autre titre que celui, fier et modeste à la fois, de
+_mathématicien_, et qui, à peu près inconnu dans son propre pays, mourut
+dans la misère avant vingt-sept ans accomplis, mais était compté comme un
+égal par son grand contemporain, « le maître des nombres », _princeps
+mathematicorum_, Carl Friedrich Gauss, et a été reconnu par la science de
+la postérité comme l'un des plus grands penseurs qui aient jamais vécu.
+
+La courte vie d'Abel lui a ravi la possibilité de mettre lui-même en
+oeuvre bien des idées, qui furent l'origine de développements ultérieurs
+de la science mathématique, ou de tenir des promesses, dont
+l'accomplissement, dans bien des cas, n'est pas encore réalisé. Et
+pourtant nul mathématicien, plus qu'Abel, n'a su composer des édifices de
+pensée construits dans toutes leurs parties essentielles, et même
+complètement achevés. Les travaux algébriques d'Abel ont amené l'_algèbre
+proprement dite_ au point qu'elle occupe encore. Sauf la notion de _genre_
+introduite par Weierstrass et Riemann, qui, d'ailleurs, est en germe dans
+Abel, nulle notion nouvelle, au sens le plus profond du mot, n'a guère été
+ajoutée à son oeuvre.
+
+La théorie des _fonctions elliptiques_ est d'un bout à l'autre la création
+d'Abel. Toutes les propositions principales de la théorie se trouvent chez
+lui. En même temps son exposition offre l'idéal d'une déduction
+mathématique. Elle repose sur le plus petit nombre de principes, et
+chacune de ses propositions est liée organiquement à la précédente et à la
+suivante.
+
+Le célèbre mémoire d'Abel sur la série du binôme est une des sources les
+plus importantes de la théorie moderne des fonctions, et sera toujours
+compté parmi les ouvrages classiques de la science: tout se tient, on voit
+l'ensemble, et la question est épuisée, c'est l'art d'exposition parfait.
+
+Le _théorème d'Abel_, le « monumentum aere perennius », selon l'expression
+enthousiaste du glorieux octogénaire Legendre, est peut-être encore
+aujourd'hui, avec sa conclusion rigoureuse et sa grande généralité, ce
+qu'il y a de plus élevé et de plus profond dans la mathématique.
+
+Comme tant d'autres parmi les hommes les plus remarquables du nord
+scandinave, Abel était fils de prêtre. Son père s'appelait Soeren Georg
+Abel, et sa mère Anna Marie Simonsen. Sa famille ne peut pas toutefois,
+comme il arrive si souvent en pareil cas, être rattachée par deux ou trois
+générations à la classe des paysans-propriétaires. Le grand-père paternel,
+Hans Mathias Abel, était aussi prêtre, et descendait d'une famille
+considérée de fonctionnaires dano-norvégiens, probablement originaire du
+Slesvig danois, dont le premier membre norvégien, Mathias Abel, mourut
+comme employé dans l'administration préfectorale à Trondhjem en 1664. La
+femme de celui-ci, Karen fille de Rasmus, descendait de vieilles familles
+nobles norvégiennes. La mère d'Abel, Anna Marie Simonsen, appartenait à
+une famille norvégienne de négociants aisés.
+
+La famille d'Abel compte de nombreux membres qui se sont distingués par
+leurs talents et leur intérêt pour les choses d'ordre intellectuel.
+L'aspect extérieur d'Abel est un héritage ancien dans la famille Abel, et
+ne vient pas du côté maternel, comme le prouve la ressemblance frappante
+entre Abel lui-même et le frère cadet de son père, le sous-préfet
+(_lensmand_) M. C. Abel. Celui-ci, malgré son intelligence, qui a dû
+dépasser de beaucoup, si son apparence ne trompe pas, la mesure ordinaire,
+n'a guère acquis de célébrité, sinon que, lorsqu'il passa de la sous-
+préfecture d'Onsoe à celle d'Aremark, il reçut un sucrier d'argent et un
+pot à crème avec l'inscription: « En reconnaissance de quatorze années de
+bons services comme sous-préfet d'Onsoe, de la part d'une partie de la
+population », et qu'il épousa une femme très bien douée. Le grand- père
+paternel d'Abel était un homme énergique et remarquable, dont l'oeuvre
+principale paraît avoir été une action efficace contre le vice de
+l'époque, l'ivrognerie. Lui-même, afin de pouvoir poursuivre cette lutte
+avec un plus grand succès, devint un abstentionniste absolu, et a sans
+doute été un des premiers précurseurs de ce mouvement dans le Nord.
+
+Le père d'Abel, s'il ne possédait pas la force de caractère du grand-père,
+a été manifestement un homme très distingué à beaucoup d'égards, ayant du
+goût pour l'action et pour les intérêts généraux, et d'une capacité peu
+commune. Il fut membre du _Storting_ extraordinaire qui se réunit le 7
+octobre 1814, et il y prit place dans _l'odelsting_. [Note: _L'Odelsting_
+est formé de membres du _Storting_, élus par leurs collègues. Les lois
+sont discutées publiquement, en Norvège, d'abord dans l'_Odelsting_, puis
+dans les séances plénières du _Storting_.] Il parla en faveur de l'union
+avec la Suède, mais soutint que les Norvégiens étaient encore un peuple
+libre et indépendant, et devaient agir comme tel sous tous les rapports:
+
+    La Suède n'avait donc aucun droit d'attendre, continuait-il, que nous
+    adoptions ses principes fondamentaux pour une union éventuelle; c'est
+    à nous qu'il appartenait de proposer à ce royaume les conditions dans
+    lesquelles les libres Norvégiens pourraient appeler les Suédois leurs
+    frères. Lorsque par ces résolutions nous aurons pris les précautions
+    convenables pour notre honneur national, notre liberté et nos droits
+    civiques; lorsque nous aurons ainsi pris garde que toute oppression
+    possible de quelque manière que ce soit, devienne impossible pour
+    quelque régent que ce soit; alors soyons les premiers à tendre au
+    peuple suédois une loyale main fraternelle; alors, comme une nation
+    libre, offrons à Charles XIII le sceptre qui jusqu'alors ne lui était
+    pas destiné. Oublions tout ce qui s'est passé, et souvenons-nous qu'à
+    celui qui pardonne il sera pardonné. Si la constitution, pour la
+    rédaction de laquelle nul n'a qualité, plus que les citoyens du pays
+    qui doivent lui obéir, est rejetée par un régent en ce cas
+    manifestement despotique, alors toute la puissance de la Norvège
+    demeure: avec elle nous pouvons vaincre, avec elle nous pouvons
+    mourir, et dans les deux cas nous pourrons par elle recouvrer notre
+    honneur.
+
+Dans le _Storting_ de 1818, il fut un des rares qui luttèrent en faveur de
+l'enseignement de la langue maternelle et des sciences naturelles
+concurremment avec les langues classiques. Il trouvait « singulier que
+l'on voulût indéfiniment exclure la matière d'enseignement qui intéresse
+le plus les jeunes gens, les sciences naturelles ou la description de la
+nature ».
+
+La mère d'Abel était louée pour son exceptionnelle beauté. Elle était née
+dans une famille qui menait vie joyeuse et large, et elle se laissa aller,
+dès l'âge de quinze ans, à l'abus de l'alcool. La conséquence fut une
+grande faiblesse de caractère et une vie de ménage malheureuse. Le père
+intelligent lutta longtemps contre l'ivrognerie, mais finit, sous
+l'influence de la mère, par en devenir lui-même une victime. Ainsi la
+maison du fils devint un foyer de ce vice que le père avait consacré sa
+vie à combattre. Ce vice fut transmis aux frères d'Abel, qui semblent tous
+avoir succombé à l'ivrognerie. Trois des frères moururent célibataires,
+déchus, et l'esprit plus ou moins égaré. Le quatrième frère, qui fut le
+camarade d'études d'Abel à l'université, et pour lequel il manifesta
+toujours une amitié attentive, devint prêtre comme le père et le grand-
+père, et laissa une descendance nombreuse. Lui aussi paraît avoir été, dès
+l'enfance, adonné à la boisson. Outre les quatre frères, il y avait encore
+une soeur, Elisabeth, tendrement aimée de ce frère illustre, dont
+l'affectueuse sollicitude réussit à la sauver de la malheureuse maison
+paternelle, et à l'introduire de bonne heure dans un milieu d'une toute
+autre tenue morale. On célèbre sa beauté, son intelligence, et la noblesse
+de son caractère. Quatre ans après la mort d'Abel elle épousa le directeur
+de mines d'argent Boebert; sa fille, Thekla Lange, veuve d'un homme
+politique, qui fut ministre, vit encore aujourd'hui. John Aas, successeur
+du père d'Abel dans sa paroisse, fit graver sur la croix de sa tombe:
+
+  Arrête-toi ici, voyageur, que cette tombe te rappelle
+  Que parfois le sourire du bonheur finit en larmes.
+  Bien que la vie se fût levée douce comme le soleil,
+  Soupirs et pleurs en furent le dernier destin.
+
+Sur ce fond lamentable se dessinent l'enfance et la première jeunesse
+d'Abel. Il était le second des six enfants et naquit le 5 août 1802. Il
+reçut le premier enseignement de son père, chez lui, mais fut mis en
+novembre 1815, à l'âge de treize ans, à l'école cathédrale de Kristiania.
+L'école était assez médiocre, et les professeurs en général relâchés et
+abrutis par l'alcool. Le professeur de mathématiques alla un jour si loin
+en punissant un élève que celui-ci en mourut. Le professeur fut aussitôt
+suspendu, et à sa place fut nommé professeur de mathématiques un jeune
+homme, Berndt Michael Holmboe, né en 1795, qui n'avait que sept ans de
+plus qu'Abel. Sans avoir été lui-même un mathématicien d'un sérieux
+mérite, Holmboe s'est acquis à tout jamais une place glorieuse dans les
+fastes mathématiques, comme celui qui le premier à découvert le génie
+d'Abel, et a été son premier protecteur. Holmboe eut l'honneur
+impérissable de savoir attirer l'attention d'Abel sur les auteurs vraiment
+classiques, en sorte que, sous son influence, Euler fut le premier maître
+d'Abel, comme déjà il avait été celui de Gauss. Abel serait certes parvenu
+aussi loin, quel qu'eût été son point de départ, mais sa vie ayant été si
+courte, il était de la plus grande importance qu'il entrât de bonne heure
+en rapport avec les problèmes de la science, et non des livres
+d'enseignement. Les secs procès-verbaux d'examen de l'école cathédrale
+donnent la preuve touchante de l'idée qu'Holmboe se faisait de son grand
+élève. Ainsi en 1820 il a écrit sur Abel: « Au génie le plus remarquable
+il joint un goût et une ardeur insatiables pour les mathématiques, et
+certainement il deviendra, s'il vit, un grand mathématicien. » Au lieu des
+trois derniers mots, il y avait primitivement « le plus grand
+mathématicien du monde », lesquels mots ont été grattés. Les autres
+professeurs n'ont pas été aussi enthousiastes, bien que les capacités
+d'Abel se fissent sentir dans toutes les branches. Le goût, du moins, n'y
+était pas au même degré. Le professeur de latin Riddervold, qui devint
+plus tard un homme politique notoire, trouva un jour sur son pupître cette
+note: « Riddervold croit que j'ai écrit ma composition latine, il se
+trompe pas mal. Abel. »
+
+Lorsqu'en juillet 1821 Abel passa l'examen d'étudiant, il était comme
+mathématicien au courant de l'éducation scientifique de son temps. Mais il
+était absolument sans ressources. Le père était mort depuis 1820, et la
+mère n'avait rien à donner. La réputation d'Abel à l'école l'avait
+heureusement précédé à l'université, et dès septembre 1821 il obtint une
+place gratuite à la fondation universitaire de Regentsen, mais, est-il dit
+dans une note du collège académique, comme ce secours ne pouvait pas être
+suffisant pour un jeune homme qui manquait de tout, quelques professeurs
+de l'université s'étaient concertés pour lui procurer à leurs frais une
+subvention plus complète, et ainsi « conserver à la science ses rares
+dispositions pour la science, attention dont son assiduité au travail et
+ses bonnes moeurs le rendaient d'autant plus digne ».
+
+Bien que des paroles de regret aient été prononcées en Norvège sur le peu
+d'encouragements qu'Abel aurait reçus de son pays, il me semble que cela
+est très exagéré. La Norvège se trouvait à un moment difficile,
+particulièrement sous le rapport économique, mais nous verrons combien,
+malgré cela, Abel a cependant constamment trouvé, pendant sa courte vie,
+des aides qui surent le délivrer des soucis les plus graves. Ce sera
+toujours l'honneur de ces aides que, sans comprendre l'oeuvre d'Abel --
+car il n'y a guère qu'Holmboe qui l'ait comprise, et même lui, très
+incomplètement -- ils comprirent du moins son génie, et firent de leur
+mieux pour le conserver à la science et à la patrie.
+
+La subvention qu'Abel reçut au Regentsen devait être toutefois des plus
+modestes. Un camarade, Rasch, qui devint professeur, raconte qu'Abel était
+tellement dépourvu des choses les plus nécessaires, qu'il possédait, en
+commun avec son frère et camarade de lit, une unique paire de draps, en
+sorte que les deux frères devaient coucher sans draps lorsqu'elle était au
+blanchissage. Niels Henrik, dès février 1822, avait demandé « qu'il me
+soit permis d'avoir mon frère avec moi dans ma chambre à la fondation
+universitaire ». Cette pièce était occupée déjà, outre Abel, par Jens
+Smidt, qui déclara ne s'opposer en rien à ce que le frère d'Abel partageât
+leur « chambre commune ». Ce frère était celui qui devint prêtre. Il lui
+causa beaucoup de soucis tant qu'ils vécurent ensemble, et aussi plus
+tard. Abel put toutefois, dans la pauvre chambre du Regentsen qu'il
+partageait avec deux autres jeunes gens, continuer ses études
+personnelles. Il ne pouvait guère être question d'aucun enseignement à
+recevoir de l'université. En mathématiques elle n'avait rien à lui
+apprendre. En d'autres matières il aurait été un auditeur distrait,
+absorbé comme il était par ses rêveries mathématiques. On parla longtemps
+du scandale qu'il causa un jour en se précipitant hors de la salle de
+conférences de Sverdrup en criant: « Je la tiens » (la solution).
+
+En juin 1822 Abel passa l'« examen philosophicum ». En 1823 il se présente
+pour la première fois comme écrivain, et le « Magasin des sciences
+naturelles » a la gloire d'avoir publié le premier travail du « Studiosus
+N. H. Abel ». Il est précédé d'une note de Hansteen, qui s'excuse de
+publier des mathématiques dans un recueil de sciences naturelles. L'année
+1823 renferme trois mémoires différents. Le jugement de Bjerknes à leur
+sujet: « Ils ne le signalent pas encore comme le mathématicien très
+remarquable, encore moins comme le grand mathématicien », me paraît une
+dépréciation excessive de leur mérite. Tout au moins les deux derniers
+mémoires contiennent des aperçus et des dessous extrêmement remarquables,
+bien que leur origine exacte n'ait apparu clairement qu'en ces derniers
+temps. Plusieurs manuscrits rédigés en norvégien sont considérés comme
+datant de la même époque, ils ont été après la mort d'Abel publiés par
+Holmboe. Abel s'y tient, de même que dans les mémoires du « Magasin des
+sciences naturelles », au point de vue d'Euler et de Lagrange, et il est
+clair qu'il n'a pas encore pris une connaissance approfondie de Cauchy.
+
+Encore sur les bancs de l'école, Abel s'était attaqué déjà au problème de
+la solution, au moyen de radicaux, de l'équation générale du cinquième
+degré. La renaissance italienne avait achevé la solution des équations
+générales du troisième et du quatrième degré, et la solution de l'équation
+du cinquième degré devait tenter l'ambition de tout jeune mathématicien.
+Gauss, il est vrai, était déjà parvenu à la conviction que cette solution
+est impossible au moyen de radicaux, mais il semble avoir été loin d'en
+pouvoir donner une démonstration. Abel, qui ne connaissait pas l'idée de
+Gauss, crut avoir trouvé la solution générale cherchée, et un mémoire à ce
+sujet fut envoyé par Hansteen à Degen, à Copenhague, avec la prière que
+Degen présentât ce travail de l'élève de l'école cathédrale de Kristiania
+à la Société danoise des sciences. Degen accepte la commission « avec
+plaisir », en considération de ce que le mémoire montre « une capacité
+exceptionnelle et des connaissances exceptionnelles », bien qu'il ne se
+sente pas assuré que le problème soit réellement résolu. Cette première
+connaissance avec Degen amena en l'été de 1823 une visite d'Abel à
+Copenhague, pour laquelle 100 speciedaler (environ 560 francs) lui furent
+remis par le professeur de mathématiques Rasmussen, nouveau trait de
+l'attention magnanime qui lui fut témoignée par les professeurs. A combien
+de professeurs d'université dans le Nord est-il arrivé de prendre
+l'initiative d'envoyer leur meilleur élève à un collègue de la même
+branche dans une autre université scandinave? A Copenhague, Abel ne trouva
+pas que les mathématiques fussent précisément « florissantes », et il ne
+réussit pas à « découvrir un seul étudiant qui soit un peu solide ». Degen
+lui-même était pourtant digne du plus grand respect: « C'est un diable
+d'homme, il m'a montré plusieurs de ses petits mémoires, et ils témoignent
+d'une grande finesse. »
+
+Les dames de Copenhague -- Abel est jeune et s'intéresse toujours aux
+dames, de même sans doute qu'elles s'intéressent à lui -- n'obtinrent
+qu'un éloge limité: « Les dames de la ville sont horriblement laides, et
+gentilles tout de même. »
+
+Ce fut alors, à Copenhague, qu'Abel fit connaissance avec Christine Kemp,
+plus tard sa fiancée. Ils se rencontrèrent à un bal. Abel, qui
+probablement la trouva « gentille », l'invita à danser, mais au moment de
+commencer, il se trouva qu'aucun des deux ne savait. Ils se mirent à
+causer, et de cette conversation devait résulter par la suite l'intimité
+cordiale, qui est un des points lumineux de la courte vie d'Abel.
+
+Degen avait une importante bibliothèque mathématique, et Abel la mit
+assidûment à profit. Abel, différant en cela de beaucoup d'autres
+mathématiciens, était un lecteur assidu des travaux des autres. Ceci
+s'applique particulièrement aux premières années, avant qu'il ne commençât
+véritablement à produire. Il eut de bonne heure un sentiment assez juste
+de sa propre importance pour vouloir, armé d'abord du meilleur savoir de
+l'époque, se présenter lui-même comme auteur. Ainsi s'explique la haute
+éducation universelle, la large vue sur tout le terrain parcouru, que nous
+trouvons chez lui dès les premiers débuts. Les registres des prêts,
+d'abord de l'école cathédrale, et ensuite de la bibliothèque de
+l'université de Kristiania, montrent l'étendue de ses lectures
+mathématiques, et aussi avec quelle sûreté de jugement il s'adressait
+toujours aux vieux auteurs classiques.
+
+Les premiers mémoires d'Abel sont écrits en norvégien, mais il commença
+peu après son retour du voyage de Copenhague à écrire en français, même
+lorsqu'il ne rédigeait que pour lui-même. Les notes d'études montrent qu'à
+l'école il était un élève médiocre en français. Il comprit que, en
+possession de tout l'essentiel des connaissances mathématiques de son
+temps, il était appelé à devenir le grand mathématicien deviné par
+Holmboe, mais qu'il avait besoin pour cela d'une autre langue que la
+langue maternelle, et il apprit le français vite et bien. Qu'il choisît le
+français et non le latin, dont la situation comme langue de la science,
+bien que les principaux chefs-d'oeuvre de Gauss fussent encore écrits en
+latin, déjà touchait à sa fin, est une preuve de plus de la sûreté de son
+jugement. C'est aussi en français qu'il rédigea le mémoire disparu
+« Intégration de différentielles », qui doit renfermer les premiers traits
+de ses plus grandes découvertes analytiques. Ce mémoire excita
+l'admiration des professeurs de Kristiania, et fut envoyé par le collège
+académique au ministère de l'Instruction publique, avec cette indication,
+qu'un séjour à l'étranger pourrait être utile pour l'avenir d'Abel, et le
+désir qu'une bourse convenable lui fût accordée. Le ministère de
+l'Instruction publique, sans exprimer d'opinion propre, demanda l'avis du
+ministère des Finances. Le ministère des Finances, où devait régner cette
+conception, si répandue chez les hommes d'argent, que le rôle d'un
+financier est de donner de bons conseils plutôt que de l'argent, ne se
+contente pas de donner un avis financier, mais répond qu'il trouve Abel
+beaucoup trop jeune pour être déjà envoyé à l'étranger, et qu'il serait
+meilleur pour lui de recevoir une bourse d'une année afin de pouvoir se
+développer à l'université nationale dans les langues et autres sciences
+accessoires. Le ministère était en état de fournir les moyens. Le
+ministère de l'Instruction publique demande alors au collège académique
+son opinion sur la proposition du ministère des Finances. Le collège
+académique se rend, et explique qu'Abel est certainement déjà assez avancé
+en humanités, et que toutefois peut-être il pourrait être utile pour lui
+de rester encore quelques années à l'université, et de consacrer ces
+années « à une étude plus approfondie des langues savantes ».
+Naturellement, le temps des langues savantes comme langues de la science
+était passé, Abel le savait, mais comment un pareil fait aurait-il pu être
+connu du collège académique? Les collèges académiques en sont restés au
+même point beaucoup plus tard. M. Stoermer a eu le mérite de mettre au
+jour cet échange de notes, empreintes de ridicule et lamentables: il
+suffit de songer que ceci avait lieu en l'an de grâce 1824, l'année même
+ou Abel, âgé de vingt-deux ans, est devenu d'un coup le plus grand penseur
+que le Nord eût produit jusqu'alors, le plus grand fils de sa patrie, et
+l'un des premiers mathématiciens de tous les temps et de tous les pays:
+ceci apparaissait probablement déjà dans le mémoire sur les
+différentielles, mais de façon certaine dans son mémoire, composé la même
+année: « Mémoire sur les équations algébriques où on démontre
+l'impossibilité de la résolution de l'équation générale du cinquième
+degré. »
+
+Il est hors de doute qu'Abel avait trouvé bien vite la faute qui se
+trouvait dans son travail d'écolier, cette solution de l'équation du
+cinquième degré, qui avait tant intéressé Degen; mais au lieu d'abandonner
+le problème comme désespéré, il s'attaqua, avec l'intrépidité
+imperturbable de la jeunesse, à la tâche que les forces d'un Gauss
+n'avaient pu maîtriser, à celle de trancher si le problème était
+décidément soluble, s'il est décidément possible de résoudre l'équation du
+cinquième degré au moyen de radicaux. La réponse fut négative, et la
+démonstration d'Abel pourrait être considérée comme le fondement même de
+l'algèbre après lui. Le mémoire parut en tirages à part d'une demi-
+feuille, et, pour économiser sur la dépense d'impression, couverte par
+Abel lui-même, avec la rédaction la plus concise et sous la forme la plus
+pauvre. Il fut publié par la même maison qui plus tard donna les deux
+magnifiques éditions des oeuvres complètes d'Abel.
+
+Les années 1824 et 1825 furent consacrées à un travail sans répit. Les
+manuscrits qui datent de cette époque, et qui furent publiés plus tard,
+sont tous de la plus haute importance, et contiennent la preuve suffisante
+que les grandes lignes d'à peu près toutes les plus grandes découvertes
+d'Abel étaient alors déjà établies. Il raisonnait sans doute à ce moment
+comme sur les bancs de l'école, lorsqu'il s'agissait de la composition
+latine de Riddervold, et, parmi les « sciences accessoires », il n'y avait
+guère que le français auquel il accordât quelque attention. Vers l'automne
+de 1825, le désir de voyager le reprit fortement, et il demanda lui-même
+alors une bourse de voyage de deux ans. Il dit dans sa pétition:
+
+    Dès mes premières années d'école j'ai étudié les mathématiques avec
+    grand plaisir, et j'ai continué cette étude pendant les deux premières
+    années que j'ai passées à l'Université. Mes progrès non sans succès
+    ont amené le conseil académique à me recommander pour la subvention
+    qu'il a plu gracieusement à Votre Majesté de m'accorder sur le Trésor,
+    pour que je puisse continuer mes études à l'Université norvégienne, et
+    en même temps cultiver davantage les langues savantes. Depuis lors
+    j'ai, du mieux que j'ai pu, conjointement aux sciences mathématiques,
+    étudié les langues anciennes et modernes, parmi ces dernières
+    particulièrement le français. Après m'être ainsi efforcé grâce aux
+    ressources actuelles dans le pays, de me rapprocher du but assigné, il
+    me serait extrêmement utile, par un séjour à l'étranger près de
+    plusieurs universités, surtout à Paris, où il se trouve aujourd'hui
+    tant de mathématiciens éminents, d'apprendre à connaître les
+    productions les plus récentes de la science, et de profiter des
+    indications des hommes qui l'ont portée de notre temps à une si grande
+    hauteur. J'ose donc, en raison de ce qui précède, et des attestations
+    ci-jointes de mes supérieurs, prier très humblement Votre Majesté
+    qu'il me soit accordé gracieusement une bourse de voyage de 600
+    species (3.360 francs) d'argent par an, pour continuer pendant deux
+    ans, à Paris et à Göttingen, à cultiver les sciences mathématiques.
+
+Hansteen ajoute sa recommandation à la pétition d'Abel:
+
+    ... Pendant le temps qu'il a ainsi, et surtout grâce à la subvention
+    de Votre Majesté, passé à l'Université, il a, dans plusieurs mémoires
+    publiés dans _le Magasin pour les Sciences physiques et naturelles_,
+    qui est édité ici, et plus encore par un travail plus important, non
+    encore imprimé, relatif à un perfectionnement de méthode dans le
+    calcul intégral, donné des preuves d'une ardeur et d'une puissance de
+    travail rares, en même temps que de capacités exceptionnelles. Son
+    caractère et sa moralité méritent un éloge égal, ce dont j'ai eu
+    occasion de me convaincre par mes relations personnelles avec lui.
+    Comme quelques indications des hommes les plus éminents dans une
+    science ont souvent plus d'influence que la lecture prolongée des
+    livres, je crois qu'un séjour de deux ans parmi les mathématiciens les
+    plus éminents de notre temps serait pour M. le candidat [Note:
+    Titre qui désigne l'étudiant ayant passé _l'examen philosophicum_.]
+    Abel extrêmement profitable, et que la patrie, dans ces conditions,
+    aura l'espoir le plus fondé de gagner en lui un savant dont elle aura
+    honneur et profit.
+
+Par une résolution royale du 27 août 1825, la demande d'Abel fut accordée.
+Il y a peu d'actes gouvernementaux, dans l'histoire des pays scandinaves,
+dont les conséquences aient été plus grandes pour la science.
+
+Bjerknes décrit de la manière suivante l'aspect extérieur d'Abel,
+lorsqu'il quitta son pays:
+
+    Abel avait des traits réguliers, on peut même dire vraiment beaux; son
+    regard et ses yeux étaient d'une beauté peu commune; mais un teint
+    pâle, sans fraîcheur et sans éclat, ternissait l'agrément de sa
+    figure. On était frappé de la conformation particulière de la tête
+    avec son ovale saillant; le crâne fortement développé semblait
+    témoigner d'une intelligence extraordinaire. Sur son front haut et
+    large, caché en partie par sa chevelure tombante, régnait une
+    expression méditative. Un sentiment de bienveillance était empreint
+    sur son visage.
+
+Il existe un seul portrait original d'Abel certain. C'est un dessin à
+l'encre de Chine et au crayon, fait à Paris en 1826 par l'ami d'Abel, le
+peintre norvégien Goerbitz [Note: L'original est la propriété de Mme
+Thekla Lange, nièce d'Abel. Il a été photographié en 1882 à Stockholm, et
+une reproduction de cette photographie figure en tête de la revue
+mathématique scandinave, _Acta mathematica_, qui ainsi, quatre-vingts ans
+après la mort d'Abel, fit son entrée dans le monde sous son égide.
+L'original a été gravement abîmé par des taches d'humidité, qui s'étendent
+de plus en plus.]. Personne, en voyant le dessin de Goerbitz, ne peut
+méconnaître qu'il représente un jeune homme très exceptionnellement doué.
+De stature, Abel ressemblait, paraît-il, à son père, et il est par suite
+intéressant, pour le sculpteur qui sera chargé d'exécuter sa statue, qu'il
+existe une silhouette du père en pied.
+
+Les amis de jeunesse d'Abel le dépeignent, à partir de cette période de sa
+vie, d'humeur sombre, mais en même temps vif et gai avec ses camarades. Il
+était aimé de tous, avait partout des amis et jamais aucun ennemi. En
+société, très vif, et joueur presque comme un enfant, tantôt piquant et
+pittoresque en ses expressions, tantôt sensible et tendre, il éveillait la
+sympathie de tous, même après la connaissance la plus fugitive. Il semble
+à un degré rare avoir été simplement homme parmi les hommes, et libre de
+tout conventionnalisme. Il conserva toujours, par exemple, le tutoiement
+de l'enfance, même à l'égard d'étrangers. Il est d'ailleurs évident que
+pendant sa jeunesse -- et il ne fut jamais autre chose que jeune -- ses
+pensées géniales et puissantes ne pouvaient suivre le courant d'une
+existence parfaitement réglée. La nuit devenait jour, et le jour était
+nuit, et les pensées étaient jetées dans les cahiers de notes quand et
+comme elles venaient. Puis il y avait des périodes de dépression et de
+fatigue. Il pouvait rester des jours entiers seul, silencieux, maussade,
+et complètement inactif. Si on lui demandait ce qu'il avait, il répondait:
+« Je suis sombre. » Puis venaient d'autres jours pleins d'entrain. A
+Berlin, au- dessus de la colonie norvégienne à laquelle appartenait Abel,
+n'habitait rien de moins que le philosophe Hegel. Ayant demandé quels
+étaient ces gens dont le tapage dérangeait son travail, on lui dit que
+c'étaient des « dänische Studenten ». Il paraît qu'il répondit: Ce ne sont
+pas des Danois, mais des ours russes. « Nicht Dänen, es sind russische
+Bären. »
+
+Le physiologue Chr. Boeck, dont je fis la connaissance en sa vieillesse,
+m'a rapporté qu'à l'époque où il habitait avec Abel dans la même chambre à
+Berlin, il ne se passait guère de nuit sans qu'Abel allumât la lumière en
+pleine nuit, sautât hors du lit, et se mît à écrire ou à calculer. Une
+fois il était resté plus longtemps que d'habitude à la table, et il
+raconta le lendemain à Boeck que c'était une question mathématique dont il
+avait cherché la solution pendant des mois sans avancer, qui tout à coup
+s'était éclaircie pour lui lorsqu'il s'était réveillé dans la nuit.
+C'était cette question qu'il avait notée. Mais pour Boeck, de même que
+pour ses autres amis, les pensées d'Abel, ce qu'il y avait de plus profond
+dans sa vie, sa véritable grandeur, étaient un livre fermé, et Boeck
+n'avait aucune idée de la découverte que cette nuit a donnée à la science.
+
+Avant de partir, Abel, avec une attention touchante, prit des mesures en
+faveur de son frère, son camarade de lit du Regentsen, pour qui il déposa
+une somme d'argent, prise sur son strict nécessaire, et de sa soeur, qu'il
+réussit à retirer de chez sa mère, et à placer dans le meilleur entourage
+à Kristiania. Il est curieux de voir l'adresse d'homme du monde et
+l'énergie qu'il savait déployer lorsqu'il s'agissait de ceux qui lui
+étaient chers. Le voyage commença dans les premiers jours de septembre, en
+compagnie de quelques autres jeunes gens, qui avaient aussi obtenu des
+bourses de voyage, et qui plus tard, sans toutefois atteindre, il s'en
+fallut de beaucoup, la grandeur d'Abel, se sont acquis une place glorieuse
+dans l'histoire savante de la Norvège. Après une courte visite chez
+Christine Kemp, qui était restée comme gouvernante dans une famille
+norvégienne à Soon, sur le fjord de Kristiania, et qui était devenue la
+fiancée d'Abel depuis deux ans, le voyage continua par Hambourg sur Berlin
+avec les amis. L'intention d'Abel avait été d'aller à Goettingen chez
+Gauss, le grand solitaire, lequel, alors âgé de quarante-huit ans, était
+depuis sa vingt- quatrième année et la publication des _Disquisitiones
+arithmeticae_, le « princeps mathematicorum », mais la crainte d'Abel de
+se trouver sans compagnie modifia ses plans, et il accompagna les autres à
+Berlin. Abel n'alla pas davantage plus tard à Goettingen. Gauss y vivait
+dans sa grandeur, seul, admiré, mais à peu près incompris. La distance
+entre lui et ses collègues mathématiciens allemands de l'époque était
+aussi grande que la distance entre le jour et les ténèbres, entre le
+savoir et le préjugé. Paris était le centre mathématique du temps, et les
+intelligences mathématiques les plus hautes y étaient réunies. Gauss
+d'ailleurs n'éprouvait aucun désir de s'entourer d'élèves ou de s'occuper
+activement à dissiper la nuit nationale. Il lui suffisait de publier de
+temps en temps, après des années de préparation, un de ces chefs-d'oeuvre
+incomparables par la forme et le contenu, qui à jamais, tant que sur la
+terre une race d'hommes vivra, où se formeront des intelligences capables
+d'apprécier les créations de la pensée pure, seront comptés parmi les plus
+précieux trésors de la civilisation. Il était bien aussi pour ses
+contemporains allemands le grand Gauss, mais il l'était pour ses
+applications des mathématiques aux problèmes astronomiques et physiques.
+Comment il concevait lui-même le rapport entre l'application et la
+théorie, cela ressort de sa réponse indignée à un verbiage admiratif sur
+l'importance astronomique de ses travaux, où il déclara que c'était la
+partie arithmétique du travail qui l'intéressait, et non « ces boules de
+boue que l'on appelle des planètes » (_diese Dreckklumpen, die man
+Planeten nennt_). Ses travaux de mathématique pure étaient dans l'opinion
+allemande commune _Gräuel_ [Note: Une horreur.], car la forme, sans égard
+pour le goût et les erreurs de l'époque, n'avait d'autre objet que de
+refléter avec une clarté translucide la profondeur de la pensée achevée.
+Abel ne se méprit pas sur la grandeur de Gauss, mais, jeune et
+inexpérimenté comme il l'était, il se laissa effrayer à l'idée de lui
+rendre visite par les récits sur son orgueil et son inabordabilité,
+particularités que la sottise et le préjugé attribuaient alors, comme
+aujourd'hui et comme toujours, à l'homme vraiment supérieur. Si Abel avait
+vécu plus longtemps, il faudrait regretter amèrement qu'il ait été
+détourné de son projet d'aller voir Gauss. Il ne fit jamais connaissance
+avec aucun homme de ce rang, car la présentation rapide à quelques-uns des
+coryphées de la mathématique à Paris ne peut entrer ici en ligne de
+compte. L'imagination se plaît à se représenter les résultats possibles
+d'un échange personnel de vues entre un Abel et un Gauss. Cependant, comme
+il devait mourir si jeune, une visite à Goettingen aurait probablement
+diminué sa place dans l'histoire des mathématiques. Il aurait trouvé Gauss
+depuis des années en possession de quelques-unes de ses propres
+découvertes, non les moindres, surtout en possession de la théorie des
+fonctions elliptiques, et la postérité n'aurait pu, après cela, savoir ce
+qui appartenait primitivement à Abel, et ce qu'il aurait appris de Gauss.
+
+A Berlin il avait une lettre d'introduction auprès de Auguste Léopold
+Crelle, homme important, de mérite, et qui occupait une haute situation
+sociale, « Geheime-Oberbaurath », constructeur de plusieurs des routes les
+plus importantes de la Prusse ainsi que de ses premiers chemins de fer,
+autodidacte comme mathématicien, mais pénétré avec la plus sincère
+conviction de l'importance des mathématiques dans la vie et du désir le
+plus vif de les répandre plus largement dans le public. Abel, dans une
+lettre à Hansteen, rend compte de sa visite à Crelle:
+
+    Ce fut long, avant que je pusse lui faire bien comprendre le but de ma
+    visite, et le résultat semblait devoir être lamentable, lorsque je
+    pris courage à sa question sur ce que j'avais déjà étudié en
+    mathématiques. Quand je lui eus cité quelques travaux des
+    mathématiciens les plus éminents, il devint tout à fait empressé, et
+    parut vraiment enchanté. Il engagea une longue conversation sur
+    diverses questions difficiles qui n'étaient pas encore résolues, et
+    nous en vînmes à parler des équations de degré supérieur; lorsque je
+    lui dis que j'avais démontré l'impossibilité de résoudre l'équation
+    générale du 5e degré, il ne voulut pas le croire, et dit qu'il y
+    ferait des objections. Je lui remis donc un exemplaire; mais il dit
+    qu'il ne pouvait comprendre la raison de plusieurs de mes conclusions.
+    Plusieurs autres m'ont dit la même chose, aussi j'ai entrepris une
+    refonte de ce travail.
+
+Weierstrass m'a rapporté que Crelle lui avait raconté cette première
+visite un peu autrement, bien que les traits essentiels soient les mêmes.
+Crelle, à l'époque de la visite d'Abel, était examinateur au _Gewerbe-
+Institut_ de Berlin, métier qui ne lui plaisait guère. Un beau jour, entre
+dans sa salle un jeune homme blond, d'aspect très embarrassé, très
+juvénile et très intelligent. Crelle pensa qu'il désirait passer l'examen
+pour entrer au _Gewerbe-Institut_, et lui expliqua qu'il fallait pour cela
+une foule de formalités. Alors enfin le jeune homme ouvrit la bouche, et
+dit: « Nicht examen, nur Mathematik. » Crelle sentit qu'il devait avoir
+affaire à un étranger, essaya de parler français, et il se trouva qu'Abel
+le parlait bien, quoique aussi avec quelque difficulté. Crelle l'ayant
+questionné sur ses études, il dit qu'entre autres, il avait lu le travail
+de Crelle lui-même, paru récemment, en 1823, sur les _Analytische
+Facultäten_, lequel, malgré de nombreuses erreurs, l'avait vivement
+intéressé. A la mention des nombreuses erreurs, Crelle ouvrit de grandes
+oreilles, et la conversation suivit, qui devait conduire plus tard à des
+relations si étroites entre Crelle et Abel. De même que précédemment
+Holmboe, et plus encore, Hansteen, Crelle aussi était loin d'être en état
+de comprendre les travaux d'Abel. Il en a lui-même fourni une preuve
+péremptoire. Le travail d'Abel sur la série du binôme fut publié dans le
+premier volume du propre journal de Crelle, traduit en allemand par Crelle
+lui-même sur le manuscrit français d'Abel. Ceci n'a pas empêché Crelle,
+après la mort d'Abel, de publier dans les quatrième et cinquième volumes
+de son Journal, un mémoire sur le même sujet, où il s'en tient absolument
+aux vieilles conceptions anté-abéliennes, et se montre parfaitement
+inconscient de ce fait, que la question a été définitivement résolue par
+Abel. Mais si Crelle, pas plus que les amis norvégiens d'Abel, ne comprit
+ses travaux, il comprit du moins le génie d'Abel, et, l'ayant compris, il
+devint l'ami utile et le protecteur d'Abel. Dès la première visite d'Abel,
+Crelle avait parlé de son projet de publier une grande revue mathématique
+allemande. Les relations avec Abel et la perspective de sa collaboration
+hâtèrent la réalisation du projet. Le premier fascicule du _Journal für
+die reine und angewandte Mathematik_, la grande oeuvre de Crelle, qui
+depuis a déjà atteint son 124e volume, parut en février 1826. Le premier
+volume contient déjà sept mémoires divers d'Abel. Ils avaient été rédigés
+en français, mais traduits par Crelle en allemand. L'occasion s'était
+ainsi offerte à Abel de faire connaître ses découvertes, par un organe
+international, aux mathématiciens contemporains. Mais que le Journal de
+Crelle soit devenu un organe international, qui a eu pendant longtemps une
+situation prépondérante parmi les publications mathématiques, le mérite en
+appartient essentiellement à Abel, dont les travaux, dès le premier
+moment, ont placé la revue au plus haut rang possible. Pendant l'hiver
+1825-1826 commença pour Abel un temps de production sans répit et de
+grande joie créatrice. Sa plume ne faisait que passer d'un travail à un
+autre. Au fond, la plus grande partie était achevée, au départ de
+Kristiania, mais la mise en oeuvre pour l'impression eut lieu à Berlin.
+Cependant la mélancolie et la nostalgie l'assiègent souvent. Il écrit à sa
+maternelle amie Mme Hansteen le 8 décembre 1825:
+
+    Je vis d'ailleurs d'une manière extrêmement calme et je suis assez
+    occupé; mais j'ai par moments une nostalgie terrible, d'autant plus
+    grande que les nouvelles de chez nous sont d'une rareté navrante.
+
+Et le 16 janvier 1826:
+
+    C'est si singulier de se trouver au milieu d'étrangers. Dieu sait
+    comment je le supporterai lorsque je me séparerai de mes compatriotes.
+    Ce sera au commencement du printemps.
+
+Ses distractions étaient le théâtre, qu'il aimait fort, et la vie de
+société chez Crelle. Il raconte à Mme Hansteen:
+
+    A Noël, j'ai été au bal chez le conseiller privé Crelle, mais je n'ai
+    pas osé danser, bien que j'eusse soigné ma toilette comme je ne
+    l'avais jamais fait. Pensez, j'étais tout neuf de la tête aux pieds,
+    avec double gilet, col empesé et lunettes. Vous voyez que je commence
+    à suivre les conseils de votre soeur Charite, j'espère que ce sera
+    complet quand j'arriverai à Paris.
+
+Le coeur tendre d'Abel ne semble pas, malgré les fiançailles avec Kristine
+Kemp, avoir été insensible au charme de Charite, « la charmante, la toute
+bonne Charite », dit-il dans une autre lettre.
+
+Peu de temps après le départ d'Abel de Kristiania, eut lieu dans son pays
+un drame universitaire qui eut une grande importance pour son court
+avenir. Le professeur de mathématiques, Rasmussen, avait pris sa retraite,
+et il s'agissait de lui désigner un successeur. Dès le 6 décembre 1825, la
+Faculté propose pour ce poste l'ami et le maître d'Abel, Holmboe. En même
+temps la Faculté attire toutefois « l'attention sur l'étudiant N. Abel,
+comme un homme qui, tant par son talent pour les mathématiques que par ses
+grandes connaissances dans cette science, pourrait entrer en ligne de
+compte pour la nomination audit poste, mais que l'on ne pourrait sans
+dommage pour l'avenir de ses études faire revenir maintenant de son voyage
+à l'étranger, qu'il vient d'entreprendre, et qui ne paraît pas pouvoir
+s'adapter aussi aisément à la capacité des jeunes étudiants, qu'un maître
+plus exercé ».
+
+La manière de raisonner de la Faculté est aussi habituelle qu'elle est
+radicalement fausse. Le point de départ est que la médiocrité pourra plus
+facilement que le génie s'adapter aux capacités des jeunes étudiants. Il
+n'existe aucun mathématicien qui surpasse Abel pour la clarté et
+l'élégance du style, pour l'habileté à présenter d'une manière simple même
+les pensées les plus profondes et les plus difficiles, et il n'est pas
+nécessaire d'être grand connaisseur de son oeuvre pour être intimement
+persuadé qu'il aurait su enseigner comme personne. Il était mal compris
+des anciens, dont les conceptions mathématiques étaient fixées; déraciner
+des préjugés et élucider des conceptions établies, mais obscures, est une
+tout autre tâche que d'exposer la vérité depuis le commencement. Pourquoi
+les « capacités des jeunes étudiants » seraient-elles inférieures à celles
+des anciens? C'est le contraire qui se produit le plus souvent. Tout
+mathématicien véritable sait combien il est plus difficile de corriger des
+étudiants âgés, qui ont déjà suivi une école médiocre ou mauvaise, que des
+jeunes, dont l'intelligence n'a pas encore été troublée par des doctrines
+obscures. Il est intéressant, à titre de rapprochement, de citer une
+remarque de Weierstrass, le plus grand disciple d'Abel, le plus grand
+mathématicien de la seconde moitié du siècle. Il écrivait à Sonia
+Kowalewski le 27 août 1883: « Aussi ai-je renoncé depuis longtemps à faire
+pénétrer mes recherches scientifiques parmi mes collègues âgés; c'est à la
+jeunesse que je me suis adressé, et près d'elle j'ai trouvé fréquemment
+compréhension et adhésion enthousiaste. »
+
+Et Elling Holst écrit:
+
+    Cette proposition de la Faculté fut le chemin de la croix dans la vie
+    d'Abel. Il fut voué depuis lors à vivre sur ses propres ressources,
+    pauvrement, endetté, homme que l'on oublie, à qui l'État ne songea que
+    tard, pour lui donner une situation inférieure, et dont la nation
+    n'apprit que peu à peu à comprendre la valeur, lorsque nous l'eûmes
+    perdu.
+
+Il serait toutefois très injuste de juger la Faculté trop sévèrement pour
+sa fatale proposition. Elle raisonnait comme la plupart des gens, et
+d'autres Facultés auraient certainement agi de la même manière. Abel
+n'avait pas plus de vingt-trois ans, il avait l'avenir pour lui, et la
+Faculté ne pouvait prévoir qu'il n'avait plus que trois ans à vivre.
+Holmboe était un homme d'honneur, et de grand mérite, et il avait été le
+maître d'Abel. Holmboe fut nommé le 4 février 1826. Dès le 16 janvier,
+Abel avait reçu la nouvelle que la nomination de Holmboe était assurée. Il
+était en train de lui écrire une lettre où il lui faisait les plus
+remarquables communications mathématiques:
+
+    Pour montrer par un exemple général (_sit venia verbo_) combien on
+    raisonne mal et combien il faut être prudent, je choisirai l'exemple
+    suivant: -- J'en étais là lorsque Maschmann est entré, et comme depuis
+    longtemps je n'ai pas reçu de lettre de chez nous, je me suis arrêté
+    pour m'informer s'il n'en avait pas une pour moi (c'est lui en effet
+    qui nous les apporte toujours), mais il n'y avait rien. Par contre, il
+    avait lui-même reçu une lettre, et, entre autres nouvelles, il a
+    raconté que toi, mon ami, tu es nommé lecteur à la place de Rasmusen.
+    Reçois mes félicitations les plus sincères, et sois assuré qu'aucun de
+    tes amis ne s'en réjouit autant que moi. J'ai souvent souhaité un
+    changement dans ta situation, tu peux me croire, car être professeur
+    dans une école doit être quelque chose d'affreux pour quelqu'un comme
+    toi, qui t'intéresses tant à la science. A présent, il va falloir que
+    tu t'occupes de trouver une fiancée, n'est-ce pas. On me dit que ton
+    frère le doyen en à trouvé une. Je ne puis nier que cela m'a vivement
+    frappé. Salue-le bien de ma part, et félicite-le très chaudement. --
+    Et maintenant je reviens à mon exemple...
+
+Pour bien comprendre ce qu'il y a de grand dans la manière dont Abel
+reçoit la nouvelle, il faut se rappeler qu'il était tourmenté d'inquiétude
+sur son propre avenir et de nostalgie. Il voulait être mathématicien, et
+rien d'autre, et il voulait rentrer au pays, mais ne voyait pas comment le
+pays pourrait lui procurer, à lui et à sa Christine, le plus modeste
+gagne-pain.
+
+L'ami et compagnon de voyage le plus intime d'Abel, le minéralogiste
+Keilhau, plus tard bien connu, était venu à Berlin à la Noël. En février
+il retourna à Freiburg, qui était son véritable centre, et Abel résolut de
+l'y accompagner pour revenir plus tard à Berlin. Abel profita du calme et
+de la tranquillité de Freiburg pour y composer un nouveau travail, mais du
+retour à Berlin il ne fut plus question pour cette fois. Le 29 mars nous
+le trouvons à Dresde, et il raconte alors dans une lettre à Hansteen:
+
+    Vous écrivez dans votre lettre à Boeck que vous vous demandez ce que
+    je veux faire à Leipzig et aux bords du Rhin, mais j'aimerais savoir
+    ce que vous direz, si je vous raconte maintenant que je vais aller à
+    Vienne et en Suisse. J'avais d'abord pensé aller directement de Berlin
+    à Paris, ce que j'espérais faire en compagnie de Crelle, mais il a eu
+    des empêchements, et j'aurais donc voyagé seul. Or je suis ainsi fait
+    que je ne supporte pas du tout, ou du moins très difficilement, d'être
+    seul. Je deviens alors tout triste, et je ne suis pas alors dans la
+    meilleure disposition pour faire quelque chose. Je me suis donc dit
+    que le mieux était de partir avec Boeck, etc., pour Vienne, et je peux
+    aussi justifier cela, ce me semble, puisqu'à Vienne il y a Littrow,
+    Burg, et d'autres. Ce sont vraiment des mathématiciens distingués, et
+    à cela s'ajoute que je ne voyagerai guère qu'une fois dans ma vie.
+    Peut-on me reprocher de désirer aussi voir quelque chose de la vie et
+    des manières du Sud. Je peux aussi travailler assez bien pendant ce
+    voyage. Une fois à Vienne, pour aller à Paris, la ligne droite
+    traverse presque la Suisse. Pourquoi n'en verrais-je pas aussi quelque
+    chose? Pardieu! Je ne suis pourtant pas tout à fait dénué du sens des
+    beautés de la nature. Le voyage entier me fera arriver à Paris deux
+    mois plus tard, et cela n'a pas d'importance. Je rattraperai bien
+    cela. Ne croyez-vous pas qu'un tel voyage me fera du bien? De Vienne à
+    Paris je voyagerai probablement en compagnie de Keilhau. Alors nous
+    nous mettrons furieusement au travail. Je pense que ça ira bien.
+
+
+Il faut sans doute voir dans le rapide éloge de Littrow et de Burg plutôt
+une tendance à se placer au point de vue mathématique particulier de
+Hansteen, et un désir de disposer celui-ci favorablement pour son voyage,
+qu'une opinion personnelle d'Abel sur ces mathématiciens peu importants.
+Königsberger m'a raconté au sujet de Burg une anecdote caractéristique.
+Burg, qui était né en 1797, ne mourut qu'en 1882. Lorsque Königsberger fut
+nommé en 1877 professeur de mathématiques à l'Université de Vienne, il fit
+entre autres une visite à Burg, qui dans l'opinion commune avait une haute
+situation comme mathématicien. Au cours de la conversation, Burg raconta:
+« Un jour, je reçus la visite d'un jeune homme, Abel, qui voulait avoir ma
+collaboration pour une revue mathématique dont on lui offrait la
+direction. L'homme me paraissait certes intelligent, mais je ne pouvais
+confier _mes_ travaux à un semblable débutant. _Savez-vous ce qu'il est
+devenu? Et son journal?_ »
+
+Que la science mathématique, depuis un demi-siècle, eût été fondée sur
+Abel et ses découvertes, et que le _Journal für die reine und angewandte
+Mathematik_ eût été pendant toute cette période le principal ou l'un des
+principaux organes pour la production mathématique, tandis que les propres
+travaux de Burg étaient à jamais laissés dans l'oubli, cela avait
+complètement échappé au grand homme. On trouve en tous pays et en tous
+temps, et non pas seulement dans les petits pays et aux époques ternes,
+des grandeurs locales de cette sorte, dont l'influence sur les milieux
+scientifiques dans leur pays sont en rapport inverse avec leur importance
+scientifique véritable.
+
+Le 16 avril Abel était à Vienne, et il écrivait à Holmboe:
+
+    Tu trouves sans doute que c'est mal de gaspiller tant de temps en
+    voyage, mais je ne crois pas que cela puisse s'appeler gaspiller. Dans
+    un pareil voyage on apprend bien des choses curieuses qui peuvent
+    m'être plus utiles que si j'étudiais les mathématiques sans reprendre
+    haleine. Et puis tu sais qu'il me faut toujours des périodes de
+    paresse, pour pouvoir prendre de nouveau mon élan avec des forces
+    nouvelles. Quand j'arriverai à Paris, ce qui arrivera vers juillet ou
+    août, je me mettrai au travail avec fureur. J'étudierai et j'écrirai.
+    J'achèverai...
+
+A Vienne comme à Berlin, il fréquenta les théâtres assidûment:
+
+    Un théâtre hors ligne est vraiment un plaisir tout à fait exquis.
+    C'est une chose qui nous manque absolument, et que sans doute nous
+    n'aurons jamais. Il est bon d'y aller aussi pour la langue. On y
+    entend la plus pure et la meilleure. Je peux dire que ce que je sais
+    d'allemand je l'ai appris aux théâtres de Berlin, car en dehors de
+    cela, je n'ai eu que très peu d'occasions d'en entendre. Maintenant ça
+    va très bien et je peux me débrouiller partout sans difficulté.
+
+Il n'est pas facile de lire dans l'avenir, même pour un Abel. Moins de dix
+ans après que ces lignes étaient écrites, étaient nés les deux auteurs
+dramatiques norvégiens, qui plus que personne après Abel devaient donner à
+la Norvège sa situation dans la civilisation générale. Le jour même de son
+centenaire devait être fêté au théâtre national de la Norvège, devant une
+assemblée de mathématiciens de tous les pays, par une représentation
+hautement artistique de la création la plus admirable d'Ibsen, tandis que
+Bjoernson glorifiait sa mémoire dans un poème, le plus délicat et le plus
+profond qui jusqu'ici ait été consacré à un adepte de la science des
+nombres.
+
+Son voyage le conduisit ensuite dans le Tyrol, le nord de l'Italie, la
+Suisse, et à Paris, où il entra le 10 juillet. Il écrit à Hansteen:
+
+    Me voici enfin arrivé au foyer de tous mes voeux mathématiques, à
+    Paris. J'y suis déjà depuis le 10 juillet. Vous trouvez que c'est un
+    peu tard et que je n'aurais pas dû faire le long détour par Venise.
+    Cher Monsieur le professeur, cela me fait beaucoup de peine d'avoir
+    fait quelque chose qui n'a pas votre approbation; maintenant que c'est
+    fait, il faut que je me réfugie dans votre bonté, j'espère que vous
+    avez assez de confiance en moi pour croire qu'en somme j'emploierai
+    bien mon voyage. Certes, je le ferai. Pour mon excuse, je n'ai rien
+    d'autre à dire, sinon que mon désir était grand de regarder un peu
+    autour de moi: voyage-t-on uniquement pour étudier ce qui est
+    étroitement scientifique? Après cette excursion, je travaille avec
+    d'autant plus d'ardeur. A Botzen, j'ai quitté Moeller, Boeck et
+    Keilhau, et je suis parti pour Paris le plus vite possible.
+    D'Innsbrück j'ai été au lac de Constance et j'ai vu un peu de la
+    Suisse, me le reprocherez-vous? Cela m'a coûté deux jours et quelques
+    skillings de plus que la ligne droite. J'ai été par Zurich, Zug, le
+    lac des Quatre-Cantons et Lucerne à Bâle. J'ai été aussi sur le Rigi,
+    entre le lac de Zug et le lac des Quatre-Cantons, d'où l'on a la vue
+    la plus étendue de la Suisse. Je ne regrette vraiment pas ce petit
+    détour. De Bâle j'ai été en trois jours et quatre nuits d'un trait
+    jusqu'à Paris.
+
+Il se mit aussitôt à écrire un grand mémoire qu'il voulait présenter à
+l'Institut avant de faire ses visites aux mathématiciens. Il dit à
+Hansteen:
+
+    J'ai très bien réussi dans ce mémoire, qui contient beaucoup de choses
+    nouvelles, et qui mérite, je crois, d'être remarqué. _C'est la
+    première ébauche d'une théorie d'une infinité de transcendantes_
+    [Note: En français dans la lettre d'Abel.]. J'ai l'espoir que
+    l'Académie le fera imprimer dans les _Mémoires des savants étrangers_.
+
+Le mémoire fut en effet imprimé dans les _Mémoires des savants étrangers_,
+mais douze ans seulement après la mort d'Abel, et après des péripéties de
+toutes sortes. Il contient sa plus grande découverte, le théorème d'Abel,
+et il est la source même de la théorie des fonctions abéliennes, qui plus
+tard devait donner l'immortalité à Riemann et à Weierstrass. Le mémoire
+resta, oublié, parmi les papiers de Cauchy. Celui-ci, complètement absorbé
+par ses propres pensées géniales, et par une production dont l'étendue est
+à peu près unique dans l'histoire des mathématiques, n'avait guère le
+temps ni le désir de s'occuper des travaux des autres. Paris n'offrit pas
+à Abel, en somme, ce qu'il espérait. Il écrit à Hansteen:
+
+    Moeller rentrera bientôt au pays, il est fatigué de voyager, et je ne
+    peux pas dire autrement: je commence à sentir fortement la nostalgie.
+    D'autant plus que Paris ne sera certainement pas le séjour le plus
+    agréable: il y est si difficile d'y faire sérieusement connaissance
+    avec les gens. Ce n'est pas comme en Allemagne.
+
+Et à Holmboe:
+
+    D'ailleurs je n'aime pas autant le Français que l'Allemand: le
+    Français est extrêmement réservé à l'égard des étrangers. Il est très
+    difficile d'arriver à des relations intimes avec lui. Et je n'ose
+    espérer y parvenir. Chacun travaille à part sans s'occuper des autres.
+    Tous veulent instruire et personne ne veut apprendre. L'égoïsme le
+    plus absolu règne partout. La seule chose que le Français recherche
+    chez des étrangers, est le côté pratique; personne ne sait penser en
+    dehors de lui. Il est le seul qui sache produire quelque chose de
+    théorique. Telles sont ses idées, et dès lors tu peux, comprendre
+    qu'il est difficile d'attirer l'attention, surtout pour un débutant.
+
+A l'époque du voyage d'Abel, et encore longtemps après, Berlin n'était
+qu'une petite ville, et dans les villes universitaires allemandes
+l'université forme une petite ville dans la petite ville, avec sa vie
+propre. Une fois que l'on est introduit dans cette vie, on est membre
+d'une grande famille, une famille avec bien des dissensions, des
+inconvénients de toutes sortes, mais du moins une famille. Paris au
+contraire était la grande ville mondiale, dont le centre intellectuel
+était l'Institut; mais l'Institut, alors comme aujourd'hui, ne constituait
+qu'un lien très lâche entre les plus grandes intelligences reconnues de la
+France, qui vont, tous les jours de la semaine, sauf un, chacune son
+chemin, pour se réunir ce seul jour, choisir des délégués, et confirmer ce
+qu'ont résolu les délégués précédents. La haute considération sociale que
+la France accorde à ses grands hommes dans le monde de l'intelligence, et
+l'importance attribuée à un jugement de l'un de ces savants, les oblige
+aussi, poursuivis comme ils sont par des solliciteurs d'appréciations
+favorables venus de toutes les parties du monde, à observer une attitude
+très réservée, qui ne peut, à moins de circonstances très particulières,
+être modifiée qu'après une longue connaissance. Si toutefois Abel avait eu
+l'idée de suivre les leçons de Cauchy, et d'aller lui parler, à la sortie
+du cours, les choses se seraient certainement passées tout autrement. Les
+travaux de Cauchy ont été plus que d'autres le fil conducteur des travaux
+tant algébriques qu'analytiques d'Abel, et il est surprenant que deux tels
+hommes aient pu entrer en relations sans se pénétrer. Liouville, qui
+devait plus tard (en 1836) fonder la revue mathématique française,
+_Journal des mathématiques pures et appliquées_, longtemps la seule
+véritable rivale du _Journal de Crelle_, et qui, par ses recherches
+personnelles, a notamment acquis sa célébrité pour avoir, sur un point
+déterminé, continué l'oeuvre d'Abel, me déclara, lorsque je fis sa
+connaissance en 1873, que c'était un des plus grands malheurs de sa vie,
+d'avoir fait la connaissance d'Abel sans apprendre à le connaître. Il en
+fut de même avec les autres mathématiciens français, et Abel n'eut aucun
+autre bénéfice de son séjour à Paris que les travaux qu'il y composa lui-
+même, et sa lecture assidue de toutes les publications de Cauchy. Il dit à
+Holmboe:
+
+    Je mène d'ailleurs une existence très sage. Je travaille, je mange, je
+    bois, je dors, et je vais parfois à la comédie; c'est de tout ce qu'on
+    appelle plaisir le seul que je m'accorde, mais c'en est un grand. Je
+    ne connais pas de plus grand plaisir que de voir une pièce de Molière
+    où joue Mlle Mars. Alors je suis tout à fait ravi; elle a quarante
+    ans, mais elle joue tout de même des rôles très jeunes... Je vais
+    aussi de temps en temps au Palais-Royal que les Parisiens appellent un
+    « lieu de perdition ». On y voit en assez grand nombre des « femmes de
+    bonne volonté ». Elles ne sont nullement indiscrètes. Tout ce que l'on
+    entend est: « Voulez-vous monter avec moi, mon petit ami? petit
+    méchant! » [Note: En français dans le texte.] Naturellement, en ma
+    qualité de fiancé, etc., je ne les écoute pas, et je quitte le Palais-
+    Royal « sans la moindre tentation ». Il y en a beaucoup de fort
+    jolies. L'autre jour, j'ai été à un dîner diplomatique chez S. E. le
+    comte Löwenhjelm, où je me suis un petit peu grisé, ainsi que Keilhau,
+    mais très légèrement. Il est marié avec une jeune Française. Il a
+    raconté que tous les ans, le 24 décembre, il fait rouler sous la table
+    tous les compatriotes.
+
+La pensée de la situation de sa famille jetait comme toujours une ombre
+sur la vie d'Abel. Il écrit à sa soeur Elisabeth:
+
+    Tu te trouves bien, n'est-ce pas, au milieu des gens excellents chez
+    qui tu es; mais où en sont ma mère, mes frères. Je ne sais rien sur
+    eux. Il y a déjà longtemps que je n'ai écrit à ma mère. La lettre est
+    parvenue, je le sais, mais je n'ai rien reçu d'elle. Où est ... [Note:
+    Le frère qui devint prêtre par la suite], vit-il, et comment? Je suis
+    très inquiet de lui. Lorsque je suis parti, les choses ne
+    s'annonçaient pas bien pour lui. Dieu sait combien souvent j'ai été
+    triste à cause de lui. Il n'a sans doute pas beaucoup d'affection pour
+    moi; et cela me fait beaucoup de peine; car je n'ai jamais fait
+    volontairement rien qui puisse lui déplaire. Écoute, Elisabeth, écris-
+    moi tout au long sur lui, sur ma mère et mes frères.
+
+Il continue:
+
+    Ici à Paris ma vie est assez agréable. Je travaille assidument, je
+    visite de temps en temps les choses remarquables de la ville, et je
+    prends part aux divertissements qui me plaisent, mais quand même je
+    désire beaucoup rentrer au pays, et voudrais partir aujourd'hui si
+    c'était possible; mais il faut que je reste encore assez longtemps. Au
+    printemps je rentrerai. Il est vrai que je devrais rester à l'étranger
+    jusqu'en août prochain, mais je constate que je ne peux pas avoir
+    d'avantage sensible à rester plus longtemps exilé.
+
+Cependant sa caisse était presque vide, et Abel ne pouvait, faute
+d'argent, rester plus longtemps à Paris. Il quitta Paris pour retrouver
+Crelle à Berlin le 29 décembre 1826, et n'avait plus, en arrivant à
+Berlin, que 14 thalers. Il écrit de Berlin à Boeck, qui était alors à
+Munich, pour le prier de régler une petite dette, et raconte:
+
+    Il (Keilhau) voudrait retourner à l'étranger, et nous qui sommes ici
+    voudrions être rentrés au pays, c'est bizarre. Je crois tout de même
+    que l'étranger vaut mieux. Quand nous serons rentrés, nous penserons
+    sûrement comme Keilhau. Il te présage bien des ennuis quand tu seras
+    revenu. Ma situation sera la meilleure, dit-il, en apparence peut-
+    être, mais (entre nous soit dit) [Note: _Unter uns gesagt_ (en
+    allemand, dans le texte).], je prévois bien des ennuis d'ordre privé.
+    J'ai vraiment peur de l'avenir. J'aurais presque envie de rester pour
+    toujours ici en Allemagne, ce que je peux faire sans difficulté.
+    Crelle m'a terriblement poussé dans mes retranchements pour me faire
+    rester ici. Il est un peu fâché contre moi, parce que je refuse. Il ne
+    comprend pas ce que je veux faire en Norvège, qui lui paraît être une
+    autre Sibérie.
+
+Dans une lettre ultérieure, à Boeck également, il dit:
+
+    En mai je partirai donc d'ici par nécessité (sa bourse était tout à
+    fait vide) et sans déplaisir. Hansteen croit que je serai nommé à
+    l'Université quand je reviendrai. Mais il a été aussi question de me
+    torturer pendant une année dans une école. Si on veut faire cela, je
+    ne marcherai pas plus qu'un âne.
+
+Il reçut alors quelque argent de Holmboe, 293 marks. Il écrit le 4 mars
+1827:
+
+    Cela m'a rendu un grand service, car j'étais plus pauvre qu'un rat
+    d'église. Maintenant je vais vivre ici là-dessus aussi longtemps que
+    je pourrai, puis je filerai vers le nord. Je resterai un moment à
+    Copenhague, où ma fiancée viendra me rejoindre, puis au pays, où
+    j'arriverai si dénué que je serai bien obligé de tendre la main à la
+    porte de l'église. Je ne me laisse pourtant pas abattre; je suis si
+    bien habitué à la misère et au dénuement. Ça ira toujours.
+
+On trouve dans la même lettre:
+
+    ... Mais cela, il faut que je le garde jusqu'à mon retour pour te le
+    faire connaître. Au total j'ai fait une masse effrayante de
+    découvertes. Si seulement je les avais mises en ordre et rédigées, car
+    la plupart ne sont encore que dans ma tête. Il n'y a pas à penser à
+    quoi que ce soit avant que je sois installé convenablement chez nous.
+    Alors il me faudra travailler dur comme un cheval de fiacre; mais avec
+    plaisir, bien entendu.
+
+Et plus loin:
+
+    Il me tarde de rentrer au pays, car je ne peux guère avoir d'avantage
+    à rester ici. Quand on est chez soi, on se fait de l'étranger de
+    diables d'idées, autres qu'il ne faudrait. Ils ne sont pas si forts.
+    Les gens en général sont mous, mais assez droits et honnêtes. Nulle
+    part il n'est plus facile d'arriver qu'en Allemagne et en France, chez
+    nous c'est dix fois plus difficile.
+
+Pensant à son retour prochain, il écrit aussi à sa maternelle amie Mme
+Hansteen (le début de la lettre est détruit):
+
+    ... sens qu'il m'arrivera souvent d'aller chez vous. Ce sera
+    véritablement une de mes meilleures joies. Mon Dieu, que de fois n'ai-
+    je pas eu envie d'aller vous voir, mais je n'ai pas osé. Bien des
+    fois, j'ai été jusqu'à la porte, et je suis reparti, par crainte de
+    vous importuner; car ç'aurait été le pis qui pût m'arriver, si vous
+    aviez été trop lasse de moi. Très bien, puisque je puis m'assurer
+    qu'il n'en est pas ainsi... Je suis extrêmement heureux que tout aille
+    bien pour ma chère soeur. J'ai tant d'affection pour elle. C'est à
+    vous, chère Madame Hansteen, que sont dus son bonheur, et la joie
+    qu'il m'a causé. Il faut que vous la saluiez le plus tendrement de ma
+    part lorsque vous la verrez. Je pense toujours à elle... Mais adieu,
+    ma très chère maternelle tutrice, et gardez une toute petite place
+    dans votre coeur pour votre Abel.
+
+Il me semble que ces lignes et d'autres semblables, qui manifestent la
+tendresse et la sensibilité d'Abel, expliquent suffisamment pourquoi il
+voulait rentrer au pays, et n'écoutait qu'à contre-coeur les invites de
+Crelle à se faire un avenir en Allemagne. Elling Holst a expliqué sa
+résolution de rentrer en Norvège comme une manifestation de son sentiment
+du devoir. La Norvège avait fait les frais de son voyage, il était donc
+tenu envers elle de faire profiter sa patrie des fruits de son travail et
+de son génie. Cette explication me paraît factice, et elle ne repose sur
+aucune expression d'Abel lui-même. Rien n'indique d'ailleurs qu'il était
+un homme de devoir tel qu'un semblable raisonnement le ferait supposer.
+Dans la fière et célèbre profession de foi qu'il avait formulée un an
+auparavant dans une lettre à Hansteen, il disait:
+
+    La mathématique pure dans son sens le plus strict doit être à l'avenir
+    mon étude exclusive. Je veux m'appliquer de toutes mes forces à
+    apporter un peu plus de clarté dans la prodigieuse obscurité que l'on
+    trouve incontestablement aujourd'hui dans l'analyse. Elle manque à tel
+    point de plan d'ensemble, qu'il est vraiment tout à fait merveilleux
+    qu'elle puisse être étudiée par tant de gens, et le pis est qu'elle
+    n'est pas du tout traitée avec rigueur. Il n'y a que très peu de
+    propositions, dans l'analyse supérieure, qui soient démontrées avec
+    une rigueur décisive.
+
+Il n'y a rien là, ni ailleurs, qui montre le désir de réaliser quelque
+chose particulièrement pour la Norvège, ou la conscience d'obligations
+spéciales à cet égard. Ce ne fut pas, me semble-t-il, le sentiment du
+devoir qui le ramena au pays, mais une timidité, une intime sensibilité
+qui l'empêchait de vivre, sinon avec effort, parmi les « étrangers ». Nous
+verrons d'ailleurs avec quelle ardeur, plus tard, il saisit une chance qui
+s'offrit de nouveau à l'étranger. L'essentiel était pour lui de pouvoir
+achever son grand travail, et d'avoir l'occasion de mettre en oeuvre les
+idées dont son esprit était rempli, et qu'il savait devoir complètement
+bouleverser la science. Il voulait voir si cela pouvait se faire dans son
+pays, ce qui eût le mieux convenu à son humeur, mais si cela ne
+réussissait pas, il accepterait n'importe où une position qui lui en
+fournirait le moyen.
+
+Le 20 mai 1827, Abel revint à Kristiania. Elling Holst, dans la biographie
+pleine de sentiment et de finesse qu'il a écrite pour le centenaire d'Abel
+et qui accompagne dignement la solide étude scientifique de Sylow, dit:
+« Dans son travail, il avait atteint, suivant des directions différentes,
+plus haut que personne. Et en même temps, après avoir été le messager
+plein de promesse de son pays, il se voyait transformé en un homme pour
+qui il n'y a plus de place. » Holmboe s'était laissé persuader de prendre
+le seul poste universitaire de mathématiques existant. Hansteen, pour son
+grand voyage sibérien, avait imposé au Trésor une dépense, inouïe pour
+l'époque, de 18.000 couronnes. Y ajouter encore une somme pour venir en
+aide à Abel était au-dessus des moyens du budget. Mais Abel n'avait plus
+aucune ressource pour vivre. Il prit l'affaire en mains propres, et
+s'adressa encore une fois, se fondant sur la précédente expérience
+favorable, au Collège académique. Il commence le 2 juin par une lettre où
+il annonce son retour, et se recommande de nouveau à l'attention
+bienveillante du Collège. Dès le 5, le Collège informe le chancelier de
+l'Université du retour d'Abel, regrette que le Collège n'ait pas les
+moyens d'offrir à Abel quelque subvention, et sollicite l'appui du
+chancelier pour en procurer une. Le chancelier s'adresse à son tour, le 8
+juin, au ministère de l'Instruction publique, et sollicite son aide « afin
+que les fruits, tant de son extraordinaire talent pour les mathématiques
+supérieures, que des dépenses déjà faites à cet égard, ne soient pas
+perdus ». Le ministère de l'Instruction publique s'adresse au ministère
+des Finances. Le ministère des Finances, qui précédemment avait eu tant de
+souci de l'instruction d'Abel dans les « langues savantes », et qui avait
+alors su trouver de si belles phrases, n'eut pas d'oreilles, cette fois,
+pour conserver « son talent extraordinaire pour les mathématiques
+supérieures », et répondit le 20 juin par un refus catégorique et en style
+bureaucratique: « .. fait savoir qu'il ne sera pas possible de rien donner
+sur le Trésor dans le but indiqué ». Le ministère de l'Instruction
+publique fut alors obligé d'expliquer au _Collegium academicum_ que l'on
+n'avait pu procurer aucune ressource. Abel écrit alors le 23 juillet au
+_Collegium academicum_ cette lettre émouvante:
+
+    Déjà depuis longtemps j'avais l'idée, en me consacrant tout à fait à
+    l'étude des mathématiques, de me rendre digne un jour d'être nommé
+    professeur à l'Université. J'ose peut-être me flatter, maintenant que
+    j'ai terminé mon voyage à l'étranger, d'avoir acquis des connaissances
+    qui peuvent être considérées comme suffisantes à cet effet, et que,
+    par conséquent, lorsque les circonstances le permettront, j'obtiendrai
+    une situation à l'Université. Mais jusque-là, en supposant qu'une
+    telle situation pourra m'échoir, je suis absolument sans ressources
+    pour me procurer même les choses les plus nécessaires, et il en a été
+    ainsi depuis mon retour. Pour pouvoir vivre, je vais me voir obligé
+    d'abandonner complètement mes études, ce qui me serait excessivement
+    douloureux, maintenant précisément que j'espérais pouvoir rédiger
+    plusieurs travaux mathématiques commencés, grands et petits. Cela me
+    ferait d'autant plus de tort que je serais alors obligé d'interrompre
+    une carrière d'auteur déjà commencée à l'étranger, ayant été notamment
+    collaborateur dans le _Journal der reinen und angewandten Mathematik_
+    de Crelle, paraissant à Berlin, dont je prends la liberté de joindre
+    les cahiers parus jusqu'à présent. J'ose donc demander au haut Conseil
+    une subvention, aux conditions que le Conseil trouvera convenables.
+
+Le Collège adresse aussitôt, le 31 juillet, au ministère de l'Instruction
+publique, une prière chaleureuse pour qu'une somme de 200 sp. (1.120
+francs) par an soit comptée à Abel jusqu'à ce qu'il puisse être nommé
+suppléant de Hansteen pendant son voyage. Le ministère de l'Instruction
+publique répond après quelques jours de réflexion, le 18 août, -- on était
+en plein été -- que le ministère conseillait au Collège de remettre à Abel
+une somme de 200 sp., à rembourser lorsqu'il aurait la suppléance de
+Hansteen. Le 4 septembre enfin, fut ordonnancée sur la caisse des
+subventions universitaires, et non comme prêt ou comme avance, une somme
+de 200 sp. par an, à compter du 1er juillet, et le caissier reçut l'ordre
+de payer tout de suite 116 sp. Mais Abel ne reçut même pas cette somme,
+qui était déjà insuffisante pour couvrir ses dettes pressantes. Son père,
+lorsque l'Université avait été fondée, avait constitué une donation d'un
+tonneau de seigle par an, donation garantie par sa petite ferme de Lunde à
+Gjerrestad, où la mère d'Abel menait une triste existence. Sa mère ne
+pouvait pas payer, et Abel prit à sa charge la dette de 26 sp. à déduire
+des traitements qu'il recevrait de l'Université. Il est atroce de penser
+que pendant ce long été, n'ayant rien pu gagner non plus par des leçons
+particulières, Abel fut littéralement dans la misère. On ne peut certes
+pas blâmer les autorités académiques. Elles firent ce qu'elles pouvaient,
+et quiconque est habitué aux lenteurs administratives qui, dans la plupart
+des pays, font traîner les affaires de ce genre, doit plutôt admirer la
+rapidité avec laquelle les lettres officielles se sont succédé.
+
+Quinze jours à peine après que la subvention universitaire eût mis fin à
+la pire période de misère, la première partie des _Recherches sur les
+fonctions elliptiques_ fut publiée (20 septembre 1827); la théorie
+vraiment initiatrice d'Abel parut dans le second fascicule du deuxième
+volume du Journal de Crelle. A cette publication se rattachent des
+circonstances curieuses d'un grand intérêt historique. Carl-Gustaf-Jacob
+Jacobi, fils d'un riche marchand juif établi à Potsdam, et né en décembre
+1804, plus jeune qu'Abel de deux ans, par conséquent, s'était montré de
+bonne heure brillamment doué pour les mathématiques. En 1827, alors
+qu'Abel, à Kristiania, ne pouvait qu'à grand'peine obtenir le pain
+quotidien, Jacobi, à vingt-trois ans, était déjà professeur à l'Université
+de Königsberg. Crelle avait, déjà auparavant, su se procurer sa
+collaboration à son journal, et il est évident qu'ils avaient entre eux
+une correspondance assidue. Crelle a-t-il d'avance annoncé à Jacobi
+quelque chose de la publication d'Abel? Rien n'eût été plus naturel, car
+il n'est pas possible que Crelle n'ait pas été vivement ému des
+propositions extraordinairement simples, aux formules incisives et
+inattendues, que contenait le travail d'Abel. Quoi qu'il en soit, Jacobi
+envoya quelques propositions touchant la même théorie, non au journal de
+Crelle, mais à une revue astronomique, _Schumachers Astronomische
+Nachrichten_, et elles furent publiées le même mois que le travail d'Abel
+dans le journal de Crelle. Si la communication de Jacobi avait été publiée
+dans le journal de Crelle avec le travail d'Abel, personne n'aurait pu
+penser a nommer Jacobi à côté d'Abel comme inventeur des fonctions
+elliptiques. Car les propositions de Jacobi sont des formules algébriques
+trouvées par tâtonnement, pour lesquelles il ne pouvait donner aucune
+démonstration, et qui découlaient immédiatement de l'une des propositions
+générales d'Abel. Le travail d'Abel est au contraire une théorie complète,
+exposée depuis ses fondements, et rigoureusement conduite, conçue avec la
+plus large envergure. Dans la démonstration il se trouve, il est vrai, un
+point faible, mais j'ai montré ailleurs, que cette imperfection, sans
+aucune difficulté, et sans s'écarter du cours même des idées d'Abel, peut
+être aisément réparée. Cependant de cette publication simultanée de deux
+auteurs différents dans deux revues différentes est résultée la croyance
+si longtemps répandue qu'Abel et Jacobi étaient tous deux, indépendamment
+l'un de l'autre, les fondateurs de la théorie. Borchardt, élève de Jacobi
+et successeur de Crelle comme directeur du _Journal für die reine und
+angewandte mathematik_, a déclare, et cela encore en 1875, que nul
+géomètre, comparant les publications d'Abel et de Jacobi, ne peut douter
+que tous deux en même temps, et indépendamment l'un de l'autre, étaient en
+possession de la théorie des fonctions elliptiques dans son entier.
+Combien cette croyance était alors encore généralement répandue, ce qui
+suit, entre autres choses, le prouve. Pendant l'hiver 1875-76, que je
+passai à Göttingen avec accès à la bibliothèque mathématique extrêmement
+complète qui s'y trouve, je m'occupai particulièrement de l'histoire de la
+théorie des fonctions elliptiques. Je fus bientôt convaincu que l'opinion,
+surtout dominante en Allemagne, affirmée de façon si tranchante par
+Borchardt, était incorrecte, et à ce sujet j'écrivis à Bjerknes à
+Kristiania, le priant de me donner quelques renseignements que devaient
+pouvoir donner les manuscrits d'Abel, accessibles seulement à Kristiania.
+Bjerknes me répondit le 18 janvier 1876: « Tout d'abord je fus un peu
+ennuyé de votre lettre, car il me semblait que vous étiez injuste envers
+Jacobi. Peu à peu mes recherches m'ont conduit au résultat, pour moi tout
+à fait inattendu, que vous verrez dans mon exposé. » Ce furent ces
+recherches qui conduisirent plus tard à la biographie d'Abel, de Bjerknes,
+qui sera toujours l'un des ouvrages fondamentaux sur Abel. Toutefois
+Bjerknes, dans son exposé des rapports entre Abel et Jacobi, a été plus
+loin que je ne voudrais, et il me semble qu'il a été, à son tour, en
+quelque mesure, injuste pour Jacobi [Note: J'avais à cette époque le
+projet d'écrire la biographie d'Abel pour le _Nordisk Tidskrift_, revue
+publiée par l'association Letterstedt à Stockholm, mais comme Bjerknes
+commença dans le journal norvégien _Morgenbladet_ la publication
+d'articles sur la vie et l'oeuvre d'Abel, j'abandonnai ce projet, et cédai
+à Bjerknes, qui avait pour cela des données personnelles plus nombreuses,
+sans compter les données nationales, le soin d'écrire la biographie d'Abel
+pour le _Nordisk Tidskrift_.].
+
+Il résulte de la correspondance de Gauss et de Schumacher, que celui-ci,
+au cours d'une visite que Gauss lui fit à Altona au printemps de 1827,
+parla de la publication prochaine de Jacobi, et promit à Gauss de lui
+envoyer l'article de Jacobi avant l'impression. Schumacher savait en effet
+que Gauss s'était occupé déjà depuis 1796 de la théorie des fonctions
+elliptiques, et qu'il était en possession depuis 1800 d'une théorie
+complète dans toutes les parties essentielles. Il envoya suivant sa
+promesse l'article de Jacobi à Gauss, en le priant d'y ajouter une note,
+mais l'article lui fut renvoyé avec la simple affirmation rapide que Gauss
+estimait plus convenable de « rester complètement hors du jeu » (_ganz aus
+dem Spiele zu bleiben_). Il en alla tout autrement lorsque Gauss eut
+connaissance des _Recherches_ d'Abel. Crelle avait écrit à Gauss et lui
+avait demandé de publier aussi ses propres recherches sur les fonctions
+elliptiques. Gauss déclina l'offre. Il avait pour le moment autre chose à
+faire.
+
+    En outre, Abel m'a devancé pour un bon tiers de mon travail. Il a
+    suivi exactement la même voie où je suis entré en 1798. Aussi ne suis-
+    je pas surpris qu'il soit parvenu, pour la plus grande part, au même
+    résultat. Comme de plus il montre dans sa composition une acuité, une
+    profondeur et une élégance extrêmes, je me vois délié de l'obligation
+    de rédiger mes propres recherches.
+
+Paroles stupéfiantes pour tous les petits professeurs avec leurs
+réclamations incessantes pour la priorité, leur course mesquine vers un
+idéal embrumé. Et notez qu'il s'agit ici d'une découverte qui est l'une
+des plus grandes de la pensée humaine, de la fondation d'une théorie, dont
+la portée s'étend jusqu'à un avenir impénétrable, et que personne, plus
+nettement que Gauss, lui-même, ne pouvait apprécier l'importance de la
+théorie nouvelle. Il n'y a pas un mot sur Jacobi dans la lettre à Crelle;
+mais ailleurs, dans une lettre à Schumacher, Gauss a fait en passant une
+comparaison entre Jacobi et Abel. Il approuve que Schumacher, par son
+attitude, écarte les questions dont M. Jacobi l'« importune », et dit que
+si Jacobi s'adresse directement à lui, Gauss, il lui répondra, « bien que
+ces questions soient exprimées peu clairement, et soient, à mon avis,
+après l'apparition du travail d'Abel (qui, entre nous, m'a devancé pour un
+bon tiers de mes propres recherches, et concorde avec celles-ci en partie
+jusque dans le choix des lettres), très oiseuses ».
+
+Le travail d'Abel, _Recherches sur les fonctions elliptiques_, fut publié
+en deux parties, la première dans le second, la deuxième dans le troisième
+volume du Journal de Crelle. La première partie parut, comme nous avons
+vu, en septembre 1827. La suite fut envoyée par Abel à Crelle le 12
+février 1828. Abel avait eu connaissance dans l'intervalle de l'article de
+Jacobi dans les _Astronomische Nachrichten_, et montrait en quelques
+pages, dans une « addition au mémoire précédent », que le résultat de
+Jacobi était contenu dans les siens. J'avais cru longtemps avoir des
+raisons de douter qu'il existât encore une autre partie, jusqu'ici
+inconnue, des _Recherches_, et j'en avais vainement recherché le manuscrit
+pendant plusieurs années. Enfin, il y a quelques années, un hasard
+favorable mit ce manuscrit entre mes mains, et j'eus le bonheur de pouvoir
+donner en tête du premier des trois volumes des _Acta mathematica_,
+publiés à l'occasion du centenaire d'Abel et entièrement consacrés à sa
+mémoire, les _Recherches sur les fonctions elliptiques, par N.-H. Abel.
+Second mémoire_. Ce second mémoire est daté de Kristiania, 27 août 1828,
+et, comme le premier, était destiné au journal de Crelle. Crelle ne publia
+cependant que le premier de ses cinq paragraphes. Il est difficile d'en
+donner le motif avec certitude, mais on ne doit pas s'écarter beaucoup de
+la vérité en présumant que ce mémoire tout simplement n'a pas été compris.
+S'il avait été publié dans son entier, Abel serait certainement apparu
+pour ses contemporains, dès la première heure, comme le seul fondateur de
+la théorie des fonctions elliptiques.
+
+Les premières publications d'Abel et de Jacobi en septembre 1827 furent
+suivies de toute une série d'autres, par les deux auteurs et aboutirent,
+du côté de Jacobi, à l'ouvrage classique _Fundamenta nova theoriae
+functionum ellipticarum_, qui parut en 1829, un mois environ après la mort
+d'Abel. Bjerknes a certainement raison lorsqu'il montre la dépendance
+constante des recherches et des résultats de Jacobi à l'égard des
+résultats d'Abel, tandis que l'inverse ne s'est pas produit une seule
+fois. Il a raison également lorsqu'il affirme que cette relation n'a été
+indiquée par Jacobi que partiellement, et chaque fois très incomplètement.
+Mais je crois qu'il a tort lorsqu'il veut voir là, de la part de Jacobi,
+une intention consciente de défigurer la vérité historique, et de s'élever
+au détriment d'Abel. Jacobi était un grand mathématicien qui avait un don
+brillant pour les formules, une maîtrise de la langue formulaire des
+mathématiques comme bien peu l'ont eue, soit avant, soit après lui, mais
+il était de beaucoup inférieur à Abel pour le génie et la puissance de la
+pensée. Il revêtait son exposé d'une forme qui lui était particulière, et
+s'écartait notablement de celle d'Abel. Il repensait les pensées d'Abel
+habillées par lui d'un costume nouveau, et il ne les reconnaissait plus,
+et croyait qu'elles étaient de lui. Telle est la règle ordinaire pour le
+commun des hommes, cette règle s'applique presque sans changement à
+messieurs les savants, et ne perd sa valeur que pour les très grands. Et
+Jacobi n'était pas un très grand. Weierstrass écrit à Sophie Kowalevski à
+propos d'une réflexion sur Kronecker:
+
+    Il y a encore chez lui un défaut, que l'on trouve chez beaucoup
+    d'hommes très intelligents, notamment parmi ceux de race sémitique,
+    ils ne possèdent pas une imagination suffisante (je devrais plutôt
+    dire intuition), et il est certain qu'un mathématicien qui n'est pas
+    quelque peu poète, ne sera jamais un mathématicien complet. Les
+    comparaisons sont instructives: le regard qui embrasse tout, dirigé
+    vers les sommets, vers l'idéal, désigne Abel comme supérieur à
+    Jacobi... d'une manière éclatante.
+
+L'opinion de Weierstrass est à beaucoup d'égards du plus haut intérêt. A
+côté de l'école de la rigueur mathématique, dont les représentants
+modernes les plus éminents sont Gauss et Cauchy, Abel et Weierstrass lui-
+même, une autre école s'est peu à peu développée, qui prétend apercevoir
+grâce à certaines des vues _géométriques_ des chemins de traverse vers les
+vérités mathématiques. On représente volontiers, dans cette école, la
+méthode de Weierstrass comme une sorte de logique arithmétique, presque
+scholastique, et l'on professe que les véritables découvertes ne se font
+jamais par voie purement déductive, où chaque proposition se lie
+inflexiblement à la précédente. Ceci est absolument juste, mais l'exemple
+d'Abel montre que c'est une erreur de regarder les vues géométriques comme
+la source unique de découvertes nouvelles. Abel ne se livre jamais à des
+considérations géométriques, et n'a jamais montré le moindre intérêt pour
+les propositions ou les méthodes géométriques. Pourtant il avait un don
+d'intuition comme peu d'hommes l'ont eu avant ou après lui. Et c'est ce
+don qui l'a conduit à ses grandes découvertes. Mais en même temps, il
+était tout à fait opposé à cette prétention qu'affichent les protagonistes
+des vues géométriques en analyse: faire accepter comme démontrées
+rigoureusement des théorèmes qu'ils déduisent de vagues considérations
+spatiales. Abel était trop grand comme penseur pour une telle prétention.
+Il avait vu trop profondément la connexion intime des choses pour ne pas
+savoir que même son intuition avait besoin du contrôle d'une déduction
+rigoureuse.
+
+L'expression de Weierstrass, que le véritable mathématicien est poète,
+peut paraître au grand public singulièrement étrange. Il en est pourtant
+ainsi. L'expression n'implique pas seulement qu'il faut au mathématicien,
+de même qu'au poète, de l'imagination et de l'intuition. Ceci est vrai
+pour toutes les sciences, nulle part toutefois au même degré que dans les
+mathématiques. Mais l'expression a aussi une signification d'une portée
+plus grande. Les meilleurs travaux d'Abel sont de véritables poèmes
+lyriques d'une beauté sublime, où la perfection de la forme laisse
+transparaître la profondeur de la pensée, en même temps qu'elle remplit
+l'imagination de tableaux de rêve tirés d'un monde d'idées écarté, plus
+élevé au-dessus de la banalité de la vie et plus directement émané de
+l'âme même que tout ce qu'a pu produire aucun poète au sens ordinaire du
+mot. Il ne faut pas oublier, en effet, à quel point la langue
+mathématique, faite pour les besoins de pensée les plus hauts de
+l'humanité, est supérieure à notre langue ordinaire. Il ne faut pas
+oublier non plus que la pensée intérieure y est plus complètement et plus
+clairement exprimée que dans aucun autre domaine humain.
+
+Nous avons vu comment la misère la plus pressante fut secourue par la
+subvention de 200 sp. qu'Abel obtint le 4 septembre 1827. Sa situation
+économique devait par la suite s'améliorer encore, bien que lentement et
+insuffisamment. Le voyage de Hansteen en Sibérie devait commencer en 1828,
+et il s'agissait, les éléments d'astronomie étant compris dans l'examen de
+philosophie, de trouver quelqu'un qui pût, en l'absence de Hansteen, faire
+son cours d'astronomie. Abel fut proposé, et nommé le 10 mars 1828, avec
+un traitement annuel de 400 sp.[Note: 2.160 francs environ.], soit 200 sp.
+de moins qu'il n'était attribué d'habitude pour des fonctions de ce genre.
+
+Abel continuait à manquer d'argent, et cette situation provisoire ne
+promettait d'ailleurs rien pour l'avenir. Sa résolution de se consacrer
+entièrement à la science, et sa répugnance à l'égard de toute occupation
+qui pouvait le distraire de ses travaux scientifiques étaient peut-être
+plus fortes que jamais. Aussi est-il naturel qu'il ait vu avec plaisir
+Crelle s'occuper de lui trouver à Berlin un emploi à sa mesure, et que
+Crelle ait eu à cet effet son entière approbation. Crelle avait sans doute
+informé Abel, en juin 1828, qu'il avait alors les plus grandes chances, et
+Abel, qui désirait toujours rester dans son pays, écrit aussitôt, le 21
+juin 1828, au Collège académique:
+
+    Comme en ce moment s'ouvre devant moi la perspective d'une nomination
+    à l'étranger, savoir, à l'Université de Berlin, je prends la liberté à
+    ce propos de m'adresser au haut Conseil, afin de savoir par lui si je
+    puis obtenir une situation stable ici. C'est certainement mon désir le
+    plus intime de passer ma vie dans mon pays, si cela est possible d'une
+    manière qui puisse me suffire; sinon, je ne crois pas devoir refuser
+    un moyen d'assurer mon avenir, qui m'apparaît ici très précaire. Si
+    une situation stable ne pouvait pas m'être assurée maintenant,
+    j'oserais espérer que ma situation à l'Université ne pourrait pas être
+    un empêchement à ce que je cherche à obtenir une place à Berlin. Si
+    plus tard une carrière s'ouvre ici pour moi, il n'y aura certes de ma
+    part aucune opposition à ce que je revienne, si j'ose encore nourrir
+    cet espoir. Comme j'ai été invité de la manière la plus pressante à
+    donner ma réponse au premier jour, j'oserai peut-être prier le haut
+    Conseil de traiter cette affaire le plus vite possible. Ceci est pour
+    moi de la plus haute importance. Respectueusement. N. Abel.
+
+Le Collège académique s'adresse le jour même au chancelier, avec un
+conseil chaleureux de procurer à Abel une situation convenable en Norvège.
+Le chancelier, dès le 24 juin, s'adresse au ministre de l'Instruction
+publique en termes tout aussi chaleureux. Mais le 30 juin intervient la
+lettre suivante d'Abel au ministère de l'Instruction publique:
+
+    Je désire que soit mise de côté jusqu'à nouvel ordre l'affaire
+    mentionnée dans ma lettre au Conseil académique du 21 juin 1828, qui a
+    été adressée au ministère royal. Respectueusement. N. H. Abel, docent
+    délégué.
+
+Des difficultés étaient survenues à Berlin, et Crelle, dans une nouvelle
+lettre, avait imposé à Abel une rigoureuse discrétion. Cependant la
+question d'une nomination d'Abel à Berlin, et sa démarche officielle,
+furent connues, et devinrent l'objet de commentaires dans la presse, ce
+qui ne pouvait que compromettre Abel à Berlin. On ne peut s'empêcher
+d'observer que tout cet épisode de l'histoire d'Abel, avec cette
+discussion publique d'affaires strictement confidentielles, a une grande
+ressemblance avec des procédés analogues chez nos frères norvégiens, à une
+époque plus récente, procédés qui ont toujours excité en Suède une vive
+surprise. Abel écrit lui-même à Mme Hansteen le 21 juillet 1828:
+
+    En sorte que j'en suis au même point qu'auparavant, c'est même plutôt
+    pis, car j'ai été ridiculisé ici, et je peux l'être à l'étranger
+    (voyez un édifiant morceau dans un journal publié par l'éditeur
+    Schiwe, _Dernières histoires de Kristiania et de Stockholm_, n° 1, p.
+    6). Je ne veux pas répondre, afin de ne pas prolonger une vilaine
+    affaire. Ça pourra passer maintenant pour un mensonge de journal, _et
+    enfin le temps tue tout_ [Note: En français dans le texte.]. Quoi
+    qu'il en soit, il est peu probable que je cherche quelque chose encore
+    à Kristiania. Je préfère travailler dur avec ce que j'ai tant que ça
+    durera. Mais j'ai appris à me taire; c'est une bonne chose. Crelle m'a
+    lavé la tête au sujet de mon bavardage, car bien que je ne lui aie pas
+    dit ce que j'avais dit, je peux bien voir qu'il est _au fait_. Il
+    m'invite en attendant à être tout à fait muet... C'est surtout pour ma
+    fiancée que cela me fait de la peine. Elle est trop bonne.
+
+Il écrit aussi à Holmboe, le 29 juin:
+
+    C'est sans doute à ton retour de Copenhague que cette lettre t'est
+    adressée, mais tu n'as pas besoin de raconter ce que je t'écris. Il
+    s'agit du voyage à Berlin. Il est fichu, et moi, par suite, presque
+    autant. Crelle m'a écrit, il y a dimanche huit jours, que quelqu'un
+    _tombé du ciel_ [Note: _Vom Himmel gefallen_ (en allemand dans le
+    texte).] est arrive, qui voulait faire valoir ses droits et qu'il
+    fallait caser. Dieu sait qui c'est, mais n'importe, l'animal a pris ma
+    place. Il écrit d'ailleurs que, bien que ce soit douteux, il ne faut
+    pas que je perde tout espoir, et que ce sera possible plus tard. En
+    octobre j'aurai une réponse ferme. Mais tu ne le diras pas. Rien que
+    ceci, que je n'ai jamais dû aller, et que je n'irai pas à Berlin, ce
+    qui est conforme à la vérité. Cela n'a guère plu à Crelle que j'en aie
+    parlé.
+
+Ces lettres sont écrites de l'usine de Froland, où Abel était l'hôte du
+propriétaire Smith, et où sa fiancée Christine Kemp était institutrice des
+enfants. Il écrit de là encore en août 1828 à Mme Hansteen:
+
+    Je suis pauvre comme un rat d'église, n'ayant maintenant pas plus
+    de 1 sp. 60, qu'il faut que je donne comme pourboire.
+
+En septembre 1828 il est de retour à Kristiania, d'où il écrit à Mme
+Hansteen, qui était alors à Copenhague:
+
+    Comme c'est étrange, je ne peux pas me mettre dans la tête que vous
+    êtes partie, et je suis souvent sur le point d'aller chez vous. Me
+    voici donc presque absolument seul. Je vous assure que je ne fréquente
+    littéralement pas une seule personne. Cependant cela ne me manquera
+    pas tout d'abord, car j'ai horriblement à travailler pour le
+    _Journal_. J'aurai dorénavant 1 ducat par feuille d'impression, Crelle
+    me l'a offert de lui-même. Mais il n'en sortira naturellement pas
+    grand'chose, et ma situation gênée m'a fait accepter. Je viens de
+    recevoir hier une lettre de Crelle où il dit qu'il y a toujours espoir
+    que je puisse venir à Berlin, et que bientôt on pourra être fixé si
+    cela aboutit ou non.
+
+Il lui écrit encore en novembre 1828:
+
+    Je n'ai peut-être pas été tout à fait envers elle (évidemment sa
+    fiancée) comme j'aurais dû, mais maintenant nous sommes d'accord et
+    nous nous entendons bien ensemble. Je me suis beaucoup corrigé, et
+    j'espère qu'un jour nous vivrons heureux ensemble. Mais quand cet
+    heureux moment viendra-t-il, je ne sais. Pourvu qu'il ne soit pas trop
+    éloigné. Cela me fait de la peine pour ma Crelly, qui sera obligée de
+    travailler si dur... J'en suis toujours à 400 sp. et je suis dans les
+    dettes jusqu'au cou, mais je m'en suis tout de même un peu dégagé. En
+    attendant, ma précédente hôtesse « la Reine » n'a pas reçu un
+    skilling, et je lui dois 82 sp. A la banque, j'ai réussi à diminuer
+    jusqu'à 160, et chez le marchand de drap de 45 à 20. En outre, je dois
+    au cordonnier, au tailleur et au restaurateur, mais d'ailleurs je
+    n'emprunte pas. Mais il ne faut pas vous apitoyer sur moi pour cela.
+    Je m'en tirerai bien.
+
+Finalement Abel, las de ces soucis, se décide à s'adresser au
+gouvernement. Il écrit le 6 décembre 1828:
+
+    Au Roi. Par décret gracieux du 6 février de cette année, j'ai été
+    nommé, pendant l'absence du professeur Hansteen, pour un voyage
+    scientifique en Sibérie, docent à l'Université chargé des fonctions
+    du-dit professeur avec un traitement de 400 sp. Bien que ces
+    appointements fussent inférieurs à ce qui avait été attribué aux
+    autres docents nommés à l'Université, j'ai dû cependant, vu ma
+    situation financière, considérer comme une bonne fortune d'obtenir
+    n'importe quelle position compatible avec mes études, qui me procurât
+    les ressources strictement nécessaires, et d'ailleurs j'ai trouvé au
+    moins peu convenable, tant que je n'avais pas donné des preuves de mon
+    aptitude à l'enseignement, de demander aucune augmentation du
+    traitement gracieusement fixé. Depuis que j'ai fait le cours
+    d'astronomie à l'Université, j'ai, d'une part, été à même de me rendre
+    compte jusqu'à quel point le temps que j'y consacre peut être
+    considéré comme suffisamment rétribué, et d'autre part les directeurs
+    de l'Université ont eu occasion de juger si je suis à la hauteur de
+    l'emploi qui m'est confié. J'ose donc humblement espérer que ma prière
+    ne sera pas considérée comme déplacée ou impertinente, si je demande
+    humblement à être placé, à partir du 1er janvier de l'année prochaine,
+    dans les mêmes conditions que les autres docents de l'Université, et
+    qu'il me soit par suite gracieusement attribué un traitement annuel de
+    600 sp. Humblement. Niels Henrik Abel.
+
+Il fut fait droit à cette pétition, ce qui fut annoncé à Abel par le
+Collège académique le 27 février 1829. Cette nouvelle en croisa une autre
+du 21 février, partie de Froland, où Abel passait les vacances de Noël.
+Holmboe écrit au Collège académique qu'Abel le prie d'informer le Collège
+qu'il a eu une longue maladie, et qu'il ne pourra sans doute avant
+longtemps revenir et faire ses cours. Son médecin A. C. Möller écrit avec
+plus de détails, le même jour, 21 février:
+
+    Sur l'invitation de M. le docent Abel, et comme son médecin, le
+    soussigné s'empresse d'informer le haut conseil académique en son nom
+    -- car il n'est pas capable d'écrire lui-même -- que peu après son
+    arrivée à l'usine de Froland, il a été pris d'une forte congestion
+    pulmonaire et de grands crachements de sang qui ont cessé au bout de
+    peu de temps, mais qui pourtant, à cause d'une toux chronique
+    persistante et de sa grande faiblesse, l'ont jusqu'ici empêché de
+    quitter le lit, qu'il doit encore garder: il ne peut d'ailleurs pas
+    non plus supporter d'être soumis au moindre changement de température.
+    Le plus inquiétant est que sa toux sèche chronique avec sensation de
+    piqûre dans la poitrine fait présumer avec grande vraisemblance qu'il
+    souffre de tubercules cachés dans la poitrine et la trachée, pouvant
+    facilement amener une phtisie consécutive, ce qui semble encore plus
+    probable, étant donnée sa constitution. Dans cet état fâcheux de la
+    santé de M. le docent Abel, il est de la plus grande vraisemblance
+    qu'il ne pourra pas retourner à Christiania avant le printemps, et que
+    par suite il ne pourra pas remplir les fonctions dont il est chargé,
+    même au cas où l'issue de sa maladie serait la plus favorable.
+    L'amélioration de son état, et sa guérison complète, que l'on espérait
+    jusqu'ici, l'ont empêché jusqu'ici d'informer le haut conseil
+    académique, ce qui sans cela aurait déjà été fait.
+
+La courte vie d'Abel se précipita. Le 6 avril 1829, à quatre heures de
+l'après- midi, tout était fini. Abel avait alors vingt-six ans et huit
+mois. L'hiver avait été rigoureux, et le manteau de voyage d'Abel,
+lorsqu'il était parti pour passer la Noël à Froland, insuffisant à cause
+de sa grande pauvreté. Il avait eu froid pendant le voyage, et quelques
+jours après son arrivée, il eut des crachements de sang, et dut se mettre
+au lit pour ne plus en sortir. Vers le commencement de janvier, pourtant,
+un mieux se produisit, et le 6 janvier 1829, date plus glorieuse dans
+l'histoire de la civilisation que les jours de fête des rois, des
+empereurs et des divers pays, Abel, au lit, écrivit pour le journal de
+Crelle la plus grande pensée de sa vie, le théorème d'addition, aussitôt
+salué comme un _monumentum aere perennius_, et qui, cent ans après la
+naissance d'Abel, marque encore le plus haut point de développement de la
+mathématique. Le théorème, il est vrai, était compris dans le grand
+mémoire destiné à l'Institut de Paris, qui reposait parmi les papiers de
+Cauchy, mais Abel avait toutes raisons de craindre que ce mémoire était
+perdu, et voulait en sauver l'idée fondamentale. Ce travail du 6 janvier
+est le dernier de la main d'Abel. Une rechute eut lieu, et il posa pour
+toujours sa plume assidue. Quelques rayons de lumière venus du dehors
+devaient du moins tomber sur ses derniers jours. Des informations
+arrivèrent de Berlin, où sa nomination était pour ainsi dire certaine.
+Elles furent confirmées de Paris par Legendre, qui le tenait d'Alexandre
+de Humboldt. Il badinait avec sa fiancée: « Tu ne t'appelleras plus
+madame, ni ma femme, on dira _Herr Professor mit seinem Gemahlin._ » (M.
+le Professeur avec son épouse).
+
+Sa Crelly, Christine Kemp, ne le quitta pas un instant. La lutte contre la
+mort ne fut pas facile, mais elle refusa d'accepter aucun secours, afin
+« de pouvoir posséder ces instants pour elle-même ». Abel, par
+l'intermédiaire de la famille Smith, avait fait saluer Keilhau, son plus
+intime ami, le priant de prendre soin de Crelly après sa mort. « Elle
+n'est pas belle -- ainsi s'exprimait-il -- elle a les cheveux rouges et
+des taches de rousseur, mais c'est une femme admirable. »
+
+Keilhau, à cette époque, ne l'avait jamais vue. Mais il la connaissait par
+Abel, et il ne tarda pas bien longtemps à exaucer le voeu de son ami en
+informant la jeune femme, par l'intermédiaire de Holmboe, de son espoir
+qu'elle consentirait à l'épouser. Il vint à Froland au commencement de
+1830, et ils se fiancèrent; le mariage eut lieu plus tard, et ils vécurent
+heureux et longtemps. Leur premier soin après les fiançailles fut d'élever
+avec l'aide de quelques-uns de ses amis les plus intimes, un monument sur
+la tombe d'Abel.
+
+Mais l'hommage essentiel à la mémoire d'Abel devait être la publication de
+son oeuvre complète. La première initiative fut prise par un académicien
+français, le baron Maurice, gènevois de naissance, qui d'ailleurs n'occupe
+pas dans l'histoire des mathématiques une place autrement distinguée. Il
+écrivit à Son Excellence G. C. F. Loevenhjelm, ministre de Suède et
+Norvège à Paris, et recommanda cette publication, qui pourrait être faite
+sous la forme d'un volume supplémentaire au recueil de l'Académie des
+sciences à Stockholm. Loevenhjelm écrivit à son ami intime Berzélius, le 5
+septembre 1831, et recommanda l'affaire dans les termes les plus
+chaleureux.
+
+    Voyons: ne serait-ce pas un crime pour la science, et un bénéfice
+    perdu pour l'honneur et la célébrité scientifiques de la Scandinavie,
+    si des oeuvres qui ont à ce point éveillé l'attention de l'Institut,
+    et mérité à un professeur suppléant inconnu dans une université
+    lointaine de tels jugements, -- si, dis-je, ces oeuvres devaient
+    demeurer inconnues en manuscrit, et peu à peu disparaître du savoir
+    humain.
+
+Il proposait pour sa part de se procurer les ressources nécessaires par
+quelque mécène.
+
+Berzélius écrivit à Hansteen le 27 septembre 1831:
+
+    Je ne peux être juge des mérites d'Abel, mais j'entends qu'ils sont
+    hautement appréciés dans la capitale de la France. Je dois donc croire
+    justifiées les louanges qu'ils obtiennent. Au cas où un honneur
+    national serait à recueillir d'une telle publication, il appartient
+    incontestablement à la Norvège, et il incombe à l'Université de
+    Christiania de préparer l'édition, à laquelle le Storthing, s'il y a
+    lieu, ne refusera pas de contribuer par une subvention. Mais je suis
+    d'autre part tellement habitué aux manières de parler françaises, que
+    je peux très bien me représenter quelque savant français, qui voudrait
+    acheter les oeuvres réunies sous une forme commode pour 15 ou 20
+    francs, et qui essayerait à cet effet de jouer de la grosse caisse. En
+    ce cas il ne faut pas être la dupe de leurs propositions, mais en ce
+    cas aussi, ce sont les mathématiciens compatriotes d'Abel qu'il faut
+    laisser apprécier si, peut-être, tout ne mérite pas, parmi les écrits
+    que ce jeune homme à publiés, d'être conservé par une réédition.
+
+La lettre de Berzélius est caractéristique. Qu'il laissât l'affaire aux
+Norvégiens était naturel et juste. Mais comparez par exemple, son attitude
+réservée, et son doute au sujet de la grandeur d'Abel, avec la position
+prise par Alexandre de Humboldt. Aucun des deux n'était personnellement, à
+aucun degré, en état de juger Abel. Mais Humboldt avait pour conseiller
+Gauss. En Suède, au contraire, il n'y avait personne, à cette époque, dont
+Berzélius pût écouter l'avis avec le moindre profit. La science
+mathématique en Suède était alors, et fut encore longtemps après, on peut
+dire, inconnue, et l'enseignement universitaire était restreint aux
+connaissances les plus modestes et les moins scientifiques sur les
+premiers éléments de géométrie et de trigonométrie.
+
+Ce ne fut qu'en 1836 que la question de la publication des oeuvres d'Abel
+fut soulevée sérieusement en Norvège. Ce fut Holmboe qui s'offrit pour
+faire lui- même ce travail, et qui, en 1839, dix ans après la mort d'Abel,
+put livrer au monde mathématique les _Oeuvres complètes_ d'Abel. Une
+nouvelle édition, augmentée et améliorée, fut publiée par Sophus Lie et
+Sylow en 1881.
+
+Les oeuvres d'Abel tiennent dans un grand volume in-4°. Comme étendue la
+production d'Abel est très inférieure à celle d'autres grands
+mathématiciens. Quel monde de pensées nouvelles, pourtant, est contenu
+dans ce seul volume! Il n'existe guère de travail mathématique de quelque
+importance qui ait paru depuis Abel, et qui n'ait été plus ou moins
+influencé par lui. Les plus grandes créations mathématiques du siècle
+dernier, la théorie des fonctions analytiques et la théorie des fonctions
+abéliennes, sont une continuation directe et immédiate des propres travaux
+d'Abel. « Lisez Abel » était le premier et le dernier conseil de
+Weierstrass aux élèves de mathématiques, et il est bien certain que
+personne encore ne peut se faire une idée de l'époque où ce conseil perdra
+de sa valeur. Lorsque cinquante mathématiciens furent invités à honorer le
+centenaire d'Abel par la publication d'une collection de mémoires qui,
+tous, devaient être une suite directe à quelque travail d'Abel lui-même,
+le résultat fut trois grands volumes in-4° que je pus offrir à
+l'Université de Cristiania aux fêtes du centenaire. Parmi les auteurs se
+trouvent les plus éminents de l'époque. Plusieurs des mémoires ont la plus
+haute valeur. Tous montrent quels horizons nouveaux les idées d'Abel, de
+toutes parts, ont ouverts aux recherches.
+
+Abel a lui-même caractérisé le mieux le genre de sa production dans la
+phrase célèbre qu'il adressait avec un enthousiasme juvénile à Hansteen:
+« La pure mathématique dans sa plus pure signification doit être à
+l'avenir ma seule étude. » Hansteen, lui, avait une toute autre conception
+de la mathématique, qui à ses yeux n'était guère autre chose qu'une
+science auxiliaire pour l'étude de la nature.
+
+Il est incontestable que la position du problème, dans les grandes
+découvertes mathématiques, très souvent provient du monde extérieur, d'un
+effort pour interpréter correctement les données de l'expérience. De là,
+et à cause des services rendus par les mathématiques aux sciences
+expérimentales, la conception s'est généralement répandue que l'objet
+propre des mathématiques est de se mettre au service de ces sciences.
+Aussi, lorsque l'on veut justement glorifier les mathématiques, on le fait
+volontiers en montrant son utilité pour l'interprétation de faits qui sont
+hors d'elles. Même ceux qui se rendent mieux compte, se soumettent souvent
+à cette opinion générale. On se souvient, par exemple, avec quel soin
+Newton dissimulait que la mathématique du ciel fût un résultat du calcul
+infinitésimal, on se souvient de l'hésitation de Gauss à publier sa
+découverte de la véritable essence de l'espace.
+
+Abel est le premier grand mathématicien qui ouvertement et sans détour ait
+jeté le masque. Pour lui la mathématique porte son idéal en elle-même. Son
+objet est le nombre.
