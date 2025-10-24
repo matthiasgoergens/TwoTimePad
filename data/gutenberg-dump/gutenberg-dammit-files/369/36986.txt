@@ -1,0 +1,521 @@
+1996 > HACIA UN SABER DIGITAL
+
+
+[Resumen]
+Vinton Cerf, "el padre del internet" y el fundador de la Internet
+Society (ISOC), explica en enero de 1998, en una entrevista, que "la
+red permite dos cosas (...): como los libros, permite acumular
+conocimientos. Pero sobre todo, los presenta bajo una forma que los
+relaciona con otra información. Mientras que en un libro la información
+se queda aislada." Además, la información contenida en los libros sigue
+siendo la misma, mientras que el internet privilegia la información más
+reciente y regularmente actualizada. Eso cambia nuestra relación con
+respecto al saber. Durante una conferencia organizada en septiembre de
+1996 por la IFIP (International Federation of Information Processing -
+Federación Internacional del Tratamiento de la Información), Dale
+Spender, profesora e investigadora, destaca los cambios aportados por
+el internet en la adquisición del saber y en los métodos de enseñanza.
+
+
+
+La información contenida en los libros sigue siendo la misma, mientras
+que el internet privilegia la información más reciente y regularmente
+actualizada. Eso cambia nuestra relación con respecto al saber.
+
+Vinton Cerf, "el padre del internet" y el fundador de la Internet
+Society (ISOC), explica en enero de 1998, en una entrevista con el
+diario francés Libération, que "la red permite dos cosas (...): como
+los libros, permite acumular conocimientos. Pero sobre todo, los
+presenta bajo una forma que los relaciona con otra información.
+Mientras que en un libro la información se queda aislada."
+
+# Cambios en la enseñanza
+
+Durante una conferencia organizada en septiembre de 1996 por la IFIP
+(International Federation of Information Processing - Federación
+Internacional del Tratamiento de la Información), Dale Spender,
+profesora e investigadora, destaca los cambios aportados por el
+internet en la adquisición del saber y en los métodos de enseñanza. He
+aquí un resumen de su argumentación en dos párrafos.
+
+Durante los últimos quinientos años, la enseñanza se ha basado
+principalmente en la información contenida en los libros. Ahora bien,
+las costumbres vinculadas con el documento impreso no se pueden
+transferir al mundo digital. La enseñanza en línea ofrece posibilidades
+tan novedosas que ya casi no es posible efectuar las distinciones
+tradicionales entre docente y alumno. El paso de la cultura impresa a
+la cultura digital exige reconsiderar enteramente el proceso de
+enseñanza, ya que ahora tenemos la oportunidad, sin precedente, de
+poder influir sobre el tipo de enseñanza que deseamos.
+
+Con la cultura impresa, la información contenida en los libros seguía
+siendo la misma durante bastante tiempo, lo que nos ha incitado a
+pensar que la información era estable. La misma naturaleza de lo
+impreso es vinculada a la noción de verdad, que también es estable.
+Esta estabilidad y el orden que engendra han sido uno de los
+fundamentos de la era industrial y de la revolución científica. Las
+nociones de verdad, de leyes, de objetividad y de pruebas, han sido los
+elementos de referencia de nuestras creencias y de nuestras culturas,
+pero la revolución digital lo cambia todo. De repente la información en
+línea suplanta la información impresa para convertirse en la más fiable
+y la más útil y, en consecuencia, el usuario está dispuesto a pagarla.
+Es esta transformación radical en la naturaleza de la información la
+que debe estar en el centro del debate sobre los métodos de enseñanza.
+
+# Tres experiencias
+
+Así lo demuestra la experiencia de Patrick Rebollar, profesor de
+francés y de literatura francesa en Tokio (Japón), quien escribe en
+julio de 1998: "Mi trabajo de investigación es diferente, mi trabajo
+como profesor es diferente, mi imagen como profesor-investigador de
+lengua y de literatura está totalmente ligada al ordenador, lo que
+tiene sus lados buenos y sus lados malos (sobre todo en la alta
+jerarquía académica, que se compone de personas de edad avanzada y
+tecnológicamente recalcitrante). He dejado de interesarme en algunos
+colegas cercanos geográficamente pero que no tienen nada en común con
+mis ideas, para entrar en contacto con personas desconocidas y ubicadas
+en varios países (y con las que a veces me encuentro en París o en
+Nueva York, con ocasión de las vacaciones o de las conferencias de los
+unos o los otros). La diferencia es sobre todo un ahorro de tiempo para
+todo, luego un cambio del método de documentación, un cambio del método
+en la enseñanza que hace hincapié en la adquisición de métodos de
+investigación por mis estudiantes a expensas de los contenidos (pero
+eso depende de los cursos). Poco a poco, el paradigma reticular es más
+importante que el paradigma jerárquico."
+
+Robert Beard, profesor en la Universidad Bucknell (Estados Unidos),
+destaca en septiembre de 1998: "Como profesor de lengua, creo que la
+web tiene una plétora de nuevos recursos disponibles en el idioma
+estudiado, nuevas herramientas de aprendizaje (ejercicios interactivos
+Java y Shockwave) y de tests, que están disponibles para los
+estudiantes cuando tienen tiempo o les apetece hacerlos, 24 horas al
+día y 7 días a la semana. Tanto para mis colegas como para mí, y por
+supuesto para nuestra institución, el internet también nos permite
+publicar prácticamente sin límite. (...) El internet nos proporcionará
+todo el material pedagógico con el que podamos soñar, incluso notas de
+lectura, ejercicios, tests, evaluaciones y ejercicios interactivos más
+eficaces que antes, por estar éstos más basados en el concepto de
+comunicación."
+
+Russon Wooldridge, profesor en el Departamento de Estudios Franceses de
+la Universidad de Toronto (Canadá), relata en febrero de 2001: "Mis
+actividades de investigación, llevadas a cabo anteriormente en una
+torre de marfil, se hacen ahora casi exclusivamente por colaboraciones
+locales o remotas. (...) Todo mi método de enseñanza aprovecha al
+máximo los recursos del internet (la web y el correo electrónico): los
+dos lugares comunes son el aula de clase y la página web del curso, en
+la cual coloco todo el material didáctico. Pongo a disposición en la
+web todos los datos de mi labor de investigación de los últimos veinte
+años (reedición de libros, artículos, textos integrales de diccionarios
+antiguos en bases de datos interactivas, de tratados del siglo 16,
+etc.). Publico actas de coloquios, edito un periódico, colaboro con
+colegas franceses, poniendo en línea en Toronto lo que ellos no pueden
+publicar en línea en su país. (...) Me doy cuenta de que sin el internet
+mis actividades serían mucho más limitadas, o al menos serían muy
+diferentes de lo que son en la actualidad. Luego, no me imagino el
+futuro sin el internet."
+
+
+
+1996 > EL PROYECTO @FOLIO, UN LECTOR PORTÁTIL DE TEXTOS
+
+
+[Resumen]
+Pierre Schweitzer, arquitecto diseñador en Estrasburgo (Francia),
+concibe en octubre de 1996 el proyecto @folio, un lector portátil de
+textos para leer los que se han sacado del internet. De tamaño pequeño,
+este lector portátil quiere imitar, en forma electrónica, el
+dispositivo técnico del libro, para así proporcionar una memoria de
+facsímiles, unidos a hipervínculos para que resulten más fáciles de
+hojear. Pierre también es el autor de Mot@mot (Palabra@Palabra), un
+software que "corta" las páginas escaneadas del libro, palabra por
+palabra, hasta obtener una serie "líquida" de imágenes-palabras, es
+decir; cadenas de caracteres para adaptar el texto a una pantalla
+pequeña. Para desarrollar su proyecto @folio y su software Mot@Mot,
+Pierre registra una patente internacional en abril de 2001 y crea la
+start-up francesa iCodex en julio de 2002.
+
+
+
+Pierre Schweitzer concibe en octubre de 1996 el proyecto @folio, un
+lector portátil de textos para leer textos sacados del internet.
+
+De tamaño pequeño, este lector portátil quiere imitar, en forma
+electrónica, el dispositivo técnico del libro, para así proporcionar
+una memoria de facsímiles unidos a hipervínculos, para que resulten más
+fáciles de hojear.
+
+# Los inicios del proyecto
+
+Pierre, que es un arquitecto diseñador en Estrasburgo (Francia),
+explica en enero de 2001: "@folio es un lector portátil de textos,
+simple, ligero, autónomo, que el lector alimenta con textos que elige
+en la web, para leerlos en cualquier lugar. También puede imprimir
+documentos personales o profesionales desde un CD-ROM. Los textos son
+guardados de manera más rápida que en una impresora, y no usa ni tinta
+ni papel. Los enlaces hipertexto se mantienen a nivel de una
+encuadernación táctil. (...)
+
+El proyecto nació en el taller de diseño de la École d'Architecture de
+Strasbourg [Escuela de Arquitectura de Estrasburgo], donde yo era
+estudiante. Se desarrolla en la École Nationale Supérieure des Arts et
+Industries de Strasbourg [Escuela Nacional Superior de Artes e
+Industrias de Estrasburgo], con el apoyo del ANVAR de Alsacia [un
+organismo regional que ayuda proyectos tecnológicos nuevos]. Hoy en día
+participo con otros en su formalización, en los prototipos, en el
+diseño, en los software, en la industrialización, en el entorno técnico
+y cultural, etc., para transformar este concepto en un objeto para el
+público."
+
+# El software Mot@mot
+
+Pierre también es el autor de Mot@mot (Palabra@Palabra), un software
+que "corta" las páginas escaneadas del libro, palabra por palabra,
+hasta obtener una serie "líquida" de imágenes-palabras, es decir;
+cadenas de caracteres para adaptar el texto a una pantalla pequeña.
+
+Pierre explica en la misma fecha: "La mayor parte del patrimonio
+escrito queda fijado en los libros, sobre el papel. Para poner estas
+obras en acceso en la web, la digitalización en modo imagen es muy
+efectiva. El proyecto Gallica [la biblioteca digital de la Biblioteca
+National de Francia] es la prueba de esto. Pero sigue existiendo el
+problema de adaptar los facsímiles de origen a nuestras pantallas de
+lectura actuales. Cuando son reducidos brutalmente al tamaño de una
+pantalla, los facsímiles se hacen ilegibles. (...) La solución propuesta
+por Mot@Mot consiste en 'cortar' el libro, palabra por palabra, de
+principio a fin (bueno, las páginas escaneadas del libro...). De esta
+manera, estas palabras quedan como imágenes, no hay reconocimiento de
+caracteres y entonces no hay error posible. Se obtiene una cadena
+'liquida' de imágenes-palabras, que se pueden poner de nuevo en forma
+de página tan fácilmente como una cadena de caracteres. A continuación
+se hace posible adaptarla a una pequeña pantalla, sin perder ninguna
+legibilidad del texto. La tipografía de origen se mantiene, y las
+ilustraciones también."
+
+# La start-up iCodex
+
+Para desarrollar su proyecto @folio y su software Mot@Mot, Pierre
+registra una patente internacional en abril de 2001 y crea la start-up
+francesa iCodex en julio de 2002.
+
+Pierre escribe de nuevo en diciembre de 2006: "La suerte que
+compartimos todos es la de estar viviendo desde dentro, aquí y ahora,
+esta fantástica transformación. Cuando yo nací, en 1963, en la memoria
+de los ordenadores cabían apenas algunas páginas de caracteres. Hoy en
+día, en mi lector portátil caben miles de millones de páginas; una
+verdadera biblioteca de barrio. Mañana, por el efecto combinado de la
+ley de Moore y de la omnipresencia de las redes, el acceso instantáneo
+a las obras y al saber será algo corriente. El soporte de
+almacenamiento en sí ya ni siquiera presentará mucho interés. Sólo
+importarán las comodidades funcionales de uso y la poética de esos
+objetos."
+
+
+
+1997 > LA CONVERGENCIA MULTIMEDIA
+
+
+[Resumen]
+La convergencia multimedia es la convergencia de todos los sectores
+vinculados con la información (la impresión, la edición, la prensa, la
+concepción gráfica, las grabaciones sonoras, las películas, la
+radiodifusión, etc.) tras el uso de las técnicas de digitalización, con
+una aceleración del proceso de producción. La convergencia multimedia
+tiene muchos reveses, por ejemplo, la proliferación de contratos
+precarios para los empleados, la inexistencia de sindicatos para los
+teletrabajadores o el maltrato de los derechos de autor en detrimento
+de los periodistas y de los escritores. ¿Conlleva la convergencia
+multimedia nuevos puestos, como lo aseguran los sindicatos, o conlleva
+la convergencia multimedia despidos? Éste es el tema del Simposio sobre
+Convergencia Multimedia organizado en enero de 1997 por la Organización
+Internacional del Trabajo (OIT), con otros debates que continuarán en
+los años siguientes.
+
+
+
+La convergencia multimedia es la convergencia de todos los sectores
+vinculados con la información (la impresión, la edición, la prensa, la
+concepción gráfica, las grabaciones sonoras, las películas, la
+radiodifusión, etc.) tras el uso de las técnicas de digitalización.
+
+También se puede definir como la convergencia de los sectores de la
+informática, de la telefonía y de la radiotelevisión en una industria
+de la comunicación y de la distribución que utiliza las mismas autovías
+de la información, con la aceleración del proceso de producción.
+
+# ¿De qué se trata concretamente?
+
+La digitalización permite generar, guardar, combinar, almacenar, buscar
+y transmitir textos, sonidos e imágenes, mediante medios sencillos y
+rápidos. Procedimientos similares permiten el procesamiento de la
+escritura, de la música y de las películas, mientras que antes se
+necesitaban soportes variados (como el papel para la escritura, la
+cinta magnética para la música o el celuloide para el cine). Además,
+sectores distintos como la edición (que produce libros) y la industria
+musical (que produce discos) trabajan conjuntamente para producir CD-
+ROM.
+
+Cada contenido es ahora sistemáticamente digitalizado para permitir su
+traslado por vía electrónica y para acelerar el procedimiento material
+de producción. En el mundo editorial por ejemplo, el redactor, el
+diseñador artístico y el diseñador gráfico suelen trabajar
+simultáneamente sobre la misma obra. En la prensa, los periodistas
+envían directamente sus textos para la maquetación, mientras que antes
+el personal de producción tenía que dactilografiar los textos del
+personal de redacción. Gradualmente asistimos a la convergencia de
+todos los sectores vinculados con la información.
+
+# Un simposio internacional
+
+Aunque en algunos sectores este fenómeno pueda generar nuevos empleos -
+por ejemplo, en el campo de la producción de películas o de los
+productos audiovisuales-, otros sectores padecen inquietantes
+reestructuraciones. Estos problemas son tan preocupantes como para
+haber sido objeto de un Simposio sobre Convergencia Multimedia
+organizado en enero de 1997, en Ginebra (Suiza), por la Organización
+Internacional del Trabajo (OIT).
+
+Peter Leisink es profesor asociado de Ciencias Sociales en la
+Universidad de Utrecht (Países Bajos). Explica que la redacción de los
+textos y la corrección de pruebas suele realizarse a domicilio, lo más
+a menudo por trabajadores que se han hecho empresarios individuales
+tras haber sido despedidos, o tras la deslocalización o la fusión de su
+empresa. Precisa que, "ahora bien, esta forma de empleo se parece más a
+un trabajo precario que a un trabajo autónomo, pues las personas que la
+adoptan sólo gozan de una autonomía reducida, y generalmente dependen
+de una sola editorial."
+
+Michel Muller es secretario general de la FILPAC (Fédération des
+Industries du Livre, du Papier et de la Communication - Federación de
+las Industrias del Libro, del Papel y de la Comunicación) de Francia.
+Explica que las industrias gráficas francesas han perdido 20.000
+empleos en diez años, desde 1987 hasta 1996, con efectivos que han
+pasado de 110.000 a 90.000 empleados. Las empresas elaboran planes
+sociales costosos para favorecer la recolocación de los empleados
+despedidos, creando empleos que suelen ser artificiales, mientras que
+hubiera sido preferible costear estudios fiables sobre el modo de
+equilibrar creaciones y supresiones de empleos antes de que fuera
+demasiado tarde.
+
+Walter Durling, director del gigante de las telecomunicaciones AT&T
+(Estados Unidos), insiste en el hecho de que las nuevas tecnologías no
+cambiarán fundamentalmente la situación de los empleados en sus
+empresas. La invención de las películas no mató al teatro, y la
+invención de la televisión tampoco acabó con el cine. Las empresas
+deberían crear empleos vinculados con las nuevas tecnologías y
+proponérselos a aquellos trabajadores que se ven obligados a abandonar
+sus puestos porque éstos se han vuelto obsoletos.
+
+# Masivas supresiones de empleos
+
+Éstos son argumentos muy teóricos, mientras que el problema es más bien
+una cuestión de proporción. ¿Cuántos puestos se han creado, y a cuántos
+trabajadores se ha despedido?
+
+Aparte de algunos casos aislados que las organizaciones de empleadores
+suelen realzar, la convergencia multimedia provoca masivas supresiones
+de empleos. En el mundo entero, muchos puestos de baja cualificación
+técnica son sustituidos por puestos que requieren personal muy
+cualificado. Los trabajadores poco cualificados son despedidos. Otros
+reciben una formación profesional complementaria, teniendo a veces que
+autofinanciarla y que cursarla en su tiempo libre, aunque al final de
+la formación profesional ni siquiera puedan estar seguros de que los
+vuelvan a contratar.
+
+Por su parte, los sindicatos preconizan la creación de empleos mediante
+la inversión, la innovación, la formación para las nuevas tecnologías,
+la reconversión de los trabajadores cuyos empleos han sido suprimidos,
+una negociación colectiva justa, la defensa de los derechos de autor,
+una mejor protección de los trabajadores del sector artístico, y por
+último, la defensa de los teletrabajadores hasta que sean considerados
+como trabajadores de pleno derecho.
+
+
+
+1997 > UN PORTAL PARA LAS BIBLIOTECAS NACIONALES EUROPEAS
+
+
+[Resumen]
+El portal Gabriel -acrónimo de "Gateway and Bridge to Europe's National
+Libraries" (Puerta y puente hacia las bibliotecas nacionales de
+Europa)- ofrece un punto de acceso común a los servicios internet de
+las bibliotecas nacionales europeas. La idea de un portal común nace en
+1994, durante la reunión anual de la Conferencia de Directores de
+Bibliotecas Nacionales (CENL: Conference of European National
+Librarians), en Oslo (Noruega). En marzo de 1995, una nueva reunión
+reúne a los representantes de la bibliotecas nacionales de los Países
+Bajos, del Reino Unido y de Finlandia, que perfilan un proyecto piloto
+al que se unen luego las bibliotecas nacionales de Alemania, de Francia
+y de Polonia. Un primer sitio Gabriel es lanzado en septiembre de 1995.
+Durante la reunión anual de la CENL en 1996, en Lisboa (Portugal),
+Gabriel se convierte en un sitio oficial de la CENL, con un nuevo
+portal trilingüe (en alemán, inglés y francés) lanzado en enero de
+1997.
+
+
+
+Lanzado en enero de 1997, Gabriel es un portal trilingüe que ofrece un
+punto de acceso común a los servicios internet de las bibliotecas
+nacionales europeas.
+
+# El sitio web de Gabriel
+
+Gabriel es el acrónimo de "Gateway and Bridge to Europe's National
+Libraries" (Puerta y puente hacia las bibliotecas nacionales de
+Europa).
+
+Se lee en el sitio que, la elección del nombre Gabriel, "también
+recuerda las obras de Gabriel Naudé, cuya 'Advis pour dresser une
+bibliothèque' [Aviso para establecer una biblioteca -París, 1627-], es
+el primer trabajo teórico en Europa sobre las bibliotecas y constituye,
+por lo tanto, un punto de partida sobre las bibliotecas de
+investigación modernas. El nombre Gabriel también se utiliza en muchos
+idiomas europeos y viene del Antiguo Testamento, Gabriel siendo uno de
+los arcángeles, o un mensajero celestial. También está presente en el
+Nuevo Testamento y en el Corán."
+
+En 1998, el sitio ofrece enlaces hipertexto hacia los servicios
+internet de las 38 bibliotecas nacionales participantes (Austria,
+Bélgica, Bulgaria, Dinamarca, Estonia, Finlandia, Francia, Grecia,
+Hungría, Irlanda, Islandia, Italia, Letonia, Liechtenstein, Lituania,
+Luxemburgo, Macedonia, Malta, Noruega, Países Bajos, Polonia, Portugal,
+Reino Unido, República Checa, República Eslovaca, Rumania, San Marino,
+Suecia, Suiza, Turquía y el Vaticano).
+
+Los servicios internet son muy diferentes de una biblioteca a otra, con
+una lista completa por biblioteca. Estos servicios son, por ejemplo,
+catálogos en línea también llamados OPAC (Online Public Access
+Catalogs), bibliografías nacionales, catálogos colectivos nacionales,
+índices de periódicos, servidores web y gophers (es decir, sistemas de
+información basados en menús textuales a varios niveles). Una sección
+específica proporciona información sobre proyectos conjuntos en varios
+países. Una búsqueda es posible por país o por tipo de servicio.
+
+#  El historial de Gabriel
+
+¿Cómo se ve a Gabriel hoy en día ? La idea de un proyecto común a las
+bibliotecas nacionales europeas nace durante la reunión anual de la
+Conferencia de Directores de Bibliotecas Nacionales (CENL: Conference
+of European National Librarians), en 1994, en Oslo (Noruega). El
+proyecto se inicia con un boletín electrónico común actualizado con los
+proyectos internet en curso.
+
+En marzo de 1995, una nueva reunión reúne a los representantes de las
+bibliotecas nacionales de los Países Bajos (Koninklijke Bibliotheek),
+del Reino Unido (British Library) y de Finlandia (Helsinki University
+Library), los que perfilan un proyecto piloto al que se unen luego las
+bibliotecas nacionales de Alemania (Die Deutsche Bibliothek), la de
+Francia (Bibliothèque Nationale de France) y la de Polonia (Biblioteka
+Narodowa). Gabriel describiría sus servicios y colecciones en un
+intento de influir en otras bibliotecas nacionales para participar en
+el proyecto.
+
+Lanzado en septiembre de 1995, el primer sitio Gabriel es gestionado
+por la British Library, que es la responsable de actualizar su
+contenido, con dos sitios espejo en los servidores de las bibliotecas
+nacionales de los Países Bajos y de Finlandia.
+
+La segunda etapa tiene lugar entre octubre de 1995 y septiembre de
+1996. Se invita a las bibliotecas nacionales que no han participado en
+la fase piloto a unirse al proyecto, porque entretanto han lanzado sus
+propios sitios web y sus catálogos en línea. Por lo tanto, aumenta el
+número de bibliotecas que utilizan Gabriel como portal común.
+
+Durante su reunión anual en septiembre de 1996 en Lisboa (Portugal), la
+CENL decide tomar Gabriel bajo su mando y crear un portal oficial
+trilingüe (en alemán, inglés y francés) a partir de enero de 1997. Este
+portal es gestionado por la biblioteca nacional de los Países Bajos
+(Koninklijke Bibliotheek), con cuatro sitios espejo en los servidores
+de las bibliotecas nacionales del Reino Unido, de Finlandia, de
+Alemania y de Eslovenia.
+
+Mucho más tarde, en el verano de 2005, Gabriel se une a otro proyecto,
+el sitio web de la Biblioteca Europea (lanzado por la CENL en enero de
+2004), para proponer un portal común único para las 43 bibliotecas
+nacionales europeas. Europeana, la biblioteca digital europea, aparece
+tres años más tarde, en noviembre de 2008.
+
+# Las bibliotecas públicas
+
+¿Qué pasa con las bibliotecas públicas en Europa? En el sitio web de la
+Unión Europea, el documento "Internet and the Library Sphere" (Internet
+y la esfera de las bibliotecas) estima aproximadamente en 1.000 el
+número de bibliotecas públicas que tienen un sitio web en noviembre de
+1998. Estas bibliotecas pertenecen a 26 países. Los países más
+representados son Finlandia (247 bibliotecas), Suecia (132
+bibliotecas), Alemania (102 bibliotecas), los Países Bajos (72
+bibliotecas), Lituania (51 bibliotecas), España (56 bibliotecas) y
+Noruega (45 bibliotecas). Rusia tiene un sitio web común para 26
+bibliotecas públicas. Los nuevos países representados son la República
+Checa (29 bibliotecas) y Portugal (3 bibliotecas). Los sitios son muy
+heterogéneos; algunos se contentan con dar la dirección postal de la
+biblioteca y sus horas de operación, mientras que otros ofrecen una
+amplia gama de servicios que incluyen un acceso directo a su catálogo
+en línea.
+
+
+
+1997 > E INK, TECNOLOGÍA DE TINTA ELECTRÓNICA
+
+
+[Resumen]
+Las investigaciones sobre el papel electrónico están ya en curso en
+1997. Varios equipos trabajan sobre diferentes proyectos, por ejemplo,
+sobre el proyecto E Ink y el proyecto Gyricon. En abril de 1997, los
+investigadores del Media Lab del MIT (Massachusetts Institute of
+Technology - Instituto de Tecnología de Massachusetts) crean la
+compañía E Ink para desarrollar una tecnología de tinta electrónica.
+Muy brevemente, así es la tecnología: atrapadas entre dos láminas de
+plástico flexible, millones de microcápsulas contienen cada una
+partículas blancas y negras suspendidas en un líquido claro. Un campo
+eléctrico positivo o negativo permite indicar el grupo de partículas
+deseado en la superficie del soporte, para así ver, modificar o borrar
+datos. La primera pantalla con esta tecnología está disponible en julio
+de 2002, y se comercializa en 2004. Siguen otras pantallas para varias
+tabletas de lectura (Librié, Sony Reader, Cybook, Kindle, Nook, etc.),
+y prototipos de las primeras pantallas flexibles que anuncian el
+verdadero papel electrónico. El proyecto Gyricon, con una tecnología
+diferente, es desarrollado por la misma fecha por un equipo de Xerox.
+
+
+
+Las investigaciones sobre el papel electrónico están ya en curso en
+1997. Varios equipos trabajan sobre proyectos diferentes, por ejemplo
+sobre el proyecto E Ink y el proyecto Gyricon.
+
+Se trata de un sustrato flexible, con una densidad comparable a la del
+papel plastificado o a la del plástico transparente. Se podrá utilizar
+este soporte flexible indefinidamente y modificar el texto a voluntad
+por medio de una conexión sin cable al internet. Si el concepto es
+revolucionario, el producto en sí mismo es el resultado de la fusión
+entre tres ciencias: la química, la física y la electrónica.
+
+# La tecnología E Ink
+
+En abril de 1997, los investigadores del Media Lab del MIT
+(Massachusetts Institute of Technology - Instituto de Tecnología de
+Massachusetts) crean la compañía E Ink para desarrollar una tecnología
+de tinta electrónica.
+
+Muy brevemente, así es la tecnología: atrapadas entre dos láminas de
+plástico flexible, millones de microcápsulas contienen cada una
+partículas blancas y negras suspendidas en un líquido claro. Un campo
+eléctrico positivo o negativo permite indicar el grupo de partículas
+deseado en la superficie del soporte, para así ver, modificar o borrar
+datos.
+
+En julio de 2002, E Ink presenta el prototipo de la primera pantalla
+con esta tecnología, una pantalla de alta resolución con matriz activa
+desarrollada en colaboración con las empresas Toppan y Philips. Se
+comercializa esta pantalla en 2004. Siguen otras pantallas para varias
+tabletas de lectura (Librié, Sony Reader, Cybook, Kindle, Nook, etc.),
+y prototipos de las primeras pantallas flexibles que anuncian el
+verdadero papel electrónico.
+
+Pantallas utilizando la tecnología E Ink sustituyen poco a poco a las
+pantallas LCD. La primera tableta con una pantalla E Ink de 6 pulgadas
+es la Librié, que Sony lanza en abril de 2004 en Japón. Sigue el Sony
+Reader, disponible en octubre de 2006 en los Estados Unidos, con una
+pantalla que utiliza una tecnología E Ink más avanzada, es decir, "una
+pantalla que ofrece una experiencia de lectura excelente, muy próxima a
+la del verdadero papel, y que no fatiga los ojos" (Mike Cook, autor del

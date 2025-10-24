@@ -1,0 +1,331 @@
+Don't assume that everyone is using ``rn'' on a Unix machine.  There
+are Vaxen running VMS, IBM mainframes, Amigas, and MS-DOS PCs reading
+and posting to Usenet.  And, yes, some of them use (shudder) EBCDIC.
+Ignore them if you like, but they're out there.
+
+Usenet is not software.
+There are dozens of software packages used at various sites to
+transport and read Usenet articles.  So no one program or package can
+be called ``the Usenet software.''
+
+Software designed to support Usenet traffic can be (and is) used for
+other kinds of communication, usually without risk of mixing the two.
+Such private communication networks are typically kept distinct from
+Usenet by the invention of newsgroup names different from the
+universally-recognized ones.
+
+Usenet is not a UUCP network.
+
+UUCP is a protocol (some might say protocol suite, but that's a
+technical point) for sending data over point-to-point connections,
+typically using dialup modems.  Usenet is only one of the various
+kinds of traffic carried via UUCP, and UUCP is only one of the various
+transports carrying Usenet traffic.
+
+Well, enough negativity.
+
+Propagation of News
+
+In the old days, when UUCP over long-distance dialup lines was the
+dominant means of article transmission, a few well-connected sites
+had real influence in determining which newsgroups would be carried
+where. Those sites called themselves ``the backbone.''
+
+But things have changed.  Nowadays, even the smallest Internet site
+has connectivity the likes of which the backbone admin of yesteryear
+could only dream.  In addition, in the U.S., the advent of cheaper
+long-distance calls and high-speed modems has made long-distance
+Usenet feeds thinkable for smaller companies.  There is only one
+pre-eminent UUCP transport site today in the U.S., namely UUNET.  But
+UUNET isn't a player in the propagation wars, because it never
+refuses any traffic---it gets paid by the minute, after all; to
+refuse based on content would jeopardize its legal status as an
+enhanced service provider.
+
+All of the above applies to the U.S.  In Europe, different cost
+structures favored the creation of strictly controlled hierarchical
+organizations with central registries.  This is all very unlike the
+traditional mode of U.S. sites (pick a name, get the software, get a
+feed, you're on).  Europe's ``benign monopolies'', long uncontested,
+now face competition from looser organizations patterned after the
+U.S. model.
+
+Group Creation
+
+As discussed above, Usenet is not a democracy.  Nevertheless,
+currently the most popular way to create a new newsgroup involves a
+``vote'' to determine popular support for (and opposition to) a
+proposed newsgroup. Newsgroup Creation, for detailed instructions and
+guidelines on the process involved in making a newsgroup.
+
+If you follow the guidelines, it is probable that your group will be
+created and will be widely propagated.  However, due to the nature of
+Usenet, there is no way for any user to enforce the results of a
+newsgroup vote (or any other decision, for that matter).  Therefore,
+for your new newsgroup to be propagated widely, you must not only
+follow the letter of the guidelines; you must also follow its spirit.
+And you must not allow even a whiff of shady dealings or dirty tricks
+to mar the vote.
+
+So, you may ask: How is a new user supposed to know anything about the
+``spirit'' of the guidelines?  Obviously, she can't.  This fact leads
+inexorably to the following recommendation:
+
+If you're a new user, don't try to create a new newsgroup alone.
+
+If you have a good newsgroup idea, then read the news.groups
+newsgroup for a while (six months, at least) to find out how things
+work.  If you're too impatient to wait six months, then you really
+need to learn; read news.groups for a year instead.  If you just
+can't wait, find a Usenet old hand to run the vote for you.
+
+Readers may think this advice unnecessarily strict.  Ignore it at your
+peril.  It is embarrassing to speak before learning.  It is foolish to
+jump into a society you don't understand with your mouth open.  And it
+is futile to try to force your will on people who can tune you out
+with the press of a key.
+
+If You're Unhappy...
+Property rights being what they are, there is no higher authority on
+Usenet than the people who own the machines on which Usenet traffic is
+carried.  If the owner of the machine you use says, ``We will not
+carry alt.sex on this machine,'' and you are not happy with
+that order, you have no Usenet recourse.  What can we outsiders do,
+after all?
+
+That doesn't mean you are without options.  Depending on the nature
+of your site, you may have some internal political recourse.  Or you
+might find external pressure helpful.  Or, with a minimal investment,
+you can get a feed of your own from somewhere else. Computers capable
+of taking Usenet feeds are down in the $500 range now, Unix-capable
+boxes are going for under $2000, and there are at least two Unix
+lookalikes in the $100 price range.
+
+No matter what, appealing to ``Usenet'' won't help.  Even if those who
+read such an appeal regarding system administration are sympathetic to
+your cause, they will almost certainly have even less influence at
+your site than you do.
+
+By the same token, if you don't like what some user at another site is
+doing, only the administrator and/or owner of that site have any
+authority to do anything about it.  Persuade them that the user in
+question is a problem for them, and they might do something (if they
+feel like it).  If the user in question is the administrator or owner
+of the site from which he or she posts, forget it; you can't win.
+Arrange for your newsreading software to ignore articles from him or
+her if you can, and chalk one up to experience.
+
+The History of Usenet (The ABCs)
+
+In the beginning, there were conversations, and they were good.  Then
+came Usenet in 1979, shortly after the release of V7 Unix with UUCP;
+and it was better.  Two Duke University grad students in North
+Carolina, Tom Truscott and Jim Ellis, thought of hooking computers
+together to exchange information with the Unix community.  Steve
+Bellovin, a grad student at the University of North Carolina, put
+together the first version of the news software using shell scripts
+and installed it on the first two sites: unc and duke. At the
+beginning of 1980 the network consisted of those two sites and phs
+(another machine at Duke), and was described at the January 1980
+Usenix conference in Boulder, CO. {The Usenix conferences are
+semi-annual meetings where members  of the Usenix Association, a
+group of Unix enthusiasts, meet and trade notes.} Steve Bellovin
+later rewrote the scripts into C programs, but they were never
+released beyond unc and duke.  Shortly thereafter, Steve Daniel did
+another implementation in the C programming language for public
+distribution.  Tom Truscott made further modifications, and this
+became the ``A'' news release.
+
+In 1981 at the University of California at Berkeley, grad student Mark
+Horton and high school student Matt Glickman rewrote the news software
+to add functionality and to cope with the ever increasing volume of
+news---``A'' news was intended for only a few articles per group per
+day.  This rewrite was the ``B'' news version.  The first public
+release was version 2.1 in 1982; all versions before 2.1 were
+considered in beta test.  As The Net grew, the news software was
+expanded and modified.  The last version maintained and released
+primarily by Mark was 2.10.1.
+
+Rick Adams, then at the Center for Seismic Studies, took over
+coordination of the maintenance and enhancement of the news software
+with the 2.10.2 release in 1984.  By this time, the increasing volume
+of news was becoming a concern, and the mechanism for moderated groups
+was added to the software at 2.10.2.  Moderated groups were inspired
+by ARPA mailing lists and experience with other bulletin board
+systems.  In late 1986, version 2.11 of news was released, including a
+number of changes to support a new naming structure for newsgroups,
+enhanced batching and compression, enhanced ihave/sendme control
+messages, and other features.  The current release of news is 2.11,
+patchlevel 19.
+
+A new version of news, becoming known as ``C'' news, has been
+developed at the University of Toronto by Geoff Collyer and Henry
+Spencer.  This version is a rewrite of the lowest levels of news to
+increase article processing speed, decrease article expiration
+processing and improve the reliability of the news system through
+better locking, etc.  The package was released to The Net in the
+autumn of 1987.  For more information, see the paper News Need Not Be
+Slow, published in the Winter 1987 Usenix Technical Conference
+proceedings.
+
+Usenet software has also been ported to a number of platforms, from
+the Amiga and IBM PCs all the way to minicomputers and mainframes.
+
+Hierarchies
+Newsgroups are organized according to their specific areas of
+concentration.  Since the groups are in a tree structure, the
+various areas are called hierarchies.  There are seven major categories:
+
+ 
+comp
+Topics of interest to both computer professionals and
+hobbyists, including topics in computer science, software sources, and
+information on hardware and software systems.
+
+misc
+Group addressing themes not easily classified into any of the other
+headings or which incorporate themes from multiple categories.
+Subjects include fitness, job-hunting, law, and investments.
+
+sci
+Discussions marked by special knowledge relating to research in or
+application of the established sciences.
+
+ soc
+Groups primarily addressing social issues and socializing.  Included
+are discussions related to many different world cultures.
+
+ talk
+Groups largely debate-oriented and tending to feature long
+discussions without resolution and without appreciable amounts of
+generally useful information.
+
+ news
+Groups concerned with the news network, group maintenance, and software.
+
+ rec
+Groups oriented towards hobbies and recreational activities
+
+These ``world'' newsgroups are (usually) circulated around the entire
+Usenet---this implies world-wide distribution.  Not all groups
+actually enjoy such wide distribution, however.  The European Usenet
+and Eunet sites take only a selected subset of the more ``technical''
+groups, and controversial ``noise'' groups are often not carried by many
+sites in the U.S. and Canada (these groups are primarily under the talk
+and soc classifications).  Many sites do not carry some or all of
+the comp.binaries groups because of the typically large size of
+the posts in them (being actual executable programs).
+
+Also available are a number of ``alternative'' hierarchies:
+
+ 
+ alt
+True anarchy; anything and everything can and does appear;
+subjects include sex, the Simpsons, and privacy.
+
+ gnu
+Groups concentrating on interests and software with the GNU
+Project of the Free Software Foundation. For further info on what the
+FSF is, FSF.
+
+ biz
+Business-related groups.
+
+Moderated vs Unmoderated
+
+Some newsgroups insist that the discussion remain focused and
+on-target; to serve this need, moderated groups came to be.  All
+articles posted to a moderated group get mailed to the group's
+moderator.  He or she periodically (hopefully sooner than later)
+reviews the posts, and then either posts them individually to Usenet,
+or posts a composite digest of the articles for the past day or
+two.  This is how many mailing list gateways work (for example, the
+Risks Digest).
+
+news.groups & news.announce.newgroups
+
+Being a good net.citizen includes being involved in the continuing
+growth and evolution of the Usenet system.  One part of this
+involvement includes following the discussion in the groups
+news.groups and the notes in news.announce.newgroups. It is there
+that discussion goes on about the creation of new groups and
+destruction of inactive ones.  Every person on Usenet is allowed and
+encouraged to vote on the creation of a newsgroup.
+
+How Usenet Works
+
+The transmission of Usenet news is entirely cooperative.  Feeds are
+generally provided out of good will and the desire to distribute news
+everywhere.  There are places which provide feeds for a fee (e.g.
+UUNET), but for the large part no exchange of money is involved.
+
+There are two major transport methods, UUCP and NNTP.  The first is
+mainly modem-based and involves the normal charges for telephone
+calls.  The second, NNTP, is the primary method for distributing news
+over the Internet.
+
+With UUCP, news is stored in batches on a site until the
+neighbor calls to receive the articles, or the feed site happens to
+call.  A list of groups which the neighbor wishes to receive is
+maintained on the feed site.  The Cnews system compresses its batches,
+which can dramatically reduce the transmission time necessary for a
+relatively heavy newsfeed.
+
+NNTP, on the other hand, offers a little more latitude with how news
+is sent.  The traditional store-and-forward method is, of course,
+available.  Given the ``real-time'' nature of the Internet, though,
+other methods have been devised.  Programs now keep constant
+connections with their news neighbors, sending news nearly
+instantaneously, and can handle dozens of simultaneous feeds, both
+incoming and outgoing.
+
+The transmission of a Usenet article is centered around the unique
+Message-ID: header.  When an NNTP site offers an article to a
+neighbor, it says it has that specific Message ID.  If the neighbor
+finds it hasn't received the article yet, it tells the feed to send it
+through; this is repeated for each and every article that's waiting
+for the neighbor.  Using unique IDs helps prevent a system from
+receiving five copies of an article from each of its five news
+neighbors, for example.
+
+Further information on how Usenet works with relation to the various
+transports is available in the documentation for the Cnews and NNTP
+packages, as well as in RFC-1036, the Standard for Interchange of
+USENET Messages and RFC-977, Network News Transfer Protocol: A
+Proposed Standard for the Stream-Based Transmission of News.  The
+RFCs do tend to be rather dry reading, particularly to the new user.
+
+ 
+Mail Gateways
+
+A natural progression is for Usenet news and electronic mailing lists
+to somehow become merged---which they have, in the form of news
+gateways.  Many mailing lists are set up to ``reflect'' messages not
+only to the readership of the list, but also into a newsgroup.
+Likewise, posts to a newsgroup can be sent to the moderator of the
+mailing list, or to the entire mailing list.  Some examples of this in
+action are comp.risks (the Risks Digest) and
+comp.dcom.telecom (the Telecom Digest).
+
+This method of propagating mailing list traffic has helped solve the
+problem of a single message being delivered to a number of people at
+the same site---instead, anyone can just subscribe to the group.
+Also, mailing list maintenance is lowered substantially, since the
+moderators don't have to be constantly removing and adding users to
+and from the list.  Instead, the people can read and not read the
+newsgroup at their leisure.
+
+from ``Dear Emily Postnews'' by Brad Templeton
+Usenet ``Netiquette''
+
+There are many traditions with Usenet, not the least of which is
+dubbed netiquette---being polite and considerate of others.  If
+you follow a few basic guidelines, you, and everyone that reads your
+posts, will be much happier in the long run.
+
+ Signatures
+
+At the end of most articles is a small blurb called a person's
+signature.  In Unix this file is named .signature in the
+person's login directory---it will vary for other operating systems.
+It exists to provide information about how to get in touch with the
