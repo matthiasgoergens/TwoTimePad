@@ -1,0 +1,211 @@
+DOMAINE PUBLIC ET COPYRIGHT
+
+
+Chose inquiétante à l'heure d'une société dite de l'information, le
+domaine public se réduit comme peau de chagrin. A une époque qui n'est
+pas si lointaine, 50% des oeuvres appartenaient au domaine public, et
+pouvaient donc être librement utilisées par tous. D'ici 2100, 99% des
+oeuvres seraient régies par le droit d'auteur, avec un maigre 1% laissé
+au domaine public. Un problème épineux pour tous ceux qui gèrent des
+bibliothèques numériques, et qui affecte aussi bien le Projet Gutenberg
+que Google Books.
+
+Si le Projet Gutenberg s'est donné pour mission de diffuser
+gratuitement par voie électronique le plus grand nombre possible
+d'oeuvres du domaine public, sa tâche n'est guère facilitée par les
+coups de boutoir portés au domaine public. Michael Hart, son fondateur,
+se penche sur la question depuis plus de trente ans, avec l'aide d'un
+groupe d'avocats spécialisés dans le droit d'auteur.
+
+Dans la section Copyright HowTo, le Projet Gutenberg détaille les
+calculs à faire pour déterminer si un titre publié aux Etats-Unis
+appartient ou non au domaine public. Les oeuvres publiées avant 1923
+sont soumises au droit d'auteur pendant 75 ans à partir de leur date de
+publication (elles sont donc maintenant dans le domaine public). Les
+oeuvres publiées entre 1923 et 1977 sont soumises au droit d'auteur
+pendant 95 ans à partir de leur date de publication (rien ne tombera
+dans le domaine public avant 2019). Une oeuvre publiée en 1998 et les
+années suivantes est soumise au droit d'auteur pendant 70 ans à partir
+de la date du décès de l'auteur s'il s'agit d'un auteur personnel (rien
+dans le domaine public avant 2049), ou alors pendant 95 ans à partir de
+la date de publication - ou 120 ans à partir de la date de création -
+s'il s'agit d'un auteur collectif (rien dans le domaine public avant
+2074). Tout ceci dans les grandes lignes. D'autres règles viennent
+s'ajouter à ces règles de base, la loi sur le copyright ayant été
+amendée plusieurs fois fois depuis 1971, date de fondation du Projet
+Gutenberg.
+
+Nettement plus contraignant que l'amendement précédent, une nouveau
+renforcement du copyright est entériné par le Congrès le 27 octobre
+1998 pour contrer le formidable véhicule de diffusion qu'est
+l'internet. Au fil des siècles, chaque avancée technique est
+accompagnée d'un durcissement du copyright, qui semble être la réponse
+des éditeurs à un accès plus facile au savoir, et la peur afférente de
+perdre des royalties. «Le copyright a été augmenté de 20 ans, explique
+Michael Hart en juillet 1999. Auparavant on devait attendre 75 ans, on
+est maintenant passé à 95 ans. Bien avant, le copyright durait 28 ans
+(plus une extension de 28 ans si on la demandait avant l'expiration du
+délai) et, avant cela, le copyright durait 14 ans (plus une extension
+de 14 ans si on la demandait avant l'expiration du délai). Comme on le
+voit, on assiste à une dégradation régulière et constante du domaine
+public.»
+
+Les dates évoquées par Michael sont les suivantes, comme expliqué en
+détail dans son blog:
+
+(a) 1790 est la date de la main-mise de la Guilde des imprimeurs (les
+éditeurs de l'époque en Angleterre) sur les auteurs, qui entraîne la
+naissance du copyright. Le 1790 Copyright Act institue un copyright de
+14 ans après la date de publication de l'oeuvre, plus une extension de
+28 ans si celle-ci est demandée avant l'expiration du délai. Les
+oeuvres pouvant être légalement imprimées passent subitement de 6.000 à
+600, et neuf titres sur dix disparaissent des librairies. Quelque 335
+ans après les débuts de l'imprimerie, censée ouvrir les portes du
+savoir à tous, le monde du livre est désormais contrôlé par les
+éditeurs et non plus par les auteurs. Cette nouvelle législation est
+également effective aux Etats-Unis et en France.
+
+(b) 1831 est la date d'un premier renforcement du copyright pour
+contrer la réédition de vastes collections du domaine public sur les
+nouvelles presses à vapeur. Le 1831 Copyright Act institue un copyright
+de 28 ans après la date de publication de l'oeuvre, plus une extension
+de 14 ans si celle-ci est demandée avant l'expiration du délai, à
+savoir un total de 42 ans.
+
+(c) 1909 est la date d'un deuxième renforcement du copyright pour
+contrer une réédition des collections du domaine public sur les
+nouvelles presses électriques. Le 1909 Copyright Act double la période
+de l'extension, qui passe à 28 ans, le tout représentant un total de 56
+ans.
+
+(d) 1976 est la date d'un nouveau durcissement du copyright suite
+l'apparition de la photocopieuse lancée par Xerox. Le 1976 Copyright
+Act institue un copyright de 50 ans après le décès de l'auteur. De ce
+fait, tout copyright en cours avant le 19 septembre 1962 n'expire pas
+avant le 31 décembre 1976.
+
+(e) 1998 est la date d'un durcissement supplémentaire du copyright
+suite au développement rapide des technologies numériques et aux
+centaines de milliers d'oeuvres désormais disponibles sur CD et DVD et
+sur le web, gratuitement ou à un prix très bas. Le 1998 Copyright Act
+allonge la durée du copyright qui est désormais de 70 ans après le
+décès de l'auteur, pour protéger l'empire Disney (raison pour laquelle
+on parle souvent de Mickey Mouse Copyright Act) et nombre de
+multinationales culturelles.
+
+Pour ne prendre qu'un exemple, le classique mondial "Gone With the
+Wind" ("Autant en emporte le vent") de Margaret Mitchell, publié en
+1939, aurait dû tomber dans le domaine public au bout de 56 ans, en
+1995, conformément à la législation de l'époque, libérant ainsi les
+droits pour les adaptations en tous genres. Suite aux législations de
+1976 et 1998, ce classique ne devrait désormais tomber dans le domaine
+public qu'en 2035.
+
+La législation de 1998 porte un coup très rude aux bibliothèques
+numériques, en plein essor avec le développement du web, et
+scandalisent ceux qui les gèrent, à commencer par Michael Hart et John
+Mark Ockerbloom, créateur de l'Online Books Page. Mais comment faire le
+poids vis-à-vis des majors de l'édition? Nombre de titres doivent être
+retirés des collections.
+
+John Mark explique en août 1999: «A mon avis, il est important que les
+internautes comprennent que le copyright est un contrat social conçu
+pour le bien public - incluant à la fois les auteurs et les lecteurs.
+Ceci signifie que les auteurs doivent avoir le droit d'utiliser de
+manière exclusive et pour un temps limité les oeuvres qu'ils ont
+créées, comme ceci est spécifié dans la loi actuelle sur le copyright.
+Mais ceci signifie également que leurs lecteurs ont le droit de copier
+et de réutiliser ce travail autant qu'ils le veulent à l'expiration de
+ce copyright. Aux Etats-Unis, on voit maintenant diverses tentatives
+visant à retirer ces droits aux lecteurs, en limitant les règles
+relatives à l'utilisation de ces oeuvres, en prolongeant la durée du
+copyright (y compris avec certaines propositions visant à le rendre
+permanent) et en étendant la propriété intellectuelle à des travaux
+distincts des oeuvres de création (comme on en trouve dans les
+propositions de copyright pour les bases de données). Il existe même
+des propositions visant à entièrement remplacer la loi sur le copyright
+par une loi instituant un contrat beaucoup plus lourd. Je trouve
+beaucoup plus difficile de soutenir la requête de Jack Valenti,
+directeur de la MPAA (Motion Picture Association of America), qui
+demande d'arrêter de copier les films sous copyright, quand je sais
+que, si ceci était accepté, aucun film n'entrerait jamais dans le
+domaine public (...). Si on voit les sociétés de médias tenter de
+bloquer tout ce qu'elles peuvent, je ne trouve pas surprenant que
+certains usagers réagissent en mettant en ligne tout ce qu'ils peuvent.
+Malheureusement, cette attitude est à son tour contraire aux droits
+légitimes des auteurs.»
+
+Michael raconte en juillet 1999: «J'ai été le principal opposant aux
+extensions du copyright, mais Hollywood et les grands éditeurs ont fait
+en sorte que le Congrès ne mentionne pas mon action en public. Les
+débats actuels sont totalement irréalistes. Ils sont menés par
+"l'aristocratie terrienne de l'âge de l'information" et servent
+uniquement ses intérêts. Un âge de l'information? Et pour qui?»
+
+En effet. Les instances politiques ne cessent de parler d'âge de
+l'information alors que, en parallèle, elles durcissent la
+réglementation relative à la mise à disposition de cette information.
+La contradiction est flagrante. Le copyright est passé d'une durée de
+30 ans en moyenne en 1909 à une durée de 95 ans en moyenne en 1998,
+explique aussi Michael dans son blog. En 89 ans, de 1909 à 1998, le
+copyright a subi une extension de 65 ans qui affecte les trois quarts
+de la production du 20e siècle. Seul un livre publié avant 1923 peut
+être considéré avec certitude comme du domaine public.
+
+Un durcissement similaire touche les pays de l'Union européenne. La
+règle générale est désormais un copyright de 70 ans après le décès de
+l'auteur, alors qu'il était auparavant de 50 ans, suite aux pressions
+exercées par les éditeurs de contenu sous le prétexte d'«harmoniser»
+les lois nationales relatives au copyright pour répondre à la
+mondialisation du marché.
+
+
+
+DU PASSE  VERS L'AVENIR
+
+
+Les résultats du Projet Gutenberg ne se mesurent pas seulement à des
+chiffres, qui restent assez modestes par rapport au nombre de livres
+imprimés appartenant au domaine public. Les résultats se mesurent
+également à l'influence du projet, qui est considérable. Premier site
+d'information sur l'internet et première bibliothèque numérique, le
+Projet Gutenberg a inspiré bien d'autres bibliothèques numériques au
+fil des ans, par exemple le Projekt Runeberg pour la littérature
+scandinave ou le Projekt Gutenberg-DE pour la littérature allemande,
+pour n'en citer que deux.
+
+La structure administrative et financière du Projet Gutenberg se limite
+au strict minimum, avec une devise qui tient en trois mots: «Less is
+more.» Michael Hart insiste régulièrement sur la nécessité d'un cadre
+aussi souple que possible laissant toute initiative aux volontaires, et
+la porte grande ouverte aux idées nouvelles. Le but est d'assurer la
+pérennité du projet indépendamment des crédits, des coupures de crédits
+et des priorités culturelles, financières et politiques du moment. Pas
+de pression possible donc par le pouvoir et par l'argent. Et respect à
+l'égard des volontaires, qui sont assurés de voir leur travail utilisé
+pendant de nombreuses années, si ce n'est pour plusieurs générations,
+d'où l'intérêt d'un format numérique qui soit toujours valable dans
+quelques siècles. Le suivi régulier du projet est assuré grâce à une
+lettre d'information hebdomadaire et mensuelle, des forums de
+discussion, des wikis et des blogs.
+
+Les dons servent à financer des ordinateurs et des scanners, et à
+envoyer des CD et DVD gratuits à tous ceux qui en font la demande.
+Suite au CD Best of Gutenberg disponible en août 2003 avec une
+sélection de 600 titres et à un premier DVD disponible en décembre 2003
+avec 9.400 titres, un deuxième DVD est disponible en juillet 2006 avec
+17.000 titres. A partir de 2005, CD et DVD sont disponibles sous forme
+d'images ISO sur le site de BitTorrent, ces images pouvant être
+téléchargées pour graver des CD et DVD sur place à titre personnel. En
+2007, le Projet Gutenberg envoie 15 millions de livres par voie postale
+sous forme de CD et DVD.
+
+Chose souvent passée sous silence, Michael Hart est le véritable
+inventeur de l'ebook. Si on considère l'ebook dans son sens
+étymologique, à savoir un livre numérisé pour diffusion sous forme de
+fichier électronique, celui-ci aurait bientôt quarante ans et serait né
+avec le Projet Gutenberg en juillet 1971. Une paternité beaucoup plus
+réconfortante que les divers lancements commerciaux dans un format
+propriétaire ayant émaillé le début des années 2000. Il n'y a aucune
+raison pour que la dénomination «ebook» ne désigne que l'ebook
+commercial et soit réservée aux Amazon, Barnes & Noble, 00h00, Gemstar
