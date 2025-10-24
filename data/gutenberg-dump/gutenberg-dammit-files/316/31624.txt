@@ -1,0 +1,608 @@
+Page 17, footnote: "plutomium" should be "plutonium"
+    Page 8: "knowns" should be "knows"
+
+In element names, {} represents subscripted numbers and <> represents
+superscripted numbers. Readers may also refer to the HTML version of the
+text, in which super and subscripted numbers are represented visually.
+
+Italic emphasis is indicated by surrounding the word with _underscores_.
+
+Greek letters in the original text are marked in brackets, e. g. [alpha]
+or [gamma].
+
+Table I (THE TRANSURANIUM ELEMENTS) has been moved from pages 12-13, in
+the middle of the book, to the end of the text.]
+
+
+
+
+    A Brief History
+    of
+    ELEMENT DISCOVERY,
+    SYNTHESIS, and ANALYSIS
+
+
+    Glen W. Watson
+    September 1963
+
+    [Illustration]
+
+    LAWRENCE RADIATION LABORATORY
+    University of California
+    Berkeley and Livermore
+
+
+    Operating under contract with the
+    United States Atomic Energy Commission
+
+[Illustration: Radioactive elements: alpha particles from a speck of
+radium leave tracks on a photographic emulsion. (Occhialini and Powell,
+1947)]
+
+
+
+
+A BRIEF HISTORY OF ELEMENT DISCOVERY, SYNTHESIS, AND ANALYSIS
+
+
+It is well known that the number of elements has grown from four in the
+days of the Greeks to 103 at present, but the change in methods needed
+for their discovery is not so well known. Up until 1939, only 88
+naturally occurring elements had been discovered. It took a dramatic
+modern technique (based on Ernest O. Lawrence's Nobel-prize-winning atom
+smasher, the cyclotron) to synthesize the most recently discovered
+elements. Most of these recent discoveries are directly attributed to
+scientists working under the Atomic Energy Commission at the University
+of California's Radiation Laboratory at Berkeley.
+
+But it is apparent that our present knowledge of the elements stretches
+back into history: back to England's Ernest Rutherford, who in 1919
+proved that, occasionally, when an alpha particle from radium strikes a
+nitrogen atom, either a proton or a hydrogen nucleus is ejected; to the
+Dane Niels Bohr and his 1913 idea of electron orbits; to a once unknown
+Swiss patent clerk, Albert Einstein, and his now famous theories; to
+Poland's Marie Curie who, in 1898, with her French husband Pierre
+laboriously isolated polonium and radium; back to the French scientist
+H. A. Becquerel, who first discovered something he called a "spontaneous
+emission of penetrating rays from certain salts of uranium"; to the
+German physicist W. K. Roentgen and his discovery of x rays in 1895; and
+back still further.
+
+During this passage of scientific history, the very idea of "element"
+has undergone several great changes.
+
+The early Greeks suggested earth, air, fire, and water as being the
+essential material from which all others were made. Aristotle considered
+these as being combinations of four properties: hot, cold, dry, and
+moist (see Fig. 1).
+
+[Illustration: Fig. 1. The elements as proposed by the early Greeks.]
+
+Later, a fifth "essence," ether, the building material of the heavenly
+bodies was added.
+
+Paracelsus (1493-1541) introduced the three alchemical symbols salt,
+sulfur, and mercury. Sulfur was the principle of combustability, salt
+the fixed part left after burning (calcination), and mercury the
+essential part of all metals. For example, gold and silver were
+supposedly different combinations of sulfur and mercury.
+
+Robert Boyle in his "Sceptical Chymist" (1661) first defined the word
+element in the sense which it retained until the discovery of
+radioactivity (1896), namely, a form of matter that could not be split
+into simpler forms.
+
+The first discovery of a true element in historical time was that of
+phosphorus by Dr. Brand of Hamburg, in 1669. Brand kept his process
+secret, but, as in modern times, knowledge of the element's existence
+was sufficient to let others, like Kunkel and Boyle in England, succeed
+independently in isolating it shortly afterward.
+
+As in our atomic age, a delicate balance was made between the
+"light-giving" (desirable) and "heat-giving" (feared) powers of a
+discovery. An early experimenter was at first "delighted with the white,
+waxy substance that glowed so charmingly in the dark of his laboratory,"
+but later wrote, "I am not making it any more for much harm may come of
+it."
+
+Robert Boyle wrote in 1680 of phosphorus, "It shone so briskly and lookt
+so oddly that the sight was extreamly pleasing, having in it a mixture
+of strangeness, beauty and frightfulness."
+
+These words describe almost exactly the impressions of eye witnesses of
+the first atom bomb test at Alamagordo, New Mexico, July 16, 1945.
+
+For the next two and three-quarters centuries the chemists had much fun
+and some fame discovering new elements. Frequently there was a long
+interval between discovery and recognition. Thus Scheele made chlorine
+in 1774 by the action of "black manganese" (manganese dioxide) on
+concentrated muriatic acid (hydrochloric acid), but it was not
+recognized as an element till the work of Davy in 1810.
+
+Occasionally the development of a new technique would lead to the "easy"
+discovery of a whole group of new elements. Thus Davy, starting in 1807,
+applied the method of electrolysis, using a development of Volta's pile
+as a source of current; in a short time he discovered aluminum, barium,
+boron, calcium, magnesium, potassium, sodium, and strontium.
+
+The invention of the spectroscope by Bunsen and Kirchhoff in 1859
+provided a new tool which could establish the purity of substances
+already known and lead to the discovery of others. Thus, helium was
+discovered in the sun's spectrum by Jansen and isolated from uranite by
+Ramsay in 1895.
+
+The discovery of radioactivity by Becquerel in 1896 (touched off by
+Roentgen's discovery of x rays the year before) gave an even more
+sensitive method of detecting the presence or absence of certain kinds
+of matter. It is well known that Pierre and Marie Curie used this
+new-found radioactivity to identify the new elements polonium and
+radium. Compounds of these new elements were obtained by patient
+fractional recrystallization of their salts.
+
+The "explanation" of radioactivity led to the discovery of isotopes by
+Rutherford and Soddy in 1914, and with this discovery a revision of our
+idea of elements became necessary. Since Boyle, it had been assumed that
+all atoms of the individual elements were identical and unlike any
+others, and could not be changed into anything simpler. Now it became
+evident that the atoms of radioactive elements were constantly changing
+into other elements, thereby releasing very large amounts of energy, and
+that many different forms of the same element (lead was the first
+studied) were possible. We now think of an element as a form of matter
+in which all atoms have the same nuclear charge.
+
+The human mind has always sought order and simplification of the
+external world; in chemistry the fruitful classifications were
+Dobereiner's Triads (1829), Newland's law of octaves (1865), and
+Mendeleev's periodic law (1869). The chart expressing this periodic law
+seemed to indicate the maximum extent of the elements and gave good
+hints "where to look for" and "the probable properties of" the remaining
+ones (see Fig. 2).
+
+By 1925, all but four of the slots in the 92-place file had been filled.
+The vacancies were at 43, 61, 85, and 87.
+
+[Illustration: Fig. 2. Periodic chart of the elements (1963)]
+
+Workers using traditional analytical techniques continued to search for
+these elements, but their efforts were foredoomed to failure. None of
+the nuclei of the isotopes of elements 43, 61, 85, and 87 are stable;
+hence weighable quantities of them do not exist in nature, and new
+techniques had to be developed before we could really say we had
+"discovered" them.
+
+In 1919, Rutherford accomplished scientifically what medieval alchemists
+had failed to do with "magic" experiments and other less sophisticated
+techniques. It wasn't gold (the goal of the alchemists) he found but
+something more valuable with even greater potential for good and evil: a
+method of transmuting one element into another. By bombarding nitrogen
+nuclei with alpha particles from radium, he found that nitrogen was
+changed into oxygen.
+
+The process for radioactive transmutation is somewhat like a common
+chemical reaction. An alpha particle, which has the same charge (+2) and
+atomic mass (4) as a helium nucleus, penetrates the repulsive forces of
+the nitrogen nucleus and deposits one proton and one neutron; this
+changes the nitrogen atom into an oxygen atom. The reaction is written
+
+    {7}N<14> + {2}He<4> --> {1}H<1> + {8}O<17>.
+
+The number at the lower left of each element symbol in the above
+reaction is the proton number. This number determines the basic chemical
+identity of an atom, and it is this number scientists must change before
+one element can be transformed into another. The common way to
+accomplish this artificially is by bombarding nuclei with nuclear
+projectiles.
+
+Rutherford used naturally occurring alpha particles from radium as his
+projectiles because they were the most effective he could then find. But
+these natural alpha particles have several drawbacks: they are
+positively charged, like the nucleus itself, and are therefore more or
+less repulsed depending on the proton number of the element being
+bombarded; they do not move fast enough to penetrate the nuclei of
+heavier elements (those with many protons); and, for various other
+reasons (some of them unexplained), are inefficient in breaking up the
+nucleus. It is estimated that only 1 out of 300,000 of these alpha
+particles will react with nitrogen.
+
+Physicists immediately began the search for artificial means to
+accelerate a wider variety of nuclear particles to high energies.
+
+Protons, because they have a +1 charge rather than the +2 charge of the
+alpha particles, are repulsed less strongly by the positive charge on
+the nucleus, and are therefore more useful as bombarding projectiles. In
+1929, E. T. S. Walton and J. D. Cockcroft passed an electric discharge
+through hydrogen gas, thereby removing electrons from the hydrogen atom;
+this left a beam of protons (i. e., hydrogen ions), which was then
+accelerated by high voltages. This Cockcroft-Walton voltage multiplier
+accelerated the protons to fairly high energies (about 800,000 electron
+volts), but the protons still had a plus charge and their energies were
+still not high enough to overcome the repulsive forces (Coulombic
+repulsion) of the heavier nuclei.
+
+A later development, the Van de Graaff electrostatic generator, produced
+a beam of hydrogen ions and other positively charged ions, and electrons
+at even higher energies. An early model of the linear accelerator also
+gave a beam of heavy positive ions at high energies. These were the next
+two instruments devised in the search for efficient bombarding
+projectiles. However, the impasse continued: neither instrument allowed
+scientists to crack the nuclei of the heavier elements.
+
+Ernest O. Lawrence's cyclotron, built in 1931, was the first device
+capable of accelerating positive ions to the very high energies needed.
+Its basic principle of operation is not difficult to understand. A
+charged particle accelerated in a cyclotron is analogous to a ball being
+whirled on a string fastened to the top of a pole. A negative electric
+field attracts the positively charged particle (ball) towards it and
+then switches off until the particle swings halfway around; the field
+then becomes negative in front of the particle again, and again attracts
+it. As the particle moves faster and faster it spirals outward in an
+ever increasing circle, something like a tether ball unwinding from a
+pole. The energies achieved would have seemed fantastic to earlier
+scientists. The Bevatron, a modern offspring of the first cyclotron,
+accelerates protons to 99.13% the speed of light, thereby giving them
+6.2 billion electron volts (BeV).
+
+Another instrument, the heavy-ion linear accelerator (Hilac),
+accelerates ions as heavy as neon to about 15% the speed of light. It is
+called a linear accelerator because it accelerates particles in a
+straight line. Stanford University is currently (1963) in the process of
+building a linear accelerator approximately two miles long which will
+accelerate charged particles to 99.9% the speed of light.
+
+But highly accelerated charged particles did not solve all of science's
+questions about the inner workings of the nucleus.
+
+In 1932, during the early search for more efficient ways to bombard
+nuclei, James Chadwick discovered the neutron. This particle, which is
+neutral in charge and is approximately the same mass as a proton, has
+the remarkable quality of efficiently producing nuclear reactions even
+at very low energies. No one exactly knowns why. At low energies,
+protons, alpha particles, or other charged particles do not interact
+with nuclei because they cannot penetrate the electrostatic energy
+barriers. For example, slow positive particles pick up electrons, become
+neutral, and lose their ability to cause nuclear transformations. Slow
+neutrons, on the other hand, can enter nearly all atomic nuclei and
+induce fission of certain of the heavier ones. It is, in fact, these
+properties of the neutron which have made possible the utilization of
+atomic energy.
+
+With these tools, researchers were not long in accurately identifying
+the missing elements 43, 61, 85, and 87 and more--indeed, the list of
+new elements, isotopes, and particles now seems endless.
+
+Element 43 was "made" for the first time as a result of bombarding
+molybdenum with deuterons in the Berkeley cyclotron. The chemical work
+of identifying the element was done by Emilio Segre and others then
+working at Palermo, Sicily, and they chose to call it technetium,
+because it was the element first made by artificial technical methods.
+
+Element 61 was made for the first time from the fission disintegration
+products of uranium in the Clinton (Oak Ridge) reactor. Marinsky and
+Glendenin, who did the chemical work of identification, chose to call it
+promethium because they wished to point out that just as Prometheus
+stole fire (a great force for good or evil) from the hidden storehouse
+of the gods and presented it to man, so their newly assembled reactor
+delivered to mankind an even greater force, nuclear energy.
+
+Element 85 is called astatine, from the Greek astatos, meaning
+"unstable," because astatine _is_ unstable (of course all other elements
+having a nuclear charge number greater than 84 are unstable, too).
+Astatine was first made at Berkeley by bombarding bismuth with alpha
+particles, which produced astatine and released two neutrons. The
+element has since been found in nature as a small constituent of the
+natural decay of actinium.
+
+The last of the original 92 elements to be discovered was element 87,
+francium. It was identified in 1939 by French scientist Marguerite
+Perey.
+
+Children have a game in which they pile blocks up to see how high they
+can go before they topple over. In medieval times, petty rulers in their
+Italian states vied with one another to see who could build the tallest
+tower. Some beautiful results of this game still remain in Florence,
+Siena, and other Italian hill cities. Currently, Americans vie in a
+similar way with the wheelbase and overall length of their cars. After
+1934, the game among scientists took the form of seeing who could extend
+the length of the periodic system of the elements; as with medieval
+towers, it was Italy that again began with the most enthusiasm and
+activity under the leadership of Enrico Fermi.
+
+Merely adding neutrons would not be enough; that would make only a
+heavier isotope of the already known heaviest elements, uranium.
+However, if the incoming neutron caused some rearrangement within the
+nucleus and if it were accompanied by expulsion of electrons, that
+_would_ make a new element. Trials by Fermi and his co-workers with
+various elements led to unmistakeable evidence of the expulsion of
+electrons (beta activity) with at least four different rates of decay
+(half-lives). Claims were advanced for the creation of elements 93 and
+94 and possibly further (the transuranium elements, Table I). Much
+difficulty was experienced, however, in proving that the activity really
+was due to the formation of elements 93 and 94. As more people became
+interested and extended the scope of the experiments, the picture became
+more confused rather than clarified. Careful studies soon showed that
+the activities did _not_ decay logarithmically--which means that they
+were caused by mixtures, not individual pure substances--and the
+original four activities reported by Fermi grew to at least nine.
+
+As a matter of fact, the way out of the difficulty had been indicated
+soon after Fermi's original announcement. Dr. Ida Noddack pointed out
+that no one had searched among the products of Fermi's experiment for
+elements _lighter_ than lead, but no one paid any attention to her
+suggestion at the time. The matter was finally cleared up by Dr. Otto
+Hahn and F. Strassmann. They were able to show that instead of uranium
+having small pieces like helium nuclei, fast electrons, and super-hard
+x-rays, knocked off as expected, the atom had split into two roughly
+equal pieces, together with some excess neutrons. This process is called
+nuclear fission. The two large pieces were unstable and decayed further
+with the loss of electrons, hence the [beta] activity. This process is
+so complicated that there are not, as originally reported, only four
+half-lives, but at least 200 different varieties of at least 35
+different elements. The discovery of fission attended by the release of
+enormous amounts of energy led to feverish activity on the part of
+physicists and chemists everywhere in the world. In June 1940, McMillan
+and Abelson presented definite proof that element 93 had been found in
+uranium penetrated by neutrons during deuteron bombardment in the
+cyclotron at the University of California Radiation Laboratory.
+
+The California scientists called the newly discovered element neptunium,
+because it lies beyond the element uranium just as the planet Neptune
+lies beyond Uranus. The particular isotope formed in those first
+experiments was {93}Np<239>; this is read neptunium having a nuclear charge
+of 93 and an atomic mass number of 239. It has a half-life of 2.3 days,
+during which it gives up another electron ([beta] particle) and becomes
+element 94, or plutonium (so called after Pluto, the next planet beyond
+Neptune). This particular form of plutonium ({94}Pu<239>) has such a long
+half-life (24,000 years) that it could not be detected. The first
+isotope of element 94 to be discovered was Pu<238>, made by direct deuteron
+bombardment in the Berkeley 60-inch cyclotron by Radiation Laboratory
+scientists Seaborg, McMillan, Kennedy, and Wahl; it had an [alpha]-decay
+half-life of 86.4 years, which gave it sufficient radioactivity so that
+its chemistry could be studied.
+
+Having found these chemical properties in Pu<238>, experimenters knew
+{94}Pu<239> would behave similarly. It was soon shown that the nucleus of
+{94}Pu<239> would undergo fission in the same way as {92}U<235> when
+bombarded with slow neutrons and that it could be produced in the newly
+assembled atomic pile. Researchers wished to learn as much as possible
+about its chemistry; therefore, during the summer of 1942 two large
+cyclotrons at St. Louis and Berkeley bombarded hundreds of pounds of
+uranium almost continuously. This resulted in the formation of 200
+micrograms of plutonium. From this small amount, enough of the chemical
+properties of the element were learned to permit correct design of the
+huge plutonium-recovery plant at Hanford, Washington. In the course of
+these investigations, balances that would weigh up to 10.5 mg with a
+sensitivity of 0.02 microgram were developed. The "test tubes" and
+"beakers" used had internal diameters of 0.1 to 1 mm and could measure
+volumes of 1/10 to 1/10,000 ml with an accuracy of 1%. The fact that
+there was no intermediate stage of experimentation, but a direct
+scale-up at Hanford of ten billion times, required truly heroic skill
+and courage.
+
+By 1944 sufficient plutonium was available from uranium piles (reactors)
+so that it was available as target material for cyclotrons. At Berkeley
+it was bombarded with 32-MeV doubly charged helium ions, and the
+following reactions took place:
+
+    {94}Pu<239> ([alpha], n) {96}Cm<242> [alpha] / 150 days --> {94}Pu<238>.
+
+This is to be read: plutonium having an atomic number of 94 (94
+positively charged protons in the nucleus) and a mass number of 239 (the
+whole atom weighs approximately 239 times as much as a proton), when
+bombarded with alpha particles (positively charged helium nuclei) reacts
+to give off a neutron and a new element, curium, that has atomic number
+96 and mass number 242. This gives off alpha particles at such a rate
+that half of it has decomposed in 150 days, leaving plutonium with
+atomic number 94 and mass number 238. The radiochemical work leading to
+the isolation and identification of the atoms of element 96 was done at
+the metallurgical laboratory of the University of Chicago.
+
+The intense neutron flux available in modern reactors led to a new
+element, americium (Am), as follows:
+
+    {94}Pu<239> (n, [gamma]) {94}Pu<240> (n, [gamma]) {94}Pu<241> [beta]
+            --> {95}Am<241>.
+
+The notation (n, [gamma]) means that the plutonium absorbs a neutron and
+gives off some energy in the form of gamma rays (very hard x rays); it
+first forms {94}Pu<240> and then {94}Pu<241>, which is unstable and gives
+off fast electrons ([beta]), leaving {95}Am<241>.
+
+Berkelium and californium, elements 97 and 98, were produced at the
+University of California by methods analogous to that used for curium,
+as shown in the following equations:
+
+    {95}Am<240> + [alpha] --> {97}Bk<243> + {0}n<1>,
+
+and {96}Cm<241> + [alpha] --> {98}Cf<244> + {0}n<1>.
+
+The next two elements, einsteinium ({99}Es) and fermium ({100}Fm), were
+originally found in the debris from the thermonuclear device "Mike,"
+which was detonated on Eniwetok atoll November 1952. (This method of
+creating new substances is somewhat more extravagant than the mythical
+Chinese method of burning down a building to get a roast pig.)
+
+These elements have since been made in nuclear reactors and by
+bombardment. This time the "bullet" was N<14> stripped of electrons till it
+had a charge of +6, and the target was plutonium.
+
+Researchers at the University of California used new techniques in
+forming and identifying element 101, mendelevium. A very thin layer of
+{99}Es<253> was electroplated onto a thin gold foil and was then bombarded,
+from behind the layer, with 41-MeV [alpha] particles. Unchanged {99}Es<253>
+stayed on the gold, but those atoms hit by [alpha] particles were
+knocked off and deposited on a "catcher" gold foil, which was then
+dissolved and analyzed (Fig. 3). This freed the new element from most of
+the very reactive parent substances, so that analysis was easier. Even
+so, the radioactivity was so weak that the new element was identified
+"one atom at a time"; this is possible because its daughter element,
+fermium, spontaneously fissions and releases energy in greater bursts
+than any possible contaminant.
+
+[Illustration: Fig. 3. The production of mendelevium.]
+
+In 1957, in Stockholm, element 102 was reported found by an
+international team of scientists (who called it nobelium), but diligent
+and extensive research failed to duplicate the Stockholm findings.
+However, a still newer technique developed at Berkeley showed the
+footprints--if not the living presence--of 102 (see Fig. 4). The rare
+isotope curium-246 is coated on a small piece of nickel foil, enclosed
+in a helium-filled container, and placed in the heavy-ion linear
+accelerator (Hilac) beam. Positively charged atoms of element 102 are
+knocked off the foil by the beam, which is of carbon-12 or carbon-13
+nuclei, and are deposited on a negatively charged conveyor apron. But
+element 102 doesn't live long enough to be actually measured. As it
+decays, its daughter product, {100}Fm<250>, is attracted onto a charged
+aluminum foil where it can be analyzed. The researchers have decided
+that the hen really did come first: they have the egg; therefore the hen
+must have existed. By measuring the time distance between target and
+daughter product, they figure that the hen-mother (element 102) must
+have a half-life of three seconds.
+
+[Illustration: Fig. 4. The experimental arrangement used in the
+discovery of element 102.]
+
+In an experiment completed in 1961, researchers at the University of
+California at Berkeley unearthed similar "footprints" belonging to
+element 103 (named lawrencium in honor of Nobel prizewinner Ernest O.
+Lawrence). They found that the bombardment of californium with boron
+ions released [alpha] particles which had an energy of 8.6 MeV and
+decayed with a half-life of 8 +- 2 seconds. These particles can only be
+produced by element 103, which, according to one scientific theory, is a
+type of "dinosaur" of matter that died out a few weeks after creation of
+the universe.
+
+The half-life of lawrencium (Lw) is about 8 seconds, and its mass number
+is thought to be 257, although further research is required to establish
+this conclusively.
+
+Research on lawrencium is complicated. Its total [alpha] activity
+amounts to barely a few counts per hour. And, since scientists had the
+[alpha]-particle "footprints" only and not the beast itself, the
+complications increased. Therefore no direct chemical techniques could
+be used, and element 103 was the first to be discovered solely by
+nuclear methods.[A]
+
+For many years the periodic system was considered closed at 92. It has
+now been extended by at least eleven places (Table I), and one of the
+extensions (plutonium) has been made in truckload lots. Its production
+and use affect the life of everyone in the United States and most of the
+world.
+
+Surely the end is again in sight, at least for ordinary matter, although
+persistent scientists may shift their search to the other-world "anti"
+particles. These, too, will call for very special techniques for
+detection of their fleeting presence.
+
+Early enthusiastic researchers complained that a man's life was not long
+enough to let him do all the work he would like on an element. The
+situation has now reached a state of equilibrium; neither man nor
+element lives long enough to permit all the desired work.
+
+[A] In August 1964 Russian scientists claimed that they created element
+104 with a half-life of about 0.3 seconds by bombarding plutomium with
+accelerated neon-22 ions.
+
+
+Table I. THE TRANSURANIUM ELEMENTS
+
+  ========================================================================
+  Element    Name (Symbol)     Mass     Year Discovered; by whom;
+                              Number          where; how
+
+     93     Neptunium (Np)      238    1940; E. M. McMillan, P. H.
+                                       Abelson; University of California
+                                       at Berkeley; slow-neutron
+                                       bombardment of U<238> in the
+                                       60-inch cyclotron.
+
+     94     Plutonium (Pu)      238    1941; J. W. Kennedy, E. M.
+                                       McMillan, G. T. Seaborg, and A. C.
+                                       Wahl; University of California at
+                                       Berkeley; 16-MeV deuteron
+                                       bombardment of U<238> in the
+                                       60-inch cyclotron.
+
+                      (Pu)      239    Pu<239>; the fissionable isotope
+                                       of plutonium, was also discovered
+                                       in 1941 by J. W. Kennedy, G. T.
+                                       Seaborg, E. Segre and A. C. Wahl;
+                                       University of California at
+                                       Berkeley; slow-neutron bombardment
+                                       of U<238> in the 60-inch
+                                       cyclotron.
+
+     95     Americium (Am)      241    1944-45; Berkeley scientists A.
+                                       Ghiorso, R. A. James, L. O.
+                                       Morgan, and G. T. Seaborg at the
+                                       University of Chicago; intense
+                                       neutron bombardment of plutonium
+                                       in nuclear reactors.
+
+     96     Curium (Cm)         242    1945; Berkeley scientists A.
+                                       Ghiorso, R. A. James, and G. T.
+                                       Seaborg at the University of
+                                       Chicago; bombardment of Pu<239>
+                                       by 32-MeV helium ions from the
+                                       60-inch cyclotron.
+
+     97     Berkelium (Bk)      243    1949; S. G. Thompson, A. Ghiorso,
+                                       and G. T. Seaborg; University of
+                                       California at Berkeley; 35-MeV
+                                       helium-ion bombardment of
+                                       Am<241>.
+
+     98     Californium (Cf)    245    1950; S. G. Thompson, K. Street,
+                                       A. Ghiorso, G. T. Seaborg;
+                                       University of California at
+                                       Berkeley; 35-MeV helium-ion
+                                       bombardment of Cm<242>.
+
+     99     Einsteinium (Es)    253    1952-53; A. Ghiorso, S. G.
+    100     Fermium (Fm)        255    Thompson, G. H. Higgins, G. T.
+                                       Seaborg, M. H. Studier, P. R.
+                                       Fields, S. M. Fried, H. Diamond,
+                                       J. F. Mech, G. L. Pyle, J. R.
+                                       Huizenga, A. Hirsch, W. M.
+                                       Manning, C. I. Browne, H. L.
+                                       Smith, R. W. Spence; "Mike"
+                                       explosion in South Pacific; work
+                                       done at University of California
+                                       at Berkeley, Los Alamos Scientific
+                                       Laboratory, and Argonne National
+                                       Laboratory; both elements created
+                                       by multiple capture of neutrons in
+                                       uranium of first detonation of a
+                                       thermonuclear device. The elements
+                                       were chemically isolated from the
+                                       debris of the explosion.
+
+    101     Mendelevium (Md)    256    1955; A. Ghiorso, B. G. Harvey, G.
+                                       R. Choppin, S. G. Thompson, G. T.
+                                       Seaborg; University of California
+                                       at Berkeley; 41-MeV helium-ion
+                                       bombardment of Es<253> in 60-inch
+                                       cyclotron.
+
+    102     Unnamed[B]          254    1958; A. Ghiorso, T. Sikkeland, A.
+                                       E. Larsh, R. M. Latimer;
+                                       University of California, Lawrence
+                                       Radiation Laboratory, Berkeley;
+                                       68-MeV carbon-ion bombardment of
+                                       Cm<246> in heavy-ion linear
+                                       accelerator (Hilac).
+
+    103     Lawrencium          257    1961; A. Ghiorso, T. Sikkeland, A.
+                                       E. Larsh, R. M. Latimer;
+                                       University of California, Lawrence
+                                       Radiation Laboratory, Berkeley;
+                                       70-MeV boron-ion bombardment of
+                                       Cf<250>, Cf<251>, and Cf<252>
+                                       in Hilac.
+  ========================================================================
+
+[B] A 1957 claim for the synthesis and identification of element 102 was
+accepted at that time by the International Union of Pure and Applied
+Chemistry, and the name nobelium (symbol No) was adopted. The University
+of California scientists, A. Ghiorso et al., cited here believe they
+have disproved the earlier claim and have the right to suggest a
+different name for the element.
