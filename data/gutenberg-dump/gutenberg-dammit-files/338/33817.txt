@@ -1,0 +1,4073 @@
+*Nota de editor:* Devido à existência de erros tipográficos neste
+    texto, foram tomadas várias decisões quanto à versão final. Em caso
+    de dúvida, a grafia foi mantida de acordo com o original. No final
+    deste livro encontrará a lista de erros corrigidos.
+
+                                           Rita Farinha (Setembro 2010)
+
+
+
+
+ENSINO INTUITIVO
+
+LIVRO DESTINADO ÁS MÃES
+
+E
+
+PAES DE FAMILIA
+
+E ÁS
+
+PROFESSORAS E PROFESSORES DE INSTRUCÇÃO PRIMARIA
+
+POR
+
+JOÃO JOSÉ DE SOUSA TELLES
+
+Socio honorario
+da Sociedade das Sciencias Medicas de Lisboa, Socio honorario da
+Sociedade Pharmaceutica Lusitana
+
+PROFESSOR DE PORTUGUEZ E INTRODUCÇÃO Á HISTORIA
+NATURAL
+
+LISBOA
+
+FERREIRA, LISBOA & C.^a
+132--Rua Aurea--134
+
+1873
+
+
+
+
+ENSINO INTUITIVO
+
+
+
+
+ENSINO INTUITIVO
+
+LIVRO DESTINADO ÁS MÃES
+
+E
+
+PAES DE FAMILIA
+
+E ÁS
+
+PROFESSORAS E PROFESSORES DE INSTRUCÇÃO PRIMARIA
+
+POR
+
+JOÃO JOSÉ DE SOUSA TELLES
+
+Socio honorario
+da Sociedade das Sciencias Medicas de Lisboa, Socio honorario da
+Sociedade Pharmaceutica Lusitana
+
+PROFESSOR DE PORTUGUEZ E INTRODUCÇÃO Á HISTORIA
+NATURAL
+
+LISBOA
+
+FERREIRA, LISBOA & C.^a
+132--Rua Aurea--134
+
+1873
+
+
+
+
+LISBOA
+
+TYPOGRAPHIA UNIVERSAL DE THOMAZ QUINTINO ANTUNES
+IMPRESSOR DA CASA REAL
+
+110--Rua dos Calafates
+
+
+
+
+Ill.^{mo} e Ex.^{mo} Sr. Conselheiro José Silvestre Ribeiro
+
+Ha annos, ouvindo os louvores, que á intelligencia e probidade de V.
+Ex.^a tecia um dos mais peregrinos talentos de Portugal, o grande poeta,
+hoje Visconde de Castilho, senti irresistivel desejo de ler os escriptos
+de V. Ex.^a e de o conhecer em pessoa. Dessedentei-me agradavelmente e
+com muito proveito, nas numerosas paginas, que da penna de V. Ex.^a
+haviam saido, umas reunidas em volumes, outras espalhadas pelos
+periodicos, todas porém rescendendo suave e, digamos assim, castissimo
+perfume de natural bondade e heroicas virtudes, qualidades que para mim
+valem muito mais que toda a erudição, e que realçam sobremodo a que v.
+ex.^a possue vastissima, colhida no incessante estudo de quantos
+engenhos famosos tem opulentado as sciencias, as artes e a litteratura.
+
+Já eu, havia muito, conversava com V. Ex.^a em espirito e me reputava
+seu discipulo amicissimo, quando tive a boa fortuna de fallar a V. Ex.^a
+e de ser por V. Ex.^a acolhido com a benevolencia, que lhe conquista a
+sympathia de quantos o tratam.
+
+Data d'esse dia a nossa amizade, confiado na qual ouso offerecer a V.
+Ex.^a este livro modestissimo, que se alguma cousa vale é pela boa fé
+com que foi escripto.
+
+É sympathico o assumpto; creio que é mais um brado pedindo a tão
+necessaria reforma do ensino infantil e primario na casa paterna e na
+escola, que tão pouco tem ainda de paternal. Será perdido, como os que o
+viajante extraviado soltaria no deserto, implorando o favor dos homens?
+Talvez.
+
+Incessantemente ha clamado o nosso probo amigo o Sr. Visconde de
+Castilho, e nem aquella potentissima intelligencia, nem aquella phrase,
+que nos faz acreditar a fabula de Orphêo, nem a auctoridade d'aquella
+quasi intuição do bom e do bello ha conseguido, que amanheça para as
+criancinhas o dia da sua regeneração intellectual.
+
+Não serei eu mais feliz; mas dar-me-hei por bem pago do trabalho, que
+puz em escrever estas paginas, se uma só mãe, que seja, ou um só mestre,
+aproveitar os conselhos, que lhes dou, e se, quando mais não obtenha,
+uma criancinha me dever algumas lagrimas de menos e algum bom
+ensinamento a mais.
+
+Associando o nome illustre e venerando de V. Ex.^a a esta obrinha, imito
+o bom do Aimé Martin e posso dizer a V.^a Ex.^a o que elle disse ao
+mavioso Lamartine.
+
+En vous offrant ce livre, je n'ai qu'un but, c'est de rattacher mes
+paroles aux vôtres, c'est d'étayer leur faiblesse de votre force, ma
+raison de votre raison. Je veux qu'on dise un jour: Ceux-ci ont connu
+les veritables biens, ils se rencontrèrent dans la même foi, ils
+s'aimèrent devant le même Dieu.
+
+
+                                                  De V. Ex.^a
+
+                                             Admirador muito amigo
+
+                                           João José de Sousa Telles.
+
+
+Lisboa 7 de julho de 1873.
+
+
+
+
+ENSINO INTUITIVO
+
+
+O livro, que hoje publicâmos, é uma tentativa modesta de acclimação de
+uma idéa excellente, que lá por fóra tem produzido optimos resultados.
+
+Applaudem-na unanimes os mais insignes pedagogistas inglezes, allemães,
+americanos, francezes, e belgas; e ainda que tantos homens
+competentissimos em assumptos de ensino e educação nol-a não apregoassem
+famosa, bastaria a simples enunciação d'ella, para que enthusiasticamente
+a adoptassemos.
+
+Antes, porém, de expôrmos minudenciosamente a idéa nova, e nova lhe
+chamâmos attendendo ao pouco que se tem vulgarisado em Portugal, de
+razão nos parece conversarmos amigavelmente com o leitor ácerca de
+alguns pontos da educação e instrucção elementar.
+
+É a educação da puericia e da juventude a mais gloriosa e ao mesmo tempo
+a mais difficil obrigação, que Deus impoz ao homem e á mulher.
+
+Á luz da philosophia e da moral, a paternidade e a maternidade consistem
+menos em gerar o infante, do que em desenvolver-lhe e aperfeiçoar-lhe
+incessantemente as faculdades da alma e do corpo, até que possa cumprir
+os seus deveres e arrostar as contrariedades da vida na curta, mas
+trabalhosa peregrinação, que principia no berço e acaba no tumulo.
+
+Incumbe, pois, aos paes empregar todos os meios ao seu alcance, para que
+os filhos, creaturinhas imbelles, que a Providencia confiou a seus
+cuidados, cheguem no mais curto espaço de tempo, e pelo emprego de
+processos razoaveis, amenos, e repassados de amor e ternura ao estado de
+perfeição physica, intellectual e moral, que constitue o homem, tal qual
+deve ser, tal qual Deus quer que elle seja, tal qual a sociedade bem
+organisada o requer, para obreiro prestadio da civilisação.
+
+Infelizmente, nem todos os paes conhecem os seus deveres; e dos que os
+conhecem, muitissimos ha, que os não cumprem, ou por modo mui imperfeito
+se desempenham d'elles.
+
+D'esta ignorancia e negligencia funestissimas provem os maiores males,
+que affligem a humanidade, males para os quaes a maior parte das vezes
+não ha remedio.
+
+Tratando de assumpto differente, disse um douto, que muitas descobertas
+se poderiam fazer, se opportunamente perguntassemos: _Por que?_
+Appliquemos o engenhoso e facil processo de Arago ao exame das causas
+determinantes de alguns vicios sociaes, e convencer-nos-hemos de quão
+exacta é a nossa asserção.
+
+Estamos na via publica. De toda a parte se nos apresentam creanças
+esfarrapadas, semi-nuas, esqualidas, famintas, petulantes; revolvem-se
+umas na lama e no pó; dormem outras, tiritando, á chuva e ao vento;
+estas divagam estendendo a mão asquerosa e pedindo uma esmola aos que
+passam; aquellas soltam dos labios rosados palavras, que fazem enrubecer
+os que as ouvem.
+
+Chamae-as, e perguntae-lhes quem alli as deixou, flôres no
+esterquilinio, passarinhos implumes entre abutres esfaimados, anjos
+manchando as azas na sujidade das calçadas.
+
+Responder-vos-hão: Nossas mães e nossos paes.
+
+Ides vosso caminho, alegre, tranquillo, olhando em redor, vendo
+prepassar trens sumptuosos, soberbos cavallos, mulheres elegantes,
+homens felizes e descuidósos. Chega-vos aos ouvidos um echo, um gemido,
+um choro infantil; olhaes...
+
+Que vêdes?
+
+Na soleira de um portal, vestida em uns andrajos, quasi morta de fome e
+de frio uma criancinha, cujas faces, em vez de serem orvalhadas pelas
+lagrimas da materna alegria, e aquecidas pelos beijos fervidos da que
+lhe deu a existencia, se humedecem com as lagrimas da amargura infantil.
+
+Levantae o pobresinho, apertae-o contra o peito, osculae aquella carinha
+de jasmim e rosas, e perguntae-lhe:
+
+Anjo meu, que barbaros te deixaram aqui abandonado?
+
+E a innocencia vos responderá, não com palavras, que as não sabe ainda
+articular, mas com ternissimos soluços:
+
+Abandonou-me meu pae e minha mãe.
+
+Além vae caminho do cemiterio, a tumba, que andou de porta em porta
+recolhendo os miseros, cujas familias não poderam coalhar o bastante
+para o modesto funeral dos seus parentes.
+
+Fazei-a parar; mandae que a abram; olhae para dentro.
+
+Horror! exclamareis vós ao ver por entre os adultos exanimes, em
+sacrilego desarranjo, um bando de creanças quasi esqueletos, rachiticas,
+chagadas, meio apodrecidas, com signaes evidentes de terem vindo ao
+mundo com o estigma da morte profundamente gravado nas frontes
+innocentes.
+
+Martyres obscuros, podereis vós dizer-lhes, para quem o mundo não teve
+nem uma corôa, nem uma palma; estrellas cadentes, que brilhastes um
+momento e desapparecestes n'um eterno occaso; quem assim vos macerou os
+corpinhos, e vos deu a beber o fel da morte ao alvorecer da vida?
+
+E a mudez sombria d'aquellas florinhas envenenadas na hastea, e
+emurchecidas antes de desabrocharem, responderá:
+
+Nossos paes e nossas mães.
+
+Vêdes aquelle peralvilho, aquelle afeminado, todo pomadas, todo
+essencias, gesto insolente, olhar altivo e desdenhoso, que vae rindo e
+galhofando com outros da sua ralé.
+
+Parou, fazem-lhe roda, applaudem-n'o outros taes. Que bocadinhos de oiro
+estará elle a dizer?
+
+Escutae-o.
+
+Mófa da religião, que desconhece; insulta os sacerdotes, que acertam de
+passar junto d'elle; escandalisa as donzellas; zomba dos anciãos; aos
+pobres, em vez de os esmolar, despede-os insolente.
+
+Indagae como tão cedo se depravou aquelle moço, que deveria estar ainda
+sentado no banco da escola.
+
+Dir-vos-hão que á incuria paterna deve elle toda a sua ruina.
+
+Entrae no templo a presencear as augustas ceremonias, que rememoram a
+angustiosa paixão e morte do grande amigo da humanidade.
+
+Que observaes?
+
+A turba irreverente, descomposta, sacrilega, rindo, conversando,
+ostentando galas, trocando gracejos, costas para os altares, olhares
+distrahidos, attitudes grosseiras e vilans.
+
+Quantas preces saem d'aquelles labios? Que pensamentos povoam aquellas
+mentes? Que piedosos affectos existem em tantos corações?
+Escandalisa-vos o desacato? Quereis saber porque na egreja estão, como
+não poderiam estar na casa da opera?
+
+Chamae de banda um dos levianos e perguntae-lhe o que lhe hão dito seus
+paes da grandiosa tragedia do Calvario; do incruento sacrificio, que a
+representa, da respeitabilidade do altar, do valor das preces humildes e
+sinceras?
+
+Responder-vos-ha, sorrindo:
+
+Não vos comprehendo; meus paes nunca me fallaram d'essas coisas.
+
+Que vozearia é aquella? Porque tantos gritos, tamanho borborinho?
+
+Ergue-se um homem mal trajado, e arenga á turba.
+
+Poucas palavras tem dito, e já uns o applaudem phreneticos, já outros o
+vituperam enfurecidos.
+
+É o povo soberano, que usa e abusa de seus direitos. A onda encapellada
+das ruins paixões sobe, sobe, invade a improvisada tribuna e derruba o
+Demosthenes improvisado.
+
+Todos fallam, todos proclamam a idéa nova.
+
+Ouçamol-os.
+
+Abaixo os padres, não precisâmos d'elles; abaixo a religião, que para
+nada presta; acabemos com a propriedade, os ricos só querem beber-nos o
+sangue; viva o communismo, grita um; viva o socialismo, que é melhor,
+responde outro; nada, nada d'isso, venha a republica.
+
+Acabemos com os tributos e seremos felizes; e o exercito para que serve?
+Elimine-se o exercito.
+
+Pedi instrucção, pedi ensino facil, bom, universal, escolas primarias a
+cada canto, bibliothecas populares, livros optimos ao alcance de todos
+no preço e no estylo; pedi moralidade, diz com voz firme e sonora um
+operario, fronte ampla, respeitaveis cans, rosto sereno, mão calejada
+pelo trabalho.
+
+Fóra com o visionario brada a turba.
+
+Que quer dizer instrucção? Para que servem os livros? Para que prestam
+as escolas? regouga um miseravel, em cujo rosto se retrata a ignorancia
+e occiosidade; e bradando á turba, após si a leva cançada, mas não
+saciada de disparatar.
+
+Dirigi-vos ao operario honesto e prudente e informae-vos de quem sejam
+aquelles doidos.
+
+Uns infelizes, dirá elle, bons corações, más cabeças. Pobresinhos todos;
+porém mais pobres de instrucção que de dinheiro, porque todos tem
+aptidão para o trabalho, mas a todos faltou a educação. Não tiveram
+paes, como eu felizmente tive, que os mandassem ensinar. A mór parte nem
+ler sabem, nem fazer o seu nome. Se lhes fordes perguntar o que seja
+republica, socialismo, communismo, salario, religião, exercito, á boa fé
+vos affirmo que não poderão responder coisa que geito tenha.
+
+Mas deixemos estes homens, nem todos maus; muitos bonissimos,
+desvairados pela febre ardente de antigos e profundos padecimentos, que
+buscam a verdade e o bem, como os alchimistas da idade media, por meios
+absurdos e inconvenientes, mas que tem a coragem de affrontar os
+perigos, de sacrificar a propria vida, e de soffrer com a resignação dos
+martyres dos primeiros seculos do christianismo esses hediondos
+supplicios, a que ainda hoje o mundo civilisado assiste com profunda
+magoa e indignação.
+
+Volvamos os olhos para aquell'outros.
+
+D'onde vem?
+
+Das enxovias.
+
+Para onde vão?
+
+Para o degredo.
+
+Homens, mulheres, crianças! Deixam a patria, os amigos, as familias, os
+formosos campos, onde nasceram, este céo tão puro, este sol tão
+esplendido, este clima tão amoravel, este abençoado e feracissimo
+torrão, para irem em paizes inhospitos luctar com a morte opprobriosa,
+ralados de saudades, roidos de remorsos, despreziveis aos olhos de
+todos, e condemnados pela voz implacavel da propria consciencia.
+
+Vãm alli assassinos, sacrilegos, perjuros, fratercidas, patrecidas,
+ladrões, incendiarios; todos os crimes, todas as torpezas, todas as
+infamias, o lodo asqueroso de todas as humanas miserias, as trevas da
+ignorancia preversa, a lepra do grande corpo social.
+
+Ponde os olhos n'aquelle quadro, mães e paes.
+
+Não interrogueis os que o crime despenhou; não insulteis a desgraça; não
+amargureis mais aquelles corações devastados e corroidos pelo crime,
+onde poderá haver ainda alguma fibra incorrupta e sensivel; mas
+perguntae a vós mesmos que educação receberam aquelles miseros de seus
+progenitores? que sorrisos e carinhos lhes cercaram os berços? que
+palavras ouviram aquelles entes ao entrar na vida? que exemplos tiveram
+para seguir? quaes as escolas, a que os mandaram? que affectos semeiaram
+n'aquelles corações? quantas vezes lhes apontaram para o céo e lhes
+fallaram de Deus? que noções lhes deram da verdade, da justiça, da
+honra, do dever? que meios empregaram para lapidarem aquelles diamantes?
+que processo adoptaram para desinvolver-lhes a intelligencia?
+
+E se não acertardes com as respostas a estas e a muitas outras
+perguntas, que o caso suscita, ide-vos por essas cidades, e villas, e
+aldeias, e povoados e indagae a historia de cada um d'aquelles
+infelizes. Raro achareis que se prevertesse o que dos paes houvesse
+recebido desvelada educação.
+
+Mas o que é educação desvelada?
+
+Eis o ponto importantissimo, para o qual chamâmos a attenção de todos.
+Não o desenvolveremos aqui. Assumpto é para um livro, e já larga e
+proficientemente tratado por grandes mestres da sciencia de educar.
+
+Diremos apenas, que muitos paes e mestres ha, por desgraça nossa e
+d'elles, que não comprehendem nem a extensão, nem a intensidade da
+palavra educar.
+
+Para uns educar é crear, é nutrir o animal, é desenvolver-lhe o physico;
+e nem sempre conforme os dictames da medicina e da hygiene.
+
+Para outros educar é iniciar a criança nas regras mais elementares da
+leitura, da escripta, da contabilidade e de uma arte ou officio.
+
+Não falta quem se vanglorie de ter educado bem, excellentemente, seus
+filhos, por que lhes deu mestres de linguas antigas e modernas, de
+geographia, de historia, de philosophia e de muitas outras cousas mais.
+
+Tal se orgulha de ver o herdeiro de seu nome sair laureado de uma escola
+ou academia e entrar na sociedade precedido da fama de optimo estudante.
+Tal outro se julga em paz com a sua consciencia e se tem por excellente
+educador, porque o mancebo, cujos primeiros estudos dirigiu, das
+columnas de um jornal assombra o mundo com seus artigos, ou deleita as
+turbas com versos, que reputa mais correctos e melodiosos que os de
+Camões, Garrett ou Castilho.
+
+E consistirá em tão pouco a sciencia difficilima de educar?
+
+Não, mil vezes não.
+
+Que vale ao homem, a quem Deus concedeu uma certa porção de
+intelligencia, susceptivel de indefinido desenvolvimento, crescer e
+medrar no physico, permanecendo-lhe embryonaria a melhor das faculdades?
+Que vale ao homem, que poderia elevar-se pelo estudo, pela leitura, pela
+applicação das potencias da alma e vir a ser um poderoso auxiliar do
+progresso da humanidade, qualquer que fosse a sua posição social, saber
+apenas os primeiros rudimentos das artes de aprender, e tanto pela
+superficie, que nem d'elles se possa servir, a não ser nos mais simples
+usos da vida?
+
+Quantos e quantos dos que cursaram as escolas e as academias, e n'ellas
+se distinguiram, tiveram mais trabalho em debellar os erros da educação
+elementar do que em arcar com as difficuldades, e segredos das sciencias
+superiores?
+
+E quantos não vem dos institutos scientificos imperfeitamente
+instruidos, não por culpa dos mestres, nem d'elles mesmos, mas pela
+incuria e ignorancia dos paes e dos primeiros educadores?
+
+Todos os homens intelligentes, que tem consagrado a vida ao magisterio
+superior, reconhecem e confessariam, se quizessem, que a falta de
+cultivo intellectual nas edades tenras difficulta extremamente aos
+estudantes a comprehensão das sciencias, e os inhabilita para tirarem
+dos cursos mais bem delineados as vantagens, que d'elles poderiam obter.
+
+D'ahi a meia sciencia, as ideas falsas, a confusão dos principios, a
+impossibilidade das grandes concepções, a timidez na applicação pratica,
+o desamor do estudo, que fecunda o que nas aulas se ouviu, e a propensão
+para a preguiça, que se contenta com o pouco cabedal adquirido e não
+busca grangear mais.
+
+Se das escolas superiores passarmos ás secundarias, encontraremos as
+mesmas causas produzindo os mesmos effeitos; e dir-nos-hão os
+professores intelligentes e zelosos, que das mãos dos paes e dos
+primarios educadores, receberam a mór parte dos alumnos com os olhos do
+espirito tão cerrados ainda, que de todo desconheciam as verdades mais
+elementares e intuitivas, os phenomenos mais simples e intelligiveis, as
+relações mais claras.
+
+Na escola primaria, o professor instruido, que comprehenda quanto tem de
+nobre e grandioso o seu ministerio, em apparencia tão humilde, na
+realidade tão augusto; que considere na criança o homem e no homem o
+futuro todo inteiro da humanidade; que abranja com a vista o largo
+horisonte das criaturinhas, que o rodeiam, e que deseje dissipar as
+trevas d'aquelles entendimentos com luz tenue e suave, como convem a
+edades infantis, tem ainda a luctar com os defeitos da educação
+domestica, que devendo ser a primeira, a mais engenhosa, a mais
+insistente, e mais efficaz, é muitas vezes nulla, muitas quasi nulla e
+quasi sempre deficiente.
+
+E se o que vamos dizendo se applica em cheio á educação das faculdades
+intellectuaes da puericia, que são ainda assim, as que os paes de
+ordinario mais appetecem ver desenvolvidas nos filhos, outro tanto se
+póde asseverar da educação physica e moral.
+
+Conhecida a doença, urge accudir-lhe com o remedio. Já o bom do
+Jenuense, mestre de nossos paes, mestre de muitos de nós outros, que
+hoje ensinamos e que suppômos ter alguma valia, e tão injustamente
+esquecido e mettido para o canto, dizia:
+
+_Principiis obsta, sero medecina paratur, cum mala per longas invaluére
+moras._
+
+«Acode ao doente apenas a molestia dê o primeiro rebate; que de nada lhe
+prestará o remedio, tardio.»
+
+E haverá remedios, que prestem para os males de que enferma a educação
+elementar?
+
+Ha, e muitos; o caso está em applicar-lh'os a tempo e judiciosamente.
+
+Não todos apontaremos aqui, porque não é este livrinho um tratado de
+pedagogia, mas tão sómente um, que valerá por muitos.
+
+É remedio barato, condicção esta que não é para desprezar; de facil
+manipulação; composto de simples, que por toda a parte e a toda a hora
+se acham; e por cima de tudo isto, tão agradavel, que em vez de lhe
+fazerem caretas, os que o devem tomar, o appetecem e pedem sequiosos e
+nunca fartos de saboreal-o.
+
+É este remedio o _Ensino intuitivo_.
+
+Para applical-o, diga-se já e bem alta e claramente, nem todos servem.
+Em mãos de ignorantes converte-se em veneno, e em vez de beneficios, só
+produz males.
+
+É indispensavel, pois, que paes e mestres, que hajam de o empregar,
+possuam profundo e variado cabedal de conhecimentos.
+
+Antes, porém, de entrarmos a dizer o que este ensino seja, convem que
+nos lembremos das condicções organicas, physiologicas e intellectuaes
+das crianças.
+
+É o infante um organismo em via de formação, incompleto, fransino, em
+que a vida animal consiste quasi exclusivamente no movimento tumultuoso,
+na expansão incessante, na assimilação continua.
+
+Abriu os olhos ha pouco, e ainda não teve tempo de ver bem o grandioso
+espectaculo da natureza, cujos protentos o deslumbram; descerraram-se-lhe
+hontem os ouvidos, e por isso lhe echoam lá dentro, ainda confusas, as
+harmonias, os ruidos, as palavras, que mal percebe; aspira sofrego os
+aromas, que rescendem as flores, mas não os distingue; saborêa o nectar,
+mas quererá tambem provar o fél e degustar o absintho; apalpa enlevado a
+pelle assetinada e suavissima das faces maternas, mas queimar-se-ha
+incauto na chama da véla, que admira, sem a comprehender.
+
+No intimo, na cabeça, cujos óssos ainda se não consolidaram
+completamente, no coração, que palpita violento, jorrando sangue para
+todo o corpo, começam de germinar as idéas e os affectos, cuja
+elaboração de hora para hora, de dia para dia, de mez para mez se
+complica, e transmitte com incrivel velocidade.
+
+São dois mundos luctando atravez do fragil envolucro, que chamâmos
+corpo; o mundo externo, cujos variadissimos factos contempla attonito
+sem suspeitar que os determinam infinitas leis, que os encadeam
+reciprocamente innumeras relações, e que sobre elle actuam
+incessantemente: o mundo interior, o mundo dos sentimentos, das ideas,
+dos affectos, cuja admiravel genese começa, e que ha de irromper atravez
+dos sentidos, e reagir violento sobre os modificadores de fóra.
+
+A creança porque é um ente material, que tende a completar-se, carece de
+muita alimentação, de muito sol, de muito e bom ar, de muito movimento,
+de liberdade, e de sensações variadas, mas suaves, que a deleitem, e que
+attraiam a sua attenção.
+
+Se todas ou algumas d'estas condicções lhe faltarem vel-a-heis
+extinguir-se subito, como a luz de uma véla á mingua de oxigenio; ou
+estiolar-se e pender para o tumulo, onde não tardará a sumir-se, como a
+planta, que germinou em solo arido e assombrado.
+
+Como creatura intelligente e moral, necessita que lhe dirijam e
+robusteçam as faculdades, á proporção que se forem desenvolvendo,
+ministrando-lhes objectos apropriados ás forças das mesmas faculdades, e
+em quantidade tal, que nem as cancem, nem as desgostem.
+
+No desprezo d'estes principios está, a nosso ver, o primeiro e mais
+funesto erro do actual systema da educação infantil.
+
+Na maxima parte das escolas da puericia entram quotidianamente as
+criancinhas faltas do indispensavel alimento, e alli se conservam largas
+horas em casas estreitas sombrias e mal ventiladas, respirando ar
+infecto, inhibidas de fazer os movimentos, que a sua edade
+imperiosamente reclama, sem horisontes extensos e ridentes, que as
+alegrem, sem nada que as encante e lhes deleite os sentidos.
+
+O mestre, senão carrancudo e severo, é quasi sempre sufficientemente
+serio e concentrado, para não lhes incutir a confiança e amôr, que são
+os mais suaves e ao mesmo tempo os mais fortes laços, que prendem o
+discipulo ao perceptor.
+
+Começa a lição. Não ha canticos, nem musicas, nem exercicios
+gymnasticos, nem historiasinhas, que alegrem aquelles corações e
+instruam aquellas mentes nas coisas, que com maior facilidade poderiam
+comprehender.
+
+Para os mais pequeninos, para aquelles que mais se lembram ainda dos
+beijos maternaes e das doçuras da casa paterna, o triste e monotono a,
+b, c, as aridas columnas do syllabario, e a empyrica taboada. Para os
+mais crescidinhos, a grammatica, a historia patria, a chorographia, a
+doutrina christã.
+
+Que percebem os pobres infantes de tudo aquillo, que involuntariamente
+decoram, e machinalmente repetem?
+
+Nada, ou quasi nada.
+
+Tomae d'entre os alumnos de uma escola o mais adiantado, o mais
+estudioso, o que mais talento revele, e interrogae-o. Ouvil-o-heis
+repetir o compendio, máo ou bom, com certa facilidade e elegancia; mas
+se lhe perguntardes o sentido de uma palavra, a razão de um facto,
+vel-o-heis córar e emudecer, porque a elle, o estudante eximio, deixaram
+sempre em pousío as mais nobres faculdades da alma, excitando-lhe
+apenas, e ainda assim por um processo defeituoso, a faculdade auxiliar,
+a memoria.
+
+Olhar com seriedade para a educação e instrucção da infancia, e
+reformal-a completamente, adequando-a ás edades dos estudantinhos, e
+tornando-lh'a facilima, deleitavel, e todo o ponto util, é não só
+necessidade urgente, senão dever impreterivel.
+
+O primeiro passo para esta grande reformação, que o bom senso, a
+sciencia, a caridade, e o interesse de todos nós estão ha muito a pedir
+a grandes brados, dar-se-ha quando os governos, os municipios, as
+associações e os particulares se resolverem a edificar casas para
+escolas infantís, e primarias, espaçosas, alegres, agasalhadas, com o
+seu jardim, meio descoberto, meio assombrado com arvoredo, tendo no
+centro um pequeno lago ou tanque e aos lados alguns apparelhos e jogos
+gymnasticos; quando a frequencia da escola infantil, preparo para a
+primaria, fôr obrigatoria; quando o ensino da infancia fôr
+esclusivamente confiado a mulheres intelligentes, instruidas, honestas e
+amoraveis, que do coração se consagrem ao ministerio sacratissimo de
+educadoras, e que a todos os discipulos, amem e acarinhem, como se
+fossem todos elles seus filhos queridos; e quando finalmente o _Ensino
+intuitivo_ se tornar obrigatorio e exclusivo nas escolas infantís; e
+obrigatorio, como auxiliar de qualquer outro, nas escolas primarias e
+secundarias.
+
+Muitos annos hão de decorrer, infelizmente, primeiro que se realizem
+estes nossos alvitres. Levantar-se-hão contra elles os ramerraneiros, os
+enthusiastas do passado, os indifferentes, os que não crêem no
+aperfeiçoamento humano começado a operar na escola infantil, os que só
+vêem a prosperidade publica, no exercito, nas estradas, nos caminhos de
+ferro, nos telegraphos electricos, nas escolas superiores, nas
+academias, e nos museos, como se tudo isto não estivesse a pedir, para
+ser verdadeiramente util, muita e sólida instrucção no povo, muita
+moralidade, e muito amor ao trabalho, e como se estas indispensaveis
+qualidades as podesse ter uma nação, onde não ha escolas infantís, onde
+as escolas primarias são pouquissimas e defeituosas, onde os methodos de
+ensino são ruins, e onde os professores, muitos d'elles dignissimos e
+habeis, são tão vergonhosamente retribuidos, que para pobrissimamente
+viverem, têm de se occupar em misteres totalmente alheios do ensino e
+educação.
+
+Muitos annos, repetimos, hão de decorrer primeiro que os exemplos da
+America, generosissima com a instrucção primaria, sejam imitados na
+extrema Europa.
+
+Não o quer o _deficit_, exclamarão os financeiros, e applaudil-os-hão
+todos os que mais ou menos manuseam o orçamento do estado.
+
+Se a indole d'este escripto o permittisse, facil nos seria impugnar esta
+nefasta e incessante invocação da pobreza publica, e mostrar que em
+Portugal o que falta, e muito, é verdadeiro patriotismo, é sincera
+vontade de progredir, é a iniciativa individual nos arrojados
+commettimentos, caracteristicos dos povos, que comprehendem os seus
+deveres de membros da grande familia social e que os não pospõe aos seus
+interesses particulares.
+
+Colhâmos, porém, as vélas ás considerações, que todos estes assumptos
+nos suggeriram, e entremos já a dizer o que seja o _Ensino intuitivo_, e
+as vantagens que d'elle resultam.
+
+Todos os que lidam com crianças terão percebido que nas primeiras idades
+é o homem dominado incessante e invencivelmente pela curiosidade, ou
+desejo de saber; que para saciar esta inclinação empregam os infantes
+não só os olhos, mas os outros sentidos; que ao verem um objecto,
+mórmente se lhes agrada, ficam diante d'elle como que absortos, com os
+olhos mui abertos, ás vezes quasi sem pestanejar; que se lh'o consentem,
+tomam nas mãosinhas o que primeiro estiveram vendo, e o apalpam, a
+principio com timidez, depois com afoiteza; que o levam ao nariz, e á
+bocca, e que por fim começam de separar as partes de que se compõe, se
+não é inteiriço.
+
+Apoz tal exame, e ás vezes simultaneamente, chovem as perguntas:
+
+O que é isto?
+
+Quem fez?
+
+De que é?
+
+Para que serve?
+
+Quem trouxe?
+
+Terão tambem observado os educadores, que n'estes exercicios
+instinctivos, as criancinhas, em geral, não comparam, nem por
+consequencia raciocinam. Fazem como as abelhas, que andam de planta em
+planta, de flôr em flôr, colligindo os materiaes com que mais tarde hão
+de fabricar o seu mel. Com a differença que as abelhas nasceram aptas
+para aquella industria e nunca em vez de mel nos dão outro produto; e as
+criancinhas, artistas novéis, mas livres e dotadas de intelligencia
+perfectivel, podem pela maneira imperfeita porque as suas faculdades
+intellectuaes e moraes se começarem a desenvolver, e continuarem a
+exercer-se, viciar de tal arte o espirito, que de futuro ou nada possam
+conhecer bem, ou só com extrema difficuldade e grande dispendio de
+tempo.
+
+Em aproveitar as naturaes tendencias da infancia e juventude, em
+amenisar-lhe o começo da extensa e espinhosa senda, que tem de percorrer
+na vida, em desenvolver-lhes e aperfeiçoar-lhes gradual e
+insensivelmente as faculdades; em enriquecer-lhes de copiosos e
+variadissimos conhecimentos o espirito; em formar-lhes o coração,
+desenvolvendo n'elle astuciosamente o gosto do bom, do bello e do
+verdadeiro; em habilital-as o mais cedo possivel, sem a minima
+violencia, para a vida pratica, deixando para tempo opportuno theorias e
+systemas, para comprehender os quaes é mister intelligencia robusta, é
+em que consiste o _Ensino intuitivo_.
+
+É este ensino primeiro que tudo dos sentidos externos, os quaes á
+maneira que se vão exercendo sobre os objectos, para lançarem no
+espirito os germes de quantas sciencias e artes ha, se aperfeiçoam
+insensivelmente, adquirindo cada dia mais vigor e aptidão.
+
+É pois indispensavel que os educadores procurem especialmente que as
+criancinhas empreguem os sentidos, ora simultanea, ora successivamente,
+nas cousas que tenham de estudar, que as vejam de perto, que as tomem
+nas mãos, que as cheirem, que as provem, quando não houver
+inconveniente, que as dividam e recomponham, sem que se lembrem de que
+estão a estudar.
+
+Tudo servirá para estes exercicios intuitivos, se o educador tiver
+instrucção variada e profunda. Tudo servirá, por que, como disse
+Jacotot: _Tudo está em tudo_.
+
+Um grão de areia, um alfinete, uma agulha, um botão, um palito, uma
+moeda de prata ou cobre, a folha de uma arvore, um bago de uva, serão
+compendios tão importantes como um cavallo, uma ave, um peixe, um
+relogio, uma caixa de musica, ou uma machina de cozer.
+
+Milhares de cousas baratissimas se poderão apresentar aos estudantinhos
+para larguissimamente os instruir; muitissimas haverá em todas as casas,
+taes como cadeiras, mezas, pennas, papeis de differentes qualidades,
+flôres, fructos, relogios, thesouras, campainhas, etc. De um sem numero
+de objectos se poderão obter modelos em ponto pequeno ou de madeira ou
+de papelão, ou de qualquer outra substancia apropriada. Na falta
+absoluta de exemplares naturaes, que são os melhores, ou de copias em
+vulto, que servem perfeitamente, sendo bem feitas, empregar-se-hão com
+muita vantagem estampas coloridas ou em negro. O que deve ser banido das
+escolas infantís é o syllabario, a taboada, o cathecismo, a grammatica,
+o compendio de chorographia e o de civilidade. Da exposição, exame e
+comparação das coisas ou das estampas, segundo o processo que já vamos
+indicar, é que as crianças hão de ir colhendo as idéas exactas e claras,
+que depois saberão associar ás mil maravilhas, formando espontaneamente
+optimos juizos e raciocinios.
+
+Tratando das viagens de Homero e do estudo pratico das pessoas e cousas,
+que habilitou o immortal filho de Climene a compôr os protentos
+litterarios denominados _Iliada_ e _Odysséa_, diz Bitaubé o seguinte,
+que é a expressão da verdade: «Os livros são uteis, mas favorecem certa
+indolencia, que obsta a que o leitor observe por si mesmo; lendo, vemos
+a maior parte das cousas pelos olhos dos outros, e representâmos ao
+nosso espirito imagens de outras imagens; se observassemos directamente
+os objectos graval-os-hiamos mais profunda e claramente no espirito.
+Qual é o resultado da falta de observação directa? É perdermos a
+perspicacia e sagacidade indispensaveis para observar com perfeição á
+força de não as exercitarmos e de não contemplarmos a natureza,
+excellente mestra, que jámais se deve despresar. Adquirem-se é verdade,
+mais idéas, mas imperfeitas e superficiaes, de que resultam quadros
+frios e incompletos.»
+
+Todos os pedagogistas, que se teem occupado d'este systema de ensino,
+encarecem o proveito que se tira da substituição dos livros de texto,
+que os meninos decoram sem os entender, pelas estampas, que muito os
+deleitam e que examinam attentos, colhendo das palavras do educador, a
+proposito de cada uma, infinitos conhecimentos, que jámais esquecerão.
+
+É mister, porém, que as estampas sejam mui perfeitas, para que não
+viciem nas crianças o gosto do bello e da verdade, e que sejam graduaes,
+como tudo deve ser na educação. A regra fundamental do ensino intuitivo,
+a qual nunca deve esquecer é: _Caminhar do conhecido para o
+desconhecido, do facil para o difficil, do commum e trivial para o menos
+commum ou mais raro_.
+
+Para realisar este preceito maximo, cujo despreso annularia o systema,
+convirá que os educadores não entretenham seus discipulos com objectos
+tomados ao acaso, mas que sigam um processo gradual, lento e invariavel,
+nunca lhes chamando a attenção para cousas, cujos componentes elles
+ainda não conheçam, nem lhes fazendo perguntas para responder ás quaes
+não estejam habilitados. Dêmos alguns exemplos. Se praticarmos com
+mocinhos a respeito de uma caixa de pinho, que estejam vendo, poderemos
+convenientemente perguntar-lhes o feitio que tem, as partes de que se
+compõe, para que serve a tampa, para que estão ali as argolas e a
+fechadura; poderemos interrogal-os ácerca dos usos da caixa, fallar-lhes
+do perigo de entalar os dedos quando a fecharmos, ou de nos ferimos se a
+tampa cair sobre as nossas mãos ou cabeça; poderemos ainda indagar se
+sabem o nome que se dá aos artistas, que trabalham em madeira; mas não
+lhe fallaremos do pinho, sem que elles tenham visto um pinheiro natural
+ou pintado, e a respeito d'esta arvore tenham adquirido os convenientes
+conhecimentos.
+
+Se conversarmos ácerca de uma moeda de prata, bom será perguntar-lhes
+como se chama aquelle dinheiro, de que é feito, que feitio tem, por que
+não é quadrado, nem triangular (aqui fará o professor com o giz no
+quadro preto a figura do triangulo e do quadrado), o que tem n'uma e
+outra face, que representa a effigie e as armas, para que serve o
+dinheiro, etc., etc.; mas abster-nos-hemos de lhes dizer que a prata da
+moeda é uma liga de prata e cobre, se por acaso ainda não souberem o que
+é uma liga metallica, nem conhecerem o cobre.
+
+Convém estar prevenido para um caso, que muitas vezes se deve realisar
+na pratica d'este ensino. A natural prespicacia de alguns meninos e os
+conhecimentos adquiridos na convivencia de seus paes e amigos ou na
+leitura, se forem já ledores, habilital-os-hão a fazerem perguntas, a
+que o educador não poderá ou não saberá responder. Quando isto aconteça,
+nem se enfade ou envergonhe o educador, nem illuda a curiosidade
+infantil, que de tanto serve n'este systema. Se a pergunta versar sobre
+assumpto, que o mestre ignore completamente ou conheça pouco, isso mesmo
+declare ao estudante com toda a franqueza; se fôr attinente a cousas,
+para conhecer as quaes o mocinho não esteja preparado, ou que toquem em
+pontos, que a decencia não permitta explanar, diga-lhe sem desabrimento,
+que não é tempo ainda de saber o que pergunta.
+
+E para que nem o credito scientifico do educador soffra detrimento, nem
+os meninos se desgostem e abstenham de perguntar, bom será que o
+educador a miudo lhes mostre em phrase accommodada ás suas
+intelligencias, e por meio de exemplos, quão numerosos são os
+conhecimentos humanos, que é impossivel que todos saibam tudo, e que,
+para adquirir sciencia de bons quilates, é indispensavel ir a pouco e
+pouco, e não investigar certas cousas, antes de ter adquirido noções
+exactas de outras.
+
+Para que o ensino intuitivo produsa todos os bons resultados que d'elle
+se podem esperar, não basta progredir do conhecido para o desconhecido,
+do simples para o composto; é indispensavel que os alumnos não conheçam
+o plano adoptado pelo professor, e que não percebam que o que elle lhes
+vae ensinando tende a um determinado fim e se ajusta para os iniciar nas
+sciencias, cujas leis e applicações mais importantes só mais tarde terão
+de estudar. Para a realisação d'este importante segredo do ensino
+intuitivo, iremos nós offerecendo aos educadores em publicações
+successivas, se esta nossa tentativa merecer o favor publico, as lições
+graduaes, que deverão constituir um curso completo.
+
+Recommendam os mestres d'esta especialidade, no intuito de não enfadar
+os estudantes e de os conservar attentos, que cada lição não exceda
+quinze ou vinte minutos. Diremos, porém, que a pratica nos tem mostrado
+poder ás vezes a lição prolongar-se até duas horas e mais, sem que os
+estudantes se enfastiem nem deixem de attender ao que se lhes mostra e
+explica. Consegue-se este resultado amenisando a pratica com
+historietas, de que os meninos muito gostam, com exemplos, que elles bem
+comprehendam, com a citação de proverbios, anexins, e anecdotas
+consoantes ao assumpto de que se trata, e mais que tudo com o dialogo
+mui cortado entre elles e o professor.
+
+Haja sempre n'estas lições a maxima variedade apparente, tanto no
+objecto do estudo como na fórma, no dizer, nas conclusões e até na
+collocação dos objectos e dos estudantes. A monotonia, a ordem, além de
+certos limites, entristece a escola e cança os escolares. A par do
+ensino das cousas andará sempre o ensino da moral, da hygiene, da
+economia domestica, da religião, da organisação social, da historia, da
+geographia, das bellas artes, de tudo; com preferencia do mais util; mas
+sem estudos de cór, sem declamações, nem theorias transcendentes, nem
+listas de nomes de pessoas, nem datas escusadas; tudo ao de leve,
+saboroso, convidativo, e nem assim em grandes dozes, nem todos os dias.
+
+Permitta-se-nos que ponhamos aqui dois exemplos de como se deverá
+proceder n'estes pontos, e não os tenham na conta de ridiculos, que nada
+é ridiculo, quando se trata de espedregar a estrada, que ha de precorrer
+a puericia.
+
+Estamos na escola, estudando um objecto qualquer. Ouve-se ganir um cão
+na rua. Logo o professor interrompe o estudo, e pergunta a um dos
+escolares, se algum vir distraido, a esse se dirigirá:
+
+P.--Que é aquillo, alli, na rua?
+
+E.--É um cão a ganir, responderá o estudante; e o dialogo proseguirá,
+pouco mais ou menos, do seguinte modo:
+
+P.--O cão está ganindo ou ladrando?
+
+E.--Está a ganir.
+
+P.--Quantas qualidades de sons ou vozes produzem os cães com a bocca?
+
+E.--Não percebo a pergunta.
+
+P.--Eu me explico. Os cães não estão sempre calados...
+
+E.--Já percebo o que o senhor professor pergunta. Os cães _ladram_.
+
+P.--E quando estão tristes, ou quando ouvem certos sons, que lhes não
+agradam, ladram?
+
+E.--Não, senhor, _uivam_.
+
+P.--E quando estão a roer um ôsso, e outro cão ou qualquer pessoa lh'o
+quer tirar, o que fazem?
+
+E.--_Rosnam_.
+
+P.--E se lhes batem, ou os apedrejam?
+
+E.--Põem-se a _ganir_.
+
+P.--Mui bem; os cães, pois, podem _ladrar_, ou _latir_, _rosnar_,
+_uivar_, e _ganir_.
+
+Aqui, se os meninos tiverem já conhecimentos de grammatica, dirá o
+professor como de si para comsigo, mas em voz alta: aqui temos cinco
+verbos, e repetirá, contando pelos dedos ou batendo com o lapis na mesa:
+o verbo _ladrar_, o verbo _latir_, o verbo _rosnar_, o verbo _uivar_ e o
+verbo _ganir_.
+
+E continuará, como quem se está recordando do que aprendeu: palavras que
+representam acções praticadas ou feitas pelo cão.
+
+E logo, como quem se desviou do caminho direito e a elle volve, dirá ao
+alumno:
+
+P.--Tenho ouvido dizer a algumas pessoas, que o _uivo_ dos cães é de mau
+agouro, isto é, que um cão a uivar annuncia desgraça. Será verdade?
+
+E.--A minha avó diz que sim, que é signal de estar alguem para morrer.
+
+P.--Essa resposta esperava eu.
+
+Pois fiquem os meninos sabendo, que não ha agouros, e que _uivar_ um
+cão, ou _cantar_ um canario, ou _relinchar_ um cavallo, ou _piar_ um
+mocho, ou _cacarejar_ uma gallinha, ou _miar_ um gato não tem influencia
+nenhuma nos acontecimentos humanos.
+
+E.--Á minha casa vae uma velhinha, que, em ouvindo uivar um cão,
+descalça o sapato e põe-n'o com a sola para cima, até o animal se calar.
+
+P.--Se os cães uivarem muito em roda d'ella no inverno, andará sempre
+com os pés frios.
+
+E.--Então a minha avó mente?
+
+P.--Mente, sem querer. Metteram-lhe uma peta na cabeça, e ella acredita
+uma cousa, que não é verdadeira.
+
+E.--Ora diga-me, senhor professor, se uma pessoa estiver para morrer e
+um cão se puzer a _uivar_ na rua ou na escada?
+
+P.--O doente morrerá, se Deus quizer que morra; e viverá, se fôr da
+vontade divina, que continue a viver.
+
+E.--Mas como se explica o que aconteceu o anno passado a um visinho de
+meu papá?
+
+P.--Conte-me lá essa historia tentim por tentim.
+
+E.--Adoeceu um homem, que morava no primeiro andar do predio, em que eu
+habito; veiu o medico, esteve a examinal-o, receitou, disse que a doença
+não era de perigo, e saïu. Minutos depois metteu-se na escada um cão e
+principiou a uivar.
+
+A mulher do doente foi-se a elle, bateu-lhe com o cabo da vassoura e
+pol-o na rua. Quando entrou em casa, estava o marido morto em cima da
+cama.
+
+P.--Sabe o menino o que isso foi?
+
+E.--Eu não senhor.
+
+P.--Pois tem pouco que saber. Foi o que se chama _uma coincidencia_. Se
+á saïda do medico, entrasse pela casa dentro um passarinho, dir-se-ia,
+que a avesinha viera annunciar aquella desgraça; se eu por acaso batesse
+á porta do doente n'aquelle instante, era eu o agoureiro.
+
+E.--Mas o medico tinha dito, que a doença não era de perigo.
+
+P.--E a morte repentina pressente-se horas, ou minutos antes? E não
+podem os proprios medicos morrer de repente, sem que suspeitassem o que
+lhes ia acontecer?
+
+E.--Mas o cão uivou!
+
+P.--Diga-me ca o menino uma cousa. Em casa d'esse homem, que falleceu,
+não tem estado mais ninguem doente?
+
+E.--Estiveram doentes dois filhos.
+
+P.--E a mãe mandou chamar medico para os tratar?
+
+E.--Mandou, sim, senhor.
+
+P.--E não mandou chamar um cão?
+
+E.--Ora essa! Os cães não sabem curar doenças.
+
+P.--Mas o cão, que uivou, quando o homem morreu, era mais entendido que
+o medico, porque annunciou a morte, até sem vêr o doente.
+
+E.--O senhor professor está brincando! Os cães são brutos, não sabem
+d'aquellas cousas.
+
+P.--Então como é isso? Não sabem d'aquellas cousas, são brutos, e
+prophetisam?
+
+E.--Tem razão, senhor professor. Agora vejo que a minha avósinha anda
+enganada.
+
+P.--E muito, e faz mal em dizer taes patranhas. O uivo dos cães é
+desagradavel aos ouvidos, aborrecivel por isso, mas não tem a minima
+significação.
+
+Aqui poderá o educador dar fim ao incidente, ou continuar o dialogo,
+fallando do mau costume de molestar os animaes, das qualidades do cão,
+da raiva e dos meios de a prevenir e curar, etc, etc.
+
+Ao terminar a lição poderá o educador convidar ou os meninos a imitarem
+o relincho do cavallo, o carejo das gallinhas, o miar dos gatos, o
+latido dos cães, etc.
+
+Este exercicio que a algum fatuo parecerá ridiculo, ou desnecessario, ou
+ambas as cousas, tem as seguintes vantagens: alegra e distrae as
+creanças, que jámais fugirão do estudo, quando elle fôr recreativo,
+desenvolve-lhes, e aperfeiçôa-lhes a natural tendencia para imitarem,
+exercita-lhes e robustece-lhes os orgãos vocaes, e por cima de tudo não
+faz mal nem á alma nem ao corpo.
+
+Quem reparar bem no dialogo que deixâmos architectado, descobrirá quanto
+ensinamento ha n'elle, e perceberá que se pretendeu principalmente
+combater uma crença erronea, mas vulgarissima.
+
+Dêmos o segundo exemplo.
+
+Está sobre a mesa ou em cima de outro movel um ramalhete de flores, que
+alli se puzéra mui calculadamente.
+
+Chegada a occasião opportuna, o professor interrompe a lição e diz:
+
+Meus meninos, descancemos um pouco. Aqui se faz uma pausa, e todos os
+rapazinhos exultam e saltam dos seus logares.
+
+P.--Já viram bem aquelle ramalhete?
+
+E.--Ainda não, senhor.
+
+P.--Pois vão buscal-o, para o examinarmos por miúdo.
+
+E.--Eil-o aqui.
+
+P.--De que flores se compõe?
+
+E.--De rosas, cravos, camelias, junquilhos, violetas e cedro.
+
+Se os meninos errarem o nome das flores, ou os não souberem, irá o
+professor emendando e dizendo lhes como se chamam.
+
+P.--Menino F... (ao que mais atrazado estiver em contar) conte pelos
+dedos quantas qualidades de flôres ha n'este ramalhete.
+
+E.--Rosas, _uma_; cravos, _duas_; camelias, _tres_; junquilhos,
+_quatro_; violetas, _cinco_; cedro, _seis_... Ha seis qualidades de
+flôres.
+
+P.--Parece-me que se enganou. Veja bem.
+
+E.--São seis, não me enganei.
+
+P.--E se eu lhe disser que se enganou? E enganou-se, porque não attendeu
+bem. Diga-me, o cedro é flôr?
+
+E.--Tem razão; são cinco. O cedro não é flôr.
+
+P.--Está-me parecendo, que nenhum dos meninos me sabe dizer para que
+serve este cedro á roda das flôres.
+
+E.--Eu não sei; eu tambem não; é, é....
+
+P.--Eu lhes digo para que elle aqui está. É para realçar a belleza das
+flôres, para fazer um contraste agradavel á vista. Se duvidam desatem o
+junco, tirem o cedro, e verão que o ramalhete perde muito da sua
+formosura. (Acto continuo, o educador faz o que aconselhou e mostra o
+ramo desguarnecido de verdura).
+
+P.--É ou não é verdade, o que lhes affirmei?
+
+E.--É verdade.
+
+P.--Ha entre estas flôres, umas que cheiram, e outras que não cheiram.
+
+E.--As rosas, cheiram; os junquilhos, cheiram; as violetas, tambem; as
+camelias é que não tem cheiro.
+
+P.--Não me lembro se já lhes disse como se denominam as substancias, que
+tem cheiro?
+
+E.--Denominam-se _odoriferas_.
+
+P.--E as que não teem cheiro?
+
+E.--_Inodoras_.
+
+P.--E todas as substancias, que tem cheiro, cheiram bem?
+
+E.--Não, senhor.
+
+P.--E todas as flôres cheirosas, possuem cheiro agradavel?
+
+E.--Nem todas.
+
+P.--Digam-me agora outra cousa. O cheiro das flôres é bom ou mau, para a
+saude?
+
+E.--Não sabemos.
+
+P.--Pois vão saber uma verdade, que jámais devem esquecer. Attendam. Ha
+pessoas a quem o arôma das flôres incommoda e faz adoecer; causa-lhes
+dôres de cabeça, enjôos de estomago, tonturas, e outros padecimentos.
+Muitas flôres, e ás vezes poucas, mas de cheiro forte, n'uma casa mal
+ventilada, podem envenenar quem alli estiver. Dormir com flôres na
+alcôva é muito perigoso, e sabe Deus quantas molestias este mau costume
+terá originado. Por agora basta que saibam isto, para se acautelarem; em
+outra occasião lhes explicarei como é que as plantas e flôres alteram a
+pureza do ar e o tornam doentio.
+
+É por este theor que nos animos infantis se podem inocular conhecimentos
+praticos de quantas sciencias ha, de modo que as crianças, ao sairem das
+escolas, levem copia immensa de noções utilissimas para todas as
+circumstancias da vida.
+
+
+
+De grande proveito nos parece que os meninos mais desembaraçados na
+escripta tenham um caderno onde todos os dias vão escrevendo mui
+laconicamente o assumpto da lição, e o que da mesma lhes pareça mais
+digno de se conservar na memoria.
+
+Evite-se, porém, que n'estes summarios, ou indices menemonicos, se
+empreguem palavras escusadas e se commettam erros de grammatica.
+
+De principio convirá que o educador, ao findar a lição, ensine aos
+meninos como o registro deve ser feito; depois ordenar-lhes-ha que o
+redijam em suas casas, e que lh'o apresentem no dia seguinte, para ser
+emendado.
+
+E como a extrema concisão seja a melhor qualidade de taes escriptos,
+aqui pômos um paradigma, para governo de educadores e educandos.
+
+Referimo-nos ao primeiro dialogo, que atraz fica exarado.
+
+
+*Registro*
+
+_Assumpto._--Um cão a ganir.
+
+_Sons, que os cães produzem com a bocca_: Latido, uivo, rosnadura,
+ganido. São substantivos. Ladrar, ou latir, uivar, rosnar, ganir.--São
+verbos.
+
+_Agouros._--Não os ha.
+
+_Vozes de differentes animaes._--Cão, _ladra_; canario, _canta_;
+cavallo, _relincha_; mocho, _pia_; gallinha, _cacareja_; gato, _mia_.
+
+O _uivo dos cães_ não indica, nem póde indicar a morte de ninguem, nem
+desgraça nenhuma. Se um cão uiva, pouco antes de morrer alguem, este
+facto é apenas uma coíncidencia, um accaso.
+
+
+
+O professor exigirá que os meninos, nas respostas que lhe derem,
+empreguem sempre phrases completas, conformes ás leis grammaticaes,
+simples e curtas quanto fôr possivel.
+
+
+
+Reputa-se de grande utilidade n'este ensino a repetição individual e
+simultanea.
+
+É um processo excellente, para conseguir que mais fundas se gravem
+certas especies no espirito dos alumnos, e para corrigir defeitos de
+expressão e pronuncia. No repetir em côro se deleitam as crianças muito,
+mormente se o tom das vozes não é tristonho, mas alegre, musical,
+variadissimo.
+
+
+
+Ao minimo erro de regencia, de concordancia, ou de pronuncia, acudirá
+logo o professor com a indispensavel advertencia, e tanto mais clara e
+fervorosa, quanto mais grave fôr o erro. Suppunhâmos que um menino diga
+_somentes_ em vez de somente, _faz-le_ por faz-lhe, _traz_ por traze,
+_Madanela_ por Magdalena, ou qualquer outra das infinitas corruptelas,
+que deslustram a nossa lingua, e que a cada momento se nos deparam até
+na conversação e escriptos dos doutos, e em documentos officiaes.
+
+Acto continuo advertil-o-ha o professor de que tal palavra não foi bem
+pronunciada, e o convidará a que a repita correctamente. Se o estudante
+não atinar a emendal-a, repita-lh'a o professor cuidadosamente partida
+em syllabas, acompanhando cada uma d'estas com uma pancada sobre a mesa
+com o ponteiro ou com a mão. Ouvida que seja a palavra assim
+pronunciada, repetil-a-ha o estudante tantas vezes, quantas seja
+necessario, para que a não altere, e após este exercicio dil-a-ha tão
+rapidamente como é de uso dizer-se. Se ao professor parecer conveniente,
+ordenará que outros estudantes façam o mesmo exercicio individualmente,
+e por fim mandará que a palavra ou phrase seja cantada pela classe
+inteira, attendendo muito a que o erro, que se pretendeu emendar, se não
+repita. O que fica dito ácêrca das palavras em especial applica-se em
+cheio ás phrases compostas de muitas palavras.
+
+
+
+A falta de ordem e clareza no dizer é defeito grave, mas communissimo,
+que tem raizes na escola primaria, e que por isso mesmo ou nunca se
+perde ou só com muito trabalho se consegue extirpar. A fim de prevenil-o
+e de combatel-o comece o educador dando exemplo de imperturbavel ordem
+na exposição, de esmerada escolha dos termos, de grande sobriedade nos
+incidentes, e de irreprehensivel rigor nas conclusões; tudo isto sem
+apparato, nem maneiras artificiosas, que revelem os intentos; e
+esmere-se em inspirar aos que o ouvirem o gosto de bem fallar, cortando
+todas as imperfeições mal apontem nos labios infantís. Cabe n'este logar
+uma recommendação, nunca assás repetida. Nas ruas, nas aulas, nos
+theatros, nas conversações familiares, e, quando Deus é servido, até no
+parlamento, e na imprensa proferem-se a miudo palavras e phrases, que,
+com quanto não sejam deshonestas, são tão grosseiras e plebeas, que
+nenhuma pessoa delicada as deveria empregar. Quasi sempre se ignora a
+origem d'aquelles termos, muitos d'elles, diga-se a verdade, sobremodo
+expressivos e por vezes engraçados, mas que nem por isso deixam de ser
+baixos e vis. Em evital-os seja fervorosissimo todo o educador, sem
+comtudo levar o zelo até ao ponto de banir da conversação escolar as
+locuções pittorescas e folgazãs, que alegram a linguagem, sem mareal-a.
+
+
+
+Assim como as leituras e recitações soturnas, pesadas, substanciosas, e
+extensas, aborrecem ás crianças e não lhes prendem a attenção, assim a
+poesia ligeira, as historias singelas, as fabulas e apologos, as
+anecdotas e proloquios lhes aprazem sobremodo e de tal arte se lhes
+apegam á memoria, que não mais as esquecem.
+
+Verdade é que Voltaire arguïu os fabulistas de quererem ensinar as
+verdades moraes por um processo essencialmente mentiroso, pondo a fallar
+animaes e plantas; e condemnou a leitura e recitação de taes composições
+nas primeiras edades. Tem porem mostrado a experiencia que Esopo,
+Phedro, La Fontaine e Lessing, com os seus artificios poeticos moralisam
+mais, e muito mais que a _Introducção á vida devota_, que o _Flos
+Sanctorum_, e que o _Thesouro de meninos_, e quantos outros escriptos,
+ainda que sejam verdadeiros na essencia e correctos na fórma, se hão
+publicado para edificação das almas, mormente em quanto n'estas se não
+ha robustecido a faculdade de raciocinar. Aproveitem-se pois d'este meio
+os educadores, lendo de vez em quando á escola uma fabula, que tenha
+relação com os objectos, que se estudam, e fazendo-a decorar; contando a
+proposito uma anecdota, ou repetindo algum dos muitos e verdadeirissimos
+rifões, de que tão rica é a lingua portugueza. Dos bons poetas
+nacionaes, tanto modernos como antigos, poderá o educador escolher
+infinita copia de versos em todos os generos, com os quaes irá
+perfumando as lições e desenvolvendo na puericia o gosto da poesia, que
+alarga a imaginação, modifica e reprime as ruins paixões, consola o
+espirito, e o dulcifica e embalsama. Fuja, porem, como de peste, de
+versos máos ou mediocres, não esquecendo jamais que _a poesia_ é, no
+dizer de um dos mais elegantes e profundos escriptores de Portugal, o
+sr. Latino Coelho, _a grandeza e o nada; o mundo e o atomo; a gloria e a
+humiliação; o triumpho e o martyrio; o genio e a loucura_.
+
+No ensino intuitivo, a faculdade que mais cuidadosamente se deve
+dirigir, desenvolver, e approximar da perfeição é a faculdade de
+comparar, cujos defeitos inutilisam os esforços das faculdades, que a
+antecedem, e obstam a que as superiores se exerçam como é mister. São
+innumeraveis e quasi sempre facillimos os processos de comparação de que
+o educador poderá fazer uso, desde a confrontação de dois feijões, ou de
+dois alfinetes, etc., até ao estudo comparativo de duas poesias, de duas
+obras de arte, do caracter de dois homens notaveis, de duas epocas
+historicas. Não ha palavras para encarecer os resultados, que os estudos
+d'esta ordem produzem e a influencia que exercem no desenvolvimento
+intellectual e moral das crianças.
+
+
+
+A par com o estudo das cousas, podem e devem marchar os exercicios
+attinentes ao aperfeiçoamento dos sentidos externos, e os preceitos
+consoantes á sua hygiene. Todos terão observado que o exercicio de
+certos orgãos concorre por muito para que os mesmos se apurem e tornem
+cada vez mais delicados. Os homens do mar, acostumados a olhar muito ao
+longe, e a buscarem a grandes distancias um objecto perceptivel, excedem
+sempre em perspicacia os que teem vivido encerrados em horisontes menos
+extensos.
+
+Um musico, habituado a reger orchestras, percebe, ainda mesmo nos
+cheios, se qualquer dos executantes deu uma nota errada, ou commetteo
+outro erro. Cegos tem havido, que pelo apalpar distinguem nos corpos
+qualidades, que pertencem ao dominio da visão, e executam trabalhos
+manuaes difficeis e delicados, como aquelle cego de nascença, de que
+falla o sr. dr. Centazzi na sua _Medicina_ e _Hygiene Popular_, que
+existia na cidade de Faro, no Algarve, e que fazia peões, cubos, e
+outras obras tão perfeitas, como as dos mais habeis mestres. Dos
+provadores de vinho se sabe quão facilmente reconhecem pelo paladar o
+merito, idade, pureza, e proveniencia do precioso liquor.
+
+Não se deve esperar que a gymnastica dos sentidos, por mais bem dirigida
+que seja na casa paterna e nas escolas infantís e primarias, venha a
+produzir tão miraculosos resultados; mas é indubitavel, que lhes
+corrigirá muitos defeitos, e que de dia para dia os hade ir tornando
+mais apropriados aos importantissimos fins, para que a natureza os
+destinou.
+
+Os paes em suas casas, e os professores nas escolas poderão começar a
+gymnastica dos sentidos pelo exame e comparação das côres. Mostrarão
+primeiro aos educandos o vermelho, amarello, verde, azul, preto, branco;
+depois differentes gradações de cada uma d'estas côres; em seguida as
+côres de transição; apoz estas, todas as mais, que fôr possivel
+apresentar-lhes. A pouco e pouco lh'as irão nomeando, e fazendo notar
+tudo quanto convier que elles saibam a tal respeito. Ao conhecimento das
+côres poder-se-hão seguir exercicios tendentes a apurar a vista, taes
+como a inspecção de objectos collocados a distancia cada vez maior; a
+leitura ao longe, e a pesquiza de algumas estrellas, planetas e
+constellações, cuja posição no espaço previamente se lhes tenha mostrado
+no mappa.
+
+Por meio de processos analogos se podem educar os outros sentidos,
+ensinando-se ao mesmo tempo milhares de cousas.
+
+
+
+Tambem os mestres do ensino intuitivo, recommendam, que se acostumem os
+meninos a lerem e a exporem elegante, exacta, e correctamente. Em
+algumas escolas temos notado quão pouco os professores attendem a esta
+parte do ensino, consentindo que os estudantes exponham as lições e
+respondam ás perguntas, que se lhes fazem, com extrema negligencia;
+negligencia na pronunciação das palavras, cujos sons elementares
+falseam; negligencia na declamação, que por muito precipitada, ou por
+extremamente preguiçosa, se torna monotona e insuportavel; negligencia
+na coordenação das idéas componentes dos raciocinios, e negligencia na
+disposição d'estes.
+
+Acudir com remedio a tantos defeitos é empreza ardua e enfadonha, mas de
+que não ha de levantar mão o bom educador, sendo o seu primeiro e
+persistente cuidado desarreigar os vicios da pronunciação, que
+principalmente na côrte, trazem adulteradissimo o mais elegante e
+donairoso de quantos idiomas se fallam no mundo, se exceptuarmos o
+italiano, ao qual, não obstante a sua nativa belleza e abundancia, não é
+somenos.
+
+Daria um livro a só enumeração das transgressões das regras orthoepicas,
+que a cada momento se ouvem até em boccas de ouro; tão irresistivel é a
+força dos maus exemplos! De entre as mais vulgares citaremos, para
+amostra, o accrescentamento, ou paragoge de um _e_ mudo ao infinito dos
+verbos, dizendo-se: _amare_, _fazere_, _comere_, _partire_, _pore_,
+etc., em vez de amar, fazer, comer, partir, pôr. O mesmo
+accrescentamento ao final das palavras, que terminam em consoante,
+proferindo-se: _sole_, _flore_, _mulhere_, _metale_, em logar de sol,
+flor, mulher, metal; o emprego do _a_ grave, onde deveria soar _e_
+fechado, pronunciando-se _espâlho_, _panha_, _tanha_, etc., por espelho,
+penha, tenha. A substituição grosseirissima de _le_ a lhe, dizendo se
+_dei-le_, _mostrei-le_, _quizera-le_, em vez de dei-lhe, mostrei-lhe,
+quizera-lhe; bem como o emprego de _lhe_, quando este pronome se refere
+a mais de uma pessoa ou cousa, e de _lhes_, quando a referencia é a uma
+só cousa ou pessoa. O emprego de _i_ em logar de _e_ em muitas palavras
+taes como dedal, dedeira, deante, empenho, emprestar, que a mór parte da
+gente pronuncia: _didal_, _dideira_, _diante_, ou _diente_, _impenho_,
+ou _impanho_, _imprestar_.
+
+De tanto e tão damninho joio irá o educador arrancando diariamente
+muitas mãos cheias, desafogando a linguagem de todos quantos senões
+n'ella fôr descobrindo, afim de que mais tarde, quando os meninos
+entrarem a estudar os segredos da elocução, nem elles, nem os
+professores tenham de perder muito tempo e muita paciencia em os
+debellar. E não sómente aos erros da pronunciação se ha de ir applicando
+prompto e efficaz remedio, mas tambem aos gallicismos e plebeismos de
+que está inçada a nossa lingua, mórmente aos que respeitarem á
+composição das phrases, havendo o maximo cuidado em não atordoar as
+cabeças dos estudantinhos com preceitos de grammatica e considerações
+philologicas.
+
+Se um menino disser: Vi hoje na _montra_ de um livreiro uma linda
+estampa; accudirá logo o educador: Não se diz _montra_; diz-se
+mostrador; e fará que o mocinho repita a phrase, substituindo o termo
+peregrino e escusado pela palavra portugueza. Diz outro: _Houveram_
+hontem muitas festas de egreja; emendará sem demora o educador: Houve
+hontem muitas festas de egreja; e convidal-o-ha a que emende o erro. Se
+algum menino lhe perguntar a razão por que tal palavra ou phrase se não
+deve dizer, a resposta será regulada pela idade, intelligencia e
+adiantamento do interrogante, de modo que, se elle fôr pequenino e muito
+noviço em materias grammaticaes, só lhe dirá: Essa palavra não se deve
+empregar porque é estranha á nossa lingua e desnecessaria; essa phrase
+não é admissivel, porque não é conforme ás leis da grammatica, que é a
+sciencia de bem fallar. E ahi fica o educando insensivelmente sabedor de
+que a phrase, que empregou, não é boa; de qual ou quaes a devem
+substituir; de que o discurso está subjeito a leis; e de que a sciencia
+de fallar correctamente se chama grammatica.
+
+Quanto mais não valerá a advertencia despretenciosa, que valeria um
+discurso mui chorudo de citações e palavras latinas e gregas! Se o
+pequenito, que os ha amigos de discutir e aferrados á propria opinião,
+não largar voluntario a palavra, que ouvira ou lêra, bom será
+convencel-o, não com argumentos scientificos, salvo se a sua
+intelligencia os poder comprehender sem custo, mas por meio de um
+simile. Poder-se-lhe-ha ponderar que assim como ninguem rasoavelmente
+vae pedir emprestadas aos visinhos cousas de que tenha abundancia de
+portas a dentro, nem vae ao mercado comprar fructa ruim, tendo-a famosa
+no quintal, a bater-lhe nas vidraças, assim os portuguezes de bom juizo
+e sufficiente instrucção, não devem andar tomando palavras e maneiras de
+dizer a estranhos, quando até para repartir com elles lhes sobram
+muitas.
+
+Para conseguir que as crianças leiam e fallem com elegancia, e n'isto
+vae o segredo da perfeitissima declamação, a primeira cousa, que o
+educador tem a fazer, é acostumal-as ao rhythmo, tão bem aproveitado
+pelo sr. Visconde de Castilho no seu _Methodo de leitura repentina_.
+
+Por pouco que se pense na organisação de todo o apparelho vocal
+(pulmões, larynge, bocca e narinas) nas relações d'aquelles orgãos e no
+mechanismo da voz, facilmente se perceberá, que a palavra, no que tem de
+physico, é verdadeira musica, com seus sons naturaes e accidentaes, com
+sua oitava, com escalas ora mais, ora menos extensas, com os seus
+tempos, já breves, já longos, e até com a expressão e timbre
+variadissimo, que ás vibrações sonoras e musicaes, imprimem os
+instrumentos.
+
+Ora, como não ha musica, que tal se possa chamar, sem rhythmo e
+expressão, claro está que a voz humana, para satisfazer ás condições da
+arte, e bem servir a intelligencia, de que é a melhor reveladora, e até
+parte integrante, no dizer de Condillac, deve ser rhytmica e expressiva.
+
+Para que estas duas essenciaes qualidades lhe não faltem é indispensavel
+em primeiro logar, que o educador habitue os meninos a obdecerem
+escrupulosamente ao compasso, na pronunciação dos sons elementares
+(vozes e consonancias) na dos compostos (diphthongos e syllabas) e na
+recitação das palavras, que só poderá ser perfeita, quando tiverem sido
+previamente divididas em tantos tempos, quantos forem seus elementos
+syllabicos. Depois de bem amestrados por meio d'estes exercicios na
+leitura auricular das palavras, que o educador para tal fim lhes ditará
+em voz bem intelligivel, palmeando as primeiro mui vagarosamente, depois
+um poucochinho mais depressa e por ultimo com o natural andamento,
+passarão os meninos a _ler por cima_, como é uso dizer-se nas escolas.
+
+Chegado a este ponto terá o educador de desvelar-se muito em supprir a
+extrema penuria da orthographia, não tanto no tocante á representação
+dos sons constituitivos das palavras, no que muito falta, como no que se
+refere á divisão logica das orações, ás variadissimas pausas, que ha de
+fazer o bom ledor e recitador perfeito; ás infinitas intonações de que
+carecem as palavras, as proposições, os periodos e até um mesmo vocabulo
+conforme a idéa que revela[1].
+
+Ler ou fallar sem intonações, sem pausas, sem as devidas quantidades,
+sem dar ao que se lê ou falla o natural colorido, e o relevo
+indispensavel, vale tanto como querer executar em um piano
+miseravelmente desafinado os primores de Rossini, Donizetti, Bellini,
+Meyerbeer ou Marcos Portugal.
+
+E não obstante serem intuitivas todas estas verdades, muitissimas
+pessoas ha, que as desconhecem, e muitas que, não as desconhecendo, como
+que se aprazem de ler e fallar por modo tal, que provocam tedio e somno.
+
+Daria optimo resultado, como tivemos opportunidade de mostrar
+praticamente a um educador, sempre avido de se aperfeiçoar, e em extremo
+benevolente para comnosco, a introducção nas escolas infantís e
+primarias, para o ensino e aperfeiçoamento da leitura e recitação de um
+processo analogo ao adoptado pelos regentes de orchestras e bandas
+marciaes no estudo das peças concertantes. Consiste elle em se
+collocarem os meninos em pé ou assentados, mas conservando direitos os
+troncos e naturalmente levantadas as cabeças[2] em frente de estantes ou
+mesas, onde estejam abertos os livros. Em logar elevado, de modo que
+todos os escolares o vejam, está o educador em pé, batuta na mão, olhos
+no livro e olhos na turba. Primeiro lê elle pausadamente em voz alta,
+com todo o esmero, um periodo, marcando o compasso com a batuta,
+repetindo duas ou mais vezes as palavras, que lhe parecerem mais
+difficeis de pronunciar, e corrigindo sem o minimo acanhamento os
+proprios descuidos. Feito este ensaio, manda ler o mesmo trecho ao
+estudante mais adiantado, depois a outro e outro, reservando para o fim
+os menos habeis, para que tenham tido tempo de se amestrar.
+
+Findo que seja este segundo exercicio, e tomado algum descanço, dará o
+signal de attenção e mandará ler em côro, indicando sempre com a batuta,
+como se estivesse regendo uma orchestra, todas as modificações da voz,
+que a leitura exigir.
+
+A estes estudos, que bem se podem chamar de leitura coral, podem-se
+accrescentar outros, excellentes para exercitar os meninos na
+declamação, e mui bem acceitos do bando infantil, que consistem
+primeiramente na leitura, e depois na recitação de cór, de pequenos
+dialogos, fabulas, e entremezes, em que haja um côro e dois, tres, ou
+mais interlocutores. Composições d'este genero facilmente se obtem, e
+quando se não achem, sem muito custo as póde architectar o professor.
+
+A par dos exercicios de leitura e recitação se póde ir cultivando a
+intelligencia dos meninos, e acostumando-os a pensarem e a exprimirem-se
+com certo rigor logico. Nada ha mais facil.
+
+Umas vezes elles mesmos subministrarão ao educador assumpto de molde
+para os seus conselhos e advertencias, outras vezes far-lhes-ha e
+educador uma pergunta ou lhes proporá um problema, e nas respostas irá
+notando as transgressões das leis da logica, que porventura commetterem,
+nunca saindo do campo da pratica para o das theorias, nem usando da
+terminologia scientifica, que nas idades tenras assusta, desgosta e não
+instrue.
+
+
+
+Cerraremos estas considerações lembrando aos educadores a vantagem de
+excitar nos estudantes o amor do estudo pelo emprego de premios e
+distincções.
+
+Se no dizer de Christo «Todo o que trabalha é digno de recompensa»
+_Dignus est enim operarius mercede sua_, qual será a razão por que se
+não hade galardoar o bom comportamento, a assiduidade no estudo, o
+aceio, e o progresso dos meninos?
+
+Se nas escolas superiores ha premios annuaes para os alumnos distinctos,
+se as academias os offerecem aos sabios, que cabalmente satisfazem aos
+seus programmas; se aos que triumpham nos certames das artes e da
+industria se concede a menção honrosa, o _accessit_, a medalha de prata
+ou a de ouro; se ha palmas e corôas, e ramalhetes, e brindes para o
+actor eximio, e até para o que na praça lucta com o touro embravecido,
+de melhormente se devem premiar as criancinhas, para as quaes o estudo,
+por mais que lh'o procuremos amenisar, hade ser sempre tarefa improba e
+tediosa.
+
+Hade porém haver na concessão das distincções e premios escolares a
+maxima parcimonia e inteira justiça, para que nem a prodigalidade lhes
+diminua o valor, nem a parcialidade os torne, em vez de incentivo do
+bem, facho de discordias, e origem de malquerenças.
+
+E assim como a advertencia e a reprehensão se não devem fazer esperar,
+commettida a falta, assim tambem se não deve demorar, nem regatear o
+galardão aos que o merecerem.
+
+Finda a semana, a cada um se dará com certa solemnidade ou o diploma, ou
+a medalha, ou a estampa, ou o livro, ou o brinquedo, mas nunca gulodices
+ou cousas, que os possam prejudicar.
+
+Além d'estes estimulos, bom será que annualmente haja, como em muitos
+collegios se usa, uma sessão publica consagrada á glorificação dos que
+mais se houverem distinguido.
+
+Ponhamos aqui ponto, não porque hajamos dito quanto se poderia
+recommendar aos educadores relativamente á difficilima empresa de
+iniciar as criancinhas nas sciencias e na virtude, mas porque exposto
+fica o que mais lhes convem saber para o bom emprego do ensino
+intuitivo, que nos proposemos vulgarisar, convencidos da sua muita
+utilidade. Os exemplos que seguem, não entram no plano de ensino
+intuitivo _gradual_, que, se Deus fôr servido, daremos á estampa; são
+tão sómente uma amostra, pela qual se possa fazer idéa do systema.
+
+Preferimos para estes exemplos os assumptos e objectos, que nas suas
+primeiras lições trataram Braun e Mayo, insignes pedagogistas, que em
+materia de educação tem prestado relevantes serviços á humanidade,
+adquirindo incontestavel direito a esta humilde, porém sincera
+homenagem[3].
+
+E já que fallámos de pedagogistas de tamanha nomeada, honremos aqui
+tambem outro escriptor e pedagogo notavel, o sr. J. Rambosson, cuja
+ultima obra, publicada em fins do anno de 1872: «_A educação maternal
+conforme as leis da natureza_,» não inferior á tão justamente
+applaudida: «_Educação das mães de familia_,» de Aimé Martin, hade
+forçosamente contribuir muito para a reforma do actual viciosissimo
+systema de educar a infancia, do qual o sr. Rambosson diz estas tão
+tristes, quão verdadeiras palavras: _Il n'existe rien sous ce rapport,
+ni chez nous ni ailleurs; on ne peut appeler éducation ce que se
+pratique pour cet âge_.
+
+
+
+
+PRIMEIRA LIÇÃO
+
+
+Ao entrarem a primeira vez na escola a maior parte dos meninos receiam;
+muítos d'elles temem.
+
+Que receiam e que temem?
+
+Receiam e temem a ausencia e desamparo temporario de suas mães e paes; o
+affastamento de seus irmãos e criados; o professor, que desconhecem; os
+condiscipulos, que nunca viram; a casa da aula, que lhes é estranha; a
+sciencia que ignoram.
+
+Quanto mais pequeninos, mais desconfiados se apartam do ninho seu
+paterno, mais desbotadas levam as faces, mais tremem e se angustiam ao
+aproximarem-se do templosinho modesto e sereno, que se lhes afigura
+medonho ergastulo.
+
+Na repugnancia, que os meninos tem á escola, são quasi sempre culpados
+os paes e as mães, porque, em vez de amoravelmente lhes fallarem d'ella,
+de lhes mostrarem que está alli o alvorecer de todas as artes e
+sciencias, de lhes dizerem que é aquella a unica porta por onde se entra
+á vida publica, na qual terão, quando homens, de tomar parte, de lhes
+explicarem a missão do professor e de lhes expenderem que n'elle
+accrescem aos deveres de mestre os de amigo e patrono; nada d'isto
+fazem, e só invocam o santo nome da escola, quando irritados pelas
+travessuras das crianças, que não querem ou não sabem remediar com
+brandura, bons conselhos, bons exemplos e moderadas correcções,
+pretendem aterrorisal-os, apontando-lhes para aquella... penitenciaria.
+
+Como ha de amar a escola e appetecel-a, e correr para ella voluntario e
+risonho o menino, a quem se não fartaram de dizer: «Não te aquietas?
+Irás para a escola, onde te farão estar quedo, quer queiras, quer não
+queiras.» «Não aprendas agora, que o professor depois, com a palmatoria
+te metterá no bom caminho.» «Por mais que te ralhe, não te emendas, tudo
+rasgas, tudo quebras; deixa-te ir para a escola;... farei queixa ao
+professor, elle te porá as uvas em pisa»[4]. A fim de remediar estes
+deploraveis vicios da educação domestica, de tranquillisar o
+estudantinho, de familiarisal-o com o professor e com os alumnos e de
+infiltrar-lhe n'alma o amor da escola e do estudo, adopte-se o seguinte
+modelo de recepção, ou outro melhor, mas pouco mais ou menos do mesmo
+padrão.
+
+Professor.[5]--Venha cá, meu menino; como se chama?
+
+Estudante.--Viriato.
+
+P.--Viriato é o seu primeiro nome; desejo tambem saber o seu sobrenome e
+appellido.
+
+E.--Chamo-me Viriato Henrique de Oliveira.
+
+P.--Bonito nome. Para corresponder a elle terá o menino de ser valente,
+destemido, muito amante da sua patria e muito bom. Sabe porque?
+
+E.--Não, senhor.
+
+P.--Eu lh'o explico. Viriato foi um pastor da Serra da Estrella, tão
+amigo da patria e dos patricios, que para impedir que os romanos os
+escravisassem, largou o cajado, abandonou os rebanhos, que apascentava,
+tomou armas, aggregou a si outros valentes, e por muitos annos
+desbaratou os exercitos estrangeiros, envergonhando generaes aguerridos,
+e grangeando fama eterna. D. Henrique foi outro militar de grandes
+dotes, e que tanto se distinguiu na guerra contra os mouros, que enchiam
+a Hespanha e a nossa terra, que, em premio de seu valor veiu a casar com
+D. Theresa, filha de um rei mui poderoso, da qual nasceu D. Affonso
+Henriques, primeiro monarcha portuguez.
+
+E para que todo o nome do menino seja de bom agouro, até lhe pozeram o
+appellido de Oliveira, que é uma arvore muito util e agradavel, symbolo
+da paz, de cujos fructos, as azeitonas, se tira o azeite, que é o melhor
+e mais precioso oleo, que se conhece. Mas deixemos o azeite e a
+oliveira, que ainda lhe quero fazer mais perguntas.
+
+Como se chama o seu papá?
+
+E.--Antonio Joaquim de Oliveira.
+
+P.--Que emprego tem elle?
+
+E.--É militar.
+
+P.--E o menino quer tambem ser militar?
+
+E.--Não, senhor; quero ser medico.
+
+P.--Bom é que não sigam todos a mesma carreira; haja militares, para
+defenderem a patria dos inimigos estranhos, e para manterem o socego e a
+ordem, que são a primeira necessidade dos povos; e haja medicos para
+curarem os doentes, e para nos ensinarem o que devemos fazer para não
+enfermar. Que edade tem o menino?
+
+E.--Nove annos.
+
+P.--O seu papá tem mais filhos?
+
+E.--Tem mais tres.
+
+P.--Os filhos do seu papá e da sua mamã o que são ao menino?
+
+E.--São meus irmãos.
+
+P.--Como se chamam os seus manos?
+
+E.--Thomaz, Clemente e Valeriano.
+
+P.--Dos quatro qual é o mais velho?
+
+E.--É o Thomaz.
+
+P.--Porque é elle mais velho?
+
+E.--Porque nasceu primeiro que os outros.
+
+P.--Se Thomaz é o mais velho, porque nasceu primeiro que os outros, como
+designará o ultimo nascido?
+
+E.--Direi que é o mais pequeno.
+
+P.--Melhor é dizer que é o mais novo. Onde mora o menino?
+
+E.--Na rua da Alegria.
+
+P.--Caspite! Quem mora na rua da Alegria não deve ser triste.
+
+Após esta pratica com os recem-entrados poderá o professor ou professora
+convidar os que souberem contar a contarem os estudantes, que estiverem
+na escola, e a designar pelos nomes os que forem seus conhecidos.
+
+P.--Menino Viriato[6] quantos condiscipulos tem aqui?
+
+E.--Não sei.
+
+P.--Não sabe, porque ainda os não contou; conte-os em voz alta.
+
+E.--Um, dois, tres, etc.
+
+P.--Agora, que sabemos quantos traquinas aqui estão, diga-me os nomes
+dos seus conhecidos.
+
+E.--Aquelle é Francisco; aquelle é Antonio; aquelle, que está ao pé da
+janella, tambem se chama Francisco, etc.
+
+P.--Ha n'esta aula tres Franciscos, como é que os havemos de distinguir
+de modo que, ao chamar um d'elles, não acudam todos tres?
+
+E.--Não sei.
+
+P.--Nada mais facil; bastará accrescentar ao primeiro nome de cada um o
+appellido da familia; teremos: Francisco de Mello; Francisco de Aguiar e
+Francisco Loureiro. Quando differentes pessoas ou cousas tem o mesmo
+nome, é indispensavel juntar ao nome que lhes é commum, outro, para que
+as possâmos designar sem confusão. Os meninos tem nas suas casas cópos
+de differentes tamanhos, para differentes usos; a uns chamam cópos
+_d'agua_, a outros cópos _de vinho_, a outros cópos _de liquor_. O mesmo
+fazemos com a fructa. Ha muitas qualidades de pêras; para distinguil-as
+denominamol-as pêra _parda_, pêra _virgulosa_, pêra _bojarda_, pêra
+_flamenga_, etc.
+
+
+
+Finda que seja a segunda phase d'este colloquio, tenue, mas conveniente
+para desassombrar o espirito dos estudantinhos, passará o professor a
+fazer-lhes outra ordem de perguntas.
+
+P.--Como se chama, meus meninos, esta casa, onde estamos?
+
+E.--Chama-se escola.
+
+R.--Para que vem os meninos á escola?
+
+E.--Para aprender.
+
+R.--Que vem os meninos aprender?
+
+E.--A ler, escrever e contar.
+
+P.--Assim é; mas na escola além de ler, escrever e contar, ensinam-se
+muitas outras cousas agradaveis e uteis, as quaes todas concorrem para
+tornar os meninos instruidos e virtuosos. Querel-as-heis aprender
+tambem?
+
+E.--Queremos, sim, senhor; queremos.
+
+P.--Ha um adagio, que diz:--_O que se ha de fazer, faça-se_; sigamos o
+adagio e comecemos desde já o nosso estudo, examinando os objectos, que
+estão n'esta aula. (Aqui mostrará o professor aos estudantes o _quadro
+preto_[7] a que muitos impropriamente chamam pedra). Qual dos meninos
+tem um objecto como este em sua casa?
+
+E.--Eu não; eu tambem não.
+
+P.--Sabem como se chama?
+
+E.--Chama-se _pedra_.
+
+P.--Assim o denominam alguns, mas impropriamente. Isto não é de pedra, é
+de pau, é de madeira. Ha n'esta casa alguma cousa de pedra?
+
+E.--As hombreiras da porta e das janellas.
+
+P.--E nada mais?
+
+E.--As ardosias, que trouxemos para fazer contas.
+
+P.--O menino F. respondeu muito bem; essas laminas pretas, a que
+chamâmos ardosias ou lousas, e as pennas com que escrevemos n'ellas, são
+pedaços de pedra. Querem ver a differença, que vae da pedra á madeira?
+Batam com os dedos nas ardosias; agora venham aqui, e batam n'isto, a
+que deram o nome de pedra. Todos percebem a differença do som.
+
+E.--É verdade.
+
+P.--Como chamaremos, pois, a este objecto? Eu lh'o digo.
+Chamar-lhe-hemos o _quadro_, ou a _taboa_; e como esta madeira está
+pintada, poderemos acrescentar ao nome quadro outro nome, indicativo da
+côr, que tem.
+
+E.--Poderemos dizer: _Quadro preto_.
+
+P.--Mui bem. Agora dir-me-hão para que serve o quadro preto.
+
+E.--Serve para n'elle se escrever.
+
+P.--(Mostrando um pedaço de giz). Sabeis o que é isto?
+
+E.--É um bocado de _giz_.
+
+P.--Para que o tenho eu aqui?
+
+E.--Para escrever no quadro preto.
+
+P.--De que côr é o giz?
+
+E.--É _branco_.
+
+P.--(Mostrando a esponja). Como se chama est'outro objecto?
+
+E.--Chama-se--_esponja_.
+
+P.--Para que temos aqui esta esponja?
+
+E.--Para apagar as lettras e as figuras, que se fizeram no quadro preto.
+
+P.--Não poderiamos apagar a escripta com o lenço de assoar?
+
+E.--Poderiamos, sim, senhor; mas ficaria sujo, e sujar-nos-hia o fato.
+
+P.--Respondeu muito bem. E porque razão não apagâmos as lettras com as
+mãos?
+
+E.--Porque ficariam sujas, e sujar-nos-hiam tambem o fato.
+
+P.--Quando por qualquer motivo tivermos sujado as mãos, que deveremos
+fazer?
+
+E.--Limpal-as.
+
+P.--De quantas maneiras se limpam as mãos?
+
+E.--Esfregando-as n'um panno, ou lavando-as.
+
+P.--Como ficam ellas mais desenxovalhadas, esfregando as n'um panno, ou
+lavando-as?
+
+E.--Lavando-as.
+
+P.--Como se chamam as peças de roupa, de que nos servimos para enxugar
+as mãos depois de as termos lavado?
+
+E.--Chamam-se--_toalhas de mãos_.
+
+P.--Trazer as mãos limpas é garridice, ou necessidade e dever?
+
+E.--É necessidade e dever.
+
+P.--Para que é necessario trazer as mãos aceiadas?
+
+E.--Para não mancharmos aquillo em que mechermos, e para não enojar as
+pessoas, que nos virem ou a quem prestarmos algum serviço.
+
+P.--A sugidade das mãos prejudica a saude?
+
+E.--Não sei.
+
+P.--Prejudica, e muito; em primeiro logar porque obsta á transpiração,
+isto é, á saïda da agua e suor, que continuamente estão atravessando a
+pelle; em segundo logar porque, indo com as mão sujas aos olhos,
+poderemos inflamal-os e originar doenças, que ou nos enfraqueçam a vista
+ou nos acarretem a cegueira. Quantas vezes ao dia deveremos lavar as
+mãos?
+
+E.--Quantas fôr necessario.
+
+P.--Acertadamente responderam; mas não será escusado dizer-lhes que
+invariavelmente as devem lavar pela manhã, ao erguerem-se da cama; antes
+e depois do almoço, jantar e ceia, ou de qualquer outra refeição; ao
+sair e entrar em casa; afóra as outras vezes, que o aceio o exigir.
+Passemos a outro assumpto. (Apontando para o cavallete.) Qual dos
+meninos me saberá dizer o nome d'aquelle objecto?
+
+Silencio.
+
+P.--Menino Carlos, não sabe como se chama aquillo?
+
+E.--Não, senhor.
+
+P.--Pedrinho, tambem não sabe como se chama aquella geringonça?[8]
+
+E.--Chama-se _cavallete_.
+
+P.--Acertou. Agora digam todos commigo: Ca-va-lle-te[9].
+
+E.--Ca-va-lle-te.
+
+P.--Agora hão de dizer esse nome, sem separarem as syllabas.
+
+E.--Cavallete.
+
+P.--Para que serve aquelle cavallete?
+
+E.--Serve para sustentar o quadro preto.
+
+
+Resumo
+
+A casa, onde estamos, chama-se «escola». Na escola aprende-se a ler,
+escrever, contar, a doutrina christã, desenho, canto, e mil outras
+cousas uteis e agradaveis, que o professor nos vae ensinando pouco e
+pouco, as quaes todas concorrem para que sejamos bons e instruidos,
+qualidades estas indispensaveis a qualquer homem. Ha na escola diversos
+objectos, e entre elles o _quadro preto_, a _esponja_, o _giz_ e o
+_cavallete_. No quadro preto escreve-se com giz. Serve a esponja para se
+apagar o que se escreveu no quadro, e o cavallete para sustentar o mesmo
+quadro.
+
+
+Reflexões
+
+Meus meninos, attendei bem ao que vou dizer-vos, e não o esqueçaes. Pode
+a casa da escola ser convidativa, a mobilia e utensilios bons, os
+compendios famosos, o professor sabio, zeloso e habil, e o methodo de
+ensino excellente, e não obstante todas estas invejaveis condições, os
+estudantes não utilisarem nada, com detrimento proprio e de seus paes,
+por falta de assidua frequencia e de estudo.
+
+São incalculaveis os prejuizos, que resultam das repetidas faltas á
+escola. Os meninos, que faltam, não só não se adiantam, mas perdem o que
+aprenderam, desgostam e entibiam o professor, introduzem a desordem na
+aula, e incitam os collegas com o exemplo, a que procedam do mesmo modo.
+
+Evitae, pois, todos estes males, não faltando á escola sem causa
+justificavel, e estudando aqui e em vossas casas, isto é, attendendo ao
+que o professor vos disser, meditando nas suas palavras, e lendo ou
+decorando o que vos mandarem que leiaes ou decoreis. Não se pode ser
+instruido, sem estudar. Os meninos estudiosos grangeiam a estima das
+pessoas de bem, e tornam-se dignos da protecção divina.
+
+
+
+
+SEGUNDA LIÇÃO
+
+A ESCOLA
+
+
+P.--Meus meninos, fallámos outro dia do quadro preto, das ardozias, do
+giz, da esponja, da toalha de mãos, e do cavallete; desejo que me
+nomeeis agora mais alguns utensilios da escola... Como se chama isto?
+(Indicando a mesa).
+
+E.--Chama-se _mesa_.
+
+P.--De que é feita esta mesa?
+
+E.--De madeira.
+
+P.--Todas as mesas são de madeira?
+
+E.--Não, senhor; algumas são de pedra.
+
+P.--E não as ha feitas de outras materias?
+
+E.--Não sei.
+
+P.--Nunca viram mesas de metal?
+
+E.--Lembro-me agora de tel-as visto de ferro.
+
+P.--E não só de madeira, de pedra e de ferro se podem fazer; todas as
+materias solidas e duras se prestam á construcção d'este movel. Como se
+chama esta parte da mesa? (Indicando a parte superior).
+
+E.--_Taboa_ da mesa.
+
+P.--Como se chama est'outra? (Indicando a parte sobre que assenta a
+taboa).
+
+E.--Chama-se _aro_.
+
+P.--Vinde aqui e dizei-me, que nome tem estas especies de caixas
+(Mostrando as gavetas) que estão sobre a taboa da mesa, e que eu puxo
+para fóra e torno a esconder (abrindo e fechando as gavetas).
+
+E.--Essas especies de caixas chamam-se _gavetas_.
+
+P.--Para que servem as gavetas?
+
+E.--Para guardar diversos objectos?
+
+P.--Estas peças de metal, que as gavetas aqui tem embebidas na madeira,
+como se denominam?
+
+E.--_Fechaduras._
+
+P.--Para que servem estas fechaduras?
+
+E.--Para fechar as gavetas?
+
+P.--Porque razão fecho eu as gavetas d'esta mesa, quando saio da aula?
+
+E.--Não sei.
+
+P.--Porque ha meninos, que commettem a indiscripção de as abrir e de
+mecher no que n'ellas está, praticando uma acção feia ...
+
+E.--É máu abrir uma gaveta?
+
+P.--Se a gaveta é de nosso uso, ou se nos é permittido abril-a e tocar
+no que lá está, não commettemos falta nenhuma em a abrir; mas se é de
+outrem, ou se nos prohibiram abril-a, é acção muito feia e má o
+descerral-a, sem licença, excepto em caso de necessidade. E já que
+estamos a fallar de gavetas, dizei-me, que deve fazer um menino bem
+educado, quando na sua presença se abre uma gaveta?
+
+E.--Não sei.
+
+P.--Deve abster-se de olhar para lá e de estar a observar o que ella
+contem. Dizei-me, com que se abrem as fechaduras?
+
+E.--Com as _chaves_.
+
+P.--Olhae para aqui... Metto a chave n'esta fechadura dou-lhe volta e
+vejo sair uma peça de ferro, chata e larga.
+
+E.--É verdade.
+
+P.--Como se chama essa peça?
+
+E.--_Lingueta._
+
+P.--Sabeis porque lhe pozeram o nome de lingueta?
+
+E.--Não sabemos.
+
+P.--Soletrae a palavra lingueta, e talvez deis no vinte.
+
+E.--Lin-gue-ta.
+
+P.--As duas primeiras syllabas d'essa palavra não vos trazem á memoria
+outra palavra muito conhecida?
+
+E.--Trazem, sim, senhor; a palavra lingua.
+
+P.--Reparae agora se ha alguma similhança entre a lingua do homem e dos
+outros animaes e a parte da fechadura, que estamos observando.
+
+E.--Ha, sim, senhor.
+
+P.--Em que?
+
+E.--A lingua é chata e a lingueta tambem; a lingua é comprida, como a
+lingueta; a lingua está preza na bocca d'onde sae ás vezes, e a lingueta
+está egualmente presa no interior de uma caixa da qual a chave a faz
+sair.
+
+P.--Difficilmente se poderia responder melhor á minha pergunta. Tomem
+d'aqui exemplo os outros meninos. A explicação que o menino F. me deu
+prova-me que elle observa as cousas com attenção e compára umas com as
+outras, o que muito concorre para que se nos desenvolva a intelligencia;
+ou que, se alguem lhe tinha ensinado isto, se não esqueceu do que lhe
+haviam dito, o que tambem é muito para louvar[10].
+
+E.--A mim ninguem me tinha ensinado a resposta.
+
+P.--Tanto melhor, porque deu prova de que medita no que vê; que vêr as
+cousas superficialmente é quasi o mesmo que não as vêr: Continuemos a
+estudar a mesa. Reparem n'estas quatro columnas (mostrando os pés da
+meza) sobre as quaes assenta a taboa, o aro e as gavetas.
+
+E.--São os _pés_ da meza.
+
+P.--Porque se lhes chama pés?
+
+E.--Porque sustentam o resto da mesa, á maneira dos pés do homem e dos
+animaes, que sustentam o resto do corpo.
+
+P.--Todas as mesas tem quatro pés?
+
+E.--Nem todas; umas tem um só pé, outras quatro, outras seis, e podem
+ter mais.
+
+P.--Quaes são as mais firmes, isto é, menos subjeitas a cairem, as de
+um, ou as de quatro pés?
+
+E.--As de quatro pés.
+
+P.--Para que servem os bancos?
+
+E.--Para nos assentarmos.
+
+P.--De que são feitos esses bancos?
+
+E.--De madeira.
+
+P.--Não poderiam ser feitos de outra materia?
+
+E.--Poderiam ser de ferro, ou de pedra.
+
+P.--Porque não poriam aqui bancos de pedra?
+
+E.--Porque são mais caros, que os de pau.
+
+P.--E só por isso é que os não pozeram aqui?
+
+E.--É porque são muito pezados; não poderiamos mudal-os de um logar para
+outro.
+
+P.--Não haverá outro motivo para preferir os bancos de pau aos de pedra?
+
+E.--Não sei.
+
+P.--Menino F... queira responder á minha pergunta?
+
+E.--Não sei.
+
+P.--Aquelle estudantinho, que além está a gesticular, é que nos vae
+satisfazer a curiosidade; vamos, menino G... deite a barra adiante aos
+seus collegas, revelando-nos o motivo porque os bancos de pedra, á parte
+o serem pesados e caros, não são adoptados nas nossas casas e nas aulas?
+
+E.--Parece-me que é por serem muito frios.
+
+P.--Por causa da frialdade da pedra são os bancos d'aquella materia não
+só incommodos, senão muito prejudiciaes á saude. Passemos a outro
+assumpto. Já vos ponderei que é muito mau faltar á aula, não estar
+attento ao que diz o professor, e não estudar. Desejo que me digaes
+agora o que acontece aos estudantes, que não vem ao principio da aula, e
+que entram aqui uma hora, ou hora e meia, depois de terem começado os
+nossos trabalhos?
+
+E.--Não podem seguir bem as lições.
+
+P.--Que deverá, pois, fazer, relativamente a este ponto, um estudante
+applicado, e que deseje adiantar-se?
+
+E.--Deverá entrar na aula á hora marcada para o começo do estudo.
+
+P.--Diga-me menino L... que cousas deve o estudante trazer sempre para a
+escola?
+
+E.--Uma ardozia, uma penna de pedra, um lapiz, uma penna de aço, e os
+livros.
+
+P.--E que lhe acontecerá, se lhe esquecer alguma ou algumas d'estas
+cousas?
+
+E.--Não poderá tirar da lição o fructo, que deve tirar.
+
+P.--Qual será a razão porque alguns meninos chegam muitas vezes á aula
+sem os objectos, que lhes são indispensaveis?
+
+E.--A razão d'essa falta é ou por que se esquecem de os tomar ao sair de
+casa, ou por que, saindo com pressa, os não acham, e lhes falta o tempo
+para procural-os.
+
+P.--Ha meio de evitar aquelle esquecimento, e de fazer com que os
+objectos, que devem trazer para a aula, se lhes deparem facilmente?
+
+E.--Ha, sim, senhor. Bastará que os meninos ponham a ardozia, o lapis, e
+os livros em um logar certo.
+
+P.--Que nome daremos a um menino, que põe uma cousa aqui, outra alli,
+outra acolá, e que depois se não lembra dos logares onde as poz?
+
+E.--_Desarranjado._
+
+P.--E ao que suja e rasga os livros, e deita borrões na escripta, e por
+cima das mesas, e se apresenta com a cara e os dedos enxovalhados?
+
+E.--_Porco ou enxovalhado._
+
+P.--Deve o professor consentir que os meninos rasguem os livros, que
+salpiquem de tinta as paredes e as mesas, que tragam sujas as mãos e
+cara, e o fato cheios de nodoas?
+
+E.--Não, senhor.
+
+P.--Porque?
+
+E.--Porque estragar os livros, ou as paredes, ou qualquer cousa, sem
+necessidade, é acção muito feia, assim como não andar limpo.
+
+P.--E será apenas acção muito feia? Não será uma especie de roubo feito
+aos paes e aos mestres, aos quaes muitas vezes é em extremo penoso
+custear as despezas, a que os filhos e discipulos os obrigam?
+
+E.--É de certo.
+
+P.--Que devem, pois, fazer os meninos a quem se recommenda, que sejam
+arranjados e aceiados?
+
+E.--Devem obedecer.
+
+P.--E que merecem os que não fazem caso das advertencias de seus paes e
+mestres?
+
+E.--Merecem castigo.
+
+P.--E de que são dignos os que estudam bem, e obedecem aos seus
+superiores, procurando em tudo conformar-se com os seus conselhos e
+preceitos?
+
+E.--São dignos de estima e de premio.
+
+P.--Respondeu com muito acerto. Por hoje basta de conversação. Antes,
+porém de nos separarmos quero repetir-lhes um conselho muito prudente de
+um grande mestre. Decorem-n'o e sigam-n'o, se querem ser methodicos e
+arranjados. Eil-o:
+
+_Logar certo para cada cousa, e cada cousa no seu logar_.
+
+
+
+
+TERCEIRA LIÇÃO
+
+OS CONDISCIPULOS
+
+
+P.--Recommendei-lhes outro dia, meus meninos, que não faltassem á aula,
+que viessem á hora marcada no regulamento, que se não esquecessem de
+trazer os livros, e mais objectos necessarios para as suas lições, que
+se acostumassem a ser arranjados, methodicos, e desenxovalhados, e que
+tivessem o maior cuidado em não estragar os objectos de seu uso. Não são
+tão poucos os deveres dos meninos; e como para bem os cumprirem é
+indispensavel conhecel-os, vamos hoje conversar em outro assumpto, que
+muito lhes interessa. Começarei perguntando-lhes como se denominam, em
+geral, os meninos, que frequentam ao mesmo tempo uma aula?
+
+E.--Denominam-se _condiscipulos_.
+
+P.--O encontrarem-se quasi todos os dias, estarem muito tempo juntos,
+lerem pelos mesmos livros, aprenderem com o mesmo professor, terem com
+pequenas differenças, a mesma idade, e trabalharem para conseguir o
+mesmo resultado, concorrerá para que os condiscipulos formem uma especie
+de familia ou irmandade, cujo pae espiritual é o professor?
+
+E.--Certamente.
+
+P.--Se os condiscipulos, como affirmaes, são quasi irmãos, parece-me que
+devem tratar-se de maneira differente do que se tratam os meninos, que
+nem são parentes, nem condiscipulos.
+
+E.--Sem duvida.
+
+P.--Já que tão expeditamente confirmaes a minha opinião, fazei mercê de
+me dizer como se devem tratar os condiscipulos.
+
+E.--Devem tratar-se com delicadeza, bondade e amisade.
+
+P.--Optimamente, sr. estudantinho; mas como eu não quero deixar por
+mentiroso o rifão, que diz: «As palavras são como as cerejas», peço-lhe
+me indique quaes actos de delicadeza hão de praticar os condiscipulos;
+de certo não quereis que elles deem excellencia uns aos outros, ou se
+saüdem com salamaleks, á maneira dos turcos.
+
+E.--Hão de cumprimentar-se quando se encontrarem em qualquer parte, e á
+entrada e saïda da aula; não hão de bater uns nos outros, nem rasgar ou
+sujar os vestidos; não hão de usar nas suas conversas de palavras feias;
+se a qualquer tiver esquecido o livro, a lousa, a penna, ou qualquer
+outro objecto deve-se-lhe emprestar aquillo de que carecer.
+
+P.--Muito bem. E será delicado o menino que despresar o collega, por
+elle ser feio, ou aleijado, ou tartamudo, ou vesgo, ou coixo?
+
+E.--Não, senhor.
+
+P.--Será delicado o menino, que pozer alcunhas a seus condiscipulos, ou
+que lhes lançar em rosto o serem filhos de pessoas pobres, ou não
+trajarem á moda, com elegancia, e esmero?
+
+E.--Não, senhor.
+
+P.--Se ao mesmo tempo chegarem ao pote, para beber, dois meninos
+grosseiros, que acontecerá?
+
+E.--Por-se-hão a ralhar, querendo cada qual ser o primeiro que beba.
+
+P.--Se um dos meninos fôr delicado e o outro grosseiro?
+
+E.--O delicado ou se affastará, para que o outro mate a sede em primeiro
+logar, ou encherá o copo e lh'o offerecerá.
+
+P.--E se ambos forem delicados?
+
+E.--Não sei o que devam fazer.
+
+P.--Menino F., responda á minha pergunta.
+
+E.--Se ambos forem bem criados, deverá o mais pequeno encher o copo e
+offerecel-o ao mais velho.
+
+P.--Mas pode acontecer que ambos tenham a mesma idade, ou que um não
+saiba a do outro.
+
+E.--Nesse caso o mais delicado antecipar-se-ha a obsequiar o outro.
+
+P.--Respondeu com muito juizo. Que deverá fazer um menino delicado, se
+ao lanche, um condiscipulo lhe pedir um damasco, uma pêra, ou qualquer
+outra cousa, que lhe não faça falta?
+
+E.--Deve dar-lh'a.
+
+P.--E pedir-lhe outra cousa em paga?
+
+E.--Não, senhor.
+
+P.--Do que temos estado a dizer conclue-se, que a delicadeza consiste
+não só em evitar tudo quanto possa desgostar os outros, mas tambem na
+pratica de quanto honestamente lhes possa ser agradavel.--Desejo, porém,
+que me digaes se delicadeza e bondade são o mesmo.
+
+E.--Não, senhor.
+
+P.--Como assim?
+
+E.--Pode uma pessoa ser delicada e não ser boa; pode tratar os outros
+muito bem, mas não proceder assim por virtude, e tão somente por genio,
+elegancia, ou astucia.
+
+P.--Para que possâmos ter um menino em conta de bom o que é necessario?
+
+E.--É necessario que elle não faça nenhuma acção má.
+
+P.--Quando é que as nossas acções são más?
+
+E.--Quando offendem a Deus, ou ao proximo.
+
+P.--Dizeis muito bem; mas para que este ponto se aclare bastante, fazei
+favor de me indicar algumas acções que reputeis más.
+
+E.--São más acções não crer em Deus, não o amar, e não o temer; não
+cumprir as ordens dos nossos superiores; mentir, levantar falsos
+testemunhos; desprezar os pobres, e não os soccorrer; indagar das vidas
+alheias; furtar; comer e beber mais do que é preciso.
+
+P.--E ser mandrião, não estudar bem as lições é acção bôa, ou má?
+
+E.--É má.
+
+P.--Porque?
+
+E.--Porque, não estudando, desobedecemos a nossos paes e mestres.
+
+P.--Como se chama a acção torpissima de tirar a alguem uma cousa ás
+escondidas.
+
+E.--Chama-se furto.
+
+P.--E como se denomina o desgraçado, que furta?
+
+E.--Denomina-se ladrão.
+
+P.--Que merecem os ladrões, estima ou desprezo?
+
+E.--Desprezo e castigo.
+
+P.--E não será quasi ladrão um menino, que, mandriando, obriga seus paes
+a fazerem despeza excessiva para o educarem, e que prejudica a familia,
+em beneficio da qual deveriam reverter as quantias, que os paes consomem
+inutilmente com o preguiçoso?
+
+E.--É, sim, senhor.
+
+P.--Por consequencia merece desprezo e castigo o máu estudante.
+
+E.--Certamente.
+
+P.--Se na escola houver estudantes pobresinhos e estudantes abastados,
+que devem estes fazer relativamente áquelles?
+
+E.--Tratal-os muito bem.
+
+P.--O bom tratamento de que fallaes consistirá somente em os admittirem
+á sua companhia na aula e na rua, e em praticarem com elles
+delicadamente, ainda que não andem bem trajados; ou consistirá tambem em
+auxilial-os, obtida licença dos paes e mestres, para que lhes não faltem
+cousas indispensaveis, taes como o lapis, papel, compendios, etc., para
+comprar as quaes lhes não chegar o dinheiro.
+
+E.--Parece-me que é dever dos estudantes endinheirados proteger em tudo
+os que o não são, e até repartir com elles o _lunch_, e a merenda, por
+isso que os collegas se devem amar como irmãos.
+
+P.--Muito bem. E o amor fraternal dos collegas permittirá que andem a
+fazer queixas uns dos outros?
+
+E.--Não, senhor.
+
+P.--Que deverá fazer um bom collega quando outro commetter uma pequena
+falta.
+
+E.--Deve advertil-o de que não fez bem, e aconselhal-o a que se emende.
+
+P.--E se um estudante quizer commetter um crime, ou praticar uma acção
+má, ou se tiver delinquido, e se mostrar obstinado em não se emendar, o
+que deverá fazer o collega?
+
+E.--Se não poder evitar o mal, nem conseguir que o menino, que o
+praticou, trate de se corrigir, cumpre-lhe avisar o professor.
+
+P.--Em voz alta, diante de todos, com acrimonia, e maneiras hostis, ou
+em particular, e por modo, que não aggrave o delinquente?
+
+E.--Em particular e sem azedume.
+
+P.--Se o professor perguntar a um estudante quem commetteu certa falta
+ou maldade, e o estudante interrogado souber quem foi, que deverá fazer?
+
+E.--Dizer a verdade.
+
+P.--Quando tal aconteça, ficará mal ao estudante implorar a clemencia do
+professor para o collega?
+
+E.--Não, senhor; antes lhe ficará muito bem.
+
+P.--Disse ainda agora um dos meninos que deviam os collegas ser amigos.
+A amisade é um sentimento mui delicado e nobre, e por isso mesmo mui
+raro. Umas vezes nasce do parentesco e convivencia intima, tal é a que
+aos filhos consagram os paes, e a estes os filhos, tal a dos avós e
+netos, e a dos tios e sobrinhos; outras vezes provém da sympathia,
+augmenta com a camaradagem, principalmente entre pessoas de indoles
+similhantes, e fortifica-se pela troca reciproca de serviços
+desinteressados e honestos. Mas, assim como «nem tudo o que luz é ouro»,
+assim nem toda a convivencia, posto que deleitavel, extremosa, e até
+util, se póde considerar amizade verdadeira.
+
+E.--Em que consiste, pois, a verdadeira amizade?
+
+P.--Em duas ou mais pessoas se estimarem reciproca e honestamente, como
+cada uma a si propria se estima.
+
+E.--Em vista do que dizeis, devem ser mui poucos os verdadeiros amigos;
+porque eu, não obstante ser ainda muito creança, tenho notado que quasi
+todas as pessoas gostam mais de si, que dos outros.
+
+P.--Rarissimos são, é verdade, e por isso mesmo quem teve a felicidade
+de encontrar um, deve cuidar muito de o não perder.
+
+E.--E o que nos acontecerá, se nunca tivermos um amigo verdadeiro?
+
+P.--Seremos menos felizes do que seriamos, se o tivessemos.
+
+E.--Vós, sr. professor, sois muito feliz.
+
+P.--Por que me consideraes muito feliz?
+
+E.--Porque tendes muitos amigos.
+
+P.--Quem vos disse que tenho muitos amigos?
+
+E.--Ninguem; mas tenho visto que pelas ruas uns vos cortejam,
+tirando-vos o chapéu, outros vos dizem adeus com a mão, outros vos
+tratam por tu, muitos vos abraçam e param a fallar comvosco.
+
+P.--Como estaes enganado! Esses todos, com pouquissimas excepções,
+sabeis o nome que merecem? Eu vol-o digo--_conhecidos_.--Se eu caísse de
+cama, quantos viriam acompanhar-me? se eu estivesse preso, quantos iriam
+suavisar-me a solidão do carcere? se eu tivesse fome, quantos
+repartiriam commigo as suas sôpas? se eu tivesse a desgraça de commetter
+um crime, quantos no dia seguinte se desbarretariam ao passar por
+mim?... Conhecidos, indifferentes, amigos do theatro, do baile, do
+passeio, que desapparecem, quando o verdadeiro amigo mais se approxima
+de nós, nos dias sombrios e luctuosos da desgraça, e das tribulações.
+
+E.--Como é então que fallaes e mostraes tão bonito modo a homens, que de
+nada vos prestam? Não seria melhor desprezal-os?
+
+P.--Não se deve desprezar ninguem. Quem não póde beber por uma taça de
+ouro, ou de crystal, ha de quebrar o copo de vidro ou o pucaro humilde
+de barro? Para os conhecidos, caridade e delicadeza; para os amigos, os
+affectos todos do coração.
+
+E.--Se vos não enfado, far-vos-hei ainda uma pergunta.
+
+P.--Quantas quizerdes.
+
+E.--De que traça nos havemos de servir para grangear amigos verdadeiros?
+
+P.--Um sabio, a quem fizeram igual pergunta, respondeu: _Se quizeres ser
+amado, ama_. A semente da amisade é a sympathia, ou reciproca
+inclinação, gerada, ou da analogia das indoles e estados, ou de certas
+qualidades, que mal se póde dizer quaes sejam, mas que parecem attrair
+umas para as outras as pessoas, que as tem.
+
+E.--De maneira que, se eu entrar n'uma casa e me agradar de uma pessoa,
+que não conheça, ainda que não seja da minha idade, nem bonita, e sentir
+para ella inclinação, poderei dizer que _sympathizei_ com ella.
+
+P.--De certo.
+
+E.--Mas ás vezes tambem succede o contrario; olha a gente para um homem
+ou para uma senhora, e posto que nem sejam feios, nem desastrados,
+experimenta certa repugnancia em tratal-os.
+
+P.--A essa repugnancia se dá o nome de _antipathia_.
+
+E.--Quando pois, sympathisarmos com alguem, poderemos contar com um
+verdadeiro amigo?
+
+P.--Nem sempre. Á vossa pergunta respondeu ha muito tempo um escriptor
+portuguez dos mais eruditos, chamado Antonio de Sousa de Macedo, cujas
+obras vos recommendo desde já para quando fordes maiorzinhos. Ouvi o que
+elle a tal respeito escreveu. «D'entre os mesmos em que se acham
+sympathias, se deve fazer distincção, antes de trabalhar pelos fazer
+amigos, por que nem todos serão convenientes.
+
+Suetonio diz de Augusto, que os _escolhia_ com vagar, e os conservava
+constantemente. Devem-se preferir os de _melhor juizo_, _bons costumes_,
+_valor_, _sinceridade_, e _bôa fama_. Nem com o _nescio_, diz o
+ecclesiastico, nem com o _mau_, diz santo Agostinho, nem com o _pouco
+verdadeiro_, diz Aristoteles, póde haver amizade.»
+
+E.--São essas as qualidades que devem ter os amigos, e muito folgo de
+que tão claramente nol-as expozesse esse auctor portuguez, cujo nome
+citastes; mas quando se nos depare alguem com todos esses requisitos,
+que deveremos fazer para lhe captivarmos a amizade?
+
+P.--Seja tambem Macedo quem vos responda. Diz elle: «Feita a eleição, a
+communicação e conversação faz os amigos, concordando nos ditos, e nas
+acções (suppondo que tudo ha de ser honesto e judicioso) e para a facil,
+sincera, e agradavel concordia, contribue especialmente a sympathia, a
+qual, accrescentou um sabio, se deve ajudar com algum beneficio, feito
+graciosamente, sem ser rogado, nem depois publicado.»
+
+E.--Algum beneficio?
+
+P.--Não fiqueis ahi pensando que os beneficios, que penhoram a amizade,
+sejam tão sómente mimos e presentes de cousas, que se merquem nas lojas,
+ou de fructas e manjares; boas são essas provas de amizade, mas não são
+as unicas, nem as mais apreciaveis. Por beneficios deveis entender
+tambem, os conselhos prudentes, os exemplos dignos de imitação, a
+companhia na doença, e nas tribulações, o ensino fraternal e até a
+reprehensão suave das faltas e defeitos.
+
+
+Resumo
+
+Os condiscipulos são quasi irmãos, filhos espirituaes do professor.
+Devem ser delicados, bons, e amigos. Devem cumprimentar-se á entrada e
+saïda da aula e sempre que se encontrarem. Devem prestar uns aos outros
+todos os serviços, que puderem. Os estudantes pobres, defeituosos, mal
+vestidos merecem, sendo bons, tanta estima e consideração, como os
+abastados, sãos, e tafues. Nem sombra de alcunhas, principalmente
+allusivas a quaesquer deformidades, ou imperfeições do corpo ou do
+espirito. Se nos pedirem cousa, que possamos emprestar ou ceder,
+emprestemol-a, ou cedamol-a, sem exigir paga, nem agradecimento.
+Delicadeza não é bondade. Toda a acção contraria á lei de Deus, ou ás
+leis humanas, quando estas não offendem aquella, é má.
+
+O mandrião merece castigo e desprezo. Desde a aula deve o rico ajudar o
+pobre.--Se algum estudante fizer maldades advirtam-n'o os que as
+presenciarem; mas não as divulguem. Quando um estudante praticar acções
+indignas, e admoestado pelos condiscipulos, se não emendar, recorra-se
+ao professor, dizendo-lhe em particular, e sem aggravar o mal, quanto
+baste para que elle proceda como fôr de justiça. É prova de delicadeza e
+bondade de coração implorar misericordia para os que estiverem em risco
+de ser castigados. Nunca se deve mentir; a mentira é a torpeza das
+torpezas.
+
+São amigas duas pessoas que reciproca e honestamente se estimam como
+cada uma d'ellas se estima a si propria. Ha amizade verdadeira, e
+falsa.--Nem todos os que parecem amigos, o são; não se deve confundir o
+amigo com o conhecido. Amar é o meio de grangear amigos. A amizade nasce
+da sympathia; mas nem todos com quem sympathisâmos podem ser nossos
+amigos. As qualidades que deverá ter um amigo, são: bom juizo, bons
+costumes, valor, sinceridade, bôa fama. Não deve ser nescio, nem mau,
+nem mentiroso. Para o grangear bastará a communicação e conversação,
+auxiliadas por obsequios desinteressados.
+
+
+Reflexões
+
+É finda a nossa palestra de hoje. Temos dito muitas cousas, mas não
+basta fallar; é indispensavel fugir do mal e praticar o bem. Muito falla
+o papagaio, mas que faz tamanho palrador? Come o que lhe deitam no
+comedouro, e nas horas vagas vae roendo a gaiola. Ninguem dirá com
+verdade, que seja muito para se imitar a tal ave palreira. Palavras,
+leva-as o vento, dil-o o rifão, e não mente. Para vos não parecerdes com
+aquelle animalzinho inutil, amae-vos muito uns aos outros; auxiliae-vos
+fraternalmente, cumprí á risca todas as vossas obrigações, e lembrae-vos
+a cada momento de que os homens do futuro, os paes de familia, os
+mestres, os escriptores, os ministros, os deputados, os juizes, os
+sacerdotes, os militares, os medicos, os pharmaceuticos, os advogados,
+os artistas, os negociantes, os industriaes, os lavradores haveis de ser
+vós, e de que para profissões tão variadas, tão nobres, tão difficeis e
+de tantissima responsabilidade, vos deveis desde já preparar, estudando
+e praticando todas as virtudes, para que, chegada que seja a hora de
+entrardes na vida activa e de servirdes a civilisação, que exige
+obreiros intelligentes e honrados, possaes cabalmente desempenhar os
+vossos deveres.
+
+
+
+
+QUARTA LIÇÃO
+
+VIDRO[11]
+
+
+Escolheu o professor Mayo o vidro para assumpto da primeira lição do
+ensino intuitivo, ou de objectos, por lhe parecerem as qualidades d'este
+corpo mais perceptiveis aos nossos sentidos, que as de qualquer outro.
+Aconselha o mesmo professor que fiquem os meninos defronte do quadro
+preto, onde se hão de ir escrevendo os resultados de suas observações; e
+que o pedaço de vidro vá passando de mão para mão, para que cada um dos
+estudantes individualmente o examine. O tomar cada menino o fragmento de
+vidro em suas mãos e o il-o observando com attenção é, como atraz
+observámos, ponto de grande importancia para o bom resultado do ensino.
+Diz a este proposito o excellente pedagogista Mayo o seguinte: «D'este
+modo cada individuo, dos que compõem a aula, se vê obrigado a exercitar
+as suas faculdades sobre o objecto, que se lhe apresenta; servindo as
+perguntas, que depois lhes faz o professor, para que elles revelem suas
+idéas, e para a emenda d'estas, se forem erroneas.
+
+P. (Mostrando um bocado de vidro)--Que é isto, que eu tenho na mão?
+
+E.--É um bocado de vidro.
+
+P.--Vamos soletrar a palavra _vidro_.
+
+(_Feita esta advertencia, escreve o professor no quadro preto a palavra
+vidro, dividida em duas syllabas_; pronuncía alto e bom som, em primeiro
+logar as lettras _v-i-d-r-o, acompanhando a pronunciação de cada uma
+d'ellas de uma pancada com o ponteiro no quadro, ou de uma palmada; e
+pronuncía depois as duas syllabas mui distinctamente. Em seguida repetem
+os estudantes primeiro individualmente, e depois em côro, aquella
+soletração, até que a saibam correctamente fazer_.)
+
+P.--Todos vós examinastes este vidro; e que notastes n'elle? Que podeis
+dizer que é?
+
+(Põe-se esta pergunta em logar de: Quaes são as suas propriedade? porque
+é muito provavel que a principio não entendam os meninos o sentido da
+palavra «propriedade»; mas applicando-a repetidas vezes o professor ás
+respostas que os estudantes derem, em pouco tempo se acostumarão a ella
+e lhe perceberão o sentido).
+
+E.--É brilhante.
+
+P. (Depois de ter escripto no quadro a palavra «propriedade», escreve
+por baixo: «É brilhante»).--Pegae-lhe; apalpae-o. (Deverá o professor
+dirigir aos estudantes perguntas conducentes a pôr-lhes successivamente
+em acção os differentes sentidos).
+
+E.--É frio. (Escreve-se esta resposta no quadro por baixo da outra
+qualidade).
+
+P.--Tornae a pegar no vidro, e comparae-o com este fragmento de esponja,
+com que limpâmos o quadro, e dizei-me o que notastes no vidro. (O
+intento do professor ao fazer esta pergunta, deve ser conseguir que os
+estudantes observem a «lisura», contrapondo esta propriedade á sua
+opposta, a «aspereza» de outra substancia; meio de demonstração que
+muitas vezes se poderá empregar).
+
+E.--É lizo; é duro.
+
+p.--Ha na aula outro objecto de vidro?
+
+E.--Ha sim senhor; os vidros das vidraças.
+
+P.--Olhae pelas vidraças, e dizei-me o que vêdes.
+
+E.--Vemos o jardim.
+
+P. (Fechando as portas da janella)--Olhae agora e dizei-me o que vêdes.
+
+E.--Agora não podemos vêr nada.
+
+P.--Porque é que não vêdes nada?
+
+E.--Porque atravez das portas não se póde vêr nada.
+
+P.--Que differença notaes entre as portas e o vidro?
+
+E.--Notâmos que atravez das portas nada podemos vêr, e que atravez do
+vidro vêmos o jardim.
+
+P.--Podeis dizer-me alguma palavra, que indique essa qualidade, que tem
+o vidro?
+
+E.--Não, senhor.
+
+P.--Eu vol-a digo. Tomae sentido, para que vos não esqueça. É
+_transparente_. D'aqui por diante que idéa fareis d'um corpo, se vos
+disserem que é transparente?
+
+E.--Que se pode vêr atravez d'elle.
+
+P.--Respondestes muito bem. Lembraes-vos de alguma cousa que seja
+transparente?
+
+E.--A agua.
+
+P.--Que aconteceria se eu deixasse cair no chão este pedaço de vidro?
+
+E.--Quebrar-se-ia.
+
+P.--E se da rua atirassem pedras á janella?
+
+E.--Quebrar-se-iam os vidros.
+
+P.--Sabeis como se chamam os corpos, que tem esta qualidade, ou
+propriedade de se partirem, quando caem n'um corpo duro, ou quando se
+lhes bate?
+
+E.--Não, senhor.
+
+P.--Chamam-se _quebradiços_, ou _frageis_,--Dizei-me, se deixassemos
+cair a porta da janella ou se contra ella atirassemos uma pedra, que
+succederia?
+
+E.--Ficaria inteira.
+
+P.--E se eu lhe batesse muito de rijo com outro corpo durissimo?
+
+E.--Quebrar-se-ia.
+
+P.--A madeira é quebradiça, ou fragil?
+
+E.--Não, senhor.
+
+P.--Deveremos chamar frageis a todas as substancias, que podermos
+quebrar?
+
+E.---Não, senhor; _frageis_ diremos só aquellas, que se quebrarem com
+facilidade.
+
+P.--Para que serve o vidro? que prestimo tem?
+
+E.--Serve para as janellas.
+
+P.--Que vantagem ha em pôr vidraça nas janellas?
+
+E.--Ter as casas abrigadas do vento, da chuva, da poeira, e das moscas.
+
+P.--Parece-me que, fechando-se as portas das janellas, não entrariam
+pelas casas dentro, nem moscas, nem poeira, nem chuva, nem vento.
+
+E.--Mas cerradas as portas das janellas, ficariam as casas ás escuras, e
+não poderiamos vêr para fóra.
+
+P.--Muito bem. Dizei-me porque razão não tira o vidro a claridade ás
+casas, nem obsta a que se vejam os objectos que estão fóra?
+
+E.--Porque é _transparente_.
+
+P.--Não ha outros objectos de vidro?
+
+E.--Ha cópos, garrafas, castiçaes, espelhos, tinteiros, etc.
+
+É provavel, diz o professor Mayo, que na primeira lição não occorram aos
+meninos outras qualidades; mas estas sós, escriptas no quadro preto,
+constituirão um bom exercicio de soletração. Devem-se depois apagar; e
+se os estudantes já souberem escrever, poderão exercitar a memoria e
+repetir a lição, escrevendo-as de novo nas ardosias.
+
+
+
+
+QUINTA LIÇÃO
+
+CAOUTCHOUC--GOMMA ELASTICA--BORRACHA[12]
+
+
+Escolheu o professor Mayo esta substancia para objecto da segunda lição,
+para que os meninos observem as qualidades, ou propriedades, que os
+physicos denominam _opacidade_, _elasticidade_, e _inflammabilidade_.
+
+P.[13]--Que é isto? (Mostrando um bocado de caoutchouc).
+
+E.--É um bocado de _borracha_.
+
+P.--Parece-se com o vidro?
+
+E.--Em nada.
+
+P.--Ponde esse pedacinho de _borracha_ diante dos olhos e olhae para
+mim... Vêdes-me?
+
+E.--Não, senhor.
+
+P.--Se nas janellas, em vez de vidros, estivessem laminas de borracha,
+que aconteceria?
+
+E.--Ficariam as casas ás escuras, e não poderiamos vêr para fóra.
+
+P.--Sabeis como se chama a qualidade, que tem a _borracha_ de não deixar
+vêr atravez de si, como o vidro?
+
+E.--Não, senhor.
+
+P.--Chama-se _o-pa-ci-da-de_. Repetí commigo esta palavra.
+
+E.--_O-pa-ci-da-de._
+
+P.--Vou escrevel-a; olhae attentamente. (O professor escreve no quadro
+preto: _Propriedades ou qualidades da borracha_--_O-pa-ci-da-de_).
+Menino F., como chamareis aos corpos, que tem opacidade?
+
+E.--_Opacos._
+
+P.--Ponde diante dos olhos a lousa, que ahi tendes, e olhae para mim.
+Vêdes-me?
+
+E.--Não, senhor.
+
+P.--Porque me não vêdes, quando entre mim e vós está um bocado de lousa?
+
+E.--Porque a lousa é _opaca_.
+
+P.--Menino G., dizei-me se está alguem ali n'aquelle quarto.
+
+E.--Eu vou vêr. (Levantando-se).
+
+P.--Não vos levanteis; olhae d'ahi, do vosso logar.
+
+E.--D'aqui não posso vêr.
+
+P.--Porque não podeis vêr d'ahi o que se passa n'aquelle quarto?
+
+E.--Porque se mette de permeio a parede.
+
+P.--E se a parede fosse de vidro, poderieis ver para dentro d'aquella
+casa?
+
+E.--Veria de certo, porque o vidro é transparente; mas a parede não é.
+
+P.--Como diremos que é a parede, attendendo a que nos tira a vista das
+cousas, que estão para além d'ella?
+
+E.--Diremos que é opaca.
+
+P.--A borracha póde facilmente cortar-se com a thesoura. Vou cortar umas
+tiras, para os meninos fazerem uma brincadeira. Eil-as: Tomem estas
+tirinhas de borracha, segurem-n'as pelas extremidades e puxem-n'as, como
+quem quizesse esticar uma linha... Basta, basta; agora larguem-n'as de
+um lado... Que vistes?
+
+E.--A borracha deu de si, estendeu, estendeu; e, logo que a largámos,
+voltou ao primitivo comprimento.
+
+P.--Tomem agora este bocado de vidro, e puxem-n'o bem.
+
+E.--Não dá de si; não estende.
+
+P.--Temos, pois, que a borracha, sendo puxada, estende, e logo que a
+soltam volta á primeira; e que o vidro, por mais que o puxem, não dá de
+si. Porque será isso?
+
+E.--Provavelmente é por que a borracha tem alguma qualidade, que nós
+ignorâmos.
+
+P.--Como é que a ignoram, se acabam de a observar?! O que os meninos
+ignoram é o nome que essa propriedade tem.
+
+E.--Podeis-nos dizer como se chama?
+
+P.--Chama-se _e-las-ti-ci-da-de_. Repeti commigo este nome:
+
+E.--_E-las-ti-ci-da-de._
+
+P.--Reparae; vou escrevel-o no quadro preto, por baixo do nome da outra
+qualidade da borracha, por baixo da palavra... (Tapando com a mão a
+palavra no quadro).
+
+E.--_Opacidade._
+
+P.--Muito bem; não se esqueceram.
+
+(Escreve) Aqui está: _Elasticidade_. Tomae outra vez as tirinhas de
+borracha; e em vez de puxal-as, torcei-as entre os dedos, que se chamam
+_pollegar_ (Mostra o dedo pollegar) e est'outro (Mostra o indicador),
+que se chama _indicador_... Agora largae-as. Que observaes?
+
+E.--Destorcem-se por si.
+
+P.--Menino A... por que é que se destorcem por si essas tirinhas de
+borracha?
+
+E.--Provavelmente, pela mesma qualidade, pela qual ainda agora
+estenderam e encolheram, ficando do comprimento, que tinham, antes de as
+estarmos a puxar.
+
+P.--Assim é. Dizei-me agora o que é isto? (Mostrando uma péla)
+
+E.--Isso é uma péla de brincar.
+
+P.--Porque será que todos os meninos gostam de jogar a péla?
+
+E.--É porque as pélas saltam muito, e nós temos de correr atraz d'ellas,
+caio aqui, acolá me levanto.
+
+P.--Sabeis de que são feitas as pélas?
+
+E.--São feitas de borracha[14].
+
+P.--Porque não fazem as pélas de barro, ou de folha de Flandres, ou de
+pau, ou de cortiça?
+
+E.--Porque se fossem feitas d'essas materias não saltariam.
+
+P.--Que ha, pois, nas pélas de borracha, que as faz andar aos pulos?
+
+E.--Não sabemos.
+
+P.--E se eu lhes disser, que sabem? Pensem, meditem. Atiro esta péla ao
+chão, ella bate no sobrado, achata-se, immediatamente toma a primitiva
+fórma, a fórma de bola, ou de esphera, como dizem os sabios, e eil-a a
+pular.
+
+E.--Já sabemos porque as pélas de borracha saltam, e as outras não. É
+por causa da _elasticidade_.
+
+P.--Acertastes. N'aquelle retomar a fórma de esphera ou bola
+immediatamente depois de se ter achatado ao bater no chão, é que está a
+elasticidade. Outra pergunta ácerca d'esta qualidade. Dizei-me, se vos
+occorre, o nome com que podemos designar os corpos, que tem
+elasticidade.
+
+E.--Podem chamar-se _elasticos_.
+
+P.--Assim é. Reparae agora no que vou mostrar-vos. (O professor acende
+uma véla). Temos aqui um rolosinho de ferro (Mostra-o), um rolosinho de
+barro (Mostra-o), este pedaço de pederneira (Mostra-o), e um fragmento
+de borracha. Pego no rolo de ferro pelo cabo de madeira, para me não
+queimar, chego-o à luz, como vedes, mas elle fica no mesmo estado. Pego
+no rolo de barro, que não tem cabo de madeira, por que não aquece tão
+depressa como o ferro, chego-o á luz e nada de novo; com a pederneira
+acontece o mesmo. Ide agora ver o que succede ao approximar da luz um
+fragmento de borracha. Tomae sentido, porque me haveis de dizer o que
+virdes. Por cautela, em vez de tomar a borracha com os dedos, pego-lhe
+com a thesoura. Attenção. (O professor chega a borracha á luz, e apenas
+ella se inflammar, affasta-a da véla, e a colloca por cima de um vaso,
+que tenha agua, evitando que lhe caia derretida nas mãos). Que vistes?
+
+E.--Vimos a borracha incendiar-se e arder com chamma mui intensa e
+clara.
+
+P.--Só isso observastes?
+
+E.--E derreter-se.
+
+P.--Nada mais?
+
+E.--Mais nada.
+
+P.--Não prestastes bastante attenção. Vou repetir a experiencia.
+(Repete-a). Dizei-me se vistes mais alguma cousa?
+
+E.--A borracha derretida cair em pingos sobre a agua, que está n'esse
+vaso.
+
+P.--Exactamente. Esta qualidade da borracha é mui differente das outras
+duas: _elasticidade_ e _opacidade_.
+
+E.--Certamente.
+
+P.--Sabeis como se chama?
+
+E.--Não sabemos. Fazei mercê de nol-o dizer.
+
+P.--Chama-se _in-flam-ma-bi-li-da-de_, ou propriedade de arder com
+chamma. Bom será que repitaes commigo o nome d'esta qualidade, ou
+propriedade da borracha, para que vos não esqueça.
+
+E.--_In-flam-ma-bi-li-da-de._
+
+P.--Vou escrever este nome, que nada tem de pequeno, sob o das outras
+qualidades. Qual de vós é capaz de me dizer como chamaremos aos corpos,
+que chegados a uma luz, arderem com chamma?
+
+E.--Sou eu.
+
+P.--Dizei pois.
+
+E.--Os corpos, que ardem com chamma, denominam-se _inflammaveis_.
+
+P.--O ferro, o barro, a pederneira, são inflammaveis?
+
+E.--Não, senhor; mas a borracha é, e muito.
+
+P.--Podeis dizer-me a côr da borracha?
+
+E.--_Negra._
+
+P.--Vou escrever o nome d'essa qualidade no quadro preto (Escreve).
+Dizei-me, meus meninos, se vos lembra alguma cousa, bastante vulgar, á
+qual a borracha se assemelhe não só na côr, mas principalmente na
+grossura, na consistencia, na impressão que nos faz, quando a apertâmos
+e revolvemos entre os dedos.
+
+E.--Assemelha-se ao couro.
+
+P.--Muito bem. O que provavelmente não sabeis é como se nomeiam as
+substancias analogas ao couro.
+
+E.--Não sabemos.
+
+P.--Dizem se _co-ri-a-ce-as_. Repetí pausadamente esta palavra.
+
+E.--_Co-ri-a-ce-as_.
+
+P.--Menino B...; vejo que estaes passando as cabeças dos dedos por cima
+d'esse bocado de borracha, e esse acto tão simples accordou-me o desejo
+de vos fazer uma pergunta. Quando passâmos a mão, ou sómente as cabeças
+dos dedos por cima de diversos corpos, sentimos a mesma impressão?
+
+E.--Não, senhor; umas vezes é agradavel a impressão, que sentimos;
+outras vezes, desagradavel.
+
+P.--Podereis dar-me exemplo de uma e outra?
+
+E.--Correndo a mão por cima de um panno de lã grosseiro, ou por uma
+taboa, que não esteja aplanada, sinto impressão desagradavel; correndo-a
+por sobre uma folha de papel de peso, ou por um vidro bem polido, tenho
+uma impressão agradavel.
+
+P.--Sabeis que nome se dá aos corpos, quando a sua superficie é como a
+do panno de lã grosseiro, e da taboa não aplanada?
+
+E.--Diz-se que são _asperos_.
+
+P.--E quando a superficie dos corpos é como a do papel fino, ou de peso,
+e a do vidro?
+
+E.--Diz-se que são _lisos_, ou _macios_.
+
+P.--A borracha é aspera, ou macia?
+
+E.--É _macia_.
+
+P.--Ficâmos pois, sabendo, que a borracha é _opaca_, _elastica_,
+_inflammavel_, _negra_, _coriacea_, e _macia_. Mais uma pergunta, e
+dâmos por terminada a nossa palestra.
+
+Tem a borracha algum prestimo?
+
+E.--Serve para apagar os traços, que o lapis deixou no papel, para fazer
+pélas e outros objectos.
+
+
+
+
+SEXTA LIÇÃO
+
+COURO
+
+
+Nesta lição pretende o professor Mayo dar aos meninos idéa das seguintes
+propriedades, ainda por elles não estudadas: _flexibilidade_, _cheiro_,
+_impermeabilidade á agua_; e recordar-lhes algumas, já estudadas a
+proposito da borracha.
+
+P.--Tomae, meus meninos, este corpo (Dando-lhes ás mãos um bocado de
+couro), examinae-o, e dizei-me se sabeis o que é?[15]
+
+E.--É um pedaço de couro.
+
+P.--Recordae-vos do que dissemos hontem a respeito da borracha, e
+dizei-me se o couro tem com ella alguma parecença.
+
+E.--Tem, sim, senhor; e bastante.
+
+P.--Muito prazer me darieis se fizesseis favor[16] de me dizer porque se
+parecem esses dois corpos, que em realidade são mui differentes.
+
+E.--Dissemos que se parecem, porque ambos são _opacos_, _coriaceos_ e
+_macios_.
+
+P.--E não vos enganastes; mas o couro tem outras qualidades, que
+podereis descobrir, se o observardes com attenção.
+
+E.--(Hesitam, e ficam-se a olhar para o professor).
+
+P.--Se os olhos me não illudem, todos vós tendes nariz; ora, pois,
+servi-vos d'elle, consultae-o.
+
+E.--(Cheirando o couro). Tem _cheiro_.
+
+P.--Assim é. Menino C..., dizei-me se todos os corpos tem cheiro?
+
+E.--Não, senhor; o vidro, e a louça, não tem cheiro.
+
+P.--Lembra-vos alguma substancia, que tenha cheiro?
+
+E.--Lembram-nos muitas: o chá, o café, a manteiga, o vinagre.
+
+P.--Quando uma substancia exhala cheiro proprio, como diremos que é?
+
+E.--_Cheirosa._
+
+P.--_Cheirosas_ dizemos as que tem cheiro proprio ou alheio. Por
+exemplo: se deitarmos no lenço de assoar algum arôma, tal como agua de
+Colonia, ou almiscar, ficará o lenço _cheiroso_; não obstante não ter
+cheiro seu, proprio. Se porém uma substancia é dotada de cheiro, bom ou
+mau, como o chá ou o petroleo, melhor lhe chamaremos: _odorifera_.
+
+E.--Pelo que dizeis, o couro é _odorifero_.
+
+P.--De certo. Digam todos em côro esse nome.
+
+E.--_O-do-ri-fe-ro._
+
+P.--Continuemos a examinar o couro. Além, está o menino F... a dobrar
+aquelle pedaço, provavelmente para vêr se o póde partir em dois. Vejamos
+o que elle nos diz da sua experiencia.
+
+E.--Dobra-se, mas não se parte.
+
+P.--E acontece o mesmo a todos os corpos?
+
+E.--Não, senhor; ha bem pouco tempo parti eu uma regoa de madeira, por
+querer dobral-a.
+
+P.--Qual será a palavra com que possâmos representar a qualidade, que
+tem o couro, de se dobrar sem se partir?
+
+E.--(Silencio.)
+
+P.--Pensae no caso, e lembrae-vos de que ha palavras parecidas umas com
+as outras, ou parentas. Por exemplo: bondade e bom; maldade e mau;
+aquentar e quente; rasgar e rasgado.
+
+E.--Já sabemos, como deveremos chamar aos corpos, que se dobram
+facilmente, sem se quebrarem ou partirem.
+
+P.--Que esperaes, para nos dar esse alegrão.
+
+E.--Chamar-lhes-hemos _dobradiços_.
+
+P.---Deram no vinte; mas eu sei outro nome, que quer dizer o mesmo, mas
+que é mais afidalgado, e por isso menos vulgar. Vou escrevel-o no
+quadro, e soletral-o-hão os que sabem ler. (Escreve no quadro preto, na
+columna onde estão indicadas as outras qualidades).
+
+E.--(Em alta voz) _Fle-xi-vel_.
+
+P.--Qual dos meninos é capaz de me dizer o nome da qualidade, ou
+propriedade em virtude da qual são _flexiveis_ alguns corpos?
+
+E.--Deve chamar-se _flexibilidade_.
+
+P.--Muito bem respondeu o menino G... Não se esqueçam os outros do que
+lhe ouviram, e fiquem sabendo que, quando qualquer corpo se dobra, como
+o couro, e como elle se não quebra ou rasga, é porque tem
+_flexibilidade_. Se não temesse cançal-os, ainda lhes havia de fazer
+mais perguntas a respeito d'este corpo, que pelos serviços, que nos
+presta, bem merece, que nos entretenhâmos com elle.[17]
+
+E.--Podeis continuar, senhor professor, que não estâmos cançados.
+
+P.--Já que assim o quereis, façâmos uma experiencia. Tomem quatro
+meninos este lenço pelas quatro pontas e estendam-n'o, mas não muito.
+Outro menino deite-lhe em cima uma pouca d'agua. (Os meninos executam o
+que o professor lhes manda). Que observaes?
+
+E.--O lenço molha-se.
+
+P.--E que mais acontece?
+
+E.--A agua atravessa o lenço e cae no sobrado.
+
+P.--Ponde agora este bocado de papel mata-borrão sobre o lenço,
+deitae-lhe por cima mais agua, e vêde o que succede.
+
+E.--Molha-se tambem o papel e deixa passar a agua.
+
+P.--Espremei o lenço, e dizei-me o que observaes.
+
+E. (Espremendo o lenço)--Escorre a agua, que o lenço tinha em si, e este
+fica menos molhado.
+
+P.--Fazei com este bocado de couro o que fizestes com o lenço; isto é,
+estendei-o horisontalmente, e deitae-lhe agua por cima.
+
+E.--A agua não pode atravessar o couro; não cae no chão.
+
+P.--Entornae a agua, e vêde se o couro ficou ensopado.
+
+E.--Não ficou, não, senhor.
+
+P.--Sabeis porque assim acontece?
+
+E.--Não sabemos.
+
+P.--Não se ensopa na agua, porque essa é uma das suas qualidades, ou
+propriedades. De um corpo, que a agua não atravessa, diremos que é
+_impermeavel_ á agua.
+
+E.--Fazeis mercê de repetir esse nome, que não percebemos bem.
+
+P.--Vou escrevel-o no quadro preto, para que o leiam, e repetil-o-hemos
+depois com muito vagar. (Escreve).
+
+E.---_Im-per-me-a-vel._
+
+P.--Relanceae os olhos pelos objectos, que estão n'esta aula, e dizei-me
+se haverá entre elles algum, que seja _impermeavel_ á agua.
+
+E.--O vidro.
+
+P.--Porque dizeis que é impermeavel á agua o vidro?
+
+E.--Porque a agua não o atravessa.
+
+P.--Podereis convencer-me com algum exemplo de que a agua não atravessa
+o vidro?
+
+E.--Bastará olhar para esse cópo, que está cheio de agua, e que não a
+deixa sair atravez das suas paredes.
+
+P.--Gostei muito da vossa resposta, que revela muito siso, e me prova
+que vos ides acostumando a comparar. E porque sois espertos e amigos de
+saber, vos perguntarei mais, se o barro de que é feita aquella bilha,
+que alem tenho, para me arrefecer a agua, tambem é impermeavel?
+
+E.--Não sabemos.
+
+P.--Se a examinarem attentamente, sabel-o-hão logo. Ora ide buscal-a
+para aqui.
+
+E.--Esta bilha não é, como o couro e vidro, impermeavel.
+
+P.--Dizei antes, o barro d'esta bilha, ou o barro, de que esta bilha é
+feita, não é _impermeavel_. Reparae, que uma cousa é o objecto, o movel,
+o corpo, que vemos, e outra cousa a materia, de que o objecto, o movel,
+ou o corpo é formado. Que é isto? (O professor mostra uma bola de cêra).
+
+E.--É uma bola.
+
+P.--Bola ou esphera; mas de que?
+
+E.--De cêra.
+
+P.--(Transformando a bola de cêra em um cilindro)--E isto, que é?
+
+E.--Um rolo.
+
+P.--Certamente; é um rolo ou cilindro; mas de que?
+
+P.--De cêra.
+
+P.--(Dando â cêra a forma cubica)--O rolo foi-se; isto, que é?
+
+E.--Um dado de jogar.
+
+P.--Vistes, que com a mesma materia, a _cêra,_ formei tres corpos: uma
+bola ou sphera; um rolo ou cilindro; e um dado de jogar ou cubo, os
+quaes eu poderia ter feito de tres materias differentes, por exemplo: de
+cêra, de barro e de madeira. Acostumae-vos pois, desde agora, a
+distinguir nos corpos a materia de que são feitos, da maneira porque
+ella está limitada, ou, o que vem a ser o mesmo, da sua configuração.
+Mas, tornando à _permeabilidade_ do barro d'esta bilha, desejo que me
+esclareçaes, dizendo-me o fundamento, que tendes, para asseverar, que é
+permeavel.
+
+E.--Dissemos que não era impermeavel, porque, estando vazia, se conserva
+secca, e pouco depois de se lhe deitar agua humedece por fóra,
+provavelmente, porque a agua passa atravez de suas paredes.
+
+P.--Assim é. Tende paciencia, meus meninos, de escutar mais uma pergunta
+com a qual porei termo á nossa palestra. Quizera me dissesseis se o
+couro serve para alguma cousa.
+
+E.--Serve para capas de livros; para forrar bahus e malas; para fazer
+botas, sapatos, corrêas, luvas, sellins, e arreios para cavallos.
+
+P.--Bravo! Quem respondeu com tanto acerto, tem direito a ir brincar.
+
+
+
+
+SETIMA LIÇÃO
+
+UM LIVRO
+
+
+Examinando miudamente um livro, ficarão os estudantes conhecendo as
+differentes partes de que elle se compõe, seus nomes e usos; e
+adquirirão as primeiras e elementarissimas noções ácerca do papel, da
+typographia, e dos algarismos romanos e arabes.
+
+
+
+P.--Meninos, como se chama isto? (O professor mostra aos estudantes um
+livro encadernado.)
+
+E.--Chama-se _livro_.
+
+P.--Todos vós tendes um livro?
+
+E.--Temos, sim, senhor.
+
+P.--Pegae, pois, nos vossos livros, e preparae-vos para uma palestra,
+que vos ha de ser muito agradavel.
+
+E.--Vamos ler?
+
+P.--Não, senhores; vamos conversar a respeito do livro, como conversámos
+ácerca do vidro, da borracha e do couro.
+
+E.--Quereis que escrevâmos a palavra livro?
+
+P.--Vá escrevel-a no quadro preto o menino H.
+
+E.--(Escreve), _Li-vro_.
+
+P.--Talvez não tenhaes notado, que assim como ha grupos de pessoas
+aparentadas, que constituem familias, e que mais ou menos se parecem
+umas com as outras; assim ha grupos de palavras tão similhantes, que se
+não póde desconhecer, que são muito chegadas entre si, e como que
+parentas.
+
+E.--Ainda não tinhamos reparado em tal.
+
+P.--Prestae attenção ao que eu vou escrever no quadro preto (O professor
+escreve umas por baixo das outras as palavras do exemplo, separando com
+o hyphen o radical de cada uma) _Pomb-o_, _pomb-a_, _pomb-inho_,
+_pomb-inha_, _pomb-al_, _pomb-alinho_.
+
+Todas estas palavras formam uma familia[18].
+
+_Cas-a_, _cas-inha_, _cas-ão_, _cas-arão_, _cas-eiro_, _ca-sal_,
+_cas-alinho_, _cas-aleiro_, _cas-aría_, _cas-ebre_ (Todos estes nomes
+sejam escriptos uns por baixo dos outros, ao lado dos nomes do primeiro
+exemplo, e mui claramente pronunciados á proporção que se forem
+escrevendo). Aqui tendes outra familia.
+
+_Carr-o_, _carr-inho_, _carr-ete_, _carr-eta_, _carr-etilha_,
+_carr-ocim_, _carr-uagem_, _carr-oça_, _carr-oçada_, _carr-etão_,
+_carr-etada_, _carr-eteiro_, _carr-eto_, _carr-iagem_, _carr-icoche_,
+_carr-oceiro_, _carr-oçar_, _carr-il_, _carr-omato_. Outra familia e não
+pequena.
+
+Se bem attenderdes, percebereis, que as palavras do primeiro grupo
+começam todas pelas lettras _pomb_; as do segundo pelas lettras _cas_; e
+as do terceiro pelas lettras _carr_.
+
+As primeiras--_pomb_--representam a idéa--pombo; as
+segundas--_cas_--representam a idéa--casa; as terceiras--_carr_--a
+idéa--_carro_.
+
+Agora que estaes iniciados n'este segredo, podereis dizer-me se a
+palavra--_livro_--tem algumas parentas?
+
+E.--Tem uma parenta.
+
+P.--Fazei favor de me dizer qual é.
+
+E.--A palavra _livrinho_.
+
+P.--Só essa?
+
+E.--Tem outra parenta, que é _livrete_.
+
+P.--Procurae bem, que achareis mais.
+
+E.--_Livraria_.
+
+P.--Não sabeis o nome, que se dá, por desprezo, a um livro pequeno e
+mau?
+
+E.--Chama-se-lhe _livreco_.
+
+P.--Como denominaes os homens, que negoceiam em livros?
+
+E.--_Livreiros_.
+
+P.--Fazei favor de me repetir os nomes de que se compõe a familia, cujo
+pae é a palavra livro.
+
+E.--_Livro_, _livrinho_, _livrete_, _livraria_, _livreco_, _livreiro_.
+
+P.--Muito bem. Agora se vos não custar muito, dizei-me qual é a parte,
+que em todas essas seis palavras sôa, quando as pronunciâmos, e se vê,
+quando as escrevemos, constante e inalteravel.
+
+E.--É o principio. É _livr_.
+
+P.--Menino B, escrevei essas lettras no quadro preto.
+
+E.--_Livr._
+
+P.--Olhando para aquellas lettras, que vos lembra?
+
+E.--Lembra-me um livro.
+
+P.--Fique-vos pois de memoria, que ha muitas palavras, que se podem
+dividir em duas partes; e que a primeira d'ellas, que figura em todos os
+membros da familia, lembra a idéa da cousa, claramente representada no
+termo, de que a familia toda procede.
+
+Que figura tem este livro? (O professor mostra um livro.)
+
+E.--É quadrado.
+
+P.--Quadrado não é elle; é _quadrilatero_.
+
+Repeti, partida em syllabas, esta palavra.
+
+E.--_Qua-dri-la-te-ro_.
+
+P.--Agora de uma só vez.
+
+E.--Quadrilatero.
+
+P.--Sabeis o que quer dizer a palavra quadrilatero?
+
+E.--Não, senhor.
+
+P---Quer dizer: Figura de quatro lados, ou superficie fechada por quatro
+linhas.
+
+Reparae para a figura que vou desenhar no quadro preto. (O professor
+traça um parallelogrammo, retangulo, um quadrado e um losango) Todas
+estas figuras são quadrilateros; mas apenas esta (Aponta o quadrado) se
+póde chamar quadrado[19]. Tenho aqui sobre a mesa uns poucos de pedaços
+de papel, vinde cá, e escolhei um que seja quadrado.
+
+E.--Eil-o.
+
+P.--Muito bem. Agora desenhe o menino A. no quadro preto um quadrado.
+
+E.--(Desenhando). Aqui está desenhado.
+
+P.--Como chamareis a esses riscos, que formam o quadrado?
+
+E.--_Linhas._
+
+P.--Sabeis que outro nome se dá ás linhas, quando são direitas como
+essas, que ahi desenhastes?
+
+E.--Não, senhor.
+
+P.--Dá-se-lhes o nome de _linhas rectas_. Todos esses quadrilateros são
+formados de linhas rectas.
+
+Olhae agora para os vossos livros, e dizei-me como se chama a sua parte
+externa, a parte de fóra.
+
+E.--Chama-se _capa_.
+
+P.--Por que lhe dariam esse nome?
+
+E.--Talvez pela analogia, que tem com a capa ou capote, que usam homens
+e mulheres.
+
+P.--Mas a capa dos livros não tem góla, nem cabeção, nem roda, como é
+uso terem os nossos capotes.
+
+E.--Certo é que nada d'isso tem; mas reveste o livro, e o resguarda,
+como o capote resguarda o fato; que lhe fica por baixo.
+
+P.--Respondestes optimamente. Dizei-me se as capas dos livros tem todas
+a mesma consistencia.
+
+E.--Não, senhor; umas são duras e grossas; outras, delgadinhas e molles.
+
+P.--Assim é. De que materia fazem as capas dos livros, quando duras e
+grossas?
+
+E.--De _papelão_.
+
+P.--É verdade; mas noto, que sendo o papelão aspero e feio, as capas dos
+livros são macias e bonitas. Sabereis explicar-me a razão d'isto?
+
+E.--É porque revestem o papelão de papel de côres, de panno, ou de couro
+pintado.
+
+P.--Bravo! muito bem. Como se denominam os artistas, que fazem as capas
+dos livros e lh'as põem?
+
+E.--_Encadernadores_.
+
+P.--Como se diz que está um livro, a que o encadernador poz uma capa
+consistente, como a d'estes, que temos nas mãos?
+
+E.--Diz-se que está _encadernado_.
+
+P--E quando um livro está apenas coberto com uma capa de papel, como
+este, que vos mostro?
+
+E.--Diz-se que está _brochado_.
+
+P.--Se um artista se empregar exclusivamente em brochar livros, como lhe
+chamaremos?
+
+E.--Não sei.
+
+P.--Chamar-lhe-hemos _brochador_.
+
+E.--Os encadernadores não são tambem livreiros?
+
+P.--_Livreiro_ é a pessoa, que negoceia em livros, que os compra e
+vende. Ha, porém, individuos, que exercem ambas as industrias, isto é,
+que compram e vendem lívros, e que os encadernam.
+
+Continuemos a examinar o nosso livro, e em primeiro logar fazei obsequio
+de me indicar o nome d'esta parte (O professor indica a lombada).
+
+E.--Não sei como se chama.
+
+P.--Chama-se _lombo_, ou _lombada_.
+
+E.--Porque dariam a esta parte tão estrambotica denominação?
+
+P.--Provavelmente em consequencia de ter certa analogia de fórma e
+posição com as costas ou lombo do homem.
+
+E.--Tenho notado, que é a lombada a parte, que os encadernadores mais
+esmeradamente aformoseam. Porque será?
+
+P.--Admira-me não vos occorrer a razão d'isso! Porque será, menino B.?
+
+E.--Eu não sei.
+
+P.--Dizei antes: Não sei. É preciso não abusar do _eu_ e do _tu_. Muito
+mais elegante, conciso e energico é dizer: Não sei, não quero, não
+posso, do que: Eu não sei, eu não quero, eu não posso.
+
+Menino C, porque motivo adornam os encadernadores as lombadas dos livros
+mais do que o resto da capa?
+
+E.--Não sei.
+
+P.--Respondei, menino M.
+
+E.--Enfeitam mais as lombadas, se me não engano, por ser a parte, que
+mais se vê, quando os livros estão na estante.
+
+P.--Assim é. Examinae o lombo do vosso livro e dizei-me o que notaes?
+
+E.--Traços e adornos dourados.
+
+P.--Mais nada?
+
+E.--Lettras, tambem douradas.
+
+P.--Que dizem essas lettras?
+
+E.--«Motta»--«Quadros de historia».
+
+P.--Aos dizeres, que os livros tem na parte superior do lombo, que nome
+se dá?
+
+E.--_Titulo_.
+
+P.--A palavra «Motta», que está ahi a dizer?
+
+E.--O nome do auctor.
+
+P.--E as outras?
+
+E.--O assumpto.
+
+P.--Vede a lombada d'est'outro livro. Tem tão poucos dizeres, como a
+d'esse, por onde habitualmente ledes?
+
+E.--Não, senhor; tem mais.
+
+P.--Que mais tem?
+
+E.--Uma lettra de conta.
+
+P.--De que palavra nos deveremos servir, para designar o que chamaes
+lettra de conta?
+
+E.--Não sei.
+
+P.--O menino, que souber responder á minha pergunta, responda.
+
+E.--Não se deve dizer lettras de conta, mas _algarismos_.
+
+P.--Muito bem. Se temos palavra apropriada para indicar os signaes
+representativos dos numeros, evitemos um rodeio.
+
+Que algarismo tem esse livro na lombada?
+
+E.--O algarismo 2.
+
+P.--Para que pozeram ahi o algarismo 2?
+
+E.--Para indicar que este livro é o segundo volume da obra.
+
+P.--Exactamente.
+
+E.--Todas as obras constam de dois volumes?[20]
+
+P.--Não se riam da pergunta do menino S.; ninguem nasce ensinado, e quem
+não pergunta fica ignorando muitas cousas. Agora conversemos nós, menino
+S. Ha obras completas em um volume, e d'essas tendes exemplo nos
+«Quadros de historia portugueza»; tambem as ha em dois, tres, quatro e
+até em dez, vinte e mais volumes. Quando uma obra principia e acaba no
+mesmo volume não é necessario pôr-lhe nem externa nem internamente
+nenhum algarismo; se principia n'um volume e continúa e acaba n'outro,
+marca-se externamente o primeiro com o algarismo 1 e o segundo com o
+algarismo 2; se a obra se estende por tres ou quatro volumes, põe-se na
+lombada do primeiro o algarismo 1, na do segundo o algarismo 2, na do
+terceiro 3, na do quarto 4, etc.
+
+Menino H., para que serve o titulo do livro escripto na lombada?
+
+E.--Para facilmente darmos com elle sem ser necessario abril-o.
+
+P.--Como se nomeiam estas partes da capa dos livros? (Pondo o dedo nos
+cantos.)
+
+E.--_Cantos da capa_.
+
+P.--Abri os vossos livros e dizei-me como se chamam essas laminas de
+papel, que a capa envolve e resguarda?
+
+E.--Chamam-se _folhas_.
+
+P.--Esse nome applica-se a muitas cousas: folhas de arvores, folhas de
+espadas, folhas de papel, folhas de serra, folhas de madeira, folhas das
+mangas do jaleco, etc.
+
+Explicae-vos, pois, de modo, que todos fiquem sabendo a quaes folhas
+alludis.
+
+E.--A nenhuma das que citastes. As folhas, que estamos vendo, são folhas
+do livro.
+
+P.--Cada uma folha de livro tem duas faces; sabeis que nome se lhes
+costuma dar?
+
+E.--É costume chamar-lhes _paginas_.
+
+P.--A primeira e ultima folha dos livros, nas quaes nada ha escripto, e
+que ás vezes são de papel pintado, como se chamam?
+
+E.--Não sei.
+
+P.--Qual de vós outros me póde responder?
+
+(Silencio).
+
+P.--Chamam-se _guardas_, porque estão ali, como que para defenderem as
+folhas impressas da acção da poeira, dos insectos e das impurezas dos
+ledores menos aceiados.
+
+Ha tambem nos livros _ante-rôsto_ e _rôsto_. Fazei mercê de m'os
+indicar.
+
+E.--O _ante-rosto_ deve de ser esta folha escripta só de um lado, e que
+diz apenas: «Quadros de historia portugueza» o _rosto_ deve de ser a
+folha, que se segue immediatamente ao ante-rosto, tambem só de um lado
+escripta.
+
+P.--Que significam essas duas palavras: _ante-rôsto_?
+
+E.--Parece-me que querem dizer: folha, que antecede a do rôsto.
+
+P.--Exactamente. Sabeis que outro nome se dá á folha do rôsto?
+
+E.--_Frontispicio_.
+
+P.--Desejava saber por que ao frontispicio chamam tambem, rôsto. Se
+algum de vós me poder esclarecer, far-me-ha muito obsequio, satisfazendo
+o meu desejo.
+
+E.--Eu não sei; não sei; eu tambem não.
+
+P.--Parece-me que não ha de ser necessario irmos a Coimbra, para
+explicar similhante bagatella.
+
+E.--Bagatella!?
+
+P.--Ides ver se o é, ou não. Como se chama esta parte do nosso corpo?
+(Apontando o rôsto).
+
+E.--_Cara_.
+
+P.--Não tem outro nome?
+
+E.--_Semblante_.
+
+P.--Não tem outro nome?
+
+E.--_Face_.
+
+P.--Não tem ainda outro nome?
+
+E.--Ah! Chama-se _rosto_.
+
+P.--Que quiz dizer esse ah!?
+
+E.--Já sabemos porque ao frontispicio dos livros se chama tambem rôsto.
+
+P.--Se sabeis, dizei-m'o.
+
+E.--Chamam-lhe rôsto, por que em a gente olhando para aquella folha,
+logo conhece o livro, como conhece uma pessoa, em lhe vendo a cara.
+
+P.--Para conhecer um livro, isto é, para saber de que trata, parece-me
+que não é indispensavel examinar-lhe o rôsto; bastará ler o titulo, ou
+ante-rôsto.
+
+E.--Não é exactamente o mesmo, para tomar conhecimento de um livro, ler
+o titulo ou o ante-rôsto, ou o rôsto, porque este indica muitas mais
+cousas, que aquelles.
+
+P.--Dizei quaes são.
+
+E.--O titulo da obra por extenso, o nome todo do auctor, a typographia,
+a terra onde foi impresso e até o anno.
+
+P.--Bravo! bravo! sr. estudante, muito bem. As vossas respostas
+animam-me. Dizei-me se o papel, de que são feitos os livros, é uma
+substancia natural, isto é, que se encontre feita, como se encontra a
+pedra, a agua, a madeira, o barro, a areia, ou se é um producto da arte,
+quero dizer, feito pelo homem.
+
+E.--É producto da arte.
+
+P.--Já alguem vos disse de que é fabricado o papel.
+
+E.--Não, senhor.
+
+P.--Quereis saber?
+
+E.--Se queremos....
+
+P.--Fabrica-se de trapos de linho, canamo, e algodão.
+
+E.--De trapos?!
+
+P.--Sim, de trapos.
+
+E.--Eu pensava que os trapos não prestavam para nada!
+
+P.--Qual é a cousa, que não tem algum prestimo? Os trapos, que vós
+despresaveis, e tinheis em conta de nada, são uma riqueza, e prestam
+grandissimo serviço á industria, ás artes, ás sciencias e á moral. São
+um instrumento indirecto do progresso da humanidade.
+
+E.--Como se faz o papel?
+
+P.--Não posso agora satisfazer a vossa louvavel curiosidade. É muito
+complexo o seu fabríco para que vol-o possa expor de modo, que d'elle
+fiqueis fazendo perfeita ideia; em vós tendo mais alguns conhecimentos
+eu vol-o indicarei por miudo.
+
+E.--O papel é todo da mesma qualidade?
+
+P.--Não é; e aqui tendes a prova (O professor mostra á escola papel de
+imprimir, papel de escrever, de filtrar, de embrulho, de seda, pintado,
+etc. e vae indicando os nomes de cada um). São de differentes tamanhos
+estas folhas. A grandeza de cada uma indica-se pela palavra _formato_, a
+qual tambem se emprega para representar a grandeza dos livros e jornaes.
+
+E.--Para que tem este livro na parte inferior da pagina do rôsto a
+palavra «_Lisboa_»?
+
+P.--Já se disse que é para mostrar a terra em que foi impresso.
+
+E.--Os livros são impressos?
+
+P.--Não se riam os meninos, que sabem uma cousa, quando outro, que a
+ignora, se quer illustrar, e pede que lh'a ensinem.
+
+Ha livros escriptos de mão, como este (Mostra um livro, ou caderno
+manuscripto) e muitos existem nas bibliothecas; dizem-se _manuscriptos_.
+Actualmente, porém, a maioria, a quasi totalidade dos livros são
+_impressos_ isto é, são feitos com estas lettras de metal, a que
+chamâmos _typos_. Eil-os. (O professor toma um componedor, poderá ser
+dos que usam os compositores de bilhetes de visita e compôe algumas
+palavras). Vou compor uma linha, para que vejaes, como se compoem os
+livros.
+
+E.--E isto (Apontando o componedor) como se chama?
+
+P.--_Com-po-ne-dor_.
+
+E.--Ha de ser necessario molhar essas lettrinhas em tinta; quereis que
+vamos buscar o tinteiro?
+
+P.--A tinta, de que se servem para imprimir, não é a de que usâmos para
+escrever. É feita com outras materias muito differentes, e chama-se
+_tinta de impressão_. Aqui tenho um bocadinho n'esta caixa. Com esta
+_bala_ mólho os typos; ides vêr como as palavras ficam impressas no
+papel (O professor executa o que vae dizendo). Estou fazendo de
+typographo.
+
+E.--_Typographo_? O que quer isso dizer?
+
+P.--Typographo é o artista, que se occupa em juntar os typos uns aos
+outros, para formar as palavras, e estas entre si, para fazer as linhas,
+e as linhas para completar as paginas, e as paginas para concluir uma
+_folha de impressão_.
+
+E.--_Folha de impressão_ não é o mesmo que a folha de um livro?
+
+P.--_Folha de impressão_ é isto. (Mostra uma folha de impressão).
+
+E.--Os livros são impressos como vós agora imprimistes essa linha?
+
+P.--Não, meu menino; nas _typographias_ ha apparelhos para imprimir, aos
+quaes chamamos _prélos_.
+
+E.--Fallastes em _typographias_; o que é typographia?
+
+P.--É a officina onde se compõem e imprimem livros, jornaes, e outros
+papeis. Tambem se chama _imprensa_?
+
+E.--Estou vendo sr. professor, que não é só na lombada que os livros tem
+algarismos, tambem os tem no alto das paginas.
+
+P.--Resta saber para que elles ahi foram postos.
+
+E.--Foram aqui postos para com facilidade se poder achar e indicar
+qualquer passagem do livro.
+
+P.--Para concluirmos este intertenimento, far-lhes-hei mais uma
+pergunta. Como todas as cousas tem nome é provavel que tambem o tenham
+essas porções em branco, que cercam, em cada pagina, a parte central
+impressa; qual será elle?
+
+E.--Estas porções das paginas chamam-se _margens_.
+
+P.--Optimamente.
+
+
+
+Dos poucos exemplos, que ahi ficam expostos, poderão inferir a utilidade
+e attractivos do ensino intuitivo as pessoas, que d'elle não tenham
+ainda conhecimento. Cerrando este livro, que escrevemos com sincero
+desejo de servir a educação e instrucção, devemos declarar, porque é de
+justiça que assim o façâmos, que na Escola normal do sexo masculino, em
+Marvilla, de que foi director e professor o intelligente e laborioso sr.
+Luiz Filippe Leite, com cuja amizade nos honrâmos, se ensinou muito e
+bem pelo methodo intuitivo, que em mãos tão habeis como as do sr. Leite
+e seu irmão o sr. Pedro Leite, de certo produziu optimos resultados, de
+que sentimos não poder dar aqui minuciosa noticia.
+
+
+
+
+INDICE
+
+
+
+                                                                      Pag.
+
+Carta do auctor ao Ex.^{mo} Sr. Conselheiro José Silvestre Ribeiro       5
+O Ensino intuitivo                                                       9
+Primeira lição                                                          60
+Segunda lição                                                           72
+Terceira lição                                                          79
+Quarta lição                                                            92
+Quinta lição                                                            97
+Sexta lição                                                            106
+Setima lição                                                           113
+
+
+
+
+
+
+Obras á venda na loja de livros de Ferreira, Lisboa & C.^a, 132, rua do
+Ouro, 134, Lisboa
+
+
+    O PAE NOVO, commentario ou interpretação das dez _Eclogas_ ou
+    _Bucolicas_ de Publio Virgilio Maro, 1 vol. br.      1$000
+
+    NATIVIDADE (J. A. C. da)--Fundamento de analyse grammatical e de
+    estylo, e de composição de themas, 1 vol. br.      650
+
+    SYNOPSES e apontamentos grammaticaes para facilitar a analyse das
+    orações aos alumnos de instrucção primaria e aos do 1.^o anno de
+    portuguez, 1 vol. cart.      200
+
+    TAVARES (H.)--Principios geraes de arithmetica, e systema metrico, 1
+    vol. br.      60
+
+    DIAS (J. A.)--Synopse das religiões e seitas etc., 1 vol. br.      500
+
+         »      --Nova Grammatica franceza, 2.^a edição br.      300
+
+         »      --Novissima Grammatica ingleza, 1 vol. br.      480
+
+    BALMES (D. Jayme)--Elementos de Logica, 1 vol. br.      300
+
+    METHODO ZABA para o estudo da Historia Universal, com mappa
+    chronologico, chave e taboa de exercicio, 1 vol. br.      200
+
+    MARÇAL A. DE CARVALHO--Problemas de Algebra, 1 vol. br.      500
+
+    CHAGAS (M. P.)--Portuguezes illustres, 2.^a edição, 1 vol. br.      200
+
+    FRADESSO DA SILVEIRA (J. H.)--Estudos, 1 vol. br.      500
+
+    Neste volume agrupou o auctor, oito interessantes artigos em que se
+    expõem as questões mais momentosas da estadistica; como instrucção
+    primaria e professional, associações de soccorros, exposições,
+    fazenda, etc. etc.
+
+    M. M.--Exercicios de cacographia portugueza, br.      100
+
+    MACEDO (J. Tavares de)--Elementos de Orthographia portugueza,
+    br.      80
+
+    BAPTISTA (A. M.)--Algumas considerações sobre as diversas fórmas
+    comparativas e superlativas da lingua portugueza, br.      80
+
+
+
+
+Á VENDA
+NA MESMA LIVRARIA
+
+
+132--RUA AUREA--134
+
+
+    Telles (J. J. de Sousa)--Annuario portuguez scientifico, litterario
+    e artistico---1863, broch.      1$000
+
+    Simões (Dr. Augusto Filippe)--Erros e preconceitos da educação
+    physica, 1 vol. _charp._ broch.      400
+
+    Noirlieu (Abbade Martinho)--Biblia da mocidade, historia do antigo e
+    novo testamento. Approvada pelo conselho geral de instrucção
+    publica, para uso das escolas, 1 vol. _cart._      240
+
+    Barata (Antonio Francisco)--Estudos da lingua portugueza, 2.^a
+    edição accrescentada e conforme ao programma official de portuguez,
+    br.      350
+
+    Fradesso da Silveira--(J. H.) Compendio do novo systema legal de
+    pesos e medidas, 4.^a edição, broch.      240
+
+    Guedes (J. R.)--Curso de physica elementar. Nova edição, 3 vol., com
+    gravuras, broch.      2$400
+
+    Guedes (J. R.)--Curso de historia natural elementar, 1 vol., com
+    gravuras, broch.      1$500
+
+    Lopes (J. J.)--Taboada methodica dos rudimentos de arithmetica,
+    broch.      200
+
+    Rodrigues (J. Julio)--Mineralogia, 1. vol. broch.      200
+
+    Vidal (A. A. de Pina)--Curso de meteorologia, 1 vol. broch.      600
+
+    Viale (A. J.)--Novo epitome de historia de portugal, adoptado pelo
+    conselho geral de instrucção publica, 1 vol. broch.      200
+
+
+Lisboa--Typ. Universal--1873
+
+
+
+
+Notas:
+
+
+[1] Ácerca d'este assumpto, bem como de muitos outros pontos da
+linguagem portugueza consulte-se a _Orthographia portugueza e missão dos
+livros elementares_, correspondencia official relativa ao «Iris
+Classico» pelo sr. Conselheiro José Feliciano de Castilho Barreto e
+Noronha. Edição do Rio de Janeiro. N'este livro, que é um verdadeiro
+thesouro de bôa doutrina, esplende a intelligencia e erudição de um dos
+escriptores nacionaes, que mais honram as nossas lettras. Pena é que
+poucos em Portugal conheçam obra de tanto merito.
+
+[2] Temos visto muitas vezes nas escolas estarem as crianças a ler com
+os livros nos joelhos, o tronco recurvado e a bocca quasi perpendicular
+ao horisonte. Aquella postura prejudica a saude, difficulta a emissão da
+voz, cança em pouco tempo o ledor, e não o deixa vêr os acenos do
+mestre, tendentes a dirigil-o no andamento, pausas, intonações, etc.
+
+[3] Braun Exercices par intuition, ou Questionaire a l'usage des ecoles
+gardiennas, etc. Bruxelles--1865.
+
+C. Mayo--Lecciones sobre objetos destinados para niños de cinco a ocho
+años, traducidas del orijinal inglés. Madrid--1849.
+
+Foi nosso primeiro intento trasladar para este livro _ipsis verbis_ as
+primeiras lições dos dois afamados professores; por motivos, porém, que
+escusado é expor, resolvemos tomar d'ellas apenas os liniamentos,
+redigindo-as a nosso modo.
+
+[4] Expressão popular e grosseira, que vale tanto como: Elle te
+castigará severamente.
+
+[5] N'estes primeiros exercicios vão as respostas, que provavelmente os
+estudantinhos darão aos professores; nos outros, as respostas
+poder-se-hão deduzir das _Exposições_, que anteporemos a cada exercicio.
+Como estes livrinhos não são exclusivamente para os professores, os
+quaes de certo possuem sufficiente cabedal de conhecimentos, mas para
+mães, paes, e outros educadores menos preparados para o ensino,
+pareceu-nos de muita conveniencia subministrar-lhes os indispensaveis
+subsidios nas _Exposições_, as quaes dispensarão, até certo ponto o
+estudo nos livros dos assumptos dos exercicios.
+
+[6] O dialogo aqui traçado para um, deverá ser ampliado e sustentado com
+todos os estudantes, que tiverem entrado ao mesmo tempo, havendo o maior
+disvelo em tornal-o quanto possivel deleitavel e variado.
+
+[7] Parece á primeira vista mui pequeno o prestimo do _quadro preto_
+n'uma aula, e na realidade é muito util. Convem que todas as aulas de
+meninos e meninas o tenham; e que d'elle se sirvam amiudadas vezes
+professores e discipulos para os exercicios de soletração, orthographia,
+analyse, arithmetica, desenho, etc.
+
+[8] Não se estranhe o emprego da palavra geringonça. As creancinhas são
+faceis de contentar; alegram-se e riem com o simples emprego de palavras
+menos triviaes, e proseguem mais contentes no estudo. Se ao
+explicar-lhes as regras elementares da syntaxe o professor lhes der o
+seguinte exemplo: O sol é brilhante, escrevem-n'o e analysam-n'o sem
+enthusiasmo; se o professor lhes disser: O gato é manhoso, riem,
+alegram-se e atiram-se á analyse da oração de muito boa vontade. Ainda
+que estas e outras particularidades do ensino infantil pareçam aos
+sabios puras insignificancias, não as desprese o mestre, que tiver a
+peito o progresso dos pequeninos.
+
+[9] Dividimos a palavra «cavallete» sem attender á regra orthographica,
+que manda repartir as consoantes dobradas pelas duas syllabas, para não
+falsearmos a pronunciação; se assim não fizessemos, teriamos:
+Ca-val-le-te, que se não diz, nem poderia razoavelmente dizer-se.
+
+[10] Desculpe-se-nos que insistamos em aconselhar aos mestres, que não
+sejam avaros de louvores, quando os estudantes os merecerem. É um grande
+incitamento o applauso para o que o recebe e para os que o presenceiam.
+
+[11] Novamente declarâmos que estas lições não são traduzidas, mas quasi
+exclusivamente nossas.
+
+[12] Todos estes nomes se dão á substancia, de que nas aulas se servem
+para apagar os traços, que o lapis deixa no papel. Aos meninos será
+conveniente indical-a pelo nome de _borracha_, porque é o mais
+commummente usado. Mais tarde se lhes dirá que nem este, nem o de _gomma
+elastica_ se deveriam empregar. Como hoje se usa muito do caoutchouc
+vulcanisado, tenham os professores a cautela de apresentarem para a
+lição, o escuro, isto é, o que não está combinado com enxofre.
+
+[13] Esta lição vem apenas apontada no livro do professor Mayo.
+
+[14] Quasi todos os objectos, que eram feitos de caoutchouc simples, são
+agora fabricados com a mesma substancia _vulcanisada_, isto é combinada
+com certa quantidade de enxofre, e por tanto differente na côr, no
+cheiro, e em outras propriedades do caoutchouc extreme. Se algum menino
+reparar na differença e fizer pergunta a tal respeito, dir-lhe-ha o
+professor o bastante para esclarecel-o, attendendo ao que atraz
+recommendámos, que não se trate a fundo de cousas para entender as quaes
+as crianças não estejam preparadas.
+
+[15] Esta lição vem apenas indicada no livro do professor Mayo.
+
+[16] Recommendam Madame Marie Pape Carpentier e outros pedagogistas, que
+se tratem as criancinhas com toda a delicadeza, que em vez de se lhes
+ordenar que façam uma cousa, se lhes peça por favor que a executem, e
+que, se lhes agradeça com urbanidade o terem satisfeito os nossos
+pedidos. Este modo de proceder com os pequeninos tem tres grandes
+vantagens: desenvolve nos meninos o sentimento da propria dignidade,
+captiva a sua benevolencia, e acostuma-os a serem delicados.
+
+[17] Não é para desprezar, no ensino das crianças, este innocente meio
+de lhes excitar a curiosidade, tenteando ao mesmo tempo o prazer, ou
+enfado, de que estejam tomadas.
+
+[18] O fim d'este exemplo não é ensinar philologia ás criancinhas, mas
+il-as habituando a distinguir nas palavras as «radicaes», cujo valor
+mais tarde perceberão. O termo «familia» tome-se como synonimo de
+aggregado de palavras em que a idéa representada pela radical é a mesma.
+
+[19] Não se define o quadrado, porque os estudantes não sabem ainda o
+que seja angulo, e menos o que seja angulo recto.
+
+[20] A lettra E, inicial de estudante, não está n'estas lições indicando
+um só e sempre o mesmo estudante; mas o estudante, a que o professor
+julga conveniente dirigir-se.
+
+
+
+
+Lista de erros corrigidos
+
+
+Aqui encontram-se listados todos os erros encontrados e corrigidos:
+
+
+  +----------+-----------------------+-------------------------------+
+  |          |      Original         |      Correcção                |
+  +----------+-----------------------+-------------------------------+
+  |#pág.   20| Jenuense              | Genuense*                     |
+  |#pág.   20| dizia                 | relembrava a regra de Ovidio* |
+  |#pág.   31| cujos componente      | cujos componentes             |
+  |#pág.   45| lahios                | labios                        |
+  |#pág.   51| _impanho imprestar_   | _impanho_, _imprestar_        |
+  |#pág.   52| o que emende          | a que emende                  |
+  |#pág.   58| comportamente         | comportamento                 |
+  |#pág.   85| praticular            | particular                    |
+  |#pág.  112| cubica                | cubica)                       |
+  |          |                       |                               |
+  |#nota   14| ontras                | outras                        |
+  +----------+-----------------------+-------------------------------+
+
+* corrigido de acordo com notas/erratas fornecidas no livro.
