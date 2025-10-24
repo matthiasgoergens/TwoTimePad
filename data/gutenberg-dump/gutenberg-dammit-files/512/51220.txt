@@ -1,0 +1,593 @@
+For the Latin text the following edition was used:
+
+  "Plato's Apology of Socrates, Crito, and Phædo" (Publ. William Curry,
+  Jun., and Company; Simpkin and Marshall, London, 1834)
+
+Concerning the Latin text, a quote from the Preface to the above edition
+may suffice:
+
+  "In compliance with the desire of the Publishers, a Latin version has
+  been annexed, that of Marsilius Ficinus, a Florentine, born A.D. 1433,
+  and educated by Pletho, under the patronage of Cosmo di Medici, for
+  the express purpose of translating the writings, and reviving the
+  philosophy of Plato."
+
+Footnotes added by the Transcriber are marked as [TR1], [TR2], etc.
+
+
+
+
+                                 CRITO
+
+                        PERSONS OF THE DIALOGUE
+
+                             Socrates Crito
+
+                    SCENE: _The Prison of Socrates_
+
+
+
+_SOCRATES._—Curnam hac hora venisti, o Crito? annon valde adhuc est ante
+lucem?
+
+_CRITO._—Valde quidem.
+
+_SO._—Quando vero maxime?
+
+_CR._—Profunda aurora.
+
+_SO._—Admiror, quemadmodum ipse custos carceris tibi obtemperare
+voluerit.
+
+_CR._—Familiaris jam mihi est, o Socrates, ob crebrum huc adventum
+meum. Præterea beneficii nonnihil a me accepit.
+
+_SO._—Venistine modo? an jam est dudum?
+
+_CR._—Satis dudum.
+
+_SO._—Proinde cur non statim me excitasti, sed silentio assedisti?
+
+_CR._—Nunquam per Jovem, o Socrates, excitassem. neque enim ipse vellem
+in tanto dolore evigilare. Sed te jamdudum admiror, sentiens, quam
+suaviter dormias; et consulto non excitavi te, ut quam placidissime
+degeres. Equidem et per omnem vitam ob hujusmodi morem beatum te
+judicavi; maxime vero in præsenti calamitate, quod eam tam facile ac
+placide feras.
+
+_SO._—Perabsurdum esset, o Crito, si quis tam grandis natu imminentem
+mortem moleste ferat.
+
+_CR._—Sed et alii, o Socrates, æque senes similibus calamitatibus
+opprimuntur, quos tamen ætas ab afflictione, quam sors præsens affert
+secum, non liberat.
+
+_SO._—Ita est. Sed curnam adeo mane venisti?
+
+_CR._—Nuntium, o Socrates, ferens acerbum; non tibi quidem, ut mihi
+apparet, sed mihi potius, et familiaribus tuis omnibus, et acerbum et
+gravem. quod equidem inter gravissima, ut arbitror, numeraverim.
+
+_SO._—Quidnam hoc? nunquid navis ex Delo jam rediit? qua reducta, mihi
+est moriendum.
+
+_CR._—Nondum rediit quidem; sed reditura videtur hodie, quemadmodum
+nuntiant nonnulli e Sunio venientes, qui ibi eam reliquerunt. constat
+ergo ex his nuntiis, hodie esse venturam; ideoque necessarium fore, te
+cras, o Socrates, e vita decedere.
+
+_SO._—Bona, o Crito, fortuna: si ita diis placet, ita esto. non tamen
+existimo, illam hodie redituram.
+
+_CR._—Undenam id conjectas?
+
+_SO._—Dicam equidem. siquidem postridie, quam navis redierit, mihi est
+obeundum.
+
+_CR._—Sic utique aiunt hi, penes quo rei hujus potestas est.
+
+_SO._—Itaque non hac die venturam puto, sed altera. conjecturam vero ex
+somnio quodam accipio, quod paulo ante hac ipsa nocte mihi vistum est:
+opportuneque videris somnum mihi non perturbasse.
+
+_CR._—Sed quale id somnium erat?
+
+_SO._—Videbatur mihi mulier quædam adveniens, pulchra et aspectu grata,
+vestes habens candidas, vocare me, atque dicere, o Socrates, tertia hinc
+die Phthiam pervenies latiglebam.
+
+_CR._—Quam mirum id insomnium, Socrates?
+
+_SO._—Manifestum tamen, ut mihi videtur.
+
+_CR._—Manifestum certe. sed, o beate Socrates, etiam nunc crede mihi, ac
+salvus esse velis. Mihi enim, si tu obieris, non una tantum calamitas
+imminet: sed præter id, quod te orbatus fuero tali necessario, qualem
+alterum nunquam reperiam, videbor utique multis, qui neutrum nostrum
+satis noverint, cum potuissem te servare, si minus pecuniis
+perpercissem, te penitus neglexisse. Atqui quænam major potest esse
+infamia, quam videri, pluris fecisse pecunias quam amicos? non enim
+poterit persuaderi compluribus, te hinc abire noluisse, nobis, quo id
+ageres, omni studio contendentibus.
+
+_SO._—Quid vero a nobis, o beate Crito, tanti vulgi opinio æstimatur?
+probatissimi enim viri, quorum magis habenda ratio est, hæc ita gesta
+esse, ut gesta sunt, arbitrabuntur.
+
+_CR._—Attamen vides, o Socrates, compelli nos opinionem quoque vulgi
+curare. præsentia enim hæc declarant, posse vulgus non minima malorum,
+immo fere maxima, si quis in populo calumniis agitetur, inferre.
+
+_SO._—Utinam, o Crito, posset vulgus maxima inferre mala, ut vicissim
+maxima posset bona. et bene quidem se res haberet, neutrum vero potest;
+quippe cum neque prudentem, neque imprudentem efficere valeat. faciunt
+vero quodlibet, utcunque contingit.
+
+_CR._—Hæc quidem ita se habeant. Ad id vero, Socrates, mihi responde,
+num forte mei ceterorumque necessariorum tuorum respectus te retinet,
+ne, si hinc evaseris, calumniatores nos postea vexent, quasi te hinc
+furati fuerimus: cogamurque vel totum patrimonium, vel permultas
+pecunias amittere, vel præter hæc aliud quippiam pati. Si quid tale
+times, curam ejusmodi pone. justum namque est, nos tuæ salutis gratia
+non hoc solum, verum etiam, si oportuerit, majus aliud subire
+periculum. Verum mihi obtempera, neque aliter facias.
+
+_SO._—Et hæc equidem et alia multa, o Crito, considero.
+
+_CR._—Ne igitur hæc vereare. neque enim multum est argentum, quod
+postulant hi, qui servare te atque hinc educere pollicentur. Vides
+præterea, quam tenues sint calumniatores tui, ut non magna ad eos
+placandos largitione sit opus. Tibi vero pecuniæ adsunt meæ, ad hoc, ut
+opinor, sufficientes. Proinde si quo mei respectu adductus non putas
+meas pecunias erogandas, adsunt hospites isti parati persolvere. quorum
+unus etiam huc attulit sufficientem pecuniam, ad hoc ipsum paratam,
+Simmias Thebanus. ad hoc ipsum promtus est et Cebes, aliique
+permulti. Quamobrem, ut modo dicebam, nihil tale metuas, quo minus
+serves teipsum. Sed neque etiam illud, quod in judicio dixisti, te
+remoretur, si hac urbe exires, quo teipsum verteres te minime
+habiturum. aliis enim multis in locis quocunque profectus fueris, te
+homines colent: ac si velis in Thessaliam te conferre, reperies illic
+hospites meos, qui te plurimi libenter libentissime complectentur;
+tutumque præsidio suo adeo reddent, ut nemo in Thessalia tibi injuriam
+sit facturus.
+
+Accedit ad hæc, o Socrates, quod rem minime justam aggredi videris, si,
+cum salvus esse possis, teipsum perdas, taliaque contra te facere
+studeas, qualia inimici ipsi tui contenderent, contenderuntque, te
+perdere properantes. Proinde filios quoque tuos perdere mihi
+videris. quos cum liceat tibi educare atque erudiere, deseris omnino, et
+quantum in te, eorum mores fortunæ committis. Accident vero eis
+verisimiliter, qualia evenire orphanis consueverunt. Profecto oportebat
+non genuisse filios; aut in eis educandis erudiendisque laborem non
+recusare. Tu vero mihi videris, quæ elegisset vir segnis ac piger, nunc
+elegisse: decebat autem contra viri boni fortisque eligere; præsertim
+te, per omnem vitam virtutis studium profitentem. Itaque non possum tua
+nostraque vice, familiarum tuorum, non erubescere, veritus, ne tota hæc
+res tua ignavia quadam nostra sic tractata fuisse videatur. Et primum
+quidem ille tunc in judicium ingressus, cum liceret non ingredi; deinde
+concertatio ipsa judicii similiter acta; et extremus hic finis, tanquam
+ridiculum quiddam, per ignaviam segnitiemque nostram effugisse nos
+videbitur, quod nec nos te servaverimus, neque tu ipse te, cum id fieri
+absque magna difficultate potuerit, si vel parum in nobis usus
+industriæque fuisset. Hæc igitur, o Socrates, considera, ne
+præterquam[TR1] quod mala sunt, etiam dedecori tibi nobisque sint: sed
+tibi consule. immo vero non jam amplius consulendi tempus, sed consultum
+jam esse oportuit. unicum vero consilium est; videlicet venienti hac
+nocte cuncta hæc facta esse oportere. Sin autem ultra tardamus, nihil
+omnino fieri ulterius poterit. quamobrem omnino mihi adhibe fidem, o
+Socrates, nec ullo modo aliter facias.
+
+_SO._—O amice Crito, studium hoc tuum permulti faciendum esset, si qua
+ratione recta susceptum esset. sin minus, quanto vehementius est, tanto
+molestius. Considerandum est igitur, agendane hæc nobis sint, an
+non. nam ego is sum non modo nunc, sed et semper, qui meorum nulli
+paream, præterquam rationi, quæ ratiocinanti mihi optima
+videatur. Rationes itaque illas, quibus superioribus temporibus usus
+sum, nec nunc quidem, postquam in hanc fortunam incidi, rejicere possum:
+sed similes mihi ferme apparent, easdemque in præsentia, quas et prius,
+veneror atque profiteor: adeo, ut nisi nunc meliores afferre possimus,
+plane scire debeas, me tibi non concessurum: non, si etiam plura, quam
+nunc, multitudinis potentia comminata, nos tanquam pueros larvali
+terribilique facie perterrere conetur, pecunia et damna, catenas, cædes
+objiciens.
+
+_CR._—Quanam igitur ratione mediocriter considerabimus?
+
+_SO._—Hac utique, si id, quod tu de opinionibus paulo ante dicebas,
+resumamus: utrum semper recte se habeat necne, oportere scilicet
+quarundam opinionum rationem habere, quarundam vero minime. An forte
+prius quam in periculum mortis inciderem, recte id dicebatur: nunc vero
+constat, frustra, disputationis gratia, ita dictum fuisse, cum revera
+joco cuidam nugisque esset adductum. Cupio equidem, o Crito, una tecum
+considerare, nunquid sermo ille prior alienus appareat mihi, nunc in hac
+fortuna constituto; an prorsus idem qui et prius: atque utrum
+dimittendus sit a nobis, vel ipsi obtemperandum. [Dicebatur autem, ut
+opinor, semper sic ab iis, qui se aliquid dicere existimabant, ut nunc
+quidem ego dicebam: nempe hominum opiniones partim plurimi faciendas ac
+sequendas, partim vero minime. Hoc, per Deos, o Crito, nonne tibi recte
+dici videtur? tu enim, ut fert hominum conditio, tantum abes a periculo
+ut crastino die moriaris; nec te in errorem inducit præsens calamitas.]
+Considera igitur: an non sufficienter tibi dici videtur, non oportere
+omnes opiniones hominum sequi; sed alias quidem sequi, alias vero
+negligere: neque omnium quidem, sed duntaxat quorundam. quid ergo dicis?
+hæc non recte dicuntur?
+
+_CR._—Recte.
+
+_SO._—An non bonas honorare decet, mala vero contemnere?
+
+_CR._—Ita decet.
+
+_SO._—Bonæ autem nonne prudentum? malæ contra sunt imprudentum?
+
+_CR._—Quidni?
+
+_SO._—Age vero, quonam modo rursus talia dicebantur? qui in gymnasiis se
+exercet, utrum cujuslibet hominis laudi, vel vituperationi mentem
+adhibebit; an illius tantum, qui medicus sit, aut gymnasii magister?
+
+_CR._—Hujus solius.
+
+_SO._—An non timere decet vituperationes, et optare laudes illius unius
+potius, quam multorum?
+
+_CR._—Procul dubio.
+
+_SO._—Hac itaque ratione illi agendum est, exercendumque, et edendum
+atque bibendum, qua illi unico videatur, qui præsideat intelligatque,
+potius quam, ut videtur vulgo.
+
+_CR._—Vera hæc sunt.
+
+_SO._—Quid vero, si illi uni non pareat, opinionemque ejus et
+commendationes nihili pendat, honoret vero vulgi ignorantumque
+commendationes, nunquid a malo tutus erit?
+
+_CR._—Minime.
+
+_SO._—Quid autem est id malum, et quonam tendit, et in quam non
+obedientis partem?
+
+_CR._—In corpus videlicet; hoc enim corrumpitur.
+
+_SO._—Recte dicis. Nonne de aliis, o Crito, eadem ratio est? Ne omnia
+percurramus: de justis inquam injustisque, de turpibus et honestis,
+bonisque et malis, de quibus in præsentia nobis consultatio est, utrum
+multorum opinionem sequi vererique debeamus, an unius potius, qui
+intelligat, quem decet et venerari et timere magis, quam cunctos
+alios. cui nisi obtemperaverimus, lædemur et corrumpemur in eo, quod
+justo quidem melius fieri, injusto autem corrumpi soleat. an nihil id
+est?
+
+_CR._—Id quidem, o Socrates, arbitror.
+
+_SO._—Age vero, si id, quod a salubri quidem fit melius, ab insalubri
+vero corrumpitur, corruperimus, imperitorum potius quam peritorum
+sequuti judicia, an nobis eo destructo vivendum erit? est autem id
+corpus. nonne?
+
+_CR._—Corpus.
+
+_SO._—Nunquid ergo vivendum nobis cum depravato corpore atque destructo?
+
+_CR._—Nullo modo.
+
+_SO._—An forte cum illo vivendum est nobis corrupto, quod injusto quidem
+læditur, justo vero juvatur? nunquid vilius illud, quam corpus
+existimamus, quidquid illud est e nostris, circa quod justitia,
+injustitiaque versatur?
+
+_CR._—Nullo modo.
+
+_SO._—Sed pretiosius?
+
+_CR._—Valde.
+
+_SO._—Non igitur, o vir optime, admodum nobis curandum est, quid de
+nobis multi loquantur; sed quid dicat is unus, qui intelligit justa et
+injusta, atque ipsa veritas. Quamobrem primo quidem non recte adduxisti,
+opinionem vulgarem de rebus justis, et honestis, et bonis, harumque
+contrariis, esse alicujus existimandam. At vero dicet aliquis, posse
+vulgus nos interficere?
+
+_CR._—Nimirum dici id potest, o Socrates.
+
+_SO._—Vera loqueris. Sed, o mirabilis, hæc ratio, quam percurrimus,
+superiori similis esse videtur: atque hanc rursus considera, utrum nobis
+maneat, necne: videlicet, non multi faciendum esse vivere, sed bene
+vivere.
+
+_CR._—Manet quidem.
+
+_SO._—Sed hoc quoque manetne? bene, et honeste, et juste vivere idem
+esse?
+
+_CR._—Constat.
+
+_SO._—Igitur ex his, quæ confessi sumus, hoc considerandum, utrum justum
+sit conari me hinc exire, Atheniensibus non dimittentibus, vel injustum:
+ac si appareat, justum esse, tentemus: si minus, dimittamus. Quas vero
+tu affers considerationes de pecuniarum sumptu, de vulgari opinione, de
+filiis educandis: cavendum est, o Crito, ne excogitationes revera horum
+multorum sint, qui facile interficiunt, atque eorum, qui similiter,
+inquam, si possent, reviviscerent, et id quidem absque mente. Nobis
+vero, quandoquidem sic exigit ratio, nihil aliud attendendum est, quam
+quod modo dicebamus, utrum agamus justa, pecunias largiendo, gratiamque
+habendo his, qui me hinc educant: utrum, inquam, in hoc agamus justa,
+nos quidem educti, illi vero educentes; an potius utrinque in his
+omnibus agendis, agamus injuste: atque si appareat, nos iniqua aggredi,
+ne excogitandum quidem id est; sed mansuete subire decet et mortem, et
+quodvis aliud supplicium prius, quam quidquam agamus inique.
+
+_CR._—Recte loqui videris, Socrates. considera tamen, quid agamus.
+
+_SO._—Consideremus, o bone vir, una. ac si qua in parte me dicentem
+redarguere poteris, redargue. ego enim assentiar. sin minus, desine
+quæso, o vir beate, jam toties eadem verba repetere: oportere scilicet
+me hinc, Atheniensibus invitis, abire. Equidem multi facio, persuaso te
+hæc agere; non autem invito. Attende itaque, nunquid considerationis
+initium tibi sufficienter dictum sit; conareque quod rogatus sis ita
+respondere, ut maxime censeas respondendum.
+
+_CR._—Conabor equidem.
+
+_SO._—Dicimus sane, nullo modo sponte esse injuriandum; an forte quodam
+pacto injuria facienda est, aliter vero nequaquam? vel potius injuriari
+nullo modo vel bonum est, vel honestum, quemadmodum in superiori tempore
+sæpe confessi sumus? Quod quidem et nuper est confirmatum. An forte
+omnes illæ superiores conventiones nostræ in paucis his diebus prorsus
+evanuerunt, ac jamdiu nos tam grandes natu homines, o Crito, tamque
+studiose invicem disserentes, latuit, nihil a pueris nos differre? An
+potius sic prorsus res se habet, ut jamdiu dicebamus, sive affirmet id
+multitudo, sive neget; et, sive graviora præsentibus, sive leviora
+subire cogamur, attamen injuriam facere omnino malum turpeque esse
+fatemur illi ipsi, qui facit, an non?
+
+_CR._—Fatemur certe.
+
+_SO._—Quamobrem nullo modo injuriandum est.
+
+_CR._—Nullo quidem.
+
+_SO._—Neque, si injuriam passus fueris, eam ulciscendum, ut vulgus
+putat. siquidem nullo modo injuriandum.
+
+_CR._—Ita videtur.
+
+_SO._—Quid vero? mala alicui facere decet, o Crito, an non?
+
+_CR._—Non certe, o Socrates.
+
+_SO._—Quid autem, qui mala patitur, num mala vicissim referre illi
+debet, qui intulit, ut vulgo videtur? justumne id esset, an injustum?
+
+_CR._—Injustum.
+
+_SO._—Nempe mala inferre hominibus, non discrepat ab injuria.
+
+_CR._—Vere loqueris.
+
+_SO._—Neque igitur ulcisci decet, neque malefacere cuiquam hominum,
+quodcunque ab aliis ipse passus fueris. Et vide, o Crito, ne quid, dum
+hæc concedis, præter sententiam tuam nobis assentiare. Perpaucis enim,
+scio quid loquar, sic vel apparet, vel apparebit. At vero quibus sic
+apparet, et quibus aliter, his non est communis deliberatio; sed necesse
+est, eos, cum ultro citroque consilia sua respiciunt, invicem se
+despicere. Animadverte igitur et tu diligenter, utrum tibi mihique
+communis sit hæc opinio, mecumque sentias: atque utrum ab hoc principio
+exorsi deliberemus, quasi nunquam rectum sit, vel injuriari, vel ulcisci
+injuriam, vel malum referre in eum qui intulit. An hic discedis a nobis,
+in hoc principio non consentiens? Mihi quidem et jamdiu et nunc ita
+videtur. Quod si tibi apparet aliter, dic, et doce. sin autem in
+superioribus permanes, jam quid sequatur audi.
+
+_CR._—Consentio equidem et permaneo.
+
+_SO._—Dico ergo deinceps, immo potius interrogo, utrum[TR2] quæ quis
+confiteatur alicui, justa esse, facere debeat, an fallere?
+
+_CR._—Facere.
+
+_SO._—Ex his jam ita considera. Si nos hinc abeamus præter civitatis
+consensum, utrum male aliquibus faciemus, et his quidem, quibus minime
+decet, vel non: et utrum in his permanebimus, quæ justa esse convenimus,
+vel contra?
+
+_CR._—Nequeo equidem, o Socrates, ad hæc respondere. neque enim
+intelligo.
+
+_SO._—Verum ita considera, perinde ac si, volentibus nobis hinc sive
+aufugere, sive quomodocunque hoc vocandum sit, veniant leges,
+civitatisque hujus respublica, et instantes nobis sic inquiant: Dic
+nobis, o Socrates, quidnam cogitas facere? an non intelligis, hac re,
+quam aggrederis, te nobis legibus, totique patriæ, quantum in te est,
+interitum machinari? an putas, civitatem ullam amplius stare posse, ac
+non subverti, in qua judicia publica nullam vim habeant, sed a privatis
+hominibus contemnantur atque frangantur? Quid ergo dicemus ad hæc, o
+Crito, aliaque hujusmodi. Permulta enim in hanc sententiam afferre quis
+potest; præsertim orator, pro lege ita soluta declamans, quæ quidem
+sententias publico judicio latas jubet ratas esse. an respondebimus
+illi, civitatem non recte judicando nobis injuriam intulisse? itane, an
+aliter?
+
+_CR._—Ita per Jovem, o Socrates.
+
+_SO._—At enim leges ipsæ sic responderent: O Socrates, nonne nobis tecum
+id convenit, standum tibi esse judiciis, quæ civitas tulerit? Quod si
+leges ita loquentes admiraremur, forte dicerent: Noli, Socrates, quæ
+modo diximus, admirari: immo responde, cum tibi et interrogare et
+respondere sit consuetum. Dic age, quidnam nobis civitatique succenseas,
+quo dissolvere nos contendas? principio, nonne nos te genuimus? atque
+per nos pater tuus matrem accepit tuam, et provocavit? Dic ergo, an has
+inter nos leges, quæ sunt circa conjugia, improbes, atque his aliqua in
+parte, quasi minus rectis, succenseas. Nihil succenseo, dicerem. Sed an
+his legibus, quæ educatione eruditionique natorum provident, in qua ipse
+quoque eruditus es? an non recte disposuerunt hæ leges ad hoc officium
+conditæ, cum juberent patrem tuum in musica te et gymnastica erudire?
+Recte disposuisse concederem. Age ergo, postquam per nos genitus es,
+educatusque ac eruditus, primo quidem num potes negare, te nostrum esse
+et natum et servum, ipsumque te et progenitores. deinde, cum id ita se
+habeat, an putas jus ex æquo tibi atque nobis esse; et quæ nos tibi
+facere aggrediamur, eadem vicissim in nos abs te referri justum esse
+judicas? An, cum nec ad patrem, nec ad dominum, si eam habeas, tibi jus
+ex æquo sit, ut, quæ ab illis patiare, in eos referre possis; neque si
+jurgio hi te lacessant, contra jurgare, neque si te verberent, vicissim
+verberare, neque alia ejusmodi in eos tentare liceat: contra patriam
+vero ac leges tibi licebit? adeo ut, si, nos judicantes id esse justum,
+interficere te velimus, tu vicissim nos leges et patriam pro viribus
+coneris occidere, dicasque, te in his agendis justa facere, qui virtutis
+curam revera habere profiteris. An sic es sapiens, ut te latuerit, et
+patri et matri et progenitoribus omnibus patriam esse anteponendam;
+atque esse venerabilius quiddam sanctiusque, et in superiori sorte, tum
+apud deos, tum apud homines mentis compotes, patriam collocandam?
+colereque eam oportere magis, eique obedire; ac rigidius se gerenti
+mitius assentiri, quam patri: et, si quid jubeat, vel dissuadere illi
+quantum liceat, vel facere; et patientissime sustinere, quidquid
+jusserit patiendum? ac, sive mandaverit verberari te, sive in vincula
+conjici, sive in prœlium miserit ad vulnera excipienda, mortemque
+subeundam, obediendum est omnino. jus enim ita dictat; et neque
+tergiversandum, neque fugiendum, neque ordinem deserendum, sed et in
+bello, et in judicio, et prorsus ubique, ea sunt, quæ respublica
+patriaque jusserit, facienda: aut certe verbis, quatenus justum est, uti
+licet ad persuadendum illi eamque placandam: vi autem uti nefas est, vel
+contra matrem, vel contra patrem, maxime vero omnium contra
+patriam. Quidnam ad hæc dicemus, Crito, verane loqui leges, an contra?
+
+_CR._—Mihi quidem videntur.
+
+_SO._—Proinde leges fortasse dicent: Animadverte, o Socrates, utrum vere
+dicamus, te injusta contra nos aggredi. Nos quidem, quæ te et alios
+cives genuimus, educavimus, nutrivimus, participes bonorum omnium, quæ
+in nostra erant potestate, effecimus: tamen permisimus cuilibet
+Atheniensium, cognitis jam civitatis moribus legibusque, et reipublicæ
+gubernandæ forma, si cui non placeamus, licere, acceptis suis, quocunque
+placuerit hinc abire. Nec ulla ex nobis legibus impedit aut denegat,
+sive quis vestrum, cui nos civitasque minime placeamus, in coloniam
+aliquam hinc velit discedere, sive habitationem alio transferre cupiat,
+quo minus id pro arbitrio facere valeat, secumque sua perferre. At vero
+quicunque ex vobis, postquam cognoverit, quemadmodum nos judicia
+disponimus, et in ceteris omnibus regimus civitatem, permanserit tamen,
+hunc jam asseveramus, opere ipso convenisse nobiscum, quæcunque
+jusserimus, se facturum. Atque eum, qui non paruerit, tripliciter
+injuriari censemus: et quod genitricibus nobis non obtemperat; et quod
+nutricibus non obsequitur; et quod pactus nobis obedire, neque obedit,
+neque persuadere nobis studet, si quid minus recte facere videamur:
+cumque præcepta nostra libere proponamus, neque mandemus rigide, sed
+permittamus alterum e duobus, aut verbis persuaderi nobis, aut manda
+explere; tu horum neutrum facis.
+
+His ergo criminibus te, o Socrates, obnoxium judicamus fore, si, quæ
+cogitas, feceris: nec minime Atheniensium te, sed maxime omnium. Ac si
+causam requiram, ob quam præ ceteris sim obnoxius, forte juste me
+remorderent, dicentes, me maxime omnium Atheniensium civitatis legibus
+consensisse. sic enim inferrent: Magna nobis, o Socrates, horum sunt
+argumenta, tibi nos civitatemque placuisse. nunquam enim maxime omnium
+Atheniensium in ea moras traxisses, nisi tibi mirifice
+placuisset. Itaque nec spectaculi gratia urbe unquam egressus es, nisi
+semel in Isthmum, nec alio usquam, nisi in militia; neque aliam fecisti
+peregrinationem unquam, quemadmodum ceteri solent; neque alterius
+civitatis te cepit cupiditas, aliarumve legum; sed nos tibi nostraque
+civitas satisfecimus; usqueo adeo vehementer probasti nos, nostrisque
+moribus victurum te consensisti: tum in ceteris rebus, tum quia in ea
+filios procreasti, utpote quæ tibi placuerit. Quin etiam licebat tibi in
+ipso judicio exsilium postulare, si voluisses; atque quod nunc invita
+civitate aggrederis, tunc ea volente poteras facere. Tu vero verbis tunc
+te extulisti, quasi non graviter ferres, si mori te oporteret. quinimmo
+mortem ipsam, ut dicebas, potius quam exsilium elegisti. Nunc vero nec
+verba illa tua erubescis, neque nos leges vereris, sed nobis interitum
+machinaris. Facis autem, quod deterrimus faceret servus, fugam arripere
+tentans, contra pactiones conventionesque, in quibus convenisti
+nobiscum, nostris te præbens institutionibus gubernandum. Primum
+responde nobis, num id ipsum vere dicamus, consensisse non verbis, sed
+re ipsa, moribus nostris gubernari debere. An non vera hæc sunt? Quid ad
+hæc dicemus, Crito? an non confitebimur?
+
+_CR._—Necesse est, o Socrates.
+
+_SO._—Nonne igitur (leges inquient) conventa nobiscum et pacta
+transgrederis? quæ neque coactus es nobiscum inire, neque deceptus,
+neque ad breve tempus deliberare ad hæc eligenda es compulsus, sed annos
+septuaginta deliberare licuit: quo in tempore licuit et abire, nisi tibi
+placuissemus, conventionesque justæ tibi visæ fuissent. Tu vero nec
+Lacedæmonem, neque Cretam nobis anteposuisti, quas ipse urbes assidue
+prædicas recte gubernari, neque aliam ullam, vel Græcarum civitatum, vel
+Barbararum. immo ex hac rarius peregrinatus es, quam claudi et cæci,
+mancique alii soleant. usque adeo Atheniensibus tibi præ ceteris civitas
+placuit, atque nos, videlicet leges. cui enim placere potest civitas,
+cujus non placeant leges? Nunc vero non permanes in his, in quibus
+jamdiu nobis tibique convenit. Permanebis certe, si nobis credideris, ne
+egrediens urbe deridendus evadas.
+
+Considera rursus, si hæc transgressus fueris, et ea quæ inique cogitas
+perpetraveris, ad quid tandem id vel tibi, vel necessariis tuis
+conducet. Cuique enim constat, in periculo necessarios tuos fore, ne
+ipsi quoque in exsilium expellantur, priventurque civitate, et
+patrimonio suo exspolientur. Tu autem si quam in civitatem finitimam te
+contuleris, vel Thebas, vel Megaras, (utræque enim gubernantur recte)
+hostis primum reipublicæ illius accedes, et omnes, quibus curæ est
+patria, despicient abominabunturque te, corruptorem legum
+existimantes. ideoque confirmabis eorum qui te damnarunt opinionem, ut
+recte contra te tulisse sententiam videantur. quisquis enim corruptor
+est legum, is potissimum et juvenum imperitorumque hominum videbitur
+esse corruptor. Quid ergo? civitatesne, quæ recte gubernantur, et
+modestissimos quosque homines devitabis? Atqui si id feceris, vitane
+dignus eris? an forte impudenter te his admiscebis, nec erubesces, de
+eisdem apud eos disserere, de quibus apud nos consuevisti; virtutem
+videlicet et justitiam, legesque, et instituta legum plurimi esse
+existimanda. neque putas, absurdum et ab his dissonans apparere Socratis
+factum? Procul dubio putandum est. Fortasse vero civitates has declinans
+in Thessaliam ad Critonis hospites abibis. illic enim absque ordine et
+temperantia vivitur. Ac forsan libenter illi te audient, narrantem
+quemadmodum e carcere ridicule fugeris, ut fascem quendam tibi super
+imponens, aut corio tegens, vel aliis quibusdam te involvens,
+quemadmodum solent qui fugam surripiunt, et in alienam figuram te
+transmutans illinc aufugeris. quemadmodum vero vir senex parvo admodum
+tempore, ut verisimile est, victurus, ausus fueris, ob vivendi
+cupididatem in tam sordida inopia vivere, maximas transgressus leges,
+nullusne dixerit? forte: si neminem offenderis. alioquin multa, o
+Socrates, atque indigna te audies. vives autem obnoxius cunctis
+hominibus atque deserviens. Quid vero facies in Thessalia? conviviane
+frequentabis? utpote qui in Thessaliam, quasi ad cœnam aliquam,
+adventaveris. Disputationes vero illæ de justitia, ceterisque virtutibus
+ubinam ulterius nobis erunt? Enimvero filiorum gratia vivere cupis, ut
+nutrias eos atque erudias. An ergo in Thessaliam eos perduces, ut illic
+nutrias eos, atque erudias, hospites eos efficiens, ut hoc insuper
+commodi abs te reportent? an id quidem non facies; hic vero relicti
+melius te vivo alentur, atque erudientur a necessariis tuis, te absente?
+Utrum vero, si Thessaliam abibis, tui id curabunt: sin autem in alteram
+transibis vitam, non curabunt? Profecto si quid opis est in his, qui
+aiunt se tuos necessarios esse, credendum est, curaturos.
+
+Ceterum, o Socrates, fidem nobis adhibens nutricibus tuis, neque filios
+tuos, neque vitam, neque aliud quidquam pluribus facias, quam justitiam:
+ut cum in vitam alteram transmigraveris, valeas illic præsidibus horum
+omnium reddere rationem. Nempe si leges transgressus hæc feceris, neque
+melius, neque justius, neque sanctius id vel tibi continget, vel tuis;
+neque illuc tibi profecto conducet. quin potius injuriam passus abito,
+si abieris, non a nobis quidem legibus, sed ab hominibus. Verum si adeo
+turpiter aufugeris, etiam versa vice injurias malaque referens,
+conventionesque nobiscum initas et promissa transgressus, atque lædens
+eos, quos minime oportebat, te ipsum scilicet et amicos et patriam,
+nosque leges: nos utique et viventi tibi infensæ hic erimus, et in
+altera vita leges, quæ illic sunt nostræ sorores, haud quaquam te
+benigne recipient, scientes, te nos pro viribus disperdere conatum
+fuisse. Quamobrem, ne Crito aliter tibi quam nos persuadeat, caveto.
+
+Hæc equidem, o dulcis amice Crito, audire videor, quemadmodum Corybantes
+tibias audire se putant. atque in me sermonum ejusmodi sonitus adeo
+reboat, ut alia audire non possim. Vides, quæ in præsentia mihi
+apparent: quibus si quid contradicere aggrediaris, frustra
+conabere. verumtamen si quid te profecturum confidis, dicas.
+
+_CR._—Ergo vero quod dicam, o Socrates, nihil habeo.
+
+_SO._—Desine ergo, Crito; et pergamus hac, quandoquidem hac nos Deus
+ipse ducit.
+
+
+                                 FINIS.
+
+
+[TR1] "præterquum" -> "præterquam".
+
+[TR2] "Utrum" -> "utrum".
