@@ -1,0 +1,213 @@
+DOMINIO PUBLICO Y COPYRIGHT
+
+
+Ahora que estamos en una "sociedad de la información", parece
+preocupante que el dominio público se esté encogiéndose como piel de
+zapa. No hace tanto tiempo, el 50% de las obras pertenecía al dominio
+público, y por lo tanto podían ser utilizadas libremente por todos. De
+aquí a 2100, 99% de las obras estarían sujetas a derechos de autor, con
+un escaso 1% preservado para el dominio público. Se trata de un
+problema espinoso para todos aquéllos que administran bibliotecas
+digitales, y afecta tanto al Proyecto Gutenberg como a Google Books.
+
+Si bien el Proyecto Gutenberg se ha propuesto difundir gratuitamente
+por vía electrónica el mayor número posible de obras del dominio
+público, su tarea no es facilitada por los repetidos ataques contra el
+dominio público. Michael Hart, su fundador, lleva unos treinta años
+examinando esta cuestión, con la ayuda de un grupo de abogados
+especialistas del derecho de autor.
+
+En la sección "Copyright HowTo", el sitio web del Proyecto Gutenberg
+detalla los cálculos que hay que hacer para determinar si un título
+publicado en los Estados Unidos pertenece o no al dominio público. Las
+obras publicadas antes de 1923 están sujetas a derechos de autor
+durante 75 años a partir de su fecha de publicación (luego ya han
+pasado hoy al dominio público). Las obras publicadas entre 1923 y 1977
+están sujetas a derechos de autor durante 95 años a partir de su fecha
+de publicación (o sea que ninguna pasará al dominio público hasta
+2019). Una obra publicada en 1998 y en los años siguientes está sujeta
+a derechos de autor durante 70 años a partir de la fecha de
+fallecimiento del autor si se trata de un autor único (en este caso
+ninguna obra pasará al dominio público antes de 2049), o bien durante
+95 años a partir de la fecha de publicación - o 120 años a partir de la
+fecha de creación - si se trata de un autor colectivo (nada antes de
+2074). Así se presentan las cosas, a grandes rasgos. A estas reglas
+básicas se añaden otras, tomando en cuenta que la ley de copyright ha
+sido enmendada varias veces desde 1971, fecha en que se fundó el
+Proyecto Gutenberg.
+
+Mucho más restrictiva que la anterior, una nueva enmienda al copyright
+fue ratificada por el Congreso el 27 de octubre de 1998 para
+contrarrestar la formidable potencia del internet como vehículo de
+difusión. Andando los siglos, cada avance técnico se ha acompañado de
+un endurecimiento del copyright. Al parecer suele ser ésta la respuesta
+de los editores frente al miedo que les inspira el acceso cada vez más
+fácil al saber, porque temen que esta nueva situación les haga perder
+parte de sus royalties.
+
+Michael Hart explica en julio de 1999: "La duración del copyright ha
+sido extendida de 20 años. Antes había que esperar 75 años, y ahora hay
+que esperar 95 años. Mucho antes todavía, el copyright duraba 28 años
+(más una extensión de 28 años sí uno la pedía antes de la expiración
+del plazo), y este último modelo ya había substituido a su vez un
+copyright de 14 años (más una extensión de 14 años si uno la pedía
+antes de la expiración del plazo). Bien se ve entonces que asistimos a
+un deterioro regular y constante del dominio público."
+
+Las fechas evocadas por Michael son las siguientes, como lo explica en
+detalle en su blog:
+
+(a) 1790 es la fecha en la que la Corporación de impresores (es decir
+los editores de la época en Inglaterra) empezó a ejercer su influencia
+sobre los autores, lo que suscitó el nacimiento del copyright. El 1790
+Copyright Act instituye un copyright de 14 años después de la fecha de
+publicación de la obra, más una extensión de 28 años siempre y cuando
+se pida antes de la expiración del plazo. Las obras que pueden
+imprimirse legalmente pasan de repente de 6.000 a 600, y nueve de cada
+diez títulos desaparecen de las librerías. Unos 335 años después del
+nacimiento de la imprenta, cuya misión - se suponía - era abrir las
+puertas del saber a todos, el mundo del libro deja de estar bajo el
+control de los autores para caer en manos de los editores. Esta nueva
+legislación también se lleva a efecto en los Estados Unidos y en
+Francia.
+
+(b) En 1831 es cuando tiene lugar el primer fortalecimiento del
+copyright para compensar la reedición de vastas colecciones del dominio
+público en las nuevas prensas de vapor. El 1831 Copyright Act instituye
+un copyright de 28 años tras la fecha de publicación de la obra, más
+una extensión de 14 años siempre y cuando se pida antes de la
+expiración del plazo, a saber un total de 42 años.
+
+(c) En 1909 es cuando tiene lugar un segundo fortalecimiento del
+copyright para compensar la reedición de las colecciones del dominio
+público en las nuevas prensas eléctricas. El 1909 Copyright Act duplica
+el periodo de copyright, que se extiende a 28 años, o sea en total un
+plazo de 56 años.
+
+(d) En 1976 es cuando interviene un nuevo fortalecimiento del copyright
+tras la aparición de la fotocopiadora lanzada por Xerox. El 1976
+Copyright Act instituye un copyright de 50 años tras el fallecimiento
+del autor. Por tanto, cualquier copyright vigente antes del 19 de
+septiembre de 1962 no iba a expirar antes del 31 de diciembre de 1976.
+
+(e) En 1998 es cuando tiene lugar otro fortalecimiento del copyright
+debido al desarrollo rápido de las tecnologías digitales y a los
+cientos de miles de obras disponibles a partir de entonces en CD o DVD
+y en la web, gratuitamente o a precios muy bajos. El 1998 Copyright Act
+extiende la duración del copyright a 70 años después del fallecimiento
+del autor, para proteger el imperio de Disney (por eso se suele hablar
+del Mickey Mouse Copyright Act) y el de varias multinacionales
+culturales.
+
+Por tomar sólo un ejemplo, el clásico mundial "Lo que el viento se
+llevó" (Gone With the Wind) de Margaret Mitchell, publicado en 1939,
+debería haber pasado al dominio publico al cabo de 56 años, en 1995, de
+conformidad con la legislación de la época, liberando de este modo los
+derechos para adaptaciones de todo tipo. Debido a las modificaciones
+legales de 1976 y 1998, este clásico no habrá de pasar al dominio
+público antes del año 2035.
+
+La legislación de 1998 fue un golpe muy duro para las bibliotecas
+digitales, en pleno crecimiento gracias al desarrollo de la web, y
+escandalizó a sus administradores, empezando por Michael Hart y John
+Mark Ockerbloom, creador de la Online Books Page. ¿Pero cómo dar la
+talla frente a eminencias del mundo editorial? Desgraciadamente hubo
+que sacar de las colecciones parte de los libros.
+
+John Mark explicó en agosto de 1999: "Me parece importante que los
+internautas entiendan que el copyright es un contrato social concebido
+para el bien público - y esto incluye tanto a los autores como a los
+lectores. Esto significa que los autores deberían tener el derecho de
+utilizar de manera exclusiva y por un tiempo limitado las obras
+creadas, así como se especifica en la ley actual sobre el copyright.
+Pero esto significa también que cuando expire el copyright, sus
+lectores deberían tener el derecho de copiar y reutilizar este trabajo
+tantas veces como lo deseen.
+
+Últimamente en los Estados Unidos han intentado repetidamente
+retirarles a los lectores estos derechos, limitando las reglas
+relativas a la utilización de dichas obras, prolongando la duración del
+copyright (algunas propuestas prevén incluso un plan de copyright
+perpetuo) y extendiendo la propiedad intelectual a trabajos que no son
+obras de creación (véase por ejemplo las propuestas de copyright para
+las bases de datos). Incluso hay propuestas que pretenden sustituir por
+completo la ley de copyright por una ley que establecería un contrato
+mucho más fuerte. Me parece mucho más difícil compartir la opinión de
+Jack Valenti, director de la Asociación cinematográfica de Estados
+Unidos (MPAA: Motion Picture Association of America), cuando éste pide
+que se dejen de copiar las películas bajo copyright, cuando sé
+perfectamente que si esto se aceptara, ninguna película pasaría al
+dominio público (...). Al ver cómo las empresas de medios de
+comunicación tratan de bloquear todo lo que pueden, no me sorprende que
+algunos usuarios reaccionen poniendo en línea todo lo que pueden.
+Desgraciadamente esta actitud también perjudica los derechos legítimos
+de los autores."
+
+Michael escribió en julio de 1999: "Yo fui el principal enemigo de las
+extensiones de copyright (ley del 27 de octubre de 1998), pero
+Hollywood y los principales editores actuaron de tal modo que el
+Congreso ni siquiera mencionó mi acción en público. Los debates
+actuales son totalmente irrealistas. Van encabezados por 'la
+aristocracia terrateniente de la edad de la información' y sirven
+únicamente sus propios intereses. ¿Una edad de la información? ¿Y para
+quién entonces?"
+
+No cabe duda. Las instancias políticas no dejan de hablar de la edad de
+la información mientras que, al mismo tiempo, son ellas las que
+fortalecen la legislación relativa a la puesta a disposición de dicha
+información. La contradicción es obvia. El copyright ha pasado de una
+duración de 30 años de promedio en 1909 a una duración de 95 años de
+promedio en 1998, explica Michael en su blog. En 89 años, entre 1909 y
+1998, el copyright ha padecido una extensión de 65 años que se aplica a
+tres cuartos de la producción del siglo 20. Sólo un libro publicado
+antes de 1923 puede ser considerado a ciencia cierta como parte del
+dominio público.
+
+Un endurecimiento similar afecta a los países de la Unión europea.
+Ahora y en adelante, la regla general es un copyright de 70 años tras
+la muerte del autor, en vez de 50 años - como solía ser antes - debido
+a las presiones ejercidas por los editores de contenido con el pretexto
+de "armonizar" las leyes nacionales relativas al copyright para oponer
+una respuesta a la globalización del mercado.
+
+
+
+DESDE EL PASADO HACIA EL FUTURO
+
+
+Sin embargo los resultados del Proyecto Gutenberg no se miden sólo en
+cifras. Los resultados se miden también por la influencia que ha tenido
+el proyecto, pues ésta ha sido enorme. El Proyecto Gutenberg - primera
+página web de información en el internet y primera biblioteca digital -
+, inspiró entre tanto a muchas otras bibliotecas digitales, por ejemplo
+el Projekt Runeberg para la literatura escandinava o el Projekt
+Gutenberg-DE para la literatura alemana, para no citar sino a dos de
+ellos.
+
+La estructura administrativa y financiera del Proyecto Gutenberg se
+limita al mínimo estricto. Michael Hart insiste frecuentemente sobre la
+necesidad de preservar un marco lo más flexible posible que deje campo
+libre a los voluntarios, y la puerta abierta para las nuevas ideas. El
+objetivo es garantizar la perennidad del proyecto, sin depender ni de
+créditos y cortes de créditos, ni de las prioridades culturales,
+financieras y políticas del momento. De este modo no puede ejercerse
+ninguna forma de presión por el poder o el dinero. Además esto
+significa respeto para con los voluntarios, quienes pueden estar
+seguros de que verán su trabajo utilizado durante muchos años, o
+incluso durante muchas generaciones, de ahí el interés que presenta un
+formato digital que aún sea válido dentro de algunos siglos. En cuanto
+a la supervisión regular del proyecto, se garantiza gracias a una carta
+de información semanal y mensual, foros de discusión, wikis y blogs.
+
+Las donaciones sirven para financiar ordenadores y escáneres, y para
+enviar CD y DVD gratuitos a aquéllos que los solicitan. Después del CD
+"Best of Gutenberg" disponible en agosto de 2003 con una selección de
+600 títulos y de un primer DVD disponible en diciembre de 2003 con
+9.400 títulos, un segundo DVD se pone a disposición en julio de 2006
+con 17.000 títulos. A partir de 2005, CD y DVD ambos están disponibles
+en el sitio web de BitTorrent bajo la forma de imágenes ISO. Estas se
+pueden descargar con el fin de grabar luego CD y DVD a título personal.
+En 2007, el Proyecto Gutenberg envía 15 millones de libros por correo
+postal bajo la forma de CD y DVD.
+
+Aunque demasiadas veces se silencie, cabe recordar que el verdadero
