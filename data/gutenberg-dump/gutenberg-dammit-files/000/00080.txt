@@ -1,0 +1,709 @@
+LIST       -  Shareware MS-DOS file viewing program,
+
+    LOOKFOR    -  Shareware boolean text search program. 
+
+Print versions of The Online World
+
+The Online World does not cover any specific area of the world. 
+Local versions will be printed and published in several countries 
+through joint venture partners. These versions of the book will be 
+adapted to local conditions, and contain many local examples and 
+references. 
+
+The following local version of the book is available:
+
+  "Ut i verden fra egen skjerm," Norwegian text, Dataforlaget A/S, 
+  1992. 220 pages. Phone: +47 22 63 61 62.  Fax: +47 22 63 60 09.
+  Price: NOK 245,-.  ISBN: 82-90628-67-6.
+
+Local language versions of the book are due be published soon by 
+partners in Denmark and Germany. For information, please contact: 
+
+    Claus Berg (Denmark)      at Claus_Berg@SKOLE-KOM.UNI-C.DK
+    Publisher: Teknisk Forlag A/S, Skelbaekgade 4, 1780 Kbh.V., 
+    Denmark. Fax: +45 31 21 09 83.
+
+    Dr. Karl Sarnow (Germany) at karl@dadoka.h.ni.schule.de
+    Publisher: Verlag Heintz Heise GmbH & Co KB, Helstorfer
+    Strasse 7, D-3000 Hannover 61, Germany.
+    Fax: +49-511-53 52-129.
+
+Do you want to be a partner? 
+
+If you are interested in becoming the author of a local language 
+version of the book in your country, please write me at 
+opresno@extern.uio.no to discuss the possibility of a joint-
+venture. 
+
+
+Saltrod (Norway), September 1, 1993
+
+    Yours,
+
+    Odd de Presno
+
+
+
+The Online World book's text on paper, disk and in any other 
+electronic form is (C) copyrighted 1993 by Odd de Presno. All 
+rights reserved worldwide. 
+
+
+INDEX
+=====
+
+PREFACE
+
+1. Going online will make me rich, right?
+   Knowledge is Power. A larger personal network gives you a stronger
+   punch. The value of information, and of having a great time. . .
+
+2. The online world
+   The structure and content of the online offerings. About
+   Bulletin Board systems, discussion lists, conferencing systems,
+   and online data bases. About packet data services, and network 
+   services like FidoNet, i-Com, Infonet, Internet, and others. 
+   A constantly changing environment.
+
+
+3. How to use online services
+   Short introduction. How to use menus, and how to navigate like 
+   an expert. Tailoring online services to your interests and needs.
+
+4. Hobbies, games, and fun
+   About computer programs, online adventure games, threatening viruses,
+   planning holidays, collecting coins and stamps, genealogy, music,
+   shopping and other leisure activities.
+
+5. Home, education, and work
+   Tips for house owners, for those more concerned about money, about
+   education and the exchange of knowledge, electronic conferences.
+   Building a personal network. Job hunting by modem, and about
+   working from home.
+
+6. Your personal healthnet
+   About support for diseases like AIDS, cancer, and kidney diseases.
+   Forums for people with physical or mental disabilities, like
+   hearing impairments, learning disabilities, vision impairment, 
+   mobility problems.
+
+7. Electronic mail, telex, and fax
+   How to communicate globally at a ridiculously low cost, with
+   notes about how to address your global electronic mail. 
+
+8. Free expert assistance
+   How to get free advice about your computer, software and
+   other things.
+
+9. Your electronic daily news
+   Read national and global news before getting it through the 
+   traditional media. Get those interesting background facts. 
+   Read special interest news that the media never bother to print.
+
+10. Looking for a needle in a bottle of hay
+    Notes about searching data bases. How to locate interesting 
+    books and articles. 
+
+11. Getting an edge over your competitor 
+    Using the networks to manage projects. Monitor competitors, 
+    prospects, suppliers, markets, technologies, and trends. 
+    Marketing and sales by modem.
+
+12. Practical tips
+    How to get more out of the time spent online.
+
+13. Cheaper and better communications
+    Using packet data services or competing data 
+    transport services like Tymnet Outdial, Infonet,
+    Internet, PC Pursuit, and others.
+
+14. Keep what you find.
+    Build your local personal data base. Strategies for
+    locating interesting information. What separates good
+    from bad information.
+
+15. You pay little for a lot!
+    How to figure out costs. 
+
+16. Automatic communication
+    Get a lead on your competitors.
+    Avoid duplication of effort.
+    Reduce costs.
+    Reduce boring repetitive work.
+    No need to remember all the "tricks" of communications 
+    anymore. 
+
+17. Gazing into the future.
+    Thoughts about things to come.
+
+
+Appendices:
+
+1. List of selected online services
+2. How to get started
+   About your personal computer, modem and
+   communications program.
+3. Your first online trip
+   Getting started. Typical pitfalls and 
+   simple solutions. Down- and uploading.
+4. Explanation of some frequently used terms
+5. Books and articles for further reading
+6. International standard country codes
+7. About the author
+8. How to register
+
+
+Chapter 1: Going online will make me rich, right?
+=================================================
+
+The number of services is enormous. It takes time to find the 
+truly interesting stuff.
+- Knowledge is power.
+- A large personal network gives you a punch.
+- The value of information, and of having a good time.
+
+Knowledge is Power
+
+My wife has a rare and dangerous kidney disease. One day her doctor
+joined us on an online research session to look for experiences and 
+advice in other countries. 
+    We sat down in my office in Norway. I turned on my personal 
+computer and started a communications program. 
+    After some keypresses, we could hear the attached modem dial 
+the number of CompuServe, a North American information utility. (A 
+modem is a piece of equipment that converts computer signals to and 
+from sound codes, so that data can be sent by phone.) 
+    It took just a few seconds to make the connection. Soon, a 
+greeting scrolled over our screen, followed by a menu of available 
+choices. 
+
+    For an introduction to practical telecommunications, check out 
+    appendix 2 and 3. Appendix 1 lists major services mentioned in 
+    this book. 
+
+We selected "Health" and the "Data Base for Rare diseases." This 
+gave the address of an American foundation for "cysts in kidneys," 
+which is the name of her disease. My wife made contact, and has 
+since received regular reports of research results and experiences 
+gained in the field.
+    We sent an open request for help to an electronic forum for 
+doctors. The result was several useful responses. We searched a 
+magazine data base for medical articles containing the key word 
+"kidney." Paper copies of the most interesting finds arrived by 
+mail after a few days. My wife gave them to her hospital doctor as 
+background reading. 
+    Kenya Saikawa is paralyzed. He communicates with his PC and 
+modem using light key strokes and Morse code. Online communications 
+allows Kenya to be in regular contact with people outside the walls 
+of his Tokyo hospital. 
+    We met online in a "Handicap Club" on a computer center called 
+TWICS in Tokyo. He was there to exchange experiences with others 
+with disabilities. The club is a personal support group for those 
+in need of help. 
+    CompuServe's Cancer Forum has a similar function. "It's a 
+blessing that I can visit here 24 hours a day," one visitor said. 
+"When I'm unable to sleep at night, I often sit down by the PC to 
+read and write messages to others." 
+    The forum is like a family. The file library is full of 
+information about cancer. Members can just go in there and pick 
+up whatever they want to read. 
+    Dave Hughes from Old Colorado Springs, Colorado in the United 
+States has had a long career as a professional soldier. He has 
+fought in places like the Yalue river in Korea and Vietnam's 
+jungle. When he retired, he became a political online force. 
+    "I'm using the new tools of the individual mind to change the 
+world," he says. Native American Indians are among those, who 
+have benefited from Dave's energy and knowledge. He has helped them 
+show their culture to the outside world in a graphical form. 
+    Vladimir Makarenkov from the Crimea in the Ukraine is manager 
+in a company called VINKO. In early 1993, he distributed an offer 
+of partnership with foreign companies through the mailing list E-
+EUROPE. VINKO is into aluminium processing. He wrote: 
+    "From our own production we can offer some one metals and 
+aniline dye for cotton, viscose, wool, silk, leather. We are 
+interested in deliveries of chemical production (gamma acid, H-
+acid) and not quickly deteriorating foods (food concentrates, 
+canned food etc)."
+    George Pavlov is Planning and Reporting manager at an American 
+computer manufacturer. Daily, he logs on to online services to 
+monitor industry product announcements and daily news from several 
+electronic sources. It helps him stay ahead of rapid technological 
+developments. 
+    Semafor A/S in Arendal, Norway, produces modems and other types 
+of telecommunications equipment. They operate an electronic bulletin 
+board for customers, users and prospects. Anybody can call in to 
+get information about products and offerings. If they need help, 
+they can leave a message to Semafor A/S day and night. A response 
+will be waiting for them, when they call back. 
+    Eduardo Salom heads Software Plus SA in Buenos Aires, 
+Argentina. He discovered the online world in 1988, and uses it to 
+find information that can help his company develop industrial 
+applications. 
+    The Norwegian civil engineer Kai Oestreng regularly calls 
+specialized online computer clubs to discuss his computational 
+needs, fetch programs and monitor developments. 
+    Mary Lou Rebelo was born in southern Brazil. Today, she is 
+married to a Japanese and lives in Tokyo. She teaches Portuguese 
+and works as a translator. The modem enables her to keep in touch 
+with others around the world interested in Portuguese and Spanish 
+language and culture. 
+    Mike Wright teaches at St. Andrew's College in Grahamstown, 
+South Africa. He integrates the online world in his teaching to 
+motivate his students. His classes are involved in international 
+projects with schools all over the globe. 
+    In August 1991, the "Old Stalinists" made a coup d'etat in the 
+Soviet Union. The news media were silenced, but they forgot the  
+country's many bulletin boards. Early one morning, a foreign caller 
+picked up the following messages from a Moscow BBS: 
+
+
+  From:    Valery Koulkov                         
+  To:      All                                    Msg #560, 00:42am 
+  20-Aug-91
+  Subject: Moscow, August 19, 23:00
+
+  Some news from the square news RSFSR white building, 23:00. Local 
+  inhabitants are very welcome for the people guarding 'white 
+  building', they carry food and some garments to the square. 
+  Approx. 8 tanks stand by the house under the RSFSR flags! There is 
+  an information that 'white house' is surrounded by the soldiers 
+  from Vysshee Desantnoye uchilische from Ryazan. The people are not 
+  so desperate than some hours ago. There are more and more people. 
+
+
+  From:    Stas Stas                              
+  To:      Alexey Zabrodin                        Msg #562, 02:53pm 
+  20-Aug-91
+  Subject: Russia In Agency news
+
+  I have sent two files RIA4.txt & ria5.txt
+  It's msgs of Russia Information Agency
+  Spread it as much as you can!!!
+
+
+  From:    Andrew Brown                           
+  To:      All                                    Msg #563, 06:31pm 
+  20-Aug-91
+  Subject: What's happening?
+
+  I am a journalist on the London Daily newspaper *The Independent*, 
+  and I am trying to discover whether this technology, like fax 
+  machines, is being used for independent communication now that the 
+  censors have clamped down on everything else. 
+
+  Can people describe what is happening, and what they see? 
+  Something similar was done on Compuserve during the Gulf War, by 
+  subscribers who where in Israel and were able to describe Scud 
+  missile attacks without censorship. 
+
+  Andrew Brown
+
+
+  Select: 564
+  From:    Valery Koulkov                         
+  To:      All                                    Msg #564, 00:52am 
+  21-Aug-91
+  Subject: Moscow events
+
+  There is shooting near the American embassy and RSFSR state 
+  building. Informer said (by phone) that he saw several victims 
+  (shot and killed under the tanks. there is fire near the RSFSR 
+  building. Moscow, August 21, 1:15 am 
+
+Telecommunications played a role in this historic event. While CNN 
+televised the coup, it was not the images, but the words of men 
+like Yeltsin that held sway for Russian citizens. 
+    Within hours of Yeltsin's statement in defiance of the coup 
+leaders, handbills reproducing his statement papered the walls of 
+the Moscow metro and Leningrad houses. 
+
+You can!
+
+Online communication is not just for the privileged or those with a 
+special interest in computers. It is for you, me, everybody.
+    There is much to learn in the "online land," and the medium is 
+fascinating. It makes learning fun. You can learn about how to use 
+your computer, about your profession, other people's views about 
+whatever, and more. Often, you will find reports about experiences 
+and know-how that it is hard or impractical to get in other ways. 
+    Some users go online to learn how to do things better. Teachers 
+want to give their students a better and more motivating learning 
+environment. Architects, engineers and companies want increased 
+competitiveness and sales. They seek timely information about 
+competitors, technologies and tools, partners and trends. 
+    You can take a Masters Degree in Business Administration while 
+sitting in front of your computer at home. You can join online 
+seminars arranged by local or foreign educational institutes. You 
+can even study at night, when the rest of your family has calmed 
+down. 
+    Some build their own educational programs supported by data 
+bases, online forums and associations of various kinds. 
+    You may feel helpless when in hospital, or when visiting your 
+doctor. Knowledge about your disease will make you better equipped 
+to handle the situation. The online resource is just keypresses 
+away, and knowledge is power. 
+    To get this power, you'll need to know what you can get from 
+the online world. This book is filled with examples of what is 
+available, and practical tips about how to use the offerings.
+
+A large personal network gives strength
+
+Most of us belong to one or several networks. They consist of 
+persons that you can call on whenever you need help. Your network 
+may be private, like in your family. You may be member of various 
+associations, or be part of a group of people with common interests 
+within a company or organization. 
+    The modem allows you to be part of more personal networks than 
+you can possibly cope with in the "real world." Besides, it's much 
+easier to develop personal networks in the online world. 
+   We have used words like "clubs" and "associations." By this we 
+mean groups of people interested in helping You and in participating 
+in what You happen to be interested in. 
+    Today's communications technology lets us participate in 
+networks in other countries at a very low cost. Many describe it as 
+participation "beyond time and space." 
+    Write a message and send it to a person in your network. It 
+arrives in his/her "mailbox" within minutes (sometimes seconds) 
+and stays there until the recipient wants to read it. This built-in 
+ability to send messages to other people's electronic mailboxes 
+reduces the power that time and geographical distances have over 
+our lives. 
+    A friend in a remote country gets out of bed nine hours after
+you, but keeps going well into what, for you, is the next morning. 
+No problem. You can send letters when you're awake and receive 
+replies when you're asleep. 
+    You can pick up and read your friend's messages the next day or 
+whenever you feel like doing it. That is how two people as far 
+apart as Arendal, Norway and Beijing, China could be involved in 
+the development of this book. 
+    Sometimes "real time" discussions are important. Consider the 
+following example. CompuServe has a Diabetes Forum. You can call 
+there any time, day or night, seven days a week. Whenever you feel 
+like it. You will always find someone to chat with who understands 
+and shares your problems. 
+    Real-time chatting may become expensive, but you are free to 
+decide your level of involvement. If you think that $10 spent is 
+enough, then just stop there. 
+
+What is the point?
+
+Thousands of commercial and noncommercial online services offer 
+over 5,000 online databases. These infobases are repositories of 
+electronic information. They contain full-text and reference books, 
+magazines, newspapers, radio and TV shows, reports, and more. 
+    In 1992, BiblioData (USA) found that around 4,000 titles (i.e., 
+magazines, newspapers, etc.) were available online in full-text. 
+You will find facts and figures about almost anything in the online 
+world. 
+    The world has over 100,000 public bulletin board systems 
+(1993). Most are small information centers, running on personal 
+computers using a simple computer program and modems. People call 
+in to read messages and information, retrieve free software, or 
+just to have a good time. 
+    Most BBSes are free. Some charge a small annual fee. The 
+largest board has 213 telephone lines, seven gigabytes of storage 
+for letters, conferences, computer programs, and more (1993). 
+    Mind you, 7 gigabytes is a lot. It is equivalent to more than 
+7,000,000,000 characters, or a whopping 12,000 copies of this 
+book!
+    The entrepreneur sees the online world as a new, profitable 
+playground. Many of them have made it their profession to search 
+for information for others, and they earn a good living doing so. 
+    Others advertise and sell products and services by modem. 
+Some set up their own online services to sell knowledge and know-
+how, be it of aqua culture, wine production, marketing, or about 
+the petroleum offshore market. 
+    In business, it pays to be one step ahead of the competition.
+Early warnings of customers' needs, competitors' moves, and 
+emerging opportunities can be turned into fortunes. It can reduce 
+potential losses and help develop businesses in more profitable 
+directions. 
+    Turn this to your advantage. Build your own early warning 
+system that monitors online information sources and networks. 
+
+Have fun 
+
+The online world has an abundance of joke clubs, dramatic adventure 
+games with multiple players, and large archives filled with computer 
+game software. You can transfer these programs to your personal 
+computer and be ready to play in minutes. 
+    Others may feel more entertained when things get "interesting." 
+Surely, those calling Moscow in August 1991 for news about the coup 
+must have had a strange sensation in the stomach. 
+    Some online users react quickly when dramatic events occur. 
+They go online to read the news directly from the wires, from 
+Associated Press, TASS, Reuters, Xinhua Press, Kyodo News and 
+others. 
+    Usually, the online news is coming directly to you from the 
+journalists' keyboards. Often, you heard it here first. 
+    Other people prefer to socialize. They meet in online "meeting 
+places" to debate everything from Africa and the administration of 
+kindergartens to poetry, LISP programming and compressed video for 
+multimedia applications. 
+    It has been claimed that increased use of online networking in 
+a country can effect social changes within politics, economics, 
+communication and science. It can support democratic tendencies, 
+the transition to a market economy, the formation and support of 
+businesses, the spreading of interpersonal and mass communication, 
+the forging of invisible colleges among scientists, and breaking-up 
+of traditional and closed information systems developed in some 
+societies. 
+    No matter whether your application is useful or just a pastime, 
+online services queue up to help give your life a better content. 
+    Some people fear that language might be a problem, and in 
+particular if English is not their first language. Don't worry. You 
+are in the driver's seat. If something is hard to understand, just 
+log off to study the difficult text. Take your time. Nobody is 
+watching. 
+    Will you being member of the online world make you rich? 
+Probably not. On the other hand, it most certainly provides the 
+opportunities to help you achieve such a goal, no matter how you 
+define the word "rich." 
+
+Chapter 2: The online world
+===========================
+
+This chapter is about the structure and contents of the online 
+world. You will read about Bulletin Board systems, discussion 
+lists, conferencing systems, online data bases, packet data 
+services, and network services like FidoNet, i-Com, Infonet, 
+and the Internet. 
+
+From papyrus to bits and bytes
+
+Around 1500 B.C., the world's first library was established in Tell 
+el Amaran, Egypt. Eight hundred years later, the first public 
+library opened in Athens, Greece. 
+    It took another two thousand years for the computer to be 
+invented. The first known mention of a possible future online 
+information service was printed in the Atlantic Monthly magazine in 
+1945. 
+    Nine years later, the Naval Ordinance Test Station opened their 
+online search service in California (U.S.A.) The first full-text 
+database came six years later. MEDLARS was a bibliographic database 
+containing references to medical literature. From now on, things 
+started to roll at a faster pace: 
+
+    * In 1972, DIALOG (U.S.A.) opened their Educational Resources 
+      Information Center and National Technical Information Service 
+      databases for online searching. (Appendix 1 contains infor-
+      mation about the major online services referred to in this
+      book.) 
+    * In 1974, Dow Jones News/Retrieval (U.S.A.) launched a 
+      financial information service for stock brokers. 
+    * In 1978, the first bulletin board was put into operation in 
+      Chicago (U.S.A.). 
+    * CompuServe (U.S.A.) launched a service for home users in 
+      1979. 
+
+The online world was born in the United States. Little happened in 
+the rest of the world until the late 1980s. American companies and 
+users still dominate, but they are no longer alone. 
+    Today, we can access over 5,000 public databases. They are 
+available from more than 500,000 online systems ("host computers") 
+all over the world. 
+    With so many online services, it is difficult to find our way 
+through the maze of offerings. This book therefore starts with a
+map of the online world. 
+
+The structure and contents of the online world
+
+The online world can be described as a cake with multiple layers, 
+where the information sources are the bottom layer. You - the user 
+- are the marzipan figure on the top. The online world contains the 
+following tiers: 
+
+   (1) Database producers and information providers
+   (2) Online service companies
+   (3) Gateways and networks
+   (4) The services 
+   (5) The user interface
+   (6) The data transport services
+   (7) The User.
+
+1. Database producers and information providers.
+
+I have a bulletin board system in Norway (at +47 370 31378). My BBS 
+is running on a small personal computer, and offers shareware and 
+public domain software. 
+    Anybody can call my board to have programs transferred to their 
+personal computers by modem (see appendix 2 for how to do this). 
+    When you call this BBS to "download" a free program for to your 
+computer's hard disk, don't expect to find one made by me. I don't
+write programs. All available programs have been written by others. 
+    When you call Data-Star in Switzerland, or CompuServe in the 
+U.S. to read news, you may find some stories authored by these 
+companies. Most of their news, however, are written by others. 
+    InfoPro Technologies delivers Russian scientific and technical 
+articles from "Referativnyi Zurnal" through online services like 
+Orbit, Pergamon and BRS. InfoPro is not the originator. The text 
+has been prepared by VINITI (the Institute for scientific and 
+technical information of the xUSSR). 
+    My BBS (the "Saltrod Horror Show"), Data-Star, NIFTY-Serve, 
+Orbit, Pergamon, BRS, and CompuServe are online services. We call 
+those who have provided the news and information on these services 
+for information providers or database producers. 
+    The American news agency Associated Press is an information 
+provider. They write the news, and sell them to online services 
+like Dialog, CompuServe, Nexis and NewsNet. These online services 
+let you read the news by modem.
+    The information providers sell the right to distribute their 
+news. Your news reading charges may be imbedded in the online 
+service's standard access rates. Some services will ask you to pay 
+a surcharge when reading news. 
+    Most subscribers pay US$12.80 per hour (1993) to use CompuServe 
+at 2400 bits per second (bps). At this speed, you typically receive 
+around 240 characters of news per second. If you access at higher 
+speeds, you will have to pay more. 
+    CompuServe pays Associated Press part of what they earn each 
+time you read their news. There is no surcharge for reading AP news 
+on this service. 
+    Others charge more. To read Mid-East Business Digest through 
+NewsNet, you pay a surcharge of US$72.00 per hour at 2400 bps 
+(1993). Scanning newsletter headlines and conducting keyword 
+searches are cheaper. You pay the the basic connect charge, which
+ is US$90.00 per hour at this speed. 
+    Thus, your total cost for reading Mid-East Business Digest 
+amounts to US$2.70 per minute. 
+    CompuServe's database service IQuest lets you search NewsNet 
+through a gateway to find and read the same articles. Here, reading 
+will only set you back US$21.50/hour (provided the articles are 
+among the first hits in your search). 
+    Many information providers also distribute information through 
+grassroots bulletin boards. The Newsbytes News Network and the USA 
+Today newsletter services (also in full text on Dialog and Nexis) 
+are two examples. 
+    The rates for reading the same article may therefore differ
+considerably depending on what online service you are using. If you 
+are a regular reader, shop around for the best price. 
+    Information providers may have subcontractors. The Ziff-Davis 
+service Computer Database Plus, a database with full-text articles 
+from magazines like Datamation and Wall Street Computer Review, 
+depends on them. 
+    Datamation pays journalists to write the articles. Ziff-Davis 
+pays Datamation for the right to distribute the articles to 
+CompuServe's subscribers. CompuServe pays Ziff-Davis part of what 
+you pay when reading the text. 
+
+
+2. Online services
+
+The term "online services" refers to information services  provided 
+by computer systems, large or small, to owners of personal 
+computers with modems. 
+    What is offered, differ by system. It may include access to 
+libraries of programs and data, electronic mail, online shopping 
+malls, discussion forums, hardware and software vendor support, 
+games and entertainment, financial data, stock market quotes, and 
+research capabilities.                       
+    You do not always need a phone and a modem when "dialing up." 
+Some services can be accessed through leased phone lines, amateur 
+radio, or other methods. 
+    Check out appendix 1 for a list of major services mentioned in 
+this book, with addresses, phone numbers, and a short description.
+    CompuServe (U.S.A.), Twics (Japan), and Orbit (England) are 
+commercial. They charge you for using their services.
+    Some online services are priced like magazines and newspapers 
+with a flat subscription rate for basic services. You can use this 
+part of a service as much as you like within a given period. GEnie, 
+CompuServe, BIX, America Online, and Delphi are among those 
+offering such pricing options. 
+    Other online services charge for 'connect time'. They have a 
+rate per hour or minute. 
+    MCI Mail uses "no cure, no pay." You only pay to send or read 
+mail. To check for unread letters in your mailbox is free. 
+    There are all kinds of creative pricing schemes. Some services 
+have different rates for access during the day, night and weekends. 
+Others have different rates for users living far away. Sometimes 
+the remote subscriber pays more, in other cases less than ordinary 
+subscribers. 
+    Still, most online services are free. This is particularly true 
+for the over hundred thousand bulletin board systems around the 
+world. The owners of these services often regard them as a hobby, a 
+public service, a necessary marketing expense, or do it for other 
+reasons. 
+    The cost of setting up and operating a bulletin board system 
+is low. Consequently, the BBS systems are as varied as the people 
+who run them. Each BBS has its own character. 
+    My BBS is also free. I consider it an online appendix to this 
+book and the articles I write. 
+    National Geographic BBS in Washington, D.C., U.S.A. (tel.: +1-
+202-775-6738) is run by the magazine of the same name. This board 
+is also free. They regard it as a part of their marketing strategy. 
+It provides them with input to the editors, and it is an easy way 
+of maintaining contacts with schools. 
+    Semaforum BBS in Norway is run by a company. Its purpose is 
+customer support and to give information to prospective customers. 
+The cost is a marketing expense.
+    Some large, international online services on the Internet, 
+BITNET, and UUCP are almost free. They address research and 
+educational institutions and are financed by public funds. These 
+services are now being made available to other users at very 
+moderate rates. 
+    Some users fear that using online services will increase their 
+telephone costs dramatically, and especially when using services in 
+other countries. This is often unjustified. Read chapter 13 and 15 
+for tips about how to keep your communications costs down. 
+
+3. Gateways and networks
+
+CompuServe users select the Computer Database Plus from a menu. 
+This prompts CompuServe to dial another online service and lets you 
+use this, as if you were still using CompuServe. You hardly notice 
+the difference. You are using Computer Database Plus through a 
+gateway. 
+    CompuServe users searching the IQuest databases get the 
+following welcome message: 
+
+      One moment please...
+
+      Connected to 19EASYN
+
+            Welcome to IQuest
+
+      (c) 1991 Telebase Systems, Inc.
+         U.S. Patent No. 4,774,655
+
+Through another gateway, CompuServe connects you to the online 
+service Telebase Systems, Inc. Telebase lets you go through other 
+gateways to search in databases on online services like BRS, 
+MEDLINE and NewsNet. 
+    While searching, you may get similar progress reports: 
+
+            Dialing BRS
+            Connect BRS
+            Scanning .... Please wait
+            Dialing Medline
+            Connect Medline
+            Scanning .... Please wait
+
+All the time, your modem is connected to CompuServe. You are 
+mentally using IQuest and not other online services. Technically, 
+you are going through various gateways to reach the information 
+libraries. You pay CompuServe for the privilege. In turn, they pay 
+a fee to Telebase, and others. 
+    You can read The New York Times on Down Jones News/Retrieval 
+through gateways from MCI Mail and GEnie. 
+    Accessing information through a gateway is often simpler than 
+logging on to several online systems. Calling several systems 
+often costs more, and it certainly takes time. 
+    Users of BBSes connected to RelayNet or FidoNet can join in 
+global discussions. Participants in other countries also call their 
+favorite local systems. To the individual user, it looks as if they 
+all use the same bulletin board system. 
+    The networks that tie these boards together regularly send new 
+discussion items to the other participating boards. Write "This is 
+not correct!" in a distributed conference on a Norwegian FidoNet 
+BBS, and others may soon read your line on San Bernardino BBS in 
+Colton (Canada), Wonderland Board in Macau or the HighTech BBS in 
+Sidney (Australia). 
+    SciLink (Canada) administers a network for distribution of 
+conferences between systems using the Caucus software system. 
+Participants in Tokyo, Toronto and San Francisco can discuss as 
+if they were all logged on to the same online service. 
+    The main purpose may not be to make it simpler or cheaper 
+for the user. One typical motive is to reduce an online service's 
+own communications costs. 
+    KIDLINK is a global project for children between 10 - 15 years 
+of age. It allows kids to discuss through a system of electronic 
+mail.
