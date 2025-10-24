@@ -1,0 +1,2034 @@
+PREFACE
+
+
+This book contains little that is not tolerably well known both to
+Shakespeare scholars and musicians who have any acquaintance with the
+history of music. It is hoped that it may be of some use to a large
+class of students of Shakespeare who have no opportunity to gather up
+the general information which will be found here. The author also
+ventures to believe that some brother musicians will be gratified to
+see at one view what a liberal treatment the great Poet has given to
+our noble art. It will be observed that settings of Shakespearian
+Songs of a later date than the generation immediately succeeding
+Shakespeare's death are not noticed. The large number of settings of
+the 18th century, by such men as Arne, though interesting musically,
+have nothing whatever to do with the student of Shakespeare and the
+circumstances of his time. It can only be regretted that so much of
+the original music seems to have perished.
+
+The author is greatly indebted to Mr Aldis Wright, who has kindly
+looked through the work in MS., and contributed one or two interesting
+notes, which are acknowledged in the proper place.
+
+LONDON, _March 1896_.
+
+
+
+
+CONTENTS
+
+
+                                     PAGE
+
+DESCRIPTION OF FRONTISPIECE            ix
+
+INTRODUCTORY                            1
+
+TECHNICAL TERMS AND INSTRUMENTS        21
+
+MUSICAL EDUCATION                      58
+
+SONGS AND SINGING                      65
+
+SERENADES AND 'MUSIC'                  96
+
+DANCES AND DANCING                    113
+
+PYTHAGOREANISM, etc.                  152
+
+USE OF MUSICAL STAGE DIRECTIONS       165
+
+APPENDIX                              185
+
+
+
+
+DESCRIPTION OF FRONTISPIECE
+
+
+[Illustration]
+
+[I am indebted for the arrangement of this picture to the kindness of
+the authorities at South Kensington Museum, where all these
+instruments may be found, except the Pipe and Cornet, which belong to
+my friend, Mr W.F.H. Blandford.]
+
+
+_In the middle, on table._
+
+QUEEN ELIZABETH'S 'VIRGINAL.' Date, latter half of 16th century.
+Outside of case (not visible in picture) covered with red velvet.
+Inside finely decorated. Has three locks. Is more properly a Spinet,
+the case not being square, but of the usual Spinet shape--viz., one
+long side (front view), and four shorter ones forming a rough
+semi-circle at back.
+
+
+_Top row, counting from the right._
+
+1. TABOR-PIPE. Modern, but similar to the Elizabethan instrument.
+French name, 'galoubet.' Merely a whistle, cylindrical bore, and 3
+holes, two in front, one (for thumb) behind. The scale is produced on
+the basis of the 1st harmonic--thus 3 holes are sufficient. It was
+played with left hand only, the tabor being hung to the left wrist,
+and beaten with a stick in the right hand. Length _over all_ of pipe
+in picture, 1 ft. 2-1/2 in.; speaking length, 1 ft. 1-1/8 in.; lowest
+note in use, B flat above treble staff. Mersennus (1648), however,
+says the tabor-pipe was in G, which makes it larger than the one in
+the picture. A contemporary woodcut (in Calmour's 'Fact and Fiction
+about Shakespeare') of William Kemp, one of Shakespeare's
+fellow-actors, dancing the Morris, to tabor and pipe, makes the pipe
+as long as from mouth to waist--viz., about 18 inches, which agrees
+with Mersennus. A similar woodcut in 'Orchésographie' makes the pipe
+even longer. Both represent pipe as conical, like oboe. The length of
+the tabor, in these two woodcuts, seems to be about 1 ft. 9 in., and
+the breadth, across the head, 9 or 10 in. No snare in the English
+woodcut, but the French one has a snare.
+
+2. CORNET (treble), date 16th or 17th century. Tube slightly curved,
+external shape octagonal, bore conical. Cupped mouthpiece of horn, 6
+holes, and one behind for thumb. Lowest note, A under treble staff.
+
+3. RECORDER. Large beak-flute of dark wood. Three joints, not
+including beak. The beak has a hole at the back, covered with a thin
+skin, which vibrates and gives a slight reediness to the tone. The
+usual 6 finger holes in front, a thumb hole behind, and a
+right-or-left little-finger hole in lowest joint.
+
+4. SMALL FRENCH TREBLE VIOL, 17th century. _Back view_, same shape as
+of all other viols of whatever size. 6 strings, 4 frets.
+
+5. TREBLE VIOL, as used in England and Italy; label inside--Andreas
+(?) Amati, Cremona, 1637. _Side view_, shews carved head and flat
+back. 6 strings, 4 frets, ivory nut.
+
+6. TENOR VIOL. English, late 17th century. _Front view_, shewing
+sloping shoulders. 6 strings, 7 frets, plain head.
+
+7. VIOL DA GAMBA BOW. Ancient shape. No screw. This shape in use later
+than 1756.
+
+8. VIOLONCELLO BOW. Modern shape, with screw.
+
+
+_Bottom row, counting from left._
+
+1. BASS VIOL, or VIOL DA GAMBA, or DIVISION VIOL. Italian, 1600.
+Carved head, inlaid fingerboard, carved and inlaid tailpiece. 6
+strings, 7 frets.
+
+2. LUTE. Italian, 1580. Three plain holes in belly, obliquely.
+Ornamental back. Flat head. Pegs turned with key from behind. 12
+strings--viz., 1 single (treble), 4 doubles, 1 single, and 2 singles
+off the fingerboard (basses). 10 frets.
+
+3. ARCH LUTE. Italian, 17th century. 18 strings, 8 on lower neck, 10
+on higher, off the fingerboard. The latter are 'basses,' and probably
+half of them duplicates. 7 frets on neck, 5 more on belly.
+
+
+
+
+INTRODUCTORY
+
+
+A principal character of the works of a very great author is, that in
+them each man can find that for which he seeks, and in a form which
+includes his own view.
+
+With Shakespeare, as one of the greatest of the great, this is
+pre-eminently the case. One reader looks for simply dramatic interest,
+another for natural philosophy, and a third for morals, and each is
+more than satisfied with the treatment of his own special subject.
+
+It is scarcely a matter of surprise, therefore, that the musical
+student should look in Shakespeare for music, and find it treated of
+from several points of view, completely and accurately.
+
+This is the more satisfactory, as no subject in literature has been
+treated with greater scorn for accuracy, or general lack of real
+interest, than this of music.
+
+This statement will admit of comparatively few exceptions, one of
+which must here be mentioned.
+
+The author of "John Inglesant," Mr Shorthouse, whether he "crammed"
+his music or not, has in that book given a lively and quite accurate
+picture of the art as practised about Charles I.'s time.
+
+There is no need here to name the many well-known writers who have
+spoken of music with a lofty disregard for facts and parade of
+ignorance which, displayed in any other matter, would have brought on
+them the just contempt of any reviewer.
+
+The student of music in Shakespeare is bound to view the subject in
+two different ways, the first purely historical, the second (so to
+speak) psychological.
+
+As for the first, the most superficial comparison of the plays alone,
+with the records of the practice and social position of the musical
+art in Elizabethan times, shews that Shakespeare is in every way a
+trustworthy guide in these matters; while, as for the second view,
+there are many most interesting passages which treat of music from the
+emotional standpoint, and which clearly shew his thorough personal
+appreciation of its higher and more spiritual qualities.
+
+Hamlet tells us, and we believe, often without clearly understanding,
+that players are _the abstracts and brief chronicles of the time_, and
+that the end of playing, both at the first and now, was, and is, to
+hold the mirror up to nature, and _to shew the very age and body of
+the time, his form and pressure_.
+
+The study of this one feature of the "age and body" of Shakespeare's
+time, with the view of clearly grasping the extreme accuracy of the
+"abstract and brief chronicle" to be found in his works, will surely
+go some way to give definiteness and force to our ideas of
+Shakespeare's magnificent grip of all other phases of thought and of
+action.
+
+The argument recommends itself--"If he is trustworthy in this subject,
+he is trustworthy in all."
+
+To a professional reader at all events, it argues very much indeed in
+a writer's favour, that the "layman" has managed to write the simplest
+sentence about a specialty, without some more or less serious blunder.
+
+Finally, no Shakespeare student will deny that some general help is
+necessary, when Schmidt's admirable Lexicon commits itself to such a
+misleading statement as that a virginal is a kind of small pianoforte,
+and when a very distinguished Shakespeare scholar has allowed a
+definition of a viol as a six-stringed guitar to appear in print under
+his name.
+
+Out of thirty-seven plays of Shakespeare, there are no less than
+thirty-two which contain interesting references to music and musical
+matters _in the text itself_. There are also over three hundred stage
+directions which are musical in their nature, and these occur in
+thirty-six out of thirty-seven plays.
+
+The musical references in the text are most commonly found in the
+comedies, and are generally the occasion or instrument of
+word-quibbling and witticisms; while the musical stage directions
+belong chiefly to the tragedies, and are mostly of a military nature.
+
+As it is indispensable that the student of Shakespeare and Music
+should have a clear idea of the social status and influence of music
+in Shakespearian times, here follows a short sketch of the history of
+this subject, which the reader is requested to peruse with the
+deliberate object of finding every detail confirmed in Shakespeare's
+works.
+
+
+MUSIC IN SOCIAL LIFE.
+
+(_Temp., 16th and 17th centuries._)
+
+Morley, "Plain and Easy Introduction to Practical Music," 1597, pp. 1
+and 2. Here we read of a dinner-party, or "banket," at which the
+conversation was entirely about music. Also--after supper--_according
+to custom_--"parts" were handed round by the hostess. Philomathes has
+to make many excuses as to his vocal inability, and finally is obliged
+to confess that he cannot sing at all. At this the rest of the company
+"wonder"--and some whisper to their neighbours, "How was he brought
+up?" Phil. is ashamed--and goes to seek Gnorimus the music-master. The
+master is surprised to see him--as Phil. has heretofore distinguished
+himself by inveighing against music as a "corrupter of good manners,
+and an allurement to vices." Phil.'s experience of the supper-party
+has so far changed his views that he wishes as soon as may be to
+change his character of Stoic for that of Pythagorean. Thereupon the
+master begins to teach him from the very beginning, "as though he were
+a child."
+
+Then follows a long lesson--which is brought to an end by Philomathes
+giving farewell to the master as thus--"Sir, I thanke you, and meane
+so diligently to practise till our next meeting, that then I thinke I
+shall be able to render you a full account of all which you have told
+me, till the which time I wish you such contentment of mind and ease
+of body as you desire to yourselfe (Master's health had been very bad
+for long enough) or mothers use to wish to their children." The Master
+replies--"I thanke you: and assure your selfe it will not be the
+smallest part of my contentment to see my schollers go towardly
+forward in their studies, which I doubt not but you will doe, if you
+take but reasonable pains in practise."
+
+Later on in the Third Part (p. 136) Phil.'s brother Polymathes comes
+with him to Gnorimus for a lesson in Descant--_i.e._, the art of
+extemporaneously adding a part to the written plainsong.[1] This
+brother had had lessons formerly from a master who carried a plainsong
+book in his pocket, and caused him to do the like; "and so walking in
+the fields, hee would sing the plaine song, and cause me to sing the
+descant, etc." Polymathes tells us also that his master had a friend,
+a descanter himself, who used often to drop in--but "never came in my
+maister's companie ... but they fell to contention.... What? (saith
+the one), you keepe not time in your proportions: you sing them false
+(saith the other), what proportion is this? (saith hee),
+sesqui-_paltery_ (saith the other): nay (would the other say), you
+sing you know not what, it shoulde seeme you came latelie from a
+Barber's shop, where you had _Gregory Walker_ (derisive name for
+'quadrant pavan,' 'which was most common 'mongst the Barbars and
+Fidlers') or a _curranta_ plaide in the new proportions by them lately
+found out, called sesqui-_blinda_, and sesqui-_harken-after_."
+
+[Footnote 1: See Appendix.]
+
+[These mocking terms, sesqui-_paltery_, sesqui-_blinda_, and
+sesqui-_harken-after_, are perversions of names of "proportions" used
+in the 16th century--as, sesqui-_altera_ (3 equal notes against 2).]
+
+We find, on p. 208, that both Philomathes and Polymathes are young
+University gentlemen--looking forward hereafter to be "admitted to the
+handling of the weightie affaires of the common wealth."
+
+The lessons end with their request to the master to give them "some
+songes which may serve both to direct us in our compositions, and by
+singing them recreate us after our more serious studies."
+
+Thus we find that in Elizabeth's reign it was the "custom" for a
+lady's guests to sing unaccompanied music from "parts," after supper;
+and that inability to take "a part" was liable to remark from the rest
+of the company, and indeed that such inability cast doubt on the
+person having any title to education at all.
+
+We find that one music master was accustomed to have his gentleman
+pupils so constantly "in his company" that they would practise their
+singing while "walking in the fields."
+
+Finally--that part-singing from written notes, and also the extempore
+singing of a second part (descant) to a written plainsong, was a
+diversion of such young University gentlemen, and was looked on as a
+proper form of recreation after hard reading.
+
+In the 16th century music was considered an _essential_ part of a
+clergyman's education. A letter from Sir John Harrington to Prince
+Henry (brother of Charles I.) about Dr John Still, Bishop of Bath and
+Wells in 1592, says that no one "could be admitted to _primam
+tonsuram_, except he could first _bene le bene con bene can_, as they
+called it, which is to read well, to conster [construe] well, and to
+_sing well_, in which last he hath good judgment." [The three _bene's_
+are of course _le-gere, con-struere, can-tare_.]
+
+Also, according to Hawkins (History of Music, p. 367), the statutes of
+Trinity College, Cambridge, founded by Henry VIII., make part of the
+Examination of Candidates for Fellowships to be in "Quid in Cantando
+possint"; indeed, _all members were supposed capable of singing a part
+in choir service_.[2]
+
+[Footnote 2: This statement of Hawkins' seems a little exaggerated. Mr
+Aldis Wright tells me that the statutes provided for an examination in
+singing for Candidates for Fellowships, and that ability gave a
+candidate an advantage, in case of equality. Singing was not required
+of all candidates, but the subject was considered on the fourth day of
+the examination, along with the essay and verse composition.]
+
+(Long before this, in 1463, Thomas Saintwix, _doctor in music_, was
+elected Master of King's College, Cambridge.)
+
+Accordingly, we find Henry VIII., who, as a younger brother, was
+intended for the Church, and eventually for the See of Canterbury, was
+a good practical musician. Erasmus says he composed offices for the
+church. An anthem, "O Lord, the maker of all things," is ascribed to
+him; and Hawkins gives a motet in three parts by the king, "Quam
+pulchra es."
+
+Chappell's Old English Popular Music gives a passage from a letter of
+Pasqualigo the Ambassador-extraordinary, dated about 1515, which says
+that Henry VIII. "plays well on the lute and virginals, sings from
+book at sight," etc. Also in Vol. I. are given two part-songs by the
+king, 'Pastyme with good companye' and 'Wherto shuld I expresse.'
+
+A somewhat unclerical amusement of Henry VIII.'s is related by Sir
+John Harrington (temp. James I.). An old monkish rhyme, "The Blacke
+Saunctus, or Monkes Hymn to Saunte Satane," was set to music in a
+canon of three parts by Harrington's father (who had married a natural
+daughter of Henry VIII.); and King Henry was used "in pleasaunt moode
+to sing it." For the music and words, see Hawkins, pp. 921 and 922.
+
+Anne Boleyn was an enthusiastic musician, and, according to Hawkins,
+"doted on the compositions of Jusquin and Mouton, and had collections
+of them made for the private practice of herself and her maiden
+companions."
+
+It appears from the Diary of King Edward VI. that he was a musician,
+as he mentions playing on the lute before the French Ambassador as one
+of the several accomplishments which he displayed before that
+gentleman, July 19th, 1551.
+
+There is also a letter from Queen Catherine (of Arragon), the mother
+of Queen Mary, in which she exhorts her "to use her virginals and
+lute, if she has any."
+
+As for Elizabeth, there is abundant evidence that she was a good
+virginal player.
+
+The best known MS. collection of virginal music (that in the
+Fitzwilliam Museum at Cambridge) has at least always been known as
+Queen Elizabeth's Virginal Book, and the following quaint story is
+quoted by Hawkins from Melvil's Memoirs (Lond. 1752).
+
+"The same day, after dinner, my Lord of Hunsdean drew me up to a quiet
+gallery that I might hear some music (but he said he durst not avow
+it), where I might hear the queen play upon the virginals. After I had
+hearkened a while I took by [aside] the tapestry that hung before the
+door of the chamber, and stood a pretty space, hearing her play
+excellently well; but she left off immediately so soon as she turned
+her about and saw me. She appeared to be surprised to see me, and came
+forward, seeming to strike me with her hand, alledging she was not
+used to play before men, but when she was solitary to shun
+melancholy." [Queen Elizabeth's Virginal is in South Kensington
+Museum.]
+
+To go on with the Royal musicians (who are interesting as such,
+because their habit _must have set the fashion of the day_), in James
+I.'s reign we find that Prince Charles learnt the Viol da Gamba from
+Coperario (_i.e._, John Cooper). Also Playford (temp. Charles II.)
+says of Charles I. that the king "often appointed the service and
+anthems himself" in the Royal Chapel; "and would play his part exactly
+well on the bass-violl,"--_i.e._, the viol da gamba.
+
+George Herbert, who was by birth a courtier, found in music "his
+chiefest recreation," "and did himself compose many divine hymns and
+anthems, which he set and sung to his lute or viol.... His love to
+music was such, that he went usually twice every week ... to the
+cathedral church in Salisbury; and at his return would say that his
+time spent in prayer and cathedral music elevated his soul, and was
+his heaven upon earth." But not only was the poet-priest a lover of
+church music, for (Walton's Life goes on) "before his return thence to
+Bemerton, he would usually _sing and play his part at an appointed
+private music meeting_." This was fourteen years after Shakespeare's
+death.
+
+Anthony Wood, who was at Oxford University in 1651, gives a most
+interesting account of the practice of chamber music for viols (and
+even violins, which, by Charles II.'s time, had superseded the feebler
+viols) in Oxford. In his Life, he mentions that "the gentlemen in
+privat meetings, which A.W. frequented, play'd three, four, and five
+Parts with Viols, as, Treble-Viol, Tenor, Counter-Tenor, and Bass,
+with an Organ, Virginal, or Harpsicon joyn'd with them: and they
+esteemed a Violin to be an Instrument only belonging to a common
+Fidler, and could not endure that it should come among them, for feare
+of making their Meetings to be vaine and fidling." Wood went to a
+_weekly meeting_ of musicians in Oxford. Amongst those whom he names
+as "performing their parts" are four Fellows of New College, a Fellow
+of All Souls, who was "an admirable Lutenist," "Ralph Sheldon, Gent.,
+a Rom. Catholick ... living in Halywell neare Oxon., admired for his
+smooth and admirable way in playing on the Viol," and a Master of Arts
+of Magdalen, who had a weekly meeting at his own college. Besides the
+amateurs, there were eight or nine professional musicians who
+frequented these meetings. This was in 1656, and in 1658 Wood gives
+the names of over sixteen other persons, with whom he used to play and
+sing, all of whom were Fellows of Colleges, Masters of Arts, or at
+least members of the University. Amongst them was "Thom. Ken of New
+Coll., a Junior" (afterwards Bishop Ken, one of the seven bishops who
+were deprived at the Revolution), who could "sing his part." All the
+rest played either viol, violin, organ, virginals, or harpsichord, or
+were "songsters."
+
+"These did frequent the Weekly Meetings, and _by the help of public
+Masters of Musick_, who were mixed with them, they were much
+improved."
+
+There seems to have been little that was not pure enjoyment in these
+meetings. Only two persons out of the thirty-two mentioned seem to
+have had any undesirable quality--viz., Mr Low, organist of Christ
+Church, who was "a _proud_ man," and "could not endure any common
+Musitian to come to the meeting;" and "Nathan. Crew, M.A., Fellow of
+Linc. Coll., a Violinist and Violist, _but alwaies played out of
+Tune_." This last gentleman was afterwards Bishop of Durham.
+
+Thus we find that in the 16th and 17th centuries a practical
+acquaintance with music was a regular part of the education of both
+sovereign, gentlemen of rank, and the higher middle class.
+
+We find Henry VIII. composing church music, and at the same time
+enjoying himself singing in the three-part canon composed by his
+friend, a gentleman of rank.
+
+We find that a Fellow of Trinity at the same time was expected to
+sing "his part" in chapel as a matter of course. We find Edward VI.,
+Mary, and Elizabeth to have all been capable players on lute or
+virginals. We find that it was the merest qualification that an
+Elizabethan bishop should be able to sing well; and that young
+University gentlemen of birth thought it nothing out of the way to
+learn all the mysteries of both prick-song (a _written_ part) and
+descant (an _extempore_ counterpoint), and to solace their weary hours
+by singing "in parts."
+
+Immediately after Shakespeare's time, we find a courtier of James I.,
+and the ill-fated Prince Charles himself, both enthusiasts in both
+church and chamber music; and lastly, two years after the Regicide, we
+find the University of Oxford to have been a perfect hotbed of musical
+cultivation. Men who afterwards became Bishops, Archdeacons,
+Prebendaries, besides sixteen Fellows of Colleges, and sundry
+gentlemen of family, were not ashamed to practise chamber music and
+singing to an extent which really has no parallel whatever nowadays.
+
+There is plenty of evidence, though more indirect in kind, that the
+lower classes were as enthusiastic about music as the higher. A large
+number of passages in contemporary authors shows clearly that singing
+in parts (especially of "catches") was a common amusement with
+blacksmiths, colliers, cloth-workers, cobblers, tinkers, watchmen,
+country parsons, and soldiers.
+
+In _Damon and Pithias_, 1565, Grimme, the _collier_, sings "a bussing
+[buzzing] base," and two of his friends, Jack and Will, "quiddel upon
+it," _i.e._, they sing the tune and words, while he buzzes the burden.
+
+Peele's _Old Wives Tale_, 1595, says, "This _smith_ leads a life as
+merry as a king; Sirrah Frolic, I am sure you are not without some
+_round_ or other; no doubt but Clunch [the smith] can _bear his
+part_."
+
+Beaumont and Fletcher's _Coxcomb_ has
+
+     "Where were the _watch_ the while? good sober gentlemen,
+     They were, like careful members of the city,
+     Drawing in diligent ale, and _singing catches_."
+
+Also in B. and F.'s _Faithful Friends_--
+
+     "_Bell._--Shall's have a _catch_, my hearts?
+
+     _Calve._--Aye, good lieutenant.
+
+     _Black._--Methinks a _soldier_[3] should sing nothing else;
+     _catch, that catch may_ is all our life, you know."
+
+[Footnote 3: Drayton (James I.'s reign) in his "Battle of Agincourt,"
+l. 1199, has--"The common Souldiers free-mens _catches_ sing"--of the
+French before the battle (_free_men is a corruption of _three_men).]
+
+[In _Bonduca_, a play of B. and F's., altered for operatic setting by
+Purcell in 1695, there is a catch in three parts, sung by the Roman
+soldiers.]
+
+In Sir William Davenant's (Davenant flourished 1635) comedy _The
+Wits_, Snore, one of the characters, says--
+
+     "It must be late, for gossip Nock, the _nailman_,
+     Had catechized his maids, and _sung three catches
+     And a song_, ere we set forth."
+
+Samuel Harsnet, in his _Declaration of Egregious Impostures_, 1603,
+mentions a 'merry catch,' 'Now God be with old Simeon' (for which see
+Rimbault's Rounds, Canons, and Catches of England), which he says was
+sung by _tinkers_ 'as they sit by the fire, with a pot of good ale
+between their legs.'
+
+And in _The Merry Devill of Edmonton_, 1631, there is a comical story
+of how Smug _the miller_ was _singing a catch_ with the _merry Parson_
+in an alehouse, and how they 'tost' the words "_I'll ty my mare in thy
+ground_," 'so long to and fro,' that Smug forgot he was singing a
+catch, and began to quarrel with the Parson, 'thinking verily, he had
+meant (as he said in his song) to _ty his mare in his ground_.'
+
+Finally, in _Pammelia_, a collection of Rounds and Catches of 3, 4,
+5, 6, 7, 8, 9, and 10 parts, edited by Thomas Ravenscroft, and
+published in 1609, there is a curious preface, which states that
+'Catches are so _generally affected_ ... because they are so consonant
+to _all ordinary musical capacity_, being such, indeed, as all such
+_whose love of musick exceeds their skill_, cannot but commend.' The
+preface further asserts that the book is 'published only _to please
+good company_.'
+
+To go on to _instrumental_ music among the lower classes of
+Elizabethan and Shakespearian times; there is an allusion in the above
+quoted passage from Morley (1597) to the habit of playing on an
+instrument in a barber's shop while waiting one's turn to be shaved.
+This is also referred to in Ben Jonson's _Alchemist_ and _Silent
+Woman_. In the latter play, Cutberd the barber has recommended a wife
+to Morose. Morose finds that instead of a mute helpmate he has got one
+who had 'a tongue with a tang,' and exclaims 'that cursed _barber_! I
+have married his _cittern_ that is common to all men': meaning that as
+the barber's cittern was always being played, so his wife was always
+talking.
+
+There is a poem of the 18th century which speaks of the old times,
+
+     'In former time 't hath been upbrayded thus,
+     That _barber's musick_ was most _barbarous_.'
+
+However true that may have been--at all events it is certain that in
+the 16th and 17th centuries it was customary to hear instrumental
+music in a barber's shop, generally of a cittern, which had four
+strings and frets, like a guitar, and was thought a vulgar
+instrument.[4]
+
+[Footnote 4: The Cittern of the barber's shop had four double strings
+of wire, tuned thus--1st, E in 4th space of treble staff; 2nd, D a
+tone lower; 3rd, G on 2nd line; 4th, B on 3rd line. The instrument had
+a carved head. See _L.L.L._ V. ii., lines 600-603, of Holofernes'
+head. Also the frontispiece, where the treble viol and viol-da-gamba
+have carved heads, both human, but of different types. Fantastic
+heads, as of dragons or gargoyles, were often put on these
+instruments.]
+
+Another use of instrumental music was to entertain the guests in a
+tavern. A pamphlet called _The Actor's Remonstrance_, printed 1643,
+speaks of the _decay_ of music in taverns, which followed the closing
+of theatres in 1642, as follows:--"Our music, that was held so
+delectable and precious [_i.e._, in Shakespeare's times], that _they
+scorned to come to a tavern under twenty shillings_ salary _for two
+hours_, now wander [_i.e._, 1643] with their instruments under their
+cloaks--I mean, such as have any--into all houses of good fellowship,
+saluting every room where there is company with, 'Will you have any
+music, gentlemen?'"
+
+Finally, in Gosson's "Short Apologie of the Schoole of Abuse," 1587,
+we find that "London is so full of unprofitable pipers and fiddlers,
+that a man can no sooner enter a tavern, than two or three cast of
+them hang at his heels, to give him a dance before he depart." These
+men sang ballads and catches as well. Also they played during dinner.
+Lyly says--"Thou need no more send for a fidler to a feast, than a
+beggar to a fair."
+
+All this leads to the just conclusion, that if ever a country deserved
+to be called 'musical,' that country was England, in the 16th and 17th
+centuries. King and courtier, peasant and ploughman, each could 'take
+his part,' with each music was a part of his daily life; while so far
+from being above knowing the difference between a minim and a
+crotchet, a gentleman would have been ashamed not to know it.
+
+In this respect, at any rate, the 'good old days' were indeed better
+than those that we now see. Even a _public-house song_ in Elizabeth's
+day was a canon in three parts, a thing which could only be managed
+'first time through' nowadays by the very first rank of professional
+singers.
+
+
+
+
+SHAKESPEARE PASSAGES
+
+
+
+
+I
+
+TECHNICAL TERMS AND INSTRUMENTS
+
+
+We now proceed to consider some representative passages of Shakespeare
+which deal with music.
+
+These may be taken roughly in six divisions--viz. (1) Technical Terms
+and Instruments, (2) Musical Education, (3) Songs and Singing, (4)
+Serenades and other domestic 'Music,' (5) Dances and Dancing, (6)
+Miscellaneous, including Shakespeare's account of the more spiritual
+side of music.
+
+To begin on the first division. There are many most interesting
+passages which bristle with technical words; and these are liable to
+be understood by the reader in a merely general way, with the result
+that the point is wholly or partly missed. With a reasonable amount of
+explanation, and a general caution to the student not to pass over
+words or phrases that appear obscure, there is no reason why these
+passages should not be understood by all in a much fuller light.
+
+The following lines, though not in a play, are so full of musical
+similes that it may be useful to take them at once.
+
+_Lucrece_, line 1124.
+
+     "My _restless discord_ loves no _stops_ nor _rests_;
+     A woful hostess brooks not merry guests.
+     Relish your _nimble notes_ to pleasing ears;
+     Distress like _dumps_, when _time is kept_ with tears."
+
+(Then to the nightingale)--
+
+     "Come, Philomel, that sing'st of ravishment,
+     Make thy sad grove in my dishevell'd hair:
+     As the dank earth weeps at thy languishment,
+     So I at each sad _strain_ will _strain_ a tear,
+     And with deep groans the _diapason_ bear;
+     For _burden_ wise I'll _hum_ on Tarquin still,
+     While thou on Tereus _descant'st_ better skill.
+
+     And while against a thorn thou _bear'st thy part_,
+     To keep thy sharp woes waking....
+
+     These means, as _frets_ upon an _instrument_,
+     Shall _tune_ our heart-_strings_ to true languishment."
+
+Here Lucrece tells the birds to cease their joyous notes, and calls on
+the nightingale to sing the song of Tereus, while she herself bears
+the 'burden' with her groans.
+
+The first line contains a quibble on 'rests' and 'restless' discord.
+'Nimble notes' was used in the Shakespearian time as we should use the
+term 'brilliant music.' Lucrece was in no humour for trills and runs,
+but rather for Dumps, where she could keep slow time with her tears.
+The Dumpe (from Swedish Dialect, _dumpa_, to dance awkwardly) was a
+slow, mournful dance. [See Appendix.] There is another quibble in l.
+1131, on _strain_. A 'strain' is the proper Elizabethan word for a
+formal phrase of a musical composition. For instance, in a Pavan,
+Morley (Introduction to Practical Music, 1597) says a 'straine' should
+consist of 8, 12, or 16 semibreves (we should say 'bars' instead of
+'semibreves') 'as they list, yet fewer then eight I have not seene in
+any pauan.'
+
+'Diapason' meant the interval of an octave. Here Lucrece says she will
+'bear the diapason' with deep groans, _i.e._, 'hum' a 'burden' or
+drone an octave lower than the nightingale's 'descant.' The earliest
+'burden' known is that in the ancient Round 'Sumer is icumen in,' of
+the 13th century. Here four voices sing the real music in canon to
+these words--
+
+     'Sumer is icumen in, Lhudè sing Cuccu,
+     Groweth seed and bloweth mead and springth the wdè nu,
+            Sing Cuccu,
+     Awè bleteth after lomb, lhouth after calvè cu,
+     Bulluc sterteth, Buckè verteth, murie sing cuccu,
+            Cuccu, Cuccu,
+     Wel singès thu cuccu, ne swik thu naver nu.'--
+
+while all the time two other voices of lower pitch sing a monotonous
+refrain, 'Sing cuccu nu, Sing cuccu,' which they repeat _ad infinitum_
+till the four who sing the Round are tired. This refrain is called Pes
+(or 'foot'), and this is the kind of thing which Lucrece means by
+'burden.' The word 'hum' may be considered technical, see the
+Introduction, where '_buzzing_ bass' is referred to. The tune, 'Light
+o' love' [see Appendix], as we know from _Much Ado_ III, iv, 41, used
+to go _without_ a burden, and was considered a 'light' tune on that
+account, see _Two Gent._ I, ii, 80.
+
+'Descant,' in l. 1134, wants explaining. To 'descant' meant to sing or
+play an _extempore_ second 'part' to a written melody. The point was
+that it should be extempore; if written down it ceased to be true
+descant, and was then called 'prick-song.' A rough example may be had
+in the extempore bass or alto which some people still sing in church
+instead of the melody. A more accurate example of descant would be
+this--let A sing a hymn tune, say the Old 100th, and let B accompany
+him _extempore_ with a separate melody within the bounds of harmony. B
+is 'descanting' on the melody that A sings.[5]
+
+[Footnote 5: Appendix, Ex. 1.]
+
+The art of descant in Elizabeth's time corresponded closely with what
+we call 'Strict Counterpoint' (_contra_, _punctus_, hence
+'prick-song,' or 'written' descant).
+
+The modern equivalent for 'bear a part' (l. 1135) is 'sing a part.'
+[See also Sonnet VIII.] Any person of decent education could 'bear a
+part' in those days, _i.e._, read at sight the treble, alto, tenor, or
+bass 'part' of the work presented by the host for the diversion of his
+guests. [See Introduction.]
+
+L. 1140. 'Frets upon an instrument' can still be seen on the modern
+mandoline, guitar, and banjo. In Shakespeare days, the viol, lute, and
+cittern all had frets on the fingerboard, but they were then simply
+bits of string tied round at the right places for the fingers, and
+made fast with glue. Their use is referred to in the next line, to
+'tune' the strings, _i.e._, to 'stop' the string accurately at each
+semitone.
+
+There is a quaint illustration of ll. 1135-6, about the nightingale
+singing 'against a thorn' to keep her awake, in the words of a
+favourite old part song of King Henry VIII., 'By a bank as I lay,'
+where the poem has these lines on the nightingale--
+
+     'She syngeth in the thyke; and under her brest
+     A pricke, to kepe hur fro sleepe.'
+
+In close connection with this is the conversation between Julia and
+her maid Lucetta, in _Two Gent._ I, ii, 76-93, about the letter from
+Proteus.
+
+     _Jul._ Some love of yours hath writ to you in rhyme.
+
+     _Luc._ That I might _sing_ it, madam, to a _tune_:
+          _Give me a note_: your ladyship can _set_.
+
+     _Jul._ As little by such toys as may be possible:
+          Best sing it to the tune of "Light o' love."
+
+     _Luc._ It is too heavy for so _light_ a tune.
+
+     _Jul._ _Heavy?_ belike, it hath some _burden_ then.
+
+     _Luc._ Ay, and melodious were it, would you sing it.
+
+     _Jul._ And why not you?
+
+     _Luc._                  I cannot _reach so high_.
+
+     _Jul._ Let's see your song.--How now, minion!
+
+     _Luc._ _Keep tune_ there still, so you will _sing it out_;
+          And yet, methinks, I do not like this tune.
+
+     _Jul._ You do not?
+
+     _Luc._             No, madam, it is _too sharp_.
+
+     _Jul._ You, minion, are too saucy.
+
+     _Luc._                             Nay, now you are _too flat_,
+          And _mar the concord_ with _too harsh a descant_:
+          There wanteth but a _mean_ to fill your song.
+
+     _Jul._ The _mean_ is _drown'd_ with your _unruly base_.
+
+     _Luc._ Indeed, I bid the _base_ for Proteus.
+
+Perhaps it is sufficient to remark that many of the italicized words
+above are still in ordinary use by musicians--_e.g._, to 'give the
+note' in order to 'set' the pitch for singing; to 'keep in tune,' to
+'sing out'; or one voice is 'drowned' by another, as the 'mean' (alto)
+by the 'bass.' Once more we have quibbles on musical terms--Lucetta
+says the 'tune,' _i.e._, Julia's testiness about Proteus' letter, is
+'too sharp,' and that her chiding of herself is 'too flat,' meaning,
+that neither is in 'concord' with the spirit of the love-letter.
+Lucetta recommends the middle course, or 'mean' (alto voice, midway
+between treble and bass), 'to _fill_ the song,' _i.e._, to perfect the
+harmony. Finally, there is a punning reference (somewhat prophetic) by
+Lucetta, to the 'base' conduct of Proteus, in forsaking Julia for
+Silvia. Another play upon words should not be missed, viz., in ll. 78
+and 79, where 'set' does double duty.
+
+_Rom._ III, v, 25. Romeo and Juliet's parting at daybreak. The lark's
+song suggests musical metaphors in Juliet's speech.
+
+     _Romeo._ How is't, my soul? let's talk, it is not day.
+
+     _Jul._ It is, it is; hie hence, be gone, away!
+          It is the _lark_ that sings so _out of tune_,
+          Straining _harsh discords_, and unpleasing _sharps_.
+          Some say, the lark makes _sweet division_;
+          _This_ doth not so, for she _divideth us_.
+
+Juliet evidently agrees with Portia that 'nothing is good without
+respect.' The lark heralds the dawn, so Romeo must leave her, _ergo_,
+the lark sings 'out of tune,' his strains are full of 'discords' and
+'sharps.' The last two lines contain an interesting allusion in the
+word 'division,' besides the pun on 'she _divideth us_.'
+
+'Division' means roughly, a brilliant passage, of short notes, which
+is founded essentially on a much simpler passage of longer notes. A
+cant term for the old-fashioned variation (_e.g._, the variations of
+the 'Harmonious Blacksmith') was 'Note-splitting,' which at once
+explains itself, and the older word 'Division.' A very clear example
+of Divisions may be found in 'Rejoice greatly' in the Messiah. The
+long 'runs' on the second syllable of '_Rejoice_,' consisting of
+several groups of four semiquavers, are simply 'division' or
+'note-splittings' of the first note of each group.
+
+The word, however, has a further use, namely, to play 'divisions' on a
+viol-da-gamba. This was a favourite accomplishment of gentlemen in the
+16th and 17th centuries. Sir Andrew Aguecheek numbered this amongst
+his attainments, (see _Twelfth Night_ I, iii, 24); and readers of John
+Inglesant will remember that 'Mr Inglesant, being pressed to oblige
+the company, played a descant upon a ground bass in the Italian
+manner.' Playing a descant on a ground bass meant playing extempore
+'divisions' or variations, to the harmony of a 'ground bass' which
+(with its proper chords) was repeated again and again by the
+harpsichordist, until the viol player had exhausted his capacity to
+produce further 'breakings' of the harmony.
+
+In 1665 there was published an instruction book in this art, called
+Chelys Minuritionum, _i.e._, the 'Tortoise-shell of Diminutions,'
+hence (Chelys meaning a lyre, made of a tortoise-shell) 'The Division
+Viol.' The book is by Christopher Sympson, a Royalist soldier, who was
+a well-known viol-da-gamba player. The work is in three parts, the
+third of which is devoted to the method of ordering division on a
+ground.
+
+To give his own words--
+
+'Diminution or division to a ground, is the breaking either of the
+bass or of any higher part that is applicable thereto. The manner of
+expressing it is thus:--
+
+'A ground, subject, or bass, call it what you please, is prick'd down
+in two several papers; one for him who is to play the ground upon an
+organ, harpsichord, or what other instrument may be apt for that
+purpose; the other for him that plays upon the viol, who having the
+said ground before his eyes as his theme or subject, plays such
+variety of descant or division in concordance thereto as his skill and
+present invention do then suggest unto him.'
+
+[See the Appendix for an example by Sympson.]
+
+Further on, he distinguishes between 'breaking the notes of the
+_ground_' and 'descanting upon' the ground.
+
+This phrase, 'breaking' notes, may be taken as a partial explanation
+of several passages on Shakespeare, where 'broken music' is referred
+to, although it is likely that a better account of this may be found
+in the natural imperfection of the Lute, which, being a _pizzicato_
+instrument (_i.e._, the strings were plucked, not played with a bow),
+could not do more than indicate the harmony in 'broken' pieces, first
+a bass note, then perhaps two notes at once, higher up in the scale,
+the player relying on the hearer to piece the harmony together.
+
+An entirely different explanation is that of Mr Chappell (in Aldis
+Wright's Clarendon Press Edition of Henry V.), viz., that when a
+'consort' of viols was imperfect, _i.e._, if one of the players was
+absent, and an instrument of another kind, _e.g._, a flute, was
+substituted, the music was thus said to be 'broken.' _Cf._ Matt.
+Locke's 'Compositions for Broken and Whole Consorts,' 1672.
+
+[Mr Aldis Wright has given me references to Bacon's Sylva Sylvarum,
+III., 278, and Essay of Masque and Triumph, which show that 'Broken
+Music' was understood to mean _any combination of instruments of
+different kinds_. In Sylva Sylvarum Bacon mentions several 'consorts
+of Instruments' which agree well together, _e.g._, 'the Irish Harp and
+Base-Viol agree well: the Recorder and Stringed Music agree well:
+Organs and the Voice agree well, etc. But the Virginals and the Lute
+... agree not so well.' All these, and similar combinations, seem to
+have been described as 'Broken Music.']
+
+In point, see _Hen. V._ V, ii, 248, where Henry proposes to
+Katherine.
+
+     _K. Hen._ Come, your answer in _broken music_; for thy
+     _voice is music_, and thy _English broken_; therefore, queen
+     of all, Katherine, _break_ thy mind to me in _broken_
+     English: wilt thou have me?
+
+Also see _Troilus_ III, i, 52 and ff. (quoted further on).
+
+An entirely separate use of 'break' is in the phrase 'broken time,'
+which has the simple and obvious meaning that the notes do not receive
+their due length and proportion. In this connection we will take the
+passage of King Richard's speech in prison at Pontefract--when he
+hears music without, performed by some friendly hands.
+
+_Rich. II._ V, v, 41. King R. in prison.
+
+     _K. Rich._                _Music_ do I hear?
+          Ha, ha! _keep time_.--How sour sweet music is,
+          When _time is broke_, and no _proportion kept_!
+          So is it in the music of men's lives.
+          And here have I the _daintiness of ear_,
+          To check _time broke_ in a _disorder'd string_;
+          But, for the _concord_ of _my_ state and _time_,
+          Had not an _ear_ to hear my true _time broke_.
+
+
+
+          _This music mads me_: let it sound no more:
+          For though _it hath holp madmen_ to their wits,
+          In me, it seems, it will make wise men mad.
+
+The simile is perfect, and the play upon 'time broke' admirable. In l.
+45 Richard reflects on the sad contrast between his quick 'ear' for
+'broken time' in music, and his slowness to hear the 'breaking' of his
+_own_ 'state and time.' The 'disorder'd string' is himself, who has
+been playing his part 'out of time' ('Disorder'd' simply means 'out of
+its place'--_i.e._, as we now say, 'a bar wrong'), and this has
+resulted in breaking the 'concord'--_i.e._, the harmony of the various
+parts which compose the state.
+
+A few words are necessary about 'Proportion.' This term was used in
+Elizabethan times exactly as we now use 'Time.' The 'times' used in
+modern music can practically be reduced to two--viz., Duple (two beats
+to the bar) and Triple (three beats to the bar). But in Elizabeth's
+day the table of various Proportions was a terribly elaborate thing.
+Of course many of these 'Proportions' never really came into practical
+use--but there was plenty of mystery left even after all deductions.
+
+Morley (Introduction, 1597) gives Five kinds of proportions 'in most
+common use'--viz., Dupla, Tripla, Quadrupla, Sesquialtera, and
+Sesquitertia. The first three correspond to what we still call Duple,
+Triple, and Quadruple Time--_i.e._, 2 in the bar, 3 in the bar, and 4
+in the bar. ['Bars' were not in general use till the end of the 16th
+century, but the principle was the same. The bars themselves are
+merely a convenience.]
+
+Sesquialtera is more complicated, and means 'three notes are sung to
+two of the same kinde'; and 'Sesquitertia is when four notes are sung
+to three of the same kinde.' 'But' (Morley adds), 'if a man would
+ingulphe himselfe to learn to sing, and set down all them which
+Franchinus Gaufurius [1496] hath set down in his booke De
+Proportionibus Musicis, he should find it a matter not only hard but
+almost impossible.'
+
+Ornithoparcus, in his Micrologus (1535), gives us an idea of the way
+this subject of proportion was treated by more 'learned' writers. He
+says (1) that music considers only the proportion of inequality, (2)
+that this is two-fold--viz., the greater and the lesser inequality.
+(3) The greater inequality contains five proportions, namely,
+multiplex, superparticular, superpartiens, multiplex superparticular,
+and multiplex superpartiens.
+
+This is more amusing than instructive, perhaps. The three last lines
+of this passage refer to the various stories of real or pretended
+cure of disease by the use of particular pieces of music. One of the
+best known of these diseases is 'Tarantism,' or the frenzy produced by
+the bite of the Tarantula, in Italy.
+
+Kircher, a learned Jesuit (1601-1680), gives an account, in his
+"Musurgia," of the cure of this madness by certain airs, by which the
+patient is stimulated to dance violently. The perspiration thus
+produced was said to effect a cure. In his "Phonurgia nova" (1673)
+Kircher actually gives the notes of the tune by which one case was
+cured.
+
+In this connection, Kircher mentions King Saul's madness, which was
+relieved by David's harp playing. This is certainly to the point, and
+may well have been in Shakespeare's mind. [See George Herbert's poem,
+'Doomsday,' verse 2.]
+
+Our modern Tarantellas derive their name and characteristic speed from
+the old Tarantula.
+
+_Lear_ I, ii, 137. Edmund pretends not to see Edgar's entrance.
+
+     _Edmund (aside)._ Pat he comes, like the catastrophe of the
+     old comedy: my cue is villainous melancholy, with a _sigh
+     like Tom o' Bedlam_.--O! these eclipses do portend _these
+     divisions_. _Fa, sol, la, mi._
+
+Songs like 'Tom o' Bedlam,' mad-songs they were called, were very
+commonly sung in England in the 17th century. The tune and words of
+the original 'Tom a Bedlam' are to be found in Chappell, Vol. I. p.
+175. Its date is some time before 1626,[6] and verse 1 begins, 'From
+the hagg and hungrie Goblin,' and the whole is as full of ejaculations
+of 'Poor Tom' as Act III. of _Lear_.
+
+[Footnote 6: Rimbault's preface to the Musical Antiquarian Society's
+reprint of Purcell's opera, "Bonduca," says that Mad Tom was written
+by Coperario in 1612, for the Masque of the Inner Temple and Gray's
+Inn, by Beaumont. This was, 'Forth from my sad and darksome sell.']
+
+The last sentence has yet another play on the double meaning of
+'divisions.' A few lines further on Edmund explains what kind of
+'divisions' he expects to follow the eclipses--namely, 'between the
+child and the parent ... dissolutions of ancient amities; divisions in
+state,' etc. But the very use of the word in the quoted lines brings
+its musical meaning into his head, for he promptly carries off his
+assumed blindness to Edgar's presence by humming over his 'fa, sol,
+la, mi.' [Burney, Hist., Vol. III. p. 344, has a sensible observation
+on this passage--that Edgar alludes to the unnatural division of
+parent and child, etc., in this musical phrase, which contains the
+augmented fourth, or _mi contra fa_, of which the old theorists used
+to say 'diabolus est.']
+
+Guido d'Arezzo (or Aretinus), in his Micrologus (about 1024), named
+the six notes of the Hexachord (_e.g._, C, D, E, F, G, A), thus--Ut,
+Re, Mi, Fa, Sol, La. These were the first syllables of certain words
+in the Hymn for the feast of St John Baptist, the words and tune of
+which are in Hawkins, p. 163.
+
+    "UT queant laxis
+     RE-sonare fibris
+     MI-ra gestorum
+     FA-muli tuorum
+     SOL-ve polluti
+     LA-bii reatum, Sancte Joannes."
+
+A rough translation of which is--
+
+     'That thy servants may be able with free hearts to sound
+     forth the wonders of thy deeds; release us, O Holy John,
+     from the guilt of a defiled lip.'
+
+In the ancient tune of this verse, the notes assigned to the syllables
+in capitals were successively those of the scale, C, D, E, F, G, A,
+and these same syllables were still used in singing in the 16th
+century. It was noticed, however, that the scale could be easily
+expressed by fewer names, and accordingly we find Christopher Sympson
+(1667) saying, in his 'Compendium,' that Ut and Re are 'superfluous,
+and therefore laid aside by most Modern Teachers.' In his book, the
+whole scale of _eight_ notes is named thus--Fa, Sol, La, Fa, Sol, La,
+_mi_, Fa. A modern Tonic Solfaist would understand this arrangement
+quite differently. C, D, E would be called Do (instead of Ut), Re, Mi;
+then would follow F, G, A, under the names Fa, Sol, La; and the
+'leading note' [top note but one] would be called Ti (instead of Si);
+the octave C beginning once more with Do.
+
+The reader will remember that the tonal relation of C, D, E is exactly
+the same as that of the next three notes, F, G, A--viz., C--D, a tone;
+D--E, a tone; and similarly with F--G, G--A. Therefore the two blocks
+of three notes (which are separated by a _semi_-tone) might have the
+same names--viz., Fa, sol, la. Thus we have the first _six_ notes of
+the scale, Fa, sol, la, fa, sol, la. There only remains one note, the
+'leading note,' the B; and this, in Sympson, is named _Mi_. So the
+principal thing in the sol-fa-ing of a passage was to 'place the Mi,'
+or, as we should now put it, to find 'what key' it is in. Thus, in the
+key of C, Mi is in B: in G, Mi is in F sharp: in F, Mi is in E, and so
+on, the remaining six notes being named Fa, sol, la, fa, sol, la, as
+explained above.
+
+Edmund's 'Fa, Sol, La, Mi,' therefore, corresponds to F, G, A, B; or
+C, D, E, F sharp; or B flat, C, D, E, etc.; according to the pitch
+taken by the singer.
+
+In this connection see the following passage:--
+
+_Shrew_ I, ii, 16.
+
+     _Petr._ 'Faith, sirrah, an you'll not knock, I'll _wring_ it:
+          I'll try how you can _sol, fa_, and _sing it_.'
+
+     [He wrings GRUMIO by the ears.
+
+Here is a pun on 'wring' and 'ring'; and 'sol-fa' is used as an
+equivalent for 'sing.'
+
+More important still is 'the gamut of Hortensio,' _Shrew_ III, i, 72.
+[Gam-ut was the name of the Ut of lowest pitch, corresponding to the
+low G on the first line of our present bass staff, and was marked
+specially with a Greek Gamma, hence Gam-ut. The word became a synonym
+for 'the Scale.']
+
+In this passage the names of the notes are simply those to be found in
+all instruction books of the 16th and 17th centuries.
+
+    'Gam-ut I am, the ground of all accord,
+     A-re, to plead Hortensio's passion;
+     B-mi, Bianca, take him for thy lord,
+     C-fa-ut, that loves with all affection:
+     D sol, re, one cliff, two notes have I:
+     E la, mi, show pity or I die.'
+
+Here Hortensio puts in his love-verses under the guise of a
+musicmaster's Gamut.
+
+The lines may be taken separately as fantastic commentaries on the
+syllables themselves, as well as having their ulterior meaning for
+Bianca.
+
+For instance, Gam-ut the _lowest_ note then recognised in the scale,
+is called 'the _ground_ of all _accord_.' A-re, I suppose, represents
+the lover's sigh 'to plead his passion.' B-mi, may be twisted into 'Be
+mine,' by the light of the remaining words in the line; while 'D sol
+re, one cliff, two notes have I' obviously refers to Hortensio's
+disguise. The 'cliff' is what is now called a 'clef,' or 'key,'
+because its position on the staff gave the 'key' to the position of
+the semitones and tones on the various lines and spaces. The six notes
+here mentioned are the G, A, B, C, D, E, in the bass staff. They could
+only be written (as they are yet) in _one_ clef--namely, the F clef.
+The expression 'two notes have I,' as applied to the D, means that, in
+the key of G, D is called Sol; while in the key of C it would have the
+name Re; just as Hortensio is Hortensio, and at the same time
+masquerades as a singing-master.
+
+It has been mentioned that the art of adding an extempore counterpoint
+to a written melody was called 'descant.' The written melody itself
+was called the 'Plain-song,' and hence the whole performance,
+plainsong and descant together, came to be known by the term
+'Plain-song,' as opposed to the performance of plainsong with a
+_written_ descant; which was known as 'Prick-song.'
+
+Morley gives us a clear idea that the extempore descant was often a
+very unsatisfactory performance, at any rate when it was attempted to
+add more than one extempore part at a time to the plainsong. As he
+says--'For though they should all be moste excellent men ... it is
+unpossible for them to be true one to another.' The following passage
+will be more clear on this light.
+
+_H. 5._ III, ii, 3. Fight at Harfleur.
+
+     _Nym._ Pray thee, corporal, stay: ... the humour of it is
+     too hot, that is the very _plain-song_ of it.
+
+     _Pistol._ _The plain-song is most just_, for humours do
+     abound.
+
+
+
+     L. 41.
+
+     _Boy_ (speaks of the 3 rogues).... They will steal anything,
+     and call it purchase. Bardolph _stole a lute-case_, bore it
+     twelve leagues, and _sold it for three half-pence_.
+
+Falstaff's worthy body-guard are getting tired of hard knocks in
+fight; Nym compares their late activity to a somewhat florid
+'plain-song' [meaning an extempore descant, as explained above];
+Pistol says it is a 'just' plainsong. A 'just' plainsong would mean
+that the singer had managed his extempore descant 'without singing
+eyther false chords or forbidden descant one to another.' Similarly,
+there is little doubt that both Ancient and Corporal managed to take a
+part in the skirmishings with as little damage as possible to their
+sconces.
+
+The speech of the boy at l. 41 hardly enrols Bardolph amongst music
+lovers. At all events he stole a lute-case, and seems to have liked it
+so much that he carried it 36 miles before his worser nature prevailed
+on him to sell it for 1-1/2d.
+
+The next quotation still concerns Jack Falstaff and his crew, all of
+whom (and strictly in accordance with history) seem to have been sound
+practical musicians. This time they are speaking, not of descant, but
+of Prick-song. The chiefest virtue in the performance of Prick-song,
+by which Falstaff and Nym probably understood both sacred and secular
+part-music, is that a man should 'keep time,' religiously counting his
+rests, 'one, two, three, and the third in your bosom,' and when he
+begins to sing, that he should 'keep time, distance, and proportion,'
+as Mercutio says Tybalt did in his fencing, see _Romeo_ II, iv, 20.
+
+All this is thoroughly appreciated by Falstaff and his corporal in the
+following lines:--
+
+_Merry Wiv._ I, iii, 25.
+
+     _Falstaff_ (of Bardolph) ... his thefts were too open; his
+     filching was _like an unskilful singer_, he _kept not time_.
+
+     _Nym._ The good humour is to _steal at a minim's rest_.
+
+     ['Minims' is a modern conjecture.]
+
+The metaphor is of an anthem or madrigal, say in four parts. We will
+suppose the Hostess of the 'Garter' is taking the _Cantus_, a tapster
+the _Altus_, mine Host the _Tenor_, and Nym the _Bassus_. The three
+former are all hard at work on their respective 'parts,' one in the
+kitchen, another in the taproom, the third in familiar converse
+outside the front door. But Nym has 'a minim rest,' and during that
+short respite takes advantage of the absorbing occupations of the
+other three 'singers' to lay hands on whatever portable property is
+within his reach. 'A minim rest' is not much--but the point remains.
+Any musician has had experience of what can be done during a short
+'rest'--_e.g._, to resin his bow, or turn up the corners of the next
+few pages of his music, light the gas, or find his place in another
+book.
+
+By an easy transition we pass to the following:--
+
+_Pericles_ I, i, 81. Pericles addresses the daughter of King
+Antiochus.
+
+     _Per._ You're a _fair viol_, and _your sense the strings_,
+          Who, _finger'd_ to make man his _lawful music_,
+          Would draw heaven down and all the gods to hearken;
+          But being _play'd upon before your time_,
+          Hell only danceth at so harsh a chime.
+
+Pericles compares the lawful love of a wife with the performance of a
+good viol player, the proper characteristics of which would be, 'in
+tune,' and 'in time.' The comparison in l. 84 is of this girl's
+lawless passion with the 'disorder'd' playing of a bad violist, who
+has got 'out,' as we say; who is playing 'before his time,' thus
+entirely spoiling the music, which becomes a dance for devils rather
+than angels.
+
+The viol was decidedly the most important stringed instrument played
+with a bow that was in use in Elizabethan times. There were three
+different sizes.
+
+The reader will get a sufficiently accurate idea, both of the sizes
+and the use of viols, if he will consider the treble viol to have
+corresponded closely with our modern violin, the tenor viol to the
+modern viola [which is also called Alto, Tenor, or Bratsche--_i.e._,
+braccio, 'arm' fiddle], and the bass-viol, or viol-da-gamba [so called
+because held between the knees], to the modern violoncello.
+
+The principal difference from our modern stringed instruments was that
+all the viols had _six_ strings, whereas now there is no 'fiddle' of
+any sort with more than four. A secondary difference was, that all the
+viol family had _frets_ on the fingerboard to mark out the notes,
+whereas the finger-boards of all our modern instruments are smooth,
+and the finger of the performer has to do without any help of that
+kind.[7]
+
+[Footnote 7: See Frontispiece.]
+
+John Playford, in 1683, published his 'Introduction to the Skill of
+Music,' which gives an account of the viols, and Thomas Mace, of
+Cambridge, lay clerk of Trinity, in his 'Musick's Monument,' pub.
+1676, gives full instructions how many viols and other instruments of
+this kind are necessary. From these we learn that viols were always
+kept in sets of six--two trebles, two tenors, and two basses--which
+set was technically known as a 'Chest' of viols. Mace also says that
+the treble viol had its strings just half the length of the bass viol,
+and the tenor was of a medium size between these. Also he says that if
+you add to these a couple of violins (which were then thought somewhat
+vulgar, loud instruments) for jovial occasions, and a pair of 'lusty,
+full-sized Theorboes,'[8] 'you have a ready entertainment for the
+greatest prince in the world.'
+
+[Footnote 8: Theorbo, a lute with a double neck; so called from
+Tiorba, a mortar for pounding perfumes, referring to the basin-shaped
+back of a lute.]
+
+The tuning of the six strings on the _bass_-viol was, on the bass
+staff, 1st string, or treble, D over the staff; 2nd or small mean, A
+on the top line; 3rd or great mean, E in the third space; 4th or
+counter-tenor, C in the second space; 5th or tenor, or gamut, G on the
+first line; and the 6th or bass, low D, under the staff. On the most
+complete viol there would be seven frets, arranged semitonally, so the
+compass of the Bass Viol or Viol da Gamba would be about two octaves
+and a half, from D under the bass staff to A on the second space of
+the treble staff. [In South Kensington Museum is a Viol da Gamba with
+no less than twelve frets still remaining. This would make the compass
+nearly _three_ octaves.]
+
+The tenor-viol had its top string tuned to G on the second line of the
+treble staff; and the remaining five were the same in pitch as the top
+five on the bass viol. The treble viol (as mentioned above) was tuned
+exactly an octave above the bass.
+
+The tone of the viols is very much like that of our modern bowed
+instruments, the principal difference being that they are a little
+feebler, and naturally more calm. The reason is that vigorous 'bowing'
+is a risky thing on the viol, for, as there are _six_ strings on the
+arc of the bridge, more care is required to avoid striking two or even
+three at once than on the violin, which has only four.
+
+The amateur of music would keep a 'Chest' of six Viols in his house,
+and when his musical friends visited him, they would generally play
+'Fancies' (or Fantasias) see _H. 4. B._ III, ii, 323, in several
+parts, from two to the full six, according to the number of those
+present. Amongst a great number of composers of this kind of music,
+some very well known names are, John Jenkins, Chris. Sympson, William
+Lawes, Coperario (John Cooper), and the Italian Monteverde. It was
+common for the Organ or other keyed instrument to join with the viols
+in these pieces, and thus fill out the chords of the 'consort,' as it
+was called.
+
+We still have one of the viol tribe left in our orchestra. The
+double-bass (or viol-one) is lineal descendant of the Chest of viols.
+Its shape, especially at the shoulders, is quite characteristic, and
+elsewhere--_e.g._, the blunt curves of the waist, the outline of the
+back, and even the shape of the bow.
+
+The practice of playing extempore variations on the viol da gamba has
+already been mentioned as one of the elegant accomplishments of a
+gentleman in those days. The following two quotations therefore will
+not require further remark.
+
+_Tw._ I, iii, 24.
+
+     _Maria_ [of Sir Andrew Aguecheek] ... he's a very fool, and
+     a prodigal.
+
+     _Sir Toby._ Fie, that you'll say so! he _plays o' the
+     viol-de-gamboys_ ... and hath all the good gifts of nature.
+
+_Richard II._ I, iii, 159. Banishment of Norfolk.
+
+     _Norfolk._ The language I have learn'd these forty years,
+          My native English, now I must forego;
+          And now my tongue's use is to me no more
+          Than an _unstringed viol_, or a _harp_;
+          Or like a _cunning instrument cas'd up_,
+          _Or_, being open, _put into his hands_
+          That knows _no touch to tune the harmony_.
+
+The _violin_ family had only a precarious footing amongst musicians up
+to 1650. After that time, the viols declined in favour, and so
+rapidly, that at the very beginning of the 18th century, Dr Tudway of
+Cambridge describes a chest of viols, in a letter to his son, with
+such particularity, that it is clear they had entirely fallen out of
+use by 1700. As the viol fell out of fashion, the violin took its
+place, and has kept it ever since.
+
+The violin family had come into general and fashionable use under the
+patronage of the Court of Louis XIV., and thus the English nation,
+true to their ancient habit of buying their 'doublet in Italy, round
+hose in France, bonnet in Germany, and behaviour everywhere,' took up
+the 'French fiddles,' and let their national Chest of viols go to the
+wall.
+
+This growing tendency to adopt French customs, even in music, is
+referred to in the following:--
+
+_Hen. VIII._ I, iii, 41. French manners in England.
+
+     _Lovell._ A _French song_, and a _fiddle_, has no fellow.
+
+     _Sands._ _The devil fiddle 'em!_ I am glad they're going,
+          For, sure, there's no converting of 'em: _now_,
+          An honest country lord, as I am, beaten
+          A long time out of _play_, may bring his _plain-song_,
+          And have an hour of hearing: and, by'r lady,
+          Held _current music_ too.
+
+The only word here that has not already been fully explained is
+'current music,' which I suppose to mean simply, that the old
+accomplishments of which Lord Sands speaks would be still thought 'up
+to date' and in the fashion.
+
+Another instrument in common domestic use was the Recorder. This was a
+kind of 'Beak-flute,' like a flageolet. Lord Bacon says it had a
+conical bore, and six holes. So it had the general figure of a modern
+Oboe, but was played with a 'whistle' mouthpiece instead of a reed.
+
+The six holes may still be seen on any penny whistle, or the brass
+flageolets in the music-shops.
+
+The Recorder was known for its sweet tone. Poets used the word
+'record' to signify the song of birds, especially of the nightingale.
+
+Hawkins identifies it with the Fistula Dulcis, seu Anglica, and gives
+two pictures which help to explain the next quotation.
+
+In South Kensington Museum there is a Recorder[9] made of a dark
+wood, which is nothing else but a big flageolet. Its length is 2 ft. 2
+in., and its bore is that of the modern flageolet and old flute--viz.,
+conical, but with the wide end nearest the player's mouth.
+
+[Footnote 9: See Frontispiece.]
+
+_Hamlet_ III, ii, 346. Enter Players with recorders.
+
+     _Ham._ O! the _recorders_: let me see one....
+
+
+
+     L. 351.
+
+     ... Will you _play upon this pipe_?
+
+     _Guildenstern._ My lord, I cannot.
+
+
+
+     _Ham._ It is as easy as lying: govern these _ventages_ with
+     your _finger and thumb_, give it _breath_ with your mouth,
+     and it will discourse _most eloquent music_. Look you, these
+     are _the stops_.
+
+     _Guil._ But these cannot I command to any utterance of
+     _harmony_: I have not the skill.
+
+     _Ham._ Why, look you now, how unworthy a thing you make of
+     _me_. You would _play upon me_: you would seem to _know my
+     stops_; ... you would _sound me_ from my _lowest note_ to
+     the _top of my compass_; and there is _much music_,
+     excellent voice, in _this little organ_ [the recorder], yet
+     cannot you make it _speak_. 'Sblood! do you think I am
+     _easier to be played on than a pipe_? Call me what
+     _instrument_ you will, though you can _fret_ me, you cannot
+     _play_ upon me.
+
+The holes in a flute have always been called 'ventages,' because the
+'wind' comes through them when the fingers are removed. They were
+'governed' 'with the finger and thumb.' One of the illustrations from
+Mersennus [b. 1588] shows a conical flute with four holes in front and
+two at the back. These latter would, of course, be controlled by the
+_thumbs_, while the others would occupy two fingers on each hand.
+(Modern flageolets still keep a thumb hole at the back.) There were
+other beaked flutes of the same period, of a better class, which had
+several keys as well as the holes.
+
+'The stops' referred to by Hamlet are merely the 'ventages.' The act
+of covering a hole with the finger or thumb was called 'stopping'; and
+further, one example of the Fistula Dulcis given by Mersennus has two
+different holes for the lowest note, one on the right and the other on
+the left, so that the instrument might be used either by a
+right-handed or left-handed person. One of these two duplicate holes
+was temporarily _stopped_ with wax. [The passing play upon 'fret' in
+the last line should not be missed.]
+
+In the next passage the meaning of stop as applied to Recorders is
+punned on by Hippolyta, who carries on the play from Lysander's
+horsebreaking metaphor.
+
+_Mids._ V, i, 108. The Prologue speaks with all the punctuation
+wrong.
+
+     _Theseus._ This fellow doth not _stand upon points_.
+
+     _Lysander._ He hath rid his prologue like a rough colt; he
+     knows not the _stop_....
+
+     _Hippolyta._ Indeed, he hath played on this prologue like a
+     _child on a recorder, a sound_, but _not in government_.
+
+That is--the Prologue has misplaced all his _stops_--like a young
+horse that refuses to _stop_--also like a child who has not learned to
+_stop_ the holes on the flute _à bec_.
+
+It is singular that the Virginal, which was the most popular of all
+the keyed instruments, is nowhere directly named in Shakespeare. There
+is, however, a reference to the action of the fingers on its keys in
+the following.
+
+_Winter's Tale_ I, ii, 125. Of _Hermione_, Queen of Leontes, King of
+Sicilia, and _Polixenes_, King of Bohemia.
+
+     _Leon._ ---- still _virginalling_
+          Upon his palm?
+
+The Virginal (generally known as 'a _pair_ of virginals') was most
+commonly used by ladies for their private recreation, and from this
+circumstance is supposed to derive its name. Queen Elizabeth was fond
+of playing on it, but as it was in vogue before her time, there is no
+need to connect the name with the Virgin Queen. (Elizabeth's own
+Virginal is in South Kensington Museum.[10]) Its keyboard has four
+octaves, and the case is square, like that of a very old pianoforte.
+The strings of the virginal were plucked, by quills,[11] which were
+secured to the 'jacks' [see Sonnet cxxviii.], which in turn were set
+in motion by the keys. The strings were wire. The oldest country dance
+known, the Sellenger's (St Leger's) Round, of Henry VIII.'s time, was
+arranged by Byrd as a Virginal 'lesson' for 'Lady Nevell's booke.'
+Another well-known Virginal Book, that at the Fitzwilliam Museum at
+Cambridge, commonly known as 'Queen Elizabeth's Virginal Book,' is
+being published by Breitkopf & Härtel.
+
+[Footnote 10: See Frontispiece.]
+
+[Footnote 11: Plectra of leather were also in use, as well as those of
+quill.]
+
+The first music ever printed for the Virginals was 'Parthenia,'
+published in London, 1611. This collection contains principally Pavans
+and Galliards by Byrd, Bull, and Gibbons. The title 'Parthenia, or the
+Maydenhead of the firste musicke,' etc., with a picture of a young
+lady playing on the virginal, seems to confirm our explanation of the
+name of this instrument.
+
+Next to the viol, the lute[12] was the most popular stringed
+instrument. It was used both as a Solo instrument on which to play
+sprightly 'Ayres,' or as an accompaniment for the voice, or 'in
+consort' with other instruments. Naturally, it figured frequently in
+'serenading' especially when a love song had to be sung outside a
+lady's window. The general shape of a Lute was that of a mandoline,
+but about four times as big. Like the mandoline, it had a flat belly,
+and a great basin-shaped back. But in every other respect it was
+entirely different. It was used more in the fashion of a guitar, and
+its strings (which were of gut) were plucked with the fingers.
+
+[Footnote 12: See Frontispiece.]
+
+Adrian Le Roy's book, published in Paris about 1570, says the six
+strings were tuned as follows--1st (minikin), C in third space, treble
+staff; 2nd (small mean), G on second line; 3rd (great mean), D under
+the staff; 4th (counter-tenor), B flat over the bass staff; 5th
+(tenor), F on fourth line; and 6th (base), C in second space.
+
+Scipione Cerreto, however (Naples 1601), gives quite a different
+account of the Italian Lute of eight strings, the tuning of which
+seems to have extended the compass downwards to C under the bass
+staff. Thomas Mace (Musicks Monument, 1676) tells of several
+objections against the lute, the most noteworthy of which were--1st,
+that it was a costly instrument to keep in repair; 2nd, that it was
+out of fashion; and 3rd, that it _made young people grow awry_. Mace
+refutes these calumnies, the last of which no doubt was set about on
+account of the very awkward shape of the lute back, and the
+considerable size of the instrument. Hawkins (Hist. of Music, pp. 730
+and 731) gives two pieces for the lute by Mace, or, rather, the same
+piece twice, first for one lute, then arranged for two. [Appendix.]
+
+The five lower strings of the lute were 'doubled'--_i.e._, there were
+two of each pitch, duplicates, which helped the tone of the chords by
+'sympathetic' vibration. So there were really eleven strings, but only
+six different pitches. There were eight frets on the fingerboard.
+
+Other varieties were the Arch-Lute[13] and the Theorbo-Lute, both of
+which had very long double necks, and a large number of strings. One
+Archlute in South Kensington Museum has as many as 24, eleven of which
+are duplications.
+
+[Footnote 13: See Frontispiece.]
+
+_H. 6. A._ I, iv, 92.
+
+     _Talbot_ (of Salisbury dying).
+          'He beckons with his hand, and smiles on me,
+           As who should say, "When I am dead and gone,
+           Remember to avenge me on the French."--
+           Plantagenet, I will; and _like thee, Nero,
+           Play on the lute_, beholding the towns burn.'
+
+_Hen. 4. A._ III, i, 206. Mortimer to Lady Mortimer.
+
+     _Mort._             ... for thy tongue
+          Makes Welsh as sweet as _ditties_ highly penn'd,
+          _Sung_ by a fair queen in a summer's bower,
+          With _ravishing division_, to her _lute_.
+
+For 'ravishing division,' see the remarks on the third of the
+foregoing passages, the speech of Juliet about the lark's song [p.
+28].
+
+The Lute leads us quite easily from Musical Instruments and Technical
+Terms to the second division.
+
+
+
+
+II
+
+MUSICAL EDUCATION
+
+
+The following passages give a lively picture of what a music-master
+might have to put up with from young ladies of quality.
+
+_Shrew._ II, i, 142. Re-enter HORTENSIO with his head broken.
+
+     _Bap._ How now, my friend? why dost thou look so pale?
+
+     _Hor._ For fear, I promise you, if I look pale.
+
+     _Bap._ What, will my daughter [Kate] prove a good musician?
+
+     _Hor._ I think, she'll sooner prove a soldier:
+          Iron may hold her, but never _lutes_.
+
+     _Bap._ Why, then thou canst not _break her_ to the lute?
+
+     _Hor._ Why, no, for _she hath broke the lute to me_.
+          I did but tell her she _mistook her frets_,
+          And bow'd her hand to _teach her fingering_,
+          When, with a most impatient, devilish spirit,
+          "_Frets_ call you these?" quoth she; "I'll _fume_ with them;"
+          And with that word she struck me on the head,
+          And _through the instrument my pate made way_;
+          And there I stood amazed for a while,
+          _As on a pillory, looking through the lute_,
+          While she did call me _rascal fiddler_,
+          And, _twangling Jack_, with twenty such vile terms,
+          As had she studied to misuse me so.
+
+_Shrew_ II, i, 277.
+
+     _Bap._ Why, how now, daughter Katherine? in your _dumps_?
+
+_Shrew._ Act III. i. Hortensio and Lucentio, the sham musical and
+classical tutors, give a lesson to Bianca. They quarrel which is to
+start first.
+
+     _Lucentio._ _Fiddler, forbear_: you grow too forward, sir.
+
+
+
+     _Hortensio._ But, wrangling pedant, _this is
+          The patroness of heavenly harmony_;
+          Then give me leave to have prerogative,
+          And _when in music we have spent an hour_,
+          Your lecture shall have leisure for as much.
+
+     _Luc._ Preposterous ass, that never read so far
+          To know the cause why music was ordained!
+          Was it not to refresh the mind of man,
+          _After his studies_, or his usual pain?
+          Then give me leave to read philosophy,
+          And _while I pause, serve in your harmony_.
+
+Bianca settles the question, and orders Hortensio (l. 22):
+
+          Take you your instrument, _play you the whiles_;
+          His lecture will be done, _ere you have tun'd_.
+
+     _Hor._ You'll leave his lecture, when I am in tune?
+
+     _Luc._ _That will be never_: tune your instrument.
+
+Lucentio now goes on with his 'classics'; further on--
+
+     _Hor._ [Returning]. Madam, _my instrument's in tune_.
+
+     _Bianca._ Let's hear. [_Hor._ plays.] O fie! the _treble jars_.
+
+     _Luc._ _Spit in the hole_, man, and tune again.
+
+
+
+     _Hor._ Madam, _'tis now in tune_.
+
+     _Luc._                            All but the _base_.
+
+     _Hor._ _The base is right_; 'tis the _base knave that jars_.
+
+Hortensio now takes his place, and addresses the classical Lucentio--
+
+     L. 58.
+
+     _Hor._ You may go walk, and give me leave awhile:
+          My _lessons_ make no music in _three parts_.
+
+
+
+     L. 63.
+
+     _Hor._ Madam, before you _touch_ the instrument,
+          To learn the _order of my fingering_,
+          I must begin with _rudiments_ of art;
+          To teach you _gamut_ in a briefer sort.
+
+
+
+     _Bianca._ Why, I am _past my gamut_ long ago.
+
+     _Hor._ Yet read the gamut of Hortensio.
+
+The first of these three passages will be quite clear to the reader in
+the light of the remarks on the lute already made. The second should
+be read in connection with the name of the doleful dance above
+mentioned, the Dump. [See Appendix.]
+
+The third quotation contains interesting allusions to the
+peculiarities of the lute. Lines 22-25 are very naturally accounted
+for. The lute, having at least eleven strings, took a long time to get
+into tune. Even our modern violins, with only four strings, want
+constant attention in this respect; and the lute, therefore,
+especially in the hands of an amateur, might well get a name for being
+a troublesome instrument. The reference to the 'treble' and 'bass'
+strings (_i.e._, the 1st and 6th) has been explained before. 'Spit in
+the hole, man,' Lucentio's very rude advice to Hortensio, will direct
+our attention to the variously shaped 'holes' which were made in the
+belly of all stringed instruments to let out the sound. On the lute,
+this hole was commonly a circular opening, not clearly cut out, but
+fretted in a circle of small holes with a star in the middle. But this
+was not the only way. A lute in South Kensington Museum has _three_
+round holes, placed in an oblique line, nearly at the bottom of the
+instrument.[14] The holes on the viol were generally in the form of
+crescents, and were put one on each side of the bridge. On the modern
+violins, as everybody has seen, they are in the shape of
+[Illustration], and are known as '_f_' holes.
+
+[Footnote 14: See Frontispiece.]
+
+Line 59, about 'lessons in three parts,' is of interest. Primarily, it
+is another form of 'Two's company, three is none'--but its musical
+meaning is very plainly present. In the 16th and 17th centuries it was
+very common to call the pieces of music in any volume for an
+instrument by the name 'Lessons.' The first meaning, of course, was
+that they were examples for the pupil in music, but the word was used
+quite freely with the purely general signification of 'Pieces' or
+'Movements.'
+
+One more word deserves remark--viz., 'to touch,' in line 63. This is
+used technically, and means strictly 'to play' on the instrument. The
+word comes both in meaning and form from Ital., _toccare_.
+
+_Toccata_ was a common word for a Prelude (often extempore), intended
+as a kind of introduction to two or three more formal movements. The
+Italian for a peal of bells is _tocco di campana_, and we have the
+word in English under the form _tocsin_, an alarm bell. The
+trumpet-call known as 'Tucket,' which occurs seven times in the stage
+directions of six Shakespeare plays, and is also found once in the
+text (_Henry V._ IV, ii, 35), also is derived from _toccare_.
+Similarly with the German 'Tusch,' a flourish of trumpets and other
+brass instruments, which may be heard under that name to the present
+day.
+
+The next passage confirms Morley's account of the high estimation in
+which music was held as a part of a liberal education. Baptista
+evidently considers 'good bringing up' to include 'music, instruments,
+and poetry.' Moreover, the visiting master was to be well paid,--'to
+cunning men I will be very kind.'
+
+_Shrew_ I, i, 81.
+
+     _Bianca._ Sir to your pleasure humbly I subscribe:
+          My books, and _instruments_, shall be my company,
+          On them to look, and _practise by myself_.
+
+
+
+     _Baptista_ (To Hortensio and Gremio).
+          Go in, Bianca. [_Exit_ Bianca].
+          And for I know, she taketh most delight
+          In _music_, _instruments_, and _poetry_,
+          Schoolmasters will I keep within my house,
+          Fit to instruct her youth.--If you, Hortensio,
+          Or Signior Gremio, you, know any such,
+          Refer them hither; for _to cunning men
+          I will be very kind_, and liberal
+          To mine own children in _good bringing up_.
+
+We find further on, in the same play, that to bring one's lady-love a
+music master was thought a handsome compliment.
+
+_Shrew_ I, ii, 170.
+
+     _Hortensio._ 'Tis well: and I have met a gentleman,
+          Hath promis'd me to help me to another,
+          _A fine musician to instruct our mistress_.
+
+Moreover, in _Pericles_ IV, vi, 185, we find that Marina, daughter of
+Prince Pericles, can '_sing_, weave, sew, and _dance_.' Also see V, i,
+78, where Marina actually does sing, to rouse her father from his
+melancholy.
+
+
+
+
+III
+
+SONGS AND SINGING
+
+
+It is impossible here to give even an outline of the history of Songs
+and Singing in England. The general statement must suffice that vocal
+music, accompanied by viols and harps, with songs and catches, were
+common in the year 1230 in France; and any reader of Chaucer and Gower
+may see for himself that vocal music was flourishing in the 14th
+century in England. The English Round or Catch, mentioned above,
+'Sumer is icumen in,' is most probably of the 13th century, and that
+alone would be sufficient to characterise the popular vocal music of
+that day. This composition is advanced in every way, being very
+melodious, and at the same time showing that vocal harmony (_i.e._,
+singing in parts) was greatly appreciated.
+
+To proceed to a time nearer the age with which we are concerned--in
+Henry VII.'s reign, there were many songs written, some for voices
+only, and some with instrumental accompaniment. Amongst the former
+are two songs in three parts, the music by William Cornyshe, Junior,
+which are given in Hawkins.
+
+Skelton wrote the words of the first, 'Ah, beshrew you by my fay,'
+which is very coarse in tone, as was frequently the case with him; and
+the second one, 'Hoyday, jolly ruttekin,' is a satire on the drunken
+habits of the Flemings who came over with Anne of Cleves. Mrs Page
+(_Wiv._ II, i, 23) refers to these Dutchmen, where, after receiving
+Falstaff's love-letter, she exclaims, 'what an unweighed behaviour
+hath this _Flemish Drunkard_ picked (with the devil's name!) out of my
+conversation, that he dares in this manner assay me?'
+
+The following is a curious picture by 'Skelton, Laureate,' of an
+ignorant singer, who appears to have been throwing mud at the poet.
+Skelton gives us a sad account both of his morals and his music.
+
+The 3rd verse begins--
+
+     With hey troly loly, lo whip here Jak,
+     Alumbek, sodyldym syllorym ben,
+     Curiously he can both _counter_ and knak,
+     Of Martin Swart, and all his merry men;
+     Lord, how Perkyn is proud of his Pohen,
+     But ask wher he findeth among his _monachords_
+     An holy-water-clark a ruler of lordes.
+     He cannot fynd it in _rule_ nor in _space_,
+     He _solfyth_ too haute, hys _trybyll_ is too high,
+     He braggyth of his byrth that borne was full base,
+     Hys musyk _withoute mesure, too sharp_, is _his 'my'_,
+     He trymmeth in his _tenor_ to _counter_ pardy,
+     His _descant_ is besy,[15] it is without a _mene_,
+     Too fat is his fantsy, his wyt is too lene.
+
+     He tumbryth on a _lewde lewte_, Rotybulle Joyse,
+     Rumbill downe, tumbill downe, hey go, now now,
+     He _fumblyth in his fyngering_ an ugly rude noise,
+     It seemyth the sobbyng of an old sow:
+     He wolde be made moch of, and he wyst how;
+     Well sped in spindels and tuning of travellys
+     A bungler, a brawler, a picker of quarrels.
+
+     Comely he clappyth a _payre of clavicordys_
+     He _whystelyth_ so swetely he maketh me to swet,
+     His _discant_ is dashed full of _discordes_,
+     A red angry man, but easy to intrete; etc.
+
+[Footnote 15: 'Besy,' that is, 'busy,' meaning 'fussy,' a bad fault in
+descant, as it is to this day in counterpoint.]
+
+Further on we read--
+
+     For lordes and ladyes lerne at his scole,
+     He techyth them so wysely to _solf_ and to _fayne_,
+     That neither they sing wel _prike-song_ nor _plain_.
+
+Skelton's main objection to this person is that he, being in reality
+of very humble origin, presumed on his very doubtful musical abilities
+to gain a footing amongst his betters. As he says, 'For Jak wold be a
+Jentilman that late was a grome.'
+
+Evidently 'Jak' had managed to make good his position as a fashionable
+teacher of singing, in spite of the defects plainly mentioned in the
+above verses. In the first verse, 'counter' is a musical term, here
+used with the meaning of 'to embroider' the tale. 'Knack' is still
+used in Yorkshire for 'affected talk.' 'Monachord' is the ancient
+one-stringed fiddle called Tromba Marina, and is here used as a joke
+on 'monachi' or 'holy water clarks.' In verse 2, '_rule_ and space' is
+simply 'line and space,' _i.e._, on the musical staff. 'Solfyth too
+haute' is 'Solfa's too high.' The 'my' which was 'too sharp' is the
+Mi, the seventh note of the scale, mentioned above as the critical
+point in Solfa. In verse 3, 'lewde lewte' means merely 'vulgar lute';
+and 'Rotybulle Joyse' is the title of an old song. The 'payre of
+clavicordys' is the clavichord, which in 1536 was a keyed instrument
+of much the same kind as the virginals,[16] with about three and a
+half octaves. It was used by nuns, and therefore had its strings
+muffled with bits of cloth to deaden the sound.
+
+[Footnote 16: It was the _German_ clavichord that had 'tangents' of
+brass at the ends of the key levers. These tangents cut off the proper
+length of the string, and made it sound at the same time. The Italians
+called an instrument with a 'jack' action like the virginal by the
+name clavichord.]
+
+The last three lines quoted mention 'solfa' and 'fayne.' The latter is
+'feigned' music, or Musica Ficta, which at this time was the art of
+dislocating the 'Mi,' so as to change the key. It was seldom that more
+than one flat was found in those days, and this would move the Mi from
+_B_ to _E_, thus constituting 'fayned' music.
+
+This account will give a general idea of the kind of songs and singing
+that were to be found in 1500.
+
+Popular songs, 'Rotybulle Joyse,' with a burden of 'Rumbill downe,
+tumbill downe,' etc., accompanied by a 'lewde lewte'; clavichord
+playing; solfaing; singing of both 'prick-' and 'plain-' song, with
+Musica Ficta; besides the delectable art of 'whysteling'; seem to have
+been matters in ordinary practice at the beginning of the 16th
+century. Add to these the songs in three parts, with rounds or catches
+for several voices, and we have no mean list of musicianly
+accomplishments, which the men of Shakespeare's day might inherit.
+
+In Shakespeare, besides the songs most commonly known (some of which
+are by earlier authors), there are allusions to many kinds of vocal
+music, and scraps of the actual words of old songs--some with
+accompaniment, some without; a duet; a trio; a chorus; not to mention
+several rounds, either quoted or alluded to.
+
+It will be useful here to refer to a few of these less known examples.
+
+_L.L.L._ I, ii, 106. The Ballad of 'The King and the Beggar.' Moth
+says "The world was very guilty of such a ballad some three ages
+since; but I think now 'tis not to be found; or, if it were, it would
+neither serve for the writing, nor the tune."
+
+_Id._ III, i, 2. Moth begins a song 'Concolinel,' which Armado calls a
+'sweet air.'
+
+Various snatches of ballads, ancient and modern--_e.g._,
+
+(_a_) By Falstaff. _H. 4. B._ II, iv, 32, 'When Arthur first in court
+began,' 'And was a worthy king.'
+
+(_b_) By Master Silence. _H. 4. B._ V, iii, 18. 'Do nothing but eat,
+and make good cheer,' etc.; 'Be merry, be merry, my wife has all,'
+etc.; 'A cup of wine, that's brisk and fine,' etc. 'Fill the cup, and
+let it come,' etc.; 'Do me right, And dub me knight,' etc.; 'and Robin
+Hood, Scarlet, and John.'
+
+(_c_) By Benedick, _Much Ado_ V, ii, 23. 'The god of love.'
+
+(_d_) The old tune 'Light o' love' [see Appendix], the original words
+of which are unknown. _Much Ado_ III, iv, 41, 'Clap us into "Light o'
+love;" that goes without a burden; do you sing it, and I'll dance it.'
+Here is one verse of 'A very proper Dittie,' to the tune of "Lightie
+Love" (date 1570).
+
+     "By force I am fixed my fancie to write,
+     Ingratitude willeth me not to refrain:
+     Then blame me not, Ladies, although I indite
+     What lighty love now amongst you doth rayne,
+     Your traces in places, with outward allurements,
+     Dothe moove my endevour to be the more playne:
+     Your nicyngs and tycings, with sundrie procurements,
+     To publish your lightie love doth me constraine."
+
+There were several songs of the 16th century that went to this tune.
+See also Shakespeare, _Gent._ I, ii, 80, and Fletcher, _Two Noble
+Kinsmen_ V, ii, 54.
+
+(_e_) Song by Parson Evans, _Wiv._ III, i, 18; 'To shallow rivers,'
+for words of which see Marlowe's 'Come live with me,' printed in the
+'Passionate Pilgrim,' Part xx. [see tunes in Appendix]. Sir Hugh is in
+a state of nervous excitement, and the word 'rivers' brings 'Babylon'
+into his head, so he goes on mixing up a portion of the version of Ps.
+cxxxvii. with Marlowe.
+
+(_f_) By Sir Toby. _Tw. Nt._ II, iii, 79, 85, 102. Peg-a-Ramsey,
+'Three merry men be we,' 'There dwelt a man in Babylon,' 'O! the
+twelfth day of December,' 'Farewell, dear heart.' [For tunes, see
+Appendix].
+
+(_g_) _As You Like It_ II, v. Song with Chorus, 'Under the greenwood
+tree,' 2nd verse '_all together here_.'
+
+(_h_) By Pandarus, _Troil._ III, i, 116. Song, 'Love, love, nothing
+but love,' accompanied on an 'instrument' by the singer himself.
+
+(_i_) Another, _Id._ IV, iv, 14, 'O heart, heavy heart.'
+
+(_j_) _Lear_ I, iv, 168, two verses sung by the Fool, 'Fools had ne'er
+less grace in a year.'
+
+(_k_) Ballads by Autolycus, _Winter's Tale_ IV, ii, 1, 15. 'When
+daffodils,' 'But shall I go mourn for that.' _Id._ sc. ii. end, 'Jog
+on' [see Appendix]; _Id._ sc. iii. 198, 'Whoop, do me no harm, good
+man' [Appendix]; _Id._ l. 219, 'Lawn, as white as driven snow'; _Id._
+l. 262, Ballad of the 'Usurer's wife,' to a 'very doleful tune'; _Id._
+l. 275, Ballad of a Fish, 'very pitiful'; _Id._ l. 297, A song _in
+three parts_, to the tune of 'Two maids wooing a man,' "Get you hence,
+for I must go"; _Id._ l. 319, Song, 'Will you buy any tape' (_cf._ The
+round by Jenkins, b. 1592, 'Come, pretty maidens,' see Rimbault's
+Rounds, Canons, and Catches).
+
+(_l_) Duet by King Cymbeline's two sons; Funeral Song over Imogen,
+_Cymb._ IV, ii, 258, 'Fear no more the heat of the sun.'
+
+(_m_) Stephano's 'scurvy tunes,' _Temp._ II, ii, 41, 'I shall no more
+to sea,' 'The master, the swabber,' etc. [Appendix]. _Id._ l. 175,
+Caliban's Song, 'Farewell, master,' etc.
+
+(_n_) Song accompanied by lute. _H._ 8. III, i. 'Orpheus.'
+
+Besides these there are allusions to the names of various popular
+tunes and catches, of which the music is still to be had. Amongst
+these are--
+
+'The Hunt is up' [Appendix]. See _Rom. and Jul._ III, v, 34. Juliet
+says of the lark's song, 'that voice doth us affray, Hunting thee
+hence with _hunts-up_ to the day.' Any rousing morning song, even a
+love-song, was called a _hunts-up_. The tune of this song was also
+sung (in 1584) to 'O sweete Olyver, leave me not behind the,' but
+altering the time to 4 in a bar. See _As You Like It_ III, iii, 95.
+
+'Heart's ease' [Appendix], the words of which are not known. Tune
+before 1560. See _Romeo_ IV, v, 100.
+
+_Id._, 'My heart is full of woe.'
+
+_Id._ l. 125. 'When griping grief' [Appendix], by Richard Edwards,
+gentleman of Queen Elizabeth's Chapel, printed in the 'Paradyse of
+daynty Devises' (printed 1577). Hawkins gives four verses, the first
+of which is here quoted by Shakespeare, but with several variations--
+
+     '_Where_ griping grief the hart _would_ wound,
+     And doleful domps the mind oppresse,
+     _There_ Musick with her silver sound
+     _Is wont with spede to give_ redresse;
+     Of troubled minds, for every sore,
+     Swete Musick hath a salve in store.'
+
+The last verse is charming--
+
+     'Oh heavenly gift, that turnes the minde,
+     Like as the sterne doth rule the ship,
+     Of musick whom the Gods assignde,
+     To comfort man whom cares would nip;
+     Sith thou both man and beast doest move,
+     What wise man then will thee reprove.'
+
+'Green Sleeves' [Appendix].
+
+_Wiv._ II, i, 60.
+
+     _Mrs Ford._ ... I would have sworn his disposition
+     [Falstaff's] would have gone to the truth of his words; but
+     they do _no more adhere_ and _keep place_ together, than the
+     _Hundredth Psalm_ to the _tune of 'Green Sleeves_.'
+
+Also see _Wiv._ V, v, 20. The tune is given in its most complete form
+by Chappell, and is probably of Henry VIII.'s time. The ballad was
+published in 1580, with title, 'A new Northerne dittye of the Ladye
+Greene Sleeves.' Verse 1 is as follows:--
+
+     "Alas my love, you do me wrong
+     To cast me off discourteously,
+     And I have lovèd you so long,
+     Delighting in your company.
+     Greensleeves was all my joy,
+     Greensleeves was my delight,
+     Greensleeves was my heart of gold,
+     And who but my Lady Greensleeves."
+
+The 'Hundredth Psalm' (All people that on earth do dwell) will only
+adhere and keep place with the tune of Green Sleeves to a certain
+extent. If the reader will try to sing it to the tune in the Appendix,
+he will find that in the first half he is led into several false
+accents; while the second half is quite unmanageable without altering
+the notes. There is, however, a form of the tune in Hawkins which is
+much further off 'the truth of the words,' for it has exactly the
+right quantity of _notes_, but the _accents_ are all as wrong as
+possible, thus--
