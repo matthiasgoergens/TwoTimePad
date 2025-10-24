@@ -1,0 +1,459 @@
+Interference in the emergence
+
+First, by casting itself in the role of cultural and institutional
+watchdog, governments, particularly in the United States, became
+internet society's enemy. Though built with mostly US government
+dollars, the internet's growth into a public medium seemed to be
+impeded by the government's own systemic aversion to the kinds of
+information, images and ideas that the network spread. The
+government's fear of hackers was compounded by a fear of pornography
+and the fear of terrorism. The result was a tirade of ill-conceived
+legislation that made internet enthusiasts' blood boil. New decency
+laws aimed at curbing pornography (which were ultimately struck down)
+elicited cries of curtailment on free speech. Unsubstantiated and
+bungled raids on young hackers and their families turned law
+enforcement into the Keystone Cops of cyberspace and the US Justice
+Department into a sworn enemy of the shareware community's most
+valuable members. Misguided (and unsuccessful) efforts at preventing
+the dissemination of cryptography protocols across national boundaries
+turned corporate developers into government-haters as well. (This
+tradition of government interference in the rise of a community-driven
+internet is contrasted by the early participation of the UK's Labour
+government in the funding of internet opportunities there, such as
+community centres and public timeshare terminals, which were initially
+exploited mainly by arts collectives, union organisers, and activists.
+Of course all this didn't play very well with the nascent UK internet
+industry, which saw its slow start compared with the US and other
+developed nations as a direct result of government over-management and
+anti-competitive funding policies.)
+
+So, the US government became known as the antagonist of cyberculture.
+Every effort was made to diminish state control over the global
+telecommunications infrastructure. The internet itself, a government
+project, soon fell into private hands (Internic, and eventually
+industry consortiums). For just as a bacteria tends to grow unabated
+without the presence of fungus, so too does corporate power grow
+without the restrictive influence of government.
+
+This in itself may not have been so terrible. E-commerce certainly has
+its strengths and the economic development associated with a
+profit-driven internet creates new reasons for new countries to get
+their populations online. But an interactive marketplace is not
+fertile soil for networked democracy or public participation. As we
+have seen, the objective of marketers online is to reduce
+interactivity, shorten consideration and induce impulsive purchases.
+
+That's why the software and interfaces developed for the commercial
+webspace tended to take user's hands off the keyboard and onto the
+mouse. The most successful programs, for them, lead people to the
+'buy' button and let them use the keyboard only to enter their credit
+card numbers and nothing else. The internet that grew from these
+development priorities, dominated by the World Wide Web instead of
+discussion groups, treats individuals more as consumers than as
+citizens. True, consumers can vote with their dollars, and that in a
+way feels something like direct communication with the entity in
+charge - the corporation. But this is not a good model for government.
+
+Sadly, though, it's the model being used to implement these first
+efforts at teledemocracy. And it's why these efforts suffer from the
+worst symptoms of consumer culture: they focus on short-term ideals,
+they encourage impulsive, image-driven decision-making and they aim to
+convince people that their mouse-clicking is some kind of direct
+action. Anyone arguing against such schemes must be an enemy of the
+public will, an elitist. Teledemocracy is a populist revival, after
+all, isn't it?
+
+Perhaps. But the system of representation on which most democracies
+were built was intended to buffer the effects of such populist
+revivals. Although they may not always (or even frequently) live up to
+it, our representatives' role is to think beyond short-term interests
+of the majority. They are elected to protect the rights of minority
+interests, the sorts of people and groups who are now increasingly
+cast as 'special interest groups'.
+
+
+Achieving the promise of network democracy
+
+The true promise of a network-enhanced democracy lies not in some form
+of web-driven political marketing survey, but in restoring and
+encouraging broader participation in some of the internet's more
+interactive forums. Activists of all stripes now have the freedom and
+facility to network and organise across vast geographical, national,
+racial and even ideological differences. And they've begun to do so.
+The best evidence we have that something truly new is going on is our
+mainstream media's inability to understand it. Major American news
+outlets are still incapable of acknowledging the tremendous breadth of
+the WTO protest movement because of the multiplicity of cooperating
+factions within it. Unable to draw out a single, simplified rationale
+that encompasses the logic of each and every protestor, traditional
+media storytellers conclude that there is no logic at all. (Just as I
+am writing this section, a newscaster on CNBC, reporting from a WTO
+demonstration, is condescendingly laughing at the word 'neo-liberal'
+on a placard, believing that the teen protestor holding it has
+invented the term!) In actuality, the multi-faceted rationale
+underlying the WTO protests confirm both their broad based support, as
+well as the quite evolved capacity of its members to coalesce across
+previously unimaginable ideological chasms. Indeed, these obsolete
+ideologies are themselves falling away as a new dynamic emerges from
+nascent political organism.
+
+For politicians who mean to lead more effectively in such an
+environment, the interactive solution may well be a new emphasis on
+education, where elected leaders use the internet to engage with
+constituents and justify the decisions they have made on our behalf,
+rather than simply soliciting our moment-to-moment opinions.
+Politicians cannot hope to reduce the collective will of their entire
+constituencies into a series of yes or no votes on the issues put
+before them. They can, however, engage the public in an ongoing
+exploration and dialogue on issues and their impacts, and attempt to
+provide a rationale for their roles in the chamber in which they
+participate. They must accept that their constituents are capable of
+comprehending legislative bodies as functioning organisms. In doing
+so, politicians will relieve themselves of the responsibility for
+hyping or spinning their decisions and instead use their time with the
+public to engage them in the evolution of the legislative process.
+Like teachers and religious leaders, whose roles as authority figures
+have been diminished by their students' and congregants' direct access
+to formerly secret data, politicians too must learn to function more
+like partners than parents.
+
+In doing so, they will leave the certainty of 20th century political
+ideologies behind, and admit to the open-ended and uncertain process
+of societal co-authorship. Whatever model they choose must shun static
+ideologies, and instead acknowledge the evolutionary process through
+which anything resembling progress is made.
+
+
+Chapter 5
+
+              Open source: Opening up the network democracy
+
+One model for the open-ended and participatory process through which
+legislation might occur in a networked democracy can be found in the
+'open source' software movement. Faced with the restrictive practices
+of the highly competitive software developers, and the pitifully
+complex and inefficient operating systems such as Microsoft Windows
+that this process produces, a global community of programmers decided
+to find a better development philosophy for themselves. They founded
+one based in the original values of the shareware software development
+community, concluding that proprietary software is crippled by the
+many efforts to keep its underlying code a secret and locked down.
+Many users don't even know that a series of arbitrary decisions have
+been made about the software they use. They don't know it can be
+changed. They simply adjust.
+
+By publishing software along with its source code, open source
+developers encourage one another to correct each other's mistakes, and
+improve upon each other's work. Rather than competing they
+collaborate, and don't hide the way their programs work. As a result,
+everyone is invited to change the underlying code and the software can
+evolve with the benefit of a multiplicity of points of view.
+
+Of course this depends on a lot of preconditions. Participants in an
+open source collaboration must be educated in the field they are
+developing. People cannot expect to be able to understand and edit the
+code underlying any system until they have taken the time and spent
+the necessary energy to penetrate it. Very often, as in the case of
+computer software, this also depends on open standards so that the
+code is accessible to all. But it is also true of many other systems.
+If those who hope to engage in the revision of our societal models are
+not educated by those who developed what is already in place, they
+will spend most of their time inefficiently reverse-engineering
+existing structures in an effort to understand them. Progress can only
+be made if new minds are educated in the current languages, exposed to
+the rationale for all decisions that have been made and invited to
+test new methods and structures.
+
+Those who are invited to re-evaluate our social and political
+structures in such a way will stand the best chance of gaining the
+perspective necessary to see the emergent properties of such systems,
+as well as avenues for active participation in them. If no one is
+invited then the first harbingers of emergent paradigms will be those
+who have been motivated to train themselves in spite of the obstacles
+set in front of them by those who hope to maintain exclusive control
+over the code. The new models they come up with may, as a result, end
+up looking much more like old-style revolutions than true
+renaissances.
+
+The implementation of an open source democracy will require us to dig
+deep into the very code of our legislative processes, and then rebirth
+it in the new context of our networked reality. It will require us to
+assume, at least temporarily, that nothing at all is too sacred to be
+questioned, re-interpreted and modified. But in doing so, we will be
+enabled to bring democracy through its current crisis and into its
+next stage of development.
+
+But, like literacy, the open source ethos and process are hard if not
+impossible to control once they are unleashed. Once people are invited
+to participate in, say, the coding of a software program, they begin
+to question just how much of the rest of our world is open for
+discussion. They used to see software as an established and inviolable
+thing - something married to the computer. A given circumstance. With
+an open source awareness, they are free to discover that the codes of
+the software have been arranged by people, sometimes with agendas that
+hadn't formerly been apparent. One of the most widespread realizations
+accompanying the current renaissance is that a lot of what has been
+taken for granted as 'hardware' is, in fact, 'software' capable of
+being reprogrammed. They tend to begin to view everything that was
+formerly set in stone - from medical practices to the Bible - as
+social constructions and subject to revision. Likewise as public
+awareness of emergence theory increases, people are beginning to
+observe their world differently, seeing its principles in evidence,
+everywhere. Formerly esoteric subjects such as urban design or
+monetary policy become much more central as the public comes to
+recognize the power of these planning specialties to establish the
+rules through which society actually comes into existence.
+
+This marks a profound shift in our relationship to law and governance.
+We move from simply following the law, to understanding the law, to
+actually feeling capable of writing the law: adhering to the map, to
+understanding the map, to drawing our own. At the very least, we are
+aware that the choices made on our behalf have the ability to shape
+our future reality and that these choices are not ordained but
+implemented by people just like us.
+
+Unlike the 1960s, when people questioned their authorities in the hope
+of replacing them (revolution), today's activists are forcing us to
+re-evaluate the premise underlying top-down authority as an organising
+principle (renaissance). Bottom-up organisational models, from slime
+mould to WTO protests, seem better able to address today's
+participatory sensibility. Indeed, the age of irony may be over, not
+just because the American dream has been interrupted by terrorism and
+economic shocks but because media-savvy Westerners are no longer
+satisfied with understanding current events through the second-hand
+cynical musings of magazine journalists. They want to engage more
+directly and they see almost every set of rules as up for
+reinterpretation and re-engineering.
+
+
+Applying the theory
+
+So what happens when the open source development model is applied to,
+say, the economy? In the United States, it would mean coming to
+appreciate the rules of the economic game for what they are: rules.
+Operating in a closed source fashion, the right to actually produce
+currency is held exclusively by the Federal Reserve. Quietly removed
+from any relationship to real money such as gold or silver by Richard
+Nixon in the early 1970s, US currency now finds its value in pure
+social construction. Whether or not we know it, we all participate in
+the creation of its value by competing for dollars against one
+another. For example, when a people or businesses borrows money from
+the bank (an agent, in a sense, of the Federal Reserve) in the form of
+a mortgage they must eventually pay the bank back two or three times
+the original borrowed amount. These additional funds are not printed
+into existence, but must be won from others in the closed source
+system. Likewise, every time a student wants to buy one of my books,
+he must go out into the economy and earn or win some of these
+arbitrarily concocted tokens, US currency, in order to do it. Our
+transaction is brokered by the Federal Reserve, who has a monopoly on
+this closed source currency.
+
+Meanwhile, the actual value of this currency, and the effort required
+to obtain it, is decided much more by market speculators than its
+actual users. Speculation accounts for over 90 percent of US currency
+transactions in any given day. By this measure, real spending and the
+real economy are a tiny and secondary function of money: the dog is
+being wagged by its tail.
+
+What if currency were to become open source? In some communities it
+already is. They are not printing counterfeit bills but catalysing
+regional economies through the use of local currencies, locally
+created 'scrip' that can be exchanged throughout a particular region
+in lieu of Federal Reserve notes or real cash. The use of these
+currencies, as promoted by organisations such as the E.F. Schumacher
+Society, has been shown to accelerate the exchange of goods and
+services in a region by increasing the purchasing power of its
+members. There is no Federal Reserve surcharge on the creation and
+maintenance of cash, and no danger of government currency depreciation
+due to matters that have nothing to do with actual production and
+consumption.
+
+Like any other bottom-up system, the creation of local currency
+develops transactional models appropriate to the scale of the actual
+transactions and the communities in which they occur. While Federal
+notes, or Euros for that matter, might be appropriate for a merchant
+to use across state or national boundaries, local currencies make for
+greater fluidity and accountability between members of the same
+community.
+
+Thanks to the dynamic relationships permitted in a networked society,
+we need not choose between local and closed currencies. A
+post-renaissance perspective on economic issues has room for both to
+exist, simultaneously functioning on different orders of magnitude.
+
+In a society modelled on open source ideals, 'think globally, act
+locally' becomes more than just a catch phrase. The relationship of an
+individual or local community's action to the whole system can be
+experienced quite readily. For example, an open source software
+developer who writes just a few useful lines of code, say the protocol
+for enabling infrared communications to work on the Linux operating
+system, will see his or her contribution interpolated into the kernel
+of the operating system and then spread to everyone who uses it. He
+has done more than distributed a line of computer code. He has also
+enabled thousands of people using Linux to connect cell phones, PDA's
+and other devices to their computers for the first time. And he did it
+from his home, in his spare time.
+
+Likewise, a developer who leaves a security hole open in a piece of
+software quite dramatically sees the results of his action when a
+software 'worm', written by a computer criminal, penetrates the mail
+files of thousands of users, sending replicates of itself throughout
+the internet, sometimes for years to come.
+
+Members of an open source community are able to experience how their
+actions affect the whole. As a result, they become more conscious of
+how their moment-to-moment decisions can be better aligned with the
+larger issues with which they are concerned. A programmer concerned
+with energy consumption and the environment might take time to
+consider how a particular screen-saver routine impacts the total
+energy consumption pattern of a particular monitor. The programmer
+already understands that if the code is used on millions of machines,
+each effort to reduce energy consumption by a minuscule amount can
+amplify into tremendous energy savings. (Indeed, it has been
+calculated that the energy required to power all the televisions and
+computers in America that are currently in sleep mode equals the
+output of an entire average-size power plant.)
+
+The experience of open source development, or even just the acceptance
+of its value as a model for others, provides real-life practice for
+the deeper change in perspective required of us if we are to move into
+a more networked and emergent understanding of our world. The local
+community must be experienced as a place to implement policies,
+incrementally, that will eventually have an effect on the whole. For
+example, the environmental advocate who worries about the Brazilian
+rainforest will quit smoking himself before racing off to the next
+rally held to save the lungs of the planet. The woman organising
+against genetic engineering in agriculture will refuse to let her
+children eat at McDonalds, even if it requires them to bring their own
+lunch to a friend's birthday party. A consistency between belief and
+behaviour becomes the only way to make our designs on reality real.
+
+
+Closed source: no justice, no power
+
+An open source model for participatory, bottom-up and emergent policy
+will force us, or allow us, to confront the issues of our time more
+directly. Using the logic of a computer programmer, when we find we
+can't solve a problem by attacking one level of societal software, we
+proceed to the next level down. If necessary we dig all the way down
+to the machine language.
+
+For instance, today's misunderstood energy crisis provides a glaring
+example of the liability of closed source policymaking. The Western
+World is unnecessarily addicted to fossil fuels and other energy
+commodities not because alternative energy sources are unavailable,
+but because alternative business models for energy production cannot
+be fully considered without disrupting the world's most powerful
+corporations and economies. It really is as simple as that.
+
+Solar, geothermal and other renewable energy sources are quite ready
+for deployment in a wide variety of applications. They are not
+encouraged, not through tax policies nor through venture capital,
+because they don't make sense to an industry and economy that has
+based its business model on the exploitation of fixed and precious
+resources: A closed source model. As a result, we are suffering
+through a potentially irreversible environmental crisis, as well as a
+geopolitical conflict that is already spinning wildly out of control.
+
+The maintenance of such imbalances is dependent on closed source
+processes. The power of puppet dictators in the oil-producing Middle
+East is perpetuated not just by US warplanes, but by their own
+economies which derive all their wealth through the exploitation of
+resources. Were these nations required to compete in the global
+marketplace through the production of goods or services, then a
+passive, uneducated population would no longer bring their monarchs
+the wealth to which they are accustomed. As it is the peasants need
+only be educated enough to dig. And the closed source mentality
+travels all the way around the distribution cycle. Nowhere is the
+closed source imperative of an oil-based economy more evident than in
+the appointment, by America's judicial branch (though not its
+population), of a President to represent the oil industry.
+
+
+                               Conclusion
+
+The new transparency offered by the interactive mediaspace allows even
+the casually interested reader to learn how the West's foreign and
+domestic policies have been twisted to a perverse caricature of
+themselves. I do not wish here to beat the drum for a partisan
+revolution. Instead, I am to demonstrate how a growing willingness to
+engage with the underlying code of the democratic process could
+eventually manifest in a widespread call for revisions to our legal,
+economic and political structures on an unprecedented scale, except in
+the cases of full-fledged revolution. Transparency in media makes
+information available to those who never had access to it before.
+Access to media technology empowers those same people to discuss how
+they might want to change the status quo. Finally, networking
+technologies allow for online collaboration in the implementation of
+new models, and the very real-world organisation of social activism
+and relief efforts. The good news, for those within the power
+structure today, is that we are not about to enter a phase of
+revolution, but one of renaissance. We are heading not toward a
+toppling of the democratic, parliamentary or legislative processes,
+but toward their reinvention in a new, participatory context. In a
+sense, the people are becoming a new breed of wonk, capable of
+engaging with government and power structures in an entirely new
+fashion. The current regime, in the broadest sense, will have ended up
+being the true and lasting one, if it can get its head and policies
+around these renaissance modalities of increased dimensionality,
+emergence, scalability and participation.
+
+My advice? Don't beat them. Let them join you. Choose to believe that
+the renaissance I am describing has already taken place. Instead of
+looking forward to a day when justice will be won, declare that we are
+living in a just world right now. Declare that we are simply fighting
+for more justice.
+
+Movements, as such, are obsolete. They are incompatible with a
+renaissance sensibility because of the narrative style of their
+intended unfolding. They yearn forward towards salvation in the manner
+of utopians or fundamentalists: an increasing number of people are
+becoming aware of how movements of all stripes justify tremendous
+injustice in the name of that deferred future moment. People are
+actually taken out of their immediate experience and their connection
+to the political process as they put their heads down and do battle.
+It becomes not worth believing in anything.
+
+This is why we have to advocate living in the now in order to effect
+any real change. The should be no postponement of joy. Once we start
+down this path, there's can be no stopping. We begin to see the
+unreality of money. We begin to see how 'salvation' has been traded in
+for 'retirement' as the new ultimate goal for which Westerners suspend
+their lives and their ethics. (People work for companies they hate,
+and then invest in corporations whose ethics they detest, in order to
+guarantee a good retirement). We see the artificial obstacles to
+appropriate energy policy, international relations, urban planning and
+affordable healthcare as what they are: artificial. Meanwhile, what we
+can accomplish presents itself on a much more realistic scale when we
+engage with it in the moment and on a local level.
+
+Yes, political structures do need to be changed. But we may have to
+let their replacements emerge from the myriad of new relationships
+that begin to spawn once people are acting and communicating in the
+present, and on a realistic scale, instead of talking about a
+fictional future.
+
+The underlying premise is still dependent on the notion of progress.
+Indeed, things must get better or there's no point to any of it. But
+our understanding of progress must be disengaged from the false goal
+of growth, or the even more dangerous ideal of salvation. Our
+understanding must be reconnected with the very basic measure of
+social justice: how many people are able to participate?
+
+Our marketing experts tell us that they are failing in their efforts
+to advertise to internet users and cultural progressives because this
+new and resistant psychographic simply wants to engage, authentically,
+in social experiences. This should sound like good news to anyone who
+authentically wants to extend our collective autonomy. This population
+is made up not of customers to whom you must sell, or even
+constituents to whom you must pander, but partners on whom you can
+rely and with whom you can act.
+
+Treat them as such, and you might be surprised by how much you get
+done together.
+
+
+
+1 Karen Armstrong, A History of God, (London: Vintage, 1999)
+
+2 First Monday, The High-Tech Gift Economy, Richard Barbrook., 1998,
