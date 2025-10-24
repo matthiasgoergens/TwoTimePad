@@ -1,0 +1,220 @@
+Scanned, interpreted, and amended in the United Kingdom by Mike
+Calder-Smith. Insofar as any copyright by any legal theory exists in
+this work by scanning, interpretation, or addition, such rights are
+freely given into the Public Domain.
+
+
+The maps of the Classical Atlas have been scanned at a sufficient
+resolution to enable easy reading, but they may not display at an
+appropriate scale, depending on screen size, resolution, and window
+size; we recommend you use software that allows zooming to view them.
+
+The numbers of the maps given in the Index pages are the same as those
+in the list in the main body of the Atlas, allowing cross-reference.
+
+Note that the Latitude and Longitude given in the Index pages are from
+Greenwich, while the maps, as common with many of the times, have grids
+with Longitudes given both from Greenwich and Ferro. If you use the
+latter you won't find your target.
+
+
+
+
+INTRODUCTION
+
+The accompanying Atlas has been included in this series for the greater
+convenience of the reader of "Grote's Greece" and other works that ask
+a continual reference to maps of ancient and classical geography. The
+disadvantage of having to turn perpetually from the text of a volume to
+a map at its end, or a few pages away, is often enough to prevent the
+effective use of the one in elucidating the other. Despite some slight
+variations of spelling in the classical place-names used by different
+authors, there need be no difficulty in adapting the same Atlas to
+various works, whether they are English versions of historians like
+Herodotus or Livy, or English histories of the ancient world, such as
+Grote's and Gibbon's. Taking the case of Grote, he preferred, as we
+know, the use of the "K" in Greek names to the usual equivalent "C," and
+he retained other special forms of certain words. A comparative list of
+a few typical names which appear both in the index to his "History of
+Greece" in this series, and in the index to the present Atlas, will show
+that the variation between the two is regular and, fairly uniform and
+easy to remember:
+
+
+GROTE'S spelling  CLASSICAL ATLAS      GROTE'S SPELLING   CLASSICAL ATLAS
+
+Adrumetum         Hadrumetum           Hydra              Hydrea
+Ægean             Ægæan                Iasus              Iassus
+Akanthus          Acanthus             Kabala             Cabalia
+Akarnania         Acarnania            Nile               Nilus
+Akesines          Acesines             Olympieion         Olympieum
+Aktê              Acte                 Oneium             neum
+Chæroneia         Chæronea             Paliké             Palica
+Dekeleia          Decelea              Pattala            Patala
+Dyrrachium        Dyrrhachium          Peiræum            Piræum
+Eetioneia         Eetionea             Phyle              Phylæ
+Egypt             Ægyptus              Pisa               Pisæ
+Eresus            Eressus              Pylus              Pylos
+Erytheia          Erythia              Thessaly           Thessalia
+Helus             Helos                Thrace             Thracia
+
+
+By comparing in the same way the place-names in Gibbon's and other
+histories, the reader will need no glossarist in using the Atlas to
+lighten their geographical allusions. It is not only when he comes to
+actual wars, campaigns and sieges that he will find a working chart
+of advantage. When he reads in Grote of the Ionic colonization of Asia
+Minor, and wishes to relate the later view of its complex process to the
+much simpler account given by Herodotus, he gains equally by having a
+map of the region before him.
+
+We realize how Grote himself worked over his topographical notes, eking
+out his own observations with map, scale and compass, when we read
+his preliminary survey of Greece, in the second volume of his history.
+"Greece proper lies between the 36th and 40th parallels of north
+latitude and between the 21st and 26th degrees of east longitude. Its
+greatest length, from Mount Olympus to Cape Tænarus, may be stated
+at 250 English miles; its greatest breadth, from the western coast of
+Akarnania to Marathon in Attica, at 180 miles; and the distance eastward
+from Ambrakia across Pindus to the Magnesian mountain Homolê and the
+mouth of the Peneius is about 120 miles. Altogether its area is somewhat
+less than that of Portugal." But as to the exact limits of Greece
+proper, he points out that these limits seem not to have been very
+precisely defined even among the Greeks themselves.
+
+The chain called Olympus and the Cambunian mountains, ranging east and
+west and commencing with the Ægean Sea or the Gulf of Therma near the
+fortieth degree of north latitude, Grote continues, "is prolonged
+under the name of Mount Lingon until it touches the Adriatic at the
+Akrokeraunian promontory. The country south of this chain comprehended
+all that in ancient times was regarded as Greece or Hellas proper,
+but it also comprehended something more. Hellas proper (or continuous
+Hellas, to use the language of Skylax and Dikæarchus) was understood to
+begin with the town and Gulf of Ambrakia : from thence northward to
+the Akrokeraunian promontory lay the land called by the Greeks Epirus--
+occupied by the Chaonians, Molossians, and Thesprotians, who were termed
+Epirots and were not esteemed to belong to the Hellenic aggregate."
+
+Beside this survey of Hellas proper or continuous Hellas, as Grote
+presented it, he set the word-map of Italy that Gibbon draws--Italy
+changing its face under the Roman civilization: "Before the Roman
+conquest, the country which is now called Lombardy was not considered
+as a part of Italy. It had been occupied by a powerful colony of Gauls,
+who, settling themselves along the banks of the Po, from Piedmont to
+Romagna, carried their arms and diffused their name from the Alps to the
+Apennine. The Ligurians dwelt on the rocky coast, which now forms the
+republic of Genoa. Venice was yet unborn; but the territories of
+that state, which lie to the east of the Adige, were habited by the
+Venetians. The middle part of the peninsula, that now composes the duchy
+of Tuscany and the ecclesiastical state, was the ancient seat of the
+Etruscans and Umbrians; to the former of whom Italy was indebted for the
+first rudiments of a civilized life. The Tiber rolled at the foot of the
+seven hills of Rome, and the country of the Sabines, the Latins, and the
+Volsci, from that river to the frontiers of Naples, was the theatre
+of her infant victories. On that celebrated ground the first consuls
+deserved triumphs, their successors adorned villas, and their posterity
+have erected convents. Capua and Campania possessed the immediate
+territory of Naples; the rest of the kingdom was inhabited by many
+warlike nations, the Marsi, the Samnites, the Apulians, and the
+Lucanians; and the sea-coasts had been covered by the flourishing
+colonies of the Greeks. We may remark, that when Augustus divided Italy
+into eleven regions, the little province of Istria was annexed to that
+seat of Roman sovereignty."
+
+As we see by this topical extract, Gibbon's practice in the use of Latin
+place-names is very much freer than Grote's in the use of the Greek. A
+few comparative instances from the Atlas will suffice:
+
+
+Gibbon's spelling   Classical Atlas     Gibbon's spelling    Classical Atlas
+
+Antioch             Antiochia           Naples               Neapolis prius
+Apennines           Apenninus                                      Parthenope
+Dardenellcs         Hellespontus        Osrhoene             Osroene
+Ctesiphon           Ctesipon            Thrace               Thracia
+Egypt               Ægyptus             Ostia                Ostia
+Gau1                Gaula               Cordova              Corduba
+Genoa               Genua
+
+
+Among other works which the present Atlas will help to illustrate,
+editions of Gibbon's "Decline and Fall of the Roman Empire," and
+of Merivale's Roman History which leads up to it, are already in
+preparation; it is hoped to publish in the series also an edition of
+Herodotus, the father of the recorders of history and geography, who
+realized almost as well as did Freeman the application of the two
+records, one to another. The good service of the Classical Atlas,
+however is not defined by any possible extension of Everyman's Library.
+The maps of Palestine in the time of our Lord and under the older Jewish
+dispensation, of Africa and of Egypt, and that, now newly added, of the
+Migrations of the Barbarians, and the full index, give it the value of
+a gazetteer in brief of the ancient world, well adapted to come into the
+general use of schools where an inexpensive work of the kind in compact
+form has long been needed.
+
+The present Atlas has the advantage of being the result of the
+successive labour of many hands. Its original author was Dr. Samuel
+Butler, sometime head-master of Shrewsbury school and afterwards Bishop
+of Lichfield and Coventry. He edited Aeschylus, and was in his way a
+famous geographer. The work was at a later date twice revised, and its
+maps were re-drawn, under the editorship of his son. It has now been
+again revised and enlarged to suit the special needs of this series.
+
+
+
+LIST  OF  MAPS
+
+      1. ORBIS VETERIBUS NOTUS
+      2. BRITTANNIA
+      3. HISPANIA
+      4. GALLIA
+      5. GERMANIA
+      6. VINDELICIA,  RHÆTIA,  NORICUM, PANNONIA,  ET ILLYRICUM
+      7. ITALÆ PARS SEPTENTRIONALIS
+      8. ITALÆ PARS MEDIA
+      9. ITALÆ PARS MERIDIONALIS
+      10. MACEDONIA, MOESIA, THRACIA ET DACIA
+      11. GRÆCIA EXTRA PELOPONNESUM
+      12. PELOPONNESUS ET GRÆCIA MERIDIONALIS
+      13. INSULÆ MARIS ÆGÆI
+      14. ASIA MINOR
+      15. ORIENS
+      16. SYRIA, MESOPOTAMIA, ASSYRIA, ETC.
+      17. PALESTINA, TEMPORIBUS JUDICUM ET REGUM
+      18. PALESTINA, CHRISTI ET APOSTOLORUM EJUS TEMPORIBUS
+      19. ARMENIA, COLCHIS, IBERIA, ALBANIA, ETC.
+      20. AFRICA ANTIQUA
+      21. AFRICA SEPTENTRIONALIS
+      22. ÆGYPTUS
+      23. ROMA ET VICINIA ROMA
+      24. ATHENÆ ET SYRACUSÆ
+      25. ORBIS HERODOTI
+      26. ORBIS PTOLEMÆI
+      27. MIGRATIONS OF THE BARBARIANS
+
+
+Index to the Classical Atlas:
+
+Abacænum to Acimincum Iolcos to Lactodorum
+Acinasis, Fl. to Ægiale Lactura to Leusaba
+Ægialus to Aliso Leusinum to Macomada Syrtium
+Alisontia, Fl. to Angitula, Fl. Macomades to Mastusia, Pr.
+Angli to Aquæ Neri Masulibium Horrea to Methora
+Aquæ Originis to Ariolica Methydrium to Naharvali
+Ariolica to Atlas Montes Naharvali, L. to Noviodunum
+Atræ to Bandrobrica Noviodunum to Orcynius Saltus
+Bandusiæ, Fons to Bythinia Ordessus vel Ardiscus, Fl. to Paran, Desert of
+Bythinium to Cæc Metellæ, Sep. Paran vel Faran to Pharnacotus, Fl.
+Cæciliana to Carasa Pharpar, R. to Platanistus, Pr.
+Caravis to Celenderis Platanodes, Pr. to Purpurariæ, I
+Celetrum to Chrysas, Fl. Putea Nigra to Rubricatus, Fl.
+Chrysopolis to Combretonium Rucantii to Sanetio
+Combria to Crissæus Sinus Sanigæ to Segusio
+Crithote, Pr. to Deba Segustero to Sinnus, Fl.
+Debeltus to Duria Minor, Fl. Sinonia, I. to Suinas, Fl.
+Durius, Fl. to Eristum Suindinum to Taxila
+Erite to Forum Egurrorum Taygetus, M. to Thuria
+Forum Fulvii vel Valentinum to Germanicus Oceanus Thuria to Tricornium
+Geronthræ to Helicea Tricrana, I. to Uscosium
+Helicon, M. to Horrea Cælia Uscudama to Viminacium
+Horrea Publica to Inui Castrum Viminalis, M. to Zyrinæ
