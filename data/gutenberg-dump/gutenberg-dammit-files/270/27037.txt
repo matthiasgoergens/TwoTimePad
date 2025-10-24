@@ -1,0 +1,1166 @@
+TABLE
+
+
+# Sommaire
+
+# Introduction
+
+1. Les débuts de l’internet
+
+2. L’internet dans la Francophonie
+
+3. Des livres à vendre sur le web
+
+4. Les éditeurs sur le réseau
+
+5. La presse se met en ligne
+
+6. Les bibliothèques et l'aventure internet
+
+7. La bibliothèque numérique démarre
+
+8. Une société de l’information?
+
+# Conclusion
+
+# Personnes citées
+
+# Sites et pages web
+
+
+# SOMMAIRE
+
+
+L’internet et les technologies numériques sont en train de bouleverser le monde
+du livre. Imprimé sous de multiples formes depuis plus de cinq siècles, le livre
+se convertit. Si le livre imprimé a toujours sa place, et pour longtemps encore,
+d’autres supports se développent, et les habitudes de travail changent. Entre
+1993 et 1998, ces changements sont essentiellement la mise en ligne de très
+nombreux sites web, la large diffusion de textes électroniques, la création de
+librairies en ligne, l’apparition d’éditeurs électroniques, la numérisation à
+grande échelle de documents imprimés, la constitution de bibliothèques
+numériques et enfin le développement de catalogues en ligne. Quelles sont les
+implications pour tous les professionnels du livre (écrivains, journalistes,
+éditeurs, libraires, bibliothécaires-documentalistes, professeurs, chercheurs,
+traducteurs, etc.)? Quelles sont les perspectives pour les prochaines années?
+Basé sur le suivi de l’actualité et sur de nombreux entretiens, Le Livre 010101
+(1993-1998) tente de faire le tour de la question. Il est complété par un
+glossaire, une sélection de sites web et une série de signets.
+
+= L’auteure
+
+Adepte de l’internet, du télétravail et du zéro papier, Marie Lebert est
+traductrice-éditrice auprès d’une agence des Nations Unies, pour gagner sa vie.
+A titre personnel, elle est également chercheuse, écrivain et journaliste. Elle
+s’intéresse entre autres aux bouleversements apportés dans le monde du livre par
+l’internet et les technologies numériques. Elle prône aussi la diffusion libre
+du savoir et la création de nouvelles structures éditoriales s’affranchissant
+des modèles traditionnels.
+
+= L'éditeur
+
+Le Livre 010101 (1993-1998) est publié en ligne sur le Net des études françaises
+(NEF). Créé en mai 2000 par Russon Wooldridge, professeur au département
+d’études françaises de l’Université de Toronto, le NEF se veut d’une part "un
+filet trouvé qui ne capte que des morceaux choisis du monde des études
+françaises, tout en tissant des liens entre eux", d’autre part un réseau dont
+les "auteurs sont des personnes oeuvrant dans le champ des études françaises et
+partageant librement leur savoir et leurs produits avec autrui", deux belles
+définitions qui s’appliquent aussi au Livre 010101. Un deuxième volume, Le Livre
+010101 (1998-2003), couvre la période suivante.
+
+= Remerciements
+
+Le Livre 010101 (1993-1998) doit beaucoup aux professionnels du livre et de la
+presse qui ont accepté de répondre par courriel à mes questions en juin et
+juillet 1998. Qu’ils en soient ici chaleureusement remerciés. Ces entretiens se
+sont poursuivis ensuite, entre 1999 et 2003. La quasi-totalité des entretiens
+est publiée en ligne sur le Net des études françaises (NEF). [Voir le livre:
+Entretiens (1998-2001).]
+
+
+# INTRODUCTION
+
+
+L’internet et les technologies numériques sont en train de bouleverser le monde
+du livre. Imprimé sous de multiples formes depuis plus de cinq siècles, le livre
+se convertit. Si le livre imprimé a toujours sa place, et pour longtemps encore,
+d’autres supports se développent, et les habitudes de travail changent. Comment
+le monde de l’imprimé accepte-t-il ce nouvel outil d’information qu’est
+l’internet? De quelle manière l’internet intègre-t-il les différents secteurs de
+l’imprimé? Quelles sont les implications pour tous les professionnels du livre
+(écrivains, journalistes, éditeurs, libraires, bibliothécaires-documentalistes,
+professeurs, chercheurs, traducteurs, etc.)? Quelles sont les perspectives pour
+les prochaines années?
+
+En 1998, si l’imprimé a déjà plus de cinq siècles, l’internet entame seulement
+sa cinquième année. Les véritables débuts de l’internet à l’échelle mondiale
+datent du milieu des années 1990, avec une restructuration en profondeur des
+communications à l’échelon personnel et professionnel, et une restructuration
+des méthodes de travail à tous les niveaux. En effet, si l’internet existe
+depuis 1974, et si l’invention du World Wide Web, beaucoup plus récente, date de
+1990, l’internet ne débute vraiment sa progression qu’à partir de novembre 1993,
+suite à la création de Mosaic, le premier logiciel de navigation et l’ancêtre de
+Netscape.
+
+Le monde de l’imprimé et celui de l’internet sont-ils antagonistes ou
+complémentaires? Quelle est leur influence l’un sur l’autre? Comment le monde de
+l’imprimé accepte-t-il ce nouvel outil qu’est l’internet? De quelle manière
+l’internet prend-il en compte cet outil pluricentenaire qu’est l’imprimé?
+Travaillent-ils de concert? Se font-ils concurrence? Quel est leur avenir
+commun? Le monde de l’internet va-t-il complètement avaler l’univers de
+l’imprimé, ou l’imprimé va-t-il au contraire domestiquer l’internet en tant
+qu’outil supplémentaire? Comment les professionnels du livre voient-ils la
+déferlante qui s’abat sur leur vie professionnelle, relativement stable
+jusque-là? Sans compter toutes les interconnexions et transformations dont nous
+n’avons pas encore idée, puisqu’on nous assure régulièrement que l’internet est
+en train de révolutionner le monde au même titre que l’écriture et l’imprimerie
+en d’autres temps.
+
+En 1998, de plus en plus d’oeuvres du domaine public sont disponibles en version
+électronique sur le web. On a toujours loisir d’acheter ensuite la version
+imprimée si on préfère lire cinq cents pages dans son lit plutôt que sur son
+ordinateur. Certains textes ne sont désormais disponibles qu’en version
+électronique, et les livres numériques / électroniques sont pour bientôt. De
+plus en plus de libraires et d’éditeurs créent un site web. Certains libraires
+et éditeurs en ligne naissent directement sur le web. De plus en plus de
+journaux et magazines ont eux aussi un site web, sur lequel on trouve le texte
+intégral ou des extraits du dernier numéro, les archives des numéros précédents,
+des dossiers, etc. En bref, l’internet devient indispensable pour se documenter,
+avoir accès aux documents et élargir ses connaissances. L’internet amène aussi
+son lot de questions à résoudre. Qu’en est-il par exemple du droit du
+cyberespace et du respect de la propriété intellectuelle? Qu’en est-il du
+chômage, des contrats précaires et du stress entraînés par la convergence
+multimédia?
+
+Ce livre ne prend malheureusement pas en compte - ou si peu - les vastes
+domaines que sont les manuels d’enseignement et les livres pour enfants. Ses
+quelque 150 pages n’y suffiraient pas, et chaque domaine mériterait des mois de
+recherche et une étude à part.
+
+Le monde de l’internet se développe et se transforme à une telle vitesse que
+certaines des informations présentes dans ces pages risquent d'être rapidement
+obsolètes. Tant pis, ou plutôt tant mieux. Le monde de l’internet est rapide.
+Ceci n’empêche pas un point de la situation à un moment donné, même si ce point
+devient très rapidement historique et passe dans les archives.
+
+Une première version de ce livre est publiée en 1999 par les éditions 00h00,
+sous le titre De l’imprimé à internet (disponible entre avril 1999 et décembre
+2002 au format PDF et en version imprimée). En 2003, ce livre est entièrement
+remanié et devient Le Livre 010101 (1993-1998).
+
+Pourquoi ce titre Le Livre 010101? Pour regrouper sous une expression commune
+tous les changements apportés par l’internet et les technologies numériques dans
+le monde du livre. Entre 1993 et 1998, ces changements sont essentiellement la
+mise en ligne de très nombreux sites web, la large diffusion de textes
+électroniques, la création de librairies en ligne, l’apparition d’éditeurs
+électroniques, la numérisation à grande échelle de documents imprimés, la
+constitution de bibliothèques numériques et enfin le développement de catalogues
+en ligne. Ces changements se poursuivent les années suivantes et sont recensés
+dans un deuxième ouvrage, Le Livre 010101 (1998-2003). Pourquoi le nombre 010101
+plutôt qu’un autre? Parce que, en numération binaire, 010101 donne 21, un nombre
+qui, s’il est symbolique, n’est pas très élevé, et montre qu’il reste beaucoup à
+faire.
+
+
+1. LES DEBUTS DE L'INTERNET
+
+
+[1.1. Chiffres et éléments techniques / 1.2. Un outil de diffusion / 1.3.
+Info-riches et info-pauvres]
+
+En 1998, l’internet fait désormais partie de notre vie quotidienne, grâce au
+développement rapide du web suite à l’apparition du premier logiciel de
+navigation en novembre 1993. D’après le Computer Industry Almanach, document de
+référence sur l'évolution du cyberespace, le nombre d’usagers se chiffre à 100
+millions à la fin de 1997, avec un million de nouveaux utilisateurs chaque mois.
+Ce nombre devrait rapidement être multiplié par trois, pour atteindre 300
+millions d’internautes en l'an 2000.
+
+
+1.1. Chiffres et éléments techniques
+
+
+= L’internet
+
+Apparu en 1974 et en fort développement depuis 1983, l’internet est défini comme
+un ensemble de réseaux commerciaux, réseaux publics, réseaux privés, réseaux
+d’enseignement, réseaux de services, etc., qui opèrent à l’échelle planétaire.
+Outre le World Wide Web, plus communément appelé web, l’internet inclut de
+nombreux services: courrier électronique, forums de discussion, IRC (internet
+relay chat), visioconférence, etc. L’internet offre des ressources sans
+précédent dans les domaines de l’information, de la communication et de la
+diffusion, et ces ressources augmentent de manière spectaculaire d'une année sur
+l'autre.
+
+Après avoir été un phénomène expérimental enthousiasmant quelques branchés,
+l’internet envahit le monde au milieu des années 1990. Les signes cabalistiques
+des adresses web fleurissent peu à peu sur les livres, les magazines, les
+affiches et les publicités, sans parler de tous les produits qu’on achète au
+supermarché. En 1999, on nous promet pour bientôt l’internet dans tous les
+foyers. On parle de mariage de l’ordinateur et de la télévision avec écrans
+interchangeables ou intégrés, et d'accès à l’internet par le même biais que la
+télévision câblée.
+
+Une autre preuve tangible de l’invasion de l’internet dans notre vie quotidienne
+est que sa majuscule d’origine tend peu à peu à s’estomper. Internet - qui était
+encore une planète à part voici peu de temps - est peu à peu remplacé par
+l’internet, avec un "i" minuscule. De nom propre il devient nom commun, au même
+titre que l’ordinateur, le téléphone ou le fax. La même remarque vaut pour le
+World Wide Web, qui devient tout simplement le web.
+
+Les paragraphes qui suivent ne se veulent en aucune manière une présentation
+complète de l’internet. Les ouvrages abondent dans ce domaine. On en trouvera
+une sélection dans la liste de documents imprimés située à la fin de ce livre.
+Le but de ces quelques pages de présentation est seulement de situer l’internet
+pour une meilleure compréhension du sujet, à savoir les changements apportés par
+ce nouveau médium dans le monde du livre. De même, on utilise les termes
+techniques uniquement quand c’est indispensable, et ceux-ci sont
+systématiquement expliqués dans le corps du texte et dans le glossaire. Etant
+assez critique à l’égard des informaticiens employant un langage hermétique
+compris d’eux seuls alors qu’ils sont censés se faire comprendre du grand
+public, on a tenté d’éviter de tomber dans les mêmes travers.
+
+En ce qui concerne le vocabulaire de l’internet, on a choisi autant que possible
+l’équivalent français d’un terme anglais quand celui-ci existe. Mais - que les
+défenseurs inconditionnels de la langue française nous pardonnent - on utilise
+aussi quelques termes résolument anglophones parce que tout simplement
+intraduisibles si on veut que le texte reste compréhensible. On a également
+tenté d’éviter le ridicule. Par exemple, CD-Rom reste CD-Rom - orthographe
+utilisée entre autres par Libération et Le Monde - et non cédérom, comme le
+préconise l’Académie française. CD-Rom étant l’acronyme de: compact disc – read
+only memory, il n’y a aucune raison de le franciser.
+
+= Le web
+
+C’est le World Wide Web qui rend l’internet très populaire et qui permet sa
+progression rapide. Plus communément appelé web, ou encore WWW ou W3, le World
+Wide Web est conçu par Tim Berners-Lee en 1989 au CERN (Laboratoire européen
+pour la physique des particules) à Genève. Mis au point en 1990, le web devient
+opérationnel en 1991. Il révolutionne la consultation de l’internet en
+permettant la publication de documents utilisant le système hypertexte, à savoir
+un ensemble de liens hypertextes reliant les documents textuels et visuels entre
+eux au moyen d’un simple clic de souris. Désormais interactive, l’information
+devient beaucoup plus attractive.
+
+Le web est très postérieur à l’internet, réseau informatique global créé en 1974
+et connectant gouvernements, sociétés, universités, etc., depuis 1983. Même si,
+improprement, on les considère souvent comme synonymes, le web n’est qu’un des
+secteurs de l’internet, qui englobe de nombreux autres services: courrier
+électronique, forums de discussion, visioconférence, FTP (file transfer
+protocol), IRC (internet relay chat), Telnet (terminal network protocol), etc.
+
+Le web bénéficie logiquement de l’infrastructure de l’internet, en commençant
+par les Etats-Unis. C’est la raison pour laquelle ce pays a quelques longueurs
+d’avance sur le reste du monde. On se plaint souvent de l’hégémonie américaine
+alors qu’il s’agit surtout d’une avance technique. Comme on le verra plus loin,
+malgré tous les efforts des dinosaures politiques et commerciaux, il est
+difficile à quelque organisme que ce soit de mettre la main sur le web. C’est ce
+qui fait sa force.
+
+Un site web est souvent constitué d’un ensemble de pages se déroulant à l’écran
+et reliées entre elles par des liens hypertextes, en général soulignés et d’une
+couleur différente de celle du texte. Grâce à un simple clic, l’utilisateur est
+renvoyé soit à une autre partie de la page web, soit à une autre page du même
+site, soit à un autre site. Cette interactivité s’accroît encore grâce à la
+possibilité de liens hypermédias permettant de relier des textes et des images
+avec des graphiques, des vidéos ou des bandes sonores.
+
+A la question de Pierre Ruetschi, journaliste à la Tribune de Genève: "Sept ans
+plus tard, êtes-vous satisfait de la façon dont le web a évolué?", Tim
+Berners-Lee, son créateur, répond en décembre 1997 que, s’il est heureux de la
+richesse et de la variété de l’information disponible, le web n’a pas encore la
+puissance prévue dans sa conception d’origine. Il aimerait "que le web soit plus
+interactif, que les gens puissent créer de l’information ensemble", et pas
+seulement consommer celle qui leur est proposée. Le web doit devenir un
+véritable "média de collaboration, un monde de connaissance que nous
+partageons".
+
+Si le web doit devenir plus créatif, la solidarité entre internautes est déjà
+effective. Christiane Jadelot, ingénieure d'études à l'INaLF-Nancy (INaLF:
+Institut national de la langue française), relate en juin 1998: "J'ai commencé à
+utiliser vraiment l'internet en 1994, je crois, avec un logiciel qui s'appelait
+Mosaic. J'ai alors découvert un outil précieux pour progresser dans ses
+connaissances en informatique et linguistique, littérature... Tous les domaines
+sont couverts. Il y a le pire et le meilleur, mais en consommateur averti, il
+faut faire le tri de ce que l'on trouve. J'ai surtout apprécié les logiciels de
+courrier, de transfert de fichiers, de connexion à distance. J'avais à cette
+époque des problèmes avec un logiciel qui s'appelait Paradox et des polices de
+caractères inadaptées à ce que je voulais faire. J'ai tenté ma chance et posé la
+question dans un groupe de News approprié. J'ai reçu des réponses du monde
+entier, comme si chacun était soucieux de trouver une solution à mon problème!"
+
+= Les navigateurs
+
+Si le web est opérationnel dès 1991, il ne se popularise vraiment qu’à partir de
+novembre 1993, suite à l’apparition du premier navigateur, Mosaic, développé par
+une équipe du National Center for Supercomputing Applications (NSCA, Etats-Unis)
+et distribué gratuitement sur le réseau.
+
+Début 1994, une partie de l’équipe de Mosaic crée la Netscape Communications
+Corporation pour commercialiser un nouveau logiciel sous le nom de Netscape
+Navigator. Il est suivi en 1995 d'un deuxième navigateur, l’Internet Explorer de
+Microsoft. Lancé en 1996, un troisième logiciel de navigation, Opera, combine
+les avantages des deux grands navigateurs du marché tout en étant beaucoup plus
+léger, stable et rapide.
+
+De par leur complexité, les adresses web sont souvent difficiles à retenir. Les
+navigateurs intègrent donc une fonction permettant la gestion de favoris,
+également appelés signets. Ces favoris permettent à chacun de constituer son
+propre répertoire de sites web sans devoir relancer une recherche ou bien
+retaper entièrement l’adresse pour chaque consultation.
+
+= Annuaires et moteurs de recherche
+
+Le web se développant rapidement, un système de classement devient vite
+indispensable. On assiste à l’apparition d’annuaires, avec classement des sites
+par le cerveau humain, et de moteurs de recherche, avec gestion totalement
+informatisée.
+
+L’annuaire le plus utilisé est Yahoo!, acronyme de: Yet Another Hierarchical
+Officious Oracle! Créé en 1994 par deux étudiants de l’Université de Stanford
+(Californie) pour recenser les sites web et les classer par thèmes, Yahoo!
+devient rapidement une institution. Divisé en 63 grandes catégories, il comprend
+notamment des secteurs sur les bibliothèques, les bibliothèques numériques, les
+textes électroniques, etc. Consultable en anglais, allemand, coréen, français,
+japonais, norvégien et suédois, Yahoo! travaille de concert avec le moteur de
+recherche AltaVista. Quand une recherche ne donne pas de résultat sur l’un, elle
+est automatiquement aiguillée sur l’autre. De plus, depuis la fin 1998,
+l’utilisateur peut personnaliser sa page d’accueil en utilisant Mon Yahoo!
+
+Les moteurs de recherche permettent de lancer une requête dans de gigantesques
+bases de données entièrement automatisées. Le moteur de recherche le plus
+utilisé, AltaVista, est disponible dans quatorze langues, dont le français. La
+recherche par sujets est possible dans AltaVista Subject Search, une fonction
+qui sera plus tard intégrée dans la page d’accueil.
+
+= La connexion au réseau
+
+En 1998, le seul véritable point faible du web, ce sont les délais d’attente
+imprévisibles nécessaires pour se connecter à son fournisseur d’accès à
+l’internet (FAI). Ces délais mettent les nerfs de l’internaute pressé à rude
+épreuve et devraient être résolus à plus ou moins long terme. Après avoir été un
+véritable périple initiatique, se connecter pour la première fois au réseau
+devient plus facile que par le passé (avec l’iMac par exemple), les
+constructeurs prenant enfin en considération le fait que les usagers ne sont pas
+tous des professionnels de l’informatique. Une fois qu’on est connecté, naviguer
+sur le web demande également de la patience, le chargement rapide des pages web
+étant encore du domaine de l’avenir, surtout pour les sites comportant des
+images. L’usager peut toutefois être confiant, puisque ces quelques problèmes
+devraient disparaître dans les prochaines années. "Il a fallu inventer la hache
+de pierre avant de construire la Tour Eiffel", écrit à juste titre Jean-Paul,
+internaute convaincu, en juin 1998.
+
+Pour le moment, le plus souvent, un particulier se connecte à l’internet par le
+biais d’un modem branché sur sa ligne de téléphone. Ce modem permet de
+transformer les données numériques de l’ordinateur en données analogiques
+pouvant être transmises par les fils de cuivre de la ligne téléphonique, et
+inversement. La ligne de téléphone constitue une bande passante étroite, le
+débit ne dépassant pas 33,6 puis 56 Kbps (kilobits par seconde).
+
+A la bande passante étroite succéderont la bande passante moyenne (comme le
+RNIS) puis la bande passante large (comme l’ADSL), qui éviteront les délais de
+connexion et permettront un chargement rapide des images. D’ores et déjà, la
+carte RNIS (réseau numérique à intégration de services) autorise une
+transmission rapide des données par le câble du téléphone, parallèlement à la
+transmission de la voix et du fax. Le procédé ADSL (asymmetric digital
+subscriber line) utilise également le câble du téléphone, avec une technologie
+différente et un débit de transmission supérieur au RNIS.
+
+Aux traditionnels câbles métalliques succèdent les câbles en fibres optiques,
+qui permettent la transmission des données à très haut débit. Ces câbles
+utilisent la technologie ATM (asynchronous tranfer mode), un protocole pouvant
+transmettre tout type d’information, y compris la voix et la vidéo, par
+l’acheminement indépendant de cette information fragmentée en de multiples
+paquets et reconstituée à l’arrivée pour recomposer l’information initiale, le
+tout dans un délai infime.
+
+Dans leur livre Cyberplanète: notre vie en temps virtuel (paru en 1998 aux
+éditions Autrement), Philip Wade et Didier Falkand indiquent que les Etats-Unis
+installent 6.000 kilomètres de câbles en fibres optiques par jour. La tâche est
+telle que, à ce rythme, il leur faudra 890 ans et 700 milliards de dollars
+d'investissement pour remplacer toutes les lignes de téléphone classiques. Pour
+une opération similaire, le Japon aura besoin de quinze ans et 500 milliards de
+dollars.
+
+Pour permettre des échanges de données rapides sans câblage, on envisage
+d’installer des satellites en orbite basse d’ici 2005. Situés à moins de 2.000
+km d'altitude, ces satellites auront un temps de réponse de vingt millisecondes,
+correspondant à celui d’un câble en fibres optiques. En 1998, plusieurs
+programmes de recherche sont en cours, dont le programme européen Skybridge et
+les programmes américains Celestru et Teledesic.
+
+Techniquement parlant, on s’interroge souvent sur le retard de l’Europe par
+rapport aux Etats-Unis. Qu’en pense Tim Berners-Lee, le créateur du web?
+Interviewé en décembre 1997 par Pierre Ruetschi, journaliste à la Tribune de
+Genève, il répond en expliquant l’avance des Etats-Unis par les gros
+investissements faits par le gouvernement. Il insiste aussi sur l’avance
+technologique de l’Europe dans d’autres domaines connexes, par exemple le
+minitel, les cartes à puce et les téléphones cellulaires.
+
+
+1.2. Un outil de diffusion
+
+
+= Le développement de l’internet
+
+Sur le site de l’Internet Society (ISOC), organisme professionnel international
+coordonnant le développement du réseau, le document A Brief History of the
+Internet propose de l’internet une triple définition. L’internet est: a) un
+instrument de diffusion internationale, b) un mécanisme de diffusion de
+l’information, c) un moyen de collaboration et d’interaction entre les individus
+et les ordinateurs, indépendamment de leur situation géographique.
+
+Selon ce document, bien plus que toute autre invention (télégraphe, téléphone,
+radio ou ordinateur), l’internet révolutionne de fond en comble le monde des
+communications. Il représente un des exemples les plus réussis d’interaction
+entre un investissement soutenu dans la recherche et le développement d’une
+infrastructure de l’information, tous deux l’objet d’un réel partenariat entre
+les gouvernements, les industries et les universités.
+
+Sur le site du World Wide Web Consortium (W3C), Bruce Sterling décrit pour sa
+part le développement spectaculaire de l’internet dans Short History of the
+Internet. L’internet se développe plus vite que les téléphones cellulaires ou
+les télécopieurs. En 1996, sa croissance est de 20% par mois. Le nombre des
+machines ayant une connexion directe TCP/IP (transmission control protocol /
+internet protocol) a doublé depuis 1988. D’abord présent dans l’armée et dans
+les instituts de recherche, l’internet déferle dans les écoles, les universités
+et les bibliothèques, et il est également pris d’assaut par le secteur
+commercial.
+
+Bruce Sterling s’intéresse aussi aux raisons pour lesquelles on se connecte à
+l’internet. Une des raisons essentielles lui semble être la liberté. L’internet
+est un exemple d’"anarchie réelle, moderne et fonctionnelle". Il n’y a pas de
+société régissant l’internet. Il n’y a pas non plus de censeurs officiels, de
+patrons, de comités de direction ou d’actionnaires. Toute personne peut parler
+d’égale à égale avec une autre, du moment qu’elle se conforme aux protocoles
+TCP/IP, des protocoles qui ne sont pas sociaux ou politiques mais strictement
+techniques.
+
+L’internet est aussi une bonne affaire commerciale. Contrairement à la
+téléphonie traditionnelle, il n’existe pas de frais longue distance. Et,
+contrairement aux réseaux informatiques commerciaux, il n’existe pas de frais
+d’accès, excepté l’abonnement pour se connecter. En fait, l’internet, qui
+n’existe même pas officiellement en tant qu’entité, n’a pas de facturation
+propre. Chaque fournisseur d’accès internet (FAI) est responsable de ses propres
+machines et de ses propres connexions.
+
+Les internautes constituent toutefois une véritable communauté représentée par
+plusieurs organismes internationaux, par exemple l’Electronic Frontier
+Foundation (EFF), l’Internet Society (ISOC) et le World Wide Web Consortium
+(W3C).
+
+Fondée en 1990, l’Electronic Frontier Foundation (EFF) est un organisme de
+défense des libertés civiles qui oeuvre dans l'intérêt public pour protéger le
+respect de la vie privée, la liberté d’expression, l’accès en ligne de
+l’information publique et la responsabilité civile dans les nouveaux médias.
+
+Fondée en 1992, l’Internet Society (ISOC) est un organisme professionnel
+international non gouvernemental qui rassemble divers groupes d'intérêt afin de
+coordonner et promouvoir le développement du réseau. L’ISOC est dirigée par
+Vinton Cerf, souvent appelé le père de l’internet parce qu’il est l’inventeur du
+protocole TCP/IP, à la base de tout échange de données.
+
+Fondé en 1994, le World Wide Web Consortium (W3C) est un consortium industriel
+international qui développe les protocoles communs nécessaires à la croissance
+du web. Dirigé par Tim Berners-Lee, l’inventeur du World Wide Web, il réunit les
+entreprises qui comptent dans le monde de l’internet.
+
+= L’internet et les autres médias
+
+L’internet est-il un concurrent direct de la télévision et de la lecture? Au
+Québec, un sondage réalisé en mars 1998 par l’institut Som pour le compte du
+magazine Branchez-vous! 30,7% de la population est connectée à l’internet. 28,8%
+des Québécois connectés regardent moins la télévision qu’avant. Par contre,
+seuls 12,1% lisent moins, ce qui, d'après le cybermag Multimédium, est "plutôt
+encourageant pour le ministère de la Culture et des Communications qui a la
+double tâche de favoriser l'essor de l'inforoute et celui... de la lecture!"
+
+Lors d'un entretien en janvier 1998 avec Annick Rivoire, journaliste à
+Libération, Pierre Lévy, philosophe, explique que l’internet va contribuer à la
+fin des monopoles: "Le réseau désenclave, donne plus de chance aux petits. On
+crie "ah! le monopole de Microsoft", mais on oublie de dire que l'internet sonne
+la fin du monopole de la presse, de la radio et de la télévision et de tous les
+intermédiaires."
+
+Fondateur de l'Internet Society (ISOC), Vinton Cerf insiste régulièrement sur le
+fait que l’internet relie moins des ordinateurs que des personnes et des idées.
+Il explique aussi: "Le réseau fait deux choses (...): comme les livres, il
+permet d'accumuler de la connaissance. Mais, surtout, il la présente sous une
+forme qui la met en relation avec d'autres informations. Alors que, dans un
+livre, l'information est maintenue isolée."
+
+C’est ce que Pierre Lévy définit comme l’intelligence collective: "Les réseaux
+permettent de mettre en commun nos mémoires, nos compétences, nos imaginations,
+nos projets, nos idées, et de faire en sorte que toutes les différences, les
+singularités se relancent les unes les autres, entrent en complémentarité, en
+synergie."
+
+D'après Timothy Leary, autre philosophe adepte du cyberespace, le 21e siècle
+verra l’émergence d’un nouvel humanisme, dont les idées-force seront la
+contestation de l’autorité, la liberté de pensée et la créativité personnelle,
+le tout soutenu et encouragé par la vulgarisation de l’ordinateur et des
+technologies de la communication. Dans son livre Chaos et cyberculture (publié
+en 1997 aux éditions du Lézard), il écrit: "Jamais l’individu n’a eu à sa portée
+un tel pouvoir. Mais, à l’âge de l’information, il faut saisir les signaux.
+Populariser signifie 'rendre accessible au peuple'. Aujourd’hui, le rôle du
+philosophe est de personnaliser, de populariser et d’humaniser les concepts
+informatiques, de façon à ce que personne ne se sente exclu."
+
+Lors d'une entrevue accordée en automne 1997 à François Lemelin, rédacteur en
+chef de L'Album (qui est la publication officielle du Club Macintosh de Québec),
+Jean-Pierre Cloutier, auteur des Chroniques de Cybérie, explique: "Je crois que
+le médium (l’internet, ndlr) va continuer de s'imposer, puis donner lieu à des
+services originaux, précis, spécifiques, quand on aura trouvé un modèle
+économique de viabilité. (...) Quand un nouveau médium arrive, il se fait une
+place, les autres s'ajustent, il y a une période de transition, puis une
+'convergence'. Ce qui est différent, avec internet, c'est la dimension
+interactive du médium et son impact possible. C'est la donnée sur laquelle on
+réfléchit encore, on observe. Aussi, comme médium, le net fait émerger de
+nouveaux concepts sur le plan de la communication, et sur le plan humain, et ce
+même pour les non branchés. Je me souviens (...) quand McLuhan est arrivé, fin
+des années soixante, avec son concept de 'village global' en se basant sur la
+télévision, le téléphone, et qu'il prévoyait les échanges de données entre
+ordinateurs. Eh bien il y a eu des gens, en Afrique, sans télévision et sans
+téléphone, qui ont lu et qui ont compris McLuhan. Et McLuhan a changé des choses
+dans leur conception de voir le monde. Internet a ce même effet. Il provoque une
+réflexion sur la communication, la vie privée, la liberté d'expression, les
+valeurs auxquelles on tient, celles dont on est prêt à se débarrasser, et c'est
+ça qui en fait un médium si puissant, si important."
+
+= Un réseau qui devient multilingue
+
+A tort ou à raison, on se plaint souvent de l'hégémonie de l'anglais sur
+l'internet. Celle-ci était inévitable au début, puisque le réseau se développe
+d'abord en Amérique du Nord. En 1998, si l’internet est encore anglophone à 80%,
+de nombreuses autres langues y sont présentes. Il reste aux différentes
+communautés linguistiques à poursuivre le travail entrepris.
+
+Initiative peu courante en 1997, la société de traduction Logos décide de mettre
+tous ses outils professionnels en accès libre sur le web.
+
+Logos est créé en 1979 à Modène (Italie) par Rodrigo Vergara, un réfugié
+politique chilien. Etudiant en agronomie, celui-ci vient d’émigrer en Italie
+pour échapper à la dictature du général Pinochet. En 1997, à 45 ans, il dirige
+une entreprise de traduction offrant des services dans plus de 35 langues, avec
+un réseau de 300 traducteurs dans le monde et un chiffre d'affaires de 60
+millions de FF (9,2 millions d’euros). Dans un entretien accordé en décembre
+1997 à Annie Kahn, journaliste au Monde, il relate: "Nous voulions que nos
+traducteurs aient tous accès aux mêmes outils de traduction. Nous les avons donc
+mis à leur disposition sur internet, et tant qu'à faire nous avons ouvert le
+site au public. Cela nous a rendus très populaires, nous a fait beaucoup de
+publicité. L'opération a drainé vers nous de nombreux clients, mais aussi nous a
+permis d'étoffer notre réseau de traducteurs grâce aux contacts établis à la
+suite de cette initiative."
+
+Ces outils de traduction comprennent un dictionnaire multilingue de 7,5 millions
+d’entrées (Logos Dictionary), une base de données de 553 glossaires (Linguistic
+Resources), des tables de conjugaison en 17 langues (Conjugation of Verbs), et
+enfin la Wordtheque, une base de données multilingue de 328 millions de termes
+issus de nombreux textes traduits, essentiellement des romans et des documents
+techniques. La recherche dans la Wordtheque est possible par langue, par mot,
+par auteur et par titre. Une fonction complémentaire permet l’accès au texte
+intégral des oeuvres littéraires du domaine public disponibles sur le web.
+
+Le multilinguisme est l’affaire de tous, témoin cet Appel du Comité européen
+pour le respect des cultures et des langues en Europe (CERCLE). Publié sur le
+web en 1997 et traduit dans les onze langues officielles de l'Union européenne,
+il défend "une Europe humaniste, plurilingue et riche de sa diversité
+culturelle". Il propose aux réviseurs du Traité de l’Union européenne douze
+amendements prenant en compte le respect des cultures et des langues. "La
+diversité et le pluralisme linguistiques ne sont pas un obstacle à la
+circulation des hommes, des idées et des marchandises ou services, comme veulent
+le faire croire certains, alliés objectifs, conscients ou non, de la culture et
+de la langue dominantes (sous-entendu l’anglais, ndlr). C'est l'uniformisation
+et l'hégémonie qui sont un obstacle au libre épanouissement des individus, des
+sociétés et de l'économie de l'immatériel, source principale des emplois de
+demain. Le respect des langues, à l'inverse, est la dernière chance pour
+l'Europe de se rapprocher des citoyens, objectif toujours affiché, presque
+jamais mis en pratique. L'Union doit donc renoncer à privilégier la langue d'un
+seul groupe."
+
+Il n’empêche que, même si on prône le multilinguisme, il est vraiment
+désagréable de se heurter à des pages web dont le contenu nous intéresse mais
+dont on ne comprend pas la langue. En décembre 1997, le moteur de recherche
+AltaVista lance Babel Fish Translation, un logiciel de traduction automatique de
+l’anglais vers cinq autres langues (allemand, espagnol, français, italien et
+portugais), et vice versa. Alimenté par un dictionnaire multilingue de 2,5
+millions de mots, ce service, gratuit et instantané, est l’œuvre de Systran,
+société pionnière en traitement automatique des langues. Le texte à traduire
+doit être de trois pages maximum. La page originale et la traduction
+apparaissent en vis-à-vis sur l’écran. La traduction étant entièrement
+automatisée, elle est évidemment approximative. Si cet outil a ses limites, il a
+le mérite d’exister et il préfigure ceux de demain (qui seront développés entre
+autres par Systran, Alis Technologies, Globalink et Lernout & Hauspie).
+
+
+1.3. Info-riches et info-pauvres
+
+
+= Les pays développés
+
+Les enjeux économiques de la société de l’information sont considérables.
+D’après Philip Wade et Didier Falkand, auteurs du livre Cyberplanète: notre vie
+en temps virtuel (paru en 1998 aux éditions Autrement), cette industrie de
+l’information représente "un chiffre très supérieur aux exportations mondiales
+de produits agricoles, et une croissance la plus rapide de toutes les industries
+avec un taux moyen de 15% par an depuis 1990 pour l’informatique et de 10% pour
+les télécommunications. Leur contribution au PIB (produit intérieur brut)
+mondial devrait dépasser 10% d’ici à l’an 2000 et poursuivre son expansion
+au-delà."
+
+Il existe évidemment une corrélation directe entre le développement de la
+société de l’information et l’accès aux télécommunications. L’accès aux
+technologies de la communication progresse beaucoup plus rapidement dans les
+nations situées au nord de la planète que dans celles situées au sud, et on
+trouve beaucoup plus de serveurs web en Amérique du Nord et en Europe que sur
+les autres continents. Deux tiers des internautes habitent les Etats-Unis, pays
+dans lequel 40% des foyers sont équipés d’un ordinateur, pourcentage que l’on
+retrouve aussi au Danemark, en Suisse et aux Pays-Bas. Le pourcentage est de 30%
+en Allemagne, 25% au Royaume-Uni et 20% dans la plupart des autres pays
+industrialisés.
+
+Disponibles dans le Computer Industry Almanach, document de référence sur
+l’évolution du cyberespace, les statistiques du 19 mars 1998 sur le pourcentage
+des connexions par nombre d’habitants montrent que la Finlande est le pays le
+plus branché avec 25% d’usagers, suivi par la Norvège (23%) et l’Islande
+(22,7%). Les Etats-Unis se trouvent au quatrième rang avec 20% d’utilisateurs.
+Onze pays ont une proportion d’internautes dépassant les 10%. La Suisse est le
+onzième pays avec 10,7%. En ce qui concerne la répartition des usagers à
+l’échelon mondial, les Etats-Unis sont largement en tête avec 54,68% des
+internautes, suivis par le Japon (7,97%), la Grande-Bretagne (5,83%) et le
+Canada (4,33%). Les chiffres montrent aussi que la place des Etats-Unis ne cesse
+de diminuer: 80% en 1991, moins de 65% en 1994, moins de 50% courant 1998 et une
+prévision de moins de 40% en l'an 2000. La France (1,18%) et la Suisse (0,77%)
+font partie des quinze pays les plus branchés.
+
+Après avoir été anglophone à pratiquement 100%, l’internet est encore anglophone
+à plus de 80% en 1998, un pourcentage qui s'explique par trois facteurs : a) les
+premières années voient la création d’un grand nombre de sites web émanant des
+Etats-Unis, du Canada ou du Royaume-Uni; b) la proportion des usagers est encore
+particulièrement forte en Amérique du Nord par rapport au reste du monde; c)
+l’anglais est la principale langue d’échange internationale.
+
+A la suite des Etats-Unis et du Canada, le Royaume-Uni débute un important
+programme d’investissement sur cinq ans (1998-2002) dans le secteur des
+technologies de l’information. En dévoilant ce programme, Tony Blair, premier
+ministre, déclare le 16 avril 1998: "Nous sommes au coeur de la révolution de
+l’information. Il est vital que la Grande-Bretagne ouvre la voie afin que nous
+soyons les pionniers de l’Europe dans ce qu’on appelle l’âge de l’information."
+La moitié du budget de 600 millions de livres (920 millions d’euros) est
+consacrée à l’achat de matériel, et l’autre moitié à la formation. Le budget
+attribué à l’achat de matériel doit permettre le câblage des écoles
+britanniques, l’achat de 10.000 ordinateurs portables pour les professeurs, la
+mise en ligne des bibliothèques et la connexion à l'internet de tous les
+établissements de santé. Le budget attribué à la formation doit permettre de
+financer 40.000 équipements dans des établissements d’enseignement, et financer
+aussi des cours d’informatique pour les étudiants, les professeurs, les
+bibliothécaires et 200.000 salariés.
+
+= Les pays en développement
+
+A l’échelon mondial, l’accès universel aux autoroutes de l’information est loin
+d’être assuré. La télédensité varie de plus de 60 lignes téléphoniques pour 100
+habitants dans les pays riches (par exemple 68 en Suède, 63 aux Etats-Unis, 61
+en Suisse et au Danemark) à moins d’une ligne téléphonique pour 100 habitants
+dans les pays pauvres. L’Amérique du Nord et l’Europe de l’Ouest disposent de la
+moitié des lignes téléphoniques dans le monde, alors que la moitié de la
+population mondiale n’a jamais utilisé un téléphone.
+
+Lors d’un discours prononcé en octobre 1995 lors du septième Forum international
+des télécommunications à Genève, Nelson Mandela, président de l’Afrique du Sud,
+déclare que "les technologies de communication ne doivent pas être considérées
+comme un luxe, intervenant après le développement général du pays, mais comme
+l’une des convictions qui déterminent les capacités des pays en développement à
+engager la modernisation de leur économie et de leur société".
+
+Dans les pays en développement, il est fort peu probable que les connexions à
+l’internet se fassent par le biais de lignes téléphoniques traditionnelles (à
+fils de cuivre) alors qu’il existera d’autres solutions technologiques dans
+quelques années, par exemple la radiotéléphonie cellulaire et la connexion par
+satellite. Les pays en développement possèdent un taux d’équipement en lignes
+numériques comparable à celui des pays industrialisés. La même remarque vaut
+pour le taux d’équipement en téléviseurs et en téléphones portables. Selon
+Philip Wade et Didier Falkland, le taux d’équipement en micro-ordinateurs
+pourrait suivre le même chemin si la fiscalité et les droits de douane ne sont
+pas trop élevés.
+
+De l’avis de certains organismes, les nouveaux réseaux peuvent contribuer au
+développement économique des pays en développement. Plusieurs programmes sont
+lancés dans ce but, par exemple les programmes WorldTel et infoDev (abrégé de:
+The Information for Development Program) de la Banque mondiale. D’autres
+programmes concernent spécifiquement l’Afrique, par exemple @frinet (programme
+du Canada), AfriWeb (programme du Québec) ou encore un programme mis sur pied
+par les Etats-Unis au sein de l’USAID (U.S. Agency for International
+Development).
+
+La démarcation entre info-riches et info-pauvres ne suit cependant pas
+systématiquement la démarcation entre pays développés et pays en développement.
+Quelques pays en développement, par exemple la Malaisie ou les pays d’Amérique
+latine, ont une politique très dynamique en matière de télécommunications. Un
+document préparatoire (Issues in Telecommunication Development) de la deuxième
+Conférence sur le développement des télécommunications dans le monde (Malte, 23
+mars – 1er avril 1998) montre que plusieurs pays en développement, par exemple
+le Botswana, la Chine, le Chili, la Thaïlande, la Hongrie, le Ghana et l'Ile
+Maurice, réussissent à étendre la densité et la qualité de leurs services
+téléphoniques entre 1994 et 1997.
+
+Président d’un groupement kenyan d’éditeurs et d’imprimeurs (Nation Printers and
+Publishers, devenu Nation Media Group en juillet 1998), Wilfred Kiboro déclare
+lors d'un colloque sur la convergence multimédia organisé par le Bureau
+international du travail (BIT, Genève, 27-29 janvier 1997): "Le coût de la
+technologie de l’information doit être ramené à un niveau abordable. Je rêve du
+jour où les villageois africains pourront accéder à internet depuis leur
+village, aujourd’hui privé d’eau et d’électricité." Il rappelle aussi que, dans
+de nombreux pays africains, le tirage des journaux est extrêmement faible
+comparé au chiffre de la population. Chaque exemplaire est lu par une vingtaine
+de personnes au moins. Les coûts de distribution pourraient fortement baisser
+avec la mise en service d’un système d’impression par satellite qui éviterait le
+transport des journaux par camion dans tout le pays.
+
+Par ailleurs, en ce qui concerne les médias, les moyens d’impression et de
+radiotélédiffusion sont dans les mains de quelques grands groupes occidentaux.
+Les problèmes économiques sont doublés de problèmes culturels. Paradoxalement,
+les informations concernant l’Afrique à destination des Africains ne viennent
+pas du continent lui-même. Elles sont diffusées par des Occidentaux qui
+transmettent leur propre vision de l’Afrique, souvent sans réelle perception des
+véritables problèmes politiques, économiques et sociaux.
+
+S’il est relativement facile pour la radio et la télévision, le contrôle de
+l’information risque d’être nettement plus difficile pour l’internet, même si
+des pays comme la Chine bloquent pour le moment l’accès à certains serveurs
+jugés politiquement ou moralement incorrects. La Chine dispose d’un internet
+national, le China Wide Web, dont le nombre d’abonnés passe de 100.000 en 1996 à
+600.000 en 1997. Mis en place par la China Internet Corporation (CIC), société
+établie à Hong Kong, ce réseau d’affaires et d’informations est filtré et
+surveillé par les autorités chinoises. Comme l’écrit le cybermag Multimédium le
+27 mars 1998, "tout cela respire la langue de bois, le totalitarisme et
+l'opportunisme à plein poumons, bien sûr. Mais qui sait si la logique libertaire
+du médium ne finira effectivement pas, un jour, par l'emporter sur l'idéologie?
+Ce fameux jour où la Chine se branchera..."
+
+= L’internet comme passerelle
+
+Le goufre entre info-riches et info-pauvres n’est pas seulement celui qui sépare
+les pays développés des pays en développement. C’est aussi, dans n’importe quel
+pays, celui qui sépare les riches des pauvres, ceux qui ont du travail et ceux
+qui n’en ont pas, ceux qui ont leur place dans la société et ceux qui en sont
+exclus. Outil de communication, l’internet peut être une passerelle au-dessus du
+goufre, comme le montre un encart de la revue Psychologies de mai 1998: "Aux
+Etats-Unis, un mouvement voit le jour: la confiance en soi... par internet! Des
+milliers de sans-abri ont recours au réseau pour retrouver une place dans la
+société. Non seulement le net fournit une adresse à qui n’en a pas et ôte les
+inhibitions de qui redoute d’être jugé sur son apparence, mais c’est aussi une
+source d’informations et de contacts incomparable. Bibliothèques et associations
+d’aide au quart-monde l’ont bien compris: des salles informatiques, avec accès à
+internet, animées par des formateurs, sont ouvertes un peu partout et les
+mairies en publient la liste. A travers le e-mail (courrier électronique), les
+homeless (sans-abri) obtiennent les adresses des lieux d’accueil, des banques
+alimentaires et des centres de soins gratuits, ainsi qu’une pléthore de sites
+pour trouver un emploi. A 50 ans, Matthew B. a passé le quart de sa vie dans la
+rue et survit, depuis trois ans, d’une maigre subvention. Il hante la
+bibliothèque de San Francisco, les yeux rivés sur l’écran des ordinateurs.
+"C’est la première fois, dit-il, que j’ai le sentiment d’appartenir à une
+communauté. Il est moins intimidant d’être sur internet que de rencontrer les
+gens face à face."
+
+
+2. L’INTERNET DANS LA FRANCOPHONIE
+
+
+[2.1. Le développement du web francophone / 2.2. Un exemple: la toile littéraire
+francophone]
+
+En décembre 1997, Tim Berners-Lee, inventeur du World Wide Web, déclare à Pierre
+Ruetschi dans la Tribune de Genève: "Pourquoi les francophones ne mettent-ils
+pas davantage d’informations sur le web? Est-ce qu’ils pensent que personne ne
+veut la lire, que la culture française n’a rien à offrir? C’est de la folie,
+l’offre est évidemment énorme." C’est chose faite l'année suivante. De nombreux
+sites français, belges et suisses viennent se juxtaposer aux sites québécois
+déjà présents.
+
+
+2.1. Le développement du web francophone
+
+
+= Le Québec est pionnier
+
+Les Québécois sont présents sur le web dès ses débuts, contrairement aux
+Français, qui tardent à se manifester. En 1998, les Québécois attendent de pied
+ferme l’arrivée en masse de sites français, surtout dans le domaine du commerce
+électronique. Le 10 février 1998, lors d’une entrevue accordée au cybermag
+Multimédium, Louise Beaudouin, ministre de la Culture et des Communications au
+Québec, déclare: "J'attendais depuis deux ans que la France se réveille.
+Aujourd'hui, je ne m'en plaindrai pas." A cette date, le Québec (6 millions
+d’habitants) propose plus de sites web que la France (60 millions d’habitants).
+La ministre attribue le retard de la France à deux facteurs: d’une part les
+tarifs élevés du téléphone et du minitel, d’autre part les transactions
+commerciales possibles depuis plusieurs années sur le minitel, ce qui freine les
+débuts du commerce électronique sur l’internet.
+
+= Le minitel français
+
+Poncif maintes fois répété, les débuts de l’internet en France sont freinés par
+le minitel, réalisation pilote en son temps, avec utilisation intensive par un
+quart de la population.
+
+Lancé par France Télécom en 1982, le minitel est un terminal permettant la
+consultation de serveurs à domicile moyennant rétribution, grâce à un accès par
+Télétel, le réseau vidéotex français. Cette consultation est fortement
+encouragée par l’Etat français, qui distribue gratuitement des millions de
+terminaux. L’opération minitel est un succès, contrairement à des opérations
+similaires menées dans d’autres pays (Prestel en Angleterre, BX en Allemagne et
+Alex au Canada) qui, elles, ne remportent pas le succès escompté.
+
+Même s’il est technologiquement limité, le minitel est "tout ce qu’internet doit
+encore devenir", explique Bruno Guissani dans le quotidien Libération du 5
+décembre 1997. "Le coût de l'équipement est proche de zéro. Le système permet
+des transactions sûres et légalement fiables. Il garantit un bon degré de
+protection personnelle (privacy). Il est simple à utiliser. Et il génère des
+revenus tant pour ses opérateurs que pour les marchands qui s'y aventurent."
+
+En 1998, de plus en plus de serveurs disponibles sur minitel le sont également
+sur le web, avec les avantages qu’offrent une consultation meilleur marché (le
+prix d’une communication téléphonique locale), une plus grande facilité de
+navigation et l’ajout de fonctions multimédias.
+
+La société Alcatel, qui fut l’une des bénéficiaires du succès du minitel, compte
+mettre son successeur sur le marché courant 1999. Muni d’un téléphone et d’un
+écran couleur, cet appareil permettrait de naviguer en direct sur le web en
+utilisant le langage Java. Il serait équipé d’un modem de 33,6 Kbps (kilobits
+par seconde), d’une carte RNIS (réseau numérique à intégration de services) et
+d’un lecteur de carte bancaire permettant les paiements sécurisés. Cet
+équipement coûterait environ 3.000 FF (457 euros).
+
+= La France rattrape son retard
+
+La France est raccordée à l’internet très exactement le 28 juillet 1988. Dix ans
+après, en 1998, le nombre d’usagers est estimé à 3 millions, avec une prévision
+de 12,6 millions d’internautes pour la fin 2000.
+
+La grande majorité des usagers se connecte par le biais de la ligne de téléphone
+au moyen d’un modem 33,6 ou 56 Kbps (bits par seconde). Certains utilisent déjà
+une ligne RNIS (réseau numérique à intégration de services) ou ADSL (asymmetric
+digital subscriber line), procédés permettant d’augmenter considérablement la
+vitesse de transmission des données par la ligne de téléphone tout en préservant
+la circulation de la voix et du fax.
+
+En octobre 1997, France Télécom et Alcatel lancent le service ADSL Turbo
+Wanadoo, avec une première plate-forme expérimentale à Noisy-le-Grand (région
+parisienne), suivie d’une deuxième plate-forme à Rennes (Bretagne) au printemps
+1998. L’abonnement est de 422 FF (64 euros) par mois.
+
+En janvier 1998, pour un abonnement de 260 FF (40 euros) par mois tout compris,
+les Parisiens peuvent également accéder au réseau internet par le câble dans
+certains arrondissements. Plusieurs villes de province (Annecy, Nice,
+Strasbourg, etc.) disposent des mêmes facilités depuis 1997.
+
+En janvier 1998, La Poste lance le projet Cyberposte en choisissant la région du
+Vercors, l’inauguration ayant lieu dans le bureau de poste d’Autrans (Isère).
+Cette inauguration marque la première étape d'un projet national visant à
+proposer une connexion internet dans 1.000 bureaux de poste d’ici la fin 1998.
+Dans tous les bureaux de poste du Vercors, l’internet est désormais à la
+disposition du public au moyen d’une carte à puce à glisser dans une borne
+informatique - la carte coûtant 90 FF (14 euros) pour trois heures de connexion
+- et d’une adresse électronique gratuite pour tous. Le projet Cyberposte a pour
+but de familiariser le public avec les nouvelles technologies et, à long terme,
+de lui permettre d’effectuer des téléprocédures.
+
+En février 1998, France Télécom annonce à son tour un plan national d’ouverture
+d’espaces multimédias ouverts à tous, avec priorité pour les étudiants et les
+enseignants. En partenariat avec les collectivités locales, l’ouverture d’une
+centaine d’espaces multimédias est prévue sur trois ans, avec une vingtaine
+d’espaces opérationnels dès la fin 1998.
+
+En avril 1998, le gouvernement lance trois appels à projets multimédias pour
+faciliter l'acquisition de matériel multimédia par les PME (petites et moyennes
+entreprises) des régions rurales et des zones en reconversion industrielle et
+par les bibliothèques, ainsi que par les établissements scolaires des petites
+communes. Un budget de 22 millions de FF (3,4 millions d’euros) est destiné aux
+initiatives sélectionnées, avec la répartition suivante: 5 millions de FF
+(76.000 euros) pour les PME, 5 millions de FF (76.000 euros) pour les
+bibliothèques et 12 millions de FF (1,8 millions d’euros) pour les écoles. Le
+projet incite notamment les bibliothèques des villes de moins de 5.000 habitants
+à s’équiper en ordinateurs et en connexions internet. Les villes intéressées
+doivent déposer leurs dossiers avant le 30 juin 1998. Une centaine d’espaces
+culture multimédia est prévue dans les bibliothèques et centres culturels d’ici
+la fin 1998.
+
+L’objectif de ce programme est un souci d’équité territoriale pour faire face
+aux inégalités géographiques. Le but est que tout citoyen puisse accéder à
+l’internet quel que soit son lieu de résidence. A cette occasion, Catherine
+Trautman, ministre de la Culture, annonce que, "après le monde universitaire, le
+monde des entreprises, c'est le monde de la culture qui s'empare de l'internet".
+1998 est "l’année de lancement de l’internet culturel". La ministre précise
+aussi que "cette politique ne vise pas seulement à améliorer notre position dans
+la compétition économique, mais aussi, fondamentalement, à garantir une nouvelle
+liberté d'expression et de communication pour nos concitoyens."
+
+Toutefois, un certain nombre d'entreprises hésitent encore à connecter les
+postes de travail de leurs salariés à l’internet, par crainte que ceux-ci ne se
+ruent sur des sites n’ayant rien à voir avec leur activité professionnelle. On
+trouve heureusement plus souvent la tendance inverse.
+
+Ingénieure d'études à l'INaLF-Nancy (INaLF: Institut national de la langue
+française), Christiane Jadelot écrit en juin 1998: "Je pense qu'il faut équiper
+de plus en plus les laboratoires avec du matériel de pointe, qui permette
+d'utiliser tous ces médias. Nous avons des projets en direction des lycées et
+des chercheurs. Le ministère de l'Education nationale a promis de câbler tous
+les établissements, c'est plus qu'une nécessité nationale. J'ai vu à la
+télévision une petite école dans un village faisant l'expérience de l'internet.
+Les élèves correspondaient avec des écoles de tous les pays, ceci ne peut être
+qu'une expérience enrichissante."
+
+= Des organismes actifs
+
+Le premier annuaire internet français est lancé par l’UREC (Unité réseaux du
+CNRS - Centre national de la recherche scientifique). Créé dès janvier 1994, cet
+annuaire recense d’abord les sites académiques, puis son contenu devient plus
+généraliste. Il permet aux usagers francophones de se familiariser avec le web
+sans se noyer dans la masse d’informations mondiale. Il permet aussi de faire
+connaître les sites web qui fleurissent petit à petit en France et ailleurs.
+Trois ans après, la gestion de l’annuaire devient difficile du fait de
+l’accroissement constant du nombre de sites web, notamment de sites commerciaux.
+De plus, d’autres annuaires ont vu le jour, dont certains débutés avec l’aide de
+l’UREC. En juillet 1997, considérant que sa mission est accomplie, l’UREC arrête
+la mise à jour de cet annuaire généraliste. Après une pause de quelques mois,
+l’annuaire retourne à sa vocation première, à savoir un annuaire spécialisé
+consacré à l'enseignement supérieur et à la recherche.
+
+La Délégation générale à la langue française (DGLF) se donne plusieurs missions:
+veiller à la promotion de la langue française, favoriser l’utilisation du
+français comme langue de communication internationale et développer le
+plurilinguisme, garant de la diversité culturelle. Sur son site web, la rubrique
+"France langue" propose trois listes de diffusion consacrées à la langue
+française (France langue, France langue assistance et France langue
+technologies). Ouvertes à toute question d'ordre linguistique (grammaire,
+orthographe, usage, etc.), ces trois listes de diffusion se veulent "un lieu
+convivial d'échanges d'informations et d'idées (manifestations, colloques,
+publications, etc.), ainsi qu'un lieu de discussion sur les thèmes liés à la
+langue française, à la diversité linguistique, à la dynamique des langues et à
+la politique linguistique". La DGLF mène aussi d’autres actions pour renforcer
+la place du français sur le réseau, notamment l’édition de guides techniques
+relatifs à la conception de logiciels en français (avec prise en compte des
+accents), en liaison avec l’AFNOR (Association française de normalisation), ou
+alors la traduction de logiciels étrangers commercialisés en France.
+
+En Belgique, la Maison de la Francité agit pour la défense et la promotion de la
+langue française à Bruxelles, seconde capitale internationale de langue
+française après Paris, et dans la Communauté française Wallonie-Bruxelles.
+
+Au Québec, le dynamique Office de la langue française (OLF) (devenu ensuite
+l’Office québécois de la langue française - OQLF) est un organisme
+gouvernemental chargé d’assurer la promotion de la langue française. Il définit
+et conduit la politique québécoise en matière de linguistique et de
+terminologie. Il veille aussi à l'implantation et au maintien du français dans
+les milieux de travail et des affaires et dans les services administratifs.
+
+= La Francophonie
+
+Parlé dans près de cinquante pays, le français est le ciment d'une communauté
+linguistique vivante, comme en témoigne l’activité de l’Organisation
+internationale de la Francophonie (OIF), une institution fondée sur le partage
+d'une langue et de valeurs communes, avec 47 états membres en 1997.
+
+Une des tâches des instances politiques est de favoriser l’accès aux autoroutes
+de l’information. En application de la Résolution sur la société de
+l'information adoptée par les chefs d'Etat et de gouvernement à Cotonou (Bénin)
+en décembre 1995, une Conférence des ministres francophones chargés des
+inforoutes se déroule à Montréal (Québec) du 19 au 21 mai 1997. Datée du 21 mai
+1997, la Déclaration de Montréal propose de "développer une aire francophone
+d'éducation, de formation et de recherche"; soutenir la création et la
+circulation de contenus francophones et contribuer à la sauvegarde et à la
+valorisation des patrimoines"; encourager la promotion de l'aire francophone de
+développement économique; mettre en place une vigie francophone (veille active);
+sensibiliser prioritairement la jeunesse ainsi que les utilisateurs, les
+producteurs et les décideurs; assurer la présence et la concertation des
+francophones dans les instances spécialisées."
+
+S’il est le ciment de la communauté francophone, le français est aussi la
+deuxième langue officielle utilisée dans les organisations internationales, la
+première étant l'anglais. Malgré la pression anglophone, réelle ou supposée
+selon les cas, des francophones veillent à ce que le français ait sa place en
+Europe et dans le monde, au même titre que les autres grandes langues de
+communication que sont l’anglais, l’espagnol, l’arabe et le chinois. Là aussi,
+l’optique est aussi bien la défense d’une langue que le respect du
+multilinguisme et de la diversité des peuples.
+
+
+2.2. Un exemple: la toile littéraire francophone
+
+
+Même s’il reste beaucoup à faire, le web francophone se porte déjà fort bien en
+1998, comme le montre la toile littéraire francophone, tissée d’un pays à
+l’autre et d’un continent à l’autre. Les amoureux de littérature peuvent
+désormais passer des journées entières à aller d’une oeuvre à l’autre et d’un
+site à l’autre, soit pour contribuer eux-mêmes au tissage de cette toile, soit
+pour en savourer les richesses par-delà les frontières.
+Frantext et l’ARTFL
+
+Lancée par l’INaLF (Institut national de la langue française, France) en 1995,
+la base Frantext, en accès payant, comprend 180 millions de mots-occurrences
+émanant de 3.500 oeuvres des 16e-20e siècles dans le domaine des arts, des
+sciences et des techniques. Responsable du développement des bases textuelles à
+l’INaLF, Arlette Attali relate sa démarche en juin 1998: "J'ai été amenée à
+explorer les sites du web qui proposaient des textes électroniques et à les
+'tester'. Je me suis donc transformée en 'touriste textuelle' avec les bons et
+mauvais côtés de la chose. La tendance au zapping et au survol étant un danger
+permanent, il faut bien cibler ce que l'on cherche si l'on ne veut pas perdre
+son temps. La pratique du web a totalement changé ma façon de travailler: mes
+recherches ne sont plus seulement livresques et donc d'accès limité, mais elles
+s'enrichissent de l'apport des textes électroniques accessibles sur internet. A
+l'avenir, je pense contribuer à développer des outils linguistiques associés à
+la base Frantext et à les faire connaître auprès des enseignants, des
+chercheurs, des étudiants et aussi des lycéens."
+
+L’ARTFL Project (ARTFL: American and French Research on the Treasury of the
+French Language) est un projet commun du CNRS (Centre national de la recherche
+scientifique, France) et de l’Université de Chicago (Illinois, Etats-Unis).
+
+L’ARTFL prépare une version en ligne exhaustive de la première édition
+(1751-1772) de l’Encyclopédie ou Dictionnaire raisonné des sciences, des métiers
+et des arts de Diderot et d’Alembert. 72.000 articles écrits par plus de 140
+collaborateurs (dont Voltaire, Rousseau, Marmontel, d’Holbach, Turgot, etc.)
+font de cette encyclopédie un monumental ouvrage de référence, avec 17 volumes
+de texte, 11 volumes de planches, 18.000 pages imprimées et 20.736.912 mots.
+Destinée à rassembler puis divulguer les connaissances de l’époque, elle porte
+la marque des courants intellectuels et sociaux du 18e siècle. C’est grâce à
+elle que se propagent les idées du Siècle des Lumières.
+
+En 1998, la base de données correspondant au premier volume est accessible sur
+le web en démonstration libre, à titre expérimental. La recherche peut être
+effectuée par mot, portion de texte, auteur ou catégorie, ou par la combinaison
+de ces critères entre eux. On dispose de renvois d’un article à l’autre, et de
+liens qui permettent d’aller d’une planche au texte, ou du texte au fac-similé
+des pages originales. Il reste encore à corriger les erreurs typographiques et
+les erreurs d’identification dues à l’automatisation complète des procédures de
+saisie. Il reste aussi à compléter la recherche textuelle par la recherche
+d’images par mot, portion de texte ou catégorie.
+
+A la même date, l’ARTFL travaille aussi à d’autres projets du même ordre pour le
+Dictionnaire de l’Académie française (1694-1935), l’édition illustrée du
+Dictionnaire historique et critique (1740) de Philippe Bayle, le Thresor de la
+langue française de Jean Nicot (1606), un projet multilingue sur la Bible
+débutant par La Bible française de Louis Segond (1910), etc.
+Chronologie littéraire et signets
+
+Professeur de français et d'informatique dans des universités japonaises,
+Patrick Rebollar, basé à Tokyo, utilise l’ordinateur dès 1987 pour ses activités
+d'enseignement et de recherche. En 1994, il voit apparaître l’internet "dans le
+champ culturel et linguistique francophone". En 1996, il débute un site web de
+recherches et d’activités littéraires. Son site inclut une Chronologie
+littéraire 1848-1914, organisée par année. Une série de liens mène au texte
+intégral des oeuvres publiées cette année-là, avec des notes historiques,
+politiques et sociales, des informations scientifiques, techniques et médicales,
+et des renseignements sur le monde littéraire de l’époque.
+
+Patrick Rebollar relate en juillet 1998: "Pour la Chronologie littéraire, cela a
+commencé dans les premières semaines de 1997, en préparant un cours sur le roman
+fin de siècle (19e). Je rassemblai alors de la documentation et m'aperçus d'une
+part que les diverses chronologies trouvées apportaient des informations
+complémentaires les unes des autres, et d'autre part que les quelques documents
+littéraires alors présents sur le web n'étaient pas présentés de façon
+chronologique, mais toujours alphabétique. Je fis donc un document unique qui
+contenait toutes les années de 1848 à 1914, et l'augmentais progressivement.
+Jusqu'à une taille gênante pour le chargement, et je décidai alors, fin 1997, de
+le scinder en faisant un document pour chaque année. Dès le début, je l'ai
+utilisé avec mes étudiants, sur papier ou sur écran. Je sais qu'ils continuent
+de s'en servir, bien qu'ils ne suivent plus mon cours. J'ai reçu pas mal de
+courrier pour saluer mon entreprise, plus de courrier que pour les autres
+activités web que j'ai développées."
+
+Une autre activité web de Patrick Rebollar est la gestion de ses Signets, un
+répertoire très complet des sites francophones littéraires: littérature et
+recherche (normes et règles, bibliothèques et éditeurs, bibliographies), revues
+littéraires, linguistique, dictionnaires, lexiques, recherche littéraire,
+documents littéraires par thème et par auteur (Malraux, Sarraute, Camus, Gracq,
+Robbe-Grillet, etc.), oeuvres littéraires, poésie, bandes dessinées, etc.
+"Animant des formations d'enseignants à l'Institut franco-japonais de Tokyo, je
+voyais d'un mauvais oeil d'imprimer régulièrement des adresses pour demander aux
+gens de les recopier, écrit-il à la même date. J'ai donc commencé par des petits
+documents rassemblant les quelques adresses web à utiliser dans chaque cours
+(avec Word), puis me suis dit que cela simplifierait tout si je mettais en ligne
+mes propres signets, vers la fin 1996. Quelques mois plus tard, je décidai de
+créer les sections finales de nouveaux signets afin de visualiser des adresses
+qui sinon étaient fondues dans les catégories. Cahin-caha, je renouvelle chaque
+mois."
+
+= Des sites de poésie
+
+Les poètes sont très actifs sur le web. Sur son site Poésie d’hier et
+d’aujourd’hui, Silvaine Arabo propose de nombreux poèmes, y compris les siens.
+En juin 1998, elle raconte: "Je suis poète, peintre et professeure de lettres
+(13 recueils de poèmes publiés, ainsi que deux recueils d'aphorismes et un essai
+sur le thème: poésie et transcendance ; quant à la peinture, j'ai exposé mes
+toiles à Paris - deux fois - et en province). (...) Pour ce qui est d'internet,
+je suis 'autodidacte' (je n'ai reçu aucune formation informatique quelle qu'elle
+soit); j'ai eu l'an passé l'idée de construire un site littéraire centré sur la
+poésie: internet me semble un moyen privilégié pour faire circuler des idées,
+pour communiquer ses passions aussi. Je me suis donc mise au travail, très
+empiriquement, et ai finalement abouti à ce site (...) sur lequel j'essaye de
+mettre en valeur des poètes contemporains de talent, sans oublier la nécessaire
+prise de recul (rubrique: Réflexions sur la poésie) sur l'objet considéré.
+
+Ma vie professionnelle n'en a pas été bouleversée puisqu'elle est indépendante
+de cette création sur internet. Disons que très récemment, dans le cadre de mon
+activité professionnelle, j'ai fait avec mes élèves quelques ateliers de poésie
+et que, devant la pertinence de leurs productions, j'ai décidé de leur consacrer
+une page sur mon site (rubrique 'Le jardin des jeunes poètes'). Je fais
+également un 'appel du pied' aux professeurs de lettres francophones pour qu'ils
+m'adressent des poèmes - qu'ils estiment réussis - de leurs élèves. Disons que
+ce site pourrait servir, entre autres, de motivation - donc de moteur - à la
+créativité des jeunes enfants ou des adolescents."
+
+Le Club des poètes est un site de poésie francophone qui souhaite la "bienvenue
+en territoire de poésie de la France au Chili, de Villon jusqu'à de jeunes
+poètes contemporains, en passant par toutes les grandes voix de la poésie de
+tous les temps et de tous les pays". Son webmestre, Blaise Rosnay, relate les
+débuts du site en juin 1998: "Le site du Club des Poètes a été créé en 1996, il
+s'est enrichi de nombreuses rubriques au cours des années et il est mis à jour
+deux fois par semaine. L'internet nous permet de communiquer rapidement avec les
+poètes du monde entier, de nous transmettre des articles et poèmes pour notre
+revue, ainsi que de garder un contact constant avec les adhérents de notre
+association. Par ailleurs, nous avons organisé des travaux en commun, en
+particulier dans le domaine de la traduction. Nos projets pour notre site sont
+d’y mettre encore et toujours plus de poésie. Ajouter encore des enregistrements
+sonores de poésie dite, ainsi que des vidéos de spectacles."
+
+Poésie française propose pour sa part un choix de poèmes allant de la
+Renaissance au début du 20e siècle. Claire Le Parco, de la société Webnet,
+raconte à la même date: "Nous avons créé ce site lors de la création de notre
+société, spécialisée dans la réalisation de sites internet et intranet. Nous
+sommes des informaticiens qui aimons la poésie, et nous avions envie de montrer
+que poésie et internet pouvaient faire bon ménage!"
+
+= Une Autre Terre
+
+Une Autre Terre, site de science-fiction, est mis en ligne en novembre 1996.
+Fabrice Lhomme, son créateur, retrace les débuts du site en juin 1998: "J'ai
+commencé en présentant quelques bibliographies très incomplètes à l'époque et
+quelques critiques. Rapidement, j'ai mis en place les forums à l'aide d'un
+logiciel 'maison' qui sert également sur d'autres actuellement. (...) Ensuite,
+le phénomène le plus marquant que je puisse noter, c'est la participation de
+plusieurs personnes au développement du serveur alors que jusque-là j'avais tout
+fait par moi-même. Le graphisme a été refait par un généreux contributeur et je
+reçois régulièrement des critiques réalisées par d'autres personnes. Pour ce qui
+est des nouvelles, la rubrique a eu du mal à démarrer mais une fois qu'il y en a
+eu un certain nombre, j'ai commencé à en recevoir régulièrement (effet
+d'entraînement). Actuellement, j'ai toutes les raisons d'être satisfait car mon
+site reçoit plus de 2.000 visiteurs différents chaque mois et toutes les
+rubriques ont une bonne audience. Le forum des visiteurs est très actif, ce qui
+me ravit. Concernant les perspectives d'avenir, j'envisage pour très bientôt
+d'ouvrir une nouvelle rubrique proposant des livres d'occasion à vendre avec
+l'ambition de proposer un gros catalogue. Eventuellement, j'ouvrirai aussi une
+rubrique présentant des biographies car je reçois pas mal de demandes des
+visiteurs en ce sens. (...) Si l'activité de vente de livres d'occasion se
+montre prometteuse, il est possible que j'en fasse une activité professionnelle
+sous la forme d'une micro-entreprise."
+
+= Le roman interactif
+
+On assiste aussi à l’apparition de la littérature interactive, à savoir des
+oeuvres de fiction auxquelles participent les internautes. La première est
+"lancée par le grand écrivain américain John Updike, qui, l'an dernier, balança
+sur le web le premier chapitre d'un roman que les internautes étaient censés
+poursuivre", raconte Emmanuèle Peyret, journaliste, dans le quotidien Libération
+du 27 février 1998. Cette première expérience de littérature interactive est

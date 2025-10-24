@@ -1,0 +1,2925 @@
+ÖFVERSIGT
+
+AF
+
+NORDISKA MYTOLOGIEN
+
+AF
+
+Dr D. A. SUNDÉN,
+
+LEKTOR I SVENSKA SPRÅKET OCH FILOSOFI.
+
+TREDJE UPPLAGAN.
+
+STOCKHOLM,
+
+J. BECKMANS FÖRLAG
+
+1884.
+
+
+
+
+STOCKHOLM,
+
+TRYCKT HOS K. L. BECKMAN,
+
+1884.
+
+
+
+
+_Förord._
+
+
+_De mytologiska namnen hafva af fackmännen blifvit i vårt nuvarande språk
+återgifna på skiljaktigt sätt. Så, för att anföra blott ett enda exempel,
+skrifver E. Hildebrand i sin öfversättning af »N. M. Petersens
+föreläsningar i Mytologi» HEMDAL, den bekanta signaturen Th. W. i »Nordisk
+Familjebok» HEMDALL och P. A. Gödecke i sin öfversättning af den poetiska
+Eddan HEIMDALL. Å andra sidan har man ock på mer än ett håll ogillat all
+»transskribering» af de fornnordiska namnen samt till och med framhållit,
+att denna »uppstått ur en blandning af falsk patriotism och malplacerad
+lärdom». Men om ock onekligt är, att en dylik omskrifning i många fall
+synes vara helt onödig, så vore det dock i andra olämpligt att bibehålla
+den ursprungliga bokstafveringen, t. ex. »Óðinn» i st. för ODIN, »Þórr» i
+st. för TOR o. s. v. Under sådana förhållanden har förf. ansett det vara
+klokast att, jämte det han alltid vidfogar den ursprungliga formen inom
+klammer, ansluta sig till Gödeckes skrifsätt uti ifrågavarande fall, enär
+dennes öfversättning af den poetiska Eddan väl allmänt läses vid våra
+läroverk. Dock har förf. bibehållit de vanliga formerna NORNA och NORNOR i
+st. för »norn» och »norner» samt SAGA i st. för »Såga». Hvad det sistnämnda
+ordet vidkommer, är det författarens öfvertygelse, att det aldrig skall
+lyckas att åt det samma vinna burskap i språket i st. för SAGA, helst som
+det är ganska tvifelaktigt, om formen »Såga» är den riktiga, enär
+fornspråkets såväl A som Á återgifves i vårt nuvarande språk af särskilda
+författare än med A och än med Å. Så finner man t. ex. fn. »Fólkvangr»
+återgifvet med både FOLKVANG och FOLKVÅNG samt fn. »Rán» med både RÅN och
+RAN o. s. v. Hvad åter beträffar »norn» och »norner», synes införandet af
+dessa former ej vara mera maktpåliggande än nytjandet af t. ex. de
+ursprungliga formerna »run» och »runar» i st. för de nu brukliga RUNA,
+RUNOR._
+
+_De arbeten i mytologi, hvilka förf. vid utarbetandet af föreliggande
+»Öfversigt» företrädesvis begagnat sig af, äro:_
+
+_Nordisk Mytologi, föreläsningar af N. M. Petersén, övfers. af E.
+Hildebrand. Stockholm 1869. (Då N. M. Petersén citeras, hänvisas till denna
+öfversättning.)_
+
+_Omrids af den Nordiske Mythologi, till skolebrug, ved Chr. Dorph.
+Kjøbenhavn 1862._
+
+_Die Edda von Hermann Lüning. Zürich 1859._
+
+_Om de Nordiska Gudanamnens betydelse, föreläsning af Carl Säve. Upsala
+1869._
+
+_Westerås i Oktober 1884._
+
+_D. A. S._
+
+Inledning.
+
+
+Mytologi är en systematisk framställning af ett folks myter. Ordet _myt_
+kommer af grek. [Greek: muthos], tal, ord, berättelse, sägen, och med myter
+förstå vi de fornsägner, hvilka innehålla folkens äldsta religiösa
+föreställningar. Den kunskap om det gudomliga och den ändliga verldens
+förhållande dertill, hvilken är en yttring af föreställningsförmågan
+(inbillningskraften, fantasien), men ännu icke af förståndets verksamhet,
+utgör innehållet i ett folks myter; ty likasom hos människan i hennes
+barndom föreställningsförmågan vaknar till lif och verksamhet, innan
+förståndet utvecklas, likaså är hos ett folk i dess barndom uppfattningen
+af mångahanda ting inskränkt till blotta föreställningar derom, enär det
+samma ännu icke är så utveckladt i intellektuelt afseende, att det kan
+komma till begreppsinsigt deri. Så t. ex. när tordönet dånar öfver
+människans hufvud eller eko svarar på hennes rop i skogen, så kan icke
+barnet eller ett folk, som är i sin barndom, med förståndet fatta dessa
+företeelser, men inbillningskraften låter dem föreställa sig, att ett
+lefvande väsende der är verksamt. Sålunda uppstår snart hos människorna den
+tro, att dessa i naturen verkande, för dem främmande krafter äro mäktiga
+väsenden, dels milda och välgörande dels fruktansvärda, och af såväl kärlek
+som fruktan tillbedja och dyrka de dem såsom gudomligheter, personifiera
+dem. Detta är den religiösa trons första utveckling, hvilken vi återfinna
+hos hvarje folk. Det religiösa är således grundelementet i ett folks myter,
+och att förklara en myt, är att angifva hans religiösa betydelse; men då
+ande och natur stå i så nära samband med hvarandra, hafva myterna också en
+fysisk betydelse, hvarjämte äfven historiska tilldragelser kunna hafva
+medverkat vid deras bildande.
+
+Bland de föreställningar, som återfinnas i alla folks religiösa
+barndomstro, är föreställningen derom, att verlden småningom uppstått ur
+ett eller annat grundämne, som från evighet varit till (Kosmogoni), samt
+att gudarne också en gång blifvit till (Teogoni). I vår mytologi säges
+grundämnet hafva varit is, och det ådagalägger, att vår mytologi med rätta
+bär namnet »nordisk».
+
+För att förstå ett folks mytologi bör man känna folkets eget lif, ty
+gudarnes lif är en återspegling af naturens och folkens lif. Våra hedniska
+förfäders lif var en beständig strid med naturen och människorna, och
+derför voro ock deras gudar beständigt inbegripna i strid. Ja, kamp och
+strid utgör sjelfva kärnan i våra förfäders religion, det väsentliga i
+detta lifvet och det, som var att hoppas i det tillkommande. Derför går
+också de flesta gudanamnens betydelse derpå ut, och gudarna äro till en
+stor del stridsgudar i egentlig mening, och alla skulle de en gång deltaga
+i den sista stora striden. Våra hedniska förfäder trodde likväl ej ensamt
+på krig och örlig, på striden för dess egen skull, utan på en kamp för det
+rätta, samt på ett lif och en vedergällning efter döden. Ett drag af ännu
+djupare betydelse egde ock den forna nordmannatron, och det var
+föreställningen derom, att denna verlden med allt, som deri är, en gång
+skulle upphöra (Ragnaröksmyten) för att lemna rum för en ny och skönare
+tillvaro, en tillvaro utan strid och möda, utan synd och sorg och död.
+Denna djupsinniga och upplyftande föreställning höjer den gamla
+nordmannatron öfver alla andra former af religiös tro, hvilka före
+kristendomen framträdt[1].
+
+Nordiska mytologien sönderfaller i tre hufvudafdelningar:
+
+1) _skapelsen_, tingens blifvande och allt det, som hör till förberedelsen
+för lifvet;
+
+2) _lifvet_ sjelft, _gudalifvet_, d. v. s. naturens och människornas lif;
+
+3) _undergången_ med dess nödvändiga ledsagerska _återfödelsen_.
+
+Källor för nordiska mytologien äro: Sämunds Edda (fn. Sæmundar-Edda, den
+äldre eller poetiska), Snorres Edda (fn. Snorra-Edda, den yngre eller
+prosaiska) samt sagor och senare folktro.
+
+
+
+
+I.
+
+Skapelsen. Verlden.
+
+
+
+
+A. Skapelsen.
+
+
+§ 1. Begynnelsen.
+
+Långt förr, än jorden var skapad, fans ett gapande svalg, _Ginnungagap_. På
+dess norra och södra sida lågo tvänne verldar: _Nifelheim_ (forn-nord.
+_Niflheimr_) i norr, dimmans och köldens verld, samt _Muspell_ (fn.
+_Múspell_) i söder, eldens verld. Midt i Nifelheim var brunnen _Hvärgälme_
+(fn. _Hvergelmir_), från hvilken utströmmade tolf floder, _Elivågor_ (fn.
+_Élivágar_). Vid gränsen af Muspell, der allt flammar och brinner, sitter
+_Surt_ (fn. _Surtr_) med ett brinnande svärd och vaktar.
+
+_Ginnungagap_[2] af _gina_, gapa; jfr. adj. _ginn_, vid, stor, endast
+brukligt i sammansättningar. _Niflheimr_ af _nifl_ (jfr t. _nebel_), dimma,
+och _heimr_, verld, hem. _Múspell_, fht. _Múspilli_, är ett urgammalt ord
+och kan, hvad beträffar slutet, hänföras till _spilla_, tillintetgöra, samt
+är troligen en omskrifning på elden såsom ödeläggande. _Hvergelmir_,
+»kittelbrusare», af _hverr_, kittel, och _gelmir_ af _galm_, larm, brus (ej
+i st. för _gemlir_ af _gamall_, gammal). _Élivág_, pl. _-ar_, stormflod, af
+_él_, stormby, orkan. _Surtr_, svart, svartbrun, svart af brand (jfr d.
+_sort_); namnet har två former: _Surtr_ och _Surti_.
+
+Jfr grekernas _Kaos_. Det bör anmärkas, att Surt är väktaren, som sitter
+vid gränsen till Muspell, men icke sjelfva herskaren öfver denna verld. Han
+är svart af branden, under det att Muspellssönerna sjelfva, som bo midt i
+ljuset, äro skinande och blanka.
+
+
+§ 2. Yme. Rimtursar.
+
+Då de floder, som kallas Elivågor, voro så långt ifrån sin källa, att det
+etter (frostämne), som fans i dem, stelnade, blef det is; och det ena
+lagret hopade sig öfver det andra på norra sidan af Ginnungagap, hvarest
+beständigt herskar storm och oväder. Deremot var södra sidan varm och ljus
+genom de från Muspell utflygande gnistorna, och då dessa träffade isen,
+smälte han och började drypa, och genom hans kraft, som hettan utsände,
+vardt det lif i dropparne, så att derur uppstod en människogestalt (en mans
+kropp) _Yme_ (fn. _Ymir_). Från denne, urjätten, härstammar den onda
+jätteslägten _Rimtursar_ (fn. _Hrimþursar_); ty när Yme sof, föll han i
+svettning och då växte under hans venstra arm man och qvinna och hans ena
+fot födde med den andra en son. Rimtursarne kallade sin stamfader _Örgälme_
+(fn. _Aurgelmir_). Hans son är _Trudgälme_ (fn. _Þrúðgelmir_) och dennes
+son _Bergälme_ (fn. _Bergelmir_).
+
+_Ymir_, den larmande, stönande, af _ymja_, gifva ett doft ljud ifrån sig,
+larma. _Hrimþursar_, frostjättar, af _hrim_, rimfrost, och _þurs_ eller
+_þuss_, jätte, troll. _Aurgelmir_ af _aurr_, gytja, lera, det fasta
+grundämnet, samt _gelmir_ (se § 1). _Þrúðgelmir_ af _þrúðr_, stark, fast.
+_Bergelmir_ för _Berg-gelmir_ af _berg_, klippa, berg.
+
+»Han som hettan utsände» har i allmänhet blifvit uppfattad som Surt; men
+lika litet som denne är herskare i Muspell, lika litet är han den, som
+utsände hettan. I de anförda orden ligger en häntydning på det väsende, som
+man ej ville eller kunde nämna. Denne onämnbara gud omtalas blott på detta
+ställe i Snorres Edda, och han förekommer åter först efter verldens
+undergång (Petersen, Nordisk Mytologi, sid. 53).
+
+
+§ 3. Gudarnes skapande.
+
+Då isen smälte, uppstod äfven kon _Ödhumla_ (fn. _Auðhumla_), från hvars
+spenar utströmmade fyra mjölkfloder, som närde Yme. Sjelf närde hon sig
+genom att slicka de rimfrostbelagda saltstenarne (salta isblocken). Första
+dagen, som hon slickade stenarne, framkom om aftonen ur dem en mans hår,
+nästa dag en mans hufvud, och tredje dagen var det en hel man. Denne hette
+_Bure_ (fn. _Buri_), var fager till utseende, stor och stark. Han födde en
+son, som hette _Bur_ (fn. _Burr_, _Börr_). Bur fick till hustru en qvinna
+vid namn _Bästla_ (fn. _Bestla_), dotter till jätten _Böltorn_ (fn.
+_Bölþorn_), och födde med henne tre söner, _Odin_ (fn. _Oðinn_), _Vile_
+(fn. _Vili_) och _Vi_ (fn. _Vé_), hvilka voro de förste gudar.
+
+_Auðhumla_ är af osäker betydelse, då namnet kan härledas så väl af adj.
+_auðr_, öde, som af subst. _auðr_, rikedom, eller af prefixet _auð-_, lätt;
+_humla_ af _hum_, skymning. _Buri_, den aflande, _Burr_, den aflade, fadern
+och sonen, af _bera_, bära, föda. _Bestla_ måhända af _bestr_, bäst; _Burr_
+förband sig med det bästa af den låga materien (?). _Bölþorn_ eller
+_Bölþorr_ (_Bölþurs?_) af _böl_, elände; således: Olyckstörne eller
+olycksjätte -- det dåliga. _Oðinn_; se § 12. _Vili_ är det nysvenska
+_vilje_. _Vé_ (_Vi_) betyder ett heligt ställe, helgedom och den frid, som
+hvilar deröfver; ordet återfinnes i många ortsnamn, t. ex. Frövi, Locknevi,
+Odensvi m. fl.
+
+Det högre lifvets frö ligger i saltstenarne; ur materien frambryter anden
+och förbinder sig med henne för att i denna förbindelse blifva medveten af
+sig sjelf; resultatet är sjelfmedvetandet såsom makt gent emot materien,
+och detta är Odin, Vile och Vi, gudaslägtens begynnelse. Odin är anden, den
+lefvande kraften i allt skapadt; hans bröder äro yttringar af denna kraft,
+men alla tre äro ett. Denna makt skapar icke det ursprungliga, men
+genomträngande och ordnande omgestaltar hon materien. I _Odin_, _Vile_ och
+_Vi_ hafva vi _tanken_, _viljan_ och det _heliga band_, som måste förena
+dem för att frambringa det goda.
+
+
+§ 4. Himmelens och jordens skapelse.
+
+Gudarne, Burs tre söner, dräpte Yme, kastade honom midt i Ginnungagap och
+danade af honom himmel och jord: af hans blod hafvet och sjöarne, af hans
+kött jorden, af hans ben bergen, af hans tänder stenarne, af hans
+hufvudskål himmelen, under hvars fyra hörn de satte fyra dvergar, _Östre_
+(fn. _Austri_), _Vestre_ (fn. _Vestri_), _Nordre_ (fn. _Norðri_) och
+_Södre_ (fn. _Suðri_).
+
+Jorden är kretsrund, och rundt omkring henne ligger det djupa hafvet. Längs
+hafskusten gåfvo Burs söner jättarne land att bebygga, och der är således
+_Jättehem_ (fn. _Jötunheimr_) eller _Utgård_ (fn. _Útgarðr_). Innanföre
+bygde de omkring jorden en borg mot jättarnes anfall och använde dertill
+Ymes ögonbryn. De kallade borgen _Midgård_ (fn. _Miðgarðr_), och denna var
+för människorna bestämd till boning.
+
+Då Burs söner dräpte Yme, rann det så mycket blod ur hans sår, att hela
+rimtursaslägten drunknade deri, undantagandes Bergälme (se § 1) och hans
+hustru. Denne for upp på sin ark jämte sin hustru och höll sig der, och
+från honom härstammar den nya jätteslägten.
+
+_Útgarðr_, den ytterst bebodda trakten af _út_, ut, ute, utom, och _garðr_,
+hägnad, gård, boning. _Miðgarðr_, mellanboning, af _miðr_, mellerst. Genom
+Ymes dråp uppkommer _Storfloden_, _t._ _Sinnfluth_; _sinn_ = fornnord.
+_si_, städse, beständigt, mest brukligt såsom prefix; deraf förvrängt
+_Syndaflod_.
+
+Då Yme föreställer den råa massan, måste han dräpas, d. v. s. sönderslås,
+på det att hvarje enskild del måtte få sin bestämda gestalt.
+Ändamålsenligheten i den nordiska framställningen är ögonskenlig. Störst är
+likheten mellan denna och en myt från Kokinkina, enligt hvilken verlden
+skapades af jätten Bamios kropp: himmelen af hjernan, sol och måne af
+ögonen, jorden af köttet, klippor och berg af benen, växter af håret
+(Petersen, sid. 56).
+
+
+§ 5. Himlakropparne. Tidens indelning. Vinden. Regnbågen.
+
+_Himlakropparne_ uppstodo af de gnistor, som kastades ut från Muspell och
+foro lösa omkring. Burs söner anvisade dem plats, satte dem på himmelen att
+upplysa verlden samt ordnade deras gång. Derigenom ordnades natt och dag
+och årsräkning. _Mundilföre_ (fn. _Mundilfoeri_) hette en man, hvilken hade
+en son och en dotter, som voro så fagra, att han kallade sonen _Måne_ (fn.
+_Máni_) och dottern _Sol_ (fn. _Sól_). Gudarne, som vredgades öfver detta
+öfvermod, togo de båda syskonen och satte dem upp på himmelen. De läto Sol
+köra de hästar, som draga solens vagn, hvilken gudarne skapat af Muspells
+eldgnistor. Dessa hästar heta _Årvak_ (fn. _Árvakr_) och _Allsvinn_ (fn.
+_Alsvinnr_ l. _Alsviðr_). Under deras bogar satte gudarne blåsbälgar för
+att svalka dem, och mellan solen sjelf och jorden satte de en sköld
+_Svalin_ (fn. _Svalinn_), enär hennes glans annars skulle sveda allt. Måne
+styr månens gång och råder för ny och nedan, som de välgörande makterna
+skapade till årsräkning åt människorna. Solens och månens snabba lopp
+förorsakas af förföljande ulfvar (jättar i ulfhamn): _Skall_ (fn. _Sköll_),
+som vill gripa solen, och _Hate_ (fn. _Hati_), som vill taga månen. Dessa
+ulfvar äro födda utanför Midgård och af dem är den senare, som också kallas
+_Månagarm_ (fn. _Mánagarmr_) och lefver af människors lik, den värste.
+
+_Mundilfoeri_ härledes vanligen af _möndull_, axel, och _foera_, föra,
+bringa, flytta; namnet betyder i så fall »den, som vrider himmelen kring
+hans axel». _Árvakr_, tidigt vaken, vaksam, af _ár_, ss. adv. tidigt, och
+_vaka_, vaka. _Alsvinnr_ eller _Alsviðr_, mycket snabb, hurtig; den urspr.
+betydelsen af _svinnr_ är snar, n. _svind_, t. _geschwind_. _Svalinn_ af
+_svalr_, sval. _Sköll_, den jagande, af _skella_, jaga. _Hati_, hataren, af
+_hatr_, hat. _Mánagarmr_, månhunden, af _máni_, måne, och _garmr_, hund.
+
+Att ulfvar förfölja sol och måne är en allmän folktro. Det svenska
+»solvarg» betyder en bisol.
+
+_Årstiderna_ äro två: vinter och sommar. Sommarens fader heter _Svåsud_
+(fn. _Svásuðr_) och är så säll, att allt ljuft och mildt uppkallas efter
+hans namn. Vinterns fader heter _Vindsval_ (fn. _Vindsvalr_) eller
+_Vindlone_ (fn. _Vindloni_), son af _Våsad_ (fn. _Vásaðr_). Denna slägt är
+barsk och kallhjertad, och så äfven vintern.
+
+_Svásuðr_ af _sváss_, söt, liflig. _Vindsvalr_, vindkall; _Vindloni_,
+vindbringare. _Vásaðr_, den som bringar tö, af _váss_, fuktighet.
+
+_Natt_ (fn. _Nótt_) är af jätteslägt och mörk som hennes fader _Nörfve_
+(fn. _Nörfi_). Hon var tre gånger gift: först med _Nagelfare_ (fn.
+_Naglfari_), med hvilken hon hade sonen _Ud_ (fn. _Udr_), derefter med
+_Andre_ (fn. _Annar_), med hvilken hon hade dottern _Jord_ (fn. _Jörð_),
+och sist med _Dälling_ (fn. _Dellingr_), med hvilken hon hade sonen _Dag_
+(fn. _Dagr_), som var ljus och fager efter sitt fäderne. Allfader satte
+Natt och Dag upp på himmelen och gaf dem två hästar och två vagnar, att de
+skulle hvart dygn köra omkring jorden. Natt åker förut med hästen _Rimfaxe_
+(fn. _Hrimfaxi_), från hvars mule hvarje dag faller dagg öfver dalar. Dag
+far med hästen _Skinfaxe_ (fn. _Skinfaxi_), hvars man upplyser luft och
+jord.
+
+_Nörfi_ eller _Narfi_; jfr t. _nare_, _narbe_, ärr. _Naglfari_, _Udr_ (=
+_Auðr_, rikedom?), _Dellingr_ äro till sin härledning osäkra. _Hrimfaxi_,
+som har rim-manke, och _Skinfaxi_, som har skinande manke, af _faxi_,
+manke.
+
+Att åsaläran ej kommit till oss ren och oblandad, utan bildad af flere
+element, det visar en del af det här anförda: himlakropparne, som förut
+voro gnistor från Muspell, hafva här föräldrar; jorden, som danades af Ymes
+kropp, härstammar här från natten. Mycket häraf är dock helt enkelt
+metaforer, i hvilka föremålens egenskaper framträda såsom personer. Då
+ordet _Nörfve_, nattens fader, helt säkert motsvarar det t. _narbe_, ärr,
+fördjupning, så blir den enklaste förklaringen denna: natten är djupets
+dotter; från djupets klyftor uppstiger hon. Nörfve är det samma som
+grekernas Erebos, den underjordiska natten, liksom Nyx den jordiska
+(Petersen, sid. 60).
+
+_Vinden_ kommer från en jätte, _Räsvälg_ (fn. _Hræsvelgr_), som i
+örngestalt sitter vid himmelens norra ände och slår med sina ofantliga
+vingar.
+
+_Hræsvelgr_, likslukare, af _hræ_, lik, och _svelgia_, svälja.
+
+_Regnbågen_ eller _Bäfrast_ (fn. _Bifröst_) är gudarnes strålande väg till
+jorden.
+
+_Bifröst_ af _bifa_, bäfva, och _röst_, rast, väg; således: den gungande
+(bäfvande) bron, vägen.
+
+
+§ 6. Fornjot och hans slägt.
+
+_Fornjot_ (fn. _Fornjótr_) hade tre söner _Lä_ (fn. _Hlér_), _Loge_ (fn.
+_Logi_) och _Kåre_ (fn. _Kari_), hvilka herskade öfver haf, eld och vind.
+Lä hade sitt säte på _Läsö_ (fn. _Hlésey_). Från Loge, som också heter
+Håloge, har Norges nordliga del sitt namn Hålogaland. Hans hustru är _Glöd_
+(fn. _Glóð_), hans döttrar _Öjsa_ (fn. _Eysa_) och _Ejmörja_ (fn.
+_Eimyrja_). Kåre hade en son _Froste_ (fn. _Frosti_), en sonson _Snö_ (fn.
+_Sniór_) och en sonsons son _Torre_ (fn. _Þurri_), hvars dotter _Goe_ (fn.
+_Goi_) blef bortröfvad af kung _Rolf_ (fn. _Hrolf_) i Hedemarken. Hennes
+bröder Nor och Gor drogo ut att uppsöka systern och efter många ströftåg
+möttes de åter i Nordfjärd i Sogn. Härifrån drog Nor till Hedemarken, der
+han träffade Rolf. Nor äktade en syster till Rolf, och Rolf äktade Goe.
+Detta var anledningen till Norges bebyggande.
+
+_Fornjótr_ kan uppfattas antingen såsom _Forn-jótr_, den åldrige jätten
+(jfr _jötunn_, jätte), eller såsom _For-njótr_, den först njutande, den
+förste egaren (»Förnjut») af _njóta_, njuta. Den förstnämda uppfattningen
+synes hafva företrädet. _Hlér_ är att jämföra med det kymriska ordet
+_llyr_, haf. _Logi_, flamma, låge. _Kári_, kåre, vindpust. _Eysa_, glödande
+aska. _Eimyrja_, askmörja. _Frosti_, af _frost_, kyla, frost. _Sniór_,
+_Snær_ och _Sniár_, snö. _Þurri_ betyder hufvudstyrkan, största delen af
+något, samt är namnet på den kallaste vintermånaden, som också kallas
+_þorramánaðr_ (slutet af Januari och början af Februari). _Goi_ är namnet
+på Februari--Mars (jfr _Göje_-månad).
+
+I åsaläran äro icke blott flere element blandade, utan det har ock funnits
+en ännu äldre lära af finskt eller keltiskt ursprung; det ådagalägger den
+fornjotiska naturkulten. Denna står på det lägsta utvecklingsstadiet och
+framträder i synnerhet på tre ställen: i Finland (taget i mycket vidsträckt
+betydelse), på danska öarna och i Hålogaland. Minnet deraf har bevarat sig
+förnämligast på öar och i aflägsna landskap. Åsaläran har utträngt dessa
+föreställningar (i äldre Eddan nämnes icke Fornjot utom på ett ställe i
+Hrafnagaldr, str. 17), men då och då uppdyka de åter hos skalderna.
+
+Genom förvexling af det fornnordiska _Kári_, kåre, med qvinnonamnet Karin
+(»Kari») har uppstått det hos sjöfolk vanliga utropet: »Blås, Kajsa» i
+stället för »Blås, Kåre.»
+
+
+§ 7. Guldåldern. Dvergars och människors skapelse.
+
+Det första, som frambragtes af den ursprungliga hettan, var således Yme och
+hans slägt, dernäst gudarne, hvilka ihjälslogo honom, danade himmel och
+jord samt indelade tiden. Derpå bygde gudarne åt sig en borg midt i
+verlden, som kallades _Åsgård_ (fn. _Ásgarðr_). De möttes på _Idavallen_
+(fn. _Iðavöllr_) midt i Åsgård och timrade i höjden harg (altare) och hof
+(tempel). De uppförde ett tempel med tolf säten och dessutom ett högsäte
+för Allfader, och är detta hus den största och präktigaste boning; allt
+både utan och innan likt guld. Det stället kalla människor _Gladsheim_ (fn.
+_Glaðsheimr_). För gudinnorna uppreste de en annan byggnad, som var mycket
+fager, och detta hus kalla människor _Vingolf_ (fn. _Vingólf_). Derpå
+anlade de äsjor, gjorde sig tänger och allahanda redskap och smidde sig
+kostbara ting. Allt deras husgeråd var af guld; de lekte guldtafvel och
+voro glade. Denna tid kallas _guldåldern_ och varade, tills tre mäktiga mör
+(Nornorna) kommo från jätteverlden.
+
+Då begynte gudarne att skapa. De satte sig på sina säten och erinrade sig,
+huruledes _dvergarne_ fått lif i mullen nere i jorden. Dvergarne hade
+nämligen först bildats i Ymes kött och voro då maskar. Genom gudarnes
+beslut fingo de nu mannavett och människogestalt, men bo dock i jorden och
+stenar (se § 9).
+
+Dernäst skapade gudarne _människorna_ ur träd. _Odin_ (fn. _Oðinn_), _Höne_
+(fn. _Hoenir_) och _Lodur_ (fn. _Loðurr_) gingo längs med sjöstranden och
+funno tvänne träd, _Ask_ (fn. _Askr_) och _Ämbla_ (fn. _Embla_), »utan
+kraft och bestämmelse». De togo upp dem och skapade af dem människor. Odin
+gaf ande, Höne sinne, Lodur vätska (blod) och god färg. Från dem härstammar
+människoslägtet, åt hvilket Midgård gafs till boning.
+
+_Ásgarðr_ af _áss_, pl. _æsir_, (se § 10) och _garðr_, boning, gård.
+_Iðavöllr_, flitslätten, af _ið_, flit, och _völlr_, slätt, vall.
+_Glaðsheimr_, glädjens eller glansens hem, af _glaðr_, glad, klar.
+_Vingólf_, vännernas rum, af _vinr_, vän, och _gólf_, golf, rum. _Hoenir_,
+är ett af de få ord, som man ej kunnat förklara. _Loðurr_ hänföres till det
+t. _lodern_, låga. _Askr_, askträd; _Embla_ förklaras med alm, t. _ulme_;
+äfven med honträdet af asken.
+
+_Guldåldern_ är oskuldens, fridens och bekymmerslöshetens tid, likasom
+barnaåldern och folkens frodetid. Denna tid är lycksalig, ty verksamheten
+går endast ut på den inre utvecklingen; först med nornornas ankomst får
+gudarnes verksamhet en riktning utåt. De skapa först dvergarne, d. v. s.
+jordens krafter måste utveckla sig för att förbereda människans skapelse,
+och sedan människorna, och dermed få de en hel verld af omsorg och
+bekymmer. Då är det slut med guldåldern.
+
+_Treenhet._ En i hedniska religionsläror icke sällan förekommande
+föreställning om en trefaldig åtskilnad inom gudamakten återfinnes äfven i
+våra hedniska förfäders religiösa åskådning. Tre väsenden meddela i
+Gylfaginning (Snorres Edda) konung Gylfe gudalärans innehåll. De heta der
+_Hár_ (hög), _Jafnhár_ (lika hög) och _Þriði_ (tredje). I bestämdare former
+framträda de tre väsendena vid verldens skapelse såsom _Odin_, _Vile_ och
+_Vi_ (se § 3), samt vid människans skapelse såsom _Odin_, _Höne_ och
+_Lodur_. Det är tydligt att Odins bröder äro blotta emanationer ur Odins
+väsende; de utgå från honom och föreställa blott andra sidor af den
+gudomliga makten. Deraf följer också, att de härledda väsendena ej äro de
+samma: Vile icke den samma som Höne, Vi icke den samma som Lodur. Om de
+vore de samma, så funnes intet skäl att gifva dem olika namn; men detta var
+naturligt, när man skulle gifva uttryck åt olika verksamhetsarter.
+
+Höne förekommer några gånger i sällskap med Odin, ehuru han såsom gisslan
+kom till vanerne (se § 11) och af dem gjordes till herskare. Vid människans
+skapelse gifver han henne känsla och förstånd, under det han hos vanerne
+framstår såsom enfaldig, den der utan Mimes råd intet vet att sköta. I
+synnerhet förmår han intet utan Odin. Efter Ragnarök skall han återvända i
+den pånyttfödda verlden. Lodur kallas äfven _Lopt_ (fn. _Loptr_, af _lopt_,
+luft) och är då den samme som _Loke_ (se § 24). Lodur är Loke, medan han
+ännu i tidens begynnelse var Odins fosterbroder. Lodur utbreder sig såsom
+den stilla, milda, osynliga flamman genom människans ådror, Loke såsom den
+förtärande elden i jordens inre. Båda äro uttryck för sinligheten: Lodur är
+den sinliga kraft, som framkallar och utvecklar lifvet, Loke den våldsamma
+sinligheten, som förderfvar och ödelägger det. När Höne icke är hos Odin,
+så är han dum; när Loke öfvergaf Odin, så blef han ond (Petersen, sid.
+69-70).
+
+
+
+
+B. Verlden[3].
+
+
+§ 8. Jättar.
+
+Jätteverlden framträder i två slags väsenden: _Tursar_ eller _Tussar_ (fn.
+_Þursar_) och _Jättar_ (fn. _Jötnar_); men föreställningarna om dem
+sammanfalla till en stor del. Dock tillhöra tursarne närmast det kalla,
+vilda hafvet, under det att jättarne snarast må hänföras till bergen
+(bergresar o. s. v.).
+
+Jättarne beteckna den _vilda_, otämda, oordnade _naturen_, som icke är
+genomträngd af den andliga verksamheten: det vilda hafvet, de höga,
+ofruktbara bergen. Deras kroppar föreställas såsom öfvermänskligt stora,
+deras hufvuden äro hårda som sten, och de hafva stundom flere hufvud och
+flere par armar. Deras qvinnor, _Gyger_ (fn. _Gygir_), äro för det mesta
+hiskliga vidunder, men kunna också vara sköna som Gärd (se § 22). Såsom
+mörkrets barn färdas de likbleka jättarne helst om natten; solljuset och i
+synnerhet blixten förskräcker dem och förvandlar dem till sten. Deras
+boningar äro det vilda, öde hafvet, de höga bergens klippor och hålor,
+vattenfall, bergforsar, korteligen allt, hvarest elementen herska i otämd
+vildhet. De ega stora rikedomar och mycken kolsvart boskap. Jättarne äro
+kunnige, ty allt utgår från dem (naturen), men stränga och barska; dock
+kunna de vara glada som barn och godmodiga, men uppretade äro de
+fruktansvärda och vilda, likasom naturen sjelf, hvilken antingen befinner
+sig i stillhet eller i uppror.
+
+_Þurs_ eller _þuss_, pl. _-ar_, hänföres (af Grimm) till det gotiska
+_þaursus_, torr, _þaursjan_, törsta, och betydelsen skulle således vara:
+den törstige, dryckeslystne; jfr. sv. _tosse_ l. _tösse_, n. _tusse_.
+_Jötunn_, pl. _jötnar_, hänföres till _eta_, äta, af roten _et_, med
+brytning _jat_, och skulle således betyda: den glupske.
+
+Då jättarne beteckna de råa, vilda naturkrafterna, som verka störande och
+sätta sig emot allt, som gör himlen mild och jorden beboelig, så äro
+gudarna ständigt inbegripna i strid med dem. Gudarne tämja dessa krafter
+antingen genom att tillintetgöra dem (Tor och Rungne), eller förbinda sig
+med dem (Odin och Gunnlöd, Njord och Skade, Frö och Gärd). Ehuru
+jätteverlden närmast är den kroppsliga råa naturen, uteslutes dock icke
+derigenom ett öfverflyttande på andeverlden. Jättarne kunna tillika
+uppfattas såsom ett uttryck af det vilda och obändiga i människans bröst.
+Jfr folktron om trollen!
+
+
+§ 9. Alfvar och Dvergar.
+
+Likasom jättarne äro ett uttryck af naturen i hennes storhet och vildhet,
+så äro _Alfvar_ (fn. _Álfar_) och _Dvergar_ (fn. _Dvergar_) ett uttryck af
+naturen från hennes milda sida. _Naturens_ frambringande, utvecklande och
+närande _krafter_ framställas såsom _alfvar_, när de verka ofvan på jorden,
+men såsom _dvergar_, när de verka nere i jorden.
+
+_Álf_, pl. _-ar_, kommer troligen af _ala_, nära; jfr grek. [Greek: alphô].
+_Dvergr_, pl. _-ar_, anglos. _dveorg_, t. _zwerg_, är till sin härledning
+obekant.
+
+_Alfvarne_ framställas såsom sköna, ljusa och luftiga väsenden. De äro små,
+späda och fina; i synnerhet är _älfvan_ (alfqvinnan) outsägligt skön, och
+hennes röst ljuder med en späd silfverklang. Alfvarne äro mot gudar och
+människor vänliga och hulda, såsom _ljusets_ och _luftens_ utvecklande
+_krafter_. Från solnedgången till hanegället dansa de i månskenet på ängar
+och kullar, i gröna lundar och dalar; om morgonen ser man deras spår i
+daggen. Från luften skjuta de med pilar, och deraf får man älfskott
+(älfbläst). Man offrade åt alfvarne (fn. _álfablót_), likasom åt åsarne,
+och åsar och alfvar nämnas ofta tillsammans i motsats mot jättarne.
+_Alfheim_ (fn. _Álfaheimr_) ligger åsaverlden nära, och Frö, fruktbarhetens
+gud, erhöll det i tidens begynnelse såsom tandgåfva[4].
+
+_Dvergarne_ stå visserligen åsarne fjärmare, men arbeta dock i deras
+tjenst, samt hamra och smida konstiga ting till gudars och människors gagn.
+De äro små och klumpiga, bo i jordens inre, i klyftor och stenar, och kunna
+icke fördraga ljuset, hvarför de hafva en hjelm att skyla sig med, när de
+någon gång komma fram deri. Till dvergarnes område hör _allt, som i jordens
+inre_ hemlighetsfullt _verkar_ till människornas bästa: ur jordens sköt
+skjuter eken fram, ur jordens sköt bryter guldådran fram; under jorden
+bildas de af dvergar, och när de utbreda sig i ljusets glans, blifva de en
+välsignelse för människan.
+
+Åtskiljandet af _ljusalfvar_ (fn. _ljósálfar_) och _mörkalfvar_
+(svartalfvar; fn. _ðökkálfar_, af _dökkr_, mörk) synes vara af senare
+ursprung. Mörkalfvarne förekomma i den äldre Eddan endast i Hrafnagaldr
+(str. 25) i förbindelse med dvergarne, som bo likasom desse nere i jorden.
+Nästan inga särskilda alfvar nämnas (ingen individualisering eger rum),
+emedan de sysselsätta sig med sjelfva naturtingens utveckling, och deras
+verksamhet blott är en underordnad riktning af åsarnes. Såsom alfvar nämnas
+blott _Völund_ (fn. _Völund_) och hans bröder. Dvergarne deremot uppträda
+såsom individer, då de vid vissa tillfällen förfärdiga allahanda redskap åt
+gudarne. Af dem funnos tre afdelningar, hvardera med sin höfding:
+_Modsogne_ (fn. _Motsognir_, saft- eller kraftsugaren) _Durin_ (fn.
+_Durinn_ af dur, slummer) och _Dvalin_ (fn. _Dvalinn_ af _dvali_, dvala,
+sömn).
+
+_Vättar_ (fn. _Vættir_) är ett gemensamt namn för flere liknande väsenden,
+som förekomma i sånger och sagor, samt i folktron under olika namn. De
+omtalas i synnerhet såsom beskyddare af enskilda ställen. Slutligen har man
+_hafsmän_ och _näckar_ (flodgubbar). Märk folktron om dvergar, troll,
+nissar, tomtar och lyktgubbar!
+
+_Vættr_, pl. _-ar_, ting, oting; t. _vicht_, hvaraf _nicht_.
+
+
+§ 10. Åsar.
+
+_Åsar_ (fn. _æsir_, af sg. _áss_) kallas verldens _skapare_ eller _ordnare_
+och _upprätthållare_. De äro _tankens_ och _lifvets andar_, som
+genomströmma hela naturen och söka böja henne under den andliga viljan.
+Dagligen samlas de för att rådslå om verldens öde. Dem tillägges mänsklig
+gestalt och mänskligt uppträdande, men allt i högre och ädlare mått; de
+höra och se skarpare samt färdas med oändlig snabbhet. Odin tillägges
+allmakt; alla kallas blida, hulda, välgörande, visa, höga, heliga.
+Åsagudarne uppräknas i Snorres edda i följande ordning: _Odin_ (fn.
+_Óðinn_), _Tor_ (fn. _Þorr_), _Balder_ (fn. _Balður_), _Njord_ eller
+_Njärd_ (fn. _Njörðr_; egentligen en af vanerne), _Frö_ eller _Frej_ (fn.
+_Freyr_; också en af vanerne), _Ty_ (fn. _Tyr_), _Brage_ (fn. _Bragi_),
+_Heimdall_ (fn. _Heimdallr_), _Höd_ (fn. _Höðr_), _Vidar_ (fn. _Viðarr_),
+_Vale_ (fn. _Vali_), _Ull_ (fn. _Ullr_), _Forsäte_ (fn. _Forseti_), _Loke_
+(fn. _Loki_, uttalas Låke).
+
+_Asynjor_ (fn. _Ásynjur_) eller gudinnor äro: _Frigg_ (fn. _Frigg_), _Saga_
+(fn. _Saga_), _Eir_ (fn. _Eir_), _Gefion_ (fn. _Gefjun_), _Fulla_ (fn.
+_Fulla_), _Fröja_ (fn. _Freyja_; en vana), _Sjöfn_ (fn. _Sjöfn_), _Lofn_
+(fn. _Lofn_), _Vår_ (fn. _Vörr_), _Syn_ (fn. _Syn_), _Lin_ (fn. _Hlin_),
+_Snotra_ (fn. _Snótra_), _Gnå_ (fn. _Gná_), samt _Gärd_ (fn. _Gerð_; eg. en
+gyg), _Skade_ (fn. _Skadi_; eg. en gyg), _Jord_ (fn. _Jörðr_), _Idun_ (fn.
+_Iðunn_), _Nanna_ (fn. _Nanna_), _Noss_ (fn. _Hnoss_), _Rind_ (fn.
+_Rindr_), _Sigyn_ (fn. _Sigyn_), _Rån_ (fn. _Rán_; eg. en gyg) m. fl.
+
+_Áss_ (i st. f. _ans_), pl. _æsir_, måhända af _áss_, pl. _-ar_, bjälke, ås
+(takås), och betyder _æsir_ då: pelarne, de verldsordningen upprätthållande
+stolparne, de sammanhållande verldsbjälkarne (Säve); ordet har intet
+sammanhang med Asia. _Ásynja_, fem. af _áss_. Om de särskilda gudanamnens
+betydelse se § 15 och följande.
+
+_Gemensamma benämningar_ för gudarne äro vidare: _megin_, makterna,
+krafterna; _regin_, de styrande (regentes); _höpt_, de häftande,
+sammanhållande; _bönd_, band, de verlden förbindande makterna; _tívar_
+(lat. _divi_), _díar_, _goð_, gudar. Hvad här tillägges åsarne gäller äfven
+till en del vanerne (se § 11).
+
+_Gudaverlden._ Så snart sjelfmedvetandet vaknar hos människan, träder
+naturen fram såsom en motsats mot henne, och hon känner sig såsom en makt
+gent emot naturen. Denna sjelfmedvetandets makt, idealiskt uppfattad och
+satt utom människan, är gudaverlden, åsarne. Denna andens makt söker
+genomtränga naturen och böja henne under sin vilja; åsarne frambringa icke
+det ursprungliga, men de ordna och upprätthålla det. Deras förhållande till
+naturen är en motsats, som går ut på förening. Med vanerna (§ 11) kommer
+denna förening till stånd och dermed uppnår åsalifvet sin högsta
+utveckling. Striden med jättarne slutas visserligen icke, men Tor
+förblifver alltid segrande, och till och med några vänskapliga förhållanden
+uppstå. Men inom gudaverlden sjelf uppstår en splittring: Loke skiljer sig
+från Odin och ställer sig sjelfständig mot åsarne. Dermed är det onda
+uppkommet, hvilket småningom genomtränger hela verlden och slutligen, då de
+förut segerrikt bekämpade makterna resa sig med ny kraft, medför hennes
+undergång (jfr H. Lüning, sid. 47).
+
+_Åsagudarnes antal._ Ofta framhålles åsarnes tolftal, men det framträder
+dock ej tydligt. På Idavallen uppföra åsarne åt sig tolf säten och dessutom
+ett högsäte åt allfader. »Det är 12 gudomliga åsar», men vid uppräknandet
+(i Snorres Edda) blifva de 14, Loke inberäknad, hvarvid dock Härmod (se §
+19) och Höne fattas. För att få fram tolftalet måste man frånskilja Njord
+och Frö, som äro vaner, Höne, hvilken såsom gisslan kom till vanerne, samt
+Loke i följd af hans affall. Följaktligen äro de tolf åsarne: _Odin_,
+_Tor_, _Balder_, _Härmod_, _Ty_, _Brage_, _Heimdall_, _Höd_, _Vidar_,
+_Vale_, _Ull_, _Forsäte_.
+
+
+§ 11. Vaner.
+
+_Vaner_ (fn. _Vanir_) kallas det lugna, böljande hafvets, det allt
+organiskt lif genomträngande _vattnets gudomligheter_. De beteckna vattnets
+alstrande krafter, men likasom vattnet (hafvet) i sig upptager hela naturen
+och återspeglar henne, likaså är hos vanerne kunskapen om det förflutna och
+det tillkommande. De äro derför befrämjare af vetande och kultur, af
+välstånd och ordnadt samhälle. Då åsarne äro den fasta tankens gudar, äro
+vanerne den rörliga känslans gudar. Åsar och vaner bekrigade i början
+hvarandra, men slöto sedan fred och genom deras förbindelse uppnår
+gudalifvet sin högsta utveckling.
+
+När åsar och vaner ingingo förlikning, gåfvo de hvarandra gisslan. Vanerne
+gåfvo åt åsarne Njord och hans barn Frö och Fröja (se § 22), hvilka sålunda
+upptogos bland åsarne, och dessa gåfvo åt vanerna Höne (§ 7), med hvilka de
+sände Mime, och för honom fingo de sjelfva Kvåse (se § 21).
+
+_Vanir_ pl. af samma rot som _vinr_, vän.
+
+Från vattnet utgår jordens fruktbarhet, och vattnet eller det flytande
+elementet i allmänhet är ett oundgängligt vilkor för allt organiskt lif.
+Vid haf och floder utvecklar sig lifvet mäktigare och betydelsefullare, och
+fisket, det äldsta näringssättet, är fäst dervid. Först sedan åsarne
+förbinda sig med vanerna, vattnets gudomligheter, utvecklar sig
+gudaverksamheten i sin fulla glans och utgjuter sitt ymnighetshorn öfver
+jorden. Jfr öfriga personligheter, i hvilka hafvet framträder (se § 23).
+
+
+§ 12. Nornor.
+
+_Nornor_ (fn. _Nornir_) kallas _ödets_, den nödvändiga utvecklingens
+_gudinnor_. De heta _Urd_ (fn. _Urðr_), _Vardande_ (fn. _Verðandi_), och
+_Skuld_ (fn. _Skuld_), forntid, nutid och framtid. De sitta vid Urds brunn
+och uppfriska verldsträdet med källans vatten och jordämne (se § 14). Deras
+värf är således att _hålla verlden vid makt_, och från dem utgår den
+skapelsens föryngring och förnyelse, som allt lifs utveckling förutsätter.
+Icke blott det materiella, utan äfven det andliga lifvets utveckling beror
+af dem, och de råda också för den enskilda människans öde. De bestämma
+lifvets gång, utspänna sin väf (lifvets väf) öfver hela verlden från solens
+uppgång till hennes nedgång, från lifvets morgonrodnad till dess afton.
+Hvad de bestämma är en nödvändighet, mot hvilken gudarne sjelfva ingenting
+förmå.
+
+_Norn_, pl. _Nornir_; jfr _njörva_, sätta samman, hopfästa, väfva. _Urðr_
+af _verða_, varda, impf. _varð_, pl. _vurðum_ l. _urðum_, p. p. _vurðinn_,
+betyder således »den vordna», forntiden. _Verðandi_ (icke _Verandi_) af
+_verða_, betyder »den vardande», nutiden, ty nutiden endast varder; den är
+icke, emedan när den är, är den redan förbi. _Skuld_ af _skulu_, skola,
+betyder »den som skall varda».
+
+Föreställningen om nornorna har utgått från tron på ett förutbestämdt,
+oföränderligt öde. Denna tro, som ännu är allmän hos vår allmoge, möta vi
+öfverallt i våra gamla skrifter. Häri ligger en förnimmelse af det nära
+sammanhang, som eger rum i hela naturen, och den nära föreningen mellan den
+kroppsliga och den andliga; intet väsen eger bestånd för sig allena, ingen
+händelse föranledes blott af någon enskild. Föreställningen om en
+oundviklig, kall och sträng nödvändighet, öfver hvilken sjelfva gudarne
+intet förmå, har sin grund i den för hedendomen oupplösta motsägelsen
+mellan naturnödvändigheten och den fria viljan. Derpå beror förhållandet
+mellan nornor och åsar. Nornorna utgå från jätteverlden, från den råa
+naturen, och i den samma ligger en nödvändighet, en ogenomskådlig
+utveckling, som viljan alltjämt söker komma på spåren och beherska. Åsarne
+äro medvetandet, som lika nödvändigt vill göra sig gällande, men motståndet
+ligger i naturen. Odin söker öfverallt blifva herre öfver den samma; han
+talar med Mime, med visa jättar, med valan i underjorden, men framför allt
+gäller det att utforska nornornas vilja, att lära känna naturkrafternas
+beskaffenhet. Det är således två olika verkande makter, som dragas till
+hvarandra, och blott i deras förening födes det något; nornorna komma till
+åsarne (se § 7), först då begynna de skapa (Petersen, sid. 113).
+
+Jfr grekernas Moirai. De grekiska nornorna spinna, våra utspänna sin väf
+från öster till vester. I senare sagor blifva nornorna ofta förvexlade med
+valkyriorna (§ 20).
+
+_Fylgjor_ (fn. _Fylgjur_) och _Hamingjor_ (fn. _Hamingjur_) äro med
+nornorna närbeslägtade väsenden. De äro fästade vid personer, antingen en
+hel slägt eller enskilda personer, då nornorna deremot äro hela verldens
+öde. Det är skilnad mellan öde, fatum, som betecknar hela verldsordningens
+sammanhang, och lycka, fortuna, som utdelas af de mindre nornorna. Dessa
+äro antingen milda eller vreda, beskydda eller förderfva. De uppenbara sig
+derför i olika gestalter: närmast såsom qvinnor (äfven för män), men ofta
+visa de sig såsom djur. _Diser_ (fn. _Dísir_) äro liknande väsen, qvinliga
+dämoner, som, goda eller onda, inverka på de enskildes öde, men, såsom det
+synes, icke äro fästade vid bestämda personer.
+
+_Fylgja_, pl. _-ur_, af _fylgia_, följa, betyder »den åtföljande»,
+skyddsande, genius. _Hamingja_ af _hamr_, gestalt, hamn, betyder »den
+skiftande», föränderliga, lyckan. _Dis_, pl. _-ir_, brukas såsom namn både
+för gudinnor och halft gudomliga qvinnor.
+
+Jfr Valorna, valkyriorna, gudarnes hamnskifte!
+
+
+§ 13. De nio verldarna och språken.
+
+_De nio verldarna._ Likasom andra folkslag i forntiden förestälde sig också
+våra förfäder, att jorden vore kretsrund och flat och att himmelen såsom
+ett fast hvalf hvilade deröfver. Himmel och jord omtalas i de gamla
+skrifterna såsom indelade i nio verldar: öfver och utom jorden: _Muspell_
+(öfverhimlen), _Åsgård_ (himlen), _Ljusalfheim_ (jordens yta); på jorden:
+_Vanaheim_ (vattnet), _Midgård_ (den af människorna bebodda jorden),
+_Utgård_ (jordens yttersta omkrets, jättarnes verld); under jorden:
+_Svartalfheim_ (närmast under jordytan), _Hälheim_ (djupt ner i jorden, de
+dödas verld), _Nifelheim_ (dimmans obebodda verld, der också de fördömda
+sägas bo).
+
+Mellan gudars och människors verld finnes en å, _Ifving_ (fn. _Ifing_), som
+öppen skall rinna under tidernas lopp och aldrig fryser till.
+
+_Ifing_ af _if_ eller _ifi_, tvifvel.
+
+Här talas blott om denna tidens verldar, hvarför det är ett uppenbart fel
+att dit räkna Gimle (se § 26). Såsom det synes, tänkte man sig Häls rike
+såsom en särskild afdelning af Nifelheim. I fysisk bemärkelse är Ifving
+luften, som sväfvar fram och tillbaka och aldrig fryser till; i andlig
+bemärkelse (ss. hos Grundtvig) betecknas dermed, att den stora striden
+mellan gudomsgnistan i oss och det djuriska elementet icke kan biläggas.
+
+_Språken._ En sång i Eddan, som heter Allvismál, lär oss att känna de
+särskilda väsendenas språk. De ord, som höra till gudars och människors
+tungomål, äro ofta urgamla, men återfinnas i verkliga språk (tyska och
+nordiska), medan de andra väsendenas vanligen äro simplare ord eller
+omskrifningar och figurliga talesätt. Så t. ex. heter jorden hos människor:
+_jörðr_, jord; hos åsar: _fold_, land; bland vaner: _vegar_, vägar; bland
+jättar: _igroenn_, alltid grön; bland alfvar: _groandi_, groende; bland
+dvergar: _aurr_, ler.
+
+Jfr Homeros, som äfven gör skilnad på gudars och människors språk samt
+anför ord af båda.
+
+
+§ 14. Yggdrasil.
+
+Verlden föreställes också under bilden af ett träd. Askträdet _Yggdrasil_
+(fn. _Yggdrasill_) är bilden af verlden såsom ett helt, såsom en enda stor
+organism. Det beskrifves sålunda. Det är det största och bästa träd; dess
+grenar utbreda sig öfver hela verlden och nå upp öfver himmelen. Det har
+tre rötter, som sträcka sig öfver måttan vida. Den ena roten är hos åsarne,
+den andra hos rimtursarne, den tredje i Nifelheim. Till hvarje rot hör en
+källa. _Hvärgälme_ (se § 1) är under den sista, och der gnager ormen
+_Nidhugg_ (fn. _Nidhöggr_) roten nedantill. Under rimtursarnes rot är
+_Mimes brunn_ (fn. _Mimis brunnr_); i honom äro klokskap och mannavett
+dolda. _Mime_ (fn. _Mimir_), som eger den samma, är full af visdom, ty han
+dricker hvar dag af källan. Dit kom Odin och bad om en dryck ur källan, men
+fick honom icke, förrän han satt sitt ena öga i pant. Askens tredje rot når
+upp till himmelen, och under denna är den heliga brunn, som kallas _Urds
+brunn_ (fn. _Urðarbrunnr_). Der hafva gudarne sitt domställe. Hvarje dag
+rida åsarne dit öfver Bäfrast eller åsabron, undantagandes Tor, som går
+till fots och vadar öfver flere floder. Der står en fager sal under asken
+vid brunnen, och från den samma komma tre mör, som kallas _Nornor_ (se §
+12). Dessa nornor hemta hvar dag vatten ur brunnen, hvilket de ösa öfver
+asken, att hennes grenar ej må vissna. Detta vatten är så heligt, att alla
+ting, som komma deri, blifva hvitare än ägghinnan. Daggen, som faller från
+trädet på jorden, kallas honungsfall, och deraf näras bina. Tvänne foglar
+födas i Urds brunn; de heta svanor, och från dem härstammar detta
+fogelslägte. Det sitter en örn i askens grenar, som är kunnig om mycket,
+och mellan hans ögon sitter höken _Väderfalne_ (fn. _Veðrfölnir_). En
+ekorre, _Ratatosk_ (fn. _Ratatöskr_), springer beständigt upp och ned i
+asken, samt bringar afundsord mellan örnen och Nidhugg. Dessutom äro der
+fyra hjortar, som löpa omkring i askens grenar och bita löf; men i
+Hvärgälme hos Nidhugg äro så många ormar, att ingen tunga kan säga det.
+
+_Yggdrasill_ härledes af Odins binamn _Yggr_, grubblaren, och _drasill_,
+_drösull_, bärare, häst: trädet kallas Odins häst eller bärare, emedan Odin
+hängde derpå i nio nätter, innan han uppfann runorna. _Niðhöggr_ af _nið_,
+mörker, eller _nið_, försmädelse, hat, och _höggva_, hugga. _Mimir_; se §
+23. _Veðrfölnir_ af _veðr_, väder; men om slutet kan hänföras till _fölna_,
+blekna, är ovisst. _Ratatöskr_ af _rata_, gå, färdas omkring; härledningen
+af _töskr_ är oviss.
+
+Yggdrasils-myten framställer den fornnordiska folktrons föreställning om
+verlden såsom ett sammanhängande organiskt helt under en den mest
+storartade och allt omfattande bild, hvilken söker sin like inom alla
+mytologier. Verldsträdet är »en symbol, som förenar den omedelbara
+mytologiens grundfaktorer så att säga i ett poetiskt system» (Hammerich).
+Måhända har myten utgått från det gamla offerträdet med dess källa, hvaraf
+tingsträdet ännu är en qvarlefva.
+
+
+
+
+II.
+
+Gudalifvet.
+
+
+§ 15. Odin.
+
+Åsarne stå i den innerligaste gemenskap med hvarandra, de hafva ett
+gemensamt ursprung, och det är _Allfader_ (fn. _Alfaðir_), som från
+begynnelsen varit till, men såsom en kraft, hvilken ännu icke yttrat sig.
+Den sig förverkligande Allfader blir _Odin_ (fn. _Óðinn_), från hvilken
+alla andra åsar utgå.
+
+_Odins väsen och namn._ Odin är _solens och himmelens gud_, det allt
+genomträngande väsendet: »som en andeflägt genomströmmar han lifvet och
+herskar deri». Han är _gudars_ och _människors fader_. Han skapar icke
+tingens begynnelse, men han ordnar och upprätthåller allt; lifvet utgår
+ifrån honom och i denna mening kallas han skapare (fn. _gautr_). Alla
+andliga väsenden mottaga från honom sin lifsande. Med Vile och Vi skapar
+han himmel och jord, med Höne och Lodur människan, och sjelf gifver han
+henne ande. Från honom komma alla andeliga gåfvor: skaldskap och
+inspiration och all kunskap (runor); men han är också krigets upphof. Han
+är den äldste af alla gudar, och huru mäktiga de öfriga gudarne än äro,
+tjena honom dock alla som barn sin fader. Hans väsen är olikt de andras
+deri, att han icke är bunden vid någon enskild verksamhet, utan omfattar
+alla på en gång, ej är inskränkt till någon tid, utan är tidens konung och
+herre. Derigenom är han Allfader. Åsarnes rika, sköna krans i Valhall är ej
+annat än en återspegling af Allfaders rika, mångsidiga natur. Han är denna
+tidens, denna verldens gud och i henne är han allsmäktig. Mångfaldiga äro
+de gåfvor, hvilka Odin förlänar: synkraft, skaldskap, vältalighet, klokhet,
+mod, seger, förlig vind, rykte, rikedom, vapen, smycken o. s. v.
+
+Den stora mångfalden i Odins väsende betecknas genom ett stort antal namn.
+Dessa kunna hänföras till följande klasser, hvilka kunna afse a) hans
+gudomlighet i egenskap af ordnare och herskare: _Allfader_, _Ygg_ (fn.
+_Yggr_), _Göt_ (fn. _Gautr_, _Aldagautr_) m. fl.; b) hans makt i naturen:
+_Svinn_ (fn. _Svinnr_, _Fjölsvinnr_), _Gångläre_ (fn. _Gángleri_),
+_Gagnråd_ (fn. _Gagnráðr_), _Vägtam_ (fn. _Vegtamr_), _Vidre_ (fn.
+_Vidrir_) m. fl.; c) hans kroppsliga form: _Grane_ (fn. _Grani_), _Brune_
+(fn. _Bruni_), _Sidskägg_ (fn. _Sidskäggr_), _Grimme_ (fn. _Grimnir_),
+_Bålögd_ (fn. _Báleygr_) m. fl.; d) hans höghet i egenskap af poesiens,
+stridens och segerns gud: _Fimbulty_ (fn. _Fimbultyr_), _Ropt_ (fn.
+_Hroptr_), _Valfader_ (fn. _Valföðr_), _Härfader_ (fn. _Herjaföðr_),
+_Segerfader_ (fn. _Sigrföðr_) m. fl.
+
+_Óðinn_ härledes af verbet _vaða_, impf. _óð_, vada (jfr lat. _vadere_),
+framgå med kraft, oemotståndligt; slutligen: frambryta ursinnigt, med
+raseri, hvaraf adj. _óðr_, got. _vods_, rasande. _Alfaðir_, alltets skapare
+och fader. _Yggr_, grubblaren, af _ugga_, tvifla, frukta. _Gautr_ af
+_gjóta_, impf. _gaut_, gjuta; således blifver _gautr_ = den som göt, utgöt,
+skapade. Andra låta _gautr_ betyda »den talande» af _gauta_, tala[5].
+_Aldagautr_ af _öld_, hvars pluralis _aldir_ betyder både människor och
+tider, och således är betydelsen af _aldagautr_, _aldafaðir_, människornas
+och tidernas skapare och fader. _Svinnr_ (också _Sviðr_), klok, förståndig;
+_Fjölsvinnr_ af pref. _fjöl_, mycket (ty. _viel_), _Gángleri_, vandraren,
+af _ganga_, gå. _Vegtamr_, van vid vägen, af _vegr_, väg, och _tamr_, van,
+tam. _Gagnráðr_, den gode rådgifvaren, af _gagn_, nytta, gagn, och _ráða_,
+råda; eller den mycket rådige, kloke, af prefixet _gagn-_, genom,
+mycket[6]. _Viðrir_, väderherskaren; jfr _viðra_, vädra. _Grani_, den
+skäggige, af _grön_, gen. _granar_, läpp, skägg kring munnen. _Siðskeggr_,
+som har långt skägg, af _siðr_, långt nedhängande, sid, och _skegg_, skägg.
+_Brúni_, som har stora ögonbryn, af _brún_, ögonbryn. _Grimnir_, som har
+hölje eller mask, af _grima_, mask. _Báleygr_, som har brinnande ögon, af
+_bála_, bränna på bål, och adj. _eygr_, försedd med ögon, af _auga_, öga.
+_Fimbultyr_, runogud; jfr anglosax. _fymble_, hemlig kunskap. _Hroptr_
+betecknar Odin såsom krigets gud; jfr _hrópa_ (ursprungligen?) ropa, håna,
+baktala. _Valföðr_ kallas Odin såsom herskare öfver de fallna hjeltarne, af
+_valr_, val, urval (af de fallne), och _faðir_, i sammansättning vanligen
+_föðr_, fader. _Herjaföðr_, hjeltefader, af _herr_, gen. _herjar_,
+hjelteskara, här. _Sigrföðr_, af _sigr_, seger.
+
+_Odins utseende och attribut._ Odin föreställes såsom en gammal, högväxt
+man, enögd, med djupsinnigt, grubblande anlete och långt skägg samt en
+bred, sid hatt; i strid eller vid ridt med guldhjelm och en blå mantel samt
+spjutet _Gungne_ (fn. _Gungnir_) i handen. Han bär en guldring, _Dröpne_
+(fn. _Draupnir_), på armen; två korpar, _Hugin_ (fn. _Huginn_) och _Munin_
+(fn. _Muninn_), sitta på hans skuldror; två ulfvar, _Gäre_ (fn. _Geri_) och
+_Fräke_ (fn. _Freki_), ligga vid hans fötter, och karlavagnen rullar öfver
+hans hufvud. Han sitter på en hög stol och ser ut öfver all verlden, eller
+far han fram i stormen på sin häst _Sleipne_ (fn. _Sleipnir_).
+
+_Gungnir_; jfr sv. _gunga_. _Draupnir_, drypringen, af _driúpa_, drypa,
+droppa. _Huginn_, tanken, af _hugi_, _hugr_, håg, tanke. _Muninn_, minnet,
+af _muna_, erinra sig. _Geri_, den glupske, af _gerr_, glupsk. _Freki_, den
+lystne, af _frekr_, lysten. _Sleipnir_, den glidande.
+
+Spjutet Gungne, hvilket Odin fick af konsterfarne dvergar, Ivaldes söner,
+träffar alltid och vänder af sig sjelft tillbaka i hans hand. Det är
+symbolen af makt och herravälde. -- Ringen Dröpne är fruktbarhetens symbol.
+Då dvergen Brock gaf ringen åt Odin, sade han, att hvar nionde natt skulle
+åtta lika stora ringar drypa af honom. -- Odins korpar, som sitta på hans
+skuldror, hviska honom i örat alla tidningar de höra och se. Han sänder dem
+ut, när det dagas, att flyga kring hela verlden. -- Odins ulfvar få all
+föda, som står på hans bord, ty sjelf lefver han af vin allena. -- Odins
+häst Sleipne är den yppersta och hurtigaste häst, som på sina åtta ben går
+lika bra i land, på vatten och i luft. Utom denna hade han äfven
+stridshästen Blodighof.
+
+_Odins vandringar._ Det, som uttryckes genom Odins korpar, häst o. s. v.,
+uttryckes på ett annat sätt genom Odins vandringar. Rastlös genomvandrar
+Odin verlden, han genomtränger naturen för att öfver allt väcka andligt
+lif, för att pröfva människans sinne och för att utforska kunskap om
+tingens väsen, ursprung och ände.
+
+Såsom _Gagnråd_ (se sid. 29) uppsöker Odin jätten _Vaftrudne_ (fn.
+_Vafþruðnir_) för att utforska dennes vishet och mäta sig med honom. De
+förelägga hvarandra ömsesidigt frågor öfver verldens ursprung och ände, och
+den, som icke kan besvara den andras frågor, skall hafva förverkat sitt
+hufvud. Odin öfvervinner jätten, som på den sista frågan igenkänner honom
+samt betages af vördnad och skräck. Nu är jättens undergång gifven, när han
+vågat sig i strid med Odin (Sæm. E.: Vafþruðnismál); d. v. s. det
+materiella går under, när det beröres af anden; det kan ej längre bestå i
+sin grofva natur.
+
+Såsom _Grimne_ (sid. 29) kommer Odin till sin ovärdige fosterson _Geirröd_
+(fn. _Geirrödr_), och af denne satt mellan två eldar förkunnar han
+åsaverldens härlighet, ömkar sig öfver sin fallne fosterson och förkunnar
+honom döden, i det han gifver sig tillkänna (Sæm. E.: Grimnismál). Här
+granskar och pröfvar Odin människosinnet.
+
+Såsom _Vägtam_ stiger Odin ned i underverlden och väcker valan för att
+utforska sin son Balders öde (Sæm. E.: Vegtamskvida).
+
+Framför allt är det _Mime_, af hvilken Odin söker utforska tingens
+förborgade väsen. För en dryck ur Mimes brunn, hafvets yttersta källa,
+sätter han sitt ena öga i pant, och derför är han enögd; ur Mimes mun
+mottager han hugrunor; vid de hotande förebuden till verldens undergång,
+när Mimes söner begynna leka (verldshafvet reser sina stora böljor), då
+talar Odin med Mimes hufvud, lyssnar till de brusande vågornas stämma för
+att erfara, hvad de gömma i sitt sköte. Hvad som föregår i himmel och på
+jord, det ligger klart för Odins flammande solöga, men det är icke nog för
+honom; hafvet är alltings början och ursprung, och i dess urkälla, i de
+förborgade djupen söker Odin med det andra ögat intränga; anden sänker sig
+ned i erinringens djup (Lüning, sid. 52). Odins öga är solen; det pantsatta
+ögat är den nedgångna, underjordiska, nattliga solen (Geijer).
+
+_Odins högsäte._ Icke blott under sina vandringar utforskar Odin
+verldsalltets alla höjder och djup, utan han har äfven sitt högsäte
+_Lidskälf_ (fn. _Hliðskiálf_), från hvilket han hvarje morgon öfverskådar
+verlden, utsänder sina korpar, samt hör och ser allt, som sker. Detta
+högsäte är i _Valaskälf_ (fn. _Valaskiálf_), den första boning, som gudarne
+bygde åt Odin och med silfver täckte. En annan Odins boning är _Gladsheim_
+(se § 7); der är _Valhall_ (se § 20), hvarest Odin mottager de fallna
+hjeltarne.
+
+_Hliðskiálf_, till härledningen omtvistadt, synes betyda ett vakttorn, från
+hvilket man fritt kan skåda omkring åt alla sidor, samt är icke att
+förblanda med det vanliga högsätet (fn. _hásæti_) i dryckessalen.
+
+Att Odins dyrkan fordom var allmän i vårt land, dertill kan man sluta af de
+många ställen, som blifvit uppkallade efter honom. Dylika namn äro
+Odensala, Odensvi, Odensåker, m. fl. Fjerde dagen i veckan, Onsdagen eller
+Odensdagen, är äfven uppkallad efter honom.
+
+
+§ 16. Odins hustrur. Friggs tjenarinnor.
+
+Odin, himmelens och jordens herre, hvilken åt alla sidor genomträngt sin
+skapelse, står i den innerligaste gemenskap med den samma, och derigenom
+utvecklar sig hela fullheten af hans väsende; d. v. s. han förmäler sig med
+sin skapelse, och ur denna förmälning framgå de andra gudarne. Närmast
+förmäler sig Odin med jorden, hvilken framträder på trefaldigt sätt, såsom
+Jord, Frigg och Rind.
+
+_Jord_ (fn. _Jörðr_) är Odins första gemål och betecknar den ursprungliga,
+ännu _icke odlade_ och bebodda _jorden_. Hon heter äfven _Fjörgyn_ och
+_Lodyn_ (fn. _Hlódyn_) samt är moder till Tor, den äldste och starkaste af
+Odins söner.
+
+_Jörðr_, got. _airþa_, fht. _erda_, jord; jfr det ofta förekommande namnet
+Herta, hvilket är en oriktig bildning, utgången från Taciti Nerthus
+(Petersen, sid. 149). _Fjörgyn_; jfr got. _fairguni_, berg. _Hlóðyn_ af
+_hlóð_, härd, eldstad.
+
+_Frigg_ (fn. _Frigg_) är Odins andra och förnämsta hustru, den _odlade_ och
+bebodda _jorden_. Från henne stamma de gudar, som hafva bygt och bebo
+Åsgård. Hon är den yppersta bland gudinnor, åsars och åsynjors drottning.
+Med Odin sitter hon i Lidskälf och ser ut öfver all verlden; hon känner
+derför människans öden, men säger intet derom. Hon herskar öfver hela
+naturen på jorden; men i synnerhet är hon äktenskapets gudinna, och till
+henne bedja qvinnor i barnsnöd, äfvensom vid ofruktsamhet. Hennes boning
+heter _Fänsalar_ (fn. _Fensalir_); der satt hon och begret sin sons, den
+ljuse Balders, död.
+
+_Frigg_ är en utvidgad form af _fri_, som motsvaras af fornsax. _frí_,
+qvinna, och af fn. _frí_, älskare, af got. _frijón_, älska. _Frigg_ betyder
+således eg. den älskade, makan, den fruktsamma[7]. _Fensalir_ (Völuspá,
+str. 37); i Schleswig betyder _fen_, _fenn_ (eng. _fence_) inhägnadt land.
+
+Allmogen i Sverge kallar stjernbilden Orion Friggs spinnrock, och detta
+hänvisar på den spinnande, husliga husfrun. Frigg och Fröja förblandas
+stundom, men behöfva det ej, ty den förra är åsadrottning, den senare
+vanadis. Frigg är moderskärleken, Fröja älskog.
+
+_Friggs tjenarinnor_, som äro yttringar af hennes väsen, hvilket vi i dem
+närmare lära känna, äro följande. _Fulla_ (fn. _Fulla_), fullhetens,
+_öfverflödets_ gudinna, är en mö med utslaget hår och guldband om hufvudet.
+Hon kallas Friggs askmö, emedan hon gömmer de askar, i hvilka Frigg har
+sina gåfvor förvarade, som hon genom sin tjenarinna sänder ut öfver jorden.
+_Lin_ (fn. _Hlýn_), är _hjelpsamhetens_ gudinna, satt att vaka öfver de
+män, som Frigg vill hjelpa och skydda. _Gnå_ (fn. _Gná_), tankens,
+_förståndets_ gudinna, sändes af Frigg i ärenden till olika verldar. Hon
+har en häst Hofvarpne (fn. Hofvarpnir), som far genom luft och haf.
+_Snotra_ (fn. _Snótra_), _vishetens_ och _behagets_ gudinna, är förståndig
+och har vackra later. _Vår_ (fn. _Vör_), _edgångens_, _sanningens_,
+vaksamhetens gudinna, hör de eder och förslag, som män och qvinnor ingå med
+hvarandra, samt hämnar edsbrott, hvilka aldrig blifva dolda för henne.
+_Lofn_ (fn. _Lofn_), en _kärlekens_ gudinna, är god och mild att anropa
+samt har lofvat Odin och Frigg att befordra föreningen mellan de älskande,
+mot hvilkas förbindelse hinder ställa sig. _Sjöfn_ (fn. _Sjöfn_), är
+_ungdomskärlekens_ åsynja, som sörjer för att människornas sinne vändes
+till kärlek; hon hör närmast till Fröjas krets. _Syn_ (fn. _Syn_),
+motbevisningens, _rättegångens_ gudinna, bevakar dörren till gudasalen och
+tillsluter den samma för dem, som ej få komma in. Derjämte är hon på ting
+satt till värn för åsarnes saker.
+
+Till denna krets synas äfven följande åsynjor höra. _Gefion_ (fn.
+_Gefjun_), är den jungfruliga gudinnan, den _första kärlekens_ åsynja,
+hvilken de mör tjena, som dö ogifta. Ehuru berörande Friggs väsen,
+framträder hon mera sjelfständig: hon deltager i gästabudet hos Öge (§ 23),
+och på Lokes förebråelser mot henne svarar Odin, att hon känner lika väl
+som han alla människors öden (Märk sagan om Gefion och Gylfe!). _Eir_ (fn.
+_Eir_) är _läkedomens_ gudinna. _Mänglad_ (fn. _Menglöð_) är _jorden i_
+hela hennes härliga _sommarprakt_; således en uppenbarelse af Frigg.
+
+_Fulla_, fullhet, af _fullr_, full. _Hlýn_ af _hlýja_, värma, vederqvicka,
+skydda. _Gna_ af _knega_(?), förmå. _Hofvarpnir_, hofkastaren, af _varpa_,
+kasta. _Snótra_; jfr _snótr_, förståndig, klok. _Vör_ af adj. _varr_,
+_vör_, _vart_, försigtig, var, varsam. _Lofn_ af _lofa_, lofva. _Sjöfn_;
+jfr _sjafni_, sinne, kärlek, älskare. _Syn_, syn, förnekande, afslag,
+vägran.
+
+_Gefjun_; härledningen är dunkel; jfr _gefa_, gifva. _Eir_ uttrycker
+skonsamhet, lindring, af _eira_, skona. _Menglöð_, glad och glimmande af
+smycken, af _men_, smycke, halsband, och _glaðr_, _glöð_, _glatt_, glad.
+
+_Rind_ (fn. _Rindr_) är Odins tredje hustru, den af vinterkölden _stelnade
+jorden_. Länge motstår hon Odins kärlek, som förgäfves bjuder henne
+sommarens smycken. Slutligen blir hon moder till Vale (§ 19), den starke
+krigaren, som skall hämnas Balders död.
+
+_Rindr_ härledes af _rindi_, ett stycke ouppodladt land.
+
+Odins förhållande till Jord, Frigg och Rind är icke endast naturmyt. Odin
+är icke blott naturens, utan äfven andens gud, som förmäler sig med det
+jordiska sinnet: Jord är det obildade i människoanden, Frigg det ädla
+sinnet, Rind det trotsiga sinnet.
+
+Andra Odins hustrur äro _Grid_ (fn. _Griðr_), _Gunnlöd_ (fn. _Gunnlöð_) m.
+fl.
+
+Man jämföre hos grekerne Uranos och Gaja, Zevs och Demeter. Jord är Gaja,
+Frigg Demeter; hvad svarar mot Rind? De lycklige, de behöfde henne ej; de
+kände ej vår långa, stränga vinter (Petersen, sid. 148).
+
+
+§ 17. Tor.
+
+Odins väsen eller åsamakten öfver hufvud utvecklar sig vidare i Odins
+söner; de äro utströmningar af hans allmänna väsen.
+
+_Tor_ (fn. _Þórr_) är son af Odin och Jord, samt den äldste och mäktigaste
+af Odins söner. Han är _åskans_ samt den kroppsliga _styrkans_ och
+_maktens_ gudom. Han är den visserligen fruktansvärda, men
+välsignelsebringande åskans gud, de luften rensande och jorden befruktande
+regnskurarnas gud. Han är förfärligt stark och fruktansvärd i sin vrede,
+men tillika i hög grad godmodig. Han är en oaflåtlig beskyddare af gudar
+och människor, men en fiende till jättarne. Han ljungar icke för att
+förstöra, utan för att välsigna jorden. Åkerbruket, i synnerhet jordens
+förberedelse dertill, är framför allt föremål för hans omvårdnad.
+
+Vare sig Tor visar sig som yngling eller gubbe, bär han ett rödt skägg.
+Hans natur är eld. Styrkans bälte, _Megingjord_ (fn. _Megingjarðr_),
+omgifver hans länder; hammaren _Mjöllne_ (fn. _Mjöllnir_) svingar han i sin
+hand och har _järnhandskar_ att fatta honom med; han åker på en vagn med
+två _bockar_, från hvilkas tänder och hofvar gnistor utflyga, och den
+rodnande skyn gifver ett återsken af hans lågande blick. Det rike,
+hvaröfver han herskar, heter _Trudheim_ (fn. _Þruðheimr_), och hans sal,
+_Bilskirne_ (fn. _Bilskirnir_), har 540 golf (stockverk).
+
+_Þórr_, smdr. af _þonr_ eller _þunr_, betyder eg. dån, dön, dunder; fht.
+_donar_, forneng. _þunor_, _þunder_. _Megingjarðr_, kraftbälte, af _megin_,
+kraft, och _gjarðr_, bälte, gjord. _Mjöllnir_, eg. mjölnaren, som likt
+blixten krossar allt till mjöl. _Þrúdheimr_, styrkans, kraftens verld, af
+_þrúðr_, stark; äfven _Þrúðvangar_ pl., af _vangr_, fält. _Bilskirnir_,
+glimt-klarnande, såsom blixten glimtvis uppflammande, af _bil_, glimt,
+ögonblick, och _skirr_, klar, _skirna_, klarna.
+
+Tors kostbarheter äro tre: bältet Megingjord, som fördubblar hans styrka,
+när han spänner det på sig; den skaftkorte hammaren Mjöllne, hvilken alltid
+återvänder i Tors hand, när han blifvit kastad mot fienden; samt
+järnhandskarne, hvilka han behöfver för att fatta hammarskaftet. Tors
+bockar heta _Tanngnyst_ (fn. _Tanngnjóstr_) och _Tanngrisne_ (fn.
+_Tanngrisnir_); dessa draga honom i hans vagn, och derför kallas han
+_Åka-Tor_ (fn. _Öku-Þórr_). Han kallas äfven _Lorride_ (fn. _Hlórriði_),
+_Ving-Tor_ (fn. _Ving-Þórr_) och såsom Åsgårds och Midgårds värn _Veor_
+(fn. _Véorr_). Hans tjenare äro _Tjalfve_ (fn. _Þjálfi_) och dennes syster
+_Röskva_ (jfr sid. 41).
+
+Efter Tor äro flere ställen uppkallade, såsom Torshälla, Torstuna, Torsång,
+Torsåker m. fl. Till hans minne eger vårt språk vidare Torsdagen, tordön
+och ordet åska, som är sammandraget af ås-ikja, ås-åka, d. ä. åsens åka,
+vagn eller åkning.
+
+_Tanngnjostr_, tandgnistraren; _Tanngrisnir_, den som skär tänderna.
+_Öku-Þórr_, den åkande Tor, af _aka_, åka. _Ving-Þórr_; jfr sv. _vinge_,
+fn. _vængr_; ordet antyder åskvädrets flygt. _Hlórriði_, glöd- eller
+strålkastaren, af _hlóa_, låge, och _riða_ för _vriða_, vrida, kasta,
+slunga. _Véorr_, invigaren, beskärmaren, försvararen, af _véa_, utvidgadt
+_vigja_, viga, helga, beskärma. _Þjálfi_, den uthållige, af _þjálfa_,
+tvinga till arbete. _Röskva_, af _röskr_, rask, stark.
+
+_Tors hustru_ heter _Sif_ (fn. _Sif_), den hårfagra gudinnan, som prålar
+med gyllene lockars ymnighet, likasom fältet är smyckadt af gyllene ax. Hon
+kan anses för _åkerbrukets_ gudinna, som endast trifves i fred och lugn.
+
+_Sif_ betyder frändskap, vänskap, frid, och är beslägtadt med _säflig_; jfr
+got. _sibis_, fredlig, _sibja_, fht. _sibba_, frändskap, forneng. _sib_,
+fred, enighet.
+
+Loke hade en gång arglistigt afskurit Sifs hår. Tor hotade då att krossa
+alla ben i hans kropp, hvadan Loke måste lofva att ersätta skadan. Han for
+till dvergarne, Ivaldes söner, och dessa förfärdigade åt Sif nytt hår af
+guld, hvilket växte som annat hår. Sifs hår betecknar de gula sädesaxen;
+det är ett verk af dvergarne, d. v. s. sädesaxen frambringas af de i jorden
+dolda krafterna.
+
+_Tors söner._ Tor har med en annan hustru _Järnsaxa_ (fn. _Járnsaxa_) två
+söner, _Mode_ (fn. _Moði_) och _Magne_ (fn. _Magni_), hvilka öfverlefva
+verldens undergång och i den nya skapelsen skola föra hammaren Mjöllne.
+
+_Ull_ (fn. _Ullr_) är Sifs son och styfson till Tor. Han är den ypperste
+bågskytt och skidlöpare, har ett fagert utseende och en krigares skick,
+samt är god att åkalla i envig. Hans boning heter _Ydalar_ (fn. _Ýdalir_).
+Han anses för _vinterns_ gudom, motsatt Balder såsom sommargud.
+
+_Járnsaxa_ af _járn_, järn, och _saxa_, hugga, hacka i stycken. _Móði_, den
+modige, af _moðr_, mod. _Magni_, den starke, af _magn_, kraft, styrka.
+_Ullr_ är (enligt Säve) det samma som got. _vulþus_, (med bortfallet _v_
+och _lþ_ assimileradt till _ll_), fht. _wuldar_ och forneng. _valdor_, ära,
+härlighet; gudens namn betyder således: den ärofulle, härlige. _Ýdalir_,
+idegrans dalar, af _ýr_, idegran, hvilket träslag helst nytjades till
+bågar.
+
+_Tors strider._ Tor är Åsgårds och Midgårds skyddande gudomlighet, och
+derför utvecklar sig ock hans väsen i en mängd strider mot gudars och
+människors fiender, jättarne.
+
+_Tor och Rungne._ Jätten _Rungne_ (fn. _Hrungnir_) hvars hufvud, hjerta och
+vapen voro af sten, hade utmanat Tor till envig. Såsom medkämpe stod vid
+hans sida lerjätten Mockerkalfve, och Tor åtföljdes af sin tjenare Tjalfve.
+Denne sprang till Rungne och gaf honom det rådet att lägga skölden under
+fötterna, emedan Tor, såsom han sade, skulle anfalla honom nerifrån. Då
+kastade Rungne skölden under fötterna och fattade sin stenklubba med bägge
+händerna. Derpå förnam han blixt och dunder, och såg Tor träda fram i sin
+åsakraft. Tjalfve gick mot Mockerkalfve, som föll med ringa ära. Tor
+kastade sin hammare mot Rungne, hvilken åter kastade sin klubba mot Tor.
+Hammaren och klubban möttes i luften, hvarvid klubban sprang sönder i små
+bitar, af hvilka några foro så hårdt i hufvudet på Tor, att han föll till
+jorden. Hammaren åter träffade Rungne midt i hufvudet, så att hufvudskålen
+krossades. Jätten föll omkull, och hans ena fot kom att ligga öfver Tors
+hals. Tjalfve gick dit för att hjelpa Tor, men kunde icke. Så snart åsarne
+sporde, att Tor var fallen, kommo de äfven alla för att lyfta bort foten,
+men kunde ej rubba honom från stället. Då kom Magne, Tors och jättinnan
+Järnsaxas son, som blott var tre nätter gammal. Han lyfte bort foten som
+ett intet, och sade: »Det är stor skada, fader, att jag kom så sent; denna
+jätte, tänker jag, kunde jag hafva slagit ihjäl med min näfve». Tor reste
+sig då upp och helsade vänligt sin son och sade, att han nog skulle blifva
+en dugtig karl, »och vill jag», tillade han, »gifva dig hästen Guldmanke,
+som Rungne egde». Odin sade då, att det icke var rätt, att han gaf denne
+präktige häst åt en jättinnas son, och ej åt sin fader.
+
+Hufvudtanken i denna myt är: ljungelden slår ner i fjället och splittrar
+det.
+
+_Hrúngnir_, förmodligen af _hrúga_, rynka, lägga veck på veck, är det
+nakna, skrofliga fjället med sina tinnar. _Mökkrkálfi_ af _mökkr_, dimma,
+tjocka, och _kálfr_, kalf; »kalf kallas ett mindre föremål i jämförelse med
+ett större».
+
+_Tor och Geirröd._ Loke hade en gång låtit fånga sig af jätten _Geirröd_
+(fn. _Geirröðr_) samt, för att rädda sitt lif, måst lofva att skaffa Tor
+till hans gård, utan att denne hade med sig sin hammare, sitt bälte och
+sina järnhandskar. Loke förmådde äfven Tor att företaga denna färd, samt
+gjorde honom sällskap, likasom ock Tjalfve. Under vägen tog Tor in hos en
+gyg, som hette Grid. Hon hade en gång vunnit Odins kärlek och blifvit moder
+till Vidar (§ 19); hon var derför vänligt sinnad mot åsarne. Grid gaf Tor
+underrättelse om Geirröd, att det var en hundvis och farlig jätte, och hon
+lånade honom sitt starkhetsbälte, sina järnhandskar och sin staf. När Tor
+derpå vadade öfver en flod, under det att Loke och Tjalfve höllo sig fast
+vid hans bälte, växte vattnet så högt, att det sköljde hans skuldror. Tor
+såg upp mot åmynningen och fick se i en klyfta Geirröds dotter Gjålp, som
+vållade att strömmen växte. Då tog han en stor sten och kastade efter henne
+och sade: »I mynning skall man å dämma.» Med det samma kom han till land
+och fick tag i en rönnbuske och steg sålunda upp ur ån. Deraf har
+talesättet kommit, att »rönn är Tors räddning.» Sedan Tor och hans
+ledsagare framkommit till Geirröd, fingo de härberge i ett gästhus, men det
+fans blott en stol, och derpå satte sig Tor. Han märkte då, att stolen
+under honom lyftes upp mot taket, och stack derför Grids staf upp mot
+bjälkarne och tryckte sig sjelf ned. Stolen sjönk ned igen, och då hördes
+ett starkt brak och stort jämmerskri. Under stolen hade suttit Geirröds
+bägge döttrar Gjålp (fn. Gjálp) och Greip (fn. Greip), och på bägge hade
+Tor brutit ryggen. Derpå lät Geirröd kalla Tor in i salen till lekar. Der
+brunno stora eldar, och när Tor kommit midt framför Geirröd, kastade denne
+en glödande järnkil på Tor; men Tor grep kilen med järnhandskarne och
+slungade honom efter Geirröd, som sprungit bakom en järnpelare för att
+skydda sig. Kilen gick genom pelaren och genom Geirröd samt genom väggen
+och utanför långt ned i jorden.
+
+_Geirröðr_ af _geir_, spjut, udd, spetsigt föremål, och _hröðr_, jätte.
+_Gjálp_, brus, larm (böljornas). _Greip_, klyfta, grep.
+
+_Tor och Skryme._ På en af sina färder öster ut tog Tor, i sällskap med
+Loke, natthärberge hos en bonde. Till qvällsvard slagtade Tor sina bockar
+och inbjöd äfven bonden med hustru och barn att deltaga i måltiden. Han
+befalde, att benen skulle kastas på bockskinnen, som lågo bredvid
+eldstaden. Bondens son hade ett lårben af den ena bocken och knäckte det
+med sin knif för märgens skull. Nästa morgon vigde Tor bockskinnen med sin
+hammare, och bockarne stodo då åter upp, men den ene var halt. Tor vardt
+mycket vred, men lugnade sig, då han såg värdfolkets skräck, samt tog i
+förlikning deras barn, sonen Tjalfve och dottern Röskva, hvilka sålunda
+blefvo hans tjenare och ständige ledsagare.
+
+Tor lät sina bockar blifva qvar hos bonden, begaf sig jämte Loke, Tjalfve
+och Röskva på väg till Jättehem, och satte öfver det djupa hafvet. Omsider
+kommo de till en stor skog och gingo framåt, tills det mörknade. Tjalfve,
+som var en rask fotgängare, bar Tors matsäck. De sågo sig om efter
+natthärberge och funno ett mycket stort hus med en dörr, lika bred som hela
+huset. Här slogo de sig ned. Vid midnattstid uppstod ett stort jordskalf.
+Tor stod upp och kallade på sina reskamrater. De kände sig för och funno en
+sidobyggnad till höger, dit de begåfvo sig. Då det dagades, gick Tor ut och
+fick se jätten _Skryme_ (fn. _Skrymir_) ligga och snarka i skogen. Han
+begrep då, hvarifrån larmet kommit i skogen. Huset, som de legat i, var
+Skrymes handske, och sidobyggnaden tummen derpå. Skryme frågar Tor, om han
+ville hafva honom till reskamrat, och han svarar ja. På Skrymes förslag
+slogo de tillsammans sitt munförråd, och jätten tog matpåsen på ryggen samt
+gick framför dem med stora steg hela dagen. Om qvällen uppsökte han åt dem
+ett nattläger under en stor ek. Han sade till Tor: »Nu vill jag lägga mig
+att sofva, och kunnen J taga matsäcken och göra eder aftonmåltid». Strax
+derpå föll han i sömn och snarkade hårdt. Tor tog matsäcken och ville lösa
+upp honom, men kunde icke. Då blef han vred, grep hammaren och slog Skryme
+i hufvudet. Denne vaknade och frågade, om ett löfblad fallit ned på hans
+hufvud samt om de fått mat och vore färdiga att lägga sig. Tor svarade, att
+de nu skulle lägga sig. Vid midnattstid hör Tor att Skryme snarkar så
+hårdt, att det dånar i skogen. Han går då och slår Skryme midt i hjessan
+med hammaren, så att denne trängde djupt in. Jätten vaknar och frågar, om
+ett ållon fallit ned på hans hufvud. Tor gick hastigt tillbaka och sade,
+att han nyss vaknat samt att det vore midnatt och således tid att än längre
+sofva. Något före dagningen märker Tor, att Skryme sofver tungt. Han går
+till jätten och slår honom på tinningen, så att hammaren sjunker ned ända
+till skaftet. Skryme reste sig då opp, strök sig om kinden och sade: »Mån
+det sitter några foglar i trädet öfver mig? Jag tyckte att något föll ned i
+hufvudet på mig. Hvad, är du vaken, Tor? Det är nu tid att stiga upp,
+fastän J icke hafven lång väg till Utgård. Jag har hört er hviska om, att
+jag ej vore liten till växten, men J skolen få se större män, om J kommen
+till Utgård. Ett råd vill jag gifva er, att J der ej tagen munnen för full,
+ty ingalunda lär man der tåla slammer af slika småttingar; men i annat fall
+vänden hellre om, ty det anser jag vara bäst för eder. Viljen J dock draga
+vidare, så gån åt öster; min väg går åt norr till de fjäll, som J sen der.»
+Skryme tager så matsäcken på ryggen och går från dem in i skogen. Huru vida
+åsarne önskade träffa honom igen, det är ej kunnigt.
+
+Tor drog vidare med sina reskamrater. Vid middagstiden sågo de en borg på
+en slätt, och de måste böja nacken tillbaka för att se det öfversta af
+honom. Så hög var han. De gå dit. Der var en grind, och hon var stängd. Tor
+sökte förgäfves öppna grinden, hvarför de kröpo mellan spjälorna och kommo
+så in. De sågo nu borgen framför sig, och då dörren var öppen, gingo de in
+och fingo se många män, de fleste mycket stora, sittande på två bänkar.
+Derefter gingo de fram till konungen, _Utgårda-Loke_ (fn. _Útgarða-Loki_),
+och helsade honom. Denne var ej snar att se på dem, men sade omsider
+småleende: »Sent är att spörja tidningar långväga ifrån, eller förhåller
+det sig annorlunda än jag tänker, att denne pys är Åka-Tor? Men du tör vara
+större än mig synes. I hvilka idrotter ären J, du och dina kamrater,
+öfvade? Här bland oss får ingen vara, som icke utmärker sig i någon konst
+eller färdighet.» Loke, som gick sist, svarade: »Den konsten kan jag att
+förtära min mat fortare än någon annan.» Utgårda-Loke säger då: »Idrott är
+det, om du förmår det, hvilket vi strax skola pröfva.» Han framkallar från
+bänken en man, som hette Loge (fn. Logi), att han skulle täfla med Loke.
+Ett tråg bars in fullt med kött, och Loke satte sig vid ena ändan, Loge vid
+den andra. De åto bägge det fortaste de kunde och möttes midt i tråget.
+Loke hade förtärt allt köttet af benen, men Loge benen också samt tråget
+dessutom. Alla tyckte då, att Loke blifvit efter i leken. Sedan vände sig
+Utgårda-Loke till Tjalfve och frågade, hvad den unge mannen kunde. Denne
+svarade, att han kunde springa i kapp med hvem som helst. Utgårda-Loke
+ropar då på en liten pilt vid namn Huge (fn. Hugi) och befaller honom att
+springa i kapp med Tjalfve. De började första loppet, och kom Huge dervid
+så långt förut, att han vid rännarbanans slut vände om mot den andre. Vid
+andra loppet var Tjalfve ännu ett långt pilhåll från banans slut, när Huge
+vände om der. Tredje gången kom Huge till målet, innan Tjalfve hunnit
+midten af banan. Då sade alla, att den leken var afgjord. Sedan sporde
+Utgårda-Loke Tor, hvilken idrott han ville visa dem, då det ginge så stora
+rykten om hans storverk. Tor svarade, att han ville dricka i kapp med hvem
+som helst. Utgårda-Loke befalde då sin munskänk att taga fram hornet, som
+hans hirdmän plägade tömma. Tor såg på hornet och fann det ingalunda vara
+stort, men tämligen långt. Han var mycket törstig och drack af alla
+krafter, men då han tog hornet från munnen, tycktes honom drycken ej stort
+lägre än förut. Då sade Utgårda-Loke: »Det är väl drucket, men icke öfver
+höfvan mycket. Nog trodde jag att Åsa-Tor skulle dricka bättre, men nästa
+gång skall du tömma det.» Tor drack för andra gången med än mindre
+framgång, samt slutligen för tredje gången af alla lifvets krafter, hvarvid
+det något sjönk i hornet. Sedan ville han ej dricka mer. Då sade
+Utgårda-Loke: »Lätt är nu att säga, att din makt icke är så stor som vi
+trodde. Vill du fresta andra lekar?» Tor svarar, att han nog ville fresta
+andra lekar, men att det vore underligt, om man hemma hos åsarne skulle
+finna det dåligt drucket, samt frågar, hvad för en lek de ville bjuda
+honom. Utgårda-Loke sade då, att det vore en ringa sak för hans små svenner
+att lyfta hans katt från marken, och att han ej skulle bjuda Tor slikt,
+såvida han ej funnit honom vara mindre dugtig än han trott. Derpå sprang en
+stor grå katt fram på golfvet. Tor grep då katten under magen och lyfte upp
+honom, men katten sköt rygg, allt efter som Tor lyfte, och högre kunde han
+ej få upp katten, än att denne lyfte ena foten från marken. »Det gick som
+jag tänkte», sade Utgårda-Loke; »katten är stor, men Tor liten mot en af
+oss.» »Så liten J än kallen mig», svarade Tor, »så låt hvem som helst komma
+och brottas med mig, ty nu är jag vred.» Utgårda-Loke genmäler: »Här är
+ingen man, som ej skulle anse det för en skam att brottas med dig; kalla
+derför hit gumman, min fostermor Älle» (fn. Elli). Med brottningen gick det
+nu så, att ju fastare Tor tog uti, desto fastare stod den gamla käringen.
+Sedan brukade hon knep, och till sist sjönk Tor ned på ena knäet. Då gick
+Utgårda-Loke fram och sade, att de nu skulle upphöra och att det icke vore
+värdt för Tor att uppfordra flere till brottning. Han visade Tor och hans
+kamrater till säte, och de blefvo natten öfver samt åtnjöto all gästfrihet.
+
+Följande morgon, då Tor och hans reskamrater ville gå sin väg, följde
+Utgårda-Loke dem ut ur borgen och sporde vid skilsmessan, hvad Tor tyckte
+om sin färd. Tor yttrade sitt missnöje deröfver, att han af deras
+sammanträffande haft mycken vanära. Då sade Utgårda-Loke: »Nu skall jag
+säga dig sanningen, då du kommit ut ur borgen, dit du aldrig mer skall
+komma, om jag får råda, och dit du aldrig skulle hafva kommit, om jag
+vetat, huru stark du är och att du lätt kunnat bringa oss i olycka. Jag har
+användt synvillor mot dig. Matpåsen hade jag knutit till med segt järn, så
+att du ej kunde upplösa honom. Det första af de tre hammarslagen hade varit
+nog till min bane, om det träffat mig i hufvudet; men der du såg vid min
+borg ett berg med tre fyrkantiga dalar, den ena djupare än den andra, der
+voro spåren af din hammare. Jag sköt berget för slagen, utan att du märkte
+det. På samma sätt var det med lekarne. Loke var hungrig och åt dugtigt,
+men Loge var elden, som förtärde både tråg och kött. Tjalfve sprang i kapp
+med Huge, som var min tanke, och med hans snabbhet kunde han ej mäta sig.
+Då du drack af hornet och tyckte att det gick långsamt, skedde ett stort
+under. Hornets ena ände stod i hafvet, utan att du såg det; men när du
+kommer till hafvet, kan du se, i huru hög grad det är minskadt och du
+åstadkommit ebb deri. Att du kunde lyfta katten med ena foten från jorden
+förfärade alla, ty det var Midgårdsormen. Brottningen med Älle var också
+ett stort under, ty så stark har ingen varit eller skall blifva, att ej
+ålder får bugt med honom. Nu skiljas vi åt, och bäst är det för båda
+parterna, att J icke oftare besöker mig; ty en annan gång skulle jag också
+värja min borg med samma eller andra konster.» Då Tor hörde detta, grep han
+hammaren och svängde honom i luften; men då han skulle slå till, var
+Utgårda-Loke försvunnen. Han vänder sig om till borgen att förstöra den
+samma, men ser endast sköna och vida slätter, ingen borg. Han vänder då
+åter om och drager å stad till Trudheim (Snorra Edda).
+
+_Skrýmir_, storskrytare, skrymtare, af _skrum_, skryt. _Hugi_, _hugr_,
+tanke, håg. _Elli_ f., ålderdom.
+
+Denna myt är liksom de bägge myterna om Tors strider med Rungne och Geirröd
+af yngre ursprung. Tilldragelsen med Tjalfve har troligen utgjort en egen
+myt, hvilken här är bifogad endast derför, att Tjalfve var med i Utgård.
+Den halta bocken betecknar åskvädrets afstannande genom att stöta på ett
+föremål, och följden deraf är starkt skyfall med storm. Skryme kallas
+Utgårda-Loke, ty jättarne skulle väl också hafva sin Loke. Det hån, som Tor
+får lida af Skryme, den svaghet och vanmakt, åt hvilken han, oaktadt sin
+åsakraft, synes vara hemfallen genom trolleri och synvillor,
+öfverensstämmer föga med anden i de gamla myterna; dock förekommer en
+häntydan derpå äfven i Eddadikterna, t. ex. på de fasta säckbanden och
+vistelsen i handsken i Harbarðsljóð och Oegisdrekka (jfr Petersen, sid.
+255).
+
+_Tor och Hyme._ Ledsagad af Ty far Tor till hafsjätten _Hyme_ (fn. _Hymir_;
+se § 23) för att hos honom hemta en bryggkittel i och för gästabudet hos
+Öge (§ 23). I Hymes sal träffar Ty sin moder, en gyllene och brunhvit
+qvinna, som gifver sonen en dryck. Hon råder sina gäster att gömma sig
+under kittlarne i salen, ty hennes man vore understundom barsk mot
+främlingar. Sent kom Hyme hem från fiske. »Hell dig, Hyme», sade qvinnan.
+»Vår son, som vi länge väntat, har kommit till våra salar, och med honom
+följer jättefienden och människovännen Veor.» »Se, hur de hafva gömt sig
+der bakom pelaren!» Pelaren sprang i tu för jättens blick, bjälken brast
+och alla kittlarne föllo ned. En var så hårdhamrad, att han förblef hel.
+Gudarne kommo fram, och spejande såg den gamle jätten på sin fiende. Hans
+hug bådade honom intet godt, men han lät dock slagta tre stutar och koka
+dem på en gång. Tor åt ensam två. Måltiden syntes jätten något för stark
+och han utbrast: »En annan afton få vi lefva af fiskmat.» Veor svarade, att
+han skulle ro ut på viken, om jätten kunde skaffa honom bete. »Det skall du
+lätt finna», sade Hyme, »om du har mod dertill, bland mina oxar». Tor grep
+då en kolsvart oxe vid hornen och slet af hufvudet. De rodde ut. Hyme ville
+stanna vid sitt vanliga fiskställe, men Tor befalde honom att ro längre ut.
+Två hvalar drog Hyme upp på en gång, men Tor drog upp Midgårdsormens hufvud
+till relingen och slog med sin hammare hufvudskallen på ulfvens broder (se
+§ 24). Det dånade i klipporna och tjöt i hålorna, och hela den gamla jorden
+for samman, men ormen sjönk tillbaka i hafvet. Ej var jätten glad, då de
+rodde tillbaka. På jättens uppmaning drog Tor skeppet med åror och allt i
+land och bar jättens hvalar till gården. Derpå uppfordras Tor att ännu
+aflägga några styrkeprof, men omsider erhåller han kitteln och drager så
+bort med honom. Då komma månghöfdade jättar ur hålor och klyftor för att
+förfölja Tor, men denne svänger sin hammare och krossar dem alla, samt
+kommer lyckligt med kitteln till de i Öges sal församlade gudarne (Sæm. E.:
+Oegisdrekka).
+
+Tor hemtar kitteln hos Hyme, d. v. s. han gör det af vintern fjättrade
+hafvet åter öppet och fritt. För öfrigt uttrycker myten åskvädrets strid
+med det vilda, upprörda hafvet.
+
+_Tor och Trym._ Tor låg en gång och sof. När han vaknade, var hammaren
+borta, detta vapen, som i synnerhet afvärjde de onda makternas anfall och
+som jättarne derför ständigt sökte få i sitt våld. Vred vardt Ving-Tor, när
+han vaknade och sin hammare saknade. Han sade till Loke: »Hör hvad ingen
+vet på jorden eller i himmelen: Hammaren är från guden stulen.» De gingo
+till den fagra Fröjas salar, och Tor sade till henne: »Låna mig din
+fjäderhamn, att jag min hammare må finna.» Fröja svarade: »Honom ger jag
+dig gerna, vore han ock af guld eller silfver.» Loke tog nu fjäderhamnen
+och flög, tills han kom till jättarnes verld. Tursadrottnen _Trym_ (fn.
+_Þrymr_) satt på en hög, snodde guldband åt sina hundar och hyfsade manen
+på sina hästar. Han sporde Loke: »Hur är det med åsar, hur är det med
+alfvar, efter du kommer till jätteverlden?» Loke svarade: »Illa är det med
+åsar och alfvar. Har du gömt Lorrides hammare?» Trym genmälde: »Ja jag
+håller Lorrides hammare gömd åtta mil under jorden, och ingen hemtar honom
+upp, om han ej till mig för Fröja som brud.» Då flög Loke på fjäderhamnens
+susande vingar till åsarnes gårdar. Han mötte Tor midt i Åsgård, och denne
+sporde honom: »Har din möda lönat sig? Säg dina tidningar i luften; ofta
+sviker minnet den sittande och lätt brukar den liggande lögn.» Loke
+svarade, att Trym, tursadrottnen, hade hammaren och att ingen skulle få
+honom åter, med mindre han förde till honom Fröja som brud. De gingo då att
+träffa den fagra Fröja, och Loke sade till henne: »Bind dig, Fröja, i
+brudelin; vi två skola åka till jättehem.» Vred vardt då Fröja och fnyste
+af harm, så att åsaborgen skalf och Brisingskedjan brast i bitar. »Jag
+månde bland qvinnor», sade hon, »den mest manlystna vara, om med dig jag
+fore till jättehem.» Åsar och åsynjor drogo nu till tings och rådslogo om,
+huru de skulle återfå hammaren. Då råder Heimdall: »Låt oss binda Tor i
+brudelin, och må han bära den stora Brisingskedjan! Låt nycklar skramla
+under bältet och qvinnokläder falla kring hans knän, ädelstenar smycka hans
+bröst, och hufvudet höfviskt siras.» Tor svarade: »Mig månde åsar usling
+kalla, om jag läte mig binda i brudelin.» Då sade Loke, Löfös son: »Tig du,
+Tor, med det talet. Snart skola jättarne bebo Åsgård, om du ej hemtar
+hammaren åter.» De bundo så Tor i brudelinet och i den stora Brisingskedjan
+o. s. v. Då qvad Loke: »Tillåt mig, Tor, din tärna vara! Vi två skola åka
+till jättarnes verld.» Hem drefvos bockarne strax och spändes i skacklor;
+bergen brusto och jorden brann i lågor, Odins son åkte till jättarnes hem.
+Då sade Trym, tursadrottnen: »Stån upp, jättar, och strön halm på bänkarne,
+fören mig nu Fröja till brud, Njords dotter från Noatun! Guldhornade kor gå
+på min gård, helsvarta oxar till jättens gamman; många skatter har jag,
+många smycken, endast Fröja fattas mig ännu.» Strax om qvällen samlades
+jättar och öl bars kring. Sifs man åt ensam en oxe, åtta laxar samt alla
+läckerheter, som jättarnes hustrur skulle hafva, och drack så ur tre åmar
+mjöd. Trym qvad: »Hvar såg man brudar bita hvassare, hvar såg man brudar
+bita bredare eller en mö mera mjöd dricka?» Den sluga tärnan (Loke) satt
+framför dem och tog till orda vid jättens tal: »Fröja åt intet på åtta
+dagar, så längtade hon till jättehem.» Då lutade sig jätten under
+brudelinet, lysten att kyssa; men sprang tillbaka längs den stora salen.
+»Hvi äro Fröjas ögon så vilda? Det brinner ur hennes blick likt eld.» Den
+sluga tärnan sade: »Fröja sof icke i åtta nätter så trängtade hon till
+jättarnes verld.» In kom jättens arma syster för att bedja om brudgåfva,
+sägande till den förmenta Fröja: »Lemna dina röda ringar från händerna, om
+du vill vinna min vänskap och huldhet.» Då qvad Trym: »Bären hammaren in
+att bruden viga, läggen Mjöllne i möns knä, vigen oss samman med Vårs
+band!» Hjertat log i Lorrides bröst, då han, hård i hugen, kände sin
+hammare. Trym dräpte han först, och krossade derpå hela jätteslägten. Den
+gamla jättesystern, som bedt om brudgåfva, fick slag för klingande guld,
+hugg af hammaren för ringars mängd. Så fick Odins son sin hammare åter
+(Sæm. E.: Hamarsheimt l. Þrymskviða.)
+
+_Þrymr_, den larmande, dånande, af _þruma_, larma, dåna.
+
+Få eddadikter hafva så, som denna, genomträngt folket öfver hela norden.
+När Tor hvilar, d. v. s. när sommaren med sitt åskväder är förbi, larmar
+och rasar den lösta jättekraften i oväder och stormar; hon har röfvat Tors
+hammare, d. v. s. hon tror sig kunna efterhärma Tor. Men Tor far och hemtar
+sin hammare och bringar jättekraften till ro. Den i denna myt omtalade
+hufvudprydnaden, brudelin, är ännu i bruk på Island.
+
+
+§ 18. Balder.
+
+_Balder_ (fn. _Baldr_) är son till Odin och Frigg. Han är så fager till
+utseende, att det lyser af honom. Han är _ljusets_ gud, men han är icke
+blott _naturens ljus_, utan ock _själens ljus_, renheten, oskulden,
+godheten. Han är tillika den visaste och mildaste af åsarne, och hans domar
+äro oryggliga. Han är hela naturens, gudars och människors älskling. Hans
+boning är _Breidablick_ (fn. _Breiðablik_), och der kan intet orent vara.
+Hans hustru heter _Nanna_ (fn. _Nanna_), och hon älskade så högt sin man,
+att hennes hjerta brast, när han brändes å bål. Hon är _blomstergudinnan_,
+som med sin blomstermatta täcker jorden. Nanna är dotter af _Nep_ (fn.
+_Nepr_).
+
+_Baldr_ är, enligt Säve, utan tvifvel befryndadt med got. _balþs_, djerf,
+båld; möjligen finnes dock urbetydelsen i det litauiska _baltas_, hvit,
+god. Enligt Petersen betyder _Baldr_ den starke, den som bryter fram med
+kraft (om ljuset); jfr _bella_, _ball_, bryta fram med styrka, starkt
+framvälla. _Breiðablik_, den vidt utbredda glansen, af _breiðr_, bred, vid,
+och _blik_, blink, sken, glans. _Nanna_, den ständigt sysslande; jfr
+_nenna_, got. _nanþjan_, syssla med, hänvända sinnet åt, nännas. _Nepr_ för
+hneppr = _hnappr_, blomsterknopp.
+
+_Balders död._ Om Balders lif förtäljes blott litet, men deremot mycket om
+hans död. Så berättas, att Balder hade svåra drömmar, som bådade fara för
+hans lif. Då tager Frigg ed af alla ting på jorden, af alla djur, plantor,
+malmer, stenar, jord, eld och vatten, sjukdomar och gift, att de icke
+skulle skada Balder; endast den obetydliga telningen Mistelten underlåter
+hon att med ed binda. Åsarne förlusta sig nu med att kasta och skjuta på
+Balder; ingenting skadar honom, och det synes dem alla vara en stor heder.
+Loke kan ej lida det. Han hemtar mistelten, gifver honom åt den blinde Höd
+(se sid. 57) samt öfvertalar denne att äfven bidraga till Balders ära. Höd
+kastar, och Balder störtar död ned. Stum fasa griper alla gudar, och de
+brista ut i häftig gråt. Odins son Härmod (se sid. 54) erbjuder sig att
+rida ned i underjorden och gifva Häl lösepenning för Balder. Han stiger upp
+på Odins häst och rider skyndsamt å stad.
+
+Emellertid föra åsarne den döde Balder till hans skepp _Ringhorne_ (fn.
+_Hringhorni_) för att der förbränna liket; men skeppet går ej af stället,
+hvarför jättinnan Hyrrocken måste efterskickas. Hon fattar skeppet och
+skjuter det ut med ens, så att eld står ut deraf och jorden skälfver.
+Balders lik varder nu utburet på skeppet, der ett bål är tillredt. När hans
+maka Nanna ser det, brister hennes hjerta af sorg, och hon blir lagd hos
+sin man på bålet. Dit föras ock hans häst och ridtyg. Odin ditlägger äfven
+sin ring, och Tor viger bålet med sin hammare, innan det antändes. Alla
+åsar äro närvarande vid Balders likbrand, äfvensom ock många rimtursar och
+bergresar.
+
+Härmod, som ridit till Häl att erbjuda lösepenning för Balder, fick der se
+sin broder sitta i högsätet hos de döde. Häl ville återgifva Balder, om
+alla ting i verlden, lefvande och döda, utan undantag, begrete honom.
+Balder ledsagade derpå Härmod ur salen och gaf honom ringen Dröpne att
+öfverlemna åt Odin såsom minne; Nanna sände Frigg en matta (slöja) med
+flere gåfvor, samt till Fulla en fingerring af guld. Derpå red Härmod åter
+till Asgård.
+
+Nu sände åsarne budskap ut öfver hela verlden, att alla måtte gråta Balder
+ur Häls våld. Alla gjorde det: människor och djur, jord och stenar, träd
+och all malm, såsom man ännu ser dessa ting gråta, när de komma ur frost i
+värme. Men på hemvägen funno sändebuden en gyg vid namn Töck (fn. Þökk);
+hon vägrade att gråta, och så måste Balder förblifva hos Häl. Jätteqvinnan
+trodde man vara Loke.
+
+Baldersmyten kan, likasom de andra, förklaras dels naturligen dels
+andligen. I förra afseendet är Balder ljuset, denna verldens ljus, som är
+det bästa af allt, hvitt och rent, och som af ingenting kan dödas utom af
+sin negation mörkret, den blinde Höd. Loke afundas det, d. v. s. det rena
+himmelska ljuset och eldens sken äro eviga fiender. Balder utför inga stora
+bedrifter, han lyser blott och strålar och är allas välsignelse. Han är
+herskare öfver den ljusa årstiden, och såsom sådan, såsom sommargud,
+motsatt Ull (sid. 38), vinterns gud, hvarför han ock kallas Ulls frände.
+Men likasom Balder är det himmelska ljuset, är han ock själens ljus. Han är
+det ljus, hvars trenne strålbrytningar äro det sanna, goda och sköna. Han
+är _sanningen_, ty han är den visaste af åsarne och hans domar äro
+oryggliga; han är _godheten_, ty han är den mildaste af åsarne, oskuldsfull
+och ren som ljusets strålar; han är _skönheten_, ty han är så fager, att
+det lyser af honom, och ingenting är skönare än ljusets strålar. Balder dör
+i naturen, när skogen afklädes, blommorna vissna och vinterstormarne rasa;
+han dör i anden, när själen förmörkas och glömmer sitt himmelska ursprung.
+Balder vänder åter i naturen, när vårvindarne susa och näktergalen slår
+sina toner, och han återvänder i anden, när den fallna själen lyfter sig på
+nytt och stiger såsom en strålande alf på ljusets vingar mot himmelen. Då
+Balder är ljuset, så är hans boning Breidablik den vidt strålande glansen,
+som upptager hela rummet mellan himmelen och jorden. Nanna är
+blomstergudinnan, som alltid vänder sitt hulda anlete mot ljuset. Likasom
+Idun vaktar sina äpplen, så sysslar Nanna träget med sina blommor på äng
+och mark. Hennes hjerta brister af sorg, då Balder lägges på bålet; d. v.
+s. då ljusets gud dör, förgås äfven blomsterverlden. Till Nannas sällskap
+höra gudinnorna _Ilm_ (fn. _Ilmr_, doft) och _Njörun_ (fn. _Njörunn_, den
+bindande, flätande). (Jfr Petersen, sid. 225 o. f.)
+
+Den sköna Baldersmyten hänvisar, på samma gång han är en symbolisk
+framställning af årstidernas omvexling, tillika på verldens undergång såsom
+en följd af godhetens och rättvisans död i verlden. Men ehuru Balders död
+sålunda är förebudet till verldens undergång, följer denna dock ej
+omedelbart derpå. Jordens fruktbarhet och blomsterskrud skola icke strax
+försvinna ur verlden; derför sänder Balder Dröpne, fruktbarhetens ring, och
+Nanna sin blomstermatta tillbaka till öfverjorden. Naturens död under den
+mörka årstiden och uppvaknande till nytt lif under den ljusa är det sig
+oupphörligen förnyande förespelet till verldsaltets undergång och förnyelse
+(jfr Lüning, sid. 66).
+
+_Forsäte_ (fn. _Forseti_) är son till Balder och Nanna. Han är _rättvisans_
+gud, och till honom komma alla, som hafva rättstvister, och från honom gå
+alla förlikta. Hans boning _Glitne_ (fn. _Glitnir_) hvilar på guldpelare
+och är täckt med silfver. Der är den bästa domstol bland gudar och
+människor.
+
+_Forseti_, försittare, rättens föreståndare, domare, af _for_ = _fyrir_
+för, och _setja_, sätta. _Glitnir_, den glänsande, af _glita_, glänsa,
+glittra.
+
+Rättvisan skipades på tinget under bar himmel vid den ljusa årstiden och
+endast medan solen var uppe i den blomstrande naturens sköte. Tingets
+helighet och rättvisans renhet uttryckas med gudens på guldpelare hvilande
+och med silfver täckta boning. Balders glans utbreder sig öfver sonen. Om
+Syn se sid. 35.
+
+
+§ 19. Odins öfrige söner.
+
+_Härmod_ (fn. _Hermóðr_) är det _krigiska sinnets_, _modets_ gudom. Han är
+Odins sändebud och erhåller af honom sköld och brynja, medlen att visa sitt
+krigaresinne. Han användes till hvarje farlig budskickning, och red derför
+till Häl för att befria Balder. Han kallas den snabbe och Odins sven.
+
+_Hermóðr_, krigiskt sinne, mod, af _herr_, här, och _móðr_, mod.
+
+Det tillhör ett fritt och sjelfmedvetet väsende att med mod och djerfhet gå
+faran till mötes och i hennes betvingande finna sin tillfredsställelse.
+Denna sida i Odins eller öfver hufvud i åsaverldens mångfald betecknas
+genom Odins söner Härmod och Ty, modets och djerfhetens personligheter.
+Deremot svara dessa gudomligheter ej mot något naturfenomen, ehuru Odin och
+hans söner i allmänhet kunna uppfattas dels fysiskt dels andligt.
+
+_Ty_ (fn. _Tyr_) är den _krigiska ärans_ gud och råder för seger. Han är
+den djerfvaste och modigaste bland åsarne, god att anropa för tappra män
+men ingen fredsstiftare bland människor. Ett prof på hans djerfhet är, att,
+då åsarne lockade Fänresulf att låta binda sig, lade han sin hand såsom
+pant i ulfvens gap. Då gudarne sedan icke ville lösa ulfven igen, bet denne
+af hans hand, och derför är han enhänd.
+
+_Týr_, _tir_, heder, t. _zier_, af _týja_, te, visa sig.
+
+Då Tor for till Hyme (sid. 47) följde Ty med. På en så vådlig färd måste
+Tor naturligtvis hafva djerfheten med sig. Tys moder är en skön jätteqvinna
+(sid. 47), och således betecknar han det förädlade jättesinnet, som genom
+Odin förbinder sig med åsa-ätten. Efter Ty är tredje dagen i veckan,
+Tisdagen, uppkallad.
+
+_Brage_ (fn. _Bragi_) är _skaldekonstens_ och _vältalighetens_ gud. Berömd
+är han ock för sin visdom. Han kallas stundom för sitt långa skägg den
+sidskäggige åsen. Hans hustru heter _Idun_ (fn. _Iðunn_) och hon är
+_ungdomens_ och _föryngringens_ gudinna. Hon förvarar i en ask de äpplen,
+af hvilka gudarne äta, när de åldras, och blifva de då åter alla unga. En
+gång hade jätten Tjasse genom Lokes svek lyckats bortröfva Idun och hennes
+äpplen, och derefter blefvo åsarne snart gråhåriga och gamla. Loke måste
+då, hotad med plågor och död, lofva att återföra henne till Åsgård, hvilket
+han ock gjorde. En annan gång sjönk Idun ned från Yggdrasil.
+
+_Bragi_, hvaraf härledes _bragr_, skaldestycke, är beslägtadt med det i
+Dalskan lefvande _brågå_ (för _braga_) hastigt röra, vara i stark rörelse;
+deraf äfven _bragð_, snabb rörelse, listigt påfund, konst, bragd (Säve).
+_Iðunn_, den idoga, den verksamma, af _iðja_, arbeta, _ið_, arbete, id.
+
+Från himlen stammar sångens gåfva, hvilken gläder, upplifvar och föryngrar
+människans hjerta. Sångens gud är ock genom vältalighet och visdom utmärkt.
+Vid gillen plägade en bragebägare drickas och dervid löfte afläggas om en
+eller annan storbragd, som kunde blifva ämne för skaldernas sånger. -- Idun
+betecknar den sig ständigt förnyande verksamheten; hon är den föryngrande
+och uppehållande kraften i den af människor omhägnade naturen (utom Åsgård
+verkar hon ej), ty flit och verksamhet styrker och upplifvar. Hon
+försvinner två gånger, vid hösten (bortröfvad af Tjasse) och om natten
+(nerfallen från Yggdrasil), men hon kommer båda gångerna tillbaka och
+börjar åter sin välgörande verksamhet. Jfr Vidar.
+
+_Heimdall_ (fn. _Heimdallr_) är _vaksamhetens_ och _försigtighetens_ gud.
+Han kallas också »den hvite åsen», är stor och helig samt född till verlden
+af nio systrar. Han är gudarnes väktare och bor på _Himmelsberg_ (fn.
+_Himinbjörg_) vid Bäfrast eller regnbågen (se sid 11), der han sitter vid
+himmelens ände att vakta bron för bergresarne. Han behöfver mindre sömn än
+en fogel, ser lika långt natt och dag, samt hör gräset växa på marken och
+ullen på fåren. Han har en häst, _Gulltopp_ (fn. _Gulltoppr_), samt en lur,
+_Gjallarhorn_, hvars ljud höres i alla verldar.
+
+_Heimdallr_, af _heimr_, verld, kan betyda: den, som kommer verlden att
+»dallra» (Säve); Petersen härleder det af _dallr_, fem. _döll_, ungt skott,
+telning, och betyder det då: uppsprungen ur, en yttring af verlden (jfr
+_Mardöll_, sid. 67). _Gjallarhorn_, skallets horn, af _gjalla_ (_gella_)
+skalla, dåna; jfr adj. _gäll_.
+
+För att gudarne må kunna träda i beröring med människorna behöfves en
+förbindelse mellan himmel och jord. Bilden deraf framställer regnbågen,
+gudarnes strålande väg till jorden. Regnbågens gud är således en medlare
+mellan gudar och människor. Likasom i regnet, bestråladt af solen,
+himmelens välsignelse faller ned till jorden, så stiger Heimdall ned såsom
+en välgörande gudom till människorna. Hela människoslägtet kallas Heimdalls
+barn (Völuspá). Han är ståndens stiftare. Under namn af Rig vandrar han
+omkring på jorden och blifver stamfader för de tre olika stånden, trälar,
+bönder och jarlar (Rigsmál).
+
+_Höd_ (fn. _Hödr_), äfven en af Odins söner, är det blinda
+_stridsraseriets_ gud. Han är mycket stark, men blind, och blef derför
+genom Lokes list narrad att döda Balder.
+
+_Höðr_, kamp, strid; fht. _hadu_, forneng. _heaðu_.
+
+Då namnet Höd betyder kamp, strid och ursprungligen (enligt Munch) blind
+häftighet, så framgår deraf, att Balders dödande genom Höd ej blott
+betecknar mörkrets seger öfver ljuset, utan äfven att lidelse och våld
+tillintetgöra lifvets ljusa frid.
+
+_Vidar_ (fn. _Viðarr_) är den starke, tyst verkande _naturkraftens_ gudom.
+Han kallas »den tyste åsen», är näst Tor den starkaste och öfverlefver
+gudarnes undergång. Hans moder är gygen Grid (jfr sid. 40). Hans boning
+_Landvide_ (fn. _Landviði_) är beväxt med ris, högt gräs och tät skog. Han
+har en järnsko, till hvilken det har samlats i alla tider. Denne sätter
+han, då Fänresulf slukat Odin, i hans underkäft, under det han med handen
+frånrifver öfverkäken.
+
+_Viðarr_, af _viðr_, skog.
+
+Vidar betecknar naturens oförgängliga kraft, framstäld såsom den ofantliga,
+oförstörbara urskogen, hvarest människofjät aldrig gick och intet mänskligt
+ljud höres. Der herskar tystnaden, och derför kallas Vidar med rätta den
+tyste åsen. Han öfverlefver Ragnarök, ty naturkraften är oförgänglig; eljes
+kunde ingen förnyelse, ingen utveckling ega rum. Jfr Nanna.
+
+_Vale_ (fn. _Vali_) är en son af Odin och Rind (sid. 35). Han är den starke
+krigaren, _valplatsens herre_, som på Höd hämnas Balders död och blifver
+hans bane. Likasom Vidar öfverlefver äfven han verldens undergång.
+
+_Vali_, valplatsens herre eller den som väljer dem, som skola falla, af
+_valr_, val, urval; jfr _Valhall_, _Valfader_.
+
+Likasom Balders död genom den blinde Höd betecknar mörkrets seger öfver
+ljuset, vintermörkrets öfver sommarens ljus, så betecknar Vales hämd den
+ljusare årstidens inbrott efter vintermörkret.
+
+
+§ 20. Odin, såsom krigets gud, Valhall.
+
+_Krigets upphof_ skildras sålunda i Völuspá. Valan minnes den striden först
+i verlden, när å svärds udd _Gullveig_ (fn. _Gullveig_) lades och de henne
+brände i den höges salar. De tre gånger brände den tre gånger födda, tidt
+och ofta, och likväl hon ännu lefver. Då gingo å rådstolar makterna alla,
+de höghelige gudar, och höllo rådslag, om åsarne skulle ogerningen straffa
+eller alla gudar försoning mottaga. Brutet blef åsaborgens värn, och
+stridspående vaner kunde öfver slätterna fara. Odin kastade sitt spjut
+bland folket, och det var det första folkdråp i verlden. Härmed var tecken
+till kriget gifvet. Såsom krigets gud kallas Odin _Ropt_ (fn. _Hroptr_).
+
+_Gullveig_, guldström, gulddryck, af _gull_, guld, och _veig_, stark dryck.
+_Hroptr_; se sid. 30.
+
+Denna myts förklaring är enkel. Gullveig är en personifikation af guldet,
+och hennes tredubbla dråp är guldets luttring i elden och dess
+förarbetande. Då hon kom ut bland folket, åstadkom hon strid, ty hon
+förtrollade alla. De kallade henne _Heid_ (fn. _Heiðr_), den klara,
+glänsande; hennes makt på sinnet var stor, och i synnerhet väckte hon de
+ondas lystnad (Völuspá, str. 25). Gudarne rådslågo, men Odin visste ju hvad
+som måste ske; han kastade derför sitt spjut och gaf derigenom tecken till
+striden. Vanerne, som likaledes anade, att strid skulle följa med deras
+välgerningar, utbredde sig öfver landet. Oskuldens ålder och dess frid
+upphörde genom vinningslystnad och girighet. Det är krigets källa. Likasom
+åsarnes guldålder upphörde, då de tre mör kommo till dem (§ 5), och det var
+slut med den stilla enformigheten, då de begynte verka och skapa; så gick
+det nu med vanerne, och så var det nu ock slut med människornas guldålder,
+då Gullveig yttrade sin makt öfver dem och de började att verka på sitt
+vis, att skapa familjer, stater, handel och vandel o. s. v. (jfr Petersen,
+sid. 178).
+
+Guldtörsten var således en orsak till kriget; det säger oss myten, det
+bekräftar hjeltelifvet. Men icke guldtörst allena, utan äfven äregirighet
+och qvinnokärlek äro orsaker till kriget; det säger oss äfven hjeltelifvet,
+och en annan myt bekräftar det. Denna myt är berättelsen om _Hild_ (fn.
+_Hildr_), som finnes i åtskilliga sagor, hvilka alla äro mytiska, änskönt
+de bära en historisk drägt.
+
+_Hildr_ f., krig.
+
+Myten är i korthet denna. Loke stjäl från Fröja halskedjan _Brising_ (sid.
+67), och lemnar den åt Odin. För att återfå kedjan måste Fröja, i
+öfverensstämmelse med Odins uppstälda vilkor, uppväcka ett krig mellan två
+mäktiga konungar, som evigt skulle vara. Konung Högne hade en dotter, Hild,
+som bortröfvades af konung Hedin. Högne förföljer Hedin och träffar honom
+på Hå-ö (nu Hoy), der de kämpa till gudarnes skymning, i det att Hild
+hvarje natt åter uppväcker de fallne.
+
+_Valhall_ (fn. _Vallhöll_) heter den guldstrålande sal, hvilken höjer sig i
+Gladsheim, den femte himmelsboningen. Dit komma efter döden alla, som falla
+i strid, och der herskar Odin som _Valfader_ (fn. _Valföðr_). Med
+spjutskaft är huset bjälkadt, med sköldar salen täckt, med brynjor bänkarne
+strödda. Till kännetecken hänger en ulf vestan för dörren, och deröfver
+sväfvar en örn. Af blixtrande svärd upplyses salen, och om hans storlek kan
+man göra sig en föreställning, då man får höra, att der äro 540 dörrar och
+att 800 hjeltar på en gång kunna gå ut genom hvarje dörr. Utanför Valhall
+sträcker sig den strålande lunden _Glase_ (fn. _Glasir_); allt hans löf är
+det röda guld. Borgen har sitt hägn, och _Valgrind_ heter den port, genom
+hvilken man kommer in deri.
+
+_Valhöllr_, af _valr_, val, urval, de utvalde hjeltarne, och _höll_, hall
+(eg. rummet mellan husets båda pelarrader), sal, borg. _Valföðr_ kallas
+Odin såsom herskare öfver de fallna hjeltarne; se sid. 30.
+
+_Enhärjar_ (fn. _Einherjar_) kallas de hjeltar, som äro hos Odin i Valhall.
+Härligt är deras lif. Hvarje morgon härkläda de sig, gå ut på gården och
+kämpa, och den ene fäller den andre. Det är deras lek. När det lider åt
+dagvardstid, stå de åter upp, rida hem till Valhall och sätta sig till
+drycks. Deras mat är fläsket af galten _Särimne_ (fn. _Sæhrimnir_), som
+hvarje dag kokas af kocken _Andrimne_ (fn. _Andhrimnir_) i kitteln
+_Eldrimne_ (fn. _Eldhrimnir_) och om aftonen är åter hel. Deras dryck är
+mjöd, som i outtömlig myckenhet flyter ur spenarne på geten _Heidrun_ (fn.
+_Heiðrun_).
+
+_Einheri_, pl. _-ar_, den utmärkte krigaren, af _ein_, en, och _herja_,
+kriga, härja. _Sæhrimnir_, _Andhrimnir_, _Eldhrimnir_ af _hrimnir_, den som
+åstadkommer _hrim_, rimfrost, den finaste öfvergången från flytande till
+fast form, samt _sær_, sjö, vatten, _önd_, ande, luft, _eldr_, eld.
+_Heiðrun_, den klara strömmen, af _heidr_, klar.
+
+Enhärjarnes mat frambragtes af vatten, luft och eld. Grundämnet är (likasom
+i Ambrosia) vattnet, som kokas vid elden, som näres af luften. Drycken, som
+flyter ur Heidruns spenar, är den klara ström, som utrinner från himmelens
+högsta trakter, den rena eterfloden (jfr Petersen, sid. 189).
+
+_Valkyrior_ (fn. _Valkyrjur_) kallas de unga och sköna mör, Odins
+tjenarinnor, hvilka han såsom krigets gud utsänder i stridens tummel att
+leda dess gång och ledsaga de fallna hjeltarne till Valhall. Här uppvakta
+de Odin och enhärjarne vid dryckeslaget, samt hafva vård om bordsbonaden,
+dryckeskaren och dylikt.
+
+Det gifves också, såsom af hjeltesångerna framgår, andra valkyrior halft
+himmelska, halft jordiska, åt hvilka Odin förlänar en högre hjeltekraft, så
+att de dels segrande deltaga i männens strider, dels såsom väsen af högre
+art sväfva öfver slagfältet, afgöra striden och beskydda de utvalda
+hjeltarne. Dessa kunna äfven förena sig med sina hjeltar i kärlek och
+blifva då som andra qvinnor utan att dock helt och hållet förgäta sin
+tidigare, högre lifsform.
+
+_Valkyrja_, pl. _-ur_, den som utväljer de hjeltar, som skola falla, af
+_valr_ (se ofvan) och _kjósa_, _kaus_ pl. _kurum_, kora, välja.
+
+Valkyriorna, som Odin utsänder att ledsaga de fallna hjeltarne till
+Valhall, äro ett poetiskt uttryck för den förbindelse, som eger rum mellan
+krigets gud och hjeltarne. Det är sina tankar och sin vilje som Odin
+utsänder i stridsvimlet såsom mäktiga och väpnade mör, likasom han utsänder
+sina korpar öfver all verlden (jfr Petersen, sid. 193).
+
+
+§ 21. Odin såsom runors och skaldskaps uppfinnare. Odin och Saga.
+
+_Runor_ (fn. _Rúnar_) äro ett uttryck af vetandet om tingen och andens
+herravälde öfver dem. Anden, som genomtränger och utforskar naturen, är
+Odin, och då han har fattat tingen, trycker han sitt tecken på dem, och
+dessa tecken äro runorna. Således är Odin runornas uppfinnare.
+
+_Rún_ (pl. _-ar_) betyder hemlighet, hemlig lärdom, sång, tal, skrift (jfr
+lat. _carmen_). Troslärorna sjelfva kallas ofta i de gamla dikterna _runor_
+eller _stafvar_. Den första benämningen betecknar ursprungligen tal, den
+andra skriftecken, hvilken senare betydelse runor också fick längre fram.
+Ofta benämnes sjelfva trollsången eller trollformuläret _rúnar_ (Keyser).
+
+_Skaldskap_ (fn. _Skáldskapr_) föreställes såsom en inspirerande dryck;
+den, som njuter honom, är skald. Jätten _Suttung_ (fn. _Suttungr_)
+förvarade i det inre af Nitberget denna kostbara dryck, som derför kallas
+_Suttungs mjöd_, samt satte sin dotter _Gunnlöd_ (fn. _Gunnlöð_) att vakta
+den samma. Odin stiger ned i berget efter att hafva besegrat alla hinder,
+vinner omsider Gunnlöds kärlek och får tillåtelse att tömma drycken. Han
+för så upp Suttungs mjöd till öfverjorden och gör människorna delaktiga
+deraf. Sålunda uppstår och utbredes skaldskap.
+
+_Gunnlöð_, som inbjuder till strid, af _gunnr_, strid, och _laða_, inbjuda;
+utan strid vinner ingen seger i diktkonsten.
+
+Af denna myt finnes en utförligare, men långt yngre framställning i
+Snorra-Edda. Brage berättar, huru åsar och vaner i början krigade med
+hvarandra, men sedermera ingingo förlikning och gemensamt bildade (genom
+att spotta i ett kar) ett fredsmärke, som åsarne togo och gjorde till en
+man, _Kvåse_ (fn. _Kvásir_). Denne man är så vis, att ingen spörjer honom
+om något, som han icke kan förklara. Han for vida omkring för att undervisa
+människorna. En gång kom han till ett gille hos dvergarne Fjalar och Galar.
+Desse kallade honom till enskildt samtal, dräpte honom och läto hans blod
+rinna i två kar och en kittel, som hette _Odröre_ (fn. _Oðrærir_); karen
+hette _Son_ (fn. _Són_) och _Bodn_ (fn. _Boðn_). De blandade honung i
+blodet, hvaraf uppkom ett så härligt mjöd, att hvar och en, som dricker
+deraf, blir skald eller kunskapsman. Detta mjöd fick Suttung i bot för sin
+fader och moder, hvilkas död Fjalar och Galar förorsakat.
+
+_Oðrærir_ som rör sinnet, af _óðr_, sinne, förstånd, snille, inspiration,
+poesi, och _hræra_, röra. _Són_, försoning. _Boðn_, anbud, offer.
+
+Mytens förklaring är denna. Af åsars och vaners förenade kraft (spotten)
+uppkommer Kvåse, d. v. s. frukten, hvarur saften pressas, som, blandad med
+honung, gifver inspirationens andliga dryck. I Odröre ligger inspirationen,
+sinnets upplyftande till det gudomliga, i Bodn sinnets hängifvande deråt, i
+Son sinnets fulla genomträngande deraf (Petersen).
+
+_Saga_ (fn. _Saga_) är _historiens_ gudinna. Hon är bland åsynjorna den
+andra i ordningen och följer näst efter Frigg. Hennes boning heter
+_Söckvabäck_ (fn. _Sökkvabekkr_), hvarest svala böljor brusa fram. Glada
+dricka der Odin och Saga alla dagar ur gyllene kar.
+
+_Saga_, den förtäljande; jfr _segja_, säga. _Sökkvabekkr_, den nedsänkande,
+med sig bortspolande bäcken, af _sökkva_, sjunka, sänka, och _bekkr_, bäck.
+
+Söckvabäck är tidens, historiens ström. Jfr grek. Klio, hvilken utvecklar
+sig som en blomma i musernas krans. I norden står Saga ensam, endast
+slutande sig till Odin, alla bedrifters stamfader (Petersen).
+
+
+§ 22. Vaner.
+
+När åsar och vaner ingingo förlikning, gåfvo de hvar andra gisslan (§ 11).
+Vanerne gåfvo då åt åsarne Njord och hans barn Frö och Fröja, hvilka
+sålunda blefvo upptagna bland åsarne.
+
+_Njord_ eller _Njärd_ (fn. _Njörðr_) är det _farbara_ och _fiskrika
+kusthafvets_ gudom, hvarifrån skeppsfart, handel och välstånd utgå. Han
+åkallas på sjön och vid fiske, råder för vindens gång, samt stillar haf och
+eld. Hans boning heter _Noatun_ (fn. _Nóatún_), och han är så rik, att han
+kan gifva rikedom åt alla dem, som bedja honom derom.
+
+Njords hustru är _Skade_ (_Skaði_), en dotter till jätten Tjasse, som
+gudarne hade dödat. Skade erhöll Njord till man i förlikning för sin dödade
+fader. De trifdes dock ej väl samman. Skade ville bo, der hennes fader
+bott, på några fjäll i Trymheim; Njord åter vid hafvet. De förliktes så,
+att de skiftevis skulle uppehålla sig nio dagar i Trymheim och nio på
+Noatun; men Njord blefvo fjällen leda, ty illa tycktes honom ulfvars tjut
+mot svanars sång, och Skade kunde ej sofva vid hafskusten för måsarnes
+skri. Derefter drog Skade upp på fjällen och förblef boende i Trymheim. Der
+går hon på skidor, jagar med båge och skjuter vildt. Hon kallas
+skidgudinnan, samt är fjälljagtens och snöängdernas herskarinna.
+
+Njords och Skades barn äro Frö och Fröja.
+
+_Njörðr_ kommer troligen af _njörva_, förena, hopfästa (§ 12), och betyder
+då den »bindande, förenande», emedan det farbara hafvet förenar länderna,
+eller Njord är sambandet mellan åsar och vaner; jfr _Njörvasund_,
+Gibraltars sund, eg. det trånga sundet. _Nóatún_ skeppens land, af _nór_,
+skepp, och _tún_, inhägnad plats, gård. _Skaði_, den skadliga,
+skadevållerskan (hon upphängde ormen, som dröp etter i ansigtet på den
+fängslade Loke); jfr _skaði_, m. skada.
+
+Njord, det jorden närmast omgifvande hafvets gudom, är gift med Skade, d.
+v. s. den vilda bergfloden förenar sig med hafvet, men hennes ursprung,
+hennes hem förblir på fjällen, i Trymheim, det larmande hemmet (se _Þrymr_,
+_Þruma_, sid. 50). Efter Njord eller Njärd hafva vi ännu Närding-hundra
+härad, Närlunda och Närtuna i Upland samt det forna Nærdha-vi, Njords
+helgedom, i Linköpings stift (Säve).
+
+Skades fader Tjasse dödades af åsarne, då han i örnhamn kom till Åsgård för
+att återtaga Idun, som han med Lokes hjelp förut bortröfvat, men som Loke,
+dertill tvungen, under hans frånvaro återfört till gudarne.
+
+_Frö_ eller _Frej_ (fn. _Freyr_) är _årsväxtens_ och _fruktbarhetens_ gud.
+Han är den härligaste bland åsarne, råder för regn och solsken samt jordens
+gröda, och är god att åkalla för fruktbart år och fred. Han råder ock för
+människors lycka med gods. Han herskar öfver Alfheim, som gudarne i tidens
+begynnelse gåfvo honom i tandgåfva (§ 9), och der färdas han som kung
+mellan de idoga alfvarne och frambringar växtlighet på jorden. Han rider på
+galten _Gullborst_ (fn. _Gullinbusti_), hvars borst lysa i den mörka
+natten, samt eger dessutom skeppet _Skidbladne_ (fn. _Skiðblaðnir_), som
+alltid har förlig vind. Hans hustru är den sköna gygen _Gärd_ (fn.
+_Gerðr_), och hans tjenare heter _Skirne_ (fn. _Skirnir_).
+
+_Freyr_, got. _frauja_, fht. _fró_, herre, herskare. _Gullinbusti_ af
+_gullin_, gyllen, och _bursti_ (_busti_), försedd med borst, af _burst_,
+borst på djur. _Skiðblaðnir_ af _skið_, skida (att åka på), och _blað_,
+blad, årblad; således: ett skepp, som far undan likasom en skidlöpare.
+_Gerðr_, det omgärdade såningsfältet, af _gerða_, gärda; eller »den
+omgärdande, beskyddande» eller »gårdsfrun» af _garði_, gård. _Skirnir_, den
+som far med de luften renande solstrålarne, af _skira_, rena, skira.
+
+Såsom årsväxtens och fruktbarhetens gud är Frö äfven en _solgud_, d. v. s.
+herre öfver solstrålen, som är det svärd han svingar, en herskare öfver
+ljuset, så vidt det är nödvändigt för sädens grodd i jorden. Också blir
+galten en solgalt med skinande borst. Frö dyrkades i Sverge ännu allmännare
+än Odin och Tor. Honom hembars offer af oxar och svin, i synnerhet om
+julaftonen, då Frös galt inbars, på hvars hufvud kämpar och konungar lade
+sin hand, då de nu gjorde löften om de bedrifter, som de under det följande
+året ämnade utföra (jfr Bragebägaren). Många äro de ställen, som blifvit
+uppkallade efter honom och der således hans tempel funnits; t. ex.
+Fröslunda, Frösvi och Frövi, Frösåker, Frösö, Frösunda, Frötuna m. fl. Märk
+sagan om Yngve Frö och Ynglingaätten!
+
+_Frö och Gärd._ Frö hade en dag satt sig i Lidskälf och såg ut öfver alla
+verldar. Då fick han se jätten Gymes dotter Gärd, hvars armar lyste så, att
+himmel och jord gåfvo återsken deraf. Efter denna syn fick han ingen ro i
+sitt sinne, förrän han vann Gärds kärlek. Han skickade sin tjenare Skirne
+till henne att fria för sig, sedan han förut skänkt honom sitt eget svärd.
+Gärd vill ej lyssna till Skirnes böner; förgäfves bjuder han henne gyllene
+äpplen och ringen Dröpne (sid. 30 och 54). »Aldrig skola», sade hon, »Frö
+och jag samman bygga och bo.» Omsider förmår likväl Skirne Gärd att lofva
+Frö sin kärlek, och nio nätter derefter skulle de mötas i lunden Barre.
+
+Gärd betecknar jorden med den nedlagda säden, Skirne luften, som kommer med
+solsken. Vårluft och solstrålar söka genomtränga den af vinterkylan stela
+jordskorpan och frambringa sädesbrodden, men jorden är motsträfvig som
+ungmön, hvars hjerta ännu ej blifvit genomträngdt af aningen om ett högre
+lif. Emellertid blefvo vårsolens strålar allt starkare, och omsider
+öfverlemnar sig Gärd åt Frö; de omfamnas, när knopparne brista i lunden
+Barre (fn. _Barri_ af _bar_, knopp, grodd).
+
+_Fröja_ (fn. _Freyja_) är _kärlekens_ och _skönhetens_ gudinna samt näst
+Frigg den yppersta af åsynjorna. Hon finner behag i älskogssång och är god
+att åkalla i kärleksvärf. Hennes boning heter _Folkvang_ (fn. _Fólkvangr_),
+hvilken har en stor och rymlig sal, _Sessrymne_ (fn. _Sessrymnir_). När hon
+far till strid, tillfaller hälften af de fallne henne, hälften Odin, och
+hos henne samlas de älskande, som varit hvarandra trogna i döden. Hon eger
+halskedjan _Brising_ (fn. _Brísingamen_) och en falkhamn samt åker i en
+vagn, som drages af två kattor.
+
+Fröja gifte sig med en man, som hette _Od_ (fn. _Oðr_). Deras dotter _Noss_
+(fn. _Hnoss_) är så fager, att allt hvad fagert och kosteligt är uppkallas
+efter henne. Äfven säges _Gerseme_ (fn. _Gersemi_) vara deras dotter. Od
+drog långt bort, och deröfver gråter Fröja tårar af guld samt drager under
+olika namn omkring bland okända folk för att leta efter sin make.
+
+_Freyja_, fem. af _Freyr_, betyder _fru_, gmsv. _fruva_, _fruga_; deraf
+_husfröja_, husfru, sedermera förvandladt till hustru. _Fólkvangr_, folkens
+vång, äng, mark. _Sessrymnir_, den sätesrymliga, af _sess_, säte, och
+_rýma_, rymma, upptaga en viss rymd. _Brisingamen_, Brisingarnes (en
+dvergslägts) kedja; eller kan Brising (enligt Säve) betyda »det
+sammanvridna»; jfr gotl. _brisugur_, vresig, _bris_, bröstkörtel på kalf,
+kalfbress; _men_, halskedja, halsband. _Óðr_; se _Oðrærir_, sid. 63.
+_Hnoss_, klenod. _Gersemi_, kostbarhet, klenod.
+
+_Vanadis_ (fn. _Vanadis_), vanernes gudinna, kallas Fröja såsom dotter af
+vanen Njord. Hon har också flere andra namn, af hvilka _Mardöll_ (af _mar_,
+haf), »den på hafvet dallrande, gungande», synes hänvisa på en märklig
+öfverensstämmelse med grekernas Afrodite (Säve). Hon kallas ock »den
+gråtfagra gudinnan», emedan de tårar, som hon fäller öfver förlusten af sin
+make, äro det röda guld. Fröja delar med Odin de fallna hjeltarne, ty
+hjeltens sinne har två hufvudlidelser, strid och qvinnokärlek, och de
+älskande tillhöra henne. Salen Sessrymne är stor och har många säten, ty
+kärleken är tillgänglig för alla. Brisingasmycket betecknar skönheten i
+kärleksgudinnans väsen, och hennes man Od kärlekens berusande makt; hennes
+saknad och tårar öfver den förlorade maken uttrycka kärlekens längtan och
+gråt. Hennes kattor äro bilder af smeksamhet och hetsig kärlek. Till Fröja
+kunna hänföras lika väl som till Frigg åsynjorna Snotra (behaget), Sjofn
+och Lofn (jfr § 15).
+
+
+§ 23. Hafvets personligheter.
+
+Vanerne i allmänhet och Njord i synnerhet äro det milda, välgörande hafvets
+gudomligheter (§ 11). Öfriga personligheter, i hvilka hafvet framträder,
+äro Öge, Hyme och Mime, hvilka egentligen tillhöra jätteverlden.
+
+_Öge_ (fn. _Oegir_) herskar öfver det _vilda_, upprörda, mera _aflägsna
+hafvet_, der fiske och seglats ej väl kunna trifvas, den stora oceanen,
+hvilken likväl ännu icke är helt och hållet otillgänglig för gudars och
+människors verksamhet. Deraf kommer Öges dubbla natur: han är en jätte, men
+har likväl fredligt samqväm med gudarne. I hans sal, som upplyses af
+skinande guld, bärs den skummande drycken omkring af sig sjelf.
+
+Öges hustru _Rån_ (fn. _Rán_) har ett nät, hvarmed hon söker fånga dem, som
+färdas på sjön, och de, som omkomma deri, föreställas komma till henne.
+Öges döttrar, böljorna, hafva bleka lockar och hvita slöjor, äro sällan
+blida mot män, vagga i vinden och fara omkring i hafsbränningens skär, men
+leka sällan i lugn.
+
+_Oegir_, den förskräcklige, af _oegja_, förskräcka. _Rán_, rån, plundring,
+rof.
+
+Öge förblandas understundom med den i fornjotiska naturkulten förekommande
+Lä (§ 6). Förhållandet mellan Öge och Njord är det samma som mellan
+grekernas Okeanos, det yttre verldshafvet, och Pontus, medelhafvet, inom
+jordens gränser (Petersen).
+
+_Öges gästabud_ (fn. _Oegisdrekka_). Öge kom en gång till Åsgård och
+hedrades af gudarne med ett präktigt gästabud i deras lysande salar. Han
+satt vid bordet bredvid Brage, som flitigt drack honom till och för honom
+berättade många af åsarnes bragder. Öge blef upprymd och inbjöd i sin
+ordning gudarne till ett gästabud hos sig. Emellertid saknade Öge en
+kittel, tillräckligt stor för att deri brygga mjöd åt alla gästerna, men
+denna brist afhjelptes derigenom, att Tor, åtföljd af Ty, från Hyme hemtade
+en kittel, som var en mil (rast) djup. Nu föranstaltades gästabudet, och
+åsar och alfvar församlade sig der, men Tor var icke med. Det var ett
+präktigt gille. Der var lysande guld i stället för eldsljus och ölet
+skänkte sig sjelft, och man prisade mycket Öges tjenare Fimafäng och Älde.
+Strängt fredlyst var detta ställe. Icke dess mindre dödade Loke, som
+objuden infann sig vid gillet, Fimafäng, då denne vägrade honom inträde i
+gästabudssalen. Då lyfte gudarne sina sköldar och lupo med anskri mot Loke
+samt drefvo honom till skogen; men sjelfva återvände de till gästabudet.
+Loke vände emellertid också tillbaka, trädde in i salen och uppmanade
+gudarne att anvisa honom plats eller drifva honom bort. Brage affärdar
+honom, sägande, att åsarne aldrig skulle gifva honom plats i gillet. Då for
+Loke ut i ohöfviskt tal och hånande ord mot alla gudar och gudinnor.
+Sjelfva Tor, som slutligen kommer, får höra smädeord, derför att han en
+gång tagit sig nattläger i jätten Skrymes handske (sid. 41) och för det han
+kastat bort sin hammare vid det fåfänga försöket att meta upp
+Midgårdsormen. Men sedan Loke sålunda retat Tor, vågade han icke längre
+stanna qvar i salen, utan dolde sig i Frånangers fors under skepnad af en
+lax. Der togo åsarne honom slutligen och öfverlemnade honom åt ett
+välförtjent straff (se sid. 75).
+
+_Hyme_ (fn. _Hýmir_) är herskare öfver det vida, öde _Ishafvet_, inom hvars
+område ingen utom Tor kan intränga. Då åsarne skulle gästa Öge och denne
+icke hade en tillräckligt stor bryggkittel, hemtade Tor en ännu större från
+Hyme (sid. 47).
+
+Hit hör äfven den mot gudar och människor fiendtliga Midgårdsormen (§ 24).
+
+_Hýmir_ af _húm_, skymning.
+
+Att kittelns hemtande från Hyme betecknar det af vintern fjättrade hafvets
+frigörande, är förut (sid. 48) anmärkt.
+
+_Mime_ (fn. _Mimir_) är herskare öfver _hafvets_ egentliga _urkälla_, och
+såsom sådan står han bakom både Njord, Öge och Hyme. Mimes brunn är under
+den rot af verldsträdet, som går till rimtursarne, och i den samma äro
+fördolda vishet och förstånd (§ 14). Odin kom dit och bad om en dryck, men
+erhöll honom icke förr, än han satt sitt ena öga i pant (se sid. 26 och
+32).
+
+_Mimir_, erinring, minne; jfr lat. _memor_.
+
+Då åsar och vaner slöto fred och gåfvo hvarandra gisslan, gåfvo åsarne åt
+vanerne Höne, hvilken blef deras höfding, samt sände med honom den vise
+Mime, som gaf Höne alla goda råd. Men när Höne var på ting och Mime ej i
+närheten, då kunde Höne intet råda, hvarför vanerne misstänkte, att åsarne
+bedragit dem i mannaskiftet. De togo då Mime och dödade honom samt sände
+hans hufvud tillbaka till Odin. Denne tog hufvudet, smorde det med örter,
+qvad galder deröfver och trollade så, att det talade med honom och sade
+honom många fördolda ting (jfr sid. 32).
+
+Odin hemtar råd och upplysning af Mime, d. v. s. anden sänker sig ned i
+minnets, erinringens djup, der utvecklingsämnena ligga dolda. Hvarje dag,
+som vi tänka en ny tanke, har denna minnena att tacka för sin födelse;
+hvarje handling vi utöfva har sin grund i fjärran aflägsna, måhända blott
+halft medvetna minnen, och framför allt skådar Sagas vän (Odin) städse
+tillbaka till ursprunget (Petersen, sid. 144).
+
+
+§ 24. Loke och hans slägt.
+
+_Loke_ (fn. _Loki_) bildar en motsats till alla de andra gudarne och är det
+onda i alla riktningar. Han är listens, falskhetens, _det ondas_ gud.
+Likasom Odin genomtränger skapelsen för att öfverallt väcka ett högre
+andligt lif, likaså blir Loke källan till det onda. I människans ådror
+rinner han som sinlighet, källan till alla onda lustar; i naturen
+framträder han som det förderfliga i luft, eld och vatten; i jordens sköt
+som den vulkaniska elden, i hafvet såsom en glupande orm, i underjorden som
+den bleka döden. I begynnelsen var Loke icke sådan, utan på det
+innerligaste förbunden med Odin genom fostbrödraskapets heliga band. Under
+namn af Lodur eller Lopt (§ 7) deltager han i människans skapelse och
+gifver henne blodet, lifsvärmen, den sinliga naturen; men han skilde sig
+från Odin och blef ond samt beständigt allt värre och värre. Loke är som
+elden, hvilken, när han verkar i det godas tjenst, är välgörande och
+nödvändig för all utveckling, men kan blifva farlig och förderflig.
+
+Till utseendet är Loke fager och har vackra drag, är smidig och hurtig, men
+har en skygg, ondskefull blick. Han bragte åsarne ofta i stor förlägenhet
+och olycka, men var äfven som oftast tvungen att hjelpa dem derur. Hans
+fader var jätten _Farböte_ (fn. _Farbauti_) och hans moder _Löfö_ (fn.
+_Laufey_) eller _Nål_ (fn. _Nál_). Hans bröder äro _Byleist_ (fn.
+_Býleistr_) och _Hälblinde_ (fn. _Helblindi_).
+
+_Loki_ är enligt någras uppfattning = _logi_, eldslåge; enligt andras är
+Loke = lockaren, förföraren: andra åter härleda namnet af verbet _lúka_,
+ända, tillsluta, igenlycka, och skalle det då betyda antingen »den slutne,
+inbundne» eller »den slutande, gudamaktens ände». _Farbauti_, den som
+drifver skeppet, vind, af _far_, skepp, och _bauta_, slå, stöta. _Laufey_,
+Löf-ö, af _lauf_, löf, och _ey_, ö. _Nál_, nål. _Byleistr_ af _býr_, bebodd
+ort, stad, och _leysa_, upplösa. _Helblindi_, den dödligt bländande, af
+_hel_, död, och _blinda_, blända.
+
+Att de gamle vid Loke närmast och ofta tänkt på elden är uppenbart. Likasom
+jorden och hafvet efter sina olika yttringar hafva flere gudomligheter,
+likaså har elden sina former: han är himmelsk, förbunden (såsom Lodur) med
+Odin, jordisk som en Fänresulf, underjordisk som den fjättrade Loke. Också
+antyda namnen på Lokes slägt föreställningen om honom såsom elden: Farböte,
+som slår skeppet, är vinden; Löfö eller Nål är det bränbara trädet, löfvet
+eller barret på träden; Byleist ock Hälblinde kunna beteckna den förtärande
+flamman. Men detta är blott en sida i Lokes väsen; hans natur, såsom en
+hela sinlighetens uppenbarelse, omfattar vida mera. Han är det onda öfver
+hufvud, det förderfliga i naturen, och den onda lidelsens makt i den
+sedliga verlden. Så har han ock bibehållit sig i folktron: han är den onde,
+djäfvulen (jfr Petersen, sid. 310). Ehuru han visserligen i begynnelsen är
+ett med Odin, framträder han dock, i följd af sin onda utveckling, tillika
+såsom af en annan stam (jfr hans föräldrar och bröder).
+
+Loke griper öfverallt in i åsarnes lif, förderfvande eller hjelpande. Märk
+myterna: Tors tåg till Jättehem, Sifs hår, Iduns bortröfvande,
+Brisingskedjans stöld, samt den största ogerningen, Balders död, m. fl.
+
+_Lokes barn._ Med sin hustru _Sigyn_ (fn. _Sigyn_) hade Loke sonen _Nare_
+eller _Narfve_ (fn. _Nari_, _Narfi_), och en broder till honom var _Vale_
+(fn. _Vali_).
+
+Med jätteqvinnan _Ångerbåda_ (fn. _Angrboða_) födde Loke tre barn: _Fänre_
+eller _Fänresulf_, _Midgårdsorm_ och _Häl_. Att dessa tre syskon, som hade
+en sådan moder och ännu mer en sådan fader samt uppföddes i Jättehem,
+skulle vålla åsarne mycket men, det visste de af spådomar, och derför lät
+Allfader gudarne taga och föra dem till sig.
+
+_Angrboða_, den olycka bådande.
+
+_Fänre_ eller _Fänresulf_ (fn. _Fenrir_ l. _Fenrisulfr_) uppfödde åsarne
+hemma, och endast Ty hade nog djerfhet att gifva honom mat. Då de sågo,
+huru mycket han växte, och visste, att han skulle bringa dem skada, då
+beslöto de att binda honom. Tvänne gånger hade han också låtit sig fängslas
+af dem, men båda gångerna sprängt banden. Då han tredje gången skulle visa
+sin styrka på det osynliga bandet _Gleipne_ (fn. _Gleipnir_), lät han
+endast med det vilkoret binda sig, att någon af åsarne lade sin högra hand
+i hans gap till underpant derpå, att bandet vore gjordt utan svek. Ty
+uppfylde vilkoret och ulfven lät sig bindas, men förmådde icke spränga
+bandet, hvarför Ty miste sin hand. Då åsarne nu sågo, att ulfven var
+bunden, fäste de bandet vid en klippa och satte ett svärd i hans mun,
+hjaltet i underkäften och spetsen i öfverkäften. Så ligger vargen, bunden
+och tjutande, till gudarnes skymning.
+
+Fänresulfven är den af människorna _fjättrade elden_ på jorden. Han är
+fruktansvärd, när han befrias ur sina band, och far som en glupande ulf
+fram öfver människoboningarna. En gång, vid gudarnes skymning, skall han
+tillintetgöra den himmelska elden, Odin.
+
+_Midgårdsorm_ (fn. _Miðgårðsormr_) kastade Allfader i det djupa hafvet, som
+omgifver alla länder. Der har ormen växt till en sådan storlek, att han
+slingrar sig om alla länder och biter sig i stjerten. Tor kämpade med
+honom, men förmådde icke dräpa honom.
+
+Midgårdsormen betecknar således det vilda, upprörda hafvet.
+
+_Häl_ (fn. _Hel_) kastade Allfader ned i underjorden. Der herskar hon i
+Hälheim (§ 13) såsom den förskräckliga, likfärgade, obevekliga
+_dödsgudinnan_ samt de _eviga straffens_ gudinna. Till henne komma alla,
+som dö af sjukdom och ålderdom. Stor är hennes boning och står under en af
+verldsträdets rötter. Framför den samma ligger den vaksamma hunden Garm vid
+Gnupahålan och rusar mot de ankommande med blodigt bröst och fradgande gap.
+Der sitter Häl, girig och obarmhertig, vid städse halföppen dörr för att
+allt mottaga och intet återgifva. För de onda är der en särskild afdelning
+nere i djupet.
+
+Föreställningarna om Häls rike och lifvet efter döden äro dunkla. »Att
+komma till Häl» kallas öfver hufvud att dö. Balder kommer, ehuru dödad
+genom ett vapen, till Häl; likaså Sigurd Fafnesbane, som föll för lönmord.
+Hos Fröja samlas de älskande, som varit trogna i döden, till Gefion komma
+alla mör, till Tor trälarne, och till Rån de, som omkomma i böljorna;
+således hvarken till Häl eller Valhall. Ehuru Häl fasthåller sitt rof,
+kunna dock de döda komma såsom spöken till öfverjorden och inverka på de
+lefvande (t. ex. Helge Hundingsbane), eller ock (såsom Helge Hjorvardsson),
+återfödas. Sjelfva orten bortom grafven kallades också Häl, äfvensom
+Hälheim. Deraf hafva vi slå ihjäl (gotl. _sla i hál_) och helvete (fn.
+_helviti_, eg. Häls straff). Jfr Garm (fn. _Garmr_, hund) med grek.
+Kerberos.
+
+_Lokes straff._ Mycket ondt hade Loke ostraffad begått. Framför allt hade
+han förorsakat Balders död, samt såsom Töck hindrat hans återkomst från
+Häl, och gudarne hade icke vågat hämnas detta, ty Balder hade blifvit dödad
+på ett heligt och fridlyst ställe. Så blef Loke städse mera öfvermodig. Med
+triumferande hån uppträder han vid Öges gästabud mot gudarne och öfveröser
+dem alla med skymford. Derefter gick han bort och gömde sig i forsen
+_Frånanger_ (fn. _Fránangr_) under skepnaden af en lax. Der fångade åsarne
+honom med ett nät, hvartill han sjelf gjort modellen. Nu var Loke fången
+och fredlös. Hans son Vale förvandlade gudarne i en ulf, som sönderslet sin
+broder Narfve, och med dennes tarmar fastbundo de Loke vid trenne stenar.
+Derpå tog Skade en etterorm och fäste den samma öfver hans ansigte, så att
+ettret skulle drypa honom i ansigtet. Hans hustru Sigyn står hos honom och
+håller en skål under etterdropparne, och när skålen är full, går hon bort
+och slår ut ettret. Under tiden dryper ettret från ormen ned på hans
+ansigte, och då vrider han sig så våldsamt, att hela jorden skälfver. Det
+kallas jordskalf. Der ligger Loke i länkar till gudarnes skymning.
+
+I Völuspá och Snorra Edda följer Lokes straff omedelbart på Balders död,
+men i Oegisdrekka förlägges det efter gästabudet hos Öge. Berättelsen om
+Sigyn, som står hos sin man och håller en skål under etterdropparne,
+framställer en rörande bild af den äktenskapliga troheten.
+
+
+
+
+III.
+
+Undergång och återfödelse.
+
+
+§ 25. Undergång.
+
+Allt skapadt förgås. Icke blott verlden, såsom hon i tid och rum utvecklat
+sig, utan äfven gudarne sjelfva förgås, emedan också de äro skapade. De
+förgås genom de krafter, hvilka före dem varit till och hvilka de
+visserligen segerrikt bekämpat, men ej kunnat tillintetgöra. Striden
+fortfar och under den samma uppstå ännu värre fiender: inom gudarnes egen
+krets uppreser sig det onda såsom en sjelfständig makt och förenar sig med
+de fiendtliga makterna. Denna motsats förmå åsarne icke öfvervinna, ty det
+onda framträder såsom en sida hos dem sjelfva. De duka under för sin egen
+svaghet: Frö gifver bort sitt svärd för Gärd, Ty mister sin hand, gudarnes
+lättsinniga öfvermod gifver anledning till Balders dråp, o. s. v.
+Visserligen äro Loke och hans afföda fjättrade, men det ondas makt
+utvecklar sig mer och mer, de fängslade odjuren växa och frodas, tills de
+slutligen spränga sina bojor och rusa fram till den sista stora striden.
+
+_Ragnarök_ (fn. _Ragnarökr_). Tre år igenom skola bröder strida och
+hvarandras bane varda, luften fyllas med odjur, och ingen den andre skona.
+Derpå kommer den stora vintern (fn. _Fimbulvetr_), som består af tre
+vintrar efter hvarandra utan sommar emellan. Då faller snö från alla
+kanter, stark frost herskar och bistra vindar, och solens värme förtages.
+Yggdrasil skälfver, det gamla trädet suckar. Loke och hans afföda varder
+lös. Fänresulfven far fram med gapande mun, med öfverkäken i himmelen och
+underkäken vid jorden, och än mera skulle han gapa, om rum vore dertill.
+Midgårdsormen vältrar sig i jätteraseri och söker komma på land samt utspyr
+så mycket etter, att det utbreder sig öfver luft och haf. Jätten Rym (fn.
+_Hrym_) far fram öfver stormhäfda vågor med skeppet _Nagelfar_ (fn.
+_Nagelfar_). Med honom följa alla rimtursarne. Bergen braka, himmelen
+remnar, och Muspells söner med Surt i spetsen rida derifrån. När de rida
+öfver Bäfrast, brister den samma. Muspells söner fara fram på den slätt,
+som _Vigrid_ (fn. _Vigriðr_) heter och är hundra mil åt alla håll. Der
+skall striden stå. Dit kommer Fänresulfven och Midgårdsormen. Dit ha också
+Loke kommit och med honom hela Häls följe, äfvensom Rym med alla
+rimtursarne. Medan detta sker, står Heimdall upp, blåser starkt i
+Gjallarhornet och väcker gudarne. De hålla ting samman och Odin rådfrågar
+Mime. Åsarne och alla enhärjarne härkläda sig och rycka fram på slätten.
+Der kämpar Odin med ulfven och uppslukas af odjuret, men Vidar hämnas sin
+fader och blifver ulfvens bane. Tor kämpar med Midgårdsormen och fäller
+honom, men kan blott vackla fram nio steg, innan han sjelf faller ned,
+qväfd af det etter ormen utblåst på honom. Frö strider tappert med Surt,
+änskönt han saknar sitt svärd, men fälles af honom. Hunden Garm, som var
+bunden vid Gnupahålan, är lös och kämpar med Ty. De blifva hvarandras bane.
+Heimdall och Loke fälla hvarandra. Slutligen kastar Surt eld öfver jorden
+och uppbränner hela verlden. Solen svartnar, jorden sjunker ned i hafvet,
+och från himlen försvinna de klara stjernor. Allt är förbi.
+
+_Ragnarökr_, gudarnes skymning, af _ragna_, gen. af _regin_ n. pl. (se sid.
+20), och _rökr_, skymning, mörker, eller _Ragnarök_ n. pl., gudarnes
+undergång, af _rök_, en saks utveckling från början till slut, upplösning.
+_Naglfar_ af _nagl_ l. _nögl_, nagel, och _far_, skepp; kallades så, emedan
+det var gjordt af döda människors naglar. _Vigriðr_, valplats, af _vig_,
+strid, och _riða_ för _vriða_, vrida, knyta samman.
+
+Hvilka makter uppträda mot hvarandra i den sista stora striden? De, som
+hittills herskat öfver himmel och jord, och mot dem deras eviga fiender, de
+krafter, som utvecklat sig, innan himmel och jord blefvo skapade, och de,
+som utvecklat sig i jordens och hafvets sköt. Från Muspell komma Muspells
+söner i skinande rustning, rimtursarne utgöra den andra skaran, och den
+tredje skaran är Lokes barn. De, som förut stridde i lifvet, fälla nu
+hvarandra i döden. Odin, från hvilken allt lif utgått, uppslukas af
+Fänresulfven, den jordiska elden. Ulfven åter dödas af den oförgänglige
+Vidar, naturkraften utanför människolifvet. Tor strider med Midgårdsormen:
+moln och haf förstöra hvarandra ömsesidigt. Frö, som efter Balders död är
+den klaraste och renaste makten, dödas af Surt, den himmelska eldverldens
+väktare. Heimdall med den skimrande regnbågen och Loke, den jorden
+genomströmmande elden, döda hvarandra (jfr Petersen, sid. 323).
+
+
+§ 26. Återfödelsen.
+
+Ur hafvet uppstiger en ny jord, härligt grön, forsarne falla, och örnen
+flyger hän öfver bergen. Ej mindre skön än den slocknade solen, vandrar en
+ny sin moders bana. Osådda skördar växa. Allt ondt är öfvervunnet. Balder
+och Höd komma tillbaka och bo samman i Ropts segersalar. Höne får fritt
+följa sitt val, och de båda brödernas (Balders och Höds) söner bebo det
+vida Vindhem. Vidar och Vale, Odins och Balders hämnare, lefva ännu.
+Hammaren Mjöllne finnes qvar, och Tors söner Mode och Magne föra den samma.
+På Idavallen möta dessa åsar hvarandra och tala samman om förgångna tider.
+De gyllene taflor, som gudarne egde i tidens morgon, återfinnas i gräset.
+En ny guldålder vänder åter.
+
+I _Hoddmimeshult_ (fn. _Hoddmímisholt_) hafva två människor, _Lif_ (fn.
+_Líf_) och _Liftrase_ (fn. _Lifþrasir_), dolt sig undan Surts låga.
+Morgondagg är deras spis, och från dem härstammar den nya, bättre
+människoslägt, som skall bebo den nya jorden.
+
+I _Gimle_ (fn. _Gimli_) är en sal, fagrare än solen och täckt med guld. Der
+skola dygdiga skaror bo och idel lycka evigt njuta.
+
+Vilkoren för en ny lifsutveckling äro gifna och
+
+  »Då kommer den mäktige
+  till verldsdomen,
+  den starke ofvan,
+  som allt styr.
+  Domar han fäller,
+  frid stiftar,
+  stadgar hvad evigt
+  stånda skall.»
+
+_Hoddmimisholt_; _Hoddmimir_ af _hodd_, skatt, och _Mimir_, Mime, som
+bevarar lifskraften såsom en skatt; _holt_, skog, t. _holz_. _Lif_ n. är
+här att taga såsom femin., lifskraft. _Lifþrasir_, den lefnadsfriske, af
+_þrasa_, strida, larma. _Gimli_, _gimil_, glans.
+
+Den skapade verlden och hennes utvecklingskrafter (Odin, Tor, vanerne o. s.
+v.) hafva förgåtts, men icke den skapande urkraften. Ljus och mörker
+(Balder och Höd) skola fredligt herska tillsammans och ej mer, såsom i
+begynnelsen eld och köld (§ 1), stå fiendtligt mot hvarandra. Höne har
+vändt åter från vanerne, som försvunno med den gamla jorden; han kommer
+visserligen utan Odin, men också utan Loke. Han har fritt val, d. v. s. han
+väljer hvilken utveckling han vill, och i honom hafva vi att se åsamakten
+förnyad och förädlad. Vidar och Vale äro den oförgängliga naturkraften, den
+förre i den vilda naturen, den senare i jorden såsom människoboning.
+Tordönsgudens mod och styrka äro ännu qvar i Mode och Magne.
+
+Det nya människoslägtets stamfäder, Lif och Liftrase, äro af en långt
+ädlare natur, de lefva af morgondagg.
+
+De goda människorna lefva i Gimle, ty kroppen blir mull eller aska, men
+alla dygdiga skola vara hos honom sjelf (allfader) på det ställe, som heter
+Gimle (Snorra Edda). Dvergarne hafva sin _Sindre_ (fn. _Sindri_, af
+_sindra_, gnistra) och jätten sin dryckessal, _Brime_ (fn. _Brimir_, af
+_brim_, hafsbränning, eller _brimi_, flamma).
+
+Det finnes också straff-orter för människorna. På _Nåstrand_ (fn.
+_Náströnd_, likstranden, af _nár_, lik) står en stor sal, hvars dörrar
+vända sig åt norr. Han är bygd af ormryggar, och alla ormhufvuden äro vända
+in i huset och de utblåsa etter, så att giftströmmar löpa genom salen. Der
+vada i de tunga strömmarne menedare, mördare och förförare. Dock är det
+värst att vara i Hvärgälme, ty der suger Nidhugg de hädangångnas lik[8].
+
+Så kommer den mäktige, den onämnbare (_Hundlyljóð_) guden till stordomen.
+Han domar afsäger, stillar träta och insätter fredens heliga lagar, som
+evigt skola vara. Var det denna guds namn, som Odin hviskade i örat på
+Balder, då han lades på bålet?
+
+Lönen är evig. Månne också straffet är det? När Balder och Höd omfamna
+hvarandra, när mörkret går upp i ljus, då skall också det onda upplösa sig
+i det goda. Då sänker sig Nidhugg med sina liktyngda vingar djupt ned i
+afgrunden, medan det goda och sköna lefver. Det är stordomen (jfr Petersen,
+sid. 329; Lüning, sid. 87).
+
+
+AFSLUTNING.
+
+Sådana voro våra hedniska förfäders föreställningar om verldens upphof,
+utveckling, undergång och återfödelse. Likasom andra hedniska
+religionsformer, var åsatron ursprungligen en naturreligion, i hvilken de
+särskilda naturkrafterna uppfattas såsom gudaväsen. Men dessa
+naturgudomligheter fattades tillika såsom väsen med mänskliga former och
+egenskaper af den högsta och fullkomligaste art, och således är denna
+religion tillika antropomorfistisk. Odin är solens gud, men tillika den
+ordnande och styrande, den allsmäktige och allvise verldsherskaren; Tor är
+åskans gud, men derjämte den kroppsliga styrkans och maktens gudom; Balder
+är ljusets gud, men tillika renhetens, godhetens, rättrådighetens gudom;
+Vanerne äro vattnets gudomligheter, men derjämte befordrare af fruktbarhet,
+välstånd, kultur; Loke är ursprungligen eldens gudom, men blir det
+personifierade onda, djäfvulen o. s. v.
+
+Nordmannatron var genomträngd af medvetandet om sina gudars ändlighet och
+ofullkomlighet: denna verlden skulle en gång upphöra och lemna rum för en
+ny och skönare, i hvilken icke Odin, utan en mäktigare skulle herska, hvars
+namn ingen vågade nämna. Genom denna upplyftande föreställning, äfvensom
+genom sitt klarare medvetande af själens odödlighet utmärker sig åsatron
+framför alla andra hedniska religionsformer, bland hvilka den grekiska
+närmast fängslar vår uppmärksamhet. Grekerna, som lefde under en mildare
+och skönare himmel samt i lyckligare lefnadsförhållanden, kände intet behof
+att skapa sig en bättre verld, under det nordbon, hemfallen åt strider och
+försakelser, kände sig otillfredsstäld i denna tillvarelse och derför
+skapade sig en bättre och härligare. Lifvet efter döden uppfattades af
+grekerna såsom ett uselt skugglif i Hades, under det nordbon förestälde sig
+det samma såsom ett verkligt och personligt lif hos Odin i Valhall.
+Grekiska mytologien utmärker sig framför den nordiska genom en mängd sköna
+enskildheter och hänförande bilder, och hennes gudagestalter äro mera
+bestämda och formfulländade; men hon saknar den storartade enhet och
+sammanhållning, som vi finna hos den nordiska, hvilken utvecklar sig nästan
+som ett drama, fullt af handling med den mest gripande katastrof.
+
+  »Från fäder är det kommet, till söner skall det gå,
+  Så långt som unga hjertan ännu i norden slå.»
+                                   Geijer.
+
+INNEHÅLL.
+
+
+                                                                      Sid.
+  Inledning                                                           1-4.
+
+  I. SKAPELSEN. VERLDEN.
+
+  A. _Skapelsen._
+  § 1. Begynnelsen                                                   5, 6.
+  § 2. Yme. Rimtursar                                                6, 7.
+  § 3. Gudarnes skapande                                             7, 8.
+  § 4. Himmelens och jordens skapelse                                8, 9.
+  § 5. Himlakropparne. Tidens indelning. Vinden. Regnbågen           9-11.
+  § 6. Fornjot och hans slägt                                       11-13.
+  § 7. Guldåldern. Dvergars och människors skapelse                 13-15.
+
+  B. _Verlden._
+  § 8. Jättar                                                      16, 17.
+  § 9. Alfvar och Dvergar                                           17-19.
+  § 10. Åsar                                                        19-21.
+  § 11. Vaner                                                      21, 22.
+  § 12. Nornor                                                      22-24.
+  § 13. De nio verldarna och språken                               24, 25.
+  § 14. Yggdrasil                                                   25-27.
+
+  II. GUDALIFVET.
+  § 15. Odin                                                        28-32.
+  § 16. Odins hustrur. Friggs tjenarinnor                           33-36.
+  § 17. Tor                                                         36-50.
+  § 18. Balder                                                      50-54.
+  § 19. Odins öfrige söner                                          54-58.
+  § 20. Odin såsom krigets gud. Valhall                             58-61.
+  § 21. Odin såsom runors och skaldskaps uppfinnare. Odin och Saga 62, 63.
+  § 22. Vaner                                                       64-68.
+  § 23. Hafvets personligheter                                      68-71.
+  § 24. Loke och hans slägt                                         71-75.
+
+  III. UNDERGÅNG OCH ÅTERFÖDELSE.
+  § 25. Undergång                                                   76-78.
+  § 26. Återfödelse                                                 78-81.
+  Afslutning                                                       81, 82.
+
+
+
+
+NAMNREGISTER.
+
+
+            A.
+
+  Aldagautr, sid. 29.
+  Alfvar, 17 följ.
+  Alfheim, 18.
+  Allfader, 28, 29 m. fl.
+  Allsvinn, 9.
+  Andre (Annar), 10.
+  Andrimne, 60.
+  Asar, Asgård, se Åsar o. s. v.
+  Ask, 14.
+  Asynjor, se Åsynjor.
+
+            B.
+
+  Balder, 19, 21, 50.
+  Barre, 66.
+  Bergälme, 6, 8.
+  Bestla, se Bästla.
+  Bilskirne, 37.
+  Blodighof, 31.
+  Bodn, 63.
+  Brage, 19, 21, 55.
+  Breidablick, 50, 53.
+  Brime, 80.
+  Brisingamen, Brinsingasmycket, 59, 67.
+  Brune, 29.
+  Bur (Burr, Börr), 7.
+  Bure, 7.
+  Byleist, 72.
+  Bålögd, 29.
+  Bäfrast (Bifröst), 11.
+  Bästla, 7.
+  Böltorn, 7.
+
+            D.
+
+  Dag, 10.
+  Delling, se Dälling.
+  Diser, 24.
+  Dröpne, 30, 52, 54.
+  Durin, 19.
+  Dvalin, 19.
+  Dvergar, 18, 30, 38.
+  Dälling, 10.
+  Dökkálfar, 18.
+
+            E.
+
+  Eir, 20, 35.
+  Ejmörja, 12.
+  Eldrimne, 60.
+  Elivågor, 5, 6.
+  Elle, se Älle.
+  Embla, se Ämbla.
+  Enhärjar, 60.
+
+            F.
+
+  Farböte, 72.
+  Fenre, se Fänre.
+  Fimafäng, 69.
+  Fjörgyn, 33.
+  Fjölsvinnr, 29.
+  Folkvang, 67.
+  Fornjot, 11.
+  Forsäte, 20, 21, 54.
+  Frej, se Frö.
+  Freja, se Fröja.
+  Frigg, 20, 33.
+  Friggs tjenarinnor, 34.
+  Froste, 12.
+  Frånangers fors, 75.
+  Fräke, 30.
+  Frö, 18, 19, 22, 65, 66.
+  Fröja, 20, 22, 48, 67.
+  Fulla, 20, 34, 52.
+  Fylgjor, 24.
+  Fänre, Fänresulf, 73.
+  Fänsalar, 33.
+
+            G.
+
+  Gagnråd, 29.
+  Garm, 74, 77.
+  Gefion, 20, 35.
+  Geirröd, 31, 40.
+  Gerseme, 66.
+  Gimle, 25, 79.
+  Ginnungagap, 5.
+  Gjallarhornet, 56.
+  Gjålp, 40.
+  Gladsheim, 13, 32, 60.
+  Glase, 60.
+  Gleipne, 73.
+  Glitne, 54.
+  Glöd, 12.
+  Gnupahålan, 74, 77.
+  Gnå, 20, 34.
+  Goe, 12.
+  Grane, 29.
+  Greip, 40.
+  Grid, 36, 40, 57.
+  Grimne, 29, 31.
+  Gullborst, 65.
+  Gulltopp, 56.
+  Gullveig, 58.
+  Gungne, 30.
+  Gunnlöd, 36, 62.
+  Gyger, 16.
+  Gyme, 66.
+  Gångläre, 29.
+  Gärd, 16, 20, 66.
+  Gäre, 30.
+  Göt (Gautr), 29.
+
+            H.
+
+  Hamingjor, 24.
+  Hate, 10.
+  Heid, 59.
+  Heidrun, 60.
+  Hel, se Häl.
+  Heimdall, 19, 21, 56.
+  Hild, 59.
+  Himmelsberg, 56.
+  Hoddmimeshult, 79.
+  Hofvarpne, 34.
+  Hugin, 30.
+  Hvärgälme, 5, 26.
+  Hyme, 47, 70.
+  Hyrrocken, 52.
+  Håloge, 12.
+  Hár, 14.
+  Häl, 74.
+  Hälblinde, 72.
+  Hälheim, 24, 75.
+  Härfader, 29.
+  Härmod, 21, 54.
+  Höd, 19, 21, 56.
+  Höne, 14, 21, 22.
+
+            I.
+
+  Idavallen, 13.
+  Idun, 20, 55.
+  Ifving, 25.
+  Ilm, 53.
+  Ivaldes söner, 30, 38.
+
+            J.
+
+  Jafnhár, 14.
+  Jord, 10, 20, 33.
+  Järnsaxa, 38.
+  Jättar, 16.
+  Jättehem, 8, 24.
+
+            K.
+
+  Kvåse (Kvásir), 22.
+  Kåre, 11.
+
+            L.
+
+  Landvide, 57.
+  Lidskälf, 32.
+  Lif, Liftrase, 79.
+  Lin, 20, 34.
+  Ljusalfvar, 18.
+  Ljusalfheim, 24.
+  Loder, 14.
+  Lodyn, 33.
+  Lofn, 20, 34.
+  Loge, 11, 43.
+  Loke, 15, 20, 71.
+  Lopt, 15.
+  Lorride, 37.
+  Lä (Hlér), 11.
+  Läsö, 11.
+  Löfö, 72.
+
+            M.
+
+  Magne, 38.
+  Mardöll, 67.
+  Megingjord, 36.
+  Midgård, 8, 24.
+  Midgårdsorm, 47, 70, 74.
+  Mime, 22, 26.
+  Mimesbrunn, 26.
+  Mistelten, 51.
+  Mjöllne, 36.
+  Mockerkalfve, 39.
+  Mode, 38.
+  Modsogne, 19.
+  Mundilföre, 9.
+  Munin, 30.
+  Muspell, 5, 24.
+  Måne, 9.
+  Månagarm, 10.
+  Mänglad, 35.
+
+            N.
+
+  Nagelfar, 77.
+  Nagelfare, 10.
+  Nanna, 20, 51.
+  Nare (Narfve), 73.
+  Narfve (Nörfve), 10.
+  Natt, 10.
+  Nep, 51.
+  Nidhugg, 26.
+  Nifelheim, 5, 24.
+  Nitberg, 62.
+  Njord (Njärd), 19, 21, 22, 64.
+  Njörun, 53.
+  Noatun, 64.
+  Nordre, 8.
+  Nornor, 22, 26.
+  Noss (Hnoss), 20.
+  Nål, 72.
+  Nåstrand, 80.
+
+            O.
+
+  Od, 67.
+  Odin, 7, 14, 19.
+  Odröre, 68.
+
+            R.
+
+  Ragnarök, 76.
+  Ratatosk, 26.
+  Rig, 57.
+  Rimfaxe, 11.
+  Rimtursar, 6.
+  Rind, 20, 35.
+  Ringhorne, 54.
+  Ropt, 29, 58.
+  Rungne, 39.
+  Runor, 62.
+  Rym, 77.
+  Rån, 68.
+  Räsvälg, 11.
+  Röskva, 37, 41.
+
+            S.
+
+  Saga, 20, 63.
+  Segerfader, 29.
+  Sessrymne, 67.
+  Sidskägg, 29.
+  Sif, 38.
+  Sigyn, 20.
+  Sindre, 80.
+  Sjöfn, 20, 35.
+  Skade, 20, 64.
+  Skall, 10.
+  Skidbladne, 65.
+  Skinfaxe, 11.
+  Skirne, 65.
+  Skryme, 41.
+  Skuld, 22.
+  Sleipne, 30.
+  Snotra, 20, 34.
+  Snö, 12.
+  Sol, 9.
+  Son, 63.
+  Surt, 5.
+  Suttung, 62.
+  Suttungs mjöd, 62.
+  Svalin, 9.
+  Svartalfvar, 18.
+  Svartalfheim, 24.
+  Svinn, 29.
+  Svåsud, 10.
+  Syn, 20, 35.
+  Särimne, 60.
+  Söckvabäck, 63.
+  Södre, 8.
+
+            T.
+
+  Tanngnyst, 37.
+  Tanngrisne, 37.
+  Tjalfve, 37, 41.
+  Tjasse, 64.
+  Tor, 19, 21, 36 följ.
+  Torre, 12.
+  Tredje (Þriði), 14.
+  Trudgälme, 6.
+  Trudheim, 37.
+  Trym, 48.
+  Trymheim, 64.
+  Tursar (Tussar), 16.
+  Ty, 19, 21, 55.
+  Töck, 52.
+
+            U.
+
+  Ud, 10.
+  Ull, 20, 21, 38.
+  Urd, 22.
+  Urds brunn, 26.
+  Utgård, 8, 24.
+  Utgårda-Loke, 43.
+
+            V.
+
+  Vaftrudne, 31.
+  Valaskälf, 32.
+  Vale (Lokes son), 73.
+  Vale (Odins son), 20, 21, 58.
+  Valfader, 29, 60.
+  Valgrind, 60.
+  Valhall, 32, 60.
+  Valkyrior, 61.
+  Vaner, 21, 64.
+  Vanaheim, 24.
+  Var, se Vår.
+  Vardande (Verdandi), 22.
+  Veor, 37.
+  Vestre, 8.
+  Vi, 7.
+  Vidar, 20, 21, 57.
+  Vidre, 29.
+  Vigrid, 77.
+  Vile, 7.
+  Vindheim, 78.
+  Vindlone, 10.
+  Vindsval, 10.
+  Vingolf, 13.
+  Ving-Tor, 37.
+  Vår (Var), 20, 34.
+  Våsud, 10.
+  Väderfalne, 26.
+  Vägtam, 29.
+  Vättar, 19.
+  Völund, 18.
+
+            Y.
+
+  Ydalar, 38.
+  Ygg, 29.
+  Yggdrasil, 25.
+  Yme, 6.
+
+            Å.
+
+  Åka-Tor, 37.
+  Ångerboda, 73.
+  Årvak, 9.
+  Åsar, 19.
+  Åsgård, 13, 24.
+  Åsynjor, 20.
+
+            Ä.
+
+  Älle, 45, 46.
+  Ämbla, 14.
+
+            Ö.
+
+  Ödhumla, 7.
+  Öge, 47.
+  Öjsa, 12.
+  Örgälme, 6.
+  Östre, 8.
+
+
+
+FOTNOTER.
+
+[1] Jfr C. Säve: Om de Nordiska Gudanamnens betydelse.
+
+[2] De forn-nordiska (isländska) namnens betydelse och härledning blifva på
+    detta sätt öfverallt angifna.
+
+[3] Efter en framställning af skapelsen allt ifrån början och intill
+    människan följer en allmän betraktelse af de väsenden, som framträda i
+    lifvet och den verld, i hvilken de röra sig.
+
+[4] De gamle nordboar plägade gifva en gåfva åt barnet, när det fick sin
+    första tand.
+
+[5] Ordet _gautr_ återfinnes i _Götar_ samt i namnet _Gustaf_, fordom
+    _Göstaf_, Göts eller Odins staf. Jfr Säve: Om nordiska gudanamnens
+    betydelse.
+
+[6] Att detta namn i Svenskan blifvit återgifvet med _Gångråd_, såsom af
+    Afzelius m. fl., är, såsom synes, orätt.
+
+[7] »På grund af identiteten mellan _fri_ och _Frigg_ är det också nästan
+    troligt, att _Fredagen_ är uppkallad efter denna gudomlighet och icke
+    efter _Freya_, såsom det vanligen eljes antages; ty i detta fall borde
+    det heta _Fröje-_ eller _Fröjdag_, icke Fredag, hvilket sista åter mera
+    öfverensstämmer med det isl. _friádagr_, dalska _friådag_, gotländska
+    _fridag_» (C. Säve: Om de nordiska gudanamnens betydelse).
+
+[8] Efter äldre Eddan synes det, som om de onda människornas straff i
+    Nifelheim (Nåstrand) går före Ragnarök och att de dervid försvinna med
+    Häl och alla onda makter. Således uppstå blott åsarne, derför att de
+    till sitt väsen äro goda, af sig sjelfva i den nya verlden; och den nya
+    människoätten, som härstammar från Lif och Liftrase, är god och salig
+    och kan derför intet straff lida. Emellertid har redan Snorre i den
+    yngre Edda och efter honom de fleste uttolkare satt Nåstrandsstraffen
+    efter Ragnarök, i det de sätta vers 41, 42, 43 i Völuspá efter vers 62
+    (Dorph, sid. 34).
