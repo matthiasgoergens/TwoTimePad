@@ -1,0 +1,224 @@
+Janvier 1993 > L'Online Books Page, un répertoire de livres en accès
+libre
+
+L'Online Books Page est créée en janvier 1993 par John Mark Ockerbloom
+pour répertorier les oeuvres de langue anglaise en accès libre sur le
+web. A cette date, John Mark Ockerbloom est doctorant à l'Université
+Carnegie Mellon (Pittsburgh, Pennsylvanie, États-Unis). En 1999, il
+rejoint l'Université de Pennsylvanie pour travailler à la R&D
+(recherche et développement) de la bibliothèque numérique de
+l'université. A la même époque, il y transfère l'Online Books Page,
+tout en gardant la même présentation, très sobre, et il poursuit son
+travail d'inventaire dans le même esprit. Ce répertoire recense 12.000
+livres en 1999, 20.000 livres en 2003 (dont 4.000 publiés par des
+femmes), 25.000 livres en 2006, 30.000 livres en 2007 (dont 7.000
+livres du Projet Gutenberg) et 35.000 livres en 2010.
+
+Avril 1993 > ABU: la bibliothèque universelle, première bibliothèque
+numérique française
+
+Créée en avril 1993, ABU: la bibliothèque universelle (ABU signifiant:
+Association des bibliophiles universels) est la première bibliothèque
+numérique française à voir le jour, à l'initiative de l'association du
+même nom, basée à Paris. Ses membres  bénévoles scannent ou
+dactylographient eux-mêmes des oeuvres francophones du domaine public.
+En janvier 2002, les collections comprennent 288 textes de 101 auteurs.
+Il ne semble pas que d'autres textes aient été ajoutés depuis.
+
+Juin 1993 > Le format PDF et l'Acrobat Reader, lancés par Adobe
+
+Lancé en juin 1993 par la société Adobe, le premier logiciel de lecture
+(gratuit) est l'Acrobat Reader, qui permet de lire des documents au
+format PDF (Portable Document Format). Le format PDF permet de figer
+les documents numériques dans une présentation donnée, pour conserver
+les polices, les couleurs et les images du document source, quelle que
+soit la plateforme utilisée pour le créer et pour le lire. Le logiciel
+Adobe Acrobat (payant) permet de convertir n'importe quel document au
+format PDF. Au fil des ans, le format PDF devient une norme
+internationale de diffusion des documents électroniques, et l'Acrobat
+Reader est disponible dans plusieurs langues et pour diverses
+plateformes (Windows, Mac, Linux). Il s'enrichit aussi d'une version
+PDA pour le Palm Pilot (en mai 2001) puis pour le Pocket PC (en
+décembre 2001). En 2003, 10% des documents disponibles sur l'internet
+seraient au format PDF.
+
+Juillet 1993 > L'E-zine-list, une liste de zines électroniques
+
+Abrégé de fanzine ou magazine, un zine est généralement l'oeuvre d'une
+personne ou d'un petit groupe. Quant au e-zine, abrégé de zine
+électronique, il est uniquement diffusé par courriel ou sur un site
+web. Le plus souvent, il ne contient pas de publicité, ne vise pas un
+profit commercial et n'est pas dirigé vers une audience de masse. Les
+e-zines sont répertoriés dans l'E-zine-list, une liste créée en été
+1993 par John Labovitz. En cinq ans, de 1993 à 1998, les quelques
+dizaines d'e-zines deviennent plusieurs centaines - avec 3.045 e-zines
+recensés en novembre 1998 - et la signification même d'e-zine s'élargit
+pour recouvrir tout type de publication publiée par voie électronique,
+même s'«il subsiste toujours un groupe original et indépendant
+désormais minoritaire qui continue de publier suivant son coeur ou de
+repousser les frontières de ce que nous appelons un e-zine» (John
+Labovitz).
+
+Novembre 1993 > Mosaic est le premier logiciel de navigation
+
+Développé par le NSCA (National Center for Supercomputing Applications)
+à l'Université de l'Illinois (États-Unis) et distribué gratuitement à
+partir de novembre 1993, Mosaic est le premier navigateur destiné au
+grand public et contribue largement au développement rapide du web.
+Début 1994, une partie de l'équipe de Mosaic émigre dans la Netscape
+Communications Corporation pour développer un nouveau logiciel sous le
+nom de Netscape Navigator. En 1995, pour concurrencer le Netscape
+Navigator, Microsoft crée l'Internet Explorer. Viennent ensuite
+d'autres navigateurs, comme Opera ou Safari, le navigateur d'Apple.
+
+Janvier 1994 > L'annuaire de l'UREC, un annuaire de sites francophones
+
+L'UREC (Unité réseaux du Centre national de la recherche scientifique)
+lance début 1994 le premier annuaire de sites web francophones, en
+recensant d'abord les sites académiques avant de devenir un annuaire
+plus généraliste. L'annuaire de l'UREC a pour but de se familiariser
+avec le web sans se noyer dans la masse d'informations mondiale, et de
+faire connaître les sites qui fleurissent en langue française sur la
+toile. D'autres annuaires voient ensuite le jour, dont certains débutés
+avec l'aide de l'UREC. Le nombre de sites web, y compris commerciaux,
+augmente de manière exponentielle, si bien que la gestion d'un annuaire
+généraliste devient difficile. En juillet 1997, considérant sa mission
+comme accomplie, l'UREC arrête la mise à jour de cet annuaire
+généraliste, et le remplace par un annuaire spécialisé consacré à
+l'enseignement supérieur et à la recherche.
+
+Février 1994 > Le premier site web lancé par une bibliothèque
+
+La première bibliothèque présente sur le web est la Bibliothèque
+municipale d'Helsinki (Finlande), qui inaugure son site en février
+1994. Par ailleurs, des bibliothèques mettent sur pied des
+«cyberespaces» à destination de leurs lecteurs. D'autres bibliothèques
+font connaître les joyaux de leurs collections par le biais du web, en
+créant des bibliothèques numériques. Des bibliothèques nationales
+unissent leurs efforts pour créer un portail commun. Et enfin les
+catalogues migrent en ligne et deviennent collectifs à l'échelle d'une
+région, d'un pays ou de la planète.
+
+Mai 1994 > La Human-Languages Page, un catalogue de ressources
+linguistiques
+
+Créée par Tyler Chambers en mai 1994, la Human-Languages Page est un
+catalogue détaillé de 1.800 ressources linguistiques dans une centaine
+de langues (en septembre 1998), avec plusieurs grandes rubriques:
+langues et littérature, écoles et institutions, ressources
+linguistiques, produits et services, organismes, emplois et stages,
+dictionnaires et cours de langues. Au printemps 2001, la Human-
+Languages Page fusionne avec le Languages Catalog, une section de la
+WWW Virtual Library, pour devenir iLoveLanguages. iLoveLanguages offre
+2.000 ressources linguistiques dans une centaine de langues en
+septembre 2003, et 2.400 ressources linguistiques en septembre 2007.
+
+1994 > Athena, une bibliothèque numérique multilingue
+
+Fondée en 1994 par Pierre Perroud, professeur au collège Voltaire à
+Genève (Suisse), Athena est une bibliothèque numérique multilingue
+hébergée sur le site de l'Université de Genève. Elle propose à la fois
+des séries de liens vers des oeuvres en accès libre sur le web et des
+oeuvres numérisées par les soins d'Athena. En 1997, le site bilingue
+français-anglais donne accès à 3.500 textes électroniques dans des
+domaines aussi variés que la philosophie, les sciences, la période
+classique, la littérature, l'histoire, l'économie, etc. En décembre
+1998, les collections comprennent 8.000 textes. Un des objectifs
+d'Athena est de mettre en ligne des textes de langue française. Une
+section spécifique (Swiss Authors and Texts) regroupe les auteurs et
+textes suisses. On y trouve aussi un répertoire mondial des ressources
+littéraires en ligne (Athena Literature Resources). Par ailleurs,
+Athena propose une table de minéralogie qui est l'oeuvre de Pierre
+Perroud et qui est consultée dans le monde entier.
+
+1994 > La NAP: des livres numériques en accès libre pour favoriser la
+vente des mêmes livres imprimés
+
+Éditeur universitaire, la National Academy Press (qui deviendra plus
+tard la National Academies Press) publie environ 200 livres par an,
+surtout des ouvrages scientifiques et techniques et des ouvrages
+médicaux. En 1994, l'éditeur choisit de mettre en accès libre sur le
+web le texte intégral de plusieurs centaines de livres, avec l'accord
+de leurs auteurs, afin que les lecteurs puissent les «feuilleter» à
+l'écran, comme ils l'auraient fait dans une librairie. Pour l'éditeur,
+le web est un nouvel outil de marketing face aux 50.000 ouvrages
+publiés chaque année aux États-Unis. Une réduction de 20% est accordée
+pour toute commande faite en ligne. La présence de ces livres sur le
+web entraîne aussi une augmentation des ventes par téléphone.
+L'expérience est un succès. En 1998, le site de la NAP propose le texte
+intégral d'un millier de titres.
+
+1995 > La MIT Press tente la même expérience
+
+La solution choisie par la NAP est adoptée dès 1995 par la MIT Press
+(MIT: Massachusetts Institute of Technology), qui voit rapidement ses
+ventes doubler pour les livres disponibles en version intégrale sur le
+web. Ces initiatives sont saluées par d'autres maisons d'édition, qui
+hésitent cependant à se lancer dans l'aventure, et ce pour trois
+raisons: le coût excessif qu'entraîne la mise en ligne de milliers de
+pages, les problèmes liés au droit d'auteur, et enfin  la peur d'une
+«concurrence» entre la version numérique gratuite et la version
+imprimée payante, qu'ils estiment nuisible aux ventes.
+
+1995 > L'Internet Dictionary Project, pour des dictionnaires
+coopératifs en ligne
+
+Parallèlement à la Human-Languages Page, qu'il a créée en mai 1994,
+Tyler Chambers mène un deuxième projet relatif aux langues, l'Internet
+Dictionary Project, un projet coopératif ouvert à tous lancé en 1995
+pour la constitution de dictionnaires en accès libre sur le web, de
+l'anglais vers d'autres langues (allemand, espagnol, français, italien,
+latin et portugais). Faute de temps, Tyler cesse d'actualiser ce projet
+en janvier 2007, tout en laissant les dictionnaires existants tels
+quels sur le web pour consultation ou téléchargement.
+
+1995 > NetGlos, un glossaire collaboratif en ligne de l'internet
+
+NetGlos - abrégé de «The Multilingual Glossary of Internet Terminology»
+-- est lancé en 1995 à l'initiative du WorldWide Language Institute, un
+institut enseignant les langues via l'internet. NetGlos est un projet
+collaboratif en treize langues (allemand, anglais, chinois, croate,
+espagnol, français, grec, hébreu, hollandais/flamand, italien, maori,
+norvégien et portugais), avec la participation de nombreux traducteurs
+volontaires et autres professionnels des langues dans le monde entier.
+Il se poursuit pendant plusieurs années avant de disparaître.
+
+Février 1995 > Le site web du Monde diplomatique
+
+En février 1995 est mis en ligne le site web du mensuel Le Monde
+diplomatique, premier site d'un périodique imprimé français. Monté dans
+le cadre d'un projet expérimental avec l'Institut national de
+l'audiovisuel (INA), ce site est inauguré lors du forum des images
+Imagina. Il donne accès à l'ensemble des articles depuis janvier 1994,
+par date, par sujet et par pays. L'intégralité du mensuel en cours est
+consultable gratuitement pendant deux semaines suivant sa parution. Un
+forum de discussion permet au journal de discuter avec ses lecteurs.
+Quelques mois après, plusieurs quotidiens imprimés mettent en ligne un
+site web: Libération à la fin de 1995, Le Monde et L'Humanité en 1996,
+etc., tout comme la presse régionale, par exemple Ouest-France ou Les
+Nouvelles d'Alsace.
+
+Février 1995 > La presse anglophone en ligne
+
+Au Royaume-Uni, le Times et le Sunday Times font web commun sur un site
+dénommé Times Online, avec possibilité de créer une édition
+personnalisée. Aux États-Unis, la version en ligne du Wall Street
+Journal est payante, avec 100.000 abonnés en 1998. Celle du New York
+Times est disponible sur abonnement gratuit. Le Washington Post propose
+l'actualité quotidienne en ligne et de nombreux articles archivés, le
+tout avec images, sons et vidéos. Pathfinder (rebaptisé ensuite Time)
+est le site web du groupe Time-Warner, éditeur de Time Magazine, Sports
+Illustrated, Fortune, People, Southern Living, Money, Sunset, etc. On
+peut y lire les articles «maison» et les rechercher par date ou par
+sujet. Lancé en 1992 en Californie, Wired, premier magazine imprimé
+entièrement consacré à la culture cyber, est bien évidemment présent
+sur le web.
+
+Avril 1995 > Éditel, pionnier de l'édition littéraire francophone
+
+En avril 1995, Pierre François Gagnon, poète et essayiste québécois,
+crée Éditel, site pionnier de l'édition littéraire francophone. Après
+avoir été le premier site web d'auto-édition collective de langue
+française, Éditel devient un site de cyberédition non commerciale, en
+partenariat avec quelques auteurs maison, ainsi qu'un webzine
+littéraire. Un blog succédera à ces projets quelques années plus tard.
