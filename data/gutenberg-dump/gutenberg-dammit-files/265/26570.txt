@@ -1,0 +1,675 @@
+The text is taken from the 1912 Cambridge edition of Caius’s _Complete
+Works_. The editor’s general introduction says:
+
+  In this volume no attempt has been made to produce a facsimile
+  reprint. Even if such a design had been entertained, the great
+  variety of form in which the original editions were issued would
+  have made it impossible to carry out the re-issue with any
+  uniformity. Obvious misprints have been corrected, but where a
+  difference in spelling in the same work or on the same page--_e.g._
+  _baccalarius_, _baccalaureus_--is clearly due to the varying
+  practice of the writer and not to the printer, the words have been
+  left as they stood in the original. On the other hand the accents
+  in the very numerous Greek quotations have been corrected.
+
+Numbers in parentheses were printed in the gutter; they probably
+represent pages or leaves of the 1574 original. Sidenotes are shown
+in brackets.]
+
+
+
+           *       *       *       *
+
+
+
+  IOANNIS CAII
+  ANGLI,
+
+  De
+
+  Pronunciatione Græcæ & Latinæ
+  linguæ cum scriptione nova
+  libellus.
+
+
+[Lege lector & iudica.] Scripturus de noua Græcæ & Latinæ
+linguæ pronunciatione (3) & scriptione noua, spero me sine
+offensione cuiusquam id facturum. Libera enim regio hæc
+semper fuit, & liberos in ea oportet esse homines. Nequè
+enim quæ soluto animo familiariter scribi consuerunt,
+temporibus istis excluduntur: etsi plena grauitatis omnia
+sunt. Non enim ad graues aut exercitatos, sed leues &
+inexercitatos scribo: & eos ratione & usu doceo, quos nec
+usus nec longa vita instituit. Cum essem in Italia graues
+viros grauiter & cum decoro pronunciantes audiebam. Cum in
+Britanniam veneram, nouos viros, nouo quodam pronunciationis
+genere omnia personare offendebam. Hîc itaquè sic cogitabam
+apud me. Cum nec Romæ, nec in uniuersa Italia, imò verò cum
+nequè in Germania, Gallia, neque Belgia, nec alibi gentium,
+quàm in nostra Britannia ullum unquam verbum de
+pronunciatione illa noua, ullauè mentio aut significatio tum
+fuit, nouam pronunciationem alibi in usu non fuisse quàm in
+Britannia certò scire licet. Nequè ea tamen uniuersa, sed
+certo quodam loco, in quo per ea tempora oratores noui
+imperabant. Sic tamen hæc refero, ut eos propter literas
+aliasque virtutes vehementer amem & suspiciam: propter hæc
+verò laudem minimè. Cuius rei alioqui certè me cepisset
+admiratio, cum & Plautus scribat in Casina, vetera nouis
+esse meliora, ideoque sapientiores esse qui utuntur vino
+veteri, quàm qui nouo: qui veteres spectent fabulas, quàm
+qui nouas: qui vetera opera atquè verba, quàm qui noua: qui
+usitata, quam qui insueta: (4) qui veteres comœdias, quàm
+qui nouas: qui veteri denique nummo, quàm nuper nato. Thus
+quoque vetus nouo odoratius esse, prouerbio celebratur,
+usque adeò ut idem, rem malam, sed notam & usitatam, optimam
+esse dicat in Trinummo. Nam quæ noua sunt, etsi optima,
+tamen propter insolentiam videntur pessima, & fieri potest
+ut usu experiaris talia cum periculo, cum declinare non sit
+futurum integrum. Etenim sæpè viatorem noua non vetus orbita
+fallit. Quare vetustatem suo loco conseruandam, nouitates,
+etsi spem meliorum afferant, repudiandas esse Plautus
+consulit: nec nouitates nos magis ad inquirendas causas
+excitare, quàm magnitudines rerum debere: eosque errores
+quos rerum nouitates attulerunt, naturæ ratione depellere
+oportere M. Tullius existimat. Sed nostrorum hominum est,
+semper nouum cribrum, nouo paxillo primos suspendere, et
+nouas inducere sectas nouis paradoxis. Quod tamen, ut non
+reprehenderim ingenij exercendi causa in tenebris, ita non
+laudem certè usus causa in luce: quòd præter consuetudinem
+patriæ, præsentis temporis atque hominum sunt. In rebus
+ciuilibus dico. Nam aliò non pertinebit oratio mea. Curo
+enim ut mea omnia nullam habeant publicam offensionem, sed
+communem omnibus utilitatem. Quod si gaudeas excogitasse
+quod prosit, certè hic non est gaudendum tibi, obest enim
+magis quàm prodest, ut mox ostendam. Sed omnes obstrepunt.
+Quid solus ergo contendis? Si irrident quid pergis delirare?
+Quid solus sapis? Sed author es eius rei. O gloriosam rem,
+inuentorem esse inanium rerum? tranquillitatis literariæ
+perturbatorem esse? quem nec Galli, nec Itali, nec ipsi
+Græci commendant: nec alius quisquam præter imperitum rerum
+iuuenem aut temerarium adolescentem, cui istam persuasionem
+in principio per fraudem instillaueris alioqui non
+probaturo, imponens imperitæ turbæ (5) adolescentum, cui vix
+literæ sunt, & multò minus iudicium. De qua re tamen multum
+forsan gloriaberis tanquam in re prudenter gesta. Iam verò
+si magna res non sit utro modo pronuncies, cur interturbas
+omnia? cur non intermittis quod leue est, potius quàm
+castigari grauiter? Si sonus (res inanis) huius aut illius
+literæ mulctam indictam habet grandem, cur non inanitatem
+potius contemnis, quàm in mulctam incidas? Leuissimis rebus
+grauissimas indicere pœnas æquum est, non propter
+magnitudinem rei quæ leuis est, sed propter violatum
+in repub. ordinem receptum iam & confirmatum, propter
+contemptum, propter nouitatis exemplum, & propter temerarium
+in ea ausum. Nequè hic tanta pretia subesse cernimus,
+quamobrem tantas difficultates lubenter subiremus, etsi in
+alijs difficilia quæ pulchra. Licèt enim optima quæque &
+inuentu & conseruatu difficilia obseruentur, non tamen quæ
+non facilè inueniuntur & conseruantur statim optima
+reputantur, in quo genere ista tua est (si dijs placet)
+pronunciatio. Sed antiquitatem obijcis. Antiquata esse
+fatebor certè, antiqua videri non fatebor. Nam Aulus Gellius
+author grauis, antiquata & desita omnia, à multis sæculis in
+usum reuocata etsi vetusta sunt, videri tamen noua sapienter
+censuit. Etsi antiqua videantur, per hominum errorem id
+quidem contigit, ignorantium cuiusquam rei proprietatem.
+Sallustius præsentium rerum retinentissimus semper
+consuetudini cessit. Ælius Gallus atque Cicero noua perpetuò
+fugiebant, adeò ut nouissimus & nouissimè haud libenter usi
+sunt. Gellius reprehendit eos qui obsoleta in usum reuocant.
+Phauorinus Philosophus nouitatis hostis, adolescentem
+inusitatorum studiosum, acriter corripuit, dicens: Curius
+& Fabritius (6) dilucidè cum suis fabulati sunt, neque
+Auruncorum, Sicanorum aut Pelasgorum (qui primi Italiam
+incoluisse leguntur) sed ætatis suæ verbis locuti sunt: tu
+verò perindè quasi cum matre Euandri nunc loquaris verbis
+iam olim desitis uteris. Quod si intelligi non vis quæ
+loqueris, non hoc abundè consequeris tacens? quasi satius
+esset non loqui quàm non intelligi. Demonax quoque
+philosophus idem faciebat. Quum enim à quopiam quæsiuisset
+aliquid, atque ille verbis obsoletis atquè priscis
+responderet. Ego (inquit) amice te nunc percontor: at tu
+perinde respondes quasi regnaret Agamemnon. Sorbona etiam
+(quam Robertus Sorbona, non Caroli imperatoris frater
+Theologis Lutetiæ instituerat) aliquot Raimundi Lullij opera
+reiecit, quòd vetustis vocabulis iamdiu receptis & usitatis
+reiectis, noua infulserit. Crassus Sulpitium arguebat, quòd
+tollendo .i. literam de diphthongo ei, non antiques
+oratores, sed rusticos messores videretur imitari, ut est
+apud M. Tullium 3. de oratore. Catullus Arcij hinsidias
+atque chommoda deridebat: quid facturus si Quinctilianos
+atquè Quinctios, ut nunc loquuntur atque scribunt,
+Chicherones atque Quinctos, Kikerones & Kicherones, pecuniam
+& peguniam, coilum chœlum & cœlum, cernos & chernos,
+discipulos & dischipulos iam audiret: quibus multi hodiè
+utuntur loquendo & scribendo, sermonis atque scriptionis
+vitia imitati, non virtutes consecuti. Ad hæc Lacedæmonij
+quòd simplicia atque consueta placuerunt, Terpandrum
+præstantissimum Citharædum mulctasse dicuntur, quòd unam
+solam chordam præter necessitatem intendisset. Ad extremum
+Romani, rhetores Latinos & philosophos edicto urbe Roma
+pepulerunt, quòd nouum genus disciplinæ instituerunt. Noua
+enim Romanis, viris certè in omni re sapientibus quæ præter
+consuetudinem & morem maiorum (7) suorum illata sunt, neque
+placuerunt, neque recta videbantur. Eam ob rem M. Cicero
+in oratione contra Catelinam refert, Seruilium Halam,
+Sp. Melium nouis rebus studentem sua manu occidisse. Nihil
+enim periculosius in usu vitæ esse rebantur, quàm veteribus
+relictis ad noua deuolare. Nam inconstantia magnam ipsa
+in se leuitatem habet, subitaque consuetudinis, & usus
+commutatio, plena maximarum rerum Cic. de offensione est.
+[Cic. de senect.] Quamobrem sapienter M. Cato, qui Appium
+senect. cæcum laudat, quòd vigebat in eius domo patrius
+mos & disciplina. Sapienter veteres, qui legibus antiquis,
+opsonijs verò recentibus utendum censuerunt. Sapienter &
+Iurisconsulti, qui nihil temerè innouandum nisi euidens
+ratio postulauerit, præcipiunt. Hinc factum existimem, ut
+scholæ iuris nostri publici nullo modo adduci possunt, ut
+relinquant suum _octabis_: nec scholæ quædam Academicæ ut
+deficiant à suis sotulis, cum artium magisterio initiandi
+sunt: aut ocreis, cum SS. Theologiæ Doctoratus gradu
+insigniendi sunt: aut ouis vario modo præparatis cum in
+determinationibus Bacchalaurei nouitij, seniores sui gradus
+conuiuijs excipiant: nec in disputationibus, sedentibus
+disputatoribus, ut auditores humi non procumbant, fusi per
+densum substratum iuncum: nec ut caputium patientiamque quam
+vocant stamineam (peculiare gestamen collegis Hispanorum
+Collegij apud Bononienses) deponant Hispani Bononiensis
+Academiæ. Quos omnes laudo equidem, quod leuibus momentis
+non impellantur huc atque illuc inconstanter, nec a veteri
+sua consuetudine auellantur desciscantque facilè: ut
+nonnullæ solent Academiæ in quibus leuitas iuuenilis magna
+paruis, quadrata rotundis, & formas formis mutat imprudenter
+admodum, nullo seruato ordine, nulla (8) consuetudine aut
+grauitate. Certè mihi videntur illi planè cuculi atque oues,
+qui eos, qui ut homines pronunciare iamdiu usi sunt,
+abolitis cuculorum atque ouium vocibus, eodem reuocare
+velint, atque ex obscuris ænigmatibus & antiquis cum
+difficultate discere studeant, quæ viua vox, certus
+præsensque usus cum facilitate clarè possunt docere.
+Synesius Cyrenensis in laudatione Caluicij, & Lacedæmonij in
+legibus, grauiora suadent in eos qui præter consuetudinem
+patriæ aliquid intulerunt: puta cicutam, & suspendium.
+Etenim Synesius eos qui præter consuetudinem patriæ aliquid
+innouarant cicuta dignos existimat, quod rudes & indocti
+absurdarum opinionum fautores esse consuerunt, existimans
+cum prouerbio: Superiorum temporum omnia meliora, quòd & usu
+confirmata sunt, & pace tranquilla, cuius & vox dulcis et
+res ipsa salutaris est. Lacedæmonij verò usque adeò
+formidabant rerum nouitates, atque etiam ad earum
+recordationem tantopere inhorrescebant, ut lege lata
+sanciuerint, ne quis innouare quicquam auderet, qui chorda
+è collo suspensa prius non prodiret, ut si de nouitate
+consilium parum placeret, audaciæ suæ pœnas daret. Etenim
+euentus varios res noua semper habet, ut Cornelius Gallus
+scribit, & magna ex parte periculosos: sic ut siue vi
+imperare velis hanc pronunciationem nouam, siue stultitiæ
+blandimentis iuuentuti instillare, importunum hac ætate
+facis, mouere quæ stabilita sunt, cum præsertim omnium rerum
+mutationes cædem, fugam, aliaque hostilia (ut Sallustius
+ait) portendant. [In bello Iugurth. fol. 35.] Usque in
+ciuilibus consisto, omnia enim secundum materiam subiectam
+intelligo. Ex quibus scire licet nequè antiquata in usum
+esse reuocanda, neque noua esse amplectenda, neque extra
+publicam viam esse deflectendum, sed cum (9) pronunciationis
+antiquitas euanuerit (si aliter olim pronunciarunt quàm
+hodiè nos proferimus) usum scientiamque præstare nos debere
+eius, qua præsentes utimur: uti docti viri solent, qui
+scientiam sibi reseruant, usum autem loquendi populo
+concedunt, qui loquendum ut multi, sentiendum ut pauci
+sapienter præcipiunt, nec immutandum quicquam inconstanter
+censent: nec mouenda esse rerum nouitatibus quæ bene
+constituta et confirmata sunt existimant, etsi vetustatis
+speciem sibi induant. Etenim non est quamobrem in hac benè
+confirmata repub. literaria quis velit iam dicere, ore sanè
+agresti atque rudi, _queis_ pro _quibus_, nec _veias_ pro
+_vias_, nec _olli_ pro _illi_, _mareito_ pro _marito_, nec
+_maxumè_ pro _maximè_, nec _sueuerat_ pro _consueuerat_,
+nec _deico_, _eidus_, _pulchrai_, _veitæ_, _ubei_, _quei_,
+_heic_, _fœminai_, _suom_, _deilexit_, _horunc_, _abei_,
+_erodita_, _pictai_, _aulai_, _nepai_, quæ iam obsoleuerunt,
+& repetita molesta sunt, & interturbant omnia, pro _dico_,
+_idus_, _pulchræ_, _vitæ_, _ubi_, _qui_, _hic_, _fœminæ_,
+_suum_, _dilexit_, _hunc_, _abi_, _erudita_, _pictæ_,
+_aulæ_, _nepæ_, ut nec multa alia propter carminis
+necessitatem, aut alijs propter affectationem, non propter
+meliorem scribendi aut pronunciandi rationem usitata. Nequè
+enim propter insolentiam aures eruditorum hæc ferre possent,
+nisi quod Poetis libero hominum generi propter eorum ligatam
+orationem semper fuit potestas quidlibet audendi. Exit in
+immensum facunda licentia vatum: inquit Ouidius: Obligat
+historica nec sua verba fide. Hinc apud eos, Tmolus habet
+aures, saltant quercus, aues loquuntur, et saxa fiunt
+homines. Utuntur tamen hodiè haud dissimili pronunciandi
+genere, quod Borealismum seu Scotismum nominamus
+(quemadmodum Alcibiades Labdacismo) quia Borealibus Anglis
+(quos Calidonios Britannos Lucanus vocat) atquè Scotis (10)
+vicinis est in usu, dum _saibai_, _taibai_, _vaita_, _aita_
+dicant, cum _sibi_, _tibi_, _vita_, _ita_, pronunciandum
+sit. Mordicus tamen retinent non ratione sed pertinacia, &
+petulantia: etsi australibus Anglis ita vulgo contemnitur
+hoc pronunciationis genus, ut Phaliscis seu Thuscis
+Bergomense apud Italos. Est enim rudis & inconditi vulgi,
+quibus ut est decorum patrio more loqui: ita australibus
+Anglis valdè indecorum alio uti quàm suo. Licet tamen hic
+contemplari iudicium iuuentutis, quæ vitia pro virtutibus
+amplectitur, ut solet vulgus Aulicorum, qui camisias
+crispatas, & cothurnos coriaceos inducunt ornamenti causa,
+qui principio causa contegendi crura, & colla morbida, ad
+quotidianum usum sunt inuenta. Nam olim & nostra memoria
+cum sana essent omnia, nec cothurnis utebantur, & denudata
+virorum colla erant ad pectus, & pectora expapillata (ut
+Plauti verbo utar) atquè ad papillam denudata, etiam brumali
+tempore. Sed hæc obiter de Borealismo. Ad diphthongos iam
+paucis venio. De quibus etiam Iurisconsulti aliter sentiunt,
+quàm noui isti pronunciationis authores. Theophilus enim
+Antecessor cum vellet uti aliena lingua, non πραϊτωρ dixit
+diuisa diphthongo, sed πραιτωρ & prætores, unita. Cuius rei
+non alium magistrum, quàm eius temporis usum reor: qui & ad
+nostrum usque promanarit, & per omnem orbem disseminatus
+& receptus est. Quod si non lubenter ferant, quin
+diphthongorum omnes literas suis sonis ipsi exprimant,
+contra quàm vult receptus usus, quod voluntatis & petulantiæ
+error est, non necessitatis, at saltem alijs permittant ut
+in sua etiam sit voluntate sine reprehensione, veteri &
+recepto more pronunciare, maximè quod multi errores
+reperiantur apud authores (ut aiunt) ex diphthongis
+resolutis in simplices (11) literas. Noui tamen isti homines
+nescio quam commoditatem puerilem in docendo, pueris manare
+ex hac sua pronunciatione dicunt. Quasi verò Græcorum pueri,
+& qui hodiè utuntur veteri pronunciatione, linguam Græcam
+discere, sonare, & intelligere veteri illa nequiuissent,
+aut si quiuissent, non ita tamen commodè. Scilicet. Equidem
+puerile magis existimo quàm virile, puerileque esse
+argumentum puto. Nam si commodior ratio sit, (ut ita dem)
+non tamen vetustior est, quæ res in controuersia est,
+minusque arguit veteres sic pronunciasse, nec esse puerorum
+causa immutanda omnia aut subuertenda censeo. Id enim
+experimento didici, varietatem pronunciandi mutuum
+commercium & societatem hominum rerumque intellectum
+summouere: discordémque hanc pronunciationem sermonis
+commercio nunquam contracturam ad colloquia. Nequè enim
+Græcus Patriarcha cum istic regnante Edwardo sexto Londini
+esset, Checum, nec Checus Patriarcham intellexit: hic nouo,
+ille ueteri pronunciandi modo usus: quo omnes Græci adhuc
+utebantur cum ego essem Venetijs, tum è Cathedra Græcas
+literas profitendo, tum in templis sacra celebrando.
+Audiebam enim data opera sæpius. At si ego tacerem norit
+Oxoniensis schola, quemadmodum ipsa Græcia pronunciarit, ex
+Matthæo Calphurnio Græco, quem ex Græcia Oxonium Græcarum
+literarum gratia produxerat Thomas Wolsæus, de bonis literis
+optimè meritus Cardinalis, cum non alia ratione pronunciarit
+ille, quàm qua nos iam profitemur. Id si ita sit, nos
+Britanni docebimus ipsos Græcos in ipsa Græcia oriundos sua
+verba sonare? suas voces atque literas pronunciare? & plus
+in aliena lingua sapiens [[sapiemus?]] quàm ipsa gens atquè
+natio, cui lingua Græca familiaris atque etiam vulgaris est,
+& successione temporum continuata, tanquam per manus esset
+tradita? (12) Nemo qui Gallicè velit discere, ex Anglo
+petet, si sapiat, nec contra: nec qui Italicè, ex Germano,
+sed ex sua quæque gente sunt discenda. At si pueris
+instituendis prodesse posset, uti aiunt, usu publico posset,
+ut cum alijs usu conueniant in sermone ad intellectum.
+Nam si doceas quod usui publico esse non possit, quorsum
+doctrinam? Cogetur qui didicit dedidicisse, & eum
+pronunciandi modum discere qui in usu est, ut eo utatur cum
+in publicum prodierit, cum inter homines versatus fuerit, &
+cum in theatrum doctorum venerit: nisi velit haberi ineptus
+et ridiculum caput omnibus. Et qui docebit quoque ad istum
+modum, duplicabit operam & mercedem, uti Fabius Quintilianus
+scribit, tum ut prioris obliuisci instituat, tum ut
+insequentis pronunciationis rationem ostendat, discentis
+incommodo & labore graui, & temporis & compendij iactura
+grauiori, quæ rectius in principio potuissent collocari in
+meliores usus. At ad usum publicum profuerit minimè. Nam
+priuata hæc pronunciatio paucorum tantum hominum in
+Britannia est, & eorum iuuenum, alibi minimè recepta
+gentium. Sed hij pauci sic pronunciant, ut se mutuò
+intelligant, dices. At orbis uniuersus non est ista
+paucitas. Nec paucis priuato loco atque usui doctrina
+constituitur, sed publico & uniuerso, ut inter homines
+cuiusque regionis cum laude linguæ, & ingenij gloria
+verseris. Quamobrem ne docendo quidem, ullo modo ad usum
+publicum conducet ista noua pronunciatio. Hactenus ergo
+vetus illa pronunciatio nihil prohibuit, quin & rectè
+loquerentur homines, & per orbem uniuersum intelligerentur,
+sic ut non sit opus noua. Sed ita pronunciandum sentis ut
+discernas inter voces, inter vocales & diphthongos. Quasi
+verò usu, doctrina, sensu, (13) accentu, genere, quantitate,
+numero & casu nihil comprehendi, nihil discerni possit,
+nisi demittamus nos, descendamusque ad puerilem legendi
+simplicitatem, ac plenis buccis proferamus satis rusticè,
+Φοϊβος, _toutois_, _cai_, _lobois_, _mousais_, _basilews_,
+_epeiros_, _tuptomai_, _chreia_, _chresimos_, _apophugen_,
+_husteron_, _kibdes_, _cuclops_, _korakeion_, _lewcon_,
+_hippewein_, _wyos_, _pais_, & hoc genus alia: pro _phœbus_,
+_toutis_, (veteri more) _cha_, _louis_, _musæs_, _vasileus_,
+_epirus_, _typtomæ_, _chria_, _chrisimos_, _apophygen_,
+_ysteron_, _cibdis_, _cyclops_, _coracion_, _leucon_,
+_yppewin_, _yios_, _pæs_, unde pædotriba, non paidotriba:
+aut quasi nihil aliud esset quo dijudicaremus inter
+parere pro parturire, & parêre pro obedire in isto versu.
+Fœmina vult parere, sed non parêre lubenter, nisi crassa
+pronunciatio: eadem penè nota qua λοιμός & λιμός in
+pronunciatione, non tamen in scriptione. Nam inter λοιμος &
+λιμος in scribendo manifesta est differentia. Apollo tamen
+videtur limos dixisse & pronunciasse veteri Græcorum more,
+alioqui nulla fuisset dubitatio in oraculo. Certè antiqui
+_Achilles_, _Tydes_, _Theses_, & _Ulisses_ dicebant, non
+_Achillews_, _Tudeus_, _Thesews_, et _Ulussews_ quemadmodum
+recentes: uti ex eorum & interpretum libris ea adhuc
+referentibus scire licet. Quod si olim Græci eo quo recentes
+isti modo crassius, durius, & asperius pronunciarunt, (quod
+acerrimè isti defendunt, cum dicunt Græcos) etiam tum Græci
+erant Barbari, cum ex omnibus gentibus soli non habebantur
+Barbari. Barbari enim ab initio dicti sunt (ut inquit
+Strabo) qui crassè, difficulter, asperè atque duriter
+loquebantur: in quorum genere fuerunt omnes gentes præter
+Græcos: à quibus postea (corrupta Græcia) barbara ea
+appellatio ad omnes præter (14) Latinos translata est, quòd
+mitiorem linguam & isti habebant et magis cultam. Si quis
+tamen ex Latinis esset qui non rectè verba proferebat,
+barbarè loqui etiam ille dicebatur. Sed pergo. An sapientem
+Hebræum putares, si puerorum causa renunciata omnino
+perfecta illa & absoluta sine punctis legendi ratione, ad
+punctorum rationem et simplicitatem in uniuersum deficiat?
+An non omnes tanquam infantem & ineptum dicerent? Nisi velit
+primùm suos Tyrones per punctos ad lectionem introducere,
+ac tum ad absolutam illam legendi rationem sine punctis
+traducere: quod laboriosum esset geminique operis. Rursus
+an sapientem Gallum qui rudiorum causa velit rudius
+pronunciare, & aliter quàm vulgus Gallorum solet, & eas
+literas in voces inserere, quas usus excludit. Doctos enim
+docta decent, indoctos formare possunt docti pro arbitrio,
+seorsim, sine uniuersitatis dissolutione, & ita instituere
+prout optimum cuique videbitur, modò non deficiant à
+consuetis, nec in dicendo & scribendo nouas turbas excitent,
+noua dogmata non introducant cum reipub. literariæ
+inquietudine, & personarum offensione. Ut si quis vellet
+docere priuatim legendum _homo_ non _omo_, & _hupsilon_ non
+_ypsilon_, vel ἱpsilon ferendum fuit, modò doceat admonendi
+non utendi causa (ut prudentes solent qui (ut dixi)
+scientiam sibi seruant, usu autem ut populus loquuntur)
+quod h. non sit litera, sic ut faciat vocem ut vocalis, aut
+liquescat ut liquida, aut consonet ut consonans, aut mutet
+ut muta, sed aspiret tantùm ut spiritus, ac ventus leuis
+sine voce. Eam ob causam apud scriptores veteres, leges
+_ydropisis_, _termæ_, _Batonia_ & _Iuernia_, pro
+_hydropisis_, _thermæ_, _Bathonia_ & _Hybernia_, uti in
+libro nostro de thermis Britannicis, et Symphonia vocum
+Britannicarum annotauimus. Istas tamen (15) ineptias Deus
+bone, quàm mordicus retinent noui isti et defendunt (ut sibi
+quidem videntur) pertinaciter, cum nullo tamen modo iustis
+rationibus possint. Iuuenes si hîc ineptirent solùm duce
+iuuene, ferendum fuit. Iam verò cum audiam senes delirare
+hijs ineptijs, quid intollerabilius? Nam hos iudicium,
+ratio, & experientia doceret. Præterea in senecta ætate
+ludere par impar, equitare in arundine longa, quouis vento
+agitari, nihilquè constantis hominis habere indecorum est.
+Cicero in Bruto notat ætatem quæ ante se fuit, in qua
+Ennius, Liuius, & L. Sisenna erant, quorum stilus erat (ut
+ille ait) horridior, nec dum perfectè loquebantur. Sua autem
+ætate unctior & splendidior consuetudo loquendi fuit. Et
+quamuis (inquit) L. Sisenna facilè omnes vincat superiores,
+indicat tamen quantùm absit a summo. Nam usus est aliquando
+veteribus verbis, & ab usu perfecto, & auribus eruditis
+remotis. Rectè enim loqui putabant esse, inusitatè loqui.
+Idem eodem in Bruto nimiam vetustatem explodendam monet.
+Sed nimia (inquit) vetustas nec habet eam quam quærimus
+summitatem, nec est sanè tolerabilis. Ego igitur hortator
+essem, ut a suscepta hac nuper (si omnino suscepta fuit)
+desitáque olim pronunciatione desistant, qui utuntur: si non
+propter has quas ante retuli causas, at certè propter hæc
+quod eadem pronunciatione honestissima verba turpissimè
+sonent, ut _ascitum_ & _asciscunt_ apud nostros. Etenim
+in harum vocum prima, si c. proferas ut ch. & in secunda
+utrumque c. ut k. more nouo, utrumque vocabulum tanta
+turpitudine proferetur, quanta non sinit verecundia mea
+explicare. Quamobrem malui rem tacita cogitatione præterire,
+quàm dilucidius patefacere: cupio enim rebus adesse nomina,
+sed non nominibus pudorem. Sed (16) superciliosorum
+Grammaticorum maximè culpa hæc pronunciatio Latina
+introducta est, cùm nescio qua æmulatione alter alterum
+nouitate aliqua studeat superare. Id quod exemplo cuiusdam
+amici adhuc viuentis, qui in schola Paulina atquè item
+Antonina Londini educatus iam olim est, didici. Etenim cum
+in ludo literario diui Pauli erat, docebatur sonare docheo
+pro doceo: cum in scholam S. Anthonij idem venerat, iussum
+est proferre dokeo pro doceo: nullo planè discentium
+commodo, sed ne docentium quidem: tantùm inseruitum est
+istorum libidini quorum præceptum id erat, pronunciationis
+vitio, & pubertatis incommodo. Itaque imponendus modus est,
+alioqui nullus futurus finis est, hoc isto, illo alio modo
+verba proferente atquè scribente. Nam & in scriptione quoque
+noua ratio hodie proponitur. Sed nemo (quod sciam) usquè
+adeò desipuit hactenus ut sequi vellet, ne author quidem
+eius. Neque enim cæcum ducem, nequè amentem consultorem.
+Quod si quis vellet, at constituenda illi schola noua
+scribendi & legendi fuit, dediscendáque quæ didicit omnia,
+& innouanda omnia omni populo, euersis quibus hactenus
+usi sumus omnibus: usquè adeò mobilia sunt hodiè hominum
+ingenia in istis nugis, ut nihil fixum, nihil in perpetuum
+constitutum habeant. Nec unum nugandi genus est in
+scribendo, sed diuersum, hic uno, ille altero usus modo:
+hic nouam literarum formam & pronunciationem commentus, ille
+alteram: & eas ineptas sanè et insulsas, etiam simplicibus
+mulierculis. Non est tamen tam stupidus quisquam, aut
+impudens & insulsus rei alicuius nouæ author, qui non sit
+habiturus suæ stultitiæ fautores et sectatores, vel homines
+adolescentes, vel stultam plebeculam: at grauem virum cui
+sit iudicium, ne unum quidem. Nisi si fortè (17) ingenij
+sui ostentandi causa hoc fecerint, ut Isocrates laudando
+Busyrim, Libanius Thersitem, Lucianus Muscam, Quartanam
+Fauorinus, Caluiciem Synesius Cyrenensis, Comam Dion
+Chrysostomus, & nostri sæculi Cornelius Agrippa scribendo
+de vanitate scientiarum libellum: Copernicus de motu terræ
+& statione cœli volumen: et Erasmus Rhoterodamus de febre &
+Phalarismo libellos. Nam rhetores subinde animi causa solent
+tractare materias ἀδόξους, & exercendi gratia argumentum
+infame declarare. Ita si de pronunciatione noua & scriptione
+noua sensissent noui isti authores, & cum præfatione sensus
+sui hoc esse suum commentum dicerent, non ad usum atque
+professionem, sed ad ingenij gloriam & exercitium, æquior
+essem, amplectererque certè lubens. Alioqui videant illi,
+quàm nihil aliud quàm suam traducant infantiam, nec esse
+consecuturos aliquando ut grauia ingenia flectant ad suas
+nænias. Reliqua si sequacia fuerint, quæ gloria erit? Mallem
+unum grauem virum consentientem mihi mille iuuenibus: ut
+quibus nec dum per ætatem confirmatus animus est, nec
+maturum iudicium, nec usu experimentum, etsi grauissimè de
+se sentiant: cum tamen vestitu, gestu, & oratione longè se
+ostendant alios, ut in lib. 1 de Antiquitate Cant. Academiæ
+plenius diximus. Nam ut in vijs peregrinus, sic in rebus
+imperitus. Certè istis nouitatibus, istis modis, nihil aliud
+quàm sterilis labor, sterilísque difficultas sequitur in
+promendo cum multorum risu: quòd ea rustica sit et simplex,
+parum condita et delicata, affectatione quadam ineptè
+acquisita, nec erudite ore digna: denique quòd doctas
+aures vehementer offendit, ingrata planè & odiosa omnibus,
+præterquam nouitatis studiosis. Nam suauitatis in sermone
+politiores scriptores semper fuerunt obseruantissimi.
+Siquidem maior ratio apud eos euphoniæ fuit, quàm disciplina
+(18) regulæ. Hinc Græci angelos phormingos, & papæ proferre,
+præcepto usuque imperarunt, cum ἄγγελος, φόρμιγγος, & Βαβαὶ
+rudius proferendum alioqui fuit: et Romani _dingnum_ cum
+_dignum_, _pungnum_ cum _pugnum_, & _mangnum_ cum _magnum_
+sit dicendum: ut mitigetur pronunciationis difficultas, &
+euitetur soni vitium, quod Græci κακοφωνίαν dicunt. Quin &
+Itali Romanorum soboles eadem de causa id pronunciandi genus
+adhuc obseruant, qui ne magnum dicant duriter, maignum
+sonant molliter: et dingnum, ne dignum. Britanni quoque
+atquè Galli Romanorum æmuli, ne magnum dicant, main
+proferunt, ut _Charles le main_, Carolus magnus: _le main
+see_, magnum mare: et in alearum usu, _the main chaunce_,
+sors magna: ac pro _est_, et, elisa .s. litera. Eadem
+suauitatis ratione ijdem omnes B. per v. in Græcis & Latinis
+dictionibus efferunt: et pro βικίου (id est ἀφακῆς) vitia,
+et pro Bienna Vienna, & pro βίκτορα victorem: & pro Abellana
+Auellana, non è contra dicunt. Et in vetustioribus Græcorum
+codicibus manuscriptis rarò videbis b. literam, sed eius
+loco characterem v. latinæ literæ similem. Latini quoque
+vetustiores, Vetonica pro Betonica dicunt, inter quos est
+Apuleius: et _Iuernia_ pro _Hibernia_, et _lauoro_ pro
+_laboro_, et _terra de Lauoro_, pro Laboriæ, (quo verbo
+Plinius utitur) quæ pars est Italiæ. Hos si damnes, utere
+licentia pro me, & in usum quoque reuocato si libet,
+_appludam_ et _floces vini_, pro furfuraceo pane, et fæcibus
+vini: Dubenum pro Domino, Bubsequam, Bouinatorem, et
+manticulatorem quoque, pro Bubulco, conuiciatore, et
+clanculario fure, seu versuto: ut habet Festus Pompeius,
+Pacuuius, et Aulus Gellius: et hoc genus obsoleta et
+inusitata omnia, quod nemo sanæ mentis faciet. Sin probes,
+à nouo illo pronunciationis genere vel horum exemplo
+desiste. Illud in (19) uniuersum te scire expedit,
+pronunciationis rationem dicendi rationi esse simillimam,
+quæ in medio posita (ut ait Cicero de Oratore) communi
+quodam in usu atquè in hominum more et sermone versatur.
+Nam ut in cæteris artibus id maximè excellit quod longissimè
+sit ab imperitorum intelligentia sensuquè seiunctum, ita in
+dicendo vitium est vel maximum à vulgari genere orationis,
+atquè à consuetudine communis sensus abhorrere. [De laude
+Caluicij.] Etenim qui ad populum scribit vel loquitur (ut
+inquit Synesius) necesse est illum in opinione popularium
+esse, et ea fingere, et de hijs disserere quæ populo grata
+sunt. Atquè ut histrioni actio, saltatori motus non quiuis
+sed certus quidam et laudabilis: sic in pronunciandi et
+scribendi genere, certum quoddam et communi usu receptum,
+non quoduis à consuetudine alienum et remotum habetur
+consentaneum. Non enim ea ratio esse debet apud nos in
+literis quæ in vestibus, quæ omnibus horis aliæ penè fiunt
+et diuersæ, aut materia, aut forma, aut colore, aut omnibus
+hijs. Unus enim vultus apud nos odiosus est. Cuius rei gnari
+non insolentes Grammatici, quotquot hactenus mihi vidisse
+contigit, omnes cum de literarum potestate tractant ita
+proferendas esse præcipiunt, ut usus doctorum per omnem
+reliquum orbem iam olim receperit. Inter quos Petrus
+Antesignanus est, homo doctus atque elegans, et Nicholai
+Clenardi scholiastes. Is de noua ista pronunciatione ita
+censet, ut eius authores curiosos magis existimet, quàm
+veteris pronunciationis intelligentes: et eorum rationes
+vaniores, quàm ut eis adhibenda fides sit: ob idquè
+pronunciandum veteri et recepto hactenus usu, existimans eum
+qui ex errore imperitæ iuuentutis pendeat, in magnis viris
+non esse habendum. Eius verba hæc sunt. Quarta columna, (20)
+&c. elementorum potestatem complectitur, quo pacto scilicet
+debeant enunciari, de qua re variæ sunt hodiè & multiplices
+Grammaticorum opiniones, dum quidam curiosè nimis ad
+antiquam pronunciandi rationem omnia volunt reuocare, cum
+tamen ipsi prorsus incerti sunt, quo pacto prisci illi hæc
+pronunciarunt, & coniecturæ sunt admodum ieiunæ. Illis
+itaque non est fides adhibenda, nisi prius priscorum aliquem
+ab inferis excitarint. Hæc ille. Et paucis interpositis,
+ista subiungit. Qui verò illis (professoribus) destituuntur,
+& proprio marte linguam Græcam discere coguntur, pronuncient
+elementa Græca more Latinorum Græcis in hac tabula
+respondentium. Quæ certè pronunciandi ratio vetus est, &
+recepta usu. Huius opinionis quoque olim per iuuentutem
+(quod ipse noui) erant isti præceptores noui. Verùm loco
+stare nesciuerunt, sed gressus glomerare superbos voluerunt.
+In ea quoque erat et Thomas Morus, Linacrus, Lupsetus,
+& Erasmus, qui in prouerbio, Stultior Morycho, μορύξαι
+transfert Moryxæ, non moruxai, etsi de pronunciatione multa
+disputauerat, quæ gloriæ studio potius, quam usus gratia
+se scripsisse, ex hijs & alijs locis scire licet diligenter
+obseruanti. Paræmium quoque dixit, non paroimium, et
+Hippoclidem non Hippocludem in prouerbio: non est curæ
+Hippoclidi: & gymnasium non gumnasium, & Sybaritica, Smyrnæ
+ac Syracusæ, non Subaritica, Smurne & Suracusai. Longum
+esset omnes istas vanitates percensere, vix dies, aut etiam
+annus sufficeret. Sed quid de recentibus loquar, cum vetusti
+Græci & Latini consueta religiosissimè obseruarunt. Galenus
+enim homo Græcus, & summi iudicij ac doctrinæ vir, ut si
+quis alius sui aut insequentis temporis, lib. 1. operis sui
+de Compositione medicamentorum qua parte de modo lauandi
+lithargyron & alia metalla scribit, τῇ κρατούσῃ (21)
+συνηθείᾳ utendum censet. Etenim cum medici sui temporis
+recentiores dicebant, ἔμπλαστρον, κέντριον, καὶ μηλώτριδα
+cum ῥ. in ultima, is eam scribendi & pronunciandi rationem
+sequi maluit propter consuetudinem iam tum receptam &
+usitatam, quàm ἔμπλαστον, κέντιον, & μηλωτιδα dicere sine ῥ.
+litera, etsi ab ἐμπλάττειν, κέντειν, μηλής τε καὶ ὠτὸς
+oriantur, in quibus ῥ. litera non est. Tanti erat apud illum
+consuetudo. Docet etiam eo in libro, quem contra eos
+scripsit qui reprehendant solæcismum facientes in sermone,
+ipsos quoque Atticos secutos esse eam quæ in loquendo
+præualuit consuetudinem. Tradiderunt item qui ante Galenum
+fuerunt, docti viri (ut ipse refert) Atticam linguam varijs
+modis corruptam atque à proprietate sua viciatam, secutos
+tamen esse eam quæ suo tempore inoleuit consuetudinem omnes,
+qui apud Græcos ullum præcellentis doctrinæ nomen consecuti
+sunt, idem refert. Cum ergo (inquit) in omnibus libris
+medicinalibus, ἔμπλαστρον cum ῥ. scriptum inuenimus, & nos
+quoque quòd inualuit consuetudine, in loquendo & scribendo
+utendum censuimus. Hæc hactenus Galenus. Eretriensibus
+quoquè consuetum est ῥ. pro σ. proferre, ut σκληρότηρ pro
+σκληρότης, (unde prouerbium Eretriensium ῥω). Atheniensibus
+contra, ut θαρσείν pro θαῤῥεῖν, utrobique si euertas usum,
+notaberis, et derideberis. Nec Græci solùm (ut dixi) sed
+Latini quoquè hanc secuti sunt consuetudinem. Nam Ciceronis
+ætate inualuit stator, pro apparitore seu tabellario, ut ex
+epistola eius ad Caninium atque Celsum scire licet: ex
+Planci quoque ad Ciceronem. At Ulpiani & Iustiniani
+temporibus, strator inoleuit in eadem significatione, addita
+r. litera in prima syllaba. Secuti tamen sunt eorum temporum
+morem qui insecuti sunt Spartiatus in Caracalla, & qui de
+iure scripserunt præcipui. Itaque quemadmodum in vocibus
+atque literis si (22) quid innouaueris, reprehenderis, nisi
+consuetudo uniuersalis patietur, ita in pronunciatione.
+Prætereo quemadmodum hodiè quantitates syllabarum, longas in
+breues, & breues in longas mutent, faciantque in muliere
+secundam longam, et tertiam breuem, cum tamen Ouidius Naso
+in hoc versu. Eminet & non est in muliere fides, secundam
+fecit breuem & tertiam longam. Et Vergilius: Nux, asinus,
+mulier simili sunt lege ligati, hæc tria nil rectè faciunt
+si verbera cessent. Miror quo tandem erumpet hæc audacia,
+ne dicam temeritas. Si quis tamen dissentit & suo more loqui
+et pronunciare cupiat, contemptis doctioribus et uniuersali
+scriptorum consensu, sua cuique stet voluntas et sententia
+per me, suum cuique pulchrum sit. Ego quidem nec ulterius,
+nec cum quoquam acrius hac de re contendere studeo, nec
+bellum Grammaticale contra quenquam instruo et suscipio
+(quod tam inane iudico quàm est ipsa res inanis) sed quid
+conueniat tantùm consulo, quidque exteræ nationes in
+constantia et grauitate sua permanentes de pronunciatione
+Græcæ et Latinæ linguæ sentiant, bona fide explico. Non enim
+quæsitum hoc est, sed oblatum ex occasione peregrinationis
+nostræ per Italian et Germaniam, ut in lib. nostro de libris
+proprijs exposuimus. Cum igitur neque seria res sit hæc
+inepta pronunciatio, neque ulla causæ magnitudo, nulla
+necessitas, nulla commoditas rei atque gloriæ eò nos
+adegerit, neque plausibilis existat doctis atquè grauibus,
+nec recepta Græcis, quid attinet obsoletam eam reuocare in
+usum, si modò in usu prius fuit, de quo nondum constat inter
+Grammaticos. Adhæc cum pronunciatio hæc noua sit planè
+rustica, ut ex Adolpho Mercherio Brugensi scire licet, aut
+affectata nimium, quod nostris sensibus certè patet, nec
+tamen uniuersalem consensum virorum grauium et doctorum
+admiserit, id (23) non arguit omnes sic pronunciasse sed
+aliquos: & cum ex hac occasione magna in re literaria
+sequatur perturbatio omnibus omnia pro voluntate et arbitrio
+præter consuetudinem commouentibus, quod in bene constituta
+rep. ferendum non fuit, malum præterea exemplum æditur ad
+alia grauiora. Alioqui non magni referret utro modo
+pronunciaretur, cum discrimen nullum est vitæ atquè
+sanguinis, nulla iactura virtutis et rei, sed inanis
+spiritus et anhelitus quæ res est nihili. In istis
+spiritibus non est cur quis velit seriò spiritum suum
+consumere, tam est res exilis atquè vana. Optandum igitur
+ut cum quieta iam sint omnia, et consensu hominum uniuersali
+paucis tantùm exceptis confirmata vetus pronunciatio,
+persequamur eam, curemusque ne perturbetur. Nam ut innouemus
+nulla facit rei magnitudo ut dixi. Omnes enim vident quam
+sit leuis et ridicula, nequè ut tantos motus excitemus ulla
+fecit necessitas, sed hominum quorundam vanitas, dum quiuis
+studeat nouæ rei nouus author haberi.
+
+
+           *       *       *       *
+
+Errors and Anomalies noted by transcriber:
+
+  _pulchræ_, _vitæ_  [comma missing]
+  plus in aliena lingua sapiens [[sapiemus?]] quàm ipsa gens
+    [_sidenote printed as shown, with brackets and question mark:
+    added by 1912 editor?_]
+  vel ἱpsilon ferendum fuit  [_printed as shown, with initial iota_]

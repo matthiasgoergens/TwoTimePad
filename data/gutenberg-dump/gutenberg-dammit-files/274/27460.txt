@@ -1,0 +1,2985 @@
+Il Vanzeli di Mateo
+(The Gospel of Matthew)
+
+
+Friulian Translation
+by
+Ermes Culòs
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Copyright Ermes Culòs. All rights reserved 2007
+
+
+
+Introductory Note
+
+In a scene of the 1993 film Being Human, Robin
+Williams, in the guise of a sort of everyman, encounters and
+falls deeply in love with a young woman (Anna Galiena)
+somewhere in the European Alps. Nothing unusual in that: it
+happens all the time. The relationship is made somewhat
+unusual by the fact that the woman speaks a language he
+does not understand. The point made in that scene is that
+love transcends language barriers. Nothing particularly odd
+in that, either. What is truly remarkable is that the movie
+chose to use a language thatexcept for its sweet sounds
+would be sure to be total gibberish to audiences everywhere.
+The chosen language was Friulian.
+
+Now it is not true that Friulian is unintelligible to everyone.
+In fact, it is understood by perhaps several hundred thousand
+people in the northeasternmost corner of Italy, known as
+Friuli. What is true is that the number of people who
+actually speak the language appears to be diminishingand
+fast. There is an evolutionary process at work that is not
+kind to small languages like Friulian: they tend to be
+gobbled up by the much bigger and successful languages
+like Italian. My translation of The Gospel of Matthew,
+therefore, can be seen as an attempt, even if very small, to
+slow down or delay a process that may ultimately be
+inevitable. Much the same can be said of my other
+translations.
+
+But my translation of this Gospel goes beyond that. It is an
+attempt to answer an intriguing question. Jesus and the
+people who followed him were simple people and spoke the
+language of simple people, of fishermen and vineyard
+workers. We can grant that the language of most translations
+of the Gospel of Matthewand indeed of the whole Bible
+is simple enough; but we all know that its simplicity has the
+extraordinary elegance that speaks of sophistication. The
+King James version is not the only one to fit that category.
+
+Friulian, insteadespecially the Friulian of my translation
+(used in some of the poetry of Pasolini)is truly the
+language of the people: tillers of the soil, vineyard
+workersthat sort. What better way can there therefore be
+to know how Jesus and his disciples truly expressed
+themselves than to hear them speak in the simple, lowly
+Friulian?
+
+I like to think that my translation offers that opportunity.
+
+Ermes Culòs
+Ashcroft
+February 2007
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Pronunciation guide for readers of Friulian
+
+(This guide is of particular importance because the Friulian
+used in this translation is Western Friulian, which is in some
+ways significantly different from the more broadly used and
+understood Eastern Friulian.)
+
+Guida a la pronuncja dai vocàbuj
+uàs ta chista tradusiòn
+
+Vocàls:
+
+Li vocals a vàn pronuncjàdis coma ches dal taliàn. Lacènt
+vièrt ( ` ) al è uàtdi sòlit par indicà la sìlaba ca risèif
+lacènt naturàl da la peràula o pur par indicà significàs
+diferèns da la peràula, coma par eèmpli nòta e notà.
+Li règulis dal acènt ta la parlada di Cjaarsa no si sòn
+encjamò critaliàdis in ta una maniera unica e consistenta.
+Una regula ca sta cjapànt piè, peròe che jò i ui (cun
+cualchi ecesiòn, coma ta malora e salàlu) ta chista
+tradusiòna è chista:
+Lacènt gràfic al vèn uàt in ta chiscju caus, ca fòrmin la
+magjoransa da li peràulis:
+Ta dùtis li peràulis plànis ca finìsin in consonànt: dùtis,
+plànis, etc.
+Ta dùtis li peràulis trònchis ca finìsin in vocàl: cjadrèa,
+sigà, etc.
+Ta dùtis li peràulis sdrùsulis: scrìvilu, pènsilu, etc.
+Ta dùtis li peràulis trònchis ca finìsin in consonànt.
+
+Par raòns di semplicitàt a no sòn uàs altri acèns (coma
+chel sieràt o chel dopli). Coma tal cau di nòta e notà,
+la distinsiòn di significàt a è rindùda asàj ben dal acènt
+vièrt.
+
+Consonàns:
+
+1.        La i-lùngja ( j ) a è uàda par indicà il sun da la j
+in peràulis coma jò e cjàsa.
+2.        La z a è sempri dolsa, coma ta li peràulis zìn e
+zìmul.
+3.        La s a è cuai sempri dura, coma ta li peràulis
+stala, strapàs e maestro. Ogni tant a ritèn il
+sun dols, coma tal taliàn; par eèmpli sdrondenà,
+sbàti, e slungjà. Cuant che la s in miès di
+dos vocàls a è dolsa, a vèn indicada cul sen diacritic
+?, coma ta scju eèmplis chì: caua, muliìn,
+Cjaarsa.
+4.        La c o la g seguìda da la i-lùngja a ghi conferìs
+a la c o a la g il sun mol coma ta li peràulis
+dincj e grancj opùr dòngja e stàngja.
+La tradusiòn a no fa distinsiòn fra la c dura e la
+q.
+
+Sul uu da li virgulètis ..:
+
+Chì i seguìs la convensiòn americana, di meti la virgula e il
+punto sempri dentri da la virguleta finàl.
+
+Eempli: Chistu, a ghi à dita, al è me fì.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mateo
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Genealogia di Gjeù Crist fì di David, fì di
+Abram:
+
+1 Abràm al era il pari di Iac
+Iac il pari di Jacu,
+Jacu il pari di Gjuda e daj so fràdis,
+2Gjuda il pari di Pares e di Zara di Tamar,
+Pares il pari di Erom,
+Erom il pari di Ram,
+4Ram il pari di Aminadab,
+Aminadab il pari di Naason,
+Naason il pari di Salmon,
+5Salmon il pari di Boas di Racab,
+Boas il pari di Obed di Rut,
+Obed il pari di Gjese
+6e Gjese il pari dal Re David.
+
+David al era il pari di Salomon da chè
+ca era stada fèmina di Urìa,
+7Salomon il pari di Roboam,
+Roboam il pari di Abìa,
+Abìa il pari di Aa,
+8Aa il pari di Gjoafat,
+Gjoafat il pari di Joram,
+Joram il pari di Uìa,
+9Uìa il pari di Joatam,
+Joatam il pari di Acaz,
+Acaz il pari di Eechia,
+10Eechia il pari di Manas,
+Manas il pari di Amon,
+Amon il pari di Gjoia,
+11Gjoia il pari di Jeconia e daj so fradis
+Al timp dal eilio in Babilonia.
+
+12Dopo leilio in Babilonia:
+Jeconia al era il pari di Salatiel,
+Salatiel il pari di Zorobabel,
+13Zerobabel il pari di Abiud,
+Abiud il pari di Eliachim,
+Eliachim il pari di Aor,
+14Aor il pari di Sadoc,
+Sadoc il pari di Achim,
+Achim il pari di Eliud,
+15Eliud il pari di Eleaar,
+Eleaar il pari di Matan,
+Matam il pari di Jacu,
+16E Jacu il pari di Bepi, lomp di Maria,
+Che da ic al è nasùt Gjeù, clamàt Crist.
+
+17Cussì a sòn stàdis cutuàrdis generasiòns da Abram a David,
+cutuàrdis da David al eilio in Babilonia, e cutuàrdis dal
+eilio al Crist.
+
+La Nasita di Gjeù Crist
+
+18 Èco coma ca è capitada la nasita di Gjeù Crist: so mari
+Maria a ghi era stada prometuda coma sposa a Bepi, ma
+prima ca si metèsin a vivi insièmit ic a sia cjatada plena par
+opera dal Spirit Sant. Par via che Bepi il so omp al era un
+omp just e a nol voleva umiliala in public, al veva decidùt di
+divorsiala in segret.
+20Ma dopo cal veva decidùt di fa cussì, al à jodùt ta un sun
+un ànzul dal Signòu ca ghi à dita: Bepi fì di David, nosta
+vej poura di partati a cjaa Maria coma fèmina to, che sè che
+in ic a à concepìt al vèn dal Spirit Sant. Ic a farà nàsi un fì, e
+tu ti ghi daràs in nòn Gjeù , parsè che luj al salvarà il so
+pòpul daj so pecjàs.
+22 Dut chistu al è susedùt par ca si averàs sè cal veva dita il
+Signòu par bocja dal profeta: La vèrgin a zarà a concepì e a
+vej un frut cal vegnarà clamàt Imanuèlcal vòu dii Diu
+cun nuàltris.
+23Cuant che Bepi a si à sveàt dal so sun, al à fàt sè ca ghi
+veva ordinàt lànzul dal Signòu e al à partàt Maria a cjaa so
+coma spoa. Ma a nol à cognosuda prin che ic a vès vùt il so
+prin fì, che luj a ghi à dàt il nòn di Gjeù.
+
+La Visita daj Magi
+
+2  Dopo che Gjeù al era nasùt a Betlem in Gjudea al timp
+dal re Erod, i Magi a sòn vegnùs dal est a Gjerualem e a àn
+domandàt: Indulà cal è chèl cal è nasùt re daj Ebreos?  I vìn
+jodùt nàsi la so stela e i sìn vegnùs a adoralu.
+3Cuant che il re Erod al à sintùt chistu al è restàt turbàt, e dut
+Gjerusalem cun luj. Clamàt insièmit ducju i pì grancj prèdis
+dal pòpul  e i espèrs da la les, a ghi à domandàt indulà cal
+veva da nàsi il Crist. A Betlem in Gjudea, a àn rispundùt,
+parsè che cussì a è stàt scrìt dal profèt:
+
+6Ma tu, Betlem, tal stat di Gjuda,
+i no ti sòs par nuja fra i pì pìsuj regnàns di Gjuda;
+parsè che da te al vegnarà fòu un principe
+cal sarà pastòu dal me pòpul Israel.
+
+7Alora Erod al à clamàt in segrèt i Magi e da lòu al à cjatàt
+fòu il momènt precìs ca si veva fàt jodi la stela. A ju à
+mandàs a Betlem e a ghia dita: Zèit e vuardàit ben indulà
+cal è il frut. Apèna chi lu vèis cjatàt, fèjmilu savèj, chi pòsi
+encja jò zì a adoràlu.
+9Dopo ca vèvin sintùt il re, a èrin zùs pa la so strada, e la
+stela ca vèvin jodùt al est a veva paràt via davànt di lòu fin
+ca si veva fermàt insima dal post indulà cal era il frutùt. Al
+jodi la stela a vèvin sintùt na granda contentèsa. Rivànt ta la
+cjaa e jodìnt il frutùt cun so mari Maria, a si sòn inclinàs
+davànt di luj e a si sòn metùs a adoralu. Dopo a àn vierzùt i
+so teòrus e a ghian preentàt regaj di oru e di incèns e di
+mira. E sicoma ca èrin stàs viàs ta un sun di no tornà là di
+Erod, a sòn tornàs tal so paìs par naltra strada.
+
+La Fuga in Egjt
+
+13Apèna ca èrin partìs, un ànzul dal Signòu a ghia comparìt
+a Bepi ta un so sun, e a ghi à dita: Lèva sù; cjòj sù il frutùt
+e scjampa cun so mari in Egjt. Resta là fin chi no vegnaràj a
+vertìti, che Erod a si metarà a vuardà pal frut par copalu.
+14Cussì al è levàt, e durànt la nòt al à cjapàt sù il frut e cun so
+mari al è zùt in Egjt, indulà cal è stàt fin a la muart di Erod.
+E cussì a è susedùt sè che il Signòu al veva dita par bocja
+dal profèt: Dal Egjt i ài clamàt me fì.
+16Cuant che Erod a sia necuàrt cal era stàt cjòlt inzìru daj
+Magi, a sia infuriàt e al à dàt lòrdin di copà ducju i frutùs
+di Betlem ca vèvin mancu di doj àis, secònt il timp ca ghi
+era stàt dàt daj Magi. Alora sè ca era stàt dita dal profeta
+Gjeremia a siera verificàt.
+
+18Na vòus a si sìnt a Rama,
+ca plàns cun grant lamìnt,
+Rachel a plàns paj so frus
+e a no vòu èsi cunfuartada,
+parsè ca no sòn pì.
+
+
+A Tòrnin dal Egjt
+
+19Dopo la muart di Erod, un ànzul dal Signòu a ghia
+comparìt a Bepi in Egjt ta un sun e a ghi à dita, Leva sù;
+cjòj cun te il frutùt e so mari e và ta la cjera di Israel, che
+chej ca volèvin cjòjghi la vita al frut a sòn muàrs.
+21Cussì al è levàt sù, al à cjòlt sù il frut e so mari e al è zùt ta
+la cjera di Israel. Ma cuant cal à sintùt che Archelaus al
+regnava in Gjudea tal post di so pari, al à vùt poura di zì là.
+Esìnt stàt viàt ta un sun, a si à ritiràt invensi tal distrèt di
+Galilea, e al è zùt a stà ta un paeùt clamàt Nazaret. Cussì a
+si à averàt sè ca era stàt dita daj profès: Al vegnarà clamàt
+il Nazaren.
+
+Zuan Batista al Prepara la Strada
+
+3  Ta chej dìs là Zuan Batista al vegneva a predicjà tal
+deèrt di Gjudea, e al dieva: Pentìvi, che il regnu dal cjel
+al è visìn. Chistu al è chèl cal era stàt minsonàt dal profeta
+Zaìja:
+
+La vòus di un cal stà clamànt tal deert:
+Preparàjghi la strada al Signòu,
+indresàit i trojs par luj.
+
+4I vistìs di Zuan a èrin fàs cul pel dal camèl, e al veva na
+sintùra di coràn atòr daj so flancs. Al mangjava cavalètis e
+mièli salvàdi. La zent a zeva a cjatàlu da Gjerualem e da
+duta la Gjudea e da la zona dal Gjordàn. A confesàvin i so
+pecjàs e luj a ju batieava in tal Flun Gjordàn.
+7Jodìnt però che tancju Farièos e Saducèos a vegnèvin lì cal
+era cal batieava, a ghi à dita: Scjàp di vìparis! Cuj vi àja
+viàt di scjampà da lira ca stà par vignì? Fèit jodi il frutàn
+cal dimostri chi sèis pentìs.
+
+E no stèit crodi di podèj dii fra di vuàltris, I vìn Abram par
+pari. I vi dìs che da chisti pièris Diu al pol fà vignì fòu fioj
+di Abram. La manara a è belzà ta la socja da li plàntis, e
+ogni àrbul ca nol prodùs frutàn bon al vegnarà tajàt jù e
+butàt tal fòuc.
+11I vi batièi cu laga da la penitensa. Ma dopo di me al
+vegnarà un cal è pì potènt di me, che jò i no mèriti nencja di
+partà i so sànduj. Luj a vi batiearà cul Spirit Sant e cul
+fòuc. Al ten il crivièl in man, al netarà la so àia, al metarà il
+furmìnt tal solàr, e al bruarà la pula cu na flama ca durarà
+par sempri.
+
+Il Batièin di Gjeù
+
+13Gjeù al è alora vegnùt da la Galilea al Giordan par fasi
+batieà da Zuan. Zuan però al voleva impedilu, diìnt: Jò
+iai bisugna di vignì batieàt da te, e tu i ti vèns chì di me?
+Gjeù a ghia rispundùt: Lasa ca sedi cussì par adès; a
+convièn chi fèdin cussì par fà dut sè ca è just. Zuan alora al
+à consentìt.
+16Apèna che Gjeù al era stàt batieàt, al è zùt fòu ta laga. In
+chel momènt il cjel a sia vierzùt, e luj al à jodùt il spirit di
+Diu vignì jù coma na colomba imparora di luj. E na vòus
+dal cjel aa dita: Chistu al è il benamàt di me fì, che jò di
+luj i soj tant contènt.
+
+La Tentasiòn di Gjeù
+
+4  Alora Gjeù al è stàt menàt dal Spirit tal deèrt par vignì
+tentàt dal diàu. Dopo vej diunàt cuaranta dìs e cuaranta nòs,
+al veva fan. Il tentatòu a ghia zùt visìn e a ghia dita: Si ti
+sòs il Fì di Diu, dìighi a scju claps di doventà pan.
+4Gjeù al à rispundùt: Cussì a è scrìt: Lomp a nol vìf di pan
+e basta, ma di ogni peràula ca vèn fòu da la bocja di Diu.
+5Alora il diàu a lu à partàt ta la sitàt santa e a lu à fàt stà tal
+punt pì alt dal templi. Si ti sòs il Fì di Diu, al à dita, bùtiti
+jù, che cussì a è scrìt:
+
+       A ghi darà ordins ai ànzuj par te
+       e lòu a ti tegnaràn alt ta li so mans,
+       chi no ti zaràs a tocjà il piè ta nisùn clap.
+
+Gjeù a ghia rispundùt: A è pur scrìt cussì: Nosta tentà il
+Signòu Diu to.
+Di nòuf il diau a ju à partàs ta na montagna amondi alta e a
+ghia fàt jodi ducju i stas di stu mont e il so splendòu. I ti
+daj dut chistu, a ghia dita, si ti ti sbàsis davànt di me e i ti
+mi adòris.
+10Ma Gjeù a ghia rispundùt: Lontàniti di me, Sàtan! Parsè
+ca è scrìt: Adorèa il Signòu Diu to, e servìs doma luj. Alora
+il diau a lu à lasàt, e I ànzuj a sòn vignùs a tìndilu.
+
+
+Gjeù al Taca il so Ministeri
+
+12Cuant che Gjeù al à sintùt che Zuan al era stàt metùt in
+preòn, al è tornàt ta la Galilea. Lasàt Nazaret al è zùt a vivi
+a Capernau, cal era in banda dal lac visìn di Zebulun e
+Naptali par ca vegnès fàt sè ca era stàt dita par bocja dal
+profeta Zaìja:
+15Cjera di Zebulun e cjera di Naptali,
+la strada pal mar, ca seguìs il Gjordàn,
+Galilea da li zens
+la zent ca vìf tal scur
+a à jodùt una granda lus;
+su di chej ca vìvin tal post da lombrena da la muart
+una lus a sia levàt.
+
+17Da chel momènt lì, Gjeù a sia metùt a predicjà, Pentivi,
+che il regnu dal cjel al è visìn.
+18Cjaminànt in banda dal Mar di Galilea, Gjeù al à jodùt doj
+fràdis, Simon clamàt Pieri e so fradi Drea. A stèvin tirànt na
+reit tal lac, parsè ca èrin pescjadòus. Vegnèit davòu di me,
+a ghia dita Gjeù, e i vi faraj pescjadòus di òmis. E lòu
+aan lasàt li so rètis e a ghi sòn zùs davòu.
+21Zìnt pìndavànt, al à jodùt altri doj fràdis, Jacu di Zebedeu
+e so fradi Zuan. A èrin ta na barcja cun so pari Zebedeu, e a
+stèvin preparànt li so rètis. Gjeù a ju à clamàs, e lòu a àn
+sùbit lasàt la barcja e so pari e a lu àn seguìt.
+23Gjeù al è zùt par duta la Galilea, insegnànt ta li so
+sinagòghis, predicjànt li buni nòvis dal regnu, e vuarìnt ogni
+infermitàt e malatìa dal pòpul. Nuvitàs di luj aan fàt il ziru
+da la Siria, e la zent a ghi à partàt a luj ducju chej ca èrin
+malàs cun ogni sorta di malatia, chej ca sufrìvin tancju
+dolòus, i indemoniàs, i epilètics, e i paraliàs; e luj a ju à
+curàs. E tanta, ma tanta zent da la Galilea, da Decapoli,
+Gjerualem, Gjudea e da la zona dal Gjordàn a si è metuda a
+seguilu.
+
+
+Il Discors ta la Montagna
+
+Li Beatitùdinis
+
+5 Cuant cal à jodùt duta che zent, al è zùt sù ta na montagna
+e a sia sintàt jù. I disèpuj a ghi sòn zùs visìn, e luj al à tacàt
+a fàjghi i so insegnamìns, diìnt:
+
+              3Beàs a sòn i puòrs in spìrit,
+       che sò al è il regnu dal cjel.
+       Beàs chej ca plànzin,
+       ca saràn confuartàs.
+       Beàs i puarès,
+       che lòu a ereditaràn la cjera.
+       Beàs chej ca sòn plens di fan e sèit pa la gjustisia,
+       che lòu a vegnaràn sodisfàs.
+       Beàs i miericordiòus,
+       ca cjataràn la miericordia.
+       Beàs i purs di còu,
+       che lòu a jodaràn Diu.
+       Beàs chej ca lavòrin pa la pas,
+       ca vegnaràn clamàs fìs di Diu.
+       Beàs i perseguitàs par caua da la ingjustisia,
+       che sò al sarà il regn dal cjel.
+
+11E beàs i sèis vuàltris cuant chi vegnèis insultàs e
+perseguitàs, e cuant ca vi diaràn ogni sorta di cativeria par
+caua me. Stèit alègris e contèns, parsè che granda a sarà la
+vustra ricompensa tal cjel, che in ta la stesa maniera aan
+perseguitàt i profès ca sòn vegnùs prima di vuàltris.
+
+Sal da la Cjera e Lus dal Mont
+
+13 Vuàltris i sèis il sal da la cjera. Ma se il sal al pièrt il so
+savòu, coma a si fàja a salàlu di nòuf? A nol è pì bon par
+nuja, ma doma par vignì butàt fòu e vignì pestasàt daj òmis.
+Vuàltris i sèis la lus dal mont. Na sitàt insima di na
+montagna a no pòl restà platada. E nencja a pòl la zent
+impijà un lampiòn e platàlu sot di un cujèrti par ca nol fedi
+lus. Invensi a lu impicja in alt ca ghi dedi lus a ducju chej da
+la cjaa. Ta la stesa maniera lasàit che la vustra lus a lui
+davànt daj òmis, ca pòsin jòdi li vustri buni òperis e rìndighi
+gloria al vustri Pari cal è tal cjel.
+
+Il Completamìnt da la Les
+
+17 No stèit pensà chi sedi vegnùt par abulì la Les o i Profès;
+i no soj vegnùt par abulìju ma par completàju. I vi dìs la
+veretàt, che fin ca no sparìsin nè cjel ne cjera, nè la pì pìsula
+lètera, nèl pì pìsul sèn di pena, nisùn aspièt da la Les al
+sparirà sensa che dut a no sedi prima completàt. Ogni un cal
+trasgredìs encja il pì pìsul di chìscjus comandamìns e a ghi
+insegna a àltris di fa altritànt al vegnarà consideràt il pì pìsul
+tal regnu dal cjel, ma chèl cal pratica e al insegna scju
+comandamìns al vegnarà clamàt grant tal regnu dal cjel.
+Parsè che jò i vi dìs che se la vustra gjustisia a no sorpasarà
+chè daj Farièos e daj insegnàns da la les, i no zarèis di sigùr
+dentri dal regnu dal cjel.
+
+
+LOmicìdi
+
+21I vèis sintùt ca ghiè stàt dita a la zent tant timp fa: No
+stèit copà, e ducju chej ca còpin a vegnaràn metùs sot judìsi.
+I vi dìs pur che cualsiasi cal è rabiàt cun so fradi al vegnarà
+metùt sot judìsi. E i vi dìs encja chistu, che chèl ca ghi dìs
+Raca a so fradi al varà da rispùndighi al Sinedri. Ma ogni un
+cal dìs Pajàso! al è in pericul di vignì casàt tal fòuc dal
+infièr.
+23Duncja, si ti preentis la to oferta tal altàr e là i ti ti
+recuàrdis che to fradi al à alc cuntra di te, lasa la to oferta
+davànt dal altàr. Và prima a fà la pas cun to fradi e vèn dopo
+a ufrì il to regàl.
+25Mètiti dacòrdu a la svelta cul to aversari cal vou partati
+in cort. Falu mentri chi ti sòs encjamò pa la strada cun luj, o
+al pòl mètiti in man dal gjudice e il gjudice al pòl consegnati
+a un vuardiàn cal pòl mètiti in preòn. I ti dìs la veretàt, chi
+no ti vegnaràs fòu fin chi no ti varàs pajàt lùltin schèj.
+
+LAdulteri
+
+27I vèis sintùt ca è stàt dita: No stèit cometi adulteri. Ma jò i
+vi dìs che ogni un cal vuarda na fèmina cu la voja taj vuj al à
+belzà cometùt adulteri cun ic tal so còu. Se il to vuli destri a
+ti fa comèti un pecjàt, gjàvilu fòu e bùtilu via. A è mièj chi ti
+pièrdis una part dal to cuarp sinò che dut il to cuarp al vegni
+casàt tal infièr. E se la to man destra a ti fà comèti un pecjàt,
+tàjla e bùtila via. A è mièj chi ti pièrdis una part dal to cuarp
+che dut il to cuarp al zedi tal infièr.
+
+
+
+Il Divòrsiu
+
+31A è stàt dita: Cualsìasi cal divorsièa la so fèmina al à da
+dàjghi un certificàt di divòrsiu. Ma jò i vi dìs che ogni un
+cal divorsièa la so fèmina, fòu che cuant ca ghi è infedèl, a
+la costrìns a doventà na adultera, e cualsiasi cal spoa na
+fèmina divorsiada al comèt adulteri.
+
+Zuramìns
+
+33I vèjs encja sintùt ca ghi è stàt dita a la zent tant timp fa:
+No stèit rompi li promèsis, ma mantegnèit li promèsis chi
+ghi vèjs fàt al Signòu. Ma jò i vi dìs: No stèit maj zurà, nè
+pal cjel, parsè cal è il trono di Diu, nè pa la cjera, ca è il
+sgabèl paj so piè, nè par Gjerualem, ca è la sitat dal Grant
+Re. E no stèit zurà pal vustri cjaf, che vuàltris i no podèjs fà
+nè un cjavièl blanc nè un neri. Siguràisi doma che il vustri
+Sì al sedi Sì, e il vustri No, No; il pì di cussì al vèn
+dal malìgn.
+
+La Vendeta
+
+38I vejs sintùt ca è stàt dita: Vuli par vuli e dint par dint. Ma
+jò i vi dìs: No stèit opònivi al trist. Se cualchidùn a vi sbàt la
+mosela destra, ufrìghi encja che altra. E se cualchidùn al vòu
+favi caua pa la tùnica chi vèjs intòr, dèjghi encja la
+mantelina. Se cualchidùn a vi costrìns a zì na mìja, zèit cun
+luj do mìis. Dèjghi a chèl ca vi domanda, e no stèit voltàjghi
+la schena a chèl cal vòu un prèstit da vuàltris.
+
+
+
+LAmòu paj Nemìcs
+
+43I vèjs sintùt ca è stàt dita: Volèjghi ben al vustri visìn e
+odiàit il vustri nemìc. Ma jò i vi dìs: Volèjghi ben ai vustri
+nemìcs, e preàit par chej ca vi persecutèjn, chi podèdis èsi
+fìis dal vustri Pari in tal cjel. Al fà vignì sù il soreli pal trist e
+pal bon, e a ghi manda la plòja tant al just che a chèl ca nol è
+just. Si ghi volèis ben a chej ca vi vòlin ben, sè mèrit i
+podèju spetavi? A no fani cussì fin i publicàns? E si
+saludàis doma i vustri fràdis, sè chi fèis di pì daj àltris? A no
+fani cussì encja i pagàns? Sèit alora perfès, coma che il
+vustri Pari cal è tal cjel al è perfèt.
+
+La Lemoina
+
+6   Stèit atèns da no fàjghi dal ben ai àltris par vignì amiràs
+da la zent. Si fèis cussì, i no vegnarèis premiàs dal vustri
+Pari cal è tal cjel. Duncja cuant chi ghi dèis alc ai puarès, no
+stèit zì a sunavi la tromba, coma ca fà la zent ipòcrita ta li
+sinagòghis e ta li stràdis, par vignì amirada daj òmis. I vi dìs
+la veretàt: a sòn zà stàs premiàs in dut. Ma cuant chi ghi dèis
+la lemoina ai puarès, no stèit lasà che la man sanca a savedi
+sè ca fà la man destra, cussì che la vustra lemoina a vegni
+data in segrèt. Alora il vustri Pari, cal jòt sè ca è fàt in
+segret, a vi ricompensarà.
+5E cuant chi preàis, no stèit fà coma i ipòcris, ca ghi plas
+preà ta la sinagoga o taj cjantòns da li stràdis par fasi jodi
+daj òmis. I vi dìs la veretàt: aan risevùt la so ricompensa in
+plen. Ma cuant chi ti prèis tu, và ta la to cjamara, siera la
+puarta e prèjghi a to Pari, cal è inviibil. Alora to Pari, cal
+jòt sè ca vèn fàt in segrèt, a ti premiarà.
+
+
+E cuant chi ti prèis, nosta trabascjà coma i pagans, ca cròdin
+da vignì sintùs parsè ca ti bùtin fòu peràulis a plen. Nosta èsi
+coma lòu, parsè che to Pari al sà sè chi ti vòus prima chi ti
+ghi lu domàndis.
+9Alora a è cussì chi ti varès da preà:
+
+       Pari nustri chi ti sòs tal cjel,
+       cal sedi santificàt il to nòn,
+       che il to regnu al vegni,
+       e che il to volèj al vegni fàt
+       ta la cjera coma tal cjel.
+       Dani vuèj il nustri pan di ogni dì.
+       Perdona i nustri dèbis
+       coma che nuàltris i perdonàn i nustri debitòus.
+       E nosta menani ta la tentasiòn,
+       ma liberèini dal mal.
+
+14Che si ti perdònis chej ca ti fàn dal mal, alora il to Pari cal
+è tal cjel a ti perdonarà pur luj. Ma si no ti ghi perdònis a la
+zent i so pecjàs, nencja to Pari al perdonarà i to pecjàs.
+
+Il Diùn
+
+16Cuant chi fèis diùn, no stèit fà un muu lunc coma i
+ipòcris, che lòu a fàn cussì par fàjghi jòdi a la zent ca stàn
+diunànt. I vi dìs la veretàt, che lòu a sòn stàs compensàs in
+plen. Ma cuant che tu i ti fàs diùn, ònziti il to cjaf e làviti la
+mua, che la zent a no jòdi chi ti stàs diunànt, ma falu doma
+par to Pari, che nisùn a lu jòt; e to Pari, cal jòt dut in segrèt,
+a ti ricompensarà.
+
+
+
+
+
+I Teòrus dal Cjel
+
+19No stèit meti insièmit teòrus par vuàltris stes ta sta cjera,
+indulà che la mufa e il rùin a ju distrùin, e indulà che i
+làris a vègnin a scasinàju e a robàju. Metèit invensi i vùstris
+teòrus tal cjel, indulà che la mufa e il rùin a no distrùin
+nuja, e indulà che i làris a no vàn a scasinà o a robà nuja.
+Parsè che indulà cal è il vustri teoru, ulà al è pur il vustri
+còu.
+22Il vuli al è il lampiòn dal cuarp. Se i to vuj a sòn bojs, dut
+il to cuarp al sarà luminàt. Ma se i to vuj a sòn malàs, alora
+dut il to cuarp al sarà scur scur. E alora se la lus dentri di te
+a è scura, cuant scur ca sarà dentri di te!
+24Nisùn al pòl servì doj paròns. O cal odiarà un e a ghi
+volarà ben a chel altri, o ca ghi sarà fedèl a un e al
+dispresarà chel altri. I no ti pos servì tant Diu che i Bes.
+
+La Providensa
+
+25 Alora i vi dìs: no stèit davi pensèj pa la vustra vita, par
+chèl chi vèis da mangjà e da bevi; o pal vustri cuarp, coma
+chi farèis a vistilu. A no ee la vita pì importanta dal
+mangjà, e il cuarp pì importànt daj vistìs? Vuardàit i usièj da
+laria; chej a no semènin nè a cjàpin sù il racòlt, nè a mètin
+via roba taj solàrs, e pur il vustri Pari cal è tal cjel a ghi dà
+da mangjà. I no valèju tant di pì vuàltris che lòu? Cual di
+vuàltris al rivaràja maj a zontàjghi na ora a la so vita cul dasi
+pensej?
+
+
+
+28E parsè i vi afanàju cussì tant paj vustri vistìs? Jodèit
+coma ca crèsin i gìis daj cjamps. Lòu a no lavòrin e a no
+fìlin. E pur i vi dìs che nencja Salomon cun dut il so
+splendòu a nol zeva vistìt coma un di chiscju flòus. Se Diu
+alora al vistìs cussì li èrbis dal cjamp, ca sòn chì vuèj e
+domàn a vègnin butàdis tal fòuc, a no si rangjaràja tant mièj
+a vistivi vuàltris, O zent di pucja fede? Cussì no stèit davi
+pensèj, diìnt: Se varinu da mangjà? o Se chi bevarìn? o
+pur Se vistìs i metarinu sù? A sòn i pagàns ca si preòcupin
+di dùtis sti ròbis, ma il vustri Pari dal cjel al sà ben ca vi
+ocòrin. Invensi zèit prima in sercja dal so regnu e da la so
+gjustisia, e duti sti ròbis a vi saràn dàtis encja a vuàltris. E
+duncja no stèit davi pensèj par domàn, che domàn a si
+rangjarà da sè stes. Ogni dì a ni dà asàj da pensà.
+
+Gjudicà i Àltris
+
+7   No stèit gjudicà, o encja vuàltris i sarèis gjudicàs; che
+in ta la stesa maniera chi gjudicàis chej àltris i sarèis
+gjudicàs vuàltris stes; e cu la stesa miura chi uàis, i
+vegnarèis miuràs vuàltris.
+3Parsè i vuàrditu il gragnelùt di pòlvar tal vuli di to fradi
+sensa fàjghi nisuna atensiòn al traf cal è tal to vuli? Coma i
+fatu a dìighi a to fradi, Lasa chi ti tiri fòu chel gragnelùt
+dal to vuli, cuant che tal to stes vuli al è un traf? Ipòcrit chi
+ti sòs, prin tira fòu il traf dal to vuli, che dopo i ti jodaràs
+benòn par podèj tirà fòu il gragnèl dal vuli di to fradi.
+6No stèit dàjghi ai cjans sè ca è sacri; no stèit butàjghi li
+vustri pèrlis ai pursìs. Si fèis cussì, lòu a pòsin pestasàlis sot
+da li so talpis, e dopo voltasi cuntra di vuàltris e sbranavi.
+
+Domandàit, Zèit in Sercja, Batèit
+
+7Domandàit e a vi sarà dàt; zèit in sercja e i cjatarèis; batèit
+ta li puàrtis e li puàrtis a vi si vierzaràn; parsè che ogni un
+cal domanda al risèif; chèl cal và in sercja al cjata; e par chèl
+cal bat, la puarta a si vierzarà.
+9Cual di vuàltris, se so fì a ghi domanda un toc di pan, a ghi
+daràja un clap? O sa ghi domanda un pes, a ghi daràja un
+madràs? Se tu, alora, encja si ti sòs trist, i ti sòs bon da
+dàjghi regàj bòjs ai to fioj, tant di pì a ghi darà il vustri Pari
+cal è tal cjel a chej ca ghi ju domàndin!  E cussì ta duti li
+ròbis, fàjghi a chej àltris sè chi ti vorès ca ti fèsin a tì, che
+chista a è la sostansa da la Les e daj Profès.
+13Entràit pa la puarta streta, parsè che il puartòn cal parta a
+la perdisiòn al è larc, e tàncjus a vàn dentri par chèl. Ma
+streta a è la puarta ca parta a la vita, e amondi pus a sòn chej
+ca la cjàtin.
+
+LÀrbul e il so Frutàn
+
+15Stèit atèns daj profès fals. A vi vègnin visìn vistìs da
+piòris, ma dentri a sòn lùpos afamàs. Dal so frutàn i ju
+cognosarèis. La zenta vaja a vendemà ùa daj spincs e a
+tirà jù fics daj bars spinòus? Cussì ogni àrbul bon al dà
+frutàn bon, ma un àrbul ca nol è bon al dà un frut ca nol è
+bon. Un àrbul bon a nol pòl dà un frut trist, e un àrbul cal è
+trist a nol pòl dà un frut bon. Ogni àrbul ca nol dà bon frutàn
+al vèn tajàt jù e butàt tal fòuc. Duncja dal so frutàn i
+podarèis cognosiu.
+
+
+21No dùcjus chej ca mi dìin, Signòu, Signòu, al entrarà tal
+regnu dal cjel, ma doma chèl cal fà il volèj dal Pari cal è tal
+cjel. Tàncjus a mi diaràn ta chel dì, Signòu, Signòu, i no
+vinu nu profetiàt in tal to nòn, e in tal to nòn butàt fòu i
+demònis e fàt tancju miràcuj? Alora i ghi diaràj clar e net:
+I no viai maj cognosùs. Zèit via di chì chi soj jò, zent
+trista!
+
+La Cjaa ta la Rocja. Il Levròus.
+
+24Alora dùcjus chej ca scòltin li me peràulis e a li mètin in
+pratica a sòn coma un omp saviu cal à costruìt la so cjaa ta
+la rocja. La plòja a è vegnuda jù, li ròjs a sòn cresùdis, e il
+vint al à soflàt fuart e sbatùt intòr di che cjaa; che però a no
+è colàda parsè ca à li so fundamìntis ta la rocja. Ma dùcjus
+chej ca sìntin sti peràulis mes e a no li mètin in pratica a sòn
+coma un macaco cal à costruìt la so cjaa tal savolòn. La
+ploja a è vegnuda jù, li ròjs a sòn cresùdis, e il vint al à tiràt
+e sbatùt cuntra la cjaa, ca è colada jù e a si à fracasàt.
+28Cuant che Gjeù al veva finìt di dii chisti ròbis, la zent a
+era plena di maravèa paj so insegnamìns, parsè cal parlava
+coma un plen di autoritàt, e no coma un mestri da la les.
+
+8   Cuant cal è vegnùt jù da la montagna, tanta zent a ghi à
+zùt davòu. Un levròus a si à fàt indavànt e, zenoglàt davànt
+di luj, a ghi à dita: Signòu, se tu i ti sòs dispòst i ti pos
+vuarimi.
+3Gjeù al à metùt fòu la man e tocjàt il omp. I soj dispòst,
+al à dita. Vuarìsiti! E a colp lomp a si à vuarìt da la so
+levra. Dopo, Gjeù a ghi à dita: Vuarda di no diighilu a
+nisùn. Adès và là dal predi e ufrìsighi il regàl che Moè al
+veva comandàt, par che chèl a ghi sedi di testimoni.
+
+La Fede dal Senturiòn
+
+5Cuant che Gjeù al era entràt a Capernau, un senturiòn a ghi
+era zùt visìn par domandàjghi di judalu. Signòu, a ghia
+dita, il me servitòu al è distiràt jù in cjaa, paraliàt e plen
+di dolòu.
+7Gjeù a ghi à dita: I zaràj a vuarilu.
+8Il senturiòn al à rispundùt: Signòu, i no meriti chi ti vègnis
+sot dal me tet. Dìs doma na peràula, e il me servitòu al sarà
+vuarìt. Encja jò i soj un omp di autoritàt, cun soldàs sot di
+me, e i pòl dìighi a un: Và, e luj al và; e a naltri: Vèn, e
+luj al vèn. I ghi dìs al me servitòu: Fà chistu, e luj a lu fà.
+Cuant che Gjeù al à sintùt chistu a si à maraveàt, e a ghi à
+dita a chej ca lu seguìvin: I vi dìs la veretàt, chi no ài cjatàt
+nisùn in Israel cu na fede cussì granda. I vi dìs che tàncjus a
+vegnaràn dal est e dal ovest, e a si sintaràn jù cun Abram,
+Iac e Jacu tal regnu dal cjel. Ma i fìs dal regnu a vegnaràn
+casàs fòu, indulà ca è scur e ca si sintarà a planzi e a scrisulà
+di dincj.
+13Dopo Gjesù a ghi à dita al senturiòn: Và! Al sarà fàt coma
+che tu i ti cròs cal vegnarà fàt. E il so servitòu a si à vuarìt.
+
+Gjeù an Vuarìs Tàncjus
+
+14Cuant che Gjeù al è zùt dentri da la cjaa di Pieri al à
+jodùt la madòna di Pieri distirada tal jet cu na fièvra. A ghi à
+tocjàt la man e la fièvra a ghi à zuda via, e ic a si à levàt sù e
+a à scuminsiàt a servilu.
+16Al rivà da la sera, tanta zent indemoniada a è stada partada
+lì cal era luj, e luj al à mandàt fòu i spìris cu na peràula e al à
+vuarìt ducju i malàs. Chistu al era stàt fàt par ca si averàs sè
+ca era stàt scrìt par via dal profeta Zaìja:
+
+Luj al à cjòlt sù li nustri infermitàs
+e a si à partàt via li nustri malatìis.
+
+18Cuant che Gjeù al à jodùt duta che zent atòr di luj, al à dàt
+òrdins di zì ta che altra banda dal lac. Alora un maestri da la
+les a ghi à zùt visìn e a ghi à dita: Maestri, i ti vegnaràj
+davòu nompuarta indulà chi ti zaràs.
+20Gjeù al à rispundùt: Li vòlpis a àn li so tànis, e i usièj da
+laria a àn i so nìs, ma il Fì dal Omp a nol à nencja un post
+da pojà il cjaf.
+21Naltri disèpul a ghi à dita: Signòu, lasa chi zedi prima a
+soterà me pari.
+22Ma Gjeù a ghi à dita:  Vèn davòu di me, e lasa che i
+muàrs a sotèrin i so muàrs.
+
+Gjeù al Calma il Temporàl
+
+23Alora al è zùt dentri ta la barcja e i so disèpuj a sòn zùs
+dentri cun luj. Sensa nisùn preavìs, una burascja violenta a si
+à alsàt tal lac, che li òndis a si scaraventàvin ta la barcja..
+Ma Gjeù al durmiva. I disèpuj a sòn zùs a sveàlu e a ghi àn
+dita: Signòu, sàlvini, che sinò i sinnegàn!
+26Al à rispundùt: Zent di pucja fede, parsè i vèju cussì
+tanta poura? Alora a si à levàt sù e a ghi à cridàt ai vins, e
+dut a si à calmàt.
+27Dùcjus maraveàs, chej ca èri lì a àn dita:  Se omp al ee
+chistu? Encja i vins e li òndis a lu ubidìsin!
+
+La Vuarisiòn di Doj Indemoniàs
+
+28Cuant cal era rivàt ta che altra banda ta la regiòn daj
+Gadarèns, al à scuntràt doi òmis indemoniàs ca vegnèvin da
+li so tòmbis. A èrin cussì violèns che nisùn al podeva pasà
+par là. Se vutu vej da nuàltris, fì di Diu? a ghian sigàt.
+Sotu vegnùt chì par torturani prima dal timp?
+30A cualchi distansa di lì di lòu a era na granda mandria di
+pursìs al pàscul. I demònis a si sòn voltàs vièrs Gjeù: Si ti
+ni màndis fòu, màndini ta che mandria di pursìs.
+32A ghia dita: Zèit! Alora a sòn vegnùs fòu e a sòn zùs cuj
+pursìs, e duta la mandria a si à metùt a cori jù pa la riva fin
+ca sòn zùs a finila tal lac, indulà ca sòn muàrs ta laga. Chej
+ca ghi tindèvin a la mandria a sòn scjampàs in tal paìs,
+indulà ca àn contàt dut, encja sè ca ghi veva susedùt ai
+indemoniàs. Alora dut il paìs al è zùt fòu a cjatà Gjeù. E
+cuant ca lu àn cjatàt a lu à preàt di lasà il so paìs.
+
+La Vuarisiòn di un Paralitic
+
+9   Gjeù al è montàt sù ta na barcja e, zùt su laltra riva, al
+è tornàt tal so paìs. Lì a ghi è stàt partàt un paralìtic, distiràt
+ta un jet. Cuant che Gjeù al à jodùt la fede da la zent, a ghi
+à dita al paralìtic: Dati coragju, fiol me; i to pecjàs a ti sòn
+perdonàs.
+3Jodìnt chistu, cualchi mestri da la les al à tacàt a pensà: Stu
+chì al stà bestemànt!
+4Cognosìnt i so pensèis, Gjeù al à dita: Parsè i vèju
+pensèis brus tal còu? A ee pì fàsil dii I to pecjàs a sòn
+perdonàs o dii Leva sù e cjamina? Ma par chi savèdis
+che il Fì dal Omp al à il podèj di perdonà i pecjàs Leva
+sù, cjòj sù il to jet e torna a cjaa. E lomp a si à levàt sù e
+al è zùt a cjaa. Cuant che duta la zent a à jodùt chistu, a è
+restada plena di maravèa; e a si à metùt a laudà Diu, ca ghi
+veva dàt stu podèj al omp.
+
+La Clamàda di Mateo. Il Diùn
+
+9Zìnt via di lì, Gjeù al à jodùt un omp ca si clamava Mateo
+sintàt tal banc di chèl cal coletava li tàsis. Vèn davòu di
+me, a ghia dita, e Mateo al è levàt sù e a ghi è zùt davòu.
+10Mentri che Gjeù al era cal senava ta la cjaa di Mateo,
+tàncjus di chej da li tàsis e altri pecjadòus a sòn vegnùs a
+mangjà cun luj e cuj so disèpuj.Cuant che i Farièos a àn
+jodùt chistu, a ghi àn domandàt ai so disèpuj: Parsè al sènia
+il vustri maestri cun chej ca colètin tàsis e cun altri
+pecjadòus?
+12Sintìnt chistu, Gjeù al à dita:  A no è la zent sana ca à
+bisùgna dal miedi, ma chè malada. Ma zèit a cjatà fòu sè che
+chistu al vòu dii: jò i vuèj la miericordia, no il sacrifìsi.
+Parsè che jò i no soj vegnùt par clamà chej bojs, ma i
+pecjadòus.
+14Alora i disèpuj a sòn vegnùs e a ghi àn domandàt: Coma a
+ee che nu e i Farisèos i fìn diùn, ma i to disèpuj a no lu
+fàn?15Gjeù al a rispundùt: Coma a pòsini i invidàs dal
+spou èsi in lut mentri che luj al è cun lòu? Al rivarà il timp
+cuant che il spou a nol sarà pì cun lòu, e alora a diunaràn.
+16Nisùn al cuìs un tocùt di stòfa grea ta un vistìt vecju,
+parsè che il tacòn al và a distacàsi dal vistìt e a sbregàlu pì
+encjamò. E nencja a no zarà nisùn a meti vin nòuf in ta
+bàghis vècjs, che sinò li bàghis a si romparàn e il vin al zarà
+a spàndisi e li bàghis a ruvinàsi. No, al zarà invensi a meti il
+vin in ta bàghis nòvis, che cussì chèl e che àltris a si
+preservaràn.
+
+
+
+
+La Muarta e la Malada
+
+18Mentri cal dieva chistu, un daj càpos a si à zenoglàt
+davànt di luj e al à dita: Me fia a è apèna muarta; ma vèn e
+mètighi la man intòr e ic a vivarà. Gjeù al è levàt sù e a
+ghiè zùt davòu, e cussì a àn fàt i so disèpuj.
+20Pròpit ta chèl momènt lì una fèmina ca veva sufrìt di
+emoragia par dòdis àis a si à visinàt a li so spàlis e a ghi à
+tocjàt lòrli da la so la mantelina. Dentri di sè a pensava: Se
+doma i rivi a tocjàjghi la mantelina, i mi vuariràj.
+22Gjeù a si à voltàt e al à joduda: Dati coragju, fìja, al à
+dita, la to fede a ti à vuarìt. E da chel momènt la fèmina a
+era vuarida.
+23Cuant che Gjeù al è entràt ta la cjaa dal capo e al à jodùt i
+flautìscj e la zent ca si scalmanava, al à dita: Zèit via. La
+fiola a no è muarta, ma a è ca durmìs. Ma lòu a ghi àn ridùt
+davòu.  Dopo che duta che zent a era stada butada fòu, al è
+zùt dentri a al à cjapàt la zovina pa la man, e ic a è levada
+sù. E di chèl a si à parlàt tant in ta dut il distrèt.
+
+La Vuarisiòn daj Svuarps e daj Mus
+
+27Cuant cal è zùt via di là, doj svuarps a ghi sòn zùs davòu e
+a lu àn clamàt: Miericordia di nuàltris, Fì di David!
+28Na volta zùt dentri, i svuàrps a ghi sòn zùs visìn, e luj a ghi
+à domandàt: I crodèiu pròpit che jò i posi fà chistu?
+Sì, Signòu, a àn rispundùt.
+
+
+
+29Alora a ghi à tocjàt i vuj, diìnt: Secònt la vustra fede
+chistu a vi vegnarà fàt; e la so vista a ghi è stada rimetuda.
+Gjeù a ju à amonìs.  Vuardàit che nisùn a lu vegni a
+savèj. Ma lòu a sòn zùs fòu e a àn sparpajàt la nuvitàt ta dut
+il circondari.
+32Mentri ca zèvin fòu, un omp cal era indemoniàt e ca nol
+podeva parlà al è stàt partàt lì di Gjeù. E cuant che il
+demoni al era stàt scorsàt via, lomp cal era stàt mut a si à
+metùt a parlà. Chel scjàp di zent ca era lì atòr a si à tant
+maraveàt, e a à dita: Ma jòt sè ca ni tocja jòdi chì in Israel.
+34Ma i Farièos a àn dita: A è par grasia dal principe daj
+demònis cal scorsa fòu i demònis.
+
+Masa Pus Lavoradòus
+
+35Gjeù al zeva par duti li sitàs e i paìs, insegnànt ta li
+sinagòghis, predicjànt li buni nòvis dal regnu e vuarìnt ogni
+malatia e aflisiòn. Cuant cal jodeva la zent al veva
+compasiòn par lòu, parsè ca èrin maltratàs e sfinìs, coma
+piòris sensa pastòu. Alora a ghi à dita ai so disèpuj: Il
+racòlt al è grant, ma  a no è asàj lavoradòus.
+38Domandàjghi duncja al paròn dal racòlt di mandà altri
+lavoradòus tal cjamp dal racòlt.
+
+
+
+
+
+
+
+
+
+
+
+Gjeù al Manda Fòu i Dòdis
+
+10   Al à radunàt i so dòdis disèpuj e a ghi à dàt il podèj di
+scorsà fòu i spìris triscj e di vuarì ogni mieria e malàn.
+2Chiscjus a sòn i nòns daj dòdis apòstuj: prin Simon (cal è
+clamàt Pieri) e so fradi Drèa; Jacu, fì di Zebedea, e so fradi
+Zuan; Filìp e Bartolomèo; Tomàs e Mateo il publicàn; Jacu
+fì di Àlfio, e Tadèo; Simon il Cananeo e Gjuda Iscariòt, ca
+lu à tradìt.
+5Chiscju dòdis Gjeù al à mandàt fòu cun chisti istrusiòns:
+No stèit zì fra i Gentìi e in taj paìs daj Samaritàns. Zèit
+invensi là da li piòris pierdùdis di Israel. Cuant chi zèis,
+predicjàit chistu, che il regnu dal cjel al è visìn. Vuarìt i
+malàs, risusitàit i muars, curàit i levròus, scorsàit fòu i
+demònis. Gràtis a vi è stàt dàt, e gràtis dèit. No stèit partà
+cun vuàltris ta la vustra sintura nè òru nè arzènt nè ram; no
+stèit partà nè sachèt da viàs, nè na tunica in pì, o sànduj o
+bastòn, parsè che il lavoradòu al mereta il so mangjà.
+11In ta cualsiasi sitàt o paìs chi entràis, zèit in sercja di buna
+zent e stèit ta la so cjaa fin chi sèis prons di partì. Cuant chi
+entràis ta na cjaa, dèjghi il vustri salùt. Se la cjaa a mereta,
+lasàit che la vustra pas a resti cun chè; sinò partàit la pas cun
+vuàltris. Se cualchidùn a nol vòu davi il benvegnùt e a nol
+vòu scoltà li vustri peràulis, scjasàit il pòlvar daj vustri piè
+cuant chi lasàis la so cjaa o paìs. I vi dìs la veretàt, che tal
+dì dal judìsi a saràn pì toleràbilis Sodoma e Gomora che
+chel paìs là.
+
+
+ 16I vi mandi fòu coma agnèlis fra i lùpos. Duncja vuardàit di
+èsi fùrbus coma i madràs e inocèns coma li colòmbis.
+17Stèit atèns daj òmis; parsè ca vi consegnaràn ai so
+concìlios e a vi flagelaràn ta li so sinagòghis. Par caua me i
+sarèis partàs davànt daj governatòus e daj res coma
+testimònis par lòu e paj pagàns. Ma cuant ca vi consègnin ta
+li so mans, no stèit davi pensèj par chèl chi vèis da dii o par
+coma chi lu diarèis. Ta chej momèns lì a vi sarà dàt sè chi
+vèis da dii, parsè chi no sarèis vuàltris chi parlarèis, ma il
+Spirit di vustri Pari cal parlarà in vuàltris.
+21 Un fradi al tradirà so fradi fin a la muart, e un pari so fì; i
+fioj a si ribelaràn cuntra i so genitòus e a ju faràn murì.
+Ducju i òmis a vi odiaràn par caua me, ma chej ca si
+tegnaràn fuàrs fin a la fin a vegnaràn salvàs. Cuant chi
+vegnèis perseguitàs ta un post, scjampait ta naltri post. I vi
+dìs la veretàt: I no varèis finìt da viità duti li citàs di Israel
+prima cal vegni il Fì dal Omp.
+24Un studènt a nol è pì grant dal maestri, e nencja un servo
+pì dal so paròn. A ghi basta al studènt di èsi coma il maestri,
+e al servitòu coma il paròn. Se il capo da la cjaa al è stàt
+clamàt Belzebù, cuant di pì alora i so familiàrs!
+26Alora no stèit vej poura di lòu. A no è nuja di platàt ca nol
+sarà rivelàt, o di platàt ca nol vegnarà manifestàt. Sè chi vi
+dìs tal scur, dièjlu a la lus dal dì; e sè chi vi conti ta la orela,
+zèit a predicjalu daj cops da li cjàis. No stèit vej poura di
+chej ca còpin il cuarp ma ca no pòsin copà il spirit. Vèit
+invensi poura di Chèl ca pòl copavi tant lanima che il cuarp
+in tal infièr. Do pàsaris a no vègnini vendùdis par un schèj?
+E pur nencja una da li dos a colarà in cjera sensa la volontàt
+dal vustri Pari. E encja i cjavièj stes dal vustri cjaf a sòn
+dùcjus contàs. Cussì no stèit vej poura; i valèis amondi di pì
+sinò di tanti pàsaris.
+32Cuj ca mi ricognòs davànt daj òmis i ricognosaràj encja jò
+davànt di me Pari cal è tal cjel. Chèl che invensi a mi
+rinegarà, i rinegaràj pur jò davànt di me Pari cal è tal cjel.
+34No stèit pensà chi sedi vegnùt par partà la pas ta la cjera. I
+no soj vegnùt par partà la pas, ma la spada. Parsè chi soj
+vegnùt par meti
+
+              un omp cuntra so pari,
+              na fìja cuntra so mari,
+              na nuara cuntra la so madona
+              e i nemìs dal omp a saràn chej di cjaa so.
+
+37Chèl cal ama so pari o so mari pì di me a nol è degnu di
+me; cualsìasi ca ghi vòu ben a so fì o a so fìja pì di me a nol
+è degnu di me; e ogni un ca nol cjoj sù la so cròus par
+vignìmi davòu a nol è degnu di me. Cualsìasi cal cjata la so
+vita a la pierdarà, e cualsìasi cal piert la so vita par me al
+zarà a cjatala.
+40 Cualsiasi cal risèif vuàltris, al risèif me, e chèl cal risèif
+me, al risèif chel ca mi à mandàt me. Cualsìasi cal risèif un
+profeta parsè cal è un profeta, al risevarà il premiu ca ghi
+speta a un profeta; e cualsìasi cal risèif un omp just coma
+omp just, al vegnarà ricompensàt coma cal vèn lomp just. E
+se cualchidùn a ghi dà un got di aga a un di scju picinìns
+parsè cal è un daj me disèpuj, i vi dìs la veretàt che par sigùr
+a nol pierdarà la so ricompensa.
+
+Gjeù e Zuan il Batista
+
+11    Dopo che Gjeù al veva finìt di dàjghi istrusiòns ai so
+dòdis disèpuj, al è zùt via di lì par insegnà e predicjà taj
+paeùs da la Galilea.
+2Cuant che da la preòn Zuan al a sintùt sè che il Crist al
+steva faìnt, al à mandàt i so disèpuj a domandàjghi: Sotu
+tu chèl cal veva da vignì o i vinu da spetà cualchidùn altri?
+4Gjeù al à rispundùt: Tornàit indavòu e dièjghi a Zuan sè
+chi sintèis e i jodèis: i svuarps a risèvin la vista, i stuarps a
+cjamìnin, i levròus a sòn vuarìs, i sors a sìntin, i muars a
+tòrnin a vivi, e il vanzeli a ghi vèn contat ai puarès. Benedèt
+al è chèl ca no si scandaliea di me.
+7Mentri che i disèpuj di Zuan a zèvin via, Gjeù a si à metùt
+a parlà di Zuan a la zent ca ghi steva atòr: Se sèju zùs a
+jodi tat deèrt? Una cjana sbatùda dal vint? Sinò sè chi sèis
+zùs a jodi? Un omp vistìt dut di bièj vistìs? No, chej ca
+vistìsin bièj vistìs a sòn dùcjus taj palàs dal re. Alora sè chi
+sèis zùs a jodi? Un profeta? Sì, i vi lu dìs jò; e tant pì che un
+profeta. Chistu al è chèl che di luj a è stàt scrìt:I mandaràj il
+me mesagèr davànt di te, ca ti prepari la strada davànt di te.
+11I vi dìs la veretàt: fra chej nasùs da fèminis a nol è maj
+vegnùt fòu un pì grant di Zuan il Batista: e pùr il pì bas tal
+regnu dal cjel al è pì grant di luj. Daj timps di Zuan il
+Batista fin adès, il regnu dal cjel al à sufrìt violensa e i
+violèns a si stàn imparonìnt di luj. Ducju i profès e chej da la
+les a àn profetiàt fin a Zuan. E si sèis bojs da acetàlu, chistu
+al è chèl Lìja cal veva da vignì.
+16A sè i pòsiu paragonà chista generatiòn? A sòn coma frutùs
+sintàs là dal marcjàt che cussì a clàmin àltris:
+
+                    I vi vìn sunàt il flaut,
+                    e vuàltris i no vèis balàt;
+                    i vìn cjantàt un lamìnt,
+                    e vuàltris i no vèis planzùt.
+
+
+18Parsè che Zuan al è vegnùt sensa nè mangjà nè bevi, e a
+dìin: Al à un demoni. Il fì dal Omp al è vegnùt mangjànt e
+bevìnt, e di luj a dìin: Èco un mangjòn e cjochetòn, amigo
+daj publicàns e daj pecjadòus. Ma la sapiensa a vèn
+provada da li so òperis.
+
+Guàj a li Sitàs ca no si Pentìsin
+
+20Alora Gjeù a si à metùt a cridàjghi a li sitàs indulà che
+cuasi ducju i miracuj a èrin stàs fàs, parsè ca no si vèvin
+pentìt: Guàj a te, Corasìn! Guàj a te, Betsàida! Se i miràcuj
+ca sòn stàs fàs lì di vuàltris a fòsin stàs fàs a Tiro e Sidona, a
+si varèsin pentìt tant timp fa, cujerzùdis in tela di sac e
+sinia. Ma i vi dìs chistu, che il dì dal judìsi a la varàn
+mancu dura chej di Tiro e Sodoma che vuàltris stes. E tu,
+Cafernào, i vegnaratu forsi levàt in alt fin tal cjel? No, i ti
+zaràs lajù. Se i miràcuj ca sòn stàs fàs in te a fòsin stàs fàs a
+Sodoma, i ti sarès durada fin al dì di vuèj. Ma i ti lu dis jò
+che tal dì dal judìsi a ghi sarà mancu dura par Sodoma che
+par te.
+
+Ripou paj Stracs
+
+25Ta chel stes timp Gjeù al à dita:  I vuèj benediti, Pari,
+Signòu dal cjel e da la cjera, chi ti ghi às platàt chisti ròbis ai
+sàvius e a chej ca sintìndin, e i ti ghi li às rivelàdis ai frutùs.
+Si, Pari, parsè che chistu al è stàt il to plaej.
+27Duti li ròbis a mi sòn stàdis dàtis dal me Pari. Nisùn al
+cognòs il Fì coma il Pari, e nisùn al cognòs il Pari coma il Fì
+e coma chej ca lu cognòsin par via dal Fì.
+28Vegnèit chì cun me, dùcjus vuàltris chi sèis stracs muars,
+che jò i vi lasaràj ripoa. Metèjvi intòr il me zòuf e i
+impararèis da me, che jò i soj dols e ùmil di còu, e i cjatarèis
+il ripòu pa li vustri ànimis. Il me zòuf al è fàsil e il me
+cargu al è lisèj.
+
+Il Signòu dal Sabo
+
+12    Ta chel timp là Gjeù al è pasàt di Sabo paj cjamps di
+furmìnt. I so disèpuj a vèvin fan e a àn tacàt a cjoj sù spìghis
+di furmìnt e a mangjàlis. Cuant  che i Farisèos a àn jodùt
+chistu, a ghi àn dita: Èco là che i to disèpuj a stàn faìnt sè
+ca no è permetùt di fà di Sabo.
+3Luj al à rispundùt: No vèju leùt sè cal à fàt David cuant
+che luj e i so compajs a vèvin fan? Al è zùt dentri ta la cjaa
+di Diu, e luj e i so compajs a si sòn metùs a mangjà il pan
+consacràtche a lòu a no ghi era lècit di fà, ma doma ai
+prèdis. O i no vèju leùt ta la Les che di Sabo i prèdis in tal
+templi a profanèjn il Sabo e a rèstin lo stes sensa colpa? I vi
+dìs jò che un pì grant dal templi al è chì. Si vèsis savùt sè ca
+vòlin dii chisti peràulis, I vuèj vej miericordia, no
+sacrifìsi, i no varèsis condanàt i inocèns. Parsè che il Fì dal
+Omp al è il Signòu dal Sabo.
+9Zìnt via di chel post lì, al è zùt ta la so sinagoga, e un omp
+cu na man duta secjada al era lì. E lòu, ca zèvin in sercja di
+na scua par acuà Gjeù, a ghian domandàt: A ee lècit
+curà di Sabo?
+11A lòu a ghi à dita: Se cualchidùn di vuàltris al à na piòra e
+chè a ghi cola ta un buaròt di Sabo, a nol zarèsia a cjapàla e
+tiràla fòu?
+12Alora, cuant pì valòu cal à un omp di na piòra! Duncja a è
+lècit fà dal ben di Sabo.
+13E dopo a ghi à dita al omp: Slungja chì la to man. Cussì
+al à slungjàt la so man, ca ghi è stada vuarida coma che
+altra. Ma i Farisèos a sòn zùs fòu e a si sòn cunsultàs lun
+cun laltri par distrùilu.
+
+
+
+Il Servitòu dal Signòu
+
+15Ma savìnt chistu, Gjeù a si à lontanàt da chel post. In
+tàncjus a lu àn seguìt, e luj al à vuarìt ducju i so malàs,
+diìnghi di no contà cuj cal era, cussì ca si realiàs sè ca era
+stàt dita par bocja dal profeta Zaìja:
+
+                    18Chì al è il servitòu chi ài sielzùt jò,
+          che jò i ghi vuèj ben e ca mi dà plaèj:
+          sù di luj i metaràj il me Spìrit
+          e luj al proclamarà la gjustisia fra li nasiòns.
+          A nol barufarà nè al sigarà:
+          nisùn al sintarà la so vòus ta li stràdis.
+          Una cana macjada a nol romparà,
+          e un pavèj fumigànt a nol distudarà,
+          fin chal partarà la gjustisia a vinsi.
+          In tal so nòn li nasiòns a pojaràn la so speransa.
+
+Gjeù e Belzebù
+
+22Dopo a ghi àn partàt un indemoniàt, svuàrp e mut, e Gjeù
+a lu à vuarìt, cussì cal podeva tant jòdi che sinti. Duta la zent
+a era maraveàda e a à dita: Cal sedi stu chi il fì di David?
+24Ma cuant che i Farièos a àn sintùt chistu a àn dita: A è
+doma in nòn di Belzebù, principe daj demònis, che chistu
+chi al fà scjampà i demònis.
+25Gjeù al cognoseva i so pensèjs e a ghi à dita: Ogni regnu
+dividùt cuntra di sè stes al và in ruvina, e ogni sitàt o famèa
+dividuda cuntra sè stesa a no podarà tègnisi sù. Se Satana al
+casa fòu Satana, al e dividùt cuntra di se stes. Coma al faràja
+alora a tègnisi sù il so regnu? E se jò i casi fòu i demònis in
+nòn di Belzebù, in nòn di cuj a lu faranu i vustri fioj? E par
+chèl a saràn lòu i vustri gjùdices. Ma se jò i mandi fòu i
+demònis in nòn dal Spirit di Diu, alora i varèis cun vuàltris il
+regnu di Diu.
+29E di nòuf, coma al farèsia un a zì dentri da la cjaa di un
+omp fuart e partàjghi via duta la so roba se prima a nol leàs
+sù il omp fuart? Doma alora al podarà robàjghi dut.
+30Chèl ca nol è cun me al è cuntra di me, e chèl ca nol cjòj sù
+cun me al pièrt dut. E alora i vi dìs che ogni pecjàt e
+bestema a ghi sara perdonada ai òmis, ma la bestema cuntra
+il Spirit a no sarà perdonada. Cualsìasi cal dìs na peràula
+cuntra il Fì dal Omp al sarà perdonàt, ma cualsìasi cal parla
+mal dal Spirit Sant a nol sarà perdonàt, nè taj nustri timps nè
+taj timps da vignì.
+33Plantàit un bon àrbul e il so frutàn al sarà bon, o plantàit un
+àrbul trist e il so frutàn al sarà trist, che làrbul a si lu cognòs
+dal so frutàn. Grop di vìparis, coma i podèju vuàltris chi
+sèis triscj dii alc cal è bon? Parsè ca è da un còu plen che
+la bocja a parla. Lomp bon al generèa ròbis bùnis dal bon
+cal à dentri di luj, e lomp trist al generèa ròbis brùtis dal
+trist cal à dentri di luj. Ma i vi lu dìs jò che il dì dal judìsi i
+òmis a varàn da rindi cont di ogni peràula liera ca àn parlàt;
+che da li to peràulis i ti vegnaràs gjustificàt, e da li to
+peràulis i ti vegnaràs condanàt.
+
+Il Sen di Gjona
+
+38Alora cualchi Farisèo e mestri da la les a ghi à dita:
+Maestri, i volìn jòdi un sen miraculòus da te.
+39Al à rispundùt:  Una generasiòn trista e adulteroa a vòu
+jòdi un sen miraculòus! Ma a no risevarà nisùn sen fòu che
+il sen dal profèt Gjona. Che coma che Gjona al è stàt tre dìs
+e tre nòs ta la pansa di un pes grant, cussì il Fì dal Omp al
+restarà par tre dìs e tre nòs tal còu da la cjera. I òmis di
+Nineva a si levaràn sù il dì dal judìsi cun chista generasiòn e
+a la condanaràn; parsè che lòu a si vèvin pentìt al predicjà di
+Gjona, e adès al è chì un pì grant di Gjona. La Regina dal
+Sud a si levarà sù al judìsi cun chista generasiòn e a la
+condanarà; parsè ca era vegnuda da li estremitàs da la cjera
+par scoltà il grant savèj di Solomòn, e adès un pì grant di
+Solomòn al è chì.
+43Cuant che un tristàt di spìrit al vèn fòu di un omp, al và in
+ta poscj secs in sercja di cunfuàrt e a no lu cjata. Alora al
+dìs: I torni ta la cjaa chi ài lasàt.Cuant cal riva là, al cjata
+la cjaa vuèjta, scovada neta e ben curada. Alora al và a cjòj
+altri sièt spìris pì triscj di luj, e a vàn a stà là. E a la fin la
+condisiòn di chel omp a è pèu di prima. E cussì a sarà cun
+chista generasiòn trista.
+
+La Mari e i Fràdis di Gjeù
+
+46Mentri che Gjeù al era encjamò cal parlava cu la zent, so
+mari e i so fràdis a èrin là di fòu ca spetàvin da parlà cun luj.
+Cualchidùn a ghi à dita: To mari e to fràdis a sòn là di fòu
+ca spètin da parlà cun te.
+
+
+
+48E luj a ghi à rispundùt: Cuj ca è me mari e cuj ca sòn i me
+fràdis? Al stes timp, slungjànt la man vièrs i so disèpuj al à
+dita: Chì ca sòn me mari e i me fràdis; parsè che cualsìasi
+cal fà la volontàt di me Pari cal è tal cjel al è me fradi e me
+sòu e me mari.
+
+La Paràbula dal Semenadòu
+
+13     Chel dì stes Gjeù al è zùt fòu da la cjaa e a si à
+sintàt in banda dal lac. Tanta di che zent a à tacàt a vignìghi
+atòr che luj al è zùt dentri di na barcja e a si à sintàt ta chè,
+mentri che la zent a era restada ta la riva. Alora a ghi à
+contàt tanti ròbis in paràbulis, diìnt: Un contadìn al è zùt
+fòu a semenà la so siminsa, e mentri cal sparpajàva la so
+siminsa, part da la siminsa a colava tal so troj, e i usièj a ghi
+vegnèvin davòu e a ghi la mangjàvin. Part a colava ta terèn
+gleròus, cal nol veva tanta cjera buna. La siminsa a spuntava
+fòu sùbit, parsè ca era pucja cjera; ma cuant che il soreli al
+tacava a scjaldà, i bùtuj a si bruàvin e li plàntis a si secjàvin
+parsè ca vèvin pucja radìs. Altri simìnsis a sòn colàdis taj
+spincs, che cul cresi a sofogàvin li plantùtis ca vegnèvin sù.
+E altri simìnsis a sòn colàdis ta cjera buna, indulà ca ti àn fàt
+un bon racòltsent, sesanta o trenta vòltis pì di cuant ca era
+stàt semenàt. Chèl cal à orèlis, cal scolti ben.
+I disèpuj a ghi sòn vegnùs visìn e a ghi àn domandàt: Parsè
+i ghi pàrlitu a la zent in paràbulis?
+10E luj al à rispundùt: La cognosensa daj segrès dal regnu
+dal cjel a vi è stada data a vuàltris, ma no a lòu. A chèl cal à,
+altri a ghi vegnarà dàt, e luj al varà roba in abondansa. Ma
+chèl ca nol à, a ghi vegnarà cjòlt encja sè cal à. A è par chèl
+che jò i ghi parli in paràbulis:
+
+       Se ben ca vuàrdin, a no jòdin;
+       se ben ca sìntin, a no sìntin e a no capìsin.
+
+14E in lòu i jodìn averàsi la profesia di Zaìja, ca dìs:
+
+       I sintarèis sempri ma i no capirèis maj;
+       i vuardarèis sempri ma i no jodarèis maj.
+       A è par chèl che i còus da la zent a si sòn indurìs;
+       a fàn fadìja a sinti cu li so orèlis,
+       e a àn sieràt i so vuj.
+       Sinò a jodarèsin cuj so vuj,
+       a sintarèsin cu li so orèlis,
+       e a capirèsin cuj so còus
+       e a si convertirèsin
+       e jò i ju vuarirès.
+
+16Ma benedès a sòn i to vuj parsè ca jòdin, e li to orèlis parsè
+ca sìntin. In veretàt i vi dìs che tancju profès e òmis juscj a
+volèvin tant jodi sè chi ti jòs tu ma a no lu àn jodùt; e di sinti
+sè chi ti sìns tu, ma a no lu àn sintùt.
+18Scolta alora sè ca significa la paràbula dal semenadòu:
+Cuant che un al scolta la peràula dal regnu dal cjel e a no la
+capìs, il malignu al vèn e a si parta via sè ca era stàt semenàt
+tal so còu. Chista a è la siminsa semenada tal troj. Chèl cal
+veva risevùt la siminsa colada ta la cjera inglerada al è
+lomp cal sìnt la peràula e che a colp a la risèif cun
+contentesa. Ma sicoma ca nol à na radìs, al durarà doma un
+puc di timp. Cuant che brùs timps e persecusiòns a vègnin
+par via da la to peràula, al cola jù in ta puc timp. Chèl cal
+veva risevùt li simìnsis colàdis taj spincs al è lomp cal sìnt
+la peràula, ma li preocupasiòns di stà vita e lingàn daj bes a
+li sofoghèjn e a no ghi permètin di fà frut. Ma chèl cal veva
+risevùt la siminsa colada ta la cjera buna al è chel omp cal
+sìnt la peràula e a la capìs. Al prodùs un racòlt ca ghi rìnt
+sent, sesanta o trenta vòltis di pì di sè cal veva semenàt.
+
+
+
+La Paràbula da li Erbàtis
+
+24Gjeù a ghi à contàt naltra paràbula: Il regnu dal cjel al è
+coma un omp cal à semenàt siminsa buna tal so cjamp. Ma
+mentri che dùcjus a durmìvin, al è vegnùt il so nemìc e a ghi
+à semenàt erbàtis tal cjamp di furmìnt, e dopo al è zùt via.
+Cuant che il furmìnt al à tacàt a cresi e a butà fòu li spìghis,
+alora encja li erbàtis a si sòn fàtis jòdi.
+27I servitòus a sòn zùs a cjatà il so paròn e a ghi àn dita: Siòr
+paròn, i no àtu semenàt siminsa buna ta to cjamp? Da indulà
+ca sòn vegnùdis li erbàtis?
+28Un nemìc me al à fàt chistu, al a rispundùt.
+I servitòus a ghi àn domandàt: Vutu chi zini a tiràlis fòu?
+29No, al à rispundùt, parsè che cul tirà sù li erbàtis, i
+podèis tirà sù da li radìs encja il furmìnt. Lasait ca crèsin
+insièmit fin ca vèn ora da la seadùra. Incovolta i ghi diaraj
+a chej ca zaràn a cjapà sù il racòlt: Prima cjapàit sù li erbàtis
+e fèjlis sù in fàs par bruàlis; e dopo cjapàit sù il furmìnt e
+partàilu tal me solàr.
+
+La Paràbula da la Sènapa e dal Levàn
+
+31A ghi à contàt naltra paràbula: Il regnu dal cjel a è coma
+na siminsa di sènapa che un omp al è zùt a semenà tal so
+cjamp. A è la pì pìsula da li vustri simìnsis, ma cuant ca crès
+a è la planta pì granda dal ort, e a doventa un moràr , cussì
+che i usièj da laria a vègnin a pojasi ta li so bràghis.
+33E a ghi à contàt naltra paràbula: Il regnu dal cjel al è
+coma il levàn che na fèmina a cjoj sù e a insembra cu na
+buna miura di farina fin ca è dut ben impastàt.
+34Gjeù a ghi à contàt duti sti ròbis a la zent in paràbulis; a
+no ghi à dita nuja sensa uà na paràbula. Cussì a si à averàt
+sè ca era stàt dita par bocja dal profet:
+
+       I vierzaràj la me bocja in paràbulis,
+       i diaràj ròbis platàdis fin da la creasiòn dal mont.
+
+Spiegasiòn da la Paràbula da li Erbàtis
+
+36Alora al à lasàt duta la zent e al è zùt dentri da la so cjaa. I
+so disèpuj a sòn zùs a cjatalu e a ghi àn dita: Còntini sè ca
+vòu dii la paràbula da li erbàtis dal cjamp.
+37Luj al à rispundùt: Chèl cal à semenàt la siminsa buna al è
+il Fì dal Omp. Il cjamp al è il mont, e li simìnsis bùnis a sòn
+i fìs dal regnu. Li erbàtis a sòn i fìs dal mal, e chèl ca li
+semena al è il diàu. La seadura a rapreenta la fin dal timp, e
+chej ca cjòlin sù il racòlt a sòn i ànzuj.
+40E coma che li erbàtis a sòn respàdis sù e bruàdis tal fòuc,
+cussì a sarà a la fin dal timp. Il Fì dal Omp al mandarà fòu i
+so ànzuj, e chej a gjavaràn fòu dal so regnu duti che erbàtis
+ca cauin il pecjàt e dùcjus chej ca fàn dal mal. Lòu a ju
+butaràn tal fòuc da la fornàs, indulà cal sarà il planzi e il
+scrisulà daj dincj. Alora i juscj a luaràn coma il soreli tal
+regnu dal Pari. Chèl cal à orèlis, cal scolti.
+
+La Paràbula dal Teoru Platàt e da la Perla
+
+44Il regnu dal cjel al è coma un teoru platàt ta un cjamp.
+Cuant che un omp a lu à cjatàt, a lu à platàt di nòuf, e dopo,
+plen di contentesa, al à vendùt dut sè cal veva e al à crompàt
+chel cjamp.
+
+45E di nòuf, il regnu dal cjel al è coma un comercjànt cal và
+in sercja di pèrlis. Cuant chan dà cjatada una amondi
+presioa, al và a vendi dut sè cal à par crompàsila.
+
+
+La Paràbula da la Reit. Profeta Sensa Onòu
+
+47Il regnu dal cjel al è encja coma na rèit tirada jù tal lac, ca
+cjapa duti li sòrtis di pes. Cuant ca era plena, i pescjadòus a
+làn tirada ta la riva, indulà ca si sòn sintàs jù par meti taj
+zèis ducju i pes bòjs e butà via chej triscj. A sarà cussì
+encja a la fin dal timp. I ànzuj a vegnaràn par spartì i triscj
+daj juscj e butà i triscj tal fòuc da la fornàs, indulà cal sarà
+il planzi e il strisulà daj dincj.
+51I vèju capìt duti sti ròbis? a ghi à domandàt Gjeù.
+Sì, a àn rispundùt.
+52E luj a ghi a dita: Alora ogni mestri da la les cal sà sè cal è
+il regnu dal cjel al è coma il paròn di na cjaa cal parta fòu
+dal so camarìn teòrus nòufs e vècjus.
+53Cuant che Gjeù al veva finìt da contà chisti paràbulis, al è
+zùt via di là. Rivàt tal so paìs, al à tacàt a insegnàjghi a la
+zent in ta la so sinagoga, e lòu a èrin maraveàs. Indulà al
+àja stu omp risevùt chista sapiensa e imparàt a fà scju
+miràcuj? a àn domandàt. A nol ee chistu il fì dal
+carpentèj? Il nòn di so mari a nol ee Maria, e a no soni i so
+fràdis Jacu, Bepi, Simon, e Gjuda? E li so sòus a no soni
+dùtis chì cun nuàltris? Da indulà al àja vùt stu omp dùtis
+chisti ròbis? E a si sòn sintùs dùcjus scandaliàs.
+Ma Gjeù a ghi à dita: Doma tal so paìs e ta la so cjaa un
+profeta al è sensa onòu.
+58E a nol à fàt ulì tancju miràcuj par via ca vèvin tanta
+mancjansa di fede.
+
+Zuan Batista al vèn Decapitàt
+
+14    In ta chel timp là il tetrarca Erod al veva sintùt li
+stòris ca contàvin di Gjeu, e a ghi à dita ai so consilièrs:
+Stu chì al è Zuan il Batista risusitàt daj muàrs! A è par chèl
+cal sta faìnt miracuj.
+3Alora Erod al à arestàt Zuan e incjadenàt a butàt in preòn
+par caua di Erodia, la fèmina di so fradi Filip, parsè che
+Zuan a ghi veva dita: A no ti è lècit di tègnila. Erod al
+voleva copà Zuan, ma al veva poura dal pòpul, parsè ca lu
+consideràvin un profèt.
+6Tal dì dal compleàn di Erod la fìja di Erodia a à balàt par
+lòu, e Erod al era restàt cussì contènt ca ghi veva prometùt
+sot zuramìnt di dàjghi cualsìasi roba ca voleva. E ic,
+stusigada da la mari, a ghi à dita: Dami ta un plat il cjaf di
+Zuan il Batista. Il re al era puc contènt, ma a caua dal so
+zuramìnt e daj so invidàs, al à ordinàt ca si fès coma ca
+voleva ic, e Zuan al è stàt decapitàt ta la so preòn. Il so cjaf
+al è stàt partàt dentri ta un plat e a ghi è stàt dàt a la fantata,
+e ic a ghi lu à partàt a so mari. I disèpuj di Zuan a sòn
+vegnùs a cjoj il so cuarp e a lu àn soteràt. Dopo a sòn zùs a
+dìighilu a Gjeù.
+
+Gjeu a ghi dà da Mangjà a Miàrs
+
+13Cuant che Gjeù al à sintùt sè ca era susedùt, al è zùt besòu
+cu na barcja ta un post solitari. Sintìnt chistu, tanta zent daj
+paìs a ghi è zuda davòu a piè. Cuant che Gjeù al è rivàt ta la
+riva e al à jodùt duta sta zent, al à vùt compasiòn e al à
+vuarìt i so malàs.
+15Cul vignì da la sera, i disèpuj a si sòn visinàs e a ghi àn
+dita: Chistu post al è lontàn e deèrt, e a si stà faìnt tars.
+Manda via duta chista zent, ca pòsi zì taj so paìs a crompasi
+alc da mangjà.
+16Gjeù al à replicàt: A no ocòr ca zèdin via. Dèjghi vuàltris
+alc da mangjà.
+17I vìn doma sinc pagnòchis di pan e doj pes, a àn
+rispundùt.
+18Partàimilis chì a mi, al à dita. E a ghi dita a la zent di
+sintasi jù ta lerba. Cjapànt sù li sinc pagnòchis e i doj pes,
+al à vuardàt in alt tal cjel, diìnt gràsis, e al à ròt li pagnòchis
+a tocs. Dopo a ghi ju à dàs ai disèpuj, e i disèpuj a ghi ju àn
+dàs a la zent. Dopo che dùcjus a vèvin mangjàt avonda, i
+disèpuj a àn cjapàt sù dòdis zèis di tocùs ca èrin vansàs. Il
+nùmar di chej ca vèvin mangjàt al era di circa sincmil òmis,
+sensa contà fèminis e fioj.
+
+Gjeù al Cjamina su lAga
+
+22Sùbit dopo Gjeù al à fàt montà ta la barcja i so disèpuj e a
+ghi à dita di zì davànt di luj ta che altra banda, intànt che luj
+a si varès rangjàt a dispièrdi la zent. Dopo vejla dispierduda,
+al è zùt sù ta na montagna a preà. Cuant ca era rivada la
+sera, al era la sù besòu, ma la barcja a era a na buna distansa
+da la cjera, sbatuda da li òndis par via dal vint contrari.
+25Ma durànt la cuarta ora da la nòt Gjeù a ghi è zùt cuntra,
+cjaminànt tal lac. Cuant che i disèpuj a àn jodùt cal
+cjaminava tal lac, a àn cjapat na poura mata. Al è un
+spirit, a àn dita, e a si sòn metùs a sigà da la poura.
+27Ma Gjeù a ghi à sùbit dita: Dèjsi coragju. I soj jò. No
+stèit vej poura.
+28Signòu, si ti sòs tu, al à replicàt Pieri, dìimi di vignì lì
+di te su laga.
+29Vèn, a ghia dita.
+Alora Pieri al è zùt fòu da la barcja, e al à tacàt a cjaminà su
+laga vièrs là cal era Gjeù. Ma cuant cal à sintùt il vint al à
+cjapàt poura e, tacànt a infondasi, al à sigàt: Signòu,
+sàlvimi!
+31Gjeù al à sùbit butàt fòu la man, a lu à cjapàt e a ghi à
+dita: Omp di pucja fede; parsè iàtu dubitàt?
+32E cuant ca sòn montàs sù ta la barcja, il vint al è calàt.
+Alora chej ca èrin ta la barcja a si sòn metùs a adoralu,
+diìnt: Ti sòs pròpit if Fì di Diu.
+34A la fin da la traversàda, a sòn sbarcjàs a Genèaret. E
+cuant che i òmis di chel post a an savùt cal era Gjeù, a àn
+fàt cori la vòus atorotòr di dut chel post. La zent a ghi à
+partàt ducju i so malàs e a lu à preàt di lasà ca ghi tocjàsin
+lorli da la so mantelina, e dùcjus chej ca lu àn tocjàt a si sòn
+vuarìs.
+
+Sè Cal Incuinèal Omp
+
+15    Alora cualchi Farièo e cualchi maestri da la les a sòn
+vegnùs a cjatà Gjeù da Gjerualem e a ghi àn domandàt:
+Parsè a ròmpini i to disèpuj li uànsis daj vècjus? A no si
+làvin li mans prima da mangjà!
+3Gjeù al à rispundùt: E parsè i rompèiu vuàltris il
+comandamìnt di Diu in nòn da la vustra tradisiòn?
+4Parsè che Diu al à dita: Onoràit il pari e la mari e Chel
+cal maledìs so pari o so mari a è mièj cal mori. Ma vuàltris
+i dièis che se un omp a ghi dìs a so pari o a so mari
+Cualsìasi asistensa chi vèis risevùt da me al è un regàl chi
+ghi faj a Diu, a no ghi rint pì onòu a so pari. Faìnt cussì i
+rinegàis la peràula di Diu in nòn da la vustra tradisiòn.
+Ipòcris chi sèis! Zaìja al veva raòn cuant cal à cussì
+profetiàt su vuàltris:
+8Chistu pòpul a mi onòra cuj so làvris, ma i so còus a sòn
+lontàns da me. 9A mi adorèjn invàn; a insègnin dutrìnis e
+precès daj òmis.
+10Gjeù al à clamàt la zent visìn e a ghi à dita: Sè cal và ta
+la bocja di un omp a no lu contaminèa; a è sè ca vèn fòu da
+la so bocja ca lu contaminèa.
+12Alora i disèpuj a ghi sòn zùs atòr e a ghi àn domandàt: I
+satu che i Farièos a si sòn ufindùs cuant ca àn sintùt
+chistu?
+13Al à rispundùt: Ogni planta che il me Pari cal è tal cjel a
+nol à plantàt a vegnarà tirada sù da li radis. Lasàju stà; a sòn
+guìdis svuàrbis. Se un svuarp al guida naltri svuarp, ducju
+doj a colaràn ta un fosàl.
+15Pieri al à dita: Spièghini la paràbula.
+16Ma i sèju encjamò cussì durs di cjaf? Gjeù a ghi à
+domandàt. No jodèju che cualsìasi roba ca vèn metuda in
+bocja a và tal stòmit e dopo a và fòu dal cuarp? Ma li ròbis
+ca vègnin fòu da la bocja a vègnin dal còu, e chìstis a
+contaminèjn il omp. Parsè che dal còu a vègnin fòu pensèjs
+brus, omicidios, adultèris, imoralitàs sesuàls, rapìnis,
+testimoniànsis fàlsis, bestèmis. Chìstis a sòn li ròbis ca
+contaminèjn il omp; ma il mangjà cu li mans spòrcjs a nol
+contaminèa il omp.
+
+La Fede da la Fèmina Cananèa
+
+21Lasànt chel post là, Gjeù a si à ritiràt ta la zona di Tir e
+Sidòn. Na fèmina Cananèa di chel post là a ghi à zùt visìn
+planzìnt: Signòu, fì di David, pietàt di me! Me fìja a è
+tormentada daj demònis.
+23Gjeù a nol à rispundùt nencja na peràula. Alora i so
+disèpuj a ghi sòn zùs visìn e a lu àn imploràt: Màndila via,
+ca no fà altri che plànzini davòu.
+24Al à rispundùt: I soj stàt mandàt doma pa li piòris
+pierdùdis di Israel.
+25La fèmina a è vegnuda e a si à inzenoglàt davànt di luj.
+Signòu, jùdimi!a à dita.
+26Al à replicàt: A no è just cjòjghi il pan ai frutùs par
+butàjghilu ai so cjanùs.
+27Sì, Signòu, a à dita,  ma encja i cjans a màngjn li frigùjs
+ca còlin da la tàula dal paròn.
+28Alora Gjeù al à rispundùt: Fèmina, i ti às na granda fede!
+I faràj coma chi ti vòus! E so fìja a è stada vuarida ta che
+stesa ora.
+
+Gjeù a ghi dà da Mangjà ai Cuatri Mil
+
+29Gjeù al à lasàt chel post e al è zùt ta li bàndis dal Mar di
+Galilea. Là al è zùt sù ta na culina e a si à sintat jù. Tanta
+zent a è rivada lì cal era, partant i suès, i svuàrps, i strupiàs, i
+mus e tàncjus encjamò ca àn lasàt lì ai so piè; e luj a ju à
+vuarìs. Il pòpul al era restàt maraveàt al jòdi che il mut al
+parlava, il strupiàt al era vuarìt, il suèt al cjaminava, e il
+svuarp al jodeva. E al laudava il Diu di Israel.
+32Gjeù al a clamàt visìn i so disèpuj e a ghi à dita: Duta
+chista zent a mi fà dòu; a sòn tre dìs ca è chì cun me e a no à
+nuja da mangjà. I no vuèj mandà via nisùn plen di fan, parsè
+cal è bon da colà jù pa la strada.
+33I so disèpuj a àn rispundùt: Indulà i zinu a cjatà asàj pan
+ta stu deèrt par sfamà duta stà zent?
+34Cuanti pagnòchis i vèju? al à domandàt Gjeù.
+Sièt, a àn rispundùt, e cualchi pesùt.
+35A ghi à dita a la zent di sintàsi in cjera. Dopo al à cjapàt sù
+li sièt pagnòchis e il pès, e dopo vej fàt i so ringrasiamìns, a
+ju à ros a tocùs e a ghi ju à dàs ai so disèpuj, e chej al pòpul.
+Dùcjus a àn mangjàt e a si sòn sintùs sodisfàs. A la fin, i
+disèpuj a àn cjapàt sù cualchi bièl zèj di tocùs di pan ca èrin
+vansàs. Il nùmar di chej ca vèvin mangjàt al era cuatri mil,
+sensa contà feminis e fioj. Dopo che Gjeù al veva mandàt
+via la zent, al è montàt ta la barcja e al è zùt ta la zona di
+Magadan.
+
+La Domanda di un Sen
+
+16    I Farièos e i Saducèos a sòn zùs lì di Gjeù e a lu àn
+tentàt cu la domanda di fàjghi jodi un sen dal cjel.
+2Al à rispundùt: Cuant ca vèn la sera i dièis A farà bun
+timp parsè che il cjel al è ros, e a la matina Vuèj a vegnarà
+un temporàl parsè che il cjel al è ros e nulàt. I savèis coma
+interpretà laspièt dal cjel, ma i no sèis bòis da capì i sens
+daj nustri timps. Una generasiòn trista e adulteroa a vuarda
+par sens miraculòus, ma a non varà nencja un, aldifòu dal
+sen di Gjona. Gjeù al è dopo zùt via e a ju à lasàs lì.
+
+Il Levàn daj Farièos e daj Saducèos
+
+5Cuant ca èrin zùs ta che altra banda dal lac, i disèpuj a si
+vèvin dismintiàt di partà il pan. Stèit atèns, a ghi à dita
+Gjeù. Stèit atèns dal levàn daj Farièos e daj Saducèos.
+7Parlànt fra di lòu, a àn dita: A è parsè chi no vìn partàt il
+pan.
+8Savìnt sè ca dièvin, Gjeù a ghi à domandàt: Òmis di
+pucja fede, parsè i stèju diìnt chi no vèis pan? I no sèju
+maj bòjs da capì? I no vi recuardàju da li sinc pagnòchis paj
+sinc mil, e daj zèis ca sòn vansàs? Coma i fèju a no capì
+che jò i no vi parlàvi di pan? Ma stèit atèns dal levàn daj
+Farièos e daj Saducèos. Alora a àn capìt ca no ghi steva
+diìnt di stà atèns dal levàn uàt tal pan, ma daj insegnamìns
+daj Farièos e daj Saducèos.
+
+La Confesiòn di Pieri
+
+13Rivàt ta la regiòn da la Cearea di Filìp, Gjeù a ghi à
+domandàt ai disèpuj: Cuj a pènsia la zent cal sedi il Fì dal
+Omp?
+14A àn rispundùt: Cualchidùn al dìs Zuan il Batista; àltris a
+dìin Lìja; e àltris Gjeremìja o un daj profès.
+15Ma vuàltris? al à dita. Cuj i dièju chi sedi?
+16Simon Pieri al à rispundùt: Tu i ti sòs il Crist, il fì dal Diu
+vivìnt.
+17Gjeù al à rispundùt: Tu i ti sòs benedèt, Simon fì di
+Gjona, parsè che chistu a no ti è stàt rivelàt dal omp, ma dal
+me Pari cal è tal cjel. E i ti dìs chi ti sòs Pieri, e in ta stà
+piera i metaràj sù la me gliia, e li puàrtis dal infièr a no
+zovaràn cuntra di ic. I ti daràj li clafs dal regnu dal cjel; dut
+sè chi ti lèis ta la cjera al sarà leàt in tal cjel, e dut sè chi ti
+dislèis ta la cjera al sarà disleàt tal cjel.
+20Dopo al à viàt i disèpuj di no dìighi a nisùn cal era il
+Crist.
+
+
+
+Gjeù al Anuncja la so Muart
+
+21Da chel momènt lì, Gjeù al à tacàt a dìighi ai so disèpuj
+ca ghi tocjarà zì a Gjerualem e sufrì tant par man daj
+ansiàns, daj capoprèdis e daj maèstris da la les, e cal vegnarà
+copàt e che tre dìs dopo al risusitarà.
+22Pieri a lu à tiràt in banda e a ghi à dita ròbis. Maj,
+Signòu! a ghi à dita. Chistu a no ti susedarà maj a ti!
+23Gjeù a si à voltàt e a ghi à dita a Pieri: Va via di chì,
+Satana! Tu ti mi intrìghis e basta; i no ti às in mins li ròbis di
+Diu, ma li ròbis daj òmis.
+24Dopo Gjeù a ghi à dita ai disèpuj: Se un al vòu vignì
+davòu di me, al à di rinegà se stes e cjapà sù la so cròus e
+seguìmi. Parsè che cualsìasi cal vòu salvà la so vita, a la
+pierdarà; ma cualsìasi cal pièrt la so vita par me, a la cjatarà.
+Se ghi zovaràja a un omp di vèj dut il mont sal và a pierdi
+la so anima? O sè cal pòl dà un omp in cambiu da la so
+anima? Il fì dal Omp al vegnarà in ta la gloria di so Pari cuj
+so ànzuj, e dopo al premiarà ogni un secònt sè cal à fàt. I vi
+dìs la veretàt, che cualchidùn di chej ca sòn chì a no
+gustaràn la muart prima di vej jodùt il fì dal Omp entrà tal
+so regnu.
+
+La Trasfigurasiòn
+
+17   Dopo sèis dìs Gjeù al à cjapàt sù Pieri, Jacu, e Zuan,
+fradi di Jacu, e a ju à partàsdoma lòuta na montagna
+alta. Ulà a si à trasfiguràt davànt di lòu. La so mua a à brilàt
+coma il soreli, e i so vistìs a sòn doventàs blancs coma la
+lus. Tal stes momènt a àn jodùt Moè e Lìja ca parlàvin cun
+Gjeù.
+4Pieri a ghi à dita a Gjeù: Signòu, a và ben che nu i sini
+chì. Si ti vòus, i prepari tre tèndisuna par te, una par
+Moè, e una par Lìja.
+5Mentri cal parlava, una nula luminoa a ju à inglusàs sù, e
+na vòus da la nula a à dita: Chistu al è me Fì, che jò i ghi
+vuèj ben; di luj i soj tant contènt. Scoltàjlu ben!
+6Al sinti chistu i disèpuj a sòn colàs in cjera, cu la mua in
+jù, teroriàs. Ma Gjeù a ghi è zùt visìn e a ju à tocjàs.
+Levàit sù, a ghi à dita, No stèit vej poura. Alsànt i vuj a
+no àn jodùt pì nisùn, fòu che Gjeù.
+9Vignìnt jù da la montagna, Gjeù a ghi à comandàt: No
+stèit dìighi a nisùn sè chi vèis jodùt prin che il Fì dal Omp a
+nol sedi risusitàt.
+10I disèpuj a ghi àn domandàt: Parsè alora i maèstris da la
+les a dìini che Lìja al à da vignì prima?
+11Gjeù al à rispundùt: A e vera che Lìja al vèn e al metarà
+a post dut. Ma i vi dìs chistu, che Lìja al è belza vegnùt e a
+no sòn bòjs da cognòsilu, ma a ghi àn fàt sè ca volèvin. Ta la
+stesa maniera il Fì dal Omp al zarà a sufrì ta li so mans.
+Alora i disèpuj a àn capìt che luj a ghi steva parlànt di Zuan
+il Batista.
+
+La Vuarisiòn dal Frut Epilètic
+
+14Cuant ca sòn rivàs lì di un scjàp di zent, un omp al è zùt
+visìn di Gjeù e si à inzenoglàt davànt di luj.
+Signòu, i vuèj chi ti vèdis pietàt di me fì, al à dita. Al è
+epilètic e al sufrìs tant. Al cola spes tal fòuc o in ta laga. I
+ghi lu ài partàt ai to disèpuj, ma lòu a no àn podùt vuarìlu.
+17O generasiòn di zent perversa e di pucja fede, al à
+rispundùt Gjeù, par cuant timp i varàju da stà cun vuàltris?
+Par cuant timp i àju da sufrìvi? Partàimi chì il frutùt. Gjeù
+al à cridàt il demòni, cal è vegnùt fòu dal frut, e da chel
+momènt il frut al è restàt vuarìt.
+19Alora i disèpuj a si sòn tiràs in banda cun luj e a ghi àn
+domandàt: Parsè i no podèvinu casàlu fòu nuàltris?
+20Al à rispundùt: Parsè chi no vèis abastansa fede. I vi dìs la
+veretàt, che encja se la vustra fede a è pìsula coma un
+gragnèl di sènapa, i podèis dìighi a chista montagna
+Mòviti da chì a là e ic a si movarà. Nisuna roba a vi sarà
+impusìbula.
+22Cuant ca sòn rivàs insièmit a Galilea, luj a ghi à dita: Il Fì
+dal Omp al vegnarà tradìt in ta li mans daj òmis. Al vegnarà
+copàt, e al ters dì al tornarà a vivi. E i disèpuj a èrin plens
+di dolòu.
+
+Il Tribùt pal Templi
+
+24Dopo che Gjeù e i so disèpuj a èrin rivàs a Cafernau, chej
+ca scuèdin li tàsis daj doj dracmas a sòn zùs lì di Pieri e a
+ghi àn domandàt: Il to maestri a nol pàja li tàsis dal
+templi?
+25Sì ca lu fà, al à rispundùt.
+Cuant che Pieri al è vegnùt in cjaa, Gjeù al è stàt il prin a
+parlà. Se pènsitu, Simon? al à domandàt. Da cuj a cjòjni i
+governàns da la cjera li so tàsis e tribùsdaj so fioj o da
+àltris?
+26Da àltris, al à rispundùt Pieri.
+Alora i fioj a sòn eentàs, Gjeù a ghi à dita. Ma par chi
+no zini a ufìndiju, và tal lac e tira fòu il àmp. Il prin pès cal
+và a cjapàsi, tìrilu sù e vièrzighi la bocja, che dentri al varà
+na moneda di cuatri dracmas. Cjòj la moneda e dàjghila a
+lòu pa li to tàsis e pa li mes.
+
+Il Pì Grant tal Regnu dal Cjel.
+18   Ta chel timp là i disèpuj a si sòn visinàs a Gjeù e a
+ghian domandàt: Cuj cal è il pì grant tal regnu dal cjel?
+2Al à clamàt un frutùt e a lu à fàt stà cun lòu. E al à dita: I
+vi dìs la veretàt, che si no cambiàis e i doventàis coma i
+frutùs, i no entrarèis maj tal regnu dal cjel. Duncja, cualsìasi
+cal doventa picinìn coma stu frutùt al sarà il pì grant tal
+regnu dal cjel.
+5E cualsìasi cal risèif un frutùt coma chistu in nòn me a mi
+risèif me. Ma se un al parta un di scju frutùs ca cròdin in me
+a cometi un pecjàt, a sarès mièj par luj ca si metès atòr dal
+cuèl una piera di mus da mulìn e ca si innegàs tal pì profònt
+dal mar.
+7Guàj al mont paj scànduj! I scànduj a vàn a susèdi, ma guàj
+al omp ca ghi è la caua! Se la to man o il to piè a ti fa pecjà,
+tàjlu e bùtilu via. A è mièj chi ti èntris ta la vita sturpiàt o
+suèt che vej do mans o doj piè e vignì butàt tal fòuc eterno.
+E se il to vuli a ti fà comèti un pecjàt, gjàvilu fòu e bùtilu
+via. A è mièj par te di tacà a vivi cun un vuli e basta che
+vèjni doj e vignì butàt tal fòuc dal infièr.
+10Stèit atèns da no dispresà un di scju frutùs, chi vi dìs jò
+che i so ànzuj tal cjel a jòdin sempri la mua di me Pari cal è
+tal cjel.
+11Parsè che il Fì dal Omp al è vegnùt par salvà chèl cal era
+pierdùt.
+12Sè pensàiu? Se un omp al à sent piòris, e una di chès a si
+pièrt, a nol làsia li novantanòuf par zì in sercja di chè ca è
+pierduda? E i vi dìs la veretàt che sa la cjata al è pì contènt
+di chè che di dùtis che altri piòris ca no si èrin pierdùdis. E a
+è pròpit cussì cul vustri Pari cal è tal cjel, ca nol vòu che
+nisuna da li so piòris a zedi pierduda.
+
+La Colpa dal Fradi
+
+15Se to fradi al comèt un pecjàt cuntra di te, dìighi in
+cunfidensa cual cal è il so pecjàt. Sa ti scolta i ti varàs
+guadagnàt un fradi. Ma sa no ti scolta, parta cun te una o
+dos persònis che la roba a vegni stabilida di front di doj o tre
+testimònis. Se dopo a nol vòu scoltà nencja chìscjus, và a
+dìighilu a la gliia; e sa nol scolta nencja la gliia, alora
+tràtilu coma un pagàn o un publicàn.
+18I vi dìs la veretàt: Cualsìasi roba chi leàis insièmit chì in
+cjera a sarà leàda in tal cjel, e cualsìasi roba chi disleàis chì
+in cjera al sarà disleàt in tal cjel.
+19I vi dìs èncja che se doj di vuàltris i sèis dacòrdu su sè
+chi domandàis, al sarà fàt dal me Pari cal è tal cjel. Parsè
+che indulà che doj o tre a si mètin dacòrdu in nòn me, jò i
+saràj cun lòu.
+
+La Paràbula dal Servitòu Spietàt
+
+21Alora Pieri a si à visinàt a Gjeu e a ghi à domandàt:
+Signòu, Cuanti vòltis i àju da perdonàjghi a me fradi par
+vej pecjàt cuntra di me? Fin a sièt vòltis?
+22Gjeù a ghi à rispundùt: I ti lu dìs jò, no doma sièt vòltis,
+ma setantasièt vòltis.
+23Alora il regnu dal cjel al è coma un re cal voleva fà i cons
+cuj so servitòus. Apèna tacàt a fà i cons, un omp ca ghi era
+debitòu di deismìl talèns a ghi è stàt partàt davànt. Sicoma
+ca nol podeva pajà il so dèbit, il paròn al veva ordinàt che
+luj, la so fèmina e i so fioj e dut sè cal veva a vegnèsin
+vendùs par pajà il so dèbit.
+26Il servitòu a si veva inzenoglàt davànt di luj, e a lu veva
+preàt: Vèit pasiensa di me, che jò i vi pajaràj il dèbit. Il
+paròn dal servitòu al à vùt pietàt di luj e dopo vej cancelàt il
+dèbit a lu à lasàt zì.
+28Ma cuant che il servitòu al era zùt fòu, al à cjatàt naltri
+daj servitòus cal veva un dèbit cun luj di sent dìnars. A lu à
+cjapàt e tacàt a strìnzilu pa la gola. Pàjmi il to dèbit! a ghi
+à comandàt.
+29Il so compaj a si à metùt in zenoglòn e a lu a preàt: Ti às
+di vej pasiensa cun me, che jò i ti tornaràj dut.
+30Ma al à rifiutàt. Invensi al è zùt via e al à fàt meti lomp in
+preòn fin ca nol varès pajàt il so dèbit. Cuant che i altri
+servitòus a àn jodùt sè ca era susedùt, a sòn zùs a cjatà il
+paròn e a ghi àn contàt dut sè ca era susedùt.
+32Alora il paròn al à mandàt a clamàlu. Spietàt di servitòu,
+a ghi à dita, I ài cancelàt dut il to dèbit parsè chi ti mi vèvis
+preàt di falu. I no varèsitu di vej vùt compasiòn dal to
+compàj coma chi lài vuda jò par te? Dut rabiàt, il paròn a
+ghi lu à dàt in man ai vuardiàns par ca lu torturàsin fin ca
+nol vès pajàt dut il so dèbit.
+35In ta chista maniera il me Pari celèst al tratarà ogni un di
+vuàltris si no ghi perdonàis di còu ai vustri fràdis.
+
+Divòrsiu
+
+19    Cuant che Gjeù al veva finìt di dii chisti robis, al à
+lasàt la Galilea e al è zùt ta la regiòn da la Gjudea ca è ta che
+altra banda dal Gjordàn. Tanta zent a ghi à zùt davòu e luj al
+à vuarìt i malàs ulà.
+3Cualchi Farièo a ghi à zùt visìn par mètilu a la prova. A
+ghi àn domandàt: A ee lècit par un omp di divorsiàsi da la
+so fèmina par cualsìasi raòn?
+4No veju leùt, al à rispundùt, che al inìsi il Creatòu a ju
+à fàs mascju e fèmina e al à dita che
+5par chèl un omp al lasarà il pari e la mari par unìsi cu la so
+fèmina, e che i doj a saràn una cjar? Alora a no sòn pì doj,
+ma un. Duncja sè che Diu al à metùt insièmit, ca nol vegni
+pì separàt dal omp.
+7Alora parsè, a àn domandàt, al àja Moè ordinàt che
+lomp a ghi dès a la fèmina un certificàt di divòrsiu e ca la
+mandàs via?
+8Gjeù al à rispundùt: Moè a vi à permetùt di divorsià li
+vustri fèminis parsè chi vèvis i còus durs. Ma a no è stàt
+cussì fin dal inìsi. I vi dìs che ogni un cal divorsièa la so
+fèmina, fòu che par raòns di infedeltàt matrimoniàl, e al
+spoa naltra fèmina al comèt adulteri.
+10I so disèpuj a ghi àn dita: Sa è cussì fra omp e fèmina,
+alora a è mièj no spoasi.
+11Gjeù al à rispundùt: No dùcjus a sòn bojs da capì chistu,
+ma doma chej ca ghi è stàt dàt di capilu. Parsè che
+cualchidùn al è enùc par via che cussì al è nasùt; àltris a sòn
+stàs fàs cussì daj òmis; e àltris a àn rinuncjàt al matrimoni
+pal regnu dal cjel. Chèl cal pòl capì chistu, ca lu capisi.
+
+Gjeù e i Frutùs
+
+13Alora i frutùs a ghi sòn stàs partàs a Gjeù, che luj al podès
+tocjàju cu li so mans e preà par lòu. Ma i disèpuj a ghi àn
+dita ròbis a chej ca ju àn partàs lì.
+14Gjeù al à dita: Lasàit che i frutùs a vègnin chì di me, e no
+stèit impedìju, parsè che il regnu dal cjel al è par chej ca sòn
+coma lòu. Dopo ca ghi veva pojàt li mans intòr, al à paràt
+via pa la so strada.
+
+
+Il Zòvin Siòr
+
+16Adès un omp a ghi è zùt visìn di Gjeù e a ghi à domandàt:
+Maestri, cuali ròbis bùnis i àju da fà par otegni la vita
+eterna?
+17Parsè i mi domànditu di sè cal è bon? Gjeù a ghi à
+rispundùt. Doma Un al è bon. Si ti vòus otegni la vita
+eterna, ubidìs i comandamìns.
+18Cuaj comandamìns? lomp al à volùt savèj.
+Gjeù al à rispundùt: Nosta copà, nosta comèti adulteri,
+nosta robà, nosta dà testimoniansa falsa, rìndighi onòu a to
+pari e a to mari, e trata ben il to visìn coma te stes.
+20I ju ài belzà oservàs dùcjus, al à dita il zòvin. Sè ca mi
+mancja?
+21Gjeù al à rispundùt: Si ti vòus èsi perfèt, và, vènt dut sè
+chi ti às e dàjghilu ai puarès, e i ti varàs un teoru in tal cjel.
+Dopo vèn davòu di me.
+22Cuant che il zòvin al veva sintùt chistu, al era zùt via
+malcontènt, parsè cal era amondi siòr.
+23Alora Gjeù a ghi à dita ai so disèpuj: I vi dìs la veretàt,
+ca è difìsil par un siòr di entrà tal regnu dal cjel. E i vi dìs
+pur chistu, ca è pì fàsil par un camèl di pasà pal buùt di na
+guiela che par un siòr di entrà al regnu di Diu.
+25Cuant che i disèpuj a àn sintùt chistu a sòn restàs dùcjus
+maraveàs, e a àn domandàt: Ma cuj alora al podaràja
+salvàsi?
+26Gjeù a ju a vuardàs e a ghi à dita: Pal omp chistu al è
+impusìbul, ma par Diu dut a è pusìbul.
+27Pieri a ghi à rispundùt: I vìn dàt dut sù par vignì davòu di
+te! Se saràja alora di nuàltris?
+28Gjeù a ghi à dita: I vi dìs la veretàt: Al rinovamìnt di duti
+li ròbis, cuant che il Fì dal Omp al sarà sintàt tal so trono
+gloriòus, vuàltris chi mi vèis seguìt i sarèis encja vuàltris
+sintàs ta dòdis trònos, par gjudicà li dòdis tribùs di Israel. E
+dùcjus chej ca àn lasàt cjàis o fràdis o sòus o pàris o màris
+o fioj o cjamps par vignì cun me a risevaràn sent vòltis di pì
+e a ereditaràn la vita eterna. Ma tancju di vuàltris chi sèis
+prins i sarèis ùltins, e tàncjus chi sèis ùltins i sarèis prins.
+
+La Paràbula daj Vendemadòus
+
+20    Il regnu dal cjel al è coma un paròn di cjaa cal è zùt
+fòu di matina bunora par cjata zent ca ghi lavoràs a zornada
+ta la vigna. A si à metùt dacordu cun lòu di pajàighi un
+dìnar al dì e a ju à mandàs ta la vigna.
+3Visìn da la tersa ora al è zùt fòu e al à jodùt àltris ca stevin
+in plasa sensa nuja da fà. A ghi à dita: Zèit encja vuàltris a
+lavorà ta la me vigna, e i vi pajaràj sè ca è just. Cussì a sòn
+zùs.
+Al è zùt fòu di nòuf visìn da la sesta ora e da la nona ora, e
+al à fàt la stesa roba. Visìn da la undiceima ora al è zùt fòu
+di nòuf e an dà jodùs àltris ca stèvin lì dibànt. A ghi a
+domandàt: Parsè i steju chì duta la zornada sensa fà nuja?
+7 Parsè che nisùn a ni à dàt lavoru, a àn rispundùt.
+Alora a ghi à dita: Zèit encja vuàltris a lavorà ta la me
+vigna.
+8 Rivada la sera, il paròn da la vigna a ghi à dita al so
+castaldu: Clama i vendemadòus e dàjghi la so paja, tacànt
+cuj ùltins ca àn tacàt a lavorà e finìnt cuj prins.
+9Chej ca vèvin tacà atòr da la undiceima ora a si sòn
+visinàs e ogni un al à risevùt un dìnar.
+10Alora cuant ca sòn vegnùs indavànt chej ca vèvin tacàt par
+prins, a si spetàvin di risevi di pì. Ma encja ogni un di
+chìscjus al à risevùt un dìnar. Cuant ca lu àn risevùt, a àn
+tacàt a lamentasi cuntra il paròn. Chej òmis ca sòn vegnùs
+ùltins a àn lavoràt doma na ora, a àn dita, e tu i ti ju às
+tratàs coma nuàltris chi vìn sopuartàt il cargu pì peànt e il
+calòu dal dì.
+13Ma a un di lòu a ghi à rispundùt: Amigo, jò i no ti staj
+faìnt tuàrt. I no èritu dacòrdu di lavorà par un dìnar? Cjoj
+sù la to paja e và. I vuej dàjghi la stesa paja a chèl cal à tacàt
+a lavorà par ùltin. I no àju il dirìt jò di fà se chi vuèj cuj me
+bes? O i sotu invidiòus parsè chi soj generòus?
+16Cussì lùltin al sarà prin, e il prin al sarà ùltin.
+
+Gjeù al Anuncja di Nòuf la so Muart
+
+17Adès intivànt Gjeù di zì a Gjerualem, al à tiràt i dòdis
+disèpuj in banda e a ghi à dita: I zìn a Gjerualem, e il Fì
+dal Omp al vegnarà tradìt e consegnàt al pì alt daj prèdis e ai
+maèstris da la les. A lu condanaràn a muart e a lu
+consegnaràn ai pagàns par cal vegni cjòlt in ziru e flagelàt e
+metùt in cròus. Tal ters dì al risusitarà.
+
+La Domanda di na Mari
+
+20Alora la mari daj fìs di Zebedèo a è vegnuda a Gjeù cuj so
+fioj e in zenoglòn a ghi à domandàt un plaèj.
+21Sè vutu vej? al à domandàt.
+Ic a à dita: Fà che un di scju doj fioj mes al zedi a sintasi a
+la to destra e chel altri a la to sinistra tal to regnu.
+22I no ti sas sè chi ti stàs domandànt, Gjeù a ghi à dita. I
+podèju bevi la copa chi staj par bevi jò?
+I podìn, a àn rispundùt.
+23E luj a ghi à dita: I bevarèis sul seriu da la me copa, ma di
+sintasi ta la me destra o sinistra a no è na roba chi posi
+concèdivi jò. Chiscju poscj a sòn par chej cal à decidùt me
+Pari.
+24Cuant ca àn sintùt chistu, chej altri dèis a si sòn indignàs
+cuj doj fràdis. Gjeù a ju à clamàs insièmit e a ghi à dita: I
+savèis che i càpos daj pagàns a dominèjn sù di lòu, e i
+grancj a àn plena autoritàt sù di lòu. Cun vuàltris a no è
+cussì. Invensi, chèl cal vòu doventà grant fra di vuàltris, al à
+da fasi vustri servitòu, e chèl cal vòu èsi prin al à di èsi il
+vustri servitòupròpit coma che il Fì dal Omp a nol è
+vegnùt par èsi servìt, ma par servì, e par dà sù la vita par
+riscatà tàncjus àltris.
+
+
+Doj Svuàrps a Tòrnin a Jodi
+
+29Mentri che Gjeù e i so disèpuj a lasàvin Gjerico, tanta zent
+a ghi zeva davòu. Doj òmis svuarps a èrin sintàs in banda da
+la strada, e cuant ca àn sintùt che Gjeù al steva pasànt in
+banda, a àn sigàt: Signòu, Fì di David, vèit pietàt di nu!
+31La zent a ghi à dita ròbis e di stà sidìns, ma lòu a si sòn
+metùs a sigà pì fuart encjamò: Signòu, Fì di David, vèit
+pietàt di nu!
+32Gjeù a si à fermàt e a ju à clamàs. Se volèju chi fedi par
+vuàltris? a ghi à domandàt.
+33Signòu, a àn rispundùt, i volìn podèj jodi.
+34Gjeù al à vùt compasiòn di lòu e al à tocjàt i so vuj. Lòu a
+àn ricuperàt la so vista a colp e a lu àn seguìt.
+
+La Entrada Trionfàl
+21    Mentri ca zèvin vièrs di Gjerualem, a sòn rivàs a
+Betfaga tal Mont daj Ulìfs, e Gjeù al à mandàt là doj daj so
+disèpuj. A ghi à dita: Zèit ta chel paeùt chi vèis davànt di
+vuàltris, e là i jodarèis sùbit una musa impeàda, cul so pujèri
+visìn di ic. Molàiju e partàimiu chì a mi. Se cualchidùn a vi
+dìs alc, diejghi che il Signòu al à biugna di lòu, e a vi ju
+tornarà sùbit.
+4Chistu al è susedùt par ca si averàs sè ca era stàt dita dal
+profeta:
+
+5Dièjghi a la Fìa di Zion:  Jòjtu, il to re a ti vèn visìn
+dòcil e sintàt ta na musa, ta un pujèri, fì di na bestia da
+tiru.
+
+6I disèpuj a sòn zùs e a àn fàt chèl che Gjeù a ghi veva dita
+di fà. A ghi àn partàt la musa e il pujèri, a ghi àn metùt
+parzora li so mantelìnis, a Gjeù a si à sintàt insima. Una
+gran vura di zent a veva spleàt li so mantelìnis ta la strada,
+mentri che àltris a tajàvin ramàsis daj àrbuj e a li metèvin ta
+la strada. La zent ca zeva davànt di luj e chè ca ghi vegneva
+davòu a sigàva::
+
+Oana al Fì di David! Benedèt chèl cal vèn in nòn dal
+Signòu! Oana tal pì alt!
+
+10Cuant che Gjeù al è entràt a Gjerualem, duta la sitàt a si a
+incurioìt e a si à metùt a dii: Cuj lee chistu?
+11La zent a à rispundùt: Chistu al è Gjeù, il profèt di
+Nàzaret in Galilea.
+
+
+Gjeù al Templi. Il Figàr Secjàt
+
+12Gjeù al è entràt tal templi di Diu e al à butàt fòu ducju
+chej ca èrin lì par crompà e vendi roba. Al à rebaltàt li tàulis
+di chej ca cambiàvin bes e i bancs di chej ca vendèvin
+colòmbis. A è stàt scrìt, al à dita, che la me cjaa a sarà
+clamada una cjaa par preà, ma vuàltris i la stèis cambiànt
+in ta na tana di làris.
+14I svuàrps e i suès a vegnèvin a cjatàlu tal templi, e luj a ju
+vuariva. Ma cuant che il capopredi e i maèstris da la les a àn
+jodùt li maravèis cal steva faìnt e i fioj ca cjantàvin Oana
+al Fì di David, a èrin dùcjus indignàs.
+16I sìntitu sè che scju fioj a stàn diìnt? a ghi àn domandàt.
+Sì, al à rispundùt Gjeù. I no vèju maj leùt:
+
+              Da la bocja daj frus e daj picinìns
+              i si vèis procuràt un mèrit?
+
+17E a ju à lasàs lì e al è zùt fòu da la sitàt, fin a Betania,
+indulà cal à pasàt la nòt.
+18La matina dopo, bunoruta, tornànt da la sitàt, al veva fan.
+Jodìnt un figàr in banda da la strada, a ghi è zùt visìn ma al à
+jodùt cal veva doma fuèis e nisùn fic. Alora a ghi à dita:
+Chi no ti vèdis maj pì frutàn! e a colp il figàr a si à secjàt.
+20Jodìnt chistu i disèpuj a sòn restàs maraveàs. Coma a làja
+fàt il figàr a secjàsi cussì a la svelta? a àn domandàt.
+21Gjeù al à rispundùt: I vi dìs la veretàt, che si vèis fede e i
+no dubitàis, i podèis fà no doma sè ca ghi è stàt fàt a stu
+moràr  chì, ma i podèis encja dìighi a chista montagna:
+Và, bùtiti tal mar, e a lu farà. Si crodèis, i risevarèis dut sè
+chi domandàis ta li vustri prejèris.
+
+Su lAutoritàt di Gjeù. La Paràbula daj Fioj
+
+23Gjeù al è entràt tal templi e mentri cal stava insegnànt, a
+ghi sòn zùs visìn i capoprèdis e i ansiàns dal pòpul. Cun
+cuala autoritàt i fatu chistu? a ghi àn domandàt. E cuj ti
+àja dàt chista autoritàt?
+24Gjeù al à rispundùt: I vi faj na domanda encja a vuàltris.
+Se vuàltris i mi rispundèis, alora i vi diaraj cun cuala
+autoritàt chi faj sti ròbis.
+25Il batièin di Zuanda indulà cal è vegnùt? Dal cjel, o daj
+òmis?A àn fàt na discusiòn fra di lòu, raonànt: Si diìn
+dal cjel, al domandarà  Alora parsè i no ghi veju crodùt?
+ma si diìn daj òmis, i vìn da vej poura da la zent, che
+dùcjus a pènsin cal sedi un profeta.
+27Cussì a ghi àn rispundùt a Gjeù: I no savìn.
+Alora al à dita: E i no vi diaràj nencja jò cun cuala
+autoritàt chi faj chisti ròbis.
+28Sè vi pària. Un omp al veva doj fioj. Al è zùt dongja dal
+prin e a ghi à dita: Frut, và tu vuèj a lavorà ta la vigna.
+29 I no vuèj zì, al à rispundùt, ma dopo un toc al à cambiàt
+idea e al è zùt.
+30Pì tars il pari al è zùt dongja di chel altri fì e a ghi à dita la
+stesa roba. Chèl al a rispundùt: I lu faràj, pari, ma a nol è
+zùt.
+31Cuaj daj doj al àja fàt sè cal voleva il pari?
+Il prin, a àn rispundùt. Gjeù a ghi à dita: I vi dìs la
+veretàt, che i publicàns e li putànis a entraràn tal regnu di
+Diu prima di vuàltris. 32Parsè che Zuan al è vegnùt a favi
+jodi la strada da la gjustisia, e vuàltris i no ghi vèis crodùt,
+mentri che i publicàns e li putànis a ghi àn crodùt. E encja
+dopo vej jodùt chistu i no ghi vèis crodùt.
+
+
+La Paràbula daj Mieàdris
+
+33Scoltàit naltra paràbula: Un paròn al veva plantàt una
+vigna. A ghi à fàt sù un mur dut atòr, al à scavàt na vasca
+par folà lùa, e al à costruìt una tor. Dopo a ghi à fitàt la
+vigna a cualchi contadìn e al è zùt a fà un viàs. Cuant ca era
+ora da vendemà, al à mandàt i so servitòus là daj so
+mieàdris par scuedi il so racòlt.
+35I mieàdris a àn cjapàt i servitòus, e un a lu àn bastonàt,
+unaltri a lu àn copàt, e un ters a lu àn lapidàt. Alora al à
+mandàt altri servitòus, pì encjamò di prima; e i mieàdris a
+ju àn tratàs ta la stesa maniera. Par ùltin al à mandàt so fì là
+daj mieàdris. A varàn rispièt par me fì, al à dita.
+38Cuant che i mieadris a à jodùt il fì, a si àn dita: Chistu al
+è lerèt. Vegnèit. Zìn a copàlu, che cussì i varìn nu
+lereditàt. Cussì a lu àn cjapàt e butàt fòu da la vigna,
+indulà ca lu àn copàt. 40Alora cuant cal vèn il paròn da la
+vigna, se làja da fàjghi a chej mieàdris? A ghi farà sufrì
+na muart bruta a chej disgrasiàs, a àn rispundùt, e a ghi
+fitarà la vigna a altri mieàdris ca ghi daràn la so part dal
+racòlt cuant ca è ora da vendemà.
+42Gjeù a ghi à dita: No veju maj leut ta li Scritùris:
+Che piera che i muradòus a vèvin scartàt a è doventada la
+piera claf; il Signòu al à fàt chistu e a nuàltris a ni è na
+maravèa a jòdila?
+43Duncja i vi lu dìs jò che il regnu di Diu a vi vegnarà partàt
+via e consegnàt al pòpul ca lu farà frutà. Chèl cal cola ta stu
+clap al vegnarà sfracelàt, e chèl cal risevarà tal cjaf il clap
+cal cola al vegnarà stritulàt.
+45Cuant che i capoprèdis e i Farièos a vèvin sintùt chisti
+paràbulis, a àn capìt cal steva parlànt di lòu. A àn vuardàt in
+ziru par jodi coma arestàlu, ma a àn vùt poura da la zent
+parsè che la zent a lu considerava un profeta.
+
+
+
+La Paràbula da la Sena da li Nòsis
+
+22    Gjeù a ghi à di nòuf parlàt in paràbulis, e al à dita:
+Il regnu dal cjel al è coma un re cal à preparàt la sena pa li
+nòsis di so fì. Al à mandàt i so servitòus là di chej ca èrin
+stàs invidàs a li nòsis par dìighi di vignì, ma chej a àn
+rifiutàt da vignì.
+4Alora al à mandàt altri servitòus e a ghi à dita: Dièjghi a
+chej ca sòn stàs invidàs chi ài preparàt la me sena. I me
+nemàj e li me bèstis ingrasàdis a sòn stàdis macelàdis, e dut
+a è pront. Vegnèit al banchèt da li nòsis.
+5Ma a no ju àn scoltàs e a sòn zùs viaun tal so cjamp e
+naltri a fà i so afàrs. Chej àltris a àn cjapàt i servitòus, a ju
+àn maltratàs e copàs. Il re al era furiòus. Al à mandàt i so
+soldàs, ca àn anientàt chej sasìns e bruàt la so sitàt.
+8Dopo a ghi à dita ai so servitòus: Il banchèt da li nòsis al
+è pront, ma chej chi vevi invidàt a no meretàvin di vignì.
+Zèit lì ca si incròin li stradis e invidàit al banchèt ducju chej
+chi cjatàis. Cussì i servitòus a sòn zùs fòu ta li stràdis e a an
+cjòlt sù duta la zent ca àn podùt cjatà, buna e trista, e la sala
+da li nòsis a si à implenìt di invidàs.
+11Ma cuant che il re al è vegnùt dentri par jodi i invidàs, al à
+jodùt lì un omp ca nol era vistìt di nòsis. Amigo, a ghi à
+domandàt, coma i àtu fàt a vignì chì sensa i vistìs di nòsis?
+Chel al è restàt lì a bocja vierta, mut.
+13Alora il re a ghi à dita ai atendèns: Leàjghi li mans e i piè
+e butajlu fòu tal scur da la nòt, indulà ca è doma planzi e
+strisulà di dincj.
+14Parsè che tàncjus a sòn clamàs, ma pus a sòn sielzùs.
+
+
+Il Tribùt par Sèar
+
+15Alora i Farièos a sòn zùs fòu e a àn pensàt coma
+intrapulàlu ta li so peràulis. A àn mandàt i so disèpuj a
+cjatàlu insièmit cuj erodiàns. Maestri, a àn dita, i savìn ca
+ti plas dii la veretàt e che tu i ti insègnis la via di Diu secònt
+la veretàt. I no ti ti làsis sbalotà daj òmis, parsè ca no ti
+impuarta cuj ca sòn. Alora dìini la to opiniòn: a ee just
+dàjghi il tribùt a Sèar o no?
+18Ma Gjeù, cognosìnt la so malisia, al à dita: Ipòcris chi
+sèis, parsè i provàju a intrapulàmi? Fèjmi jodi la moneda
+uada par pajà il tribùt. A ghi àn dàt un dìnar, e luj a ghi à
+domandàt: Di cuj ca è che figura chì? E sè ca è scrìt chì?
+21Chè di Sèar, a àn rispundùt.
+Alora a ghi à dita: Dèjghi a Sèar sè ca è di Sèar, e a Diu
+sè ca è di Diu.
+22Al sinti chistu, a sòn restàs maraveàs. Cussì a lu àn lasàt e
+a sòn zùs via.
+
+La Risuresiòn daj Muars
+
+23Chel stes dì i Saducèos, ca dìin ca no è nisuna risuresiòn,
+a sòn zùs lì di luj e a ghi àn domandàt: Maestri, a àn dita,
+Moè a ni à dita che se un omp al mòu sensa vej frus, so
+fradi al à da spoà la so vedula par ca vedi fioj par luj. Adès,
+fra di nuàltris i vèvin sièt fradis. Il prin a si à spoàt e al è
+muart, e sicoma ca nol veva frus, a ghi à lasàt la fèmina a so
+fradi. La stesa roba a ghi à capitàt al secònt e al ters fradi, e,
+ta la stesa maniera, fin al siètim. A la fin la fèmina a è
+muarta. Alora, a la risuresiòn, fèmina di cuaj daj sièt fràdis a
+saràja, dal momènt che dùcjus sièt a èrin stàs spoàs cun ic?
+29Gjeù al à rispundùt: Vuàltris i si sbaliàis parsè chi no
+cognosèis li Scritùris o la potensa di Diu.
+
+
+30Al momènt da la risuresiòn, la zent a no si spoarà nè a
+sarà dada in matrimoni a nisùn; a sarà coma i ànzuj dal cjel.
+Ma su la risuresiòn daj muarsi no vèju leùt sè che Diu a
+vi à dita: I soj il Diu di Abram, il Diu di Iac, e il Diu di
+Jacu? A nol è il Diu daj muars, ma daj vifs.
+33Cuant che la zent a à sintùt chistu, a è restada stupidida daj
+so insegnamìns.
+
+Il Comandamìnt pì Grant
+
+34Sintìnt che Gjeù al veva fàt tai i Saducèos, i Farièos a si
+sòn cjatàs insièmit. Un di lòu, un espèrt da la les, a lu à
+tentàt cun chista domanda: Maestri, cual al ee il
+comandamìnt pì grant da la Les?
+37Gjeù al à rispundùt:  Ama il Signòu, Diu to, cun dut il to
+còu, cun duta la to ànima e cun duta la to mins. Chistu al è
+il prin e il pì grant daj comandamìns. E il secònt al è coma
+chistu: Ama il to visìn coma te stes. Duta la Les e i Profès
+a dipìndin da chiscju doj comandamìns.
+
+Di Cuj al Ee Fì il Crist?
+
+41Mentri che i Farièos a èrin riunìs insièmit, Gjeù a ghi à
+domandàt: Sè chi pensàis dal Crist? Di cuj cal è fì?
+Al è fì di David, a àn rispundùt.
+43E luj a ghi à dita: Coma a ee alora che David, parlànt dal
+spìrit, a lu clama Signòu? Parsè cal dìs:
+
+                        44Il Signòu a ghi à dita al me Signòu:
+              Sìntiti a la me destra fin chi ài
+              metùt i to nemìcs sot daj to piè.
+
+45Se alora David a lu clama Signòu, coma al pòsia èsi so
+fì? Nisùn al à podùt rispundi, e da chel dì indavànt nisùn al
+à pì vùt il coragju di fàjghi altri domàndis.
+
+Sièt Maledisiòns
+
+23    Alora Gjeù a ghi à dita a la zent e ai so disèpuj: I
+maèstris da la les e i Farièos a sòn sintàs ta la càtedra di
+Moè. Cussì i vèis da ubidìju e fà dut sè ca vi dìin di fà. Ma
+no stèit fà sè ca fàn lòu, parsè che lòu a no pratichèjn sè ca
+predicjèjn. A lèjn sù càrgus peàns e a vi ju mètin ta la
+schena, ma lòu stes a no si scompònin nencja un puc par
+mòviu.
+5Dut sè ca fàn al è fàt par cal vegni jodùt daj òmis: i so
+filàteris a ju fàn larcs e a implenìsin di penàcjus li so
+mantelìnis; a ghi plas vej il post di onòu ai banchès e i bancs
+pì importàns ta li sinagòghis; a ghi plas vignì saludàs ta li
+plàsis e vignì clamàs Rabì.
+8Ma i no vèis da vignì clamàs Rabi, parsè chi vèis doma
+un Paròn e vuàltris i sèis dùcjus fràdis.E in cjera no stèit
+clamà nisùn pari, parsè chi vèis un Pari e chèl al è tal cjel.
+E i no vèis nencja da vignì clamàs maestri, parsè chi vèis
+belzà un Maestri, il Crist. Il pì grant fra di vuàltris al sarà il
+vustri servitòu. Parsè che cualsìasi di vuàltris ca si ealta
+besòu al vegnarà umiliàt, e chèl cal e ùmil al vegnarà ealtàt.
+13Guaj a vuàltris, maèstris da la les e Farièos, ipòcris chi
+sèis! I ghi sieràis il regnu dal cjel in mua ai òmis. Vuàltris
+stes i no zèis dentri, e i no lasàis zi dentri nencja chej ca
+pròvin a zì.
+15Guaj a vuàltris, maèstris da la les e Farièos, ipòcris chi
+sèis! I zèis inziru par mar e mont par convertì un omp e
+basta, e cuant ca si à convertìt i lu fèis doventà do vòltis un
+fì dal infièr, coma chi sèis vuàltris.
+16Guaj a vuàltris, guìdis svuàrbis! I dièis: Se un al zura pal
+templi, a no vòu dii nuja; ma se un al zura pal òru dal
+templi, alora al à da tègnisi al so zuramìnt. Svuàrps di
+macàcos! Cual al vàlia di pì: lòru o il templi cal rint lòru
+sacri?
+18I dièis pur: Se un al zura pal altàr, a nol zova nuja, ma se
+un al zura pa loferta ca ghi è insima, alora al resta obligàt al
+so zuramìnt. Svuàrps di òmis! Sè ca è pì grant: la oferta o
+laltàr cal fà la oferta sacra? Duncja, chèl cal zura pal altàr al
+zura par chèl e par dut sè ca ghi è insima. E chèl cal zura pal
+templi al zura par chèl e par Chèl ca ghi vìf dentri. E chèl
+cal zura pal cjel al zura pal tronu di Diu e par Chèl cal è
+sintàt ta chèl.
+23Guaj a vuàltris, maèstris da la les e Farièos, ipòcris chi
+sèis! I dèis la decima part da li vustri spèismenta, anèt e
+cumìn. Ma i vèis trasgredìt li ròbis pì importàntis da la les
+la gjustisia, la caritàt, la fedeltàt. Chìstis i vèvis da praticà,
+sensa dismintià che àltris. Guìdis svuàrbis! I spudàis fòu il
+muscjìn, ma i zèis a inglutì il camèl!
+25Guaj a vuàltris, maèstris da la les e Farièos, ipòcris chi
+sèis! I netàis par di fòu la vustra cìcara e il vustri plat, ma
+dentri i sèis plens di avarisia e di intemperansa. Svuàrp di un
+Farièo! Nètiti prin la to cìcara e il to plat par dentri, che
+cussì a si netaràn encja par di fòu.
+27Guaj a vuàltris, maèstris da la les e Farièos, ipòcris chi
+sèis! I sèis coma tòmbis sblancjàdis, ca somèjn bièlis par di
+fòu ma che dentri a sòn plènis di vuès di muars e di
+sporcìsia. Cussì encja vuàltris par di fòu i ghi someàis juscj
+a la zent, ma dentri i sèis plens di ipocriìa e malignitàt.
+29Guaj a vuàltris, maèstris da la les e Farièos, ipòcris chi
+sèis! I fèis sù sepùlcris paj profès e i sbieletàis li tòmbis daj
+juscj. E i dièis: Si vèsin vivùt in taj dìs daj nustri pàris, i
+no si sarèsin metùs insièmit cun lòu a spandi il sanc daj
+profès. E cussì i testimoniàis cuntra di vuàltris stes, chi sèis
+i disendèns di chej ca àn copàt i profès. Implenìt ben, alora,
+la miura daj vustri pàris.
+33Sarpìns chi sèis! Rasa di vìparis! Coma i farèju a
+svignàvila da vignì condanàs al infièr? Par chèl alora i vi
+mandi profès e sapièns e maèstris. Cualchidùn di chìscjus i
+ju coparèis e i ju metarèis in cròus; àltris i ju flagelarèis ta li
+vustri sinagòghis e i ju casarèis fòu da la sitàt. E alora sù di
+vuàltris al colarà dut il sanc inocènt cal è stàt spandùt ta la
+cjera, dal sanc di Abèl il just a chèl di Zacarìa fì di Berechìa,
+chi vèis sasinàt fra il templi e laltàr. I vi dìs la veretàt, che
+dut chistu al susedarà ta chista generasiòn.
+37O Gjerualem, Gjerualem, tu chi ti còpis i profès e chi ti
+ghi tìris claps a chej ca ti sòn stàs mandàs, cuanti vòltis i àju
+volùt tirami visìn ducju i to fioj, coma ca fà na clocja ca ju
+ten sot li so àlis, ma tu i no ti às volùt. Jodèit ben che la
+vustra cjaa a vi sarà lasada deerta. Parsè chi vi dìs jò chi
+no mi jodarèis pì fin chi no diarèis: Cal sedi benedèt chèl
+cal vèn in nòn dal Signòu.
+
+Sèns da la Fin dal Mont
+
+24     Gjeù al veva lasàt il templi e al era cal cjaminava
+via cuant che i so disèpuj a ghi sòn zùs visìn par fàjghi
+oservà la costrusiòn dal templi. I jodèju dut chistu? a ghi
+à domandàt. I vi dìs la veretàt, che nencja una di chisti
+pièris chì a restarà insima da laltra; ogni una a colarà jù.
+3Mentri che Gjeù al era sintàt ta la montagnuta daj Ulìfs, i
+disèpuj a sòn zùs a cjatàlu, e sensa fasi sinti da nisùn a ghi
+àn domandàt: Dìini, a àn dita, cuant ca susedaràn dùtis
+chisti ròbis, e cual cal sarà il sèn dal to vignì e da la fin dal
+timp?
+4Gjeù al à rispundùt: Stèit atèns da no vignì inganàs da
+nisùn. Parsè che tàncjus a vegnaràn a nòn me, diìnt Jò i soj
+il Crist, e a inganaràn tàncjus di lòu. I sintarèis di guèris e
+cjàcaris di guèris, ma vuardàit di no alarmavi. Ròbis cussì a
+àn da susedi, ma la fin a à encjamò da vignì. Nasiòn a si
+rivoltarà cuntra nasiòn, e regnu cuntra regnu. A capitaràn
+carestìis e teremòs in ta divièrs poscj. Dùtis sti ròbis a sòn
+doma linisi daj dolòus.
+9Alora i vegnarèis dàs dentri par vignì perseguitàs e copàs,
+e i vegnarèis odiàs da dùtis li nasiòns par caua dal me nòn.
+Tàncjus di lòu a si lontanaràn da la fede, e a si tradiràn e
+odiaràn fra di lòu, e tancju profès fals a si faràn indavànt e a
+inganaràn tanta zent. Cul cresi da la inicuitàt, la caritàt di
+tanta zent a zarà angjelàsi, ma chèl cal persevarà fin in ùltin
+a si salvarà. E chistu vanzeli dal regnu al vegnarà predicjàt
+in ta dut il mont coma testimoniansa par duti li nasiòns; e
+dopo a vegnarà la fin.
+15Cussì cuant che tal post sacri i jodarèis la abominasiòn ca
+parta a la deolasiòn, belzà minsonada dal profèt Daniel
+chèl cal lès, cal capisialora lasàit che chej ca sòn in
+Gjudea a scjàmpin ta li montàgnis. Chèl cal è ta la terasa da
+la so cjaa ca nol stedi zì jù e partà via nisuna roba da la
+cjaa. Chèl cal è tal cjamp ca nol torni indavòu par cjoli la
+so mantelina. Se brut ca sarà in ta chej dis pa li fèmins
+plènis e ches ca ghi stàn encjamò dànt da teta ai frutùs!
+Preàit ca no vi toci scjampà di unvièr o di Sabo.
+21Parsè che in ta chej timps a susedaràn disgràsis gràndis,
+peu di cualsìasi malàn capitàt dal inisi dal mont fin al dì di
+vuèje ca no si ripetarà maj pì. Se chej dìs a no fòsin stàs
+scurtàs, nisùn al podarès sopravivi; ma par via daj elès, chej
+dìs a vegnaràn scurtàs. Alora se un a vi dìs Jòt, chì cal è il
+Crist! o Là cal è!, no stèit cròdighi. Parsè che Criscj fals
+e fals profès a si faràn indavànt e a faràn grandi maravèis e
+miràcuj par inganà encja i elèsse chèl al fos pusìbul.
+Jodèit ben chi vi lu ài dita prima dal timp.
+26Duncja, se un a vi dìs: Là cal è, là di fòu, tal deèrt, no
+stèit zì fòu; o Chì cal è, in cjaa, no stèit cròdighi. Che
+coma il luòu cal vèn dal oriènt a si pòl jòdilu encja al
+ponènt, cussì a sarà cul vignì dal Fì dal Omp. Ta cualsìasi
+post indulà ca è na carcasa, ulà i jodarèis li pujànis.
+29Sùbit dopo la tribulasiòn di chej dìs,
+
+              il soreli a si scurirà,
+              e la luna a no darà pì la so lus;
+              li stèlis a colaràn dal cjel,
+              e li potènsis dal cjel a saràn scumbusulàdis.
+
+30Tal stes timp il sen dal Fì dal Omp al vegnarà jodùt tal
+cjel, e duti li nasiòns da la cjera a planzaràn. A jodaràn il Fì
+dal Omp cal vèn ta li nùlis dal cjel, cu la pì granda potensa e
+gloria. E al mandarà i so ànzuj al sun di tromba, e chej a
+radunaràn i so elès daj cuatri vins, da na banda estrema dal
+cjel a che altra.
+32Adès imparàit chista lesiòn dal figàr: Cuant che li so
+frascjùtis a sòn encjamò muliìnis e li fuèis a tàchin a vignì
+fòu, i savèis che lestàt al è visìn.
+33Lo stes, cuant chi jodèis dut chistu, i savèis che Luj al è
+visìn, lì da la puarta. I vi dìs la veretàt, che chista generasiòn
+a no pasarà par sigùr prin ca susèdin dùtis chisti ròbis.
+35Il cjel e la cjera a pasaràn, ma li me peràulis a no pasaràn
+maj.
+
+A no si sà Maj cuant ca Rivarà lOra
+
+36Nisùn a nol sà nè il dì nè lora, nencja i ànzuj dal cjel o il
+Fì, ma doma il Pari. Coma ca era taj dìs di Noè, cussì a sarà
+cuant cal vegnarà il Fì dal Omp. Parsè che taj dìs prima da la
+aluviòn, la zent a mangjava e a beveva, a si maridava e a
+dava in matrimoni, fin ta chel dì cuant che Noè al è zùt
+dentri da larca; e a no saveva nuja di sè ca veva da susedi
+fin ca è vegnuda laluviòn e a ju à dùcjus partàs via. Cussì a
+sarà cuant cal vegnarà il Fì dal Omp. Doj òmis a saràn tal
+cjamp: un al vegnarà partàt via; chel altri al sarà lasàt lì. Do
+fèminis a maenaràn cu na muela: una a vegnarà partada via;
+che altra a sarà lasada lì.
+42Alora stèit atèns, parsè chi no savèis in ta cual dì cal
+vegnarà il vustri Signòu. Ma chistu i vèis da capì: Se il
+paròn di cjaa al vès savùt lora da la nòt cuant che il lari al
+sarès vegnùt, al sarès stàt atènt e a nol varès lasàt che la so
+cjaa a vegnès scasinada.. Cussì i vèis da stà atèns encja
+vuàltris, parsè che il Fì dal Omp al vegnarà ta na ora cuant
+che mancu i si la spetàis. 45Cual alora al ee chel servitòu
+fidàt e prudènt incaricàt dal so paròn di stàjghi davòu daj
+altri servitòus e siguràsi ca vèdin da mangjà cuant ca ghi
+ocòr? A ghi zarà ben a chel servitòu se cuant cal torna il
+paròn al cjata fòu cal à fàt cussì.
+47I vi dìs la veretàt ca lu incaricarà di tègnighi cont duta la so
+proprietàt. Ma suponìn che stu servitòu al sedi trist e ca la
+pensi cussì: Il me paròn al è via da tant timp; e dopo al
+taca a dàjghi bòtis a chej altri servitòus, e a mangjà e bevi
+cuj cjochetòns. Il paròn di chel servitòu lì al tornarà indavòu
+ta na zornada cuant che il servitòu a no lu stà spetànt e ta na
+ora ca nol cognòs. A lu cunsarà benòn e a lu mandarà là daj
+ipòcris, indulà cal sarà il planzi e il strisulà daj dincj.
+
+La Paràbula da li Dèis Vèrginis
+
+25    Il regnu dal cjel al sarà alora coma li dèis vèrginis ca
+àn cjapat sù li so làmpadis par zighi incuntra dal so spou.
+Sinc di lòu èrin stupidùtis e sinc a èrin prudèntis. Li sinc
+stupidùtis a sòn zùdis fòu cu li làmpadis, ma sensa partà il
+vueli ca ghi ocoreva. Li prudèntis, invensi, a àn partàt cun
+lòu vueli ta vaùs insièmit cu li so làmpadis. Il spou a ghi à
+volùt tant timp prima di rivà, cussì che a lòu a ghi à vegnùt
+sun e a si sòn indurmidìdis.
+6A mieanòt a si à sintùt a sigà: Chì cal è il spou! Vegnèit
+a risèvilu!
+7Alora duti li vèrginis a si sòn sveàdis e a si sòn metùdis a
+preparà li so làmpadis. Li stupidùtis a ghi àn dita a li
+prudèntis: Dèjni un puc dal vustri vueli; li nustri làmpadis a
+stàn par distudasi.
+9 No, a àn rispundùt, a non dè abastansa par nuàltris e
+par vuàltris. Zèit invensi là ca vèndin il vueli e crompàini un
+puc par vuàltris.
+10Ma intànt ca zèvin a crompà il vueli, al è rivàt il spou. Li
+vèrginis ca èrin pròntis a sòn zùdis cun luj a li nòsis. E la
+puarta a si à sieràt davòu di lòu.
+11Pì tars a sòn rivàdis encja che àltris. Signòu! Signòu! a
+àn dita. Vièrzini la puarta!
+12Ma luj al à rispundùt: I vi dìs la veretàt: i no vi cognòs.
+13Duncja tegnèjsi sempri prons, parsè chi no cognosèis nè il
+dì nè la nòt.
+
+La Paràbula daj Talèns
+
+14E alora il regnu dal cjel al è coma chel omp che, pront par
+zì a fà un viàs, al à clamàt i so servitòus e a ghi à lasàt a lòu
+la so proprietàt. A un a ghi à dàt sinc talèns, a un altri doj
+talèns, e a un altri un talènt, a ogni un secònt li so abilitàs.
+Fàt chèl, al è zùt a fà il so viàs. Chel omp cal veva risevùt
+sinc talèns al è zùt sùbit fòu a mètiu a lòpera, guadagnànt
+altri sinc talèns. Cussì al à pur fàt chèl cal veva risevùt doj
+talèns, guadagnànt altri doj talèns encja chèl. Ma chel omp
+cal veva risevùt doma un talènt al è zùt fòu a fà un bus in
+cjera par platà il talènt dal so paròn.
+19Dopo un viàs lunc il paròn di chej servitòus al è tornàt par
+regolà li ròbis cun lòu. Lomp cal veva risevùt i sinc talèns a
+ghi à partàt chej altri sinc. Siòr paròn, al à dita, ti ti sòs
+fidàt di me cun sinc talèns. Jòt chin daj guadagnàs altri
+sinc.
+21Il so paròn a ghi à rispundùt: Ben fàt, servo bon e fidàt!
+Ti sòs stàt fedèl cun pu di ròbis; adès i ti daràj autoritàt su
+tanti ròbis. Vèn encja tu a godi da la me contentesa!
+22Encja il omp cuj doj talèns al è vegnùt. Siòr paròn, al à
+dita, ti ti sòs fidàt di dami doj talèns; vuarda, i tin daj fàs
+altri doj.
+23Il so paròn al à rispundùt: Bravo, servo bon e fidàt! Ti
+sòs stàt fedèl cun un pu di ròbis; adès i ti daràj autoritàt su
+tanti ròbis. Vèn encja tu a godi da la me contentesa!
+24Dopo al è vegnùt chel omp cal veva risevùt doma un
+talènt. Siòr paròn, al à dita, i saj chi ti sòs un omp dur, chi
+ti sèis indà chi no ti às semenàt, e chi ti cjòis sù il racòlt
+indulà chi no ti às sparpajàt la siminsa. Par chèl i ài vùt
+poura e i soj zùt fòu a platà il to talènt sot cjera. Èco chì il to
+talènt.
+26Il so paròn al à rispundùt: Servo trist e bondanùja! Cussì
+i ti savèvis chi sèj indulà chi no ài semenàt e chi cjoj sù
+indulà chi no ài sparpajàt siminsa? Alora i ti podèvis dàjghi
+il me talènt ai banchèjs, che cussì al tornà i varès vùt
+indavòu il me talènt cul interès.
+28Cjolèjghi il so talent e dèjghilu a chèl cal à i dèis talèns.
+Parsè che a ogni un cal à a ghi sarà dàt di pì, e al varà na
+bondansa. A chèl ca nol à a ghi sarà cjòlt encja chèl cal à. E
+chistu bondanùja di servitòu butàjlu fòu, indulà cal sarà il
+planzi e il strisulà daj dincj.
+
+Li Piòris e li Ghètis
+
+31Cuant che il Fì dal Omp al vegnarà a la so gloria cun
+ducju i so ànzuj a si sintarà tal trono dal la so gloria
+celestiàl. Duti li nasiòns a zaràn a riunisi davànt di luj, e luj
+al separarà i popuj lun dal altri coma che un pastòu al
+separa li piòris da li ghètis. Al metarà li piòris a la so destra
+e li ghètis a la so sinistra.
+34Il Re alora a ghi diarà a chej a la so destra: Vegnèit,
+vuàltris chi sèis i benedès di me Pari; cjapàit sù la vustra
+ereditàt, il regnu preparàt par vuàltris fin da la creasiòn dal
+mont. Che jò i vevi fan, e vuàltris i mi vèis dàt alc da
+mangjà; i vevi sèit e i mi vèis dal alc da bevi; i eri un
+forestèj, e i mi vèis risevùt coma un di vuàltris.
+36I vevi biugna di vistìs, e vuàltris i mi vèis vistìt; i eri
+malàt, e i mi vèis curàt. I eri in preòn, e i mi vèis viitàt.
+37Alora i juscj a ghi rispundaràn: Signòu, cuant i ti vinu
+jodùt plen di fan e i ti vinu dàt da mangjà, o plen di sèit e i ti
+vinu dàt alc da bevi? Cuant i ti vinu jodùt coma un forestèj e
+i ti vinu invidàt dentri, o sensa vistìs e i ti vìn vistìt? Cuant i
+ti vinu jodùt malàt o in preòn e i sinu vegnùs a viitati?
+40Il Re al rispundarà: I vi dìs la veretàt, che sè chi vèis fàt
+par il pì pìsul di chìscjus fràdis mes, i lu vèis fàt par me.
+41Dopo a ghi diarà a chej a la so sinistra: Zèit lontàns di
+me, maladès, tal fòuc eterno preparàt pal diàu e paj so ànzuj.
+Parsè chi vevi fan, e i no mi vèis dàt nuja da mangjà; i vevi
+sèit, e i no mi vèis dàt nuja da bevi. I eri un forestèj, e i no
+mi vèis invidàt dentri. I vevi biugna di vistìs, e i no mi vèis
+vistìt; i eri malàt e in preòn, e i no mi vèis viitàt.
+44Encja chìscjus a rispundaràn: Signòu, cuant i ti vinu
+jodùt plen di fan o plen di sèit o forestèj o malàt o in preòn,
+e i no ti vinu dàt alc da mangjà o da bevi o i no ti vinu
+invidàt dentri o judàt?
+45Luj al rispundarà: I vi dìs la veretàt, sè chi no vèis fàt par
+il pì pìsul di chìscjus, i no lu vèis fàt par me.
+46E alora chìscjus a zaràn tal turmìnt eterno, e i juscj ta la
+vita eterna.
+
+Complòt Cuntra di Gjeù
+
+26    Cuant che Gjeù al veva finit di contà dùtis chisti
+ròbis, a ghi à dita ai so disèpuj: Coma chi savèis, fra doj dìs
+a è la Pascua, e il Fì dal Omp al sarà consegnàt par vignì
+metùt in cròus.
+3Alora i capoprèdis e i ansiàns dal pòpul a si sòn riunìs tal
+palàs dal capopredi ca si clamava Caifa, e a àn complotàt di
+arestà Gjeù cun cualchi ingàn e di copalu. Ma no durànt li
+fièstis, a àn dita, par che la zent a no zedi a insuriasi.
+
+LUnsiòn a Betania
+
+6Mentri che Gjeù al era a Betania ta la cjaa di un omp ca si
+clamava Simon il Levròus, una fèmina a ghi è zuda visìn
+cun un vas di alabastri plen di profùn presiòus che ic a ghi à
+sbicjàt tal cjaf mentri cal era pojàt ta la taula.
+8Cuant che i disèpuj a àn jodùt chistu, a si sòn indignàs: Ma
+parsè strasà che roba chì? a àn domandàt. Stu profùn al
+podarès èsi stàt vendùt e i bes a si podarès vèjghiu das ai
+puarès.
+10Sintìnt chistu, Gjeù a ghi à dita: Parsè ghi dèju fastidi a
+chista fèmina? A mi à fàt na biela roba. I puors i ju varèis
+sempri cun vuàltris, ma me i no mi varèis sempri. Cuant ca
+mi à metùt stu profùn tal me cuarp, a lu à fàt par preparami
+pa la me sepultura. I vi dìs la veretàt, che ogni volta che stu
+vanzeli al vegnara predicjàt tal mont, chèl ca à fàt ic al
+vegnarà encja chel contàt par ca vegni recuardada.
+
+Gjuda il Traditòu
+
+14Alora un daj Dòdischèl clamàt Gjuda Iscariotaal è zùt
+là daj prèdis pì grancj e a ghi à domandàt: Se sèju
+dispòscj di dami si vi lu consegni? Alora lòu a ghi àn
+contàt trenta tocs di arzènt. Da chèl momènt lì Gjuda al à
+spetàt locaiòn justa par consegnalu.
+
+La Sena dal Signòu
+
+17Tal prin dì da la Fiesta dal Pan Sensa Levàn, i disèpuj a si
+sòn visinàs a Gjeù e a ghi àn domandàt: Indulà i vutu chi
+ti preparani par mangjà la Pascua?
+18Luj al à rispundùt: Zèit in sitàt là di un tal di omp e
+dieighi: Il maestri al dìs: Il me timp a si visina. I vèn a
+celebrà la Pascua cuj me disèpuj ta la to cjaa. Cussì i
+disèpuj a àn fàt coma cal voleva Gjeù e a àn preparàt la
+Pascua.
+20Che sera lì, Gjeù a si à metùt a senà cuj Dòdis. E mentri
+ca mangjàvin al à dita: I vi dìs la veretàt, che un di vuàltris
+al zarà a tradimi.
+22Lòu a si sòn sintùs mal e a àn tacàt a diighi, un dopo
+laltri: I no saràj miga jò, no, Signòu?
+23Gjeù al à rispundùt: Chèl cal à metùt la man ta la
+scugjela cun me al zarà a tradimi. Il Fì dal Omp al zarà
+coma ca è stàt scrìt di luj, ma guaj al omp cal tradìs il Fì dal
+Omp! A sarès tant miej sa nol fos maj nasùt.
+25Alora Gjuda, cal sarès zùt a tradilu, a ghi à dita: I saràju
+jò, Maestri?
+Gjeù a ghi à rispundùt: Ti lu às dita tu.
+26Mentri ca mangjàvin, Gjeù al à cjapàt sù na pagnoca di
+pan, a ghi à dàt la benedisiòn e dopo vèjla rota a tocùs a ghi
+là data ai disèpuj, diìnt: Cjapàit e mangjàit; chistu al è il
+me cuarp.
+27Dopo al à cjòlt sù un got, e dopo vej dita gràsis a ghi lu à
+ufrìt a chej àltris, diìnt: Bevèit dùcjus. Chistu al è il me
+sanc dal acordu, cal vèn sbicjàt fòu par tàncjus pa la
+remisiòn daj so pecjàs. I vi dìs jò chi no bevaràj pì di stu frut
+da la vit da adès indavànt fin ta chel dì cuant chi lu bevaràj
+di nòuf cun vuàltris tal regnu di me Pari.
+
+Gjeù al Predìs il Rinegamìnt di Pieri
+
+30Dopo vej cjantàt un ìno, a sòn tornàs là dal Mont daj Ulìfs.
+31Alora Gjeù a ghi à dita: Stanòt dùcjus vuàltris i vi
+scandaliarèis di me, parsè che cussì a stà scrìt:
+
+I bastonaràj il pastòu, e li pioris da la mandria
+a vegnaràn dispierdùdis.
+
+32Ma cuant chi tornaràj fra i vifs, i zaràj davànt di vuàltris in
+Galilea.
+33Pieri al à rispundùt: Encja se ducju chej àltris a si
+scandalièin di te, jò no i no mi scandaliaràj maj.
+34I ti dìs la veretàt, Gjeù a ghi à rispundùt, stanòt, prima
+cal cjanti il gjal, i ti zaràs a rinegami tre vòltis.
+35Ma Pieri al à insistùt: Encja se jò i ài da murì cun te, i no
+zaràj maj a rinegati. E ducju i àltris a àn fàt la stesa roba.
+
+
+Getsèmane
+
+36Alora Gjeù al è zùt cuj so disèpuj ta un lòuc ca si clamava
+Getsèmane, e a ghi à dita: Sintàisi chì mentri che jò i vaj là
+a preà Al à partàt cun luj Pieri e i doj fìs di Zebedeo, e al à
+tacàt a sìntisi plen di turmìns di spirit. Alora a ghi a dita: I
+mi sìnt cussì mal di spìrit da murì. Stèit chì a veà su di me.
+39Tiràt un puc in banda, a si à distirat cu la mua in cjera e al
+à preàt: Pari me, sa è pusìbul, lasa che chista copa a mi
+vegni cjolta, ma no coma chi vuèj jò, ma coma chi ti vòus
+tu.
+40Dopo al è tornat lì daj so disèpuj e a ju à cjatàs dùcjus
+indurmidìs. I no podèviu fàmi da vèa par unoruta? a ghi
+à domandàt a Pieri.
+41Stèit ben sveàs e preàit par no colà ta la tentasion. Il spìrit
+al vòu, ma il cuarp al è dèbul.
+42A si a lontanàt na seconda volta e al à preàt: Pari me, sa
+no è pusìbul che chista copa a mi vegni partada via se pì chi
+no la bèif, ca sedi fata la to volontàt.
+43Cuant cal è tornàt indavòu, a ju à di nòuf cjatàs ca
+durmìvin, par via che i so vuj a èrin masa peàns. Cussì a ju
+à lasàs e a si à lontanat unaltra volta, preànt pa la tersa
+volta, diìnt la stesa roba.
+45Dopo al è tornàt lì daj so disèpuj e a ghi à dita: I sèju
+encjamò chi durmìs e chi ripoàis? Vuardàit che lora a è
+visina e che il Fì dal Omp al è stàt tradìt in man daj
+pecjadòus. Levàit sù e zìn! Chì cal vèn il me traditòu!
+
+Gjeù al Vèn Arestàt
+
+47Mentri cal steva encjamò parlànt, al è rivàt Gjuda, un daj
+Dòdis. Cun luj a era tanta zent armada cun spàdis e bastòns,
+mandada daj capoprèdis e daj ansiàns dal pòpul.
+48Il traditòu al era dacordu cun lòu di dà chistu segnàl: Luj
+al è chèl chi busaràj: arestàjlu.
+49A si à sùbit visinàt a Gjeù e a ghi à dita: Salve, Maestri!
+e a lu à busàt.
+50Gjeù al à rispundùt: Amigo, fà sè chi ti sòs vegnùt a fà.
+Alora i òmis a si sòn fàs avànt, a àn ingrampàt Gjeù e a lu
+àn arestàt. Ma èco che un daj compàis di Gjeù, metùt man
+ta la so spada, al à tirada fòu e a ghi à dàt un tal colp al
+servitòu dal capopredi ca ghi à tajàt lorela.
+52Torna a meti la to spada tal so post, Gjeù a ghi à dita,
+che dùcjus chej ca cjàpin sù la spada a moraràn di spada. I
+crodèju chi no posi preà il Pari me, che luj al podarès a colp
+mandàmi dòdis legiòns di ànzuj par protèimi? Ma coma
+alora a zarèsini a averàsi li Scritùris ca dìin ca à da susedi
+cussì?
+55E alora Gjeù a ghi à dita a la zent: I stàju creànt na
+insuresiòn, chi sèis vegnùs a caturami cu spàdis e bastòns?
+Ogni dì i soj stàt sintàt tal templi a insegnà, e i no mi vèis
+arestàt. Ma dut chistu al è susedùt cussì par ca pòsin
+verificàsi li scritùris daj profès, Alora ducju i disèpuj al àn
+diertàt e a sòn scjampàs via.
+
+Gjeù Davànt dal Sinedri
+
+57Chej ca vèvin arestàt Gjeù a lu àn partàt davànt di Caifa, il
+capopredi, indulà che i maèstris da la les e i ansiàns dal
+pòpul a si vèvin riunìs. Ma Pieri a ghi à zùt davòu da lontàn,
+fin visìn dal plasàl dal capopredi. Al è zùt dentri e a si a
+sintàt jù cuj servitòus par jodi sè ca sarès susedùt.
+59I capoprèdis e dut il Sinedri a zèvin in sercja di
+testimoniansa falsa cuntra di Gjeù par podej condanalu a
+muart. Ma a no àn cjatàt nuja, encja se tancju testimònis fals
+a si sòn fàs avànt.
+Ma a la fin doj di lòu a si sòn fàs avànt e a àn declaràt: Stu
+chì al à dita, Jò i pòl distrui il templi di Diu e rifalu in tre
+dìs.
+62Alora il capopredi al è levàt sù e a ghi à dita a Gjeu: I no
+rispunditu? Sè ca è sta testimoniansa che chiscju òmis a
+pàrtin cuntra di te? Ma Gjeù al taeva.
+Il capopredi a ghi à dita: I ti scongjuri in nòn dal Diu
+vivìnt: Diini si ti sòs il Crist, il fì di Diu.
+64Sì, a è coma chi ti dìs tu, al à rispundùt Gjeù. Ma i vi
+dìs a dùcjus vuàltris: Da adès indavànt i jodarèis il Fì dal
+Omp sintàt a la destra dal Onipotènt cal vèn fòu da li nùlis
+dal cjel.
+65Alora il capopredi a ghi à sbreghàt i vistìs e al à dita: Al à
+bestemàt! Parsè i vinu biugna di altri testimònis? Èco, adès
+i vèis sintùt la bestema. Sè pensàju?
+Al mereta la muart, a àn rispundùt.
+67E alora a si sòn metùs a spudàjghi in mua e a dàjghi pùis.
+Àltris a ghi dèvin sbèrlis, diìnt: Profetièini, Crist. Cuj ti àja
+malmenàt?
+
+Il Rinegamìnt di Pieri
+
+69Pieri intànt al era sintàt là di fòu tal curtìl e una serva a ghi
+è zuda visìn e a ghi à dita: Encja tu i ti èris cun Gjeù di
+Galilea.
+70Ma luj al à negàt dut davànt di dùcjus. I no capìs sè chi ti
+vòus dii, al à dita.
+71E al è sùbit zùt fòu dal puartòn, indulà che naltra serva al à
+jodùt e a ghi à dita a la zent ca era lì: Stu chì al era cun
+Gjeù di Nazaret.
+72Al à negàt di nòuf, zurànt: I no cognòs chel omp!
+73Dopo un tocùt, chej ca èrin lì inziru a ghi sòn zùs visìn e a
+ghi àn dita: Ti sòs par sigùr un di lòu; la to parlada a ti
+tradìs.
+74Alora al à scuminsiàt a porconà e a zurà: I no lu cognòs!
+A colp un gjal al à cjantàt. Al stes momènt Pieri a si à
+recuardàt di sè cal veva dita Gjeù: Prima cal cjanti il gjal i
+ti mi varàs rinegàt tre vòltis. Alora al è zùt fòu e a si à
+metùt a planzi làgrimis amàris.
+
+
+
+
+Gjuda a si Impicja
+
+27     Di matina bunora ducju i capoprèdis e i ansiàns dal
+pòpul a àn decidùt di mandalu a la muart.
+2A lu àn leàt sù e a sòn zùs a consegnalu a Pilàt, il
+governatòu. 3Cuant che Gjuda, ca lu veva tradìt, al à jodùt
+che Gjeù al era stàt condanàt, a si à pentìt e al è zùt a
+tornàjghi li trenta monèdis di arzènt ai capoprèdis e ai
+ansiàns. I ài pecjàt, al à dita, parsè chi ài tradìt sanc
+inocènt. Sè ni interèsia a nuàltris? a àn rispundùt.
+Ràngjti tu.
+5Alora Gjuda al à casàt i bes tal templi e al è zùt via. Pì tars
+al è zùt a impicjasi. 6I capoprèdis a àn cjapàt sù li monèdis,
+diìnt: A è cuntra la les meti scju bes tal teoru. A sòn bes
+sanganàs.Cussì a àn decidùt di uà i bes par crompa il
+cjamp dal vaàr par ualu coma semeteri paj forestèis. A è
+par chèl che da chèl dì in cà al è clamàt il Cjamp Sanganàt.
+9Alora sè ca era stàt dita dal profeta Zaìja a si à realiàt: A
+àn cjapàt sù li trenta monèdis di arzènt, prei stabilìt dal
+pòpul di Israel, e a li àn uàdis par crompà il cjamp dal
+vaàr, coma ca mi era stàt comandàt dal Signòu.
+
+Gjeù Davànt di Pilàt
+
+11Intànt Gjeù al era davànt dal governatòu, e il governatòu a
+ghi à domandàt: I sotu il Re daj Ebrèos? I ti sòs tu chi ti
+lu dìs, al à rispunduùt Gjeù. 12Mentri cal vegneva acuàt
+daj capoprèdis e daj ansiàns, a nol rispundeva. Alora Pilàt a
+ghi à domandàt: I no sìntitu sè ca dìin cuntra di te? Ma
+Gjeù al à paràt via a no rispundicun granda maravèa dal
+governatòu. 15Al dì di Pasca di chej dìs là a era na uansa dal
+governatòu di lasà lìbar un preonèj sielzùt da la zent. A
+intivava ta chej dìs là ca vèvin un preonèj famòus ca si
+clamava Baraba. Cussì cuant che duta la zent a era insièmit,
+Pilàt a ghi à domandàt: Cuj i volèju chi vi liberèjBaraba
+o Gjeù cal è clamàt il Crist?
+18Parsè che luj al saveva ca ghi vèvin consegnàt Gjeù par
+invidia.
+19Mentri che Pilàt al era sintàt ta la so sinta di magistràt, la
+so fèmina a ghi à mandàt a dii chistu: Nosta vej nuja a che
+fà cun chel omp inocènt lì, che jò i ài sufrìt tant ta un sun par
+caua so.
+20Ma i capoprèdis e i ansiàns a àn cunvinsùt la zent a
+domandà par Baraba e par vej Gjeù copàt.
+21Cual daj doj i volèju chi vi lasi vej? al à domandàt il
+governatòu.
+Baraba, a àn rispundùt.
+22Alora se àju da fà cun Gjeù cal è clamàt il Crist? al à
+domandàt Pilàt?
+E dùcjus a àn rispundùt: Mètilu in cròus!
+23Parsè? Se mal al àja fàt? al à domadàt Pilàt.
+Ma lòu a àn sigàt pì fuart encjamò: Mètilu in cròus!
+24Cuant che Pilàt a si à rindùt cont ca no zovava nuja, ma che
+invensi la zent a tacava a scalmanasi, al à cjapàt sù un pu di
+aga e a si à lavàt li mans davànt da la zent. I soj inocènt dal
+sanc di chistu omp, al à dita. Rangjàisi vuàltris!
+25Duta la zent a à rispundùt: Lasa che il so sanc al coli sul
+nustri cjaf e sù chèl daj nustri fìs!
+26Alora a ghi à lasàt vej Baraba, ma al à fàt flagelà Gjeù, e a
+lu à consegnàt par cal vegnès crucifìs.
+
+I Soldàs a Cjòlin in Ziru Gjeù
+
+27Alora i soldàs dal governatòu a àn partàt Gjeù là dal
+pretòrium e a àn radunàt atòr di luj duta la compagnia di
+soldàs. Dopo vèjlu denudàt a ghi àn metùt intòr una
+mantelina rosa,
+e tal cjaf a ghi àn metùt una corona di spincs intorgolàs. Ta
+la man a ghi àn metùt un bastòn, e a si sòn inzenoglàs
+davànt di luj par cjòilu in ziru. Salve, re daj Ebrèos! a ghi
+àn dita.
+30A ghi àn spudàt intòr e cul bastòn ca ghi àn cjòlt da la man
+a si sòn metùs a dàjghi colps tal cjaf. Dopo vèjlu cjòlt in
+ziru, a ghi àn gjavàt la mantelina e a àn tornàt a mètighi sù i
+so vistìs. A la fin a lu àn partàt via par mètilu in cròus.
+
+La Crucifisiòn
+
+32Zìnt fòu a àn scuntràt un omp di Cirene ca si clamava
+Simon, e a lu àn costrèt a partà la cròus. A sòn rivàs ta un
+post clamàt Golgota (cal vòu di Post dal Cranio). Là a ghi
+àn ufrìt da bevi a Gjeù vin misturàt cu la fiel; ma dopo
+vèjlu sercjàt al à rifiutàt di bèvilu. 35Dopo vèjlu metùt ta la
+cròus, a si sòn spartìs i so vistìs tirànt li bruscjètis. Dopo a si
+sòn sintàs jù a fàjghi da vuardia. Imparzora dal so cjaf a àn
+metùt il sen da la so condana: CHISTU AL È GJEÙ, RE
+DAJ EBRÈOS. Doj làris a èrin stàs metùs in cròus cun luj,
+un a la so destra e un a la so sinistra. Chej ca pasàvin par lì a
+ghi sigàvin un insùlt dopo laltri, scjasànt il cjaf e diìnt: Tu
+chi ti vàs a distrui il templi e rifalu in tre dìs, prova, mo, a
+salvati! Vèn jù da la cròus, si ti sòs il Fì dal Omp!
+41In ta la stesa maniera, i capoprèdis, i maèstris da la les, e i
+ansiàns dal pòpul a lu àn cjòlt in ziru.
+42Al à salvàt àltris, a dièvin, ma a nol è bon da salvasi
+besòu! Al è il Re di Israel! Cal vegni adès jù da la cròus e i
+ghi crodarìn! Al à cunfidàt in Diu. Che Diu a lu salvi adès sa
+ghi vòu ben, parsè che luj al à dita: I soj il Fì di Diu. In ta
+la stesa maniera i làris ca ghi èrin stàs metùs in cròus in
+banda di luj a lu ufindèvin a plen.
+45Da la sesta ora fin a la nona ora il scur cal era vegnùt al
+veva cujerzùt duta la cjera. Atòr da la nona ora, Gjeù a si à
+metùt a sigà Eloi, Eloi, lama sabachthani?ca vòu dii
+Diu me, Diu me, parsè mi àtu bandonàt?
+47Cuant che cualchidùn di chej ca èrin lì al à sintùt chistu, al
+a dita: Al stà clamànt Lìja.
+48Un di lòu al è zùt sùbit a cjoj una spugna. Al à imbevuda di
+aèit e a ghi là ufrida a Gjeù ta la punta di un stec par cal
+bevès. Chej àltris a àn dita: Adès lasàjlu besòu. Jodìn se
+Lìja al vèn a salvalu.
+50E cuant che Gjeù al à dàt naltra sigada, al à dàt sù il so
+spìrit.
+51Tal stes momènt il telòn dal templi a si à sbregàt dal bas al
+alt. La cjera a à tremàt e li pièris a si sòn spacàdis. Li tòmbis
+a si sòn vierzùdis e i cuarps di tanta zent santa ca era muarta
+a sòn tornàs a vivi. A sòn vegnùs fòu da li so tòmbis, e dopo
+la risuresiòn di Gjeù a sòn zùs in ta la sitàt santa indà ca
+sòn stàs jodùs da tanta zent.
+54Cuant che il senturiòn e chej àltris ca ghi fèvin di vuardia a
+Gjeù a àn jodùt il teremòt e dut sè ca era susedùt, a si sòn
+teroriàs, e a àn esclamàt: Ma alora al era pròpit il Fì di
+Diu!
+55Tanti fèminis a èrin ulì, ca vuardàvin da lì visìn. A vèvin
+seguìt Gjeù da la Galilea par servilu. Fra di lòu a era Maria
+Madalena, Maria la mari di Jacu e di Bepi, e la mari daj fìs
+di Zebedeo.
+
+Gjeù al Vèn Metùt ta la Tomba
+
+57Vignuda la sera al è rivàt un siòr di Arimatea, ca si
+clamava Bepi, cal era doventàt encja luj un disèpul di Gjeù.
+A si à preentàt davànt di Pilàt par domandàjghi di vèj il
+cuarp di Gjeu, e Pilàt al à dàt òrdin ca ghi lu vegnès dàt.
+59Bepi al a cjapàt sù il cuarp, a lu à inglusàt ta un nisòu net, e
+a lu à metùt ta la so tomba cal veva fàt scavà ta la rocja.
+Dopo al à rodolàt una piera grosa davànt da la entrada da la
+tomba e al è zùt via.
+61Maria Madalena e che altra Maria a èrin lì, sintàdis visìn da
+la tomba.
+
+Il Vuardiàn da la Tomba
+
+62Il dì dopo, chèl dopo dal dì da la preparasiòn, i capoprèdis
+e i Farièos a sòn zùs a cjatà Pilat: Siòr, a ghi àn dita, i si
+recuardàn che cuant cal era encjamò vif chel impostòu là al
+veva dita, Dopo tre dìs i tornaràj a vivi. Alora dà lòrdin
+che la tomba a vegni sigurada fin al ters dì; che sinò i so
+disèpuj a pòsin vignì a robà il cuarp e dìighi a la zent cal è
+risusitàt daj muars. Chistùltin ingàn al sarès peu dal prin.
+65Cjolèit sù un vuardian, al à rispundùt Pilàt. Zèit pur a
+sigurà la tomba mièj chi podèis. Cussì a sòn zùs e a àn
+siguràt la tomba, sigilànt la piera e lasànt lì il vuardiàn.
+
+La Risuresiòn
+
+28     Pasàt il sabo, al cricà dal prin dì da la setemana,
+Maria Madalena e che altra Maria a sòn zudis a jodi la
+tomba.
+2Pròpit ta chel momènt lì al era capitàt un grant teremòt: un
+ànzul dal Signòu al era vegnùt jù dal cjel e, rivàt lì da la
+tomba, al veva rodolàt indavòu la piera e a si veva sintàt
+insima. Al someàva na saèta lampànt, e i so vistìs a èrin
+blancs coma la nèif. I vuardiàns a èrin cussì teroriàs di luj
+ca ti tremàvin miès muars.
+5Lànzul a ghi à dita a li fèminis: No stèit vej poura, che jò i
+saj chi stèis vuardànt di Gjeù cal è stàt metùt in cròus.
+
+
+
+
+
+
+A nol è chì; al è risusitàt, coma cal veva dita. Vegnèit a jodi
+il post indulà cal era stàt soteràt. Dopo zèit via sùbit a
+contàjghi ai disèpuj cal e risusitàt daj muars e cal và davànt
+di lòu in ta la Galilea. I lu jodarèis ulà. Adès i vi lu ài dita.
+8Cussì li fèminis a si sòn lontanàdis da la tomba a la svelta,
+plènis di poura ma encja di contentesa, e a sòn corùdis a
+contàjghilu ai so disèpuj. Dut ta un colp Gjeù a li à
+scuntràdis. Mandi, a ghi à dita. A ghi sòn zùdis visìn, a lu
+àn cjapàt paj piè e a lu àn adoràt. Alora Gjeù a ghi a dita:
+No stèit vej poura. Zèit a dìighi ai me fràdis di zì a
+Galilea; ulà a mi jodaràn.
+
+I Soldàs a Vègnin Crompàs
+
+11Mentri che li fèminis a èrin par strada, un pus daj vuardiàns
+a sòn zùs in sitàt e a ghi àn contàt ai capoprèdis dut sè ca era
+susedùt.
+12Dopo che i capoprèdis a si sòn cjatàs cuj ansiàns, a àn
+deliberàt di dàjghi ai soldàs un bel pu di bes, diìnt: I vèis
+da dii che i disèpuj a sòn vegnùs di nòt e a lu àn partàt via
+mentri chi durmìvin. Se il governatòu al vegnarà a sìntilu, i
+lu sodisfarìn e vuàltris i no varèis da vej poura di nuja.
+Alora i soldàs a àn acetàt i bes, e a àn fàt coma ca ghi era
+stàt racomandàt. E chista storia a è stada tant contada fra i
+Ebrèos fin al dì di vuèj.
+
+
+
+La Racomandasiòn ai Disèpuj
+
+16Alora i ùndis disèpuj a sòn zùs in Galilea ta la culina indulà
+che Gjeù a ghi veva dita di zì. Cuant ca lu àn jodùt a àn
+tacàt a adoralu; ma cers di lòu a si sòn metùs a dubità.
+18Alora Gjeù a ghi è zùt visìn e a ghi à dita: A mi è stada
+data duta la potensa dal cjel e da la cjera.
+19Duncja zèit e fèit disèpuj di duti li nasiòns in nòn dal Pari e
+dal Fì e dal Spirit Sant, e insegnàjghi a ubidì dut sè chi vi ài
+comadàt jò. E stèit sigùrs che jò i saràj cun vuàltris fin a la
+fin dal timp.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Acknowledgment
+For this translation in western Friulian I have relied in the
+main on the King James version of the New Testament.
+
+Recommended readings
+
+Student Bible, New International Version, Zondervan, 1984
+(NIV)
+La Santa Biblia, Antiguo y Nuevo Testamento, Sociedad
+Biblicas Unidas, Londres, 1955 (SB)
+Das Evangelium Nach Matthäus, Evangeliumsnetz:
