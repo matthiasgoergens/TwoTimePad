@@ -43,11 +43,15 @@
   
   "workspaceFolder": "/workspace",
   
+  "features": {
+    "ghcr.io/devcontainers/features/common-utils:2": {
+      "username": "matthias",
+      "userUid": "auto",
+      "userGid": "auto"
+    }
+  },
+  
   "postCreateCommand": "pip list",
   
-  "remoteUser": "matthias",
-  
-  "containerUser": "matthias",
-  
-  "updateRemoteUserUID": true
+  "remoteUser": "matthias"
 }
