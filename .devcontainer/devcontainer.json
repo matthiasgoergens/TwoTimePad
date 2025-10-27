@@ -45,5 +45,9 @@
   
   "postCreateCommand": "pip list",
   
-  "remoteUser": "root"
+  "remoteUser": "matthias",
+  
+  "containerUser": "matthias",
+  
+  "updateRemoteUserUID": true
 }
