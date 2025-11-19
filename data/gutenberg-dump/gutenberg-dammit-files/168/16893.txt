@@ -1,0 +1,4265 @@
+MACBETH
+
+Kirj.
+
+William Shakespeare
+
+
+Paavo Cajanderin suomennos ilmestyi 1885.
+
+
+
+Näytelmän henkilöt:
+
+DUNCAN, Skotlannin kuningas.
+MALCOLM,    | hänen poikansa.
+DONALBAIN,  |
+MACBETH,  | hänen sotaväkensä päälliköt.
+BANQUO,   |
+MACDUFF,    |
+LENOX,      |
+ROSSE,      |
+MENTETH     | Skotlannin ylimyksiä.
+ANGUS,      |
+CATHNESS,   |
+FLEANCE, Banquon poika.
+SIWARD, Northumberlandin kreivi, englantilaisen sotajoukon päällikkö.
+Nuori SIWARD, hänen poikansa.
+SEYTON, Macbethin adjutantti.
+Macduffin poika.
+Englantilainen lääkäri.
+Skotlantilainen lääkäri.
+Sotamies.
+Portinvartija.
+Vanhus.
+Lady MACBETH.
+Lady MACDUFF.
+Lady Macbethin kamarirouva.
+HEKATE ja kolme noitaa.
+
+Lordeja, sotaherroja, sotamiehiä, murhamiehiä, seuralaisia ja
+lähettiläitä. Banquon haamu ja muita näkyjä.
+
+Neljännen näytöksen loppupuoli tapahtuu Englannissa, kaikki muut
+tapaukset Skotlannissa.
+
+
+
+
+ENSIMMÄINEN NÄYTÖS.
+
+
+Ensimmäinen kohtaus
+
+    Aukea paikka.
+    (Ukkosen jylinää Ja leimauksia. Kolme noitaa tulee.)
+
+1 NOITA.
+Kons' yhdymme taas; mi merkki sen,
+Rajuilmako, leimaus, ukkonen?
+
+2 NOITA.
+Häly taistelun kun laannut on
+Ja voiton tuo tai tappion.
+
+3 NOITA.
+Siis ennen laskemist' auringon.
+
+1 NOITA.
+Ja paikka mikä?
+
+2 NOITA.
+                Nummen rinne.
+
+3 NOITA.
+Macbethkin silloin saapuu sinne.
+
+1 NOITA.
+Tulen, harmio.[1]
+
+2 NOITA.
+               Konna huutaa.
+
+3 NOITA.
+                             Heti, heti!
+
+KAIKKI.
+Häijy on kaunis ja kaunis on häijy;
+Sumussa ja pilvissä noidat ne leijuu.
+
+                                (Katoavat.)
+
+
+Toinen kohtaus.
+
+    Leiri Foresin lähellä.
+
+    (Miekankalsketta kuuluu. Duncan kuningas, Malcolm, Donalbain,
+    Lenox ja seuralaisia tulee. Soturi verissään kohtaa heidät.)
+
+DUNCAN.
+Ken tuossa verissään? On näkö hällä,
+Kuin kapinasta uuden uutukaista
+Hän tietäisi.
+
+MALCOLM.
+              Se sama mies on, joka
+Soturin oivan, karskin lailla iski
+Mun kahleist' irti. -- Terve, urho veikko!
+Nyt kuninkaalle kerro, kuinka sodan
+Ol' lähtiessäs laita.
+
+SOTURI.
+                      Epävarma,
+Kuin kahden uupunehen uijan, jotka,
+Taidolleen haitaks, toisiins' iskevät.
+Macdonwald julmus -- kapinoitsijaksi
+Omansa aivan: kihistenpä versoo
+Hänessä muukin konnuus -- länsisaarilt'
+Avukseen kernit sai ja gallowglassit;
+Ja onnetar, hymyillen kirotyölle,
+Sai petturille portoks; mutta turhaan:
+Macbeth, jot' urhoks syystä mainitaan,
+Ilkkuillen onnetarta, maalla miekka,
+Jok' yhä vielä veritöistään höyrys,
+Miehuuden sankarina raivas tiensä
+Tuon orjan luokse suoraan;
+Ei kättä paiskannut, ei hyvästellyt,
+Vaan vatsan halkas leukapieliin saakka
+Ja kallon nosti meidän muurillemme.
+
+DUNCAN.
+Oi urho serkku! Uros ansiosta!
+
+SOTURI.
+Kuin päivän koita julmat ukonilmat
+Ja myrskyt haaksirikkojatkin seuraa,
+Niin hurman lähde tääkin turmaa huokui.
+Kuningas skottein, huomaa, huomaa! Tuskin
+Miehuuden aseill' oli oikeus lyönyt
+Käpälämäkehen nuo käppäät kernit,
+Kun Norjan herra, etuansa käyttäin,
+Aseilla kirkkailla ja virkein voimin
+Jo täytti päälle.
+
+DUNCAN.
+                  Mut Macbeth ja Banquo?
+Heit' eikö säikyttänyt tuo?
+
+SOTURI.                     Heh, kyllä:
+Kuin jänis leijonaa, tai varpu kotkaa.
+Olivat, totta puhuin, niinkuin tykit
+Ladatut kaksin kerroin jyrinällä;
+Niin he
+Kahdesti kaksin kerroin löivät vastaan.
+Veressä kylpeäkö teki mieli,
+Vai uutta Golgathaako kuuluks tehdä,
+En tiedä minä --
+Apua huutaa haavani; ma voivun.
+
+DUNCAN.
+Kuin sanas kaunistaa sua haavas; maineen
+On maku kummassakin. -- Haavur' tuokaa.
+
+    (Soturi saatetaan ulos.)
+    (Rosse tulee.)
+
+Ken tuossa tulee?
+
+MALCOLM.
+                  Jalo Rosse-thani.[2]
+
+LENOX.
+Mi kiire hänen silmistänsä vilkkuu?
+Hoin katsoo se, ken jotain suurta tietää.
+
+ROSSE.
+Jumala kuningasta varjelkoon!
+
+DUNCAN.
+No, mistä matka, jalo thani?
+
+ROSSE.
+Fifestä, armollinen kuninkaani.
+Siell', ilmaa piesten, liput Norjan liehtoo
+Väkemme viileäksi. Norja itse
+Hirveillä joukoillaan, ja apunansa
+Tuo kurja kavaltaja Cawdor-thani,
+Aloitti julman taistelun, siks että
+Bellonan rautahame sulho,[3] hälle
+Ruveten vertaiseksi, -- käsi kättä
+Ja miekka kavaltajan miekkaa vasten --
+Masensi korskan mielen. Lyhyesti:
+Me voiton saimme.
+
+DUNCAN.
+                  Mikä suuri onni!
+
+ROSSE.
+Niin että nyt Sven, Norjan kuningas,
+Meilt' anoo rauhaa. Mutta kaatuneitaan
+Ei haudata hän saanut, ennenkuin hän
+Saarella pyhän Columbanin maksoi
+Viistuhat taaleria yhteiskassaan.
+
+DUNCAN.
+Tuo Cawdor luottoan' ei enää petä. --
+Julista hälle surma. Macbeth nyt
+On Cawdor-thanin arvon perinyt.
+
+ROSSE.
+Sen täyttää tahdon koittaa.
+
+DUNCAN.
+Hän minkä menetti, sen Macbeth voittaa.
+
+                                    (Lähtevät.)
+
+
+Kolmas kohtaus.
+
+    Nummi.
+    (Ukkosen jylinää. Samat kolme noitaa tulevat.)
+
+1 NOITA.
+Miss' olet ollut, sisko?
+
+2 NOITA.
+Sian tapossa.
+
+3 NOITA.
+Entä sinä, sisko?
+
+1 NOITA.
+Helmastaan laivur'akka kastanjoita
+Söi hotki hotkimistaan. "Annas", sanoin:
+"Pois hiiteen, noita!" huus se ihrahaaso.
+Mies Tiger-laivall' on Aleppoon mennyt;
+Mut hännätönnäpä rottana
+Perässä ma seilaan seulassa;
+Sen ma teen, sen ma teen, sen ma teen.
+
+2 NOITA.
+Saat tuulen multa.
+
+2 NOITA.
+Oi, sisko kulta!
+
+3 NOITA.
+Ma toisen annan.
+
+1 NOITA.
+Muut kaikki ma luonani kannan.
+Joka sataman ja sopen,
+Kaikki ilmansuunnat lopen
+Kiertäen ne kaartavat.
+Heinäks hänet kuivatan,
+Öin ja päivin karkoitan
+Unen hänen silmistänsä,
+Noidun hänen elämänsä.
+Yhdeksästi yhdeksän
+Raskaan viikon karsinnan
+Hivuen saa kestää hän.
+Vaikk' en laivaa hukkaan saiskaan,
+Myrskyn piestäväks sen paiskaan.
+Kas, mikä mulla!
+
+2 NOITA.
+Näytä, näytä!
+
+1 NOITA.
+Laivurin peukalo, näätkös vaan,
+Hän hukkui kotimatkallaan.
+
+    (Rummun pärrytystä ulkona.)
+
+3 NOITA.
+Haa, rummut soi!
+Se on Macbeth, oi!
+Kaikki. Velhosiskot käsikkäin
+Maat ja meret kiitää näin
+Hyörin pyörin piirisillä:
+Kolme sulle ja kolme mulle
+Ja kolme vielä, siit' yheksän tullee.
+Seis! -- Nyt taika on kohdallaan.
+
+    (Macbeth ja Banquo tulevat.)
+
+MACBETH.
+Näin julman kaunist' en ole päivää nähnyt.
+
+BANQUO.
+Etäälläkö on Fores? -- Keitä nuo
+Noin kuihtuneet ja pukimeltaan jylhät?
+Maan asukkailt' ei näytä he ja sentään
+Maan päällä käyvät. Eloss' olettenko,
+Ja olennoita, joilta vastuun saapi?
+Mua ymmärtävän näytte: kaikin viette
+Rosoille huulillenne kurtun sormen.
+Näytätten naisilta, mut partanne
+Mua kieltää teitä siksi päättämästä.
+
+MACBETH.
+Jos voitte, puhukaa! Keit' oletten?
+
+1 NOITA.
+Oi, terve, Macbeth! Terve, Glamis-thani!
+
+2 NOITA.
+Oi, terve, Macbeth! Terve, Cawdor-thani!
+
+3 NOITA.
+Oi, terve, Macbeth! Kuninkaaks saat kerran.
+
+BANQUO.
+No, mitä tuijotatte? Säikyttenkö
+Noin sulosointuisia uutisia? --
+Nimessä totuuden, keit' oletten te?
+Kuvitelmia vai tosi-olennoita!
+Jalolle kumppanillen' ennustatte
+Olevan onnen lisäks[4] suurta valtaa
+Ja kruunun toiveita, ett' oikein siitä
+Hän hurmaantuu; vaan mulle ette haasta.
+Jos ajan kylvön tiedätten ja näette,
+Mik' itu nousevi ja mik' ei nouse,
+Niin vastatkaa! En kerjää enkä pelkää
+En armoanne enkä vihaanne.
+
+1 NOITA.
+Terve!
+
+2 NOITA.
+Terve!
+
+3 NOITA.
+Terve!
+
+1 NOITA.
+Vähempi kuin Macbeth, ja suurempi.
+
+2 NOITA.
+Vähemmän onnekas, tok' onnekkaampi.
+
+3 NOITA.
+Et kuninkaaksi saa, mut niitä siität.
+Macbeth ja Banquo, terve kumpikin!
+
+1 NOITA.
+Kumpikin terve, Banquo ja Macbeth!
+
+MACBETH.
+Seis, hämärät ennustajat! Selvän tahdon.
+Kun Sinel kuoli, tulin Glamis-thaniks;
+Vaan miten Cawdoriks? Viel' elää Cawdor,
+Mies parhaillaan; ja kuninkaaksi pääsö
+On luultavaa ja varmaa yhtä vähän
+Kuin tulo Cawdoriksi. Mistä saitte
+Tuon kumman tiedon? Miks täss' auhdoll' aholl'
+Eteemme käytte, moista ennustellen
+Profeettain lailla? -- Puhukaa, ma vaadin!
+
+    (Noidat häviävät.)
+
+BANQUO.
+Poreita maall' on niinkuin vesilläkin;
+Nuo oli niitä. -- Mihin hävisivät?
+
+MACBETH.
+Pois ilmaan! Minkä ruumiiks luulit, haihtui
+Kuin henki tuuleen. -- Voi, kun eivät jääneet!
+
+BANQUO.
+Tosi-olennoistako nyt haastelemme,
+Vai olemmeko syöneet hulluheinää,
+Mi mielen viepi?
+
+MACBETH.
+                 Lapsistanne tulee
+Kuninkaita.
+
+BANQUO.
+            Ja teistä kuningas.
+
+MACBETH.
+
+Ja Cawdor-thani myöskin, eikö niin?
+
+BANQUO.
+Niin aivan sanat kuuluivat. -- Ken tuossa?
+
+    (Rosse ja Angus tulevat.)
+
+ROSSE.
+Kuningas onnellisen tiedon saanut
+On voitoistas, Macbeth; ja kuullen, kuinka
+Kapinan liekiss' alttiiks panit henkes,
+Hänessä ihmetys ja kehu kilvan
+Sinusta kiistää. Tuosta vaienneena,
+Ja päivätyötäs silmäten, hän huomaa
+Sun pöyhkäin norjalaisten riviss' aivan
+Kamoksumatta surman hirmukuvaa,
+Jonk' itse loit. Kuin rakeet taajaan seuras
+Sanoma sanomaa, jokainen tuoden
+Sun ylistystäs kruunun puoltajana
+Ja hänen eteensä sen kaatain.
+
+ANGUS.                        Meillä
+Kuningas sulle laittaa kiitoksensa;
+Eteensä sua saattamaan vaan käskee,
+Ei sua palkitsemaan.
+
+ROSSE.
+Ja vielä korkeamman arvon merkiks
+Sua käskee tervehtiä Cawdor-thaniks.
+Siis, terve, jalo thani! Se sun arvos.
+
+BANQUO.
+Haa! Puhuvatko perkeleetkin totta?
+
+MACBETH.
+Viel' elää Cawdor; miksi lainapukuun
+Puette mun?
+
+ANGUS.
+            Hänestä hylky elää;
+Mut raskas tuomio painaa hänen päätään,
+Jok' on jo surman oma. Norjan kanssa
+Pitikö yhtä hän, vai salaa auttoi
+Kapinamiestä, vaiko molempiin
+Hän maansa turmaks yhtyi, sit' en tiedä;
+Maanpetos selvä vaan ja tunnustettu
+Kukisti hänet.
+
+MACBETH (syrjään).
+               Glamis ja Cawdor-thani!
+Vaan suurin puuttuu. --
+    (Ääneen.)
+                        Kiitos vaivastanne!
+No, ettekö nyt usko lapsistanne
+Tulevan kuninkaita, kun ne, jotka
+Tekivät minut Cawdor-thaniksi.
+Moist' ennustivat?
+
+BANQUO.
+                   Luottakaa vaan siihen,
+Niin halu teissä pian kruunuun syttyy,
+Ohitse Cawdor-arvon. Kummallista!
+Useinpa, meitä tuhoon vietelläkseen,
+Puhuvat hornan henget meille totta;
+Rehellisiä pikku-seikoiss' ovat,
+Pettääkseen suuremmissa. -- Serkut, kuulkaas!
+
+MACBETH (syrjään).
+Kaks tosi ennustusta! Oiva johto
+Komeaan kuninkuuden näytelmään! --
+Tuhansin kiitoksia, hyvät herrat! --
+(Syrjään.) Yliluonnollinen kiusaus tuo, ei paha
+Se olla voi, ei hyväkään: -- jos paha,
+Miks onnen esimaun mulle soi se,
+Aloittain totuudella? Cawdor olen.
+Jos hyvä, miks siis valtaa mieltän' aatos,
+Min hirmukuva nostaa hiukset pystyyn
+Ja, vastoin luonnon tapaa, kylkiluihin
+Sydäntän' jäykkää lyöttää? Tosi kauhu
+On mielen hirmuluomain suhteen tyhjää.
+Ja pelkkä murhan kuvitus jo jäytää
+Olentoani niin, ett' elon kaiken
+Tukeuttaa houre tuo, ja mitään muuta
+Ei ole, pait se, mikä viel' ei ole.[5]
+
+BANQUO.
+Kas kuink' on kumppanimme haltioissaan!
+
+MACBETH (syrjään).
+Jos sallimus mun kuninkaaksi tahtoo,
+Se kruunatkoon mun myös; en itse liiku.
+
+BANQUO.
+Uus arvo ompi niinkuin vieras puku;
+Sopivaks vasta tottumus sen tekee.
+
+MACBETH (syrjään).
+No, tulkohon jos mitä! Kuluu hetki,
+Vaikk' olis myrskyinenkin päivän retki.
+
+BANQUO.
+Me teitä odotamme, jalo Macbeth.
+
+MACBETH.
+Oi, anteeks! Unhotettuj' asioita
+Ajuni raskas hautoo. Hyvät herrat,
+Vaivanne kirjass' on, jot' aamuin illoin
+Selaillen luen. -- Nyt kuninkahan luokse! --
+Tapausta mieti, ja kun aika kypsyy
+Ja muuten tilaisuutt' on, haastelkaamme
+Siit' avomielin sitten.
+
+BANQUO.
+                        Mielist' aivan.
+
+MACBETH.
+Mut siksi vaiti! -- Tulkaa, ystävät!
+
+                              (Lähtevät.)
+
+
+Neljäs kohtaus.
+
+    Fores. Huone kuninkaan linnassa.
+
+    (Torventoitauksia. Duncan, Malcolm,
+    Donalbain, Lenox ja seuralaisia tulee.)
+
+DUNCAN.
+
+No, joko mestattu on Cawdor? Eikö
+Palanneet ole toimittajat vielä?
+
+MALCOLM.
+Ei, herrani; mut puhuttelin miestä,
+Jok' oli nähnyt hänen kuolevan.
+Hän kertoi, että petoksensa suoraan
+Hän tunnusti, teilt' armost' anteeks anoi
+Ja syvää katumusta osoitti.
+Niin kaunista ei mikään elämässään
+Kuin elämästä lähtönsä: hän kuoli,
+Kuin olis kuolemaa hän harjoitellut,
+Pois heittäin kallehimman kalleutensa
+Kuin kalun joutavan.
+
+DUNCAN.
+                     Ei mikään taito
+Voi mielentilaa kasvoist' arvata.
+Ylimys oli hän, ja häneen luotin
+Ma ehdottomasti.
+    (Macbeth, Banquo, Rosse ja Angus tulevat.)
+                 Oi jalo serkku!
+Mua kiittämättömyyden synti raskas
+Juur' rasitti. Niin kauas eelle ehdit,
+Ett'ei sua palkintoni kerkein siipi
+Tavoittaa voi. Jos vähemp' olis vaatees,
+Ett' tasan kiitoksen ja palkan panna
+Ma saattaisin! Nyt ken ne kaikki jaksaa
+Sun ansiosi täysin määrin maksaa!
+
+MACBETH.
+Velvollisuus ja virka täyttäjänsä
+Jo palkitseepi. Vastaan suvaitkaatte
+Vaan ottaa työmme: kruununne ne ovat
+Ja valtikkanne käskyläät ja lapset;
+Ne tehtäväns' on tehneet, jos ne teille
+On kunniaks ja mieliks.
+
+DUNCAN.
+                        Tervetullut!
+Sua aloin istuttaa ja täyteen kukkaan
+Sun tahdon saattaa. -- Jalo Banquo, sun ei
+Vähemmät ansios, ja niit' ei tehdä
+Vähemmän tiedoks. Annas, sua halaan!
+Käy sydämmelleni!
+
+BANQUO.
+                  Jos siihen juurrun,
+On laiho teidän.
+
+DUNCAN.
+                 Runsas riemuni,
+Kyllyyttään huima, surun kyynelkätköön
+Lymytä koittaa. -- Pojat, langot, thanit
+Ja muut te meitä likeisimmät, kuulkaa:
+Jälkeiseksemme Malcolm-esikkomme
+Nyt nimitämme. Cumberlandin prinssi
+Nimenä häll' on täst'edes. Mut yksin
+Ei kunniaan hän nouse: tähden lailla
+Jokaista ansiota arvomerkin
+Kirkastaa pitää. -- (Macbethille) Ja nyt Invernessiin,
+Ain' yhä velkaan teille jäädäksemme.
+
+MACBETH.
+On vaivaa lepo, mik' ei hyödyks teille.
+Sanoman itse vien, ja tulollanne
+Ma riemastutan puolisoni korvaa.
+Nöyrimmät jäähyväiset!
+
+DUNCAN.
+                       Kunnon Cawdor!
+
+MACBETH (syrjään).
+Vai Cumberlandin prinssi![6] -- Siinä porras,
+Johonka suistun, jos en yli hyppää;
+Se tiellän' on. Te, tähdet, sammukaa!
+Ei mieltän' mustaa valo nähdä saa.
+Kamo kättä, silmä! Mut se tulkoon, se,
+Mi tulleena on kauhu silmälle.
+
+    (Lähtee.)
+
+DUNCAN.
+Niin, kunnon Banquo; niin on uljas hän,
+En kyllästy ma häntä kiittämään:
+Se on herkkuani. Seuratkaamme häntä,
+Mi huolien meitä vastaan ottamaan on
+Edeltä mennyt. Serkku verraton!
+
+    (Torventoitauksia. Lähtevät.)
+
+
+Viides kohtaus.
+
+    Inverness. Huone Macbethin linnassa.
+
+    (Lady Macbeth tulee sisään, kirjettä lukien.)
+
+LADY MACBETH.
+"He kohtasivat minut voiton päivänä, ja olen täydellisimmästi
+vakuutettu siitä, että heillä on enemmän kuin ihmisen tieto. Kun haluni
+paloi heiltä enempää kyselemään, muuttuivat he ilmaksi ja haihtuivat.
+Tuosta kun ihmeissäni siinä seisoin, tuli kuninkaalta lähettiläitä,
+jotka minua tervehyttivät Cawdor-thaniksi, jolla nimellä sitä ennen
+noitasiskot olivat minua tervehtineet ja tulevaan aikaan viitanneet,
+lausuen: 'terve sulle, kuninkaaks saat kerran!' Tämän olen tahtonut
+ilmoittaa sinulle, sinä rakkahin osakas kunniastani, ettet,
+tietämättömänä siitä, mikä suuruus minulle on luvattu, jäisi
+oikeutettua iloasi vaille. Pane se sydämmellesi, ja hyvästi jää!"
+
+Glamis sa olet, Cawdor myös, ja onnen
+Luvatun saat. -- Mut luontoas ma pelkään:
+Siin' ihmistunnon maitoa on liiaks,
+Ett' oikotien se löytäis. Suureks mielit,
+Himoa sull' on kunniaan, mut pahuus,
+Sen kätyri, sulta puuttuu. Hartain halus
+On hurskaan halua; et pettää tahtois,
+Vaan vääryydellä voittaa. Suuri Glamis,
+Sa sitä mielittelet, joka huutaa:
+"Noin tulee tehdä sun, jos mua mielit",
+Ja jota pikemmin sa pelkäät tehdä
+Kuin tekemättä jättää. Tänne riennä,
+Ett' oman henkeni ma korvaas valan,
+Ja kielin uljain kaikki pieksen pois,
+Mi sua tuosta kultarenkaast' estää,
+Joll' onnetar ja henkimailma näyttää
+Sun kruunanneen jo. --
+    (Palvelija tulee.)
+                       Mitä kuuluu?
+
+PALVELIJA.
+                                    Illall'
+On täällä kuningas.
+
+LADY MACBETH.
+                    Oletko hullu?
+Mukana eikö herras, ja hän eikö
+Tuost' olis ennalt' ilmoittanut?
+
+PALVELIJA.
+                                 Anteeks,
+Mut totta on se. Tulossa on thani:
+Yks kumppaneistani, jok' eeltä riensi,
+Niin oli hengetön, ett' tuskin sanaa
+Sai suustaan.
+
+LADY MACBETH.
+              Häntä hoitakaa; hän suurta
+Tuo sanomaa.
+    (Palvelija lähtee.)
+             Kähisten itse korppi[7]
+Nyt Duncanin tuloa onnetonta
+Mun katton' alle raakkuu. Tulkaa, henget,
+Te murhamielen kätyrit, naisluontoni
+Muuks muuttakaa ja luokaa minut täyteen
+Julminta hirmuisuutta päästä jalkaan!
+Vereni saentakaa, salvatkaa
+Tie säälilt', ett'ei tunnonvaivan etsot
+Mun päätöstäni julmaa järkyttäisi,
+Rakentain sen ja teon väliin rauhaa!
+Mun rinnoilleni tulkaa, maidon sijast'
+Imemään sappea, te murhahenget,
+Te näkymättömät, miss' ikänänsä
+Tuhoa väijytte! Tule, synkkä yö,
+Sakeimpaan hornan savuun peity, ett'ei
+Terävä veitsen' haavaa näe, jonk' iskee,
+Eik' alta mustan vaipan taivas pilku
+Ja huuda: "seis, seis!"
+    (Macbeth tulee.)
+Suuri Glamis! jalo Cawdor!
+Suurempi kumpaakin: -- "sä, joka kerran" --
+Sun kirjees yli kurjan nykyisyyden
+Mun nostatti, ja vastaisuuden tunnen
+Jo nykyhetkessä.
+
+MACBETH.
+                 Oi, armahani,
+Yöks tänne Duncan saa.
+
+LADY MACBETH.
+                       Ja lähtee -- milloin?
+
+MACBETH.
+Aamulla -- niin on määrä.
+
+LADY MACBETH.
+                          Ei näe koskaan
+Se aamu aurinkoa. Kasvos, armas,
+On niinkuin kirja, josta kummia
+Lukea saattaa. Pettääksesi aikaa
+Mukaannu aikaan; silmin, käsin, kielin
+Jaa mieltymystäs; ole niinkuin kukka,
+Viaton päältä, mutta käärme alla.
+Pidettävä on tulijasta huolta;
+Sa tään yön suuret toimet jätä mulle;
+Tuleviks päiviksi ja öiksi nuo
+Yliherruuden ja vallan meille tuo!
+
+MACBETH.
+Enemmän toiste.
+
+LADY MACBETH.
+
+               Katse kirkas vaan!
+Se pelkur' on, ken muuttaa muotoaan.
+Muu kaikki jätä mulle.
+
+                         (Lähtevät.)
+
+
+Kuudes kohtaus.
+
+    Sama paikka. Linnan edusta.
+
+    (Torvensoittoa ja tulisoihtuja. Duncan, Malcolm, Donalbain,
+    Banquo, Lenox, Macduff, Rosse, Angus ja seuralaisia tulee.)
+
+DUNCAN.
+On kaunis tämä linnan paikka; ilma
+Suloinen, vieno hentoj' aistejamme
+Sukoillen kuihkoo.
+
+BANQUO.
+                   Kesävieraan pääskyn,
+Tuon templin-asujamen, pesät hauskat
+Todistaa, että huokuu täällä taivaan
+Imanne henki. Joka nurkkaan, soppeen
+Ja patsaaseen ja räystääseen se tehnyt
+On riippumajan kehdoks poikasilleen.
+Miss' asuu lintu tää ja pesii, siellä,
+Sen olen huomannut, on ilma lauha.
+
+    (Lady Macbeth tulee.)
+
+DUNCAN.
+Kah, itse armas emäntämme! -- Lempi,
+Mi seuraa meit', on vaivaks usein, vaikka
+Kiitämme siitä niinkuin lemmest' aina.
+Täst' oppikaa, ja vaivoistanne meille
+Kost'jumal' lausukaa ja puuhistanne
+Kiitelkää meitä.
+
+LADY MACBETH.
+                 Vaikk' ois palvelumme
+Vähimpään asti kaksin kerroin tehty
+Ja vielä kahdistettu, pientä ois se
+Ja turhaa verrattuna siihen suureen
+Ja laajaan kunniaan, jot' oletten te
+Kerännyt huoneellemme. Näiden uutten
+Ja vanhain lahjain palkaks meill' ei muuta
+Kuin esirukous.
+
+DUNCAN.
+                Missä Cawdor? Häntä
+Kannoilla seurasimme majaa hälle
+Tilataksemme; vaan hän ajaa joutuun,
+Ja lempi, tuima niinkuin kannus, auttoi
+Hänt' ennen meitä kotiin. Vieraaksenne,
+Ihana emäntä, nyt yöksi jäämme.
+
+LADY MACBETH.
+Mit' omaa alamaisell' on, hän itse
+Ja kaikk', on lainaa, hyvä ruhtinaani;
+Me vaadittaissa tilin teemme, jättäin
+Omanne teille.
+
+DUNCAN.
+               Käsi mulle! Nyt
+Isännän luokse. Lemmittymme on hän,
+Ja vastakaan näit' armomme ei puutu.
+Suvaitsetteko, emäntäiseni?
+
+                         (Lähtevät.)
+
+
+Seitsemäs kohtaus.
+
+    Sama paikka.
+
+    (Torventoitauksia ja tulisoihtuja. Edeskäypä ja useita
+    palvelijoita kulkee näyttämön poikitse, kantaen astioita
+    ja ruokia. Macbeth tulee.)
+
+MACBETH.
+Jos tehtynä se olis tehty, paras
+Se olis oiti tehtynä. Jos välttää
+Vois murhan seuraukset ja nuottaan nostaa
+Vain menestystä, jotta tämä isku
+Tääll' olis kaikki kerrassaan, vain täällä,
+Täll' ajan katovalla kannikalla,
+En tulevaisest' elämästä piittais.
+Mut moiset työt ne tuomitaan jo täällä.
+Verinen oppi, opittuna kerran,
+Takaisin kääntyy omaan keksijäänsä.
+Oikeuden tarkka käsi huulillemme
+Sekoittamamme myrkkymaljan nostaa.
+Tääll' ompi hällä kaksinainen turva:
+Vasalli olen ensinkin ja lanko;
+Se murhan kieltää jo. Sitt' isäntänä
+Murhaajalt' ovi sulkea mun tulis
+Eik' itse veistä käyttää. Lisäks Duncan
+Niin hellä haltija on, valtatöissään
+Niin puhdas, että hänen ansionsa
+Pasuunakielill' enkelitten huutais
+Julminta kirousta murhatyölle.
+Ja sääli, niinkuin vastasyntynyt
+Alaston lapsi, myrskyn siivill' ajain
+Tai taivaan keruubina ratsastain
+Oroilla ilman näkymättömillä,
+Tuon hirmuteon lietsois joka silmään,
+Ett' itkuvirtaan myrsky hukkuis. -- Kannust'
+Ei muuta mulla hankkeen kylkeen ajaa
+Kuin huima kunnianhimo, joka hyppyyn
+Yrittää, mutta ylenniskoin suistuu. --
+    (Lady Macbeth tulee.)
+No, mitä nyt?
+
+LADY MACBETH.
+              Hän koht' on atrioinnut.
+Miks pois sa läksit?
+
+MACBETH.
+                     Kysyikö hän mua?
+
+LADY MACBETH.
+Tiedäthän sen.
+
+MACBETH.
+               Tuo tuuma jättäkäämme.
+Hän juur' mua kunnioitti; ja ma olen
+Väeltä kaikenlaiselt' ostanunna
+Kultaisen maineen, jota käyttää täytyy,
+Kun on sen hohde kirkkain, eikä oiti
+Pois heittää noin.
+
+LADY MACBETH.
+                   Oliko toivo, johon
+Puit itses, päissään? Unestansako se
+Nyt herää, silmät haljakkana katsoin
+Äskeistä mielityötään? Rakkautes
+Nyt vasta oikein tunnen. Pelkäätkö sä
+Yht' uljas olla työssä, toiminnassa
+Kuin haluissas? Sit' omistaako tahdot,
+Mink' elon kaunistukseks katsot, mutta
+Omissa silmissäsi pelkur' olla
+Ja sanoa kuin kissa tarinassa:
+"Tekisin, jos vaan uskaltaisin."
+
+MACBETH.
+                                 Vaiti!
+Kaikk' uskallan ma, mitä sopii miehen;
+Ken enemp' uskaltaa, ei ole mies.
+
+LADY MACBETH.
+Mik' elukka sun pani aikees mulle
+Ilmaisemaan? Kun sen sa uskalsit,
+Sin' olit mies; ja jos vaan uskaltaisit
+Enempää olla, kuin mit' olit, oisit
+Enemmän vielä mies. Ei aikaa silloin,
+Ei paikkaa ollut, vaan ne luoda tahdoit;
+Nyt itsestään ne tarjon' on, vaan tarjo
+Masentaa sun. Imettäjänä tunnen,
+Kuink' armas rakastaa on imulasta;
+Vaan parhaillaan sen myhäillessä mulle
+Sen hellist' ikenistä nännin oisin
+Pois temmannut ja pirstaks aivot lyönyt,
+Jos vannonut sen oisin kuin nyt sinä.
+
+MACBETH.
+Jos ei se käy --
+
+LADY MACBETH.
+                 Ei käy! Sa täyteen määrään
+Vaan mieles pingoita, niin kyllä käy se.
+Kun Duncan nukkuvi (ja uneen hänet
+Piankin matkan vaivat uuvuttavat),
+Molemmat hänen passarinsa huumaan
+Niin viinillä ja juomill', että muisti,
+Tuo aivon vartija, uduksi muuttuu
+Ja höyrypannuks järjen tallepaikka.
+Kun sitten päissään nukkuvat kuin kuolleet
+Elukan-untaan, mitä emme silloin
+Vois vartijattomalle Duncanille
+Me kahden tehdä? Mist' ei silloin syyttää
+Vois juopuneita passareita, joiden
+Viaksi tämä suuri murha pannaan?
+
+MACBETH.
+Vain poikia sa siitä! Uljas luontos
+Ei muuta luoda voi kuin miehenpuolta. --
+Kun hänen kamarissahan me verin
+Punaamme nukkunehet passarit,
+Omia heidän puukkojansa käyttäin,
+Ken sit' ei uskois heidän työkseen?
+
+LADY MACBETH.
+                                    Muuta
+Ken tohtis uskoa, kun murhan jälkeen
+Ulinan päästämme ja tuskanhuudon?
+
+MACBETH.
+Min' olen valmis; hirmutyöhön tuohon
+Jokaisen jänteen pingoitan. Nyt matkaan!
+Iloiseks vaan nyt koita teeskeleitä
+Ja viekas mieli viekkain kielin peitä.
+
+                             (Lähtevät.)
+
+
+
+
+TOINEN NÄYTÖS.
+
+
+Ensimmäinen kohtaus.
+
+    Paikka sama. Linnan piha.
+
+    (Banquo ja Fleance tulevat,
+    jälkimmäinen tulisoihtu kädessä.)
+
+BANQUO.
+Mik' aika yöst' on, poika?
+
+FLEANCE.
+                           Kuu on maillaan;
+En kuullut ole kelloa.
+
+BANQUO.
+                       Puol'yöstä
+Se mailleen käy.
+
+FLEANCE.
+                 On myöhempi, ma luulen.
+
+BANQUO.
+He, miekkan' ota! -- Taivaass' ollaan tiukat:
+Sen kaikki kynttilät on sammuksissa. --
+Tuoss', ota tuokin? -- Raskas niinkuin lyijy
+Mua painaa uupumus, ja kuitenkaan
+En tahtois nukkua. Oi, armon vallat,
+Aatokset häijyt torjukaatte, joilla
+Leponi häirii luonto! -- Miekkan' anna!
+    (Macbeth tulee; ja palvelija, tulisoihtu kädessä.)
+Ken siellä?
+
+MACBETH.
+            Ystävä.
+
+BANQUO.
+Viel' ylähällä? Kuningas jo nukkuu.
+Hän oli harvinaisen iloinen
+Ja väellenne jakoi runsaat lahjat.
+Nyt tällä timantilla tervehtii hän
+Suloista emäntäänsä, sulkein siihen
+Kiitokset äärettömät.
+
+MACBETH.
+                      Äkkipäätä
+Tahtomme joutui puutteen alamaiseks
+Ja suurt' ei aikaan saanut.
+
+BANQUO.
+                            Hyvin kaikki. --
+Unissan' yöllä näin nuo velhosiskot:
+Osaksi totta ennustivat teille.
+
+MACBETH.
+Mitäpä heistä! Mut jos aika myöntäis,
+Puhella sopis asiasta hiukan.
+Määrätkää hetki.
+
+BANQUO.
+                 Milloin suvaitsette.
+
+MACBETH.
+Jos tuumaan suostutten, kun siksi tulee, --
+Keräätte kunniaa.
+
+BANQUO.
+                  Jos kerätess' en
+Vaan sitä menetä; jos puhtahana
+Valani säilyy, povi saastatonna,
+Niin suostun kyllä.
+
+MACBETH.
+                    Hyvää yötä siksi.
+
+BANQUO.
+Ma kiitän; samaa teille.
+
+    (Banquo ja Fleance lähtevät.)
+
+MACBETH.
+                         Poika, käske,
+Ett' emäntäs, kun juomani on valmis,
+Kilistää kelloa. Käy maata sinä. --
+    (Palvelija lähtee.)
+Tuo onko puukko, silmissäni tuossa,
+Päin kättä kahva? Annas sinuun tartun! --
+En sua saanut, ja tok' yhä näen sun.
+Sa, turman ilmiö, sua eikö koura
+Käsitä niinkuin silmä? Taikka tietkö
+Vaan mieliluulon puukko, tyhjä haamu,
+Vaan kiihtyneiden aivojeni luoma?
+Sun yhä näen, niin käsin tuntuvana
+Kuin tämän, jonka tässä paljastan.
+Sa näytät mulle tien, jot' aion käydä;
+Ja tuommoist' asett' on mun juuri tarvis. --
+Muun aistimiston narriks silm' on tullut,
+Tai vie se niistä voiton. Yhä näen sun,
+Terä, kahva täynnä veripisaroita,
+Joit' äsken niiss' ei ollut. -- Tyhjää kaikki;
+Verinen teko vaan se silmissäni
+Näin kuvastuu. -- Nyt toinen puoli maata
+On niinkuin kuollut; häijyt unet hiipii
+Makaajan luo läp' uudinten; nyt velhot
+Hekaten kalvaan uhrijuhlaa viettää;
+Ja laiha murha, vartijansa, suden,
+Kehoitus-ulvonnasta säikkyneenä,
+Kuin himokas Tarquinius, määränpäähän
+Salaisin rosvoaskelin kuin haamu
+Näin hiipivi. -- Sa luja, vankka maa,
+Äl' askelteni astuntaa sa kuule,
+Ett' eivät itse kivetkin ne kielis
+Mun teistäni ja häiris tätä julmaa
+Yön rauhaisuutta, joka niille sopii! --
+Täss' uhkaan, ja hän elää: sanat vaan
+Ne kylmää leyhkää kuumaan toimintaan.
+    (Kello kilisee.)
+Nyt käyn, ja se on tehty; kello kutsuu.
+Tuot' älä kuule, Duncan: ääni sen
+Sun kutsuu helvettiin tai taivaaseen!
+
+                            (Lähtee.)
+
+
+Toinen kohtaus.
+
+    Sama paikka.
+
+    (Lady Macbeth tulee.)
+
+LADY MACBETH.
+Mi heidät juovutti, mun rohkaisi;
+Mi heidät sammutti, mun tulistutti. --
+Vaiti -- Hiljaa! -- Huuhkain vaan se siellä huikaa,
+Se turman enne, joka huutaa julmaa
+Hyv'yötänsä. -- Hän työss' on; ovi on auki;
+Kuorsaillen juopunehet vartijat
+Ivaavat tointaan. Moisen laitoin juoman,
+Ett' elämä ja surma kiistäkööt nyt,
+Ovatko hengissä he vaiko kuolleet.
+
+MACBETH (sisältä).
+Ken siellä?
+
+LADY MACBETH.
+            Voi, heränneen heidän pelkään
+Ja tekemättä jääneen työn; -- ei rikos,
+Vaan yritys se meidät tuhoo. -- Vaiti! --
+Asetin valmihiksi miesten puukot;
+Ne huomasi hän kai. -- Jos ei hän olis
+Isääni muistuttanut nukkuessaan,
+Min' oisin tehnyt sen. -- Mun mieheni!
+
+    (Macbeth tulee.)
+
+MACBETH.
+Nyt on se tehty. -- Kuulitko sa mitä?
+
+LADY MACBETH.
+Yöhuuhkan huudon vaan ja sirkan laulun.
+Puhuitko sinä?
+
+MACBETH.
+               Milloin?
+
+LADY MACBETH.
+                        Äsken.
+
+MACBETH.
+                               Alas
+Kun astuinko?
+
+LADY MACBETH.
+              Niin.
+
+MACBETH.
+                    Hiljaa!
+Ken tuossa kamariss' on?
+
+LADY MACBETH.
+                         Donalbain.
+
+MACBETH (katsellen käsiään).
+Oi, näky surkea on tuo!
+
+LADY MACBETH.
+                        Sa hupsu!
+Vai näky surkea!
+
+MACBETH.
+                 Siell' unissansa
+Yks nauroi, toinen "murhaa!" huus, niin että
+Heräsi kumpikin: ma kuulin kaikki;
+Rukouksen sitten lukivat ja uneen
+Taas vaipuivat.
+
+LADY MACBETH.
+                Kaks siell' on nukkumassa.
+
+MACBETH.
+"Kies' siunaa!" huusi yks, ja toinen "amen!"
+Kuin nämä pyövelkäten' ois he nähneet.
+Kuunnellen heidän tuskaans', suustan' "ament'"
+En saanut, he kun sanoivat: "Kies' siunaa!"
+
+LADY MACBETH.
+Noin syvään älä tuota mielees paina!
+
+MACBETH.
+Mut miks en sanoa ma voinut "amen"?
+Ma siunausta tarvitsin, ja "amen"
+Kurkkuuni tarttui.
+
+LADY MACBETH.
+                   Noin ei tuommoisista
+Saa tuskitella; voipi tulla hulluksi.
+
+MACBETH.
+Ma luulin äänen kuulleeni, mi huusi:
+"Herätkää! Macbeth unen murhaa!" -- unen,
+Tuon viattoman, joka huolten vyhdet
+Sekavat suorii, päivittäisen kuolon,
+Työn raittiin peson, sielunhaavain voiteen,
+Tuon luonnon toisen atrian ja parhaan
+Elämän juhlaruoan.
+
+LADY MACBETH.
+                   Mitä puhut?
+
+MACBETH.
+"Herätkää!" huuto kautta linnan kaikui.
+
+Glamis unen murhas, ja senvuoks ei Cawdor
+Unt' enää saa, unt' ei Macbeth saa enää.
+
+LADY MACBETH.
+Mut ken se huusi noin? Oi, armas thani,
+Sun jalo pontes hervahtuu, jos moista
+Noin kiihkoisesti mietit. Nouda vettä
+Ja käsistäs nuo rumat merkit huuhdo! --
+Miks tänne puukot kannoit? Siellä niiden
+On paikka. Pois ne vie, ja verin tuhri
+Makaavat vartijat.
+
+MACBETH.
+                   En sinne mene:
+Aatella pelkään tekoani; nähdä
+Sit' uudelleen en tohdi.
+
+LADY MACBETH.
+                         Arka raukka!
+Tuo tänne puukot! Nukkuneet ja kuolleet
+Kuvia vaan on; lasta peljättää voi
+Kuvattu piru. Verta jos hän vuotaa,
+Niin sillä kultaan vartijoiden muodon,
+Syyn muodon näin he saavat.
+
+    (Lähtee. Kolkutusta ulkoa.)
+
+MACBETH.
+                            Mikä kolke? --
+
+Mik' on mun? Risahdustakin ma säikyn!
+Kenenkä kädet nää? Haa! Päästäni ne
+Repivät silmät maalle! Voiko suuren
+Neptunin koko valtameri pestä
+Tuon veren kädestäni pois? Ei, ennen
+Tää käsi meret määrättömät punaa,
+Viherjän muuttain ruskeaks.
+
+    (Lady Macbeth palajaa.)
+
+LADY MACBETH.
+                            Mun käten'
+On samankarvaiset kuin sun, mut sydän
+Noin vaalas mua hävettäis.
+    (Kolkutusta.)
+                           Tuo kolke
+Eteläportin' on. Pois kamariimme!
+Pisara vettä pois tän synnin huuhtoo;
+Kuin kevyt on se sitten! Sinust' uljuus
+On luopunut.
+    (Kolkutusta.)
+             Haa! kuules, taasen kolke!
+Yöpuku ylles, ett'ei kutsuttaissa
+Havaittais meidän valvoneen. -- Äl' anna
+Noin raukkamaisest' aatoksilles valtaa.
+
+MACBETH.
+Tekoni tietäen mun paremp' oisi,
+Ett' itseän' en tietäisi
+    (Kolkutusta.)
+                         Kolkkehellas
+Herätä Duncan! Voi, jos sen sa voisit!
+
+                           (Lähtevät.)
+
+
+Kolmas kohtaus.
+
+    Sama paikka.
+
+    (Portinvartija tulee.)
+
+PORTINVARTIJA.
+Sepä vasta kolkutusta, totta tosiaankin! Jos olisit helvetin porttien
+vartija, kylläpä saisit avainta kiertää! (Kolkutusta.) Kolk, kolk,
+kolk! Beelsebubin nimessä, ken siellä? -- Kas vaan, jyväsaksa, joka
+hirtti itsensä pelätessään hyvää vuodentuloa. Aikanasi tulet! Onko vaan
+hurstia tarpeeksi mukanasi, sillä täällä sitä hikoilla saat?
+(Kolkutusta.) Kolk, kolk? Toisen perkeleen nimessä, kuka siellä? --
+Lainvääntelijä, tottamaar, joka kummankin riitapuolen asian valallansa
+vahvistaa, ja joka on Jumalan kunniaksi paljon konnankoukkuja
+harjoitellut, vaan ei kuitenkaan ole voinut itseänsä taivaaseen
+koukutella. Käy sisään, lainvääntelijä! (Kolkutusta.) Kolk, kolk, kolk!
+Kuka siellä? -- Vai niin, englantilainen räätäli, tänne tullunna siitä,
+että ranskalaisen housuista kaistaleen[8] varasti. Käy sisään, räätäli,
+täällä kyllä saumarautasi kuumenee! (Kolkutusta.) Kolk, kolk! Ei
+koskaan rauhaa. Ken olette? -- Mutta tämä paikka on helvetiksi liian
+kylmä. Lempo sitä kauemmin olkoon pirun portinvartijana! Ajattelin
+muuten laskea sisään kutakin ammattikuntaa muutamia, jotka ruusuista
+tietä kulkevat ijankaikkiseen ilovalkeaan. (Kolkutusta.) Kohta, kohta!
+(Avaa.) Pyydän muistamaan portinvartijaa.
+
+    (Macduff ja Lenox tulevat.)
+
+MACDUFF.
+Niin myöhäänkö sä maata kävit, veikko,
+Kun myöhään näin sä nukut?
+
+PORTINVARTIJA.
+Niin, nähkääs, ryyppäsimme toiseen kukonlauluun; ja juominen se
+vaikuttaa tuntuvasti kolmea asiata.
+
+MACDUFF.
+Mitä kolmea asiaa se juominen sitten erittäin vaikuttaa?
+
+PORTINVARTIJA.
+Niin, nähkääs, punaisia neniä, unta ja kusta. Lemmenseikoissa se auttaa
+ja kaataa: himoa se auttaa, mutta kyvyn se kaataa. Voipi sanoa, että
+liika juominen pitää lemmen suhteen lainvääntelijän virkaa: se luo sen
+ja tappaa sen; nostaa sen ja kaataa sen; yllyttää sitä ja kyllyttää
+sitä; voimistuttaa ja laimistuttaa; sanalla sanoen: vääntää sen uneen,
+pettää sen ja jättää sen.
+
+MACDUFF.
+Luulenpa, että viina sinut viime yönä petti.
+
+PORTINVARTIJA.
+Niin kylläkin, suut, silmät täyteen; mutta minäpä petoksen kostin; ja
+luulenpa, että kylläkin puoltani pidin, sillä vaikka hän pari kertaa
+sieppasi jalat altani, keksinpä keinon saada hänet maalle samaa tietä,
+mitä oli tullutkin.
+
+MACDUFF.
+Hereillä onko herras? -- Kolkkeellamme
+Me hänet herätimme: tuossa on hän.
+
+    (Macbeth tulee.)
+
+LENOX.
+Huomenta, jalo thani!
+
+
+MACBETH.
+                      Terve teille!
+
+MACDUFF.
+Kuningas joko noussut lie?
+
+MACBETH.
+                           Ei vielä.
+
+MACDUFF.
+Hän käski, että varhain herättäisin;
+Lie myöhä jo.
+
+MACBETH.
+              Vien teidät hänen luokseen.
+
+MACDUFF.
+Sen tiedän suloiseksi vaivaks teille;
+Mut vaivaa on se kuitenkin.
+
+MACBETH.
+Työ mieleinen se meille vaivan korvaa.
+Tuoss' ovi on.
+
+MACDUFF.
+               Ma huutaa rohkenen;
+Se työks on mulle pantu.
+
+    (Menee.)
+
+LENOX.
+                          Lähteneekö
+Kuningas tänään?
+
+MACBETH.
+                 Lähtee -- niin on määrä.
+
+LENOX.
+Yö oli jylhä. Majassamme tuuli
+Kukisti savutorvet; valitusta
+Ilmassa kuultiin, julmaa kuolontuskaa
+Ja hirmuäänin ennustelemista,
+Paloa, murhaa, hävitystä hurjaa
+Ajalle tuskaiselle syntyväksi.
+Pimeyden lintu kaiken yötä huusi;
+Sanovat maankin olleen kuumeissansa
+Ja värisseen.
+
+MACBETH.
+              Niin, jylhä oli yö.
+
+LENOX.
+Mun nuori muistini ei toista muista
+Sen vertaista.
+
+    (Macduff palajaa.)
+
+MACDUFF.
+               Oo, kauheata, kauheata, kauheata!
+Ei kieli eikä sydän sua saata
+Käsittää eikä nimittää!
+
+MACBETH & LENOX.
+                        Mik' ompi?
+
+MACDUFF.
+Nyt taitotekonsa on tuho tehnyt!
+Kuin kirkonvaras murtanut on murha
+Vihittyyn Herran huoneeseen ja hengen
+Templistä ryöstänynnä.
+
+MACBETH.
+                       Kuinka? Hengen?
+
+LENOX.
+Kuninkahanko?
+
+MACDUFF.
+              Menkää huoneeseen, ja
+Sokaiskoon silmät teiltä toinen Gorgo; --
+Mua älkää puhumahan vaatiko --
+Nähkää, ja puhukaatte sitten itse. --
+    (Macbeth ja Lenox lähtevät.)
+Hoi, hätäkello soimaan! -- Nouskaa, nouskaa! --
+Petosta! Murhaa! Banquo, Donalbain!
+Ja Malcolm! Nouskaa! Pois tuo veltto uni,
+Tuo kuolon hahmo; itse kuoleman te
+Nyt näette! -- Nouskaa katsomahan kuvaa
+Sen suuren tuomion! -- Malcolm! Banquo! Nouskaa
+Kuin haudasta ja aavein' ilmi tulkaa,
+Ett' ois tää hirmu täysi! Kello soimaan!
+
+    (Hätäkelloa soitetaan.)
+    (Lady Macbeth tulee)
+
+LADY MACBETH.
+Miks talon nukkujia kokoon kutsuu
+Noin jylhä torvi? Sanokaa!
+
+MACDUFF.
+                           Lady armas,
+Mun kerrottavani ei sovi teille:
+Sanani murhan tois, jos vaimon korvaan
+Ne koskis.
+    (Banquo tulee.)
+           Banquo! Banquo! Murhattun' on
+Kuninkaamme ja herramme!
+
+LADY MACBETH.
+                         Voih! voih!
+Meilläkö?
+
+BANQUO.
+          Hirveintä, miss' olkoonkin! --
+Sanasi, Macduff, peruuta, ja sano,
+Ett'ei niin ole.
+
+    (Macbeth ja Lenox palajavat.)
+
+MACBETH.
+                 Voi, jos oisin kuollut
+Vaan tiimaa ennen tätä tapausta!
+Olisin autuas silloin. Tästä lähtein
+Ei totuutt' ole lainkaan maailmassa;
+Petosta kaikki! Armot, arvot tyhjää!
+Elämän viini maahan juossut on,
+Ja kerskaks kellariin jäi pelkkä sakka.
+
+    (Malcolm ja Donalbain tulevat)
+
+DONALBAIN.
+Hukassa mikä?
+
+MACBETH.
+              Te, vaikk' ette tiedä:
+Verenne alku, synty, hetesuoni
+Tukittu on, tukittu itse lähde!
+
+MACDUFF.
+Isänne on he murhanneet.
+
+MALCOLM.
+                         Voi! Ketkä?
+
+LENOX.
+Sen passarit on nähtävästi tehneet.
+Verissä oli kädet, kasvot heillä,
+Ja puukot heidän pieluksillaan vielä
+Ol' aivan kosteat. He tuijottivat,
+Tunnoiltaan ollen aivan. Moisten hoidoss'
+Ei ole turvattuna ihmishenki.
+
+MACBETH.
+Voi, että vimmoissani tapoin heidät!
+
+MACDUFF.
+Miks teitte sen?
+
+MACBETH.
+                 Ken säikkynyt ja viisas
+Voi samass' olla, lempeä ja hurja,
+Kuninkaan mies ja puoleton? Ei kenkään.
+Tulinen lempi kiihkoissansa voitti
+Sävyisän järjen. Tässä makas Duncan.
+
+Hopeapäässä veren kultareunus
+Ja haavat ammottain kuin aukko, josta
+Tuho sisään ryntää; tuossa murhamiehet,
+Värihin ammattinsa tahrattuina,
+Rivoina puukot hurmeen tahmass' aivan.
+Ken, joll' on sydän lempivä, ja siinä
+Rohkeutta näyttää tätä lempeänsä,
+Vois mieltään malttaa?
+
+LADY MACBETH (pyörtyvinään).
+                       Auttakaa mua täältä!
+
+MACDUFF.
+Ladyä hoitakaa!
+
+MALCOLM.
+                Me vait olemme,
+Me, joill' on tässä suurin surun syy!
+
+DONALBAIN.
+Vait'-olo paras: täällä kova onni
+Vois kairanreiän lymyst' äkkipäätä
+Karata meihin. Pois! Ei kyyneleemme
+Viel' ole kypsät.
+
+MALCOLM.
+                  Eikä valloillansa
+Surumme suuri.
+
+BANQUO.
+               Ladyä hoitakaa!
+    (Lady Macbeth kannetaan pois.)
+Alastoman ja paljaan heikkoutemme
+Kun saamme verhotuksi, yhtykäämme
+Tät' inhaa verityötä tutkimaan.
+Meit' epäilys ja kauhu värisyttää;
+Kädessä Kaikkivallan seison tässä,
+Ja luihun kavalluksen salajuonta
+Ma sodin vastaan.
+
+MACDUFF.
+                  Minä myös.
+
+KAIKKI.
+                             Me kaikki.
+
+MACBETH.
+Nyt täysi miehen asu joutuun ylle!
+Salissa sitten yhdytään.
+
+
+KAIKKI.
+                         Hyv' on!
+
+    (Kaikki lähtevät, paitse Malcolm ja Donalbain.)
+
+MALCOLM.
+Mit' aiot? Hyv' ei ole tänne jäädä.
+Surua teeskellä on viekkaan helppo.
+Ma lähden Englantiin.
+
+DONALBAIN.
+                      Min' Irlantiin.
+On ero turvaks kummallenkin meille.
+Tääll' ovat hymyt tikareita täynnä,
+Ja verisin on veriheimolainen.
+
+MALCOLM.
+Tuo murhan nuoli, joka ammuttiin,
+On vielä lennossansa. Paras meidän
+On sitä karttaa. Ratsun selkään siis!
+Vähemmälle nyt jäähyväiset jääkööt.
+Pois varkain! Konsa turma tuloss' on,
+Ei varas lie ken turvaa pakohon.
+
+                           (Menevät.)
+
+
+Neljäs kohtaus.
+
+    Linnan edustalla.
+
+    (Rosse ja eräs vanhus tulevat.)
+
+VANHUS.
+Vuoskymmeniä seitsemisen muistan;
+Sill' ajall' olen monta kummaa nähnyt
+Ja julmaa päivää; mutta kaikki leikiks
+Tää hirmu-yö on tehnyt.
+
+ROSSE.
+                        Näet sä, isä:
+Vihoissaan ihmistöistä taivas uhkaa
+Veristä lavaa. Kello näyttää päivää,
+Mut synkkä yö tukeuttaa taivaan lampun.
+Yön kunniaksko vaiko päivän hävyks
+Maan kasvot hautaa pimeys nyt, kun niitä
+Elävän valon tulis suudella?
+
+VANHUS.
+Se luonnotont' on kuin tuo öinen työkin.
+Tiistaina hiirensyöjä huuhka sieppas
+Ja tappoi pilviss' ylvästävän haukan.
+
+ROSSE.
+Duncanin ratsut -- kumma, mutta totta --
+Nuo somat, kauniit, rodun valiot,
+Hurjistuneina pilttuuns' särkivät,
+Kurista huolimatta maalle syösten
+Ikäänkuin sotaan ihmiskuntaa vastaan.
+
+VANHUS.
+Sanotaan, että toisiaan he söivät.
+
+ROSSE.
+Niin tekivätkin; sen ma kummakseni
+Näin omin silmin. -- Tuossa kunnon Macduff!
+    (Macduff tuke.)
+No, miltä näyttää?
+
+MACDUFF.
+                   Ettekö te näe?
+
+ROSSE.
+Jo tiettyn' onko, ken on murhan tehnyt?
+
+MACDUFF.
+Ne, jotka Macbeth tappoi.
+
+ROSSE.
+                          Taivaan taatto!
+Mik' etu heillä siitä?
+
+MACDUFF.
+                       Lahjotuita!
+Kuninkaan pojat, Donalbain ja Malcolm,
+Paenneet ovat, joka tekee heidät
+Epäiltäviksi.
+
+ROSSE.
+              Sekin luonnotonta!
+Oo, kunnianhimo ahnas, joka ahmaat
+Noin oman elinmehus! -- Luultavasti
+Kuninkaaks nyt saa Macbeth.
+
+
+MACDUFF.
+                            Nimitetty
+Hän on ja Sconiin kruunattavaks mennyt.
+
+ROSSE.
+Ja missä Duncanin on ruumis?
+
+MACDUFF.
+Colmes-killin pyhään kätköpaikkaan viety,
+Miss' esi-isienkin lepää luut.
+
+ROSSE.
+Menettekö te Sconihin?
+
+MACDUFF.
+                       En, serkku;
+Ma Fifeen lähden.
+
+ROSSE.
+                  Minä menen Sconiin.
+
+MACDUFF.
+Hyvästi! Ett'ei toteen vaan käy aate:
+Parempi uutta oli vanha vaate!
+
+ROSSE.
+Hyvästi, isä!
+
+VANHUS.
+              Herran siunaus teille
+Ja niille, jotka pahan hyväks sääntää
+Ja vihamiehet ystäviksi kääntää!
+
+                           (Lähtevät.)
+
+
+
+
+KOLMAS NÄYTÖS.
+
+
+Ensimmäinen kohtaus.
+
+    Fores. Sali linnassa.
+
+    (Banquo tulee.)
+
+BANQUO.
+Nyt olet se: kuningas, Cawdor, Glamis
+Ja kaikki, mitä ennustivat velhot.
+Petosta vaan sun käyttäneesi pelkään.
+Mut sanottiin tok', ett'ei sukuus jäis se,
+Vaan että kuningasten kanta-isäks
+Tulisin minä. Totuutta jos heiss' on --
+Ja sinusta, Macbeth, se selvään nähdään --
+Miks ei he minullenkin ennustajiks
+Ruveta vois ja toivoani nostaa?
+Mut vaiti siitä!
+
+    (Torventoitauksia. Macbeth kuninkaana, Lady Macbeth
+    kuningattarena, Lenox, Rosse, hoviherroja, hovinaisia
+    ja seuralaisia tulee.)
+
+MACBETH.
+                 Tuossapa se paras
+On vieraamme!
+
+LADY MACBETH.
+              Jos hän ois unhotettu,
+Ois suureen juhlahamme aukko jäänyt,
+Ja pilall' oisi kaikki.
+
+MACBETH.
+                        Tänä iltan'
+On juhlapidot meillä, pyydän, että
+Tulette tekin.
+
+BANQUO.
+               Teidän korkeutenne
+Vaan käskeköön, ja velvollisuus teihin
+Mun sitoo siteill' ikikestävillä.
+
+MACBETH.
+Lähdetten iltapuolla?
+
+BANQUO.
+                      Lähden, herra.
+
+MACBETH.
+Tän päivän neuvotteluss' oisi muuten
+Mieltänne kuultu, jok' on aina viisas
+Ja onnekas; mut huomiseks se jääköön.
+Kauasko matka on?
+
+BANQUO.
+                  Niin kauas, että
+Se ajan täyttää tästä iltaan asti.
+Paremmin jos ei hepo juokse, täytyy
+Yölt' ottaa lainaks pari synkkää tiimaa.
+
+MACBETH.
+Pois älkää jääkö vaan!
+
+BANQUO.
+                       En, ruhtinaani.
+
+MACBETH.
+Veriset lankomme ne Englannissa,
+Ma kuulen, piilevät ja Irlannissa.
+Tunnustamatta julmaa isänmurhaans'
+Valeita outoj' ajavat he kansaan.
+Huomenna siitä, jolloin muutenkin
+Kokohon meitä vaatii valtatoimet!
+Ratsaille joutuun! Hyväst'! Illalla
+Siis tavataan. Mukana onko Fleance?
+
+BANQUO.
+On, herra. Aika kiiruhtaapi.
+
+MACBETH.
+                             Olkoot
+Heponne varmat jaloiltaan ja virmat!
+Näin satulainne turviin jääkäätten!
+Hyvästi! -- (Banquo lähtee.)
+Jokaisella nyt kello seitsemään on
+Vallassaan aika, että seurast' oisi
+Sen suuremp' ilo. Iltaan asti yksin
+Tahdomme jäädä. Siksi, Herran haltuun!
+
+    (Kaikki lähtevät, paitse Macbeth.)
+    (Palvelija tulee.)
+
+Mies, kuules! Ovatko ne miehet täällä?
+
+PALVELIJA.
+He linnan portill' odottavat, herra.
+
+MACBETH.
+Tuo sisään heidät! -- (Palvelija lähtee.)
+                   Tämä tila ei
+Niin mitään ole, jos ei turvaa ole.
+Tuon Banquon suhteen suuri mull' on pelko:
+Sen miehen kuninkaallisessa luonteess'
+On jotain hirveää. Hän uskaljas on;
+Ja paitse tätä rohkeutt' on hällä
+Älyä, joka varmast' uljaat tuumat
+Vie määrän päähän. Muut' en ketään pelkää
+Kuin häntä. Henken' alleen masentaa hän,
+Niinkuin Antonion suhteen Caesarin
+Sanotaan tehneen. Velhoja hän sätti,
+Kuninkaan nimen kun he mulle soivat,
+Ja käski heidän haastaa hälle. Silloin
+Profeettain lailla tervehtivät häntä
+Lukuisten kuningasten kanta-isäks.
+Mun päähän' asettivat mahon kruunun
+Ja kourahani kuivan valtikan,
+Jonk' outo muukalainen siitä riistää,
+Kun poikaa mull' ei ole. Niin jos on,
+Ryvetin sieluni Banquon lapsen tähden,
+Sen tähden hurskaan Duncanin ma tapoin,
+Sen tähden tunnonrauhan' myrkytin
+Ja autuuteni helmen ihmiskunnan
+Viholliselle myin hänt' auttaakseni
+Kuninkaaks, Banquon lasta kuninkaaksi!
+Ei, ennen taisteluun sun haastan, onni,
+Ja sodin kanssas henkeen, kuolemaan!
+Ken siellä? --
+    (Palvelija palajaa kaksi murhaajaa seurassaan.)
+               Pois, ja varro, kunnes kutsun. --
+    (Palvelija lähtee.)
+Teit' emmekö me eilen puhutelleet?
+
+1 MURHAAJA.
+Kyll', armollinen herra.
+
+MACBETH.
+                         Hyvä! No,
+Olettenko sit' aprikoinneet? Tietkääs,
+Se hän on, joka ennen muinen salpas
+Teilt' onnen tien, vaikk' arvelitte siksi
+Mua viatonta. Sen jo viime kerrall'
+Osoitin teille; selväks tein, kuin teit' on
+Petetty, peijattu; ma keinot näytin
+Ja niiden käyttäjät ja kaikki, josta
+Jo pöhkökin ja mielipuoli huomaa
+Sen Banquon työksi.
+
+1 MURHAAJA.
+                    Sen te selvititte.
+
+MACBETH.
+Niin, mutta vielä muutakin, jok' aiheen'
+On tähän yhdyntäämme. Olettenko
+Niin kärsiväiset luonnostanne, että
+Tuon siedätten? Niin laupiaatko, että
+Mies-paran tuon ja hänen lastens' eestä
+Rukoilette, tuon, jonka käsi raskas
+Teit' alas hautaan painoi sekä saattoi
+Ijäksi omaisenne mieron tielle?
+
+1 MURHAAJA.
+Kuningas, miehiä me olemme.
+
+MACBETH.
+Niin, miehistä te kirjoiss' ehkä käytte
+Kuin lukki, hurtta, häkki, tiisti, rakki
+Ja luppakorva, joilla koiran nimi
+On kaikilla; mut arvolistass' ero
+On talon-, lintukoiran, vilkkaan, laiskan
+Ja viekkaan välillä, sen lahjan mukaan,
+Jonk' aulis luonto kullenkin on suonut,
+Ja josta kullakin on eri kölli
+Muist' eroitteeksi, jotka lista merkkii
+Samaksi kaikki. Niinpä ihmisenkin.
+No, jos nyt listass' oletten ja ette
+Alinta miehenluokkaa, ilmaiskaa se,
+Niin povellenne uskon toimen, joka,
+Jos teette sen, vihollisenne sortaa
+Ja rakkauteeni kiinni teidät solmii.
+Hän elämällään terveyteni tärvää;
+Paranen, jos hän kuolee.
+
+2 MURHAAJA.
+                         Minä, herra,
+Mies olen, jota mailman iskut, potkut
+Niin härnänneet on, ett'en huoli mitä
+Mailman kiusaks tehnen.
+
+1 MURHAAJA.
+                        Minä myöskin
+
+Niin vaivattu, niin kovan onnen lyömä,
+Ett' elämäni alttiiks annan, jos sen
+Parantaa sillä voin tai päästä siitä.
+
+MACBETH.
+Ett' oli Banquo vihollinen teille,
+Nyt tiedätten.
+
+2 MURHAAJA.
+               Niin oli.
+
+MACBETH.
+                         Niin myös mulle,
+Ja niinkin verivihaisesti, että
+Jokainen hetki hänen elämästään
+Mun sydänvertan' kysyy. Voisin kyllä
+Hänestä päästä julkivaltaa käyttäin
+Ja tunnustan sen suoraan, mut en saata
+Eräiltä ystäviltä, jotka meille
+On yhteiset ja joihin panen arvon;
+Vaan täytyy mun hänt' itkeä, vaikk' itse
+Ma hänet tapoin. Senpä vuoksi teiltä
+Apua kosin nyt, näin ihmisiltä
+Tekoni peittäin monestakin syystä.
+
+2 MURHAAJA.
+Me teemme, herra, mitä käskette.
+
+1 MURHAAJA.
+Niin, vaikka henki --
+
+MACBETH.
+                      Miehuutenne kuultaa
+Jo silmistänne. Tunnin kuluessa
+Osoitan teille paikkanne ja määrään
+Sopivan ajan ihan piiramalleen.
+Tän' iltan' on se tehtävä eik' aivan
+Lähellä linnaa: minuun -- muistakaa se --
+Syyn kaunaa ei saa jäädä. Hänen kanssaan --
+Ett'ei jäisi puolitekoon työmme -- Fleancen,
+Tuon hänen poikansa, jok' ompi myötä,
+Jonk' ero täält' on yhtä tärkki mulle
+Kuin isän, täytyy synkän hetken onnest'
+Osansa saada. Tuumimaan nyt menkää;
+Koht' etsin teitä.
+
+2 MURHAAJA.
+                   Valmiit' ollaan, herra.
+
+MACBETH.
+Teit' oiti kutsun; vartokaatte tuolla.
+    (Murhaajat menevät.)
+Päätetty siis! -- Jos, Banquo, taivaasen
+Sun pyrkii sielus, nyt se tehköön sen!
+
+                             (Lähtee.)
+
+
+Toinen kohtaus.
+
+    Toinen huone linnassa.
+
+    (Lady Macbeth tulee, palvelija jäljessä.)
+
+LADY MACBETH.
+Täält' onko Banquo lähtenyt?
+
+PALVELIJA.
+                             On, rouva,
+Mut palaa yöksi.
+
+LADY MACBETH.
+                 Sano kuninkaalle,
+Ett' olis puhuttavaa hiukan mulla,
+Jos häll' on tilaisuutta.
+
+PALVELIJA.
+                          Kyllä, rouva.
+
+    (Lähtee.)
+
+LADY MACBETH.
+Kaikk' ompi turhaa, hukkatyötä vaan,
+Jos kyllääns' ei saa halu saamastaan;
+Parempi olla murhattujen mailla
+Kuin murhaajana tunnon rauhaa vailla!
+    (Macbeth tulee.)
+No, herrani, miks yksin noin te käytte,
+Kamalat haaveet seurana, ja mieless'
+Ain' ajatus, jonk' esineensä kanssa
+Jo olis kuolla tullut? Miksi muistaa
+Mit'ei voi auttaa? Tehty mikä tehty!
+
+MACBETH.
+Ei surmaans' saanut käärme, sai vaan haavan,
+Ja paranee; ja kurja ilkeytemme
+Sen kammoo hammast' aivan niinkuin ennen.
+Hajotkoot taivaat, maat ja mailman pylväät,
+Ennen kuin pelvoss' atriamme syömme
+Ja nukahdamme mieless' unen hirmut,
+Jotk' öisin meitä vaivaa! Paremp' olla
+Tuon kuolleen luona, jonka lähetimme
+Omaksi rauhaksemme ikirauhaan,
+Kuin sielun piinapuilla lakkaamatta
+Tuskissa olla. Haudassaan on Duncan
+Ja elon kuumeen jälkeen hyvin nukkuu.
+Pahintaan petos tek': ei teräs, myrkky,
+Ei ulkosodat, kapinat, ei mikään
+Hänt' enää saavuta.
+
+LADY MACBETH.
+                    Oi, miehen' armas,
+Sulosta jylhä katsees, ole tänään
+Iloinen, kirkas vierastesi kanssa.
+
+MACBETH.
+Niin kyllä, armahani; samoin sinä!
+Sa koko huomiosi Banquoon käännä;
+Hänt' ennen muita silmin, kielin etsi.
+Viel' epävarmat ollen, täytyy meidän
+Imarteen virrass' arvoamme pestä,
+Sydämmen valhenaamaks tehdä kasvot,
+Sen tosilaadun peittäin näin.
+
+LADY MACBETH.
+                               Nuo heitä!
+
+MACBETH.
+Oi, vaimo, skorpioneja on täynnä
+Mun sieluni! Viel' elää Fleance ja Banquo.
+
+LADY MACBETH.
+Mut heill' ei ikuisuuden valtakirjaa.
+
+MACBETH.
+Se lohduttaa: he ovat saatavissa.
+Iloitse siis! Ennenkuin yökkö päättää
+Yölentonsa ja koppakuoriainen
+Hekaten mustan käskyst' univirttään
+Nukuttavalla hyrinällä soittaa,
+On teko tehty lajiaan mitä julmin.
+
+LADY MACBETH.
+Mik' on se teko?
+
+MACBETH.
+                 Tietämättömyyttäs
+Viaton ole, armas, kunnes teost'
+Iloita saat. Yö umpisilmä, joudu,
+Armeliaan päivän hellä katse peitä,
+Ja verikäsin näkymättömin
+Tuo suuri valtakirja revi rikki,[9]
+Mi kalvaaks minut saa! -- Jo hämärtääpi,
+Kotiinsa metsään vares lentää; päivän
+Iloiset lapset nuokkuin nukkuvat,
+Yön mustat henget ryöstöns' alkavat.
+Sa kummastut; mut vaiti, kiinni suu!
+Pahuuden kautta pahuus voimistuu.
+Niin, armas, tule kanssani.
+
+                (Lähtevät.)
+
+
+Kolmas kohtaus.
+
+    Sama paikka. Yrttitarha, josta tie vie linnaan.
+
+    (Kolme murhaajaa tulee.)
+
+1 MURHAMIES.
+Ken yhtymään sun käski meihin?
+
+3 MURHAMIES.
+                               Macbeth.
+
+2 MURHAMIES.
+Epäillä hänt' ei tarvis: tehtävämme
+Hän tuntevan ja käsittävän näyttää
+Vähästä tärkimpään.
+
+1 MURHAMIES.
+                    Siis auta meitä! --
+Lännessä päivää vielä hiukan hohtaa;
+Hevostaan myöhästynyt matkamiesi
+Yömajaan jouduttaa; ja väijymämme
+Jo lähenee.
+
+3 MURHAMIES.
+            Vait! Hevosia kuulen.
+
+BANQUO (ulkoa).
+Hoi, tulta tänne!
+
+2 MURHAMIES.
+                  Hän se ompi. Toiset
+Jo linnass' ovat, joita odotettiin.
+
+1 MURHAMIES.
+Hevoset ympäritse kiertävät.
+
+3 MURHAMIES.
+Noin virstan matkan; hänen, niinkuin kaikkein,
+Tapana täst' on jalan käydä linnaan.
+
+    (Banquo tulee, ja Fleance, tulisoihtu kädessä.)
+
+2 MURHAMIES.
+Kah! tulta, tulta!
+
+3 MURHAMIES
+                   Hän se on.
+
+1 MURHAMIES.
+                              Käsin työhön!
+
+BANQUO.
+Tän' yönä sataa.
+
+1 MURHAMIES.
+                 Satakoot siis iskut!
+
+    (Karkaa Banquon päälle.)
+
+BANQUO.
+Petosta; Oo! -- Fleance, pakoon riennä, pakoon!
+Sun täytyy kostaa tämä! -- Oo, sa konna!
+
+    (Banquo kuolee. Fleance pakenee)
+
+3 MURHAMIES.
+Ken soihdun sammutti?
+
+1 MURHAMIES.
+                      Se eikö oikein?
+
+3 MURHAMIES.
+Tass' on vaan yksi; poika pääsi pakoon.
+
+2 MURHAMIES.
+Siis tekemättä paras puoli työstä.
+
+1 MURHAMIES.
+Pois nyt, ja kertomahan mit' on tehty.
+
+    (Lähtevät.)
+
+
+Neljäs kohtaus.
+
+    Juhlahuone linnassa.
+
+    (Ruokapöytä valmiiksi katettuna. Macbeth, Lady Macbeth,
+    Rosse, Lenox, lordeja ja seuralaisia tulee.)
+
+MACBETH.
+Arvonne tunnetten te; istukaa.
+Ja sydämmestä tervetulleet kaikki.
+
+LORDIT.
+Kiitämme, armollinen kuningas.
+
+
+MACBETH.
+Me itse nöyrän' isäntänä käymme
+Nyt vierastemme seuraan. Arvo-istuin
+Emännän olkohon; kun aika tulee,
+Hält' odotamme tulotervehdystä.
+
+LADY MACBETH.
+Mun puolestani kaikillen se lausu:
+Sydämmen' sanoo heidät tervetulleiks.
+
+    (Ensimmäinen murhaaja ilmestyy ovessa.)
+
+MACBETH.
+Sydänten kiitos sulle vastaa, katso; --
+Molemmat sivut täydet! Käyn siis keskeen.
+Nyt irti ilo! Pöytää kiertämään nyt
+Pikari pankaa! -- (Syrjään murhaajalle.)
+                  Poskellas on verta.
+
+MURHAMIES.
+Se Banquon on.
+
+MACBETH.
+               Parempi sinun päälläs
+Kuin hänen sisässään! Hän siis on poissa?
+
+MURHAMIES.
+Niin, kaula poikki; minulta hän sen sai.
+
+MACBETH.
+Kah, oiva kaulanleikkaaja! Mut hyvä
+On hänkin, joka samoin teki Fleancen.
+Jos sen teit sinä, ei sun vertojas.
+
+MURHAMIES.
+Fleance pakoon pääsi, herra kuningas.
+
+MACBETH.
+Taas kuume minuun karkaa; terve muuten
+Olisin ollut: niinkuin marmor' ehjä,
+Kuin vuori vahva; rajaton ja vapaa
+Kuin ilman henki; vaan nyt salvass' olen,
+Siteissä, raudoiss', epäilyyn ja kauhuun
+Kahlittu kiinni. -- Säilyss' on siis Banquo?
+
+MURHAMIES.
+On, herra, säilyss' allikossa tuolla,
+Ja päässä kaksikymment' aimo haavaa,
+Joist' yksikin jo surmaks olis.
+
+MACBETH.
+                                 Kiitos!
+Siin' emäkäärme on; mut pakoon päässyt
+Sikiö tuo, se myrkyllist' on juurta,
+Vaan vielä hampaaton. -- Pois mene; lisää
+Huomenna kuulen.
+
+    (Murhaaja menee.)
+
+LADY MACBETH.
+                 Kuningas, te ette
+Kehoita iloon. Atria on kaupan,
+Jos sit' ei mielin suoduks usein kuule.
+Saa ruokaa kotonaankin, mutta vieraiss'
+On kohtelu sen höystehenä: muuten
+On pidot kolkot.
+
+MACBETH.
+                 Maire muistuttaja! --
+Sulatus hyvä ruokahaluanne
+Ja kumpaistakin terveys seuratkoon!
+
+LENOX.
+Suvaitkaa, kuningas, tok' istahtaa.
+
+    (Banquon haamu tulee ja istuu Macbethin sijalle.)
+
+MACBETH.
+Maan kunnia nyt olis koossa tässä,
+Jos Banquo ystävämme olis läsnä.
+Juroksi tahtoisin hänt' ennen syyttää
+Kuin jotain tapaturmaa surkutella.
+
+ROSSE.
+Sanansa poissa-olollaan hän syö. --
+Suvaitkaa toki seurahamme tulla.
+
+MACBETH.
+On pöytä täys.
+
+LENOX.
+               Tass' yks on paikka.
+
+MACBETH.
+                                    Missä?
+
+LENOX.
+Tass', armas herra. Miks noin kauhistutte?
+
+MACBETH.
+Ken tuon on tehnyt?
+
+HERRAT.
+                    Minkä, kuninkaamme?
+
+MACBETH.
+Sanoa voitko, että minä tein sen?
+Veristä tukkaas älä mulle huiskaa!
+
+ROSSE.
+Hyvät herrat, nouskaa: kuningas voi pahoin.
+
+LADY MACBETH.
+Ei, hyvät herrat! Moinen on hän usein
+Jo pienest' ollut. Istukaa ma pyydän.
+Se hetken puuskaa on; hän koht' on terve.
+Jos liiaks häntä tarkkaatte, hän suuttuu,
+Ja kiihko yltyy. Syökää, hänest' älkää
+Millänne olko. -- Mies oletko?
+
+MACBETH.
+                               Olen,
+Ja rohkeakin, jok' en pelkää nähdä
+Mit' itse piru kalpenis.
+
+LADY MACBETH.
+                         Sa hupsu!
+Tuo pelkos luoma kuva on, se puukko,
+Jonk' ilmass' ohjanneen sa sanoit tiesi
+Luo Duncanin. Tuo säpsähdys ja säikky --
+Nuo tosi pelvon ilveet -- takan ääress'
+Ois paikallaan, miss' ämmät tarinoivat
+Ja mummo heitä säistää. Häpeä!
+Miks' irmastelet noin? Kun tarkoin katsot,
+Se vaan on tuoli.
+
+MACBETH.
+                  Katsos! Näetkös, tuossa?
+Haa! Mitä sanot? -- Mitä huolin siitä?
+Jos nyökyttää sa saatat, puhu myöskin!
+Jos kalmistot ja haudat hautaamamme
+Takaisin luovat, hautapatsainamme
+Sitt' olkoon haukkain kuvut!
+
+    (Haamu katoaa.)
+
+LADY MACBETH.
+                             Mitä? Viekö
+Miehuutes hulluus?
+
+MACBETH.
+                   Hänet näin, niin totta
+Kuin tässä seison!
+
+LADY MACBETH.
+                   Hyi, hyi, häpeä!
+
+MACBETH.
+Vert' ennenkin on juossut, muinaisaikaan,
+Ennenkuin tavat perkas ihmisyys;
+Ja sittenkin on monet murhat tehty,
+Kamalat kuullakin. Jos siihen aikaan
+Löit miehen päästä aivot, niin hän kuoli,
+Ja siinä kaikki. Nyt hän nousee ylös,
+Kakskymment' uhka verihaavaa päässä,
+Ja viepi paikkamme. Tää kummempaa on
+Kuin murha moinen.
+
+LADY MACBETH.
+                   Vierahanne, herra,
+Te laiminlyötte.
+
+MACBETH.
+                 Ah! en muistanut --
+Mua rakkaat vieraat, älkää ihmetelkö;
+Mua vaivaa kumma heikkous, turha sille,
+Ken tuntee mun. Nyt, kaikkein onnen malja;
+Sitt' istuudun. -- Hoi! Viinisarkka täyteen!
+Nyt koko seuran terveydeksi juon,
+Ja ystävämme Banquon, jota kaipaan.
+Josp' olis tässä hän! Niin, onneks olkoon
+Hänen ja kaikkein!
+
+HERRAT.
+                   Alamainen kiitos!
+
+    (Haamu palajaa.)
+
+MACBETH.
+Pois! Silmistäni pois! Maan kätköön vaivu!
+Luus ytimettömät on, veres kylmä;
+Näköä silmissäs ei noissa, joilla
+Sa tuijottelet.
+
+LADY MACBETH.
+                Tämä, hyvät herrat,
+Tavallist' ompi vaan, ei muuta mitään.
+Mut illan ilon häiritsee se meiltä.
+
+MACBETH.
+Mit' uskaltaapi mies, min' uskallan.
+Käy päälle niinkuin Venään villikarhu,
+Hyrkanian tiiker', julma sarvikuono,
+Muu muoto ota paitse tuo, ja hermon'
+Ei vahvat järky. Tule henkiin jälleen
+Ja korpehen mua vaadi miekkasille,
+Ja pelvosta jos piilen, naisten hemmuks
+Mua silloin hauku. Pois, sa hirmuhaamu!
+Pois, tyhjä ilve!
+    (Haamu katoaa.)
+                  No, kas niin! Kun poistuit,
+Mies olen taas. -- Ma pyydän, istukaa!
+
+LADY MACBETH.
+Ilomme veit ja rikoit hauskan seuran
+Mit' ihmeyttävimmällä häiriöllä.
+
+MACBETH.
+Kuin näky moinen hämmästyttämättä
+Vois ohi kiitää kesäpilven lailla?
+Omalle itselleni teet mun vieraaks,
+Kun aattelen sun nähnees moisen ilmeen
+Ja luonnon puna sentään poskes peittää,
+Kun minun kalpeat on pelvost' aivan.
+
+ROSSE.
+Mink' ilmeen, kuninkaani?
+
+LADY MACBETH.
+                          Pyydän, vaiti!
+Pahemmaks yhä käy hän; kysymykset
+Vihoittaa häntä. Hyvää yötä kaikki!
+Nyt arvovuorost' älkää huoliko,
+Vaan menkää kaikki kerrassaan.
+
+LENOX.
+                               Hyv' yötä!
+Paremman voinnin kuninkaalle suomme.
+
+LADY MACBETH.
+Hyv' yötä kaikillen!
+
+    (Lordit ja seuralaiset menevät.)
+
+MACBETH.
+                     Se vaatii verta.[10]
+"Veri verta vaatii", sanotaan. On nähty
+Puun puhuvan ja kiven liikkuvan.
+Älykkäät tietäjät ja poppamiehet
+Harakan, korpin, naakan lennost' ilmi
+Salaisimmatkin murhatyöt on saaneet. --
+Mik' aika yöstä on?
+
+LADY MACBETH.
+                    Se aamun kanssa
+Juur' riiteleepi, onko yö vai päivä.
+
+MACBETH.
+Mitäpä siitä sanot, kun ei Macduff
+Pitoihin tullut?
+
+LADY MACBETH.
+                 Laitoitko sa sanan?
+
+MACBETH.
+Sen satuin kuulemaan: mut sanan laitan.
+Jokaisen talon palvelijoissa mulla
+On nuuskijoita. Huomenn' -- ani varhain --
+Luo velhojen ma lähden: lisää heidän
+Puhua pitää. Pahimmilla keinoin
+Pahinta tietää halaan. Hyödyksen'
+Saa kaikki väistää; olen verehen
+Niin syvält' astunut, ett' yhtä näin,
+Palaanko vaiko kaalaan eteenpäin.
+Mun päässän' oudot tuumat työksi hautuu;
+Ne tehtävät on, ennen kuin ne lautuu.
+
+LADY MACBETH.
+Sult' uni puuttuu, kaiken luonnon höyste.
+
+MACBETH.
+No, maata siis! Tää hairaus pelotusta
+On alkajan: työ vaatii tottumusta.
+Viel' ollaan toiminnassa liian nuoret.
+
+                           (Lähtevät.)
+
+
+Viides kohtaus.
+
+    Nummi.
+
+    (Ukkosen jylinää. Samat kolme noita-akkaa tulevat
+    ja kohtaavat Hekaten.)
+
+1 NOITA. No, Hekate, te liette suutuksissa?
+
+HEKATE.
+Niin, eikö syytä, häijyt niskurit te
+Ja riettaat velhot? Kuinka uskalsitte
+Noin ongelmoilla Macbethin
+Ajella murhan vehkeisin?
+Ja mua, noitain emäntää,
+Pahuuden salakeksijää,
+Ei kutsuttuna neuvontaan,
+Tekoa taian katsomaan!
+Ja mikä pahin: vaivaanne
+Tuo ilkimys ei palkitse;
+Se häijy, rietas itseään
+Vaan rakastaa ja hyötyään.
+Parannus tehkää! Poistukaa!
+Ja huomenna mua kohdatkaa
+Varahin Acheronin suulla;
+Siell' onnens' saa Macbethkin kuulla.
+Mukana sauvat, kattilat
+Ja muutkin taikatavarat!
+Mun matkan' ilmaan on: tän' yönä
+On hirmuhanke mulla työnä.
+Suurt' ennen puoltapäivää teen:
+Utuisen taikapisareen
+Kuun sarvella näen riippumassa;
+Ajoissa käyn sen noutamassa.
+Kun tenhojuonin keitän tuon,
+Siit' irmahenget moiset luon,
+Ett', eksyttäen hurmallansa,
+Ne vievät hänet suunniltansa.
+Hän älyn, armon, kaikki hylkää,
+Ei sallimaa, ei surmaa pelkää.
+Suruttomuus se suorin tie,
+Jok' ihmislapset katoon vie.
+    (Laulua ilmassa: "tule pois, tule pois", j.n.e.)
+Vait! Utupilvell' istuu odottain
+Ja mua kutsuu pikku haltijain.
+
+    (Katoaa.)
+
+1 NOITA.
+Pois rientäkäämme! Kohta palajaa hän.
+
+                   (Noidat katoavat.)
+
+
+Kuudes kohtaus.
+
+    Fores. Huone linnassa.
+
+    (Lenox ja toinen lordi tulevat.)
+
+LENOX.
+Mit' äsken lausuin, viittaust' oli vaan;
+Sit' itse ajatelkaa. Kummat täällä
+On seikat, sanon. Kelpo Duncania
+Macbeth, näet, itki: -- niin, hän oli kuollut. --
+Läks urho Banquo liian myöhään matkaan;
+Sanoa voitte, jos niin tahdotten:
+"Fleance hänet tappoi", sillä Fleance on poissa.
+Ei pitäis liian myöhään matkustella.
+Ken sit' ei pedon työksi arveleisi,
+Noin hellän isän Donalbain ja Malcolm
+Kun tappoivat? Kirottu työ! O, kuinka
+Macbethiin koski tuo! Hän eikö oiti
+Pyhässä vimmassansa noita kahta
+Rikoksellista silponut, jotk' uni
+Ja viina oli tehnyt orjiksensa?
+Työ jalo, eikö niin? Ja viisas myöskin?
+Jokaisen mielt' ois inhoittanut kuulla
+Tekoaan heidän kieltävän. Sen sanon,
+Kaikk' on hän hyvin hankkinut, ja luulen,
+Jos pojat Duncanin hän valtaans' saisi --
+Jot' älä, taivas, suo! -- niin tuta sais he
+Mit' isänmurha maksaa; samoin Fleance.
+Mut vait! Puheistaan rohkeista ja siitä,
+Ett'ei tyrannin juhlaan tullut, Macduff
+Nyt epäsuosioss' on. Tiedättenkö
+Miss' ollee nyt hän?
+
+LORDI.
+                     Poika Duncanin,
+Jolt' arvon perityn tuo julmus ryösti,
+Hovissa Englannin on. Hurskas Edvard
+Niin lempeästi otti hänet vastaan,
+Ett' onnen vihat arvoa ei hältä
+Vähääkään riistää voi. Siell' on myös Macduff;
+Pyhältä kuninkaalta avuks pyytää
+Northumberlandin hän ja Siward-urhon,
+Niin että näiden avulla -- jos työmme
+Pyhittää Hän tuoll' ylähällä -- taasen
+Vois ruokaa pöytään saada, öisin unta,
+Pidoissa murhaveitsist' erill' olla,
+Vapaana elää, tehtävänsä tehdä,
+Mi kaikki meiltä puuttuu nyt. Tää tieto
+Niin kuningasta suututti, ett' oiti
+Hän sotaa hankkii.
+
+LENOX.
+                   Sanan saiko Macduff?
+
+LORDI.
+Sai, mutta jyrkällä: "En tule, herra",
+Takaisin synkkä sanantuoja kääntyi,
+Jupisten itseksensä: "Kadut vielä,
+Ett' annoit mulle taakaks moisen vastuun."
+
+LENOX.
+Se varoitukseks olkoon, että pysyy
+Niin etähällä hän, kuin viisaus vaatii.
+Englantiin lentäköön nyt pyhä enkel'
+Ennalta sanaa viemään, jotta joutuun
+Palaisi siunaus valtakuntahamme,
+Kirotun käden alla huokaavaan.
+
+LORDI.
+Mun rukoukseni häntä seuratkoon!
+
+                     (Lähtevät.)
+
+
+
+
+NELJÄS NÄYTÖS.
+
+
+Ensimmäinen kohtaus.
+
+    Pimeä luola. Keskellä kiehuva kattila.
+
+    (Ukkosen jylinää. Samat kolme noita-akkaa tulevat.)
+
+1 NOITA.
+Kolmasti naukunut on kailo kissa.
+
+2 NOITA.
+Neljästi vinkunut on siilin poika.
+
+3 NOITA.
+Harpyia huutaa: "On aika, on aika!"
+
+1 NOITA.
+Padan ympär' astukaa,
+Sisus siihen viskatkaa. -- Konna, joka päivää, yöt'
+Yksikolmatt' imet, syöt
+Kiven alla myrkkyjä,
+Paistu padass' ensin sä!
+
+KAIKKI.
+Väsymättä liiku, liehu;
+Pala, tuli, pata, kiehu!
+
+2 NOITA.
+Käärme, joka ryömit suossa,
+Kärvenny ja haudu tuossa;
+Konnan varvas, kieli iilin,
+Yökön villat, silmä siilin,
+Huuhkan siivet, liskon lihat,
+Kähyt kyyn ja käärmeen vihat,
+Tehokkaaksi taiaks kiehu,
+Kiehu, lemmonliemi, liehu!
+
+KAIKKI.
+Väsymättä liiku, liehu!
+
+Pala, tuli, pata, kiehu!
+
+3 NOITA.
+Suden hammas, ruumiin kuu,
+Louhikäärmeen suomuluu,
+Hotkan haijin kita suuri,
+Yöllä saadun katkon juuri;
+Kauriin sappi, kuusanpuu,
+Pilkottu, kun pimeni kuu;
+Maksa riettaan juutalaisen,
+Turpa koirankuonolaisen;
+Mustalaisen nenä laatta;
+Sormi lapsen, jonka aatta
+Ojaan loi ja kuristi;
+Vetkäks kiehu, paksuksi!
+Tiikeriltä totkut tuokaa,
+Höysteheksi liemeen luokaa!
+
+KAIKKI.
+Väsymättä liiku, liehu!
+Pala, tuli, pata, kiehu!
+
+2 NOITA.
+Verell' apinan se hyydä,
+Niin ei taiass' ole syytä.
+
+    (Hekate tulee.)
+
+HEKATE.
+Kah, hyvin kaikki. Kiitos vaan!
+Saa kukin palkan vaivastaan.
+Kuin keijuiset nyt tanssikaa
+Pa'an ympäri ja laulakaa
+Ja hyväks keitto loihtikaa.
+
+    (Soittoa ja laulua.)
+
+    (Laulu;)
+
+        Mustat peikot, valkeat,
+        Punaiset ja harmaat,
+        Hämmennelkää, hämmennelkää,
+        Ett' on taiat varmat!
+        Ympäri, ympäri
+        Kaikki kiertäkäätte,
+        Pahat sisään päästäkää
+        Ja hyvät estäkäätte!
+
+    (Pikkuisia olentoja ilmestyy hämmentämään kattilaa.)
+
+1 NOITA.
+Mun kihelmöipi peukalon':
+Jotakin pahaa tuloss' on. --
+    (Kolkutusta.)
+Kuka olkoon,
+Sisään tulkoon!
+
+    (Macbeth tulee.)
+
+MACBETH.
+No, salaiset ja mustat kesk'yön velhot,
+Te mitä teette?
+
+KAIKKI.
+                Työtä nimetöntä.
+
+MACBETH.
+Mist' olkohonkin tietonne, -- ma vaadin
+Nimessä valtiaanne: vastatkaa!
+Vaikk' ilman tuulet kirkkojakin vastaan
+Sotahan irroittaisitte; vaikk' aallot
+Vaahtoiset kaiken laivakulun nielis,
+Puut särkyis, tähkään tullut vilja lakois,
+Kukistuis linnat vartijainsa päähän,
+Palatsit, pyramiidit päänsä laskis
+Perustuksiinsa asti, vaikka luonnon
+Kaikk' ituvarat särkyis, kunnes itse
+Tuhokin sairastuisi, -- vastatkaa,
+Ma vaadin!
+
+1 NOITA.
+          Puhu!
+
+2 NOITA.
+                Kysy!
+
+3 NOITA.
+                      Vastuun saat.
+
+1 NOITA.
+Mieluumminko sen kuulet meidän suusta
+Vai herrojemme!
+
+MACBETH.
+                Heidät tahdon nähdä.
+
+1 NOITA.
+Vert' imisän luo kattilaan,
+Jok' yhdeksän söi porsastaan;
+Tuleen vala rosvon ihraa,
+Jota hirsipuusta tihraa!
+
+KAIKKI.
+Suuret, pienet ilmi tulkaa,
+Avulliset, nöyrät olkaa!
+
+    (Ukkosen jylinää. Kypäräpää[11] nousee kattilasta ilmi.)
+
+MACBETH.
+Sano, tuntematon valta, --
+
+1 NOITA.
+                            Vaiti, vaiti!
+Sa kuule vaan! Hän miettees tuntee kaikki.
+
+PÄÄ.
+Macbeth, Macbeth, Macbeth! Macduff on sulle
+Vaarallinen. -- Jo riittää. -- Rauha mulle!
+
+    (Katoaa.)
+
+MACBETH.
+Varoituksestas kiitän, kuka lietkin;
+Sa pelkon' oikein tiesit. -- Sana vielä!
+
+1 NOITA.
+Hän käskemist' ei kärsi. Tässä toinen
+Ja ensimmäistä vielä mahtavampi.
+
+    (Ukkosen jylinää. Verinen lapsi kohoaa kattilasta.)
+
+LAPSI.
+Macbeth, Macbeth, Macbeth!
+
+MACBETH.
+Sua kuulisin ma vaikka kolmin korvin.
+
+LAPSI.
+Verinen, uljas, luja ollos! Voittaa
+Äl' ihmisvoiman anna: vahingoittaa
+Ei Macbethia vaimon luoma voi.
+
+    (Katoaa.)
+
+MACBETH.
+Siis elä, Macduff! Miks sua pelkäisin ma?
+Vaan jotta varmuus varmemp' ois, niin liittoon
+Pakoitan salliman: sin' et saa elää;
+Näin kalvaan pelkon' valheeks teen ja nukun
+Jyrystä huolimatta. --
+
+    (Ukkosen jylinää. Kattilasta nousee lapsi,
+    kruunu päässä ja puu kädessä.)
+                       Mikä tuo?
+Kuin kuninkuuden taimi kohoaa se,
+Ja majesteetin seppele ja kruunu
+Sen lapsen päässä on.
+
+NOIDAT.
+                      Vait vaan, ja kuule!
+Kruunupää lapsi. Ole ylväs, rohkea kuin jalopeura;
+Ei vaino, ei kapina, ei salaseura
+Sun mitään voi: Macbeth ei sorru ennen,
+Kuin Dunsinanin vuorta ylös mennen
+Birnamin metsä kulkee.
+
+    (Katoaa.)
+
+MACBETH.
+                       Sit' et nää.
+Puun juurineen ken maasta hellittää?
+Ken metsän pestaa? Hauska enne! Et sä,
+Kapina, päätäs nosta, kunnes metsä
+Birnamin nousee. Macbeth mahdissaan
+Viel' elää eikä ennen aikojaan
+Veroa tuoneen maksa. -- Mieli palaa
+Tok' yhtä kuulla; tietonneko alaa
+Se lie, niin sanokaatte: kuninkaiksi
+Tuleeko täällä Banquon lapset koskaan?
+
+NOIDAT.
+Äl' enää kysy!
+
+MACBETH.
+               Varmuutta ma tahdon.
+Jos kiellätten sen multa, kirous teitä
+Ikuinen kohdatkoon! Mun tietää suokaa --
+    (Soittoa kuuluu.)
+Miks vajoaapi kattila? Mit' ääntä?
+
+1 NOITA.
+Esiin!
+
+2 NOITA.
+Esiin!
+
+3 NOITA.
+Esiin!
+
+KAIKKI.
+Ei! Häntä vaivatkaa,
+Tulkaa, varjot, ja haihtukaa!
+
+    (Kahdeksan kuninkaan haamua kulkee perätysten ohi,
+    viimeisen kädessä peili; niiden jäljissä Banquo.)
+
+MACBETH.
+Sa liiaks olet Banquon haamun lainen.
+Pois! Silmät multa kruunus syö! -- Ja tukkas,
+Sa toinen kruunupää, on samanmoinen, --
+Ja samanmoinen kolmas! -- Häijyt velhot,
+Mit' on tää? -- Vielä neljäs! -- Sammu, silmä!
+Haa! Tuomiopäivähänkö tätä kestää?
+Viel' yksi? -- Seitsemäs? -- Oi, riittää, riittää! --
+Ja vielä kahdeksas, ja sillä peili,
+Joss' ompi monta vielä: muutamilla
+Kaks omenaa ja kolme valtikkaa.
+Hirmuinen näky -- Totta on se, näen mä:
+Verinen Banquo hymyilee ja heitä
+Osoittaa jälkeisikseen. -- Onko niin?
+
+1 NOITA.
+Niin aivan on. -- Mut mikä syy,
+Kun Macbeth noin nyt ällistyy?
+Hei, tulkaa, siskot: taiallamme
+Iloiseks hänet saattakaamme!
+Ma ilman loihdin soittamaan;
+Hei, piirihin nyt tanssimaan!
+Kuningas kiittänee, kun koimme
+Hänt' ilahuttaa miten voimme.
+
+    (Soitantoa. Noidat tanssivat ja katoavat.)
+
+MACBETH.
+Miss' on he? Poissa? -- Kalenteriss' olkoon
+Ijäti kirottu tää turman hetki! --
+Sisähän sieltä!
+
+    (Lenox tulee.)
+
+LENOX.
+                Mitä suvaitsette?
+
+MACBETH.
+
+Sa näitkö velhosiskot?
+
+LENOX.
+                       Enkä, herra.
+
+MACBETH.
+He ei sua sivunneet?
+
+LENOX.
+                     Ei, totta!
+
+MACBETH.
+                                Olkoon
+Saastainen ilma, missä liikkuvat he!
+Jokainen kirottu, ken heihin luottaa! --
+Hevosten laukan kuulin: ken se kulki?
+
+LENOX.
+Kaks tahi kolme, jotka sanan toivat,
+Ett' Englantiin on Macduff paennut.
+
+MACBETH.
+Paennut Englantiin?
+
+LENOX.
+                    Niin, hyvä herra.
+
+MACBETH.
+Käy julman urostyöni tielle, aika!
+Ei teko lennost' aikomusta tapaa,
+Jos ei sen rinnalla se käy. Täst' alkain
+Mun olkoon sydämmeni esikko
+Myös käteni esikoinen. Mietteen' oiti
+Teolla kruunaan -- mietitty ja tehty!
+Macduffin linnan ryntäämällä otan,
+Valloitan Fifen, miekanterän omaks
+Kaikk' annan, vaimot, lapset, kurjat kaikki
+Sen heimon sielut. Min' en kerskaa turhaan:
+Ennenkuin päätös jäähtyy, heidät murhaan.
+Nyt kaikki näyt pois! -- Miss' on ne herrat?
+Mua saata heidän luokseen.
+
+    (Lähtevät.)
+
+
+Toinen kohtaus.
+
+    Fife. Huone Macduffin linnassa.
+
+    (Lady Macduff, hänen poikansa ja Rosse tulevat.)
+
+LADY MACDUFF.
+Mit' oli syytä hällä jättää maansa?
+
+ROSSE.
+Oi, malttia!
+
+LADY MACDUFF.
+Häll' ei sit' ollut. Hulluutt'
+On pako tuo. Jos meit' ei pettureiksi
+Tekomme tee, niin tekee pelko siksi.
+
+ROSSE.
+Ei tiedä, viisausko vai pelko syynä.
+
+LADY MACDUFF.
+Vai viisaus! Jättää vaimon, jättää lapset
+Ja kodin, konnun, arvot kaikki paikkaan,
+Jost' itse pakenee! Hän meit' ei lemmi;
+Hän luonnon äänt' ei kuule. Tiiti raukka,
+Tuo lintusia pienin, tappeleepi
+Pesänsä poikasista haukkaa vastaan.
+Pelkoa kaikki, lempeä ei lainkaan!
+Ja viisaan työt' ei pako, joka ryntää
+Noin järkeäkin vastaan.
+
+ROSSE.
+                        Käly armas,
+Ma pyydän, malttukaatte: puolisonne
+On jalo, viisas, älykäs ja tuntee
+Paraiten itse vuodenajan oikut.
+Enempää puhua ma tuskin tohdin.
+Mut julm' on aika, jos me tietämättä
+Tulemme pettureiks ja peljästymme,
+Vaikk' emme syytä pelkohomme tiedä,
+Mut meren raivon myrskyiss' ajelemme
+Vaan sinne tänne. -- Nyt mun mennä täytyy;
+En kauan viivy, kohta palajan.
+Pahinkin kerran lakkaa, taikka muuttuu
+Kaikk' entiselleen taasen. -- Pikku serkku,
+Jumala sua siunatkoon!
+
+LADY MACDUFF.
+Häll' isä on, ja isätön tok' on hän.
+
+ROSSE.
+Mua houkkaa! Pitemmältä, viipy täällä
+Häpeän mulle tois ja murheen teille.
+Hyvästi vaan nyt!
+
+    (Lähtee.)
+
+LADY MACDUFF.
+                  Isäs, laps, on kuollut.
+Mit' aiot tehdä nyt ja miten elää?
+
+POIKA.
+Kuin linnut, äiti.
+
+LADY MACDUFF.
+                   Toukill', itikoilla?
+
+POIKA.
+Kuin nekin, sillä, mitä eteen sattuu.
+
+LADY MACDUFF.
+Oi, lintu-parka! Siis et liimasaittaa,
+Sadinta, ansaa, verkkoa sa pelkää?
+
+POIKA.
+Miks, äiti? Kuka lintu-parkaa väijyis?
+Ei isän' ole kuollut, niinkuin sanot.
+
+LADY MACDUFF.
+On, kuollut on hän! Mistä nyt saat isän?
+
+POIKA.
+No, mistä sinä miehen saat?
+
+LADY MACDUFF.
+                            Niit' ostaa
+Voin kymmenittäin joka markkinoilta.
+
+POIKA.
+Niit' ostat, ehkä myydäksesi jälleen.
+
+LADY MACDUFF.
+Älysi mukaan haastelet, mut sentään
+Ikäiseksesi älykkäästi kyllä.
+
+POIKA.
+Äiti, oliko isä petturi?
+
+L. MACDUFF.
+Oli kuin olikin.
+
+POIKA.
+Mikä on petturi?
+
+L. MACDUFF.
+Semmoinen, joka vannoo ja valhettelee.
+
+POIKA. Ovatko kaikki semmoiset pettureita?
+
+LADY MACDUFF.
+Kaikki semmoiset ovat pettureita ja hirtettäviä.
+
+POIKA. Ovatko kaikki hirtettävät, jotka vannovat ja valehtelevat?
+
+LADY MACDUFF.
+Ovat, joka ainoa.
+
+POIKA.
+Ken ne hirttää?
+
+LADY MACDUFF.
+Kunnon ihmiset, tiettävästi.
+
+POIKA.
+Sitten ovat kaikki vannojat ja valehtelijat aika houkkoja; sillä
+vannojia ja valehtelijoita on yltäkyllin voittamaan kaikki kunnon
+ihmiset, jopa hirttämäänkin heidät.
+
+LADY MACDUFF.
+Jumal' auttakoon sua, pikku hupsua! Mut mistä nyt saat isän?
+
+POIKA.
+Jos hän olisi kuollut, niin sinä itkisit häntä; ja jos et sitä tekisi,
+niin varmaankin saisin pian toisen isän.
+
+LADY MACDUFF.
+Voi sinun puheitasi, pikku lörppä!
+
+    (Sanantuoja tulee.)
+
+SANANTUOJA.
+Jumalan siunaus teille, kaunis rouva!
+En tuttu lie, mut arvonne ma tunnen.
+Ma varon, ett' on vaara lähellänne:
+Jos köyhän miehen neuvoon suostutten,
+Tääll' älkää olko! Pois, pois lapsinenne!
+Peloittaa teitä näin on kyllä julmaa,
+Vaan vielä julmempaa, jos salaan vaaran,
+Jok' uhkaa teitä. Herra teitä kaitkoon!
+En jäädä tohdi.
+
+    (Lähtee.)
+
+LADY MACDUFF.
+                Minne paeta?
+En pahaa ole tehnyt. Vaan nyt muistan:
+Maailmass' elän, jossa pahuutt' usein
+Ylistetään, ja vaarallista hulluutt'
+On joskus hyvä työ. Ah, miksi silloin
+Ma käytän tuota naisen puolustusta:
+"En ole pahaa tehnyt?"
+    (Murhaajia tulee.)
+Mitä nuo on?
+
+MURHAAJA.
+             Miss' ompi miehenne?
+
+LADY MACDUFF.
+                                  Ei paikalla
+Niin häväistyllä, toivon, mistä hänet
+Sun kaltaisesi löytäis.
+
+MURHAAJA.
+                        Pettur' on hän.
+
+POIKA.
+Valehtelet, sa takkukarva roisto!
+
+MURHAAJA.
+                                  Hää, mato!
+    (Pistää häntä.)
+
+POIKA.
+Hän murhannut mun on; pois pakoon, äiti!
+
+    (Lady Macduff pakenee, huutaen: "murhaa";
+    murhaajat hänen jäljissänsä.)
+
+
+Kolmas kohtaus.
+
+    Englanti. Yrttitarha kuninkaan linnan luona,
+
+    (Malcolm ja Macduff tulevat.)
+
+MALCOLM.
+Menkäämme yksinäiseen varjopaikkaan
+Povemme raskaat tyhjiks itkemään.
+
+MACDUFF.
+Ei, ennen miekkaan kiinni, urhon lailla
+Sorrettua synnyinmaata puoltamaan.
+Jok' aamu siellä uudet lesket parkuu
+Ja uudet orvot itkee; uusi murhe
+Lyö taivaan kanteen, joka kajahtaapi,
+Kuin skottein surun tuntis se ja vastaan
+Valittais yhteen ääneen.
+
+MALCOLM.
+                         Sitä säälin,
+Mink' uskon, ja sen uskon, minkä tiedän.
+Mit' auttaa voin, sen teen, kun aika myöntää.
+Se, mitä kerroitte, on kenties totta.
+Tuo hirmulainen, jonka pelkkä nimi
+Syö kieleen rakon, kelpo mieheks ennen
+Ol' arvattu; te häntä rakastitte;
+Hän viel' ei ole teille pahaa tehnyt.
+Nuor' olen, mutta hänen luonaan jotain
+Minusta voittaa voitte: viisast' antaa
+Viaton, heikko lammasraukka uhriks
+Vihaista Jumalata lepyttääkseen.
+
+MACDUFF.
+En ole halpa.
+
+MALCOLM.
+              Mutta Macbeth on.
+Siveäkin ja hurskas luonto taipuu,
+Kun vaatii valtias. Mut anteeks suokaa!
+Mun luulon' ei voi teitä muuttaa. Kirkkaat
+Viel' enkelit on, vaikka kirkkain lankes.
+Vaikk' olis kaikill' ilkeill' armon muoto,
+On armo armon näköinen tok' aina.
+
+MACDUFF.
+Siis toivoni ma kadotin!
+
+MALCOLM.
+                         Siin' ehkä,
+Miss' epäilyni minä juuri löysin.
+Miks jätitte niin äkin vaimot, lapset --
+Nuo kalliit lahjat, lujat lemmen paulat --
+Hyvästi heittämättä? Älkää luulko,
+Ei epäluulon' ole herjaks teille,
+Vaan turvaks mulle. Saatattehan olla,
+Minusta huolimatta, kunnon mies.
+
+MACDUFF.
+Siis vertas, vertas vuoda, maani kurja!
+Luo vahvaan juures, vankka hirmuvalta,
+Ei estää tohdi kunto! Näytä kauhus:
+On valtuus sulla siihen! -- Hyvästi!
+En luulemasi konna tahdo olla,
+Vaikk' alan kaiken saisin, mikä kynsiss'
+On hirmun tuon, ja idän aarteet lisäks.
+
+MALCOLM.
+Pois närkästys! En varo yksin teitä.
+Ikeensä alla nääntyy maa, sen uskon;
+Se itkee, vuotaa verta; uuden haavan
+Lyö joka uusi päivä. Luulen lisäks,
+Ett' oikeuteni puoltajia kyll' on,
+Ja täältä jalost' Englannista tarjon'
+On tuhansia. Mutta kuitenkin,
+Tyrannin pään kun jalkan' alle poljen
+Tai miekan kärkeen nostan, kurja maani
+Kokea entist' enemmän saa vielä,
+Enemmän monin puolin kärsiä
+Saa hänen seuraajaltaan.
+
+MACDUFF.
+                         Ken se oisi?
+
+MALCOLM.
+Min' itse, johon, tiedän sen, niin pahett'
+On kaikenlaista juurtunut, ett' ilmi
+Jos puhkee se, niin musta Macbeth puhdas
+Kuin lumi on, ja Skotland-parka häntä
+Mun rajattoman ilkeyteni suhteen
+Lampaana pitää.
+
+MACDUFF.
+                Helvetinkään joukoss'
+Ei kirotumpaa perkelettä löydy
+Paheessa kuin Macbeth.
+
+MALCOLM.
+                       Verinen on hän,
+Kavala, viekas, ahne, rietas, häijy,
+Kiukkuinen, kaiken nimellisen synnin
+Makuhun päässyt; mut mun hekkumani
+On aivan pohjaton: ei eukot, immet,
+Ei vaimot eikä tyttäret vois täyttää
+Himoini merta. Haluni se murtaa
+Kaikk' esteet, jotka tahtoani haittaa.
+Tämmöistä valtiasta parempi
+Macbethkin on.
+
+MACDUFF.
+               Rajaton hekkumakin
+Tyranni luonnoltaan on: varhain tyhjäks
+Mont' onnellista istuint' on se tehnyt
+Ja syössyt monen kuninkaan. Mut älkää
+Omaanne toki ottaa peljätkö.
+Himoille voitte laajan alan käyttää,
+Ja mailmalle kylmält' aivan näyttää.
+On naikkoj' yltäkyllin: ette moinen
+Lie korppikotka, että syötte kaikki,
+Jotk' ovat majesteetin mieliteon
+Uhriksi alttiit.
+
+MALCOLM.
+                 Sitäpaitse itää
+Mun turmellussa luonnossani moinen
+Rajaton ahneus, että kuninkaana
+Tuhoisin aatelin ja maat sen veisin,
+Koristeet tuolta, taion tältä ryöstäin;
+Ja joka lisätulo, niinkuin höyste,
+Vaan nälkää kiihtäis. Rehellisten kanssa
+Ja hyväin riitaa etsisin ja heidät
+Surmaisin voiton tähden.
+
+MACDUFF.
+                         Syvemmällä
+Sen vian juuret on ja tuhoisemmat
+Kuin suvikukan, hekkuman. Se miekka
+Se kuninkaamme kaatoi. Pois tok' pelko!
+Omillannekin tyydyttämään teitä
+On Skotland kyllin rikas. Korvannette
+Nuo viat muilla ansioilla!
+
+MALCOLM.
+                           Niit' ei
+Mull' ole lainkaan. Kuninkuuden avut:
+Oikeudentunto, totuus, lujuus, kohtuus,
+Vakavuus, nöyryys, armo, laupeus,
+Miel' uljas, voima, hartaus, kärsiväisyys
+Minulta perin puuttuu; mutta kyllin
+Pahetta kaikkinaist' on, jota käytän
+Monella lailla. Ei, jos voisin, hornaan
+Valaisin sopuisuuden miedon maidon,
+Maan rauhan mullistaisin, sovun kaiken
+Pilaisin kerrassaan.
+
+MACDUFF.
+                     Voi, Skotland-parkaa!
+
+MALCOLM.
+Sanokaa, moisest' onko kuninkaaksi?
+Te kuulitte mik' olen.
+
+MACDUFF.
+                       Kuninkaaksi?
+Ei elämäänkään, ei. -- Voi, kurja kansa,
+Jot' anastajan veriruoska sortaa,
+Voi, milloin taaskin nähnet riemupäiväs,
+Kosk' oikeakin kruunus perijä,
+Kirottun' oman tuomionsa kautta,
+Häväisee syntyään? Sun suuri isäs
+Pyhimys oli; kuningatar, äitis,
+Useimmin polvillaan kuin seisaall' oli
+Ja joka päivän eli kuollaksensa.
+Hyvästi! Nuo sun omistamas viat
+Pois Skotlannist' on syösseet mun. -- Nyt sydän,
+Sun loppui toivos!
+
+MALCOLM.
+                   Jalo vihas, Macduff,
+Tuo syyttömyyden lapsi, mustan luulon
+Sielustan' karkoittaa ja mieleni
+Sovittaa kunnias ja kuntos kanssa.
+Pirullinen Macbeth on moisin juonin
+Kokenut valtaans' usein mua saada,
+Mut äly tarkka herkän uskon voitti.
+Jumala meidän välin ratkaiskoon!
+Nyt johtoos antaun; oman parjaukseni
+Peruutan tässä: luonnolleni vieraiks
+Julistan vammat nuo ja tahrat, jotka
+Ma syyksen' otin. Vaimost' en ma tiedä;
+En ole koskaan väärää valaa tehnyt;
+Omaani tuskin pyytänyt; en koskaan
+Sanaani syönyt; perkelett' en antais
+Suvulleen ilmi; totuus mulle rakkaamp'
+On henkeäni: ensi valheen' oli
+Tuo itse päälleni. Mit' olen, kaikki
+Sun omaas on ja kurjan isänmaan;
+Jo ennen tuloasi Siward-vanhus
+On valmis miehin kymmentuhansin
+Ryntäämään sinne. Häntä seuratkaamme!
+Yht' onnellinen olkoon taistelu,
+Kuin on se oikeakin! Vait olette?
+
+MACDUFF.
+Näin mieleistä ja vastenmielistä
+Het' yhteen sovittaa on vaikeata.
+
+    (Lääkäri tulee.)
+
+MALCOLM.
+No hyvä; toiste siitä. -- Lähteneekö
+Kuningas tänään käymään?
+
+LÄÄKÄRI.
+                         Lähtee, herra.
+Parannust' ihmisraukat hältä vartoo;
+Ei parhain taito heidän tautiins' auta,
+Mut kun hän koskee, toipuvat he oiti:
+Niin hänen kättään siunannut on taivas.
+
+MALCOLM.
+Ma kiitän, tohtori.
+
+    (Lääkäri lähtee.)
+
+MACDUFF.
+                    Mik' on se tauti?
+
+MALCOLM.
+Sanovat sitä riisiks. Olen usein
+Tuon hyvän kuninkaan tääll' Englannissa
+Tekevän nähnyt tuota ihmetyötä.
+Ties miten taivasta hän suostuttaa;
+Mut kovin koiteltuja, joita vaivaa
+Ajokset, haavat, surkeoita nähdä,
+Joit' ei voi lääkär' auttaa, parantaa hän,
+Ripustain kultarahan sairaan kaulaan
+Rukouksin hartahin. Sen lääkevoiman
+Sanovat hänen jälkeläisilleenkin
+Perinnöks jättävän. Tuon ihmeen lisäks
+On hällä Herralt' ennustajalahja;
+Ja armon todisteena runsas siunaus
+Valt'istuimesta virtaa.
+
+    (Rosse tulee.)
+
+MACDUFF.
+                        Ken se tuossa?
+
+MALCOLM.
+Maanmiehiä, mut hänt' en vielä tunne.
+
+MACDUFF.
+Kah, terve, kunnon serkku!
+
+MALCOLM.
+                           Nyt ma tunnen.
+Jumal' armas, torju kaikki, mikä meidät
+Tekevi vieraiks toisillemme!
+
+ROSSE.
+                             Amen!
+
+MACDUFF.
+No, kuink' on Skotlannin?
+
+ROSSE.
+                          Voi, kurjaa maata!
+Se itseään jo kauhistuu. Ei ole
+Se enää äitimme, vaan hautamme.
+Se, jok' ei mitään tiedä, saattaa siellä
+Hymyillä joskus. Vaikerrus ja parku
+Ja ilmaa viiltäväinen huuto kaikuu,
+Mut sit' ei kenkään tarkkaa; hullutusta
+On syvä murhe; kenen kellot soivat,
+Ei kysy kenkään; kunnon miesten henki
+Pikemmin lakastuu kuin hatun kukka:
+He potematta kuolee.
+
+MACDUFF.
+                     Liian jyrkkää,
+
+Mut liian totta!
+
+MALCOLM.
+                 Mikä uusin suru?
+
+ROSSE.
+Jo päivän vanha kertojaansa nauraa;
+Jokainen hetki uuden tuo.
+
+MACDUFF.
+Mitenkä puolisoni voi?
+
+ROSSE.
+                       No, hyvin.
+
+MACDUFF.
+Ja kaikki lapsukaiset?
+
+ROSSE.
+                       Hyvin hekin.
+
+MACDUFF.
+Tyranni heidän rauhaans' eikö uhkaa?
+
+ROSSE.
+Ei; rauha oli heillä, kun ma läksin.
+
+MACDUFF.
+Sanojas älä säästä. Kuink' on laita?
+
+ROSSE.
+Kun tänne läksin sanaa tuomaan, jota
+Niin raskas oli kantaa, huhu kulki.
+Ett' asehiss' on monta kelpo miestä;
+Jok' ompi sitä luultavampaa, koska
+Tyrannin joukotkin näin liikkehellä.
+Nyt apu tarpeen on. Te Skotlannissa
+Uroja luokaa! naisten käteen miekka!
+Tää kurjuus poistakaa!
+
+MALCOLM.
+                       Tuloa teemme:
+Se lohduks olkoon. Siward-urhon meille
+Ja miestä kymmentuhatt' England antaa:
+Parempaa, taitavampaa sotamiestä
+Ei kristikunnass' ole.
+
+ROSSE.
+                       Moinen lohtu
+Jos olis mullakin! Mut sananipa
+On ulvottavat erämaassa, missä
+Ei korvaa kuulevaa.
+
+MACDUFF.
+                    Ne ketä koskee?
+Yleistä tuskaako vai yksityistä
+Ja yhden omaa?
+
+ROSSE.
+               Joka kunnon sielu
+Siit' ottaa osansa, mut suurin osa
+Sun yksinomaas on.
+
+MACDUFF.
+                   Jos mun se on,
+Sit' älä peitä; tuo se heti tänne.
+
+ROSSE.
+Äl' ijäks kieltä kammo, joka korvas
+Nyt täyttää haikeimmilla sävelillä,
+Mit' on ne koskaan kuulleet.
+
+MACDUFF.
+                             Haa! Min' arvaan.
+
+ROSSE.
+Linnanne vallattu on; vaimo, lapset
+Tylysti murhatut; jos tavan kerron,
+Niin lisään tuohon uhririistan röykköön
+Teidänkin ruumihinne.
+
+MALCOLM.
+                      Armon Herra! --
+Mies, älä silmiäsi hattuun peitä;
+Tuo tuskas ilmi: suru, joll' ei kieltä,
+Kiduttain kiusaa vaivattua mieltä!
+
+MACDUFF.
+Lapsetko myöskin?
+
+ROSSE.
+                  Vaimo, lapset, orjat,
+Mitä vaan löyttiin.
+
+MACDUFF.
+                    Voi, ett' olin poissa!
+Ja vaimonikin myös?
+
+ROSSE.
+                    Niin.
+
+MALCOLM.
+                          Lohtukaatte!
+Tulinen kostomme se olkoon lääke,
+Mi tämän kuolontuskan parantaa.
+
+MACDUFF.
+Häll' ei ole lasta! -- Kyyhkyseni kaikki?
+Sanoitko: kaikki? -- Lemmon kotka! -- Kaikki?
+Kuin? Kaikki poikaseni äitinensä
+Ja yhdess' iskussa?
+
+
+MALCOLM.
+Se kestäkää kuin mies.
+
+MACDUFF.
+                       Sen kyllä teenkin;
+Mut tuntea se täytyy myös kuin mies.
+Mun täytyy muistaa, ett' on eloss' olleet
+Nuo kalliit henget. -- Näkikö sen taivas
+Eik' auttanut? O, syntinen Macduff!
+Sun tähtes surmattiin he. Mua kurjaa!
+Mun syntini eik' omiensa tähden
+He teurastettiin. Herran rauha heille!
+
+MALCOLM.
+Hio sillä miekkas; harmiks muuta murhe;
+Sydäntä älä hellytä, vaan kiihdä.
+
+MACDUFF.
+Voi, naisen lailla itkeä ma voisin
+Ja kielin kerskata! -- Hyväinen taivas,
+Pois viipy nyt! Tuo lempo Skotlannin
+Eteeni saata, silmä vasten silmää;
+Tuo liki miekkaa mies; jos pelastuu hän,
+Niin anteeks myöskin taivas hälle suokoon!
+
+MALCOLM.
+Se miehen kielt' on. Nyt luo kuninkaan!
+On väki valmis; hyvästit vaan puuttuu.
+Macbeth on niittoon kypsä: taivaan vallat
+Hiovat sirppiään. Hymyillä koita:
+Niin pitk' ei yö, ett'ei sit' aamu voita.
+
+                              (Lähtevät.)
+
+
+
+
+VIIDES NÄYTÖS.
+
+
+Ensimmäinen kohtaus.
+
+    Dunsinan. Huone linnassa.
+
+    (Lääkäri ja kamarirouva tulevat.)
+
+LÄÄKÄRI.
+Kaksi yötä olen kanssanne valvonut, mutta en saata kertomustanne
+todeksi huomata. Milloin hän viimeksi unissaan kulki?
+
+ROUVA.
+Sitten kun hänen majesteettinsa sotaan läksi, olen nähnyt hänen
+vuoteeltaan nousevan, yönuttuun pukeuvan, menevän kamariinsa, ottavan
+paperia, kääntävän sitä, kirjoittavan, lukevan, sinetillä sen
+lukitsevan ja taasen käyvän maata, ja koko ajan sikeimmässä unessa.
+
+LÄÄKÄRI.
+Suuri on häiriö luonnossa, kun yht'aikaa saattaa unen hyvyyttä nauttia
+ja valvovan töitä toimitella. Mutta -- paitse kävelemistä ja muuta
+toimimista -- oletteko kuullut hänen tuossa unen hyörinässä mitään
+puhuvan?
+
+ROUVA.
+Olen, ja semmoista, jota en tahdo matkia hänen jälkeensä.
+
+LÄÄKÄRI.
+Minulle sen voitte sanoa; ja hyvä, jos sen tekisitte.
+
+ROUVA. En teille, enkä muille: ei ole mulla sanoilleni todistajaa.
+
+    (Lady Macbeth tulee, kynttilä kädessä.)
+
+Nähkääs, tuossa hän tulee! Tuo on aivan hänen tapaansa; ja sikeimmässä
+unessa, niin totta kuin elän. Tarkastelkaa häntä; hiljaa!
+
+LÄÄKÄRI.
+Mistä hän on kynttilän saanut?
+
+ROUVA. Se oli hänen vuoteensa vieressä. Hänellä pitää aina olla
+kynttilä palamassa: se on hänen käskynsä.
+
+LÄÄKÄRI.
+Näettekö, hänen silmänsä ovat auki.
+
+ROUVA.
+Niin, mutta näkö on ummessa.
+
+LÄÄKÄRI.
+Mitä hän nyt tekee? Kas, kuinka hän hieroo käsiänsä.
+
+ROUVA. Hänen tapansa on menetellä, ikäänkuin hän käsiänsä pesisi. Olen
+nähnyt hänen sitä tekevän neljänneksen tuntia yhteen mittaan.
+
+LADY MACBETH.
+Vielä tuossa sittenkin on pilkku.
+
+LÄÄKÄRI.
+Vait! Hän puhuu! Tahdon, muistin avuksi, kirjaan panna mitä hän sanoo.
+
+LADY MACBETH.
+Pois, kirottu pilkku! Pois, sanon minä! -- Yks, kaks: nyt on aika
+käsissä. -- Helvetti on pimeä! -- Hyi, mylord, hyi! soturiko, ja
+pelkuri? -- Mitä me sitä pelkäämme, kuka sen tietää, kun ei kelläkään
+ole voimaa vaatia meitä tilille? -- Mutta kukapa olisi uskonut siinä
+vanhuksessa niin paljon verta olevan?
+
+LÄÄKÄRI.
+Kuuletteko tuota?
+
+LADY MACBETH.
+Fifen thanilla oli vaimo: missä hän nyt on? -- Mitä? Eikö nämä kädet
+koskaan tule puhtaiksi? -- Pois nuo, mylord, pois nuo! Te pilaatte
+kaikki tuolla säikyllänne.
+
+LÄÄKÄRI.
+Vai niin, vai niin! Olette saanut tietää
+ mitä teidän ei pitäisi.
+
+ROUVA.
+Hän on puhunut mitä hänen ei pitäisi, siitä olen varma. Taivas tiesi,
+mitä hän lie saanut tietää.
+
+LADY MACBETH.
+Aina vaan se vereltä haisee; kaikki Arabian höysteet eivät voisi tuota
+pientä kättä hyvänhajuiseksi saada. Oh, oh, oh!
+
+LÄÄKÄRI.
+Sepä vasta huokaus? Hänellä on raskas paino sydämellänsä.
+
+ROUVA.
+En tahtoisi semmoista sydäntä rintaani, vaikka koko hänen korkean
+arvonsa saisin.
+
+LÄÄKÄRI.
+Hyvä, hyvä!
+
+ROUVA.
+Suokoon Jumala, että niin olisi!
+
+LÄÄKÄRI.
+Tälle taudille ei minun taitoni voi mitään. Olen toki ihmisiä nähnyt,
+jotka ovat unissaan käyneet ja kuitenkin Herrassa nukkuneet omaan
+vuoteeseensa.
+
+LADY MACBETH.
+Peskää kätenne! Yönuttu yllenne! Pois tuo kalpea muoto! -- Sanon
+vieläkin kerran: Banquo on haudattuna; hän ei voi haudastaan päästä.
+
+LÄÄKÄRI.
+Todellakin?
+
+LADY MACBETH.
+Maata, maata! Portilla kolkutetaan. Pois, pois, pois, pois! Kätenne
+mulle! Tehtyä ei voi tekemättömäksi tehdä. Maata, maata, maata!
+
+    (Lähtee.)
+
+LÄÄKÄRI.
+Meneekö hän maata nyt?
+
+ROUVA. Suoraa päätä.
+
+LÄÄKÄRI.
+Käy huhut julmat. Teko luonnoton
+Tuo luonnottoman tuskan. Salaisuuttaan
+Miel' arka kuuroon pielukseensa purkaa.
+Ei lääkäri, vaan pappi täss' ois tarpeen.
+Suo, Jumal', anteeks meille kaikillen!
+Silmäilkää häntä! Piiloon kaikki, mitä
+Tuhokseen hän vois käyttää! Silmät auki! --
+Nyt hyvää yötä! Mielen turmellut
+Hän multa on ja näön hurmannut.
+Mit' aattelen, en ilmoittaa ma tohdi.
+
+ROUVA.
+Hyv' yötä, herra tohtori!
+
+              (Lähtevät.)
+
+
+Toinen kohtaus.
+
+    Tasanko lähellä Dunsinania.
+
+    (Menteth, Cathness, Angus, Lenox ja sotamiehiä
+     tulee rumpuinensa, lippuinensa.)
+
+MENTETH.
+Englantilaiset saapuu; heitä johtaa
+Malcolm ja Siward, hänen setänsä,
+Ja Macduff urho. Kosto heissä hehkuu;
+Syy moinen hurjaan verileikkiin veisi
+Pyhimyksenkin.
+
+ANGUS.
+               Birnam-metsän luona
+Tapaamme heidät; sieltä tulevat he.
+
+CATHNESS.
+Muassa onko Donalbain, ken tietää?
+
+LENOX.
+Ei varmaankaan. Mull' ylhäisist' on lista:
+Siwardin poika siis' on, ynnä monta
+Parrattomaa, jotk' ensi urostyötään
+Nyt näyttävät.
+
+MENTETH.
+               Tyranni mitä tehnee?
+
+CATHNESS.
+Varustaa vahvaks lujan Dunsinanin.
+Sanovat toiset häntä hulluks; toiset,
+Vähemmän vihaiset, sen nimittävät
+Urouden raivoks. Varma vaan on, ett'ei
+Hän järjestyksen vyöhön pingoittaa voi
+Kipeät' asiaansa.
+
+ANGUS.
+                  Nyt hän tuntee,
+Kuink' istuu käteen salamurha; nyt hänt'
+Ainainen kapina pattoudesta soimaa;
+Ei käskyläitä töissään johda lempi,
+Vaan pelko. Nyt hän tuntee, kuinka arvo
+On höllässä, kuin jättiläisen nuttu
+On varas-kerin päällä.
+
+MENTEITH.
+                       Ei siis kummaa,
+Jos sielu kurja säpsähtää ja säikkyy,
+Kun kaikki siinä itseänsä kiroo
+Siit' että ompi siinä.
+
+CATHNESS.
+                       Matkaan nyt,
+Ja arvo sille, kelle arvo tulee.
+Pois sairaan valtakunnan lääkärille;
+Ja hänen kanssaan pelastukseks maamme
+Veremme viime tilkkaan uhratkaamme!
+
+LENOX.
+Ei enempää, kuin että siitä kostuu
+Kuninkaan kukka vaan, ja ruuhkat poistuu.
+Nyt Birnamia kohti!
+
+                    (Lähtevät, marssien.)
+
+
+Kolmas kohtaus
+
+    Dunsian. Huone linnassa.
+
+    (Macbeth, lääkäri ja seuralaisia tulee.)
+
+MACBETH.
+Vie hiiteen tietos! Paetkoot vaan kaikki!
+En pelkoon vaivu, kunnes Dunsinaniin
+Birnamin metsä kulkee. Malcolm-nulkki,
+Hän eikö vaimon luoma? Sanoivathan
+Nuo henget, joille kaikk' on vaiheet tutut:
+"Älä pelkää, Macbeth: sua ei vaimon luoma
+Voi voittaa." -- Paetkaa siis, viekkaat thanit,
+Englannin heinikkoihin yhtykää!
+Mult' uljuutta ja mieltä valtavaa
+Epäilys, pelko uupumaan ei saa.
+    (Palvelija tulee.)
+Hiis mustatkoon sun, maidonkarva konna!
+Tuon hanhennaaman mistä sen sait?
+
+PALVELIJA.
+                                  Tuloss'
+On kymmentuhat --
+
+MACBETH.
+                Hanheako, lurjus?
+
+PALVELIJA.
+Ei, soturia.
+
+MACBETH.
+             Mene, raavi silmäs
+Ja punaa pelkos, maitomaksa hölmö!
+Häh? Mitä sotureita? Hiiteen sielus!
+Nuo liinahtavat poskes pelvon luovat.
+Häh, mulkosilmä, mitä sotureita?
+
+PALVELIJA.
+Englannin sotajoukko, kuninkaani.
+
+MACBETH.
+Pois naamoinesi! -- Seyton! -- Sairaaks ihan
+Tuo minut saattaa -- Seyton, hoi! -- Tää puusti
+Ijäksi nostaa mun tai maahan paiskaa.
+Elänyt olen kylläks; elon-aika
+Jo syksyyn kallistuu ja lehden lähtöön;
+Ja ijän seuralaiset -- kuuliaisuus,
+Kunnia, rakkaus, ystävysten joukot --
+Ne mennytt' on; sen sijaan kirousta
+Salaista, syvää kuulen, mairett' inhaa,
+Jot' epäis sydän-parka, jos vaan tohtis. --
+Seyton!
+
+    (Seyton tulee)
+
+SEYTON.
+Mit', armollinen herra, suvaitsette?
+
+MACBETH.
+Mit' uutta muuta?
+
+SEYTON.
+                  Kaikki totta, herra,
+Mit' ompi kerrottu.
+
+MACBETH.
+                    Ma tappelen,
+Siks että liha luistani on vuoltu!
+Tuo sotisopani!
+
+SEYTON.
+                Ei vielä aika.
+
+MACBETH.
+Puen ylleni sen. Lisää ratsuja
+Vakoomaan maata; hirteen joka miesi,
+Ken pelvon mainii! Sotisopani! --
+No, kuink' on sairaan?
+
+LÄÄKÄRI.
+                       Enemmän kuin sairaus
+Kiduttaa häntä synkät mielihoureet,
+Jotk' unen hältä vie.
+
+MACBETH.
+                      Hänt' auta. Taikaa
+Sull' eikö mielen tautiin, taitoa
+Nykiä surun juuret muistist' irti,
+Aivoista kaikki tuskan piirteet poistaa
+Ja armaall' unheen vastamyrkyllä
+Tuhota rinnasta se tuhon aine,
+Mi jäytää sydäntä?
+
+LÄÄKÄRI.
+                   Siin' itseänsä
+Potilaan itse auttaa täytyy.
+
+MACBETH.
+Koirille rohtos! Min' en siitä huoli.
+Sopani kiinni! Savua tänne! -- Seyton,
+Ne ratsut -- Thanit, tohtor', jättävät mun. --
+No, joutuun! -- Tohtori, jos maani virtsaa
+Sa voisit tarkastaa, sen taudin löytää
+Ja terveyteensä entiseen sen saattaa,
+Sua raikkaast' ylistäisin, että kaiku
+Sua jälleen ylistäisi. -- Irti, sanon! --
+Raparperiko, senna vai mik' aine
+Nuo engelsmannit täältä pois vois huoltaa?
+Oletko heistä kuullut?
+
+LÄÄKÄRI.
+                       Olen, herra
+Kun sotaan hankkii kuningas, niin aina
+Jotakin kuuluu.
+
+MACBETH.
+                Jäljestäni tuo se. --
+Ei ennen surma mua saavan näy,
+Kuin Dunsinaniin Birnam-metsä käy.
+
+    (Lähtee.)
+
+LÄÄKÄRI.
+Jos Dunsinanist' arvon pääsis pois!
+Ei hyötykään mua tänne vetää vois.
+
+                (Kaikki lähtevät.)
+
+
+Neljäs kohtaus.
+
+    Tasanko Dnnsinanin lähellä. Loitompana metsä.
+
+    (Liehuvin lipuin ja helisevin soitoin tulevat Malcolm,
+    Siward-vanhus ja hänen poikansa, Macduff, Menteth, Cathness,
+    Angus, Lenox, Rosse ja marssivia sotamiehiä.)
+
+MALCOLM.
+Lähellä, toivon ma, on päivä, joka
+Tupiimme turvan tuo.
+
+MENTETH.
+                     Ei epäilystä.
+
+SIWARD.
+Mik' on se metsä tuossa?
+
+MENTETH.
+                         Birnam-metsä.
+
+MALCOLM.
+Siit' oksan joka miesi taittakoon
+Ja kantakoon sit' edessään: näin voimme
+Lukumme salata ja harhaan viedä
+Vihollistemme silmät.
+
+SOTAMIES.
+                      Senpä teemme.
+
+SIWARD.
+Sanovat, että Dunsinaniss' yhä
+Tyranni varman' on ja piiritystä
+Siell' aikoo kestää.
+
+MALCOLM.
+                     Tuki viimeinen!
+Kun tilaisuutta pienintäkin saavat,
+Kapinan pienet, suuret nostattavat.
+Pakosta häntä seuraa jotkut, nekin
+Sydämmin pensein.
+
+MACDUFF.
+                  Jääköön tuomiomme,
+Siks kunnes näemme päätöksen; nyt reippait'
+Olkaamme sotureita.
+
+SIWARD.
+                    Läsn' on hetki,
+Mi varmoill' osoittaapi perusteilla
+Mit' omaa on ja mitä velkaa meillä.
+Nuo tyhjät mietteet turhan toivon luovat,
+Päätöksen varman miekan-iskut tuovat.
+Me niihin turvatkaamme.
+
+    (Lähtevät, marssien.)
+
+
+Viides kohtaus.
+
+    Dunsinanin linnassa.
+
+    (Macbeth, Seyton ja sotamiehiä tulee liehuvin lipuin
+    ja rumpujen pauhatessa.)
+
+MACBETH.
+Lippumme pystyyn muurin ulkopuolle!
+"Tulevat", huudetaan jo. Linnan vahvuus
+Ivaapi piiritystä. Siellä maatkoot,
+Siks että heidät nälkä syö ja rutto!
+Jos heit' ei meidän miehet auttais, uljas
+Ois tehty vastus, parta vasten partaa,
+Ja kotiin heidät piesty. Mikä melu?
+
+    (Naisten huutoa ulkona.)
+
+SEYTON.
+Se naisten huutoa on, hyvä herra.
+
+    (Menee.)
+
+MACBETH.
+Ma muistan tuskin, miltä pelko maistuu.
+Ol' aika, jolloin väristys mun valtas,
+Kun öisen huudon kuulin; satu julma
+Sai tukan nousemaan, kuin olis henki
+Siin' ollut. Kauhuist' olen saanut kyllän;
+Ei hirmu, murhamielen suosituinen,
+Mua enää peloita.
+    (Seyton palajaa.)
+                  Mit' oli huuto?
+
+SEYTON.
+Kuningatar on kuollut, hyvä herra.
+
+MACBETH.
+Hän olis saanut toiste kuolla; aikaa
+Kyll' olis ollut sille sanomalle. --
+Huomenna, huomenna ja huomenna!
+Näin päivä päivält' aika vitkaan mataa
+Elämän kirjan viime tavuun asti.
+Jokainen eilispäivä synkkään hautaan
+On narrin vienyt. Sammu, pikku tuohus!
+Elämä vaan on varjo kulkevainen,
+Näyttelijä-raukka, joka näyttämöllä
+Rajuupi aikansa ja katoo sitten;
+Tarina on se, hupsun tarinoima,
+Täynn' ilmaa, tulta, mutta mieltä vailla. --
+    (Sanantuoja tulee.)
+Sa kieltäs tulet pieksemään; no, joutuun!
+
+SANANTUOJA.
+Kuningas armollinen!
+Sanoisin mitä nähneheni luulen,
+Mut enpä tiedä kuinka --
+
+MACBETH.
+                         No niin. Sano!
+
+SANANTUOJA.
+Kun vahtina ma kunnahalla seisoin
+Ja katsoin Birnamiin, niin metsä käyvän
+Minusta näytti.
+
+MACBETH.
+                Valhettelet, orja!
+
+    (Lyö häntä.)
+
+SANANTUOJA.
+Vihanne kärsin, jos en puhu totta.
+Sen nähdä voitte virstan parin päässä,
+Ja niinkuin sanoin: metsä, joka käypi.
+
+MACBETH.
+Jos puhut valhetta, niin lähipuussa
+Saat elävänä riippua sa, kunnes
+Kutistaa nälkä sun. Jos puhut totta,
+Voit mielist' aivan saman tehdä mulle.
+Lujuuteni jo pettää: aavistan jo
+Tuon paholaisen kaksikielisyyttä.
+Totuuden varjolla hän valheit' ajaa:
+"Älä pelkää, kunnes Dunsinaniin kulkee
+Birnamin metsä." -- Ja nyt metsä kulkee
+Päin Dunsinania. -- Aseihin! joutuun! --
+Jos tott' on tuo, niin yhdentekevää,
+Jos täältä pakenee tai tänne jää.
+Jo kyllästyä alan aurinkoon;
+Nyt mailma se vaikka hukkukoon!
+Soi, jyry! Tule, hukka! Myrsky, myllää!
+Ma kuolla toki tahdon pantsar' yllä.
+
+                         (Lähtevät.)
+
+
+Kuudes kohtaus.
+
+    Sama paikka. Kenttä linnan edustalla.
+
+    (Liehuvin lipuin ja rumpujen pauhatessa tulevat Malcolm,
+    Siward, Macduff y.m. ja sotamiehiä, lehvät kädessä.)
+
+MALCOLM.
+Nyt lähell' ollaan; lehväsuojat maahan
+Ja tosi etehen! -- Te, kunnon setä,
+Ja jalo poikanne, mun serkkuni,
+Alatte leikin. Me ja kunnon Macduff,
+Me teemme mit' on vielä tekemättä,
+Sovitun käskyn mukaan.
+
+SIWARD.                Hyvästi! --
+Jos tietäis vaan, miss' on tuon pedon säily,
+Niin selkään tulkoon, jos ei miekat häily!
+
+MACDUFF.
+Nyt kaikki torvet soimaan! Soikahat,
+Te veren, surman julkihuutajat!
+
+    (Lähtevät. Miekankalsketta kuuluu.)
+
+
+Seitsemäs kohtaus.
+
+    Toinen osa sotakenttää.
+
+    (Macbeth tulee.)
+
+MACBETH.
+Sidottu olen paaluun; en voi paeta,
+Vaan täytyy mun, kuin karhun, härnyy kestää.
+Miss' on se, jok' ei ole vaimon luoma?
+Ma häntä pelkään, muut' en ketäkään.
+
+    (Nuori Siward tulee.)
+
+NUORI SIWARD.
+Nimesi?
+
+MACBETH.
+        Kauhistut, jos saat sen kuulla.
+
+NUORI SIWARD.
+Sna. En, vaikka tulikuumempi se oisi
+Kuin mikään helvetissä.
+
+MACBETH.
+                        Macbeth on se.
+
+NUORI SIWARD.
+Nimeä korvalleni ilkeämpää
+Ei mainita vois perkelekään.
+
+MACBETH.
+                             Eikä
+Peloittavampaa.
+
+NUORI SIWARD.
+                Sen sa valhettelet,
+Kirottu julmus! Miekallani valheeks
+Sen todistan.
+
+    (Taistelevat ja nuori Siward kaatuu.)
+
+MACBETH.
+              Sin' olit vaimon luoma. --
+Aseille nauran vaan ja ilkun säilää,
+Mi vaimon luoman miehen käessä häilää.
+
+    (Lähtee.)
+    (Miekankalsketta. Macduff tulee.)
+
+MACDUFF.
+Se tuoll' on melu. -- Näytä kasvos, julmus!
+Jos muu kuin minun miekkani sun surmaa,
+Niin vaimon, lasten haamuilt' en saa rauhaa.
+Nuo kerni-raukat jääkööt: heillä keihäs
+Kädessä palkast' on. Sua, Macbeth, etsin!
+Ma muuten terin ehjin miekan kätken
+Taas työttömänä tuppeen. -- Tuolla lienet:
+Tuo kova kalske ilmaisee, ett' ompi
+Siell' ylhäisiä. Voi, jos hänet saisin:
+Muut' en sult', onni, pyydä!
+
+    (Lähtee. Miekankalsketta.)
+    (Malcolm ja Siward-vanhus tulevat.)
+
+SIWARD.
+                             Tänne, prinssi! --
+Hyvällä linna antaunut on.
+Tyrannin väki kahden puolin sotii,
+Ja uljaast' ottelevat jalot thanit.
+Jo päiv' on meidän puolellamme; vähän
+On enää tehtävätä.
+
+MALCOLM.
+                   Rinnallamme
+Vihollisia sotii.
+
+SIWARD.
+                  Linnaan tulkaa!
+
+    (Lähtevät. Miekankalsketta.)
+    (Macbeth palajaa.)
+
+MACBETH.
+Miks Rooman houkkaa matkisin nyt,[12] miekkaan
+Omahan syösten? Niit' on, joille haavat
+Paremmin sopii.
+
+    (Macduff palajaa.)
+
+MACDUFF.
+                Seis, seis, hornan koira!
+
+MACBETH.
+Sua yksin kaikist' olen karttanut.
+Pois käänny: liiaks verilläsi sielun'
+On rasitettu.
+
+MACDUFF.
+              Sanoja ei mulla;
+Nyt miekka puhuu. Konna, verisempi,
+Kuin virkkaa saattaa kieli!
+
+    (Taistelevat.)
+
+MACBETH.
+                            Turhaa vaivaa!
+Voit miekkas teräll' yhtä hyvin viiltää
+Lovetont' ilmaa kuin mua veristyttää.
+Haavoittuvihin päihin säiläs iske;
+Lumottu henken' on; ei sille mitään
+Voi vaimon luoma.
+
+MACDUFF.
+                  Lumoukses heitä;
+Ja enkeli, jot' olet palvellut,
+Julistakohon sulle: "äidin kohdust'
+Otettiin keski-eräisenä Macduff."
+
+MACBETH.
+Kirottu kieli, jolta sen ma kuulin;
+
+Se kaiken miehuuteni järkähyttää!
+Äl' usko ilveperkeleitä noita:
+Kakskielisyydellään he pettävät;
+Lupauksia kuiskaavat he korvaan,
+Mut toivon vievät. -- Min' en taistele
+Sun kanssasi.
+
+MACDUFF.
+              Siis antau, pelkuri!
+Ja elä kansan töllisteltävänä
+Kuin ihme-elukkamme, patsaaseen
+Kuvaamme sun ja alle kirjoitamme:
+"Tyrannin tässä näette."
+
+MACBETH.
+                         Min' en antau
+Matamaan maassa Malcolm-nulkin eessä
+Kiroovan roistokansan härnätessä.
+Vaikk' kulki Dunsinaniin Birnam-metsä,
+Ja vaikk' et ole sinä vaimon luoma,
+Niin viimeistäni koitan: rintan' eteen
+Asetan kilven; karkaa päälle, Macduff;
+Kirottu se, jok' ensin huutaa: seis!
+
+    (Lähtevät, taistellen.)
+
+    (Peräytymistä. Torventoitauksia. Liehuvin lipuin ja helisevin
+    soitoin palajavat Malcolm, Siward-vanhus ja Rosse, thanit ja
+    soturit.)
+
+MALCOLM.
+Kaipaamat ystävämme tervein' ehkä
+Palaavat vielä.
+
+SIWARD.
+                Jonkun kuolla täytyy;
+Tää suuri päiv' on huokea tok' ollut.
+
+MALCOLM.
+Macduff ja jalo poikanne on poissa.
+
+ROSSE.
+Soturivelan poikanne jo maksoi;
+Niin kauan eli, että mieheks' ehti.
+Mut tuskin sen hän urhoudellaan näytti,
+Pysyen vääjäämättä paikallansa,
+Kun kuoli niinkuin mies.
+
+SIWARD.
+Hän siis on kuollut?
+
+ROSSE.
+Niin on, ja tantereelta korjattu.
+Surunne mittan' arvo älköön olko.
+Loputon on se silloin.
+
+SIWARD.
+                       Haavat hällä
+Oliko etupuolia?
+
+ROSSE.
+                 Otsass' aivan.
+
+SIWARD.
+Hyv' on! Hän Herran sotamies nyt olkoon!
+Jos poikia mull' ois kuin hiusta päässä,
+Somempaa kuolemaa en heille soisi.
+Niin, nyt on hälle kuolinkello soinut.
+
+MALCOLM.
+Surua suurempaa hän ansaitsee,
+Sen multa saa hän.
+
+SIWARD.
+                   Suurempaa ei lain:
+Hän hyvin kuoli, velkans' suorittain.
+Niin, Herran rauhaan! -- Tuossa uusi lohtu!
+
+    (Macduff palajaa, kantaen Macbethin päätä keihäänsä nenässä.)
+
+MACDUFF.
+Kuningas, terve! Nyt se olet. Tässä
+Kirotun vallanryöstäjän on pää.
+Vapaana nyt on mailma. Ympärilläs
+Näen valtas helmet; heidän sydämistään
+Puhuvi tervehdykseni, ja toivon,
+Ett' ääninkin he yhtyy huutoon: "Terve,
+Kuningas skottein!"
+
+KAIKKI.
+                    Terve, skottein kuningas!
+    (Torventoitauksia.)
+
+MALCOLM.
+Kuluttaa emme paljon aikaa aio,
+Vaan oiti kunkin kanssa tilin tehdä
+Ja lemmen velat maksaa. Thanit, langot,
+Olette kreivit nyt, sit' arvoa
+Tääll' ensimmäiset. Tehtävämme muut --
+Jotk' aikaa myöten kyllä suoritamme --
+Pakoisten ystävien kotiin kutsun,
+Jotk' ovat välttäneet tuon julman paulat;
+Rankaisemisen niiden hirviöiden,
+Jotk' apun' olleet on tuon teurastajan
+Ja lemmon vaimon tuon, jok' itsestänsä
+On nähtävästi itse lopun tehnyt: --
+Tuon sekä mitä muut' on tarpeellista,
+Jumalan avulla me toimitamme,
+Kun ajan, tavan, paikan oivallamme.
+Kiitokset teille kaikillen nyt laadin,
+Ja kruunaukseen Sconiin teitä vaadin.
+
+    (Torventoitauksia. Lähtevät.)
+
+
+
+
+SELITYKSIÄ:
+
+[1] _Tulen, harmio_. Harmio on noidan kissa, joka emäntäänsä naukuu.
+Konna on samanlainen kamala taikaolento.
+
+[2] _Rosse-thani_. Thani oli vanha englantilainen ja skotlantilainen
+aatelisnimitys, jotenkin vastaava nykyistä parooni-nimeä.
+
+[3] _Bellonan rautahame sulho_. Tällä tarkoitetaan Macbeth'ia.
+
+[4] _Olevan onnen lisäks_. Macbeth oli jo isänsä, Sinelin, jälkeen
+tullut Glamis-thaniksi.
+
+[5]                   _Mitään muuta
+    Ei ole, pait se, mikä viel' ei ole_.
+
+Macbethille tulevaisuudessa luvattu kruunu oli ainoa, mikä hänelle oli
+sillä hetkellä olemassa.
+
+[6] _Vai Cumberlandin prinssi_. Macbethilla oli kruunun toivetta, jos
+Duncan kuolisi, ennenkuin hänen vanhin poikansa tuli täysi-ikäiseksi.
+Malcolmin nimittäminen perilliseksi isän eläissä oli siis kenties lähin
+syy Macbethin päätökseen murhata Duncan.
+
+[7] _Kähisten itse korppi_. Tarkoittaa sanantuojaa.
+
+[8] _Kaistaleen ranskalaisen housuista_. Ne olivat hyvin soukat, niin
+että niistä kaistaleenkin varastaminen kysyi suurta taitoa.
+
+[9] Tuo suuri valtakirja revi rikki, s.o. tee loppu Banquon elämästä.
+
+[10] _Se vaatii verta_, nim. haamu.
+
+[11] _Kypäräpää tarkoittaa kenties Macbethin päätä. Verinen lapsi on
+Macduff. Kruunupää lapsi on Malcolm.
+
+[12] _Miks Rooman houkkaa matkisin nyt_. Tarkoittanee Catoa.
