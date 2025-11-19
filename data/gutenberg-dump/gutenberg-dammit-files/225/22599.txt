@@ -1,0 +1,3112 @@
+THE
+
+HINDU-ARABIC NUMERALS
+
+BY
+DAVID EUGENE SMITH
+AND
+LOUIS CHARLES KARPINSKI
+
+BOSTON AND LONDON
+GINN AND COMPANY, PUBLISHERS
+1911
+
+COPYRIGHT, 1911, BY DAVID EUGENE SMITH
+AND LOUIS CHARLES KARPINSKI
+ALL RIGHTS RESERVED
+811.7
+
+THE ATHENÆUM PRESS
+GINN AND COMPANY · PROPRIETORS
+BOSTON · U.S.A.
+
+
+
+
+{iii}
+
+PREFACE
+
+So familiar are we with the numerals that bear the misleading name of
+Arabic, and so extensive is their use in Europe and the Americas, that it
+is difficult for us to realize that their general acceptance in the
+transactions of commerce is a matter of only the last four centuries, and
+that they are unknown to a very large part of the human race to-day. It
+seems strange that such a labor-saving device should have struggled for
+nearly a thousand years after its system of place value was perfected
+before it replaced such crude notations as the one that the Roman conqueror
+made substantially universal in Europe. Such, however, is the case, and
+there is probably no one who has not at least some slight passing interest
+in the story of this struggle. To the mathematician and the student of
+civilization the interest is generally a deep one; to the teacher of the
+elements of knowledge the interest may be less marked, but nevertheless it
+is real; and even the business man who makes daily use of the curious
+symbols by which we express the numbers of commerce, cannot fail to have
+some appreciation for the story of the rise and progress of these tools of
+his trade.
+
+This story has often been told in part, but it is a long time since any
+effort has been made to bring together the fragmentary narrations and to
+set forth the general problem of the origin and development of these {iv}
+numerals. In this little work we have attempted to state the history of
+these forms in small compass, to place before the student materials for the
+investigation of the problems involved, and to express as clearly as
+possible the results of the labors of scholars who have studied the subject
+in different parts of the world. We have had no theory to exploit, for the
+history of mathematics has seen too much of this tendency already, but as
+far as possible we have weighed the testimony and have set forth what seem
+to be the reasonable conclusions from the evidence at hand.
+
+To facilitate the work of students an index has been prepared which we hope
+may be serviceable. In this the names of authors appear only when some use
+has been made of their opinions or when their works are first mentioned in
+full in a footnote.
+
+If this work shall show more clearly the value of our number system, and
+shall make the study of mathematics seem more real to the teacher and
+student, and shall offer material for interesting some pupil more fully in
+his work with numbers, the authors will feel that the considerable labor
+involved in its preparation has not been in vain.
+
+We desire to acknowledge our especial indebtedness to Professor Alexander
+Ziwet for reading all the proof, as well as for the digest of a Russian
+work, to Professor Clarence L. Meader for Sanskrit transliterations, and to
+Mr. Steven T. Byington for Arabic transliterations and the scheme of
+pronunciation of Oriental names, and also our indebtedness to other
+scholars in Oriental learning for information.
+
+DAVID EUGENE SMITH
+
+LOUIS CHARLES KARPINSKI
+
+
+
+
+{v}
+
+CONTENTS
+
+  CHAPTER
+
+        PRONUNCIATION OF ORIENTAL NAMES                              vi
+
+  I.    EARLY IDEAS OF THEIR ORIGIN                                   1
+
+  II.   EARLY HINDU FORMS WITH NO PLACE VALUE                        12
+
+  III.  LATER HINDU FORMS, WITH A PLACE VALUE                        38
+
+  IV.   THE SYMBOL ZERO                                              51
+
+  V.    THE QUESTION OF THE INTRODUCTION OF THE
+        NUMERALS INTO EUROPE BY BOETHIUS                             63
+
+  VI.   THE DEVELOPMENT OF THE NUMERALS AMONG THE ARABS              91
+
+  VII.  THE DEFINITE INTRODUCTION OF THE NUMERALS INTO EUROPE        99
+
+  VIII. THE SPREAD OF THE NUMERALS IN EUROPE                        128
+
+  INDEX                                                             153
+
+
+
+
+{vi}
+
+PRONUNCIATION OF ORIENTAL NAMES
+
+(S) = in Sanskrit names and words; (A) = in Arabic names and words.
+
+B, D, F, G, H, J, L, M, N, P, SH (A), T, TH (A), V, W, X, Z, as in English.
+
+A, (S) like _u_ in _but_: thus _pandit_, pronounced _pundit_. (A) like _a_
+in _ask_ or in _man_. [=A], as in _father_.
+
+C, (S) like _ch_ in _church_ (Italian _c_ in _cento_).
+
+[D.], [N.], [S.], [T.], (S) _d_, _n_, _sh_, _t_, made with the tip of the
+tongue turned up and back into the dome of the palate. [D.], [S.], [T.],
+[Z.], (A) _d_, _s_, _t_, _z_, made with the tongue spread so that the
+sounds are produced largely against the side teeth. Europeans commonly
+pronounce [D.], [N.], [S.], [T.], [Z.], both (S) and (A), as simple _d_,
+_n_, _sh_ (S) or _s_ (A), _t_, _z_. [D=] (A), like _th_ in _this_.
+
+E, (S) as in _they_. (A) as in _bed_.
+
+[.G], (A) a voiced consonant formed below the vocal cords; its sound is
+compared by some to a _g_, by others to a guttural _r_; in Arabic words
+adopted into English it is represented by _gh_ (e.g. _ghoul_), less often
+_r_ (e.g. _razzia_).
+
+H preceded by _b_, _c_, _t_, _[t.]_, etc. does not form a single sound with
+these letters, but is a more or less distinct _h_ sound following them; cf.
+the sounds in _abhor, boathook_, etc., or, more accurately for (S), the
+"bhoys" etc. of Irish brogue. H (A) retains its consonant sound at the end
+of a word. [H.], (A) an unvoiced consonant formed below the vocal cords;
+its sound is sometimes compared to German hard _ch_, and may be represented
+by an _h_ as strong as possible. In Arabic words adopted into English it is
+represented by _h_, e.g. in _sahib_, _hakeem_. [H.] (S) is final consonant
+_h_, like final _h_ (A).
+
+I, as in _pin_. [=I], as in _pique_.
+
+K, as in _kick_.
+
+KH, (A) the hard _ch_ of Scotch _loch_, German _ach_, especially of German
+as pronounced by the Swiss.
+
+[.M], [.N], (S) like French final _m_ or _n_, nasalizing the preceding
+vowel.
+
+[N.], see [D.]. Ñ, like _ng_ in _singing_.
+
+O, (S) as in _so_. (A) as in _obey_.
+
+Q, (A) like _k_ (or _c_) in _cook_; further back in the mouth than in
+_kick_.
+
+R, (S) English _r_, smooth and untrilled. (A) stronger. [R.], (S) r used as
+vowel, as in _apron_ when pronounced _aprn_ and not _apern_; modern Hindus
+say _ri_, hence our _amrita_, _Krishna_, for _a-m[r.]ta, K[r.][s.][n.]a_.
+
+S, as in _same_. [S.], see [D.]. ['S], (S) English _sh_ (German _sch_).
+
+[T.], see [D.].
+
+U, as in _put_. [=U], as in _rule_.
+
+Y, as in _you_.
+
+[Z.], see [D.].
+
+`, (A) a sound kindred to the spiritus lenis (that is, to our ears, the
+mere distinct separation of a vowel from the preceding sound, as at the
+beginning of a word in German) and to _[h.]_. The ` is a very distinct
+sound in Arabic, but is more nearly represented by the spiritus lenis than
+by any sound that we can produce without much special training. That is, it
+should be treated as silent, but the sounds that precede and follow it
+should not run together. In Arabic words adopted into English it is treated
+as silent, e.g. in _Arab_, _amber_, _Caaba_ (_`Arab_, _`anbar_, _ka`abah_).
+
+(A) A final long vowel is shortened before _al_ (_'l_) or _ibn_ (whose _i_
+is then silent).
+
+Accent: (S) as if Latin; in determining the place of the accent _[.m]_ and
+_[.n]_ count as consonants, but _h_ after another consonant does not. (A),
+on the last syllable that contains a long vowel or a vowel followed by two
+consonants, except that a final long vowel is not ordinarily accented; if
+there is no long vowel nor two consecutive consonants, the accent falls on
+the first syllable. The words _al_ and _ibn_ are never accented.
+
+
+
+
+{1}
+
+THE HINDU-ARABIC NUMERALS
+
+CHAPTER I
+
+EARLY IDEAS OF THEIR ORIGIN
+
+It has long been recognized that the common numerals used in daily life are
+of comparatively recent origin. The number of systems of notation employed
+before the Christian era was about the same as the number of written
+languages, and in some cases a single language had several systems. The
+Egyptians, for example, had three systems of writing, with a numerical
+notation for each; the Greeks had two well-defined sets of numerals, and
+the Roman symbols for number changed more or less from century to century.
+Even to-day the number of methods of expressing numerical concepts is much
+greater than one would believe before making a study of the subject, for
+the idea that our common numerals are universal is far from being correct.
+It will be well, then, to think of the numerals that we still commonly call
+Arabic, as only one of many systems in use just before the Christian era.
+As it then existed the system was no better than many others, it was of
+late origin, it contained no zero, it was cumbersome and little used, {2}
+and it had no particular promise. Not until centuries later did the system
+have any standing in the world of business and science; and had the place
+value which now characterizes it, and which requires a zero, been worked
+out in Greece, we might have been using Greek numerals to-day instead of
+the ones with which we are familiar.
+
+Of the first number forms that the world used this is not the place to
+speak. Many of them are interesting, but none had much scientific value. In
+Europe the invention of notation was generally assigned to the eastern
+shores of the Mediterranean until the critical period of about a century
+ago,--sometimes to the Hebrews, sometimes to the Egyptians, but more often
+to the early trading Phoenicians.[1]
+
+The idea that our common numerals are Arabic in origin is not an old one.
+The mediæval and Renaissance writers generally recognized them as Indian,
+and many of them expressly stated that they were of Hindu origin.[2] {3}
+Others argued that they were probably invented by the Chaldeans or the Jews
+because they increased in value from right to left, an argument that would
+apply quite as well to the Roman and Greek systems, or to any other. It
+was, indeed, to the general idea of notation that many of these writers
+referred, as is evident from the words of England's earliest arithmetical
+textbook-maker, Robert Recorde (c. 1542): "In that thinge all men do agree,
+that the Chaldays, whiche fyrste inuented thys arte, did set these figures
+as thei set all their letters. for they wryte backwarde as you tearme it,
+and so doo they reade. And that may appeare in all Hebrewe, Chaldaye and
+Arabike bookes ... where as the Greekes, Latines, and all nations of
+Europe, do wryte and reade from the lefte hand towarde the ryghte."[3]
+Others, and {4} among them such influential writers as Tartaglia[4] in
+Italy and Köbel[5] in Germany, asserted the Arabic origin of the numerals,
+while still others left the matter undecided[6] or simply dismissed them as
+"barbaric."[7] Of course the Arabs themselves never laid claim to the
+invention, always recognizing their indebtedness to the Hindus both for the
+numeral forms and for the distinguishing feature of place value. Foremost
+among these writers was the great master of the golden age of Bagdad, one
+of the first of the Arab writers to collect the mathematical classics of
+both the East and the West, preserving them and finally passing them on to
+awakening Europe. This man was Mo[h.]ammed the Son of Moses, from
+Khow[=a]rezm, or, more after the manner of the Arab, Mo[h.]ammed ibn
+M[=u]s[=a] al-Khow[=a]razm[=i],[8] a man of great {5} learning and one to
+whom the world is much indebted for its present knowledge of algebra[9] and
+of arithmetic. Of him there will often be occasion to speak; and in the
+arithmetic which he wrote, and of which Adelhard of Bath[10] (c. 1130) may
+have made the translation or paraphrase,[11] he stated distinctly that the
+numerals were due to the Hindus.[12] This is as plainly asserted by later
+Arab {6} writers, even to the present day.[13] Indeed the phrase _`ilm
+hind[=i]_, "Indian science," is used by them for arithmetic, as also the
+adjective _hind[=i]_ alone.[14]
+
+Probably the most striking testimony from Arabic sources is that given by
+the Arabic traveler and scholar Mohammed ibn A[h.]med, Ab[=u]
+'l-R[=i][h.][=a]n al-B[=i]r[=u]n[=i] (973-1048), who spent many years in
+Hindustan. He wrote a large work on India,[15] one on ancient
+chronology,[16] the "Book of the Ciphers," unfortunately lost, which
+treated doubtless of the Hindu art of calculating, and was the author of
+numerous other works. Al-B[=i]r[=u]n[=i] was a man of unusual attainments,
+being versed in Arabic, Persian, Sanskrit, Hebrew, and Syriac, as well as
+in astronomy, chronology, and mathematics. In his work on India he gives
+detailed information concerning the language and {7} customs of the people
+of that country, and states explicitly[17] that the Hindus of his time did
+not use the letters of their alphabet for numerical notation, as the Arabs
+did. He also states that the numeral signs called _a[.n]ka_[18] had
+different shapes in various parts of India, as was the case with the
+letters. In his _Chronology of Ancient Nations_ he gives the sum of a
+geometric progression and shows how, in order to avoid any possibility of
+error, the number may be expressed in three different systems: with Indian
+symbols, in sexagesimal notation, and by an alphabet system which will be
+touched upon later. He also speaks[19] of "179, 876, 755, expressed in
+Indian ciphers," thus again attributing these forms to Hindu sources.
+
+Preceding Al-B[=i]r[=u]n[=i] there was another Arabic writer of the tenth
+century, Mo[t.]ahhar ibn [T.][=a]hir,[20] author of the _Book of the
+Creation and of History_, who gave as a curiosity, in Indian (N[=a]gar[=i])
+symbols, a large number asserted by the people of India to represent the
+duration of the world. Huart feels positive that in Mo[t.]ahhar's time the
+present Arabic symbols had not yet come into use, and that the Indian
+symbols, although known to scholars, were not current. Unless this were the
+case, neither the author nor his readers would have found anything
+extraordinary in the appearance of the number which he cites.
+
+Mention should also be made of a widely-traveled student, Al-Mas`[=u]d[=i]
+(885?-956), whose journeys carried him from Bagdad to Persia, India,
+Ceylon, and even {8} across the China sea, and at other times to
+Madagascar, Syria, and Palestine.[21] He seems to have neglected no
+accessible sources of information, examining also the history of the
+Persians, the Hindus, and the Romans. Touching the period of the Caliphs
+his work entitled _Meadows of Gold_ furnishes a most entertaining fund of
+information. He states[22] that the wise men of India, assembled by the
+king, composed the _Sindhind_. Further on[23] he states, upon the authority
+of the historian Mo[h.]ammed ibn `Al[=i] `Abd[=i], that by order of
+Al-Man[s.][=u]r many works of science and astrology were translated into
+Arabic, notably the _Sindhind_ (_Siddh[=a]nta_). Concerning the meaning and
+spelling of this name there is considerable diversity of opinion.
+Colebrooke[24] first pointed out the connection between _Siddh[=a]nta_ and
+_Sindhind_. He ascribes to the word the meaning "the revolving ages."[25]
+Similar designations are collected by Sédillot,[26] who inclined to the
+Greek origin of the sciences commonly attributed to the Hindus.[27]
+Casiri,[28] citing the _T[=a]r[=i]kh al-[h.]okam[=a]_ or _Chronicles of the
+Learned_,[29] refers to the work {9} as the _Sindum-Indum_ with the meaning
+"perpetuum æternumque." The reference[30] in this ancient Arabic work to
+Al-Khow[=a]razm[=i] is worthy of note.
+
+This _Sindhind_ is the book, says Mas`[=u]d[=i],[31] which gives all that
+the Hindus know of the spheres, the stars, arithmetic,[32] and the other
+branches of science. He mentions also Al-Khow[=a]razm[=i] and [H.]abash[33]
+as translators of the tables of the _Sindhind_. Al-B[=i]r[=u]n[=i][34]
+refers to two other translations from a work furnished by a Hindu who came
+to Bagdad as a member of the political mission which Sindh sent to the
+caliph Al-Man[s.][=u]r, in the year of the Hejira 154 (A.D. 771).
+
+The oldest work, in any sense complete, on the history of Arabic literature
+and history is the _Kit[=a]b al-Fihrist_, written in the year 987 A.D., by
+Ibn Ab[=i] Ya`q[=u]b al-Nad[=i]m. It is of fundamental importance for the
+history of Arabic culture. Of the ten chief divisions of the work, the
+seventh demands attention in this discussion for the reason that its second
+subdivision treats of mathematicians and astronomers.[35]
+
+{10}
+
+The first of the Arabic writers mentioned is Al-Kind[=i] (800-870 A.D.),
+who wrote five books on arithmetic and four books on the use of the Indian
+method of reckoning. Sened ibn `Al[=i], the Jew, who was converted to Islam
+under the caliph Al-M[=a]m[=u]n, is also given as the author of a work on
+the Hindu method of reckoning. Nevertheless, there is a possibility[36]
+that some of the works ascribed to Sened ibn `Al[=i] are really works of
+Al-Khow[=a]razm[=i], whose name immediately precedes his. However, it is to
+be noted in this connection that Casiri[37] also mentions the same writer
+as the author of a most celebrated work on arithmetic.
+
+To Al-[S.][=u]f[=i], who died in 986 A.D., is also credited a large work on
+the same subject, and similar treatises by other writers are mentioned. We
+are therefore forced to the conclusion that the Arabs from the early ninth
+century on fully recognized the Hindu origin of the new numerals.
+
+Leonard of Pisa, of whom we shall speak at length in the chapter on the
+Introduction of the Numerals into Europe, wrote his _Liber Abbaci_[38] in
+1202. In this work he refers frequently to the nine Indian figures,[39]
+thus showing again the general consensus of opinion in the Middle Ages that
+the numerals were of Hindu origin.
+
+Some interest also attaches to the oldest documents on arithmetic in our
+own language. One of the earliest {11} treatises on algorism is a
+commentary[40] on a set of verses called the _Carmen de Algorismo_, written
+by Alexander de Villa Dei (Alexandra de Ville-Dieu), a Minorite monk of
+about 1240 A.D. The text of the first few lines is as follows:
+
+ "Hec algorism' ars p'sens dicit' in qua
+  Talib; indor[um] fruim bis quinq; figuris.[41]
+
+"This boke is called the boke of algorim or augrym after lewder use. And
+this boke tretys of the Craft of Nombryng, the quych crafte is called also
+Algorym. Ther was a kyng of Inde the quich heyth Algor & he made this
+craft.... Algorisms, in the quych we use teen figurys of Inde."
+
+
+
+
+{12}
+
+CHAPTER II
+
+EARLY HINDU FORMS WITH NO PLACE VALUE
+
+While it is generally conceded that the scientific development of astronomy
+among the Hindus towards the beginning of the Christian era rested upon
+Greek[42] or Chinese[43] sources, yet their ancient literature testifies to
+a high state of civilization, and to a considerable advance in sciences, in
+philosophy, and along literary lines, long before the golden age of Greece.
+From the earliest times even up to the present day the Hindu has been wont
+to put his thought into rhythmic form. The first of this poetry--it well
+deserves this name, being also worthy from a metaphysical point of
+view[44]--consists of the Vedas, hymns of praise and poems of worship,
+collected during the Vedic period which dates from approximately 2000 B.C.
+to 1400 B.C.[45] Following this work, or possibly contemporary with it, is
+the Brahmanic literature, which is partly ritualistic (the
+Br[=a]hma[n.]as), and partly philosophical (the Upanishads). Our especial
+interest is {13} in the S[=u]tras, versified abridgments of the ritual and
+of ceremonial rules, which contain considerable geometric material used in
+connection with altar construction, and also numerous examples of rational
+numbers the sum of whose squares is also a square, i.e. "Pythagorean
+numbers," although this was long before Pythagoras lived. Whitney[46]
+places the whole of the Veda literature, including the Vedas, the
+Br[=a]hma[n.]as, and the S[=u]tras, between 1500 B.C. and 800 B.C., thus
+agreeing with Bürk[47] who holds that the knowledge of the Pythagorean
+theorem revealed in the S[=u]tras goes back to the eighth century B.C.
+
+The importance of the S[=u]tras as showing an independent origin of Hindu
+geometry, contrary to the opinion long held by Cantor[48] of a Greek
+origin, has been repeatedly emphasized in recent literature,[49] especially
+since the appearance of the important work of Von Schroeder.[50] Further
+fundamental mathematical notions such as the conception of irrationals and
+the use of gnomons, as well as the philosophical doctrine of the
+transmigration of souls,--all of these having long been attributed to the
+Greeks,--are shown in these works to be native to India. Although this
+discussion does not bear directly upon the {14} origin of our numerals, yet
+it is highly pertinent as showing the aptitude of the Hindu for
+mathematical and mental work, a fact further attested by the independent
+development of the drama and of epic and lyric poetry.
+
+It should be stated definitely at the outset, however, that we are not at
+all sure that the most ancient forms of the numerals commonly known as
+Arabic had their origin in India. As will presently be seen, their forms
+may have been suggested by those used in Egypt, or in Eastern Persia, or in
+China, or on the plains of Mesopotamia. We are quite in the dark as to
+these early steps; but as to their development in India, the approximate
+period of the rise of their essential feature of place value, their
+introduction into the Arab civilization, and their spread to the West, we
+have more or less definite information. When, therefore, we consider the
+rise of the numerals in the land of the Sindhu,[51] it must be understood
+that it is only the large movement that is meant, and that there must
+further be considered the numerous possible sources outside of India itself
+and long anterior to the first prominent appearance of the number symbols.
+
+No one attempts to examine any detail in the history of ancient India
+without being struck with the great dearth of reliable material.[52] So
+little sympathy have the people with any save those of their own caste that
+a general literature is wholly lacking, and it is only in the observations
+of strangers that any all-round view of scientific progress is to be found.
+There is evidence that primary schools {15} existed in earliest times, and
+of the seventy-two recognized sciences writing and arithmetic were the most
+prized.[53] In the Vedic period, say from 2000 to 1400 B.C., there was the
+same attention to astronomy that was found in the earlier civilizations of
+Babylon, China, and Egypt, a fact attested by the Vedas themselves.[54]
+Such advance in science presupposes a fair knowledge of calculation, but of
+the manner of calculating we are quite ignorant and probably always shall
+be. One of the Buddhist sacred books, the _Lalitavistara_, relates that
+when the B[=o]dhisattva[55] was of age to marry, the father of Gopa, his
+intended bride, demanded an examination of the five hundred suitors, the
+subjects including arithmetic, writing, the lute, and archery. Having
+vanquished his rivals in all else, he is matched against Arjuna the great
+arithmetician and is asked to express numbers greater than 100 kotis.[56]
+In reply he gave a scheme of number names as high as 10^{53}, adding that
+he could proceed as far as 10^{421},[57] all of which suggests the system
+of Archimedes and the unsettled question of the indebtedness of the West to
+the East in the realm of ancient mathematics.[58] Sir Edwin Arnold, {16} in
+_The Light of Asia_, does not mention this part of the contest, but he
+speaks of Buddha's training at the hands of the learned Vi[s.]vamitra:
+
+  "And Viswamitra said, 'It is enough,
+  Let us to numbers. After me repeat
+  Your numeration till we reach the lakh,[59]
+  One, two, three, four, to ten, and then by tens
+  To hundreds, thousands.' After him the child
+  Named digits, decads, centuries, nor paused,
+  The round lakh reached, but softly murmured on,
+  Then comes the k[=o]ti, nahut, ninnahut,
+  Khamba, viskhamba, abab, attata,
+  To kumuds, gundhikas, and utpalas,
+  By pundar[=i]kas into padumas,
+  Which last is how you count the utmost grains
+  Of Hastagiri ground to finest dust;[60]
+  But beyond that a numeration is,
+  The K[=a]tha, used to count the stars of night,
+  The K[=o]ti-K[=a]tha, for the ocean drops;
+  Ingga, the calculus of circulars;
+  Sarvanikchepa, by the which you deal
+  With all the sands of Gunga, till we come
+  To Antah-Kalpas, where the unit is
+  The sands of the ten crore Gungas.  If one seeks
+  More comprehensive scale, th' arithmic mounts
+  By the Asankya, which is the tale
+  Of all the drops that in ten thousand years
+  Would fall on all the worlds by daily rain;
+  Thence unto Maha Kalpas, by the which
+  The gods compute their future and their past.'"
+
+{17}
+
+Thereupon Vi[s.]vamitra [=A]c[=a]rya[61] expresses his approval of the
+task, and asks to hear the "measure of the line" as far as y[=o]jana, the
+longest measure bearing name. This given, Buddha adds:
+
+  ... "'And master! if it please,
+  I shall recite how many sun-motes lie
+  From end to end within a y[=o]jana.'
+  Thereat, with instant skill, the little prince
+  Pronounced the total of the atoms true.
+  But Viswamitra heard it on his face
+  Prostrate before the boy; 'For thou,' he cried,
+  'Art Teacher of thy teachers--thou, not I,
+  Art G[=u]r[=u].'"
+
+It is needless to say that this is far from being history. And yet it puts
+in charming rhythm only what the ancient _Lalitavistara_ relates of the
+number-series of the Buddha's time. While it extends beyond all reason,
+nevertheless it reveals a condition that would have been impossible unless
+arithmetic had attained a considerable degree of advancement.
+
+To this pre-Christian period belong also the _Ved[=a][.n]gas_, or "limbs
+for supporting the Veda," part of that great branch of Hindu literature
+known as _Sm[r.]iti_ (recollection), that which was to be handed down by
+tradition. Of these the sixth is known as _Jyoti[s.]a_ (astronomy), a short
+treatise of only thirty-six verses, written not earlier than 300 B.C., and
+affording us some knowledge of the extent of number work in that
+period.[62] The Hindus {18} also speak of eighteen ancient Siddh[=a]ntas or
+astronomical works, which, though mostly lost, confirm this evidence.[63]
+
+As to authentic histories, however, there exist in India none relating to
+the period before the Mohammedan era (622 A.D.). About all that we know of
+the earlier civilization is what we glean from the two great epics, the
+Mah[=a]bh[=a]rata[64] and the R[=a]m[=a]yana, from coins, and from a few
+inscriptions.[65]
+
+It is with this unsatisfactory material, then, that we have to deal in
+searching for the early history of the Hindu-Arabic numerals, and the fact
+that many unsolved problems exist and will continue to exist is no longer
+strange when we consider the conditions. It is rather surprising that so
+much has been discovered within a century, than that we are so uncertain as
+to origins and dates and the early spread of the system. The probability
+being that writing was not introduced into India before the close of the
+fourth century B.C., and literature existing only in spoken form prior to
+that period,[66] the number work was doubtless that of all primitive
+peoples, palpable, merely a matter of placing sticks or cowries or pebbles
+on the ground, of marking a sand-covered board, or of cutting notches or
+tying cords as is still done in parts of Southern India to-day.[67]
+
+{19}
+
+The early Hindu numerals[68] may be classified into three great groups, (1)
+the Kharo[s.][t.]h[=i], (2) the Br[=a]hm[=i], and (3) the word and letter
+forms; and these will be considered in order.
+
+The Kharo[s.][t.]h[=i] numerals are found in inscriptions formerly known as
+Bactrian, Indo-Bactrian, and Aryan, and appearing in ancient Gandh[=a]ra,
+now eastern Afghanistan and northern Punjab. The alphabet of the language
+is found in inscriptions dating from the fourth century B.C. to the third
+century A.D., and from the fact that the words are written from right to
+left it is assumed to be of Semitic origin. No numerals, however, have been
+found in the earliest of these inscriptions, number-names probably having
+been written out in words as was the custom with many ancient peoples. Not
+until the time of the powerful King A['s]oka, in the third century B.C., do
+numerals appear in any inscriptions thus far discovered; and then only in
+the primitive form of marks, quite as they would be found in Egypt, Greece,
+Rome, or in {20} various other parts of the world. These A['s]oka[69]
+inscriptions, some thirty in all, are found in widely separated parts of
+India, often on columns, and are in the various vernaculars that were
+familiar to the people. Two are in the Kharo[s.][t.]h[=i] characters, and
+the rest in some form of Br[=a]hm[=i]. In the Kharo[s.][t.]h[=i]
+inscriptions only four numerals have been found, and these are merely
+vertical marks for one, two, four, and five, thus:
+
+  |     ||     |||     ||||
+
+In the so-called ['S]aka inscriptions, possibly of the first century B.C.,
+more numerals are found, and in more highly developed form, the
+right-to-left system appearing, together with evidences of three different
+scales of counting,--four, ten, and twenty. The numerals of this period are
+as follows:
+
+[Illustration]
+
+There are several noteworthy points to be observed in studying this system.
+In the first place, it is probably not as early as that shown in the
+N[=a]n[=a] Gh[=a]t forms hereafter given, although the inscriptions
+themselves at N[=a]n[=a] Gh[=a]t are later than those of the A['s]oka
+period. The {21} four is to this system what the X was to the Roman,
+probably a canceling of three marks as a workman does to-day for five, or a
+laying of one stick across three others. The ten has never been
+satisfactorily explained. It is similar to the A of the Kharo[s.][t.]h[=i]
+alphabet, but we have no knowledge as to why it was chosen. The twenty is
+evidently a ligature of two tens, and this in turn suggested a kind of
+radix, so that ninety was probably written in a way reminding one of the
+quatre-vingt-dix of the French. The hundred is unexplained, although it
+resembles the letter _ta_ or _tra_ of the Br[=a]hm[=i] alphabet with 1
+before (to the right of) it. The two hundred is only a variant of the
+symbol for hundred, with two vertical marks.[70]
+
+This system has many points of similarity with the Nabatean numerals[71] in
+use in the first centuries of the Christian era. The cross is here used for
+four, and the Kharo[s.][t.]h[=i] form is employed for twenty. In addition
+to this there is a trace of an analogous use of a scale of twenty. While
+the symbol for 100 is quite different, the method of forming the other
+hundreds is the same. The correspondence seems to be too marked to be
+wholly accidental.
+
+It is not in the Kharo[s.][t.]h[=i] numerals, therefore, that we can hope
+to find the origin of those used by us, and we turn to the second of the
+Indian types, the Br[=a]hm[=i] characters. The alphabet attributed to
+Brahm[=a] is the oldest of the several known in India, and was used from
+the earliest historic times. There are various theories of its origin, {22}
+none of which has as yet any wide acceptance,[72] although the problem
+offers hope of solution in due time. The numerals are not as old as the
+alphabet, or at least they have not as yet been found in inscriptions
+earlier than those in which the edicts of A['s]oka appear, some of these
+having been incised in Br[=a]hm[=i] as well as Kharo[s.][t.]h[=i]. As
+already stated, the older writers probably wrote the numbers in words, as
+seems to have been the case in the earliest Pali writings of Ceylon.[73]
+
+The following numerals are, as far as known, the only ones to appear in the
+A['s]oka edicts:[74]
+
+[Illustration]
+
+These fragments from the third century B.C., crude and unsatisfactory as
+they are, are the undoubted early forms from which our present system
+developed. They next appear in the second century B.C. in some inscriptions
+in the cave on the top of the N[=a]n[=a] Gh[=a]t hill, about seventy-five
+miles from Poona in central India. These inscriptions may be memorials of
+the early Andhra dynasty of southern India, but their chief interest lies
+in the numerals which they contain.
+
+The cave was made as a resting-place for travelers ascending the hill,
+which lies on the road from Kaly[=a]na to Junar. It seems to have been cut
+out by a descendant {23} of King ['S][=a]tav[=a]hana,[75] for inside the
+wall opposite the entrance are representations of the members of his
+family, much defaced, but with the names still legible. It would seem that
+the excavation was made by order of a king named Vedisiri, and "the
+inscription contains a list of gifts made on the occasion of the
+performance of several _yagnas_ or religious sacrifices," and numerals are
+to be seen in no less than thirty places.[76]
+
+There is considerable dispute as to what numerals are really found in these
+inscriptions, owing to the difficulty of deciphering them; but the
+following, which have been copied from a rubbing, are probably number
+forms:[77]
+
+[Illustration]
+
+The inscription itself, so important as containing the earliest
+considerable Hindu numeral system connected with our own, is of sufficient
+interest to warrant reproducing part of it in facsimile, as is done on page
+24.
+
+{24}
+
+[Illustration]
+
+The next very noteworthy evidence of the numerals, and this quite complete
+as will be seen, is found in certain other cave inscriptions dating back to
+the first or second century A.D. In these, the Nasik[78] cave inscriptions,
+the forms are as follows:
+
+[Illustration]
+
+From this time on, until the decimal system finally adopted the first nine
+characters and replaced the rest of the Br[=a]hm[=i] notation by adding the
+zero, the progress of these forms is well marked. It is therefore well to
+present synoptically the best-known specimens that have come down to us,
+and this is done in the table on page 25.[79]
+
+{25}
+
+TABLE SHOWING THE PROGRESS OF NUMBER FORMS IN INDIA
+
+  NUMERALS 1 2 3 4 5 6 7 8 9 10 20 30 40 50 60 70 80 90 100 200 1000
+  A['s]oka[80]                [Illustration]
+  ['S]aka[81]                 [Illustration]
+  A['s]oka[82]                [Illustration]
+  N[=a]gar[=i][83]            [Illustration]
+  Nasik[84]                   [Illustration]
+  K[s.]atrapa[85]             [Illustration]
+  Ku[s.]ana [86]              [Illustration]
+  Gupta[87]                   [Illustration]
+  Valhab[=i][88]              [Illustration]
+  Nepal [89]                  [Illustration]
+  Kali[.n]ga[90]              [Illustration]
+  V[=a]k[=a][t.]aka[91]       [Illustration]
+
+[Most of these numerals are given by Bühler, loc. cit., Tafel IX.]
+
+{26} With respect to these numerals it should first be noted that no zero
+appears in the table, and as a matter of fact none existed in any of the
+cases cited. It was therefore impossible to have any place value, and the
+numbers like twenty, thirty, and other multiples of ten, one hundred, and
+so on, required separate symbols except where they were written out in
+words. The ancient Hindus had no less than twenty of these symbols,[92] a
+number that was afterward greatly increased. The following are examples of
+their method of indicating certain numbers between one hundred and one
+thousand:
+
+  [93] [Numerals] for 174
+  [94] [Numerals] for 191
+  [95] [Numerals] for 269
+  [96] [Numerals] for 252
+  [97] [Numerals] for 400
+  [98] [Numerals] for 356
+
+{27}
+
+To these may be added the following numerals below one hundred, similar to
+those in the table:
+
+  [Numerals][99]    for 90
+  [Numerals][100]   for 70
+
+We have thus far spoken of the Kharo[s.][t.]h[=i] and Br[=a]hm[=i]
+numerals, and it remains to mention the third type, the word and letter
+forms. These are, however, so closely connected with the perfecting of the
+system by the invention of the zero that they are more appropriately
+considered in the next chapter, particularly as they have little relation
+to the problem of the origin of the forms known as the Arabic.
+
+Having now examined types of the early forms it is appropriate to turn our
+attention to the question of their origin. As to the first three there is
+no question. The [1 vertical stroke] or [1 horizontal stroke] is simply one
+stroke, or one stick laid down by the computer. The [2 vertical strokes] or
+[2 horizontal strokes] represents two strokes or two sticks, and so for the
+[3 vertical strokes] and [3 horizontal strokes]. From some primitive [2
+vertical strokes] came the two of Egypt, of Rome, of early Greece, and of
+various other civilizations. It appears in the three Egyptian numeral
+systems in the following forms:
+
+  Hieroglyphic [2 vertical strokes]
+  Hieratic     [Hieratic 2]
+  Demotic      [Demotic 2]
+
+The last of these is merely a cursive form as in the Arabic [Arabic 2],
+which becomes our 2 if tipped through a right angle. From some primitive [2
+horizontal strokes] came the Chinese {28} symbol, which is practically
+identical with the symbols found commonly in India from 150 B.C. to 700
+A.D. In the cursive form it becomes [2 horizontal strokes joined], and this
+was frequently used for two in Germany until the 18th century. It finally
+went into the modern form 2, and the [3 horizontal strokes] in the same way
+became our 3.
+
+There is, however, considerable ground for interesting speculation with
+respect to these first three numerals. The earliest Hindu forms were
+perpendicular. In the N[=a]n[=a] Gh[=a]t inscriptions they are vertical.
+But long before either the A['s]oka or the N[=a]n[=a] Gh[=a]t inscriptions
+the Chinese were using the horizontal forms for the first three numerals,
+but a vertical arrangement for four.[101] Now where did China get these
+forms? Surely not from India, for she had them, as her monuments and
+literature[102] show, long before the Hindus knew them. The tradition is
+that China brought her civilization around the north of Tibet, from
+Mongolia, the primitive habitat being Mesopotamia, or possibly the oases of
+Turkestan. Now what numerals did Mesopotamia use? The Babylonian system,
+simple in its general principles but very complicated in many of its
+details, is now well known.[103] In particular, one, two, and three were
+represented by vertical arrow-heads. Why, then, did the Chinese write {29}
+theirs horizontally? The problem now takes a new interest when we find that
+these Babylonian forms were not the primitive ones of this region, but that
+the early Sumerian forms were horizontal.[104]
+
+What interpretation shall be given to these facts? Shall we say that it was
+mere accident that one people wrote "one" vertically and that another wrote
+it horizontally? This may be the case; but it may also be the case that the
+tribal migrations that ended in the Mongol invasion of China started from
+the Euphrates while yet the Sumerian civilization was prominent, or from
+some common source in Turkestan, and that they carried to the East the
+primitive numerals of their ancient home, the first three, these being all
+that the people as a whole knew or needed. It is equally possible that
+these three horizontal forms represent primitive stick-laying, the most
+natural position of a stick placed in front of a calculator being the
+horizontal one. When, however, the cuneiform writing developed more fully,
+the vertical form may have been proved the easier to make, so that by the
+time the migrations to the West began these were in use, and from them came
+the upright forms of Egypt, Greece, Rome, and other Mediterranean lands,
+and those of A['s]oka's time in India. After A['s]oka, and perhaps among
+the merchants of earlier centuries, the horizontal forms may have come down
+into India from China, thus giving those of the N[=a]n[=a] Gh[=a]t cave and
+of later inscriptions. This is in the realm of speculation, but it is not
+improbable that further epigraphical studies may confirm the hypothesis.
+
+{30}
+
+As to the numerals above three there have been very many conjectures. The
+figure one of the Demotic looks like the one of the Sanskrit, the two
+(reversed) like that of the Arabic, the four has some resemblance to that
+in the Nasik caves, the five (reversed) to that on the K[s.]atrapa coins,
+the nine to that of the Ku[s.]ana inscriptions, and other points of
+similarity have been imagined. Some have traced resemblance between the
+Hieratic five and seven and those of the Indian inscriptions. There have
+not, therefore, been wanting those who asserted an Egyptian origin for
+these numerals.[105] There has already been mentioned the fact that the
+Kharo[s.][t.]h[=i] numerals were formerly known as Bactrian, Indo-Bactrian,
+and Aryan. Cunningham[106] was the first to suggest that these numerals
+were derived from the alphabet of the Bactrian civilization of Eastern
+Persia, perhaps a thousand years before our era, and in this he was
+supported by the scholarly work of Sir E. Clive Bayley,[107] who in turn
+was followed by Canon Taylor.[108] The resemblance has not proved
+convincing, however, and Bayley's drawings {31} have been criticized as
+being affected by his theory. The following is part of the hypothesis:[109]
+
+  _Numeral_      _Hindu_       _Bactrian_       _Sanskrit_
+     4           [Symbol]      [Symbol] = ch    chatur, Lat. quattuor
+     5           [Symbol]      [Symbol] = p     pancha, Gk. [Greek:p/ente]
+     6           [Symbol]      [Symbol] = s     [s.]a[s.]
+     7           [Symbol]      [Symbol] = [s.]  sapta
+     ( the s and [s.] are interchanged as occasionally in N. W. India)
+
+Bühler[110] rejects this hypothesis, stating that in four cases (four, six,
+seven, and ten) the facts are absolutely against it.
+
+While the relation to ancient Bactrian forms has been generally doubted, it
+is agreed that most of the numerals resemble Br[=a]hm[=i] letters, and we
+would naturally expect them to be initials.[111] But, knowing the ancient
+pronunciation of most of the number names,[112] we find this not to be the
+case. We next fall back upon the hypothesis {32} that they represent the
+order of letters[113] in the ancient alphabet. From what we know of this
+order, however, there seems also no basis for this assumption. We have,
+therefore, to confess that we are not certain that the numerals were
+alphabetic at all, and if they were alphabetic we have no evidence at
+present as to the basis of selection. The later forms may possibly have
+been alphabetical expressions of certain syllables called _ak[s.]aras_,
+which possessed in Sanskrit fixed numerical values,[114] but this is
+equally uncertain with the rest. Bayley also thought[115] that some of the
+forms were Phoenician, as notably the use of a circle for twenty, but the
+resemblance is in general too remote to be convincing.
+
+There is also some slight possibility that Chinese influence is to be seen
+in certain of the early forms of Hindu numerals.[116]
+
+{33}
+
+More absurd is the hypothesis of a Greek origin, supposedly supported by
+derivation of the current symbols from the first nine letters of the Greek
+alphabet.[117] This difficult feat is accomplished by twisting some of the
+letters, cutting off, adding on, and effecting other changes to make the
+letters fit the theory. This peculiar theory was first set up by
+Dasypodius[118] (Conrad Rauhfuss), and was later elaborated by Huet.[119]
+
+{34}
+
+A bizarre derivation based upon early Arabic (c. 1040 A.D.) sources is
+given by Kircher in his work[120] on number mysticism. He quotes from
+Abenragel,[121] giving the Arabic and a Latin translation[122] and stating
+that the ordinary Arabic forms are derived from sectors of a circle,
+[circle].
+
+Out of all these conflicting theories, and from all the resemblances seen
+or imagined between the numerals of the West and those of the East, what
+conclusions are we prepared to draw as the evidence now stands? Probably
+none that is satisfactory. Indeed, upon the evidence at {35} hand we might
+properly feel that everything points to the numerals as being substantially
+indigenous to India. And why should this not be the case? If the king
+Srong-tsan-Gampo (639 A.D.), the founder of Lh[=a]sa,[123] could have set
+about to devise a new alphabet for Tibet, and if the Siamese, and the
+Singhalese, and the Burmese, and other peoples in the East, could have
+created alphabets of their own, why should not the numerals also have been
+fashioned by some temple school, or some king, or some merchant guild? By
+way of illustration, there are shown in the table on page 36 certain
+systems of the East, and while a few resemblances are evident, it is also
+evident that the creators of each system endeavored to find original forms
+that should not be found in other systems. This, then, would seem to be a
+fair interpretation of the evidence. A human mind cannot readily create
+simple forms that are absolutely new; what it fashions will naturally
+resemble what other minds have fashioned, or what it has known through
+hearsay or through sight. A circle is one of the world's common stock of
+figures, and that it should mean twenty in Phoenicia and in India is hardly
+more surprising than that it signified ten at one time in Babylon.[124] It
+is therefore quite probable that an extraneous origin cannot be found for
+the very sufficient reason that none exists.
+
+Of absolute nonsense about the origin of the symbols which we use much has
+been written. Conjectures, {36} however, without any historical evidence
+for support, have no place in a serious discussion of the gradual evolution
+of the present numeral forms.[125]
+
+  TABLE OF CERTAIN EASTERN SYSTEMS
+  Siam            [Illustration: numerals]
+  Burma[126]      [Illustration: numerals]
+  Malabar[127]    [Illustration: numerals]
+  Tibet[128]      [Illustration: numerals]
+  Ceylon[129]     [Illustration: numerals]
+  Malayalam[129]  [Illustration: numerals]
+
+{37}
+
+We may summarize this chapter by saying that no one knows what suggested
+certain of the early numeral forms used in India. The origin of some is
+evident, but the origin of others will probably never be known. There is no
+reason why they should not have been invented by some priest or teacher or
+guild, by the order of some king, or as part of the mysticism of some
+temple. Whatever the origin, they were no better than scores of other
+ancient systems and no better than the present Chinese system when written
+without the zero, and there would never have been any chance of their
+triumphal progress westward had it not been for this relatively late
+symbol. There could hardly be demanded a stronger proof of the Hindu origin
+of the character for zero than this, and to it further reference will be
+made in Chapter IV.
+
+
+
+
+{38}
+
+CHAPTER III
+
+LATER HINDU FORMS, WITH A PLACE VALUE
+
+Before speaking of the perfected Hindu numerals with the zero and the place
+value, it is necessary to consider the third system mentioned on page
+19,--the word and letter forms. The use of words with place value began at
+least as early as the 6th century of the Christian era. In many of the
+manuals of astronomy and mathematics, and often in other works in
+mentioning dates, numbers are represented by the names of certain objects
+or ideas. For example, zero is represented by "the void" (_['s][=u]nya_),
+or "heaven-space" (_ambara [=a]k[=a]['s]a_); one by "stick" (_rupa_),
+"moon" (_indu ['s]a['s]in_), "earth" (_bh[=u]_), "beginning" (_[=a]di_),
+"Brahma," or, in general, by anything markedly unique; two by "the twins"
+(_yama_), "hands" (_kara_), "eyes" (_nayana_), etc.; four by "oceans," five
+by "senses" (_vi[s.]aya_) or "arrows" (the five arrows of K[=a]mad[=e]va);
+six by "seasons" or "flavors"; seven by "mountain" (_aga_), and so on.[130]
+These names, accommodating themselves to the verse in which scientific
+works were written, had the additional advantage of not admitting, as did
+the figures, easy alteration, since any change would tend to disturb the
+meter.
+
+{39}
+
+As an example of this system, the date "['S]aka Sa[m.]vat, 867" (A.D. 945
+or 946), is given by "_giri-ra[s.]a-vasu_," meaning "the mountains"
+(seven), "the flavors" (six), and the gods "_Vasu_" of which there were
+eight. In reading the date these are read from right to left.[131] The
+period of invention of this system is uncertain. The first trace seems to
+be in the _['S]rautas[=u]tra_ of K[=a]ty[=a]yana and
+L[=a][t.]y[=a]yana.[132] It was certainly known to Var[=a]ha-Mihira (d.
+587),[133] for he used it in the _B[r.]hat-Sa[m.]hit[=a]._[134] It has also
+been asserted[135] that [=A]ryabha[t.]a (c. 500 A.D.) was familiar with
+this system, but there is nothing to prove the statement.[136] The earliest
+epigraphical examples of the system are found in the Bayang (Cambodia)
+inscriptions of 604 and 624 A.D.[137]
+
+Mention should also be made, in this connection, of a curious system of
+alphabetic numerals that sprang up in southern India. In this we have the
+numerals represented by the letters as given in the following table:
+
+  1        2       3       4       5        6       7      8     9      0
+  k        kh      g       gh      [.n]     c       ch     j     jh     ñ
+  [t.]     [t.]h   [d.]    [d.]h   [n.]     t       th     d     th     n
+  p        ph      b       bh      m
+  y        r       l       v       ['s]     [s.]    s      h      l
+
+{40}
+
+By this plan a numeral might be represented by any one of several letters,
+as shown in the preceding table, and thus it could the more easily be
+formed into a word for mnemonic purposes. For example, the word
+
+    2     3      1     5    6       5       1
+  _kha_ _gont_ _yan_ _me_ _[s.]a_ _m[=a]_ _pa_
+
+has the value 1,565,132, reading from right to left.[138] This, the oldest
+specimen (1184 A.D.) known of this notation, is given in a commentary on
+the Rigveda, representing the number of days that had elapsed from the
+beginning of the Kaliyuga. Burnell[139] states that this system is even yet
+in use for remembering rules to calculate horoscopes, and for astronomical
+tables.
+
+A second system of this kind is still used in the pagination of manuscripts
+in Ceylon, Siam, and Burma, having also had its rise in southern India. In
+this the thirty-four consonants when followed by _a_ (as _ka_ ... _la_)
+designate the numbers 1-34; by _[=a]_ (as _k[=a]_ ... _l[=a]_), those from
+35 to 68; by _i_ (_ki_ ... _li_), those from 69 to 102, inclusive; and so
+on.[140]
+
+As already stated, however, the Hindu system as thus far described was no
+improvement upon many others of the ancients, such as those used by the
+Greeks and the Hebrews. Having no zero, it was impracticable to designate
+the tens, hundreds, and other units of higher order by the same symbols
+used for the units from one to nine. In other words, there was no
+possibility of place value without some further improvement. So the
+N[=a]n[=a] Gh[=a]t {41} symbols required the writing of "thousand seven
+twenty-four" about like T 7, tw, 4 in modern symbols, instead of 7024, in
+which the seven of the thousands, the two of the tens (concealed in the
+word twenty, being originally "twain of tens," the _-ty_ signifying ten),
+and the four of the units are given as spoken and the order of the unit
+(tens, hundreds, etc.) is given by the place. To complete the system only
+the zero was needed; but it was probably eight centuries after the
+N[=a]n[=a] Gh[=a]t inscriptions were cut, before this important symbol
+appeared; and not until a considerably later period did it become well
+known. Who it was to whom the invention is due, or where he lived, or even
+in what century, will probably always remain a mystery.[141] It is possible
+that one of the forms of ancient abacus suggested to some Hindu astronomer
+or mathematician the use of a symbol to stand for the vacant line when the
+counters were removed. It is well established that in different parts of
+India the names of the higher powers took different forms, even the order
+being interchanged.[142] Nevertheless, as the significance of the name of
+the unit was given by the order in reading, these variations did not lead
+to error. Indeed the variation itself may have necessitated the
+introduction of a word to signify a vacant place or lacking unit, with the
+ultimate introduction of a zero symbol for this word.
+
+To enable us to appreciate the force of this argument a large number,
+8,443,682,155, may be considered as the Hindus wrote and read it, and then,
+by way of contrast, as the Greeks and Arabs would have read it.
+
+{42}
+
+_Modern American reading_, 8 billion, 443 million, 682 thousand, 155.
+
+_Hindu_, 8 padmas, 4 vyarbudas, 4 k[=o][t.]is, 3 prayutas, 6 lak[s.]as, 8
+ayutas, 2 sahasra, 1 ['s]ata, 5 da['s]an, 5.
+
+_Arabic and early German_, eight thousand thousand thousand and four
+hundred thousand thousand and forty-three thousand thousand, and six
+hundred thousand and eighty-two thousand and one hundred fifty-five (or
+five and fifty).
+
+_Greek_, eighty-four myriads of myriads and four thousand three hundred
+sixty-eight myriads and two thousand and one hundred fifty-five.
+
+As Woepcke[143] pointed out, the reading of numbers of this kind shows that
+the notation adopted by the Hindus tended to bring out the place idea. No
+other language than the Sanskrit has made such consistent application, in
+numeration, of the decimal system of numbers. The introduction of myriads
+as in the Greek, and thousands as in Arabic and in modern numeration, is
+really a step away from a decimal scheme. So in the numbers below one
+hundred, in English, eleven and twelve are out of harmony with the rest of
+the -teens, while the naming of all the numbers between ten and twenty is
+not analogous to the naming of the numbers above twenty. To conform to our
+written system we should have ten-one, ten-two, ten-three, and so on, as we
+have twenty-one, twenty-two, and the like. The Sanskrit is consistent, the
+units, however, preceding the tens and hundreds. Nor did any other ancient
+people carry the numeration as far as did the Hindus.[144]
+
+{43}
+
+When the _a[.n]kapalli_,[145] the decimal-place system of writing numbers,
+was perfected, the tenth symbol was called the _['s][=u]nyabindu_,
+generally shortened to _['s][=u]nya_ (the void). Brockhaus[146] has well
+said that if there was any invention for which the Hindus, by all their
+philosophy and religion, were well fitted, it was the invention of a symbol
+for zero. This making of nothingness the crux of a tremendous achievement
+was a step in complete harmony with the genius of the Hindu.
+
+It is generally thought that this _['s][=u]nya_ as a symbol was not used
+before about 500 A.D., although some writers have placed it earlier.[147]
+Since [=A]ryabha[t.]a gives our common method of extracting roots, it would
+seem that he may have known a decimal notation,[148] although he did not
+use the characters from which our numerals are derived.[149] Moreover, he
+frequently speaks of the {44} void.[150] If he refers to a symbol this
+would put the zero as far back as 500 A.D., but of course he may have
+referred merely to the concept of nothingness.
+
+A little later, but also in the sixth century, Var[=a]ha-Mihira[151] wrote
+a work entitled _B[r.]hat Sa[m.]hit[=a]_[152] in which he frequently uses
+_['s][=u]nya_ in speaking of numerals, so that it has been thought that he
+was referring to a definite symbol. This, of course, would add to the
+probability that [=A]ryabha[t.]a was doing the same.
+
+It should also be mentioned as a matter of interest, and somewhat related
+to the question at issue, that Var[=a]ha-Mihira used the word-system with
+place value[153] as explained above.
+
+The first kind of alphabetic numerals and also the word-system (in both of
+which the place value is used) are plays upon, or variations of, position
+arithmetic, which would be most likely to occur in the country of its
+origin.[154]
+
+At the opening of the next century (c. 620 A.D.) B[=a][n.]a[155] wrote of
+Subandhus's _V[=a]savadatt[=a]_ as a celebrated work, {45} and mentioned
+that the stars dotting the sky are here compared with zeros, these being
+points as in the modern Arabic system. On the other hand, a strong argument
+against any Hindu knowledge of the symbol zero at this time is the fact
+that about 700 A.D. the Arabs overran the province of Sind and thus had an
+opportunity of knowing the common methods used there for writing numbers.
+And yet, when they received the complete system in 776 they looked upon it
+as something new.[156] Such evidence is not conclusive, but it tends to
+show that the complete system was probably not in common use in India at
+the beginning of the eighth century. On the other hand, we must bear in
+mind the fact that a traveler in Germany in the year 1700 would probably
+have heard or seen nothing of decimal fractions, although these were
+perfected a century before that date. The élite of the mathematicians may
+have known the zero even in [=A]ryabha[t.]a's time, while the merchants and
+the common people may not have grasped the significance of the novelty
+until a long time after. On the whole, the evidence seems to point to the
+west coast of India as the region where the complete system was first
+seen.[157] As mentioned above, traces of the numeral words with place
+value, which do not, however, absolutely require a decimal place-system of
+symbols, are found very early in Cambodia, as well as in India.
+
+Concerning the earliest epigraphical instances of the use of the nine
+symbols, plus the zero, with place value, there {46} is some question.
+Colebrooke[158] in 1807 warned against the possibility of forgery in many
+of the ancient copper-plate land grants. On this account Fleet, in the
+_Indian Antiquary_,[159] discusses at length this phase of the work of the
+epigraphists in India, holding that many of these forgeries were made about
+the end of the eleventh century. Colebrooke[160] takes a more rational view
+of these forgeries than does Kaye, who seems to hold that they tend to
+invalidate the whole Indian hypothesis. "But even where that may be
+suspected, the historical uses of a monument fabricated so much nearer to
+the times to which it assumes to belong, will not be entirely superseded.
+The necessity of rendering the forged grant credible would compel a
+fabricator to adhere to history, and conform to established notions: and
+the tradition, which prevailed in his time, and by which he must be guided,
+would probably be so much nearer to the truth, as it was less remote from
+the period which it concerned."[161] Bühler[162] gives the copper-plate
+Gurjara inscription of Cedi-sa[m.]vat 346 (595 A.D.) as the oldest
+epigraphical use of the numerals[163] "in which the symbols correspond to
+the alphabet numerals of the period and the place." Vincent A. Smith[164]
+quotes a stone inscription of 815 A.D., dated Sa[m.]vat 872. So F. Kielhorn
+in the _Epigraphia Indica_[165] gives a Pathari pillar inscription of
+Parabala, dated Vikrama-sa[m.]vat 917, which corresponds to 861 A.D., {47}
+and refers also to another copper-plate inscription dated Vikrama-sa[m.]vat
+813 (756 A.D.). The inscription quoted by V. A. Smith above is that given
+by D. R. Bhandarkar,[166] and another is given by the same writer as of
+date Saka-sa[m.]vat 715 (798 A.D.), being incised on a pilaster.
+Kielhorn[167] also gives two copper-plate inscriptions of the time of
+Mahendrapala of Kanauj, Valhab[=i]-sa[m.]vat 574 (893 A.D.) and
+Vikrama-sa[m.]vat 956 (899 A.D.). That there should be any inscriptions of
+date as early even as 750 A.D., would tend to show that the system was at
+least a century older. As will be shown in the further development, it was
+more than two centuries after the introduction of the numerals into Europe
+that they appeared there upon coins and inscriptions. While Thibaut[168]
+does not consider it necessary to quote any specific instances of the use
+of the numerals, he states that traces are found from 590 A.D. on. "That
+the system now in use by all civilized nations is of Hindu origin cannot be
+doubted; no other nation has any claim upon its discovery, especially since
+the references to the origin of the system which are found in the nations
+of western Asia point unanimously towards India."[169]
+
+The testimony and opinions of men like Bühler, Kielhorn, V. A. Smith,
+Bhandarkar, and Thibaut are entitled to the most serious consideration. As
+authorities on ancient Indian epigraphy no others rank higher. Their work
+is accepted by Indian scholars the world over, and their united judgment as
+to the rise of the system with a place value--that it took place in India
+as early as the {48} sixth century A.D.--must stand unless new evidence of
+great weight can be submitted to the contrary.
+
+Many early writers remarked upon the diversity of Indian numeral forms.
+Al-B[=i]r[=u]n[=i] was probably the first; noteworthy is also Johannes
+Hispalensis,[170] who gives the variant forms for seven and four. We insert
+on p. 49 a table of numerals used with place value. While the chief
+authority for this is Bühler,[171] several specimens are given which are
+not found in his work and which are of unusual interest.
+
+The ['S][=a]rad[=a] forms given in the table use the circle as a symbol for
+1 and the dot for zero. They are taken from the paging and text of _The
+Kashmirian Atharva-Veda_[172], of which the manuscript used is certainly
+four hundred years old. Similar forms are found in a manuscript belonging
+to the University of Tübingen. Two other series presented are from Tibetan
+books in the library of one of the authors.
+
+For purposes of comparison the modern Sanskrit and Arabic numeral forms are
+added.
+
+  Sanskrit, [Illustration]
+  Arabic, [Illustration]
+
+{49}
+
+NUMERALS USED WITH PLACE VALUE
+
+      1  2  3  4  5  6  7  8  9  0
+  a[173] [Illustration]
+  b[174] [Illustration]
+  c[175] [Illustration]
+  d[176] [Illustration]
+  e[177] [Illustration]
+  f[178] [Illustration]
+  g[179] [Illustration]
+  h[180] [Illustration]
+  i[180] [Illustration]
+  j[181] [Illustration]
+  k[181] [Illustration]
+  l[182] [Illustration]
+  m[183] [Illustration]
+  n[184] [Illustration]
+
+
+
+
+{51}
+
+CHAPTER IV
+
+THE SYMBOL ZERO
+
+What has been said of the improved Hindu system with a place value does not
+touch directly the origin of a symbol for zero, although it assumes that
+such a symbol exists. The importance of such a sign, the fact that it is a
+prerequisite to a place-value system, and the further fact that without it
+the Hindu-Arabic numerals would never have dominated the computation system
+of the western world, make it proper to devote a chapter to its origin and
+history.
+
+It was some centuries after the primitive Br[=a]hm[=i] and
+Kharo[s.][t.]h[=i] numerals had made their appearance in India that the
+zero first appeared there, although such a character was used by the
+Babylonians[185] in the centuries immediately preceding the Christian era.
+The symbol is [Babylonian zero symbol] or [Babylonian zero symbol], and
+apparently it was not used in calculation. Nor does it always occur when
+units of any order are lacking; thus 180 is written [Babylonian numerals
+180] with the meaning three sixties and no units, since 181 immediately
+following is [Babylonian numerals 181], three sixties and one unit.[186]
+The main {52} use of this Babylonian symbol seems to have been in the
+fractions, 60ths, 3600ths, etc., and somewhat similar to the Greek use of
+[Greek: o], for [Greek: ouden], with the meaning _vacant_.
+
+"The earliest undoubted occurrence of a zero in India is an inscription at
+Gwalior, dated Samvat 933 (876 A.D.). Where 50 garlands are mentioned (line
+20), 50 is written [Gwalior numerals 50]. 270 (line 4) is written [Gwalior
+numerals 270]."[187] The Bakh[s.][=a]l[=i] Manuscript[188] probably
+antedates this, using the point or dot as a zero symbol. Bayley mentions a
+grant of Jaika Rashtrakúta of Bharuj, found at Okamandel, of date 738 A.D.,
+which contains a zero, and also a coin with indistinct Gupta date 707 (897
+A.D.), but the reliability of Bayley's work is questioned. As has been
+noted, the appearance of the numerals in inscriptions and on coins would be
+of much later occurrence than the origin and written exposition of the
+system. From the period mentioned the spread was rapid over all of India,
+save the southern part, where the Tamil and Malayalam people retain the old
+system even to the present day.[189]
+
+Aside from its appearance in early inscriptions, there is still another
+indication of the Hindu origin of the symbol in the special treatment of
+the concept zero in the early works on arithmetic. Brahmagupta, who lived
+in Ujjain, the center of Indian astronomy,[190] in the early part {53} of
+the seventh century, gives in his arithmetic[191] a distinct treatment of
+the properties of zero. He does not discuss a symbol, but he shows by his
+treatment that in some way zero had acquired a special significance not
+found in the Greek or other ancient arithmetics. A still more scientific
+treatment is given by Bh[=a]skara,[192] although in one place he permits
+himself an unallowed liberty in dividing by zero. The most recently
+discovered work of ancient Indian mathematical lore, the
+Ganita-S[=a]ra-Sa[.n]graha[193] of Mah[=a]v[=i]r[=a]c[=a]rya (c. 830 A.D.),
+while it does not use the numerals with place value, has a similar
+discussion of the calculation with zero.
+
+What suggested the form for the zero is, of course, purely a matter of
+conjecture. The dot, which the Hindus used to fill up lacunæ in their
+manuscripts, much as we indicate a break in a sentence,[194] would have
+been a more natural symbol; and this is the one which the Hindus first
+used[195] and which most Arabs use to-day. There was also used for this
+purpose a cross, like our X, and this is occasionally found as a zero
+symbol.[196] In the Bakh[s.][=a]l[=i] manuscript above mentioned, the word
+_['s][=u]nya_, with the dot as its symbol, is used to denote the unknown
+quantity, as well as to denote zero. An analogous use of the {54} zero, for
+the unknown quantity in a proportion, appears in a Latin manuscript of some
+lectures by Gottfried Wolack in the University of Erfurt in 1467 and
+1468.[197] The usage was noted even as early as the eighteenth
+century.[198]
+
+The small circle was possibly suggested by the spurred circle which was
+used for ten.[199] It has also been thought that the omicron used by
+Ptolemy in his _Almagest_, to mark accidental blanks in the sexagesimal
+system which he employed, may have influenced the Indian writers.[200] This
+symbol was used quite generally in Europe and Asia, and the Arabic
+astronomer Al-Batt[=a]n[=i][201] (died 929 A.D.) used a similar symbol in
+connection with the alphabetic system of numerals. The occasional use by
+Al-Batt[=a]n[=i] of the Arabic negative, _l[=a]_, to indicate the absence
+of minutes {55} (or seconds), is noted by Nallino.[202] Noteworthy is also
+the use of the [Circle] for unity in the ['S][=a]rad[=a] characters of the
+Kashmirian Atharva-Veda, the writing being at least 400 years old.
+Bh[=a]skara (c. 1150) used a small circle above a number to indicate
+subtraction, and in the Tartar writing a redundant word is removed by
+drawing an oval around it. It would be interesting to know whether our
+score mark [score mark], read "four in the hole," could trace its pedigree
+to the same sources. O'Creat[203] (c. 1130), in a letter to his teacher,
+Adelhard of Bath, uses [Greek: t] for zero, being an abbreviation for the
+word _teca_ which we shall see was one of the names used for zero, although
+it could quite as well be from [Greek: tziphra]. More rarely O'Creat uses
+[circle with bar], applying the name _cyfra_ to both forms. Frater
+Sigsboto[204] (c. 1150) uses the same symbol. Other peculiar forms are
+noted by Heiberg[205] as being in use among the Byzantine Greeks in the
+fifteenth century. It is evident from the text that some of these writers
+did not understand the import of the new system.[206]
+
+Although the dot was used at first in India, as noted above, the small
+circle later replaced it and continues in use to this day. The Arabs,
+however, did not adopt the {56} circle, since it bore some resemblance to
+the letter which expressed the number five in the alphabet system.[207] The
+earliest Arabic zero known is the dot, used in a manuscript of 873
+A.D.[208] Sometimes both the dot and the circle are used in the same work,
+having the same meaning, which is the case in an Arabic MS., an abridged
+arithmetic of Jamshid,[209] 982 A.H. (1575 A.D.). As given in this work the
+numerals are [symbols]. The form for 5 varies, in some works becoming
+[symbol] or [symbol]; [symbol] is found in Egypt and [symbol] appears in
+some fonts of type. To-day the Arabs use the 0 only when, under European
+influence, they adopt the ordinary system. Among the Chinese the first
+definite trace of zero is in the work of Tsin[210] of 1247 A.D. The form is
+the circular one of the Hindus, and undoubtedly was brought to China by
+some traveler.
+
+The name of this all-important symbol also demands some attention,
+especially as we are even yet quite undecided as to what to call it. We
+speak of it to-day as _zero, naught_, and even _cipher_; the telephone
+operator often calls it _O_, and the illiterate or careless person calls it
+_aught_. In view of all this uncertainty we may well inquire what it has
+been called in the past.[211]
+
+{57}
+
+As already stated, the Hindus called it _['s][=u]nya_, "void."[212] This
+passed over into the Arabic as _a[s.]-[s.]ifr_ or _[s.]ifr_.[213] When
+Leonard of Pisa (1202) wrote upon the Hindu numerals he spoke of this
+character as _zephirum_.[214] Maximus Planudes (1330), writing under both
+the Greek and the Arabic influence, called it _tziphra_.[215] In a treatise
+on arithmetic written in the Italian language by Jacob of Florence[216]
+{58} (1307) it is called _zeuero_,[217] while in an arithmetic of Giovanni
+di Danti of Arezzo (1370) the word appears as _çeuero_.[218] Another form
+is _zepiro_,[219] which was also a step from _zephirum_ to zero.[220]
+
+Of course the English _cipher_, French _chiffre_, is derived from the same
+Arabic word, _a[s.]-[s.]ifr_, but in several languages it has come to mean
+the numeral figures in general. A trace of this appears in our word
+_ciphering_, meaning figuring or computing.[221] Johann Huswirt[222] uses
+the word with both meanings; he gives for the tenth character the four
+names _theca, circulus, cifra_, and _figura nihili_. In this statement
+Huswirt probably follows, as did many writers of that period, the
+_Algorismus_ of Johannes de Sacrobosco (c. 1250 A.D.), who was also known
+as John of Halifax or John of Holywood. The commentary of {59} Petrus de
+Dacia[223] (c. 1291 A.D.) on the _Algorismus vulgaris_ of Sacrobosco was
+also widely used. The widespread use of this Englishman's work on
+arithmetic in the universities of that time is attested by the large
+number[224] of MSS. from the thirteenth to the seventeenth century still
+extant, twenty in Munich, twelve in Vienna, thirteen in Erfurt, several in
+England given by Halliwell,[225] ten listed in Coxe's _Catalogue of the
+Oxford College Library_, one in the Plimpton collection,[226] one in the
+Columbia University Library, and, of course, many others.
+
+From _a[s.]-[s.]ifr _has come _zephyr, cipher,_ and finally the abridged
+form _zero_. The earliest printed work in which is found this final form
+appears to be Calandri's arithmetic of 1491,[227] while in manuscript it
+appears at least as early as the middle of the fourteenth century.[228] It
+also appears in a work, _Le Kadran des marchans_, by Jehan {60}
+Certain,[229] written in 1485. This word soon became fairly well known in
+Spain[230] and France.[231] The medieval writers also spoke of it as the
+_sipos_,[232] and occasionally as the _wheel_,[233] _circulus_[234] (in
+German _das Ringlein_[235]), _circular {61} note_,[236] _theca_,[237] long
+supposed to be from its resemblance to the Greek theta, but explained by
+Petrus de Dacia as being derived from the name of the iron[238] used to
+brand thieves and robbers with a circular mark placed on the forehead or on
+the cheek. It was also called _omicron_[239] (the Greek _o_), being
+sometimes written õ or [Greek: ph] to distinguish it from the letter _o_.
+It also went by the name _null_[240] (in the Latin books {62} _nihil_[241]
+or _nulla_,[242] and in the French _rien_[243]), and very commonly by the
+name _cipher_.[244] Wallis[245] gives one of the earliest extended
+discussions of the various forms of the word, giving certain other
+variations worthy of note, as _ziphra_, _zifera_, _siphra_, _ciphra_,
+_tsiphra_, _tziphra,_ and the Greek [Greek: tziphra].[246]
+
+
+
+
+{63}
+
+CHAPTER V
+
+THE QUESTION OF THE INTRODUCTION OF THE NUMERALS INTO EUROPE BY BOETHIUS
+
+Just as we were quite uncertain as to the origin of the numeral forms, so
+too are we uncertain as to the time and place of their introduction into
+Europe. There are two general theories as to this introduction. The first
+is that they were carried by the Moors to Spain in the eighth or ninth
+century, and thence were transmitted to Christian Europe, a theory which
+will be considered later. The second, advanced by Woepcke,[247] is that
+they were not brought to Spain by the Moors, but that they were already in
+Spain when the Arabs arrived there, having reached the West through the
+Neo-Pythagoreans. There are two facts to support this second theory: (1)
+the forms of these numerals are characteristic, differing materially from
+those which were brought by Leonardo of Pisa from Northern Africa early in
+the thirteenth century (before 1202 A.D.); (2) they are essentially those
+which {64} tradition has so persistently assigned to Boethius (c. 500
+A.D.), and which he would naturally have received, if at all, from these
+same Neo-Pythagoreans or from the sources from which they derived them.
+Furthermore, Woepcke points out that the Arabs on entering Spain (711 A.D.)
+would naturally have followed their custom of adopting for the computation
+of taxes the numerical systems of the countries they conquered,[248] so
+that the numerals brought from Spain to Italy, not having undergone the
+same modifications as those of the Eastern Arab empire, would have
+differed, as they certainly did, from those that came through Bagdad. The
+theory is that the Hindu system, without the zero, early reached Alexandria
+(say 450 A.D.), and that the Neo-Pythagorean love for the mysterious and
+especially for the Oriental led to its use as something bizarre and
+cabalistic; that it was then passed along the Mediterranean, reaching
+Boethius in Athens or in Rome, and to the schools of Spain, being
+discovered in Africa and Spain by the Arabs even before they themselves
+knew the improved system with the place value.
+
+{65}
+
+A recent theory set forth by Bubnov[249] also deserves mention, chiefly
+because of the seriousness of purpose shown by this well-known writer.
+Bubnov holds that the forms first found in Europe are derived from ancient
+symbols used on the abacus, but that the zero is of Hindu origin. This
+theory does not seem tenable, however, in the light of the evidence already
+set forth.
+
+Two questions are presented by Woepcke's theory: (1) What was the nature of
+these Spanish numerals, and how were they made known to Italy? (2) Did
+Boethius know them?
+
+The Spanish forms of the numerals were called the _[h.]ur[=u]f
+al-[.g]ob[=a]r_, the [.g]ob[=a]r or dust numerals, as distinguished from
+the _[h.]ur[=u]f al-jumal_ or alphabetic numerals. Probably the latter,
+under the influence of the Syrians or Jews,[250] were also used by the
+Arabs. The significance of the term [.g]ob[=a]r is doubtless that these
+numerals were written on the dust abacus, this plan being distinct from the
+counter method of representing numbers. It is also worthy of note that
+Al-B[=i]r[=u]n[=i] states that the Hindus often performed numerical
+computations in the sand. The term is found as early as c. 950, in the
+verses of an anonymous writer of Kairw[=a]n, in Tunis, in which the author
+speaks of one of his works on [.g]ob[=a]r calculation;[251] and, much
+later, the Arab writer Ab[=u] Bekr Mo[h.]ammed ibn `Abdall[=a]h, surnamed
+al-[H.]a[s.][s.][=a]r {66} (the arithmetician), wrote a work of which the
+second chapter was "On the dust figures."[252]
+
+The [.g]ob[=a]r numerals themselves were first made known to modern
+scholars by Silvestre de Sacy, who discovered them in an Arabic manuscript
+from the library of the ancient abbey of St.-Germain-des-Prés.[253] The
+system has nine characters, but no zero. A dot above a character indicates
+tens, two dots hundreds, and so on, [5 with dot] meaning 50, and [5 with 3
+dots] meaning 5000. It has been suggested that possibly these dots,
+sprinkled like dust above the numerals, gave rise to the word
+_[.g]ob[=a]r_,[254] but this is not at all probable. This system of dots is
+found in Persia at a much later date with numerals quite like the modern
+Arabic;[255] but that it was used at all is significant, for it is hardly
+likely that the western system would go back to Persia, when the perfected
+Hindu one was near at hand.
+
+At first sight there would seem to be some reason for believing that this
+feature of the [.g]ob[=a]r system was of {67} Arabic origin, and that the
+present zero of these people,[256] the dot, was derived from it. It was
+entirely natural that the Semitic people generally should have adopted such
+a scheme, since their diacritical marks would suggest it, not to speak of
+the possible influence of the Greek accents in the Hellenic number system.
+When we consider, however, that the dot is found for zero in the
+Bakh[s.][=a]l[=i] manuscript,[257] and that it was used in subscript form
+in the _Kit[=a]b al-Fihrist_[258] in the tenth century, and as late as the
+sixteenth century,[259] although in this case probably under Arabic
+influence, we are forced to believe that this form may also have been of
+Hindu origin.
+
+The fact seems to be that, as already stated,[260] the Arabs did not
+immediately adopt the Hindu zero, because it resembled their 5; they used
+the superscript dot as serving their purposes fairly well; they may,
+indeed, have carried this to the west and have added it to the [.g]ob[=a]r
+forms already there, just as they transmitted it to the Persians.
+Furthermore, the Arab and Hebrew scholars of Northern Africa in the tenth
+century knew these numerals as Indian forms, for a commentary on the
+_S[=e]fer Ye[s.][=i]r[=a]h_ by Ab[=u] Sahl ibn Tamim (probably composed at
+Kairw[=a]n, c. 950) speaks of "the Indian arithmetic known under the name
+of _[.g]ob[=a]r_ or dust calculation."[261] All this suggests that the
+Arabs may very {68} likely have known the [.g]ob[=a]r forms before the
+numerals reached them again in 773.[262] The term "[.g]ob[=a]r numerals"
+was also used without any reference to the peculiar use of dots.[263] In
+this connection it is worthy of mention that the Algerians employed two
+different forms of numerals in manuscripts even of the fourteenth
+century,[264] and that the Moroccans of to-day employ the European forms
+instead of the present Arabic.
+
+The Indian use of subscript dots to indicate the tens, hundreds, thousands,
+etc., is established by a passage in the _Kit[=a]b al-Fihrist_[265] (987
+A.D.) in which the writer discusses the written language of the people of
+India. Notwithstanding the importance of this reference for the early
+history of the numerals, it has not been mentioned by previous writers on
+this subject. The numeral forms given are those which have usually been
+called Indian,[266] in opposition to [.g]ob[=a]r. In this document the dots
+are placed below the characters, instead of being superposed as described
+above. The significance was the same.
+
+In form these [.g]ob[=a]r numerals resemble our own much more closely than
+the Arab numerals do. They varied more or less, but were substantially as
+follows:
+
+{69}
+
+  1[267][Illustration]
+  2[268][Illustration]
+  3[269][Illustration]
+  4[270][Illustration]
+  5[271][Illustration]
+  6[271][Illustration]
+
+The question of the possible influence of the Egyptian demotic and hieratic
+ordinal forms has been so often suggested that it seems well to introduce
+them at this point, for comparison with the [.g]ob[=a]r forms. They would
+as appropriately be used in connection with the Hindu forms, and the
+evidence of a relation of the first three with all these systems is
+apparent. The only further resemblance is in the Demotic 4 and in the 9, so
+that the statement that the Hindu forms in general came from {70} this
+source has no foundation. The first four Egyptian cardinal numerals[272]
+resemble more the modern Arabic.
+
+[Illustration: DEMOTIC AND HIERATIC ORDINALS]
+
+This theory of the very early introduction of the numerals into Europe
+fails in several points. In the first place the early Western forms are not
+known; in the second place some early Eastern forms are like the
+[.g]ob[=a]r, as is seen in the third line on p. 69, where the forms are
+from a manuscript written at Shiraz about 970 A.D., and in which some
+western Arabic forms, e.g. [symbol] for 2, are also used. Probably most
+significant of all is the fact that the [.g]ob[=a]r numerals as given by
+Sacy are all, with the exception of the symbol for eight, either single
+Arabic letters or combinations of letters. So much for the Woepcke theory
+and the meaning of the [.g]ob[=a]r numerals. We now have to consider the
+question as to whether Boethius knew these [.g]ob[=a]r forms, or forms akin
+to them.
+
+This large question[273] suggests several minor ones: (1) Who was Boethius?
+(2) Could he have known these numerals? (3) Is there any positive or strong
+circumstantial evidence that he did know them? (4) What are the
+probabilities in the case?
+
+{71}
+
+First, who was Boethius,--Divus[274] Boethius as he was called in the
+Middle Ages? Anicius Manlius Severinus Boethius[275] was born at Rome c.
+475. He was a member of the distinguished family of the Anicii,[276] which
+had for some time before his birth been Christian. Early left an orphan,
+the tradition is that he was taken to Athens at about the age of ten, and
+that he remained there eighteen years.[277] He married Rusticiana, daughter
+of the senator Symmachus, and this union of two such powerful families
+allowed him to move in the highest circles.[278] Standing strictly for the
+right, and against all iniquity at court, he became the object of hatred on
+the part of all the unscrupulous element near the throne, and his bold
+defense of the ex-consul Albinus, unjustly accused of treason, led to his
+imprisonment at Pavia[279] and his execution in 524.[280] Not many
+generations after his death, the period being one in which historical
+criticism was at its lowest ebb, the church found it profitable to look
+upon his execution as a martyrdom.[281] He was {72} accordingly looked upon
+as a saint,[282] his bones were enshrined,[283] and as a natural
+consequence his books were among the classics in the church schools for a
+thousand years.[284] It is pathetic, however, to think of the medieval
+student trying to extract mental nourishment from a work so abstract, so
+meaningless, so unnecessarily complicated, as the arithmetic of Boethius.
+
+He was looked upon by his contemporaries and immediate successors as a
+master, for Cassiodorus[285] (c. 490-c. 585 A.D.) says to him: "Through
+your translations the music of Pythagoras and the astronomy of Ptolemy are
+read by those of Italy, and the arithmetic of Nicomachus and the geometry
+of Euclid are known to those of the West."[286] Founder of the medieval
+scholasticism, {73} distinguishing the trivium and quadrivium,[287] writing
+the only classics of his time, Gibbon well called him "the last of the
+Romans whom Cato or Tully could have acknowledged for their
+countryman."[288]
+
+The second question relating to Boethius is this: Could he possibly have
+known the Hindu numerals? In view of the relations that will be shown to
+have existed between the East and the West, there can only be an
+affirmative answer to this question. The numerals had existed, without the
+zero, for several centuries; they had been well known in India; there had
+been a continued interchange of thought between the East and West; and
+warriors, ambassadors, scholars, and the restless trader, all had gone back
+and forth, by land or more frequently by sea, between the Mediterranean
+lands and the centers of Indian commerce and culture. Boethius could very
+well have learned one or more forms of Hindu numerals from some traveler or
+merchant.
+
+To justify this statement it is necessary to speak more fully of these
+relations between the Far East and Europe. It is true that we have no
+records of the interchange of learning, in any large way, between eastern
+Asia and central Europe in the century preceding the time of Boethius. But
+it is one of the mistakes of scholars to believe that they are the sole
+transmitters of knowledge. {74} As a matter of fact there is abundant
+reason for believing that Hindu numerals would naturally have been known to
+the Arabs, and even along every trade route to the remote west, long before
+the zero entered to make their place-value possible, and that the
+characters, the methods of calculating, the improvements that took place
+from time to time, the zero when it appeared, and the customs as to solving
+business problems, would all have been made known from generation to
+generation along these same trade routes from the Orient to the Occident.
+It must always be kept in mind that it was to the tradesman and the
+wandering scholar that the spread of such learning was due, rather than to
+the school man. Indeed, Avicenna[289] (980-1037 A.D.) in a short biography
+of himself relates that when his people were living at Bokh[=a]ra his
+father sent him to the house of a grocer to learn the Hindu art of
+reckoning, in which this grocer (oil dealer, possibly) was expert. Leonardo
+of Pisa, too, had a similar training.
+
+The whole question of this spread of mercantile knowledge along the trade
+routes is so connected with the [.g]ob[=a]r numerals, the Boethius
+question, Gerbert, Leonardo of Pisa, and other names and events, that a
+digression for its consideration now becomes necessary.[290]
+
+{75}
+
+Even in very remote times, before the Hindu numerals were sculptured in the
+cave of N[=a]n[=a] Gh[=a]t, there were trade relations between Arabia and
+India. Indeed, long before the Aryans went to India the great Turanian race
+had spread its civilization from the Mediterranean to the Indus.[291] At a
+much later period the Arabs were the intermediaries between Egypt and Syria
+on the west, and the farther Orient.[292] In the sixth century B.C.,
+Hecatæus,[293] the father of geography, was acquainted not only with the
+Mediterranean lands but with the countries as far as the Indus,[294] and in
+Biblical times there were regular triennial voyages to India. Indeed, the
+story of Joseph bears witness to the caravan trade from India, across
+Arabia, and on to the banks of the Nile. About the same time as Hecatæus,
+Scylax, a Persian admiral under Darius, from Caryanda on the coast of Asia
+Minor, traveled to {76} northwest India and wrote upon his ventures.[295]
+He induced the nations along the Indus to acknowledge the Persian
+supremacy, and such number systems as there were in these lands would
+naturally have been known to a man of his attainments.
+
+A century after Scylax, Herodotus showed considerable knowledge of India,
+speaking of its cotton and its gold,[296] telling how Sesostris[297] fitted
+out ships to sail to that country, and mentioning the routes to the east.
+These routes were generally by the Red Sea, and had been followed by the
+Phoenicians and the Sabæans, and later were taken by the Greeks and
+Romans.[298]
+
+In the fourth century B.C. the West and East came into very close
+relations. As early as 330, Pytheas of Massilia (Marseilles) had explored
+as far north as the northern end of the British Isles and the coasts of the
+German Sea, while Macedon, in close touch with southern France, was also
+sending her armies under Alexander[299] through Afghanistan as far east as
+the Punjab.[300] Pliny tells us that Alexander the Great employed surveyors
+to measure {77} the roads of India; and one of the great highways is
+described by Megasthenes, who in 295 B.C., as the ambassador of Seleucus,
+resided at P[=a]tal[=i]pu[t.]ra, the present Patna.[301]
+
+The Hindus also learned the art of coining from the Greeks, or possibly
+from the Chinese, and the stores of Greco-Hindu coins still found in
+northern India are a constant source of historical information.[302] The
+R[=a]m[=a]yana speaks of merchants traveling in great caravans and
+embarking by sea for foreign lands.[303] Ceylon traded with Malacca and
+Siam, and Java was colonized by Hindu traders, so that mercantile knowledge
+was being spread about the Indies during all the formative period of the
+numerals.
+
+Moreover the results of the early Greek invasion were embodied by
+Dicæarchus of Messana (about 320 B.C.) in a map that long remained a
+standard. Furthermore, Alexander did not allow his influence on the East to
+cease. He divided India into three satrapies,[304] placing Greek governors
+over two of them and leaving a Hindu ruler in charge of the third, and in
+Bactriana, a part of Ariana or ancient Persia, he left governors; and in
+these the western civilization was long in evidence. Some of the Greek and
+Roman metrical and astronomical terms {78} found their way, doubtless at
+this time, into the Sanskrit language.[305] Even as late as from the second
+to the fifth centuries A.D., Indian coins showed the Hellenic influence.
+The Hindu astronomical terminology reveals the same relationship to western
+thought, for Var[=a]ha-Mihira (6th century A.D.), a contemporary of
+[=A]ryabha[t.]a, entitled a work of his the _B[r.]hat-Sa[m.]hit[=a]_, a
+literal translation of [Greek: megalê suntaxis] of Ptolemy;[306] and in
+various ways is this interchange of ideas apparent.[307] It could not have
+been at all unusual for the ancient Greeks to go to India, for Strabo lays
+down the route, saying that all who make the journey start from Ephesus and
+traverse Phrygia and Cappadocia before taking the direct road.[308] The
+products of the East were always finding their way to the West, the Greeks
+getting their ginger[309] from Malabar, as the Phoenicians had long before
+brought gold from Malacca.
+
+Greece must also have had early relations with China, for there is a
+notable similarity between the Greek and Chinese life, as is shown in their
+houses, their domestic customs, their marriage ceremonies, the public
+story-tellers, the puppet shows which Herodotus says were introduced from
+Egypt, the street jugglers, the games of dice,[310] the game of
+finger-guessing,[311] the water clock, the {79} music system, the use of
+the myriad,[312] the calendars, and in many other ways.[313] In passing
+through the suburbs of Peking to-day, on the way to the Great Bell temple,
+one is constantly reminded of the semi-Greek architecture of Pompeii, so
+closely does modern China touch the old classical civilization of the
+Mediterranean. The Chinese historians tell us that about 200 B.C. their
+arms were successful in the far west, and that in 180 B.C. an ambassador
+went to Bactria, then a Greek city, and reported that Chinese products were
+on sale in the markets there.[314] There is also a noteworthy resemblance
+between certain Greek and Chinese words,[315] showing that in remote times
+there must have been more or less interchange of thought.
+
+The Romans also exchanged products with the East. Horace says, "A busy
+trader, you hasten to the farthest Indies, flying from poverty over sea,
+over crags, over fires."[316] The products of the Orient, spices and jewels
+from India, frankincense from Persia, and silks from China, being more in
+demand than the exports from the Mediterranean lands, the balance of trade
+was against the West, and thus Roman coin found its way eastward. In 1898,
+for example, a number of Roman coins dating from 114 B.C. to Hadrian's time
+were found at Pakl[=i], a part of the Haz[=a]ra district, sixteen miles
+north of Abbott[=a]b[=a]d,[317] and numerous similar discoveries have been
+made from time to time.
+
+{80}
+
+Augustus speaks of envoys received by him from India, a thing never before
+known,[318] and it is not improbable that he also received an embassy from
+China.[319] Suetonius (first century A.D.) speaks in his history of these
+relations,[320] as do several of his contemporaries,[321] and Vergil[322]
+tells of Augustus doing battle in Persia. In Pliny's time the trade of the
+Roman Empire with Asia amounted to a million and a quarter dollars a year,
+a sum far greater relatively then than now,[323] while by the time of
+Constantine Europe was in direct communication with the Far East.[324]
+
+In view of these relations it is not beyond the range of possibility that
+proof may sometime come to light to show that the Greeks and Romans knew
+something of the {81} number system of India, as several writers have
+maintained.[325]
+
+Returning to the East, there are many evidences of the spread of knowledge
+in and about India itself. In the third century B.C. Buddhism began to be a
+connecting medium of thought. It had already permeated the Himalaya
+territory, had reached eastern Turkestan, and had probably gone thence to
+China. Some centuries later (in 62 A.D.) the Chinese emperor sent an
+ambassador to India, and in 67 A.D. a Buddhist monk was invited to
+China.[326] Then, too, in India itself A['s]oka, whose name has already
+been mentioned in this work, extended the boundaries of his domains even
+into Afghanistan, so that it was entirely possible for the numerals of the
+Punjab to have worked their way north even at that early date.[327]
+
+Furthermore, the influence of Persia must not be forgotten in considering
+this transmission of knowledge. In the fifth century the Persian medical
+school at Jondi-Sapur admitted both the Hindu and the Greek doctrines, and
+Firdus[=i] tells us that during the brilliant reign of {82} Khosr[=u]
+I,[328] the golden age of Pahlav[=i] literature, the Hindu game of chess
+was introduced into Persia, at a time when wars with the Greeks were
+bringing prestige to the Sassanid dynasty.
+
+Again, not far from the time of Boethius, in the sixth century, the
+Egyptian monk Cosmas, in his earlier years as a trader, made journeys to
+Abyssinia and even to India and Ceylon, receiving the name _Indicopleustes_
+(the Indian traveler). His map (547 A.D.) shows some knowledge of the earth
+from the Atlantic to India. Such a man would, with hardly a doubt, have
+observed every numeral system used by the people with whom he
+sojourned,[329] and whether or not he recorded his studies in permanent
+form he would have transmitted such scraps of knowledge by word of mouth.
+
+As to the Arabs, it is a mistake to feel that their activities began with
+Mohammed. Commerce had always been held in honor by them, and the
+Qoreish[330] had annually for many generations sent caravans bearing the
+spices and textiles of Yemen to the shores of the Mediterranean. In the
+fifth century they traded by sea with India and even with China, and
+[H.]ira was an emporium for the wares of the East,[331] so that any numeral
+system of any part of the trading world could hardly have remained
+isolated.
+
+Long before the warlike activity of the Arabs, Alexandria had become the
+great market-place of the world. From this center caravans traversed Arabia
+to Hadramaut, where they met ships from India. Others went north to
+Damascus, while still others made their way {83} along the southern shores
+of the Mediterranean. Ships sailed from the isthmus of Suez to all the
+commercial ports of Southern Europe and up into the Black Sea. Hindus were
+found among the merchants[332] who frequented the bazaars of Alexandria,
+and Brahmins were reported even in Byzantium.
+
+Such is a very brief résumé of the evidence showing that the numerals of
+the Punjab and of other parts of India as well, and indeed those of China
+and farther Persia, of Ceylon and the Malay peninsula, might well have been
+known to the merchants of Alexandria, and even to those of any other
+seaport of the Mediterranean, in the time of Boethius. The Br[=a]hm[=i]
+numerals would not have attracted the attention of scholars, for they had
+no zero so far as we know, and therefore they were no better and no worse
+than those of dozens of other systems. If Boethius was attracted to them it
+was probably exactly as any one is naturally attracted to the bizarre or
+the mystic, and he would have mentioned them in his works only
+incidentally, as indeed they are mentioned in the manuscripts in which they
+occur.
+
+In answer therefore to the second question, Could Boethius have known the
+Hindu numerals? the reply must be, without the slightest doubt, that he
+could easily have known them, and that it would have been strange if a man
+of his inquiring mind did not pick up many curious bits of information of
+this kind even though he never thought of making use of them.
+
+Let us now consider the third question, Is there any positive or strong
+circumstantial evidence that Boethius did know these numerals? The question
+is not new, {84} nor is it much nearer being answered than it was over two
+centuries ago when Wallis (1693) expressed his doubts about it[333] soon
+after Vossius (1658) had called attention to the matter.[334] Stated
+briefly, there are three works on mathematics attributed to Boethius:[335]
+(1) the arithmetic, (2) a work on music, and (3) the geometry.[336]
+
+The genuineness of the arithmetic and the treatise on music is generally
+recognized, but the geometry, which contains the Hindu numerals with the
+zero, is under suspicion.[337] There are plenty of supporters of the idea
+that Boethius knew the numerals and included them in this book,[338] and on
+the other hand there are as many who {85} feel that the geometry, or at
+least the part mentioning the numerals, is spurious.[339] The argument of
+those who deny the authenticity of the particular passage in question may
+briefly be stated thus:
+
+1. The falsification of texts has always been the subject of complaint. It
+was so with the Romans,[340] it was common in the Middle Ages,[341] and it
+is much more prevalent {86} to-day than we commonly think. We have but to
+see how every hymn-book compiler feels himself authorized to change at will
+the classics of our language, and how unknown editors have mutilated
+Shakespeare, to see how much more easy it was for medieval scribes to
+insert or eliminate paragraphs without any protest from critics.[342]
+
+2. If Boethius had known these numerals he would have mentioned them in his
+arithmetic, but he does not do so.[343]
+
+3. If he had known them, and had mentioned them in any of his works, his
+contemporaries, disciples, and successors would have known and mentioned
+them. But neither Capella (c. 475)[344] nor any of the numerous medieval
+writers who knew the works of Boethius makes any reference to the
+system.[345]
+
+{87}
+
+4. The passage in question has all the appearance of an interpolation by
+some scribe. Boethius is speaking of angles, in his work on geometry, when
+the text suddenly changes to a discussion of classes of numbers.[346] This
+is followed by a chapter in explanation of the abacus,[347] in which are
+described those numeral forms which are called _apices_ or
+_caracteres_.[348] The forms[349] of these characters vary in different
+manuscripts, but in general are about as shown on page 88. They are
+commonly written with the 9 at the left, decreasing to the unit at the
+right, numerous writers stating that this was because they were derived
+from Semitic sources in which the direction of writing is the opposite of
+our own. This practice continued until the sixteenth century.[350] The
+writer then leaves the subject entirely, using the Roman numerals for the
+rest of his discussion, a proceeding so foreign to the method of Boethius
+as to be inexplicable on the hypothesis of authenticity. Why should such a
+scholarly writer have given them with no mention of their origin or use?
+Either he would have mentioned some historical interest attaching to them,
+or he would have used them in some discussion; he certainly would not have
+left the passage as it is.
+
+{88}
+
+FORMS OF THE NUMERALS, LARGELY FROM WORKS ON THE ABACUS[351]
+
+  a[352] [Illustration]
+  b[353] [Illustration]
+  c[354] [Illustration]
+  d[355] [Illustration]
+  e[356] [Illustration]
+  f[357] [Illustration]
+  g[358] [Illustration]
+  h[359] [Illustration]
+  i[360] [Illustration]
+
+{89}
+
+Sir E. Clive Bayley has added[361] a further reason for believing them
+spurious, namely that the 4 is not of the N[=a]n[=a] Gh[=a]t type, but of
+the Kabul form which the Arabs did not receive until 776;[362] so that it
+is not likely, even if the characters were known in Europe in the time of
+Boethius, that this particular form was recognized. It is worthy of
+mention, also, that in the six abacus forms from the chief manuscripts as
+given by Friedlein,[363] each contains some form of zero, which symbol
+probably originated in India about this time or later. It could hardly have
+reached Europe so soon.
+
+As to the fourth question, Did Boethius probably know the numerals? It
+seems to be a fair conclusion, according to our present evidence, that (1)
+Boethius might very easily have known these numerals without the zero, but,
+(2) there is no reliable evidence that he did know them. And just as
+Boethius might have come in contact with them, so any other inquiring mind
+might have done so either in his time or at any time before they definitely
+appeared in the tenth century. These centuries, five in number, represented
+the darkest of the Dark Ages, and even if these numerals were occasionally
+met and studied, no trace of them would be likely to show itself in the
+{90} literature of the period, unless by chance it should get into the
+writings of some man like Alcuin. As a matter of fact, it was not until the
+ninth or tenth century that there is any tangible evidence of their
+presence in Christendom. They were probably known to merchants here and
+there, but in their incomplete state they were not of sufficient importance
+to attract any considerable attention.
+
+As a result of this brief survey of the evidence several conclusions seem
+reasonable: (1) commerce, and travel for travel's sake, never died out
+between the East and the West; (2) merchants had every opportunity of
+knowing, and would have been unreasonably stupid if they had not known, the
+elementary number systems of the peoples with whom they were trading, but
+they would not have put this knowledge in permanent written form; (3)
+wandering scholars would have known many and strange things about the
+peoples they met, but they too were not, as a class, writers; (4) there is
+every reason a priori for believing that the [.g]ob[=a]r numerals would
+have been known to merchants, and probably to some of the wandering
+scholars, long before the Arabs conquered northern Africa; (5) the wonder
+is not that the Hindu-Arabic numerals were known about 1000 A.D., and that
+they were the subject of an elaborate work in 1202 by Fibonacci, but rather
+that more extended manuscript evidence of their appearance before that time
+has not been found. That they were more or less known early in the Middle
+Ages, certainly to many merchants of Christian Europe, and probably to
+several scholars, but without the zero, is hardly to be doubted. The lack
+of documentary evidence is not at all strange, in view of all of the
+circumstances.
+
+
+
+
+{91}
+
+CHAPTER VI
+
+THE DEVELOPMENT OF THE NUMERALS AMONG THE ARABS
+
+If the numerals had their origin in India, as seems most probable, when did
+the Arabs come to know of them? It is customary to say that it was due to
+the influence of Mohammedanism that learning spread through Persia and
+Arabia; and so it was, in part. But learning was already respected in these
+countries long before Mohammed appeared, and commerce flourished all
+through this region. In Persia, for example, the reign of Khosr[=u]
+Nu['s][=i]rw[=a]n,[364] the great contemporary of Justinian the law-maker,
+was characterized not only by an improvement in social and economic
+conditions, but by the cultivation of letters. Khosr[=u] fostered learning,
+inviting to his court scholars from Greece, and encouraging the
+introduction of culture from the West as well as from the East. At this
+time Aristotle and Plato were translated, and portions of the
+_Hito-pad[=e]['s]a_, or Fables of Pilpay, were rendered from the Sanskrit
+into Persian. All this means that some three centuries before the great
+intellectual ascendancy of Bagdad a similar fostering of learning was
+taking place in Persia, and under pre-Mohammedan influences.
+
+{92}
+
+The first definite trace that we have of the introduction of the Hindu
+system into Arabia dates from 773 A.D.,[365] when an Indian astronomer
+visited the court of the caliph, bringing with him astronomical tables
+which at the caliph's command were translated into Arabic by
+Al-Faz[=a]r[=i].[366] Al-Khow[=a]razm[=i] and [H.]abash (A[h.]med ibn
+`Abdall[=a]h, died c. 870) based their well-known tables upon the work of
+Al-F[=a]zar[=i]. It may be asserted as highly probable that the numerals
+came at the same time as the tables. They were certainly known a few
+decades later, and before 825 A.D., about which time the original of the
+_Algoritmi de numero Indorum_ was written, as that work makes no pretense
+of being the first work to treat of the Hindu numerals.
+
+The three writers mentioned cover the period from the end of the eighth to
+the end of the ninth century. While the historians Al-Ma['s]`[=u]d[=i] and
+Al-B[=i]r[=u]n[=i] follow quite closely upon the men mentioned, it is well
+to note again the Arab writers on Hindu arithmetic, contemporary with
+Al-Khow[=a]razm[=i], who were mentioned in chapter I, viz. Al-Kind[=i],
+Sened ibn `Al[=i], and Al-[S.][=u]f[=i].
+
+For over five hundred years Arabic writers and others continued to apply to
+works on arithmetic the name "Indian." In the tenth century such writers
+are `Abdall[=a]h ibn al-[H.]asan, Ab[=u] 'l-Q[=a]sim[367] (died 987 A.D.)
+of Antioch, and Mo[h.]ammed ibn `Abdall[=a]h, Ab[=u] Na[s.]r[368] (c. 982),
+of Kalw[=a]d[=a] near Bagdad. Others of the same period or {93} earlier
+(since they are mentioned in the _Fihrist_,[369] 987 A.D.), who explicitly
+use the word "Hindu" or "Indian," are Sin[=a]n ibn al-Fat[h.][370] of
+[H.]arr[=a]n, and Ahmed ibn `Omar, al-Kar[=a]b[=i]s[=i].[371] In the
+eleventh century come Al-B[=i]r[=u]n[=i][372] (973-1048) and `Ali ibn
+A[h.]med, Ab[=u] 'l-[H.]asan, Al-Nasaw[=i][373] (c. 1030). The following
+century brings similar works by Ish[=a]q ibn Y[=u]suf al-[S.]ardaf[=i][374]
+and Sam[=u]'[=i]l ibn Ya[h.]y[=a] ibn `Abb[=a]s al-Ma[.g]reb[=i]
+al-Andalus[=i][375] (c. 1174), and in the thirteenth century are
+`Abdallat[=i]f ibn Y[=u]suf ibn Mo[h.]ammed, Muwaffaq al-D[=i]n Ab[=u]
+Mo[h.]ammed al-Ba[.g]d[=a]d[=i][376] (c. 1231), and Ibn al-Bann[=a].[377]
+
+The Greek monk Maximus Planudes, writing in the first half of the
+fourteenth century, followed the Arabic usage in calling his work _Indian
+Arithmetic_.[378] There were numerous other Arabic writers upon arithmetic,
+as that subject occupied one of the high places among the sciences, but
+most of them did not feel it necessary to refer to the origin of the
+symbols, the knowledge of which might well have been taken for granted.
+
+{94}
+
+One document, cited by Woepcke,[379] is of special interest since it shows
+at an early period, 970 A.D., the use of the ordinary Arabic forms
+alongside the [.g]ob[=a]r. The title of the work is _Interesting and
+Beautiful Problems on Numbers_ copied by A[h.]med ibn Mo[h.]ammed ibn
+`Abdaljal[=i]l, Ab[=u] Sa`[=i]d, al-Sijz[=i],[380] (951-1024) from a work
+by a priest and physician, Na[z.][=i]f ibn Yumn,[381] al-Qass (died c.
+990). Suter does not mention this work of Na[z.][=i]f.
+
+The second reason for not ascribing too much credit to the purely Arab
+influence is that the Arab by himself never showed any intellectual
+strength. What took place after Mo[h.]ammed had lighted the fire in the
+hearts of his people was just what always takes place when different types
+of strong races blend,--a great renaissance in divers lines. It was seen in
+the blending of such types at Miletus in the time of Thales, at Rome in the
+days of the early invaders, at Alexandria when the Greek set firm foot on
+Egyptian soil, and we see it now when all the nations mingle their vitality
+in the New World. So when the Arab culture joined with the Persian, a new
+civilization rose and flourished.[382] The Arab influence came not from its
+purity, but from its intermingling with an influence more cultured if less
+virile.
+
+As a result of this interactivity among peoples of diverse interests and
+powers, Mohammedanism was to the world from the eighth to the thirteenth
+century what Rome and Athens and the Italo-Hellenic influence generally had
+{95} been to the ancient civilization. "If they did not possess the spirit
+of invention which distinguished the Greeks and the Hindus, if they did not
+show the perseverance in their observations that characterized the Chinese
+astronomers, they at least possessed the virility of a new and victorious
+people, with a desire to understand what others had accomplished, and a
+taste which led them with equal ardor to the study of algebra and of
+poetry, of philosophy and of language."[383]
+
+It was in 622 A.D. that Mo[h.]ammed fled from Mecca, and within a century
+from that time the crescent had replaced the cross in Christian Asia, in
+Northern Africa, and in a goodly portion of Spain. The Arab empire was an
+ellipse of learning with its foci at Bagdad and Cordova, and its rulers not
+infrequently took pride in demanding intellectual rather than commercial
+treasure as the result of conquest.[384]
+
+It was under these influences, either pre-Mohammedan or later, that the
+Hindu numerals found their way to the North. If they were known before
+Mo[h.]ammed's time, the proof of this fact is now lost. This much, however,
+is known, that in the eighth century they were taken to Bagdad. It was
+early in that century that the Mohammedans obtained their first foothold in
+northern India, thus foreshadowing an epoch of supremacy that endured with
+varied fortunes until after the golden age of Akbar the Great (1542-1605)
+and Shah Jehan. They also conquered Khorassan and Afghanistan, so that the
+learning and the commercial customs of India at once found easy {96} access
+to the newly-established schools and the bazaars of Mesopotamia and western
+Asia. The particular paths of conquest and of commerce were either by way
+of the Khyber Pass and through Kabul, Herat and Khorassan, or by sea
+through the strait of Ormuz to Basra (Busra) at the head of the Persian
+Gulf, and thence to Bagdad. As a matter of fact, one form of Arabic
+numerals, the one now in use by the Arabs, is attributed to the influence
+of Kabul, while the other, which eventually became our numerals, may very
+likely have reached Arabia by the other route. It is in Bagdad,[385] D[=a]r
+al-Sal[=a]m--"the Abode of Peace," that our special interest in the
+introduction of the numerals centers. Built upon the ruins of an ancient
+town by Al-Man[s.][=u]r[386] in the second half of the eighth century, it
+lies in one of those regions where the converging routes of trade give rise
+to large cities.[387] Quite as well of Bagdad as of Athens might Cardinal
+Newman have said:[388]
+
+"What it lost in conveniences of approach, it gained in its neighborhood to
+the traditions of the mysterious East, and in the loveliness of the region
+in which it lay. Hither, then, as to a sort of ideal land, where all
+archetypes of the great and the fair were found in substantial being, and
+all departments of truth explored, and all diversities of intellectual
+power exhibited, where taste and philosophy were majestically enthroned as
+in a royal court, where there was no sovereignty but that of mind, and no
+nobility but that of genius, where professors were {97} rulers, and princes
+did homage, thither flocked continually from the very corners of the _orbis
+terrarum_ the many-tongued generation, just rising, or just risen into
+manhood, in order to gain wisdom." For here it was that Al-Man[s.][=u]r and
+Al-M[=a]m[=u]n and H[=a]r[=u]n al-Rash[=i]d (Aaron the Just) made for a
+time the world's center of intellectual activity in general and in the
+domain of mathematics in particular.[389] It was just after the _Sindhind_
+was brought to Bagdad that Mo[h.]ammed ibn M[=u]s[=a] al-Khow[=a]razm[=i],
+whose name has already been mentioned,[390] was called to that city. He was
+the most celebrated mathematician of his time, either in the East or West,
+writing treatises on arithmetic, the sundial, the astrolabe, chronology,
+geometry, and algebra, and giving through the Latin transliteration of his
+name, _algoritmi_, the name of algorism to the early arithmetics using the
+new Hindu numerals.[391] Appreciating at once the value of the position
+system so recently brought from India, he wrote an arithmetic based upon
+these numerals, and this was translated into Latin in the time of Adelhard
+of Bath (c. 1180), although possibly by his contemporary countryman Robert
+Cestrensis.[392] This translation was found in Cambridge and was published
+by Boncompagni in 1857.[393]
+
+Contemporary with Al-Khow[=a]razm[=i], and working also under
+Al-M[=a]m[=u]n, was a Jewish astronomer, Ab[=u] 'l-[T.]eiyib, {98} Sened
+ibn `Al[=i], who is said to have adopted the Mohammedan religion at the
+caliph's request. He also wrote a work on Hindu arithmetic,[394] so that
+the subject must have been attracting considerable attention at that time.
+Indeed, the struggle to have the Hindu numerals replace the Arabic did not
+cease for a long time thereafter. `Al[=i] ibn A[h.]med al-Nasaw[=i], in his
+arithmetic of c. 1025, tells us that the symbolism of number was still
+unsettled in his day, although most people preferred the strictly Arabic
+forms.[395]
+
+We thus have the numerals in Arabia, in two forms: one the form now used
+there, and the other the one used by Al-Khow[=a]razm[=i]. The question then
+remains, how did this second form find its way into Europe? and this
+question will be considered in the next chapter.
+
+
+
+
+{99}
+
+CHAPTER VII
+
+THE DEFINITE INTRODUCTION OF THE NUMERALS INTO EUROPE
+
+It being doubtful whether Boethius ever knew the Hindu numeral forms,
+certainly without the zero in any case, it becomes necessary now to
+consider the question of their definite introduction into Europe. From what
+has been said of the trade relations between the East and the West, and of
+the probability that it was the trader rather than the scholar who carried
+these numerals from their original habitat to various commercial centers,
+it is evident that we shall never know when they first made their
+inconspicuous entrance into Europe. Curious customs from the East and from
+the tropics,--concerning games, social peculiarities, oddities of dress,
+and the like,--are continually being related by sailors and traders in
+their resorts in New York, London, Hamburg, and Rotterdam to-day, customs
+that no scholar has yet described in print and that may not become known
+for many years, if ever. And if this be so now, how much more would it have
+been true a thousand years before the invention of printing, when learning
+was at its lowest ebb. It was at this period of low esteem of culture that
+the Hindu numerals undoubtedly made their first appearance in Europe.
+
+There were many opportunities for such knowledge to reach Spain and Italy.
+In the first place the Moors went into Spain as helpers of a claimant of
+the throne, and {100} remained as conquerors. The power of the Goths, who
+had held Spain for three centuries, was shattered at the battle of Jerez de
+la Frontera in 711, and almost immediately the Moors became masters of
+Spain and so remained for five hundred years, and masters of Granada for a
+much longer period. Until 850 the Christians were absolutely free as to
+religion and as to holding political office, so that priests and monks were
+not infrequently skilled both in Latin and Arabic, acting as official
+translators, and naturally reporting directly or indirectly to Rome. There
+was indeed at this time a complaint that Christian youths cultivated too
+assiduously a love for the literature of the Saracen, and married too
+frequently the daughters of the infidel.[396] It is true that this happy
+state of affairs was not permanent, but while it lasted the learning and
+the customs of the East must have become more or less the property of
+Christian Spain. At this time the [.g]ob[=a]r numerals were probably in
+that country, and these may well have made their way into Europe from the
+schools of Cordova, Granada, and Toledo.
+
+Furthermore, there was abundant opportunity for the numerals of the East to
+reach Europe through the journeys of travelers and ambassadors. It was from
+the records of Suleim[=a]n the Merchant, a well-known Arab trader of the
+ninth century, that part of the story of Sindb[=a]d the Sailor was
+taken.[397] Such a merchant would have been particularly likely to know the
+numerals of the people whom he met, and he is a type of man that may well
+have taken such symbols to European markets. A little later, {101} Ab[=u]
+'l-[H.]asan `Al[=i] al-Mas`[=u]d[=i] (d. 956) of Bagdad traveled to the
+China Sea on the east, at least as far south as Zanzibar, and to the
+Atlantic on the west,[398] and he speaks of the nine figures with which the
+Hindus reckoned.[399]
+
+There was also a Bagdad merchant, one Ab[=u] 'l-Q[=a]sim `Obeidall[=a]h ibn
+A[h.]med, better known by his Persian name Ibn Khord[=a][d.]beh,[400] who
+wrote about 850 A.D. a work entitled _Book of Roads and Provinces_[401] in
+which the following graphic account appears:[402] "The Jewish merchants
+speak Persian, Roman (Greek and Latin), Arabic, French, Spanish, and
+Slavic. They travel from the West to the East, and from the East to the
+West, sometimes by land, sometimes by sea. They take ship from France on
+the Western Sea, and they voyage to Farama (near the ruins of the ancient
+Pelusium); there they transfer their goods to caravans and go by land to
+Colzom (on the Red Sea). They there reëmbark on the Oriental (Red) Sea and
+go to Hejaz and to Jiddah, and thence to the Sind, India, and China.
+Returning, they bring back the products of the oriental lands.... These
+journeys are also made by land. The merchants, leaving France and Spain,
+cross to Tangier and thence pass through the African provinces and Egypt.
+They then go to Ramleh, visit Damascus, Kufa, Bagdad, and Basra, penetrate
+into Ahwaz, Fars, Kerman, Sind, and thus reach India and China." Such
+travelers, about 900 A.D., must necessarily have spread abroad a knowledge
+of all number {102} systems used in recording prices or in the computations
+of the market. There is an interesting witness to this movement, a
+cruciform brooch now in the British Museum. It is English, certainly as
+early as the eleventh century, but it is inlaid with a piece of paste on
+which is the Mohammedan inscription, in Kufic characters, "There is no God
+but God." How did such an inscription find its way, perhaps in the time of
+Alcuin of York, to England? And if these Kufic characters reached there,
+then why not the numeral forms as well?
+
+Even in literature of the better class there appears now and then some
+stray proof of the important fact that the great trade routes to the far
+East were never closed for long, and that the customs and marks of trade
+endured from generation to generation. The _Gulist[=a]n_ of the Persian
+poet Sa`d[=i][403] contains such a passage:
+
+"I met a merchant who owned one hundred and forty camels, and fifty slaves
+and porters.... He answered to me: 'I want to carry sulphur of Persia to
+China, which in that country, as I hear, bears a high price; and thence to
+take Chinese ware to Roum; and from Roum to load up with brocades for Hind;
+and so to trade Indian steel (_pûlab_) to Halib. From Halib I will convey
+its glass to Yeman, and carry the painted cloths of Yeman back to
+Persia.'"[404] On the other hand, these men were not of the learned class,
+nor would they preserve in treatises any knowledge that they might have,
+although this knowledge would occasionally reach the ears of the learned as
+bits of curious information.
+
+{103}
+
+There were also ambassadors passing back and forth from time to time,
+between the East and the West, and in particular during the period when
+these numerals probably began to enter Europe. Thus Charlemagne (c. 800)
+sent emissaries to Bagdad just at the time of the opening of the
+mathematical activity there.[405] And with such ambassadors must have gone
+the adventurous scholar, inspired, as Alcuin says of Archbishop Albert of
+York (766-780),[406] to seek the learning of other lands. Furthermore, the
+Nestorian communities, established in Eastern Asia and in India at this
+time, were favored both by the Persians and by their Mohammedan conquerors.
+The Nestorian Patriarch of Syria, Timotheus (778-820), sent missionaries
+both to India and to China, and a bishop was appointed for the latter
+field. Ibn Wahab, who traveled to China in the ninth century, found images
+of Christ and the apostles in the Emperor's court.[407] Such a learned body
+of men, knowing intimately the countries in which they labored, could
+hardly have failed to make strange customs known as they returned to their
+home stations. Then, too, in Alfred's time (849-901) emissaries went {104}
+from England as far as India,[408] and generally in the Middle Ages
+groceries came to Europe from Asia as now they come from the colonies and
+from America. Syria, Asia Minor, and Cyprus furnished sugar and wool, and
+India yielded her perfumes and spices, while rich tapestries for the courts
+and the wealthy burghers came from Persia and from China.[409] Even in the
+time of Justinian (c. 550) there seems to have been a silk trade with
+China, which country in turn carried on commerce with Ceylon,[410] and
+reached out to Turkestan where other merchants transmitted the Eastern
+products westward. In the seventh century there was a well-defined commerce
+between Persia and India, as well as between Persia and
+Constantinople.[411] The Byzantine _commerciarii_ were stationed at the
+outposts not merely as customs officers but as government purchasing
+agents.[412]
+
+Occasionally there went along these routes of trade men of real learning,
+and such would surely have carried the knowledge of many customs back and
+forth. Thus at a period when the numerals are known to have been partly
+understood in Italy, at the opening of the eleventh century, one
+Constantine, an African, traveled from Italy through a great part of Africa
+and Asia, even on to India, for the purpose of learning the sciences of the
+Orient. He spent thirty-nine years in travel, having been hospitably
+received in Babylon, and upon his return he was welcomed with great honor
+at Salerno.[413]
+
+A very interesting illustration of this intercourse also appears in the
+tenth century, when the son of Otto I {105} (936-973) married a princess
+from Constantinople. This monarch was in touch with the Moors of Spain and
+invited to his court numerous scholars from abroad,[414] and his
+intercourse with the East as well as the West must have brought together
+much of the learning of each.
+
+Another powerful means for the circulation of mysticism and philosophy, and
+more or less of culture, took its start just before the conversion of
+Constantine (c. 312), in the form of Christian pilgrim travel. This was a
+feature peculiar to the zealots of early Christianity, found in only a
+slight degree among their Jewish predecessors in the annual pilgrimage to
+Jerusalem, and almost wholly wanting in other pre-Christian peoples. Chief
+among these early pilgrims were the two Placentians, John and Antonine the
+Elder (c. 303), who, in their wanderings to Jerusalem, seem to have started
+a movement which culminated centuries later in the crusades.[415] In 333 a
+Bordeaux pilgrim compiled the first Christian guide-book, the _Itinerary
+from Bordeaux to Jerusalem_,[416] and from this time on the holy pilgrimage
+never entirely ceased.
+
+Still another certain route for the entrance of the numerals into Christian
+Europe was through the pillaging and trading carried on by the Arabs on the
+northern shores of the Mediterranean. As early as 652 A.D., in the
+thirtieth year of the Hejira, the Mohammedans descended upon the shores of
+Sicily and took much spoil. Hardly had the wretched Constans given place to
+the {106} young Constantine IV when they again attacked the island and
+plundered ancient Syracuse. Again in 827, under Asad, they ravaged the
+coasts. Although at this time they failed to conquer Syracuse, they soon
+held a good part of the island, and a little later they successfully
+besieged the city. Before Syracuse fell, however, they had plundered the
+shores of Italy, even to the walls of Rome itself; and had not Leo IV, in
+849, repaired the neglected fortifications, the effects of the Moslem raid
+of that year might have been very far-reaching. Ibn Khord[=a][d.]beh, who
+left Bagdad in the latter part of the ninth century, gives a picture of the
+great commercial activity at that time in the Saracen city of Palermo. In
+this same century they had established themselves in Piedmont, and in 906
+they pillaged Turin.[417] On the Sorrento peninsula the traveler who climbs
+the hill to the beautiful Ravello sees still several traces of the Arab
+architecture, reminding him of the fact that about 900 A.D. Amalfi was a
+commercial center of the Moors.[418] Not only at this time, but even a
+century earlier, the artists of northern India sold their wares at such
+centers, and in the courts both of H[=a]r[=u]n al-Rash[=i]d and of
+Charlemagne.[419] Thus the Arabs dominated the Mediterranean Sea long
+before Venice
+
+              "held the gorgeous East in fee
+  And was the safeguard of the West,"
+
+and long before Genoa had become her powerful rival.[420]
+
+{107}
+
+Only a little later than this the brothers Nicolo and Maffeo Polo entered
+upon their famous wanderings.[421] Leaving Constantinople in 1260, they
+went by the Sea of Azov to Bokhara, and thence to the court of Kublai Khan,
+penetrating China, and returning by way of Acre in 1269 with a commission
+which required them to go back to China two years later. This time they
+took with them Nicolo's son Marco, the historian of the journey, and went
+across the plateau of Pamir; they spent about twenty years in China, and
+came back by sea from China to Persia.
+
+The ventures of the Poli were not long unique, however: the thirteenth
+century had not closed before Roman missionaries and the merchant Petrus de
+Lucolongo had penetrated China. Before 1350 the company of missionaries was
+large, converts were numerous, churches and Franciscan convents had been
+organized in the East, travelers were appealing for the truth of their
+accounts to the "many" persons in Venice who had been in China,
+Tsuan-chau-fu had a European merchant community, and Italian trade and
+travel to China was a thing that occupied two chapters of a commercial
+handbook.[422]
+
+{108}
+
+It is therefore reasonable to conclude that in the Middle Ages, as in the
+time of Boethius, it was a simple matter for any inquiring scholar to
+become acquainted with such numerals of the Orient as merchants may have
+used for warehouse or price marks. And the fact that Gerbert seems to have
+known only the forms of the simplest of these, not comprehending their full
+significance, seems to prove that he picked them up in just this way.
+
+Even if Gerbert did not bring his knowledge of the Oriental numerals from
+Spain, he may easily have obtained them from the marks on merchant's goods,
+had he been so inclined. Such knowledge was probably obtainable in various
+parts of Italy, though as parts of mere mercantile knowledge the forms
+might soon have been lost, it needing the pen of the scholar to preserve
+them. Trade at this time was not stagnant. During the eleventh and twelfth
+centuries the Slavs, for example, had very great commercial interests,
+their trade reaching to Kiev and Novgorod, and thence to the East.
+Constantinople was a great clearing-house of commerce with the Orient,[423]
+and the Byzantine merchants must have been entirely familiar with the
+various numerals of the Eastern peoples. In the eleventh century the
+Italian town of Amalfi established a factory[424] in Constantinople, and
+had trade relations with Antioch and Egypt. Venice, as early as the ninth
+century, had a valuable trade with Syria and Cairo.[425] Fifty years after
+Gerbert died, in the time of Cnut, the Dane and the Norwegian pushed their
+commerce far beyond the northern seas, both by caravans through Russia to
+the Orient, and by their venturesome barks which {109} sailed through the
+Strait of Gibraltar into the Mediterranean.[426] Only a little later,
+probably before 1200 A.D., a clerk in the service of Thomas à Becket,
+present at the latter's death, wrote a life of the martyr, to which
+(fortunately for our purposes) he prefixed a brief eulogy of the city of
+London.[427] This clerk, William Fitz Stephen by name, thus speaks of the
+British capital:
+
+  Aurum mittit Arabs: species et thura Sabæus:
+  Arma Sythes: oleum palmarum divite sylva
+  Pingue solum Babylon: Nilus lapides pretiosos:
+  Norwegi, Russi, varium grisum, sabdinas:
+  Seres, purpureas vestes: Galli, sua vina.
+
+Although, as a matter of fact, the Arabs had no gold to send, and the
+Scythians no arms, and Egypt no precious stones save only the turquoise,
+the Chinese (_Seres_) may have sent their purple vestments, and the north
+her sables and other furs, and France her wines. At any rate the verses
+show very clearly an extensive foreign trade.
+
+Then there were the Crusades, which in these times brought the East in
+touch with the West. The spirit of the Orient showed itself in the songs of
+the troubadours, and the _baudekin_,[428] the canopy of Bagdad,[429] became
+common in the churches of Italy. In Sicily and in Venice the textile
+industries of the East found place, and made their way even to the
+Scandinavian peninsula.[430]
+
+We therefore have this state of affairs: There was abundant intercourse
+between the East and West for {110} some centuries before the Hindu
+numerals appear in any manuscripts in Christian Europe. The numerals must
+of necessity have been known to many traders in a country like Italy at
+least as early as the ninth century, and probably even earlier, but there
+was no reason for preserving them in treatises. Therefore when a man like
+Gerbert made them known to the scholarly circles, he was merely describing
+what had been familiar in a small way to many people in a different walk of
+life.
+
+Since Gerbert[431] was for a long time thought to have been the one to
+introduce the numerals into Italy,[432] a brief sketch of this unique
+character is proper. Born of humble parents,[433] this remarkable man
+became the counselor and companion of kings, and finally wore the papal
+tiara as Sylvester II, from 999 until his death in 1003.[434] He was early
+brought under the influence of the monks at Aurillac, and particularly of
+Raimund, who had been a pupil of Odo of Cluny, and there in due time he
+himself took holy orders. He visited Spain in about 967 in company with
+Count Borel,[435] remaining there three years, {111} and studying under
+Bishop Hatto of Vich,[436] a city in the province of Barcelona,[437] then
+entirely under Christian rule. Indeed, all of Gerbert's testimony is as to
+the influence of the Christian civilization upon his education. Thus he
+speaks often of his study of Boethius,[438] so that if the latter knew the
+numerals Gerbert would have learned them from him.[439] If Gerbert had
+studied in any Moorish schools he would, under the decree of the emir
+Hish[=a]m (787-822), have been obliged to know Arabic, which would have
+taken most of his three years in Spain, and of which study we have not the
+slightest hint in any of his letters.[440] On the other hand, Barcelona was
+the only Christian province in immediate touch with the Moorish
+civilization at that time.[441] Furthermore we know that earlier in the
+same century King Alonzo of Asturias (d. 910) confided the education of his
+son Ordoño to the Arab scholars of the court of the {112} w[=a]l[=i] of
+Saragossa,[442] so that there was more or less of friendly relation between
+Christian and Moor.
+
+After his three years in Spain, Gerbert went to Italy, about 970, where he
+met Pope John XIII, being by him presented to the emperor Otto I. Two years
+later (972), at the emperor's request, he went to Rheims, where he studied
+philosophy, assisting to make of that place an educational center; and in
+983 he became abbot at Bobbio. The next year he returned to Rheims, and
+became archbishop of that diocese in 991. For political reasons he returned
+to Italy in 996, became archbishop of Ravenna in 998, and the following
+year was elected to the papal chair. Far ahead of his age in wisdom, he
+suffered as many such scholars have even in times not so remote by being
+accused of heresy and witchcraft. As late as 1522, in a biography published
+at Venice, it is related that by black art he attained the papacy, after
+having given his soul to the devil.[443] Gerbert was, however, interested
+in astrology,[444] although this was merely the astronomy of that time and
+was such a science as any learned man would wish to know, even as to-day we
+wish to be reasonably familiar with physics and chemistry.
+
+That Gerbert and his pupils knew the [.g]ob[=a]r numerals is a fact no
+longer open to controversy.[445] Bernelinus and Richer[446] call them by
+the well-known name of {113} "caracteres," a word used by Radulph of Laon
+in the same sense a century later.[447] It is probable that Gerbert was the
+first to describe these [.g]ob[=a]r numerals in any scientific way in
+Christian Europe, but without the zero. If he knew the latter he certainly
+did not understand its use.[448]
+
+The question still to be settled is as to where he found these numerals.
+That he did not bring them from Spain is the opinion of a number of careful
+investigators.[449] This is thought to be the more probable because most of
+the men who made Spain famous for learning lived after Gerbert was there.
+Such were Ibn S[=i]n[=a] (Avicenna) who lived at the beginning, and Gerber
+of Seville who flourished in the middle, of the eleventh century, and
+Ab[=u] Roshd (Averroës) who lived at the end of the twelfth.[450] Others
+hold that his proximity to {114} the Arabs for three years makes it
+probable that he assimilated some of their learning, in spite of the fact
+that the lines between Christian and Moor at that time were sharply
+drawn.[451] Writers fail, however, to recognize that a commercial numeral
+system would have been more likely to be made known by merchants than by
+scholars. The itinerant peddler knew no forbidden pale in Spain, any more
+than he has known one in other lands. If the [.g]ob[=a]r numerals were used
+for marking wares or keeping simple accounts, it was he who would have
+known them, and who would have been the one rather than any Arab scholar to
+bring them to the inquiring mind of the young French monk. The facts that
+Gerbert knew them only imperfectly, that he used them solely for
+calculations, and that the forms are evidently like the Spanish
+[.g]ob[=a]r, make it all the more probable that it was through the small
+tradesman of the Moors that this versatile scholar derived his knowledge.
+Moreover the part of the geometry bearing his name, and that seems
+unquestionably his, shows the Arab influence, proving that he at least came
+into contact with the transplanted Oriental learning, even though
+imperfectly.[452] There was also the persistent Jewish merchant trading
+with both peoples then as now, always alive to the acquiring of useful
+knowledge, and it would be very natural for a man like Gerbert to welcome
+learning from such a source.
+
+On the other hand, the two leading sources of information as to the life of
+Gerbert reveal practically nothing to show that he came within the Moorish
+sphere of influence during his sojourn in Spain. These sources {115} are
+his letters and the history written by Richer. Gerbert was a master of the
+epistolary art, and his exalted position led to the preservation of his
+letters to a degree that would not have been vouchsafed even by their
+classic excellence.[453] Richer was a monk at St. Remi de Rheims, and was
+doubtless a pupil of Gerbert. The latter, when archbishop of Rheims, asked
+Richer to write a history of his times, and this was done. The work lay in
+manuscript, entirely forgotten until Pertz discovered it at Bamberg in
+1833.[454] The work is dedicated to Gerbert as archbishop of Rheims,[455]
+and would assuredly have testified to such efforts as he may have made to
+secure the learning of the Moors.
+
+Now it is a fact that neither the letters nor this history makes any
+statement as to Gerbert's contact with the Saracens. The letters do not
+speak of the Moors, of the Arab numerals, nor of Cordova. Spain is not
+referred to by that name, and only one Spanish scholar is mentioned. In one
+of his letters he speaks of Joseph Ispanus,[456] or Joseph Sapiens, but who
+this Joseph the Wise of Spain may have been we do not know. Possibly {116}
+it was he who contributed the morsel of knowledge so imperfectly
+assimilated by the young French monk.[457] Within a few years after
+Gerbert's visit two young Spanish monks of lesser fame, and doubtless with
+not that keen interest in mathematical matters which Gerbert had, regarded
+the apparently slight knowledge which they had of the Hindu numeral forms
+as worthy of somewhat permanent record[458] in manuscripts which they were
+transcribing. The fact that such knowledge had penetrated to their modest
+cloisters in northern Spain--the one Albelda or Albaida--indicates that it
+was rather widely diffused.
+
+Gerbert's treatise _Libellus de numerorum divisione_[459] is characterized
+by Chasles as "one of the most obscure documents in the history of
+science."[460] The most complete information in regard to this and the
+other mathematical works of Gerbert is given by Bubnov,[461] who considers
+this work to be genuine.[462]
+
+{117}
+
+So little did Gerbert appreciate these numerals that in his works known as
+the _Regula de abaco computi_ and the _Libellus_ he makes no use of them at
+all, employing only the Roman forms.[463] Nevertheless Bernelinus[464]
+refers to the nine [.g]ob[=a]r characters.[465] These Gerbert had marked on
+a thousand _jetons_ or counters,[466] using the latter on an abacus which
+he had a sign-maker prepare for him.[467] Instead of putting eight counters
+in say the tens' column, Gerbert would put a single counter marked 8, and
+so for the other places, leaving the column empty where we would place a
+zero, but where he, lacking the zero, had no counter to place. These
+counters he possibly called _caracteres_, a name which adhered also to the
+figures themselves. It is an interesting speculation to consider whether
+these _apices_, as they are called in the Boethius interpolations, were in
+any way suggested by those Roman jetons generally known in numismatics as
+_tesserae_, and bearing the figures I-XVI, the sixteen referring to the
+number of _assi_ in a _sestertius_.[468] The {118} name _apices_ adhered to
+the Hindu-Arabic numerals until the sixteenth century.[469]
+
+To the figures on the _apices_ were given the names Igin, andras, ormis,
+arbas, quimas, calctis or caltis, zenis, temenias, celentis, sipos,[470]
+the origin and meaning of which still remain a mystery. The Semitic origin
+of several of the words seems probable. _Wahud_, _thaneine_, {119}
+_thalata_, _arba_, _kumsa_, _setta_, _sebba_, _timinia_, _taseud_ are given
+by the Rev. R. Patrick[471] as the names, in an Arabic dialect used in
+Morocco, for the numerals from one to nine. Of these the words for four,
+five, and eight are strikingly like those given above.
+
+The name _apices_ was not, however, a common one in later times. _Notae_
+was more often used, and it finally gave the name to notation.[472] Still
+more common were the names _figures_, _ciphers_, _signs_, _elements_, and
+_characters_.[473]
+
+So little effect did the teachings of Gerbert have in making known the new
+numerals, that O'Creat, who lived a century later, a friend and pupil of
+Adelhard {120} of Bath, used the zero with the Roman characters, in
+contrast to Gerbert's use of the [.g]ob[=a]r forms without the zero.[474]
+O'Creat uses three forms for zero, o, [=o], and [Greek: t], as in Maximus
+Planudes. With this use of the zero goes, naturally, a place value, for he
+writes III III for 33, ICCOO and I. II. [tau]. [tau] for 1200,
+I. O. VIII. IX for 1089, and I. IIII. IIII. [tau][tau][tau][tau] for the
+square of 1200.
+
+The period from the time of Gerbert until after the appearance of
+Leonardo's monumental work may be called the period of the abacists. Even
+for many years after the appearance early in the twelfth century of the
+books explaining the Hindu art of reckoning, there was strife between the
+abacists, the advocates of the abacus, and the algorists, those who favored
+the new numerals. The words _cifra_ and _algorismus cifra_ were used with a
+somewhat derisive significance, indicative of absolute uselessness, as
+indeed the zero is useless on an abacus in which the value of any unit is
+given by the column which it occupies.[475] So Gautier de Coincy
+(1177-1236) in a work on the miracles of Mary says:
+
+  A horned beast, a sheep,
+  An algorismus-cipher,
+  Is a priest, who on such a feast day
+  Does not celebrate the holy Mother.[476]
+
+So the abacus held the field for a long time, even against the new algorism
+employing the new numerals. {121} Geoffrey Chaucer[477] describes in _The
+Miller's Tale_ the clerk with
+
+ "His Almageste and bokes grete and smale,
+  His astrelabie, longinge for his art,
+  His augrim-stones layen faire apart
+  On shelves couched at his beddes heed."
+
+So, too, in Chaucer's explanation of the astrolabe,[478] written for his
+son Lewis, the number of degrees is expressed on the instrument in
+Hindu-Arabic numerals: "Over the whiche degrees ther ben noumbres of
+augrim, that devyden thilke same degrees fro fyve to fyve," and "... the
+nombres ... ben writen in augrim," meaning in the way of the algorism.
+Thomas Usk about 1387 writes:[479] "a sypher in augrim have no might in
+signification of it-selve, yet he yeveth power in signification to other."
+So slow and so painful is the assimilation of new ideas.
+
+Bernelinus[480] states that the abacus is a well-polished board (or table),
+which is covered with blue sand and used by geometers in drawing
+geometrical figures. We have previously mentioned the fact that the Hindus
+also performed mathematical computations in the sand, although there is no
+evidence to show that they had any column abacus.[481] For the purposes of
+computation, Bernelinus continues, the board is divided into thirty
+vertical columns, three of which are reserved for fractions. Beginning with
+the units columns, each set of {122} three columns (_lineae_ is the word
+which Bernelinus uses) is grouped together by a semicircular arc placed
+above them, while a smaller arc is placed over the units column and another
+joins the tens and hundreds columns. Thus arose the designation _arcus
+pictagore_[482] or sometimes simply _arcus_.[483] The operations of
+addition, subtraction, and multiplication upon this form of the abacus
+required little explanation, although they were rather extensively treated,
+especially the multiplication of different orders of numbers. But the
+operation of division was effected with some difficulty. For the
+explanation of the method of division by the use of the complementary
+difference,[484] long the stumbling-block in the way of the medieval
+arithmetician, the reader is referred to works on the history of
+mathematics[485] and to works relating particularly to the abacus.[486]
+
+Among the writers on the subject may be mentioned Abbo[487] of Fleury (c.
+970), Heriger[488] of Lobbes or Laubach {123} (c. 950-1007), and Hermannus
+Contractus[489] (1013-1054), all of whom employed only the Roman numerals.
+Similarly Adelhard of Bath (c. 1130), in his work _Regulae Abaci_,[490]
+gives no reference to the new numerals, although it is certain that he knew
+them. Other writers on the abacus who used some form of Hindu numerals were
+Gerland[491] (first half of twelfth century) and Turchill[492] (c. 1200).
+For the forms used at this period the reader is referred to the plate on
+page 88.
+
+After Gerbert's death, little by little the scholars of Europe came to know
+the new figures, chiefly through the introduction of Arab learning. The
+Dark Ages had passed, although arithmetic did not find another advocate as
+prominent as Gerbert for two centuries. Speaking of this great revival,
+Raoul Glaber[493] (985-c. 1046), a monk of the great Benedictine abbey of
+Cluny, of the eleventh century, says: "It was as though the world had
+arisen and tossed aside the worn-out garments of ancient time, and wished
+to apparel itself in a white robe of churches." And with this activity in
+religion came a corresponding interest in other lines. Algorisms began to
+appear, and knowledge from the outside world found {124} interested
+listeners. Another Raoul, or Radulph, to whom we have referred as Radulph
+of Laon,[494] a teacher in the cloister school of his city, and the brother
+of Anselm of Laon[495] the celebrated theologian, wrote a treatise on
+music, extant but unpublished, and an arithmetic which Nagl first published
+in 1890.[496] The latter work, preserved to us in a parchment manuscript of
+seventy-seven leaves, contains a curious mixture of Roman and [.g]ob[=a]r
+numerals, the former for expressing large results, the latter for practical
+calculation. These [.g]ob[=a]r "caracteres" include the sipos (zero),
+[Symbol], of which, however, Radulph did not know the full significance;
+showing that at the opening of the twelfth century the system was still
+uncertain in its status in the church schools of central France.
+
+At the same time the words _algorismus_ and _cifra_ were coming into
+general use even in non-mathematical literature. Jordan [497] cites
+numerous instances of such use from the works of Alanus ab Insulis[498]
+(Alain de Lille), Gautier de Coincy (1177-1236), and others.
+
+Another contributor to arithmetic during this interesting period was a
+prominent Spanish Jew called variously John of Luna, John of Seville,
+Johannes Hispalensis, Johannes Toletanus, and Johannes Hispanensis de
+Luna.[499] {125} His date is rather closely fixed by the fact that he
+dedicated a work to Raimund who was archbishop of Toledo between 1130 and
+1150.[500] His interests were chiefly in the translation of Arabic works,
+especially such as bore upon the Aristotelian philosophy. From the
+standpoint of arithmetic, however, the chief interest centers about a
+manuscript entitled _Joannis Hispalensis liber Algorismi de Practica
+Arismetrice_ which Boncompagni found in what is now the _Bibliothèque
+nationale_ at Paris. Although this distinctly lays claim to being
+Al-Khow[=a]razm[=i]'s work,[501] the evidence is altogether against the
+statement,[502] but the book is quite as valuable, since it represents the
+knowledge of the time in which it was written. It relates to the operations
+with integers and sexagesimal fractions, including roots, and contains no
+applications.[503]
+
+Contemporary with John of Luna, and also living in Toledo, was Gherard of
+Cremona,[504] who has sometimes been identified, but erroneously, with
+Gernardus,[505] the {126} author of a work on algorism. He was a physician,
+an astronomer, and a mathematician, translating from the Arabic both in
+Italy and in Spain. In arithmetic he was influential in spreading the ideas
+of algorism.
+
+Four Englishmen--Adelhard of Bath (c. 1130), Robert of Chester (Robertus
+Cestrensis, c. 1143), William Shelley, and Daniel Morley (1180)--are
+known[506] to have journeyed to Spain in the twelfth century for the
+purpose of studying mathematics and Arabic. Adelhard of Bath made
+translations from Arabic into Latin of Al-Khow[=a]razm[=i]'s astronomical
+tables[507] and of Euclid's Elements,[508] while Robert of Chester is known
+as the translator of Al-Khow[=a]razm[=i]'s algebra.[509] There is no reason
+to doubt that all of these men, and others, were familiar with the numerals
+which the Arabs were using.
+
+The earliest trace we have of computation with Hindu numerals in Germany is
+in an Algorismus of 1143, now in the Hofbibliothek in Vienna.[510] It is
+bound in with a {127} _Computus_ by the same author and bearing the date
+given. It contains chapters "De additione," "De diminutione," "De
+mediatione," "De divisione," and part of a chapter on multiplication. The
+numerals are in the usual medieval forms except the 2 which, as will be
+seen from the illustration,[511] is somewhat different, and the 3, which
+takes the peculiar shape [Symbol], a form characteristic of the twelfth
+century.
+
+It was about the same time that the _Sefer ha-Mispar_,[512] the Book of
+Number, appeared in the Hebrew language. The author, Rabbi Abraham ibn Meïr
+ibn Ezra,[513] was born in Toledo (c. 1092). In 1139 he went to Egypt,
+Palestine, and the Orient, spending also some years in Italy. Later he
+lived in southern France and in England. He died in 1167. The probability
+is that he acquired his knowledge of the Hindu arithmetic[514] in his
+native town of Toledo, but it is also likely that the knowledge of other
+systems which he acquired on travels increased his appreciation of this
+one. We have mentioned the fact that he used the first letters of the
+Hebrew alphabet, [Hebrew: A B G D H W Z CH T`], for the numerals 9 8 7 6 5
+4 3 2 1, and a circle for the zero. The quotation in the note given below
+shows that he knew of the Hindu origin; but in his manuscript, although he
+set down the Hindu forms, he used the above nine Hebrew letters with place
+value for all computations.
+
+
+
+
+{128}
+
+CHAPTER VIII
+
+THE SPREAD OF THE NUMERALS IN EUROPE
+
+Of all the medieval writers, probably the one most influential in
+introducing the new numerals to the scholars of Europe was Leonardo
+Fibonacci, of Pisa.[515] This remarkable man, the most noteworthy
+mathematical genius of the Middle Ages, was born at Pisa about 1175.[516]
+
+The traveler of to-day may cross the Via Fibonacci on his way to the Campo
+Santo, and there he may see at the end of the long corridor, across the
+quadrangle, the statue of Leonardo in scholars garb. Few towns have honored
+a mathematician more, and few mathematicians have so distinctly honored
+their birthplace. Leonardo was born in the golden age of this city, the
+period of its commercial, religious, and intellectual prosperity.[517]
+{129} Situated practically at the mouth of the Arno, Pisa formed with Genoa
+and Venice the trio of the greatest commercial centers of Italy at the
+opening of the thirteenth century. Even before Venice had captured the
+Levantine trade, Pisa had close relations with the East. An old Latin
+chronicle relates that in 1005 "Pisa was captured by the Saracens," that in
+the following year "the Pisans overthrew the Saracens at Reggio," and that
+in 1012 "the Saracens came to Pisa and destroyed it." The city soon
+recovered, however, sending no fewer than a hundred and twenty ships to
+Syria in 1099,[518] founding a merchant colony in Constantinople a few
+years later,[519] and meanwhile carrying on an interurban warfare in Italy
+that seemed to stimulate it to great activity.[520] A writer of 1114 tells
+us that at that time there were many heathen people--Turks, Libyans,
+Parthians, and Chaldeans--to be found in Pisa. It was in the midst of such
+wars, in a cosmopolitan and commercial town, in a center where literary
+work was not appreciated,[521] that the genius of Leonardo appears as one
+of the surprises of history, warning us again that "we should draw no
+horoscope; that we should expect little, for what we expect will not come
+to pass."[522]
+
+Leonardo's father was one William,[523] and he had a brother named
+Bonaccingus,[524] but nothing further is {130} known of his family. As to
+Fibonacci, most writers[525] have assumed that his father's name was
+Bonaccio,[526] whence _filius Bonaccii_, or Fibonacci. Others[527] believe
+that the name, even in the Latin form of _filius Bonaccii_ as used in
+Leonardo's work, was simply a general one, like our Johnson or Bronson
+(Brown's son); and the only contemporary evidence that we have bears out
+this view. As to the name Bigollo, used by Leonardo, some have thought it a
+self-assumed one meaning blockhead, a term that had been applied to him by
+the commercial world or possibly by the university circle, and taken by him
+that he might prove what a blockhead could do. Milanesi,[528] however, has
+shown that the word Bigollo (or Pigollo) was used in Tuscany to mean a
+traveler, and was naturally assumed by one who had studied, as Leonardo
+had, in foreign lands.
+
+Leonardo's father was a commercial agent at Bugia, the modern Bougie,[529]
+the ancient Saldae on the coast of Barbary,[530] a royal capital under the
+Vandals and again, a century before Leonardo, under the Beni Hammad. It had
+one of the best harbors on the coast, sheltered as it is by Mt. Lalla
+Guraia,[531] and at the close of the twelfth century it was a center of
+African commerce. It was here that Leonardo was taken as a child, and here
+he went to school to a Moorish master. When he reached the years of young
+manhood he started on a tour of the Mediterranean Sea, and visited Egypt,
+Syria, Greece, Sicily, and Provence, meeting with scholars as well as with
+{131} merchants, and imbibing a knowledge of the various systems of numbers
+in use in the centers of trade. All these systems, however, he says he
+counted almost as errors compared with that of the Hindus.[532] Returning
+to Pisa, he wrote his _Liber Abaci_[533] in 1202, rewriting it in
+1228.[534] In this work the numerals are explained and are used in the
+usual computations of business. Such a treatise was not destined to be
+popular, however, because it was too advanced for the mercantile class, and
+too novel for the conservative university circles. Indeed, at this time
+mathematics had only slight place in the newly established universities, as
+witness the oldest known statute of the Sorbonne at Paris, dated 1215,
+where the subject is referred to only in an incidental way.[535] The period
+was one of great commercial activity, and on this very {132} account such a
+book would attract even less attention than usual.[536]
+
+It would now be thought that the western world would at once adopt the new
+numerals which Leonardo had made known, and which were so much superior to
+anything that had been in use in Christian Europe. The antagonism of the
+universities would avail but little, it would seem, against such an
+improvement. It must be remembered, however, that there was great
+difficulty in spreading knowledge at this time, some two hundred and fifty
+years before printing was invented. "Popes and princes and even great
+religious institutions possessed far fewer books than many farmers of the
+present age. The library belonging to the Cathedral Church of San Martino
+at Lucca in the ninth century contained only nineteen volumes of
+abridgments from ecclesiastical commentaries."[537] Indeed, it was not
+until the early part of the fifteenth century that Palla degli Strozzi took
+steps to carry out the project that had been in the mind of Petrarch, the
+founding of a public library. It was largely by word of mouth, therefore,
+that this early knowledge had to be transmitted. Fortunately the presence
+of foreign students in Italy at this time made this transmission feasible.
+(If human nature was the same then as now, it is not impossible that the
+very opposition of the faculties to the works of Leonardo led the students
+to investigate {133} them the more zealously.) At Vicenza in 1209, for
+example, there were Bohemians, Poles, Frenchmen, Burgundians, Germans, and
+Spaniards, not to speak of representatives of divers towns of Italy; and
+what was true there was also true of other intellectual centers. The
+knowledge could not fail to spread, therefore, and as a matter of fact we
+find numerous bits of evidence that this was the case. Although the bankers
+of Florence were forbidden to use these numerals in 1299, and the statutes
+of the university of Padua required stationers to keep the price lists of
+books "non per cifras, sed per literas claros,"[538] the numerals really
+made much headway from about 1275 on.
+
+It was, however, rather exceptional for the common people of Germany to use
+the Arabic numerals before the sixteenth century, a good witness to this
+fact being the popular almanacs. Calendars of 1457-1496[539] have generally
+the Roman numerals, while Köbel's calendar of 1518 gives the Arabic forms
+as subordinate to the Roman. In the register of the Kreuzschule at Dresden
+the Roman forms were used even until 1539.
+
+While not minimizing the importance of the scientific work of Leonardo of
+Pisa, we may note that the more popular treatises by Alexander de Villa Dei
+(c. 1240 A.D.) and John of Halifax (Sacrobosco, c. 1250 A.D.) were much
+more widely used, and doubtless contributed more to the spread of the
+numerals among the common people.
+
+{134}
+
+The _Carmen de Algorismo_[540] of Alexander de Villa Dei was written in
+verse, as indeed were many other textbooks of that time. That it was widely
+used is evidenced by the large number of manuscripts[541] extant in
+European libraries. Sacrobosco's _Algorismus_,[542] in which some lines
+from the Carmen are quoted, enjoyed a wide popularity as a textbook for
+university instruction.[543] The work was evidently written with this end
+in view, as numerous commentaries by university lecturers are found.
+Probably the most widely used of these was that of Petrus de Dacia[544]
+written in 1291. These works throw an interesting light upon the method of
+instruction in mathematics in use in the universities from the thirteenth
+even to the sixteenth century. Evidently the text was first read and copied
+by students.[545] Following this came line by line an exposition of the
+text, such as is given in Petrus de Dacia's commentary.
+
+Sacrobosco's work is of interest also because it was probably due to the
+extended use of this work that the {135} term _Arabic numerals_ became
+common. In two places there is mention of the inventors of this system. In
+the introduction it is stated that this science of reckoning was due to a
+philosopher named Algus, whence the name _algorismus_,[546] and in the
+section on numeration reference is made to the Arabs as the inventors of
+this science.[547] While some of the commentators, Petrus de Dacia[548]
+among them, knew of the Hindu origin, most of them undoubtedly took the
+text as it stood; and so the Arabs were credited with the invention of the
+system.
+
+The first definite trace that we have of an algorism in the French language
+is found in a manuscript written about 1275.[549] This interesting leaf,
+for the part on algorism consists of a single folio, was noticed by the
+Abbé Leboeuf as early as 1741,[550] and by Daunou in 1824.[551] It then
+seems to have been lost in the multitude of Paris manuscripts; for although
+Chasles[552] relates his vain search for it, it was not rediscovered until
+1882. In that year M. Ch. Henry found it, and to his care we owe our
+knowledge of the interesting manuscript. The work is anonymous and is
+devoted almost entirely to geometry, only {136} two pages (one folio)
+relating to arithmetic. In these the forms of the numerals are given, and a
+very brief statement as to the operations, it being evident that the writer
+himself had only the slightest understanding of the subject.
+
+Once the new system was known in France, even thus superficially, it would
+be passed across the Channel to England. Higden,[553] writing soon after
+the opening of the fourteenth century, speaks of the French influence at
+that time and for some generations preceding:[554] "For two hundred years
+children in scole, agenst the usage and manir of all other nations beeth
+compelled for to leave hire own language, and for to construe hir lessons
+and hire thynges in Frensche.... Gentilmen children beeth taught to speke
+Frensche from the tyme that they bith rokked in hir cradell; and
+uplondissche men will likne himself to gentylmen, and fondeth with greet
+besynesse for to speke Frensche."
+
+The question is often asked, why did not these new numerals attract more
+immediate attention? Why did they have to wait until the sixteenth century
+to be generally used in business and in the schools? In reply it may be
+said that in their elementary work the schools always wait upon the demands
+of trade. That work which pretends to touch the life of the people must
+come reasonably near doing so. Now the computations of business until about
+1500 did not demand the new figures, for two reasons: First, cheap paper
+was not known. Paper-making of any kind was not introduced into Europe
+until {137} the twelfth century, and cheap paper is a product of the
+nineteenth. Pencils, too, of the modern type, date only from the sixteenth
+century. In the second place, modern methods of operating, particularly of
+multiplying and dividing (operations of relatively greater importance when
+all measures were in compound numbers requiring reductions at every step),
+were not yet invented. The old plan required the erasing of figures after
+they had served their purpose, an operation very simple with counters,
+since they could be removed. The new plan did not as easily permit this.
+Hence we find the new numerals very tardily admitted to the counting-house,
+and not welcomed with any enthusiasm by teachers.[555]
+
+Aside from their use in the early treatises on the new art of reckoning,
+the numerals appeared from time to time in the dating of manuscripts and
+upon monuments. The oldest definitely dated European document known {138}
+to contain the numerals is a Latin manuscript,[556] the Codex Vigilanus,
+written in the Albelda Cloister not far from Logroño in Spain, in 976 A.D.
+The nine characters (of [.g]ob[=a]r type), without the zero, are given as
+an addition to the first chapters of the third book of the _Origines_ by
+Isidorus of Seville, in which the Roman numerals are under discussion.
+Another Spanish copy of the same work, of 992 A.D., contains the numerals
+in the corresponding section. The writer ascribes an Indian origin to them
+in the following words: "Item de figuris arithmetic[e,]. Scire debemus in
+Indos subtilissimum ingenium habere et ceteras gentes eis in arithmetica et
+geometria et ceteris liberalibus disciplinis concedere. Et hoc manifestum
+est in nobem figuris, quibus designant unumquemque gradum cuiuslibet
+gradus. Quarum hec sunt forma." The nine [.g]ob[=a]r characters follow.
+Some of the abacus forms[557] previously given are doubtless also of the
+tenth century. The earliest Arabic documents containing the numerals are
+two manuscripts of 874 and 888 A.D.[558] They appear about a century later
+in a work[559] written at Shiraz in 970 A.D. There is also an early trace
+of their use on a pillar recently discovered in a church apparently
+destroyed as early as the tenth century, not far from the Jeremias
+Monastery, in Egypt. {139} A graffito in Arabic on this pillar has the date
+349 A.H., which corresponds to 961 A.D.[560] For the dating of Latin
+documents the Arabic forms were used as early as the thirteenth
+century.[561]
+
+On the early use of these numerals in Europe the only scientific study
+worthy the name is that made by Mr. G. F. Hill of the British Museum.[562]
+From his investigations it appears that the earliest occurrence of a date
+in these numerals on a coin is found in the reign of Roger of Sicily in
+1138.[563] Until recently it was thought that the earliest such date was
+1217 A.D. for an Arabic piece and 1388 for a Turkish one.[564] Most of the
+seals and medals containing dates that were at one time thought to be very
+early have been shown by Mr. Hill to be of relatively late workmanship.
+There are, however, in European manuscripts, numerous instances of the use
+of these numerals before the twelfth century. Besides the example in the
+Codex Vigilanus, another of the tenth century has been found in the St.
+Gall MS. now in the University Library at Zürich, the forms differing
+materially from those in the Spanish codex.
+
+The third specimen in point of time in Mr. Hill's list is from a Vatican
+MS. of 1077. The fourth and fifth specimens are from the Erlangen MS. of
+Boethius, of the same {140} (eleventh) century, and the sixth and seventh
+are also from an eleventh-century MS. of Boethius at Chartres. These and
+other early forms are given by Mr. Hill in this table, which is reproduced
+with his kind permission.
+
+EARLIEST MANUSCRIPT FORMS
+
+[Illustration]
+
+This is one of more than fifty tables given in Mr. Hill's valuable paper,
+and to this monograph students {141} are referred for details as to the
+development of number-forms in Europe from the tenth to the sixteenth
+century. It is of interest to add that he has found that among the earliest
+dates of European coins or medals in these numerals, after the Sicilian one
+already mentioned, are the following: Austria, 1484; Germany, 1489
+(Cologne); Switzerland, 1424 (St. Gall); Netherlands, 1474; France, 1485;
+Italy, 1390.[565]
+
+The earliest English coin dated in these numerals was struck in 1551,[566]
+although there is a Scotch piece of 1539.[567] In numbering pages of a
+printed book these numerals were first used in a work of Petrarch's
+published at Cologne in 1471.[568] The date is given in the following form
+in the _Biblia Pauperum_,[569] a block-book of 1470,
+
+[Illustration]
+
+while in another block-book which possibly goes back to c. 1430[570] the
+numerals appear in several illustrations, with forms as follows:
+
+[Illustration]
+
+Many printed works anterior to 1471 have pages or chapters numbered by
+hand, but many of these numerals are {142} of date much later than the
+printing of the work. Other works were probably numbered directly after
+printing. Thus the chapters 2, 3, 4, 5, 6 in a book of 1470[571] are
+numbered as follows: Capitulem [Symbol 2]m.,... [Symbol 3]m.,... 4m.,...
+v,... vi, and followed by Roman numerals. This appears in the body of the
+text, in spaces left by the printer to be filled in by hand. Another
+book[572] of 1470 has pages numbered by hand with a mixture of Roman and
+Hindu numerals, thus,
+
+  [Illustration] for 125      [Illustration] for 150
+  [Illustration] for 147      [Illustration] for 202
+
+As to monumental inscriptions,[573] there was once thought to be a
+gravestone at Katharein, near Troppau, with the date 1007, and one at
+Biebrich of 1299. There is no doubt, however, of one at Pforzheim of 1371
+and one at Ulm of 1388.[574] Certain numerals on Wells Cathedral have been
+assigned to the thirteenth century, but they are undoubtedly considerably
+later.[575]
+
+The table on page 143 will serve to supplement that from Mr. Hill's
+work.[576]
+
+{143}
+
+EARLY MANUSCRIPT FORMS
+
+  [577] [Illustration] Twelfth century A.D.
+  [578] [Illustration] 1197 A.D.
+  [579] [Illustration] 1275 A.D.
+  [580] [Illustration] c. 1294 A.D.
+  [581] [Illustration] c. 1303 A.D.
+  [582] [Illustration] c. 1360 A.D.
+  [583] [Illustration] c. 1442 A.D.
+
+{144}
+
+[Illustration]
+
+For the sake of further comparison, three illustrations from works in Mr.
+Plimpton's library, reproduced from the _Rara Arithmetica_, may be
+considered. The first is from a Latin manuscript on arithmetic,[584] of
+which the original was written at Paris in 1424 by Rollandus, a Portuguese
+physician, who prepared the work at the command of John of Lancaster, Duke
+of Bedford, at one time Protector of England and Regent of France, to whom
+the work is dedicated. The figures show the successive powers of 2. The
+second illustration is from Luca da Firenze's _Inprencipio darte
+dabacho_,[585] c. 1475, and the third is from an anonymous manuscript[586]
+of about 1500.
+
+[Illustration]
+
+As to the forms of the numerals, fashion played a leading part until
+printing was invented. This tended to fix these forms, although in writing
+there is still a great variation, as witness the French 5 and the German 7
+and 9. Even in printing there is not complete uniformity, {145} and it is
+often difficult for a foreigner to distinguish between the 3 and 5 of the
+French types.
+
+[Illustration]
+
+As to the particular numerals, the following are some of the forms to be
+found in the later manuscripts and in the early printed books.
+
+1. In the early printed books "one" was often i, perhaps to save types,
+just as some modern typewriters use the same character for l and 1.[587] In
+the manuscripts the "one" appears in such forms as[588]
+
+[Illustration]
+
+2. "Two" often appears as z in the early printed books, 12 appearing as
+iz.[589] In the medieval manuscripts the following forms are common:[590]
+
+[Illustration]
+
+{146}
+
+It is evident, from the early traces, that it is merely a cursive form for
+the primitive [2 horizontal strokes], just as 3 comes from [3 horizontal
+strokes], as in the N[=a]n[=a] Gh[=a]t inscriptions.
+
+3. "Three" usually had a special type in the first printed books, although
+occasionally it appears as [Symbol].[591] In the medieval manuscripts it
+varied rather less than most of the others. The following are common
+forms:[592]
+
+[Illustration]
+
+4. "Four" has changed greatly; and one of the first tests as to the age of
+a manuscript on arithmetic, and the place where it was written, is the
+examination of this numeral. Until the time of printing the most common
+form was [Symbol], although the Florentine manuscript of Leonard of Pisa's
+work has the form [Symbol];[593] but the manuscripts show that the
+Florentine arithmeticians and astronomers rather early began to straighten
+the first of these forms up to forms like [Symbol][594] and [Symbol][594]
+or [Symbol],[595] more closely resembling our own. The first printed books
+generally used our present form[596] with the closed top [Symbol], the open
+top used in writing ( [Symbol]) being {147} purely modern. The following
+are other forms of the four, from various manuscripts:[597]
+
+[Illustration]
+
+5. "Five" also varied greatly before the time of printing. The following
+are some of the forms:[598]
+
+[Illustration]
+
+6. "Six" has changed rather less than most of the others. The chief
+variation has been in the slope of the top, as will be seen in the
+following:[599]
+
+[Illustration]
+
+7. "Seven," like "four," has assumed its present erect form only since the
+fifteenth century. In medieval times it appeared as follows:[600]
+
+[Illustration]
+
+{148}
+
+8. "Eight," like "six," has changed but little. In medieval times there are
+a few variants of interest as follows:[601]
+
+[Illustration]
+
+In the sixteenth century, however, there was manifested a tendency to write
+it [Symbol].[602]
+
+9. "Nine" has not varied as much as most of the others. Among the medieval
+forms are the following:[603]
+
+[Illustration]
+
+0. The shape of the zero also had a varied history. The following are
+common medieval forms:[604]
+
+[Illustration]
+
+The explanation of the place value was a serious matter to most of the
+early writers. If they had been using an abacus constructed like the
+Russian chotü, and had placed this before all learners of the positional
+system, there would have been little trouble. But the medieval {149}
+line-reckoning, where the lines stood for powers of 10 and the spaces for
+half of such powers, did not lend itself to this comparison. Accordingly we
+find such labored explanations as the following, from _The Crafte of
+Nombrynge_:
+
+"Euery of these figuris bitokens hym selfe & no more, yf he stonde in the
+first place of the rewele....
+
+"If it stonde in the secunde place of the rewle, he betokens ten tymes hym
+selfe, as this figure 2 here 20 tokens ten tyme hym selfe, that is twenty,
+for he hym selfe betokens tweyne, & ten tymes twene is twenty. And for he
+stondis on the lyft side & in the secunde place, he betokens ten tyme hym
+selfe. And so go forth....
+
+"Nil cifra significat sed dat signare sequenti. Expone this verse. A cifre
+tokens no[gh]t, bot he makes the figure to betoken that comes after hym
+more than he shuld & he were away, as thus 10. here the figure of one
+tokens ten, & yf the cifre were away & no figure byfore hym he schuld token
+bot one, for than he schuld stonde in the first place...."[605]
+
+It would seem that a system that was thus used for dating documents, coins,
+and monuments, would have been generally adopted much earlier than it was,
+particularly in those countries north of Italy where it did not come into
+general use until the sixteenth century. This, however, has been the fate
+of many inventions, as witness our neglect of logarithms and of contracted
+processes to-day.
+
+As to Germany, the fifteenth century saw the rise of the new symbolism; the
+sixteenth century saw it slowly {150} gain the mastery; the seventeenth
+century saw it finally conquer the system that for two thousand years had
+dominated the arithmetic of business. Not a little of the success of the
+new plan was due to Luther's demand that all learning should go into the
+vernacular.[606]
+
+During the transition period from the Roman to the Arabic numerals, various
+anomalous forms found place. For example, we have in the fourteenth century
+c[alpha] for 104;[607] 1000. 300. 80 et 4 for 1384;[608] and in a
+manuscript of the fifteenth century 12901 for 1291.[609] In the same
+century m. cccc. 8II appears for 1482,[610] while M^oCCCC^o50 (1450) and
+MCCCCXL6 (1446) are used by Theodoricus Ruffi about the same time.[611] To
+the next century belongs the form 1vojj for 1502. Even in Sfortunati's
+_Nuovo lume_[612] the use of ordinals is quite confused, the propositions
+on a single page being numbered "tertia," "4," and "V."
+
+Although not connected with the Arabic numerals in any direct way, the
+medieval astrological numerals may here be mentioned. These are given by
+several early writers, but notably by Noviomagus (1539),[613] as
+follows[614]:
+
+[Illustration]
+
+{151}
+
+Thus we find the numerals gradually replacing the Roman forms all over
+Europe, from the time of Leonardo of Pisa until the seventeenth century.
+But in the Far East to-day they are quite unknown in many countries, and
+they still have their way to make. In many parts of India, among the common
+people of Japan and China, in Siam and generally about the Malay Peninsula,
+in Tibet, and among the East India islands, the natives still adhere to
+their own numeral forms. Only as Western civilization is making its way
+into the commercial life of the East do the numerals as used by us find
+place, save as the Sanskrit forms appear in parts of India. It is therefore
+with surprise that the student of mathematics comes to realize how modern
+are these forms so common in the West, how limited is their use even at the
+present time, and how slow the world has been and is in adopting such a
+simple device as the Hindu-Arabic numerals.
+
+
+
+
+{153}
+
+INDEX
