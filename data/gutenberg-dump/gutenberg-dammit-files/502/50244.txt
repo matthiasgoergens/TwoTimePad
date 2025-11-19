@@ -1,0 +1,2260 @@
++------------------------------------------------------------------+
+  | Anmerkungen zur Transkription                                    |
+  |                                                                  |
+  | Gesperrter Text ist als _gesperrt_ dargestellt, Fettschrift als  |
+  | $fett$ und Schrift in Antiqua als ~antiqua~.                     |
+  |                                                                  |
+  | Eine Liste der Änderungen befindet sich am Ende des Buchs.       |
+  +------------------------------------------------------------------+
+
+
+[Illustration]
+
+~EX LIBRIS~
+
+Benzigers Naturwissenschaftliche Bibliothek.
+
+Schon lange suchen _glaubenslose Vertreter der modernen
+Naturwissenschaft_ die glänzenden Erfolge, die in der Erkenntnis der
+materiellen Welt errungen worden sind, zu verwerten, um geistige
+Strömungen zu erregen und Ideen zu verbreiten, die das Christentum
+unterwühlen sollen. Sogar scheinbar ganz harmlose Gegenstände müssen
+oft Gelegenheit bieten zu Ausfällen gegen Christentum und Kirche.
+
+_Dieser Tatsache gegenüber steht der gläubige Gebildete vielfach
+ratlos da._ Er weiß zwar, daß ein wirklicher Widerspruch zwischen der
+Naturwissenschaft und der geoffenbarten christlichen Wahrheit unmöglich
+ist und daß die großen christlichen Gelehrten für die Harmonie
+zwischen Glaube und Wissen stets eingetreten sind. Will er aber über
+diese Fragen sich näher orientieren und sich ein eigenes Urteil
+bilden, so ist er auf gelehrte, meist sehr umfangreiche Spezialwerke
+angewiesen. Das Studium solcher Werke jedoch setzt wiederum besondere
+wissenschaftliche Vorstudien und großen Zeitaufwand voraus --
+Bedingungen, die den wenigsten Nichtfachleuten zusagen können.
+
+Da möchte nun das vorliegende Unternehmen nach Kräften Abhilfe
+schaffen. Eine Reihe kompetenter Fachmänner hat demselben in
+dankenswerter Weise ihre Mitwirkung zugesichert. In zwangloser Folge
+soll eine gewählte Sammlung handlicher Bändchen erscheinen, die in
+gedrängter, knapper und doch erschöpfender Fassung (je 120-200 Seiten
+in kl. 8^o) naturwissenschaftliche Fragen sowohl grundsätzlicher
+als auch rein wissenschaftlicher Natur behandeln. Bei den Fragen
+grundsätzlicher Natur wird es stets die Hauptaufgabe dieser
+Abhandlungen sein, _das volle Beweismaterial für die christliche
+Naturanschauung in klarer, überzeugender Gestaltung dem Leser
+beizubringen_. Die Darstellung soll so gehalten sein, daß jeder
+Gebildete ihr leicht zu folgen vermag. Den Text wird eine ausgiebige
+zweckdienliche Illustration begleiten.
+
+Mitarbeiter und Verlagshandlung hoffen angesichts dieses Programms,
+für das Unternehmen auf die wohlwollende Aufnahme und allseitige
+Unterstützung jener Kreise zählen zu dürfen, für welche dasselbe
+geschaffen wurde.
+
+                                                $Die Verlagshandlung.$
+
+[Illustration]
+
+
+Benzigers Naturwissenschaftliche Bibliothek.
+
+
+
+
+                              Die Uhren.
+
+               Ein Abriß der Geschichte der Zeitmessung.
+
+                                  Von
+
+                    ~P.~ Fintan Kindler, ~O. S. B.~
+
+                        Mit 65 Illustrationen.
+
+                            [Illustration]
+
+                 _Verlagsanstalt Benziger_ & Co. A. G.
+                 Einsiedeln -- Waldshut -- Köln a/Rh.
+
+         New York, Cincinnati, Chicago, bei Benziger Brothers.
+
+                                 1905.
+
+
+
+
+Vorwort.
+
+
+Die folgenden Ausführungen erheben keinen Anspruch darauf, eine
+vollständige Geschichte der Uhren zu liefern, eine solche würde
+viele Bände füllen; es sollen vielmehr nur die Hauptmomente in der
+Entwicklung der Zeitmessung kurz angedeutet werden. Ebensowenig will
+das Büchlein etwa „eine Lücke ausfüllen, einem dringenden Bedürfnis
+abhelfen,” denn es gibt zahlreiche Werke, die unsern Gegenstand
+behandeln. Sie sind aber meist sehr umfangreich, und infolge dessen
+teuer, aus beiden Gründen also nicht für jedermann. Und doch sind
+es gerade die Uhren, welche von jeher mit Recht das Interesse des
+gebildeten Menschen erregt haben, denn auf wenige Gegenstände des
+täglichen Gebrauches ist so viel Scharfsinn, Fleiß und Mühe verwendet
+worden, als auf unsere Zeitmesser. Dieses Interesse hat auch bis heute
+nicht ab- sondern eher zugenommen, weil die modernen Verkehrs- und
+Erwerbsverhältnisse den Menschen immer mehr von einem richtigen Zeitmaß
+abhängig machen, ohne daß wir uns für gewöhnlich dessen bewußt wären.
+Klar wird uns diese Abhängigkeit meist nur im unangenehmen Falle des
+„zu spät” kommens. Auch ist es immer anregend, den Werdegang einer
+Kunst, und um eine solche handelt es sich hier, zu verfolgen und sich
+ein klares Bild zu machen vom Streben früherer Zeiten, wie von den
+Erfolgen der Gegenwart. Aus diesen und ähnlichen Erwägungen ist das
+vorliegende Schriftchen hervorgegangen.
+
+Die Verlagshandlung hat keine Kosten gescheut, das Büchlein möglichst
+reich auszustatten, wofür derselben hier besonders gedankt sei.
+
+  Stift Einsiedeln, i. d. Schweiz.
+
+                                                    $Der Verfasser.$
+
+
+
+
+Inhaltsübersicht.
+
+
+    ~I.~ Die Zeitmesser der alten Völker.
+
+   ~II.~ Uhren und Zeitmessung bis zum 12. Jahrhundert.
+
+  ~III.~ Anfänge und Entwicklung der Räder- und Gewichtuhren.
+
+   ~IV.~ Die Pendeluhr. Erfindungsgeschichte derselben.
+
+    ~V.~ Weitere Entwicklung der Uhren im 18. und 19. Jahrhundert.
+
+          1. Die Pendeluhren im allgemeinen.
+
+          2. Die Kompensation.
+
+          3. Die elektrischen Uhren.
+
+          4. Fortschritte in der Herstellung von Taschenuhren.
+
+          5. Die Chronometer.
+
+          6. Leistung, Nutzen, Auswahl und Behandlung einer Uhr.
+
+   ~VI.~ Die fabrikmäßige Herstellung der Uhren.
+
+          1. Die Uhrenindustrie in der Schweiz.
+
+          2. Die Schwarzwälder Uhr.
+
+          3. Die Uhrenindustrie in den übrigen Ländern.
+
+[Illustration]
+
+
+
+
+Illustrationsverzeichnis.
+
+
+                                                                   Seite
+
+  Fig. 1. Antike Sonnenuhr                                             6
+
+   „   2. Wasseruhr von ~P.~ Athanas Kircher                          14
+
+   „   3. Sanduhr aus dem 16. Jahrhundert                             15
+
+   „   4. Oeluhr                                                      20
+
+   „   5. Aelteste Hemmung (Waagunruhe)                               28
+
+   „   6. Waageuhr                                                    30
+
+   „   7. Alte Räderuhr                                               31
+
+   „   8. Uhr von Dover Castle aus dem Jahr 1348                      35
+
+   „   9. Uhr von Lyon                                                38
+
+   „  10. Uhr von 1392. Germanisches Museum Nürnberg                  41
+
+   „  11. Uhrmacherwerkstätte im 16. Jahrhundert nach Stradanus       45
+
+   „  12. Zeitglockenturm in Bern                                     48
+
+   „  13. Kalenderzifferblatt der Uhr am Zeitglockenturm in Bern      49
+
+   „  14. Automatengruppe der Uhr am Zeitglockenturm in Bern          50
+
+   „  15. Zifferblatt der Uhr in Solothurn                            53
+
+   „  16. Straßburgeruhr                                              57
+
+   „  17. Federhaus, Schnecke und Kette                               71
+
+   „  18. Alte Tischuhr von 1504                                      72
+
+   „  19. Inneres derselben                                           73
+
+   „  20. Taschenuhr aus der ersten Hälfte des 16. Jahrhunderts       78
+
+   „  21. Zylindrische Taschenuhr aus der Zeit Peter Henleins         79
+
+   „  22. Französische Taschenuhren aus der Zeit der Valois           80
+
+   „  23. Totenkopfuhr                                                81
+
+   „  24. Jost Bürgi                                                  86
+
+   „  25. Galilei                                                     89
+
+   „  26. Pendeluhr Galileis                                          92
+
+   „  27. Galileische Hemmung                                         93
+
+   „  28. Christiaan Huygens                                          96
+
+   „  29. Pendeluhr von Huygens                                      102
+
+   „  30. Pendelaufhängung                                           105
+
+   „  31. Aeußeres einer Huygensʼschen Uhr                           105
+
+   „  32. Entstehung einer Cykloide                                  110
+
+   „  33. Halbcykloide                                               111
+
+   „  34. Hemmung von Clement                                        115
+
+   „  35. Graham                                                     116
+
+   „  36. Graham-Anker                                               117
+
+   „  37. Stiftehemmung                                              118
+
+   „  38. Mannhardtʼsche Uhr                                         119
+
+   „  39. Riesterʼs Hemmung, Vorderansicht                           123
+
+   „  40.    „         „     Seitenansicht                           124
+
+   „  41.    „      Astronomische Uhr unter Glas                     126
+
+   „  42. Rostpendel                                                 127
+
+   „  43. Quecksilberpendel                                          129
+
+   „  44. Nickelstahlpendel                                          130
+
+   „  45. Einfachste elektrische Uhr                                 132
+
+   „  46. Schematische Kontaktvorrichtung                            133
+
+   „  47. Vorderansicht einer Uhr von Hipp                           134
+
+   „  48. Seitenansicht   „    „   „   „                             135
+
+   „  49. Kontaktvorrichtung von Hipp                                136
+
+   „  50. }
+          }  System Magneta                                   137 u. 138
+   „  51. }
+
+   „  52. Pneumatische Uhr                                           140
+
+   „  53. ~a.~ ~b.~ Zwei Taschenuhren mit Automaten           141 u. 142
+
+   „  54. Ringuhr ~c.~ 1780                                          143
+
+   „  55. Kleine Uhr von 1680                                        143
+
+   „  56. Uhr von Beaumarchais und Genferuhr                         143
+
+   „  57. Zylinderhemmung, vergrößert                                146
+
+   „  58. Wirkungsweise der Zylinderhemmung                          146
+
+   „  59. Schweizer Ankerhemmung                                     147
+
+   „  60. Kompensationsunruhe                                        148
+
+   „  61. Chronometer                                                155
+
+   „  62. Chronometerhemmung                                         156
+
+   „  63. La Chaux-de-Fonds                                          166
+
+   „  64. Breguet                                                    168
+
+   „  65. Aelteste Holzräderuhr von 1613                             175
+
+[Illustration]
+
+
+
+
+~I.~
+
+Die Zeitmesser der alten Völker.
+
+
+Die Worte der Genesis: „Es wurde Abend und es wurde Morgen, ein Tag”,
+geben uns einen Fingerzeig über das zuerst angewandte Zeitmaß: den
+scheinbaren Umlauf der Sonne. Nach ihrem Auf- und Untergang berechnete
+der Mensch die Tage, ohne jedoch damit vorläufig ein eigentliches,
+genaues Zeitmaß zu haben. Mond und Sterne wurden ebenfalls schon in den
+ersten Zeiten beobachtet, um auf das „Wie spät ist es?” eine Antwort
+geben zu können. Der Wechsel des Mondes führte allmählich zum Begriff
+„Monat”; Sommer und Winter mit je sechs solchen Wechseln bildeten das
+Jahr.
+
+Die fortschreitende Kultur verlangte aber bald eine genauere Messung;
+diese finden wir im Begriff „Mittag”. Sein Ursprung ist wohl bei den
+Chaldäern, Babyloniern und Aegyptern zu suchen; die westlichen Völker,
+so z. B. die Römer, überkamen ihn erst ziemlich spät von den Griechen.
+Ein öffentlicher Diener der Konsuln mußte diesen Mittag ausrufen,
+sobald er von der Kurie aus die Sonne zwischen den Rostren und dem
+Gesandtenpalast stehen sah. In den zwölf Tafeln findet sich auch zuerst
+die Bezeichnung „~ante meridiem~” vormittags; man brauchte aber bei
+den Römern mit Vorliebe, wie aus vielen Stellen der antiken Texte
+hervorgeht, den Ausdruck „~hora sexta~” (sechste Stunde).[1]
+
+Uebrigens mochte schon von Anfang an der Magen die Stelle einer ersten
+Tageseinteilung vertreten, wie denn auch nach Aulus Gellius[2] Plautus
+in einer verloren gegangenen Komödie einen Schmarotzer sagen läßt:
+„Daß die Götter den verdammen, der zuerst die Stunden erfand und
+deshalb diese erste Sonnenuhr setzte, die mir Armen stückweise den Tag
+verkürzt. Als Knabe war der Bauch meine Sonnenuhr, unter allen die
+beste und richtigste. Ueberall mahnte diese zum Essen, außer wo nichts
+zu essen war; jetzt aber wird auch was da ist, nicht gegessen, wenn es
+der Sonne nicht gefällt” u. s. w. -- Das Kriegswesen der Römer brachte
+bald auch die Einteilung der Nacht in sog. Vigilien, vier an der
+Zahl[3].
+
+Als weiteres Mittel der Zeitbestimmung diente auch schon früher der
+Haushahn. Die Römer führten ihn mit sich auf ihren Kriegszügen,
+daher war er dem Mars geweiht. Weil er zweimal kräht, das erstemal
+um Mitternacht, dann vor Tagesanbruch, so ließ sich mit dieser Uhr
+allenfalls auskommen, so lange keine große Genauigkeit erforderlich
+war, wie ja auch jetzt noch der Hahn bei den Landleuten vielfach
+als Wecker dient. Uebrigens blieb dieses streitbare Tier noch
+lange Begleiter der Heere; so führten in der ersten Hälfte des 15.
+Jahrhunderts die Burgunder bei der Belagerung von Calais unter Philipp
+dem Guten viele Hähne mit sich, damit sie ihnen die Mitternacht und den
+Beginn der Dämmerung anzeigten. Zum gleichen Zwecke nahmen auch die
+Seefahrer Hähne mit sich[4].
+
+Viel leichter aber und genauer läßt sich irgend eine Tageszeit aus
+der Länge des Schattens, d. h. aus der Sonnenhöhe bestimmen. So finden
+wir auch tatsächlich in den ältesten Nachrichten neben den später zu
+erwähnenden Wasseruhren Sonnenuhren genannt. Sonnen- und Wasseruhren
+sind also die ältesten Zeitmesser.
+
+Die Erfindung der Sonnenuhr liegt vollständig im Dunkeln; vielleicht
+benutzten die Aegypter die Obelisken als Sonnenzeiger, vielleicht
+ist sie babylonischen Ursprungs. Gewöhnlich wird als ihr Erfinder
+der Chaldäer Berosus (ca. 600 v. Chr.) genannt,[5] der seine Heimat
+verlassend, auf der Insel Kos, gegenüber Milet, eine Schule errichtete
+und so die Kenntnis der Sonnenuhr den Griechen vermittelt hätte.[6]
+
+Ursprünglich diente ein Stab oder eine Säule als Sonnenzeiger
+(Gnomon), auch der menschliche Körper wurde dazu benützt. Eine der
+ältesten Sonnenuhren, die erwähnt wird, ist jene des Königs Achaz
+(4. Könige 20, 9-11; Is. 38, 8.), welche für den Gebrauch des
+Hofes bestimmt war; nach und nach kamen auch auf die öffentlichen
+Plätze der Städte Sonnenuhren. Von derartigen Uhren haben uns die
+alten Schriftsteller viele Nachrichten überliefert. So läßt z. B.
+Aristophanes in den „~Ecclesiazusen~” die Praxagora, eine Schwärmerin
+für Frauenemanzipation, ihrem Manne auf die Frage, wer denn unter dem
+neuen Regiment das Feld bestellen müsse, antworten: „Die Sklaven. Du
+aber hast nichts zu besorgen, als gebadet und gesalbt zum Essen zu
+kommen, wenn das Stoicheion (der Schattenzeiger) 10 Fuß mißt.” Der
+Erklärer sagt dazu, daß man damals die Tageszeit, zu der man sich zum
+Essen bestellte, durch die Länge des Schattens angab. Ebenso hat uns
+Athenäus ein Fragment des Menander aufbewahrt, worin ein Schmarotzer
+geschildert wird, dem das Ungeschick widerfährt, morgens beim Aufstehen
+den hellen Mondschein für die Nachmittagssonne anzusehen; eiligst mißt
+er den Schatten, und da er ihn länger als 12 Fuß findet, so läuft er
+aus Leibeskräften, um -- bei Tagesanbruch an dem Orte anzukommen,
+wohin er auf den Abend geladen ist. -- Der Komiker Eubulos (~Athen.
+I, 8.~) läßt den Philokrates den Schatten, statt vor Sonnenuntergang,
+nach Sonnenaufgang messen; dieser mißt 22 Fuß. Er ist aber auf 20 Fuß
+zum Mahle bestellt, und entschuldigt sich mit Geschäften, die ihn
+zurückgehalten hätten.[7]
+
+Der Schatten wurde ursprünglich durch Abschreiten, Fuß vor Fuß,
+gemessen, nachdem man sich vorher genau die Stelle merkte, wo der
+Schatten des Kopfes war. Salmasius bemerkt hiezu, daß die Ungleichheit
+des Schattens bei verschiedener Körperlänge sich durch das Fußmaß zum
+guten Teile wieder ausgleiche, indem ein konstantes Verhältnis bestehe
+zwischen der Körperlänge eines Menschen und seiner Fußlänge. Diese
+Meßmethode findet sich sogar bis ins Mittelalter hinein, so z. B.
+in der Gnomonik von Schoner, einem im 16. Jahrhundert erschienenen
+Werke über Sonnenuhren. Später verzeichnete man die Grenzen des
+Schattens auf dem Boden vor dem Sonnenzeiger, wie dies der Fall war
+bei dem Obelisken, den Augustus auf dem Marsfelde errichten ließ.
+Plinius berichtet hierüber:[8] „Den Obelisk auf dem Marsfelde hat der
+göttliche Augustus auf eine merkwürdige Art nutzbar gemacht: er dient
+nämlich als Zeiger der Länge des Sonnenschattens und also der Tag-
+und Nachtlängen. Er ließ nach Verhältnis der Höhe des Obeliskus einen
+Stein legen (nordwärts) von solcher Länge, daß ihm der Sonnenschatten
+am kürzesten Tage in der 6. Stunde (zu Mittag) gleich wurde. Auf diesem
+waren metallene Linien eingelegt, nach welchen man das Ab- und Zunehmen
+der Schattenlänge wahrnehmen konnte. Was dabei besonders merkwürdig
+ist und dem erfinderischen Genie des Mathematikers ~Facundus Novus~
+Ehre macht, ist dieses: Auf die Spitze (des Obelisken) setzt er eine
+vergoldete Kugel, weil sich der Schatten am Scheitel einer Kugel
+beisammen hält, während er, von einer Spitze geworfen, sich regellos
+zerstreut; der menschliche Kopf soll ihn, wie man sagt, auf diese Idee
+gebracht haben.”
+
+Aus dieser Stelle geht hervor, daß vor dem Obelisk eine Art Zifferblatt
+angebracht war, mit Ziffern aus Erz; daß ferner die Spitze desselben
+mit einer Kugel versehen war, welche den Schatten sammelte, d. h.
+genauer abgrenzte als die Spitze, und daß endlich diese Messung des
+Schattens analog war jener, bei welcher als Endpunkt der Kopf des
+Menschen genommen wurde. -- Selbstverständlich gibt aber ein und
+derselbe Schattenzeiger zu verschiedenen Jahreszeiten auch verschiedene
+Schattenlängen; man mußte also den Zeiger öfters auswechseln,
+wenigstens zweimal im Jahre. Leicht ließ sich auch für einen
+bestimmten Sonnenzeiger der Schatten ein für allemal feststellen durch
+Kreise, die man konzentrisch zum Gnomon zog, wodurch das Abschreiten
+wegfiel. Aber auch so war die Zeitbestimmung noch eine sehr rohe,
+und es trat an Mechaniker und Mathematiker die schwierige Aufgabe
+heran, eine Sonnenuhr zu konstruieren, welche den zu verschiedenen
+Zeiten ungleichen Bogen der Sonne in gleiche Teile teilte und so den
+Schattenweg zu einem getreuen Abbild des Sonnenweges machte. Bald
+wurden auch Schattentabellen für alle Monate des Jahres angefertigt,
+woraus man jederzeit eine beliebige Tagesstunde aus der Länge des
+Schattens berechnen konnte.
+
+Ohne hier auf Einzelheiten in der Konstruktion näher einzugehen, sei
+nur noch bemerkt, daß Sonnenuhren in Form hohler Halbkugeln im Altertum
+sehr verbreitet waren. Vitruv (~l. IX c. 8~) bezeichnet eine solche Uhr
+als „halbe Hohlkugel viereckig und in einem der Polhöhe entsprechenden
+Winkel geschnitten.” Es möge hier die Abbildung (Fig. 1) einer antiken
+Sonnenuhr folgen, mit der Beschreibung, wie Bilfinger sie gibt
+(~l. c.~ S. 25). „Man denke sich eine ausgehöhlte Halbkugel, genau
+wagrecht gestellt und mit der Höhlung dem Zenith zugewendet. Im Zentrum
+sei irgend ein kleiner schattenwerfender Gegenstand, etwa ein Kügelchen
+(oder wie gewöhnlich ein gegen die Mitte der Höhlung ragender Stift)
+angebracht. Sobald die Sonne am Horizont erscheint, wird sich auch am
+Horizont der hohlen Halbkugel, nur an der entgegengesetzten Seite der
+Schatten des Kügelchens zeigen und dieser wird dann bis zum Untergang
+der Sonne im Inneren der Hohlkugel genau denselben Kreis beschreiben,
+den die Sonne am Himmel macht, nur in umgekehrter Richtung. Bezeichnet
+man im Inneren des Hemicycliums den Weg des Schattens durch eine
+bleibende Linie und wiederholt dieses an beliebig vielen Tagen, so hat
+man ebenso viele Tageskurven für die zu entwerfende Uhr gewonnen. Man
+wird sich aber nach der Gewohnheit der Alten mit drei Schattenkurven,
+für das Aequinoktium, für den längsten und den kürzesten Tag, begnügen
+und darf dann nur noch jede dieser Kurven in zwölf gleiche Teile
+teilen, die Schnittpunkte durch Stundenlinien miteinander verbinden,
+und im Prinzip ist die Uhr fertig.”
+
+[Illustration: Fig. 1.]
+
+Die hier abgebildete Sonnenuhr stammt aus der „~casa dei capitelli
+figurati~” und wurde von Avellino (~Descrizione di una casa Pompeiana.
+Napoli 1837~) veröffentlicht. Die Ziffern und Zeichen des Tierkreises
+sind nur des bessern Verständnisses halber beigefügt, fehlen also im
+Original, indem die Alten die Stunden wahrscheinlich abzählten, statt
+sie abzulesen; nur die Mittagslinie wurde besonders hervorgehoben.
+Außer dieser Art Uhren kannten die Alten noch viele andere. Bald
+konstruierte man auch tragbare Sonnenuhren, die man aufhing, vielleicht
+am Halse, wie später die mechanischen Taschenuhren. Darauf scheint
+auch eine Stelle bei Athenäus hinzudeuten, wo von einem Geizhals,
+der einen Oelkrug trägt, gesagt wird: „Er sah so oft nach seinem
+Oel, daß man glauben konnte, er trage eine Uhr.” Es bezeichnet diese
+Verallgemeinerung der Uhren einen großen Fortschritt; denn die
+Sonnenuhren waren nicht bloß kostbare Instrumente, sondern mußten
+natürlich für gewöhnlich auf freien Plätzen aufgestellt sein; es war
+somit bei der eigentümlichen Bauart der Alten oft sehr umständlich, zu
+wissen, wieviel Uhr es sei. Reiche Leute hielten sich einen eigenen
+Sklaven, welcher ihnen die Zeit anzuzeigen hatte; oft bezahlten auch
+mehrere miteinander einen Stundenherold zum gleichen Zweck. Ganz reiche
+Männer erlaubten sich den Luxus einer kostbaren Uhr in ihrer Wohnung,
+wie z. B. Petronius von Trimalchio, einem zu großem Reichtum gelangten
+ehemaligen Sklaven berichtet, er habe seinen staunenden Gästen eine
+solche Uhr vorweisen können.[9]
+
+Als Erbteil der Alten erhielten sich die Sonnenuhren bis weit in
+die neuere Zeit herein. Im Mittelalter und später wurde die Theorie
+derselben vielfach ausgebildet und vervollkommnet. Die bedeutendsten
+Mathematiker und Astronomen beschäftigten sich mit Gnomonik, der Lehre
+von den Sonnenuhren. Hier mögen bloß die Namen Purbach, Regiomontan,
+Stabius und besonders Sebastian Münster (1489-1552) genannt sein, von
+denen der letztere allein drei Werke hierüber verfaßte, weshalb er oft
+der Vater der Gnomonik heißt.
+
+Einen Fehler aber haben die Sonnenuhren bei aller Vollkommenheit, der
+sich auch gar nicht beseitigen läßt: sie zeigen bei trübem Wetter und
+bei Nacht nicht. Es lag nun wohl der Gedanke nahe, beim Anblick z. B.
+von langsam ausrinnendem Wasser, diese scheinbare Gleichmäßigkeit als
+Zeitmesser zu benützen, d. h. eine Wasseruhr zu konstruieren. Der
+klassische Name dieses Instrumentes „Klepshydra” ist vielleicht gerade
+von dem langsamen, gleichsam „verstohlenen” Ausfließen des Wassers
+hergenommen.
+
+Wer die Wasseruhren erfunden, läßt sich nicht sagen. Sicher ist, daß
+die Chaldäer solche verwendeten; Macrobius berichtet nämlich von ihnen,
+daß sie ein bestimmtes Quantum Wasser in zwölf Teilen teilten, so
+daß jeder Teil während der Zeit ablaufen sollte, während welcher ein
+Zeichen des Tierkreises durch den Meridian ging. Aus vielen Gründen
+konnte aber diese Art der Zeitmessung bei den Alten nicht genau
+sein, denn abgesehen von der stets ändernden Druckhöhe und folglich
+veränderlichen Ausflußmenge, war die eigentümliche Stundeneinteilung
+ein großes Hindernis der Genauigkeit. Die Alten teilten bekanntlich
+den Tag und die Nacht das ganze Jahr hindurch in zwölf gleiche
+Teile, so daß die Dauer der Stunden beständig wechselte. Genannter
+Uebelstand wurde jedoch bald überwunden und die Wasseruhren kamen
+rasch zu ziemlicher Vollkommenheit. Bilfinger (~l. c.~ S. 8) ist
+der Ansicht, daß die bekannte Klepshydra der attischen Gerichtssäle
+nicht ein eigentlicher Zeitmesser im heutigen Sinn gewesen, sondern
+nur zur rohen Abmessung der zum Sprechen eingeräumten Zeit überhaupt
+gedient habe. Sie bestand aus einem größeren, auf einem Dreifuß
+stehenden Gefäß, welches durch eine enge Oeffnung das eingefüllte
+Wasser in einen darunter stehenden Behälter abgab. Aus verschiedenen
+Notizen geht hervor, daß Versuche angestellt wurden, wie viele
+solcher Wassermaße in einem Lichttag Raum fanden, und daß man, weil
+der kürzeste Tag als Norm angewendet wurde, nie in die Nacht hinein
+kam. Deshalb werden die Wasseruhren in einem Tacitus zugeschriebenen
+Werke mit Recht Zügel der Beredsamkeit genannt. Die eigentümlichen
+Ausdrücke, die sich auf Wasseruhren beziehen, sind dem Leser der
+alten Klassiker geläufig. So z. B. bei ~Aeschines~: „erstes, zweites
+etc. Wasser” ebenso „~clepshydras clepshydris addere~,” wenn der
+Richter in außerordentlichen Fällen doppelte Zeit bewilligte, oder
+„~aquam sustinere~,” das Wasser aufhalten, beim Verlesen von Urkunden,
+Zeugenverhör u. s. w., bis der Redner wieder weiterfahren konnte. „~Hic
+hæret aqua~,” „~aqua mihi hæret~,” sagte man, wenn etwa durch ein
+Fäserchen, was leicht vorkam, die Ausflußöffnung verstopft war. ~Aquam
+perdere~, hieß „in den Tag hinein reden.”
+
+Auch die Aegypter benützten schon Wasseruhren, wie z. B. die Sage
+vom Kynoskephalos (Hundskopf), von der Horapollo berichtet, beweist.
+Nach ihr hätte dieses Tier täglich zwölfmal sein Wasser lassen müssen
+und dabei geschrieen; daher stamme die Zwölfteilung. Deshalb wurde
+auch häufig auf die Wasseruhren dieser Kynoskephalos gesetzt. Sie
+gebrauchten die Wasseruhr auch zu astronomischen Zwecken; Ptolemäus
+tadelt zwar in seinem Almagest die Ungenauigkeit dieser Instrumente,
+indes sind doch die von den Aegyptern erzielten Resultate erstaunlich
+genau. Sie berechneten aus der Zeit, während welcher die Sonne
+ganz über den Horizont heraufsteigt, bezw. durch Vergleichung des
+Wasserquantums, das hiebei ausfloß, mit dem den ganzen Tag über
+ausfließenden, den Durchmesser der Sonne zu 28 und zirka 31 Minuten für
+Sonnennähe und Sonnenferne; neuere Messungen ergaben hiefür 31 bezw. 32
+Minuten![10]
+
+Die Babylonier benützten schon 600 v. Chr. Wasseruhren, welche bei
+Sonnenaufgang gefüllt wurden; sobald sie leer waren, wurde dies durch
+Herolde in der Stadt bekannt gemacht, was täglich mehrere Male
+geschah. So konnte also jeder seine Uhr leicht selbst richten.
+
+Plato (427-347 v. Chr.)[11] soll ebenfalls eine Wasseruhr verwendet
+haben und zwar als Wecker, so daß fälschlich dieser Gelehrte hie und
+da als deren Erfinder genannt wird. Vitruv gibt im 9. Buch seiner
+Architektur weitläufigere Nachrichten über die Wasseruhren und deren
+Konstruktion. Nach ihm wäre der Sohn eines Barbiers, Ktesibius aus
+Alexandrien (geb. ca. 150, oder nach anderer Angabe 247 v. Chr.),
+ein mechanisches Genie des Altertums, der Erfinder dieser Uhren. Wie
+bekannt, wird diesem gleichen Mann auch die Erfindung der Feuerspritze,
+d. h. der Druckpumpe und der Wasserorgel zugeschrieben.[12]
+
+Die von Vitruv gegebene Beschreibung ist so kompliziert, daß die
+Uhr des Ktesibius jedenfalls nicht als erste derartige Vorrichtung
+angesehen werden kann. Sie zeigte nicht bloß die Tagesstunden, sondern
+auch den Monatstag, den Monat und sogar den Stand der Sonne im
+Tierkreis. Auch war sie mit einem Räderwerk versehen, und wenn nicht
+schon Aristoteles (384-322) Räderwerke erwähnte, könnte man Ktesibius
+für deren Erfinder halten.
+
+Um dem Leser jedoch wenigstens einen Begriff von den Wasseruhren der
+Alten zu geben, lassen wir hier die Beschreibung Vitruvs folgen.[13]
+„Zuerst stellte Ktesibius eine Mündung her (im oberen Wassergefäß),
+indem er sie entweder in einem Stück Gold ausarbeitete, oder mit einem
+durchbohrten Edelstein versah, denn diese beiden Körper werden weder
+von dem Hindurchfließen des Wassers angegriffen, noch bildet sich an
+ihnen Unreinigkeit, welche das Mündungsloch verstopfen könnte. Indem
+nun das Wasser ganz gleichmäßig durch diese Mündung hindurchfließt,
+hebt es ein umgestürztes Becken, das von den Technikern „der Kork” oder
+„die Scheibe” genannt wird, auf welchem ein Stab angebracht ist, der
+mit gleichen Zähnchen besetzt ist, wie die damit in Verbindung stehende
+Drehscheibe (Rad), welche Zähne, ineinandergreifend, eine langsame,
+regelmäßige Drehung und Bewegung verursachen.[14] Andere damit in
+Verbindung stehende und in derselben Weise gezähnte Drehscheiben, die
+alle durch ein und dieselbe bewegende Kraft getrieben werden, bewirken
+durch ihre Drehung die verschiedenen Bewegungen, nach welchen Figuren
+sich bewegen, Kegelsäulen sich drehen, Kügelchen oder Eier fallen
+(Schlagwerk!), Blasinstrumente ertönen und andere Nebendinge mehr. Bei
+diesen Uhrwerken sind die Stunden entweder auf einer Säule oder einem
+Pfeiler verzeichnet und eine von unten heraufsteigende menschliche
+Figur zeigt den ganzen Tag über mit einem Stäbchen auf diese hin.”
+
+Weil aber, wie schon bemerkt, die Tages- und Nachtstunden bei den Alten
+nicht das ganze Jahr hindurch gleich blieben (Aequinoktialstunden),
+sondern beständig wechselten, so mußte natürlich auch die Regulierung
+des Wassers veränderlich sein, ebenso das Zifferblatt. Ersteres
+wurde nach Vitruv erzielt durch einen massiven Kegel, der in den mit
+Wasser gefüllten Hohlkegel genau paßte und durch einen Regulierstab
+höher oder tiefer gestellt werden konnte, wodurch die Oeffnung des
+Hohlkegels mehr oder weniger frei wurde. Das Zifferblatt war entweder
+auswechselbar oder es wurde theoretisch für das ganze Jahr konstruiert,
+indem man die Stunden des längsten und kürzesten Tages auf der Säule
+in zwei vertikalen Linien anbrachte und durch zur Basis der Säule
+etwas schräglaufende horizontale Linien mit einander verband. Der
+Zwischenraum wurde wieder durch die Monatslinien in vertikaler Richtung
+geteilt. So entstand eine Art Netz, wie bei den Sonnenuhren; durch
+Einstellen der Stundensäule auf die richtige Zeit ließ sich dann auch
+eine beliebige Tagesstunde ordentlich genau ablesen.[15]
+
+Auch andere Uhren werden von Vitruv angeführt, sie sind jedoch, bei der
+dunkeln Ausdrucksweise dieses Schriftstellers, schwierig zu erklären.
+So z. B. das ~„horologium anaphoricum,”~ die Aufzuguhr, mit Gewichten,
+welche sich aber doch wesentlich von unsern heutigen Räder- und
+Gewichtuhren unterscheidet.
+
+Von alten indischen Wasseruhren berichtet Schlagintweit (Münchener
+Sitzungsberichte 1871. 2. S. 128-38). Sie bestehen aus metallenen
+hohlen Halbkugeln, die unten mit einer feinen Oeffnung versehen
+sind. Auf Wasser geworfen, füllen sie sich langsam und werden, wenn
+sie untersinken wollen, geleert und neu aufgesetzt. Ein aus Benares
+mitgebrachtes Exemplar brauchte bei einem Radius von 7 ~cm~ und 6 ~cm~
+Höhe etwas über eine Stunde, bis es untersank. Die Zeit vom Auflegen
+bis zum Untersinken der Kugel nannte man Najika; dieselbe hatte wieder
+ihre Unterabteilungen.
+
+Ob die Alten ihre Wasseruhren regelmäßig, auch nachts benützten,
+erscheint zweifelhaft, denn einmal finden wir z. B. bei Vitruv nie die
+Bezeichnung Nachtuhr, sondern nur: ~„horologium hibernum,”~ d. h. eine
+Uhr, welche die Stunden auch bei trübem Wetter angibt; ferner zeigten
+diese Uhren bloß zwölf Stunden, und endlich war es im Altertum wohl
+nicht leicht, sich zu jeder Stunde der Nacht Licht zu verschaffen. Bei
+Sternenhimmel, und das ist in der Heimat der alten Völker doch die
+Regel, konnte man viel bequemer das schon von Hipparch (ca. 160-125 v.
+Chr.) erfundene ~Astrolabium~ verwenden, welches aus der Höhe eines
+Gestirns in jedem Augenblick die Zeit anzugeben gestattet.[16] Eine
+Menge Wasseruhren der verschiedensten Konstruktionen, zum Teil mit
+Abbildungen, finden sich in C. Schott ~S. J.~, ~Hidraulica pneumatica~.
+Würzbg. 1658.
+
+[Illustration: Fig. 2.]
+
+An der Vervollkommnung der Wasseruhren wurde bis ins Mittelalter
+hinein, ja selbst bis in die neueste Zeit emsig gearbeitet. Es seien
+hier nur genannt Hero, der Schüler des Ktesibios, der auch eine Art
+Dampfmaschine erstellte; der Philosoph Boëthius; Galilei; der Abbé
+Varignon (1654-1722); der schweizerische Gelehrte Johann Bernoulli und
+dessen Sohn Daniel, der 1725 den Preis der Pariser Akademie im Betrag
+von 2000 Franken gewann; die Aufgabe hatte gelautet: ~La perfection
+des Clepsydres ou des sabliers sur mer.~[17] Auch der berühmte ~P.~
+Athanasius Kircher (1601-1680) beschäftigte sich mit der Konstruktion
+von allerlei Wasseruhren; er verfertigte für Kaiser Ferdinand ~III.~
+eine solche mit dem kaiserlichen Doppeladler (Fig. 2). Die Abbildung
+ist wohl ohne weitere Erklärung verständlich; der Schwimmer zeigt die
+Stunden; durch eine über die Rolle ~a~ (~II~) gehende Schnur wird
+ein weiterer Stundenzeiger bewegt. (Vergl. Kircher: ~Musæum Collegii
+Romani. Amstelodami~ 1680. ~p.~ 40).
+
+[Illustration: Fig. 3.]
+
+Außer den bisher behandelten Zeitmessern benützten die Alten auch noch
+die _Sanduhren_, deren sich schon Archimedes bedient haben soll. Eine
+Sanduhr besteht bekanntlich aus zwei in ein Gestell eingesetzten,
+gleichen konischen Gefäßen, welche mit ihren offenen Spitzen gegen
+einander gekehrt sind (Fig. 3). Ist z. B. das obere mit feinem Sande
+gefüllt, so fließt dieser in einer bestimmten Zeit in das untere ab.
+Durch Umdrehung der Vorrichtung kann das Spiel von neuem beginnen.
+Die älteste bekannte Abbildung einer solchen Uhr liefert ein antikes
+Basrelief, die Hochzeit des Peleus und der Thetis vorstellend; unter
+anderen Figuren sieht man auch Morpheus mit einer Sanduhr in der
+Linken.[18] Die Größe dieser Uhren wechselt von einem Fuß bis zu
+wenigen Zoll Höhe, ebenso die Zeit, welche sie zu messen gestatteten;
+gewöhnlich gingen sie ½ bis eine Stunde. Sie wurden zu jeder Zeit
+verwendet, im Mittelalter bei Turnieren, bei Schützenfesten etc.,
+selbst als die Räderuhren schon lange erfunden waren. Vielfach nahm
+man sie, ähnlich wie Messer und Pfriemen, auf Reisen mit. Eine solche
+Reisesanduhr, die von Erasmus herstammt, wird noch in Basel aufbewahrt;
+sie wurde in einem blechernen Futteral mitgeführt. In dem notariellen
+Verzeichnis der Ammerbachschen Sammlung von 1662 findet sich auch
+diese Uhr, mit dem sonderbaren Titel: „~Erasmi~ bleyern Sanduhrlein
+von Ebenholz in einem Futter.”[19] Zur Zeit Pascals (1623-1672) wurden
+Sanduhren auch in der Sorbonne gebraucht, um den Rednern die Zeit
+zuzumessen (~Lettres provinciales~, ~II~). Dieser Gebrauch erhielt sich
+vielerorts noch bis tief in unser Jahrhundert hinein auf Kanzeln, in
+Gerichtssälen, bei Auktionen u. s. w. Heute findet sich der Gebrauch
+der Sanduhren noch etwa in der Küche beim Eiersieden, oder im Atelier
+des Photographen. Auch beim sogenannten „Logen,” um die Geschwindigkeit
+eines Schiffes zu bestimmen, bedient man sich einer Sanduhr, die
+gewöhnlich 14 Sekunden läuft. Fig. 3 zeigt eine reich verzierte
+Sanduhr, französische Arbeit, aus dem 16. Jahrhundert.
+
+Die Genauigkeit der Sanduhr läßt aber noch viel zu wünschen übrig,[20]
+denn wie man sich leicht überzeugen kann, treten sehr oft Stauungen des
+Sandes auf, welche natürlich die Richtigkeit der Zeitmessung nachteilig
+beeinflussen.
+
+Noch im ausgehenden 16. Jahrhundert fanden die Uhrmacher es nicht für
+unnötig, auf den feinen Uhrsand hinzuweisen, wie der Spruch zeigt, den
+ein zeitgenössischer Versmacher unter den bekannten Holzschnitt von
+Jost Amman setzte:
+
+    Ich mache die reysenden Vhr/[21]
+    Gerecht vnd Glatt nach der Mensur/
+    Von hellem glaß vnd kleim Vhrsant/
+    Gut/daß sie haben langen bestandt/
+    Mach auch darzu Hültzen Geheuß/
+    Dareyn ich sie fleissig beschleuß/
+    Ferb die gheuß Grün/Graw/rot vnn blaw
+    Drinn man die Stund vnd vierteil hab.
+
+Viertelstunden konnte man auch an Sanduhren ablesen, wie noch erhaltene
+Exemplare zeigen; es waren in diesem Falle vier Stück aneinander
+gereihter Sanduhren. Die erste lief eine Viertelstunde, die zweite eine
+halbe, die dritte drei viertel, und die vierte eine ganze Stunde. Das
+Germanische Museum in Nürnberg besitzt eine solche Zusammenstellung.
+
+
+
+
+~II.~
+
+Uhren und Zeitmessung bis zum 12. Jahrhundert.
+
+
+Was Geist und Fleiß des klassischen Altertums geschaffen, ging in den
+Stürmen der Völkerwanderung zum großen Teil unter; die wenigen Keime,
+die noch geblieben, fanden eine neue Pflanzstätte in den Klöstern.
+Dorthin zog sich auf viele Jahrhunderte hinaus Kunst und Wissenschaft
+zurück, und von da aus verbreiteten sie sich wieder nach und nach in
+die Welt, um neue Triumphe zu feiern.
+
+Im vorigen Kapitel wurde darauf hingewiesen, wie die drei Zeitmesser
+der Alten vervollkommnet wurden bis in die neuere Zeit hinein, und zwar
+sind es während des ersten Jahrtausends fast ausschließlich Geistliche
+und Mönche, die sich damit beschäftigten. Wohl lebte man damals noch
+langsamer als jetzt und kannte die Hast des heutigen Erwerbslebens
+nicht, die Uhr aber diente gleichwohl als ein Regulator des
+menschlichen Lebens, „zum großen Nutzen des Menschengeistes erfunden,”
+wie Cassiodor († um 570) sagt.[22]
+
+Der hl. Benedikt dringt in seiner Regel oft darauf, daß alles zur
+bestimmten Zeit, ~„horis competentibus”~ geschehe (Vergl. ~S. Reg. c.~
+47). Zu den vorzüglichsten Pflichten der Mönche gehörte aber von jeher
+das gemeinschaftliche Psalmengebet, welches zu bestimmten Stunden des
+Tages und der Nacht verrichtet werden mußte. Natürlich benutzte man wo
+möglich zur Zeitbestimmung Sonnen- und Wasseruhren, wie auch der oben
+erwähnte Cassiodor (a. a. O.) seinen Mönchen sagt: „Wie Ihr wißt, habe
+ich Euch eine Sonnenuhr hergestellt; ebenso eine Wasseruhr, welche
+Tag und Nacht die Zeit bestimmt, denn oft ereignet es sich, daß an
+einzelnen Tagen der Sonnenschein fehlt; dann vollbringt auf wunderbare
+Weise das Wasser auf Erden, was sonst die feurige Kraft der Sonne am
+Himmel wechselnd vollendet.”
+
+Cassian († ca. 435) bezeugt, daß die alten Mönche die Sterne
+beobachteten, um aus ihrer Stellung die Zeit zu entnehmen. Es wird
+nämlich derjenige ermahnt, dem die Sorge seine Mitbrüder zu wecken
+oblag, dies nicht nach Gutdünken zu tun, nämlich wann er aufwache,
+je nachdem er gut oder schlecht geschlafen, sondern fleißig nach
+den Sternen zu sehen; wenn auch die Gewohnheit, zur bestimmten Zeit
+aufzustehen, ihn gewöhnlich wecke. In Frauenklöstern besorgte eine
+Nonne dieses Geschäft. Mabillon berichtet in den ~Acta SS. O. S. B.~
+von einer solchen, „daß sie aufstand und hinausging, um aus den Sternen
+zu sehen, ob es Zeit sei, das Zeichen zur Mette zu geben.”
+
+Oft wurden zwei Brüder als Wächter bestellt, die andern zu wecken.
+Diese nannte man ~„vigilgallos,”~ was also, nur in anderer Form, unsern
+Nachtwächtern entspricht, die besonders früher die Stunden ausriefen.
+Ihnen oblag auch die Aufsicht über die Wasseruhr, wo eine solche
+vorhanden war.
+
+In vielen Klöstern besorgte der Sakristan die Uhr. In den „Gebräuchen”
+von Hirschau (10. und 11. Jahrhundert) wird von ihm berichtet:[23] „Er
+besorgt und richtet die Uhr sorgfältig; weil es aber vorkommen kann,
+daß diese unrichtig geht (Wasseruhr), so soll er die Zeit abschätzen
+an der Kerze (~in cereo~) oder nach dem Lauf der Sterne oder des
+Mondes, damit er die Brüder zur bestimmten Zeit wecken könne. Es läute
+aber niemand mit der Schelle zur Mette, als nur er.” Fast genau mit
+denselben Worten wird das Amt des Sakristan geschildert in dem sog.
+~Ordo Cluniacensis~ (Cluny), von einem Mönch Bernard im 11. Jahrhundert
+verfaßt (Herrgott: ~Ordo Clun. c.~ 51).
+
+Erwähnt sei hier noch ein anderer interessanter Zeitmesser, die Oeluhr,
+welche Speckhart (Geschichte der Zeitmeßkunst, Bautzen, Verlag von E.
+Hübner, S. 175 u. ff.) folgendermaßen beschreibt: „Die Oeluhr besteht
+eigentlich nur aus einer Lampe, deren Glasbehälter unten eine kleine
+Abflußöffnung besitzt, durch die das Brennöl von einem Dochte angesaugt
+wird. Das Gestell der Lampe ist aus Zinn gearbeitet, ebenso die am
+Oelbehälter angebrachte Stunden-Skala. Letztere trägt die Stunden
+von abends ~VI~ bis morgens ~VIII~ Uhr. Die Stärke des Dochtes war
+so gewählt, daß das Oel in der Lampe von der Flamme in 14 Stunden
+aufgezehrt wurde. Füllte man abends ~VI~ Uhr den Oelbehälter bis zum
+obersten Teilstrich und brannte die Lampe an, so hatte man während der
+ganzen Nacht nicht nur Beleuchtung, sondern annähernd auch die Zeit,
+welche durch die Spiegelfläche des langsam sinkenden Oeles angezeigt
+wird.
+
+[Illustration: Fig. 4.]
+
+Der Oelbehälter bekam später die Form einer Birne, damit auch die
+einzelnen Stunden in möglichst gleicher Länge angezeigt wurden, weil
+der Druck des Oeles, wenn es aufgefüllt war, einen zu raschen Brand des
+Lichtes in einem ganz cylindrischen Glase erzeugte.” Unsere Abbildung
+Fig. 4 zeigt diesen eigenartigen Zeitmesser, der, wenn wir nicht irren,
+1900 in Paris ausgestellt war und der berühmten Junghansʼschen Sammlung
+in Schramberg angehört.
+
+Eine andere vielgebrauchte Methode, die Zeit zu messen, bestand in der
+Rezitation bekannter Gebete, die sich noch erhielt, als die Räderuhren
+schon lange im Gebrauch waren. Petrus Damiani († 1072) sagt, die Mönche
+möchten sich an eine bestimmte Methode des Psalmengebetes gewöhnen,
+wenn sie täglich wissen wollten, wie viel es an der Zeit sei. Wenn
+dann die Sonne nicht scheine oder die Sterne verdeckt seien durch
+Wolken, so hätte doch jeder eine Uhr, an der Art und Weise, wie er die
+Psalmen bete. In den Schriften der Mystiker treffen wir häufig auf
+ähnliche Zeitbestimmungen; es mögen hier nur einige Proben genannt
+werden. Die Nonne Adelheid Langman († 1375 im Kloster Engelthal bei
+Nürnberg) erzählt: „do sweig (er) und sprach ein wort niht, wohl als
+lang als daz man ein fünftzig Ave Maria gesprechen moht.” Oder: „etwan
+gestillet ich, als umb einen de profundis,” (war ich still, so lang
+als man ein de profundis beten mag). Mechthild von Magdeburg[24] (†
+1291) schreibt: „daß ich so lang gedenke daran, als daß man gesprechen
+mag Ave Maria”; „kum eines Ave Marien lang,” oder: „sie pruft es wol,
+daz diu stund als lang wert, als daz man rasch ein Ave Maria gesprech
+oder lanksam ein halbs,” u. s. w. Daraus ergibt sich, daß Uhren um
+diese Zeit entweder selten waren, oder daß man von der altgewohnten
+Weise, die Zeit zu messen, noch nicht abging. -- Wenn wir aber in
+Christian Wolfs (1679-1754) ~Elementa Pyrotechniæ~, ~Problem. XI~, bei
+einem Rezept für Anfertigung von Feuerwerkskörpern und als Prüfmittel
+derselben, die Angabe finden, die Probe solle nicht eher aufhören zu
+brennen, „bis schnell das Apostolische Glaubensbekenntnis gebetet ist,”
+so kann man sich kaum eines Lächelns erwehren beim Gedanken an die
+Mienen moderner Chemiker, denen bei einer analytischen Arbeit derartige
+Kriterien vorgeschlagen würden! -- Nach dieser kleinen Abschweifung
+kehren wir zurück zur Geschichte der Uhren in den Klöstern des früheren
+Mittelalters.
+
+Wo eine Wasseruhr vorhanden war, wandte man sie selbstverständlich an
+als die beste Zeitmessung. Hildemar (9. Jahrhundert) sagt in seiner
+Erklärung der Benediktinerregel: wer das nächtliche Psalmengebet
+vernünftig (~rationabiliter~) machen will, hat eine Wasseruhr nötig.
+
+In Ermanglung von Wasser- oder andern Uhren gebrauchte man auch den
+Haushahn als Wecker. Schon Chrysostomus beschreibt in seiner 59.
+Homilie an die Antiochener das Leben der Mönche seiner Zeit mit den
+Worten: nachdem der Hahn gekräht, kommt sofort der Obere und weckt
+alle, mit festem Tritte den gemeinsamen Schlafsaal durchwandernd; doch
+ohne allzuviel Lärm zu machen, wie der gleiche an einer andern Stelle
+sagt.
+
+Auch ein Brett, auf das geschlagen wurde, oder eine Schelle wurde als
+Weckvorrichtung gebraucht; eine kleine Glocke bezeichnet auch der
+Ausdruck ~„index,”~ den Martene also umschreibt (~Index. onomastic.
+t. IV~): ein Zeichen, durch welches die Brüder zum göttlichen Dienste
+gerufen wurden. Es ist also unrichtig, wenn übersetzt wird „Uhrzeiger,”
+wie Dufresne und Muratori tun.
+
+Papst Paul ~I.~ übersandte an Pipin eine Nachtuhr, von deren
+Beschaffenheit wir jedoch leider gar nichts Näheres wissen. Eine
+Seltenheit war das Geschenk zweifelsohne, wenn es auch nicht, wie man
+schon angenommen hat, eine Räderuhr war.
+
+Bekannt ist die Beschreibung der Uhr, welche Karl d. Gr. von dem
+Kalifen Harun Al-Raschid erhielt. Das ~Chronicon Turonense~ berichtet
+darüber: Im 7. Jahr der Regierung Kaiser Karls (807) schickte der
+König von Persien eine große Menge kostbarer Geschenke und eine Uhr,
+an welcher man die 12 Stunden ablesen konnte; es ertönte nämlich eine
+Cymbel und nach Verlauf der einzelnen Stunden traten nach und nach
+zwölf Reiter aus den Türen heraus; nach Ablauf der letzten Stunde zogen
+sich alle wieder zurück, indem sie die Türen schlossen. Diese Uhr hatte
+zwar Räder, da sich sonst der komplizierte Mechanismus nicht leicht
+erklären ließe, im übrigen war es eine Wasseruhr.
+
+Als Erfinder der Räderuhren wird vielfach der Archidiakon Pacificus von
+Verona († 846) genannt. Muratori führt seine Grabschrift an,[25] worin
+es heißt, daß niemand vorher je eine Nachtuhr gesehen, und daß er sie
+als Erster erfunden habe.
+
+Es scheint, um mit Muratori zu reden, seltsam, daß hier gesagt wird,
+man habe nie zuvor eine Nachtuhr gesehen, da doch, wie wir soeben
+gezeigt, Pipin eine solche erhielt, und Cassiodor gerade für nächtliche
+Zeitbestimmungen eine Wasseruhr verfertigt hatte. Vielleicht ist es
+nicht unrichtig, in dieser Inschrift eine Uebertreibung zu sehen, die
+also nicht so wörtlich zu nehmen wäre; eine Uhr konnte zu jener Zeit
+immerhin etwas so Seltenes sein, daß man sie verewigen wollte. Neu aber
+war die Erfindung kaum, und an eine Räderuhr zu denken, fehlen uns alle
+Anhaltspunkte. Wie der Ausdruck „Nachtuhr” zu erklären sei, ist schwer
+zu sagen, denn wenn z. B. irgend ein Ton oder Geräusch die Stunden
+angab, so geschah dies doch bei Tag und Nacht, warum also „_Nacht_uhr?”
+
+Räderwerke gab es in Verbindung mit Uhren schon frühe, sie dienten
+zum Betrieb der künstlichen Beigaben an den Uhren. Schon die Araber
+hatten solche. Gelcich (Geschichte der Uhrmacherkunst, S. 17 und 18)
+beschreibt eine derartige Uhr von Damaskus ausführlich.
+
+Vom 11. Jahrhundert an findet man bald diesem, bald jenem Gelehrten die
+Erfindung der Räderuhr zugeschrieben, ohne daß mit auch nur einiger
+Wahrscheinlichkeit auszumachen wäre, wem wir diesen so wichtigen
+Schritt in der Herstellung der Zeitmesser verdanken. Sicherlich
+kannten die Alten das Räderwerk und verwendeten es auch. Eine Räderuhr
+unterscheidet sich aber von der Wasseruhr nicht etwa bloß durch
+die Räder, auch nicht dadurch allein, daß ein Gewicht oder eine
+Feder Ursache der Bewegung sei, sondern vor allem durch die Hemmung
+(~échappement~). Verbinden wir mit einer durch Gewichte in Umlauf
+versetzten Welle Räder und Getriebe, so haben wir ein durch Gewichte
+bewegtes Räderwerk, das aber so schnell abläuft, daß es zur Zeitmessung
+untauglich wird. Kommt aber die Hemmung hinzu, d. h. eine Vorrichtung,
+welche den Gang des Räderwerkes mäßigt und gleichförmig macht, dadurch,
+daß ein Hindernis von einem Zahn des letzten Rades weggestoßen wird,
+aber immer wiederkehrt, so haben wir eine Räderuhr, welche sich im
+Prinzip von den heutigen nicht wesentlich unterscheidet. Die Frage
+nach dem Erfinder der Räderuhr läuft also darauf hinaus: _wer hat die
+Hemmung erfunden_? Es bedurfte dazu jedenfalls eines mechanischen
+Talentes ersten Ranges und so treffen wir auch in der Geschichte der
+Uhren Männer, welche den gelehrtesten ihrer Zeit beizuzählen sind,
+und man darf, ohne zu irren, die praktische Beschäftigung mit der
+Uhrmacherkunst als den Prüfstein mechanischen Könnens in alter und
+neuer Zeit ansehen.
+
+Gerbert[26] von Aurillac, einer der gelehrtesten Männer seiner Zeit
+(ca. 950-1003), als armer Hirtenknabe von den Mönchen zu Aurillac
+(~Dép. du Cantal~) aufgenommen und gebildet, wird sehr oft als Erfinder
+der Räderuhr genannt. Er soll seine mathematischen und mechanischen
+Kenntnisse bei den Arabern geholt haben; wurde Oberer des Klosters
+Bobbio in Italien, Erzbischof von Reims, Lehrer Ottos ~III.~,
+Erzbischof von Ravenna und endlich unter dem Namen Sylvester ~II.~
+Papst.
+
+Die Sage, daß Gerbert auf den arabisch-spanischen Hochschulen
+studiert habe, wurde von dem engl. Geschichtsschreiber Wilhelm
+von Malmesbury[27] überliefert; derselbe berichtet auch allerlei
+Zaubergeschichten von ihm. Sevilla und Cordova, diese Hochsitze
+arabischer Wissenschaft, hat Gerbert nie gesehen (Vgl. Büdinger, S.
+7 u. ff.), dagegen wird ihm allgemein die Einführung der sogenannten
+arabischen Ziffern zugeschrieben. Wenn aber auch gesagt wird,[28] er
+habe die Gewichtuhren und die Hemmung erfunden, so läßt sich dies nicht
+beweisen. Tiethmar, Bischof von Merseburg, sagt bloß (~Mon. Germ. V~,
+835, 21): „Gerbert machte in Magdeburg eine Uhr, welche er richtig
+aufstellte mit einer Röhre und unter Zuhilfenahme eines gewissen
+Sternes, des Führers der Schiffer.” Um mit dem letzteren zu beginnen,
+so ist der Stern, der Führer der Schiffer, offenbar der Nordstern;
+die Röhre diente dazu, auf diesen Stern zu visieren, war also eine
+Art Diopter. Wir können folglich hier an eine Sonnenuhr denken, deren
+Zeiger mit Hilfe des Polarsterns gerichtet wurde, oder auch an eine Art
+Sternglobus (wie ja Gerbert derartige Instrumente verfertigte), bei
+welchem die vorüberziehenden Sterne durch eine Röhre beobachtet wurden.
+Für eine Räderuhr aber spricht der vorliegende Text nicht. Es ist
+schwer zu sagen, wie die Verfasser der ~Hist. litt. de la France~ (~t.
+VI~, ~p.~ 68 und 609) diese Annahme aufrecht halten können.
+
+Eine weitere Schwierigkeit bleibt auch noch zu lösen: angenommen,
+Gerbert habe die Räderuhr erfunden, wie kommt es, daß eine so wichtige
+und nützliche Sache für so lange Zeit vergessen wurde? Warum hat keiner
+der zahlreichen Schüler Gerberts dessen Erfindung weiter entwickelt,
+oder doch wenigstens erwähnt? Wie kommt es, daß noch 200 Jahre später
+Ludwig der Heilige eine Kerze als Zeitmesser benützte, um seine Lektüre
+während der Nacht zu regeln? Der Name ~„horologium”~ darf uns nicht
+schwankend machen, da er ja ganz allgemein für alle Uhren angewendet
+wurde.
+
+Als gelehrten Uhrmacher finden wir noch Abt Wilhelm von Hirschau
+(Württemberg) erwähnt († 1091). Er verfertigte eine sehr künstliche
+Uhr, welche die Aequinoktien und Solstitien zeigte; die dürftige
+Nachricht, welche uns überliefert ist, erlaubt jedoch keinen Schluß auf
+die Konstruktion der Uhr. Allerdings findet sich in den Konstitutionen
+von Hirschau (~l. II. c.~ 29) der Ausdruck: „nachdem die Uhr
+geschlagen” was aber noch nicht notwendig eine Gewichts- und Räderuhr
+voraussetzt.
+
+Es läßt sich also gar nicht sagen, wer die Räderuhr erfunden habe, noch
+beweisen, daß sie vor dem 12. Jahrhundert aufkam. Diese Dunkelheit
+wird uns weniger befremden, wenn wir bedenken, wie schwer es oft wird,
+den Urheber einer nützlichen Maschine oder Erfindung zu nennen, selbst
+in unserer Zeit, wo doch die öffentlichen Blätter, Fachschriften und
+Patente große Sicherheit in dieser Hinsicht zu gewähren scheinen.
+Man denke nur an die so hartnäckigen Prioritätsstreitigkeiten, die
+alljährlich auf dem Gebiete der Naturwissenschaften auftauchen! --
+
+Allgemein aber wird angenommen, und dies läßt sich auch mit ziemlicher
+Sicherheit beweisen, daß im 12. Jahrhundert die Räderuhren erfunden
+wurden. Von dieser Zeit an mehren sich nämlich die Nachrichten über
+Uhren, welche unmöglich durch Wasser getrieben sein konnten derart, daß
+man annehmen muß, die Erfindung unserer heutigen Zeitmesser falle ins
+12. Jahrhundert.
+
+
+
+
+~III.~
+
+Anfänge und Entwicklung der Räder- und Gewichtuhren.
+
+
+In den sogenannten „Gebräuchen” des Cisterzienserordens, die
+ungefähr um 1120 niedergeschrieben wurden, finden wir mehrfach
+Weckeruhren erwähnt. So heißt es z. B. ~c.~ 21, daß von der Messe
+des hohen Donnerstages an bis zum Karsamstag die Glocken bei keinem
+Gottesdienst geläutet werden dürften, und daß nicht einmal die
+Uhr (Schlaguhr) gehört werden solle. -- Im 114. Kapitel wird dem
+Sakristan befohlen, daß er seine Uhr so richte, daß durch ihren Ton
+die Brüder im Winter vor der Matutin geweckt würden. In den Statuten
+des Prämonstratenserordens findet sich die Vorschrift: der Sakristan
+soll die Uhr richten und sie täglich vor der Messe schlagen lassen,
+damit er wach werde. Ebenso bestimmt das ~Chronicon Mellicense~ (Mölk,
+12. Jahrhundert), ~c.~ 774: daß ein von den Obern zu bezeichnender
+Bruder, der eine Weckeruhr haben solle, die andern wecken und in jeder
+Zelle für Licht sorgen müsse; dieser Brauch hat sich bis heute in den
+Klöstern erhalten.
+
+Die vollkommenste und berühmteste Uhr des 13. Jahrhunderts ist
+diejenige, welche Sultan Saladin 1232 dem Hohenstaufen Friedrich ~II.~
+zum Geschenk übersandte. Trithemius sagt ausdrücklich, die Bewegung sei
+durch Räder und Gewichte vermittelt worden, und schätzt das Werk auf
+die für jene Zeit ungeheure Summe von 5000 Dukaten. Diese Uhr war eine
+astronomische, sie zeigte den Lauf der bekannten Planeten, sowie die
+Zeichen des Tierkreises, ebenso Tag und Stunde und zwar genau. Weil uns
+hier die Räderuhr bereits in hoher Vollendung entgegentritt, glauben
+manche Schriftsteller, sie sei nicht eine europäische Erfindung,
+sondern stamme aus dem Orient.
+
+Schon in diesem Jahrhundert treten die Zeitmesser in den Dienst der
+Gemeinden und geistlichen Genossenschaften. 1288 wurde unter Eduard
+~I.~ von England in Westminsterhall eine Schlaguhr aufgestellt, deren
+Kosten aus Strafgeldern bestritten wurden. Ebenso verfertigte Richard
+Wallingford, ein englischer Benediktiner, Sohn eines Schmiedes und
+zuletzt Abt des Klosters St. Alban († ca. 1326), eine sehr künstliche
+Uhr, welche neben den gewöhnlichen Angaben (Planetenlauf u. s. w.) auch
+noch Ebbe und Flut anzeigte. Er hinterließ eine Beschreibung seines
+Werkes mit dem Titel „Albion” (Anspielung auf: ~„all-by-one”~ d. h.
+alles zeigt das Werk durch ein und dieselbe bewegende Kraft), welche
+sich noch jetzt auf der Bodleyanischen Bibliothek zu Oxford befinden
+soll.
+
+[Illustration: Fig. 5.]
+
+Bevor wir uns weiter mit der Entwicklung und Ausbreitung der
+Uhrmacherkunst beschäftigen, mag hier eine kurze Beschreibung des
+wichtigsten Bestandteiles jeder Räderuhr, der Hemmung folgen, speziell
+jener, welche bis zur Erfindung des Pendels ausschließlich zur
+Anwendung kam. (Siehe Fig. 5).
+
+~A~ ist das von der Triebkraft am weitesten entfernte letzte Rad,
+Steigrad genannt, wie es noch in den Spindeluhren verwendet wurde. ~B~
+eine runde Stahlwelle oder Spindel, ist an einer Schnur aufgehängt,
+und das Ganze am Kolben ~C~, einem Holz- oder Metallstück, befestigt.
+~D~ und ~D′~ sind flache Stahlplättchen, die Spindellappen, welche an
+der Welle unter einem Winkel von etwa 100° befestigt sind. ~E~ ist
+die Unruhe, eine Stange aus Holz oder Eisen, auch Wage oder Balancier
+genannt. An ihr sind kleine Gewichte ~F~ und ~F′~ zu beiden Seiten der
+Welle angebracht.
+
+Der Mechanismus ist nun folgender: das Gewicht treibt unmittelbar
+das erste Rad (Walzenrad) und mittelbar alle übrigen, zuletzt das
+Steigrad an. Als Bewegungsrichtung gelte die des Pfeiles, so daß also
+die oberen Zähne sich vom Beschauer weg, die unteren ihm zuwenden. Dem
+obersten Zahn stellt sich auf seinem Weg der Lappen ~D~ entgegen und
+wird weggedrängt, bis das Rad vorbei kann; er kommt aber nur so weit,
+als die halbe Entfernung zweier Zähne beträgt, weil dann der untere
+Lappen ~D′~ sich einem unteren Zahn entgegenstemmt und nun ebenso
+weggeschoben wird, wie kurz zuvor der obere. So wiederholt sich das
+Spiel beständig. An der Bewegung, welche die Spindel hiebei macht,
+nimmt natürlich auch der Wagebalken, die Unruhe teil. Sie dreht sich
+also, wenn ein oberer Zahn an den Lappen stößt, in der einen, und
+wenn ein unterer gehemmt wird, in der entgegengesetzten Richtung. So
+wirkt jeder Stoß eines Zahnes als Antrieb auf die Unruhe und zwar so
+lange, bis das Gewicht abgelaufen ist. Dies würde sehr rasch geschehen,
+wenn nur 2 oder 3 Räder verwendet würden; durch Zwischenglieder
+(Uebersetzungen) kann man das Fallen des Gewichtes, also auch den
+Gang der Uhr leicht bis zu einer gewissen Grenze verlängern. -- Es
+liegt auf der Hand, daß die Unruhe um so langsamer schwingen wird, je
+weiter ihr Schwerpunkt nach außen liegt, oder kurz gesagt, je größer
+ihr Trägheitsmoment ist. Die Größe dieses Trägheitsmomentes kann aber
+beliebig verändert werden durch Verschiebung der Gewichte ~F~ und ~F′~;
+dadurch wird auch die Uhr selbst reguliert. Geht sie z. B. vor, so
+werden die Gewichte nach außen, geht sie aber nach, gegen die Spindel
+zu verschoben. (Auf ähnliche Weise wirkt bei unsern Taschenuhren der
+sogenannte Korrektionsrechen, durch Verkürzung, bezw. Verlängerung des
+schwingenden Teiles der Unruhefeder).
+
+[Illustration: Fig. 6.]
+
+Mit der Erfindung der Hemmung war außerordentlich viel gewonnen; das
+Gewicht konnte nur fallen, so oft ein Zahn am Lappen der Spindel
+vorbeiging und nur so lange, bis der entgegengesetzte Lappen den
+nächsten Zahn ergriff. Der nächste Zahn derselben Seite traf aber
+erst auf die Hemmung, nachdem der entgegengesetzte die Unruhe auf die
+andere Seite gedreht hatte. So machte die Wage noch einmal soviel
+Schwingungen, als das Kronrad (Steigrad) Zähne besaß. Um den Gang der
+Unruhe gleichmäßiger zu machen, ist die Spindel durch eine Schnur am
+Kolben ~C~ aufgehängt. Wenn nämlich die Unruhe sich nach einer Richtung
+dreht, wird die Schnur immer stärker gespannt, sie strebt also wieder
+und zwar mit stets vermehrter Kraft in ihren ursprünglichen Zustand
+zurückzukehren und hemmt so den Wagebalken. Wir haben also hier schon
+die Spiralfeder unserer Taschenuhren in ihrem ersten Anfang. -- Es
+wird sich später noch Gelegenheit bieten, über die Mängel der alten
+Räderuhren zu sprechen; die Wagehemmung aber wurde bis zur Pendeluhr,
+und an den Schwarzwälderuhren bis zu Ende des 18. Jahrhunderts
+vielfach beibehalten. In Kabinetten und Sammlungen findet man noch
+viele derartige Uhren. Um eine genaue Vorstellung einer Waguhr zu
+ermöglichen, fügen wir hier zwei Ansichten einer solchen bei (Figur 6
+und 7). Von der Größe alter Uhren kann man sich einen Begriff machen,
+wenn man hört, daß an der Uhr, welche Heinrich von Vick für Karl ~V.~
+von Frankreich machte, das Gewicht des Schlagwerkes 5 Zentner betrug
+und in 24 Stunden 32 Fuß herabstieg; es gab aber auch Gewichte bis zu
+zwölf Zentnern. Auf manchen Türmen befinden sich noch solche Ungetüme
+von Uhren, ganz aus Schmiedeisen verfertigt, mit Rädern von 2-3 Fuß
+Durchmesser und Pendel von 20 bis 30 Fuß Länge.[29]
+
+[Illustration: Fig. 7.]
+
+Nun zur Verbreitung der Uhren! Im Verlauf des 14. und 15. Jahrhunderts
+eroberten sie sich die ganze zivilisierte Welt, und in verhältnismäßig
+kurzer Frist war nicht bloß jede Stadt, jeder Palast oder jedes Kloster
+im Besitze eines derartigen Zeitmessers, sondern diese bildeten auch
+den Schmuck des Salons wie des bürgerlichen Hauses, natürlich in
+entsprechender Ausführung. Schon im jüngeren Titurel (ca. 1270 verfaßt)
+wird unter andern kostbaren Zieraten des hl. Graltempels auch eine
+Räderuhr erwähnt (~„orolei”~), welche die goldfarbene Sonne und den
+silberweißen Mond in Bewegung setzte, ohne daß man von den Rädern etwas
+sah; goldene Cymbeln verkündeten die sieben Tagzeiten und die sonstigen
+Stunden des Gebetes und Gottesdienstes. Dante (1265-1321) erwähnt in
+seiner Göttlichen Komödie die Uhr mehrfach, so z. B. Paradies, ~XXIV.~
+V. 13:
+
+    ~E come cerchi in tempra di oriuoli
+    Si giran si, che il primo a chi pon mente
+    Quieto pare e lo ultimo che voli,~ ...
+
+(„Und wie gemeßnen Ganges des Uhrwerks Räder sich drehen, so daß das
+erste dem Betrachter zu stehen scheint, und das letzte scheint zu
+fliehen.” Philalethes[30]). Auch ein anderer Zeitgenosse des berühmten
+Florentiners, ~Jean de Meun~, mit dem Zunamen ~Clopinel~ († ca. 1320),
+der Fortsetzer des berühmten ~„Roman de la Rose,”~ singt (V. 21288 u.
+ff.) von der Räderuhr:
+
+    ~Et refait sonner ses horloges
+    Par ses salles et ses loges
+    A roës (roues) trop sotivement (très-adroitement)
+    De pardurable movement.~
+
+Aus diesen Stellen geht hervor, daß schon im 13. oder zu Anfang des
+14. Jahrhunderts die neuen Zeitmesser weit verbreitet waren. Vom
+alten Kulturland Italien wissen wir dies auch aus andern Quellen ganz
+bestimmt. So berichtet Fiamma, der Chronist des Klosters St. Eustorgius
+in Mailand, daß 1306 der Glockenturm einen neuen Stern erhalten habe
+und die eiserne Uhr vergrößert (?) worden sei (~horologium ferreum
+multiplicatur~). Dies ist, so viel bekannt, die älteste Uhr Italiens;
+es mag jedoch schon früher derartige Werke gegeben haben, denn
+Fiamma spricht von der erwähnten Uhr als etwas ganz Gewöhnlichem.
+Derselbe Schriftsteller sagt auch, daß unter der Regierung von ~Azo
+Visconti~ (1328-1339) auf dem Turm der St. Gotthardkirche eine
+bewunderungswürdige Schlaguhr erstellt worden sei; „es befindet sich
+an derselben ein sehr dicker Klöppel, welcher 24 mal auf eine Glocke
+schlägt, gemäß den 24 Stunden des Tages und der Nacht; derart nämlich,
+daß sie in der ersten Nachtstunde einen Schlag gibt, in der zweiten
+zwei u. s. w. und so Stunde von Stunde unterscheidet, was höchst
+notwendig ist für jeglichen Beruf.”
+
+Die berühmtesten Uhrmacher Italiens sind zwei Mediziner von Padua,
+Jakob und sein Sohn Johannes, aus der alten Familie ~de Dondis~. Nach
+der Chronik dieser Stadt wurde auf Befehl Ubertinos von Carrara, dem
+Padua gehörte, im Jahre 1344 auf dem Stadthaus eine Uhr erstellt, die
+24 Stunden zeigte. Sie war das Werk Jakob de Dondis, der zu jener Zeit
+lebte, wie aus seiner Grabschrift hervorgeht; sein Todesjahr fällt um
+1350.
+
+Johannes, der Sohn des vorigen, 1318-89, war als geschickter Uhrmacher
+noch viel berühmter. Er verfertigte eine Räderuhr, welche den
+Planetenlauf anzeigte und als eine Art Weltwunder angestaunt wurde.
+Von allen Seiten strömten Künstler und Astronomen herbei, das Werk
+zu schauen. Ein Freund und Zeitgenosse Johannes de Dondis, Philipp
+de Mazières hat uns in seinem Werke ~„Songe du vieil Pélerin”~ eine
+Beschreibung davon hinterlassen.[31] Nach derselben hätte das Werk
+aus sehr vielen (200) Rädern bestanden; alles aus Messing oder Kupfer
+von Johannes selbst gearbeitet während eines Zeitraumes von 16
+Jahren. Michael Savonarola, der Großvater des berühmten Fra Girolamo,
+berichtet, daß das Werk nach dem Tode des Urhebers stille gestanden,
+daß aber niemand sich getraute, eine Reparatur vorzunehmen, bis
+endlich ein französischer Astronom es mit vieler Mühe wieder in Gang
+gebracht habe. Von dieser in ganz Italien und weit über dessen Grenzen
+hinaus berühmten Uhr erhielt die Familie de Dondis den Beinamen ~„ab
+Horologio”~ (~degli orologi~).
+
+Johannes de Dondis war außer durch seine mechanische Geschicklichkeit
+noch berühmt als gelehrter Arzt und Astronom. Er genoß die
+Freundschaft Petrarcas (1307-74), welcher, obgleich erbitterter
+Feind aller Aerzte, Johannes hoch schätzte und mehrere Briefe an
+denselben richtete. In einem derselben sagt er, die Medizin sei für
+ihn (Johannes) doch nur ein Anhängsel, so daß er noch größer geworden,
+ja bis zu den Sternen gestiegen wäre, hätte nicht die unglückselige
+Arzneikunst ihn gehemmt. Petrarca bedachte seinen Freund im Testament
+mit 50 Dukaten, damit er sich einen Ring kaufe und ihn zum Andenken
+tragen möge.
+
+[Illustration: Fig. 8.]
+
+Zu den ältesten beglaubigten Uhren, die noch vorhanden sind, zählt
+jene von Dover-Castle aus dem Jahre 1348. Gerland bringt in Westermanns
+Monatsheften 1884 eine Abbildung davon (Fig. 8). Er sagt, daß dieses
+Werk fünf Jahrhunderte lang, von 1348-1872 die Stunden schlug. Nach dem
+gleichen Schriftsteller würde diese Uhr aus der Schweiz stammen, was
+aber von anderer Seite bestritten wird.
+
+1353 ließ der Erzbischof von Mailand, Johann Visconti, eine Uhr in
+Genua errichten; sie wird als „ein schönes und genaues Werk” (~pulcra
+et subtilis fabrica~) gerühmt, das jede Stunde des Tages und der
+Nacht schlug.[32] Drei Jahre später folgte Bologna dem Beispiele der
+Genuesen (~Murat. l. c. t. XVIII, p. 444~). „Am achten April wurde
+die große Glocke, welche auf dem Palaste des Messer Giovanni Pepoli,
+des Herrn dieser Stadt, sich befand, herabgenommen, in den Hof des
+Stadthauptmanns geführt und auf dem Turm daselbst aufgehängt; es war
+das die erste Gemeindeuhr von Bologna, sie schlug zum erstenmal am 19.
+Mai.” Alle Bolognesen über 20 Jahren mußten an diese Uhr eine Steuer
+von einem Soldo und 6 Denaren bezahlen. -- Die Herren der italienischen
+Städte wetteiferten im 13. und 14. Jahrhundert überhaupt mit einander,
+ihre Paläste mit prächtigen Uhren zu zieren, so daß diese bald
+allgemein verbreitet waren.
+
+Zu den ersten öffentlichen Uhren Frankreichs zählt Dubois diejenige von
+Caen, welche 1314 auf einer Brücke daselbst aufgestellt wurde mit der
+Inschrift:[33]
+
+    ~Puisque la ville me loge
+    Sur ce pont pour servir dʼorloge,
+    Je feray les heures ouir
+    Pour le kommun peuple réjouir.
+    Mʼa faite Beaumont 1314.~
+
+(Da die Stadt mich auf diese Brücke stellt, als Uhr zu dienen, so will
+ich zur Freude des Volkes die Stunden hören lassen. Mich hat Beaumont
+gemacht 1314). Dieser Angabe widerspricht jedoch entschieden der
+Uhrmacher und Forscher Hainaut von Rouen. Nach ihm wurde eine Glocke
+„Uhr” genannt, weil sie dazu diente, gewisse Tageszeiten durch ihr
+Geläute dem Volke kund zu geben. Zudem war die Normandie, als Karl ~V.~
+durch den gleich zu erwähnenden Heinrich von Vic 1370 für Paris eine
+Uhr anfertigen ließ, schon lange mit der Krone vereinigt. Sicher hätte
+man nun doch einen fähigen Inländer dem Fremden vorgezogen. Aus all dem
+geht hervor, daß eine eigentliche Uhr 1314 in Caen nicht existierte,
+daß aber auf einer Glocke Zeichen gegeben, resp. durch einen Wächter
+die Stunden geschlagen wurden, entweder nach dem Stande der Sonne,
+oder nach den Angaben einer Wasser- oder Sonnenuhr (Ausführliches über
+diesen Punkt siehe bei Saunier-Speckhart: Geschichte der Zeitmeßkunst.
+Bautzen. S. 207 u. ff.).
+
+Dijon besaß eine sehr berühmte Uhr, welche Herzog Philipp der Kühne
+von Burgund von Courtray, dem ursprünglichen Standorte, 1382 auf
+Wagen verladen und samt der Glocke nach Dijon bringen ließ. Diese Uhr
+schlug alle 24 Stunden des Tages.[34] Hier finden sich auch zuerst
+zwei Automaten, sogenannte ~„Jacquemarts”,~ ein Mann und eine Frau;
+später kam noch die Figur eines Kindes hinzu. Einige Autoren leiten
+das Wort ~Jacquemart~ ab von dem barbarischen lateinischen Ausdruck
+~„jaccomarchiadus,”~ was Panzerhemd heißen soll; wahrscheinlicher
+ist jedoch die Ableitung vom Namen des ersten Erstellers Jaques
+Marck, eines Uhrmachers, der im 14. Jahrhundert lebte und diese
+Zugabe erfunden haben soll. (~Jacquemart~ war auch ein Spottname der
+Nachtwächter.)
+
+[Illustration: Fig. 9.]
+
+Geschickte Künstler waren aber in diesen Zeiten eine Seltenheit. Karl
+~V.~ von Frankreich ließ 1370 in Paris eine Uhr herstellen durch einen
+Deutschen, Heinrich von Vic oder Wick. Dieser erhielt als bescheidenen
+täglichen Lohn 6 Pariser Sous, nebst freier Wohnung im Turm, wo die
+Uhr aufgestellt werden sollte. Derselbe König ließ auf seinem Schloß
+~Montargis~ (~Loiret~) durch ~Jean Jouvence~ 1380 eine Uhr errichten;
+1372 erhielt Sens eine solche; Karl ~V.~ bezahlte die Hälfte der
+~„lanterne.”~ Auxerre folgte ungefähr um dieselbe Zeit; 1391 finden wir
+in Metz die neue Erfindung erwähnt. Die berühmteste Uhr Frankreichs
+wurde erst etwa 200 Jahre später erstellt in Lyon, durch den Basler
+Künstler Nikolaus Lipp. Sie galt als würdige Nebenbuhlerin des
+Straßburger Werkes.
+
+Unsere Abbildung (Fig. 9) gibt eine Ansicht der berühmten Uhr, die in
+der ehrwürdigen Kathedrale in St. Jean aufgestellt ist. 1578 von Lipp
+verfertigt, wurde sie im Jahre 1660 von Wilhelm Nourisson repariert
+und beträchtlich vervollkommnet; 1780 wurde eine neue Reparatur nötig,
+welche Charny besorgte, zuletzt besserte M. Maurier das alte Werk aus.
+Wie die meisten derartigen Kunstuhren zeigt auch das Werk des Basler
+Künstlers den Lauf der Gestirne sowie einen ewigen Kalender. Stunden
+und Minuten, Tag, Monat und Jahr, die Mondphasen etc. werden angegeben,
+die Wochentage sind bezeichnet durch Figuren, die um Mitternacht
+wechselnd, in einer Nische erscheinen. Die Bewohner Lyons sind ebenso
+stolz auf ihre Uhr, als die Straßburger auf das berühmte Werk des
+Dasypodius.
+
+Leider gingen viele derartige Kunstdenkmäler im Sturme der Revolution
+unter, selbst in unserer Zeit zerstört hie und da ein unbegreiflicher
+Vandalismus den einen oder andern Ueberrest frühen Kunstfleißes der
+Vorfahren. So hatte, um nur ein Beispiel zu nennen, die berühmte Uhr
+von Bourges von 1423 bis 1872 allen Gefahren getrotzt, um dann auf
+Befehl eines aufgeklärten Magistrates ohne Grund zerschlagen und zum
+alten Eisen geworfen zu werden! Einzig das Zifferblatt blieb und
+dient jetzt einer modernen Fabrikuhr. Verfertiger des Werkes war Jean
+Furoris, Canonicus von Paris und Reims; der Preis stellte sich auf 60
+Goldgulden, die durch allgemeine Beisteuer aufgebracht wurden. Das
+Ganze bestand aus 26 Rädern und Scheiben.
+
+Wenn schon 1370 ein Deutscher Karl ~V.~ eine Uhr erstellte, und 200
+Jahre später ein Basler Lyon durch sein Kunstwerk berühmt machte,
+wenn 1368 Eduard ~III.~ von England drei Uhrmachern, die er aus Delft
+berufen hatte, seinen Schutz angedeihen ließ, so läßt dies alles
+schließen, daß auch in deutschen Landen die Uhrmacherkunst schon sehr
+frühe Wurzel gefaßt und sich rasch zu hoher Blüte entwickelt habe. In
+der Tat beweisen vielfache Nachrichten, daß in Deutschland die Uhren im
+14. Jahrhundert bekannt waren. So erhielt, um einige Namen anzuführen,
+1368 Breslau sein erstes Schlagwerk durch Meister Schwelbelin;
+Frankfurt a. M. 1383 durch Johann Orglocker aus Hagenau; 1359 ist
+die Frankenberger Pfarrkirche im Besitze einer Uhr; 1396 der Dom zu
+Magdeburg; 1395 Speier; 1398 Augsburg; Mainz 1369; Kolmar 1370; Köln
+ca. 1385; Metz 1391 u. s. w.
+
+Das Germanische Museum in Nürnberg besitzt eine der ältesten
+Räderuhren, die noch erhalten sind (Fig. 10). Sie stammt aus dem Jahre
+1392 und gab auf dem südlichen Sebaldusturme stehend, dem Wächter
+die verflossenen Stunden an, damit er sie durch Schläge auf die
+große Glocke der Stadt verkünde. Es ist das Verdienst des bekannten
+Geschichtsforschers auf dem Gebiete der Uhren, Hofuhrmacher G.
+Speckhart in Nürnberg, dieses Stück gerettet zu haben. Wir geben im
+Folgenden die Beschreibung kurz nach den Ausführungen des genannten
+Forschers (Saunier, a. a. O. 235 u. ff.). Die Uhr ist ganz aus Eisen
+gebaut, ihre Höhe mißt 40 ~cm~. Das Zifferblatt hat einen Durchmesser
+von 28 ~cm~. Es war am Umfang mit 16 Nieten versehen, die oberste,
+da wo jetzt die Ziffer 12 angebracht wird, war mit einem Stachel
+versehen. Speckhart entfernte den Anstrich von 2 Zifferblättern,
+bis er das ursprüngliche aufdeckte. Die Uhr zeigte 16 Stunden, ging
+also nach der sogenannten „großen (Nürnberger) Uhr,” welche den Tag
+von Sonnenuntergang bis Sonnenaufgang maß. Die Nieten dienten dem
+Wächter in der Dunkelheit, um die Zeit abzulesen, der Stachel war der
+Anfangspunkt der Zählung. Ein Schlagwerk ist nicht vorhanden, wohl
+aber ein Wecker, der alle Stunden abläuft. Man mußte sich also bis zur
+Erfindung der selbstständigen Schlaguhren auf diese Weise behelfen und
+kam auch ganz gut zustande damit.
+
+[Illustration: Fig. 10.]
+
+In der zweiten Hälfte des 14. Jahrhunderts treffen wir auch in der
+Schweiz in den meisten größeren Städten Räderuhren.
+
+So in Basel 1381. Vergl. Fechter: Basler Taschenb. 1852. Dort wird auf
+ein Urteil hingewiesen, das gegen einige wegen nächtlicher Ruhestörung
+gesprochen wurde, weil sie nachts „_da die Glogge zwey geslagen hatte_,
+den Lüten uf Colahüsern und zu Crüze ir thüren ufbrachent.” Ebenso
+findet sich in den Rechnungen der Münsterfabrik folgender Posten: ~pro
+materia dicta~ „möschin trat” ~ad horologium~. Nach Boos (Geschichte
+der Stadt Basel, 1877, ~I.~ S. 239) erhielt auch der Martinsturm
+gegen Ende des 14. Jahrhunderts eine Uhr, die 1475 verbessert und auf
+den Georgsturm verbracht wurde. 1407 wird ein „Orlei” auf dem Rathaus
+erwähnt.
+
+Eine Eigentümlichkeit der Basler Uhren, daß sie nämlich eine Stunde
+vorausgingen, hat Simrock in dem launigen Gedichte: „Die Basler Uhr”
+behandelt, von welchem wir hier einige Strophen anführen wollen:
+
+    Wenn wir die Basler necken,
+    So istʼs um ihre Uhr,
+    Sie sei in ein jedem Stücke
+    Wohl hundert Jahr zurücke
+    Und vor ein Stündchen nur.
+
+Simrock berichtet, wie 1271 die Stadt einst um 12 Uhr nachts überfallen
+werden sollte, was der Glöckner noch kurz vor Mitternacht erfuhr;
+rasche Tat war jetzt nötig:
+
+    So schlug es gar nicht Zwölfe
+    und auch nicht wieder Elfe,
+    Es schlug gleich Eins vom Turm.
+
+Damit war der Ueberfall vereitelt.
+
+    Die (Uhr) ließ man zum Gedächtnis
+    Nun gehen immer so,
+    und noch in unsern Tagen
+    Die Basler Glocken schlagen
+    Eins mehr als anderswo.
+    Doch auf dem Turm der Brücke
+    Da guckt ein Kopf hervor,
+    Der 60 Mal die Stunde
+    Die Zunge reckt im Munde
+    Den Feinden vor dem Tor.
+    und neckt ihr nun die Basler,
+    Verdirbt man euch den Spaß;
+    Sagt ihr, sie seiʼn zurücke,
+    Führt man Euch auf die Brücke
+    Und sagt: „Wie gʼfallt euch das?”
+
+Ueber den Grund dieser Abnormität sind die Geschichtsschreiber der
+Stadt nicht einig. Groß (Kurtze Basler Chronik, 1624) sagt, es sei
+um 1433 diese Aenderung eingeführt worden, „zur Beförderung des
+Konziliums, daß, da es sonst 12 Uhr schlagen sollte, die Uhr eins
+geschlagen ... J. Stumpfius haltet dafür, diese Aenderung werde
+gehalten zu einem ewigen Gedenkzeichen eines mordtlichen Ueberfalls
+wider die Stadt” (S. 76). Daniel Bernoulli hielt die ungenaue
+Orientierung des Münsters und die hieraus erfolgte unrichtige
+Konstruktion der Sonnenuhr, nach welcher die Stadtuhr gerichtet
+wurde, für die Ursache. Streuber (die Stadt Basel) (S. 377 ff.)
+schreibt hierüber: „Eine Eigentümlichkeit Basels, die bis zum Jahre
+1798 bestanden, war, daß die Uhren eine Stunde früher zeigten, als
+anderswo. Vergebens suchte der Rat im November 1778 die Sonderbarkeit
+abzuschaffen, schon im Januar 1779 mußte der alte Stundenschlag wieder
+eingeführt werden. Den Grund dieser sonderbaren Abweichung der Basler
+Stadtuhren von allen übrigen kennt man nicht. Daß man bei einer
+Verräterei 1271 den Zeiger vorgerückt, ist ebenso unbegründet, als daß
+die besondere Stundenrechnung daher rühre, daß die erste Sonnenuhr
+unrichtig auf die östliche Lage des Chores gegründet worden sei. Die
+älteste Schlaguhr Basels ist erweislich aus dem Jahre 1380. Da diese
+Uhren aber von untergeordneten Personen, Schlossern u. s. w. gerichtet
+wurden, so schiebt man wohl am besten diese Unrichtigkeit auf Rechnung
+der Unkenntnis dieser Leute; einmal eingewurzelt, konnte sie nicht mehr
+ausgerottet werden.”
+
+Soweit Streuber. Hiezu bemerkt Speckhart (a. a. O. S. 222): „die
+oben ausgesprochenen Ansichten und Nachrichten über die sonderbare
+Schlagweise der alten Baseleruhr sind nicht stichhaltig. Die uns so
+eigentümlich berührende Schlaganordnung, nach welcher die alte Basler
+Uhr _eins_ schlug, wenn alle Uhren der unter dem gleichen Längengrad
+liegenden Orte der Welt _zwölf_ schlugen, scheint eine wohl erwogene
+und richtig begründete Bewandtnis zu haben.
+
+Stellen wir uns vor, daß, wenn es bei uns 12 Uhr schlägt, der höchste
+Stand der Sonne, der Mittag eingetreten ist. Die Mittagsstunde,
+d. h. die 12. Stunde ist somit bei uns _beendigt_. Anders war das
+an der alten Basler Uhr: sie schlug 12 Uhr, wenn die 12. Stunde, die
+Mittagsstunde, ihren _Anfang_ nimmt, also in dem Augenblick, wenn
+es bei uns 11 Uhr schlägt. Der Mittag, der höchste Stand der Sonne,
+fällt demnach bei der Basler Uhr nach Verlauf der 12. Stunde mit
+dem Glockenschlag _eins_ zusammen. Beide Zählarten der Stunden sind
+richtig, denn die sich ergebende Differenz von einer Stunde liegt in
+Wirklichkeit gar nicht vor.”
+
+Als weitern Grund erwähnt Speckhart noch, daß die Stundenmeldung erst
+nach abgelaufener Zeit, eigentlich nur für den ersten Schlag gelte, die
+übrigen Schläge aber sozusagen zu spät kommen. Deshalb wäre es nach ihm
+richtiger gewesen, den abgelaufenen Mittag nur durch _einen_ Schlag zu
+bezeichnen, also da _eins_ schlagen zu lassen, wo die gewöhnliche Uhr
+12 schlägt. Diese Auffassung ist ja mathematisch unstreitig richtiger,
+es scheint uns nur fraglich, ob man früher, wo der Wert der Zeit lange
+nicht wie heute gewürdigt ward, so spitzfindig zu Werke ging. Immerhin
+ist das eine Erklärung, die vieles für sich hat. Ein weiterer Umstand
+fällt nach unserem Ermessen noch schwer in die Wagschale zugunsten
+dieser Ansicht: eine von Stradanus gezeichnete Uhrwerkstätte aus dem
+16. Jahrhundert zeigt eine Uhr mit der eigentümlichen Einteilung des
+Zifferblattes, daß da eins steht, wo unsere Uhren 12 zeigen. Auch eine
+Art „Lällenkönig” ist über der Mitte des Zifferblattes angebracht.
+Unsere Abbildung (Fig. 11) gibt diesen interessanten Stich wieder.
+
+Der Kopf, den Simrock erwähnt, ist der berühmte „Lällenkönig,”
+ebenfalls von einer Uhr getrieben. Er befand sich über dem Zifferblatt
+der Uhr des nun abgetragenen Rheintores von Großbasel, auf der Seite
+gegen Kleinbasel. Von Zeit zu Zeit streckte derselbe seine Zunge
+heraus und zog sie wieder ein. Diese Figur war zum Wahrzeichen Basels
+geworden und befand sich bis 1839 auf der Brücke: jetzt ist sie im
+mittelalterlichen Museum, wo sie zeitweilig ihre Tätigkeit wieder
+aufnimmt, aber nicht bloß zur Freude der Handwerksburschen und Kinder
+wie ehedem, sondern auch aller derjenigen, welche es bedauern, daß dem
+oft urwüchsigen, im ganzen aber harmlosen Humor der Alten keine Stätte
+mehr gegönnt wird im unruhigen Hasten unserer Tage.
+
+[Illustration: Fig. 11.]
+
+Man erzählt auch, die Kleinbasler hätten sich durch eine noch derbere
+Karrikatur gegen Großbasel hin gerächt.
+
+Für Luzern fertigte der Basler Heinrich Halder im Jahre 1385 eine Uhr
+an, welche zuerst „uf dem graggen turne” aufgestellt war und sich
+jetzt auf dem „Zytturm” befindet. (Vergl. auch v. Liebenau, das alte
+Luzern, an verschied. Orten). Der Meister hinterließ eine interessante
+Anleitung zur Regulierung und Behandlung dieser Uhr, aus welcher hier
+einige Sätze folgen mögen (Geschichtsfreund ~I~, S. 87). „Als du das
+Vrleiy (Uhr) wit richten, und das nider gewe (Gewicht) uf ziehen, oder
+ab lan, so tuo das Frowen gemuete (die Wagunruhe) von dem Rade oder
+us dem Rade do es Inne gat, und behab das Kamprat sicher in der hant,
+oder das gewege verlieffe sich als balde, dass das werg vil liechte
+breche.... Und so das Frowen gemuete ze balde (schnell) gat, des dich
+dunkt, so henke di bli kloetzli vaste hin us an das redelin, und so
+es ze trege gat, so henke sie hin In an das redelin, hie mitte macht
+du es hindern und fürdern wie du wit, sunderlich darf es ze nacht
+fürnderndes, wand das werg den merteil ze nacht treger got denne tages”
+.... Im Jahre 1408 erhielt auch der Rathausturm eine Uhr. -- In Zürich
+schloß der Rat 1366 mit dem Werkmeister Konrad von Klothen einen
+Vertrag über den Bau und Unterhalt einer Uhr auf St. Peter. (Vergl.
+Salom. Vögelin, Das alte Zürich; neue Auflage; 1879-90.)
+
+Bern hatte in seinem Zytglockenturm, ungefähr aus der nämlichen Zeit,
+eine Merkwürdigkeit ersten Ranges.
+
+[Illustration: Fig. 12.]
+
+Diese Stadt hatte anfangs des 16. Jahrhunderts drei Zeitglocken;
+eine auf Nydeck, eine im obern Spital und diejenige, welche uns hier
+beschäftigt. Aber auch diese Uhr war keineswegs die erste, denn schon
+eine Rechnung aus dem Jahre 1499 bemerkt, daß dem „Zitgloggenrichter”
+4 pfd. verrechnet wurden. Ebenso 1519: „dem Zitgloggenmacher uff
+sin arbeit des _wärchs_ der Zitgloggen, mit sampt dem trinkgeld den
+Knechten 109 ℔ 10 ß.” „Zitgloggenrichter” hieß der Angestellte, der die
+Uhr im Stand zu halten hatte. 1526 wurde Kaspar Bruner für dieses Amt
+gewählt. Er legte dem Rate bald ein Projekt für eine ganz neue Uhr vor,
+welches auch genehmigt wurde. „Ist mit Brunner dem slosser überkommen,
+daß er die reder zu der Zitgloggen machen soll, wie er die mustrung
+anzöngt, umb 1000 gulden (ca. 30000 Fr.) und ime alle fronvasten darzu
+10 pfund geben und soll die zitgloggen richten wie vor und darzu acht
+haben, alls lang ~m. h.~ das gevellig.” Höchst wahrscheinlich wurde
+alles, auch das Spielwerk von der Hand desselben geschickten Meisters
+gefertigt. Vollendet wurde das Werk schon 1530 (nicht erst 1534), wie
+eine am eisernen Gehäuse des Räderwerkes angebrachte Tafel zeigt:
+„Kaspar 1530 Bruner.” Nur der geharnischte Stundenschläger scheint
+älter zu sein; er hieß „Hans v. Thann.”[35]
+
+[Illustration: Fig. 13.]
+
+Die älteste Beschreibung des berühmten Werkes stammt aus dem Jahre
+1534. Der Ulmer Fischer bereiste als Handwerksbursche die Schweiz
+und zeichnete überall die Merkwürdigkeiten auf, die er gesehen. Die
+Zeitglockenuhr hat er sogar abgezeichnet; merkwürdigerweise zählt er
+die Ziffern von rechts nach links! Wir lassen diese Beschreibung in
+ihrem treuherzigen Wortlaute folgen:[36] ... „Jetzt will ich schreyben,
+wie fisierlich es vff ainander gadt vnd folgt also: wan es will anfahen
+schlahen, so sytzt ain guldiner han enbor vff dem dechle, der thutt die
+fligel auff vnd zu, sam (als ob) er flieg, vnd hangen an den fliglen
+vil schella. Wan nun der han hat auffheren schella, so stand darneben
+zwen thurnblaser, die fahen an zu blausen so artlich zusamen, als
+ob sy leben. Wan sy nun ain weyl geblasen haund, so heren sie auff
+blasen vnd halten ain weyl still vnd sehen sich vm, darnach so thond sy
+die Kepf wider zum busaunen vnd blasen die backen auff vnd thrumeten
+zusamen wie forhin. Wan sy nun haben außgeblasen, so sitz ain narr
+oben uff dem dechle, der schlecht all fiertel stund, das erst fiertayl
+ain straych, das ander fiertayl zweu straych, das dryt fiertayl drey
+straych, vnd wan die drumeter außgeblosen haund fier straych. Wan
+nun der narr die fier straych hat außgschlagen, so ist ain großer
+geharnaster man zu aller oberst im thurn bey der stund, vnd so oft er
+ain straych thut, so sytzt ain alts mendle daniden vnder dem hamer vnd
+thurnblaser, das thut den mund auff vnd zu vnd zelt alle straych, die
+er thut. Vnd wan der geharnest man hat außgeschlagen, so hat das alt
+mendle ain stund (Sanduhr) in der hand, die kert es vm, vnd gadt also
+wesentlich uff ainander als ob es als lebendig sey. Vnd ist das, da dan
+der han vnd die drumeter, der narr vnd das alt mendle ist, das ist ain
+ercker, der fein firn thurn herausgadt wie ain ercker an aim hauß vnd
+fein inainander verfaßt, wie ich dan alle ding fleyßig vnd ordenlich
+fir augen gemalet vnd gstelt hab, sampt der stund und reder darin, auch
+die zwelff zaichen, die bloneten, die ob der stund staund, als Jupiter,
+Mars vnd Fenus ist nur sunst darzu gmalet, vnd auch die beeren vnd die
+zwen geyger ist als nur am thurn gmalet, aber die reder vnd die zwelff
+zaychen vnd Sun vnd Mon, das sellig gadt vm nach yrem lauff. Im 1534
+jar haun ich zu Bern ain gantz jar gearbayt, da haun ich diesen thurn
+abgemalet.”
+
+[Illustration: Fig. 14.]
+
+Wie diese Beschreibung und die von Fischer gemachte Zeichnung beweisen,
+ist die berühmte Uhr bis heute wesentlich die gleiche geblieben; nur
+der Erker (Fig. 14) ist ein anderer geworden, er baut sich jetzt aus
+zwei über einander gestellten Nischen auf; der Hahn steht zur Linken
+des alten Mannes, gegenüber einem Löwen. An Stelle der beiden Trompeter
+sind laufende Bären angebracht, welche stündlich unter dem Sitze des
+alten Mannes (Sonnenkönig) ihren Umzug halten. Gruner berichtet in
+„Merkwürdigkeiten der Hochlöbl. Stadt Bern” Zürich 1732, daß die Uhr
+lange Zeit still gestanden, ohne daß ein Meister sich gefunden hätte,
+der sie wieder herstellte. 1712 aber brachte ein Bauer aus Langnau im
+Amt Trachselwald sie wieder in Gang.
+
+Das Aeußere des Turmes wurde leider 1770 „renoviert,” wobei die alten
+Malereien verschwanden. Die Inschrift, welche damals angebracht wurde,
+lautet:
+
+~Bertholdus V Dux Zähringiæ, Rector Burgund. Urbis conditor Turrim
+et portam fecit MCXCI et renovata MDCCLXX~ (Berthold ~V.~ Herzog von
+Zähringen, Regent von Burgund, der Gründer dieser Stadt, hat diesen
+Turm und das Tor erbaut im Jahre 1191; die Renovation geschah 1770).
+
+Solothurn, diese uralte Schweizerstadt, von der Glarean behauptet,
+daß sich diesseits der Alpen nur Trier an Alter mit ihr messen könne,
+besitzt auch eine merkwürdige alte Uhr. Sie befindet sich auf dem
+aus dem 12. Jahrh. stammenden Turm auf dem Marktplatz. Zum erstenmal
+wird dieses Gebäude 1408 in einem Protokoll als Uhrturm erwähnt. Im
+Jahre 1452 wurde daselbst eine Uhr aufgestellt, ebenso der Automat,
+welcher die Stunden schlägt. Joachim Habrecht (der Vater der beiden
+Habrecht, welche die Straßburger Uhr erbauten?) erstellte 1545 die
+jetzige Uhr. Sie hat 4 Zifferblätter, das gegen den Marktplatz sehende
+mit zwei Zeigern, die übrigen weisen nur die Stunden. Das Uhrwerk
+selbst stellt einen Würfel dar von 1,6 ~m~ Länge, 1,7 ~m~ Breite und
+1,7 ~m~ Höhe. Die beiden Platten (Platinen), sowie die Räder bestehen
+aus Schmiedeisen, mit Ausnahme der Zähne des Hemmungsrades, welche
+stählern und einzeln durch Gewinde mit dem Radumfang verschraubt sind.
+Die Automaten werden vom Uhrwerk durch ein System von Hebeln betrieben.
+Es sind ein Kürassier, der die Viertel auf seinem Panzer schlägt;
+der König auf dem Throne, welcher alle Stunden das Scepter bis auf
+das Knie senkt und der Tod, der seine Sanduhr unmittelbar vor jedem
+Stundenschlag umstürzt. Oberhalb der Automaten befindet sich eine Kugel
+zur Darstellung der Mondphasen, die sich an einem Sternhimmel bewegt.
+
+[Illustration: Fig. 15.]
+
+Das astronomische Zifferblatt (Fig. 15), ist unter einem Schutzdach
+angebracht und über 30 Quadratmeter groß; allein der Stundenkreis
+hat über 4 ~m~ Durchmesser. Wie die Abbildung zeigt, ist er in 2 mal
+zwölf Stunden geteilt. Von den 3 Zeigern gibt der größte, in eine Hand
+endigend, mit Zeiger und Mittelfinger die Stunden an. Der Mondlauf im
+Tierkreis ist durch den zweiten Zeiger dargestellt und hat monatlichen
+Umlauf; der letzte gibt den Sonnenlauf während eines Jahres an. Diese
+Zeiger haben ein eigenes Räderwerk, welches von der Uhr mittels
+Stangenübertragung bewegt wird. Die Malereien stammen aus dem Jahre
+1583 und wurden von dem Meister Heinrich Nikolaus Knopf ausgeführt;
+1880 restaurierte sie H. Jenny von Solothurn. Besonders treten S. Urs
+und Victor, die Patrone der Stadt hervor.
+
+Hier sehen wir auch noch die Eigentümlichkeit, daß der
+Viertelstundenzeiger kürzer ist als der Stundenzeiger; die
+Viertelteilung stammt erst aus dem Jahre 1642. Die auf unserer
+Abbildung sichtbare Türe diente zum Richten der Zeiger von innen aus.
+-- Die Solothurner Uhr ist neben derjenigen zu Bern eine Merkwürdigkeit
+der Schweiz; möge sie sich noch recht lange erhalten als Wahrzeichen
+der Stadt und des historischen Sinnes ihrer Bewohner.
+
+Ein Zeitmesser darf hier nicht übergangen werden: die berühmte Uhr von
+Straßburg, welche im ganzen Mittelalter und bis in unsere Zeit den
+Stolz und die Freude dieser Stadt bildete. Auch heute noch wird wohl
+kaum ein Tourist versäumen, dem äußerst interessanten Werke seinen
+Besuch abzustatten. Es galt als eines der 7 Wunderwerke Deutschlands;
+an dem Portal des Domes zu Mainz stand zu lesen: Die 7 Wunderwerke
+Deutschlands sind: der Straßburger Turm, der Kölner Chor, die
+Straßburger Uhr, die Orgel von Ulm, die Frankfurter Messe, Nürnberger
+Kunstwerke und das Augsburger Rathaus.[37] Diese Uhr wurde von Fischart
+in ziemlich hölzernen Versen besungen; auch Frischlin, Xylander,
+Cell, Crusis u. a. erwähnen sie in ihren Gedichten. Die neue Uhr fand
+ihren Sänger in Bilharz: Die astron. Uhr von Straßburg, Gedicht in
+alemannischer Mundart, 1872.
+
+Die erste Münsteruhr zu Straßburg wurde 1352 begonnen und 2 Jahre
+später unter Bischof Johann von Lichtenberg von einem unbekannten
+Meister vollendet. 1399 mußte sie repariert werden und ging später
+nach und nach zugrunde. Das Gehäuse bestand ganz aus Holz und umfaßte
+drei Abteilungen: zu unterst war der gewöhnliche Kalender, in der
+Mitte das Astrolabium samt Stundenblatt; oben waren verschiedene
+Automaten angebracht. Im Jahre 1547 beschloß die Stadtbehörde nach dem
+Beispiel anderer Städte (Bern erhielt 1527 eine „gar schöne” Uhr für
+den Zytglockenturm von einem auswärtigen Künstler; 1538 erstellte Hans
+Luther von Waldshut eine neue Uhr auf St. Peter in Zürich um 2394 ℔, 9
+Schillinge und 2 Heller, wofür er das Bürgerrecht erhielt u. s. w.),
+auch eine neue, der alten würdige Uhr anzuschaffen. „Drey fürnemme,
+gelehrte und verständige Mathematici, ~Dr.~ Michael Herus, Nicolaus
+Brucknerus, Christianus Herlinus und neben ihnen andere Handwerksleut”
+wurden beauftragt, die Uhr in Angriff zu nehmen, „und ward das Werk so
+weit gebracht, das der Uhrenmacher ettliche redder, und das gestell
+verfertigt hat, der Steynmetz das geheuß auffgefürt, bis gar nach
+an den helm, die Mathematici das Astrolabium auffgerissen haben:
+aber solches werk ist darnach durch ettlicher absterben unnd anderer
+ungelegenheit verhindert, unnd also unaußgemacht verbliben.”[38]
+So stockte die Arbeit, bis 1570 Konrad Dasypodius (Rauchfuß) von
+Schaffhausen, der Nachfolger Herlins als Professor der Mathematik in
+Straßburg, die Sache wieder aufnahm. Er erweiterte den ursprünglichen
+Plan und führte ihn auch aus; den mechanischen Teil übernahmen zwei
+Landsleute, Isaak und Josias Habrecht aus Schaffhausen, (letzterer
+erstellte auch 1580 die Uhr auf dem Rathause in Ulm), während zwei
+andere Schaffhauser, die Maler Tobias und Josias Stimmer das Gehäuse
+ausschmückten. M. David Wolkenstein aus Preßlaw unterstützte den durch
+allzugroße Arbeitslast krank gewordenen Freund Dasypodius bei der
+Vollendung der Uhr; 1574 war sie fertig gestellt und zur allgemeinen
+Zufriedenheit ausgefallen. Das Werk war sehr künstlich gearbeitet,
+es zeigte an einem Globus von drei Fuß Durchmesser alle täglichen
+Erscheinungen an Sonne, Mond und den sämtlichen 1022 auf dem Globus
+verzeichneten Ptolemäischen Sternen. Mehrere Scheiben zeigten z. B.
+den immerwährenden Julianischen Kalender, die Mondphasen, die Zeichen
+des Tierkreises u. s. w. Automaten fehlten natürlich auch nicht, so
+z. B. ein Hahn, der anfangs jeden Mittag krähte, später aber, als
+1640 der Blitz in ihn schlug, nur mehr an den Sonn- und Feiertagen.
+Der bildliche Schmuck war sehr reich; das Porträt des Astronomen
+Copernicus, das Stimmer nach einer Vorlage aus Danzig gemalt, gab
+Veranlassung zur Sage, jener hätte die Uhr verfertigt. 1669 und 1732
+wurden Ausbesserungen vorgenommen; 1789 stand die Uhr still. Als 1838
+die neue Uhr in Arbeit genommen wurde, fügte man den Mechanismus
+und die übrigen Teile der alten wieder zusammen und stellte sie im
+Frauenhause in Straßburg aus, wo sie noch zu sehen sind. Die jetzige
+Uhr wurde 1842 vollendet von J. B. Schwilgué; sie ist wohl allgemein
+bekannt, so daß hier von einer nähern Schilderung abgesehen werden
+kann. Das Gehäuse ist das alte von 1574, weshalb wir hier eine
+Abbildung desselben geben (Fig. 16). Es sei nur noch bemerkt, daß diese
+nach allen Anforderungen der modernen Wissenschaft konstruierte Uhr bis
+zum Jahre 9999 richtig zeigt und dann erst eine Ziffer geändert werden
+müßte, falls es möglich wäre, daß ein Werk so lange dauern kann.
+
+Eine Sage, die sich an die Straßburger Uhr knüpft, sei hier noch
+erwähnt, die Blendung des Meisters nach Vollendung seines Werkes,
+damit er kein ähnliches mehr erstellen könne. Gleiches wird auch von
+Lipp, dem Erbauer der Lyoner Uhr erzählt, aber mit ebenso geringer
+Berechtigung. Dieser lebte hochgeehrt und reich belohnt in Lyon; Isaak
+Habrecht starb in Straßburg 1610 als Stadtuhrenmacher; sein Bruder
+Josias in Kayserswerk; er hatte eine blinde Schwester, welcher Umstand
+vielleicht zur erwähnten Sage Veranlassung gab.
+
+[Illustration: Fig. 16.]
+
+Die Künstler des Mittelalters waren noch nicht beeinflußt von einem
+so unruhigen Gewerbsleben, wie es sich heute überall geltend macht.
+Sie konnten ihre Arbeiten in aller Muße vollenden. In unserer modernen
+Zeit, wo ein Fortschritt sozusagen den andern verdrängt, hat man auch
+nicht mehr so viel Verständnis für Werke, deren Ausführung jahrelange
+geduldige Arbeit und mühevolles Studium erfordert. Die Eindrücke kommen
+zu rasch und verwischen sich entsprechend schnell wieder, wir sind eben
+in gar vielen Punkten blasiert geworden. Dennoch hat es bis in die
+neueste Zeit Meister gegeben, welche ihr Können an Kunstuhren erproben
+wollten und es mit dem besten Erfolge auch getan haben. Bevor wir das
+Gebiet der alten Kunstuhren verlassen, möge es deswegen gestattet sein,
+der Zeit vorgreifend, zwei neuere Werke kurz anzuführen.
+
+Hier ist besonders zu nennen die astronomische Uhr von C. Julius Späth
+in Steinmauern (bei Rastatt), welche u. a. das Osterfest selbsttätig
+darstellt. Der Erfinder verwandte 19 Jahre auf die Erbauung dieses
+Werkes, das aus 2200 Teilen besteht. -- Eine andere Uhr, die hier noch
+genannt sein soll, ist jene von Hofuhrmacher Gustav Speckhart von
+Nürnberg. Sie wurde erstellt im Auftrage von C. Marfels in Berlin und
+bildete auf der Ausstellung von Chicago 1893 eine Zierde des „Deutschen
+Hauses.” Zur Darstellung kommt das Passionsspiel von Oberammergau.
+Das Innere der Uhr zählt 13 Uhrwerke; eines für die Musik, neun zur
+Bewegung der Gruppen, sowie eines für den Hahnenschrei und Stunden
+und Viertelschlagwerk. Das Kunstwerk wurde 1897 durch einen Brand
+vernichtet, aber zum zweiten male hergestellt; 1900 vertrat es würdig
+deutschen Kunstfleiß auf der Ausstellung zu Paris. Gegenwärtig befindet
+sich die Uhr im Museum für Zeitmeßkunde in Schramberg.
+
+Vom 15. Jahrhundert an gab es bald keine bedeutendere Stadt mehr,
+die nicht ihre Uhr gehabt hätte; nach allen Richtungen der Windrose
+breiteten sich die neuen Zeitmesser aus. Es kann nicht unsere Aufgabe
+sein, eine Aufzählung der in diesem Zeitraum erstandenen Uhren zu
+geben, weshalb hier nur noch einige Länder genannt sein mögen. Im
+Norden finden wir in der alten Universitätsstadt Lund eine Uhr mit
+vielen Automaten aus gediegenem Silber. Als 1658 die Provinz Schonen an
+die Schweden kam, wurde das kostbare Kunstwerk sogleich eingeschifft,
+das Fahrzeug versank aber im Sturme und so ruht der Schatz schon
+lange auf dem Meeresgrunde. Auch Upsala hatte schon frühe Uhren, wie
+Erzbischof Olaf Magnus († 1544) berichtet. Er sagt,[39] zwar hätten die
+nordischen Völker die Uhren erst später erhalten, ebenso die Glocken;
+jetzt aber gebe es in diesen Ländern so gute und richtig gehende Uhren,
+sowohl einheimischen als fremden Ursprunges, daß nur noch die richtige
+Wartung für dieselben erfordert werde.[40]
+
+In England waren im 14. Jahrhundert die Uhren schon verbreitet. Es
+läßt sich dies schließen aus einigen Stellen Chaucers (ca. 1340-1400),
+des Vaters der englischen Dichtkunst, der in seinen ~Canterbury Tales~
+(~V.~ 14859 und 60) singt:
+
+    ~Full sickerer was his crowing in his loge,
+    As is a clock, or any abbey orloge.~
+
+  (Viel sicherer konnte man nach seinem Krähen, als nach der Kirchen-
+  oder Abteiuhr gehen.) Bekannt ist auch, daß Shakespeare die Uhren
+  öfter erwähnt.
+
+In Spanien stellte man die erste Uhr zu Olite auf. Sevilla erhielt 1400
+eine solche; 1402 Moskau, durch einen serbischen Künstler Lazarus.
+
+In den ersten Zeiten der Uhrmacherkunst stellten sich die Uhren
+natürlich teuer, da sie einerseits große Kenntnisse bei dem Ersteller
+voraussetzten, anderseits waren der bedeutenden Größe wegen die
+Materialkosten nicht gering. Später jedoch verfertigte man sie kleiner
+und billiger, so daß gegen Ende des 15. Jahrhunderts auch Privatleute
+im Besitze von Uhren sind. Auch verschwinden nach und nach die
+Gelehrten und Astronomen als Uhrmacher, an ihre Stelle treten die
+Schlosser und später die eigentliche Uhrmacherzunft.[41] Wenn nun
+auch die Herstellung der Zeitmesser handwerksmäßig betrieben wurde,
+so entbehrten sie vielfach doch nicht des künstlerischen Schmuckes,
+weshalb solche alte kleinere Uhren sehr gesucht und wichtig sind für
+das Kunsthandwerk. Mancherorts finden sich, besonders aus der Zeit der
+Renaissance, wahre Perlen der Kleinkunst unter den Uhren vor.
+
+Die Obrigkeit beschäftigte sich bald mit der Organisation der
+Uhrmacher. Sehr ausführliche, zum Teil strenge Bestimmungen enthält die
+Zunftordnung der Pariser Uhrmacher vom Jahre 1544, welche im folgenden
+der Hauptsache nach angeführt werden.
+
+1. Es ist weder einem Goldschmied, noch sonst jemand erlaubt, Uhren
+oder Bestandteile derselben herzustellen, feil zu bieten oder zu
+verkaufen, unter Strafe der Einziehung seiner Waren und einer Buße in
+Geld; außer er habe sich als Meister in die Zunft aufnehmen lassen.
+
+2. Niemand darf als Meister aufgenommen werden vor Ablegung einer
+Prüfung und Fertigstellung eines Probestückes in der Werkstätte eines
+Aufsehers.
+
+3. Das zu liefernde Meisterwerk sei wenigstens eine Weckeruhr.
+
+4. Die Meister dürfen keine Lehrlinge annehmen für auf weniger als 8
+Jahre; einen zweiten erst, nachdem der andere 7 Jahre seiner Lehrzeit
+hinter sich hat.
+
+5. Kein Lehrling darf älter, kein Meister jünger als 20 Jahre sein.
+
+6. Jeder Meister kann alle Bestandteile von beliebigem Metalle oder
+Stoff anfertigen, sich auch überall niederlassen, wo er will. -- Die
+beeidigten Zunftaufseher können zu jeder Zeit jede Werkstätte besuchen
+und dürfen schlecht gearbeitete Ware wegnehmen u. s. w.
+
+Aehnliche Bestimmungen mögen auch in den Zunftsatzungen anderer Länder
+sich finden.[42]
+
+Auf diese Weise konnte es nicht ausbleiben, daß die neue Uhrmacherkunst
+zu hoher Blüte gelangte; die Uhren wurden so gut hergestellt, als es
+eben der damalige Stand der Kenntnisse und die vorhandenen mechanischen
+Hilfsmittel gestatteten. Deshalb sagt der Bischof Simon Majolus (lebte
+gegen Ende des 16. Jahrhunderts), daß die Uhren seiner Zeit sehr
+vollkommen seien, sie leisteten alles für den Menschen, es fehle nur
+noch, daß sie auch für ihn studierten.
+
+Wenn die ersten Räderuhren oft kolossale Dimensionen aufwiesen, so
+gaben die Zimmeruhren den unsrigen an Kleinheit nichts nach, übertrafen
+sie aber meistens durch oft bewunderungswürdige Feinheit und Schönheit
+des Schmuckes. Gezählt wurde gewöhnlich von 1-24; diese Weise hat
+sich bekanntlich in Italien bis in die neuere Zeit erhalten und ist
+neuerdings in einzelnen Ländern für den Eisenbahnverkehr wieder
+eingeführt worden. In den nördlichern Gegenden kam später die bequemere
+Zählung von zwei mal zwölf in Aufnahme, jedoch nicht erst nach der
+Reformation und vielleicht als eine Folge derselben, sondern teilweise
+schon viel früher. Am Rhein z. B. treffen wir die Halbierung schon
+1395 und vielerorts im ersten Viertel des 15. Jahrhunderts.[43] In
+Breslau dagegen wurde erst 1580 durch Ratsbeschluß die halbe Zählung
+eingeführt (Gelcich, S. 26). Derartige Uhren nannte man „halbe,” im
+Gegensatz zu den „ganzen,” deren Zifferblatt 24 Stunden zeigt. L.
+Guicciardini, der Neffe des berühmten Francesco Guicciardini rühmt in
+seiner ~„Description de tous les Pais-Bas”~ (~Anvers 1582, p. 57~) die
+weit bequemere Zählweise der deutschen Völker zu zweimal zwölf Stunden
+gegenüber der italienischen mit 24.[44]
+
+Bei den ältesten Zimmeruhren drehte sich nicht der Zeiger
+(ursprünglich nur einer), sondern das Zifferblatt bewegte sich um sich
+selbst. Statt der Wagunruhe findet sich im Laufe des 15. Jahrhunderts
+die Radunruhe, oft mit Zinnen versehen, wodurch der Gang der Uhr sehr
+belebend wirkte. Nach und nach kommt auch das Gehäuse auf, welches das
+Getriebe verhüllt. Ebenso soll schon im 15. Jahrhundert der geradlinige
+Balancier (ein kurzes Pendel, das vor dem Zifferblatt schwingt und
+sich auch noch bis ins 18. Jahrhundert erhielt) aufgekommen sein.
+Bei den Tischuhren des 16. und 17. Jahrhunderts kommt es oft vor. --
+Von der Mitte des 16. Jahrhunderts an werden Uhren erwähnt, welche
+auch Minuten und Sekunden anzeigen. Eine solche aus der Zeit von ca.
+1540-1550 besitzt das germanische Museum in Nürnberg. Sie hat 3 über
+einander angeordnete Zifferblätter: das oberste zeigt die Stunden,
+das mittlere die Minuten, das dritte mit dem Bilde der strahlenden
+Sonne gibt Sekunden. Der Sekundenzeiger ist auf dem Steigrad, das 30
+Zähne hat, aufgesetzt, die Zeitsekunde wird also ruckweise angegeben,
+nicht wie bei unsern modernen Taschenuhren, deren Sekundenzeiger eine
+fortdauernde Bewegung besitzt.
+
+Der große Aufschwung, den die Uhrmacherkunst im 14., 15. und 16.
+Jahrhundert genommen, gereicht den Meistern jener Zeit zur Ehre, nicht
+minder aber den Fürsten, welche derartige Bestrebungen tatkräftig
+unterstützten. Schon früher wurde als Förderer Karl ~V.~ der Weise von
+Frankreich genannt; es sind hier noch aufzuführen Maximilian ~I.~,
+Gian Galeazzo Visconti, Franz ~I.~, Kaiser Karl ~V.~ von Spanien,
+welcher sich wie bekannt nach seinem Rücktritt von der Regierung, in
+St. Just im Verein mit dem Mathematiker Janellus Turianus viel mit der
+Verfertigung von allerlei Uhren und andern mechanischen Kunstwerken
+beschäftigte. Heinrich ~VIII.~ von England, Karl ~IX.~, Heinrich ~III.~
+und ~IV.~ von Frankreich waren ebenfalls Gönner der Uhrmacherkunst.
+
+Allʼ das konnte jedoch nicht hindern, daß die damaligen Uhren ungenau
+waren; es gab ja noch keine Maschinen, sondern alles mußte mühsam
+ausgezirkelt und von Hand bearbeitet werden. Die Waghemmung leidet an
+manchen Fehlern; bei der oft unverhältnismäßig großen Zahl von Rädern
+mußte auch die Reibung entsprechend ausfallen, was wiederum kolossale
+Gewichte bedingte, diese aber nutzten das Werk rasch ab, u. s. w. Wir
+dürfen in keinem Fall an die Genauigkeit unserer gewöhnlichen heutigen
+Uhren denken, auch wenn eine berühmte alte Uhr in Frage kommt.
+
+Wenn nun trotzdem schon frühe versucht wurde, die Uhren als Zeitmesser
+bei astronomischen Untersuchungen anzuwenden, so darf es uns nicht
+auffallen, Klagen über die Unvollkommenheit derselben zu vernehmen
+und große Ungenauigkeit im Gange festgestellt zu sehen. Als Erster
+benutzte, so viel bekannt, Bernhard Walter[45] aus Nürnberg (1430 bis
+1504) eine Räderuhr zu astronomischen Beobachtungen, ungefähr vom Jahre
+1484 an. Seine Uhr hatte ein Stundenrad mit 56 Zähnen; aus der Anzahl
+der Umdrehungen dieses Rades beobachtete er die Zeit, welche zwischen
+dem Erscheinen Merkurs und der Sonne verstrich. Diese Uhr soll ganz
+genau (~ad unguem~) gegangen sein.
+
+Die Beobachtungen sind aufgezeichnet in der 1666 und später noch
+mehrfach erschienenen „Geschichte des Himmels” des Jesuiten Albert
+Curtius, der aber durch Buchstabenversetzung seinen Namen in Lucius
+Barettus umwandelte. Den Hauptinhalt des Werkes bilden außer den bis
+dahin bekannten Beobachtungen der Alten, die Ergebnisse der Tätigkeit
+Tycho Brahes. Die auf Bernhard Walter bezügliche Stelle findet sich
+a. a. O. S. 52: „Im Jahre Christi 1484: Beobachtungen zu Nürnberg.
+Am 16. Januar habe ich ☿ (Merkur) beobachtet, nachdem ich die Uhr,
+welche von Mittag zu Mittag ganz genau gegangen, gerichtet hatte. Ich
+sah aber morgens früh den Merkur in Berührung mit dem Horizonte. Im
+selben Augenblicke hing ich das Gewicht der Uhr ein (~appendi pondus
+horologii~), welche ein Stundenrad von 56 Zähne hat. Dieses machte
+einen Umlauf und dazu noch 35 Zähne, bis der Mittelpunkt der Sonne im
+Horizont erschien. Daraus folgt, daß an diesem Tage der Merkur um 1
+Stunde und 37 Minuten vor der Sonne aufging, was mit der Berechnung
+ziemlich stimmt.”
+
+Auch Mästlein oder Möstlein (1550-1631), der berühmte Astronom und
+Mathematiker zu Tübingen und Lehrer Keplers, benützte eine Räderuhr
+zu astronomischen Beobachtungen. Von dieser Uhr sagt Mästlein, das
+größte Rad, welches in zwölf Stunden einen Umlauf macht (Stunden- oder
+Zeigerrad) habe 42 Zähne; der Trieb, welcher in dasselbe eingriff, 3
+Zähne; auf derselben Achse war das Bodenrad, an welchem das Gewicht
+hängt, mit 64 Zähnen. Sein Trieb hatte 8 und das nächste Rad 54 Zähne.
+Das vierte und letzte Rad mit einem Triebe von 6, zählte 21 Zähne und
+gab 42 Doppelschläge. Durch Rechnung ergibt sich, daß stündlich 3528
+Schläge gehört werden. Nach der Annahme Mästleins bewegt sich nun
+der Himmel von einem Schlag zum andern um 15″ 18‴; daraus berechnete
+er den Durchmesser der Sonne zu 34′ 13″, indem er die Anzahl Schläge
+zählte, während welcher die Sonne durch einen Meridianfaden ging.
+Am 6. Dezember wurden die Beobachtungen wiederholt, es ergaben sich
+aber jetzt nur mehr 137, statt wie früher 146 Schläge, so daß für den
+Sonnendurchmesser 32′ 6″ erhalten wurden. Später erhielt derselbe
+Astronom bloß 129 Schläge, also 29,75′.
+
+Mästlein schloß mit Recht aus dieser Verschiedenheit, daß die Uhr
+ungenau sei; er sagt auch, sie sei einmal innert 24 Stunden ¾ Stunden
+zu spät gegangen. Dies war auch bei der angegebenen Konstruktion des
+Werkes gar nicht anders möglich.
+
+Neben Mästlein benützte der fürstliche Astronom Landgraf Wilhelm ~IV.~
+von Hessen Räderuhren. Er sowohl, als sein mathematischer Gehülfe,
+Christoph Rothmann, rühmen die Genauigkeit ihrer Instrumente, welche
+der Schweizer Jost Bürgi, von dem später die Rede sein wird, verfertigt
+hatte. Tycho will aber nicht recht an diese Genauigkeit glauben.
+
+Dieser Gelehrte, der „König der Astronomen,” fällt ein ganz anderes
+und wohl begründetes Urteil über damalige Uhren als astronomische
+Instrumente.[46] Seine Hilfsmittel waren so sorgfältig gearbeitet, als
+es damals nur möglich war. Eine Beschreibung derselben besitzen wir von
+Tycho selbst, welche er durch seinen deutschen Sekretär für Wilhelm von
+Hessen, mit dem er in lebhaftem Briefwechsel stand, hatte anfertigen
+lassen. (Vergl. ~Epistolarum Astronomicarum libri. Uraniburgi Daniæ~,
+~p.~ 219). „Ein zusammengefaßte Beschreibung, welche kürtzlich inhelt,
+was für Astronomische Instrumenten der Edel und Wohlgeborne Tycho Brahe
+hat anrichten lassen. ... ~VII.~ bey diesem ~Observatorio~ ist ein
+groß ~Horologium~ (Uhr), welchs die Stunden, Minuten und ~Secunden~
+zeigt, und das ~paucis exceptis~, durch einige ~rotam Orichalcicam~,
+welche zwey ~Cubitos in Diametro~ hat vnd in 1200 Zehne gar fleißig
+außgeteilt (~sic!~). Hat auch darneben zwey ander kleinere ~Horologia~,
+die deßgleichen ~Horas~, ~Minuta~ vnd ~Secunden~ zeigen.” Diese
+drei Uhren waren in der Uranienburg selbst aufgestellt; der Bericht
+spricht aber noch von den Instrumenten, „so außerhalb dem Schloß in
+unterirdischen Gewölben ordiniert sein.” „In dem Nordwesterwinckel
+hangen zwey Vhrwerk bey dem Tisch, welche die ~Horas~, ~Minuta~ und
+~Secunda~ außweisen, also daß der die ~Observationes~ anschreibt, dabey
+sitzen, vnd das ~Momentum~, wann die ~Observatio~ geschiecht, flux
+anmerken kan.” Tycho benützte also wenigstens fünf Uhren.
+
+Die Gründe der Ungenauigkeit aller damaligen Räderuhren für
+astronomische Beobachtungen werden gut angegeben. „Mit welchʼ
+mechanischer Sorgfalt solche Uhren auch immer gearbeitet sein mögen, so
+sind sie doch wegen Veränderung in Luft und Wind selbst veränderlich,
+und es gibt keine Abwehr dieser Unbeständigkeit, wenn sie zur
+Winterszeit in geheizten Zimmern aufgestellt sind; selbst dann nicht,
+wenn die Temperatur so viel als möglich gleich gehalten wird. (Es gab
+damals noch keine Thermometer!) So werden sich Schwankungen des Ganges
+zeigen. Leicht kann es sich auch treffen, daß einige Zähnchen oder
+Räder ungleichmäßig gearbeitet sind, so daß sie die Regelmäßigkeit des
+Ganges, wenn auch nur wenig, stören, auch wenn die Uhr anfangs genau
+mit der Sonne oder den Sternen übereinstimmte. Ja selbst die Schnur,
+an welcher das Gewicht hängt, beschleunigt den Gang, wenn viel davon
+abgewickelt ist, mehr, als wenn das Gewicht noch hoch hängt. Wenn
+dieser Unterschied auch gering sein mag, so stört er doch, da ja eine
+Differenz von 4 Sekunden an der Uhr, bei einem Sterne schon eine Minute
+ausmacht. Auch andre Gründe raten, den Uhren nicht zu trauen.”[47]
+
+Es war also notwendig, um zu einigermaßen genauen Resultaten zu
+gelangen, die Uhr fleißig zu korrigieren. Dies geschah entweder
+durch Sternbeobachtungen, oder durch Feststellung des Sonnenstandes.
+Tycho beobachtete besonders mit zwei Uhren, einer größeren und einer
+kleineren; es finden sich aber doch Fehler von mehr als zwei Stunden
+angemerkt von einem Tag zum andern. Das Beobachtungstagebuch ist von
+derartigen Bemerkungen voll. Natürlich hatte da auch der Uhrmacher
+vollauf Arbeit, und die Astronomen gerieten in große Verlegenheit, wenn
+ihnen ein solcher fehlte. So ersucht auch Tycho einmal dringend Wilhelm
+von Hessen um baldmöglichste Zusendung eines geschickten ~„Automatopæum
+sive Horologiarium”~ (Uhrmacher), da der frühere, Crole, gestorben sei.
+
+Es darf uns also nicht wundern, wenn Tycho, dieser ausgezeichnete
+Astronom, nach einem Ersatz der Räderuhren sich umsah, allerdings
+mit negativem Erfolg. Er schildert diese Bemühungen in humorvoller
+Weise. Zuerst wurde ein Versuch mit Quecksilber gemacht, das durch 3
+bis 4malige Sublimation mühsam gereinigt wurde. Es sollte eine Art
+Wasseruhr hergestellt werden, wobei Tycho noch die Vorsicht benützte,
+das Niveau der Flüssigkeit konstant zu erhalten. Das in einer
+bestimmten Zeit ausgeflossene Quecksilber wurde gewogen, und man suchte
+danach zu bestimmen, wie viel in einer Stunde, Minute oder Sekunde
+ausfließen könne. Aus dem Gewichte wurde also die Zeit bemessen, um so
+auf eine genauere Bestimmung der Rektaszension eines Sternes etc. zu
+kommen. Tycho sagt mit Recht: „Gewiß eine mühevolle und teure Arbeit.
+So erfüllte sich auch hier der Spruch des stagirischen Philosophen
+(Aristoteles): Es findet sich in Merkur (Quecksilber), was immer ein
+Weiser suchen mag.” Merkur der Planet bewährte indes auch hier wieder
+seine Feindschaft gegen die Astronomen!
+
+Auch mit Bleikalk (oxydiertem Blei) versuchte Brahe durch Konstruktion
+einer Sanduhr zu bessern Ergebnissen zu gelangen. Er wollte Merkur
+und Saturn vereinigen, da ja nach der Meinung der Astrologen, deren
+Verbindung (Konjunktion) die günstigste sei. Alles umsonst! „Aber
+nicht bloß der verschmitzte Merkur vereitelte meine Bemühungen, so wie
+er am Himmel die Astronomen, auf Erden die Chemiker narrt, sondern
+sogar der sonst so ernste und bedächtige Saturn[48] ließ von seinem
+arglistigen und heimtückischen Gebaren nicht ab, so daß schließlich die
+ganze Arbeit vereitelt wurde. Dies alles erwähne ich nur deswegen so
+weitläufig, damit die Freunde der Astronomie ersehen, wie schwierig es
+sei, die Stellung auch nur eines einzigen Sternes am Himmel in bezug
+auf die Solstitien oder Aequinoktien im voraus zu berechnen”, und fügen
+wir noch bei: wie viel besser wir mit unsern weit genauer gehenden
+Uhren gestellt sind, als es bei diesem großen Astronomen vor 300 Jahren
+der Fall war.
+
+Nach allʼ dem wird das Mißtrauen Tychos gegen die angebliche
+Genauigkeit der hessischen Uhren begreiflich, und müssen uns auch die
+noch um 100 Jahre ältern Angaben Walthers über seine genau gehende Uhr
+sehr verdächtig erscheinen.
+
+Kehren wir nach diesen Bemerkungen zur weitern Entwicklung der
+Räderuhren zurück!
+
+Wenn auch die Dimensionen der Uhren nach und nach auf ein immer
+bescheideneres Maß zurückgeführt wurden, so blieb man dabei doch nicht
+stehen, sondern suchte sie so klein zu machen, daß dieselben auch
+auf Reisen, ja sogar in der Tasche bequem nachgeführt werden konnten.
+Es waren jedoch hier ganz bedeutende Schwierigkeiten zu überwinden,
+bevor das Ziel einigermaßen erreicht war. Einmal fiel natürlich das
+Gewicht als treibende Kraft ganz weg, und es mußte für passenden Ersatz
+gesorgt werden. Dies geschah durch die gespannte Stahlfeder, welche
+vermöge ihrer Elastizität das Räderwerk zu treiben im stande ist. Sie
+wurde ursprünglich an eine der 4 Säulen, zwischen denen sie ruhte (das
+Federhaus entstand erst später), mit dem einen, und mit dem andern
+Ende an dem Wellbaum befestigt. Oben saß das sogenannte Stirnrad,
+welches die übrigen Räder in Bewegung setzte. Von nachteiligem
+Einfluß auf die Genauigkeit einer solchen Uhr war der Umstand, daß
+sie beim Aufziehen der Feder still stand; dem wurde abgeholfen durch
+Einführung des „Gesperres,” bestehend aus Sperrrad und Sperrkegel.
+Beide befinden sich außerhalb der Platinen (Platten, zwischen denen das
+Räderwerk angeordnet ist); das Rad läßt wohl die Bewegung zum Spannen
+der Feder zu, verhindert aber durch Einklappen des Sperrkegels die
+entgegengesetzte.
+
+Eine andere Schwierigkeit bestand in der geringen Größe der Räder einer
+Taschenuhr. Wenn das Werk erträglich genau gehen sollte, so mußten alle
+Teile sehr fein gearbeitet sein; gewiß keine kleine Aufgabe bei dem
+damaligen Stande der Werkzeuge.
+
+Eine Feder wirkt um so kräftiger, je stärker sie gespannt ist;
+also müßte an und für sich eine Federuhr anfänglich sehr rasch,
+nach und nach aber immer langsamer gehen. Diesem Uebelstand wurde
+abgeholfen durch die sogenannte Schnecke. Es ist dies, wie jedermann
+bekannt, ein kegelförmiger Körper, welcher an seiner Oberfläche mit
+schraubenförmigen Windungen versehen ist. Trommel (Federhaus) und
+Schnecke stehen nebeneinander und sind durch eine Schnur, Darmsaite
+oder Kette verbunden, von welcher das eine Ende am oberen Teil der
+Trommel, das andere am unteren Teil des Kegels befestigt ist. Wird nun
+die Feder aufgezogen, so strebt sie sich wieder auszudehnen, also die
+Trommel in entgegengesetzter Richtung zu drehen. Wegen des Sperrrades
+ist dies aber nicht möglich, ohne daß zugleich auch die Schnecke sich
+drehe, wodurch allmählich die Kette von oben nach unten auf die Trommel
+sich abwickelt. Nun wirkt nach den Gesetzen der Mechanik eine Kraft
+um so intensiver, je länger ihr Arm ist. Sollte also der Antrieb der
+gespannten Feder anfangs und gegen Ende hin sich annähernd gleich
+bleiben, so mußte sie zuerst am kürzeren und nach und nach an einem
+immer längeren Hebelarme tätig sein (Fig. 17). Dieser Zweck wird durch
+die geniale Konstruktion der Schnecke erreicht, welche dem Scharfsinn
+ihres unbekannten Erfinders alle Ehre macht.
+
+[Illustration: Fig. 17.]
+
+Ebenso wie die Erfindung der Schnecke, ist auch jene der Uhrfeder in
+tiefes Dunkel gehüllt. Sicher ist, daß Henlein, wie es weiter unten
+ausführlicher besprochen werden soll, Taschenuhren ohne Gewicht, also
+mit Federn herstellte. Es scheint auch ohne weiteres klar, daß einem
+Schlosser, und aus diesen gingen ja die Uhrmacher hervor, der Gedanke
+kommen konnte, die Feder, welche schon längst in den Türschlössern
+angewendet wurde, auch bei der Uhr als Ersatz des Gewichtes zu
+verwerten. Die Franzosen allerdings schreiben diese Erfindung einem
+Landsmann unter Karl ~VII.~ (gest. 1461) zu, ohne daß jedoch bis jetzt
+eine sicher beglaubigte Uhr aus jener Zeit zum Vorschein gekommen
+wäre. Wir geben hier die Abbildung eines alten Tischührchens, das die
+Jahreszahl 1504 eingeritzt trägt und in so fern einigen Anhalt gäbe für
+die Erfindung der Feder. Fig. 18 stellt das Aeußere dar; Fig. 19 den
+inneren Mechanismus, von unten gesehen. Zum Gebrauche der Uhr während
+der Nacht sind auf dem Zifferblatt Knöpfe angebracht, unter der Ziffer
+12 ein etwas größerer. Ein in Fig. 18 sichtbares Türchen bei ~A~ (mit
+der Jahrzahl und einem durchstrichenen ~S~) läßt den Gang der Uhr
+beobachten. Jedenfalls ist dieses Werk sehr merkwürdig und gehört zu
+den ältesten, die noch vorhanden sind.
+
+[Illustration: Fig. 18.]
+
+Die Hemmung der ersten Taschenuhren war ähnlich wie bei den
+Gewichtuhren, also ein schwingender Balken, entsprechend verkleinert
+und an den Enden verdickt nach Art eines Löffels, weshalb man sie auch
+Löffelunruhe nannte. Bald trat an ihre Stelle die ringförmige Unruhe,
+welche heute noch verwendet wird. Später kam noch die Spiralfeder
+hinzu, und diese beiden Stücke, Unruhe und Spiralfeder, bilden die
+eigentliche Hemmung der Taschenuhren.[49]
+
+[Illustration: Fig. 19.]
+
+Wann wurde die erste Taschenuhr hergestellt? Diese Frage läßt sich,
+wie die bezüglich der Räderuhren, nicht genau beantworten. Allgemein
+wird als Erfinder dieser nützlichen Vorrichtung Peter Henlein aus
+Nürnberg und als Zeitpunkt derselben der Anfang des 16. Jahrhunderts
+genannt. Diese Annahme hat auch die meisten Gründe für sich, obschon
+Deutschland, England und Frankreich sich um die Ehre der Erfindung
+streiten; in Deutschland im besondern die Städte Augsburg, Straßburg
+und Nürnberg. Auch die Zeit findet sich verschieden angegeben; es
+scheint aber sicher, daß im 15. Jahrhundert kleine tragbare Uhren
+verfertigt worden seien.
+
+Der Ausdruck „tragbar” hat zu Mißverständnissen Veranlassung gegeben,
+indem einige Stellen, wo von kleinen tragbaren Uhren die Rede ist, auf
+Taschenuhren gedeutet wurden. „Tragbar” hießen auch die Zimmeruhren,
+im Gegensatz zu den Turmuhren. So findet sich im Inventar Karls ~V.~
+von Frankreich eine Uhr verzeichnet, welche einst Philipp dem Schönen
+(1285-1314) gehört haben soll; man hat diese Uhr ohne weitere Beweise
+als Taschenuhr angesehen. Hamberger und Beckmann betrachten auch die
+Uhr, welche Kaspar Visconti († 1499) besingt, als eine Taschenuhr.[50]
+Sie zeigte aber außer den Stunden auch noch den Planetenlauf, die
+jährlichen Feste und war mit einem Schlagwerk versehen; es ist also
+schwerlich an eine Taschenuhr zu denken.[51] Wir haben demnach hier
+eine Wohnungsuhr vor uns, „die damals in den verschiedenen Ländern
+Europas eben aufkamen und gegen die unbeweglichen Turmuhren „beweglich”
+und von einem Ort zum andern transportierbar waren, wenn sie auch noch
+durch das treibende Gewicht an eine Wand gebunden waren. Sie bezeichnen
+als solche gewiß einen so bedeutenden Fortschritt in der Uhrmacherei,
+daß sie einen Dichter gar wohl zu einem Lobgesang auf sie veranlassen
+konnten” (Friedrich a. a. O).
+
+Speckhart erwähnt auch eine 1494 in die Sebalduskirche zu Nürnberg
+gestiftete Tafel, auf welcher ein gewisser Grundherr als Stifter einer
+Uhr gepriesen wird:
+
+    Herr Ulrich Grundherr war beflissen,
+    Uff eine Uhr, die hett ein Grund,
+    Die schlug viermal in einer Stund,
+    Teilt fein die Viertel alle aus,
+    Das bracht der Herr mit ihm zu Haus
+    und gabs den Herren zu verstahn,
+    Die hießen bald eins machen lahn.
+
+Also auch eine tragbare Uhr, wenn auch noch nicht eine Taschenuhr.
+Du Verdier erzählt nach alten Chronisten aus der Zeit Ludwigs ~XI.~
+(1461-1483) von einem Höfling, der ein leidenschaftlicher Spieler war
+und einst alles verloren hatte. Er trat in das Zimmer des Königs und
+nahm eine dort befindliche Uhr weg, indem er sie in seinem Aermel
+verbarg. Der Diebstahl wurde aber alsbald entdeckt, da die Uhr zu
+schlagen begann. Der König verzieh dem armen Schelmen und schenkte ihm
+die Uhr.[52] Ob dieses kleine Werk eine Taschenuhr gewesen, läßt sich
+wegen Mangel näherer Quellenangaben nicht feststellen.[53]
+
+Bezüglich des Nürnberger Schlossermeisters Peter Henlein haben wir
+aber positive Nachrichten.
+
+Ein Hauptzeuge in dieser Angelegenheit ist Johannes Cochläus, der
+bekannte Gegner Luthers. Im Anhang zu seiner 1511 erschienenen
+~Cosmographia Pomponii Melæ~, welche Willibald Pirkheimer gewidmet ist
+und von den Vorzügen Nürnbergs handelt, sagt er u. a. folgendes: „Es
+werden tagtäglich schwierigere Dinge erfunden; so hat Peter _Hele_,
+ein noch junger Mann, Werke gemacht, welche selbst bei den größten
+Mathematikern Bewunderung erregen; denn aus wenig Eisen (~parvo ferro~)
+baut er Uhren mit sehr vielen Rädern, welche, wie immer gelegt, ohne
+jedes Gewicht 40 Stunden zeigen und schlagen, auch wenn sie auf der
+Brust oder in der Börse getragen werden.” Aus dieser wichtigen Stelle
+ergibt sich, daß die Uhren klein und von Eisen waren; ferner, daß
+eine Feder das Räderwerk trieb. Vielleicht kam Henlein durch seinen
+Schlosserberuf auf den guten Gedanken, die Feder bei den Uhren zu
+verwenden. Ueber das Jahr der Erfindung erfahren wir durch Cochläus
+nichts; Speckhart ist geneigt, die Zeit von 1500 bis 1510 dafür
+anzusetzen. Die ersten Taschenuhren wurden wahrscheinlich als Reise-
+oder Kutschenuhren verwendet; eine solche von 36 Stunden Gehzeit aus
+dem Jahre 1560, bewahrt das Germanische Museum.
+
+Cochläus schreibt Peter _Hele_; andere Schreibweisen sind Heinlein,
+Henlein, Henle und statt Peter, Andreas Henlein. Es ist das Verdienst
+der Herren ~Dr.~ Mayer, früher Archiv-Sekretär in Nürnberg, und
+~Dr.~ Locher, die richtige Schreibweise gefunden zu haben. Mayer
+durchforschte zu diesem Zwecke die Verzeichnisse Nürnberger Schlosser
+von 1462 bis 1548, ohne einen Peter _Hele_ zu finden, wohl aber wird
+öfter ein Peter _Henlein_ erwähnt. Dies ist also die einzig richtige
+Leseart.
+
+Das Geburtsjahr unseres Meisters ist nicht bekannt. 1504 war Henlein
+in einen Raufhandel verwickelt, welcher mit einem Totschlag endete;
+Peter scheint jedoch nicht der Hauptschuldige gewesen zu sein,
+wenigstens wurde nur eine Geldbuße über ihn verhängt. Wir dürfen nun
+annehmen, daß Henlein damals ein erwachsener Bursche, in den zwanziger
+Jahren war. 1509 wurde er Meister, was ein Alter von wenigstens 30
+Jahren erforderte. Er verehelichte sich, wann ist unbekannt; seine
+Frau hieß Kunigunde. Auch eines Bruders, Hermann Henlein, geschieht
+Erwähnung, welcher wegen Ermordung „eines jungen Bettelmaidle” zu
+Augsburg hingerichtet wurde. Das Todesjahr Henleins ist 1542; denn im
+ältesten Nürnberger Totenbuch findet sich vom 4. Juni bis 14. September
+genannten Jahres der Eintrag: „Peter Henlein, Vrmacher auff St.
+Katharina.”
+
+Wann Henlein seine erste Uhr verfertigte, ist ungewiß. 1511 wendet sich
+die Nonne Felicitas Grundherrin an ihren Vater Leonhard Grundherrn,
+mit der Bitte um einige „Orrlein.” Sie wurde aber von ihrer Aebtissin
+getadelt, weil sie „um Lappenwerk” angehalten habe. Damals also waren
+die Taschenuhren schon käuflich zu haben.[54]
+
+Die neue Erfindung verbreitete sich, wie leicht einzusehen, ihrer
+ausgezeichneten Brauchbarkeit entsprechend sehr rasch; bei dem regen
+Verkehr Nürnbergs mit fast allen Ländern war dieses auch nicht
+schwer. Gemma Frisius (verdienter Schriftsteller über Astronomie und
+Kosmographie, 1508 bis 1555) gab 1530 eine Schrift heraus (Prinzipien
+der Astronomie und Kosmographie), worin er sagt, daß die kleinen oder
+Taschenuhren erst letzthin erfunden worden seien; sie hatten sich also
+in kurzer Zeit bis nach Holland verbreitet. Das South Kensington-Museum
+in London besitzt Taschenuhren englischen Fabrikates aus den Jahren
+1539, 1540, 1541 und 1560. -- Da die neue Erfindung hochgeschätzt
+war, wurden die Taschenuhren auch zu Geschenken verwendet. So sandte
+Friedrich Pistorius, letzter Abt von St. Aegidien in Nürnberg,
+gestorben 1553, an Luther eine Nürnberger Taschenuhr. Sie war diesem
+noch unbekannt und bewog ihn, Pistorius dafür besonders zu danken. In
+seinem Schreiben sagt er u. a.: ein höchst angenehmes Geschenk; so daß
+ich mich gezwungen fühle Schüler unserer Mathematiker zu werden, um
+alle die Gesetze und Regeln einer Uhr zu verstehen, denn vordem habe
+ich etwas derartiges nie gesehen oder beobachtet (Roth, Geschichte
+des Nürnberger Handels). Auch Melanchthon soll eine von Peter Henlein
+verfertigte Uhr besessen haben. Auch als Legate wurden Taschenuhren
+vermacht. Parker, Erzbischof von Canterbury, bestimmte in seinem
+Testament vom 5. April 1575 (Beckmann ~l. c. I.~ Bd.): ~„do et lego
+fratri meo Richardo baculum meum de canna Indica, qui horologium
+habet in summitate.”~ Ebenso erhielt der schweizerische Humanist
+Glarean durch Oekolampadius, als Erasmus von Rotterdam gestorben, eine
+Taschenuhr als Andenken an diesen.
+
+[Illustration: Fig. 20.]
+
+Ob noch von Henlein selbst herrührende Uhren vorhanden seien, ist
+schwer zu sagen. Sicher besitzen viele Sammlungen Taschenuhren aus der
+ersten Hälfte des 16. Jahrhunderts (S. Fig. 20). Die Sammlung der Gebr.
+Junghans in Schramberg, das „Neue deutsche Museum für Zeitmeßkunst”
+bewahrt als eine Zierde eine Taschenuhr, die ganz von Eisen gefertigt
+ist und Henlein allgemein zugeschrieben wird. Sie mißt bei 2 ~cm~ Höhe
+6 ~cm~ im Durchmesser und geht 40 Stunden. Die Form ist rund.
+
+[Illustration: Fig. 21.]
+
+Eine sehr alte Uhr, die wohl in die Zeit Henleins zurückreicht, birgt
+die berühmte Sammlung Marfels in Berlin. Das Gehäuse besteht aus
+Bronze, die Form ist zylindrisch, das Werk ganz von Eisen. An den
+Zahlen des Zifferblattes sind erhöhte Knöpfe befestigt, so daß man im
+Dunkeln die Stellung des Zeigers mit den Fingern tasten kann. Bei der
+Zahl 12 ist statt des Knopfes eine Spitze angebracht. Den Dienst der
+Spirale versieht eine Schweinsborste (Fig. 21).
+
+[Illustration: Fig. 22.]
+
+Als Uebergang zu den „Eiern” treffen wir dort auch achteckige Uhren,
+welche ja neuestens wieder nachgeahmt werden. (In dieser ganz aus
+Privatmitteln erstellten und wohl vollständigsten und einzigen Sammlung
+der Welt befinden sich Zeitmesser vom 12. Jahrhundert an bis herauf
+zu den neuesten Erzeugnissen und aus allen möglichen Materialien.
+Die Sammlung setzt sich zusammen aus der Speckhartschen Kollektion,
+der Sammlung Marfels in Berlin, über welchʼ letztere im Verlag der
+Deutschen Uhrmacherzeitung eine Schrift von Horstmann erschien, und
+der Sammlung O. Gasser in Magdeburg.[55] -- Zwei Zeiger (für Stunden
+und Minuten) kamen erst um 1700 auf; ältere Uhren haben nur einen.
+Sogenannte „Nürnberger Eier” haben sich noch viele erhalten, diese
+Form entstand aber erst später (ca. 1550); auch hießen die Nürnberger
+Uhren nicht schlechtweg Eier, sondern „lebende Eyerlein.” Die Uhrmacher
+gefielen sich bald in den seltsamsten Formen: Uhren in Kreuzform, Uhren
+als Rosen, Tulpen, Sterne, Aepfel u. s. w. Die Gehäuse sind vielfach
