@@ -1,0 +1,435 @@
+The catalog records relate to books (9,543,910 as of December 10, 1998), maps
+(171,756), serials (825,664), prints and photographs (68,135), manuscripts
+(10,698), music (209,142), visual materials (278,771) and software (6,318). As
+explained on the website:
+
+"The Experimental Search System (ESS) is one of the Library of Congress' first
+efforts to make selected cataloging and digital library resources available over
+the World Wide Web by means of a single, point-and-click interface. The
+interface consists of several search query pages (Basic, Advanced, Number, and a
+Browse screen) and several search results pages (an item list of brief displays
+and an item full display), together with brief help files which link directly
+from significant words on those pages. By exploiting the powerful synergies of
+hyperlinking and a relevancy-ranked search engine (InQuery from Sovereign Hill
+Software), we hope the ESS will provide a new and more intuitive way of
+searching the traditional OPAC (on-line public access catalog). [...]
+
+Besides the cataloging records for over 4 million books (including JACKPHY
+records not currently available through SCORPIO); 263,000 motion pictures,
+videos, filmstrips and other visual work; 200,000 sound recordings and musical
+scores; more than 150,000 maps; and 4,300 computer files - i.e., LC cataloging
+records created since 1968 - ESS also contains the cataloging for almost 140,000
+photographs and manuscripts in the National Digital Library Program's American
+Memory, linking to more than 70,000 digital photographs and images available
+on-line. By indexing the works selected and organized by The On-Line Books Page
+at Carnegie Mellon University, links are also provided to the full-text of over
+2,500 on-line books from sites across the Internet. Even early motion pictures
+are available for searching and viewing once the proper viewer is installed.
+(Hint: try searching on the subject heading 'shorts' in the Photographs,
+Manuscripts, Movies collection.)"
+
+Except for their prohibitive costs, the commercial databases give us an idea of
+what the catalogs could be in the future: for the past several years the Dialog
+Corporation, Lexis-Nexis or UnCover have been using their catalogs to provide
+on-line documents.
+
+Based in London, United Kingdom, with regional headquarters in Mountain View,
+California, and Hong Kong, the Dialog Corporation is a major on-line information
+company, with 900 main databases (the most well-known being Dialog and Profound)
+serving over 20,000 corporate clients in 120 countries. Content areas include:
+news and media; medicine; pharmaceuticals; chemicals; reference; social
+sciences; business and finance; food and agriculture; intellectual property;
+government and regulations; science and technology; and energy and environment.
+
+LEXIS-NEXIS is an international provider of enhanced information services and
+management tools using on-line, Internet, CD-ROM and hardcopy formats for a
+variety of professionals. It serves customers in more than 60 countries. The
+25-year old company has introduced Web products for business, legal and academic
+research, current awareness, and both standard and customizable tracking of
+competitive and business subjects and companies on a daily basis.
+
+A service of CARL Corporation, UnCover is both a fax reprint service and the
+world's largest database of magazine and journal articles, with current article
+information taken from well over 17,000 multidisciplinary journals. UnCover
+contains brief descriptive information for over 7,000,000 articles which have
+appeared since Fall 1988. Any Internet surfer can use the free keyword access to
+article titles and summaries.
+
+
+8.2. International Bibliographic Databases
+
+
+Two organizations, the OCLC Online Computer Library Center and the Research
+Library Information Network (RLIN), run international databases of bibliographic
+information through the Internet.
+
+The OCLC Online Computer Library Center is a nonprofit, membership, library
+computer service and research organization dedicated to the public purposes of
+furthering access to the world's information and reducing information costs.
+More than 27,000 libraries in 65 countries use OCLC services to manage their
+collections and to provide on-line reference services. The site is available in
+English, Chinese, French, German, Portuguese, and Spanish.
+
+OCLC Services include: access services; collections and technical services;
+reference services; resource sharing; Dewey Decimal Classification (published in
+OCLC Forest Press); and preservation resources. From its headquarters in Dublin,
+Ohio, OCLC operates one of the world's largest library information networks.
+Libraries in the United States join OCLC through their OCLC-affiliated Regional
+Networks. Libraries outside the United States receive OCLC services through OCLC
+Asia Pacific, OCLC Canada, OCLC Europe, OCLC Latin America and the Caribbean, or
+via international distributors.
+
+OCLC also runs WorldCat, name of the OCLC Online Union Catalog, which is a
+merged electronic catalog of libraries around the world, and probably the
+world's largest bibliographic database with its 38 million records (at the
+beginning of 1998) in 400 languages (with transliteration for non-Roman
+languages), and an annual increase of 2 million bibliographic records.
+
+WorldCat is derived from a concept which is the same for all union catalogs:
+earn time to avoid the cataloguing of the same document by many catalogers
+worldwide. When they are about to catalog a publication, the catalogers of the
+member libraries search the OCLC catalog. If they find the corresponding record,
+they copy it in their own catalog and add some local information. If they don't
+find the record, they create it in the OCLC catalog, and this new record will
+immediately be available to all the catalogers of the member libraries
+worldwide.
+
+Unlike RLIN, another international bibliographic database (see below) which
+accepts several records for the same document, the OCLC Online Union Catalog
+takes into consideration only one record per document, and emphatically requests
+its members not to create double records for documents which have already been
+cataloged. The records are created in USMARC format (MARC: machine readable
+catalog) according to the Anglo-American Cataloguing Rules, 2nd version (AACR2).
+
+What is the history of OCLC? According to the website:
+
+"In 1967, the presidents of the colleges and universities in the state of Ohio
+founded the Ohio College Library Center (OCLC) to develop a computerized system
+in which the libraries of Ohio academic institutions could share resources and
+reduce costs.
+
+OCLC's first offices were in the Main Library on the campus of the Ohio State
+University (OSU), and its first computer room was housed in the OSU Research
+Center. It was from these academic roots that Frederick G. Kilgour, OCLC's first
+president, oversaw the growth of OCLC from a regional computer system for 54
+Ohio colleges into an international network. In 1977, the Ohio members of OCLC
+adopted changes in the governance structure that enabled libraries outside Ohio
+to become members and participate in the election of the Board of Trustees; the
+Ohio College Library Center became OCLC, Inc. In 1981, the legal name of the
+corporation became OCLC Online Computer Library Center, Inc. Today, OCLC serves
+more than 27,000 libraries of all types in the U.S. and 64 other countries and
+territories."
+
+Both complementary and different from the OCLC Online Catalog (WordCat) with its
+38 million records (with one record per document), the Research Libraries
+Information Network (RLIN) includes 88 million records (with several records per
+document).
+
+RLIN is run by by the Research Libraries Group (RLG). The central RLIN database
+is a union catalog of nearly 88 million items held in comprehensive research
+libraries and special libraries in RLG member institutions, plus over 100
+additional law, technical, and corporate libraries using RLIN. It includes:
+
+a) Records that describe works cataloged by the Library of Congress, the
+National Library of Medicine, the U.S. Government Printing Office, CONSER
+(Conversion of Serials Project), The British Library, the British National
+Bibliography, the National Union Catalog of Manuscript Collections, and RLG's
+members and users;
+
+b) Comprehensive representation of books cataloged since 1968 and rapidly
+expanding coverage for older materials;
+
+c) Information about non-book materials ranging from musical scores, films,
+videos, serials, maps, and recordings, to archival collections and
+machine-readable data files;
+
+d) Unique on-line access to special resources, such as the United Nations'
+DOCFILE and CATFILE records, and the Rigler and Deutsch Index to pre-1950
+commercial sound recordings; and
+
+e) International book vendors' in-process records that can be transferred by
+bibliographers, acquisitions libraries, and catalogers to create citations,
+order records, and cataloging in their local systems.
+
+In RLIN, particularly valuable sources of processing information are available
+on-line:
+
+a) A catalog of computer files: Machine-readable data files are of value to a
+growing number of disciplines. RLIN contains records describing a wide array of
+such files, from the full-text French literary works in the ARTFL Database to
+the statistical data collected by the Inter-university Consortium for Political
+and Social Research (ICPSR) at the University of Michigan;
+
+b) A catalog of archives and special collections: The archival and manuscript
+collections of research libraries, museums, state archives, and historical
+societies contain essential primary resources, but information about their
+contents has often been elusive. Archivists and curators worked with RLG to
+create an automated format for these collections. There are close to 500,000
+records available in RLIN for archival collections located throughout North
+America. These records analyze many collections by personal name, organization,
+subject, and format.
+
+Complementing the central bibliographic files of RLIN is the English Short Title
+Catalogue (ESTC), an invaluable research tool for scholars in English culture,
+language, and literature. This file provides extensive descriptions and holdings
+information for letterpress materials printed in Great Britain or any of its
+dependencies in any language, from the beginnings of print to 1800 - as well as
+for materials printed in English anywhere else in the world. Produced by the
+ESTC editorial offices at the University of California, Riverside, and the
+British Library, in partnership with the American Antiquarian Society and over
+1,600 libraries worldwide, the file continues to be updated and expanded daily.
+ESTC serves as a comprehensive bibliography of the hand-press era and as a
+census of surviving copies.
+
+ESTC included 420,000 records as of June 1998. It contains records for items of
+all types published in Great Britain and its dependencies or in English anywhere
+in the world from the beginnings of print (1473) through the 18th century -
+including materials ranging from Shakespeare and Greek New Testaments to
+anonymous ballads, broadsides, songs, advertisements and other ephemera.
+Extensive indexing includes imprint word, place, genre, and year as well as
+copy-specific notes. Searches may also be limited by date, language and country
+of publication.
+
+
+8.3. Future Trends for On-Line Catalogs
+
+
+The future of catalogs is linked to the harmonization of the MARC format. While
+MARC is an acronym for Machine Readable Catalogue or Cataloguing, this general
+description is rather misleading as MARC is neither a kind of catalogue nor a
+method of cataloguing. According to UNIMARC: An Introduction, a document of the
+Universal Bibliographic Control and International MARC Core Programme, MARC is
+"a short and convenient term for assigning labels to each part of a catalogue
+record so that it can be handled by computers. While the MARC format was
+primarily designed to serve the needs of libraries, the concept has since been
+embraced by the wider information community as a convenient way of storing and
+exchanging bibliographic data."
+
+MARC II established certain principles which have been followed consistently
+over the years. In general terms, the MARC communication format is intended to
+be:
+
+"- hospitable to all kinds of library materials;
+
+- sufficiently flexible for a variety of applications in addition to catalogue
+production; and
+
+- usable in a range of automated systems."
+
+Over the years, however, despite cooperation efforts, several versions of MARC
+emerged, e.g. UKMARC, INTERMARC and USMARC, whose paths diverged because of
+different national cataloguing practices and requirements. Since the early 1970s
+an extended family of more than 20 MARC formats has evolved. Differences in data
+content means that editing is required before records can be exchanged.
+
+One solution to the problem of incompatibility was to create an international
+MARC format (UNIMARC) which would accept records created in any MARC format.
+Records in one MARC format could be converted into UNIMARC and then be converted
+into another MARC format, so that each national agency would need to write only
+two programs - one to convert into UNIMARC and one to convert from UNIMARC -
+instead of one program for each other MARC format, (e.g. INTERMARC to UKMARC,
+USMARC to UKMARC etc.).
+
+In 1977 the International Federation of Library Associations and Institutes
+(IFLA) published UNIMARC: Universal MARC format, followed by a second edition in
+1980 and a UNIMARC Handbook in 1983, all focussed primarily on the cataloguing
+of monographs and serials, and taking advantage of international progress
+towards the standardization of bibliographic information reflected in the ISBDs
+(international standard bibliographic descriptions). In the mid-1980s it was
+considered necessary to expand UNIMARC to cover documents other than monographs
+and serials, so a new description of the format - the UNIMARC Manual -was
+produced in 1987. By this time UNIMARC had been adopted by several bibliographic
+agencies as their in-house format. But developments did not stop there.
+Increasingly, a new kind of format - an authorities format - was being used. As
+described in the website:
+
+"Previously agencies had entered an author's name into the bibliographic format
+as many times as there were documents associated with him or her. With the new
+system they created a single authoritative form of the name (with references) in
+the authorities file; the record control number for this name was the only item
+included in the bibliographic file. The user would still see the name in the
+bibliographic record, however, as the computer could import it from the
+authorities file at a convenient time. So in 1991 UNIMARC/Authorities was
+published."
+
+The Permanent UNIMARC Committee, charged with regularly supervising the
+development of the format, came into being that year, as users realized that
+continuous maintenance - not just the occasional rewriting of manuals - was
+needed. In maintaining the format, care is taken to make changes upwardly
+compatible.
+
+In the context of MARC harmonization, The British Library (using UKMARC), the
+Library of Congress (using USMARC) and the National Library of Canada (using
+CAN/MARC) are in the process of harmonizing their national MARC formats. A
+three-year program to achieve a common MARC format was agreed on by the three
+libraries in December 1995.
+
+Other organizations recommend the use of SGML (standard generalized markup
+language) as a common format for the bibliographic records and the corresponding
+hypertextual and multimedia documents.
+
+As most of the publishers use the SGML format to store their documents, a
+convergence between MARC and SGML is expected to occur. The Library of Congress
+set up the DTD (definition of type of document, which defines its logical
+structure) for the USMARC format, because it will probably sell more and more
+data both in SGML and in USMARC. A DTD for the UNIMARC format has also been
+developed within the European Union. In his study L'accès aux catalogues des
+bibliothèques par Internet (The Access to Library Catalogs through the
+Internet), Thierry Samain specifies that some libraries choose the SGML format
+to encode their bibliographic data. In the Belgian Union Catalog, for example,
+the use of SGML allows one first to add descriptive elements stemming from the
+MARC format and other formats, and second to facilitate the production of the
+annual CD-ROM.
+
+The libraries also have to adapt their thesauri and their key-word lists. In
+international bibliographic databases like the OCLC Online Union Catalog, the
+absence of a universal thesaurus is a real problem when you try to find
+documents using the search by subjects. In Europe, each country uses thesauri or
+key-word lists in its own language, whereas multilingual thesauri would be
+essential.
+
+Another problem is the harmonization of software. From January to December 1997,
+ONE (OPAC Network in Europe) was a collaborative project involving 15
+organizations in eight European countries. This project provided library users
+with better ways to access library OPACs (online public access catalogs) and
+national catalogs, and stimulated and facilitated interworking between libraries
+in Europe.
+
+Because of international rules, catalog records are often much more difficult to
+establish today than in the past. That is why nowadays libraries often hire
+full-time catalogers. Because of the knowledge and the training it requires,
+cataloging has become a specialty in librarianship.
+
+In a few years, catalogs on the Web will no longer be "only" a collection of
+records, which is often a prelude to a difficult time finding the document
+itself - because of the forms to fill out and the difficulties of interlibrary
+loans. Catalogs on the Web will give instant access to the documents on the
+screen. This is already true in an experimental way for a few thousands
+documents, but has to be progressively widened to all catalogs.
+
+
+9. PERSPECTIVES
+
+
+[In this chapter:]
+
+[9.1. Print Media and the Internet / 9.2. Intellectual Property / 9.3.
+Multimedia Convergence / 9.4. The Information Society]
+
+
+9.1. Print Media and the Internet
+
+
+As shown all throughout this study, the Internet is opening new perspectives in
+all the sectors of the print media.
+
+In any field (literature, sciences, technology, etc.), authors can create a
+website to post their works - they no longer need to wait for a publisher to
+distribute them. And, thanks to e-mail, communication with their readers has
+become much easier.
+
+On-line booksellers are able not only to sell books published in their own
+country, but also sell foreign books or sell abroad, or both. The readers can
+read on their screen excerpts or full texts of books. Many on-line bookstores
+offer an extensive literary magazine with an editorial content which changes
+every day.
+
+The dream of catalog managers to be able to give access to a document through
+its bibliographic record is no longer totally utopian. It is already the case
+for a few thousand works belonging to public domain. Organizations are also
+studying the possibility of posting commercial documents on the Web, in return
+for a royalty tax corresponding to the copyright rights, which could be paid by
+credit card.
+
+Libraries have a new tool for letting the public know their collections better,
+and for developing projects for real or potential users. The Internet is also a
+gigantic encyclopedia, easily available for consultation by the libraries' staff
+and readers.
+
+Many newspapers and magazines' latest issues are available on-line, as well as
+"dossiers" on current events and archives equipped with a search engine to find
+information from previous issues. We are also witnessing the first steps of an
+on-line press which would be different from the paper version and would have its
+own criteria. Some publishers of specialized periodicals, as well as academic
+and research works, are thinking about becoming "only" electronic to escape the
+paper publishing crisis, or making only small print runs when necessary.
+
+Besides this gigantic and lively encyclopedia, the people working in these
+different fields can increase exchanges thanks to electronic mail and discussion
+forums. For once, a (relatively) cheap new tool permits people to communicate
+quickly and worldwide with no concern for time and boundaries.
+
+The disruption of the print media by the Internet has led to new perspectives
+for intellectual property and regulations about cyberspace. The so-called
+"multimedia convergence" has led to major changes in jobs. We are living the
+first years of the information society. Will this society provide any changes
+for the better?
+
+
+9.2. Intellectual Property
+
+
+The massive arrival of electronic texts on the Web is a real problem for
+applying the rules relating to intellectual property. Digital libraries, for
+example, would like to post commercial documents but can't do so yet, until
+there is a system allowing the surfer to pay the equivalent royalties. With a
+few clicks, any text or article posted on the Internet can be very easily
+retrieved and copied - much more easily than by photocopying - without its
+author being paid for the use of his text. And what about all the hyperlinks
+giving access to all kinds of documents from one website?
+
+The World Intellectual Property Organization (WIPO), an intergovernmental
+organization which is one of the 16 specialized agencies of the United Nations
+System of Organizations, says on its website:
+
+"As regards the number of literary and artistic works created worldwide, it is
+difficult to make a precise estimate. However, the information available
+indicates that at present around 1,000,000 books/titles are published and some
+5,000 feature films are produced in a year, and the number of copies of
+phonograms sold per year presently is more than 3,000 million."
+
+WIPO is responsible for the promotion of the protection of intellectual property
+throughout the world through cooperation among States, and for the
+administration of various multilateral treaties dealing with the legal and
+administrative aspects of intellectual property. Intellectual property comprises
+two main branches: (1) industrial property, chiefly in inventions, trademarks,
+industrial designs, and appellations of origin; and (2) copyright, chiefly in
+literary, musical, artistic, photographic and audiovisual works.
+
+Copyright protection generally means that certain uses of the work are lawful
+only if they are done with the authorization of the owner of the copyright. As
+explained by WIPO in International Protection of Copyright and Neighboring
+Rights, the most typical are the following:
+
+"the right to copy or otherwise reproduce any kind of work; the right to
+distribute copies to the public; the right to rent copies of at least certain
+categories of works (such as computer programs and audiovisual works); the right
+to make sound recordings of the performances of literary and musical works; the
+right to perform in public, particularly musical, dramatic or audiovisual works;
+the right to communicate to the public by cable or otherwise the performances of
+such works and, particularly, to broadcast, by radio, television or other
+wireless means, any kind of work; the right to translate literary works; the
+right to rent, particularly, audiovisual works, works embodied in phonograms and
+computer programs; the right to adapt any kind of work and particularly the
+right to make audiovisual works thereof."
+
+Under some national laws, some of these rights - which together are referred to
+as 'economic rights' - are not exclusive rights of authorization but, in certain
+specific cases, merely rights to remuneration. In addition to economic rights,
+authors (whether or not they own the economic rights) enjoy 'moral rights' on
+the basis of which authors have the right to claim their authorship and require
+that their names be indicated on the copies of the work and in connection with
+other uses thereof, and they have the right to oppose the mutilation or
+deformation of their works.
+
+Started in July 1993, the International Trade Law (ITL) Monitor was one of the
+very first law-related WWW sites, and the first dedicated to a particular area
+of law. The site is run by Ralph Amissah, and hosted by the Law Faculty of the
+University of Tromso, Norway. The section relating to Protection of Intellectual
+Property gives access to various documents, including the European Commission
+Legal Advisory Board (LAB): Intellectual Property.
+
+Until the payment of royalties for copyright is possible on the Web, digital
+libraries focus on 19th-century texts, or older texts, which belong to public
+domain. In many countries, a text enters the public domain 50 years after his
+author's death.
