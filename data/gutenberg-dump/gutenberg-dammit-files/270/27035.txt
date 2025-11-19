@@ -1,0 +1,902 @@
+= En quoi consiste exactement votre activité professionnelle?
+
+Convaincre les décideurs socio-économiques de prendre en compte les besoins
+spécifiques des usagers, clients et citoyens déficients visuels. Mettre en
+oeuvre les dispositifs d'accessibilité.
+
+= En quoi consiste exactement votre activité liée à l'internet?
+
+J'ai participé à la conception éditoriale et graphique du site. Aujourd'hui, mon
+rôle consiste à développer de nouveaux services accessibles pour le site.
+
+= Comment voyez-vous l'avenir?
+
+Internet n'est pas entré dans la majorité des foyers des personnes déficientes
+visuelles. A cela, trois principales raisons:
+
+- l'âge du public concerné, qui se situe au delà de la soixantaine (pour 70% du
+public);
+
+- le coût trop élevé pour une acquisition personnelle d'un matériel spécialisé;
+
+- le nombre trop restreint de sites accessibles de façon autonome.
+
+L'avenir de l'accès à l'information pour les personnes aveugles devrait passer
+par le web. Ce support, à condition d'une responsabilité des développeurs de
+sites sous l'impulsion d'une autorité qui commence à légiférer, donne un accès
+instantané à une information actuelle au contraire des supports braille ou
+caractères agrandis qui nécessitent des délais et des coûts d'adaptation, de
+transcription et fabrication.
+
+= Utilisez-vous encore beaucoup de documents papier?
+
+L'essentiel de l'activité de HandiCaPZéro aujourd'hui reste l'impression de
+documents papier braille et caractères agrandis. La majorité du public auquel
+s'adresse l'association n'est pas encore internaute.
+
+= Les jours du papier sont-ils comptés?
+
+Non, au contraire. L'internet dope les ventes de livres, comme celles des
+disques, quoiqu'en disent les éditeurs regroupés en association de défense de
+leurs intérêts. Par ailleurs, les imprimantes des micro-ordinateurs, classiques
+ou braille, n'ont jamais été autant sollicitées depuis l'accès au web.
+
+= Quelle est votre opinion sur le livre électronique?
+
+Il devrait s'imposer comme une nouvelle solution complémentaire aux problèmes
+des personnes aveugles et malvoyantes.
+
+= Quel est votre avis sur les débats relatifs au respect du droit d'auteur sur
+le web?
+
+Pour l'instant, les déficients visuels sont les grands bénéficiaires du manque
+de législation sur la toile. Pourvu que ça dure! Les droits et autorisations
+d'auteurs étaient et demeurent des freins pour l'adaptation en braille ou
+caractères agrandis d'ouvrage. Les démarches sont saupoudrées, longues et
+n'aboutissent que trop rarement.
+
+= Quelles sont vos suggestions pour une meilleure accessibilité du web aux
+aveugles et malvoyants?
+
+Pour les développeurs de sites que ça intéresse, des recommandations sont
+disponibles en nous contactant à [voir le courriel sur le site], ou sur des
+sites comme VoirPlus ou BrailleNet. En règle générale, les dispositions à
+prendre ne sont pas trop contraignantes. Il ne faudrait pas que le message pour
+rendre un site accessible soit trop compliqué au risque de dissuader les bonnes
+volontés.
+
+
+TYLER CHAMBERS [EN, FR]
+
+
+[EN] Tyler Chambers (Boston, Massachusetts)
+
+#Creator of The Human-Languages Page (who became iLoveLanguages in 2001) and The
+Internet Dictionary Project
+
+The Human-Languages Page (created by Tyler Chambers in May 1994) and the
+Languages Catalog of the WWW Virtual Library redesigned the site in 2001 to
+become iLoveLanguages in 2001. It is now a comprehensive catalog of more than
+2.000 language-related Internet resources in more than 100 different languages.
+
+Tyler Chambers' other main language-related project is The Internet Dictionary
+Project, initiated in 1995. Its "goal is to create royalty-free translating
+dictionaries through the help of the Internet's citizens. This site allows
+individuals from all over the world to visit and assist in the translation of
+English words into other languages. The resulting lists of English words and
+their translated counterparts are then made available through this site to
+anyone, with no restrictions on their use." (extract from the website)
+
+*Interview of September 14, 1998
+
+= How did using the Internet change your professional life?
+
+My professional life is currently completely separate from my Internet life.
+Professionally, I'm a computer programmer/techie (in Boston, Massachusetts) -- I
+find it challenging and it pays the bills. Online, my work has been with making
+language information available to more people through a couple of my Web-based
+projects. While I'm not multilingual, nor even bilingual, myself, I see an
+importance to language and multilingualism that I see in very few other areas.
+The Internet has allowed me to reach millions of people and help them find what
+they're looking for, something I'm glad to do. It has also made me somewhat of a
+celebrity, or at least a familiar name in certain circles -- I just found out
+that one of my Web projects had a short mention in Time Magazine's Asia and
+International issues. Overall, I think that the Web has been great for language
+awareness and cultural issues -- where else can you randomly browse for 20
+minutes and run across three or more different languages with information you
+might potentially want to know? Communications mediums make the world smaller by
+bringing people closer together; I think that the Web is the first (of mail,
+telegraph, telephone, radio, TV) to really cross national and cultural borders
+for the average person. Israel isn't thousands of miles away anymore, it's a few
+clicks away -- our world may now be small enough to fit inside a computer
+screen.
+
+= How do you see the growth of a multilingual Web?
+
+Multilingualism on the Web was inevitable even before the medium "took off", so
+to speak. 1994 was the year I was really introduced to the Web, which was a
+little while after its christening but long before it was mainstream. That was
+also the year I began my first multilingual Web project, and there was already a
+significant number of language-related resources online. This was back before
+Netscape even existed -- Mosaic was almost the only Web browser, and web pages
+were little more than hyperlinked text documents. As browsers and users mature,
+I don't think there will be any currently spoken language that won't have a
+niche on the Web, from Native American languages to Middle Eastern dialects, as
+well as a plethora of "dead" languages that will have a chance to find a new
+audience with scholars and others alike on-line. To my knowledge, there are very
+few language types which are not currently online: browsers have now the
+capability to display Roman characters, Asian languages, the Cyrillic alphabet,
+Greek, Turkish, and more. Accent Software has a product called "Internet with an
+Accent" which claims to be able to display over 30 different language encodings.
+If there are currently any barriers to any particular language being on the Web,
+they won't last long.
+
+= How do you see the future?
+
+As I've said before, I think that the future of the Internet is even more
+multilingualism and cross-cultural exploration and understanding than we've
+already seen. But the Internet will only be the medium by which this information
+is carried; like the paper on which a book is written, the Internet itself adds
+very little to the content of information, but adds tremendously to its value in
+its ability to communicate that information. To say that the Internet is
+spurring multilingualism is a bit of a misconception, in my opinion -- it is
+communication that is spurring multilingualism and cross-cultural exchange, the
+Internet is only the latest mode of communication which has made its way down to
+the (more-or-less) common person. The Internet has a long way to go before being
+ubiquitous around the world, but it, or some related progeny, likely will.
+Language will become even more important than it already is when the entire
+planet can communicate with everyone else (via the Web, chat, games, e-mail, and
+whatever future applications haven't even been invented yet), but I don't know
+if this will lead to stronger language ties, or a consolidation of languages
+until only a few, or even just one remain. One thing I think is certain is that
+the Internet will forever be a record of our diversity, including language
+diversity, even if that diversity fades away. And that's one of the things I
+love about the Internet -- it's a global model of the saying "it's not really
+gone as long as someone remembers it". And people do remember.
+
+[FR] Tyler Chambers (Boston, Massachusetts)
+
+#Créateur de The Human-Languages Page (devenue iLoveLanguages en 2001) et de The
+Internet Dictionary Project
+
+The Human-Languages Page (créée par Tyler Chambers en mai 1994) et le Languages
+Catalog of the WWW Virtual Library fusionnent en 2001 pour devenir
+iLoveLanguages, un catalogue détaillé de plus de 2.000 ressources linguistiques
+dans plus de 100 langues différentes.
+
+Tyler Chambers mène aussi un autre projet relatif aux langues, The Internet
+Dictionary Project, débuté en 1995. Le projet a pour but de créer des
+dictionnaires de langues en accès libre sur le web, grâce à l'aide des
+internautes. Ce site permet donc aux cybernautes du monde entier de participer à
+la traduction de termes anglais dans d'autres langues.
+
+*Entretien du 14 septembre 1998 (entretien original en anglais)
+
+= Quel est l'apport de l'internet dans votre vie professionnelle?
+
+Ma vie professionnelle est en ce moment complètement distincte de mon activité
+sur l'internet. Je suis programmeur/technicien informatique, je trouve cela
+stimulant et cela me permet de payer les factures. Mon activité en ligne a
+consisté à rendre l'information linguistique accessible à davantage de gens par
+le biais de deux de mes projets sur le web. Bien que je ne sois pas multilingue,
+ni même bilingue moi-même, je suis conscient du fait que très peu de domaines
+ont une importance comparable à celle des langues et du multilinguisme.
+L'internet m'a permis de toucher des millions de personnes et de les aider à
+trouver ce qu'elles cherchaient, ce dont je suis heureux. Je suis devenu aussi
+une sorte de célébrité, ou au moins quelqu'un de familier dans certains cercles.
+Je viens de découvrir qu'un de mes projets est brièvement mentionné dans les
+éditions asiatique et internationale de Time Magazine. Dans l'ensemble, je pense
+que le web a été important pour la sensibilisation aux langues et pour les
+questions culturelles. Dans quel autre endroit peut-on chercher au hasard
+pendant vingt minutes et trouver des informations intéressantes dans trois
+langues différentes sinon plus ? Les moyens de communication rendent le monde
+plus petit en rapprochant les gens. Je pense que le web est le premier médium -
+bien plus que le courrier, le télégraphe, le téléphone, la radio ou la
+télévision - à réellement permettre à l'usager moyen de franchir les frontières
+nationales et culturelles. Israël n'est plus à des milliers de kilomètres, mais
+seulement à quelques clics de souris. Notre monde est maintenant suffisamment
+petit pour tenir sur un écran d'ordinateur.
+
+= Comment voyez-vous l'expansion du multilinguisme sur le web?
+
+Le multilinguisme sur le web était inévitable bien avant que ce médium ne se
+développe vraiment. Mon premier vrai contact avec l'internet date de 1994, un
+peu après ses débuts mais bien avant son expansion. 1994 a été aussi l'année où
+j'ai débuté mon premier projet web multilingue. A cette époque, il existait déjà
+un nombre significatif de ressources linguistiques en ligne. Ceci était
+antérieur à la création de Netscape. Mosaic était le seul navigateur sur le web,
+et les pages web étaient essentiellement des documents textuels reliés par des
+hyperliens. A présent, suite à l'expérience acquise par les internautes, et
+suite à l'amélioration des logiciels de navigation, je ne pense pas qu'il existe
+une langue vivante qui ne soit pas représentée sur le web, que ce soit la langue
+des Indiens d'Amérique ou les dialectes moyen-orientaux. De même une pléthore de
+langues mortes peut maintenant trouver une audience nouvelle grâce à des érudits
+et autres spécialistes en ligne. A ma connaissance, très peu de jeux de
+caractères ne sont pas disponibles en ligne : les navigateurs permettent
+désormais la visualisation des caractères romains, asiatiques, cyrilliques,
+grecs, turcs, etc. Accent Software a un produit appelé "Internet avec accents"
+qui prétend être capable de visualiser plus de trente codages différents. S'il
+existe encore des obstacles à la diffusion d'une langue spécifique sur le web,
+ceci ne devrait pas durer.
+
+= Comment voyez-vous l'avenir?
+
+Comme je l'ai dit plus haut, je pense que l'avenir de l'internet réside dans
+davantage de multilinguisme et d'exploration et de compréhension
+multiculturelles que nous n'en avons jamais vu. Cependant l'internet sera
+seulement le médium au travers duquel l'information circule. Comme le papier qui
+sert de support au livre, l'internet lui-même augmente très peu le contenu de
+l'information. Par contre il augmente énormément la valeur de celle-ci dans la
+capacité qu'il a à communiquer cette information. Dire que l'internet
+aiguillonne le multilinguisme est à mon sens une opinion fausse. C'est la
+communication qui aiguillonne le multilinguisme et l'échange multiculturel.
+L'internet est seulement le mode de communication le plus récent rendu
+accessible aux gens plus ou moins ordinaires. Il a un long chemin à parcourir
+avant d'être omniprésent dans le monde entier, mais il est vraisemblable que
+lui-même ou un médium de la même lignée y arrive. Les langues deviendront encore
+plus importantes qu'elles ne le sont quand tout le monde pourra communiquer à
+l'échelle de la planète (à travers le web, les discussions, les jeux, le
+courrier électronique, ou toute application appartenant encore au domaine de
+l'avenir), mais je ne sais pas si ceci mènera à un renforcement des attaches
+linguistiques ou à une fusion des langues jusqu'à ce qu'il n'en subsite plus que
+quelques-unes ou même une seule. Une chose qui m'apparaît certaine est que
+l'internet sera toujours la marque de notre diversité, y compris la diversité
+des langues, même si cette diversité diminue. Et c'est une des choses que j'aime
+à son sujet, c'est un exemple à l'échelle mondiale du dicton: "Cela n'a pas
+vraiment disparu tant que quelqu'un s'en souvient." Et les gens se souviennent.
+
+
+PASCAL CHARTIER [FR]
+
+
+[FR] Pascal Chartier (Lyon)
+
+#Créateur de Livre-rare-book, site professionnel de livres d'occasion
+
+Gérant de la librairie du Bât d'Argent, librairie lyonnaise, Pascal Chartier a
+créé dès novembre 1995 Livre-rare-book, site professionel de livres d'occasion.
+Quadrilingue (français, anglais, italien, allemand), le site comprend un
+catalogue de livres anciens et de livres d'occasion classé par sujets et par
+librairie (environ 100 librairies et 300.000 livres en mai 2001) et un annuaire
+électronique international des librairies de livres d'occasion.
+
+En juin 1998, Pascal Chartier considérait que le web lui a ouvert "une vaste
+porte", à la fois pour lui et ses clients. Il le considérait aussi "comme
+peut-être la pire et la meilleure des choses. La pire parce qu'il peut générer
+un travail constant sans limite et la dépendance totale. La meilleure parce
+qu'il peut s'élargir encore et permettre surtout un travail intelligent!"
+
+[Entretien 15/01/2000 // Entretien 09/11/2000]
+
+*Entretien du 15 janvier 2000
+
+= Quoi de neuf?
+
+La réalisation d'un module de gestion pour permettre aux libraires d'intégrer
+leurs livres facilement sur Livre-rare-book, et la traduction en cours du site
+en anglais, allemand, italien et portugais. Actuellement, nous avons 33
+libraires sur le site et 85.000 livres (le chiffre a fortement augmenté depuis,
+avec environ 100 librairies et 300.000 livres en mai 2001, ndlr).
+
+= Que pensez-vous des débats liés au respect du droit d'auteur sur le web?
+
+Un cercle vicieux.
+
+= Que pensez-vous de l'évolution vers un internet multilingue?
+
+Un sujet passionnant.
+
+= Quel est votre meilleur souvenir lié à l'internet?
+
+La lettre d'une vieille dame québécoise à qui j'ai pu faire retrouver un livre
+de son enfance.
+
+= Et votre pire souvenir?
+
+Les injures gratuites.
+
+*Entretien du 9 novembre 2000
+
+= Utilisez-vous encore beaucoup de documents papier?
+
+Oui.
+
+= Les jours du papier sont-ils comptés?
+
+C'est toujours un problème d'échelle, de lunettes ou de système de pensée: d'un
+côté le papier a encore quelques siècles devant lui, de l'autre ses jours sont
+effectivement comptés.
+
+= Quelle est votre opinion sur le livre électronique?
+
+Il ne me viendrait pas à l'idée de lire un livre ainsi, mais peut-être de
+récupérer le texte et de l'imprimer?
+
+= Quelles sont vos suggestions pour une meilleure accessibilité du web aux
+aveugles et malvoyants?
+
+Le problème est l'argent. Nous avons les éléments techniques.
+
+= Comment définissez-vous le cyberespace?
+
+Du vent... ou de l'imaginaire?
+
+= Et la société de l'information?
+
+Une société humaine.
+
+
+RICHARD CHOTIN [FR]
+
+
+[FR] Richard Chotin (Paris)
+
+#Professeur à l'Ecole supérieure des affaires (ESA) de Lille
+
+[Entretien 04/09/2000 // Entretien 05/05/2001]
+
+*Entretien du 4 septembre 2000
+
+= Pouvez-vous décrire votre site web?
+
+Il s'agit d'un site interne à l'Ecole supérieure des affaires (ESA) qui ne
+comprend que la biographie, la bibliographie et les enseignements de chaque
+enseignant. Le mien n'échappe pas à cette règle.
+
+= En quoi consiste votre activité professionnelle?
+
+J'enseigne à l'université (essentiellement gestion et stratégie). Mon activité
+liée à internet est marquée par l'importance de la recherche d'éléments sur
+internet, mais surtout le croisement des données afin d'éviter la
+désinformation.
+
+= Comment voyez-vous l'avenir?
+
+Dans les trois années à venir, je compte développer cette activité. Après, la
+retraite aidant, je compte diminuer sensiblement mes activités sur le net.
+
+= Utilisez-vous encore beaucoup de documents papier?
+
+Oui, je lis environ cinq à six journaux (quotidiens et hebdomadaires), deux à
+trois livres papier par mois, et environ 3 à 4.000 photocopies par an.
+
+= Quelle est votre opinion sur le livre électronique?
+
+Il a une certaine utilité mais ne remplacera pas le livre papier, sauf à pouvoir
+le tirer ultérieurement si l'intérêt est grand.
+
+= Quelles sont vos suggestions pour un meilleur respect du droit d'auteur sur le
+web?
+
+Et si l'on supprimait le droit d'auteur en ce qui concerne les livres?
+
+= Quelles sont vos suggestions pour une meilleure répartition des langues sur le
+web?
+
+Le problème est politique et idéologique: c'est celui de l'"impérialisme" de la
+langue anglaise découlant de l'impérialisme américain. Il suffit d'ailleurs de
+se souvenir de l'"impérialisme" du français aux 18e et 19e siècles pour
+comprendre la déficience en langues des étudiants français: quand on n'a pas
+besoin de faire des efforts pour se faire comprendre, on n'en fait pas, ce sont
+les autres qui les font.
+
+= Quelles sont vos suggestions pour une meilleure accessibilité du web aux
+aveugles et malvoyants?
+
+Là encore, il faudrait une réelle motivation des concepteurs de sites envers le
+problème des aveugles et une volonté politique d'intégration des handicapés (et
+pas seulement financière).
+
+= Quel est votre pire souvenir lié à l'internet?
+
+C'est lorsque j'ai découvert qu'il me faudrait plusieurs vies pour tenter
+d'épuiser les possibilités de l'outil. Quand j'ai compris que je n'y arriverais
+pas, je me suis remis à lire Le mythe de Sisyphe d'Albert Camus afin de ne pas
+sombrer dans une mélancolie maniaco-dépressive due à l'absurdité de la
+situation.
+
+*Entretien du 5 mai 2001
+
+= Quoi de neuf depuis notre premier entretien?
+
+Une seule nouveauté, mais de taille, les conséquences de l'accessibilité du web
+aux aveugles: ma fille vient d'obtenir la deuxième place à l'agrégation de
+lettres modernes. Un de ses amis a obtenu la maîtrise de conférence en droit et
+un autre a soutenu sa thèse de doctorat en droit également.
+
+Outre l'aspect performance, cela prouve au moins que si les aveugles étaient
+réellement aidés (tous les aveugles n'ont pas évidemment la chance d'avoir un
+père qui peut passer du temps et consacrer de l'argent) par des méthodes plus
+actives dans la lecture des documents, telles que celles que je décris
+(obligation d'obtenir en braille ce qui existe en "voyant" notamment), le
+handicap pourrait presque disparaître.
+
+
+ALAIN CLAVET [FR, EN]
+
+
+[FR] Alain Clavet (Ottawa)
+
+#Analyste de politiques au Commissariat aux langues officielles du Canada
+
+"Le mandat du Commissariat est le suivant: faire reconnaître le statut du
+français et de l'anglais, les deux langues officielles du Canada; faire
+respecter la loi sur les langues officielles; fournir de l'information sur les
+services du Commissariat, les aspects de la loi sur les langues officielles et
+son importance pour la société canadienne. Le Commissaire protège: le droit du
+public d'utiliser le français ou l'anglais pour communiquer avec les
+institutions fédérales et pour en recevoir les services là où la loi et le
+règlement sur les langues officielles le prévoient; le droit des fonctionnaires
+de travailler dans l'une ou l'autre langue officielle dans les régions désignées
+à cette fin ; le droit de tous les Canadiens et Canadiennes d'expression
+française ou anglaise de bénéficier des mêmes chances d'emploi et d'avancement
+au sein des institutions fédérales." (extrait du site web)
+
+Alain Clavet est analyste de politiques sur les questions relatives à la dualité
+linguistique dans les domaines d'internet et de la radiodiffusion. En août 1999,
+il a rédigé une étude spéciale intitulée Le gouvernement du Canada et le
+français sur internet. Dans l'introduction de cette étude, il explique:
+"Internet peut influencer profondément l'organisation du gouvernement du Canada,
+sa façon de fournir des services et de communiquer avec les citoyens. La langue
+anglaise est prépondérante dans l'ensemble des réseaux électroniques, y compris
+sur internet. Il importe donc que la Commissaire veille à ce que le français
+prenne toute sa place équitable dans les échanges reposant sur ce nouveau mode
+de communication et de publication."
+
+[Entretien 03/09/1999 // Entretien 04/09/2000 // Entretien 03/05/2001]
+
+*Entretien du 3 septembre 1999
+
+= Dans quelle mesure l'internet a-t-il changé votre vie professionnelle?
+
+Internet devient l'un de mes principaux secteurs de spécialisation. Le réseau me
+permet de faire des recherches, de communiquer et d'élargir mes vues sur les
+questions relatives aux langues officielles (l'anglais et le français, ndlr).
+
+= Comment voyez-vous l'avenir?
+
+Je donne présentement une série de communications suite à mon rapport: Le
+gouvernement du Canada et le français sur internet. Je vais continuer dans les
+prochaines années à développer cette expertise.
+
+= Que pensez-vous des débats liés au respect du droit d'auteur sur le web?
+
+Des logiciels devraient permettre de tarifer l'usager lorsque nécessaire et les
+gouvernements devraient libérer de frais le maximum de documents et services,
+notamment en français.
+
+= Quelles solutions pratiques suggérez-vous pour un internet véritablement
+multilingue?
+
+J'en suggère plusieurs dans mon rapport (voir le chapitre 5: Observations et
+recommandations, ndlr).
+
+= Quel est votre meilleur souvenir lié à l'internet?
+
+La découverte des toutes les possibilités du modem-câble. La très grande vitesse
+du modem m'a permis de voir la puissance de ce mode de communication. Internet
+comme encyclopédie universelle m'est indispensable.
+
+= Et votre pire souvenir?
+
+La lenteur, mais c'est réglé.
+
+*Entretien du 4 septembre 2000
+
+= Quoi de neuf depuis notre premier entretien?
+
+J'ai présenté une conférence à l'INET 2000 à Yokohama (Japon) (18-21 juillet
+2000) sur la diversité linguistique dans le cyberespace. Je serai à Paris pour
+la conférence Newropeans (5-7 octobre 2000).
+
+= Utilisez-vous encore beaucoup de documents papier?
+
+Un peu moins (qu'avant d'être connecté à internet). Le papier continuera d'avoir
+un rôle complémentaire.
+
+= Quelle est votre opinion sur le livre électronique?
+
+La technologie devra s'améliorer encore de ce point de vue afin de devenir
+vraiment populaire.
+
+= Comment définissez-vous le cyberespace?
+
+Un lieu de connaissances partagées non soumis aux contraintes du temps et de
+l'espace.
+
+= Et la société de l'information?
+
+Le constat que la valeur ajoutée centrale (en référence à une notion économique,
+celle de la valeur ajoutée) devient de plus en plus l'intelligence de
+l'information. Ainsi, dans une société de l'information, la connaissance devient
+la plus-value recherchée.
+
+*Entretien du 3 mai 2001
+
+= Quoi de neuf depuis notre dernier entretien?
+
+Le gouvernement du Canada a accepté l'ensemble des douze recommandations du
+rapport: Le gouvernement du Canada et le français sur internet. Des
+investissements importants ont été réalisés à cet égard cette année. Notamment
+80 millions de dollars (canadiens, soit 62 millions d'euros, ndlr) pour la
+numérisation des collections, 30 millions (23,3 millions d'euros, ndlr) pour la
+constitution du Musée virtuel canadien et, le 2 mai 2001, l'annonce de 108
+millions supplémentaires (83,7 millions d'euros, ndlr) afin d'accroître les
+contenus culturels canadiens sur internet. Je représente également le Canada à
+un comité d'experts de l'Unesco pour la promotion du multilinguisme et de
+l'accès universel à l'internet.
+
+[EN] Alain Clavet (Ottawa)
+
+#Policy analyst with the Office of the Commissioner of Official Languages in
+Canada
+
+"The mandate of the Office of the Commissioner is: to ensure recognition of the
+status of English and French, Canada's two official languages; to ensure respect
+for the Official Languages Act; to provide information about the services of the
+Office of the Commissioner, aspects of the Official Languages Act and its
+importance to Canadian society. The Commissioner protects: the right of members
+of the public to use English or French to communicate with federal institutions
+and receive services from them as provided for in the Act and its regulations;
+the right of federal employees to work in either official language in designated
+regions; the right of all English-speaking Canadians and French-speaking
+Canadians to enjoy equal opportunities for employment and advancement in federal
+institutions." (extract from the website)
+
+Alain Clavet analyses policies related to linguistic duality in the Internet and
+in broadcasting. In August 1999 he wrote a report called The Government of
+Canada and French on the Internet. In the introduction, he says: "The Internet
+can have a profound influence on the organization of the Government of Canada
+and how it provides services to and communicates with Canadians. The English
+language predominates on all electronic works, including the Internet. It is
+therefore vital that the Commissioner ensure that French has its equitable place
+in exchanges that use this new method of communication and publication."
+
+*Interview of September 3, 1999 (original interview in French)
+
+= How did using the Internet change your professional life?
+
+The Internet became one of my main fields of interest. I also use it as a
+research and communication tool and to broaden my views on matters to do with
+Canada's official languages (English and French).
+
+= What are your new projects?
+
+At the moment, I'm giving a series of lectures about the report I wrote called
+The Government of Canada and French on the Internet. Over the next few years,
+I'll investigate this subject further.
+
+= What do you think of the debate about copyright on the Web?
+
+We need software that can charge the user a fee when necessary. Governments
+should make available as many documents and services as possible, especially in
+French.
+What practical suggestions do you have for the growth of a multilingual Web?
+
+There are several suggestions in my report (see chapter V: Observations and
+Recommendations).
+
+= What is your best experience with the Internet?
+
+Discovering all the uses of a cable modem. It's very fast and showed me the
+power of this communication device. The Internet as a universal encyclopaedia is
+also essential for me.
+
+= And your worst experience?
+
+The fact it was so slow, but the problem has now been solved.
+
+
+JEAN-PIERRE CLOUTIER [FR, EN, ES]
+
+
+[FR] Jean-Pierre Cloutier (Montréal)
+
+#Auteur des Chroniques de Cybérie, chronique hebdomadaire des actualités de
+l'internet
+
+Jean-Pierre Cloutier, journaliste québécois, lance en novembre 1994 Les
+Chroniques de Cybérie, chronique hebdomadaire des actualités de l'internet, sous
+la forme d'une lettre hebdomadaire envoyée par courrier électronique (5.000
+abonnés en 2001). A partir d'avril 1995, on peut également lire les Chroniques
+directement sur le web. Depuis bientôt sept ans maintenant, elles font référence
+dans la communauté francophone, y compris dans le domaine du livre. Chroniqueur
+à temps plein, Jean-Pierre Cloutier est également photographe.
+
+[Entretien 08/06/1998 // Entretien 06/08/1999 // Entretien 05/08/2000]
+
+*Entretien du 8 juin 1998
+
+= En quoi l'internet a-t-il changé votre vie professionnelle?
+
+Il y a deux choses ici, dans mon cas. D'abord une époque où j'étais traducteur
+(après avoir travaillé dans le domaine des communications). Je me suis branché à
+internet à la demande de clients de ma petite entreprise de traduction car ça
+simplifiait l'envoi des textes à traduire et le retour des textes traduits.
+Assez rapidement, j'ai commencé à élargir mon bassin de clientèle et à avoir des
+contrats avec des clients américains.
+
+Puis, il y a eu carrément changement de profession, c'est-à-dire que j'ai mis de
+côté mes activités de traduction pour devenir chroniqueur. Au début, je le
+faisais à temps partiel, mais c'est rapidement devenu mon activité principale.
+C'était pour moi un retour au journalisme, mais de manière manifestement très
+différente. Au début, les Chroniques traitaient principalement des nouveautés
+(nouveaux sites, nouveaux logiciels). Mais graduellement on a davantage traité
+des questions de fond du réseau, puis débordé sur certains points d'actualité
+nationale et internationale dans le social, le politique et l'économique.
+
+Dans le premier cas, celui des questions de fond, c'est relativement simple car
+toutes les ressources (documents officiels, dépêches, commentaires, analyses)
+sont en ligne. On peut donc y mettre son grain de sel, citer, étendre l'analyse,
+pousser des recherches. Pour ce qui est de l'actualité, la sélection des sujets
+est tributaire des ressources disponibles, ce qui n'est pas toujours facile à
+dénicher. On se retrouve alors dans la même situation que la radio ou la télé,
+c'est-à-dire que s'il n'y a pas de clip audio ou d'images, une nouvelle même
+importante devient du coup moins attrayante sur le plan du médium.
+
+= Comment voyez-vous l'avenir?
+
+Dans le cas des Chroniques de Cybérie, nous avons pu lancer et maintenir une
+formule en raison des coûts d'entrée relativement faibles dans ce médium.
+Cependant, tout dépendra de l'ampleur du phénomène dit de "convergence" des
+médias et d'une hausse possible des coûts de production s'il faut offrir de
+l'audio et de la vidéo pour demeurer concurrentiels. Si oui, il faudra songer à
+des alliances stratégiques, un peu comme celle qui nous lie au groupe Ringier et
+qui a permis la relance des Chroniques après six mois de mise en veilleuse. Mais
+quel que soit le degré de convergence, je crois qu'il y aura toujours place pour
+l'écrit, et aussi pour les analyses en profondeur sur les grandes questions.
+
+*Entretien du 6 août 1999
+
+= Quoi de neuf depuis notre premier entretien (nouvelles réalisations, nouveaux
+projets, nouvelles idées...)?
+
+Projets et réalisations, non, pas vraiment. Nouvelles idées, oui, mais c'est
+encore en gestation.
+
+= Que pensez-vous des débats liés au respect du droit d'auteur sur le web?
+Quelles solutions pratiques suggérez-vous?
+
+Vaste question.
+
+Il y a d'abord les droits d'auteurs et droits de reproduction des grandes
+entreprises. Ces dernières sont relativement bien dotées en soutien juridique,
+soit par le recours aux services internes du contentieux, soit par l'embauche de
+firmes spécialisées.
+
+Il est certain que la "dématérialisation" de l'information, apportée par
+internet et les techniques de numérisation, facilite les atteintes de toutes
+sortes à la propriété intellectuelle.
+
+Là où il y a danger, c'est dans le cas de petits producteurs/diffuseurs de
+contenus "originaux" qui n'ont pas les moyens de surveiller l'appropriation de
+leurs produits, ni d'enclencher des mesures sur le plan juridique pour faire
+respecter leurs droits.
+
+Mais tout ça, c'est de l'"officiel", des cas de plagiat que l'on peut prouver
+avec des pièces "rematérialisées". Il y a peut-être une forme plus insidieuse de
+plagiat, celle de l'appropriation sans mention d'origine d'idées, de concepts,
+de formules, etc. Difficile dans ces cas de "prouver" le plagiat, car ce n'est
+pas du copier/coller pur et simple. Mais c'est une autre dimension de la
+question qui est souvent occultée dans le débat.
+
+Des solutions? Il faut inventer un processus par lequel on puisse inscrire sans
+frais une oeuvre (article, livre, pièce musicale, etc.) auprès d'un organisme
+international ayant pouvoir de sanction. Cette méthode ne réglerait pas tous les
+problèmes, mais aurait au moins l'avantage de déterminer un cadre de base et qui
+sait, peut-être, agir en dissuasion aux pillards.
+
+= Comment voyez-vous l'évolution vers un internet multilingue? Quelles solutions
+pratiques suggérez-vous?
+
+Cet été, le cap a été franchi. Plus de 50% des utilisateurs et utilisatrices du
+réseau sont hors des États-Unis. L'an prochain, plus de 50% des utilisateurs
+seront non anglophones. Il y a seulement cinq ans, c'était 5%. Formidable, non?
+
+Mais voilà, c'est que l'internet est devenu multiforme et exige de plus en plus
+des outils performants en raison de l'"enrichissement" des contenus (ou plutôt
+des contenants, car sur le fond, le contenu véritable, rien n'est enrichi sauf
+les entreprises qui les vendent). Il faut des systèmes costauds, bien pourvus en
+mémoire, avec des microprocesseurs puissants. Or, s'il y a développement du web
+non anglophone, il s'adressera pour une bonne part à des populations qui n'ont
+pas les moyens de se procurer des systèmes puissants, les tout derniers
+logiciels et systèmes d'exploitation, et de renouveler et mettre à niveau tout
+ce bazar aux douze mois.
+
+En outre, les infrastructures de communication, dans bien des régions hors
+Europe ou États-Unis, font cruellement défaut. Il y a donc problème de bande
+passante.
+
+Je le constate depuis le tout début des Chroniques. Des correspondants (Afrique,
+Asie, Antilles, Amérique du Sud, région Pacifique) me disent apprécier la
+formule d'abonnement par courrier électronique car elle leur permet en
+récupérant un seul message de lire, de s'informer, de faire une présélection des
+sites qu'ils ou elles consulteront par la suite. Il faut pour eux, dans bien des
+cas, optimiser les heures de consultation en raison des infrastructures
+techniques plutôt faibles.
+
+C'est dans ces régions, non anglophones, que réside le développement du web. Il
+faut donc tenir compte des caractéristiques techniques du médium si on veut
+rejoindre ces "nouveaux" utilisateurs.
+
+Je déplore aussi qu'il se fasse très peu de traductions des textes et essais
+importants qui sont publiés sur le web, tant de l'anglais vers d'autres langues
+que l'inverse.
+
+Je m'explique. Par exemple, Jon Katz publie une analyse du phénomène de la
+culture Goth qui imprégnait les auteurs du massacre de Littleton, et de
+l'expression Goth sur le web. La presse francophone tire une phrase ou deux de
+l'analyse de Katz, grapille quelques concepts, en fait un article et c'est tout.
+Mais c'est insuffisant pour comprendre Katz et saisir ses propos sur la culture
+de ces groupes de jeunes.
+
+De même, la nouveauté d'internet dans les régions où il se déploie présentement
+y suscite des réflexions qu'il nous serait utile de lire. À quand la traduction
+des penseurs hispanophones et autres de la communication?
+
+= Quel est votre meilleur souvenir lié à l'internet?
+
+Ce n'est pas très gai, et ça n'a rien à voir avec le rayonnement important
+qu'ont acquis Les Chroniques de Cybérie au fil des ans.
+
+Début 1996, j'ai reçu un message qui disait à peu près ceci: "Mon fils, dans le
+début de la vingtaine, était gravement malade depuis des mois. Chaque semaine,
+il attendait avec impatience de recevoir dans sa boîte aux lettres votre
+chronique. Ne pouvant plus sortir de la maison, votre chronique lui permettait
+de 'voyager', d'ouvrir ses horizons, de penser à autre chose qu'à son mal. Il
+est décédé ce matin. Je voulais simplement vous remercier d'avoir allégé ses
+derniers mois parmi nous."
+
+Alors, quand on reçoit un message comme ça, on se fout pas mal de parler à des
+milliers de gens, on se fout des statistiques d'achalandage, on se dit qu'on
+parle à une personne à la fois.
+Et votre pire souvenir?
+
+Pas vraiment un seul "gros et méchant" souvenir. Mais une foule de petits
+irritants. Le système est fragile, le contenu passe au second plan, on parle peu
+du capital humain, on nous inonde de versions successives de logiciels, etc.
+Mais c'est très vivable...
+
+*Entretien du 5 août 2000
+
+= Quoi de neuf depuis notre dernier entretien?
+
+Disons que fin juillet 1998, à peu près au moment où nous avions notre tout
+premier entretien, j'écrivais: "Quelqu'un me demandait récemment quelles étaient
+les grandes tendances d'internet et si quelque chose avait changé dans la
+couverture journalistique de l'espace cyber. Après avoir feint de ne pas avoir
+entendu la question, question de songer à une réponse adéquate, je lui ai
+répondu qu'au début, un bon chroniqueur se devait d'avoir les deux pieds bien
+ancrés dans le milieu des technologues et des créatifs. Maintenant, il importe
+d'avoir un bureau à mi-chemin entre le Palais de justice et la Place de la
+bourse, et de cultiver ses amis avocats et courtiers." (Chroniques de Cybérie,
+28 juillet 1998)
+
+Je constate que, depuis ce temps, mais surtout depuis un an, cette tendance
+s'est confirmée. Les considérations financières comme les placements initiaux de
+titres (les IPO - initial public offers), les options d'achat d'actions, la
+montée fulgurante du Nasdaq fin 1999 et début 2000, puis la correction boursière
+du printemps, bref, toute cette activité a dominé grandement l'actualité du
+cyberespace.
+
+Puis, sur le plan juridique, il y a eu l'affaire Microsoft (qui n'est pas encore
+terminée en raison des appels). C'est la plus visible, celle qui a monopolisé
+l'attention pendant des mois. Plus récemment, c'est l'affaire Napster qui
+retient l'attention (là aussi, on attend les décisions en appel). L'affaire UEJF
+(Union des étudiants juifs de France) - LICRA (Ligue internationale contre le
+racisme et l'antisémitisme) - Yahoo! en France est aussi, à mon avis, éminemment
+importante car elle implique le concept de censure "géographique", à partir d'un
+territoire donné. Mais outre ces "causes célèbres", il ne se passe pas une
+journée sans que les fils de presse ne rapportent des décisions de tribunaux qui
+ont des incidences sur l'avenir d'internet.
+
+Ce sont donc les manoeuvres boursières et les objets de litiges portés devant
+les tribunaux qui façonnent le mode de vie en réseau, et ce au détriment d'une
+réflexion et d'une action profonde sur le plan strict de la communication.
+
+= Utilisez-vous encore beaucoup de documents papier?
+
+Disons que, dans mon cas, l'utilisation du support papier est plus sélective.
+Pour mes besoins, j'imprime parfois un document récupéré en ligne car le papier
+est une "interface de lecture" des plus portables. Sans connexion, sans piles,
+sans attirail technique, on transporte le document où on veut, on l'annote, on
+le partage, on le donne, on le récupère, puis il peut prendre facilement le
+chemin du bac de recyclage.
+
+Côté des journaux et périodiques, j'en consomme moins qu'avant mon utilisation
+régulière d'internet (1991). Mais là encore, c'est sélectif. Le seul périodique
+que j'achète régulièrement est le mensuel Wired. Je n'ai jamais été abonné, je
+l'achète en kiosque, c'est comme voter avec son fric pour le changement.
+
+Pour ce qui est des livres, comme je suis en guerre perpétuelle avec le temps,
+j'ai peu l'occasion de lire. Au cours de mes vacances, cet été, j'ai acheté des
+livres de cyberlibraires et je les ai fait livrer poste restante au bureau de
+poste du village où j'étais. Entre trois à cinq jours pour la livraison, c'est
+génial.
+
+= Les jours du papier sont-ils comptés?
+
+Le cinéma n'a pas sonné la mort des spectacles sur scène et des arts
+d'interprétation, pas plus que la radio. La télévision n'a pas relégué aux
+oubliettes le cinéma, au contraire, elle a contribué à une plus grande diffusion
+des films. Même chose pour la vidéocassette. Les technologies se succèdent, puis
+cohabitent.
+
+Je crois qu'il en sera de même pour le papier. Il est certain que son rôle et
+ses utilisations seront modifiés, que certains contenus demeureront plus
+portables et conviviaux sur papier, il y aura des ajustements.
+
+= Quelle est votre opinion sur le livre électronique?
+
+Curieusement, dans l'édition du 28 juillet 1998 des Chroniques de Cybérie que je
+cite plus haut, je parlais du numéro 4 des Cahiers de médiologie ayant pour
+thème "Les pouvoirs du papier", et aussi des premiers livres numériques.
+
+Force est de constater que, deux ans plus tard, peu de choses ont évolué.
+D'abord, sur le plan technique, les nouvelles interfaces de lecture n'ont pas
+rempli leurs promesses sur le plan de la convivialité, de l'aisance et du
+confort, du plaisir de l'expérience de lire.
+
+D'autre part, les contenus proposés sont encore assez maigres. Je ne dis pas
+qu'il n'y a rien, mais c'est peu varié, et encore peu de grands titres qui
+permettraient des économies d'échelle.
+
+Oui, Stephen King a fait un pied de nez aux éditeurs et publié des oeuvres
+originales en ligne. Et alors? On peut difficilement, encore, parler d'une
+tendance.
+
+J'ai une théorie des forces qui animent et modifient la société, et qui se
+résume à classer les phénomènes en tendances fortes, courants porteurs et
+signaux faibles.
+
+Le livre électronique ne répond pas encore aux critères de tendance forte. On
+perçoit des signaux faibles qui pourraient annoncer un courant porteur, mais on
+n'y est pas encore. Cependant, si et quand on y sera, ce sera un atout important
+pour les personnes qui souhaiteront s'auto-éditer, et le phénomène pourrait
+bouleverser le monde de l'édition traditionnelle.
+
+= Quelles sont vos suggestions pour une meilleure accessibilité du web aux
+aveugles et mal-voyants?
+
+Mes suggestions s'adressent surtout aux diffuseurs de contenus qui ne respectent
+pas les normes techniques. Je m'explique. Le Consortium W3C est un organisme de
+normalisation des techniques du web. Ses comités étudient les nouvelles
+techniques, et prescrivent des normes d'utilisation. Or les producteurs et
+diffuseurs de contenus utilisent souvent des techniques propriétales, hors
+normes, propres à un logiciel ou à une plate-forme, ce qui donne lieu, par
+exemple, à des "sites optimisés" pour Netscape ou pour Internet Explorer.
+
+Si ces sites soi-disant optimisés pour un fureteur ou un autre causent des
+problèmes pour les utilisateurs ordinaires, imaginez la difficulté d'adapter des
+contenus livrés hors normes à un consultation pour non-voyants.
+
+Il y a des efforts énormes pour rendre accessible à tous le contenu du web, mais
+tant et aussi longtemps que les diffuseurs utiliseront des technologies hors
+normes, et ne tiendront pas leurs engagements pris, notamment, dans le cadre du
+Web Interoperability Project (WIP), la tâche sera difficile.
+
+= Comment définissez-vous le cyberespace?
+
+Un monde parallèle, un espace où se déroule l'ensemble des activités
+d'information, de communication, et d'échanges (y compris échanges commerciaux)
+désormais permises par le réseau. Il y a un centre, autonome, très interconnecté
+qui vit par et pour lui-même. Puis des collectivités plus ou moins ouvertes, des
+espaces réservés (intranets), des sous-ensembles (AOL, CompuServe). Il y a
+ensuite de très longues frontières où règne une culture mixte, hybride, issue du
+virtuel et du réel (on pense aux imprimés qui ont des versions web, aux sites
+marchands). Il y a aussi un sentiment d'appartenance à l'une ou l'autre de ces
+régions du cyberespace, et un sentiment d'identité.
+
+= Et la société de l'information?
+
+Une société où l'unité de valeur réelle est l'information produite, transformée,
+échangée. Elle correspond au "centre" du cyberespace. Malheureusement, le
+concept a tellement été galvaudé, banalisé, on l'a servi à toutes les sauces
+politiciennes pour tenter d'évoquer ce qu'on ne pouvait imaginer dans le détail,
+ou concevoir dans l'ensemble, de sorte que l'expression a perdu de son sens.
+
+[EN] Jean-Pierre Cloutier (Montreal)
+
+#Editor of Chroniques de Cybérie, a weekly report of Internet news
+
+Chroniques de Cybérie was launched in November 1994 as a weekly newsletter sent
