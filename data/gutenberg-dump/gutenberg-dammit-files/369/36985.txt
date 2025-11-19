@@ -1,0 +1,415 @@
+2001 > WIKIPEDIA, A COLLABORATIVE ENCYCLOPEDIA
+
+
+[Summary]
+Wikipedia was launched in January 2001 by Jimmy Wales and Larry Sanger
+(Larry resigned later on) as a global free collaborative online
+encyclopedia, financed by donations, with no advertising. Its website
+is a wiki, which means that anyone can write, edit, correct and improve
+information throughout the encyclopedia, with people contributing under
+a pseudonym. The articles stay the property of their authors, and can
+be freely used according to Creative Commons or GFDL (GNU Free
+Documentation License). Wikipedia quickly became the largest reference
+website. It was in the top ten websites in December 2006, and in the
+top five websites in 2008. In May 2007, Wikipedia had 7 million
+articles in 192 languages, including 1.8 million articles in English,
+589,000 articles in German, 500,000 articles in French, 260,000
+articles in Portuguese, and 236,000 articles in Spanish. Wikipedia
+celebrated its tenth anniversary in January 2011 with 17 million
+articles in 270 languages et 400 million individual visits per month
+for all websites.
+
+
+
+Wikipedia was launched in January 2001 by Jimmy Wales and Larry Sanger
+(Larry resigned later on) as a global free collaborative online
+encyclopedia.
+
+Wikipedia was financed by donations, with no advertising. Its website
+is a wiki, which means that anyone can write, edit, correct and improve
+information throughout the encyclopedia, with people contributing under
+a pseudonym. The articles stay the property of their authors, and can
+be freely used according to Creative Commons or GFDL (GNU Free
+Documentation License).
+
+Wikipedia is hosted by the Wikimedia Foundation, founded in June 2003,
+which has run a number of other projects, beginning with Wiktionary
+(launched in December 2002) and Wikibooks (launched in June 2003),
+followed by Wikiquote, Wikisource (texts from public domain), Wikimedia
+Commons (multimedia), Wikispecies (animals and plants), Wikinews and
+Wikiversity (textbooks).
+
+Wikipedia quickly became the largest reference website, with thousands
+of people contributing worldwide. In December 2004, Wikipedia had 1.3
+million articles by 13,000 contributors in 100 languages. In December
+2006, Wikipedia was among the top ten sites on the web, with 6 million
+articles. In May 2007, Wikipedia had 7 million articles in 192
+languages, including 1.8 million articles in English, 589,000 articles
+in German, 500,000 articles in French, 260,000 articles in Portuguese,
+and 236,000 articles in Spanish. In 2008, Wikipedia was in the top five
+websites. In September 2010, Wikipedia had 14 million articles in 272
+languages, including 3.4 million articles in English, 1.1 million
+articles in German and 1 million articles in French. Wikipedia
+celebrated its tenth anniversary in January 2011 with 17 million
+articles in 270 languages et 400 million individual visits per month
+for all websites.
+
+Wikipedia also inspired many other projects over the years, for example
+Citizendium, launched in 2007 as a pilot project to build a new
+encyclopedia.
+
+Citizendium, an acronym for "The Citizen's Compendium", was launched in
+March 2007 at the initiative of Larry Sanger, who co-founded Wikipedia
+with Jimmy Wales in January 2001, but resigned later on over policy and
+content quality issues, as well as the use of anonymous pseudonyms.
+
+Citizendium is a wiki project open to public collaboration, but
+combining "public participation with gentle expert guidance". The
+project is experts-led, not experts-only. Contributors use their own
+names, and they are guided by expert editors. As explained by Larry in
+his essay "Toward a New Compendium of Knowledge", posted in September
+2006 and updated in March 2007: "Editors will be able to make content
+decisions in their areas of specialization, but otherwise working
+shoulder-to-shoulder with ordinary authors." There are also constables
+who make sure the rules are respected.
+
+There were 1,100 high-quality articles, 820 authors, and 180 editors in
+March 2007, 11,800 articles in August 2009, and 15,000 articles in
+September 2010. Citizendium wants to act as a prototype for upcoming
+large scale knowledge-building projects that would deliver reliable
+reference, scholarly and educational content.
+
+
+
+2001 > THE CREATIVE COMMONS LICENSE
+
+
+[Summary]
+Long after copyleft, a term invented in 1984 by Richard Stallmann, a
+computer scientist at MIT (Massachusetts Institute of Technology),
+Creative Commons (CC) was founded in 2001 by Lawrence "Larry" Lessig, a
+professor at Stanford Law School, California. As explained on its
+website in 2009: "Creative Commons is a nonprofit corporation dedicated
+to making it easier for people to share and build upon the work of
+others, consistent with the rules of copyright. We provide free
+licenses and other legal tools to mark creative work with the freedom
+the creator wants it to carry, so others can share, remix, use
+commercially, or any combination thereof." Who has used Creative
+Commons? O'Reilly Media for example, as well as Wikipedia and the
+Public Library of Science (PLoS). There were one million Creative
+Commons licensed works in 2003, 4.7 million works in 2004, 20 million
+works in 2005, 50 million works in 2006, 90 million works in 2007, 130
+million works in 2008, and 350 million works in April 2010.
+
+
+
+The web allowed people to distribute their works globally, thus the
+need for a Creative Commons license, created in 2001 to make it "easier
+for people to share and build upon the work of others". Copyleft showed
+the way as early as 1984.
+
+# Copyleft
+
+The term "copyleft" was invented in 1984 by Richard Stallman, a
+computer scientist at MIT (Massachusetts Institute of Technology). As
+explained on the GNU Project's website: "Copyleft is a general method
+for making a program or other work free, and requiring all modified and
+extended versions of the program to be free as well. (...) Copyleft
+says that anyone who redistributes the software, with or without
+changes, must pass along the freedom to further copy and change it.
+Copyleft guarantees that every user has freedom. (...) Copyleft is a
+way of using the copyright on the program. It doesn't mean abandoning
+the copyright; in fact, doing so would make copyleft impossible. The
+word 'left' in 'copyleft' is not a reference to the verb 'to leave' --
+only to the direction which is the inverse of 'right'. (...) The GNU
+Free Documentation License (FDL) is a form of copyleft intended for use
+on a manual, textbook or other document to assure everyone the
+effective freedom to copy and redistribute it, with or without
+modifications, either commercially or non commercially."
+
+# Creative Commons
+
+Creative Commons (CC) was founded in 2001 by Lawrence "Larry" Lessing,
+a professor at Stanford Law School, California. As explained on its
+website: "Creative Commons is a nonprofit corporation dedicated to
+making it easier for people to share and build upon the work of others,
+consistent with the rules of copyright. We provide free licenses and
+other legal tools to mark creative work with the freedom the creator
+wants it to carry, so others can share, remix, use commercially, or any
+combination thereof."
+
+# How has used Creative Commons?
+
+O'Reilly Media, founded by Tim o'Reilly in 1978 to publish computer and
+high-tech books, began using the Creative Commons Founders' Copyright
+in 2003.
+
+Launched in 2001 as a free online collaborative encyclopedia, Wikipedia
+has offered articles that stay the property of their authors, and can
+be freely used according to Creative Commons or GFDL (GNU Free
+Documentation License).
+
+The Public Library of Science (PLoS) has used a Creative Commons
+license for the articles of its free online scientific and medical
+journals launched in 2003. The articles can be freely redistributed and
+reused, including for translations, as long as the author(s) and source
+are cited.
+
+There were one million Creative Commons licensed works in 2003, 4.7
+million works in 2004, 20 million works in 2005, 50 million works in
+2006, 90 million works in 2007, 130 million works in 2008, and 350
+million works in April 2010.
+
+
+
+2003 > HANDICAPZERO, THE INTERNET FOR EVERYONE
+
+
+[Summary]
+An important issue is the need for information to be accessible to all.
+Available online in September 2000, the website Handicapzero became a
+portal in February 2003 to offer an adapted access to information for
+the French-speaking users having a visual problem, i.e. over 10% of the
+population. Blind users can access the site using a Braille device or a
+speech software. Visually impaired users can set up their own
+parameters (size and type of fonts, color of background, etc.) to surf
+the web in an optimal way, by creating and modifying their own visual
+profile. Any user can correspond in Braille with blind users through
+the website. 2 million visitors used the services of the portal in
+2006. Handicapzero intends to demonstrate "that, with the respect of
+some basic rules, the internet can finally become a space of freedom
+for all."
+
+
+
+An important issue is the need for information to be accessible to all,
+as shown by the portal Handicapzero launched in February 2003 for any
+French-speaking user having a visual problem.
+
+A first website was launched in September 2000 to provide an adapted
+access to information for blind or visually impaired users, i.e. over
+10% of the population. It quickly became the most visited adapted site
+in France, with 10,000 visits per month.
+
+In February 2003, Handicapzero launched a portal providing free access
+to national and international news in real time (in partnership with
+Agence France-Presse), sports news (with the newspaper L' Equipe), TV
+programs (with the magazine Telerama), weather (with the service Meteo
+France) and a search engine (with Google), as well as a range of
+services for health, employment, consumer goods, leisure, sports and
+telephony.
+
+Blind users can access the site using a Braille device or a speech
+software. Visually impaired users can set up their own parameters (size
+and type of fonts, color of background, etc.) to surf the web in an
+optimal way, by creating and modifying their own visual profile. This
+profile can be used for any text available on the web, by copying and
+pasting the text on the web interface. Any user can correspond in
+Braille with blind users through the website. Handicapzero provides a
+free transcription of the letters and prints them in Braille, before
+sending them by mail for free in Europe.
+
+2 million visitors used the services of the portal in 2006.
+Handicapzero intends to demonstrate "that, with the respect of some
+basic rules, the internet can finally become a space of freedom for
+all."
+
+Things are not as simple for an adapted access to books. Patrice
+Cailleaud, director of communication for Handicapzero, explained in
+January 2001 that, if the digital book is "a new complementary solution
+to the problems experienced by blind and visually impaired users, (...)
+there are still issues with the copyright legislation and with
+permissions from authors that prevent us to offer Braille versions or
+large print versions. The requests for permissions are scarce and long,
+and seldom work."
+
+Thus the need for national laws in the wake of an international
+copyright law for visually impaired users. In the European Union, the
+directive 2001/29/EC dated May 2001 on "the harmonisation of certain
+aspects of copyright and related rights in the information society"
+insists in its article 43 on the need for all member states to adopt
+measures favoring access to books for the handicapped users that can't
+use standard books, especially by promoting accessible formats. Ten
+years later, there is still a lot to do.
+
+
+
+2003 > THE PUBLIC LIBRARY OF SCIENCE
+
+
+[Summary]
+The Public Library of Science (PLoS) was founded in October 2000 in
+California as a non-profit organization whose mission was to give
+access to the world's scientific and medical literature. In early 2003,
+PLoS created a non-profit scientific and medical publishing venture to
+provide scientists and physicians with free high-quality, high-profile
+online journals in which to publish their work. The journals were PLoS
+Biology (launched in 2003), PLoS Medicine (2004), PLoS Genetics (2005),
+PLoS Computational Biology (2005), PLoS Pathogens (2005), PLoS Clinical
+Trials (2006), and PLoS Neglected Tropical Diseases (2007), the first
+scientific journal on this topic. All PLoS articles are freely
+available online, on the websites of PLoS and in the public archive
+PubMed Central, run by the National Library of Medicine. The articles
+can be freely redistributed and reused under a Creative Commons
+license, including for translations, as long as the author(s) and
+source are cited.
+
+
+
+Founded in October 2000, the Public Library of Science (PLoS) created a
+non-profit scientific and medical publishing venture in early 2003, to
+provide scientists and physicians with free high-quality, high-profile
+online journals in which to publish their work.
+
+# PLoS as a catalyst
+
+With the internet being a powerful medium to disseminate information,
+it seems quite outrageous that the results of research -- original
+works requiring many years of efforts -- are "squatted" by publishers
+claiming ownership on these works, and selling them at a high price.
+The work of researchers is often publicly funded, especially in North
+America. It would therefore seem appropriate that the scientific
+community and the general public can freely enjoy the results of this
+research. 1,000 new scientific and medical articles reviewed by peers
+were published daily in 2000, with few of them free available on the
+internet.
+
+The Public Library of Science (PLoS) was founded in October 2000 in San
+Francisco, California, as a non-profit organization whose mission was
+to make the world's scientific and medical literature a public resource
+in free online archives. Instead of information disseminated in
+millions of reports and thousands of online journals, a single point
+would give access to the full content of these articles, with a search
+engine and hyperlinks between articles.
+
+PLoS posted an open letter requesting the articles presently published
+by journals to be distributed freely in online archives, and asking
+researchers to promote the publishers willing to support this project.
+From October 2000 to September 2002, the open letter was signed by
+30,000 scientists from 180 countries. The publishers' answer was much
+less enthusiastic, although a number of publishers agreed for their
+articles to be distributed freely immediately after publication, or six
+months after publication. But even the publishers who initially agreed
+to support the project made so many objections that it was finally
+abandoned.
+
+# PLoS as a publisher
+
+Another objective of PLoS was to become a publisher while creating a
+new model of online publishing based on free dissemination of
+knowledge. In early 2003, PLoS created a non-profit scientific and
+medical publishing venture to provide scientists and physicians with
+free high-quality, high-profile journals in which to publish their
+work. The journals were PLoS Biology (launched in 2003), PLoS Medicine
+(2004), PLoS Genetics (2005), PLoS Computational Biology (2005), PLoS
+Pathogens (2005), PLoS Clinical Trials (2006) and PLoS Neglected
+Tropical Diseases (2007), the first scientific journal on this topic.
+
+All PLoS articles are freely available online, on the websites of PLoS
+and in the public archive PubMed Central, run by the National Library
+of Medicine. The articles can be freely redistributed and reused under
+a Creative Commons license, including for translations, as long as the
+author(s) and source are cited. PLoS also launched PLoS ONE, an online
+forum where people can publish articles on any subject relating to
+science or medicine.
+
+Three years after they were created, PLoS Biology and PLoS Medicine had
+the same reputation for excellence as the leading journals Nature,
+Science and The New England Journal of Medicine. PLoS received
+financial support from several foundations  while developing a viable
+economic model from fees paid by published authors, advertising,
+sponsorship, and paid activities organized for PLoS members. PLoS also
+hopes to encourage other publishers to adopt the open access model, or
+to convert their existing journals to an open access model.
+
+
+
+2004 > THE WEB 2.0, COMMUNITY AND SHARING
+
+
+[Summary]
+The term "web 2.0" was invented in 2004 by Tim O'Reilly, a publisher of
+computer books, as a title for a series of conferences he was
+organizing. The web 2.0 has been based on community and sharing, with a
+wealth of websites whose content has been supplied by users, such as
+blogs, wikis, social networks and collaborative encyclopedias.
+Wikipedia, Facebook and Twitter, of course, but also tens of thousands
+of others. The web 2.0 may begin to fulfill the dream of Tim Berners-
+Lee, who invented the web in 1990, and wrote in an essay dated April
+1998: "The dream behind the web is of a common information space in
+which we communicate by sharing information. Its universality is
+essential: the fact that a hypertext link can point to anything, be it
+personal, local or global, be it draft or highly polished. ("The World
+Wide Web: A very short personal history", available on his webpage on
+the W3C website)
+
+
+
+The term "web 2.0" was invented in 2004 by Tim O'Reilly, a publisher of
+computer books, as a title for a series of conferences he was
+organizing.
+
+The web 2.0 was based on community and sharing, with a wealth of
+websites whose content was supplied by users, such as blogs, wikis,
+social networks and collaborative encyclopedias. Wikipedia, Facebook
+and Twitter, of course, but also tens of thousands of others.
+
+The web 2.0 may begin to fulfill the dream of Tim Berners-Lee, who
+invented the web in 1990, and wrote in April 1998 in an essay: "The
+dream behind the web is of a common information space in which we
+communicate by sharing information. Its universality is essential: the
+fact that a hypertext link can point to anything, be it personal, local
+or global, be it draft or highly polished." ("The World Wide Web: A
+very short personal history", available on his webpage on the W3C
+website)
+
+The first blog was launched in 1997. A blog is an online diary kept by
+a person or a group, usually in reverse chronological order, and can be
+updated every minute or once a month. There were 14 million blogs
+worldwide in July 2005, with 80,000 new blogs per day. According to
+Technorati, the first blog search engine, there were 65 million blogs
+in December 2006, with 175,000 new blogs per day. Some blogs are
+devoted to photos (photoblogs), music (audioblogs or podcasts), and
+videos (vlogs or videoblogs).
+
+The wiki concept became quite popular in 2000. Deriving from the
+Hawaiian term "wiki" ("fast"), a wiki is a website allowing multiple
+users to collaborate online on the same project. Users can contribute
+to drafting content, editing it, improving it, and updating it. The
+software can be simple or more elaborate. A simple program handles text
+and hyperlinks. With a more elaborate program, one can embed images,
+charts, tables, etc. The most famous wiki is Wikipedia.
+
+Facebook was founded in February 2004 by Mark Zuckerberg and his fellow
+students as a social network. Originally created for the students of
+Harvard University, it was then available to students from any
+university in the U.S. before being open to anyone worldwide in
+September 2006, to connect with relatives, friends and strangers.
+Facebook was the second most visited website after Google, with 500
+million users in June 2010, while sparking debates on privacy issues.
+
+Founded in 2006 by Jack Dorsey and Biz Stone, Twitter is a social
+networking and micro-blogging tool to send free short messages of 140
+characters maximum, called tweets, via the internet, IM or SMS.
+Sometimes described as the SMS of the internet, Twitter gained
+worldwide popularity, with 106 million users in April 2010, and 300,000
+new users per day. As for tweets, there were 5,000 per day in 2007,
+300,000 in 2008, 2.5 million in 2009, 50 million in January 2010, and
+55 million in April 2010, with the archiving of public tweets by the
+Library of Congress as a reflection of the trends of our time.
+
+We now try to fullfill the second part of Tim Berners-Lee's dream,
+according to his essay dated April 1998: "There was a second part of
+the dream, too, dependent on the web being so generally used that it
+became a realistic mirror (or in fact the primary embodiment) of the
+ways in which we work and play and socialize. That was that once the
+state of our interactions was online, we could then use computers to
+help us analyze it, make sense of what we are doing, where we
+individually fit in, and how we can better work together."
+
+
+
+2005 > FROM PDAS TO SMARTPHONES
+
+
+[Summary]
