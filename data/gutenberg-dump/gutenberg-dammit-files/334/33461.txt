@@ -1,0 +1,245 @@
+Junio de 1997 > El internet es anglófono a los 82,3%
+
+En sus inicios, el internet es casi al 100% en inglés, a consecuencia
+de haber empezado en los Estados Unidos antes de extenderse a Canadá y
+a todo el mundo. En 1997, la sociedad Babel, una iniciativa conjunta de
+Alis Technologies y de la Internet Society, realiza el primer estudio
+sobre la distribución de las lenguas en la web. En junio de 1997, la
+página Palmares de las lenguas en la web da los porcentajes de 82,3%
+para el inglés, 4% para el alemán, 1,6% para el japonés, 1,5% para el
+francés, 1,1% para el español, 1,1% para el sueco y 1% para el
+italiano.
+
+1997 > La digitalización de los libros impresos
+
+En 1997, que dice libro digital dice digitalización, porque la casi
+totalidad de los libros existe solo en su versión impresa. Para que un
+libro pueda ser consultado en pantalla, primero hace falta
+digitalizarlo, en "modo imagen" o en "modo texto". Los dos modos son
+complementarios. Digitalizar en "modo imagen" es escanear el libro, y
+equivale a fotografiar el libro página a página. La versión informática
+no es sino un facsímil digital de la versión impresa. Como se conserva
+la presentación original, luego es posible "hojear" el texto en
+pantalla. Este modo es más barato, pero no permite la búsqueda textual.
+Digitalizar en "modo texto" implica la necesidad de escanear el libro
+en modo imagen y convertirlo en texto gracias a un programa OCR
+(Optical Character Recognition). Se supone que un buen programa OCR
+tiene una fiabilidad de un 99%, luego basta con una relectura en
+pantalla para corregir el texto.
+
+1997 > El proyecto de biblioteca digital de la British Library
+
+La British Library ha sido una biblioteca pionera en Europa tan pronto
+como 1997 para su proyecto de biblioteca digital. Brian Lang, el
+director ejecutivo de la biblioteca, explicó en su sitio web: "No
+prevemos una biblioteca exclusivamente digital. Somos conscientes de
+que algunas personas sienten que los materiales digitales predominarán
+en las bibliotecas del futuro. Otros prevén que el impacto será leve.
+(...) El desarrollo de su biblioteca digital permitirá a la British
+Library acoger la era de la información digital. La tecnología digital
+se utilizará para conservar y ampliar la colección sin par de la
+biblioteca. El acceso a la colección será ilimitado para usuarios del
+mundo entero y en cualquier momento; se tratará de un acceso sencillo y
+rápido a los materiales digitalizados a través de redes informáticas,
+en particular del internet."
+
+Octubre de 1997 > Gallica, la biblioteca digital de la Biblioteca
+Nacional de Francia
+
+Gallica, la biblioteca digital de la BnF (Bibliothèque nationale de
+France - Biblioteca Nacional de Francia) se inauguró en octubre de 1997
+con la digitalización de imágenes y textos del siglo 19 francófono, "el
+siglo de la edición y de la prensa moderna, el siglo de la novela y
+también el de las grandes síntesis históricas y filosóficas, un siglo
+científico y técnico". En diciembre de 2006, las colecciones abarcan
+90.000 obras digitalizadas (incluso fascículos de prensa), 80.000
+imágenes y decenas de horas de recursos sonoros. Gallica empieza la
+conversión en modo texto de los libros - que primero habían sido
+digitalizados en modo imagen - con el fin de facilitar el acceso a su
+contenido así como su indexación en los buscadores. En noviembre de
+2007, Gallica anuncia que se han de digitalizar 300.000 obras
+adicionales de aquí a 2010. Éstas están accesibles en su nuevo sitio
+web, en modo imagen y en modo texto a la vez, lo que en total
+representa 45 millones de páginas. Gallica abarca 1,2 millón de
+documentos en octubre de 2010, con una interfaz en cuatro idiomas
+(francés, inglés, español y portugués).
+
+1997 > El primer blog en la web
+
+Un blog es un diario en línea de una persona o un grupo. Este diario se
+ordena cronológicamente - casi siempre de lo más reciente a lo más
+antiguo - y se actualiza a discreción del autor, a cada minuto o una
+vez al mes. El blog aparece por primera vez en 1997. En julio de 2005,
+se llegaría a  más de 14 millones de blogs por el mundo, con 80.000
+nuevos blogs al día. En diciembre de 2006, Technorati, un sitio
+especializado en blogs, menciona 65 millones de blogs, con 175.000
+nuevos blogs al día. Algunos blogs se dedican a las fotos (fotoblogs),
+a la música (audioblogs o podcasts) o al vídeo (videoblogs o vlogs).
+
+1997 > Eurodicautom, o la terminología europea en doce lenguas
+
+La base Eurodicautom -- de acceso libre en la web desde 1997 - es
+administrada por el Servicio de Traducción de la Comisión Europea. Esta
+base terminológica multilingüe de términos económicos, científicos,
+técnicos y jurídicos permite combinar entre sí doce lenguas: las once
+lenguas oficiales de la Unión Europea (alemán, danés, español, finés,
+francés, griego, inglés, italiano, portugués, sueco) y el latín. A
+finales de 2003, Eurodicautom anuncia su integración en una nueva base
+terminológica que fusiona las bases de varias instituciones de la Unión
+Europea. Esta nueva base se podrá consultar en unos veinte idiomas con
+la ampliación de la Unión Europea hacia Europa del Este. La nueva base
+IATE (InterActive Terminology for Europe) es lanzada en la web en junio
+de 2007.
+
+1997 > El interfaz de Yahoo! en siete idiomas
+
+En 1997, Yahoo! se divide en 63 grandes categorías, con una interfaz en
+siete  idiomas: inglés, alemán, coreano, francés, japonés, noruego y
+sueco. Yahho! fue lanzado en enero de 1994 por dos estudiantes de la
+Universidad de Stanford (California), Jerry Lang y David Filo, como
+directorio web en el cual hacen un inventario de los sitios web y los
+clasifican por temas. El directorio propone una clasificación más
+precisa que buscadores como AltaVista que sólo proponen listas
+completamente automatizadas. Cuando una búsqueda no produce resultados
+en Yahoo!, es dirigida automáticamente hacia AltaVista, y viceversa.
+
+Diciembre de 1997 > Babel Fish, el primer servicio de traducción
+automática gratis
+
+En diciembre de 1997, AltaVista es el primer buscador en lanzar un
+servicio gratuito de traducción automática del inglés a cinco otros
+idiomas (alemán, español, francés, italiano y portugués) y viceversa,
+un sistema en el cual la página original y la traducción aparecen una
+al lado de la otra en la pantalla. Babel Fish - también llamado
+AltaVista Translation - es la obra de SYSTRAN, una empresa pionera en
+software de traducción automática. Babel Fish es alimentado por
+diccionarios multilingües de 2,5 millones de términos. Aunque tenga sus
+límites, con una capacidad de traducción que no puede exceder tres
+páginas y con traducciones muy aproximadas, este servicio se hace de
+inmediato muy popular ante los doce millones de usuarios de AltaVista,
+entre los cuales se observa un creciente número de usuarios que no son
+de habla inglesa. Babel Fish contribuye al plurilingüismo de la red, y
+también abre la vía a otros servicios del mismo tipo - desarrollados
+por ejemplo por Alis Technologies, Lernout & Hauspie, Globalink y
+Softissimo.
+
+Diciembre de 1997 > Las herramientas de la empresa de traducción Logos
+en la web
+
+En diciembre de 1997, la empresa de traducción Logos, basada en Módena
+(Italia), decide poner todas sus herramientas profesionales gratis en
+la web. El Logos Dictionary (Diccionario Logos) es un diccionario
+multilingüe de 7,5 millones de términos. La Wordtheque es una base de
+datos multilingüe de 328 millones de términos, compilada a partir de
+millares de traducciones, incluyendo novelas y documentos técnicos. La
+búsqueda en la Wordtheque es posible por idioma, término, autor o
+título. Linguistic Resources (Recursos Lingüísticos) ofrece un punto de
+acceso único a 553 glosarios. El Universal Conjugator (Conjugador
+Universal) proporciona tablas de conjugación en 17 idiomas. En 2007, la
+Wordtheque, rebautizada Logos Library (Biblioteca Logos), contiene 710
+millones de términos. Linguistic Resources (Recursos Lingüísticos)
+proporciona un punto de acceso único a 1.215 glosarios. El Universal
+Conjugador, rebautizado Conjugation of Verbs (Conjugación de Verbos),
+ofrece tablas de conjugación en 36 idiomas.
+
+1998 > La base de datos en línea del primer volumen (1751) de la
+Encylopédie
+
+Proyecto conjunto del CNRS (Centre National de la Recherche
+Scientifique - Centro Nacional de la Investigación Científica) en
+Francia y de la Universidad de Chicago (Illinois) en los Estados
+Unidos, el proyecto ARTFL (American and French Research on the Treasury
+of the French Language - Investigación Americana y Francesa sobre el
+Tesoro de la Lengua Francesa) provee acceso en línea en 1998 a la base
+de datos correspondiente al primer volumen de la Encyclopédie (1751).
+Este experimento en línea es un primer paso hacia la versión en línea
+completa de la primera edición (1751-1772) de la "Encyclopédie ou
+Dictionnaire Raisonné des Sciences, des Métiers et des Arts"
+(Enciclopedia o Diccionario razonado de las ciencias, artes y oficios)
+de Diderot y d'Alembert, con 72.000 artículos escritos por más de 140
+autores (incluidos Voltaire, Rousseau, Marmontel, d'Holbach, Turgot,
+etc.), y con 17 volúmenes de texto (que representan 20.736.912 palabras
+y 18.000 páginas) y 11 volúmenes de láminas. Diseñada para recoger y
+difundir los conocimientos del tiempo, llamado el Siglo de las Luces,
+la Encyclopédie lleva la marca de sus corrientes intelectuales y
+sociales. Gracias a ella fue cómo se difundieron las nuevas ideas que
+inspirarían la Revolución Francesa en 1789.
+
+Abril de 1998 > El sueño detrás de la web, según Tim Berners-Lee, su
+inventor
+
+La web es una aventura estupenda. Tim Berners-Lee, su inventor en 1990,
+escribe en abril de 1998: "El sueño que se esconde detrás de la web es
+el siguiente: crear un espacio de información común en donde
+comuniquemos compartiendo la información. Es esencial que este espacio
+sea universal y que los hipervínculos puedan enlazar con cualquier tipo
+de datos: pueden ser personales, locales o mundiales. Tampoco importa
+que se trate sólo de esbozos o, al contrario, de documentos
+sofisticados. El sueño también tiene una segunda parte: el acceso a la
+web se generalizaría hasta tal punto que acabaría convirtiéndose en un
+espejo realista (o de hecho en la encarnación más directa) de la manera
+en que trabajamos, jugamos y hacemos vida social. Esto significa que
+tras contemplar en línea la descripción de nuestras relaciones
+sociales, podríamos utilizar los ordenadores para analizarlas, dar
+sentido a lo que hacemos, preguntarnos en qué tipo de espacio encuentra
+cada uno un lugar que le corresponde, y cómo podemos trabajar mejor
+juntos." (fragmento de The World Wide Web: A very short personal
+history (El World Wide Web: una muy corta historia personal),
+disponible en su página web en el sitio del World Wide Web Consortium)
+
+Mayo de 1998 > Las ediciones 00h00, pioneras de la edición en línea
+
+Fundadas en mayo de 1998 por Jean-Pierre Arbon y Bruno de Sa Moreira,
+las ediciones 00h00 (que se pronuncia "zéro heure") son pioneras en
+materia de edición en línea comercial. Su actividad consiste en vender
+libros digitales vía el internet. En 2000, el catálogo comprende 600
+títulos, con 85% de las ventas para versiones digitales (en formato
+PDF) y 15% para versiones impresas a petición del cliente. En el sitio
+web, los usuarios/lectores pueden crear su espacio personal para
+redactar ahí sus comentarios, participar en foros, suscribirse a la
+carta de información de 00h00 o ver los videoclips literarios que el
+editor produce para presentar las nuevas obras publicadas. En
+septiembre de 2000, Gemstar-TV Guide International (Estados Unidos)
+procede a la recompra de 00h00. Gemstar decide poner fin a su
+experiencia con libros digitales en junio de 2003.
+
+Agosto de 1998 > Cita de Michael Hart, fundador del Proyecto Gutenberg
+
+Michael Hart, fundador del Proyecto Gutenberg en 1971 y inventor del
+libro digital, decida toda su vida a poner las obras literarias en
+línea gratis para todos. Escribe en agosto de 1998: "Nosotros
+consideramos el texto electrónico como un nuevo medio de comunicación,
+sin verdadera relación con el papel. La única semejanza es que ambos
+difundimos las mismas obras, pero en cuanto la gente se haya
+acostumbrado, no veo cómo el papel aún podría competir con el texto
+electrónico, sobre todo en las escuelas." (Entrevista del NEF)
+
+Septiembre de 1998 > Cita de John Mark Ockerbloom, creador de la Online
+Books Page
+
+John Mark Ockerbloom crea en 1993 la Online Books Page, un repertorio
+de obras gratis en línea.  Escribe en septiembre de 1998: "Me apasioné
+por el enorme potencial que representaba el internet para poner la
+literatura al alcance de mucha gente. Ahora se han puesto en línea
+tantos libros que resulta difícil para mí mantenerme al día (de hecho,
+tengo mucho retraso). Pero pienso seguir con esta actividad de una
+manera u otra. Me intereso mucho por el desarrollo del internet como
+medio de comunicación de masa durante los próximos años. También me
+gustaría seguir comprometido de un modo u otro en la difusión gratuita
+de libros para todos en el internet, ya sea que esta tarea forme parte
+integrante de mi actividad profesional, o que me dedique a una
+actividad voluntaria similar durante mi tiempo libre." (Entrevista del
+NEF)
+
+Septiembre de 1998 > Cita de Robert Beard, creador del sitio A Web of
+Online Dictionaries
+
+Robert Beard, profesor de lengua, crea en 1995 A Web of Online
+Dictionaries, un repertorio de diccionarios en línea. Escribe en
+septiembre de 1998: "La web será una enciclopedia del mundo, hecha por
+el mundo y para el mundo. Ya no habrá información o conocimientos
+útiles que no estén disponibles, de manera que se eliminará la barrera
+principal a la comprensión internacional e interpersonal, y al
+desarrollo personal e institucional. Hará falta tener una imaginación
+más desbordante que la mía para predecir el efecto de este desarrollo
+sobre la humanidad." (Entrevista del NEF) En febrero de 2000, Robert
