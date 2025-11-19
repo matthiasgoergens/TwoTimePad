@@ -1,0 +1,866 @@
+L I L R C
+
+INTERLIBRARY LOAN MANUAL
+
+
+January 1976
+
+
+LONG ISLAND
+LIBRARY
+RESOURCES
+COUNCIL Inc.
+
+Box 31
+Bellport, NY 11713
+
+
+
+
+CONTENTS
+
+
+1. Introduction                                                    2
+
+2. Interlibrary loan policies and procedures                       3
+     What may be borrowed
+     Placing requests
+     Form of request
+     Verification
+     Photocopying
+     Expenses
+
+3. Direct access to other libraries                                6
+     Location service
+     Research Loan Program
+
+4. INS--How it works                                               7
+     Billing
+     Cancellations
+     Delivery and pickup
+     Microforms
+     Photocopies of missing pages
+     Recall
+     Renewals
+     Returns
+     Status reports
+
+5. Guide to the use of LILRC interlibrary loan request forms      10
+     Instructions for completing serials request
+     Instructions for completing book request
+
+6. How to be a good borrower                                      15
+
+7. How to be a good lender                                        15
+
+8. Appendix
+   A. Useful interlibrary loan manuals                            16
+   B. Sample worksheet                                            17
+
+
+
+
+Introduction
+
+
+This manual has been prepared as a guide to the Information Network
+Service, the interlibrary loan system of the Long Island Library
+Resources Council (LILRC).
+
+The manual contains a description of how the location and delivery
+service works and the policy on which it is based, as well as standards
+to which it is expected participating libraries will adhere.
+
+Please do not hesitate to make suggestions and comments regarding this
+manual and the interlibrary loan service to the Council office.
+
+January 1976
+
+
+
+
+INTERLIBRARY LOAN POLICIES AND PROCEDURES
+
+
+Our interlibrary loan program is based on the premise that lending
+among libraries for the benefit of individuals in Nassau and Suffolk
+counties is in the public interest and should be encouraged. It is
+impossible for any one library to be self-sufficient, and interlibrary
+borrowing and lending is regarded by the libraries participating in
+this program as essential to library service.
+
+It is the policy of the Council that the routines of borrowing and
+lending are simplified as much as possible consistent with the
+protection of material. Every effort is made to emphasize speed and to
+base the service on a spirit of cooperation and trust among
+participating libraries.
+
+What follows comprise the procedures and standards that have developed
+gradually and voluntarily in our area--this is what works for us.
+Changes may be introduced as the need arises.
+
+
+What may be borrowed
+
+It is recognized that interlibrary borrowing does not relieve any
+library of the responsibility for developing its own collection. Each
+library should provide the bulk of materials needed by its users for
+purposes of study, instruction, information and research.
+
+The borrowing library should make every effort to exhaust its own
+resources before turning to interlibrary loan. It should also screen
+requests carefully before transmitting them to the Council, eliminating
+those which common sense indicates would not be supplied.
+
+The borrowing library is responsible for returning loans promptly and
+in good condition. The borrowing library should respond quickly to
+overdue notices and is responsible for paying fees for lost books as
+levied by the lending library. The library should refuse to request
+books on interlibrary loan on behalf of borrowers who abuse the
+privilege.
+
+
+Placing requests
+
+Our network is part of an hierarchical system. Requests we cannot
+locate in the region we send to the New York State Interlibrary Loan
+Network (NYSILL) which searches the State Library in Albany and
+selected referral libraries in the State. The key to the success of
+NYSILL is that it is asked only for materials not available locally.
+The network would break down if the major libraries were asked to
+supply commonly held materials. Medically oriented requests not found
+on Long Island are transmitted to the Regional Medical Library
+interlibrary loan network in Brooklyn.
+
+Public libraries submit their requests through their respective library
+systems, which process the requests through LILRC, NYSILL, or other
+channels.
+
+All other libraries in the region should submit their requests to
+LILRC. Most libraries prefer to have local requests handled centrally,
+and decline to fill regional requests unless they have been transmitted
+by the Council. In special circumstances, libraries may arrange to deal
+directly with each other.
+
+
+Form of requests
+
+Borrowing libraries may find it helpful to develop worksheets (see
+samples in Appendix B) to be used by the reader and the librarian in
+preparing the interlibrary loan request, indicating all the items we
+need to know.
+
+Requests may be submitted on LILRC interlibrary loan forms which we
+supply, and sent in by mail or by our driver. They may be placed by
+teletype, using a format based on the LILRC request form. Urgent
+requests may be placed by telephone.
+
+We ask that you fill out the form as completely and as accurately as
+possible, including author's full first name. Supply all the
+information you have been able to elicit from your patron, as well as
+all you have been able to glean from bibliographic sources to complete
+the request. The more information you give us the more likely we are to
+locate the material you need--and the more quickly.
+
+Try to develop techniques for drawing from your reader as much as he
+knows about the item he is seeking and the source of the citation. He
+must have some reason for believing the item exists, and we should be
+able to pass this information on to the potential lending library.
+
+
+Verification
+
+Check as far as possible to verify the accuracy of the information the
+reader gives you. We trust that you will verify citations as completely
+and as accurately as your resources will allow.
+
+The ALA and NYSILL manuals (see Appendix A) both contain a listing of
+standard bibliographic tools and sources of verification. Verification
+sources not found in the standard lists should be cited in full.
+Remember that reference tools and abbreviations familiar to you may not
+be known to the librarian trying to fill the request. Please give full
+citation of the source of verification, including date, volume, series,
+and the page on which verification was found. That is, not just "NUC,"
+but "NUC, 1968-72, 25:478." In a request for a periodical article, both
+the title of the periodical and the location of the article should be
+verified, and both sources of verification should be given.
+
+If you cannot verify the item in a standard bibliographic tool, please
+supply a complete citation to the source of reference, including
+author's full name, publisher, date, and page of citation.
+
+When libraries are unable to verify requests completely because their
+bibliographic resources and staff are severely limited, we will _try_
+to verify the information and to locate the item. If a request is
+hopelessly inadequate, with vital information missing or with
+incomprehensible abbreviations, we will return it for clarification.
+
+
+OCLC verification
+
+Please use caution when citing OCLC numbers as verification for
+interlibrary loan requests. The Council office and most of the
+libraries in our region do not have OCLC terminals. Include OCLC #,
+author and title, place, publisher and date, and Nassau-Suffolk and
+NYSILL locations where given. Be sure all information has been copied
+correctly.
+
+
+Data base verification
+
+If an item is requested on the basis of a citation on a computer
+printout, supply all information given and be sure to indicate which
+data base was used, such as ERIC, Psych Abstracts, Compendex, BIOSIS,
+etc.
+
+
+Photocopying
+
+The lending library may choose to supply photocopies of articles in
+lieu of lending whole issues or volumes of serials. By mutual
+agreement, libraries in our region generally absorb the costs of
+photocopying articles, although there may be a charge for longer
+articles. Libraries have usually found that by photocopying for each
+other without charge they come out reasonably even and avoid the
+expense and trouble of accounting and billing procedures.
+
+
+Expenses
+
+LILRC along among the 3R's Councils in the State has chosen to maintain
+a low membership fee which is the same for all libraries. Our income is
+supplemented by a system of charges and credits for completed
+interlibrary loan transactions, so that libraries pay in proportion to
+the use they make of our service. These charges are not related to the
+cost of the service.
+
+The borrowing library is charged a fee for each item it obtains through
+LILRC. The lending library receives a credit (presently $1.00) equal to
+one-half the charge (presently $2.00) for each item it supplies.
+Libraries with collections from which we borrow heavily, paying for
+teletype machines to receive our requests, may be given additional
+credit if replies are transmitted promptly.
+
+
+
+
+DIRECT ACCESS TO OTHER LIBRARIES
+
+
+Both the Nassau Library System and the Suffolk Cooperative Library
+System have policies of direct access, including borrowing privileges,
+among the public libraries within their respective counties. A reader
+may find another library convenient; remind him to check with his local
+public library for details.
+
+Other alternatives to interlibrary loan include:
+
+
+Location service
+
+It may be more practical for some readers to use books and periodicals
+at the library which holds them rather than request them on
+interlibrary loan. For periodicals, you may refer readers on the basis
+of the _Nassau-Suffolk Union List of Serials_. Please check the list of
+participating libraries in the front of volume 1 which notes some
+limitations of public access to materials in certain libraries.
+
+For monographs, call LILRC and ask for a check of a few libraries in
+the microfilms of card catalogs to get locations for needed items.
+
+
+Research Loan Program
+
+Through this program, patrons of participating libraries have direct
+access, including circulation privileges, to specific subject area
+collections in other participating libraries. In lieu of numerous
+interlibrary loan requests, libraries may wish to recommend their
+readers take advantage of this program. The latest LILRC membership
+list indicates libraries which have joined this program. Details are
+available in all participating libraries and from LILRC.
+
+
+
+
+INFORMATION NETWORK SERVICE-How it works
+
+
+Requests are received daily from participating libraries by teletype
+and on LILRC interlibrary loan forms by mail and delivery service. A
+limited number of urgent requests may be received by telephone. All
+requests are transcribed onto LILRC request forms if they have not
+arrived on that form.
+
+All requests are checked to make sure that all necessary bibliographic
+information has been given. If a glaring error or omission can be
+corrected easily, the INS clerk will do so and process the request. If
+the error is not easily corrected, the request is returned to the
+requesting library for clarification.
+
+When a monograph request is received, the clerk checks the appropriate
+catalogs in the data bank of library card catalogs in microfilm in the
+LILRC office (or calls libraries for materials not listed in the
+catalogs). For serials the clerk checks the _Nassau-Suffolk Union List
+of Serials_ and other tools. When an item is located, the clerk calls,
+teletypes a message, or sends a copy of the request to the prospective
+lender to see if the item is actually available.
+
+The INS staff tries to maintain a balance between locating the needed
+items most efficiently and at the same time spreading the load so that
+the larger libraries are not overburdened with requests and so that all
+libraries are given a chance to build up credits.
+
+Each time we check with a prospective lender, a notation is made on the
+interlibrary loan form indicating the library's name and response. If
+"yes," arrangements are made for pickup. If "no," the search goes on.
+"Maybe" takes a little longer; although the item is in the catalog, the
+shelf must be checked to see if the volume is available for loan or
+photocopying.
+
+When a loan is arranged, the clerk prepares the interlibrary loan forms
+(still intact) for the driver. Having begun her run in the morning,
+delivering books and copies picked up the previous day, the driver
+returns to the LILRC office in the early afternoon with that day's
+deliveries and pickups. The driver collects the day's batch of slips
+and prepares her itinerary for the next day.
+
+Copies of the interlibrary loan form are used as follows:
+
+_Serials_                                             _Books_
+
+white      Sent to lending library                     pink
+
+yellow     Inserted into each book delivered           yellow
+           to borrowing library or clipped
+           to copy of article
+
+pink      Filed by name of borrowing library           white
+          in LILRC circulation file,
+          used for statistics, then filed
+
+gold     Returned to borrowing library with            gold
+            bill unless retained by library
+            before submitting request to LILRC
+
+If an item is not located at a member library, the request is
+considered for transmission to the State Library in Albany and the
+NYSILL network or to the Regional Medical Library network. Certain
+categories of requests may be submitted to the State Library but are
+not normally eligible for transmission to NYSILL, such as: fiction,
+text books, current publications and those in popular demand, rare
+books, genealogy, children's books, multi-volume sets, reference books,
+non-research books (self-help, recreation, etc.). Interlibrary loan
+librarians should familiarize themselves with the NYSILL manual (see
+Appendix A) so they will know what to expect when we send requests to
+NYSILL for them.
+
+Each day, the requests not located on Long Island are teletyped to the
+State Library in Albany. If available, the book or copy will be sent
+from the State Library or the library to which it has been referred,
+directly to the requesting library whose name and address have been
+coded into the NYSILL transmission format. Medically-oriented requests
+are sent to the Regional Medical Library network via the Medical
+Research Library in Brooklyn and may be sent to the requesting library
+directly or via LILRC.
+
+If the item is not available from any of these sources, a report is
+teletyped to LILRC and we send it on to the requesting library.
+
+
+Billing
+
+Bills are sent quarterly unless a library asks that it be billed
+monthly or semi-annually, or annually as part of the dues. The gold
+copy (part 4) of the interlibrary loan form is included with the bill
+unless a library retains it when initiating the request or indicates
+the copy need not be returned.
+
+
+Cancellations
+
+Occasionally, libraries find it necessary to cancel a request. It is
+understood that if the item is in the process of being supplied the
+requesting library will be charged for the completed loan.
+
+
+Delivery and pickup
+
+The Council drivers stop at each library which has a pickup or delivery
+to be made (public libraries send materials to LILRC via their
+respective systems). While the drivers stop nearly every day at the
+heaviest users, we do not know you have something for us unless you let
+us know. If you are supplying a monograph or photocopy, or have a book
+to return, _call and tell us_.
+
+
+Microforms
+
+INS tries to obtain needed items in a form usable in the borrowing
+library. If the supplying library cannot produce a hard copy of a
+microform it is lending, and if your library does not have an
+appropriate reader, we will try to have a copy made (if there is an
+additional charge you will be notified in advance) or tell you where
+your patron can read or copy the material himself.
+
+
+Photocopies of missing pages
+
+Missing pages from monographs and serials may be requested in the usual
+manner. For an additional fee, INS will try to obtain copies suitable
+for binding, printed on both sides.
+
+
+Recall
+
+It is understood that the lending library may recall a book needed for
+one of its own readers.
+
+
+Renewals
+
+Please request a renewal before the date due noted on the request form
+or in the volume. For books received from LILRC member libraries, call
+the LILRC office and give author, title, date due, library from which
+borrowed. Renewals will usually be granted for two weeks from date due
+unless a lending library has indicated otherwise.
+
+Books received from the State Library or through NYSILL or the Regional
+Medical Library must be renewed directly with the lending library, not
+LILRC.
+
+
+Returns
+
+Books received from LILRC should be returned via our driver. Call and
+let us know you have a book to be returned.
+
+Books received from the State Library or through NYSILL or the Regional
+Medical Library should _be mailed directly to the lending library_. The
+book usually arrives with a return label. The package in which it comes
+will give information regarding return address and insurance.
+
+
+Status reports
+
+Requests are processed and reports submitted to the requesting library
+as rapidly as possible. It is not always possible to give an immediate
+report on the status of an outstanding request in the process of being
+searched at a member library. Please hold requests for status reports
+to a minimum.
+
+
+
+
+Guide to the use of LILRC Interlibrary Loan Request Forms
+
+
+The number of interlibrary loan requests received by LILRC is steadily
+increasing. In order to process the requests efficiently we ask that
+requests be submitted either on the LILRC interlibrary loan request
+form or via teletype.
+
+Please do not send requests on lists or in other formats. Telephone
+requests can be accepted only for a limited number of urgent requests.
+
+Use the "book" request form for all monographs, reports, whole volumes
+of proceedings, transactions, congresses, etc.
+
+Use "serials" request form for all articles from periodicals, papers
+from transactions, proceedings or congresses, and for chapters or other
+sections of books.
+
+Please use LILRC interlibrary loan request forms only for requests sent
+to LILRC.
+
+
+
+
+INSTRUCTIONS FOR COMPLETING SERIAL REQUEST
+
+
+
+DATE OF REQUEST: (1)  YOUR REQUEST #: (2) DEWEY NO.: (3)| LILRC USE ONLY
+REQUESTING LIBRARY: (4) USER:  (5)                      |DATE DUE  (17)
+                        STATUS:  (6)                    |---------------
+SERIAL:  (7)                                            |NBELS  |NHEMH
+                                                        |NBETG  |NHUHI
+VOL./ISSUE:  (8)        DATE:  (9)        PAGES:  (10)  |NCSHB  |NHUI (16)
+                                                        |NEAH   |NKIPM
+AUTHOR:  (11)                                           |NEMMC  |NMELA
+                                                        |NFARUA |NMON
+TITLE OF ARTICLE:  (12)                                 |NGCA   |NNHPJ
+                                                        |NGCCC  |NNOPOVA
+VERIFICATION/        (13)                               |NGCE   |NOWNI
+SOURCE OF REFERENCE:                                    |NGCG   |NOWU
+--------------------------------------------------------|NGCNLS |NSBSU
+  LONG ISLAND LIBRARY  |      LILRC USE ONLY            |NGLCM  |   -H
+   RESOURCES COUNCIL   |                                |NGLCW  |NSELC
+                       |TRANSMITTED:  (14)              |NGLH   |NSM
+BOX 31, BELLPORT, N.Y. |                                |NGRNS  |NSOAS
+      11713            |FINAL STATUS:  (15)             |NGVP   |NUPB
+                       |                                |NHAPSA |NWEBE
+  (516) 286-0400       |                                |---------------
+                       |
+SERIAL-1               |
+
+PLEASE TYPE ALL INFORMATION
+
+     1. _Date of request._ Fill in date you are submitting your
+     request to LILRC.
+
+     2. _Your request #._ Libraries submitting many interlibrary
+     loan requests often number the requests consecutively each
+     month. Thus, "10-59" would indicate the fifty-ninth request
+     Library X submitted to LILRC during October. Libraries
+     making fewer requests may number consecutively through the
+     year or may choose to omit a number.
+
+     3. _Dewey No._ Supply 3-digit Dewey number wherever known.
+     This is necessary for requests submitted to NYSILL so they
+     can be referred to appropriate subject referral library.
+     Verification will often give Dewey number, usually supplied
+     with LC cataloging in NUC and NST.
+
+     4. _Requesting library._ Name of institution submitting
+     request. Since delivery is through LILRC driver, full
+     mailing address is not needed.
+
+     5. Name of library _user_ for whom request is being made.
+     Some libraries file pending requests by name of user. Also
+     helpful in identifying request if there is a question while
+     it is being processed.
+
+     6. _Status._ Needed for determining eligibility of request
+     for referral to NYSILL. Indicate student, faculty,
+     professional, industry, or other.
+
+     7. _Serial._ Name of periodical in which needed article
+     appears. Give name of journal as it appears in the
+     _Nassau-Suffolk Union list of Serials_, _Union List of
+     Serials_ 3rd ed., _New Serials Titles_, or other standard
+     bibliographic source. Do not use abbreviations. If not
+     verified, give name of journal as fully as you have been
+     able to find it.
+
+     8. _Vol./issue._ Indicate volume number of periodical, and
+     issue number if known. If serial has dates but no volume
+     number, leave space blank.
+
+     9. _Date_ of issue in which needed article appears.
+
+     10. _Pages_ on which article appears. If complete pagination
+     is not known, add "+" or "to end of article" after number of
+     beginning page, so that the person copying the article will
+     look for a continuation and not copy only the single page
+     cited.
+
+     11. _Author_ of article required, including first name(s).
+     If more than one author, give full names of two, and
+     indicate "and others."
+
+     12. _Title_ of article requested.
+
+     13. _Verification._ Please supply verification of both name
+     of the journal and of the existence of the article in this
+     issue of the journal cited. Standard sources for journals
+     include union lists mentioned in #7 above. Articles can be
+     verified in standard periodical indexes and abstracting
+     services such as _Reader's Guide_, _Education Index_,
+     _Psychological Abstracts_, _Engineering Index_, etc. Give
+     full citation including volume, series, year/date, page,
+     abstract number of verification. If request could not be
+     verified, indicate sources checked.
+
+     If not possible to verify, indicate _source of reference_,
+     such as bibliography in monograph, review article, etc.
+     Where did the requestor see this item _in print_? Include
+     author, title, publisher and date or journal title and date,
+     and page number on which citation is found. If it is more
+     convenient, you may supply a photocopy of the cited
+     reference.
+
+     If impossible to verify or supply a source of reference,
+     indicate "zz."
+
+     _For LILRC use only_
+
+     14. Records information regarding request forwarded to LILRC
+     member or NYSILL or RML and awaiting response.
+
+     15. Indicates whether item has been found and delivered or
+     request cancelled.
+
+     16. Checked to indicate by NUC symbol libraries believed to
+     have needed item, on the basis of the _Nassau-Suffolk Union
+     List of Serials_.
+
+     17. Records date due of book to be returned. Left blank in
+     cases where photocopy has been supplied; photocopy becomes
+     the property of the user.
+
+
+
+
+INSTRUCTIONS FOR COMPLETING BOOK REQUEST FORM
+
+
+
+DATE OF REQUEST: (1) YOUR REQUEST #: (2) DEWEY NO.: (3)| LILRC USE ONLY
+REQUESTING LIBRARY: (4) USER:  (5)                     |DATE DUE  (16)
+                        STATUS:  (6)                   |----------------
+AUTHOR:  (7)                                           |NBELS  |NHEMH
+                                                       |NBETG  |NHUHI
+TITLE:  (8)                                            |NCSHB  |NHUI (15)
+                                                       |NEAH   |NKIPM
+PLACE:  (9)                                            |NEMMC  |NMELA
+                                                       |NFARUA |NMON
+PUBLISHER, DATE:                                       |NGCA   |NNHPJ
+            (10) & (11)                                |NGCCC  |NNOPOVA
+VERIFICATION/                                          |NGCE   |NOWNI
+SOURCE OF REFERENCE:  (12)                             |NGCG   |NOWU
+-------------------------------------------------------|NGCNLS |NSBSU
+  LONG ISLAND LIBRARY  |      LILRC USE ONLY           |NGLCM  |   -H
+   RESOURCES COUNCIL   |                               |NGLCW  |NSELC
+                       |TRANSMITTED:  (13)             |NGLH   |NSM
+BOX 31, BELLPORT, N.Y. |                               |NGRNS  |NSOAS
+      11713            |FINAL STATUS:  (14)            |NGVP   |NUPB
+                       |                               |NHAPSA |NWEBE
+  (516) 286-0400       |                               |----------------
+                       |
+BOOK-1                 |
+
+PLEASE TYPE ALL INFORMATION
+
+     1. _Date of request._ Fill in date you are submitting your
+     request to LILRC.
+
+     2. _Your request #._ Libraries submitting many interlibrary
+     loan requests often number the requests consecutively each
+     month. Thus, "10-59" would indicate the fifty-ninth request
+     Library X submitted to LILRC during October. Libraries
+     making fewer requests may number consecutively through the
+     year or may choose to omit a number.
+
+     3. _Dewey No._ Supply three-digit Dewey number wherever
+     known. This is necessary for requests submitted to NYSILL so
+     they can be referred to appropriate subject referral
+     libraries. Verification will often give Dewey number,
+     usually supplied with LC cataloging in NUC and NST.
+
+     4. _Requesting library._ Name of institution submitting
+     request. Since delivery is through the LILRC driver, full
+     mailing address is not needed.
+
+     5. _User._ Name of library user for whom request is being
+     made. Some libraries file pending requests by name of user.
+     Also helpful in identifying request if there is a question
+     while it is being processed.
+
+     6. _Status._ Needed for determining eligibility of request
+     for referral to NYSILL. Indicate student, faculty,
+     professional, industry, or other.
+
+     7. _Author._ Give full name of author of monograph. Give
+     last name, followed by first name(s). Give full name
+     wherever possible, not initials. If more than one author,
+     give full names of two authors, and write "and others" if
+     there are more. If author is a corporate body, give name as
+     fully and accurately as possible.
+
+     8. _Title._ Give full title of book. If title is excessively
+     long, it may be shortened after giving first several words
+     exactly and filling space allotted with remaining key words.
+
+     9. _Place._ City of publication. }
+         are acceptable.              }
+                                      } Indicate in this space if other
+     10. Name of _publisher._         } editions are acceptable.
+                                      }
+     11. _Date_ of publication.       }
+
+     12. _Verification._ Please supply verification of all
+     information given, particularly main entry. Preferred source
+     is _National Union Catalog_, followed by CBI. _Books in
+     Print_ is not an adequate verification since information
+     there is often inaccurate or incomplete. Give full reference
+     to volume, series, date, page of verification. If request
+     could not be verified, indicate sources checked, as in: NUC
+     1968-72-0; CBI 1971-0.
+
+     If it is not possible to verify the author and title,
+     indicate _sources of reference_ such as bibliography in a
+     monograph, review article, etc. Where did the requestor see
+     this item _in print_? Supply author, title, publisher and
+     date or journal title and date, and page number on which
+     citation is found. If it is more convenient you may supply a
+     photocopy of the cited reference.
+
+     If impossible to verify or supply a source of reference,
+     indicate "zz."
+
+
+     _For LILRC use only_
+
+     13. Records information regarding request forwarded to LILRC
+     member or NYSILL or RML and awaiting response.
+
+     14. Indicates whether item has been found and delivered or
+     request cancelled.
+
+     15. Checked to indicate by NUC symbol libraries believed to
+     have needed item, on the basis of the data bank of library
+     card catalogs in microfilm or telephone confirmation.
+
+     16. Records date due of book to be returned. Left blank in
+     cases where photocopy has been supplied; photocopy becomes
+     the property of the user.
+
+
+
+
+How to be a good borrower:
+
+
+     _Educate your readers._ Explain that some materials may not
+     be available on interlibrary loan, that requests may take
+     time to fill, that renewals may not always be granted.
+
+     _Encourage_ your readers to take full notes of bibliographic
+     sources and references, to supply all necessary data, to
+     fill out a work sheet for each request.
+
+     _Screen_ requests carefully. Eliminate requests for items
+     that are too new, too popular, too inexpensive to process,
+     too ephemeral.
+
+     _VERIFY_ all citations.
+
+     _Make sure_ your teletype messages and interlibrary loan
+     forms are free from typographical errors.
+
+     _Return_ materials promptly. If a renewal is necessary, ask
+     for it before the date due. If a book is lost, notify the
+     Council and pay the bill promptly. Your library is
+     responsible for all books it borrows on interlibrary loan.
+     Books received through NYSILL should be returned directly to
+     the lending library, not to LILRC.
+
+     _Limit_ the number of items you request on behalf of any
+     reader at one time. Materials on a given subject should not
+     be monopolized by one patron in the region, and deadlines
+     and due dates must be honored.
+
+     _Notify_ us when you have a book to be returned.
+
+
+
+
+How to be a good lender:
+
+
+     _Answer promptly_ and courteously when you receive a
+     teletype message, telephone call or typed forms by mail or
+     courier. The library you supply today may supply you
+     tomorrow.
+
+     _Reciprocity_ is the key word.
+
+     Please say "_yes_" only when you are prepared to supply the
+     photocopy or volume quickly. If you cannot fill a request,
+     let us know promptly so that we may try to locate the item
+     elsewhere. It is not fair to keep any library's patron
+     waiting. A quick "No" is preferable to a drawn out "Maybe."
+
+     _Notify_ us when you have an item ready for us to pick up.
+
+     _Have items ready_ for pickup at the designated spot when
+     the driver arrives.
+
+     _Identify_ all photocopies with our request number (if
+     given) and the title and issue of the journal from which
+     they are made.
+
+
+
+
+APPENDIX A
+
+Useful tools for interlibrary loan:
+
+
+New Jersey State Library. _Interlibrary loan, photocopy and reference
+     procedures manual._
+     Copies available upon request: New Jersey State Library,
+     Interlibrary Reference and Loan Service, 185 W. State St.,
+     Trenton, NJ 08625.
+
+New York State Education Department. New York State Interlibrary Loan
+     Network. NYSILL Manual, 1970.
+     Copies available upon request: State Education Department,
+     Division of Library Development, Albany, NY 12224.
+
+Thomson, Sarah Katherine. _Interlibrary loan procedure manual._
+     Chicago, ALA, 1970.
+     May be ordered from ALA, 50 E. Huron St., Chicago, Ill.
+     69601.
+
+
+
+
+Appendix B
+
+Sample worksheets for interlibrary loans
+
+
+          Interlibrary Loan Book Request
+                                               For library
+                                               use only
+Author: -----------------------------------   -------------
+                                               Verified
+Title: ------------------------------------
+
+Publisher --------- Place & date ----------
+
+Citation sources: -------------------------
+
+      Author: -----------------------------   -------------
+                                               Requested
+      Title: ------------------------------
+
+      Page -------------  Date ------------
+
+
+
+Name: ------------------------ Phone ------
+
+Address: ----------------------------------
+
+Not wanted after: ---------------
+
+Date of request: ------- Accepted by ------
+
+
+                                               For library
+                  Periodical Request           use only
+
+                                               Verified
+
+Periodical title: -------------------------
+
+          Vol. ----- Date ----- Pages -----
+
+Author: -----------------------------------   -------------
+                                               Requested
+Title: ------------------------------------
+
+Abstracts or index used: ------------------
+
+          Vol. ----- Date ----- Pages -----
+
+Name: ----------------------- Phone -------
+
+Address: ----------------------------------
+
+Not wanted after: -------------------------
+
+Date of request -------- Accepted by ------
