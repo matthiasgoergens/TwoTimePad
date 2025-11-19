@@ -1,0 +1,2794 @@
+PROOF-READING.
+
+  A SERIES OF ESSAYS FOR READERS AND
+  THEIR EMPLOYERS, AND FOR
+  AUTHORS AND EDITORS.
+
+  BY F. HORACE TEALL,
+
+  CRITICAL PROOF-READER AND EDITOR ON THE CENTURY AND STANDARD
+  DICTIONARIES; ALSO EDITOR OF PROOF-ROOM NOTES AND
+  QUERIES DEPARTMENT OF “THE
+  INLAND PRINTER.”
+
+
+  CHICAGO:
+  THE INLAND PRINTER COMPANY.
+  1899.
+
+
+
+
+  COPYRIGHTED, 1898,
+  BY
+  THE INLAND PRINTER COMPANY,
+  CHICAGO, ILLINOIS.
+
+
+  PRESS OF THE HENRY O. SHEPARD COMPANY, CHICAGO.
+
+
+
+
+PREFACE.
+
+
+This collection of essays will show very plainly that they were not
+written with a view to publication in a book. As a result of this,
+the subject-matter is not treated consecutively, systematically, or
+exhaustively. Some references to momentary events at the time of
+writing, even, have been left unchanged.
+
+It is hoped, however, that, even with the acknowledged imperfections,
+the book may be found suggestive and useful by those to whose service
+it is dedicated in the title-page.
+
+Some of the chapters are slightly technical, having been originally
+addressed to proof-readers only; but even these are thought to be
+sufficiently general in their composition to be interesting and useful
+to authors and editors.
+
+
+
+
+CONTENTS.
+
+
+  The Proof-room                                     7
+
+  Some Practical Criticism for Proof-readers        11
+
+  The Proof-reader’s Responsibility                 17
+
+  Style and Style-cards                             22
+
+  Whim versus Principle                             26
+
+  Authorities and Opinions                          32
+
+  Authoritative Stumbling-blocks in the Study of
+  the English Language                              37
+
+  Preparation of Copy                               43
+
+  Copy and Proof-reading                            48
+
+  The Dictionary in the Proof-room                  53
+
+  The Proof-room Library                            58
+
+  The Copy-reader                                   62
+
+  Proper Order of Parts in a Book                   68
+
+  The Book Make-up                                  73
+
+  Grammar and Diction                               79
+
+  Form of Words                                     86
+
+  Spelling and Dictionaries                         97
+
+
+
+
+PROOF-READING.
+
+CHAPTER I.
+
+THE PROOF-ROOM.
+
+
+Though commonly acknowledged theoretically, the relative importance
+of good proof-reading is often practically unrecognized. Doubtless
+few of those who employ readers will assent to this averment, and
+the reason for their non-assent is also the basis of the assertion.
+Usually the proof-room is under the authority of a general foreman or
+superintendent, often not a good proof-reader himself, and who must
+necessarily devote most of his time to other matters. If the foreman
+is really competent to read proof, he will manage to secure and keep a
+force of good readers with less trouble than those have who are not so
+well fitted to judge the work done.
+
+When good work is to be done--and where is the man who avowedly does
+not desire good work?--accomplished workmen are required, not properly
+in any one department alone, but all through; and perhaps this fact
+is partly responsible for the notion, not uncommon, but erroneous and
+costly, that almost any intelligent person can read proof.
+
+Few persons realize fully the accomplishment and acuteness of
+perception necessary for the best proof-reading. He is the best
+reader who, in addition to mechanical experience and accuracy, has a
+comprehensive education and can apply it practically. Of course, we can
+not expect our reader to know absolutely everything, but he should at
+least know enough to suspect error when there is evident occasion for
+suspicion, and challenge it for the author’s attention when that is
+possible. He should have general information sufficient to enable him
+to correct absolute error when he can not refer the matter to author or
+editor--a contingency frequently arising in newspaper-work.
+
+Above all, the thoroughly accomplished proof-reader will know enough
+not to make changes in what is written when he has no right to do so.
+He will often know that what is written can not be right, and yet will
+have sense enough not to alter it without authorization. He will also
+have sense enough to assume a certain amount of authority on proper
+occasion, as in the case of an evident slip in the copy of work that
+has a set form. A good example is work like the definitions of verbs
+in the “Century Dictionary.” In these definitions the word _to_ is
+used only with the first clause. The good proof-reader will have the
+word omitted even if it does happen to be in the copy, notwithstanding
+the strictest orders to follow copy; in fact, this is so plain a
+case that a very good compositor even would not set the word in the
+wrong place. Another forcible instance comes to hand at the moment of
+writing, in a letter written by a New York proof-reader, who mentions
+_Assemblyman_ Amos J. Cummings. Mr. Cummings never was an Assemblyman.
+He is a _Congressman_, and Chairman of one of the important Congress
+committees; moreover, he is an old-time New York compositor. When he
+was an editor on a New York paper another present Congressman was
+reporting Brooklyn news for the same paper. Almost every Brooklyn item
+sent in at that time had, in the writing, parallel streets reported as
+crossing, or cross-streets as being parallel; and these errors were
+frequently corrected in the proof-room.
+
+The proof-reader who can and does make such corrections is much better
+for such work than one who merely catches typographical errors, even if
+he sometimes allows a wrong letter to pass in reading. Certainly a New
+York reader, especially a union man, should know better than to write
+of _Assemblyman_ Cummings; and it would be well for all proof-readers
+to be sufficiently up in current affairs to correct the error, though
+it would not be fair to insist upon such correction as part of the
+reader’s qualification.
+
+The present difficulty will never cease until the money value of good
+proof-reading is better recognized than it ever has been. At least
+one union in this country has always made a maximum weekly scale, and
+insisted upon classing readers with all other hands, at the same wages.
+Employers should insist upon paying as much over the union scale as
+they choose, and will always find it conducive to their interest to pay
+liberally for proof-reading and demand first-class work.
+
+If any one is fortunate enough to have a first-class proof-reader in
+his employ, he will be foolish to let that reader go, if money--within
+reasonable bounds--will keep him. Fifty men may try to fill the place
+and fail before another really competent man is found.
+
+A large proof-room should have its own foreman--not merely a head
+reader, but one actually in authority, just as any foreman should be,
+and with higher pay than the other readers have, and also with the
+chief responsibility. The room must, of course, be subject to the
+general foreman with regard to many details, whether it has a separate
+foreman or not; but, whoever is in charge, the readers should not be
+too much restricted in small, formal matters. An extreme instance that
+will illustrate practically what is meant by this arose through strict
+orders not to change anything from copy, too literally obeyed. A letter
+was missing from a word always spelled the one way, and the reader
+queried its insertion. He was an ordinarily good reader, too, who
+certainly had not the natural habit of doing anything stupid.
+
+Undoubtedly better work will be turned out where there is no
+possibility of such queries being made, for the necessity of making
+them, under orders, imposes upon the reader an unfair burden of useless
+watchfulness that inevitably rivets his attention where it is not
+needed, and draws it away from matters that demand the utmost care.
+
+
+
+
+CHAPTER II.
+
+SOME PRACTICAL CRITICISM FOR PROOF-READERS.
+
+
+A periodical highly esteemed in literary circles, in reviewing a book,
+said: “The proof-reading is so bad that we infer that its author
+could not have seen the proofs.” The publishers of the book do their
+own printing, and probably think their proof-reading is as good as
+possible, though they may realize that it is not as good as it should
+be. Many employers have had trying experiences in their efforts to
+secure good proof-readers, and such experience may have operated in
+favor of poor workmen, through sheer discouragement of their employers.
+
+An inference that “its author could not have seen the proofs,” while
+possibly natural, is hasty; for, while many authors examine their
+proofs carefully, and are reasonably quick to perceive and correct
+errors, most authors are not good proof-readers.
+
+Errors in print were quite as common as they now are when “following
+copy” was common, as it was in New York, for instance, about thirty
+years ago. One of the best offices in which a man could set type was
+Alvord’s, flourishing at the time mentioned. In it the compositor
+measured for his bill absolutely everything for which a customer paid,
+be it a cut, a blank page, or anything else. There, likewise, he was
+seldom called upon to change a letter or a point except to make it
+like his copy. Certain large offices in New York now are like Alvord’s
+only in the fact that their proof-reading is not good--and the authors
+see most of the proofs. In one important matter these offices are
+utterly unlike Alvord’s--no compositor can earn decent wages in them.
+
+Employers are largely responsible for the common poorness of our
+proof-reading, because they have not recognized the real nature of the
+work, and have insisted upon classing it as mechanical. Proof-reading
+will never be what it should be until the proof-reader ranks with
+the editor both in importance and in pay. With no more pay than that
+of the good compositor, and sometimes with less than the first-class
+compositor’s pay, the proof-reader’s position will not be adequately
+filled. Properly qualified proof-readers seldom remain long at the
+reading-desk, because they can and will do better elsewhere.
+
+Something should be done to keep the best readers as such, for they are
+all climbing up into other fields of labor where they find stronger
+inducements, both in credit and in pay. Even in the case of our large
+dictionaries and encyclopædias, almost every one of which is decidedly
+bettered by the work of some one special proof-reader, there is little
+acknowledgment of the fact, and so there is little encouragement for
+the proof-reader to remain a proof-reader.
+
+No one is surely fit to be trusted with proof-reading on particular
+work without having learned by practical experience. The best
+proof-readers must have as a foundation a natural aptitude, and they
+should have at least a good common education; but even these are not
+sufficient without practical training. One of the poorest compositors
+on a New York morning paper was very helpful in the proof-room
+occasionally, while some of the best compositors were not so good
+at reading. It is undeniable that printers themselves make the best
+proof-readers when to their technical knowledge they add scholarship.
+
+A first-class compositor is worthy of special favor, and generally gets
+it. A maker-up or a stone-hand who works well and quickly, or sometimes
+even one who does excellent work without great speed, is a treasure.
+Compositor, maker-up, and stone-hand, however, all do work that must
+be examined and corrected by the reader; and of course that reader is
+best who can also do any or all of the other work. What is said of
+the reader’s qualifications is not altogether theoretical; it is all
+in line with the practical needs of every good proof-room, and every
+employer wants a good proof-room.
+
+The correction of the evil, which is certainly a desideratum, may
+be secured eventually in one way, and that way is the one necessary
+for authors as well as proof-readers. We need improved methods of
+general education. We need more general training and development
+of the thinking power. Seldom indeed do even our greatest thinkers
+reason sufficiently. No amount of argument could prove this assertion
+beyond question, but some examples will serve a good purpose as an
+object-lesson.
+
+One of our most prominent philologists, a man of great learning,
+addressed a meeting of scholars, speaking strongly in favor of what
+he calls “reformed” spelling--which would be re-formed indeed, but is
+not yet proved to be entitled to the epithet “reformed.” Here is one
+of his assertions: “One-sixth of the letters on a common printed page
+are silent or misleading. Complete simplification would save one-sixth
+of the cost of books.” Of course, he must have meant the cost of
+printing. Even with one-sixth less work in printing, very nearly the
+old cost of binding would remain, if not all of it; and any sort of
+good binding is no small item in the cost of a book. But one-sixth of
+the space occupied by the print would seldom be saved by the omission
+of one-sixth of the letters. The magazine article containing the report
+of the address is printed with the proposed new spelling. There is
+not a line in it that shows omission of one-sixth of the letters now
+commonly used in its words. One line in a paragraph of seven lines has
+“batl” for “battle,” and if the two missing letters had been inserted
+the word “the” might have been driven over into the next line; but the
+total effect on the paragraph of all possible changes would have been
+nothing--the same number of lines would be necessary for it. Certainly
+the assertion that one-sixth would be saved was not sufficiently
+thoughtful.
+
+A recent pretentious work on the English language and English grammar
+(by Samuel Ramsey) would afford an example of loose thinking from
+almost any of its 568 pages. A few only need be given here. As to
+Danish influence on early English speech, it is said that “the
+general effect ... was to shorten and simplify words that were long
+or of different utterance, and dropping or shortening grammatical
+forms.” It should have been easy for the author to perceive that this
+sentence was not well constructed; and what can be worse in a book on
+grammar than an ungrammatical sentence? We are told that a feature of
+English construction due to French influence is “the placing of the
+adjective after the noun, or giving it a plural form--_sign manual,
+Knights Templars_.” No English adjective ever has the plural form,
+and _Templars_ is rightly pluralized simply because it is a noun.
+“No grammar will help us to distinguish the _lumbar_ region from
+the _lumber_ region,” Mr. Ramsey says. But grammar does help us by
+teaching us that _lumbar_ is an adjective and _lumber_ a noun. In
+careful speech accent would indicate the difference, which should be
+indicated in writing by joining the elements of the second term as
+a compound--_lumber-region_. In a chapter of “Suggestions to Young
+Writers,” the advice is given, “Let all your words be English, sound
+reliable English, and nothing but English; and when you speak of a
+spade call it by its name, and when you mean _hyperæsthesia_, say so.”
+If a young writer “says so” by using the word instanced, will he use
+“nothing but English”?
+
+Lord Tennyson is reported to have said: “I do not understand English
+grammar. Take _sea-change_. Is _sea_ here a substantive used
+adjectively, or what? What is the logic of a phrase like _Catholic
+Disabilities Annulling Bill_? Does _invalid chair maker_ mean that the
+chair-maker is a sickly fellow?” But Tennyson showed plainly in his
+writing, by making compounds of such terms as _sea-change_, that he
+felt, at least, that _sea_ is not used adjectively, as “adjectively”
+is commonly understood. He must have thought that the phrase whose
+logic he asked for is wholly illogical and bad English, for he never
+wrote one like it. His own writing would never have contained the
+three separate words “invalid chair maker”; he would have made it
+“invalid chair-maker” (or chairmaker) for the sense he mentions, and
+“invalid-chair maker” if he meant “a maker of chairs for invalids.”
+Tennyson certainly used English words well enough to justify the
+assumption that he knew English grammar passing well.
+
+George P. Marsh, in a lecture on the English language, said that
+“_redness_ is the name of a color,” and John Stuart Mill made a similar
+assertion about _whiteness_ in his book on “Logic.” Very little thought
+is necessary for the decision that neither _redness_ nor _whiteness_ is
+the name of a color, though each of the words includes such a name.
+
+It is not fashionable nowadays to conclude with a moral, but this
+occasion is especially enticing, and here is the moral: Every
+proof-reader who cares for real success in his profession should
+cultivate the thinking habit, and learn not to jump to a conclusion.
+
+
+
+
+CHAPTER III.
+
+THE PROOF-READER’S RESPONSIBILITY.
+
+
+Strictly speaking, the responsibility of a proof-reader, on any kind
+of work, should be very narrowly defined. In an ideal state of affairs
+it would never go beyond close following of copy in every detail. Even
+that is by no means always easy, and for a reason that should cause
+writers to be very lenient with proof-readers. This reason is that
+writers make much manuscript that is almost positively illegible, and
+are often careless in many details that should be closely attended
+to in the writing. But, since there is little ground for hoping that
+writers will ever generally produce copy that can be reproduced
+exactly, the question remains open, How much responsibility must the
+proof-reader assume?
+
+A good illustration of the legal aspect of this question is found in
+Benjamin Drew’s book, “Pens and Types,” published in its second edition
+in 1889, as follows: “In an action brought against the proprietor of
+Lloyd’s paper, in London, for damages for not inserting a newspaper
+advertisement correctly, the verdict was for the defendant, by reason
+of the illegibility of the writing.”
+
+“Illegibility of the writing” is a more serious stumbling-block even
+than most writers know it to be, although many writers do know that
+they are great sinners in this matter. Notwithstanding the fact that
+it has been a subject of wide discussion, much more might profitably
+be said about it, and it would be a great boon to printers if somebody
+could devise a way of instituting a practical reform in the handwriting
+of authors, editors, and reporters; but the incessant necessity of
+deciphering what is almost undecipherable is our immediately practical
+concern just now. What should be the limit of the proof-reader’s
+responsibility here?
+
+Some time ago a New York paper had frequent articles in a handwriting
+so bad that the compositors were paid double price for setting type
+from it. One of the compositors, in talking with a proof-reader,
+expressed the opinion that the readers had very easy work, and part
+of his reason for the assumption was the fact (as he put it) that all
+the copy was read for them by the compositors before the readers got
+it. That same evening this compositor had some of the bad manuscript
+mentioned, and for what the writer had intended as “June freshets”
+the proof-reader found in his proof “Sierra forests.” Well, the
+compositor read the manuscript first, but how much good did that do the
+proof-reader? If the latter had passed the “Sierra forests” into print,
+he would have deserved to be discharged, for any intelligent man should
+know that one of the quoted terms could not possibly be used in any
+connection where the other would make sense. That compositor probably
+knew as well as the proof-reader did that what he set did not make
+sense, but he also knew that the proof-reader would have to do better
+with it, and that, no matter how much correcting he had to do, it
+would pay him better to do it than to lose too much time in the effort
+to get it right at first. Again, the compositor had practically no
+responsibility in the matter, though the one who shows most ability in
+setting his type clean from bad copy is a better workman than others,
+and correspondingly better assured of good employment.
+
+We have said that one who passed into print an error like the one
+mentioned should be liable to discharge. This is true, because no
+person reasonably fitted to read proof could fail to recognize it as
+an error. The best proof-reader who ever lived, however, might in some
+similar cases fail to read what is written exactly as it was intended
+in the writing. Unfortunately, it is only too often the case that
+proper names or generally unfamiliar words are written more illegibly
+than common words, and names so written may easily be misprinted
+after the best proof-reader has done his best with them. Where it is
+possible, it should be the most natural thing in the world for anything
+hard to decipher to be submitted to its writer. Commonly this can not
+be done on daily newspapers, because there are so many writers who are
+not within reach, reporters especially being generally away in search
+of news; but even in the offices of newspapers, in extreme cases,
+and with caution in deciding when it is well to do so, the matter
+should be referred to an editor, for it is to the editors that final
+responsibility for the wording of what is printed belongs.
+
+What has been said seems well calculated to indicate clearly the limit
+which the writer would place in such matters upon the proof-reader’s
+real responsibility. Naturally and equitably that limit is the exact
+reproduction of what is written, as to the wording, but including
+proper spelling and punctuation. Even at the expense of repetition,
+this seems to be a good place for impressing upon writers the urgent
+necessity for plain manuscript, in their own interest; for that is the
+only sure instrument to secure beyond reasonable doubt the accuracy
+that is desired by all writers.
+
+No careful author will allow his book to be printed without reading
+it himself in proof; but this must be mainly for the wording only, as
+the printer’s bill includes pay for good proof-reading. Here matters
+are more simple as to the responsibility for getting the right words,
+as even hurried work from manuscript can generally be referred to the
+author in cases of real doubt. Occasionally this can not be done,
+but these occasions are comparatively rare exceptions. Submission of
+reasonable doubt to the author for his decision should be an important
+feature of the reader’s responsibility. It hardly seems necessary to
+dwell upon the question with regard to book-work, such work is seldom
+done without time for necessary consultation. It is in newspaper and
+job work that the greatest practical difficulty is encountered.
+
+One of the greatest annoyances to the newspaper-publisher and the
+job-printer is the fact of having to reprint gratis advertisements or
+jobs when some error has occurred in the first printing. Shall the
+proof-reader be held responsible to the extent of paying for the work?
+Only one answer is possible--No! Yet the proof-reader should not expect
+too much leniency in this respect. He must be as careful as possible.
+There is just one possible remedy for the trouble mentioned, and that
+is that employers do not expect too much of such work to be done by the
+reader, and that the reader insist upon having reasonable time in which
+to do it. Nay, the employer should insist upon having a proof-reader
+take sufficient time, in reading advertisements or job-work, to read
+closely, letter by letter; and this should be had, even at the expense
+of hiring an additional reader whenever such work becomes more in
+quantity than the force already employed can handle properly.
+
+
+
+
+CHAPTER IV.
+
+STYLE AND STYLE-CARDS.
+
+
+A New York composing-room was run for many years without a regular
+style-card, and the foreman would not allow any posting of decisions as
+to style. When, however, an advertisement was printed with _bar rooms_
+as two words, and the foreman happened to notice it, the proof-reader
+was asked sharply, “What is our style for _barroom_?” It was an
+unwritten but established law in the office that _barroom_ should be
+one word; and the foreman, in that instance, did not think of the
+probability that the advertiser had insisted upon his own form for the
+term--as, in fact, he had.
+
+In the office where this happened the workers were as little hampered
+with style as any workers possibly could be, and the foreman always
+said he would have no style; yet there certainly was a “style of the
+office,” with many absurdities, such as making _base ball_ two words
+and _football_ one word, capitalizing common words of occupation before
+names, as Barber Smith, Coachman Brown, etc. Some of the old-time
+absurdities have since been corrected, _baseball_, for instance, now
+being printed as one word.
+
+In a neighboring office the opposite extreme is exemplified, the
+style-card being so intricate that some good compositors have worked
+there many years without really learning in full the “style of the
+office.” Some of the compositors seldom do much correcting, but
+the average of time lost in making really needless corrections is
+unquestionably greater than in the office first mentioned.
+
+Book-offices also have their own intricacies of style, with the
+additional bother of having to suit the varying whims of authors
+and publishers. “Many men of many minds” write for the papers, but
+their various whims need not be humored as those of book-writers must
+be. Authors of books frequently insist upon having things their own
+way, and too often the printers have to make that way for them, in
+opposition to what the authors write. This is certainly something for
+which the authors should be made to pay. If an author is determined
+to have certain matters of style conform to a certain set of whims,
+or even of good, logical opinions, he should write accordingly or pay
+extra for the necessary changes.
+
+Nothing can be more sure than the fact that every printing-office
+must have some working rules of the kind classed as the “style of
+the office,” to which the work in general must conform, even when
+authors’ whims sometimes interfere. At present almost every office
+has some style peculiar to itself, that compositors and proof-readers
+must learn in the beginning of their experience there, and which they
+must unlearn on changing their place of employment. The greatest evil
+in this lies in the fact that many of the peculiarities are purely
+whimsical. Reformation is needed, and it is within the power of a
+body of proof-readers to devise and inaugurate a practical reform, by
+choosing from among the various items of style those which seem best
+to a majority of the readers, and requesting their general adoption by
+employing printers.
+
+Benjamin Drew’s book, “Pens and Types,” has a chapter on “style” that
+gives valuable hints for such work of reform. We are there told that
+the proof-reader “at the very threshold of his duties is met by a
+little ‘dwarfish demon’ called ‘Style,’ who addresses him somewhat
+after this fashion: ‘As you see me now, so I have appeared ever since
+the first type was set in this office. Everything here must be done as
+I say. You may mark as you please, but don’t violate the commands of
+Style. I may seem to disappear for a time, when there is a great rush
+of work, and you may perhaps bring yourself to believe that Style is
+dead. But do not deceive yourself--Style never dies.... I am Style, and
+my laws are like those of the Medes and Persians.’ And Style states his
+true character.”
+
+Among the numerous differences of style mentioned by Mr. Drew are
+some that should not be classed as style, because one of the two
+possible methods is logical and right, and the other is illogical and
+wrong. For instance, Mr. Drew says: “Here, the style requires a comma
+before _and_ in ‘pounds, shillings, and pence’; there, the style is
+‘pounds, shillings and pence.’” Such a point in punctuation should not
+be a question of style, since one way must be better than the other
+as a matter of principle. In this particular case there is not only
+disagreement, but most people seem to have fixed upon the exclusion
+of the comma before the conjunction in a series of three or more
+items, notwithstanding the fact that its exclusion is illogical and
+as erroneous as any wrong punctuation can be. The text-books, with
+very few exceptions, teach that the comma should be used; and, as said
+above, this seems to be the only possible reasonable teaching. Each
+item in such an enumeration should be separated from the next by a
+comma, unless the last two, or any two united by a conjunction, are so
+coupled in sense that they jointly make only one item in the series.
+This curious fact of common practice directly opposed to prevalent
+teaching is instanced as showing how erratic style is, and how
+necessary it is that the “style of the office” should be fully recorded.
+
+Nothing could be more helpful than a style-card, especially if it
+be made the duty of some person to add thereto each new decision
+affecting style, so that the type may be set with certainty that
+arbitrary changes will not have to be made. Conflicting corrections are
+continually made by different proof-readers in the same office, and
+even by the same reader at different times. Such things should be made
+as nearly as may be impossible, and nothing else will accomplish this
+so well as a style-card that must be followed.
+
+
+
+
+CHAPTER V.
+
+WHIM VERSUS PRINCIPLE.
+
+
+Conscientious proof-readers are often confronted with the perplexing
+problem of dealing with the whims of authors and editors. One of
+the most difficult phases of the problem arises in the fact that
+proof-readers themselves are, equally with the authors and editors,
+possessed of whimsical notions, and the two sets of whims clash.
+
+What shall the conscientious proof-reader do? He can not let everything
+go unchallenged just as it is written; if he does, he is not
+conscientious in the true sense of the word, though of course writers
+should know what they want, and should write their matter just as it is
+to be printed.
+
+The only way successfully to combat unreasonable whim is by opposing
+it with true principle; yet even this will not always succeed. When
+a clear statement of principle fails to convince a writer that he is
+at fault, of course the proof-reader must yield, often to his great
+disadvantage. All intelligent people know that printed matter passes
+through the hands of a proof-reader, and they naturally attribute to
+his carelessness or incompetency all errors in printing. Examples are
+not lacking.
+
+A paragraph in a magazine says that “the poet Will Carleton has
+established a monthly magazine, and calls it _Everywhere_.” This is
+not a true announcement of the name, as Carleton splits it into two
+words--_Every Where_--and the word is so barbarously split each time it
+is used in his periodical. Any one noticing this form _every where_ in
+print would naturally wonder why the proof-reader did not know better.
+It is a matter of personal knowledge that in this case the reader did
+know better, but Carleton stuck to his whim, saying that he had a right
+to make _where_ a noun, whether others considered it so or not.
+
+A New York newspaper says, with reference to political action, but in
+words equally applicable otherwise: “There is nothing that we know of
+in the Constitution of the United States, nor in the Constitution of
+any State, nor in the United States Statutes at Large, nor in any State
+law, nor any municipal regulation, that hinders any American citizen,
+whatever his calling or his walk in life, from making an ass of himself
+if he feels an irresistible impulse in that direction.”
+
+Every man has a right to refuse to conform to general practice and
+principle, of course; but the arbitrary whimsicality shown in writing
+_every where_, and not _everywhere_, must fail to find its mate in any
+other mind, and can be applied to suit its writer only by himself. The
+only way to work for such a writer is to follow copy literally always.
+He has not a right to expect from the proof-reader anything more than
+the correcting of wrong letters.
+
+_Everywhere_ is an adverb of peculiar origin that may itself be
+classed as whim; but this whim is in accord with principle, and the
+one that splits the word is not. Probably the word was suggested by a
+question, as “Where are certain things done?” Answers are often made
+by repeating a word prominent in the question, and so it must have been
+in this case, “Every where.” This simulated a noun qualified by an
+adjective, and the two-word form was used until people realized that
+it was not right grammatically. Many years ago the correct single-word
+form was universally adopted, and it should not be dropped.
+
+Real principle forbids the unifying in form of some words that may
+seem to be like _everywhere_ but are actually of a different nature.
+_Anyone_, _everyone_, and _oneself_ (the last being erroneously
+considered as similar to _itself_, etc.) are as bad as single words as
+_every where_ is as two words, notwithstanding the fact that they are
+often so printed. Tendency to adopt such whimsicalities of form is, for
+some unaccountable reason, very common. It is something against which
+every competent proof-reader should fight, tooth and nail, because
+it is subversive of true principle. The utmost possible intelligent
+effort will not prevent common acceptance of some forms and idioms
+that are, in their origin at least, unreasonable; but these particular
+abominations are not fully established, and there is ground for belief
+that their use may be overcome.
+
+Some Latin particles are used as prefixes in English, and have not the
+remotest potentiality of being separate English words, if the matter
+of making words is to be controlled by real principle. One of these is
+_inter_, meaning “between.” A paper published in Chicago is entitled
+the _Inter Ocean_, making the only possible real sense of the title
+something like a command to “inter (bury) ocean,” as _inter_ is not,
+and never can be, properly an English adjective.
+
+Many people are now printing as separated words such mere fragments as
+_non_, _quasi_, _counter_ as in _counter-suit_ and _counter-movement_,
+_vice_ as in _vice-chairman_, and a few others, though the writer has
+not seen _ante_ or _anti_ so treated. These prefixes are all of the
+same nature, and if one of them is treated as a separate word, every
+one of the others should be so.
+
+These are things that should be combated by proof-readers who know the
+main principles of language form, even though they know also that human
+perversity is sufficiently willful at times to persist in the face of
+all reason.
+
+Another sort of whim has full swing on the New York _Mail and Express_.
+That paper prints the name of its own political party capitalized,
+and that of the opposite party with a small initial--Republican and
+democrat. How the editors can suppose that this belittles the Democrats
+is past finding out, since it should be a matter of pride to a true
+United States Republican that he is a democrat. Such ignoring of
+language principle is silly, and belittling to those who indulge it
+rather than to those at whom it is aimed. It is, however, beyond the
+proof-reader’s province, unless the reader is sufficiently familiar
+with the editor to influence him by moral suasion.
+
+Notwithstanding the certainty that authors will be more or less
+whimsical, it is the proof-reader’s duty to do all he can to make
+the matter he reads perfect in every respect. He should be able to
+challenge anything that does not conform to generally accepted rules
+of grammar, and to state clearly his reasons for desiring to make
+changes.
+
+A thorough practical knowledge of English grammar is indispensable
+to a good proof-reader, though it counts for nothing without a quick
+eye to detect errors. If Bullions’s English Grammar had been read by
+a proof-reader as well equipped in grammatical knowledge as every
+reader should be, that book would have been cleared of one of the most
+ludicrous blunders possible. After stating that abridging is cutting
+short, examples are given, including the following: “When the boys
+have finished their lessons we will play. _Abridged_--The boys having
+finished their lessons we will play.” The second sentence is one word
+shorter than the first, but the tense is changed, and so, of course,
+the sense is changed. Real abridgment, of course, would not change the
+time from future to present; yet this is what a noted teacher does in
+each of his examples of abridgment, and it is something that a thorough
+proof-reader would have helped him not to do.
+
+A proof-reader can not afford to neglect study, if he desires the best
+kind of success. The more he studies, the better able he will be to
+distinguish between whim and principle, and to combat one with the
+other when the first is not such that he knows it can not be combated
+successfully. Proper study, also, of men and events, as well as of
+language, etc., will enable him to distinguish helpfulness from what
+may be considered impertinence in making queries. By its aid he will be
+able to give a reason with each query, in a helpful way. Many queries
+on authors’ proofs pass unanswered, or are merely crossed off, because
+their point is not apparent, or because they have been made in such a
+manner as to give offense.
+
+In proof-reading, as in every other pursuit, the closest student of
+principles and of men will ever be the most successful. Generally,
+as we have said elsewhere, our best proof-readers eventually pass up
+to an editorial chair, or into literary or other employment which
+is more remunerative than reading proof. No employment should be
+more remunerative, unless it may be some which involves the control
+or disposition of large sums of money. A more difficult or rarer
+accomplishment than that of humoring authors’ whims, while still
+preserving much essentially good matter from the chaotic form it would
+assume at the hands of unpractical writers, would be hard to name.
+
+
+
+
+CHAPTER VI.
+
+AUTHORITIES AND OPINIONS.
+
+
+It has been said that in certain points of style no two persons would
+agree in their decision. The expression is too strong, but what is
+really meant is certainly true. Almost every question of style finds
+different answers.
+
+This has been noted as an objection to the forming of proof-readers’
+associations, the objectors assuming that none of the differences
+of opinion can be overcome. A contrary assumption must be the basis
+of accomplishment, and must be proved to be true, if anything is
+accomplished. Discussion must be had, full and free; every opinion
+that finds expression must be carefully considered, and all opinions
+carefully compared, in order to select the best. With this object
+clearly agreed upon, and always kept in view, and with each member of
+the association pledged to support the decision of the majority, would
+not much good result, at least in the way of agreement in matters that
+are commonly left to the proof-reader’s decision?
+
+Except for the fact that nothing can be too foolish to find a parallel
+in history, the assertion might be made that our proof-readers could
+not be foolish enough to persist in holding individual opinions
+obstinately in the face of real proof that they are erroneous, or
+even that some other opinion is really more common and therefore
+better. An instance that happens to present itself for comparison
+is the tulipomania, or “craze for tulips,” in Holland early in the
+seventeenth century. People were so crazy then as to sell and resell
+tulipbulbs at ridiculously high prices, even to the extent of creating
+a financial panic. Human nature is the same now as then; and although
+the matter of choosing between variant spellings, or other variations
+of style, never will create a financial panic, lack of agreement in
+choice does cause much annoyance, and even in some cases loss of money,
+by stealing compositors’ time through unnecessary changing of type.
+The “stylomaniac” is as foolish, relatively, as were the old Dutch
+tulipomaniacs.
+
+Nothing could be more advantageous to a proof-reader than a full record
+of forms that could be followed without change. Such a record does not
+exist, and probably could not be made really exhaustive. It is doubtful
+whether any book or periodical ever fully reproduced the spelling
+of any dictionary, for the simple reason that lexicographers do not
+recognize the practical needs of printers. Spellings, word-divisions,
+and capitalization have never had, in the making of a dictionary, such
+analogical treatment as they must have to furnish thoroughly reliable
+guidance for printers; yet the dictionary is and must be the principal
+authority.
+
+One remarkable instance of false leading has arisen through the
+old-time omission of technical words in dictionaries. _Indention_ has
+always been the printers’ word for the sinking in of the first line of
+a paragraph, yet many printers now say _indentation_, because it was
+discovered that _indention_ was not in the dictionary. The right word
+is given by our recent lexicographers. Drew’s “Pens and Types” protests
+strongly against _indentation_, and MacKellar’s “American Printer” uses
+_indention_, which is probably an older word than the other. Old-time
+printers knew too much of Latin to put any reference to saw-teeth
+in their name for paragraph-sinkage, and _indentation_ is properly
+applicable only to something resembling saw-teeth.
+
+Printers and proof-readers must often reason from analogy in deciding
+how to spell. They have not the time to look up every word, and so
+they often differ from their authority in spelling. Every one knows
+how to spell _referee_, and, because of the similarity of the words,
+many have rightly printed _conferee_. A letter to the editor asked why
+a certain paper did this, and the editor answered that he would see
+that it did not happen again--because Webster and Worcester had the
+abominable spelling _conferree!_ Why Webster ever spelled it so is a
+mystery, especially as it violates his common practice. Why Worcester
+copied Webster in this instance is a deeper mystery, since he had been
+employed on the Webster dictionary and made his own as much different
+in spelling as he could with any show of authority. The revisers of
+the Webster work have corrected the misspelling, and the other new
+dictionaries spell the word correctly.
+
+Word-divisions are a source of much annoyance. Here again we have the
+lexicographers to thank, for no one of them has given us a practical
+guide. There are many classes of words that should be treated alike
+in this respect, and not one of these classes is so treated in any
+dictionary. Here is a short list from the “Webster’s International”:
+
+  ac-tive
+  contract-ive
+  produc-tive
+  conduct-ive
+  baptiz-ing
+  exerci-sing
+  promot-er
+  aëra-ted
+  pi-geon
+  liq-uid
+  depend-ent
+  resplen-dent
+
+The one thing needed here is simplification. We should be at liberty
+to decide, without contradiction by our highest authorities, that
+if _conductive_ is divided after the _t_, _productive_ should have
+the same division. The difference arises from a false etymological
+assumption. One of the words is held to be made of two English
+elements--a word and a suffix--and the other is treated like its
+Latin etymon. True science would take the Latin etymon as the source
+of every word ending in _ive_, and divide every one of them between
+the consonants, regardless of the fact that some such words did not
+exist in Latin. It is sufficient that they all follow the Latin model,
+as _conductivus_. Many other terminations are properly on the same
+footing, as _ant_, _ent_, _or_; they are not real English formative
+suffixes. In every word like those mentioned ending in _tive_ after
+another consonant, the division should be between the consonants. This
+would be truly scientific, as no real scholarly objection can be made,
+and it leaves the right division in each instance unmistakable, no
+matter how little may be known of Latin or etymology.
+
+Simplification is the great need in all matters of form or style--the
+easy and scientific conclusion that in all exactly similar instances
+the one reasoning applies, with the one result. The men who rank as our
+highest authorities as to spelling, and who should be best qualified
+to lead us, lack one necessary accomplishment--a practical knowledge
+of the art preservative. Their efforts now are largely devoted to what
+they call spelling-reform, but their kind of reform is _spoiling_
+reform. English spelling is said by them to be absurdly difficult
+to learn, and they say they desire to make it easy by spelling
+phonetically. The matter is one of large detail, the phonetic spelling
+has many learned advocates, and there is a true scientific basis for
+many radical changes; but what is proposed as our ultimate spelling
+will be _harder_ to learn, as it is now indicated, than is our present
+spelling.
+
+Reform is needed, but not of the kind advocated by those who now pose
+as reformers. Universal agreement on a choice between _traveler_
+and _traveller_, _theatre_ and _theater_, etc., would be highly
+advantageous; changing _have_ to _hav_, etc., is merely whimsical,
+especially as some of the “et cæteras” are not so simple as they claim
+to be--notably the arbitrary use of both _c_ and _k_ for the _k_ sound.
+
+Our philologists are not likely to do for us what we very much need to
+have done.
+
+Why should not the proof-readers do it for themselves--and also for the
+whole English-speaking world?
+
+
+
+
+CHAPTER VII.
+
+AUTHORITATIVE STUMBLING-BLOCKS IN THE STUDY OF THE ENGLISH LANGUAGE.
+
+
+Writers for publication ought to write just as their matter should
+appear in print, but often they do not. Though every educated
+English-speaking person is expected to know how to use his own language
+correctly, no one needs such knowledge more than the proof-reader
+does. Very commonly matters of form, as punctuation, capitalization,
+compounding, and almost entirely the division of words at the ends of
+lines, are left to the proof-reader’s decision. How shall he decide
+reasonably if he have not the requisite knowledge? And how shall he
+have knowledge without study? And how shall he succeed in his study if
+he use not close thought and wise discretion?
+
+The proof-reader, like every one else, must get at least the foundation
+of his knowledge through the medium of books. His practical use of
+knowledge, his faculty for instant perception of error, and his equally
+useful faculty for merely challenging what an author may wish to keep
+unchanged--all these must be acquired or confirmed by experience; but
+books must furnish the groundwork. One who desires thorough equipment
+as a proof-reader may never cease studying.
+
+Good books on the English language are plentiful, but even the best
+of them contain statements that are not beyond question. It is our
+purpose here to note a few questionable teachings, by way of warning
+against acceptance of anything simply because it is found in any book,
+and our most prominent example is from a work really good and really
+authoritative.
+
+An incident will illustrate the aim of the warning. A customer in a New
+York store, taking up a book treating of word-forms, asked, “Does it
+follow Webster?” Information that its author had not closely followed
+any one dictionary, but had made the work for the special purpose of
+selecting the best forms from all sources, caused instant and almost
+contemptuous dropping of the book. Evidently that person had no idea
+that anything in language could be right if not according to Webster.
+Undoubtedly there are to-day thousands who would instantly decide such
+a matter in just this way. Each of them has always been accustomed to
+refer to some one authority, and to think that what is found there must
+be right. Indeed, so far is this species of hero-worship carried that a
+critic, reviewing the book on word-forms mentioned above, could hardly
+find words strong enough to express his condemnation of its author,
+theretofore unknown to the literary world, for daring to criticise
+statements made by noted scholars. It is amusing to recall the fact
+that one of the heroes of this champion’s worship began his career
+in exactly the way objected to, having devoted a large part of his
+first book to severe condemnation of some famous grammarians for doing
+something that he did himself, namely, copying and preserving errors.
+
+Even yet we have not gone back to the earliest recorded condemnation of
+such hero-worship. One of the most famous of the grammarians scored
+by our preceding hero was Lindley Murray, and his stated reason for
+writing on grammar was identical with that of his critic--the work of
+his predecessors was not sufficiently accurate. Long before Murray’s
+time, also, “peremptory adhesion unto authority,” as Sir Thomas Brown
+wrote in the seventeenth century, had been “the mortallest enemy unto
+knowledge, and that which hath done the greatest execution upon truth.”
+
+Where can “peremptory adhesion unto authority” be found better
+exemplified than in children’s persistence in believing what they are
+first taught? Impressions made in childhood days certainly retain a
+strong hold long afterward, and this should be a powerful incentive
+toward giving them true impressions. One of the most popular language
+books now in use in primary schools, if not _the_ most popular, has
+conversations between teacher and pupil. Here is one: “_T._--When I
+say, _falling leaves rustle_, does _falling_ tell what is thought of
+leaves? _P._--No. _T._--What does _falling_ do? _P._--It tells the
+_kind_ of leaves you are thinking and speaking of.” Is it not simply
+astounding that our children must learn in school that _falling leaves_
+means a _kind_ of leaves?
+
+There is plenty of the same quality in books at the other extreme of
+schooling--the very popular university grammar, for instance, William
+Chauncey Fowler’s “English in its Elements and Forms,” which says:
+“While language has power to express the fine emotions and the subtle
+thoughts of the human mind with wonderful exactness, still it must be
+admitted that it is imperfect as a sign of thought. It is imperfect
+because the thing signified by a term in a proposition either does
+not exist at all in the mind of the hearer, or because it exists under
+different relations from what it does in the mind of the speaker. In
+other words, language is imperfect because the term in a proposition,
+if it has any meaning in the mind of the speaker, has a different one
+from what it has in the mind of the hearer. Hardly any abstract term
+has precisely the same meaning in any two minds; when mentioned, the
+term calls up different associations in one mind from what it does
+in another.... The phrase ‘beast of burden’ might, to one mind, mean
+a _horse_; to another, a _mule_; to another, a _camel_.... It should
+be added that there is great vagueness in the common use of language,
+which, in practice, increases its imperfection as a medium of thought.”
+
+Yes, there is “great vagueness,” and here, in passing, is an amusing
+instance of it by a well-known writer on meteorology: “All cloud which
+lies as a thin flat sheet must either be pure stratus or contain the
+word _strato_ in combination.” Did any one ever see a cloud containing
+the word _strato_ in combination? “Great vagueness” is exemplified also
+in the grammarian’s own writing, and in a connection that demands a
+full exposition of it.
+
+We need not quarrel with the expression “thoughts of the human mind”
+because we do not suppose that animals have mind; but certainly _mind_
+would be sufficient, without _human_, in discussing language. It is
+another matter, though, that the next sentence shows a constructive
+method at variance with the rules of grammar, and of a kind which the
+author himself brands as false syntax in his exercises. _Either_ in
+the sentence is not in correct construction with the complementary
+_or_; it would be if _because it_ were omitted--“because the thing ...
+either does not exist at all, ... or exists under different relations.”
+In the last clause, “it exists under different relations from what it
+does in the mind of the speaker,” _what_ is improperly used, since
+the antecedent is plural--_those which_ should have been used instead
+of _what_; the construction makes _does_ a principal verb, wrongly,
+because it is used for _does exist_ or _exists_, and even with the
+right verb another preposition should be inserted, thus--“from those
+under which it exists in the mind of the speaker.” The whole sentence
+would have been much better expressed in this way: “It is imperfect
+because sometimes a thing mentioned is either not known at all to the
+hearer, or presents associations to his mind different from those
+conceived by the speaker.”
+
+The third sentence ludicrously transposes _speaker_ and
+_hearer_--“because the term, ... if it has any meaning in the mind
+of the speaker, has a different one from what it has in the mind of
+the hearer.” Possibly the writer accidentally placed these words in
+the wrong order, and the error is one of carelessness; but error it
+certainly is, for of course the _speaker_ in every instance must
+suppose that his words mean something, whether his hearers think so or
+not.
+
+In the fourth sentence “great vagueness” is again shown. What is the
+meaning of “when mentioned”? As here used, it can mean only “when a
+term is spoken of as a term,” and that is nonsense. The sentence would
+be complete and accurately constructed without “when mentioned.”
+
+The fourth sentence also contains the only so-called imperfection which
+the grammarian mentions, “beast of burden.” Undoubtedly there are many
+possibilities of ambiguity, but this phrase, chosen to illustrate
+imperfection, is really one of the beauties of the language. It is
+absurd to suppose that any one would attribute to such an abstract
+term a concrete meaning; but even if “beast of burden” does suggest to
+one person a horse, to another a mule, and to another a camel, there
+is nothing in that circumstance to prove that language is imperfect.
+All that is _expressed_ in the phrase is “some kind of beast used for
+carrying,” and it is not said imperfectly. The imperfection is in the
+mind of the writer, not in the language--unless he can give a better
+example. If this author had omitted this section of his work, he would
+have shortened his book to the extent of half a page, and he would
+not have afforded a text for preaching against imperfection of mental
+training. If a thoroughly qualified proof-reader had suggested proper
+corrections, in the proper way, it must be that the matter would have
+been bettered; and every proof-reader should know how to make such
+suggestions.
+
+
+
+
+CHAPTER VIII.
+
+PREPARATION OF COPY.
+
+
+While it is very natural, in these days of great mechanical progress,
+that methods and machinery should be preëminent in printers’
+literature, it should not be forgotten that the “art preservative” is
+not entirely mechanical. Our presses are not fed _with_ paper until
+after the forms are fed _from_ paper.
+
+How much of the brain-work should be done by the printers, and how much
+by writers? Mr. Theodore L. De Vinne spoke as follows concerning this
+important question, at the bicentennial celebration of the setting up
+of the first printing-press in New York by William Bradford:
+
+“I want to ask the question, What is the writer doing for us? Is he
+making his copy any better? Do you get any clearer manuscript than you
+used to? So far as handwriting is concerned, I should say no. What
+we get through the typewriter is better. The copy which the author
+furnishes has not kept pace with the improvement in machinery. Yet at
+the same time the printer is asked to do his work better and quicker
+than before. We are asked to make bricks without the proper straw. Too
+much is expected of printers in regard to this matter. I have been in
+the printing-office for nearly fifty years, and during that time I have
+had occasion to handle the copy from a great many authors, and from all
+ranks and conditions of men, and I find that the compositor and the
+proof-reader are expected to do more work.
+
+“There was a time when the printer was merely expected to follow copy.
+Now, I have no hesitation in saying that if every compositor was to
+follow his copy strictly, and if every proof-reader was to imitate his
+example, and neglect to correct errors; if books were printed as they
+are written, there would go up a howl of indignation on the part of
+authors as when the first-born of Egypt were slaughtered. I say that
+too much is expected of the proof-reader. He is expected to take the
+babe of the author and put it in a suitable dress for the public. The
+author should do it. Now and then you get an idea of how badly copy is
+prepared when out of revenge some newspaper editor prints it as the
+author sends it in. The reader, when he reads that copy, printed as
+it is written, with a misuse of italics, a violation of the rules of
+composition, lack of punctuation, etc., is astonished that a man of
+education can be so careless.”
+
+Among other things following this, Mr. De Vinne said: “I wish to
+ask, on behalf of the proof-reader, a little more attention to the
+preparation of manuscript. The people who furnish the manuscript
+are not doing their share. I think it is an imposition that the
+proof-reader should do more than correct the errors of the compositor.”
+
+We may well add to this plea on behalf of the proof-reader another on
+behalf of the compositor. Although so much type-setting is now done on
+time, many compositors are still at piece-work, and there is not one of
+them who does not suffer through the gross injustice of losing time in
+deciphering bad manuscript. It is properly a matter of mere justice to
+the compositor that every letter in his copy should be unmistakable,
+and that every point in punctuation, every capital letter, and every
+peculiarity of any kind should appear on the copy just as the author
+wishes it to be in the printed work. Copy should be really something
+that can be copied exactly.
+
+Certainly such copy is seldom produced, and there are excellent reasons
+for supposing that some authors--and many among the best--will never
+furnish plain copy in their own handwriting. One of the best reasons is
+indicated by this passage from a book entitled “Our English,” by Prof.
+A. S. Hill, of Harvard: “Every year Harvard sends out men--some of them
+high scholars--whose manuscripts would disgrace a boy of twelve; and
+yet the college can hardly be blamed, for she can not be expected to
+conduct an infant school for adults.”
+
+Probably “manuscripts” refers mainly to handwriting, though it may
+include literary composition. The students have to take notes of
+lectures, and, in order to secure the largest amount of information,
+they write so rapidly that their manuscript can hardly be legible.
+Through this practice, rapid and almost formless writing becomes
+habitual.
+
+Another justification for much of the bad handwriting of authors may be
+found in the fact that the matter is more important than the form, at
+least in the first making, and writers are comparatively few who can do
+the necessary thinking and at the same time put the thoughts on paper
+in perfect form. If an author can write plainly and punctuate properly
+without losing any of his thoughts or sacrificing literary quality in
+any way, it is far better for his own interest, as well as for that of
+the printers, that he should do so; but where this is not the case it
+is necessary for some one to “put the babe of the author in a suitable
+dress for the public.”
+
+Here is the point of the whole matter: If the work of finishing is to
+be done by the printers, they should be paid for doing it. There should
+be an extra charge for composition from poorly prepared copy, according
+to the extra amount of time required beyond that necessary in working
+from copy that can be read easily and followed literally. Nearly the
+full extra charge should be added to the type-setter’s pay, unless the
+proof-reader prepares the copy before the type is set, in which case,
+of course, the extra charge should be simply for his time.
+
+Oliver Wendell Holmes, in “The Autocrat of the Breakfast-table,” says:
+“I am a very particular person about having all I write printed as I
+write it. I require to see a proof, a revise, a re-revise, and a double
+re-revise, or fourth-proof rectified impression of all my productions,
+especially verse.” A laudable desire to make his productions peculiarly
+his in all details must have been the incentive to all this work on
+proofs; but probably a close comparison of the finished work and the
+original manuscript would disclose many differences.
+
+When good printers work from manuscript that can not be misread, with
+all details of spelling, punctuation, etc., properly attended to, and
+with explicit understanding that copy is to be followed literally,
+one proof is sufficient for an author who does not have to make many
+changes in the wording of what has been written.
+
+It will pay any author to make copy showing exactly what should appear
+in print, and to make every stroke of the writing unmistakable. If
+the writer can not himself produce such copy, his manuscript should
+be carefully revised by some one else. Any person doing such work of
+revision should be very cautious in order to preserve the writer’s
+intended expression, for often even an extra comma is disastrous. This
+applies also to proof-reading. The writer should be consulted, when
+consultation is possible, about changes from copy.
+
+When authors have cultivated the habit of writing as they should write,
+or of having their copy made good for them, there will be no reasonable
+excuse for bad errors in printing. If Mr. De Vinne’s speech from which
+I have quoted, for instance, had been carefully revised by its author
+in the manuscript, a nonsensical misreading would probably have been
+avoided. One of his sentences as printed is, “We always understand how
+much the world is indebted to printing.” I have no doubt that he said,
+“We all of us,” etc.
+
+No matter what plan is followed in its preparation, copy should
+certainly go to the compositor in such shape that he can read it easily
+and follow it absolutely. This is the only just way; and it is the
+surest way to secure good work.
+
+
+
+
+CHAPTER IX.
+
+COPY AND PROOF-READING.
+
+
+In a novel published some time ago, the copy contained a great deal of
+conversation that had to be printed in short paragraphs, each chapter
+being written in one long paragraph, with no quotation-marks, and
+almost no punctuation. The compositors had the injustice imposed upon
+them of breaking the matter into paragraphs, and supplying punctuation,
+with no recompense for doing this essential part of the author’s work.
+How such manuscript could secure acceptance by a publisher has never
+ceased to be a source of wonder, as it was not written by one whose
+mere name would carry it through; but a greater source of amazement is
+the fact that so many writers can make such abominable copy as they do
+make.
+
+Certainly the writer should be the one most interested in having
+printed matter say what it is intended to say, and this can not be
+positively assured unless the written copy is accurate in form. Even
+the presence or absence of a comma may affect the sense in such a way
+that no person other than the writer can know positively whether the
+comma should be in or not.
+
+Very few writers send to the printing-office such manuscript as every
+writer should furnish, yet they all demand accuracy in the printed
+matter. Let us make a bold proposition. Why should not employing
+printers of books combine in the determination to make an extra charge
+for every alteration from copy, even to the insertion or removal of
+a comma? Why should not authors have to pay extra for the work that
+should be and is not done by them in the first instance? Even this,
+however, would not change the fact that much manuscript will not bear
+close reproduction in print. An author who was making many expensive
+alterations in proof was requested to revise his matter in manuscript,
+and returned it unchanged, saying that he could find nothing wrong in
+it.
+
+Compositors have always labored under the injustice of being expected
+to punctuate the matter they set, regardless of bad punctuation in
+their copy. How can they know better than the author should know? This
+is an injustice to them mainly because they must often change the
+punctuation in type, thus losing time for which they are not paid.
+The decision is left to the proof-reader, and even the best and most
+intelligent compositor simply can _not_ always be sure that he is doing
+what the reader will decide to be right. Other matters of style present
+the same difficulty.
+
+If any particular style is to be followed, as in capitalization,
+punctuation, paragraphing, or any other formal matter, it is not just
+to demand that piece-workers shall set their type accordingly unless
+the copy is first carefully prepared. In other words, it is a matter
+of the merest justice to compositors that ordinarily they should be
+allowed to follow copy strictly in every detail. On some kinds of work
+this is not so essential, as on newspapers, for instance, where there
+are many writers, and matter of a certain kind is always to be set in
+the one way.
+
+Publishers and editors of newspapers would be more just to all their
+workers, and probably more sure of getting what they want in style, if
+they could insist upon formal compliance at the hands of their writers
+rather than to throw the burden upon compositors and proof-readers.
+Responsibility for style does not rightly belong to the composing-room
+and proof-room; but if it must be assumed there, as commonly it must,
+every worker in those rooms should have an individual copy of a full
+and clear record of style. Those who receive work in book-offices, and
+who send it to the compositors, would certainly do well to question
+customers closely on all matters of style, especially in the case of
+anything other than plain reading-matter. It is well to have a distinct
+understanding with regard to complicated matter, and to record it when
+made, so that instructions may be clearly given to those who do the
+work.
+
+An understanding having been had with the author or publisher, the
+manuscript should go first to the proof-reader and be prepared by him,
+so that the compositors need do nothing but follow copy closely. Of
+course this will not be necessary when the author furnishes good plain
+manuscript; but in other cases, of which there is no lack, it will
+surely pay.
+
+The correction of authors’ errors is an important part of the reader’s
+duty, yet he should be very careful not to make “corrections” where
+there is a possibility that the writer wants just what he has written,
+even though it seems wrong to the reader. The proof-reader should not
+be held responsible for the grammar or diction of what he reads, except
+in the plainest instances, as there are many points of disagreement
+even among professed grammarians. Plain errors in grammar or diction,
+as those following, the good proof-reader will correct.
+
+A New York newspaper mentioned Frenchmen who “content themselves with
+sipping _thimbles full_ of absinthe.” The reader should have known
+that the men do not use thimbles for the purpose of drinking, and that
+_thimblefuls_ are what they sip.
+
+When the proof-reader had a paragraph saying that “the arrivals at the
+hotels show a falling off of over 100 per cent.,” he should have known
+that this is an impossibility, since it leaves the arrivals less than
+none.
+
+When another reader saw something about “the buildings _comprising_ the
+old brick row,” he should have corrected it to _composing_. Buildings
+compose the row, and the row comprises buildings.
+
+It would not be fair to expect every proof-reader to be thoroughly
+up in zoölogical nomenclature. No reader, though, should pass a word
+like _depuvans_ unchallenged, because that is the best he can make
+of what is written. He should ascertain in some way that the word is
+_dipnoans_, or query it for some one else to correct. On the “Century
+Dictionary” the editor struck out a quotation, “The miracles which they
+saw, grew by their frequency familiar unto them.” His pencil happened
+to cross only one word in the first line, and the next proof sent to
+the editorial room contained the passage, “The miracles which they grew
+by their frequency familiar unto them.”
+
+These are a few instances of remissness on the part of readers, the
+last one showing absurdity that should be impossible.
+
+Some things are commonly expected of proof-readers that they can not
+with any reason be asked to do. When a person whose initials are J. J.,
+for instance, writes them I. I., it is not reasonable to expect them
+to be printed J. J. A script I is one thing and a J is another; and no
+one can possibly know that the one which is written is not the right
+one when there is no clue, as there would be in Iohn. One lesson that
+writers seem bound not to learn is that proper names should be written
+plainly. When not written plainly they are very likely to be printed
+wrong.
+
+Some kinds of changes proof-readers should not make, even if they
+think the writing is wrong. When a plainly written manuscript, showing
+care at all points, contains something about the “setting up of the
+first printing-press,” this should not be printed “setting-up of
+the first printing press”; neither should _some one_ be changed to
+_someone_, though the barbarous _someone_ happens to be the “style of
+the office.” There is no good reason for making a compound of _setting
+up_, and there is no reason for making anything but a compound of
+_printing-press_; and _someone_ should certainly be removed from the
+“style of the office” and the correct _some one_ substituted. These
+two examples are selected because they were convenient, not for
+criticism merely, but to enforce the fact that, at least in a book or
+any work not containing matter from various writers, carefully written
+manuscript should be followed in every respect. Some authors have in
+this matter a just cause of complaint against printers; but it is
+really the result of carelessness on the part of authors in not writing
+as their matter should be printed and insisting upon having what they
+want.
+
+
+
+
+CHAPTER X.
+
+THE DICTIONARY IN THE PROOF-ROOM.
+
+
+It is said that Horace Greeley’s estimate of qualification for
+proof-reading called for more general knowledge than one would need in
+order to be a good President of the United States. By this he meant,
+of course, ability to read anything, from the smallest job, in the
+commonest language, to the most learned and most scientific writing,
+and to know that every thing is made right. How many proof-readers can
+do this? Not many. Horace Greeley knew very well that the world could
+not furnish such men for the proof-reader’s desk--and yet his remark
+was justifiable even from a practical point of view.
+
+A recent paragraph in a trade publication said truly that “even
+the daily newspapers use so many foreign and technical terms as to
+demand a high grade of excellence among the readers.” This was said
+in connection with an assertion that pay for the reader’s work, and
+especially for the best work, is higher now than ever before. We might
+easily show that this is not absolutely true, for very high pay has
+been given for high-class work in the years that are gone, and the
+writer of this essay can state from personal knowledge an instance of
+higher pay than the highest mentioned in that paragraph; and it may be
+well to tell of it, because it will serve as a good introduction to our
+present theme. The paragraph says that its writer personally knew of
+two men who were paid $50 a week for reading. If these men were mere
+proof-readers, their pay was very high; but it is not unreasonable to
+suppose that their work nearly approached the responsible editorial
+status. On a certain large work published many years ago a man was
+employed as proof-reader at what was then excellent pay. When that work
+was revised he was still known as the principal proof-reader, but his
+work included final editing of the copy, as well as reading the proofs,
+which latter he did in a critical way, making such changes in the
+matter as he knew were necessary. For this work he received $75 a week,
+and the only men known to the present writer who were paid as much as
+the sum first mentioned did the same kind of work.
+
+In each of these cases the money was paid because of one qualification
+that stood in place of general knowledge, rather than for the actual
+possession of such knowledge that seems to be demanded by Horace
+Greeley’s estimate. Each of these readers had at hand a good reference
+library, and knew where to look for information on any question that
+arose. The special qualification was the ability to perceive or suspect
+error of statement, and to correct it through positive knowledge, in
+many cases with no need of reference, but more frequently through
+consulting authorities. An important complement of this qualification
+is the perception of correctness as well as of error, and ability to
+leave unchanged what is right as well as to change what is wrong.
+
+Of course one who is really fitted to read proof must know how to spell
+all the common words of the language, and this is not so general an
+accomplishment as it is naturally supposed to be. Many writers are
+somewhat weak in spelling, and the proof-reader must correct their
+errors as well as those made by compositors, for often the editors can
+not take time for such work, and copy is sent to the composing-room
+just as it is written. But few proof-readers, if any, know all the
+words that may rightly be classed as common. It is a matter of recent
+experience that one who ranks among the best of newspaper readers, in
+reading market reports, changed the lower-case initial of _muscovado_
+to a capital, and thought the name was a proper noun until another
+reader, happening to have the same matter in hand, changed the
+capital letter to lower-case and was called upon to give a reason for
+it. Recently, also, a good proof-reader allowed the term “Romance
+languages” to pass as “romance languages.” _Romance_ in this use should
+not be unfamiliar, yet it was mistaken by compositor and reader as the
+common noun _romance_, which mistake should be impossible, as every one
+should know that romance is not confined to any special languages.
+
+What such people need is a good dictionary at hand and constant use
+of it. Of course no busy proof-reader, especially during the rush
+of newspaper work, can stop every few minutes to find a word in the
+dictionary--much work must be dashed off at lightning speed, or as near
+that as possible, and no sort of interruption can be tolerated, even
+at the expense of printing a few typographical errors. But how much
+more creditable it is to the proof-reader if, even in the utmost rush,
+he can detect and mark all the errors, whether time can be taken to
+correct them in the type or not.
+
+Few readers, comparatively, seem to realize the wonderful helpfulness
+of intimacy with some good dictionary, for very few of them use one
+as much as they would if they realized it. Probably most of them will
+continue to do just as they have always done--taking it for granted
+that they have no need of frequent consultation of the dictionary; but
+if something can be written that will impress even a few with a desire
+for the improvement to be attained through study of the dictionary, it
+is worth while to try to write it.
+
+Every proof-room should possess a good dictionary. Some people
+think that every proof-room of any consequence does possess a good
+dictionary, but a little inquiry would soon convince them that this is
+not so. Many readers are left to do their work without even such aid in
+the way of reference, notwithstanding it is a fact that no certainty of
+good work can be had without it, and that many more works of reference
+are indispensable as aids to the best work. There are an amazing number
+of proof-rooms that are not supplied even with an old Webster’s or
+Worcester’s Dictionary, and a great many more than there should be
+that have only one or the other of those antiquated works. Once upon a
+time they were both good works, because they were the best yet made.
+But lexicography has progressed, and we now have dictionaries that
+surpass the old ones, in every respect, as much as our new books on any
+scientific subject outrank those of our forefathers.
+
+The Century and the Funk & Wagnalls Standard dictionaries contain
+practically full records of our language in all details, almost
+sufficient to take the place of a large reference library, so far as
+the proof-room is concerned. One or the other--or better, both--should
+be in every proof-room, and the proof-reader who makes the most
+constant studious use of one or both will soon find himself on firmer
+ground than he could otherwise occupy.
+
+
+
+
+CHAPTER XI.
+
+THE PROOF-ROOM LIBRARY.
+
+
+How many proof-rooms are as well equipped with books of reference as
+they should be? The proprietors of some large establishments have
+always recognized their need and endeavored to supply it, but it is not
+far from the truth to say that very few employers, if any, have done
+all that would be profitable in this matter. A good selection of the
+latest reference books is seldom found in a proof-room, notwithstanding
+the fact that their intelligent use is one of the most important
+adjuncts of good proof-reading.
+
+Reasons could easily be found for the common lack of books other
+than a general dictionary, or that and one or two special technical
+glossaries; but it will be more advantageous to give reasons why
+proof-readers should have and use more books than most of them do use.
+
+Professional men have to read continually to keep up with progress in
+scientific knowledge. It is absolutely necessary to their success.
+Each of them, however, has a special demand for some particular branch
+of knowledge. The books these men consult are written by specialists,
+who choose their own subjects, and of course know the special words
+that must be used. A proof-reader, on the contrary, can not choose
+his subjects. He must undertake what is ready for him, whether it be
+some ordinary work, using common words only, or a scientific book
+filled with unfamiliar words. Authors of scientific works often make
+abominable copy. They do not realize that the terminology so well known
+by them is not equally well known to the workers in printing-offices,
+and the most particular words are frequently written more carelessly
+than the common words in their manuscript. Of course these authors read
+their own proofs, and most of them think they are very careful in doing
+it; but they are not trained proof-readers, and they see the words in
+full rather than the individual letters, so that a wrong letter easily
+evades their notice. When the trained proof-reader does not know the
+particular words, and has no means at hand for their verification, the
+result is bad.
+
+A pamphlet on ichthyological terminology will afford a good
+illustration. Its author wrote what was intended for “the shorter
+termination _-pidæ_ is adopted rather than _-podidæ_.” This was
+printed with dashes instead of the hyphens, “termination--_pidæ_
+rather than--_podidæ_.” The pamphlet has _Opisthrarthri_ and
+_Tenthidoidea_ instead of _Opistharthri_ and _Teuthidoidea_, and many
+other typographical errors in such words. Probably the proof-readers
+did their best to follow copy, and thought the author would be sure
+to correct such errors as they failed to find. If in each doubtful
+instance they had consulted a reasonably full list of ichthyological
+names, as they should have done, most of the errors might have
+been corrected. Proof-readers should certainly have some means of
+handling work intelligently, and the only way this can be done is by
+verification through the use of reference books.
+
+Our general dictionaries have never attempted to give full scientific
+vocabularies. In fact, the two most used--the old Webster and
+Worcester--are nearly useless in this respect, giving only the few
+purely scientific terms that had become familiar when they were made.
+Even technological terms were not freely inserted in their making.
+Later dictionaries, however, have increased their vocabularies very
+largely by adding the special terms of science. The Imperial, which
+is very much like a larger Webster Unabridged, contains many names of
+families and genera in natural history, also many special words of
+other science; Webster’s International has more of all kinds than the
+Imperial; the Century Dictionary has more than the International; but
+they all come far short of the full vocabulary of any science.
+
+Forty years ago Mr. G. P. Marsh, in his “Lectures on the English
+language,” quoted from a scientific journal a sentence containing
+thirteen botanical words that have not even yet found their way
+into the dictionaries above mentioned, one of these words being the
+adjective _cissoid_, meaning “like ivy.” He also said, in the same
+lecture: “Indeed, it is surprising how slowly the commonest mechanical
+terms find their way into dictionaries professedly complete.”
+Mechanical terms, however, as well as botanical and others, have found
+their way into dictionaries since Mr. Marsh’s time freely, but by no
+means exhaustively.
+
+Chemists and medical men string together words and word-elements
+almost _ad nauseam_, so that common dictionaries simply can not
+attempt to record all their combinations. Unless the proof-reader
+is thoroughly versed in the Greek words used by the doctors, and
+in the names of elements, etc., as used by the chemists, his only
+hope rests upon special medical and chemical works. As an amusing
+instance of what he may have to decipher--doctors and chemists are
+commonly able to write illegibly, and often do so--a few words not
+in the general dictionaries may be cited. Chemists use words like
+_aldehydodimethylprotocatechuic_--a combination of _aldehyde_,
+_dimethyl_, and _protocatechuic_. A little thought will suffice to
+perceive these elements in the ugly-looking word, and in others
+like it; but that is not equally true in the case of such a term as
+_androgynoarion_ or _engastrimythismus_.
+
+Examination of any special scientific work would disclose easily the
+fact that the proof-reader may be called upon at any moment to read
+proofs of language he does not know, and can not verify without special
+reference books. He should not be expected to do good work without such
+aids.
+
+
+
+
+CHAPTER XII.
+
+THE COPY-READER.
+
+
+Much has been written about the proof-reader and his duties and
+responsibilities, but comparatively little about his assistant,
+commonly known as the copy-holder. This name “copy-holder” is in its
+most frequent application a misnomer, and that is why we prefer to
+consider the majority of the assistants as “copy-readers,” a name,
+by the way, that is not new here, but has much local currency. Real
+copy-holders are found mainly where proof-readers work in pairs,
+one reading from the proof and the other following on the copy and
+telling when that is different from what is read. Occasionally it may
+be that proofs are read in this way by one regular reader and a mere
+holder of copy, but as a rule such work is done by a team of readers
+equal in standing, who alternate in the reading. Such is the common
+method on morning papers. On evening papers it is not unusual for the
+proof-reader to relieve his assistant occasionally by reading aloud
+from the proof, but as a rule the assistant reads from the copy, and so
+is a copy-reader. The distinction between “holder” and “reader” is not
+generally important, but is useful for the purpose of this chapter.
+
+Until comparatively a few years ago nearly all the reading of copy
+was done by boys, mainly for very low pay, as the real importance of
+the work was not yet apprehended. Now, however, we have accomplished
+almost a complete revolution, and copy-reading is understood to demand
+intelligence and quick thought of an unusual order, among young persons
+at least. The nearer a reader of copy comes to being truly qualified
+for being a proof-reader, the better for that one’s welfare, and the
+more fortunate the proof-reader who has that person as an assistant.
+That last word is just right, for a good copy-reader is truly an
+assistant to the proof-reader.
+
+Some very foolish things have been said about copy-readers, and none
+more foolish than this one from a paper read before a society of
+proof-readers: “Proof-readers complain of the bad copy _they_ have
+to study over. Who has to read that copy--the proof-reader or the
+copy-holder?” Another saying in the same paper may well be connected
+with this for consideration. It is: “I have known of proof-readers
+dozing--and even going to sleep--over proofs.” Unfortunately, the truth
+of the accusation can not be doubted; but it is really only one phase
+of something that is true of a majority of workers at anything--they do
+not always faithfully perform their duty. The copy-reader who takes the
+trouble to try to be sure that nothing is read when the proof-reader
+does not hear it is sure to be a dutiful and conscientious worker;
+yet is not even that a real duty, as well to one’s self as to one’s
+employer?
+
+Again, it is the proof-reader’s duty to know that copy is read
+correctly--not merely to make his proof conform to what he hears, but
+to know that he is making it like the copy, when it should be so, which
+is nearly always. The responsibility for getting the matter right on
+the proof properly belongs to the proof-reader always--never in the
+slightest degree to the copy-reader, with any propriety. A proof-reader
+has no real right, under any circumstances, to shield himself from
+blame by saying that “the copy-holder must have read it wrong.” Nothing
+could be meaner than that. But he must have some protection against
+such accidents, and there is a manly remedy in insisting that he shall
+be the judge of the copy-reader’s efficiency, or else that there shall
+be a distinct understanding that he must take the necessary time to
+verify what is read whenever he suspects it, by seeing the copy. In
+fact, the verification and the suspicion when necessary are very
+important to the proper performance of a proof-reader’s duty. This does
+not mean that a copy-reader has no responsibility, but only that that
+responsibility does not properly extend to the finished work. It is in
+this sense that proof-readers rightly speak of _their_ having to study
+over bad copy.
+
+Another foolish direction about copy-reading is the following, from
+Benjamin Drew’s book, “Pens and Types,” referring to the reading
+of Greek: “The method of reading will, we think, be sufficiently
+exemplified if we give but one line, which should be read by the
+copy-holder thus: Cap. K, a, grave i; t, acute u, m, b, long o
+subscript; k, r, long e, p, circumflex i, d, a; p, short e, r, acute
+i, g, r, a, ph, short e; cap. P, short e, r, s, i, k, grave short o,
+n; cap. smooth acute A, r, long e.” One of the best proof-readers
+the writer knows would not understand such mummery, because he
+does not know the Greek alphabet. Moreover, the reader who wastes
+his employer’s time in having such spelling done is defrauding the
+employer. Such work should always be compared. The main purpose in
+referring to this, however, is to note the fact that both proof-reader
+and copy-reader are much better equipped for their work if they know
+the Greek alphabet than if they do not know it. And they are still
+better off for each additional acquirement of unusual knowledge.
+
+A copy-reader will always find knowledge of any kind useful, and
+one who is ambitious and eager for advancement will be a close and
+ceaseless student, always acquiring new information, not only in books
+and periodicals, but in and from the persons and things with which
+one is surrounded. Particularly desirable is acquaintance with proper
+names of all sorts, and with important public events. So long as the
+world lasts, probably, reporters and editors, yea, and even authors
+of books, will write proper names and unusual words less legibly than
+they write common words. Even when reporters try to make names plain
+by writing each letter separately, they often form the letters, or
+write them without real form, so that little hope is left of absolute
+certainty in deciphering them. The writer has seen names in roman
+printing characters that would have been easier to read if written in
+the ordinary way with any care. Familiarity with the names likely to
+be written will enable a reader to master the writing with much more
+certainty and greater ease. In cases where no means of familiarity
+exist, as with initials of unknown persons, it frequently happens that
+the best effort of either proof-reader or copy-reader must be mere
+guesswork. If, as often occurs, a person’s initials are J. J., and
+they are written I. I., and the name is not positively known, no one
+can tell whether they will be printed right or wrong.
+
+The information that is most useful generally is that which gives
+ability to distinguish words by their meaning, and to recognize a word
+unmistakably through the sense of the other words of the sentence, or
+sometimes through a clue given in the whole context. Very few persons
+really know as much in this way as every one should know. A study of
+etymology is very useful, and the ambitious copy-reader can not afford
+to neglect it. Knowledge of the elements of words is one of the most
+helpful kinds of knowledge. So is knowledge of diction, or the right
+choice of words, and of syntax, or the right association of words. The
+writer once wrote an article in which he used “protocatechuic” as a
+test word, and wrote it as plain as any print, but the corrected proof
+sent to him had the word printed “protocatechnic,” showing plainly that
+the test had been too much for the reader. This probably resulted from
+the reader’s ignorance of the word “catechuic”; but not only every good
+proof-reader, but also every good copy-reader, should know that word.
+
+Unfortunately, there are many “cranky” proof-readers who are not
+patient with a copy-reader who hesitates while deciphering bad
+manuscript. Nine times out of ten the proof-reader himself could do
+no better, notwithstanding that the responsibility is really his,
+and that special ability in such work is one of his most important
+qualifications. Well, such a proof-reader is simply not a gentleman,
+and no remedy suggests itself. As nearly as the writer can decide, the
+copy-reader under such circumstances must either “grin and bear it”
+or find another situation. As in all relations in life, patience and
+forbearance on both sides are necessary for comfort, if not rather more
+so here than in most relations.
+
+
+
+
+CHAPTER XIII.
+
+PROPER ORDER OF PARTS IN A BOOK.
+
+
+The subject of this chapter is suggested by a letter mentioning
+differences of opinion of various authors and publishers. Without that
+suggestion the chapter would never have been written, because one
+arrangement is so common that the writer has never thought it came
+short of universality. Indeed, many books have been examined since
+receiving the letter, and all show the same arrangement. But this,
+while constituting evidence of agreement among the makers of these
+books, is really stronger evidence of the fact that even in dealing
+with commonplaces it pays to be cautious in making assertions about the
+prevalence of any practice, and especially in asserting that anything
+is universal practice.
+
+Personal experience and research fail to disclose any arrangement
+other than this: Frontispiece, title-page, copyright, dedication,
+preface, contents, list of illustrations, errata, introduction, text,
+index. Of course not all books have all of these features, and some
+books have others not here given. For instance, sometimes there is a
+publisher’s note, giving some explanation or announcement. Often that
+may appropriately occupy the copyright-page, with the copyright beneath
+it. Again, “Errata” are comparatively seldom given, but not seldom
+enough. Genuinely good proof-reading would reduce the necessity to
+almost nothing; but genuinely good proof-reading is itself a rarity.
+
+Now, using some of the caution that has been indicated as necessary, it
+must be admitted that some difference of opinion exists, and that the
+arrangement given here is not universal. What is the printer to do if
+the customer wishes some other arrangement? What is the proof-reader to
+do if he finds the parts arranged in an unusual manner?
+
+Every printer who wishes to secure and keep a reputation for doing
+good work must attend to preservation of the proprieties as far as he
+can secure that. He can not, as a rule, take the matter of arrangement
+into his own hands, any more than he can rewrite or edit his customer’s
+work. Occasionally, but very exceptionally, he may be authorized to
+change the order or even the substance of what is to be printed, but
+probably no one would attempt it without distinct authorization, unless
+it might be one of those few who can afford to insist upon having work
+done in a certain way. A printer who can dictate methods or styles,
+with the alternative that otherwise he will not do the work, must be
+one who has secured sufficient permanent custom to make it unimportant
+whether anything more is done or not. This amounts practically to an
+assertion that, within reason, the customer must be allowed to have his
+way. But most customers are amenable to reason, and it may be suggested
+that it would be well to propose a change to one whose book-manuscript
+is wrongly arranged. Consulting a few books will show a general
+practice, and this, with the statement of that practice already made
+before looking at the books, should be convincing.
+
+What has the proof-reader to do with this? Well, the careful
+proof-reader will look after all details and endeavor to get everything
+right. If authors wrote exactly as they should write--so that every
+letter and every point in their manuscript could be reproduced in
+print without a change--proof-readers need be nothing more than
+they are commonly paid for being. They would then have little to do
+beyond comparison of proof and copy, for the purpose of correcting
+compositors’ errors. Authors do not and will not prepare manuscripts
+as carefully as they should; indeed, they simply can not always do
+so, often through lack of time, and too often through inability. Many
+of them actually do not know how to punctuate, and they are not few
+who do not even know how to spell as all should know. Therefore the
+proof-reader must be qualified at all points for correcting not only
+the compositor’s work, but also that of the author.
+
+The particular matter that we are considering is not likely to come
+into question before it is taken up in the composing-room, where the
+foreman may notice the arrangement if it is wrong, and consult some one
+for authority to change it. Many foremen would be likely to make it
+right without consultation, and then the question would arise only if
+the customer directed a change on the proofs. Should the foreman not
+notice the order--most good foremen would, though--the matter would
+probably come to the proof-reader unchanged, and it is as much his
+duty to look after this as to do anything else. Unless specifically
+instructed beforehand, he should call attention to the error, and have
+it corrected if he can.
+
+Proof-readers should be able to give a reason for everything they do or
+desire to do, and in this, as in all matters, there are good reasons
+for one method and against others. Let us take the features of the book
+in order as given. First, the frontispiece. Why, of course. The very
+name places that first, as the piece for the front or beginning. It is
+the picture or piece that fronts or faces the title-page. This seems
+hardly open to question, yet the letter mentioned above did not so
+place the frontispiece, and it may be just possible that the position
+had been disputed.
+
+Equally unquestionable seems the position of the title-page. All
+writings begin with a title, so that must be the first page of reading
+in the book.
+
+As the title-page necessarily is backed by a page on which no real
+division of the book can begin, since all beginnings are made on
+odd-numbered pages, it is backed by the copyright, and the dedication,
+as being also something not connected logically with any other part,
+follows next.
+
+If there is no dedication, the preface, as merely something about the
+matter of the book, follows the copyright. Good reason is found for
+this in the fact that the preface is that which is thought necessary to
+say just before beginning the book proper.
+
+Before we begin the text, however, it is thought well to state in
+detail what is to be found in the text, so here we place the table
+of contents, always properly beginning on an odd page and followed
+logically by the list of illustrations if there is one, as that is
+itself really contents.
+
+All of these features naturally lead up to the main body of the book,
+therefore they should all come before that. This is said before
+mentioning the introduction because of the logic of circumstances. An
+introduction, as its name implies, is that which introduces the subject
+of the book. It is sometimes made the first chapter of a book, which is
+a sufficient indication of its natural position.
+
+Last of all should be the index, because it is a résumé, and that can
+not reasonably be given until we have given that upon which it is
+founded. It can be made only after the text is finished, therefore its
+natural position is after the text.
+
+
+
+
+CHAPTER XIV.
+
+THE BOOK MAKE-UP.
+
+
+Practical knowledge and ability in making up book-work are acquirable
+only through experience. The process might be clearly described in all
+its details, covering the entire range from the simplest page, of a
+certain number of lines all of the same type, to the most complicated
+congeries of different-sized type and small cuts, tables, or anything
+else, and yet the closest student of the description would never know
+how to do the work properly until he had done some of it. What is meant
+by this may be elucidated by means of a story of personal happening,
+though not dealing with any attempt at written instructions, but rather
+with assumption from observation, and possibly some little previous
+experience, on the part of a compositor.
+
+Some time ago I was foreman and proof-reader of the book-room of a
+large jobbing establishment in New York. Having a large pamphlet in
+hand, with three sizes of type, including a number of tables, and to
+be printed from the type, the make-up was left till the last, as a
+separate and special piece of work. Among the compositors were two
+with whom I had been associated more or less for years, so that I knew
+their capabilities. One of these two was first out of copy at the end
+of the job, so that, all things being equal, the make-up should have
+gone to him. All things not being considered equal, the make-up was
+reserved for the other of the two mentioned, who was not ready for it
+until most of the men had been told there was no more work for them
+just then. My old acquaintance who had been passed by said nothing
+at the time, but went out and fortified himself with fire-water and
+came back, accompanied by one of the prominent union politicians, to
+“make a kick.” His argument was that, as he was out of copy first,
+he was entitled to the making-up work, which was admitted, with the
+qualification that the office was entitled to my best effort to have
+the work done right, and so the man thought best able to do it was the
+only one to whom it could be given conscientiously, notwithstanding our
+recognition of the union, with all that that implied. This was met with
+a contemptuous sneer at the idea that anything so simple as the make-up
+should be kept for a certain man at the expense of another. “What one
+man can do another can,” said the slighted one; and thereby he exposed
+the weakness of his position, for many men can do even the simplest
+work much better than many other men. “Making up!” he exclaimed;
+“putting in a lead, and taking out a lead, and tying a string around
+the page! Making up!”
+
+Well, is making up anything more than this man said it was? Possibly
+not, except that there is a right way to do these things, and there
+are many wrong ways. Besides, the greatest objection in the case given
+was the man’s known inexperience of imposition. That objection would
+apply comparatively seldom now, as letterpress printing is done much
+less than it was. Still, practical knowledge of imposition is really as
+necessary now to the fully competent compositor as it ever was, for
+with it he is enabled to undertake work that otherwise he can not do.
+
+Before the making up is begun the size of the page must be determined.
+There is not and can not be any general rule for proportions, since
+commonly many circumstances must be considered of which the maker-up
+knows nothing, and frequently he must simply follow the directions of
+the foreman. One thing, however, the wise maker-up can always regulate.
+He should see that his page is exactly gauged to a certain number of
+lines of the type most used in the text, since that is the only sure
+guide to uniformity of length in the pages. It is not likely that any
+foreman will ever object to a slight change in the gauge for this
+purpose, if it happens that he has made or ordered one that does not
+conform to it.
+
+Positive directions for determining the size of a page have been
+published, but I know of none that will properly apply in all
+cases, notwithstanding their positiveness of expression. Following
+is what Marshall T. Bigelow says in his “Handbook of Punctuation”:
+“In determining the form of a page of an oblong shape, whatever its
+size, a certain proportion should always be maintained. The diagonal
+measure of a page from the folio in the upper corner to the opposite
+lower corner should be just twice the width of the page. This is no
+arbitrary technical rule, but is in conformity to the law of proportion
+establishing the line of beauty; it applies equally to all objects of
+similar shape, and satisfies the eye completely. A long brick-shaped
+page or book will not look well, however nicely it may be printed.
+When we come to a quarto or square page, the true proportion of the
+diagonal to the width will be found to be as 10½ : 6¼--the size of a
+good-shaped quarto--instead of 2 : 1, as in the oblong, or octavo.
+And this shape also proves as satisfactory to the eye as the former
+one. However large or small the page may be, these proportions should
+be maintained for a handsome book.” These proportions are maintained
+in the book from which we quote, but its pages would have been much
+better in shape a little narrower and a little shorter. Many handsomer
+books have pages that do not conform to Mr. Bigelow’s rule, though the
+proportions given by him are good as a general guide. A “Printers’
+Grammar” published in 1808 has “a long brick-shaped page,” and is a
+good-looking book. It says: “Should the length of the page be left to
+the discretion of the compositor, he sets so many lines as he conceives
+a fair proportion, which is generally considered as double its width.”
+The page in which this is printed is not quite twice as long as its
+width, yet it is exceptionally long for its width, judged either by
+other books of its own time or by later books.
+
+If the size of the page is not dictated by the customer--very often
+he will indicate it by means of some book whose size suits him--the
+foreman or employer will be guided by the size of the sheet and the
+amount of matter. Of course everybody knows this, but it is a part
+of the proceeding that it may be well to mention, and that may be
+dismissed after remarking that the length of the page should usually be
+such as to leave the margins nearly equal.
+
+Practice varies somewhat as to the length of title-pages, some being
+sunk a little from the top, some a little shorter and some a little
+longer than the other pages. Ordinarily they should be exactly the same
+as other pages in length. The usual title-page gains nothing by either
+shortening or lengthening. There being differences of opinion in this
+respect, however, compositor and proof-reader should learn what is
+wanted in the office where they are employed and act accordingly.
+
+When very little matter is to occupy a page by itself, as bastard
+titles, copyrights, dedications, etc., the matter should stand a little
+above the middle of the page. Practice differs here also, some books
+having such pages exactly centered, and some having them placed almost
+two-thirds of the way up. One of the best of the old-time New York
+offices had a rule that a copyright, bastard title, or anything of that
+kind should have just twice as much blank below as there was above. All
+such pages in their books looked inartistic, because of such misplacing
+of the matter, though otherwise the taste shown was excellent. The
+effect generally desired is that such matter should appear at a glance
+to be in the center of the page, and this effect is better produced by
+placing the matter actually a little higher up, but only a little.
+
+The sinkage of chapter-heading and similar pages is a matter not
+often treated in books, and for which there is no fixed rule. Here,
+again, Mr. Bigelow comes near to stating the best practice, though
+circumstances often necessitate differences, and tastes differ, so
+that it may easily happen that a customer will order a sinkage not in
+keeping with Mr. Bigelow’s rule, which is: “The first page of the text
+of a book should have about two-thirds of the matter of a full page.
+Where chapters or other divisions occur, a uniform sinkage of the same
+division should be kept up through the book. In poetry this should be
+done as nearly as possible; but allowance may be made for the different
+stanzas which occur, so that they may be divided properly. A useless
+repetition of a half-title over the first page following should be
+avoided.” There are things in this that I can not understand. What does
+the last sentence mean? What is the exact intention of the sentence
+about poetry? But the prescription of uniform sinkage is good, and for
+the commonest sizes of pages the proportion given for the first page
+is about right. For a chapter-heading elsewhere in the book the same
+sinkage as the actual blank at the top of the first page should be used.
+
+There are other points about the make-up of books that every compositor
+and proof-reader should know, but they hardly come into question, being
+always treated alike by all people concerned, and will be learned in
+the right way only through actual experience.
+
+
+
+
+CHAPTER XV.
+
+SOME QUESTIONS ANSWERED.
+
+
+Following are a few actual questions of general interest, with their
+answers, as they were given in the “Proofroom Notes and Queries” in
+_The Inland Printer_. In each instance the letter precedes its answer,
+the two being distinguished by the use of different type.
+
+
+GRAMMAR AND DICTION.
+
+=Do you write “1½ inches,” or “1½ inch”?=
+
+The difficulty in deciding this question is purely logical. Two or
+more things must be named to justify the plural verb, says Logic, and
+“one and a half” is less than two. But “one and a half” is more than
+one, and the singular verb is grammatically restricted to one only;
+therefore the grammatical rule should apply, and the plural verb be
+used with any subject that must be read as “one _and_ something more,”
+even if the something is only a fraction.
+
+
+
+=Which sentence is grammatically correct--“Ten dollars was paid,” or
+“Ten dollars were paid”?=
+
+Simply as a matter of grammar, with no deference to sense, the second
+sentence is right; but as a matter of fact, unless ten separate dollar
+coins or bills are paid, which seldom happens, “was paid” is much more
+accurate, as the real meaning is, “The amount of $10 was paid”--one
+thing that is named by the words that express its equivalent in smaller
+amounts. “Ten dollars” is logically singular when it means one amount
+of money, and so is “ten million dollars,” although grammatically
+plural; therefore it is better to use the singular verb for the common
+intention in sense.
+
+
+
+=Is it proper to say, “Nine and six is fifteen”?=
+
+Those who insist that the rules of grammar should govern all such
+expressions use the plural verb in such cases, and say “Nine and six
+are fifteen,” because the words used express more than one thing, and
+that is plurality. But the logic of it is that “the sum of” the two is
+so much, and many scholars consequently favor the singular verb.
+
+
+
+=A correspondent incloses an advertisement containing the sentence,
+“Failures is the current talk now days,” and requests an opinion as to
+its correctness.=
+
+The sentence is clearly ungrammatical, but it is not uncommon to
+violate grammar rules in this way under certain circumstances, and
+it is to be presumed that the writer thought of such circumstances,
+though he may not have done so. If he thought of a number of individual
+failures in the plural sense, and wrote “is” to go with the clearly
+plural sense of the noun, he did not express his thought correctly. But
+he may have thought of “failures” simply as one subject of talk, and
+this would at least so far justify the singular verb as to leave its
+correctness open to discussion. We may say, “‘Failures’ is the subject
+of his lecture,” and reasonably expect that no one will criticise the
+expression. Here are three such sentences, noted within a half-hour’s
+reading while having our correspondent’s question in mind: “The revived
+Olympic games is the subject of two articles.” “A thousand shares of
+short interest is one result of the raid.” “A few doses is sufficient.”
+The late Prof. William Dwight Whitney, author of “Essentials of English
+Grammar,” decided, while editing the Century Dictionary, that “two and
+two is four” is better than “two and two are four,” because the full
+sense is “the sum of two and two,” or something similarly unifying the
+idea of “two and two.” The sentence above questioned would be better
+if written, “Failure is the current talk,” but “now days” instead of
+_nowadays_ is much more criticisable than the verb.
+
+
+
+=Which of the following sentences are correct, and by what rule?
+“Please state whether one or six bottles is desired.” “Please state
+whether one or six bottles are desired.”=
+
+In this question as written there is an erroneous use of the
+plural that is not at all questionable. “Which ... _is_ correct”
+should have been written. Only one is contemplated, as a choice,
+by “which,” therefore the verb should be singular. In the sentence
+inquired about _are_ is the proper verb, because the plural subject
+immediately precedes it, and the singular verb agreeing with “one”
+is understood, not expressed. Logical fullness of expression would
+demand something like “whether one bottle is or six bottles are”; but
+that is plainly undesirable. The rule is that in such cases the verb
+should agree with its immediate subject. Objection to the plural verb
+in the other sentence does not conflict with this rule, because, the
+pronoun “which,” meaning “which sentence,” is the direct subject,
+notwithstanding the intervention of other words between it and the
+verb.
+
+
+
+=I inclose two clippings from papers, which I have numbered (1) and
+(2). Will you kindly inform me if these two sentences are grammatically
+correct as printed? If not, please explain why. (1) “He made many
+friends, but all were in moderate circumstances, and none wanted to
+know any other language than their own.” (2) “This thing is so simple
+and so clear in my own mind that I can not see how any one can think
+differently; but if anybody does, I would like to hear from them.”=
+
+The first sentence can not rightly be utterly condemned, although
+“none” is simply “no one,” and so is primarily singular. It is not
+uncommon to use the word with a plural pronoun or verb, as including
+more than one, and it is not wrong to do so. It would undoubtedly be
+right, however, to say “none wanted other than his own.” The second
+sentence is positively and unqualifiedly bad, notwithstanding the
+fact that the error is a very common one. “I would like to hear from
+him” would be right. In cases like both of these (supposing that one
+prefers the singular pronoun in the first) it is preferable to use the
+masculine singular, despite the inclusion of women among those meant by
+the other words, because it agrees in number, and while it means a man
+and not a woman, “man” is inclusive of women, though it is essentially
+a masculine word.
+
+
+
+=Will you kindly inform me whether the subjoined sentence is wrong?
+“The events in Field’s life--his birth at St. Louis in 1850; his
+education at Williams, Knox, Amherst, and Missouri State Universities;
+his connection with the St. Louis _Journal_, Kansas City _Times_,
+Denver _Tribune_, and Chicago _News_; and his rise in journalism--were
+sufficiently commented upon at the time of his unfortunate death a
+little over a year ago to require special mention now.” It is claimed
+by a literary friend that the word “not” should be inserted after
+“ago,” making the phrase read “not to require special mention now.”
+I maintain that the clause beginning with “to” is a clause of result.
+For substitute the word “enough” for “sufficiently”--which means the
+same--and see how it reads: “The events in F’s life ... were enough
+commented upon at the time of his ... death ... to require special
+mention now.”=
+
+The sentence is incomplete without “not” after “ago,” or a
+corresponding change, as “to require no special mention.” Its intention
+is that no mention is now required, and why not say so? Substitution
+of “enough” for “sufficiently” makes no difference, and I must confess
+that I do not know what “a clause of result” is, as I never heard
+of one before, at least with any meaning that is at all fitting for
+anything that can be intended here.
+
+
+
+=Many authors, especially those who dabble with statistics, use
+the words “native language.” On consulting the Century Dictionary,
+under the head “Native,” I find the following definitions: “3. Of or
+pertaining to one by birth, or the place or circumstance of one’s
+birth; as, native land, native language. 4. Of indigenous origin
+or growth; not exotic or of foreign origin or production.” Now,
+will you kindly explain the native language of a person born in
+Switzerland, where it is stated that in one canton the language used is
+Italian, in another German, and in still another French? Likewise of
+Alsace-Lorraine, which at one time is a part of France and at another
+time is an integral portion of Germany? Then, let us take Brazil. A
+person born in that country is called a Brazilian, yet speaks the
+Portuguese tongue. Colonization, also, leads to a strange condition of
+affairs. When this country was settled there were several languages,
+yet English became the predominant one. Still, if I am not mistaken,
+English is not of indigenous origin or growth here. While I am well
+aware that the words have been used by some of the best writers, I am
+still of the opinion that it is not strictly correct, and that some
+other expression might be used. As an example, I will state that I saw
+recently a case where it was printed that a child was born in Canada of
+Italian parents and that he could read and write his native language.
+What is his native language?=
+
+One’s native language is that to which he is born--that is, it is
+the one he acquires most naturally, being, of course, his parents’
+native speech, wherever he may be born. Dictionaries can not multiply
+definitions for every possible mutation of human affairs. The
+definitions quoted are absolutely right, even if various languages are
+spoken in one country. An Italian Swiss’s native language is Italian;
+in Alsace-Lorraine the native language of some of the people is German,
+and that of others is French; in Brazil the native language of natives
+is Portuguese. The second definition quoted has no connection with
+languages, except that of the kind shown in saying that “the native
+languages of America are the Indian languages”; it is not intended for
+the case in question. Our native language is English, not primarily
+through the place of our birth, but because of the circumstance that
+we are born to that language, born of parents who use it and from whom
+we instinctively acquire it. In the last case noted--the child born in
+Canada--the native language is Italian. No reasonable objection to the
+expression seems possible.
+
+
+
+=Would you say, “About one person in ten doesn’t know that their
+neighbors are saving money,” or do you think “his neighbors” better?=
+
+“His” is decidedly better. It is never right to use a singular noun
+and a plural pronoun, or any other disagreement in number. It seems
+advisable in a case like that of the question here to say “About one
+man in ten,” etc., because it is a business matter, and presumably
+men are principally concerned. However, if generalizing by the noun
+“person” is preferred, that need not lead to the real grammatical error
+of using a plural pronoun. Of course a person may not be masculine, and
+that is why so many people make the error in number--to avoid supposed
+conflict in gender. But “man” is sufficiently generic to include all
+mankind, and the fact of its being masculine in gender, and demanding a
+masculine pronoun, need not be considered an insuperable objection to
+its use in the inclusive sense. All readers would know that the mere
+matter of general expression did not exclude women and children from
+business dealings. Changing “man” to “person,” though, still leaves the
+masculine pronoun good, for grammar demands agreement in number, and it
+has been custom from time immemorial to use in such cases the word that
+denotes the supposedly stronger sex. Thus we should say, “The animal
+draws his load better under certain conditions,” in a general sense by
+no means precluding the female animal from consideration; and why not
+“the person” also? We are the more willing to discuss this matter now
+because of a recent revival of the silliness that would have us use the
+ridiculous word “thon,” meaning “that one,” in such cases. Here is the
+latest outcropping of this nonsense: “We are prone to prefer the new
+words to the old, and many men and women find a pleasure in introducing
+a word not familiar to the average individual. Such a word is ‘thon,’ a
+contraction of ‘that one,’ proposed in 1858 by Charles Crozat Converse,
+of Erie, Pennsylvania, as a substitute for the clumsy combinations ‘he
+or she,’ ‘him or her,’ etc., as in the sentence, ‘The child must be
+taught to study thon’s lesson.’ The word is so convenient that it is a
+wonder that it remains new to most people. The want of it caused the
+United States Supreme Court once upon a time to render a decision that
+‘his’ in a law should be construed ‘his or her,’ so that women might be
+as amenable to the law as the male lawmakers themselves. This ruling
+allows writers of laws to avoid the use of ‘his or her,’ etc., every
+time a personal pronoun has to be used. But in every-day use the ruling
+of the courts does not count, and we need to use ‘thon’ every day of
+our lives.” It was not the want of any such abominable formation as
+“thon” that led to the court decision, but that decision merely fixed
+in law what had always been a real principle in language. With correct
+understanding of language facts, no one ever need say “his or her,” for
+“his” alone is really sufficient. The abomination “thon” remains new to
+most people because there is absolutely no need of it.
+
+
+
+FORM OF WORDS.
+
+=Is it possible to construct the following sentence so as to give
+three distinct and separate meanings without changing the wording?
+The sentence is, “Twenty two dollar bills weigh as much as a silver
+dollar.”=
+
+Yes. Twenty-two dollar bills, twenty two-dollar bills, and
+twenty-two-dollar bills (though there is no bill issued for $22).
+
+
+
+=Please explain the correct manner of compounding the following
+adjectives: “Life-insurance company,” “fire insurance company,”
+“tornado insurance company.” I am under the impression that they
+should be used as written above, for this simple reason, namely: In the
+first instance it is possible to place an insurance upon your life, and
+therefore the two adjectives adhere and become compound. In the latter
+two cases it is different--you do not place insurance upon fire or
+tornado, but you insure _against_ them, and you do not insure against
+life; therefore, in the last two instances, the two adjectives do not
+adhere directly and should not be used as compound adjectives. I would
+also like to inquire further, if either of the above is incorporated
+in the full name of an organization, should they in any such case be
+compounded?=
+
+If compounding occurs in any of the terms, it should in all, as
+they are exactly alike grammatically. Difference of meaning in the
+understood prepositions should not affect the forms. No compounding is
+really necessary, although the terms are compounds etymologically. If
+we tried to compound every term that could be reasonably joined in form
+no dividing line would ever be reached. Usage, especially in the names
+of corporations, is against compounding in these cases.
+
+
+
+=A large book is now in press (about 150 pages having been
+electrotyped). Throughout these pages the apostrophe and additional
+_s_ were used in names ending with _s_, viz., Lewis’s, Parsons’s,
+Adams’s, etc. Proofs are now returned with final _s_ deled, which
+fact leads the Autocrat of the Composing-room (the Chairman) to arise
+and assert that “while the practice may be correct, it is behind the
+times,” “all good enough fifty years ago,” “won’t go in _good_ offices
+nowadays,” “never used in first-class work,” closing with the remark
+that he doesn’t see why it is not used in griffins’ [griffins’s] heads
+(!), Orphans’ [Orphans’s] Home (!), calmly ignoring the fact that in
+the first instance a common noun, plural, is used, and in the latter
+a proper noun, same number. The reader contends that the apostrophe
+and additional _s_ as marked are correct, and refers to the Harper
+publications, _Scribner’s_, the _Century_, and the work of any _good_
+printing house. Who _is_ right, or which is right (all questions of
+“style” aside)?=
+
+That Chairman evidently does not know the difference between singular
+and plural, or at least does not know the grammatical distinction of
+the forms, that has been just what it now is for more than fifty years.
+“Adams’s,” etc., are the right forms, beyond any possible reasonable
+objection; the only difficulty is that some people will not use the
+right forms, and have been so thoroughly drilled in the use of wrong
+forms that they insist that the wrong ones are right.
+
+
+
+=Please tell me what kind of mark (if any) should be placed after 4th,
+21st, and like words used in a sentence where if the word were spelled
+out there would be no mark; as, “On the 21st of September.” My opinion
+is that the form is not an abbreviation. It certainly is a contraction,
+but nothing seems left out.=
+
+No mark should be used. The opinion that the form is not an
+abbreviation is a good opinion, because there is no abbreviating.
+Abbreviating is done by leaving off a part of the word, and it is
+commonly shown by using a period at the end of the short form; but some
+short forms, while they really are abbreviations, are not technically
+known as such, because they are quite properly included in another
+category, that of nicknames or merely short names. In this latter class
+are “Ed,” “Fred,” “Will,” etc. In the ordinal words of our question
+there is no cutting off from the end, but only substitution of a figure
+for the numeral part of the word, with the same ordinal termination
+that is used in the word when spelled out. How can anything “certainly”
+be a contraction when nothing seems left out? A contraction is a form
+made by leaving out a part from between the ends and drawing the ends
+together, commonly with an apostrophe in place of the omitted part,
+as in “dep’t” for “department”; but some real contractions are known
+as abbreviations by printers, because they are printed in the form of
+abbreviations, as “dept.,” which is often used instead of the other
+form. The dates with figures certainly are _not_ contractions, as there
+is no omission, but mere substitution of a figure for the corresponding
+letters. Possibly the doubt arose from the fact that the Germans do
+make abbreviations of ordinal words by using a figure and a period,
+omitting the termination, as “21. September,” which shows plainly why
+the point is used.
+
+
+
+=In reading the proofs of a bicycle catalogue recently the writer
+compounded the words handle-bar, tool-bag, seat-post, etc., on the
+ground that they were all technical terms in this connection and were
+therefore properly compounded. For this action he was criticised, his
+critic claiming that handle-bar is the only proper compound of the
+three words mentioned, inasmuch as neither the bar nor the handle is
+complete alone, while in the other cases named the parts are complete
+by themselves. Will you kindly give your opinion on this matter?=
+
+The words mentioned are compounds, though they are more frequently
+printed in the wrongly separated form than in their proper form. Mere
+technicality, however, is not a good reason for compounding any words.
+It is the fact that “handle” and “bar” are two nouns joined to make a
+new noun that makes them become one word instead of two. “Handle-bar”
+is no more technical than “spinal column,” for instance, is anatomical
+(another kind of technicality), yet the first term is one word and
+the other is two. In the latter term the first word is an adjective,
+fulfilling the regular adjective office of qualifying. The other name
+has no qualifying element, being a mere name, representing the phrase
+“bar used as a handle.” How any one can imagine such a difference
+as that neither the bar nor the handle is complete alone, while in
+the other cases named the parts are complete by themselves, passes
+understanding. The circumstances are identical--two nouns in each case
+joined to make a new noun representing such phrases as “bag used to
+hold tools,” “post to support a seat,” etc. Even the accent as heard in
+the first part of each name truly indicates compounding. The principle
+is exactly the same as that which made the Greeks and Latins join two
+nouns in one, through which we have “geography,” which is no more truly
+one word than is its literal English translation, “earth-writing.”
+
+
+
+=One of our printers, in setting up a job, came across the words “large
+tobacco firm.” He felt sure a hyphen should be used after the word
+“tobacco,” so it would not be understood as a large-tobacco firm. To
+please him, I told him to put it in, but told him its absence showed
+that the tobacco firm was large, and not the tobacco. What do you do
+with such words as “honey crop”? I compound it when it means the first
+stomach of the bee, but not when the word “crop” means harvest.=
+
+Certainly, if any hyphening is done in the first words instanced, it
+must be that which is mentioned; but none is necessary, and probably
+few persons would ever think of it. Our correspondent seems to have
+given a hasty answer to the question, as in fact it is not strictly
+true that the separated words show that the firm is large, and not
+the tobacco. It would seem more accurate to say that no one (speaking
+generally) would misunderstand the separated words, because the natural
+conclusion is that the firm does a large business. On the contrary, if
+the actual intention should be that the firm dealt in large tobacco,
+that fact would be fixed beyond question by making a compound adjective
+“large-tobacco.” The distinction between “honey crop” and “honey-crop”
+is excellent. A principle is illustrated by it that would be worth a
+great deal to everybody, if only it could be established and widely
+understood and applied. It is difficult to state it clearly, although
+the two kinds of meaning seem to show a very plain difference, that
+might easily be less apparent in a sentence containing only one of
+them. We can not say that “honey” is a true adjective in the separate
+use, but it comes much nearer to the true adjective force in one use
+than it does in the other. “Honey-crop” for the stomach, as “the
+crop (stomach) in which honey is stored,” is simply one noun made by
+joining two nouns. “Honey-bag” is the word given in dictionaries for
+this. All the grammarians who ever wrote about this subject say that
+in our language two nouns so used together simply to name one thing
+become one word (meaning merely that they cease to be two words in
+such use). Of course there is much disagreement, and it does not seem
+probable that everybody will ever write all such terms alike; but it
+is absolutely certain that some compound words of such make are as
+fully established as if their elements were not usable separately,
+and it seems impossible to distinguish in any reasonable way between
+one such name and any other. In other words, if “honey-bag” is a
+compound--and it is, no matter how many or what persons write it as
+two words--“mail-bag,” “meal-bag,” and every similar name of a bag is
+a compound; and if names of bags, then likewise every similar name of
+anything else is a compound.
+
+
+
+=The appended clipping is from a proof of a college publication, and is
+part of a class history. It appears as it came from the compositor’s
+hands. The editor of the annual in which it will appear submitted
+the first of my questions (indicated below) to the president of his
+college, and though the latter enjoys considerable local prominence
+as an educator and a Greek scholar, yet was he unable to enlighten
+us upon this point. “In oratory we have shown our powers, and look
+forward to the time when the Demosthenes of ’Ninety-eight will sway
+senates and our Ciceros the political world.” What is the plural form
+of “Demosthenes”? The plural is clearly the form the author had in
+mind while writing it, but I am ignorant of either rule or authority
+governing such cases. Would you prefer reconstructing the sentence? To
+cover our ignorance somewhat, I suggested the following: “In oratory
+we have shown our powers, and now look forward to the time when
+’Ninety-eight’s disciples of Demosthenes will sway senates, and its
+Ciceros the political world.” In the word “Reinoehl” (a proper noun),
+should the diphthong be used? I stated that it should not be used, and
+was contradicted by the editor of this same publication, who said that
+the president of the college maintained that the diphthong was correct.
+Though I could quote no authority, yet I believe I am right. The word
+is a German one, as you will have noticed. The words Schaeffer, Saeger,
+and Steinhaeuser appear without the diphthong on the same page with the
+word Reinoehl, yet they passed unchallenged by the editor. Would they
+not come under the same head as the one mentioned first?=
+
+The quotation does not seem to show positively that a plural was
+intended. As there was only one Demosthenes sufficiently famous for
+the comparison, so the writer might mean only the one best oratorical
+student. It is not an unnatural inference, though, that the plural was
+intended. The plural form of “Demosthenes” is “Demostheneses.” Why
+hesitate over that any more than over “Ciceros”? A regular English
+plural is as good for one as for the other. Greek common nouns with
+the termination _es_ form the plural by substituting _æ_ for that
+ending, as “hoplites, hoplitæ; hermes, hermæ.” Our second example is
+originally a proper name, but was and is used as a common noun, meaning
+a bust that may or may not represent the god Hermes; but this is not a
+good argument in favor of a Greek plural of “Demosthenes.” The change
+suggested is not good, because “disciples” is not meant, the intention
+being merely to note a similarity, and not a studied imitation: In the
+German name separate letters should be used, as they represent umlaut
+interchangeably with a double-dotted vowel without the _e_; thus,
+either “Reinoehl” or “Reinöhl” is right, but “Reinœhl” is wrong. The
+college president must have had the umlaut character (ö) in mind, not
+the ligature (æ), in answering the question. All the names mentioned
+are amenable to the same decision; what is right in one is right in all.
+
+
+
+=An advertisement writer brought to the office, a few days since,
+copy for an advertisement for a certain complexion soap in which the
+word which is underlined occurred: “Combined with the _emollience_
+of cucumber juice.” The proof-reader queried the word to the
+author, informing him that it could not be found in the dictionary
+(International, 1891); his response was that the word expressed the
+idea intended to be conveyed better than any other that he knew of, and
+therefore he should use it, regardless of the dictionary. I have since
+examined the Century Dictionary and fail to find the word. The question
+arising in my mind is, Should the proof-reader endeavor, when the
+author is present, as he was in this case, to induce him to use a word
+for which authority can be produced, or should the author be allowed,
+without a word of protest, to coin words at his own sweet will? It
+seems to me that the proof-reader should not be required to blindly
+follow an author in a case of this kind after he has satisfied himself
+that there is no warrant, except the whim of the author, for the use of
+such words.
+
+Not long since, in reading a catalogue of road machinery I noticed
+“barrow-pit.” Being somewhat in doubt whether it should be compounded,
+as already written, or two words, I consulted the International, and
+also the Century Dictionary, but failed to find the word in either,
+finally concluding to use the hyphen. Which is correct--barrow-pit, or
+barrow pit, or barrowpit? My preference is for the use of the hyphen.=
+
+The writer was perfectly justifiable. If no word not in a dictionary
+could be used, the language could not grow, and there would be many
+ideas left inexpressible, for want of words. Johnson’s dictionary
+contained many more words than any preceding work, and each new
+dictionary since issued has increased the record. This could not have
+been done if people had not used new words. Although “emollience” is
+not in any dictionary, there is sufficient authorization in the fact
+that -ence is used in forming nouns from adjectives in -ent, something
+that any one may do at any time, just as one may add -less to any
+noun, as “cigarless,” having no cigar. Emollience is the only possible
+single word for “character of being emollient (softening).” This is not
+properly a case of “whim.” The only proper restriction against such
+neologism is that it should not be indulged unnecessarily, as when
+there is already existent a good word for the sense to be expressed.
+
+“Barrow-pit” is the only form that principle and commonest usage
+will justify for this word--but the same principle gives also
+“advertisement-writer,” “complexion-soap,” “cucumber-juice,” and
+“road-machinery,” each of which you write as two words. Your decision
+to use the hyphen in “barrow-pit” is in accordance with all text-book
+teaching on the subject, and unless such teaching is applicable in all
+strictly similar cases it is _all bad_. It can hardly be necessary to
+reach any such pessimistic conclusion as that expressed in a letter
+from a country superintendent of schools--“I do not know anything about
+it, and I do not believe any one else does.” Our grammarians are not
+all idiots. What possible principle could justify such a difference
+as “advertisement writer” and “proof-reader” (for “one who writes
+advertisements” and “one who reads proof”)? If one of them is one
+word, the other also is one, the only difference being that some such
+familiar short words are written without a hyphen.
+
+
+
+=You in a recent edition, speaking of Roman type, used lower-case
+_r_. We write to ask what, if any, warrant you have among grammarians
+or lexicographers for the lower-case initial letter in an adjective
+of this class. Would it by the same authority be proper to use a
+lower-case in the word “Parisian,” “Chicago” used as an adjective,
+etc.?=
+
+No rule as to capitalizing has wider acceptance or better basis in
+principle than that an adjective derived from a proper noun should
+be capitalized, and “Roman” is such an adjective. However, in the
+connection this word has in the matter with which we are dealing,
+the lower-case letter is not wrong, though “parisian,” “chicago” in
+any use, or any other such use of a lower-case initial letter would
+be wrong. Reasons will be given after some authorities are cited.
+The “Century Dictionary” says: “Roman, _a._ ... [_l. c._ or _cap._]
+Noting a form of letter or type of which the text of this book is an
+example”; also, “Roman, _n._ ... [_l. c._] A roman letter or type, in
+distinction from an _italic_.” The “Standard,” under the noun, “[R- or
+r-] A style of ceriphed type. ... also, a black gothic letter, etc.”
+The “Imperial,” the standard Scotch dictionary, says of the adjective,
+“applied to the common, upright letter in printing, as distinguished
+from _italic_,” and of the noun, “A roman letter or type.” Benjamin
+Drew, in “Pens and Types,” page 199, in speaking of specimens of
+old-style type given in his book, says: “The next is a Fac-simile of
+four roman and three italic Lines.” He says on page 57, in introducing
+two lists of foreign words: “The roman list is destined to be
+continually lengthening, while the italic, save as it receives new
+accretions from foreign sources, must be correspondingly diminishing.”
+Webster and Worcester missed the point of distinction in usage that was
+discerned by the other lexicographers, and they capitalize “Roman” and
+“Italic.” The questioner does not say anything about “italics,” used
+in the same paragraph with “roman,” yet evidently the two words should
+be treated alike. In fact, neither word in this use has its literal
+sense, nor conveys a thought of Italy or Rome. When this literal sense
+is expressed the words should be capitalized, just as “Parisian” and
+“Chicago” should be. Webster actually says that “Roman” means “upright,
+erect,” which is plainly not a meaning showing connection with a proper
+noun, and, in fact, is not a true definition for the word with which it
+is given. The word has no real sense other than its literal one, but
+the literal allusion is so far removed from conscious apprehension in
+the printing use that it is proper and prevalent usage to write it as
+a common noun or adjective, just as such form has become prevalent in
+many other cases, as--
+
+  boycott
+  bowie-knife
+  badminton
+  gothic
+  herculean
+  protean
+  china
+  india-rubber
+  ampere
+
+Have our correspondents ever noticed these words in books? The writer
+of this answer has no hesitation in asserting that “italics” and
+“italicize,” which have far more literary use than “roman,” will be
+found with a lower-case initial much more frequently than otherwise;
+and the same is true of “roman” in printers’ use, which must be looked
+for mainly in printers’ books. What is here said, however, should not
+be applied too strictly; the word in question should be capitalized in
+special work such as that of our correspondents, where probably all
+similar words have capitals, as Gothic, Doric, Ionic, etc.
+
+
+
+SPELLING AND DICTIONARIES.
+
+=Kindly permit me to make a few comments. As to “honour, fervour,
+ardour,” etc., you say that “undoubtedly the American way (_i. e._,
+honor, etc.) is better than the other, historically as well as
+economically.” I suppose that “economically” means the saving of one
+letter; that I do not consider as worthy of note at all. As to the
+historical point, the words in Latin are all “honor, ardor, fervor,
+labor, color,” etc.; but then in French, through which they came into
+English, they are “honneur, couleur,” etc., so that it seems to me that
+the _u_ is historically defensible.
+
+“Sceptical” or “skeptical”--a matter of indifference; the hard
+_c_ represents the Greek kappa in any case. I suppose you spell
+“speculator,” yet the Greek is σπεκουλάτωρ; so “sceptre” is the Greek
+σκήπτρον. So we might write “spektakle” if we cared to do so; indeed,
+many Greek scholars do use _k_ where ordinary people would use _c_, as
+“Asklepiad, Korkyra,” etc.
+
+“Ascendant, ascendancy”--the usual plan is to take the letter found
+in the supine of the Latin verb; thus, “dependent,” from Latin
+“dependens,” “intermittent,” from Latin “intermittens,” “dominant,”
+from Latin “dominans,” and so on. On this plan “ascendent” and
+“ascendency” would be right, as “scando” and “ascendo” make “scandens”
+and “ascendens.”
+
+You say, “Each of the large dictionaries is worthy of acceptance as
+final authority in every instance.” Not by everybody, by any manner of
+means. There are many better scholars than the dictionary-makers. Would
+you expect Mr. Gladstone, John Ruskin, Andrew Lang, Archbishop Temple,
+Bishops Lightfoot and Westcott, Dean Farrar, and many others to accept
+the dictum of a dictionary man in every instance? Why, I do not do it
+myself. Indeed, though I possess Greek, Latin, and French dictionaries,
+I have never possessed an English one, and do not much regard them or
+the people who think them infallible. Educated people in England have
+no such opinion about dictionaries; in fact, they consider _themselves_
+the source of authority in matters of usage and pronunciation. Oxford
+and Cambridge men and members of the educated classes in England are
+the sole arbiters in such matters; there is no appeal against them.
+Richard Grant White thoroughly grasped this and expressed it very well.
+Just as all classical scholars try to write Attic Greek, _i. e._, the
+Greek of the inhabitants of one Greek city, and entirely disregard
+the millions of other Greeks (even though so eminent as Homer and
+Herodotus), so all English-speaking people should model their language
+on that of the educated classes of Great Britain.=
+
+“Economically,” as used in the article criticised above, meant the
+saving of one letter, and as many scholars, both English and American,
+are noting such economy, and making it very important, it may be
+concluded that it is worthy of note. Certainly the spellings “honour,”
+etc., are defensible historically--but no assertion has been made that
+they were not; the saying was merely that the other way is better
+historically. The words came into English through French, but the Latin
+spelling is preferable for more reasons than one. If we are to preserve
+the _u_ because it is in the French words, is not the reasoning
+equally applicable to the whole syllable in which the letter is used?
+Would it not be equally reasonable to preserve the other _u_ in the
+first syllable of “couleur”? The French themselves once spelled these
+words--or most of them--_or_. They changed them probably to represent
+better the natural French sound of such syllables. Because Englishmen
+first learned such words from Frenchmen does not seem a valid reason
+why the former may not revert to the historical original, which is more
+in keeping with English analogy, and better represents the English
+sound.
+
+As to “sceptical” and “skeptical,” one who knows the need of a vast
+majority of English-speaking people of an authoritative choice
+between the two forms can never admit that the spelling is “a matter
+of indifference,” even if it could be reasonably admitted on any
+ground. Our correspondent is unfortunate in his selection of an
+example here, for σπεκουλάτωρ seems to be not a true Greek word, but
+only a transliteration of Latin “speculator,” the true etymon of the
+English word, which does not come from Greek. We might have written
+“spektakle” if we had cared to do so, as it is spelled with _k_s in
+some Teutonic languages; but in the close connection here there is a
+strong suggestion that this word might also be Greek, which it is not.
+The reason for preferring “skeptical” is that there is not another
+English word in which _c_ in the combination _sce_ is hard, and so
+“sceptical” is a very bad spelling, even if it is prevalent in Great
+Britain.
+
+On the plan mentioned in the letter “ascendent” and “ascendency” are
+right; but the other spellings are copied from the French, so potent
+with our correspondent in the other case, and are prevalent in present
+usage. “Ascendant” and “ascendancy” are preferable for this reason,
+and because the use of these spellings removes one of the puzzling
+differences which most people can not understand or explain. The plan
+mentioned would also give “descendent,” which has no currency as a
+noun, though it has been used as an adjective, and “descendant” and
+“ascendant” are so much alike in their nature that it is better not to
+make them different in form.
+
+“Each of the large dictionaries is worthy of acceptance as final
+authority in every instance” was intended only as an assurance that
+those who desired such an authority--and there are many such--might
+reasonably accept the one chosen, without trying to make exceptions.
+There could be no intention of dictating that scholars should “accept
+the dictum of a dictionary man” in every instance, for that would be
+“putting the cart before the horse” with a vengeance. One need feel no
+hesitation in saying, however, that the English-speaking educated man
+does not live, and never will live, who can afford to ignore utterly
+dictionaries of English. No dictionary is made as our correspondent
+seems to assume that all are made, though probably every one of them
+has provided employment for some men not so thoroughly educated as men
+can be. Educated people, in America as well as in England, make the
+scholarly part of the language, though it contains much that is made by
+the common people and that finds just as thorough establishment as that
+made by the scholars. Dictionary-makers never pose as language-makers.
+They are recorders of what is already made, which is so great in
+quantity that no scholar can hope to master the fiftieth part of it
+so thoroughly as to need no record of it. Even supposing that Oxford
+and Cambridge men and members of the educated classes in England are
+the sole arbiters in such matters--it is not supposable, though--how
+is the rest of the world to know their decisions if they are not
+recorded? Any record of them will constitute a dictionary, for that is
+exactly what a dictionary is--namely, a record of the accepted details
+of diction. As a matter of fact, also, our actual dictionary-makers,
+those who are vested with authoritative decision, are selected from
+among the very men for whom independence of dictionary men’s dicta is
+claimed. Noah Webster, Dr. Worcester, Professor Goodrich, Professor
+Whitney, Dr. March, President Porter, Dr. C. P. G. Scott, and Dr. J.
+A. H. Murray--not to mention the many other English scholars who have
+been dictionary-makers--rank with the men named in the letter, if some
+of these do not outrank some of those in scholarship, and they are
+the ones who choose where there is a choice in making the record.
+Dictionaries contain errors, and scholars are independently above
+acceptance of the errors; but we may repeat the saying that when once a
+large dictionary is chosen as authority it is better, as to matters of
+spelling, to accept it in full.
+
+
+
+
+_HINTS ON IMPOSITION._
+
+A handbook for printers by T. B. WILLIAMS.
+
+This book is a thoroughly reliable guide to the imposition of book
+forms, and shows, in addition to the usual diagrams, the folds of the
+sheet for each form, with concise instructions which may be readily
+understood by the advanced printer or the apprentice. Several chapters,
+fully illustrated, are devoted to “making” the margins, and this
+feature alone is well worth the price of the book. 96 pages, 4 by 6
+inches, bound in full leather with gold side stamp; $1.00.
+
+
+_EVERYBODY’S POCKET DICTIONARY._
+
+Contains 33,000 words; the pronunciation, syllable divisions, part of
+speech, capitalization, participles, and definitions being given. It is
+an invaluable companion to everybody who has occasion to talk, read or
+write. This book is not a “speller,” made hastily only to sell; but is
+an accurate and complete dictionary, compiled from the latest edition
+of Webster’s great International. Especially valuable to every editor,
+printer, pressman, student and stenographer, and worth ten times its
+cost to anybody. Size, 2½ by 5½ inches; leather, indexed, 50 cents;
+cloth, not indexed, 25 cents.
+
+
+_STEREOTYPING._
+
+By C. S. PARTRIDGE, Superintendent of Stereotyping for A. N. Kellogg
+Newspaper Company.
+
+This is the only book devoted exclusively to papier-maché stereotyping
+which has ever been published, and is an exhaustive treatise of the
+subject, containing detailed descriptions of all the best methods
+of work in present use, including Cold Process, instructions for
+operating the Rolling Machine, Paste Recipes, Metal Formulas, Hints
+for the Protection of Type, Suggestions for the Operating and Care of
+Machinery, Instructions for Grinding Tools, and a complete list of
+unexpired patents pertaining to Stereotyping Methods and Machinery,
+including number of patent, date of issue and name of inventor. 140
+pages, 6 by 8½ inches; 50 illustrations; $1.50.
+
+
+_MAGNA CHARTA BOND ADS._
+
+The complete set of 148 designs submitted in the recent advertisement
+competition of the Riverside Paper Company can now be obtained in book
+form. This is a valuable work for the compositor, the apprentice,
+the advertiser or the writer of advertisements, as it gives many
+suggestions as to proper display. A 160-page book, 9 by 12 inches in
+size. Sent to any address on receipt of 50 cents.
+
+                                 ◉ ◉ ◉
+
+          _The above for sale by The Inland Printer Company,
+     150 Nassau Street, NEW YORK.    214 Monroe Street, CHICAGO._
+
+
+
+
+The Inland Printer.
+
+
+What it is.
+
+THE INLAND PRINTER is a monthly magazine of from 100 to 120 pages,
+9 by 12 inches in size, devoted to printing, publishing, engraving,
+electrotyping, stereotyping, bookbinding, papermaking and all the
+kindred trades. It is a work of art, and should be in the hands of
+every lover of the typographic art or anyone interested in newspaper
+work or advertising. Issued promptly on the first of every month.
+Subscriptions can begin with any number.
+
+
+What it Contains.
+
+Its pages are filled with the most instructive and interesting original
+articles relating to the matters that properly come within its domain,
+besides an amount of valuable data, trade topics, correspondence,
+craft items, recent patents, recipes, hints and suggestions that will
+surprise you. In addition to this, it is copiously illustrated, and the
+whole make-up and general character of the work is such as to challenge
+admiration.
+
+The Illustrations.
+
+The full page illustrations and those worked in with the text are
+all of a high order, and include half-tone, zinc etching and other
+methods of engraving, alike valuable to the engraver, process-worker,
+compositor and pressman. Colored plates, by various processes, are also
+shown.
+
+The Text.
+
+Taking up a copy at random one finds articles on proofreading, the
+point system in type founding, notes on bookbinding, natural colors
+in the printing press, newspapers and newspaper men, the country
+newspaper, typographical make-ready, advertising, convention notes,
+review of type designs, pressroom queries and answers, process
+engraving, new patents, trade notes and much general information.
+
+The Advertisements.
+
+These are as important in a way as any other part of THE INLAND
+PRINTER, for the reason that they are set in attractive and catchy
+style, alike beneficial to the compositor, and “ad.” writer, and
+printed in the same excellent way that the other part of the journal
+is. This part will interest you as well as the text.
+
+
+SUBSCRIPTION PRICE:
+
+$2.00 per Year; $1.00 for Six Months; 20c. per Copy.
+
+No free copies and no exchanges. Subscribe through your type founder,
+material dealer or news agent, or send direct to
+
+                      The Inland Printer Company,
+                150 NASSAU ST.,    212-214 MONROE ST.,
+                     NEW YORK.            CHICAGO.
+
+
+
+
+Transcriber’s Note:
+
+The text has been preserved as closely as possible to the original
+publication.
+
+Page 79 refers to the use of a different type to distinguish question
+and answer text. The questions start and finish with equals signs = in
